@@ -5,11 +5,11 @@
     <fileDesc>
         <titleStmt>
 			<title level="s">Supplement to the Dazangjing</title>
-			<title level="s" xml:lang="zh-Hant">Supplement to the Dazangjing</title>
-			<title level="m" xml:lang="zh-Hant">Supplement to the Dazangjing, Volume 7 · Editorial Explanation</title>
-            <title>Supplement to the Dazangjing, Electronic version, No. a005 Supplement to the Dazangjing, Volume 7 · Editorial Explanation</title>
-            <title xml:lang="zh-Hant">Supplement to the Dazangjing, Digital Edition, No. a005 Supplement to the Dazangjing, Volume 7 · Editorial Explanation</title>
-			<author>Lan Jifu</author>
+			<title level="s" xml:lang="zh-Hant">大藏經補編</title>
+			<title level="m" xml:lang="zh-Hant">大藏經補編第七冊．編輯說明</title>
+            <title>Supplement to the Dazangjing, Electronic version, No. a005 大藏經補編第七冊．編輯說明</title>
+            <title xml:lang="zh-Hant">大藏經補編數位版, No. a005 大藏經補編第七冊．編輯說明</title>
+			<author>藍吉富</author>
 			<respStmt>
                 <resp>Electronic Version by</resp>
                 <name>CBETA</name>
@@ -19,13 +19,13 @@
             <edition>XML TEI P5</edition>
 			<respStmt xml:id="resp1"><resp>corrections</resp><name>orig</name></respStmt>
         </editionStmt>
-        <extent>1 fascicle</extent>
+        <extent>1卷</extent>
 		<publicationStmt>
             <idno type="CBETA">
                 <idno type="canon">B</idno>.<idno type="vol">7</idno>.<idno type="no">a005</idno>
             </idno>
             <distributor>
-				<name>CBETA (Buddhist Electronic Text Association Foundation)</name>
+				<name>財團法人佛教電子佛典基金會 (CBETA)</name>
                 <address>
                     <addrLine><email>service@cbeta.org</email></addrLine>
                 </address>
@@ -36,23 +36,23 @@
         	<date>2025-04-21 15:07:31 +0800</date>
 		</publicationStmt>
         <sourceDesc>
-			<bibl>Supplement to the Dazangjing</bibl>
+			<bibl>大藏經補編</bibl>
         </sourceDesc>
     </fileDesc>
     <encodingDesc>
         <projectDesc>
             <p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
-            <p xml:lang="zh-Hant" cb:type="ly">CBETA manual input (version one), CBETA manual input (version two)</p>
+            <p xml:lang="zh-Hant" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
         </projectDesc>
         <editorialDecl>
-            <punctuation resp="#resp1"><p>Modern punctuation</p></punctuation>
+            <punctuation resp="#resp1"><p>新式標點</p></punctuation>
         </editorialDecl>
         <tagsDecl>
             <namespace name="http://www.tei-c.org/ns/1.0">
                 <tagUsage gi="rdg">
                     <listWit>
 						<witness xml:id="wit.cbeta">【CB】</witness>
-						<witness xml:id="wit.orig">【Supplement】</witness>
+						<witness xml:id="wit.orig">【補編】</witness>
 					</listWit>
                 </tagUsage>
             </namespace>
@@ -66,7 +66,7 @@
     </profileDesc>
     <revisionDesc>
         <change when="2021-01-15">
-            <name>Ray Chou Zhou Bangxin</name>Created initial TEI XML P5a version with bm2p5a.py
+            <name>Ray Chou 周邦信</name>Created initial TEI XML P5a version with bm2p5a.py
         </change>
     </revisionDesc>
 </teiHeader>
@@ -74,8 +74,7 @@
 <milestone unit="juan" n="1"/>
 <pb ed="B" xml:id="B07.a005.a001a" n="a001a"/>
 <lb ed="B" n="a001a01"/><cb:div type="other"><cb:mulu type="其他" level="1">Editorial Explanation</cb:mulu><head>Editorial Explanation</head>
-<lb ed="B" n="a001a02"/>
-<lb ed="B" n="a001a03"/><p xml:id="pB07pa001a0301" style="margin-left:0em;text-indent:2em">This volume contains a compilation of sixteen sutras and treatises. The nature of these sixteen Buddhist texts is not uniform. Broadly speaking, they can be divided into the following categories:</p>
+<lb ed="B" n="a001a02"/><lb ed="B" n="a001a03"/><p xml:id="pB07pa001a0301" style="margin-left:0em;text-indent:2em">This volume contains a compilation of sixteen sutras and treatises. The nature of these sixteen Buddhist texts is not uniform. Broadly speaking, they can be divided into the following categories:</p>
 <lb ed="B" n="a001a04"/><p xml:id="pB07pa001a0401" style="margin-left:4em;text-indent:-2em">1. Chinese translations of Southern (Theravāda) scriptures: from the Southern “Turning the Wheel of Dharma” Sutta to the “Mindfulness of Breathing” Sutta, plus the “Abhidhamma Summary Treatise” at the end of the volume—these eleven works are all Southern Buddhist texts.
 <lb ed="B" n="a001a05"/>Among them, only the Mahāparinirvāṇa Sūtra translated by Ba Zhou and the Mindfulness of Breathing Sutta translated by Tang Yongtong are somewhat longer; the remaining texts are all very short.
 <lb ed="B" n="a001a06"/>Moreover, they come from different collections—some from the Khuddaka Nikāya (e.g., the Mangala Sutta), some from the Dīgha Nikāya (e.g., the Mahāparinirvāṇa Sūtra), and some from the Majjhima Nikāya (e.g.,

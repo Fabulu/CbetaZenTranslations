@@ -18,18 +18,18 @@ Each translated file preserves the full original CBETA header intact.
 
 | Text | Location |
 |------|----------|
-| T 1 — Long Agama Sutra | `xml-p5t/T/T01/T01n0001.xml` |
-| T 1987A — Record of Caoshan | `xml-p5t/T/T47/T47n1987A.xml` |
-| T 1987B — Record of Caoshan (alt.) | `xml-p5t/T/T47/T47n1987B.xml` |
-| T 2003 — Record of Zhaozhou | `xml-p5t/T/T48/T48n2003.xml` |
-| T 2004 — Record of Yunmen | `xml-p5t/T/T48/T48n2004.xml` |
-| T 2005 — Record of Xuefeng | `xml-p5t/T/T48/T48n2005.xml` |
-| T 2010 — Blue Cliff Record | `xml-p5t/T/T48/T48n2010.xml` |
-| T 2012A — Gateless Gate | `xml-p5t/T/T48/T48n2012A.xml` |
-| J B137 — Record of Huangbo | `xml-p5t/J/J24/J24nB137.xml` |
-| X 1217 — Bodhidharma Four Practices | `xml-p5t/X/X63/X63n1217.xml` |
-| X 1333 — Sayings of Xutang | `xml-p5t/X/X69/X69n1333.xml` |
-| B a005 — Additional text | `xml-p5t/B/B07/B07na005.xml` |
+| T 1 — Long Agama Sutra (Changahan Jing) | `xml-p5t/T/T01/T01n0001.xml` |
+| T 1987A — Record of Caoshan Yuanzheng (Caoshan Yuanzheng Chanshi Yulu) | `xml-p5t/T/T47/T47n1987A.xml` |
+| T 1987B — Record of Caoshan Benji (Caoshan Benji Chanshi Yulu) | `xml-p5t/T/T47/T47n1987B.xml` |
+| T 2003 — Blue Cliff Record (Biyanlu) | `xml-p5t/T/T48/T48n2003.xml` |
+| T 2004 — Book of Serenity (Congrong'an Lu) | `xml-p5t/T/T48/T48n2004.xml` |
+| T 2005 — Gateless Barrier (Wumenguan) | `xml-p5t/T/T48/T48n2005.xml` |
+| T 2010 — Inscription on Trusting the Mind (Xinxinming) | `xml-p5t/T/T48/T48n2010.xml` |
+| T 2012A — Huangbo's Essentials of Transmitting the Mind (Chuanxin Fayao) | `xml-p5t/T/T48/T48n2012A.xml` |
+| J B137 — Recorded Sayings of Zhaozhou (Zhaozhou Heshang Yulu) | `xml-p5t/J/J24/J24nB137.xml` |
+| X 1217 — Bodhidharma's Four Practices (Rudao Sixing Guan) | `xml-p5t/X/X63/X63n1217.xml` |
+| X 1333 — Record of Xuefeng Yicun (Xuefeng Yicun Chanshi Yulu) | `xml-p5t/X/X69/X69n1333.xml` |
+| B a005 — Supplement to the Canon, Vol. 7: Editorial Notes | `xml-p5t/B/B07/B07na005.xml` |
 
 ### `community/` — Community Translation Data
 

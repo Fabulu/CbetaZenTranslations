@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/cbeta-org/xml-p5/master/schema/cbeta-p5.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T01n0001">
 <teiHeader>
 	<fileDesc>
 		<titleStmt>
 			<title level="s">Taishō Tripiṭaka</title>
-			<title level="s" xml:lang="zh-Hant">Taishō Revised Tripiṭaka</title>
-			<title level="m" xml:lang="zh-Hant">Dīrgha Āgama Sūtra</title>
-			<title>Taishō Tripiṭaka, Electronic version, No. 1 Dīrgha Āgama Sūtra</title>
-			<title xml:lang="zh-Hant">Taishō Revised Tripiṭaka Digital Edition, No. 1 Dīrgha Āgama Sūtra</title>
-			<author>Translated by Buddhaśreṣṭha together with Zhu Fonian of the Later Qin</author>
+			<title level="s" xml:lang="zh-Hant">大正新脩大藏經</title>
+			<title level="m" xml:lang="zh-Hant">長阿含經</title>
+			<title>Taishō Tripiṭaka, Electronic version, No. 1 長阿含經</title>
+			<title xml:lang="zh-Hant">大正新脩大藏經數位版, No. 1 長阿含經</title>
+			<author>後秦 佛陀耶舍共竺佛念譯</author>
 			<respStmt>
 				<resp>Electronic Version by</resp>
 				<name>CBETA</name>
@@ -25,13 +25,13 @@
 			<respStmt xml:id="resp6"><resp>corrections</resp><name>CBETA.say</name></respStmt>
 			<respStmt xml:id="resp7"><resp>corrections</resp><name>CBETA.ting</name></respStmt>
 		</editionStmt>
-		<extent>22 fascicles</extent>
+		<extent>22卷</extent>
 		<publicationStmt>
 			<idno type="CBETA">
 				<idno type="canon">T</idno>.<idno type="vol">1</idno>.<idno type="no">1</idno>
 			</idno>
 			<distributor>
-				<name>Buddhist Electronic Texts Foundation (CBETA)</name>
+				<name>財團法人佛教電子佛典基金會 (CBETA)</name>
 				<address>
 					<addrLine><email>service@cbeta.org</email></addrLine>
 				</address>
@@ -42,38 +42,38 @@
 			<date>2025-06-05 03:42:56 +0800</date>
 		</publicationStmt>
 		<sourceDesc>
-			<bibl>Taishō Revised Tripiṭaka</bibl>
+			<bibl>大正新脩大藏經</bibl>
 		</sourceDesc>
 	</fileDesc>
 	<encodingDesc>
 		<projectDesc>
 			<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Mr. Chang Wen-Ming, Text as provided by Anonymous from USA, Punctuated text as provided by Dhammavassarama</p>
-			<p xml:lang="zh-Hant" cb:type="ly">Provided by Venerable Hsiao Chen-Kuo, provided by Venerable Chang Wen-Ming, provided by an anonymous venerable from North America, new-style punctuation provided by the Dharma Rain Dōjō</p>
+			<p xml:lang="zh-Hant" cb:type="ly">蕭鎮國大德提供，張文明大德提供，北美某大德提供，法雨道場提供新式標點</p>
 		</projectDesc>
 		<editorialDecl>
-			<punctuation resp="#resp1"><p>New-style punctuation</p></punctuation>
+			<punctuation resp="#resp1"><p>新式標點</p></punctuation>
 		</editorialDecl>
 		<tagsDecl>
 			<namespace name="http://www.tei-c.org/ns/1.0">
 				<tagUsage gi="rdg">
 					<listWit>
 						<witness xml:id="wit.cbeta">【CB】</witness>
-						<witness xml:id="wit.orig">【Dà】</witness>
-						<witness xml:id="wit1">【Sòng】</witness>
-						<witness xml:id="wit10">【Jiaxing B-CB】</witness>
-						<witness xml:id="wit11">【Lóng-CB】</witness>
-						<witness xml:id="wit12">【Fangshan-CB】</witness>
-						<witness xml:id="wit13">【Northern Canon-CB】</witness>
-						<witness xml:id="wit14">【?】</witness>
-						<witness xml:id="wit15">【Zhonghua-CB】</witness>
-						<witness xml:id="wit2">【Yuán】</witness>
-						<witness xml:id="wit3">【Qì-CB】</witness>
-						<witness xml:id="wit4">【Míng】</witness>
-						<witness xml:id="wit5">【Shèng】</witness>
-						<witness xml:id="wit6">【Qì B-CB】</witness>
-						<witness xml:id="wit7">【Gōng-CB】</witness>
-						<witness xml:id="wit8">【Lì-CB】</witness>
-						<witness xml:id="wit9">【Jinzang B-CB】</witness>
+						<witness xml:id="wit.orig">【大】</witness>
+						<witness xml:id="wit1">【宋】</witness>
+						<witness xml:id="wit10">【嘉興乙-CB】</witness>
+						<witness xml:id="wit11">【龍-CB】</witness>
+						<witness xml:id="wit12">【房山-CB】</witness>
+						<witness xml:id="wit13">【北藏-CB】</witness>
+						<witness xml:id="wit14">【？】</witness>
+						<witness xml:id="wit15">【中華-CB】</witness>
+						<witness xml:id="wit2">【元】</witness>
+						<witness xml:id="wit3">【磧-CB】</witness>
+						<witness xml:id="wit4">【明】</witness>
+						<witness xml:id="wit5">【聖】</witness>
+						<witness xml:id="wit6">【磧乙-CB】</witness>
+						<witness xml:id="wit7">【宮-CB】</witness>
+						<witness xml:id="wit8">【麗-CB】</witness>
+						<witness xml:id="wit9">【金藏乙-CB】</witness>
 					</listWit>
 				</tagUsage>
 			</namespace>
@@ -839,8 +839,7 @@
 <pb n="0001a" ed="T" xml:id="T01.0001.0001a"/>
 <lb n="0001a01" ed="T"/><cb:docNumber>No. 1</cb:docNumber>
 <lb n="0001a02" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">Preface</cb:mulu><head><anchor xml:id="nkr_note_orig_0001001" n="0001001"/><title>Long Āgama Sūtra</title>Preface</head>
-<lb n="0001a03" ed="T"/>
-<lb n="0001a04" ed="T"/><byline cb:type="author"><anchor xml:id="nkr_note_orig_0001002" n="0001002"/><anchor xml:id="nkr_note_mod_0001002" n="0001002"/><anchor xml:id="beg0001002" n="0001002"/>Chang’an<anchor xml:id="end0001002"/> Śramaṇa Sengzhao<anchor xml:id="nkr_note_orig_0001003" n="0001003"/><anchor xml:id="nkr_note_mod_0001003" n="0001003"/><anchor xml:id="beg0001003" n="0001003"/> composed<anchor xml:id="end0001003"/></byline>
+<lb n="0001a03" ed="T"/><lb n="0001a04" ed="T"/><byline cb:type="author"><anchor xml:id="nkr_note_orig_0001002" n="0001002"/><anchor xml:id="nkr_note_mod_0001002" n="0001002"/><anchor xml:id="beg0001002" n="0001002"/>Chang’an<anchor xml:id="end0001002"/> Śramaṇa Sengzhao<anchor xml:id="nkr_note_orig_0001003" n="0001003"/><anchor xml:id="nkr_note_mod_0001003" n="0001003"/><anchor xml:id="beg0001003" n="0001003"/> composed<anchor xml:id="end0001003"/></byline>
 <lb n="0001a05" ed="T"/><p xml:id="pT01p0001a0501">Now, the ultimate principle is beyond names and designations, and the wise and the holy abide in it in emptiness and silence; the profound meaning is not conveyed by words,
 <lb n="0001a06" ed="T"/> yet it is transmitted—this is why Śākyamuni established the teaching. Therefore, when the Tathāgata appeared in the world, the great teaching had three divisions: in regulating body and speech, it guards them with the disciplinary precepts; in making clear good and evil, it guides them
 <lb n="0001a07" ed="T"/> with the sūtras; in expounding what is hidden and subtle, it <anchor xml:id="nkr_note_orig_0001004" n="0001004"/><anchor xml:id="nkr_note_mod_0001004" n="0001004"/><anchor xml:id="beg0001004" n="0001004"/>discerns<anchor xml:id="end0001004"/> them by the characteristics of dharmas. Thus, the composition of the Tripiṭaka
@@ -866,10 +865,8 @@
 <lb n="0001b04" ed="T"/> without error, discarding ornament and exalting simplicity, striving to preserve the sacred intent. I, through fortunate encounter, crudely participated in the listening
 <lb n="0001b05" ed="T"/> sessions; though without merit in aiding the good, I was permitted to personally receive the end of it. Therefore I have briefly recorded the events
 <lb n="0001b06" ed="T"/> of the time, to show them to worthy ones of later ages.</p></cb:div>
-<lb n="0001b07" ed="T"/>
-<lb n="0001b08" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead><title>The Buddha Speaks <anchor xml:id="nkr_note_orig_0001011" n="0001011"/><anchor xml:id="nkr_note_mod_0001011" n="0001011"/><anchor xml:id="beg0001011" n="0001011"/>Long Āgama Sūtra<anchor xml:id="end0001011"/></title>Volume One</cb:jhead></cb:juan>
-<lb n="0001b09" ed="T"/>
-<lb n="0001b10" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0001012" n="0001012"/><anchor xml:id="nkr_note_mod_0001012" n="0001012"/><anchor xml:id="beg0001012" n="0001012"/>Later Qin, Hongshi era<anchor xml:id="end0001012"/> translated by Buddhayaśas together with Zhu Fonian</byline>
+<lb n="0001b07" ed="T"/><lb n="0001b08" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead><title>The Buddha Speaks <anchor xml:id="nkr_note_orig_0001011" n="0001011"/><anchor xml:id="nkr_note_mod_0001011" n="0001011"/><anchor xml:id="beg0001011" n="0001011"/>Long Āgama Sūtra<anchor xml:id="end0001011"/></title>Volume One</cb:jhead></cb:juan>
+<lb n="0001b09" ed="T"/><lb n="0001b10" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0001012" n="0001012"/><anchor xml:id="nkr_note_mod_0001012" n="0001012"/><anchor xml:id="beg0001012" n="0001012"/>Later Qin, Hongshi era<anchor xml:id="end0001012"/> translated by Buddhayaśas together with Zhu Fonian</byline>
 <lb n="0001b11" ed="T"/><cb:div type="fen"><cb:mulu level="1" type="分">1 Section</cb:mulu><cb:div type="jing"><cb:mulu level="2" type="經">1 Great Discourse on Origins</cb:mulu><head>(1) First Section, Beginning<anchor xml:id="nkr_note_orig_0001013" n="0001013"/><anchor xml:id="nkr_note_mod_0001013" n="0001013"/> Great Discourse on Origins, First</head>
 <lb n="0001b12" ed="T"/><p xml:id="pT01p0001b1201">Thus have I heard:</p><p xml:id="pT01p0001b1205" cb:place="inline">At one time, the Buddha was in <anchor xml:id="nkr_note_orig_0001014" n="0001014"/><anchor xml:id="nkr_note_mod_0001014" n="0001014"/><anchor xml:id="beg0001014" n="0001014"/>Śrāvastī<anchor xml:id="end0001014"/> in the <anchor xml:id="nkr_note_orig_0001015" n="0001015"/><anchor xml:id="nkr_note_mod_0001015" n="0001015"/><anchor xml:id="beg0001015" n="0001015"/>Jeta Grove<anchor xml:id="end0001015"/><anchor xml:id="nkr_note_orig_0001016" n="0001016"/><anchor xml:id="nkr_note_mod_0001016" n="0001016"/><anchor xml:id="beg0001016" n="0001016"/> Flower Grove
 <lb n="0001b13" ed="T"/> Cave<anchor xml:id="end0001016"/> together with a great community of bhikṣus, one thousand two hundred and fifty.</p><p xml:id="pT01p0001b1314" cb:place="inline">At that time, the bhikṣus,
@@ -1161,8 +1158,7 @@
 <lb n="0004c12" ed="T"/><p xml:id="pT01p0004c1201">The Buddha told the bhikṣus: “The constant Dharma of all Buddhas: when the Bodhisattva Vipaśyin was about to be born,
 <lb n="0004c13" ed="T"/> he emerged from the right side, with undivided mindfulness. Two springs welled forth, one warm and one
 <lb n="0004c14" ed="T"/> cool, to provide bathing—this is the constant Dharma.” Then the World-Honored One spoke this verse:</p>
-<lb n="0004c15" ed="T"/>
-<lb n="0004c16" ed="T"/><lg type="regular" xml:id="lgT01p0004c1601" style="margin-left:1em;text-indent:-1em"><l>“When the honored one of two feet is born, <caesura/> two springs spontaneously well forth;</l>
+<lb n="0004c15" ed="T"/><lb n="0004c16" ed="T"/><lg type="regular" xml:id="lgT01p0004c1601" style="margin-left:1em;text-indent:-1em"><l>“When the honored one of two feet is born, <caesura/> two springs spontaneously well forth;</l>
 <lb n="0004c17" ed="T"/><l>To supply the Bodhisattva’s use, <caesura/> All-Seeing bathes in purity.</l>
 <lb n="0004c18" ed="T"/><l>Two springs spontaneously well forth, <caesura/> their waters are exceedingly pure;</l>
 <lb n="0004c19" ed="T"/><l>One warm and <anchor xml:id="nkr_note_orig_0004015" n="0004015"/><anchor xml:id="nkr_note_mod_0004015" n="0004015"/><anchor xml:id="beg0004015" n="0004015"/>one<anchor xml:id="end0004015"/> cool and clear, <caesura/> bathing the All-Knowing.”</l></lg>
@@ -1721,10 +1717,8 @@
 <lb n="0011a01" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title><anchor xml:id="nkr_note_orig_0011001" n="0011001"/><anchor xml:id="nkr_note_mod_0011001" n="0011001"/><anchor xml:id="beg0011001" n="0011001"/>佛說<anchor xml:id="end0011001"/>長阿含經</title>卷第一<anchor xml:id="nkr_note_orig_0011002" n="0011002"/><anchor xml:id="nkr_note_mod_0011002" n="0011002"/></cb:jhead></cb:juan>
 <milestone n="2" unit="juan"/>
 <lb n="0011a02" ed="T"/>
-<lb n="0011a03" ed="T"/>
-<lb n="0011a04" ed="T"/><cb:juan n="002" fun="open"><cb:mulu n="002" type="卷"></cb:mulu><cb:jhead><title>佛說長阿含經</title>卷第二</cb:jhead></cb:juan>
-<lb n="0011a05" ed="T"/>
-<lb n="0011a06" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0011003" n="0011003"/><anchor xml:id="nkr_note_mod_0011003" n="0011003"/><anchor xml:id="beg0011003" n="0011003"/>後秦弘始年佛陀耶舍共竺佛念譯<anchor xml:id="end0011003"/></byline>
+<lb n="0011a03" ed="T"/><lb n="0011a04" ed="T"/><cb:juan n="002" fun="open"><cb:mulu n="002" type="卷"></cb:mulu><cb:jhead><title>佛說長阿含經</title>卷第二</cb:jhead></cb:juan>
+<lb n="0011a05" ed="T"/><lb n="0011a06" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0011003" n="0011003"/><anchor xml:id="nkr_note_mod_0011003" n="0011003"/><anchor xml:id="beg0011003" n="0011003"/>後秦弘始年佛陀耶舍共竺佛念譯<anchor xml:id="end0011003"/></byline>
 <lb n="0011a07" ed="T"/><cb:div type="jing"><cb:mulu level="2" type="經">2 遊行經</cb:mulu><cb:mulu level="3">1</cb:mulu><head>（二）第一分<anchor xml:id="nkr_note_orig_0011004" n="0011004"/><anchor xml:id="nkr_note_mod_0011004" n="0011004"/><anchor xml:id="nkr_note_equivalent_0011004" n="0011004"/>遊行經第二<anchor xml:id="nkr_note_orig_0011005" n="0011005"/><anchor xml:id="nkr_note_mod_0011005" n="0011005"/><anchor xml:id="beg0011005" n="0011005"/>初<anchor xml:id="end0011005"/></head>
 <lb n="0011a08" ed="T"/><p xml:id="pT01p0011a0801">如是我聞：</p><p xml:id="pT01p0011a0805" cb:place="inline">一時，佛在<anchor xml:id="nkr_note_orig_0011006" n="0011006"/><anchor xml:id="nkr_note_mod_0011006" n="0011006"/><anchor xml:id="beg0011006" n="0011006"/>羅閱城<anchor xml:id="end0011006"/><anchor xml:id="nkr_note_orig_0011007" n="0011007"/><anchor xml:id="nkr_note_mod_0011007" n="0011007"/><anchor xml:id="beg0011007" n="0011007"/>耆闍崛<anchor xml:id="end0011007"/>山
 <lb n="0011a09" ed="T"/>中，與大比丘眾千二百五十人俱。</p><p xml:id="pT01p0011a0914" cb:place="inline">是時，<anchor xml:id="nkr_note_orig_0011008" n="0011008"/><anchor xml:id="nkr_note_mod_0011008" n="0011008"/><anchor xml:id="beg0011008" n="0011008"/>摩
@@ -2212,10 +2206,8 @@
 <lb n="0016b11" ed="T"/><cb:juan n="002" fun="close"><cb:jhead><title><anchor xml:id="nkr_note_orig_0016011" n="0016011"/><anchor xml:id="nkr_note_mod_0016011" n="0016011"/><anchor xml:id="beg0016011" n="0016011"/>佛說<anchor xml:id="end0016011"/>長阿含經</title>卷第二<anchor xml:id="nkr_note_orig_0016012" n="0016012"/><anchor xml:id="nkr_note_mod_0016012" n="0016012"/></cb:jhead></cb:juan>
 <milestone n="3" unit="juan"/>
 <lb n="0016b12" ed="T"/>
-<lb n="0016b13" ed="T"/>
-<lb n="0016b14" ed="T"/><cb:juan n="003" fun="open"><cb:mulu n="003" type="卷"></cb:mulu><cb:mulu level="3">2</cb:mulu><cb:jhead><title>佛說長阿含經</title>卷第三</cb:jhead></cb:juan>
-<lb n="0016b15" ed="T"/>
-<lb n="0016b16" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0016013" n="0016013"/><anchor xml:id="nkr_note_mod_0016013" n="0016013"/><anchor xml:id="beg0016013" n="0016013"/>後秦弘始年佛陀耶舍共竺佛念譯<anchor xml:id="end0016013"/></byline>
+<lb n="0016b13" ed="T"/><lb n="0016b14" ed="T"/><cb:juan n="003" fun="open"><cb:mulu n="003" type="卷"></cb:mulu><cb:mulu level="3">2</cb:mulu><cb:jhead><title>佛說長阿含經</title>卷第三</cb:jhead></cb:juan>
+<lb n="0016b15" ed="T"/><lb n="0016b16" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0016013" n="0016013"/><anchor xml:id="nkr_note_mod_0016013" n="0016013"/><anchor xml:id="beg0016013" n="0016013"/>後秦弘始年佛陀耶舍共竺佛念譯<anchor xml:id="end0016013"/></byline>
 <lb n="0016b17" ed="T"/><head><anchor xml:id="nkr_note_orig_0016014" n="0016014"/><anchor xml:id="nkr_note_mod_0016014" n="0016014"/><anchor xml:id="beg0016014" n="0016014"/>遊<anchor xml:id="end0016014"/>行經第二<anchor xml:id="nkr_note_orig_0016015" n="0016015"/><anchor xml:id="nkr_note_mod_0016015" n="0016015"/><anchor xml:id="beg0016015" n="0016015"/>中<anchor xml:id="end0016015"/></head>
 <lb n="0016b18" ed="T"/><p xml:id="pT01p0016b1801">佛告阿難：「世有八眾。何謂八？一曰剎利眾，
 <lb n="0016b19" ed="T"/>二曰婆羅門眾，三曰居士眾，四曰沙門眾，五
@@ -2863,10 +2855,8 @@
 <lb n="0023c01" ed="T"/>聽現一象。』如是轉次百年現一，周而復始。」</p>
 <lb n="0023c02" ed="T"/><cb:juan n="003" fun="close"><cb:jhead><title><anchor xml:id="nkr_note_orig_0023017" n="0023017"/><anchor xml:id="nkr_note_mod_0023017" n="0023017"/><anchor xml:id="beg0023017" n="0023017"/>佛說<anchor xml:id="end0023017"/>長阿含經</title>卷第三<anchor xml:id="nkr_note_orig_0023018" n="0023018"/><anchor xml:id="nkr_note_mod_0023018" n="0023018"/></cb:jhead></cb:juan>
 <milestone n="4" unit="juan"/>
-<lb n="0023c03" ed="T"/>
-<lb n="0023c04" ed="T"/><cb:juan n="004" fun="open"><cb:mulu n="004" type="卷"></cb:mulu><cb:mulu level="3">3</cb:mulu><cb:jhead><title>佛說長阿含經</title>卷第四</cb:jhead></cb:juan>
-<lb n="0023c05" ed="T"/>
-<lb n="0023c06" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0023019" n="0023019"/><anchor xml:id="nkr_note_mod_0023019" n="0023019"/><anchor xml:id="beg0023019" n="0023019"/>後秦弘始年佛陀耶舍共竺佛念譯<anchor xml:id="end0023019"/></byline>
+<lb n="0023c03" ed="T"/><lb n="0023c04" ed="T"/><cb:juan n="004" fun="open"><cb:mulu n="004" type="卷"></cb:mulu><cb:mulu level="3">3</cb:mulu><cb:jhead><title>佛說長阿含經</title>卷第四</cb:jhead></cb:juan>
+<lb n="0023c05" ed="T"/><lb n="0023c06" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0023019" n="0023019"/><anchor xml:id="nkr_note_mod_0023019" n="0023019"/><anchor xml:id="beg0023019" n="0023019"/>後秦弘始年佛陀耶舍共竺佛念譯<anchor xml:id="end0023019"/></byline>
 <lb n="0023c07" ed="T"/><head><anchor xml:id="nkr_note_orig_0023020" n="0023020"/><anchor xml:id="nkr_note_mod_0023020" n="0023020"/><anchor xml:id="beg0023020" n="0023020"/>遊<anchor xml:id="end0023020"/>行經第二<anchor xml:id="nkr_note_orig_0023021" n="0023021"/><anchor xml:id="nkr_note_mod_0023021" n="0023021"/><anchor xml:id="beg0023021" n="0023021"/>後<anchor xml:id="end0023021"/></head>
 <lb n="0023c08" ed="T"/><p xml:id="pT01p0023c0801">爾時，佛告阿難：「時王自念：『我本積何功德，
 <lb n="0023c09" ed="T"/>修何善本，今獲果報，巍巍<anchor xml:id="nkr_note_orig_0023022" n="0023022"/><anchor xml:id="nkr_note_mod_0023022" n="0023022"/><anchor xml:id="beg0023022" n="0023022"/>如<anchor xml:id="end0023022"/>是？』<anchor xml:id="nkr_note_orig_0023023" n="0023023"/><anchor xml:id="nkr_note_mod_0023023" n="0023023"/><anchor xml:id="beg0023023" n="0023023"/>復<anchor xml:id="end0023023"/>自思
@@ -3467,10 +3457,8 @@
 <lb n="0030b04" ed="T"/><l>盡度諸恐畏，<caesura/>決定取滅度。</l></lg></cb:div>
 <lb n="0030b05" ed="T"/><cb:juan n="004" fun="close"><cb:jhead><title><anchor xml:id="nkr_note_orig_0030009" n="0030009"/><anchor xml:id="nkr_note_mod_0030009" n="0030009"/><anchor xml:id="beg0030009" n="0030009"/>佛說<anchor xml:id="end0030009"/>長阿含經</title>卷第四<anchor xml:id="nkr_note_orig_0030010" n="0030010"/><anchor xml:id="nkr_note_mod_0030010" n="0030010"/></cb:jhead></cb:juan>
 <milestone n="5" unit="juan"/>
-<lb n="0030b06" ed="T"/>
-<lb n="0030b07" ed="T"/><cb:juan n="005" fun="open"><cb:mulu n="005" type="卷"></cb:mulu><cb:jhead><title>佛說長阿含經</title>卷第五</cb:jhead></cb:juan>
-<lb n="0030b08" ed="T"/>
-<lb n="0030b09" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0030011" n="0030011"/><anchor xml:id="nkr_note_mod_0030011" n="0030011"/><anchor xml:id="beg0030011" n="0030011"/>後秦弘始年佛陀耶舍共竺佛念譯<anchor xml:id="end0030011"/></byline>
+<lb n="0030b06" ed="T"/><lb n="0030b07" ed="T"/><cb:juan n="005" fun="open"><cb:mulu n="005" type="卷"></cb:mulu><cb:jhead><title>佛說長阿含經</title>卷第五</cb:jhead></cb:juan>
+<lb n="0030b08" ed="T"/><lb n="0030b09" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0030011" n="0030011"/><anchor xml:id="nkr_note_mod_0030011" n="0030011"/><anchor xml:id="beg0030011" n="0030011"/>後秦弘始年佛陀耶舍共竺佛念譯<anchor xml:id="end0030011"/></byline>
 <lb n="0030b10" ed="T"/><cb:div type="jing"><cb:mulu level="2" type="經">3 典尊經</cb:mulu><head>（三）第一分<anchor xml:id="nkr_note_orig_0030012" n="0030012"/><anchor xml:id="nkr_note_mod_0030012" n="0030012"/><anchor xml:id="nkr_note_equivalent_0030012" n="0030012"/><anchor xml:id="nkr_note_cf._0030012" n="0030012"/>典尊經第三</head>
 <lb n="0030b11" ed="T"/><p xml:id="pT01p0030b1101">如是我聞：</p><p xml:id="pT01p0030b1105" cb:place="inline">一時，佛在<anchor xml:id="nkr_note_orig_0030013" n="0030013"/><anchor xml:id="nkr_note_mod_0030013" n="0030013"/><anchor xml:id="beg0030013" n="0030013"/>羅閱祇<anchor xml:id="end0030013"/><anchor xml:id="nkr_note_orig_0030014" n="0030014"/><anchor xml:id="nkr_note_mod_0030014" n="0030014"/><anchor xml:id="beg0030014" n="0030014"/>耆闍崛<anchor xml:id="end0030014"/>山，與
 <lb n="0030b12" ed="T"/>大比丘眾千二百五十人俱。</p><p xml:id="pT01p0030b1212" cb:place="inline">爾時，<anchor xml:id="nkr_note_orig_0030015" n="0030015"/><anchor xml:id="nkr_note_mod_0030015" n="0030015"/><anchor xml:id="beg0030015" n="0030015"/>執樂天
@@ -4026,10 +4014,8 @@
 <lb n="0036b22" ed="T"/>所說，歡喜奉行。</p></cb:div></cb:div>
 <lb n="0036b23" ed="T"/><cb:juan n="005" fun="close"><cb:jhead><title><anchor xml:id="nkr_note_orig_0036007" n="0036007"/><anchor xml:id="nkr_note_mod_0036007" n="0036007"/><anchor xml:id="beg0036007" n="0036007"/>佛說<anchor xml:id="end0036007"/>長阿含經</title>卷第五<anchor xml:id="nkr_note_orig_0036008" n="0036008"/><anchor xml:id="nkr_note_mod_0036008" n="0036008"/></cb:jhead></cb:juan>
 <milestone n="6" unit="juan"/>
-<lb n="0036b24" ed="T"/>
-<lb n="0036b25" ed="T"/><cb:juan n="006" fun="open"><cb:mulu n="006" type="卷"></cb:mulu><cb:jhead><title>佛說長阿含經</title>卷第六</cb:jhead></cb:juan>
-<lb n="0036b26" ed="T"/>
-<lb n="0036b27" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0036009" n="0036009"/><anchor xml:id="nkr_note_mod_0036009" n="0036009"/><anchor xml:id="beg0036009" n="0036009"/>後秦弘始年佛陀耶舍共竺佛念譯<anchor xml:id="end0036009"/></byline>
+<lb n="0036b24" ed="T"/><lb n="0036b25" ed="T"/><cb:juan n="006" fun="open"><cb:mulu n="006" type="卷"></cb:mulu><cb:jhead><title>佛說長阿含經</title>卷第六</cb:jhead></cb:juan>
+<lb n="0036b26" ed="T"/><lb n="0036b27" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0036009" n="0036009"/><anchor xml:id="nkr_note_mod_0036009" n="0036009"/><anchor xml:id="beg0036009" n="0036009"/>後秦弘始年佛陀耶舍共竺佛念譯<anchor xml:id="end0036009"/></byline>
 <lb n="0036b28" ed="T"/><cb:div type="fen"><cb:mulu level="1" type="分">2 分</cb:mulu><cb:div type="jing"><cb:mulu level="2" type="經">5 小緣經</cb:mulu><head>（五）<anchor xml:id="nkr_note_orig_0036010" n="0036010"/><anchor xml:id="nkr_note_mod_0036010" n="0036010"/>第二分初<anchor xml:id="nkr_note_orig_0036011" n="0036011"/><anchor xml:id="nkr_note_mod_0036011" n="0036011"/><anchor xml:id="nkr_note_equivalent_0036011" n="0036011"/><anchor xml:id="nkr_note_cf._0036011" n="0036011"/>小緣經第一</head>
 <lb n="0036b29" ed="T"/><p xml:id="pT01p0036b2901">如是我聞：</p><p xml:id="pT01p0036b2905" cb:place="inline">一時，佛在<anchor xml:id="nkr_note_orig_0036012" n="0036012"/><anchor xml:id="nkr_note_mod_0036012" n="0036012"/><anchor xml:id="beg0036012" n="0036012"/>舍衛<anchor xml:id="end0036012"/>國<anchor xml:id="nkr_note_orig_0036013" n="0036013"/><anchor xml:id="nkr_note_mod_0036013" n="0036013"/><anchor xml:id="beg0036013" n="0036013"/>清信園林<anchor xml:id="end0036013"/>
 <pb n="0036c" ed="T" xml:id="T01.0001.0036c"/>
@@ -4564,8 +4550,7 @@
 <lb n="0042b19" ed="T"/>喜奉行。</p></cb:div>
 <lb n="0042b20" ed="T"/><cb:juan n="006" fun="close"><cb:jhead><title><anchor xml:id="nkr_note_orig_0042009" n="0042009"/><anchor xml:id="nkr_note_mod_0042009" n="0042009"/><anchor xml:id="beg0042009" n="0042009"/>佛說<anchor xml:id="end0042009"/>長阿含經</title>卷第六<anchor xml:id="nkr_note_orig_0042010" n="0042010"/><anchor xml:id="nkr_note_mod_0042010" n="0042010"/></cb:jhead></cb:juan>
 <milestone n="7" unit="juan"/>
-<lb n="0042b21" ed="T"/>
-<lb n="0042b22" ed="T"/><cb:juan n="007" fun="open"><cb:mulu n="007" type="卷"></cb:mulu><cb:jhead><title>佛說長阿含經</title>卷第七</cb:jhead></cb:juan>
+<lb n="0042b21" ed="T"/><lb n="0042b22" ed="T"/><cb:juan n="007" fun="open"><cb:mulu n="007" type="卷"></cb:mulu><cb:jhead><title>佛說長阿含經</title>卷第七</cb:jhead></cb:juan>
 <lb n="0042b23" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0042011" n="0042011"/><anchor xml:id="nkr_note_mod_0042011" n="0042011"/><anchor xml:id="beg0042011" n="0042011"/>後秦弘始年佛陀耶舍共竺佛念譯<anchor xml:id="end0042011"/></byline>
 <lb n="0042b24" ed="T"/><cb:div type="jing"><cb:mulu level="2" type="經">7 弊宿經</cb:mulu><head>（七）第二分<anchor xml:id="nkr_note_orig_0042012" n="0042012"/><anchor xml:id="nkr_note_mod_0042012" n="0042012"/><anchor xml:id="beg0042012" n="0042012"/>弊宿經<anchor xml:id="end0042012"/><anchor xml:id="nkr_note_equivalent_0042012" n="0042012"/><anchor xml:id="nkr_note_cf._0042012" n="0042012"/><anchor xml:id="nkr_note_add_0042b2401" n="0042b2401"/><anchor xml:id="beg0042b2401" n="0042b2401"/><space quantity="0"/><anchor xml:id="end0042b2401"/>第三</head>
 <lb n="0042b25" ed="T"/><p xml:id="pT01p0042b2501">爾時，<anchor xml:id="nkr_note_orig_0042013" n="0042013"/><anchor xml:id="nkr_note_mod_0042013" n="0042013"/><anchor xml:id="beg0042013" n="0042013"/>童女迦葉<anchor xml:id="end0042013"/>與五百比丘遊行<anchor xml:id="nkr_note_orig_0042014" n="0042014"/><anchor xml:id="nkr_note_mod_0042014" n="0042014"/><anchor xml:id="beg0042014" n="0042014"/>拘薩羅<anchor xml:id="end0042014"/>
@@ -4978,8 +4963,7 @@
 <lb n="0047a12" ed="T"/>士等，聞童女迦葉所說，歡喜奉行。</p></cb:div>
 <lb n="0047a13" ed="T"/><cb:juan n="007" fun="close"><cb:jhead><title><anchor xml:id="nkr_note_orig_0047001" n="0047001"/><anchor xml:id="nkr_note_mod_0047001" n="0047001"/><anchor xml:id="beg0047001" n="0047001"/>佛說<anchor xml:id="end0047001"/>長阿含經</title>卷第七<anchor xml:id="nkr_note_orig_0047002" n="0047002"/><anchor xml:id="nkr_note_mod_0047002" n="0047002"/></cb:jhead></cb:juan>
 <milestone n="8" unit="juan"/>
-<lb n="0047a14" ed="T"/>
-<lb n="0047a15" ed="T"/><cb:juan n="008" fun="open"><cb:mulu n="008" type="卷"></cb:mulu><cb:jhead><title>佛說長阿含經</title>卷第八</cb:jhead></cb:juan>
+<lb n="0047a14" ed="T"/><lb n="0047a15" ed="T"/><cb:juan n="008" fun="open"><cb:mulu n="008" type="卷"></cb:mulu><cb:jhead><title>佛說長阿含經</title>卷第八</cb:jhead></cb:juan>
 <lb n="0047a16" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0047003" n="0047003"/><anchor xml:id="nkr_note_mod_0047003" n="0047003"/><anchor xml:id="beg0047003" n="0047003"/>後秦弘始年佛陀耶舍共竺佛念譯<anchor xml:id="end0047003"/></byline>
 <lb n="0047a17" ed="T"/><cb:div type="jing"><cb:mulu level="2" type="經">8 散陀那經</cb:mulu><head>（八）第二分<anchor xml:id="nkr_note_orig_0047004" n="0047004"/><anchor xml:id="nkr_note_mod_0047004" n="0047004"/><anchor xml:id="nkr_note_equivalent_0047004" n="0047004"/><anchor xml:id="nkr_note_cf._0047004" n="0047004"/>散陀那經第四</head>
 <lb n="0047a18" ed="T"/><p xml:id="pT01p0047a1801">如是我聞：</p><p xml:id="pT01p0047a1805" cb:place="inline">一時，佛在<anchor xml:id="nkr_note_orig_0047005" n="0047005"/><anchor xml:id="nkr_note_mod_0047005" n="0047005"/><anchor xml:id="beg0047005" n="0047005"/>羅閱祇<anchor xml:id="end0047005"/>毗訶羅山七
@@ -5488,10 +5472,8 @@
 <lb n="0052c11" ed="T"/>聞舍利弗所說，歡喜奉行。</p></cb:div>
 <lb n="0052c12" ed="T"/><cb:juan n="008" fun="close"><cb:jhead><title><anchor xml:id="nkr_note_orig_0052009" n="0052009"/><anchor xml:id="nkr_note_mod_0052009" n="0052009"/><anchor xml:id="beg0052009" n="0052009"/>佛說<anchor xml:id="end0052009"/>長阿含經</title>卷第八<anchor xml:id="nkr_note_orig_0052010" n="0052010"/><anchor xml:id="nkr_note_mod_0052010" n="0052010"/></cb:jhead></cb:juan>
 <milestone n="9" unit="juan"/>
-<lb n="0052c13" ed="T"/>
-<lb n="0052c14" ed="T"/><cb:juan n="009" fun="open"><cb:mulu n="009" type="卷"></cb:mulu><cb:jhead><title>佛說長阿含經</title>卷第九</cb:jhead></cb:juan>
-<lb n="0052c15" ed="T"/>
-<lb n="0052c16" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0052011" n="0052011"/><anchor xml:id="nkr_note_mod_0052011" n="0052011"/><anchor xml:id="beg0052011" n="0052011"/>後秦弘始年佛陀耶舍共竺佛念譯<anchor xml:id="end0052011"/></byline>
+<lb n="0052c13" ed="T"/><lb n="0052c14" ed="T"/><cb:juan n="009" fun="open"><cb:mulu n="009" type="卷"></cb:mulu><cb:jhead><title>佛說長阿含經</title>卷第九</cb:jhead></cb:juan>
+<lb n="0052c15" ed="T"/><lb n="0052c16" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0052011" n="0052011"/><anchor xml:id="nkr_note_mod_0052011" n="0052011"/><anchor xml:id="beg0052011" n="0052011"/>後秦弘始年佛陀耶舍共竺佛念譯<anchor xml:id="end0052011"/></byline>
 <lb n="0052c17" ed="T"/><cb:div type="jing"><cb:mulu level="2" type="經">10 十上經</cb:mulu><head>（一〇）第二分<anchor xml:id="nkr_note_orig_0052012" n="0052012"/><anchor xml:id="nkr_note_mod_0052012" n="0052012"/><anchor xml:id="nkr_note_equivalent_0052012" n="0052012"/><anchor xml:id="nkr_note_cf._0052012" n="0052012"/>十上經第六</head>
 <lb n="0052c18" ed="T"/><p xml:id="pT01p0052c1801">如是我聞：</p><p xml:id="pT01p0052c1805" cb:place="inline">一時，佛遊鴦伽國，與大比丘眾
 <lb n="0052c19" ed="T"/>千二百五十人俱。詣<anchor xml:id="nkr_note_orig_0052013" n="0052013"/><anchor xml:id="nkr_note_mod_0052013" n="0052013"/><anchor xml:id="beg0052013" n="0052013"/>瞻婆<anchor xml:id="end0052013"/>城，止宿<anchor xml:id="nkr_note_orig_0052014" n="0052014"/><anchor xml:id="nkr_note_mod_0052014" n="0052014"/><anchor xml:id="beg0052014" n="0052014"/>伽伽<anchor xml:id="end0052014"/>
@@ -6086,10 +6068,8 @@
 <lb n="0059b08" ed="T"/>聞佛所說，歡喜奉行。</p></cb:div>
 <lb n="0059b09" ed="T"/><cb:juan n="009" fun="close"><cb:jhead><title><anchor xml:id="nkr_note_orig_0059002" n="0059002"/><anchor xml:id="nkr_note_mod_0059002" n="0059002"/><anchor xml:id="beg0059002" n="0059002"/>佛說<anchor xml:id="end0059002"/>長阿含經</title>卷第九<anchor xml:id="nkr_note_orig_0059003" n="0059003"/><anchor xml:id="nkr_note_mod_0059003" n="0059003"/></cb:jhead></cb:juan>
 <milestone n="10" unit="juan"/>
-<lb n="0059b10" ed="T"/>
-<lb n="0059b11" ed="T"/><cb:juan n="010" fun="open"><cb:mulu n="010" type="卷"></cb:mulu><cb:jhead><title><anchor xml:id="nkr_note_orig_0059004" n="0059004"/><anchor xml:id="nkr_note_mod_0059004" n="0059004"/>佛說長阿含經</title>卷第十</cb:jhead></cb:juan>
-<lb n="0059b12" ed="T"/>
-<lb n="0059b13" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0059005" n="0059005"/><anchor xml:id="nkr_note_mod_0059005" n="0059005"/><anchor xml:id="beg0059005" n="0059005"/>後秦弘始年佛陀耶舍共竺佛念譯<anchor xml:id="end0059005"/></byline>
+<lb n="0059b10" ed="T"/><lb n="0059b11" ed="T"/><cb:juan n="010" fun="open"><cb:mulu n="010" type="卷"></cb:mulu><cb:jhead><title><anchor xml:id="nkr_note_orig_0059004" n="0059004"/><anchor xml:id="nkr_note_mod_0059004" n="0059004"/>佛說長阿含經</title>卷第十</cb:jhead></cb:juan>
+<lb n="0059b12" ed="T"/><lb n="0059b13" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0059005" n="0059005"/><anchor xml:id="nkr_note_mod_0059005" n="0059005"/><anchor xml:id="beg0059005" n="0059005"/>後秦弘始年佛陀耶舍共竺佛念譯<anchor xml:id="end0059005"/></byline>
 <lb n="0059b14" ed="T"/><cb:div type="jing"><cb:mulu level="2" type="經">12 三聚經</cb:mulu><head>（一二）<anchor xml:id="nkr_note_orig_0059006" n="0059006"/><anchor xml:id="nkr_note_mod_0059006" n="0059006"/><anchor xml:id="beg0059006" n="0059006"/><space quantity="0"/><anchor xml:id="end0059006"/>第二分三聚經第八</head>
 <lb n="0059b15" ed="T"/><p xml:id="pT01p0059b1501">如是我聞：</p><p xml:id="pT01p0059b1505" cb:place="inline">一時，佛在舍衛國祇樹給孤獨園，
 <lb n="0059b16" ed="T"/>與大比丘眾千二百五十人俱。</p><p xml:id="pT01p0059b1613" cb:place="inline">爾時，世尊告
@@ -6682,10 +6662,8 @@
 <lb n="0066a03" ed="T"/>利諸天及般遮翼聞佛所說，歡喜奉行。</p></cb:div>
 <lb n="0066a04" ed="T"/><cb:juan n="010" fun="close"><cb:jhead><title>佛說長阿含經</title>卷第十<anchor xml:id="nkr_note_orig_0066002" n="0066002"/><anchor xml:id="nkr_note_mod_0066002" n="0066002"/></cb:jhead></cb:juan>
 <milestone n="11" unit="juan"/>
-<lb n="0066a05" ed="T"/>
-<lb n="0066a06" ed="T"/><cb:juan n="011" fun="open"><cb:mulu n="011" type="卷"></cb:mulu><cb:jhead><title><anchor xml:id="nkr_note_orig_0066003" n="0066003"/><anchor xml:id="nkr_note_mod_0066003" n="0066003"/><anchor xml:id="beg0066003" n="0066003"/>佛說<anchor xml:id="end0066003"/>長阿含經</title>卷第十一</cb:jhead></cb:juan>
-<lb n="0066a07" ed="T"/>
-<lb n="0066a08" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0066004" n="0066004"/><anchor xml:id="nkr_note_mod_0066004" n="0066004"/><anchor xml:id="beg0066004" n="0066004"/>後秦弘始年<anchor xml:id="end0066004"/>佛陀耶舍共竺佛念譯</byline>
+<lb n="0066a05" ed="T"/><lb n="0066a06" ed="T"/><cb:juan n="011" fun="open"><cb:mulu n="011" type="卷"></cb:mulu><cb:jhead><title><anchor xml:id="nkr_note_orig_0066003" n="0066003"/><anchor xml:id="nkr_note_mod_0066003" n="0066003"/><anchor xml:id="beg0066003" n="0066003"/>佛說<anchor xml:id="end0066003"/>長阿含經</title>卷第十一</cb:jhead></cb:juan>
+<lb n="0066a07" ed="T"/><lb n="0066a08" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0066004" n="0066004"/><anchor xml:id="nkr_note_mod_0066004" n="0066004"/><anchor xml:id="beg0066004" n="0066004"/>後秦弘始年<anchor xml:id="end0066004"/>佛陀耶舍共竺佛念譯</byline>
 <lb n="0066a09" ed="T"/><cb:div type="jing"><cb:mulu level="2" type="經">15 阿<g ref="#CB00145">㝹</g>夷經</cb:mulu><head>（一五）<anchor xml:id="nkr_note_orig_0066005" n="0066005"/><anchor xml:id="nkr_note_mod_0066005" n="0066005"/><anchor xml:id="beg0066005" n="0066005"/>第二分<anchor xml:id="nkr_note_orig_0066006" n="0066006"/><anchor xml:id="nkr_note_equivalent_0066006" n="0066006"/>阿<g ref="#CB00145">㝹</g>夷經第十一<anchor xml:id="end0066005"/></head>
 <lb n="0066a10" ed="T"/><p xml:id="pT01p0066a1001">如是我聞：</p><p xml:id="pT01p0066a1005" cb:place="inline">一時，佛在<anchor xml:id="nkr_note_orig_0066007" n="0066007"/><anchor xml:id="nkr_note_mod_0066007" n="0066007"/><anchor xml:id="beg0066007" n="0066007"/>冥寧<anchor xml:id="end0066007"/>國<anchor xml:id="nkr_note_orig_0066008" n="0066008"/><anchor xml:id="nkr_note_mod_0066008" n="0066008"/><anchor xml:id="beg0066008" n="0066008"/>阿<g ref="#CB00145">㝹</g>夷<anchor xml:id="end0066008"/>土，與
 <lb n="0066a11" ed="T"/>大比丘眾千二百五十人俱。</p><p xml:id="pT01p0066a1112" cb:place="inline">爾時，世尊著
@@ -7286,10 +7264,8 @@
 <lb n="0072c06" ed="T"/>不飲酒。」</p><p xml:id="pT01p0072c0604" cb:place="inline">爾時，善生聞佛所說，歡喜奉行。</p></cb:div>
 <lb n="0072c07" ed="T"/><cb:juan n="011" fun="close"><cb:jhead><title><anchor xml:id="nkr_note_orig_0072015" n="0072015"/><anchor xml:id="nkr_note_mod_0072015" n="0072015"/><anchor xml:id="beg0072015" n="0072015"/>佛說<anchor xml:id="end0072015"/>長阿含經</title>卷第十一</cb:jhead></cb:juan>
 <milestone n="12" unit="juan"/>
-<lb n="0072c08" ed="T"/>
-<lb n="0072c09" ed="T"/><cb:juan n="012" fun="open"><cb:mulu n="012" type="卷"></cb:mulu><cb:jhead><title><anchor xml:id="nkr_note_orig_0072016" n="0072016"/><anchor xml:id="nkr_note_mod_0072016" n="0072016"/><anchor xml:id="beg0072016" n="0072016"/>佛說<anchor xml:id="end0072016"/>長阿含經</title>卷第十二</cb:jhead></cb:juan>
-<lb n="0072c10" ed="T"/>
-<lb n="0072c11" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0072017" n="0072017"/><anchor xml:id="nkr_note_mod_0072017" n="0072017"/><anchor xml:id="beg0072017" n="0072017"/>後秦弘始年<anchor xml:id="end0072017"/>佛陀耶舍共竺佛念譯</byline>
+<lb n="0072c08" ed="T"/><lb n="0072c09" ed="T"/><cb:juan n="012" fun="open"><cb:mulu n="012" type="卷"></cb:mulu><cb:jhead><title><anchor xml:id="nkr_note_orig_0072016" n="0072016"/><anchor xml:id="nkr_note_mod_0072016" n="0072016"/><anchor xml:id="beg0072016" n="0072016"/>佛說<anchor xml:id="end0072016"/>長阿含經</title>卷第十二</cb:jhead></cb:juan>
+<lb n="0072c10" ed="T"/><lb n="0072c11" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0072017" n="0072017"/><anchor xml:id="nkr_note_mod_0072017" n="0072017"/><anchor xml:id="beg0072017" n="0072017"/>後秦弘始年<anchor xml:id="end0072017"/>佛陀耶舍共竺佛念譯</byline>
 <lb n="0072c12" ed="T"/><cb:div type="jing"><cb:mulu level="2" type="經">17 清淨經</cb:mulu><head>（一七）<anchor xml:id="nkr_note_orig_0072018" n="0072018"/><anchor xml:id="nkr_note_mod_0072018" n="0072018"/><anchor xml:id="beg0072018" n="0072018"/>第<anchor xml:id="end0072018"/>二分<anchor xml:id="nkr_note_orig_0072019" n="0072019"/><anchor xml:id="nkr_note_equivalent_0072019" n="0072019"/>清淨經第十三</head>
 <lb n="0072c13" ed="T"/><p xml:id="pT01p0072c1301">如是我聞：</p><p xml:id="pT01p0072c1305" cb:place="inline">一時，佛在迦維羅衛國緬祇優婆
 <lb n="0072c14" ed="T"/>塞林中，與大比丘<anchor xml:id="nkr_note_add_0072c1401" n="0072c1401"/><anchor xml:id="beg0072c1401" n="0072c1401"/>眾<anchor xml:id="end0072c1401"/>千二百五十人俱。</p><p xml:id="pT01p0072c1416" cb:place="inline">時，有沙
@@ -8061,10 +8037,8 @@
 <pb n="0082a" ed="T" xml:id="T01.0001.0082a"/>
 <lb n="0082a01" ed="T"/><cb:juan n="012" fun="close"><cb:jhead><title><anchor xml:id="nkr_note_orig_0082001" n="0082001"/><anchor xml:id="nkr_note_mod_0082001" n="0082001"/><anchor xml:id="beg0082001" n="0082001"/>佛說<anchor xml:id="end0082001"/>長阿含經</title>卷第十二</cb:jhead></cb:juan>
 <milestone n="13" unit="juan"/>
-<lb n="0082a02" ed="T"/>
-<lb n="0082a03" ed="T"/><cb:juan n="013" fun="open"><cb:mulu n="013" type="卷"></cb:mulu><cb:jhead><title><anchor xml:id="nkr_note_orig_0082002" n="0082002"/><anchor xml:id="nkr_note_mod_0082002" n="0082002"/><anchor xml:id="beg0082002" n="0082002"/>佛說<anchor xml:id="end0082002"/>長阿含經</title>卷第十三</cb:jhead></cb:juan>
-<lb n="0082a04" ed="T"/>
-<lb n="0082a05" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0082003" n="0082003"/><anchor xml:id="nkr_note_mod_0082003" n="0082003"/><anchor xml:id="beg0082003" n="0082003"/>後秦弘始年<anchor xml:id="end0082003"/>佛陀耶舍共竺佛念譯</byline>
+<lb n="0082a02" ed="T"/><lb n="0082a03" ed="T"/><cb:juan n="013" fun="open"><cb:mulu n="013" type="卷"></cb:mulu><cb:jhead><title><anchor xml:id="nkr_note_orig_0082002" n="0082002"/><anchor xml:id="nkr_note_mod_0082002" n="0082002"/><anchor xml:id="beg0082002" n="0082002"/>佛說<anchor xml:id="end0082002"/>長阿含經</title>卷第十三</cb:jhead></cb:juan>
+<lb n="0082a04" ed="T"/><lb n="0082a05" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0082003" n="0082003"/><anchor xml:id="nkr_note_mod_0082003" n="0082003"/><anchor xml:id="beg0082003" n="0082003"/>後秦弘始年<anchor xml:id="end0082003"/>佛陀耶舍共竺佛念譯</byline>
 <lb n="0082a06" ed="T"/><cb:div type="fen"><cb:mulu level="1" type="分">3 分</cb:mulu><cb:div type="jing"><cb:mulu level="2" type="經">20 阿摩晝經</cb:mulu><head>（二〇）<anchor xml:id="nkr_note_orig_0082004" n="0082004"/><anchor xml:id="nkr_note_mod_0082004" n="0082004"/><anchor xml:id="beg0082004" n="0082004"/>第<anchor xml:id="end0082004"/>三分<anchor xml:id="nkr_note_orig_0082005" n="0082005"/><anchor xml:id="nkr_note_mod_0082005" n="0082005"/><anchor xml:id="nkr_note_equivalent_0082005" n="0082005"/><anchor xml:id="nkr_note_cf._0082005" n="0082005"/>阿摩晝經第一</head>
 <lb n="0082a07" ed="T"/><p xml:id="pT01p0082a0701">如是我聞：</p><p xml:id="pT01p0082a0705" cb:place="inline">一時，佛遊<anchor xml:id="nkr_note_orig_0082006" n="0082006"/><anchor xml:id="nkr_note_mod_0082006" n="0082006"/><anchor xml:id="beg0082006" n="0082006"/>俱薩羅<anchor xml:id="end0082006"/>國，與大比丘
 <lb n="0082a08" ed="T"/>眾千二百五十人俱，至<anchor xml:id="nkr_note_orig_0082007" n="0082007"/><anchor xml:id="nkr_note_mod_0082007" n="0082007"/><anchor xml:id="beg0082007" n="0082007"/>伊車能伽羅<anchor xml:id="end0082007"/>俱薩羅
@@ -8639,8 +8613,7 @@
 <lb n="0088b07" ed="T"/>來此世。」</p><p xml:id="pT01p0088b0704" cb:place="inline">爾時，諸比丘聞佛所說，歡喜奉行。</p></cb:div>
 <lb n="0088b08" ed="T"/><cb:juan n="013" fun="close"><cb:jhead><title><anchor xml:id="nkr_note_orig_0088008" n="0088008"/><anchor xml:id="nkr_note_mod_0088008" n="0088008"/><anchor xml:id="beg0088008" n="0088008"/>佛說<anchor xml:id="end0088008"/>長阿含經</title>卷第十三</cb:jhead></cb:juan>
 <milestone n="14" unit="juan"/>
-<lb n="0088b09" ed="T"/>
-<lb n="0088b10" ed="T"/><cb:juan n="014" fun="open"><cb:mulu n="014" type="卷"></cb:mulu><cb:jhead><title><anchor xml:id="nkr_note_orig_0088009" n="0088009"/><anchor xml:id="nkr_note_mod_0088009" n="0088009"/><anchor xml:id="beg0088009" n="0088009"/>佛說<anchor xml:id="end0088009"/>長阿含經</title>卷第十四</cb:jhead></cb:juan>
+<lb n="0088b09" ed="T"/><lb n="0088b10" ed="T"/><cb:juan n="014" fun="open"><cb:mulu n="014" type="卷"></cb:mulu><cb:jhead><title><anchor xml:id="nkr_note_orig_0088009" n="0088009"/><anchor xml:id="nkr_note_mod_0088009" n="0088009"/><anchor xml:id="beg0088009" n="0088009"/>佛說<anchor xml:id="end0088009"/>長阿含經</title>卷第十四</cb:jhead></cb:juan>
 <lb n="0088b11" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0088010" n="0088010"/><anchor xml:id="nkr_note_mod_0088010" n="0088010"/><anchor xml:id="beg0088010" n="0088010"/>後秦弘始年<anchor xml:id="end0088010"/>佛陀耶舍共竺佛念譯</byline>
 <lb n="0088b12" ed="T"/><cb:div type="jing"><cb:mulu level="2" type="經">21 梵動經</cb:mulu><head>（二一）<anchor xml:id="nkr_note_orig_0088011" n="0088011"/><anchor xml:id="nkr_note_mod_0088011" n="0088011"/><anchor xml:id="beg0088011" n="0088011"/>第<anchor xml:id="end0088011"/>三分<anchor xml:id="nkr_note_orig_0088012" n="0088012"/><anchor xml:id="nkr_note_mod_0088012" n="0088012"/><anchor xml:id="nkr_note_equivalent_0088012" n="0088012"/><anchor xml:id="nkr_note_cf._0088012" n="0088012"/>梵動經第二</head>
 <lb n="0088b13" ed="T"/><p xml:id="pT01p0088b1301">如是我聞：</p><p xml:id="pT01p0088b1305" cb:place="inline">一時，佛遊摩竭國，與大比丘眾
@@ -9156,8 +9129,7 @@
 <lb n="0094a13" ed="T"/>動、魔動、梵動。」</p><p xml:id="pT01p0094a1306" cb:place="inline">爾時，阿難聞佛所說，歡喜奉行。</p></cb:div>
 <lb n="0094a14" ed="T"/><cb:juan n="014" fun="close"><cb:jhead><title><anchor xml:id="nkr_note_orig_0094002" n="0094002"/><anchor xml:id="nkr_note_mod_0094002" n="0094002"/><anchor xml:id="beg0094002" n="0094002"/>佛說<anchor xml:id="end0094002"/>長阿含經</title>卷第十四</cb:jhead></cb:juan>
 <milestone n="15" unit="juan"/>
-<lb n="0094a15" ed="T"/>
-<lb n="0094a16" ed="T"/><cb:juan n="015" fun="open"><cb:mulu n="015" type="卷"></cb:mulu><cb:jhead><title>佛說長阿含經</title>卷第十五</cb:jhead></cb:juan>
+<lb n="0094a15" ed="T"/><lb n="0094a16" ed="T"/><cb:juan n="015" fun="open"><cb:mulu n="015" type="卷"></cb:mulu><cb:jhead><title>佛說長阿含經</title>卷第十五</cb:jhead></cb:juan>
 <lb n="0094a17" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0094003" n="0094003"/><anchor xml:id="nkr_note_mod_0094003" n="0094003"/><anchor xml:id="beg0094003" n="0094003"/>後秦弘始年<anchor xml:id="end0094003"/>佛陀耶舍共竺佛念譯</byline>
 <lb n="0094a18" ed="T"/><cb:div type="jing"><cb:mulu level="2" type="經">22 種德經</cb:mulu><head>（二二）第三分<anchor xml:id="nkr_note_orig_0094004" n="0094004"/><anchor xml:id="nkr_note_equivalent_0094004" n="0094004"/>種德經第三</head>
 <lb n="0094a19" ed="T"/><p xml:id="pT01p0094a1901">如是我聞：</p><p xml:id="pT01p0094a1905" cb:place="inline">一時，佛在<anchor xml:id="nkr_note_orig_0094005" n="0094005"/><anchor xml:id="nkr_note_mod_0094005" n="0094005"/><anchor xml:id="beg0094005" n="0094005"/>鴦伽<anchor xml:id="end0094005"/>國，與大比丘眾
@@ -9812,10 +9784,8 @@
 <lb n="0101b08" ed="T"/><p xml:id="pT01p0101b0801">爾時，諸比丘聞佛所說，歡喜奉行。</p></cb:div>
 <lb n="0101b09" ed="T"/><cb:juan n="015" fun="close"><cb:jhead><title><anchor xml:id="nkr_note_orig_0101011" n="0101011"/><anchor xml:id="nkr_note_mod_0101011" n="0101011"/><anchor xml:id="beg0101011" n="0101011"/>佛說<anchor xml:id="end0101011"/>長阿含經</title>卷第十五<anchor xml:id="nkr_note_orig_0101012" n="0101012"/><anchor xml:id="nkr_note_mod_0101012" n="0101012"/></cb:jhead></cb:juan>
 <milestone n="16" unit="juan"/>
-<lb n="0101b10" ed="T"/>
-<lb n="0101b11" ed="T"/><cb:juan n="016" fun="open"><cb:mulu n="016" type="卷"></cb:mulu><cb:jhead><title>佛說長阿含經</title>卷第十六</cb:jhead></cb:juan>
-<lb n="0101b12" ed="T"/>
-<lb n="0101b13" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0101013" n="0101013"/><anchor xml:id="nkr_note_mod_0101013" n="0101013"/><anchor xml:id="beg0101013" n="0101013"/>後秦弘始年<anchor xml:id="end0101013"/>佛陀耶舍共竺佛念譯</byline>
+<lb n="0101b10" ed="T"/><lb n="0101b11" ed="T"/><cb:juan n="016" fun="open"><cb:mulu n="016" type="卷"></cb:mulu><cb:jhead><title>佛說長阿含經</title>卷第十六</cb:jhead></cb:juan>
+<lb n="0101b12" ed="T"/><lb n="0101b13" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0101013" n="0101013"/><anchor xml:id="nkr_note_mod_0101013" n="0101013"/><anchor xml:id="beg0101013" n="0101013"/>後秦弘始年<anchor xml:id="end0101013"/>佛陀耶舍共竺佛念譯</byline>
 <lb n="0101b14" ed="T"/><cb:div type="jing"><cb:mulu level="2" type="經">24 堅固經</cb:mulu><head>（二四）第三分<anchor xml:id="nkr_note_orig_0101014" n="0101014"/><anchor xml:id="nkr_note_equivalent_0101014" n="0101014"/>堅固經第五</head>
 <lb n="0101b15" ed="T"/><p xml:id="pT01p0101b1501">如是我聞：</p><p xml:id="pT01p0101b1505" cb:place="inline">一時，佛在<anchor xml:id="nkr_note_orig_0101015" n="0101015"/><anchor xml:id="nkr_note_mod_0101015" n="0101015"/><anchor xml:id="beg0101015" n="0101015"/>那難陀<anchor xml:id="end0101015"/>城<anchor xml:id="nkr_note_orig_0101016" n="0101016"/><anchor xml:id="nkr_note_mod_0101016" n="0101016"/><anchor xml:id="beg0101016" n="0101016"/>波婆利掩<anchor xml:id="end0101016"/>
 <lb n="0101b16" ed="T"/>次林中，與大比丘眾千二百五十人俱。</p><p xml:id="pT01p0101b1616" cb:place="inline">爾時，
@@ -10329,10 +10299,8 @@
 <lb n="0107a14" ed="T"/>佛所說，歡喜奉行。</p></cb:div>
 <lb n="0107a15" ed="T"/><cb:juan n="016" fun="close"><cb:jhead><title>佛說長阿含經</title>卷第十六</cb:jhead></cb:juan>
 <milestone n="17" unit="juan"/>
-<lb n="0107a16" ed="T"/>
-<lb n="0107a17" ed="T"/><cb:juan n="017" fun="open"><cb:mulu n="017" type="卷"></cb:mulu><cb:jhead><title><anchor xml:id="nkr_note_orig_0107005" n="0107005"/><anchor xml:id="nkr_note_mod_0107005" n="0107005"/><anchor xml:id="beg0107005" n="0107005"/>佛說<anchor xml:id="end0107005"/>長阿含經</title>卷第十七</cb:jhead></cb:juan>
-<lb n="0107a18" ed="T"/>
-<lb n="0107a19" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0107006" n="0107006"/><anchor xml:id="nkr_note_mod_0107006" n="0107006"/><anchor xml:id="beg0107006" n="0107006"/>後秦弘始年<anchor xml:id="end0107006"/>佛陀耶舍共竺佛念譯</byline>
+<lb n="0107a16" ed="T"/><lb n="0107a17" ed="T"/><cb:juan n="017" fun="open"><cb:mulu n="017" type="卷"></cb:mulu><cb:jhead><title><anchor xml:id="nkr_note_orig_0107005" n="0107005"/><anchor xml:id="nkr_note_mod_0107005" n="0107005"/><anchor xml:id="beg0107005" n="0107005"/>佛說<anchor xml:id="end0107005"/>長阿含經</title>卷第十七</cb:jhead></cb:juan>
+<lb n="0107a18" ed="T"/><lb n="0107a19" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0107006" n="0107006"/><anchor xml:id="nkr_note_mod_0107006" n="0107006"/><anchor xml:id="beg0107006" n="0107006"/>後秦弘始年<anchor xml:id="end0107006"/>佛陀耶舍共竺佛念譯</byline>
 <lb n="0107a20" ed="T"/><cb:div type="jing"><cb:mulu level="2" type="經">27 沙門果經</cb:mulu><head>（二七）<anchor xml:id="nkr_note_orig_0107007" n="0107007"/><anchor xml:id="nkr_note_mod_0107007" n="0107007"/><anchor xml:id="beg0107007" n="0107007"/>第<anchor xml:id="end0107007"/>三分<anchor xml:id="nkr_note_orig_0107008" n="0107008"/><anchor xml:id="nkr_note_mod_0107008" n="0107008"/><anchor xml:id="nkr_note_equivalent_0107008" n="0107008"/><anchor xml:id="nkr_note_cf._0107008" n="0107008"/>沙門果經第八</head>
 <lb n="0107a21" ed="T"/><p xml:id="pT01p0107a2101">如是我聞：</p><p xml:id="pT01p0107a2105" cb:place="inline">一時，佛在<anchor xml:id="nkr_note_orig_0107009" n="0107009"/><anchor xml:id="nkr_note_mod_0107009" n="0107009"/><anchor xml:id="beg0107009" n="0107009"/>羅閱祇<anchor xml:id="end0107009"/><anchor xml:id="nkr_note_orig_0107010" n="0107010"/><anchor xml:id="nkr_note_mod_0107010" n="0107010"/><anchor xml:id="beg0107010" n="0107010"/>耆舊童子菴
 <lb n="0107a22" ed="T"/>婆園<anchor xml:id="end0107010"/>中，與大比丘眾千二百五十人俱。</p><p xml:id="pT01p0107a2216" cb:place="inline">爾
@@ -10977,10 +10945,8 @@
 <lb n="0114b01" ed="T"/>奉行。</p></cb:div></cb:div>
 <lb n="0114b02" ed="T"/><cb:juan n="017" fun="close"><cb:jhead><title><anchor xml:id="nkr_note_orig_0114006" n="0114006"/><anchor xml:id="nkr_note_mod_0114006" n="0114006"/><anchor xml:id="beg0114006" n="0114006"/>佛說<anchor xml:id="end0114006"/>長阿含經</title>卷第十七</cb:jhead></cb:juan>
 <milestone n="18" unit="juan"/>
-<lb n="0114b03" ed="T"/>
-<lb n="0114b04" ed="T"/><cb:juan n="018" fun="open"><cb:mulu n="018" type="卷"></cb:mulu><cb:jhead><title><anchor xml:id="nkr_note_orig_0114007" n="0114007"/><anchor xml:id="nkr_note_mod_0114007" n="0114007"/><anchor xml:id="beg0114007" n="0114007"/>佛說<anchor xml:id="end0114007"/>長阿含經</title>卷第十八</cb:jhead></cb:juan>
-<lb n="0114b05" ed="T"/>
-<lb n="0114b06" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0114008" n="0114008"/><anchor xml:id="nkr_note_mod_0114008" n="0114008"/><anchor xml:id="beg0114008" n="0114008"/>後秦弘始年<anchor xml:id="end0114008"/>佛陀耶舍共竺佛念譯</byline>
+<lb n="0114b03" ed="T"/><lb n="0114b04" ed="T"/><cb:juan n="018" fun="open"><cb:mulu n="018" type="卷"></cb:mulu><cb:jhead><title><anchor xml:id="nkr_note_orig_0114007" n="0114007"/><anchor xml:id="nkr_note_mod_0114007" n="0114007"/><anchor xml:id="beg0114007" n="0114007"/>佛說<anchor xml:id="end0114007"/>長阿含經</title>卷第十八</cb:jhead></cb:juan>
+<lb n="0114b05" ed="T"/><lb n="0114b06" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0114008" n="0114008"/><anchor xml:id="nkr_note_mod_0114008" n="0114008"/><anchor xml:id="beg0114008" n="0114008"/>後秦弘始年<anchor xml:id="end0114008"/>佛陀耶舍共竺佛念譯</byline>
 <lb n="0114b07" ed="T"/><cb:div type="fen"><cb:mulu level="1" type="分">4 分</cb:mulu><cb:div type="jing"><cb:mulu level="2" type="經">30 世記經</cb:mulu><head>（三〇）<anchor xml:id="nkr_note_orig_0114009" n="0114009"/><anchor xml:id="nkr_note_mod_0114009" n="0114009"/><anchor xml:id="beg0114009" n="0114009"/>第<anchor xml:id="end0114009"/>四分世記<anchor xml:id="nkr_note_orig_0114010" n="0114010"/><anchor xml:id="nkr_note_mod_0114010" n="0114010"/><anchor xml:id="beg0114010" n="0114010"/>經<anchor xml:id="end0114010"/></head><cb:div type="pin"><cb:mulu level="3" type="品">1 閻浮提州品</cb:mulu><head>閻浮提<anchor xml:id="nkr_note_orig_0114011" n="0114011"/><anchor xml:id="nkr_note_mod_0114011" n="0114011"/><anchor xml:id="beg0114011" n="0114011"/>州<anchor xml:id="end0114011"/>品第一</head>
 <lb n="0114b08" ed="T"/><p xml:id="pT01p0114b0801">如是我聞：</p><p xml:id="pT01p0114b0805" cb:place="inline">一時，佛在舍衛國祇樹給孤獨園
 <lb n="0114b09" ed="T"/>俱利窟中，與大比丘眾千二百五十人俱。</p><p xml:id="pT01p0114b0917" cb:place="inline">時，
@@ -11630,8 +11596,7 @@
 <lb n="0121b23" ed="T"/>隨意所與。轉輪聖王威神功德，其事如是。」</p></cb:div>
 <lb n="0121b24" ed="T"/><cb:juan n="018" fun="close"><cb:jhead><title><anchor xml:id="nkr_note_orig_0121010" n="0121010"/><anchor xml:id="nkr_note_mod_0121010" n="0121010"/><anchor xml:id="beg0121010" n="0121010"/>佛說<anchor xml:id="end0121010"/>長阿含經</title>卷第十八</cb:jhead></cb:juan>
 <milestone n="19" unit="juan"/>
-<lb n="0121b25" ed="T"/>
-<lb n="0121b26" ed="T"/><cb:juan n="019" fun="open"><cb:mulu n="019" type="卷"></cb:mulu><cb:jhead><title><anchor xml:id="nkr_note_orig_0121011" n="0121011"/><anchor xml:id="nkr_note_mod_0121011" n="0121011"/><anchor xml:id="beg0121011" n="0121011"/>佛說<anchor xml:id="end0121011"/>長阿含經</title>卷第十九</cb:jhead></cb:juan>
+<lb n="0121b25" ed="T"/><lb n="0121b26" ed="T"/><cb:juan n="019" fun="open"><cb:mulu n="019" type="卷"></cb:mulu><cb:jhead><title><anchor xml:id="nkr_note_orig_0121011" n="0121011"/><anchor xml:id="nkr_note_mod_0121011" n="0121011"/><anchor xml:id="beg0121011" n="0121011"/>佛說<anchor xml:id="end0121011"/>長阿含經</title>卷第十九</cb:jhead></cb:juan>
 <lb n="0121b27" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0121012" n="0121012"/><anchor xml:id="nkr_note_mod_0121012" n="0121012"/><anchor xml:id="beg0121012" n="0121012"/>後秦弘始年<anchor xml:id="end0121012"/>佛陀耶舍共竺佛念譯</byline>
 <lb n="0121b28" ed="T"/><cb:div type="pin"><cb:mulu level="3" type="品">4 地獄品</cb:mulu><head><anchor xml:id="nkr_note_orig_0121013" n="0121013"/><anchor xml:id="nkr_note_mod_0121013" n="0121013"/><anchor xml:id="beg0121013" n="0121013"/>第四分世記經<anchor xml:id="end0121013"/>地獄品第四</head>
 <lb n="0121b29" ed="T"/><p xml:id="pT01p0121b2901">佛告比丘：「此四天下有八千天下圍遶其
@@ -12322,10 +12287,8 @@
 <lb n="0129a24" ed="T"/>集聖諦、苦滅聖諦、苦出要諦。」</p></cb:div>
 <lb n="0129a25" ed="T"/><cb:juan n="019" fun="close"><cb:jhead><title><anchor xml:id="nkr_note_orig_0129008" n="0129008"/><anchor xml:id="nkr_note_mod_0129008" n="0129008"/><anchor xml:id="beg0129008" n="0129008"/>佛說<anchor xml:id="end0129008"/>長阿含經</title>卷第十九</cb:jhead></cb:juan>
 <milestone n="20" unit="juan"/>
-<lb n="0129a26" ed="T"/>
-<lb n="0129a27" ed="T"/><cb:juan n="020" fun="open"><cb:mulu n="020" type="卷"></cb:mulu><cb:jhead><title><anchor xml:id="nkr_note_orig_0129009" n="0129009"/><anchor xml:id="nkr_note_mod_0129009" n="0129009"/><anchor xml:id="beg0129009" n="0129009"/>佛說<anchor xml:id="end0129009"/>長阿含經</title>卷第二十</cb:jhead></cb:juan>
-<lb n="0129a28" ed="T"/>
-<lb n="0129a29" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0129010" n="0129010"/><anchor xml:id="nkr_note_mod_0129010" n="0129010"/><anchor xml:id="beg0129010" n="0129010"/>後秦弘始年<anchor xml:id="end0129010"/>佛陀耶舍共竺佛念譯</byline>
+<lb n="0129a26" ed="T"/><lb n="0129a27" ed="T"/><cb:juan n="020" fun="open"><cb:mulu n="020" type="卷"></cb:mulu><cb:jhead><title><anchor xml:id="nkr_note_orig_0129009" n="0129009"/><anchor xml:id="nkr_note_mod_0129009" n="0129009"/><anchor xml:id="beg0129009" n="0129009"/>佛說<anchor xml:id="end0129009"/>長阿含經</title>卷第二十</cb:jhead></cb:juan>
+<lb n="0129a28" ed="T"/><lb n="0129a29" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0129010" n="0129010"/><anchor xml:id="nkr_note_mod_0129010" n="0129010"/><anchor xml:id="beg0129010" n="0129010"/>後秦弘始年<anchor xml:id="end0129010"/>佛陀耶舍共竺佛念譯</byline>
 <pb n="0129b" ed="T" xml:id="T01.0001.0129b"/>
 <lb n="0129b01" ed="T"/><cb:div type="pin"><cb:mulu level="3" type="品">6 阿須倫品</cb:mulu><head><anchor xml:id="nkr_note_add_0129b0101" n="0129b0101"/><anchor xml:id="beg0129b0101" n="0129b0101"/><space quantity="0"/><anchor xml:id="end0129b0101"/><anchor xml:id="nkr_note_orig_0129011" n="0129011"/><anchor xml:id="nkr_note_mod_0129011" n="0129011"/><anchor xml:id="beg0129011" n="0129011"/>第四分世記經<anchor xml:id="end0129011"/>阿須倫品第六</head>
 <lb n="0129b02" ed="T"/><p xml:id="pT01p0129b0201">佛告比丘：「須彌山北大海水底有羅呵阿須
@@ -13043,10 +13006,8 @@
 <lb n="0137a24" ed="T"/><cb:juan n="020" fun="close"><cb:jhead><title><anchor xml:id="nkr_note_orig_0137008" n="0137008"/><anchor xml:id="nkr_note_mod_0137008" n="0137008"/><anchor xml:id="beg0137008" n="0137008"/>佛說<anchor xml:id="end0137008"/>長阿含經</title>卷第二十</cb:jhead></cb:juan>
 <milestone n="21" unit="juan"/>
 <lb n="0137a25" ed="T"/>
-<lb n="0137a26" ed="T"/>
-<lb n="0137a27" ed="T"/><cb:juan n="021" fun="open"><cb:mulu n="021" type="卷"></cb:mulu><cb:jhead><title><anchor xml:id="nkr_note_orig_0137009" n="0137009"/><anchor xml:id="nkr_note_mod_0137009" n="0137009"/><anchor xml:id="beg0137009" n="0137009"/>佛說<anchor xml:id="end0137009"/>長阿含經</title>卷第二十一</cb:jhead></cb:juan>
-<lb n="0137a28" ed="T"/>
-<lb n="0137a29" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0137010" n="0137010"/><anchor xml:id="nkr_note_mod_0137010" n="0137010"/><anchor xml:id="beg0137010" n="0137010"/>後秦弘始年<anchor xml:id="end0137010"/>佛陀耶舍共竺佛念譯</byline>
+<lb n="0137a26" ed="T"/><lb n="0137a27" ed="T"/><cb:juan n="021" fun="open"><cb:mulu n="021" type="卷"></cb:mulu><cb:jhead><title><anchor xml:id="nkr_note_orig_0137009" n="0137009"/><anchor xml:id="nkr_note_mod_0137009" n="0137009"/><anchor xml:id="beg0137009" n="0137009"/>佛說<anchor xml:id="end0137009"/>長阿含經</title>卷第二十一</cb:jhead></cb:juan>
+<lb n="0137a28" ed="T"/><lb n="0137a29" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0137010" n="0137010"/><anchor xml:id="nkr_note_mod_0137010" n="0137010"/><anchor xml:id="beg0137010" n="0137010"/>後秦弘始年<anchor xml:id="end0137010"/>佛陀耶舍共竺佛念譯</byline>
 <pb n="0137b" ed="T" xml:id="T01.0001.0137b"/>
 <lb n="0137b01" ed="T"/><cb:div type="pin"><cb:mulu level="3" type="品">9 三災品</cb:mulu><head><anchor xml:id="nkr_note_add_0137b0101" n="0137b0101"/><anchor xml:id="beg0137b0101" n="0137b0101"/><space quantity="0"/><anchor xml:id="end0137b0101"/><anchor xml:id="nkr_note_orig_0137011" n="0137011"/><anchor xml:id="nkr_note_mod_0137011" n="0137011"/><anchor xml:id="beg0137011" n="0137011"/>第四分世記經<anchor xml:id="end0137011"/>三災品第九</head>
 <lb n="0137b02" ed="T"/><p xml:id="pT01p0137b0201">佛告比丘：「有四事長久，無量無限，不可以
@@ -13662,10 +13623,8 @@
 <lb n="0144a12" ed="T"/><anchor xml:id="nkr_note_orig_0144006" n="0144006"/><anchor xml:id="nkr_note_mod_0144006" n="0144006"/><anchor xml:id="beg0144006" n="0144006"/>欲因欲<anchor xml:id="end0144006"/>是。」</p></cb:div>
 <lb n="0144a13" ed="T"/><cb:juan n="021" fun="close"><cb:jhead><title><anchor xml:id="nkr_note_orig_0144007" n="0144007"/><anchor xml:id="nkr_note_mod_0144007" n="0144007"/><anchor xml:id="beg0144007" n="0144007"/>佛說<anchor xml:id="end0144007"/>長阿含經</title>卷第二十一</cb:jhead></cb:juan>
 <milestone n="22" unit="juan"/>
-<lb n="0144a14" ed="T"/>
-<lb n="0144a15" ed="T"/><cb:juan n="022" fun="open"><cb:mulu n="022" type="卷"></cb:mulu><cb:jhead><title><anchor xml:id="nkr_note_orig_0144008" n="0144008"/><anchor xml:id="nkr_note_mod_0144008" n="0144008"/><anchor xml:id="beg0144008" n="0144008"/>佛說<anchor xml:id="end0144008"/>長阿含經</title>卷第二十二</cb:jhead></cb:juan>
-<lb n="0144a16" ed="T"/>
-<lb n="0144a17" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0144009" n="0144009"/><anchor xml:id="nkr_note_mod_0144009" n="0144009"/><anchor xml:id="beg0144009" n="0144009"/>後秦弘始年<anchor xml:id="end0144009"/>佛陀耶舍共竺佛念譯</byline>
+<lb n="0144a14" ed="T"/><lb n="0144a15" ed="T"/><cb:juan n="022" fun="open"><cb:mulu n="022" type="卷"></cb:mulu><cb:jhead><title><anchor xml:id="nkr_note_orig_0144008" n="0144008"/><anchor xml:id="nkr_note_mod_0144008" n="0144008"/><anchor xml:id="beg0144008" n="0144008"/>佛說<anchor xml:id="end0144008"/>長阿含經</title>卷第二十二</cb:jhead></cb:juan>
+<lb n="0144a16" ed="T"/><lb n="0144a17" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_0144009" n="0144009"/><anchor xml:id="nkr_note_mod_0144009" n="0144009"/><anchor xml:id="beg0144009" n="0144009"/>後秦弘始年<anchor xml:id="end0144009"/>佛陀耶舍共竺佛念譯</byline>
 <lb n="0144a18" ed="T"/><cb:div type="pin"><cb:mulu level="3" type="品">11 三中劫品</cb:mulu><head><anchor xml:id="nkr_note_orig_0144010" n="0144010"/><anchor xml:id="nkr_note_mod_0144010" n="0144010"/><anchor xml:id="beg0144010" n="0144010"/>第四分世記經<anchor xml:id="end0144010"/>三中劫品第十一</head>
 <lb n="0144a19" ed="T"/><p xml:id="pT01p0144a1901">佛告比丘：「有三中劫。何等為三？一名刀兵
 <lb n="0144a20" ed="T"/>劫，二名穀貴劫，三名疾疫劫。云何為刀兵
