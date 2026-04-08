@@ -1,197 +1,100 @@
-# CbetaZenTexts
+# CbetaZenTranslations
 
-An effort to make the **CBETA canon** accessible to English speakers, with a focus on **Zen / Chan texts**.
+English translations of **CBETA Zen / Chan texts**, with community-contributed translation data.
 
-This repository hosts a **collaborative translation project** built on top of the official CBETA XML corpus.  
-It is designed to support large-scale translation while preserving the original TEI/XML structure and attribution.
-
----
-
-## 📂 Repository Structure
-
-### `xml-p5` — Original Chinese Texts
-
-Contains **unmodified CBETA XML TEI P5 files**, mirrored from:
-
-https://github.com/cbeta-org/xml-p5
-
-**Source baseline snapshot:** January 2026
-
-- Files are redistributed **unchanged**
-- All original CBETA headers are preserved
-- These files should not be edited
+This repository is the **translations companion** to [CbetaZenTexts](https://github.com/Fabulu/CbetaZenTexts), which hosts the original Chinese CBETA XML corpus.
 
 ---
+
+## Repository Structure
 
 ### `xml-p5t` — English Translations (Work in Progress)
 
-Contains copies of the same XML files, with **English translations added**.
+Contains translated CBETA XML files with **English translations added** alongside the original Chinese text.
 
-Not all files are translated yet. Coverage varies widely.
+Each translated file preserves the full original CBETA header intact.
 
-**Example translated text:**
+**Currently translated texts include:**
 
-- **T 1987A — The Record of Caoshan**  
-  Location: `xml-p5t/T/T47/T47n1987A.xml`
+| Text | Location |
+|------|----------|
+| T 1 — Long Agama Sutra | `xml-p5t/T/T01/T01n0001.xml` |
+| T 1987A — Record of Caoshan | `xml-p5t/T/T47/T47n1987A.xml` |
+| T 1987B — Record of Caoshan (alt.) | `xml-p5t/T/T47/T47n1987B.xml` |
+| T 2003 — Record of Zhaozhou | `xml-p5t/T/T48/T48n2003.xml` |
+| T 2004 — Record of Yunmen | `xml-p5t/T/T48/T48n2004.xml` |
+| T 2005 — Record of Xuefeng | `xml-p5t/T/T48/T48n2005.xml` |
+| T 2010 — Blue Cliff Record | `xml-p5t/T/T48/T48n2010.xml` |
+| T 2012A — Gateless Gate | `xml-p5t/T/T48/T48n2012A.xml` |
+| J B137 — Record of Huangbo | `xml-p5t/J/J24/J24nB137.xml` |
+| X 1217 — Bodhidharma Four Practices | `xml-p5t/X/X63/X63n1217.xml` |
+| X 1333 — Sayings of Xutang | `xml-p5t/X/X69/X69n1333.xml` |
+| B a005 — Additional text | `xml-p5t/B/B07/B07na005.xml` |
 
-Translated files **preserve the full original CBETA header**, with translation content added below it.
+### `community/` — Community Translation Data
+
+Community-contributed data organized by contributor:
+
+- `translations/` — per-user translation XML files
+- `collections/` — text collection definitions
+- `reviews/` — translation review records
+- `termbases/` — terminology databases
+
+### Root Metadata Files
+
+- `termbase.json` — shared terminology database
+- `titles.jsonl` — text title index
+- `translation-memory.approved.jsonl` — approved translation memory
+- `translation-review.jsonl` — review ledger
+- `zen_texts.json` — curated Zen text collection definition
 
 ---
 
-## ⚠️ Important: CBETA Non-Commercial Requirement
+## CBETA Non-Commercial Requirement
 
 The CBETA texts are provided under a **non-commercial use requirement**.
 
-In short:
-
-- CBETA retains ownership of the original texts  
-- Redistribution is allowed **only for non-commercial use**  
-- The **full CBETA header must remain intact** in every file  
-- Translations are subject to the same non-commercial condition  
-
-Please don’t sell this material, and don’t remove or alter the CBETA headers.
+- CBETA retains ownership of the original texts
+- Redistribution is allowed **only for non-commercial use**
+- The **full CBETA header must remain intact** in every file
+- Translations are subject to the same non-commercial condition
 
 ---
 
-## 📜 License & Attribution
+## Contributing
 
-The original XML texts are provided by:
+The easiest way to contribute translations is to use the official desktop app:
 
-**CBETA — Chinese Buddhist Electronic Text Association**  
-財團法人佛教電子佛典基金會
+**CBETA Translator** — https://github.com/Fabulu/CBETA-Translator
 
-Each file includes the official CBETA header, which contains the authoritative license and attribution language.
-
-This repository **does not modify or override** CBETA’s license terms.
-
----
-
-## 📝 About the Translations
-
-English translations in `xml-p5t` are **collaborative derivative works** based on CBETA’s XML.
-
-They aim to:
-
-- Preserve TEI/XML structure compatibility
-- Stay aligned with the original Chinese text
-- Allow transparent collaboration and review
-
-Translations are shared under the **same non-commercial condition** as the original CBETA texts.
-
----
-
-## 🎯 Purpose of This Project
-
-The goals of this repository are:
-
-- To make Zen texts accessible to English readers  
-- To preserve TEI/XML structural compatibility  
-- To support transparent, Git-based collaboration  
-
-If CBETA has any concerns regarding redistribution, attribution, or presentation, this project will comply with their requirements.
-
----
-
-## 🤝 Contributing (Easy Mode)
-
-You **do not need to know Git** to contribute.
-
-The easiest way to help translate is to use the official desktop app:
-
-👉 **CBETA Translator**  
-https://github.com/Fabulu/CBETA-Translator
-
----
-
-### 🪜 Step-by-Step Workflow
+### Quick Workflow
 
 1. Download and open **CBETA Translator**
 2. Clone this repository using the built-in **Git tab**
 3. Open a text from `xml-p5t`
 4. Translate or improve a section
 5. Press **Save** in the Translation view
-6. Go to the **Git tab**
-7. Enter a **commit message**
-8. Press **Create local commit**
-9. Press **Authorize GitHub** and complete authorization
-10. Press **Push + Create PR**
+6. Go to the **Git tab** and commit + push
 
-That’s it.
+The app handles forking, committing, and pull request creation automatically.
 
-The app will:
+### Translation Philosophy
 
-- Create a local commit  
-- Fork the repository (if needed)  
-- Push your change  
-- Open a Pull Request automatically  
+This project supports **high-quality machine translation workflows**. Machine translation is acceptable and encouraged as a baseline for iterative improvement.
 
-To you, it feels like:
+### Translator Annotation
 
-**Translate → Save → Commit → Submit**
+Please add a short annotation at the top of translated files indicating who you are and whether machine translation was used.
 
 ---
 
-## 🧠 Translation Philosophy
+## Related Repositories
 
-This project is designed to support **high-quality machine translation workflows**.
-
-You do not need to produce literary perfection.
-
-Good machine translation is:
-
-- Acceptable  
-- Encouraged  
-- Often preferred as a baseline  
-
-The structure is built to allow iterative improvement over time.
+- **[CbetaZenTexts](https://github.com/Fabulu/CbetaZenTexts)** — Original CBETA Chinese XML corpus (read-only source)
+- **[CBETA-Translator](https://github.com/Fabulu/CBETA-Translator)** — Desktop app for reading and translating CBETA texts
 
 ---
 
-## 🎥 Video: Translating with ChatGPT (Workflow Walkthrough)
+## License
 
-If you want to see the end-to-end workflow in action, here’s a video walkthrough showing how to translate texts in this repository using **ChatGPT** alongside **CBETA Translator**:
-
-- **Video:** https://www.youtube.com/watch?v=xDwJJrbx-dA  
-- **Demo text:** *Recorded Sayings of Zhaozhou* (趙州錄)
-
-This approach is fast and practical for large texts: using this workflow, the entire **Blue Cliff Record** was translated in about **one hour** as a first-pass machine translation baseline, ready for later review and refinement.
-
----
-
-## 📝 Please Add a Translator Annotation
-
-At the top of the file (in Readable mode), please add a short annotation indicating:
-
-- Who you are  
-- What you did  
-- Whether you used machine translation  
-
-Example:
-resp: dota2nub
-annotation: Machine translation using ChatGPT 5.2
-
-
-This helps:
-
-- Track translation methods  
-- Maintain transparency  
-- Credit contributors  
-
-You do not need to write an essay. One short line is enough.
-
----
-
-## 📌 A Few Guidelines
-
-- Preserve all XML structure  
-- Do not remove CBETA headers  
-- Keep translations non-commercial  
-- Small improvements are welcome  
-
-You do not need to translate an entire text at once. Even a small improvement helps.
-
----
-
-If you are comfortable with Git, you can contribute manually via pull requests.
-
-If not — the app handles everything for you.
+See [LICENSE](LICENSE) for details. All materials are distributed under CBETA's non-commercial use terms.

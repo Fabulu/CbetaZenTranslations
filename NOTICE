@@ -1,7 +1,8 @@
 NOTICE
 ======
 
-This repository redistributes XML materials from the CBETA project.
+This repository contains English translations and community translation data
+derived from the CBETA XML-P5 corpus.
 
 Original Source
 ---------------
@@ -9,11 +10,15 @@ Original Source
 CBETA — Chinese Buddhist Electronic Text Association
 財團法人佛教電子佛典基金會
 
-Official repository:
+Official repository for original texts:
 https://github.com/cbeta-org/xml-p5
 
-The files contained in the `xml-p5` directory are unmodified redistributions
-of CBETA XML TEI P5 files. All original CBETA headers are preserved.
+Original CBETA texts (unmodified) are hosted separately at:
+https://github.com/Fabulu/CbetaZenTexts
+
+The translated files in the `xml-p5t` directory are derivative works based on
+CBETA XML TEI P5 files. All original CBETA headers are preserved within
+each translated file.
 
 License and Usage Condition
 ---------------------------
@@ -25,18 +30,16 @@ This repository complies with that requirement.
 
 All users of this repository must:
 
-- Preserve the original CBETA headers in every file
-- Maintain non-commercial use of the CBETA materials
-- Respect CBETA’s ownership of the original texts
+- Preserve the original CBETA headers in every translated file
+- Maintain non-commercial use of all materials
+- Respect CBETA's ownership of the original texts
 
-Translations
-------------
+Translations and Community Data
+-------------------------------
 
-The English translations in the `xml-p5t` directory are collaborative
-derivative works based on CBETA XML files.
-
-They are distributed under the same non-commercial condition
-as the original CBETA materials.
+The English translations and community data (translation memory, termbases,
+reviews) are collaborative works distributed under the same non-commercial
+condition as the original CBETA materials.
 
 Independence
 ------------
