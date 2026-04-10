@@ -1,0 +1,2299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://raw.githubusercontent.com/cbeta-org/xml-p5/master/schema/cbeta-p5.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="X73n1454">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title level="s">Manji Shinsan Dainihon Zokuzōkyō</title>
+			<title level="s" xml:lang="zh-Hant">卍新纂大日本續藏經</title>
+			<title level="m" xml:lang="zh-Hant">雲谷和尚語錄</title>
+			<title>Manji Shinsan Dainihon Zokuzōkyō, Electronic version, No. 1454 雲谷和尚語錄</title>
+			<title xml:lang="zh-Hant">卍新纂大日本續藏經數位版, No. 1454 雲谷和尚語錄</title>
+			<author>(參學)宗敬．道傑．惟能．宗<g ref="#CB03790">㞧</g>．祖祿 編</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+		<editionStmt>
+			<edition>XML TEI P5</edition>
+			<respStmt xml:id="resp1"><resp>corrections</resp><name>AI</name></respStmt>
+			<respStmt xml:id="resp2"><resp>corrections</resp><name>Xuzangjing</name></respStmt>
+			<respStmt xml:id="resp3"><resp>corrections</resp><name>CBETA</name></respStmt>
+			<respStmt xml:id="resp4"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+			<respStmt xml:id="resp5"><resp>corrections</resp><name>CBETA.poyung</name></respStmt>
+			<respStmt xml:id="resp6"><resp>corrections</resp><name>CBETA.ting</name></respStmt>
+		</editionStmt>
+		<extent>2卷</extent>
+		<publicationStmt>
+			<idno type="CBETA">
+				<idno type="canon">X</idno>.<idno type="vol">73</idno>.<idno type="no">1454</idno>
+			</idno>
+			<distributor>
+				<name>財團法人佛教電子佛典基金會 (CBETA)</name>
+				<address>
+					<addrLine><email>service@cbeta.org</email></addrLine>
+				</address>
+			</distributor>
+			<availability>
+				<p>Available for non-commercial use when distributed with this header intact.</p>
+			</availability>
+			<date>2025-08-16 16:21:30 +0800</date>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>卍新纂大日本續藏經</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<projectDesc>
+			<p xml:lang="en" cb:type="ly">Input by CBETA, OCR by CBETA, Punctuated draft text as provided by GJ.cool AI punctuation engine</p>
+			<p xml:lang="zh-Hant" cb:type="ly">CBETA 人工輸入，CBETA 掃瞄辨識，古籍酷 AI 自動標點引擎提供新式標點初稿</p>
+		</projectDesc>
+		<editorialDecl>
+			<punctuation resp="#resp1"><p>AI 標點</p></punctuation>
+		</editorialDecl>
+		<tagsDecl>
+			<namespace name="http://www.tei-c.org/ns/1.0">
+				<tagUsage gi="rdg">
+					<listWit>
+						<witness xml:id="wit.cbeta">【CB】</witness>
+						<witness xml:id="wit.orig">【卍續】</witness>
+					</listWit>
+				</tagUsage>
+			</namespace>
+		</tagsDecl>
+		<charDecl>
+			<char xml:id="CB00331">
+				<charName>CBETA CHARACTER CB00331</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[束*束]</value>
+				</charProp>
+				<charProp>
+					<localName>normalized form</localName>
+					<value>棘</value>
+				</charProp>
+				<mapping type="unicode">U+235E5</mapping>
+				<mapping cb:dec="983371" type="PUA">U+F014B</mapping>
+			</char>
+			<char xml:id="CB00416">
+				<charName>CBETA CHARACTER CB00416</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[竺-二+帚]</value>
+				</charProp>
+				<charProp>
+					<localName>normalized form</localName>
+					<value>帚</value>
+				</charProp>
+				<mapping type="normal_unicode">U+7B92</mapping>
+				<mapping cb:dec="983456" type="PUA">U+F01A0</mapping>
+			</char>
+			<char xml:id="CB00450">
+				<charName>CBETA CHARACTER CB00450</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[雨/隻]</value>
+				</charProp>
+				<mapping type="unicode">U+4A25</mapping>
+				<mapping cb:dec="983490" type="PUA">U+F01C2</mapping>
+			</char>
+			<char xml:id="CB00562">
+				<charName>CBETA CHARACTER CB00562</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[跳-兆+(梳-木)]</value>
+				</charProp>
+				<charProp>
+					<localName>normalized form</localName>
+					<value>疏</value>
+				</charProp>
+				<mapping type="unicode">U+47FD</mapping>
+				<mapping cb:dec="983602" type="PUA">U+F0232</mapping>
+			</char>
+			<char xml:id="CB00576">
+				<charName>CBETA CHARACTER CB00576</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[寧*頁]</value>
+				</charProp>
+				<mapping type="unicode">U+29573</mapping>
+				<mapping cb:dec="983616" type="PUA">U+F0240</mapping>
+			</char>
+			<char xml:id="CB00589">
+				<charName>CBETA CHARACTER CB00589</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[澗-日+月]</value>
+				</charProp>
+				<charProp>
+					<localName>normalized form</localName>
+					<value>澗</value>
+				</charProp>
+				<mapping type="unicode">U+3D4E</mapping>
+				<mapping cb:dec="983629" type="PUA">U+F024D</mapping>
+			</char>
+			<char xml:id="CB01366">
+				<charName>CBETA CHARACTER CB01366</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[飢-几+(〡/下)]</value>
+				</charProp>
+				<charProp>
+					<localName>normalized form</localName>
+					<value>飯</value>
+				</charProp>
+				<mapping type="normal_unicode">U+98F0</mapping>
+				<mapping cb:dec="984406" type="PUA">U+F0556</mapping>
+			</char>
+			<char xml:id="CB01403">
+				<charName>CBETA CHARACTER CB01403</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[囗@力]</value>
+				</charProp>
+				<mapping type="unicode">U+361E</mapping>
+				<mapping cb:dec="984443" type="PUA">U+F057B</mapping>
+			</char>
+			<char xml:id="CB01926">
+				<charName>CBETA CHARACTER CB01926</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[厂@火]</value>
+				</charProp>
+				<charProp>
+					<localName>normalized form</localName>
+					<value>灰</value>
+				</charProp>
+				<mapping type="unicode">U+2F835</mapping>
+				<mapping cb:dec="984966" type="PUA">U+F0786</mapping>
+			</char>
+			<char xml:id="CB01990">
+				<charName>CBETA CHARACTER CB01990</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[泳-永+旱]</value>
+				</charProp>
+				<mapping type="unicode">U+23D61</mapping>
+				<mapping cb:dec="985030" type="PUA">U+F07C6</mapping>
+			</char>
+			<char xml:id="CB02133">
+				<charName>CBETA CHARACTER CB02133</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[糸*系]</value>
+				</charProp>
+				<mapping type="unicode">U+2E214</mapping>
+				<mapping cb:dec="985173" type="PUA">U+F0855</mapping>
+			</char>
+			<char xml:id="CB02494">
+				<charName>CBETA CHARACTER CB02494</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[跳-兆+(乏-之+友)]</value>
+				</charProp>
+				<charProp>
+					<localName>normalized form</localName>
+					<value>跋</value>
+				</charProp>
+				<mapping type="unicode">U+47E6</mapping>
+				<mapping cb:dec="985534" type="PUA">U+F09BE</mapping>
+			</char>
+			<char xml:id="CB03790">
+				<charName>CBETA CHARACTER CB03790</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[山/乃]</value>
+				</charProp>
+				<charProp>
+					<localName>normalized form</localName>
+					<value>會</value>
+				</charProp>
+				<mapping type="unicode">U+37A7</mapping>
+				<mapping cb:dec="986830" type="PUA">U+F0ECE</mapping>
+			</char>
+			<char xml:id="CB04138">
+				<charName>CBETA CHARACTER CB04138</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[真*真]</value>
+				</charProp>
+				<charProp>
+					<localName>normalized form</localName>
+					<value>顛</value>
+				</charProp>
+				<mapping type="unicode">U+34B9</mapping>
+				<mapping cb:dec="987178" type="PUA">U+F102A</mapping>
+			</char>
+			<char xml:id="CB04622">
+				<charName>CBETA CHARACTER CB04622</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[邱-丘+(厂@墨)]</value>
+				</charProp>
+				<charProp>
+					<localName>normalized form</localName>
+					<value>廛</value>
+				</charProp>
+				<mapping type="normal_unicode">U+2B46E</mapping>
+				<mapping cb:dec="987662" type="PUA">U+F120E</mapping>
+			</char>
+			<char xml:id="CB05084">
+				<charName>CBETA CHARACTER CB05084</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[匚@于]</value>
+				</charProp>
+				<charProp>
+					<localName>normalized form</localName>
+					<value>匡</value>
+				</charProp>
+				<mapping type="unicode">U+2D155</mapping>
+				<mapping cb:dec="988124" type="PUA">U+F13DC</mapping>
+			</char>
+			<char xml:id="CB05324">
+				<charName>CBETA CHARACTER CB05324</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[若/(若*若)]</value>
+				</charProp>
+				<mapping type="unicode">U+4583</mapping>
+				<mapping cb:dec="988364" type="PUA">U+F14CC</mapping>
+			</char>
+			<char xml:id="CB05577">
+				<charName>CBETA CHARACTER CB05577</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[(曷-曰)/月]</value>
+				</charProp>
+				<charProp>
+					<localName>normalized form</localName>
+					<value>胸</value>
+				</charProp>
+				<mapping type="unicode">U+2E30E</mapping>
+				<mapping cb:dec="988617" type="PUA">U+F15C9</mapping>
+			</char>
+			<char xml:id="CB08504">
+				<charName>CBETA CHARACTER CB08504</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[舀*炎]</value>
+				</charProp>
+				<charProp>
+					<localName>normalized form</localName>
+					<value>燄</value>
+				</charProp>
+				<mapping type="unicode">U+269A8</mapping>
+				<mapping cb:dec="991544" type="PUA">U+F2138</mapping>
+			</char>
+			<char xml:id="CB08764">
+				<charName>CBETA CHARACTER CB08764</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[宋-木+取]</value>
+				</charProp>
+				<mapping type="unicode">U+3761</mapping>
+				<mapping cb:dec="991804" type="PUA">U+F223C</mapping>
+			</char>
+			<char xml:id="CB08873">
+				<charName>CBETA CHARACTER CB08873</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[珍-王+貝]</value>
+				</charProp>
+				<mapping type="unicode">U+4769</mapping>
+				<mapping cb:dec="991913" type="PUA">U+F22A9</mapping>
+			</char>
+			<char xml:id="CB13747">
+				<charName>CBETA CHARACTER CB13747</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[栽-木+土]</value>
+				</charProp>
+				<mapping type="unicode">U+363D</mapping>
+				<mapping cb:dec="996787" type="PUA">U+F35B3</mapping>
+			</char>
+			<char xml:id="CB15081">
+				<charName>CBETA CHARACTER CB15081</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[竺-二+束]</value>
+				</charProp>
+				<charProp>
+					<localName>normalized form</localName>
+					<value>策</value>
+				</charProp>
+				<mapping type="unicode">U+41FF</mapping>
+				<mapping cb:dec="998121" type="PUA">U+F3AE9</mapping>
+			</char>
+			<char xml:id="CB15109">
+				<charName>CBETA CHARACTER CB15109</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[离-禸+月]</value>
+				</charProp>
+				<charProp>
+					<localName>normalized form</localName>
+					<value>胸</value>
+				</charProp>
+				<mapping type="unicode">U+266BE</mapping>
+				<mapping cb:dec="998149" type="PUA">U+F3B05</mapping>
+			</char>
+			<char xml:id="CB15111">
+				<charName>CBETA CHARACTER CB15111</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[覤-儿+丘]</value>
+				</charProp>
+				<charProp>
+					<localName>normalized form</localName>
+					<value>覷</value>
+				</charProp>
+				<mapping cb:dec="998151" type="PUA">U+F3B07</mapping>
+			</char>
+			<char xml:id="CB15150">
+				<charName>CBETA CHARACTER CB15150</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[鬃-示+(眉-目+貝)]</value>
+				</charProp>
+				<charProp>
+					<localName>normalized form</localName>
+					<value>鬢</value>
+				</charProp>
+				<mapping type="unicode">U+29BED</mapping>
+				<mapping cb:dec="998190" type="PUA">U+F3B2E</mapping>
+			</char>
+			<char xml:id="CB15737">
+				<charName>CBETA CHARACTER CB15737</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[入/米/田]</value>
+				</charProp>
+				<mapping type="normal_unicode">U+24C9E</mapping>
+				<mapping cb:dec="998777" type="PUA">U+F3D79</mapping>
+			</char>
+			<char xml:id="CB15901">
+				<charName>CBETA CHARACTER CB15901</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[匙-匕+巳]</value>
+				</charProp>
+				<charProp>
+					<localName>normalized form</localName>
+					<value>匙</value>
+				</charProp>
+				<mapping type="unicode">U+22048</mapping>
+				<mapping cb:dec="998941" type="PUA">U+F3E1D</mapping>
+			</char>
+			<char xml:id="CB16192">
+				<charName>CBETA CHARACTER CB16192</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[目*雇]</value>
+				</charProp>
+				<mapping cb:dec="999232" type="PUA">U+F3F40</mapping>
+			</char>
+			<char xml:id="CB16221">
+				<charName>CBETA CHARACTER CB16221</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[泳-永+　]</value>
+				</charProp>
+				<mapping cb:dec="999261" type="PUA">U+F3F5D</mapping>
+			</char>
+			<char xml:id="CB16224">
+				<charName>CBETA CHARACTER CB16224</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[竺-二+果]</value>
+				</charProp>
+				<mapping cb:dec="999264" type="PUA">U+F3F60</mapping>
+			</char>
+			<char xml:id="CB16241">
+				<charName>CBETA CHARACTER CB16241</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[搨-日+ㄙ]</value>
+				</charProp>
+				<mapping cb:dec="999281" type="PUA">U+F3F71</mapping>
+			</char>
+		</charDecl>
+	</encodingDesc>
+	<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh-Hant">Chinese (Traditional)</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+		<change when="2004-06-21T09:23:22">
+			Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT
+		</change>
+	</revisionDesc>
+</teiHeader>
+<text><body>
+<milestone n="1" unit="juan" />
+<pb n="0434a" ed="X" xml:id="X73.1454.0434a" />
+<lb n="0434a01" ed="X" />
+<note type="community" resp="theksepyro">translated blocks 1-3, 6-10, 13-16, 19-23, 25-26, 28-29, 31-32, 34-35, 37, 39, 41-42, 44, 46, 48, 50-51, 53, 55, 57, 59-60, 62, 64, 66, 68-69, 71, 73-74, 76, 78, 80, 82-83, 85, 87-88, 90, 92, 94, 96-97, 99-100, 102-103, 105, 107-108, 110, 112-113, 115, 117-118, 120, 122, 124-125, 127, 129, 131-132, 134, 136-137, 139, 141, 143-144, 146, 148-149, 151, 153-154, 156, 158, 160-161, 163, 165-166, 168, 170-171, 173, 175, 177-178, 180, 182-183, 185-186, 188-189, 191, 193-194, 196, 198-202, 204-205, 207-208, 210, 212-213, 215, 217, 219-220, 222, 224, 226, 228-229, 231, 233, 235-236, 238, 240-241, 243, 245-246, 248, 250, 252-253, 255, 257-258, 260, 262, 264-265, 267, 269-270, 272, 274, 276-277, 279, 281-282, 284, 286, 288, 290, 292, 294, 296, 298, 300, 302-303, 305, 307-308, 310, 312-313, 315, 317, 319, 321, 323, 325, 327-328, 330, 332-333, 335, 337, 339-340, 342, 344, 346, 348, 350-351, 353, 355, 357-358, 360, 362, 364, 366, 368, 370, 372-373, 375-376, 378, 380-381, 383, 385-386, 388, 390-391, 393, 395-396, 398, 400-401, 403, 405, 407, 409-410, 412, 414-415, 417, 419, 421, 423, 425, 427-428, 430-431, 433, 435-436, 438-439, 441-442, 444, 446-447, 449, 451, 453-454, 456, 458-462, 464-465, 467, 469, 471, 473-474, 476, 478, 480-481, 483, 485, 487, 489, 491, 493, 495, 497, 499, 501, 503, 505, 507, 509, 511-512, 514, 516, 518-519, 521, 523, 525, 527-528, 530-531, 533, 535, 537-538, 540, 542-543, 545, 547, 549, 551-552, 554, 556, 558, 560-561, 563, 565-566, 568, 570-571, 573-574, 576, 578, 580, 582-583, 585, 587-588, 590-592, 594-595, 597-598, 600, 602-606, 608-609, 611-614, 616, 618, 620, 622, 624, 626, 628, 630, 632-633, 635, 637, 639, 641, 643-644, 646, 648, 650, 652, 654, 656-657, 659, 661-662, 664, 666, 668, 670, 672, 674, 676-677, 679, 681, 683-684, 686, 688, 690-691, 693, 695-696, 698, 700-705, 707, 709, 711, 713, 715-716, 718, 720, 722, 724-725, 727, 729, 731, 733, 735, 737, 739, 741-742, 744, 746, 748, 750, 752-753, 755, 757, 759, 761, 763-764, 766, 768, 770, 772, 774-775, 777, 779, 781, 783, 785-786, 788, 790-791, 793, 795, 797, 799-800, 802, 804-805, 807, 809, 811, 813, 815, 817-818, 820, 822, 824-825, 827, 829, 831, 833, 835-836, 838, 840, 842-843, 845, 847, 849, 851, 853, 855-856, 858, 860, 862, 864, 866, 868-869, 871, 873, 875, 877-878, 880, 882, 884, 886, 888-891, 893, 895, 897, 899, 901, 903, 905, 907, 909, 911, 913, 915, 917, 919, 921, 923, 925, 927, 929, 931, 933, 935, 937, 939, 941, 943, 945, 947, 949, 951, 953, 955, 957, 959, 961, 963, 965, 967, 969, 971, 973, 975, 977, 979, 981, 983, 985, 987, 989, 991, 993, 995, 997, 999, 1001, 1003, 1005, 1007, 1009, 1011, 1013, 1015, 1017, 1019-1022, 1024, 1026, 1028, 1030, 1032, 1034, 1036, 1038-1039, 1041, 1043-1044, 1046, 1048, 1050, 1052, 1054, 1056-1057, 1059, 1061, 1063, 1065, 1067, 1069, 1071, 1073, 1075-1080, 1082-1085, 1087-1090, 1092-1095, 1097-1100, 1102-1105, 1107-1110, 1112-1115, 1117-1120, 1122-1125, 1127-1130, 1132-1135, 1137-1140, 1142-1145, 1147-1158, 1160-1161, 1163-1184, 1186-1197, 1199-1202, 1204-1207, 1209, 1211-1214, 1216-1219, 1221-1224, 1226, 1228-1231, 1233, 1235-1238, 1240, 1242-1245, 1247, 1249, 1251, 1253, 1255, 1257-1264, 1266, 1268, 1270-1271, 1274, 1276, 1278, 1280, 1282, 1284, 1286</note>
+<lb n="0434a02" ed="X" />
+<lb n="0434a03" ed="X" />
+<lb n="0434a04" ed="X" />
+<lb n="0155a01" ed="R127" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Table of Contents of the Recorded Sayings of the Master Yungu</cb:mulu><head>Table of Contents of the Recorded Sayings of the Master Yungu</head>
+<lb n="0434a05" ed="X" />
+<lb n="0155a02" ed="R127" />
+<lb n="0434a06" ed="X" />
+<lb n="0155a03" ed="R127" />
+<list rend="no-marker"><item xml:id="itemX73p0434a0601">Upper Volume
+<lb n="0434a07" ed="X" />
+<lb n="0155a04" ed="R127" />
+<list rend="no-marker"><item xml:id="itemX73p0434a0701">Recorded Sayings at Shengshou Chan Monastery</item><item xml:id="itemX73p0434a0707">Recorded Sayings at Benjue Chan Monastery</item>
+<lb n="0434a08" ed="X" />
+<lb n="0155a05" ed="R127" />
+<item xml:id="itemX73p0434a0801">Recorded Sayings at Kaiyuan Chan Monastery</item><item xml:id="itemX73p0434a0807">Recorded Sayings at Yunyan Chan Monastery</item></list></item>
+<lb n="0434a09" ed="X" />
+<lb n="0155a06" ed="R127" />
+<item xml:id="itemX73p0434a0901">Lower Volume
+<lb n="0434a10" ed="X" />
+<lb n="0155a07" ed="R127" />
+<list rend="no-marker"><item xml:id="itemX73p0434a1001">Informal Instructions</item><item xml:id="itemX73p0434a1003">General Address to the Assembly Offering Incense</item>
+<lb n="0434a11" ed="X" />
+<lb n="0155a08" ed="R127" />
+<item xml:id="itemX73p0434a1101">Verses and Eulogies</item><item xml:id="itemX73p0434a1103">Minor Buddhist Services</item>
+<lb n="0434a12" ed="X" />
+<lb n="0155a09" ed="R127" />
+<item xml:id="itemX73p0434a1201"><g ref="#CB02494">䟦</g></item></list></item></list></cb:div>
+<lb n="0434a13" ed="X" />
+<lb n="0434a14" ed="X" />
+<lb n="0434a15" ed="X" />
+<lb n="0434a16" ed="X" />
+<lb n="0434a17" ed="X" />
+<lb n="0434a18" ed="X" />
+<cb:docNumber>No. 1454</cb:docNumber>
+<lb n="0434a19" ed="X" />
+<lb n="0155a11" ed="R127" />
+<cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"></cb:mulu><cb:jhead>Recorded Sayings of the Master Yungu, Upper Volume</cb:jhead></cb:juan>
+<lb n="0434a20" ed="X" />
+<lb n="0155a12" ed="R127" />
+<lb n="0434a21" ed="X" />
+<lb n="0155a13" ed="R127" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Recorded Sayings of the Master Yungu at His First Residence at Shengshou Chan Monastery in Pingjiang Prefecture</cb:mulu><head>Recorded Sayings of the Master Yungu at His First Residence at Shengshou Chan Monastery in Pingjiang Prefecture</head>
+<lb n="0434a22" ed="X" />
+<lb n="0155a14" ed="R127" />
+<byline cb:type="editor">Compiled by the student Zongjing</byline>
+<lb n="0434a23" ed="X" />
+<lb n="0155a15" ed="R127" />
+<p xml:id="pX73p0434a2301">In the eighth month of the fourth year of Baoyou, the master entered the monastery and, pointing to the three gates, said: One who has the power to pull open and fully penetrate<anchor xml:id="nkr_note_orig_0434001" n="0434001" />
+<lb n="0434a24" ed="X" />
+<lb n="0155a16" ed="R127" />and open the eyes still has not yet entered the gate of Shengshou. Today the new abbot lets it pass. He shouted!</p>
+<pb n="0434b" ed="X" xml:id="X73.1454.0434b" />
+<lb n="0434b01" ed="X" />
+<lb n="0155a17" ed="R127" />
+<p xml:id="pX73p0434b0101">In the Buddha Hall, do not seek the Buddha, do not seek the Dharma—what use is making prostrations? Lifting up the sitting mat, he said: Let go
+<lb n="0434b02" ed="X" />
+<lb n="0155a18" ed="R127" />—it must not be let pass.</p>
+<lb n="0434b03" ed="X" />
+<lb n="0155b01" ed="R127" />
+<p xml:id="pX73p0434b0301">Occupying the room like Mojie, closing the room like Vimalakirti. Cutting off words, he struck the bed and said: The thirty-six thousand qing of Lake Tai,
+<lb n="0434b04" ed="X" />
+<lb n="0155b02" ed="R127" />with the moon in the heart of the waves—toward whom is it spoken?</p>
+<lb n="0434b05" ed="X" />
+<lb n="0155b03" ed="R127" />
+<p xml:id="pX73p0434b0501">Picking up the robe: At Jizu Peak it is firmly upheld, at Dayu Ridge it cannot be lifted. Raising the Dharma robe, he said: This
+<lb n="0434b06" ed="X" />
+<lb n="0155b04" ed="R127" />—what is it? Do you take me to be concealing anything? I conceal nothing from you.</p>
+<lb n="0434b07" ed="X" />
+<lb n="0155b05" ed="R127" />
+<p xml:id="pX73p0434b0701">Ascending the seat, he held up incense and said: This single piece of incense is respectfully for
+<lb n="0434b08" ed="X" type="honorific" />
+<lb n="0155b06" ed="R127" />Praying for the present emperor, may the sacred lifespan be prolonged: ten thousand years, ten thousand years, ten thousand times ten thousand years!
+<lb n="0434b09" ed="X" type="honorific" />
+<lb n="0155b07" ed="R127" />Then he took his seat and gave instruction, saying: Across vast misty waves, at the four bridges with wind and moon, a thousand-foot line is cast straight down<g ref="#CB02133" />
+<lb n="0434b10" ed="X" />
+<lb n="0155b08" ed="R127" />hanging; the great turtle of the three mountains gives a slight tug. Is there any who does not crave the fragrant bait?<anchor xml:id="nkr_note_orig_0434002" n="0434002" /><note place="inline">問答不錄</note></p>
+<lb n="0434b11" ed="X" />
+<lb n="0155b09" ed="R127" />
+<p xml:id="pX73p0434b1101">Before the main thread is raised, its pattern not yet revealed—there is Suzhou, there is Changzhou—just a trace appears. The main mountain is high, the table
+<lb n="0434b12" ed="X" />
+<lb n="0155b10" ed="R127" />mountain is low; nowhere does it remain, everywhere it is accomplished. In the bustling dusty market, letting go two, casting off three,
+<lb n="0434b13" ed="X" />
+<lb n="0155b11" ed="R127" />amid piled white waves, displaying the oar and dancing the rudder. South to Chuihong, west to Hepu, you all come and go,
+<lb n="0434b14" ed="X" />
+<lb n="0155b12" ed="R127" />you all nod your heads. Just as when Baoshou opened the hall and Sansheng pushed out a monk, Baoshou immediately struck him,
+<lb n="0434b15" ed="X" />
+<lb n="0155b13" ed="R127" />what was the intent? Holding the Mo-ye sword crosswise to carry out the proper command, in a peaceful realm cutting down the foolish and obstinate.</p>
+<lb n="0434b16" ed="X" />
+<lb n="0155b14" ed="R127" />
+<p xml:id="pX73p0434b1601">At the evening informal instruction, after questions and answers, he said: Deshan in informal instruction would not answer questions, displaying the might that split Mount Tai
+<lb n="0434b17" ed="X" />
+<lb n="0155b15" ed="R127" />with giant strength; Zhaozhou in informal instruction required answers, unfolding the power of a golden-winged bird cleaving the vast sea. If one
+<lb n="0434b18" ed="X" />
+<lb n="0155b16" ed="R127" />can raise one and illuminate three, with eyes and faculties balanced to the finest degree, like a magnet meeting iron, with a light pull it<anchor xml:id="nkr_note_add_0434b1801" n="0434b1801" /><anchor xml:id="beg0434b1801" n="0434b1801" /><anchor xml:id="end0434b1801" />
+<lb n="0434b19" ed="X" />
+<lb n="0155b17" ed="R127" />moves—why speak of giving thirty blows? Why speak of throwing a brick to attract jade? Tonight no merit is set in motion, no
+<lb n="0434b20" ed="X" />
+<lb n="0155b18" ed="R127" />influence is stirred; the tracks are changed and the thoroughfare opened, the sea routes run in order. Do you understand? Lake Tai spans three regions.</p>
+<lb n="0434b21" ed="X" />
+<lb n="0156a01" ed="R127" />
+<p xml:id="pX73p0434b2101">Again he cited: Bao Gong had someone convey a message to Sida: Why not come down the mountain to teach and transform living beings? Why gaze
+<lb n="0434b22" ed="X" />
+<lb n="0156a02" ed="R127" />at the Milky Way? Sida said: The Buddhas of the three times have all been swallowed by me in a single gulp—what living beings
+<lb n="0434b23" ed="X" />
+<lb n="0156a03" ed="R127" />are there to be transformed? The master commented: These two elders—one with sweet words but a bitter heart, the other who, once supported, becomes
+<lb n="0434b24" ed="X" />
+<lb n="0156a04" ed="R127" />drunk. In the teaching tradition this may be acceptable, but under the gate of patch-robed monks, it must drip with blood
+<pb n="0434c" ed="X" xml:id="X73.1454.0434c" />
+<lb n="0434c01" ed="X" />
+<lb n="0156a05" ed="R127" />drop by drop. He struck the staff once and said: The cart is not pushed sideways; principle admits no crooked cutting.</p>
+<lb n="0434c02" ed="X" />
+<lb n="0156a06" ed="R127" />
+<p xml:id="pX73p0434c0201">Ascending the hall: For twenty days since entering the monastery, busy and bustling. Meeting monks, I offer deep greetings; seeing laypeople, I bow low
+<lb n="0434c03" ed="X" />
+<lb n="0156a07" ed="R127" />in salutation. Why is it that of ten there are five pairs? Missing the moment of opportunity. Even so, misfortune does not enter the careful household
+<lb n="0434c04" ed="X" />
+<lb n="0156a08" ed="R127" />door.</p>
+<lb n="0434c05" ed="X" />
+<lb n="0156a09" ed="R127" />
+<p xml:id="pX73p0434c0501">On the Buddha's nirvana, ascending the hall: When arising and ceasing are extinguished, quiescent extinction is bliss; the yellow-faced Gautama, having died, cannot live<anchor xml:id="nkr_note_add_0434c0501" n="0434c0501" /><anchor xml:id="beg0434c0501" n="0434c0501" /><anchor xml:id="end0434c0501" />
+<lb n="0434c06" ed="X" />
+<lb n="0156a10" ed="R127" />again. When the assembly was told and the coffin displayed the crossed feet, the yellow-faced Gautama, though alive, cannot die. Shengshou<g ref="#CB15109" />
+<lb n="0434c07" ed="X" />
+<lb n="0156a11" ed="R127" />has a secretly transmitted method: that which dies can live, that which lives can die. Then he took up the staff and struck
+<lb n="0434c08" ed="X" />
+<lb n="0156a12" ed="R127" />it once and said: Alive, alive! Do you all still see old Gautama? Leaning on the staff, he said: No
+<lb n="0434c09" ed="X" />
+<lb n="0156a13" ed="R127" />Is it so, or is it not?</p>
+<lb n="0434c10" ed="X" />
+<lb n="0156a14" ed="R127" />
+<p xml:id="pX73p0434c1001">Thanking Head Seat Jing of Tiantai and Storehouse Master Wang of Jingci, ascending the hall: In Jiangnan and the Two Zhe regions, spring is cold and autumn
+<lb n="0434c11" ed="X" />
+<lb n="0156a15" ed="R127" />is hot. Clearly speaking it, one does not know it exists; clearly knowing it exists, one cannot speak it. After a pause, he said: Fenggan
+<lb n="0434c12" ed="X" />
+<lb n="0156a16" ed="R127" />riding that great tiger was originally the white-brow of South Mountain.</p>
+<lb n="0434c13" ed="X" />
+<lb n="0156a17" ed="R127" />
+<p xml:id="pX73p0434c1301">Ascending the hall, he cited: A monk asked Fengxue: Speech and silence both involve subtle deviation—how can one pass through without transgressing? Fengxue said:
+<lb n="0434c14" ed="X" />
+<lb n="0156a18" ed="R127" />I often recall Jiangnan in the third month, where partridges cry and a hundred flowers are fragrant. The master commented: The yellow-faced one of Zhe
+<lb n="0434c15" ed="X" />
+<lb n="0156b01" ed="R127" />chants a single sacred spell, binding all the people of the great earth completely, so that they cannot even breathe
+<lb n="0434c16" ed="X" />
+<lb n="0156b02" ed="R127" />at all. Shengshou cannot avoid reciting the universal transference mantra: Reaching the end of Jiang and Wu lands, across the shore the Yue mountains
+<lb n="0434c17" ed="X" />
+<lb n="0156b03" ed="R127" />are many.</p>
+<lb n="0434c18" ed="X" />
+<lb n="0156b04" ed="R127" />
+<p xml:id="pX73p0434c1801">Engraved and entered among precious works. Ascending the hall: The true Dharma eye of Vulture Peak, Zhongfeng broke the earthen basin. Supported, it cannot
+<lb n="0434c19" ed="X" />
+<lb n="0156b05" ed="R127" />be raised; shaken, it stirs heaven and earth. He gave a shout and said: I walk in the wild grasses, while you enter the deep village.</p>
+<lb n="0434c20" ed="X" />
+<lb n="0156b06" ed="R127" />
+<p xml:id="pX73p0434c2001">Ascending the hall: The fire of mind blazes, the winds of conditions surge. At Xiande Mountain, Linji displayed great function and great application. Breaking
+<lb n="0434c21" ed="X" />
+<lb n="0156b07" ed="R127" />through the toiling dust of beings, overturning them seven or eight times. Do you understand? A good merchant does not keep dead goods.<g ref="#CB04138" /></p>
+<lb n="0434c22" ed="X" />
+<lb n="0156b08" ed="R127" />
+<p xml:id="pX73p0434c2201">Thanking Head Seat Wuwai, ascending the hall: When a single leaf falls, all under heaven is autumn—if you understand in this way, how can it suffice? When a
+<lb n="0434c23" ed="X" />
+<lb n="0156b09" ed="R127" />speck of dust arises, the whole earth is contained—if you do not understand in this way, how can it suffice? Whether so or not so, iron walls upon
+<lb n="0434c24" ed="X" />
+<lb n="0156b10" ed="R127" />iron walls. Even so, if one is not a clear-eyed person, it is very difficult to discern fully.</p>
+<pb n="0435a" ed="X" xml:id="X73.1454.0435a" />
+<lb n="0435a01" ed="X" />
+<lb n="0156b11" ed="R127" />
+<p xml:id="pX73p0435a0101">Thanking Storehouse Master Xiang of Jingshan and Attendant Hang of Wenzhou, ascending the hall: The entire Tripitaka teaching is like cutting a begging bowl
+<lb n="0435a02" ed="X" />
+<lb n="0156b12" ed="R127" />to pieces, filling the mouth with ice and frost; personally arriving at Caoqi, circling the seat and shaking the staff, thorns on level ground. Raising it<g ref="#CB13747" /><g ref="#CB00331" />
+<lb n="0435a03" ed="X" />
+<lb n="0156b13" ed="R127" />has been raised, picking it up has been picked up. Do you understand? Monks of Sichuan are rough, monks of Zhe are at ease.</p>
+<lb n="0435a04" ed="X" />
+<lb n="0156b14" ed="R127" />
+<p xml:id="pX73p0435a0401">Ascending the hall, he cited: A monk asked Xianglin: What is the matter beneath the patched robe? Xianglin said: In the twelfth month, a fire
+<lb n="0435a05" ed="X" />
+<lb n="0156b15" ed="R127" />burns the mountain. The master commented: In the twelfth month, a fire burns the mountain—words are direct and speech is also direct. White clouds gather at the valley mouth,
+<lb n="0435a06" ed="X" />
+<lb n="0156b16" ed="R127" />the bright moon soaks the railing.</p>
+<lb n="0435a07" ed="X" />
+<lb n="0156b17" ed="R127" />
+<p xml:id="pX73p0435a0701">On the eighth day of the twelfth month, heavy snow fell; the master Yanxi of Jingshan arrived. Ascending the hall: Two thousand years ago, two thousand years
+<lb n="0435a08" ed="X" />
+<lb n="0156b18" ed="R127" />later—marvelous, marvelous! Rare, truly rare! All alike go out from the mountain and come down to teach and transform beings—are there
+<lb n="0435a09" ed="X" />
+<lb n="0157a01" ed="R127" />any whose eyes are clear and whose minds are awakened? If not, Shengshou will add frost upon snow. He struck the staff
+<lb n="0435a10" ed="X" />
+<lb n="0157a02" ed="R127" />the staff, then descended from the seat.</p>
+<lb n="0435a11" ed="X" />
+<lb n="0157a03" ed="R127" />
+<p xml:id="pX73p0435a1101">On New Year's Day, ascending the hall: Speaking on the first day of the first month today, there are many taboos in speech. If one speaks of the Buddha Dharma, it is said:
+<lb n="0435a12" ed="X" />
+<lb n="0157a04" ed="R127" />If you utter the word Buddha, rinse your mouth for three days. If one speaks of worldly matters, it is said: Under the patriarchs' gate, it is not permitted
+<lb n="0435a13" ed="X" />
+<lb n="0157a05" ed="R127" />to engage in vulgar talk. He lifted the staff and said: Let the staff reveal a bit of news. He struck it once—oxen advance by the thousand,
+<lb n="0435a14" ed="X" />
+<lb n="0157a06" ed="R127" />and horses advance by the hundred.</p>
+<lb n="0435a15" ed="X" />
+<lb n="0157a07" ed="R127" />
+<p xml:id="pX73p0435a1501">On the Lantern Festival, ascending the hall: The moon in the sky is full, in the human world the moon is half; one lamp becomes hundreds of thousands of millions of lamps, everywhere
+<lb n="0435a16" ed="X" />
+<lb n="0157a08" ed="R127" />the light shines brilliantly. Suddenly mist gathers and clouds arise, heaven and earth turn pitch black—where is the lamp
+<lb n="0435a17" ed="X" />
+<lb n="0157a09" ed="R127" />then? After a pause, he said: I recall Xianglin—proving a turtle becomes a soft-shelled turtle.</p>
+<lb n="0435a18" ed="X" />
+<lb n="0157a10" ed="R127" />
+<p xml:id="pX73p0435a1801">Ascending the hall, he cited: A monk asked Yunmen: Luminous still illumination pervades sands like the Ganges. Yunmen said: Is this not
+<lb n="0435a19" ed="X" />
+<lb n="0157a11" ed="R127" />the words of the scholar Zhang Zhuo? The monk said: Yes. Yunmen said: You have fallen into words. The master commented: Before the spark strikes,
+<lb n="0435a20" ed="X" />
+<lb n="0157a12" ed="R127" />within the flash of lightning, if you try to trace it, it is a thousand or ten thousand miles away. Even so, where is it
+<lb n="0435a21" ed="X" />
+<lb n="0157a13" ed="R127" />that this monk has fallen into words? After a pause, he said: On the road nothing is lost and found; the noble person praises this.</p>
+<lb n="0435a22" ed="X" />
+<lb n="0157a14" ed="R127" />
+<p xml:id="pX73p0435a2201">Ascending the hall: The spring days linger, the spring colors cling; seeing peach blossoms, there is no more doubt; hearing bamboo struck, one forgets
+<lb n="0435a23" ed="X" />
+<lb n="0157a15" ed="R127" />what was known. Why is it that one person says they have not understood, another says they have not penetrated? After a pause, he said: Fine gold from the great smelter
+<lb n="0435a24" ed="X" />
+<lb n="0157a16" ed="R127" />should show no change in color.</p>
+<pb n="0435b" ed="X" xml:id="X73.1454.0435b" />
+<lb n="0435b01" ed="X" />
+<lb n="0157a17" ed="R127" />
+<p xml:id="pX73p0435b0101">Reading the sayings of Fohai of Jingshan, ascending the hall: The single transmission at Vulture Peak, the direct pointing at Shaolin. Beginning from Shengyuan Pavilion
+<lb n="0435b02" ed="X" />
+<lb n="0157a18" ed="R127" />and ending at Lingxiao Peak, in between these two it has never been spoken. Do you all know
+<lb n="0435b03" ed="X" />
+<lb n="0157b01" ed="R127" />where Fohai lands? The pattern is already revealed.<anchor xml:id="nkr_note_add_0435b0301" n="0435b0301" /><anchor xml:id="beg0435b0301" n="0435b0301" /><anchor xml:id="end0435b0301" /></p>
+<lb n="0435b04" ed="X" />
+<lb n="0157b02" ed="R127" />
+<p xml:id="pX73p0435b0401">Thanking the Storehouse Master and the Assistant Supervisor, ascending the hall: The entire Tripitaka teaching—how can it compare to the yellowed pages on a chest? These
+<lb n="0435b05" ed="X" />
+<lb n="0157b03" ed="R127" />words cannot be explained except by a drowsy tiger, cannot be displayed except by a seller of fresh ginger. As for the rest,
+<lb n="0435b06" ed="X" />
+<lb n="0157b04" ed="R127" />those who say black beans are good for making paste and white rice good for cooking—Shengshou will not nod in approval. Why
+<lb n="0435b07" ed="X" />
+<lb n="0157b05" ed="R127" />is this? The home is in the western region.</p>
+<lb n="0435b08" ed="X" />
+<lb n="0157b06" ed="R127" />
+<p xml:id="pX73p0435b0801">At the summer retreat, ascending the hall: He lifted the staff and struck it once—if you grasp it here, the assembly at Vulture Peak
+<lb n="0435b09" ed="X" />
+<lb n="0157b07" ed="R127" />remains solemnly unscattered; if not, then listen to the staff speak the verse of the retreat. He struck it once
+<lb n="0435b10" ed="X" />
+<lb n="0157b08" ed="R127" />and said: Too much ornamentation arises.</p>
+<lb n="0435b11" ed="X" />
+<lb n="0157b09" ed="R127" />
+<p xml:id="pX73p0435b1101">Ascending the hall: Baizhang encountered Mazu’s shout, Linji received Huangbo’s blows—piercing the skull, glued basin, throwing the body<anchor xml:id="nkr_note_add_0435b1101" n="0435b1101" /><anchor xml:id="beg0435b1101" n="0435b1101" /><anchor xml:id="end0435b1101" />
+<lb n="0435b12" ed="X" />
+<lb n="0157b10" ed="R127" />into the net of law. As for this side and that side, three hundred or five hundred, vast discussions—beneath the skin is there still
+<lb n="0435b13" ed="X" />
+<lb n="0157b11" ed="R127" />blood? He struck the staff once and said: The iron whip has great ძალ, yet laments having no foe.</p>
+<lb n="0435b14" ed="X" />
+<lb n="0157b12" ed="R127" />
+<p xml:id="pX73p0435b1401">Ascending the hall: The patched-robed monk’s equipment is the eyes of pilgrimage, revealing the upward nose. Lifting the vajra hammer, it shatters
+<lb n="0435b15" ed="X" />
+<lb n="0157b13" ed="R127" />the nests of sages and ordinary ones. Wielding the sword of wisdom, it cuts off the lifeline of Buddhas and patriarchs. The entire Tripitaka is but
+<lb n="0435b16" ed="X" />
+<lb n="0157b14" ed="R127" />tattered old paper for wiping sores. The thousand seven hundred transmission lamps are merely idle implements for playing monkeys. He gave a shout,
+<lb n="0435b17" ed="X" />
+<lb n="0157b15" ed="R127" />yet a good cause does not necessarily bring a bad result.</p>
+<lb n="0435b18" ed="X" />
+<lb n="0157b16" ed="R127" />
+<p xml:id="pX73p0435b1801">Ascending the hall: Bodhidharma faced the wall, Yunmen recited seven. Thunder crashes on dry ground, the blazing sun in scorching heat. The ancients
+<lb n="0435b19" ed="X" />
+<lb n="0157b17" ed="R127" />were thus, but Shengshou is not thus. One blow leaves one welt, one slap leaves a palmful of blood. What is the intent?<anchor xml:id="nkr_note_orig_0435001" n="0435001" />
+<lb n="0435b20" ed="X" />
+<lb n="0157b18" ed="R127" />If the sixth month is not hot, the five grains will not ripen.</p>
+<lb n="0435b21" ed="X" />
+<lb n="0158a01" ed="R127" />
+<p xml:id="pX73p0435b2101">At the lifting of restrictions, ascending the hall: For ten thousand miles not an inch of grass, yet upon leaving the gate there is grass. A swift hawk soars, a fierce tiger
+<lb n="0435b22" ed="X" />
+<lb n="0158a02" ed="R127" />blocks the path. He struck the bed and said: Even clear-eyed monks cannot see through it.</p>
+<lb n="0435b23" ed="X" />
+<lb n="0158a03" ed="R127" />
+<p xml:id="pX73p0435b2301">Mid-Autumn rain, ascending the hall: The level lake lies dim, clouds envelop the green peaks. Not knowing the mind-moon is solitary and full, one often
+<lb n="0435b24" ed="X" />
+<lb n="0158a04" ed="R127" />greedily gazes at the sky. Have you all awakened sharply? It is just right for practice, just right for making offerings.</p>
+<pb n="0435c" ed="X" xml:id="X73.1454.0435c" />
+<lb n="0435c01" ed="X" />
+<lb n="0158a05" ed="R127" />
+<p xml:id="pX73p0435c0101">Rebuilding the Yuanzhao Hall and the abbot’s quarters, ascending the hall: One zhang deep, one zhang wide, a model handled by Buddhas and patriarchs through past and present.
+<lb n="0435c02" ed="X" />
+<lb n="0158a06" ed="R127" />As for the Yuanzhao Hall, last night it contended forehead to forehead with the Sangao Hall—what number case is this?
+<lb n="0435c03" ed="X" />
+<lb n="0158a07" ed="R127" />After a pause, he said: It is hard to deceive the many eyes.</p>
+<lb n="0435c04" ed="X" />
+<lb n="0158a08" ed="R127" />
+<p xml:id="pX73p0435c0401">Opening the furnace, ascending the hall: Sitting in meditation before the holy monks, preaching to clay images. The old fire from two thousand years ago
+<lb n="0435c05" ed="X" />
+<lb n="0158a09" ed="R127" />has already been deeply stirred open. Do you all feel sweat pouring over your whole bodies? If not, wait until it cools<anchor xml:id="nkr_note_add_0435c0501" n="0435c0501" /><anchor xml:id="beg0435c0501" n="0435c0501" /><anchor xml:id="end0435c0501" />
+<lb n="0435c06" ed="X" />
+<lb n="0158a10" ed="R127" />and then see.</p></cb:div>
+<lb n="0435c07" ed="X" />
+<lb n="0158a11" ed="R127" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Recorded Sayings at Benjue Chan Monastery in Jiaxing Prefecture</cb:mulu><head>Recorded Sayings at Benjue Chan Monastery in Jiaxing Prefecture</head>
+<lb n="0435c08" ed="X" />
+<lb n="0158a12" ed="R127" />
+<byline cb:type="editor">Compiled by the student Daojie</byline>
+<lb n="0435c09" ed="X" />
+<lb n="0158a13" ed="R127" />
+<p xml:id="pX73p0435c0901">Sitting in the room, he pressed the staff crosswise and said: The full command is upheld like an iron wall. The iron wall—he struck the staff once
+<lb n="0435c10" ed="X" />
+<lb n="0158a14" ed="R127" />and said: Baizhang is deaf, Huangbo sticks out his tongue.</p>
+<lb n="0435c11" ed="X" />
+<lb n="0158a15" ed="R127" />
+<p xml:id="pX73p0435c1101">Holding up the document: The treasury of the true Dharma eye, entrusted at Vulture Peak, is right here today. What is the matter of today?
+<lb n="0435c12" ed="X" />
+<lb n="0158a16" ed="R127" />The document is issued from Jiaxing Prefecture.</p>
+<lb n="0435c13" ed="X" />
+<lb n="0158a17" ed="R127" />
+<p xml:id="pX73p0435c1301">Ascending the hall: Phrases that cannot be spoken even with full effort have already been spoken three times in the hall, and spoken once with a single strike in the pavilion
+<lb n="0435c14" ed="X" />
+<lb n="0158a18" ed="R127" />as well. Some, hearing it said this way, bite off their thumbs. Some, hearing it said this way, furrow both
+<lb n="0435c15" ed="X" />
+<lb n="0158b01" ed="R127" />brows. Even so, one gains and one loses.</p>
+<lb n="0435c16" ed="X" />
+<lb n="0158b02" ed="R127" />
+<p xml:id="pX73p0435c1601">Ascending the hall: Thanking the master Long’an, and also Zhou the compiler, the West Hall of Daming, and Head Seat Xingsheng
+<lb n="0435c17" ed="X" />
+<lb n="0158b03" ed="R127" />attendant—once with a single assent, Kashyapa smiled; a blaze that consumes the plains arises from a single spark; down to carrying
+<lb n="0435c18" ed="X" />
+<lb n="0158b04" ed="R127" />Muzhou’s board and lifting the broken basin, all are like pouring oil to save a fire, making the flames grow ever stronger. He gave a shout,
+<lb n="0435c19" ed="X" />
+<lb n="0158b05" ed="R127" />and said: In broad daylight under the blue sky, is there such a thing?</p>
+<lb n="0435c20" ed="X" />
+<lb n="0158b06" ed="R127" />
+<p xml:id="pX73p0435c2001">A posthumous letter from the master Jieshi of Jingci arrived. Ascending the hall: The Dharma of impermanence and birth and death stands abruptly like the southern mountain
+<lb n="0435c21" ed="X" />
+<lb n="0158b07" ed="R127" />leaning. At the edge of the sky it has nothing to do with me; the rippling West Lake soaks the cold moon. Further speaking a parting verse,
+<lb n="0435c22" ed="X" />
+<lb n="0158b08" ed="R127" />eight or nine parts clear, seventy-two; empty space becomes two sides, where there is little it is made full, where there is much it is added to. This
+<lb n="0435c23" ed="X" />
+<lb n="0158b09" ed="R127" />is the old man Jieshi’s mistaken offering in death; today at Shoushan it is completely turned to life. Do you understand? If
+<lb n="0435c24" ed="X" />
+<lb n="0158b10" ed="R127" />you let the tears fall frequently, even the great ocean would have to dry up.</p>
+<pb n="0436a" ed="X" xml:id="X73.1454.0436a" />
+<lb n="0436a01" ed="X" />
+<lb n="0158b11" ed="R127" />
+<p xml:id="pX73p0436a0101">Thanking the Storehouse Master, ascending the hall, he cited: A monk asked the master Wuzu: The entire Tripitaka is a cutting foot—
+<lb n="0436a02" ed="X" />
+<lb n="0158b12" ed="R127" />but what character does it cut? Wuzu said: boluoniang. A verse says: In one phrase the Sanskrit text is fully raised,
+<lb n="0436a03" ed="X" />
+<lb n="0158b13" ed="R127" />the tongue manifests clearly with resonant tones. Not knowing, one takes it as level and oblique, but in the end it turns out oblique
+<lb n="0436a04" ed="X" />
+<lb n="0158b14" ed="R127" />oblique level.</p>
+<lb n="0436a05" ed="X" />
+<lb n="0158b15" ed="R127" />
+<p xml:id="pX73p0436a0501">Ascending the hall: This phrase is cut away, that which is not a phrase is also cut away, forcing a rooster to lay swan’s eggs. In this way
+<lb n="0436a06" ed="X" />
+<lb n="0158b16" ed="R127" />it is acceptable; not in this way it is also acceptable; put down the dead snake and pick up a live scorpion. Originally speaking thus, the intent lies
+<lb n="0436a07" ed="X" />
+<lb n="0158b17" ed="R127" />where? The founding master Jinghui personally saw old Longya.</p>
+<lb n="0436a08" ed="X" />
+<lb n="0158b18" ed="R127" />
+<p xml:id="pX73p0436a0801">Ascending the hall, he cited: The master Ying’an asked the master Mi’an: What is the true Dharma eye? Mi’an
+<lb n="0436a09" ed="X" />
+<lb n="0159a01" ed="R127" />said: A broken earthen basin. The master commented: The old man Mi’an, before the hall of great awakening, turned aside and violated a taboo,
+<lb n="0436a10" ed="X" />
+<lb n="0159a02" ed="R127" />so that the true lineage was swept into the dust. Do you all know? The aeon stone is easy to wear away, but local speech is hard to change.</p>
+<lb n="0436a11" ed="X" />
+<lb n="0159a03" ed="R127" />
+<p xml:id="pX73p0436a1101">On the memorial day of Fohai, holding up incense, he said: Hastening in the wind before Taibai Peak, words are spoken to the left; then again attending<g ref="#CB16241" />
+<lb n="0436a12" ed="X" />
+<lb n="0159a04" ed="R127" />At the assembly on Vulture Peak, a great thunder pierced the ears. From then on resentment coiled, also wanting to bring disgrace upon his gate<g ref="#CB05577" />
+<lb n="0436a13" ed="X" />
+<lb n="0159a05" ed="R127" />and household. Old master! I do not value your loosening of bonds, only your adding of fetters; I do not approve your complete gathering in,
+<lb n="0436a14" ed="X" />
+<lb n="0159a06" ed="R127" />only approve your complete release. Earnestly burning this incense, this is called true Dharma offering.</p>
+<lb n="0436a15" ed="X" />
+<lb n="0159a07" ed="R127" />
+<p xml:id="pX73p0436a1501">New Year’s Day, ascending the hall: Today I wish to speak the Buddha Dharma for the beginning of the year, but Jingqing has already spoken it;<anchor xml:id="nkr_note_add_0436a1501" n="0436a1501" /><anchor xml:id="beg0436a1501" n="0436a1501" /><anchor xml:id="end0436a1501" />
+<lb n="0436a16" ed="X" />
+<lb n="0159a08" ed="R127" />wishing to speak the phrase of non-movement, it has again been spoken by Fachang. Unavoidably, I will just speak according to the present situation
+<lb n="0436a17" ed="X" />
+<lb n="0159a09" ed="R127" />for all of you. He struck the staff once and said: Three sections differ, yet are gathered into the highest category.</p>
+<lb n="0436a18" ed="X" />
+<lb n="0159a10" ed="R127" />
+<p xml:id="pX73p0436a1801">Thanking Lin Tiguan of Lin’an, Attendant Ying of Jingshan, Attendant Jian of Wanshou, and Storehouse Master Jun of Lingyin,
+<lb n="0436a19" ed="X" />
+<lb n="0159a11" ed="R127" />ascending the hall: Vimalakirti’s single silence, the national teacher’s three calls. Clouds gather in the blue sky, thunder crashes through the great void. As for
+<lb n="0436a20" ed="X" />
+<lb n="0159a12" ed="R127" />the entire Tripitaka, is there still this message or not? Bah! Within the city of Chang’an, do not ask about<anchor xml:id="nkr_note_orig_0436001" n="0436001" />
+<lb n="0436a21" ed="X" />
+<lb n="0159a13" ed="R127" />the imperial capital.</p>
+<lb n="0436a22" ed="X" />
+<lb n="0159a14" ed="R127" />
+<p xml:id="pX73p0436a2201">Opening the furnace, ascending the hall: Cold and icy, once the ground thaws—six years in the snowy mountains, nine years at Mount Song, not even half is attained.
+<lb n="0436a23" ed="X" />
+<lb n="0159a15" ed="R127" />This mountain monk intends to carry it out, yet the Dharma is exhausted and there are no people. For now, harmonize the light and mingle with the dust, making the fire
+<lb n="0436a24" ed="X" />
+<lb n="0159a16" ed="R127" />warm and heated. After a pause, he said: How does the breadth of the furnace compare to the breadth of an ancient mirror?</p>
+<pb n="0436b" ed="X" xml:id="X73.1454.0436b" />
+<lb n="0436b01" ed="X" />
+<lb n="0159a17" ed="R127" />
+<p xml:id="pX73p0436b0101">Ascending the hall, he cited: While Yaoshan was sitting, a monk asked: What are you thinking in this still, fixed way? Yaoshan said: Thinking
+<lb n="0436b02" ed="X" />
+<lb n="0159a18" ed="R127" />of that which does not think. The monk said: How do you think of that which does not think? Yaoshan said: Not thinking
+<lb n="0436b03" ed="X" />
+<lb n="0159b01" ed="R127" />is it. A verse says: A gnarled ancient tree leans in the cold forest, snow presses and frost buries, the signs of spring lie deep; suddenly a fine
+<lb n="0436b04" ed="X" />
+<lb n="0159b02" ed="R127" />breeze gently stirs it—listen closely and it is entirely the roar of a dragon.<anchor xml:id="nkr_note_orig_0436002" n="0436002" /></p>
+<lb n="0436b05" ed="X" />
+<lb n="0159b03" ed="R127" />
+<p xml:id="pX73p0436b0501">On inaugurating the sacred festival, ascending the hall: A single phrase without self is revealed in the open. Lightning coils around the stellar axis, a rainbow flows
+<lb n="0436b06" ed="X" />
+<lb n="0159b04" ed="R127" />over the splendid islet. Throughout heaven and earth, sentient and insentient alike all rejoice and dance. Why is this? When the sage<anchor xml:id="nkr_note_orig_0436003" n="0436003" />
+<lb n="0436b07" ed="X" />
+<lb n="0159b05" ed="R127" />acts, all things behold.</p>
+<lb n="0436b08" ed="X" />
+<lb n="0159b06" ed="R127" />
+<p xml:id="pX73p0436b0801">Thanking the master Xisou of Fahua. Head Seat Yuanbie, ascending the hall, cited: Jueyin of Langya went to visit Fahua<g ref="#CB00589" />
+<lb n="0436b09" ed="X" />
+<lb n="0159b07" ed="R127" />and was asked: Where have you recently come from? He said: The Two Zhe regions. Did you come by boat or by land? He said: By boat.
+<lb n="0436b10" ed="X" />
+<lb n="0159b08" ed="R127" />Where is the boat? He said: How do you speak a phrase that does not tread the path step by step? Jue
+<lb n="0436b11" ed="X" />
+<lb n="0159b09" ed="R127" />struck the seat cloth once and said: Fabricated elders, as numerous as hemp and millet. Then he brushed his sleeves and left.<anchor xml:id="nkr_note_orig_0436004" n="0436004" />
+<lb n="0436b12" ed="X" />
+<lb n="0159b10" ed="R127" />Langya asked the attendant: Who is this person? He said: Senior monk Ju. Langya then personally went down, and at dawn
+<lb n="0436b13" ed="X" />
+<lb n="0159b11" ed="R127" />Passing through the hall, he asked: Are you not Venerable Ju? Do not blame the earlier offense. Ju immediately shouted, and again
+<lb n="0436b14" ed="X" />
+<lb n="0159b12" ed="R127" />asked: When did the elder arrive at Fenyang? He said: I arrived at such-and-such a time. Ju said: When I was in Zhejiang I had long heard
+<lb n="0436b15" ed="X" />
+<lb n="0159b13" ed="R127" />your name; it turns out your understanding is only like this—how did your name spread throughout the world? Langya then made a bow
+<lb n="0436b16" ed="X" />
+<lb n="0159b14" ed="R127" />and said: Huijue is at fault! The master commented: One person is like a dragon sporting in the vast ocean, making the waters of the four seas rise; one
+<lb n="0436b17" ed="X" />
+<lb n="0159b15" ed="R127" />person is like a tiger crouching at the foot of a cliff, stirring the winds of all sounds. Completely host, completely guest; completely giving life, completely taking life—the ancients
+<lb n="0436b18" ed="X" />
+<lb n="0159b16" ed="R127" />could do this; but now when host and guest meet, how is it? Bah! If you know it is like this, then stop.</p>
+<lb n="0436b19" ed="X" />
+<lb n="0159b17" ed="R127" />
+<p xml:id="pX73p0436b1901">Ascending the hall: Speaking freely, every phrase returns to the source; acting freely, every function accords. But as for Linji
+<lb n="0436b20" ed="X" />
+<lb n="0159b18" ed="R127" />retracting his tongue for an eon, and Deshan raising up his staff—where do they meet? After a long pause, he said: Leave your seats,
+<lb n="0436b21" ed="X" />
+<lb n="0160a01" ed="R127" />and go around the hall to drink tea.</p>
+<lb n="0436b22" ed="X" />
+<lb n="0160a02" ed="R127" />
+<p xml:id="pX73p0436b2201">Ascending the hall, he raised the whisk and said: If you see it here, a speck of dust flies and darkens the sky; a mustard seed
+<lb n="0436b23" ed="X" />
+<lb n="0160a03" ed="R127" />falls and covers the earth. If not, the whisk pierces the lantern, enters the pillar, and within a gnat’s eye
+<lb n="0436b24" ed="X" />
+<lb n="0160a04" ed="R127" />opens up a world. He threw down the whisk.</p>
+<pb n="0436c" ed="X" xml:id="X73.1454.0436c" />
+<lb n="0436c01" ed="X" />
+<lb n="0160a05" ed="R127" />
+<p xml:id="pX73p0436c0101">Ascending the hall, he cited: When Gaoting first visited Deshan, he greeted him across the river; Deshan beckoned with his hand, and Gao
+<lb n="0436c02" ed="X" />
+<lb n="0160a06" ed="R127" />Ting went straight across without looking back. Later, as Deshan’s Dharma heir, Dahui commented: Gaoting
+<lb n="0436c03" ed="X" />
+<lb n="0160a07" ed="R127" />going straight across shows he is a sharp monk; but to be Deshan’s heir—still not yet.
+<lb n="0436c04" ed="X" />
+<lb n="0160a08" ed="R127" />Why? He is still separated from Deshan by a river. Venerable Chijue said: Deshan had the poison of spitting sand to shoot people;
+<lb n="0436c05" ed="X" />
+<lb n="0160a09" ed="R127" />Gaoting, once dead, could not live again. The master commented: Deshan had the hand that wields the axe,
+<lb n="0436c06" ed="X" />
+<lb n="0160a10" ed="R127" />and Gaoting had the timber to receive it; at that time, if they had also gotten Lizhou fish broth well cooked, in one meal
+<lb n="0436c07" ed="X" />
+<lb n="0160a11" ed="R127" />the family style would not have fallen into desolation. As for Venerable Dahui and Elder Chijue speaking thus, is it
+<lb n="0436c08" ed="X" />
+<lb n="0160a12" ed="R127" />praise or blame? A strong wind reveals sturdy grass; in troubled times one knows loyal ministers.</p>
+<lb n="0436c09" ed="X" />
+<lb n="0160a13" ed="R127" />
+<p xml:id="pX73p0436c0901">Beginning the summer retreat, ascending the hall: The long period of one hundred twenty days—today is the first day. All of you, proceed calmly
+<lb n="0436c10" ed="X" />
+<lb n="0160a14" ed="R127" />or quickly apply effort; suddenly you may realize that the eyes are below the brows and the nose above the lips. You are only allowed
+<lb n="0436c11" ed="X" />
+<lb n="0160a15" ed="R127" />to know, not allowed to see. Want to see? He touched his nose with his hand and said: How is it?</p>
+<lb n="0436c12" ed="X" />
+<lb n="0160a16" ed="R127" />
+<p xml:id="pX73p0436c1201">Thanking the whisk-bearer, at the summer meal, ascending the hall: One phrase contains a hundred flavors—the temple steward has brought it forth;
+<lb n="0436c13" ed="X" />
+<lb n="0160a17" ed="R127" />one phrase is bland and tasteless—the head monk has brought it forth. It makes this whole assembly’s hunger
+<lb n="0436c14" ed="X" />
+<lb n="0160a18" ed="R127" />vanish at once; hearing and seeing both are extinguished. This mountain monk also has a flavor, only it is pungent and spicy, and I want you all to swallow
+<lb n="0436c15" ed="X" />
+<lb n="0160b01" ed="R127" />and spit it out. He struck his staff and said: How does today’s offering compare to yesterday’s?</p>
+<lb n="0436c16" ed="X" />
+<lb n="0160b02" ed="R127" />
+<p xml:id="pX73p0436c1601">Ascending the hall, a monk asked: Master Ma was beyond the four phrases and cut off a hundred negations; please, master, directly point out the meaning of the coming from the West.
+<lb n="0436c17" ed="X" />
+<lb n="0160b03" ed="R127" />The patriarch said: Today I am weary and cannot explain it to you. Ask Zhizang. Zhizang said:
+<lb n="0436c18" ed="X" />
+<lb n="0160b04" ed="R127" />Today I have a headache and cannot explain it to you. Ask Brother Hai. Brother Hai said: When I reach
+<lb n="0436c19" ed="X" />
+<lb n="0160b05" ed="R127" />this point, I do not understand. The monk reported this to Mazu. The patriarch said: Zang’s head is white, Hai’s head is black. The master commented:
+<lb n="0436c20" ed="X" />
+<lb n="0160b06" ed="R127" />It may be said to arise in poetry, stand in ritual, and be completed in music; but do you know the place of directly pointing for people?
+<lb n="0436c21" ed="X" />
+<lb n="0160b07" ed="R127" />After a long pause, he said: The people may be made to follow it, but not made to understand it.</p>
+<lb n="0436c22" ed="X" />
+<lb n="0160b08" ed="R127" />
+<p xml:id="pX73p0436c2201">Ascending the hall, he cited: A monk asked Dongshan: When cold and heat come, how can one avoid them? Dongshan said: Why not go to
+<lb n="0436c23" ed="X" />
+<lb n="0160b09" ed="R127" />a place without cold or heat to avoid them? The monk said: What is the place without cold or heat? Dongshan said: When it is cold, be cold
+<lb n="0436c24" ed="X" />
+<lb n="0160b10" ed="R127" />enough to kill the monk; when it is hot, be hot enough to kill the monk. The verse says: A tune of Xinfeng, Snow-Child’s chant; clouds envelop
+<pb n="0437a" ed="X" xml:id="X73.1454.0437a" />
+<lb n="0437a01" ed="X" />
+<lb n="0160b11" ed="R127" />the ancient hall, the night deep and still; throughout heaven and earth there is no interchange—do not take the shang tone for the yu tone.</p>
+<lb n="0437a02" ed="X" />
+<lb n="0160b12" ed="R127" />
+<p xml:id="pX73p0437a0201">Protecting the sprouts, ascending the hall. He cited: Venerable Nanyue Rang said to Master Ma: Your study of the Dharma of mind-ground
+<lb n="0437a03" ed="X" />
+<lb n="0160b13" ed="R127" />is like planting seeds; my teaching of the essentials is like heavenly moisture; when your conditions come together, you will see
+<lb n="0437a04" ed="X" />
+<lb n="0160b14" ed="R127" />the Way. The master said: Such talk is just everyday activity—driving Guishan’s ox to plow the clouds
+<lb n="0437a05" ed="X" />
+<lb n="0160b15" ed="R127" />and part the moon; carrying Magu’s hoe, shallow planting and deep plowing, removing the weeds of ignorance and nourishing the spiritual sprouts—this is called
+<lb n="0437a06" ed="X" />
+<lb n="0160b16" ed="R127" />your study of the Dharma of mind-ground like planting seeds—understand? Thickly spreading clouds of compassion, showering sweet dew everywhere,
+<lb n="0437a07" ed="X" />
+<lb n="0160b17" ed="R127" />loftily raising the sun of wisdom, uniquely stirring the mysterious wind—this is called my teaching like heavenly moisture—understand?
+<lb n="0437a08" ed="X" />
+<lb n="0160b18" ed="R127" />When the five grains are abundant and myriad treasures flourish, the whole household is filled and all hunger is forgotten—this is called your conditions
+<lb n="0437a09" ed="X" />
+<lb n="0161a01" ed="R127" />coming together so you see the Way—understand? He slapped the meditation bench and said: It makes the Venerable of Jinzhou laugh over.</p>
+<lb n="0437a10" ed="X" />
+<lb n="0161a02" ed="R127" />
+<p xml:id="pX73p0437a1001">Thanking Su Xinen and Attendant Cheng Xuansheng, ascending the hall: The essential meaning lies in Kasyapa’s smile; beyond the diagrams of Fuxi
+<lb n="0437a11" ed="X" />
+<lb n="0161a03" ed="R127" />it is transmitted outside. Dragons obtain clouds and rain; hawks soar in the autumn sky.</p>
+<lb n="0437a12" ed="X" />
+<lb n="0161a04" ed="R127" />
+<p xml:id="pX73p0437a1201">Returning from outside the city, thanking old acquaintances, ascending the hall: At the crossroads, turning the head and mind, it is only to wait for
+<lb n="0437a13" ed="X" />
+<lb n="0161a05" ed="R127" />someone to come. At the village path, grasping the tip of the nose—the wild duck has never flown away. Seeing thus,
+<lb n="0437a14" ed="X" />
+<lb n="0161a06" ed="R127" />though caps are tipped, it is as before; if not, then west Qin and east Lu.</p>
+<lb n="0437a15" ed="X" />
+<lb n="0161a07" ed="R127" />
+<p xml:id="pX73p0437a1501">At the close of the summer retreat, ascending the seat. Before the fifteenth day, abide—abiding with nothing to abide in. After the fifteenth day, go,<anchor xml:id="nkr_note_add_0437a1501" n="0437a1501" /><anchor xml:id="beg0437a1501" n="0437a1501" /><anchor xml:id="end0437a1501" /><anchor xml:id="nkr_note_add_0437a1502" n="0437a1502" /><anchor xml:id="beg0437a1502" n="0437a1502" /><anchor xml:id="end0437a1502" />
+<lb n="0437a16" ed="X" />
+<lb n="0161a08" ed="R127" />going with nowhere to go. Right on the fifteenth day, neither going nor abiding. In the hall of original awakening, the release
+<lb n="0437a17" ed="X" />
+<lb n="0161a09" ed="R127" />of the summer meal; in Nalanda monastery, the alms bowl dance.</p>
+<lb n="0437a18" ed="X" />
+<lb n="0161a10" ed="R127" />
+<p xml:id="pX73p0437a1801">On the memorial day of Chan Master Fohai, ascending the hall: A single leaf drifts from a courtyard branch; the whole earth is autumn in color. Worthy of lament is
+<lb n="0437a19" ed="X" />
+<lb n="0161a11" ed="R127" />those who investigate the mystery—how many know the season? He slapped his knee and said: When Zhaozhou met Nanquan that day, he knew to say
+<lb n="0437a20" ed="X" />
+<lb n="0161a12" ed="R127" />Zhenzhou produces radishes.</p>
+<lb n="0437a21" ed="X" />
+<lb n="0161a13" ed="R127" />
+<p xml:id="pX73p0437a2101">Ascending the hall, he cited: A monk asked Yunmen, When the trees wither and leaves fall, what then? Yunmen said: The body reveals the golden
+<lb n="0437a22" ed="X" />
+<lb n="0161a14" ed="R127" />wind. The master commented: Responding to the time like wind, responding to the occasion like lightning is not absent, yet old Yunmen, on close inspection,
+<lb n="0437a23" ed="X" />
+<lb n="0161a15" ed="R127" />has gone too far, injuring sinews and bones.</p>
+<lb n="0437a24" ed="X" />
+<lb n="0161a16" ed="R127" />
+<p xml:id="pX73p0437a2401">Thanking the head monk Daji, ascending the hall: Manifest the great function, display the great activity. Breaking the target, breaking the dust, a hundred shots a hundred hits.
+<pb n="0437b" ed="X" xml:id="X73.1454.0437b" />
+<lb n="0437b01" ed="X" />
+<lb n="0161a17" ed="R127" />Establishing the true succession for ten thousand years, extinguishing the orthodox line of Dongshan. Proving that the sheep he stole
+<lb n="0437b02" ed="X" />
+<lb n="0161a18" ed="R127" />was originally in the corridor beehive.</p>
+<lb n="0437b03" ed="X" />
+<lb n="0161b01" ed="R127" />
+<p xml:id="pX73p0437b0301">On the first day of the ninth month, ascending the hall, he cited Ciming thanking old acquaintances in a verse: Rustling cool scenery, together with others
+<lb n="0437b04" ed="X" />
+<lb n="0161b02" ed="R127" />visiting the quiet. Boiling tea with water from below the mountain, firing the cauldron with wood from the cave. As for Ciming, he was rich yet not arrogant,<anchor xml:id="nkr_note_orig_0437001" n="0437001" />
+<lb n="0437b05" ed="X" />
+<lb n="0161b03" ed="R127" />restrained yet not stingy. Even so, he was not free from expense. But the abiding original awakening here is otherwise: rustling
+<lb n="0437b06" ed="X" />
+<lb n="0161b04" ed="R127" />cool scenery, together with others visiting the quiet. Arsenic mixed with wolfsbane, white rice sprinkled with fine pepper. Tell me,
+<lb n="0437b07" ed="X" />
+<lb n="0161b05" ed="R127" />is this the same as the ancients or different?</p>
+<lb n="0437b08" ed="X" />
+<lb n="0161b06" ed="R127" />
+<p xml:id="pX73p0437b0801">On the Double Ninth, ascending the hall: The golden wind rustles, jade dew glistens. Purple gives more purple, yellow chrysanthemums give yellow.<anchor xml:id="nkr_note_orig_0437002" n="0437002" />
+<lb n="0437b09" ed="X" />
+<lb n="0161b07" ed="R127" />Nobles and young lords, everywhere, climb heights to chant and enjoy. Those of the Way beneath the forest, in twos and threes,
+<lb n="0437b10" ed="X" />
+<lb n="0161b08" ed="R127" />gather their heads to deliberate. Tell me, what matter are they discussing? The ninth day of the ninth month is the Double Ninth.</p>
+<lb n="0437b11" ed="X" />
+<lb n="0161b09" ed="R127" />
+<p xml:id="pX73p0437b1101">Ascending the hall, he cited: Sanjiao instructed the assembly, saying: If you speak of this matter, the moment you raise your eyebrows you have already missed it.
+<lb n="0437b12" ed="X" />
+<lb n="0161b10" ed="R127" />Magu stepped forward and said: Missing it I will not ask; what is this matter? Sanjiao said: Missed.
+<lb n="0437b13" ed="X" />
+<lb n="0161b11" ed="R127" />Magu overturned the meditation seat, and Sanjiao immediately struck him. Xuedou commented: These two have heads but no tails;
+<lb n="0437b14" ed="X" />
+<lb n="0161b12" ed="R127" />fellows—before the eyebrows have even been raised, how can one speak of missing? A monk then asked: Why is it that the eyebrows have not
+<lb n="0437b15" ed="X" />
+<lb n="0161b13" ed="R127" />been raised? Xuedou immediately struck him. The master commented: These two great elders—one hangs before the spark of flint,<anchor xml:id="nkr_note_orig_0437003" n="0437003" />
+<lb n="0437b16" ed="X" />
+<lb n="0161b14" ed="R127" />One places the hand, another leans shoulder to shoulder within the flash of lightning and its shadow—fully letting go, fully gathering in, fully giving life, fully taking life. Xuedou
+<lb n="0437b17" ed="X" />
+<lb n="0161b15" ed="R127" />Why did he say these two fellows are men with heads but no tails? Those with clear eyes must discern it.</p>
+<lb n="0437b18" ed="X" />
+<lb n="0161b16" ed="R127" />
+<p xml:id="pX73p0437b1801">Ascending the hall: Sakyamuni’s skull bone, Bodhidharma’s eye, in the valley it is reed valley, in the pit it is reed pit. He slapped the meditation<anchor xml:id="nkr_note_orig_0437004" n="0437004" />
+<lb n="0437b19" ed="X" />
+<lb n="0161b17" ed="R127" />seat and said: It has been smashed—heaven is level, earth is level.</p>
+<lb n="0437b20" ed="X" />
+<lb n="0161b18" ed="R127" />
+<p xml:id="pX73p0437b2001">On the winter solstice, ascending the hall: The golden crow flies, the jade rabbit hastens, a single yang is born—this is today. He picked up his staff and said:
+<lb n="0437b21" ed="X" />
+<lb n="0162a01" ed="R127" />This rough, spicy pear, black all over like lacquer—does it still have growth or not? Then he raised his
+<lb n="0437b22" ed="X" />
+<lb n="0162a02" ed="R127" />staff and said: Seven feet, eight feet.</p>
+<lb n="0437b23" ed="X" />
+<lb n="0162a03" ed="R127" />
+<p xml:id="pX73p0437b2301">Ascending the hall: Lightning flashes, thunder crashes; cliffs collapse and rocks split. Not quick enough to cover the ears, not quick enough to blink—through all ages<anchor xml:id="nkr_note_orig_0437005" n="0437005" />
+<lb n="0437b24" ed="X" />
+<lb n="0162a04" ed="R127" />so utterly rare—who is there who knows? Huangbo, hearing it, was startled into sticking out his tongue.</p>
+<pb n="0437c" ed="X" xml:id="X73.1454.0437c" />
+<lb n="0437c01" ed="X" />
+<lb n="0162a05" ed="R127" />
+<p xml:id="pX73p0437c0101">On the Buddha’s enlightenment day, ascending the hall: The old monk who cannot be frozen to death or starved to death before the mountain of perfect awakening is pressed
+<lb n="0437c02" ed="X" />
+<lb n="0162a06" ed="R127" />until the bright illumination appears—he cannot avoid deceiving and commenting on himself. Kwai! The seed of calamity remains, in both human and heavenly realms.<anchor xml:id="nkr_note_orig_0437006" n="0437006" /><anchor xml:id="nkr_note_orig_0437007" n="0437007" /></p>
+<lb n="0437c03" ed="X" />
+<lb n="0162a07" ed="R127" />
+<p xml:id="pX73p0437c0301">Thanking Ming, the scripture repository master, ascending the hall: The nostrils of the patriarchs and the claws and fangs from of old—if you understand, then affairs are of one family;
+<lb n="0437c04" ed="X" />
+<lb n="0162a08" ed="R127" />if you do not understand, then there are countless differences. Just as scriptures return to the canon and Chan returns to the sea—how do you understand this? Bian
+<lb n="0437c05" ed="X" />
+<lb n="0162a09" ed="R127" />jade is without flaw, and yet it has flaws.</p>
+<lb n="0437c06" ed="X" />
+<lb n="0162a10" ed="R127" />
+<p xml:id="pX73p0437c0601">Circling the streets praying for clear weather, ascending the hall, and also thanking the Jingshan monastery saying: those in old stillness, those in disturbance,
+<lb n="0437c07" ed="X" />
+<lb n="0162a11" ed="R127" />if not then all is not, if so then all is so. Panshan toppled backward at the butcher’s block, Louzi in the midst of singing
+<lb n="0437c08" ed="X" />
+<lb n="0162a12" ed="R127" />suddenly awakened within the sound. You people have been circling the streets and practicing the Way these past days—could it be that there is someone on the same path and track
+<lb n="0437c09" ed="X" />
+<lb n="0162a13" ed="R127" />here? Ah! At Dragon Gate there are no overnight guests; in the tiger’s den, a tiger is born.</p>
+<lb n="0437c10" ed="X" />
+<lb n="0162a14" ed="R127" />
+<p xml:id="pX73p0437c1001">Ascending the hall, he cited: Manjushri is the teacher of the Seven Buddhas—why could he not rouse her from the woman’s meditative absorption? Wangming
+<lb n="0437c11" ed="X" />
+<lb n="0162a15" ed="R127" />what supernatural power did he have to bring her out of that absorption? The master said: Whether he could or could not be brought out, set that aside for now; but do you
+<lb n="0437c12" ed="X" />
+<lb n="0162a16" ed="R127" />know where the World-Honored One’s failure lies? The jade seal does not leave the emperor’s hand; how could the golden casket be for commoners?<anchor xml:id="nkr_note_orig_0437008" n="0437008" /></p></cb:div>
+<lb n="0437c13" ed="X" />
+<lb n="0162a17" ed="R127" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Record of sayings of Kaiyuan Chan Monastery in Jianning Prefecture</cb:mulu><head>Record of sayings of Kaiyuan Chan Monastery in Jianning Prefecture</head>
+<lb n="0437c14" ed="X" />
+<lb n="0162a18" ed="R127" />
+<byline cb:type="editor">Compiled by the student of practice, Weineng Zong<g ref="#CB03790" /></byline>
+<lb n="0437c15" ed="X" />
+<lb n="0162b01" ed="R127" />
+<p xml:id="pX73p0437c1501">Entering the abbot’s room, he picked up his staff, struck it, and said: Holding it up like this, all people under heaven submit their doubts at the sight of the wind. Leaning on
+<lb n="0437c16" ed="X" />
+<lb n="0162b02" ed="R127" />Leaning on his staff, he said: When it arrives, there is no need to point it out.</p>
+<lb n="0437c17" ed="X" />
+<lb n="0162b03" ed="R127" />
+<p xml:id="pX73p0437c1701">Ascending the seat, he picked up incense and completed the prayer for the sage, then said: The Buddhas do not appear in the world—clear and distinctly<note place="inline">問答不錄</note>
+<lb n="0437c18" ed="X" />
+<lb n="0162b04" ed="R127" />the bright moon fills the vast sky; the patriarchs did not come from the West—lonely and remote, clouds arise in the deep valley. It is as if purple ganoderma
+<lb n="0437c19" ed="X" />
+<lb n="0162b05" ed="R127" />peaks bear numinous shoots of exceptional beauty, and the painted pavilion overflows with dazzling radiance—not only within the seven prefectures is there none who can wield the staff
+<lb n="0437c20" ed="X" />
+<lb n="0162b06" ed="R127" />free from worry, but it brings all people under heaven to peaceful ease. Even so, ultimately where does the merit return?
+<lb n="0437c21" ed="X" />
+<lb n="0162b07" ed="R127" />To what place? After a long pause: a thousand peaks face Mount Hua in reverence; ten thousand streams respectfully enter the blue ocean.</p>
+<lb n="0437c22" ed="X" />
+<lb n="0162b08" ed="R127" />
+<p xml:id="pX73p0437c2201">He further cited Chan Master Mengbi of Jianzhou. A monk asked: What is Buddha? The answer was: I do not annotate you. The monk
+<lb n="0437c23" ed="X" />
+<lb n="0162b09" ed="R127" />said: Is that not it? The reply: You are deceiving yourself. The master’s verse says: One phrase fully presented does not deceive you;
+<lb n="0437c24" ed="X" />
+<lb n="0162b10" ed="R127" />but when you try to open your robe, you are already self-deceived. Looking more at moonlight mingled with white clouds, you do not notice the sound of springs carrying dew and
+<pb n="0438a" ed="X" xml:id="X73.1454.0438a" />
+<lb n="0438a01" ed="X" />
+<lb n="0162b11" ed="R127" />cold.</p>
+<lb n="0438a02" ed="X" />
+<lb n="0162b12" ed="R127" />
+<p xml:id="pX73p0438a0201">Mid-Autumn, ascending the hall. A monk stepped forward and asked: Today is the fifteenth of the eighth month—the moon is full at the doorway,
+<lb n="0438a03" ed="X" />
+<lb n="0162b13" ed="R127" />though it fills heaven and earth, not a single thread is revealed. The master said: You are sitting under an inverted basin,
+<lb n="0438a04" ed="X" />
+<lb n="0162b14" ed="R127" />so how can you find anything strange in that? The monk said: The pillar emits light and the lanterns all begin to dance. The master said: Do not yet
+<lb n="0438a05" ed="X" />
+<lb n="0162b15" ed="R127" />wear flowers. The monk said: Facing conditions, upon whom can one rely to speak of this mind? It makes one long remember Hanshan. The master said:
+<lb n="0438a06" ed="X" />
+<lb n="0162b16" ed="R127" />What did Hanshan say? The monk said: I recall that in the past an院主 asked Master Ma:
+<lb n="0438a07" ed="X" />
+<lb n="0162b17" ed="R127" />How is the Venerable’s condition these days? The master said: Sun-faced Buddha, Moon-faced Buddha. The master said: The elder has spoken it out.
+<lb n="0438a08" ed="X" />
+<lb n="0162b18" ed="R127" />The monk said: Sun-face and moon-face are hard to distinguish when they suddenly appear; clear-eyed masters see at once. The master said:
+<lb n="0438a09" ed="X" />
+<lb n="0163a01" ed="R127" />A jutting jaw at the back of the head—do not associate with it. The monk said: After seeing it, what then? The master said: Sun-faced
+<lb n="0438a10" ed="X" />
+<lb n="0163a02" ed="R127" />Buddha, Moon-faced Buddha. The monk said: A west wind blows, two or three leaves fall. The master said: In that case,
+<lb n="0438a11" ed="X" />
+<lb n="0163a03" ed="R127" />you must see Master Ma across three lives and sixty eons. The monk said: The mind-moon is solitary and round, its light swallows ten thousand forms,
+<lb n="0438a12" ed="X" />
+<lb n="0163a04" ed="R127" />the light does not illuminate objects, objects do not exist; both light and object are forgotten—what then is it? The master said: It cannot be drawn
+<lb n="0438a13" ed="X" />
+<lb n="0163a05" ed="R127" />or painted. The monk said: Is it not the moon reflected in the vast sky, rivers and streams flowing with its image? The master said: That is precisely
+<lb n="0438a14" ed="X" />
+<lb n="0163a06" ed="R127" />walking within light and shadow. The monk said: The words of Vulture Peak and the pointing at Caoxi—when have you ever recognized your own original face?
+<lb n="0438a15" ed="X" />
+<lb n="0163a07" ed="R127" />The master said: What of the moon? The monk said: As soon as you try to conceive it, black clouds obscure it; if you grasp at it, it is still not it.
+<lb n="0438a16" ed="X" />
+<lb n="0163a08" ed="R127" />The master said: Even if it burns through the skull, you still do not awaken. The monk said: If one neither grasps nor thinks, then what is it?
+<lb n="0438a17" ed="X" />
+<lb n="0163a09" ed="R127" />What about it? The master said: Make a bow.</p>
+<lb n="0438a18" ed="X" />
+<lb n="0163a10" ed="R127" />
+<p xml:id="pX73p0438a1801">The master cited Hanshan: My mind is like the autumn moon, its light pure and bright in a green deep pool; nothing can compare to it,
+<lb n="0438a19" ed="X" />
+<lb n="0163a11" ed="R127" />how could I possibly explain it? He commented: Since it cannot be spoken, I will cast it in a model: my mind
+<lb n="0438a20" ed="X" />
+<lb n="0163a12" ed="R127" />is like the autumn moon reflected in mid-heaven; wherever it meets, it is everywhere round. All of you, please return and sit beneath the forest,
+<lb n="0438a21" ed="X" />
+<lb n="0163a13" ed="R127" />and carefully observe before any light or shadow has arisen.</p>
+<lb n="0438a22" ed="X" />
+<lb n="0163a14" ed="R127" />
+<p xml:id="pX73p0438a2201">Thanking the head monk and Venerable Konggu, ascending the hall: Holding the alms bowl and occupying Nanquan’s seat—who is host? Who
+<lb n="0438a23" ed="X" />
+<lb n="0163a15" ed="R127" />is guest? Venerable, how many years have you practiced the Way? Wisdom surpasses birds and beasts; attaining the realm before the age of Vairocana,<anchor xml:id="nkr_note_add_0438a2301" n="0438a2301" /><anchor xml:id="beg0438a2301" n="0438a2301" /><anchor xml:id="end0438a2301" />
+<lb n="0438a24" ed="X" />
+<lb n="0163a16" ed="R127" />you are still descendants of Wang the teacher—like a mouse entering and exiting its hole, what common language is there? If you wish
+<pb n="0438b" ed="X" xml:id="X73.1454.0438b" />
+<lb n="0438b01" ed="X" />
+<lb n="0163a17" ed="R127" />to illuminate the gate of great wisdom, you must first be deaf for three days. He gave a shout and said: then take
+<lb n="0438b02" ed="X" />
+<lb n="0163a18" ed="R127" />the old sword that once cut down Loulan and exchange it for a yellow ox to teach your descendants.</p>
+<lb n="0438b03" ed="X" />
+<lb n="0163b01" ed="R127" />
+<p xml:id="pX73p0438b0301">On the eighth day of the twelfth month, ascending the hall: Four nines are thirty-six; sleeping at night is like resting in the dew. Gautama was secretly
+<lb n="0438b04" ed="X" />
+<lb n="0163b02" ed="R127" />deceived by the stars, yet still claimed that all sentient beings are fully endowed with wisdom and virtue. Hah! This is speaking dreams with open eyes.</p>
+<lb n="0438b05" ed="X" />
+<lb n="0163b03" ed="R127" />
+<p xml:id="pX73p0438b0501">Thanking Venerable Nanshan of Jianguang and Venerable Beishan of Guangxiao, ascending the hall, he cited: Changqing said: Meeting a fellow practitioner on the road,
+<lb n="0438b06" ed="X" />
+<lb n="0163b04" ed="R127" />shoulder to shoulder—one’s lifelong study is thereby completed. The master commented: Zhishan and Nanshan were companions on the Way for thirty years,
+<lb n="0438b07" ed="X" />
+<lb n="0163b05" ed="R127" />in eastern and western Zhejiang, in northern and southern mountains—how many times did they gather? How many times did they meet shoulder to shoulder? Yet they never once spoke
+<lb n="0438b08" ed="X" />
+<lb n="0163b06" ed="R127" />the words “study of the Way.” Why? Because each knew shame before the other.</p>
+<lb n="0438b09" ed="X" />
+<lb n="0163b07" ed="R127" />
+<p xml:id="pX73p0438b0901">Bathing the Buddha, ascending the hall: When body, speech, and mind are pure, it is called the Buddha’s appearance in the world—yet the face is full of dust;
+<lb n="0438b10" ed="X" />
+<lb n="0163b08" ed="R127" />when body, speech, and mind are not pure, it is called the Buddha’s passing into extinction—yet the whole body is mud and water. If you clearly understand this, there is no repayment of grace
+<lb n="0438b11" ed="X" />
+<lb n="0163b09" ed="R127" />that can be made. If not, even exhausting the waters of the Jian River cannot wash it clean. Why? Water does not wash water.</p>
+<lb n="0438b12" ed="X" />
+<lb n="0163b10" ed="R127" />
+<p xml:id="pX73p0438b1201">Ascending the hall, he cited: When Venerable Changsha returned from wandering the mountains, the head monk asked: Where have you been? Changsha said:
+<lb n="0438b13" ed="X" />
+<lb n="0163b11" ed="R127" />I have been wandering the mountains. The head monk said: Where did you go? Changsha said: At first I followed fragrant grasses away, then I followed falling
+<lb n="0438b14" ed="X" />
+<lb n="0163b12" ed="R127" />flowers back. The head monk said: It is much like the mood of spring. Changsha said: It is also better than autumn dew dripping on lotus blossoms. The verse
+<lb n="0438b15" ed="X" />
+<lb n="0163b13" ed="R127" />says: With every step taken, another step follows; casually the body is in the Wuling stream. In the cave there is endless spring
+<lb n="0438b16" ed="X" />
+<lb n="0163b14" ed="R127" />news—thus people of the time lose their way.</p>
+<lb n="0438b17" ed="X" />
+<lb n="0163b15" ed="R127" />
+<p xml:id="pX73p0438b1701">Thanking Head Monk Lingfeng Shiping for not accepting the invitation to Longguang, ascending the hall, he cited: Sansheng asked Xuefeng:
+<lb n="0438b18" ed="X" />
+<lb n="0163b16" ed="R127" />A golden-scaled carp that has passed through the net—what does it feed on? He commented: The Dragon Gate is ten thousand fathoms high; to pass through it completely must be<note place="inline">云云</note>
+<lb n="0438b19" ed="X" />
+<lb n="0163b17" ed="R127" />such a person. Elephant Bone Peak has a thousand layers; to reach the summit, one must still be the original doer. Let the ancients be for now—today’s new dragon
+<lb n="0438b20" ed="X" />
+<lb n="0163b18" ed="R127" />when Longguang and Zhifeng meet, what should they discuss? After a long pause, he said: On the road ahead, one’s body is light as a leaf,
+<lb n="0438b21" ed="X" />
+<lb n="0164a01" ed="R127" />while a great name through the ages is heavy as a mountain.</p>
+<lb n="0438b22" ed="X" />
+<lb n="0164a02" ed="R127" />
+<p xml:id="pX73p0438b2201">Mid-summer, ascending the hall: Half the year has passed, half the summer has passed. At the Danqing Pavilion, walking east and west, along
+<lb n="0438b23" ed="X" />
+<lb n="0164a03" ed="R127" />the continuous benches eating porridge and rice, all say everything is an already-complete public case, nothing is left undone. I ask you:
+<lb n="0438b24" ed="X" />
+<lb n="0164a04" ed="R127" />Why did Bodhidharma come to Liang, and Moteng enter the Han? Investigate!</p>
+<pb n="0438c" ed="X" xml:id="X73.1454.0438c" />
+<lb n="0438c01" ed="X" />
+<lb n="0164a05" ed="R127" />
+<p xml:id="pX73p0438c0101">Ascending the hall: Speaking of mind and speaking of nature, citing past and present—this all falls into entangling vines. To receive the intent before the pivot,
+<lb n="0438c02" ed="X" />
+<lb n="0164a06" ed="R127" />or to clarify the source beyond intention—this too falls into the vine thicket. Ultimately, how can it be avoided? He threw down his staff and said:
+<lb n="0438c03" ed="X" />
+<lb n="0164a07" ed="R127" />Avoid it at all costs.</p>
+<lb n="0438c04" ed="X" />
+<lb n="0164a08" ed="R127" />
+<p xml:id="pX73p0438c0401">Ascending the hall: The higher function, the cliff-edge phrase—beneath the three rafters one silently brings it up; at the crossroads
+<lb n="0438c05" ed="X" />
+<lb n="0164a09" ed="R127" />it stands fully revealed. He gave a shout: A swift hawk does not strike dead rabbits.</p>
+<lb n="0438c06" ed="X" />
+<lb n="0164a10" ed="R127" />
+<p xml:id="pX73p0438c0601">Ascending the hall, he cited: Huangbo asked Venerable Baizhang: How did the ancestral masters of old point out the teaching to people?
+<lb n="0438c07" ed="X" />
+<lb n="0164a11" ed="R127" />Baizhang sat firmly. Huangbo said: How will later generations transmit it? Baizhang said: I
+<lb n="0438c08" ed="X" />
+<lb n="0164a12" ed="R127" />thought you were a real fellow. Then he returned to his abbot’s quarters. The master commented: I have heard that Baizhang’s household rules were strict
+<lb n="0438c09" ed="X" />
+<lb n="0164a13" ed="R127" />and his gate and courtyard were lofty and steep—how was it that Huangbo’s light push made the inner hall suddenly open completely?
+<lb n="0438c10" ed="X" />
+<lb n="0164a14" ed="R127" />Even so, who in ancient or present times has truly arrived?</p>
+<lb n="0438c11" ed="X" />
+<lb n="0164a15" ed="R127" />
+<p xml:id="pX73p0438c1101">At the end of the summer retreat, ascending the hall: Restricting movement and dwelling in peace is like a cow-headed being eating grass; setting a deadline to attain realization is like striking the grass to startle the snake.
+<lb n="0438c12" ed="X" />
+<lb n="0164a16" ed="R127" />If one has sinews in the eyes and blood beneath the skin, then before the wind blows the nest is aware, before
+<lb n="0438c13" ed="X" />
+<lb n="0164a17" ed="R127" />the rain falls the burrow already knows it. All directions, rushing forward in great crowds—what bowl are you seeking?</p>
+<lb n="0438c14" ed="X" />
+<lb n="0164a18" ed="R127" />
+<p xml:id="pX73p0438c1401">Ascending the hall: The wind sighs, the rain sighs; each function matches, each thing fully transcends. If you understand it thus,
+<lb n="0438c15" ed="X" />
+<lb n="0164b01" ed="R127" />it is the twenty-fifth day of the eighth month. If not, a bag.<g ref="#CB01366" /></p>
+<lb n="0438c16" ed="X" />
+<lb n="0164b02" ed="R127" />
+<p xml:id="pX73p0438c1601">Opening the furnace, ascending the hall: Today the furnace is opened; there is one saying: the fire tongs and incense are all made of iron.<g ref="#CB15901" /></p>
+<lb n="0438c17" ed="X" />
+<lb n="0164b03" ed="R127" />
+<p xml:id="pX73p0438c1701">Ascending the hall: When silent it speaks, when speaking it is silent; iron walls layer upon layer, silver mountains stack upon stack. Xuefeng went nine times,
+<lb n="0438c18" ed="X" />
+<lb n="0164b04" ed="R127" />yet there was no gate of entry; Linji struck three times but could not penetrate it. Why? Because it is utterly clear.</p>
+<lb n="0438c19" ed="X" />
+<lb n="0164b05" ed="R127" />
+<p xml:id="pX73p0438c1901">Bathing the Buddha, ascending the hall: From the moment a nursing infant is born it already departs from the true principle—half sincere, half empty. Today
+<lb n="0438c20" ed="X" />
+<lb n="0164b06" ed="R127" />we do not carry out the order of Shaoshi; everyone should bail water and splash stubborn bronze.</p>
+<lb n="0438c21" ed="X" />
+<lb n="0164b07" ed="R127" />
+<p xml:id="pX73p0438c2101">Bidding farewell to the assembly, ascending the hall: The mountains of southern Min and the waters of western Zhejiang—so high there is no limit, so deep there is no bottom. Entering, each and every one
+<lb n="0438c22" ed="X" />
+<lb n="0164b08" ed="R127" />returns to the source; going out, nothing is not it. A single bright moon is carried on the tip of the staff, across the four seas and five lakes in the realm of the emperor
+<lb n="0438c23" ed="X" />
+<lb n="0164b09" ed="R127" />transformation.</p></cb:div>
+<lb n="0438c24" ed="X" />
+<lb n="0164b10" ed="R127" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Record of sayings of Yunyans Chan Monastery at Tiger Hill Mountain in Pingjiang Prefecture</cb:mulu><head>Record of sayings of Yunyans Chan Monastery at Tiger Hill Mountain in Pingjiang Prefecture</head>
+<pb n="0439a" ed="X" xml:id="X73.1454.0439a" />
+<lb n="0439a01" ed="X" />
+<lb n="0164b11" ed="R127" />
+<byline cb:type="editor">Compiled by attendants Zulu and Daojie</byline>
+<lb n="0439a02" ed="X" />
+<lb n="0164b12" ed="R127" />
+<p xml:id="pX73p0439a0201">Entering the monastery, pointing at the Three Gates, he said: Leaving the city, you see the pagoda; entering the monastery, you climb the mountain—this is precisely a phrase outside the gate. If
+<lb n="0439a03" ed="X" />
+<lb n="0164b13" ed="R127" />what is the phrase inside the gate? Step on it and do not become angry.</p>
+<lb n="0439a04" ed="X" />
+<lb n="0164b14" ed="R127" />
+<p xml:id="pX73p0439a0401">Entering the abbot’s room: This place is my venerable father’s great furnace and forge, where Buddhas are cooked and ancestors refined, saints tempered and ordinary beings smelted.
+<lb n="0439a05" ed="X" />
+<lb n="0164b15" ed="R127" />This mountain monk today overturns it completely, only hoping that you will catch sight of it at a glance as soon as the wind rises. He struck the seat once.</p>
+<lb n="0439a06" ed="X" />
+<lb n="0164b16" ed="R127" />
+<p xml:id="pX73p0439a0601">Picking up the notice: A direct stroke under the sun, a hair-splitting blade drawn from its sheath. Orders of Wu and Yue are carried out; the wind clears the six directions.</p>
+<lb n="0439a07" ed="X" />
+<lb n="0164b17" ed="R127" />
+<p xml:id="pX73p0439a0701">Preface for the monastery gate: Every phrase is impartial, every point in accord. Peach blossoms in the cave; spring scenery above the roof.</p>
+<lb n="0439a08" ed="X" />
+<lb n="0164b18" ed="R127" />
+<p xml:id="pX73p0439a0801">Ascending the seat. Picking up incense to offer prayers for the
+<lb n="0439a09" ed="X" type="honorific" />
+<lb n="0165a01" ed="R127" />sage completed, he next picked up incense and said: Root and dust are utterly transcended, no branches or leaves remain, cast away beyond the wall at Bianba, where no
+<lb n="0439a10" ed="X" />
+<lb n="0165a02" ed="R127" />one in autumn can gather it—yet it is struck by a broken earthen basin, clothed in white cloud robes, clamoring and noisy, arguing public right and
+<lb n="0439a11" ed="X" />
+<lb n="0165a03" ed="R127" />public wrong; this Venerable smashes it once—today it is burned in the incense burner, also to humble him<anchor xml:id="nkr_note_orig_0439001" n="0439001" /><g ref="#CB15111" /><g ref="#CB15111" />
+<lb n="0439a12" ed="X" />
+<lb n="0165a04" ed="R127" />just so. Then he took his seat. After finishing the questions and answers, he again cited: When Baoshou opened the hall, Sansheng pushed out<anchor xml:id="nkr_note_orig_0439002" n="0439002" />
+<lb n="0439a13" ed="X" />
+<lb n="0165a05" ed="R127" />a monk; Baoshou immediately struck him. Sansheng said: Such conduct not only blinds this monk’s eyes,
+<lb n="0439a14" ed="X" />
+<lb n="0165a06" ed="R127" />but also blinds the eyes of all the people in the city of Zhenzhou. Baoshou threw down his staff and returned to his abbot’s quarters. The master
+<lb n="0439a15" ed="X" />
+<lb n="0165a07" ed="R127" />said: In the spark of flint light, ranks are formed to trap heroes; in the flash of lightning, drums are seized and banners
+<lb n="0439a16" ed="X" />
+<lb n="0165a08" ed="R127" />stolen—merits as high as war horses’ sweat. But as for throwing down the staff and returning to the abbot’s room, what of that? The wheel-turning king’s
+<lb n="0439a17" ed="X" />
+<lb n="0165a09" ed="R127" />three-inch iron—throughout the realm it is all blades and spears.</p>
+<lb n="0439a18" ed="X" />
+<lb n="0165a10" ed="R127" />
+<p xml:id="pX73p0439a1801">Minor Dharma talk: thus he said: The essential intent of Yangqi, the secret signal of Dongshan—what can be known cannot be known, wisdom cannot be<note place="inline">問答不錄</note>
+<lb n="0439a19" ed="X" />
+<lb n="0165a11" ed="R127" />can know it. Two thousand miles of Min mountains and Zhejiang waters, thirty days of crossing dangers and riding the waves—every place is complete truth,
+<lb n="0439a20" ed="X" />
+<lb n="0165a12" ed="R127" />and every thing is fully manifest. When one arrives before the Rain Flower Pavilion, even stubborn stones are patched; in the sound of the windlass, a sleeping tiger<anchor xml:id="nkr_note_orig_0439003" n="0439003" />
+<lb n="0439a21" ed="X" />
+<lb n="0165a13" ed="R127" />lifts its eyes. My ancestors used every possible stratagem to set traps and conceal mechanisms, yet they never even accomplished half of it.<g ref="#CB01990" />
+<lb n="0439a22" ed="X" />
+<lb n="0165a14" ed="R127" />Now that this mountain monk has entered its lair, I seize its head, gather in its tail, and stroke its beard backwards. He struck the meditation
+<lb n="0439a23" ed="X" />
+<lb n="0165a15" ed="R127" />seat and said: Hūm! Hūm!</p>
+<lb n="0439a24" ed="X" />
+<lb n="0165a16" ed="R127" />
+<p xml:id="pX73p0439a2401">He further cited: Venerable Fifth Patriarch said: This old monk wandered for dozens of years, visiting many good spiritual friends,
+<pb n="0439b" ed="X" xml:id="X73.1454.0439b" />
+<lb n="0439b01" ed="X" />
+<lb n="0165a17" ed="R127" />thinking everything would be perfectly settled. But when I arrived at Master Yuanjian’s assembly, I simply could not open my mouth. In the end
+<lb n="0439b02" ed="X" />
+<lb n="0165a18" ed="R127" />when I reached Venerable Baiyun’s place, I bit into a single iron dumpling filling, and it instantly became endowed with a hundred flavors.<anchor xml:id="nkr_note_add_0439b0201" n="0439b0201" /><anchor xml:id="beg0439b0201" n="0439b0201" /><anchor xml:id="end0439b0201" />
+<lb n="0439b03" ed="X" />
+<lb n="0165b01" ed="R127" />Now tell me, how would you express the one phrase of that filling? The cockscomb flower blooms, adorning the early autumn—who can<anchor xml:id="nkr_note_add_0439b0301" n="0439b0301" /><anchor xml:id="beg0439b0301" n="0439b0301" /><anchor xml:id="end0439b0301" />
+<lb n="0439b04" ed="X" />
+<lb n="0165b02" ed="R127" />dye its purple silk threads? At times the wind stirs and they lean upon each other, as if endlessly heard before the steps. The master said:
+<lb n="0439b05" ed="X" />
+<lb n="0165b03" ed="R127" />Swallowing that one phrase of the filling whole is already nauseating—how much more so if one chews it finely and spits it out for others?
+<lb n="0439b06" ed="X" />
+<lb n="0165b04" ed="R127" />Even so, the monastics of Sichuan cannot lightly dismiss it.<g ref="#CB05324" /><anchor xml:id="nkr_note_orig_0439004" n="0439004" /></p>
+<lb n="0439b07" ed="X" />
+<lb n="0165b05" ed="R127" />
+<p xml:id="pX73p0439b0701">Buddha’s nirvana, ascending the hall: Do you all wish to see the body of purple-gold radiance? He pointed his hand into the empty space
+<lb n="0439b08" ed="X" />
+<lb n="0165b06" ed="R127" />and said: Blue heaven! Blue heaven! Then he rubbed it and said: Wronged and suffering! Wronged and suffering! It fills people with resentment year after year,<g ref="#CB05577" /><g ref="#CB05577" />
+<lb n="0439b09" ed="X" />
+<lb n="0165b07" ed="R127" />on the fifteenth day of the second month each year.</p>
+<lb n="0439b10" ed="X" />
+<lb n="0165b08" ed="R127" />
+<p xml:id="pX73p0439b1001">On the first day of the third month, ascending the hall, he cited: Venerable Sanjiao said in the hall: In general, speech must accord with
+<lb n="0439b11" ed="X" />
+<lb n="0165b09" ed="R127" />At the appropriate seasonal moment, a monk stepped forth and said: "When there are four yellows and four reds, how is it?" Sanjiao said: "A March staff."
+<lb n="0439b12" ed="X" />
+<lb n="0165b10" ed="R127" />Head peach. A monk said: "Why is the belly full of stored qi?" Sanjiao said: "What about a single rope?"
+<lb n="0439b13" ed="X" />
+<lb n="0165b11" ed="R127" />A monk said: "How does one release the breath?" Sanjiao said: "It must wait until the skin is pierced." Picking it up, he said: "Timely as..."
+<lb n="0439b14" ed="X" />
+<lb n="0165b12" ed="R127" />Wind, responding to circumstances like lightning, is not without Sanjiao. This monk is like a mouse stuck to glue, caught by him.
+<lb n="0439b15" ed="X" />
+<lb n="0165b13" ed="R127" />Stuck, with nothing that can be done. At that time the mountain monk, seeing him, said: "When there are four yellows and four reds, how is it?" only
+<lb n="0439b16" ed="X" />
+<lb n="0165b14" ed="R127" />He responded to him, saying: "Dampening the robes, the apricot blossom rain is about to turn warm." "Why is the belly full of stored qi?" "Blowing on the face does not..."<anchor xml:id="nkr_note_orig_0439005" n="0439005" />
+<lb n="0439b17" ed="X" />
+<lb n="0165b15" ed="R127" />Cold willow wind. How does one release the breath? As the sound harmonized, he struck.</p>
+<lb n="0439b18" ed="X" />
+<lb n="0165b16" ed="R127" />
+<p xml:id="pX73p0439b1801">Ascending the hall, he said: "The sea surges, the peaks are high; the sword pond waters are green. One must personally arrive there, each time and each moment, not deceive it even slightly."
+<lb n="0439b19" ed="X" />
+<lb n="0165b17" ed="R127" />Not obtainable. But consider the bustling of the three springs, with carriages and caps crowding together—was that not being personally present? Yet when it comes to being asked...
+<lb n="0439b20" ed="X" />
+<lb n="0165b18" ed="R127" />Once asked, he immediately said: "Once a year I visit the mountain temples; if not Yunyan, then Tiger Hill." Alas! The sword has gone...
+<lb n="0439b21" ed="X" />
+<lb n="0166a01" ed="R127" />It has long been gone, and only now are you marking the boat.</p>
+<lb n="0439b22" ed="X" />
+<lb n="0166a02" ed="R127" />
+<p xml:id="pX73p0439b2201">Ascending the hall for the Buddha-bathing ritual. Pointing at heaven and pointing at earth—what is there to rely on? I alone am honored—washing basin, washing basin.
+<lb n="0439b23" ed="X" />
+<lb n="0166a03" ed="R127" />Shaoyang Right View, the great sword Ta'a held upside down; Yaoqiao complete function, fox fur turned inside out. At Tiger Hill today...
+<lb n="0439b24" ed="X" />
+<lb n="0166a04" ed="R127" />It only requires all of you to wash him where water does not wash water. Using a whisk, he enacted the Buddha-bathing...
+<pb n="0439c" ed="X" xml:id="X73.1454.0439c" />
+<lb n="0439c01" ed="X" />
+<lb n="0166a05" ed="R127" />gesture, and said: "To attack heterodox teachings—this is harmful indeed."</p>
+<lb n="0439c02" ed="X" />
+<lb n="0166a06" ed="R127" />
+<p xml:id="pX73p0439c0201">Ascending the hall for the Kai Jian Qianhui Festival. Two thousand years ago, at the Vulture Peak assembly, the golden-mouth proclamation of the Humane King Protective State Sutra, one fascicle,
+<lb n="0439c03" ed="X" />
+<lb n="0166a07" ed="R127" />Today, at this Kai Jian Qianhui Festival, it is being translated again. He struck his staff.
+<lb n="0439c04" ed="X" />
+<lb n="0166a08" ed="R127" />He raised his staff and said: "Descend from the seat. The Great Buddha Hall is being established."</p>
+<lb n="0439c05" ed="X" />
+<lb n="0166a09" ed="R127" />
+<p xml:id="pX73p0439c0501">Ascending the hall for the summer retreat: at the beginning of the ninety-day period of restricted travel, the start of the three-month dwelling. Yunyan firmly upholds
+<lb n="0439c06" ed="X" />
+<lb n="0166a10" ed="R127" />the household rules—who would dare violate the regulations and overstep the ordinances? One is one, two is two; affairs are unified with principle, and principle is
+<lb n="0439c07" ed="X" />
+<lb n="0166a11" ed="R127" />sealed in accord with the mind. After a long silence: "The blind donkey does not receive the prediction of Lingshan."</p></cb:div>
+<lb n="0439c08" ed="X" />
+<lb n="0166a12" ed="R127" />
+<lb n="0439c09" ed="X" />
+<lb n="0166a13" ed="R127" />
+<cb:juan n="001" fun="close"><cb:jhead>Recorded sayings of Venerable Yungu, volume one</cb:jhead></cb:juan>
+<milestone n="2" unit="juan" />
+<lb n="0439c10" ed="X" />
+<lb n="0439c11" ed="X" />
+<lb n="0439c12" ed="X" />
+<lb n="0439c13" ed="X" />
+<lb n="0166b01" ed="R127" />
+<cb:juan n="002" fun="open"><cb:mulu n="2" type="卷"></cb:mulu><cb:jhead>Recorded sayings of Venerable Yungu, volume two</cb:jhead></cb:juan>
+<lb n="0439c14" ed="X" />
+<lb n="0166b02" ed="R127" />
+<lb n="0439c15" ed="X" />
+<lb n="0166b03" ed="R127" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Minor assembly</cb:mulu><head>Minor assembly</head>
+<lb n="0439c16" ed="X" />
+<lb n="0166b04" ed="R127" />
+<p xml:id="pX73p0439c1601">On the Winter Solstice: before any signs are divided, heaven is high and earth is deep. One word exhausts it all—night is dark and day is bright. Therefore
+<lb n="0439c17" ed="X" />
+<lb n="0166b05" ed="R127" />Dongshan removed and tossed back the fruit, and Ciming posted a notice in front of the monks’ hall. Exhausting one’s own mind, one laughs<anchor xml:id="nkr_note_add_0439c1701" n="0439c1701" /><anchor xml:id="beg0439c1701" n="0439c1701" /><anchor xml:id="end0439c1701" />
+<lb n="0439c18" ed="X" />
+<lb n="0166b06" ed="R127" />at breaking others’ words. As for the rest—displaying fresh offerings, speaking of yellow and black, and sorting them out—when examined together, they all
+<lb n="0439c19" ed="X" />
+<lb n="0166b07" ed="R127" />have grown moldy and stale. Shengshou only relies on what is seen, laying it out whole on the platter—each one alike. If you
+<lb n="0439c20" ed="X" />
+<lb n="0166b08" ed="R127" />all gnaw east and gnaw west, suddenly if you bite one open and see the kernel inside, then you will know
+<lb n="0439c21" ed="X" />
+<lb n="0166b09" ed="R127" />that the one yang arises in the zi.</p>
+<lb n="0439c22" ed="X" />
+<lb n="0166b10" ed="R127" />
+<p xml:id="pX73p0439c2201">Cited: Yunmen instructed the assembly, saying: Before the fifteenth day I do not ask; after the fifteenth day,<anchor xml:id="nkr_note_add_0439c2201" n="0439c2201" /><anchor xml:id="beg0439c2201" n="0439c2201" /><anchor xml:id="end0439c2201" /><anchor xml:id="nkr_note_add_0439c2202" n="0439c2202" /><anchor xml:id="beg0439c2202" n="0439c2202" /><anchor xml:id="end0439c2202" />
+<lb n="0439c23" ed="X" />
+<lb n="0166b11" ed="R127" />bring me a phrase. The assembly was speechless. Yunmen answered on their behalf: Every day is a good day. The master commented: Yunmen
+<lb n="0439c24" ed="X" />
+<lb n="0166b12" ed="R127" />the elder speaks upside down and inside out under the clear sky in broad daylight. Shengshou also has a question: before the fifteenth day
+<pb n="0440a" ed="X" xml:id="X73.1454.0440a" />
+<anchor xml:id="nkr_note_add_0439c2401" n="0439c2401" /><anchor xml:id="beg0439c2401" n="0439c2401" /><anchor xml:id="end0439c2401" />
+<lb n="0440a01" ed="X" />
+<lb n="0166b13" ed="R127" />I do not ask; after the fifteenth day, bring me a phrase. Then I would say to him: this very morning<anchor xml:id="nkr_note_add_0440a0101" n="0440a0101" /><anchor xml:id="beg0440a0101" n="0440a0101" /><anchor xml:id="end0440a0101" />
+<lb n="0440a02" ed="X" />
+<lb n="0166b14" ed="R127" />it is the sixteenth.</p>
+<lb n="0440a03" ed="X" />
+<lb n="0166b15" ed="R127" />
+<p xml:id="pX73p0440a0301">New Year’s Eve: what falls away is not another thing; what moves freely is not dust. Mountains, rivers, and the great earth all manifest the Dharma
+<lb n="0440a04" ed="X" />
+<lb n="0166b16" ed="R127" />King’s body. Just as the seventy-two peaks of Dongting are high with nothing above them, beyond reach of upward gaze; Lake Tai
+<lb n="0440a05" ed="X" />
+<lb n="0166b17" ed="R127" />with more than thirty thousand qing is vast with no bottom, too deep to fathom. Can this be called the Dharma King’s body? Or not?
+<lb n="0440a06" ed="X" />
+<lb n="0166b18" ed="R127" />It is not a Dharma before the eyes, nor a matter before the eyes; from ancient times to now not even a thread can be added, nor
+<lb n="0440a07" ed="X" />
+<lb n="0167a01" ed="R127" />at year’s end can a thread be taken away. Suddenly he picked up the staff and struck it, saying: The great earth and mountains and rivers
+<lb n="0440a08" ed="X" />
+<lb n="0167a02" ed="R127" />are shattered into a hundred pieces here. Even Chiyi Zi and Tiansui Zi would dance with hands and feet,
+<lb n="0440a09" ed="X" />
+<lb n="0167a03" ed="R127" />wildly and eccentrically coming forth to say: Marvelous! Marvelous! I have long had ears but have never heard such
+<lb n="0440a10" ed="X" />
+<lb n="0167a04" ed="R127" />speech; I have had eyes but never seen such marvel. Leaning on the staff, he said: Stop! Stop! At the gate of Caoxi
+<lb n="0440a11" ed="X" />
+<lb n="0167a05" ed="R127" />no worldly talk is permitted.</p>
+<lb n="0440a12" ed="X" />
+<lb n="0167a06" ed="R127" />
+<p xml:id="pX73p0440a1201">Cited: Huangbo instructed the assembly, saying: All of you are men who gorge on wine dregs; wandering in this way,
+<lb n="0440a13" ed="X" />
+<lb n="0167a07" ed="R127" />how could there be today? Do you know that in the Great Tang there are no Chan masters? At that time a monk came forth from the assembly
+<lb n="0440a14" ed="X" />
+<lb n="0167a08" ed="R127" />and said: But what about those in other regions who merely lead assemblies? Huangbo said: It is not that there is no Chan,<g ref="#CB05084" />
+<lb n="0440a15" ed="X" />
+<lb n="0167a09" ed="R127" />only that there are no teachers. The master commented: Huangbo’s old woman’s heart is earnest, exhausting himself for others—truly so! It is just that
+<lb n="0440a16" ed="X" />
+<lb n="0167a10" ed="R127" />Fujian dialect does not change with past and present; many misunderstand it. Today I give a turning phrase—not only
+<lb n="0440a17" ed="X" />
+<lb n="0167a11" ed="R127" />distinguishing its dialect, but to make you see the eye of the Buddha Dharma. After a pause, he said: gelao, gelao.</p>
+<lb n="0440a18" ed="X" />
+<lb n="0167a12" ed="R127" />
+<p xml:id="pX73p0440a1801">At the summer retreat, informal instruction: the old regulations of Vulture Peak, the new rules of Jambudvipa—placing birds in cages, placing beasts in pens,
+<lb n="0440a19" ed="X" />
+<lb n="0167a13" ed="R127" />one must sit on top of sound and form, lie on top of sound and form; speaking freely, each step treads upon it,
+<lb n="0440a20" ed="X" />
+<lb n="0167a14" ed="R127" />what birth can be protected? what practice can be cultivated? Have you not seen Fengyang, amid war and chaos, bringing six people
+<lb n="0440a21" ed="X" />
+<lb n="0167a15" ed="R127" />to maturity of great vessels, and Miaoxi, in dangerous winds and waves, sending off thirteen people? Here at Shengshou
+<lb n="0440a22" ed="X" />
+<lb n="0167a16" ed="R127" />each one has head touching heaven and feet pressing earth; at dawn eating porridge, at mealtime eating rice. Ho! How about after practice, retreating
+<lb n="0440a23" ed="X" />
+<lb n="0167a17" ed="R127" />to drink tea?</p>
+<lb n="0440a24" ed="X" />
+<lb n="0167a18" ed="R127" />
+<p xml:id="pX73p0440a2401">Cited: A monk asked Master Ma: What is the meaning of the patriarch coming from the West? Master Ma said: Come closer,
+<pb n="0440b" ed="X" xml:id="X73.1454.0440b" />
+<lb n="0440b01" ed="X" />
+<lb n="0167b01" ed="R127" />and I will tell you. The monk approached; Master Ma struck him and said: Six ears cannot conspire. Later
+<lb n="0440b02" ed="X" />
+<lb n="0167b02" ed="R127" />Chan Master Huanglong Nan said: The ancients said even six ears cannot conspire, yet now in all regions three
+<lb n="0440b03" ed="X" />
+<lb n="0167b03" ed="R127" />hundreds and five hundreds, vast and surging—disaster! disaster! The master commented: The colt tramples and kills people throughout the world
+<lb n="0440b04" ed="X" />
+<lb n="0167b04" ed="R127" />that may indeed be so. But as for Huanglong speaking in this way, what is his intent? After a pause, he said: Having once been at Ba
+<lb n="0440b05" ed="X" />
+<lb n="0167b05" ed="R127" />at the place where apes cry in the gorges, before three calls are finished, the heart is already broken.<anchor xml:id="nkr_note_add_0440b0501" n="0440b0501" /><anchor xml:id="beg0440b0501" n="0440b0501" /><anchor xml:id="end0440b0501" /></p>
+<lb n="0440b06" ed="X" />
+<lb n="0167b06" ed="R127" />
+<p xml:id="pX73p0440b0601">At the end of the summer retreat, informal instruction: Lake Tai soaks the moon, and the old Śākyamuni has lost his eyes and does not know; the long bridge
+<lb n="0440b07" ed="X" />
+<lb n="0167b07" ed="R127" />rides the waves, and Bodhidharma’s tongue has rotted and does not recognize it. Since there is neither knowing nor recognition, what people<anchor xml:id="nkr_note_orig_0440001" n="0440001" />
+<lb n="0440b08" ed="X" />
+<lb n="0167b08" ed="R127" />resent is precisely this—unchanged from beginningless time to now. Those in all regions fix a time to attain realization and firmly cling to
+<lb n="0440b09" ed="X" />
+<lb n="0167b09" ed="R127" />wax figures—this is just binding a blind donkey and ruining future ages. This mountain monk for one summer kept and defended his boundary
+<lb n="0440b10" ed="X" />
+<lb n="0167b10" ed="R127" />and simply passed thus; all of you, in ease and accord throughout the summer, also passed thus. Even so
+<lb n="0440b11" ed="X" />
+<lb n="0167b11" ed="R127" />what, in the end, is accomplished? After a long pause, he said: The first three-threes, the later three-threes.</p>
+<lb n="0440b12" ed="X" />
+<lb n="0167b12" ed="R127" />
+<p xml:id="pX73p0440b1201">Cited: A monk asked the master Fengxue: After nine summers of reward, please offer your instruction. Fengxue said: A handful of fragrant
+<lb n="0440b13" ed="X" />
+<lb n="0167b13" ed="R127" />grass is not yet taken up, the six-ringed golden staff rings and shakes the sky. The master commented: Buying iron and getting gold—refined elegance
+<lb n="0440b14" ed="X" />
+<lb n="0167b14" ed="R127" />for a thousand ages. Why? Under heavy reward.</p>
+<lb n="0440b15" ed="X" />
+<lb n="0167b15" ed="R127" />
+<p xml:id="pX73p0440b1501">Winter Solstice, informal instruction: before the empty kalpa and after the empty kalpa, there is a phrase fully and clearly manifest.<anchor xml:id="nkr_note_add_0440b1501" n="0440b1501" /><anchor xml:id="beg0440b1501" n="0440b1501" /><anchor xml:id="end0440b1501" /><anchor xml:id="nkr_note_add_0440b1502" n="0440b1502" /><anchor xml:id="beg0440b1502" n="0440b1502" /><anchor xml:id="end0440b1502" />
+<lb n="0440b16" ed="X" />
+<lb n="0167b16" ed="R127" />From of old until now, no one has ever stumbled into speaking it or directly hit it with the true eye. Benjue tonight<g ref="#CB15111" />
+<lb n="0440b17" ed="X" />
+<lb n="0167b17" ed="R127" />completely breaks open the place where yin reaches its extreme and yang is born. Striking the meditation seat with the whisk, he said: the numinous light has already<anchor xml:id="nkr_note_add_0440b1701" n="0440b1701" /><anchor xml:id="beg0440b1701" n="0440b1701" /><anchor xml:id="end0440b1701" />
+<lb n="0440b18" ed="X" />
+<lb n="0167b18" ed="R127" />shown its signs; the ten thousand things contain emptiness. One vital energy secretly pervades; flowers open and worlds arise. If you understand it thus, mid
+<lb n="0440b19" ed="X" />
+<lb n="0168a01" ed="R127" />winter is bitterly cold; if you do not understand it thus, late winter is extremely cold.</p>
+<lb n="0440b20" ed="X" />
+<lb n="0168a02" ed="R127" />
+<p xml:id="pX73p0440b2001">Cited: A monk asked Xiangyan: Directly cutting off the root source is what the Buddha seals. Xiangyan then threw down his staff, empty-
+<lb n="0440b21" ed="X" />
+<lb n="0168a03" ed="R127" />handed and departed. The master commented: Xiangyan directly revealed it in the open, not failing the one who came. If one strictly follows the command
+<lb n="0440b22" ed="X" />
+<lb n="0168a04" ed="R127" />and proceeds, not to mention this monk—even Śākyamuni would have no place to evade.</p>
+<lb n="0440b23" ed="X" />
+<lb n="0168a05" ed="R127" />
+<p xml:id="pX73p0440b2301">New Year’s Eve, informal instruction: Buddhas do not appear in the world, yet pines are naturally straight or crooked; patriarchs do not come from the West,<g ref="#CB00331" />
+<lb n="0440b24" ed="X" />
+<lb n="0168a06" ed="R127" />yet crows are necessarily black and swans necessarily white. Without cause, six years at Snowy Peak, nine years at Mount Song—on the head, blue
+<pb n="0440c" ed="X" xml:id="X73.1454.0440c" />
+<g ref="#CB01926" />
+<lb n="0440c01" ed="X" />
+<lb n="0168a07" ed="R127" />and around the mouth, white mold forms; making practice in coldness, its fault is still greed. As for lonely villages and leaking inns, carrying water
+<lb n="0440c02" ed="X" />
+<lb n="0168a08" ed="R127" />dragging through mud, crowded markets and masses of people, blocking streets and cutting across alleys—making practice in greed, what then of its faults? Suddenly there is
+<lb n="0440c03" ed="X" />
+<lb n="0168a09" ed="R127" />a fellow who comes out and says: Venerable, Venerable, why do you only keep measuring the ancients—what end is there to it? Just
+<lb n="0440c04" ed="X" />
+<lb n="0168a10" ed="R127" />On the thirtieth day of the twelfth month, what is the great matter each person has under their robes?
+<lb n="0440c05" ed="X" />
+<lb n="0168a11" ed="R127" />Just tell him: The east wind gradually melts the icicles under the eaves; the year’s harsh cold is now at rest.</p>
+<lb n="0440c06" ed="X" />
+<lb n="0168a12" ed="R127" />
+<p xml:id="pX73p0440c0601">Cited: A monk asked Zhaozhou: All dharmas return to one; where does the one return? Zhaozhou said: I was in Qingzhou making
+<lb n="0440c07" ed="X" />
+<lb n="0168a13" ed="R127" />a hemp robe weighing seven pounds. The master commented: Old man Zhaozhou only knows tears flowing from a pained gut,
+<lb n="0440c08" ed="X" />
+<lb n="0168a14" ed="R127" />not realizing his tongue is outside his mouth. If someone suddenly asked Shoushan: all dharmas return to one—where does the one return?
+<lb n="0440c09" ed="X" />
+<lb n="0168a15" ed="R127" />he would strike in response.</p>
+<lb n="0440c10" ed="X" />
+<lb n="0168a16" ed="R127" />
+<p xml:id="pX73p0440c1001">At the summer retreat, informal instruction: not mind, not Buddha, not things—at the decisive moment a Liao-sky falcon bursts forth;
+<lb n="0440c11" ed="X" />
+<lb n="0168a17" ed="R127" />not the wind moving, not the banner moving, not the mind moving—like a heaven-leaning long sword, chilling to the bone. If before anything is raised
+<lb n="0440c12" ed="X" />
+<lb n="0168a18" ed="R127" />one already knows; before words are spoken one already understands; even before the staff arrives one is already broken—how much less to prepare porridge and rice to receive you? Under the bright window
+<lb n="0440c13" ed="X" />
+<lb n="0168b01" ed="R127" />arranging things below, like forcing an ox to eat grass—what living path is there? This summer at Benjue there are more than sixty monks,
+<lb n="0440c14" ed="X" />
+<lb n="0168b02" ed="R127" />and affairs from fifteen prefectures and military circuits; each person’s eyes chill the lakes and seas, each one’s breath presses down heaven and earth, all of it is
+<lb n="0440c15" ed="X" />
+<lb n="0168b03" ed="R127" />discontent with Buddha and unwilling to act. Why? Meaning arises in a year of abundance.</p>
+<lb n="0440c16" ed="X" />
+<lb n="0168b04" ed="R127" />
+<p xml:id="pX73p0440c1601">Cited: Head Seat Ding asked Linji: What is the great meaning of the Buddha Dharma? Linji left his meditation seat, seized him
+<lb n="0440c17" ed="X" />
+<lb n="0168b05" ed="R127" />and gave him a slap, and blossoms opened. Ding stood pondering; a nearby monk said: Head Seat Ding, why do you not bow?<anchor xml:id="nkr_note_orig_0440002" n="0440002" />
+<lb n="0440c18" ed="X" />
+<lb n="0168b06" ed="R127" />Ding bowed and greatly awakened. The master’s verse says: Sixty mountain canes, resentment not yet dissolved; for no reason face-to-face he meets
+<lb n="0440c19" ed="X" />
+<lb n="0168b07" ed="R127" />a stubborn head. At the decisive stroke it is like a swift wind; the Buddha Dharma must be swept away to dust.</p>
+<lb n="0440c20" ed="X" />
+<lb n="0168b08" ed="R127" />
+<p xml:id="pX73p0440c2001">At the end of the summer retreat, informal instruction: in Zuili the clouds are calm; among the Hundred Yue and Three Wu regions, the mountains are green and waters clear, the Doumen waves are still.
+<lb n="0440c21" ed="X" />
+<lb n="0168b09" ed="R127" />Loaded and unloaded above and below, northward and southward travel; holding fast to layered silver mountains, letting songs fill the road when released.
+<lb n="0440c22" ed="X" />
+<lb n="0168b10" ed="R127" />Old boatman for thirty years clearly understood this matter alone, but with one stroke it was scattered in Zhujing; lame Yunmen for a lifetime
+<lb n="0440c23" ed="X" />
+<lb n="0168b11" ed="R127" />looked coldly upon all regions and never left Tusita while traveling. Seeing a horn, one knows the ox—hardly one in ten thousand;
+<lb n="0440c24" ed="X" />
+<lb n="0168b12" ed="R127" />waiting by a stump for a rabbit—five pairs out of ten. Now at the time of self-restraint’s release, Shoushan opens his cloth bag,
+<pb n="0441a" ed="X" xml:id="X73.1454.0441a" />
+<lb n="0441a01" ed="X" />
+<lb n="0168b13" ed="R127" />and shakes it out completely for all of you; each of you should examine your own household goods. After a pause, if you can attain full
+<lb n="0441a02" ed="X" />
+<lb n="0168b14" ed="R127" />ten parts, it is still missing half.</p>
+<lb n="0441a03" ed="X" />
+<lb n="0168b15" ed="R127" />
+<p xml:id="pX73p0441a0301">Cited: One day while Weishan was sitting in the abbot’s quarters, Yangshan passed before him. Weishan said: If it were Baizhang
+<lb n="0441a04" ed="X" />
+<lb n="0168b16" ed="R127" />the elder master, you would surely have to receive a painful beating. Yangshan said: What about today’s matter? Weishan said:
+<lb n="0441a05" ed="X" />
+<lb n="0168b17" ed="R127" />put the two pieces of skin together. Yangshan said: this kindness is hard to repay. Weishan said: it is not that you are incapable, but that this old monk is aged.
+<lb n="0441a06" ed="X" />
+<lb n="0168b18" ed="R127" />Yangshan said: today I have personally seen the elder master Baizhang. Weishan said: in what phrase did you see
+<lb n="0441a07" ed="X" />
+<lb n="0169a01" ed="R127" />the former master? Yangshan said: I do not say I saw him, only that there is no separation. Weishan said: a true master from beginning to end. The master commented:
+<lb n="0441a08" ed="X" />
+<lb n="0169a02" ed="R127" />one push and one squeeze, like jade resonating and gold sounding; one release and one gather—if the head is correct and the tail is correct, it is not without merit. If
+<lb n="0441a09" ed="X" />
+<lb n="0169a03" ed="R127" />great function appears before you, not even Yangshan or Weishan can avoid striking the staff.</p>
+<lb n="0441a10" ed="X" />
+<lb n="0169a04" ed="R127" />
+<p xml:id="pX73p0441a1001">New Year’s Eve, informal instruction: before the flower is lifted, all phenomena throughout the cosmos are already smiling; nowhere to seek the mind,
+<lb n="0441a11" ed="X" />
+<lb n="0169a05" ed="R127" />mountains, rivers, and the great earth are already leveled and sunk. Pitifully, here and there, running east and west, like searching for sauce in a flatbread,<anchor xml:id="nkr_note_add_0441a1101" n="0441a1101" /><anchor xml:id="beg0441a1101" n="0441a1101" /><anchor xml:id="end0441a1101" />
+<lb n="0441a12" ed="X" />
+<lb n="0169a06" ed="R127" />or seeking a seam in empty space. Little do they know that from the first day of the New Year until the
+<lb n="0441a13" ed="X" />
+<lb n="0169a07" ed="R127" />thirtieth day of the twelfth month, there is no wasted effort at all—all of it is one’s own use and enjoyment. Even so, one must never
+<lb n="0441a14" ed="X" />
+<lb n="0169a08" ed="R127" />sit here fixed. Why? This year and this very morning end, and tomorrow of next year comes.</p>
+<lb n="0441a15" ed="X" />
+<lb n="0169a09" ed="R127" />
+<p xml:id="pX73p0441a1501">Cited: Heze met Chan Master Qingyuan Si. Si asked: Where have you come from? Heze said: from Caoxi. Si
+<lb n="0441a16" ed="X" />
+<lb n="0169a10" ed="R127" />said: what is the meaning of Caoxi? Heze shook his body and stood. Si said: you still carry bricks and rubble. Ze
+<lb n="0441a17" ed="X" />
+<lb n="0169a11" ed="R127" />said: is there not true gold here to give people? Si said: even if there were, where would you place it? The master
+<lb n="0441a18" ed="X" />
+<lb n="0169a12" ed="R127" />commented: one is extravagant and not frugal, the other frugal and not extravagant; on careful examination, there is still no distinction
+<lb n="0441a19" ed="X" />
+<lb n="0169a13" ed="R127" />between true gold and rubble. He struck the staff and said: if seen here, even rubble can emit light. Again
+<lb n="0441a20" ed="X" />
+<lb n="0169a14" ed="R127" />he struck and said: if seen here, gold is like filth. Leaning on the staff, he said: what a pity.</p></cb:div>
+<lb n="0441a21" ed="X" />
+<lb n="0169a15" ed="R127" />
+<cb:div type="other"><cb:mulu level="1" type="其他">General Dharma Talk with Incense Announcement</cb:mulu><head>General Dharma Talk with Incense Announcement</head>
+<lb n="0441a22" ed="X" />
+<lb n="0169a16" ed="R127" />
+<p xml:id="pX73p0441a2201">In practicing Chan and studying the Way, there is no other mysterious gateway or essential path; it must be that the person themselves awaken. If one directly
+<lb n="0441a23" ed="X" />
+<lb n="0169a17" ed="R127" />realizes it once, then seeing mountains is not mountains and seeing waters is not waters; afterward, seeing mountains is
+<lb n="0441a24" ed="X" />
+<lb n="0169a18" ed="R127" />mountains and seeing waters is waters. If one does not awaken, seeing is obstructed by seeing, turned by things and
+<pb n="0441b" ed="X" xml:id="X73.1454.0441b" />
+<lb n="0441b01" ed="X" />
+<lb n="0169b01" ed="R127" />confused by conditions; this is what is called karmic consciousness rushing about with no basis to rely on. Have you not seen the ancient virtue who said: in Chan practice one must
+<lb n="0441b02" ed="X" />
+<lb n="0169b02" ed="R127" />awaken; after awakening one must meet a teacher. If one does not meet a teacher, it is all clinging to grass and wood like spirits.
+<lb n="0441b03" ed="X" />
+<lb n="0169b03" ed="R127" />It is also said: in Chan practice there is no other path; thoroughly one must awaken oneself. Whether awakened or not, there is not the slightest difference
+<lb n="0441b04" ed="X" />
+<lb n="0169b04" ed="R127" />between them. How could this be empty words? For example, the various philosophers and the hundred crafts and skills each have their own gate of awakening.
+<lb n="0441b05" ed="X" />
+<lb n="0169b05" ed="R127" />If one attains awakening, one is naturally pure and unstained, and then there is a subtle and wondrous principle. Yan Hui’s sitting in forgetfulness,
+<lb n="0441b06" ed="X" />
+<lb n="0169b06" ed="R127" />Wei Zi said: yes—could this not be pure and unstained? Ban threw down his axe, Liang laid aside his—<anchor xml:id="nkr_note_orig_0441001" n="0441001" /><g ref="#CB15081" />
+<lb n="0441b07" ed="X" />
+<lb n="0169b07" ed="R127" />is this not the subtle and wondrous principle? In our lineage, such as Deshan, who bore great sutras and treatises, opened a great lecture seat, and was revered by
+<lb n="0441b08" ed="X" />
+<lb n="0169b08" ed="R127" />students. He had annotated the Diamond Sutra commentary; upon hearing that in the south there was a teaching outside the scriptures, he became indignant<g ref="#CB00562" />
+<lb n="0441b09" ed="X" />
+<lb n="0169b09" ed="R127" />and restless, and carried his annotations out of Shu, intending to destroy its nests and dens and sweep away<g ref="#CB00562" />
+<lb n="0441b10" ed="X" />
+<lb n="0169b10" ed="R127" />its whole lineage; his bearing was very lofty. When he reached Li Prefecture near Longtan Monastery, he suddenly grew hungry and saw an old woman
+<lb n="0441b11" ed="X" />
+<lb n="0169b11" ed="R127" />selling fried cakes, so he bought a snack. The old woman said: what is it that the head seat is carrying? A hook was set in
+<lb n="0441b12" ed="X" />
+<lb n="0169b12" ed="R127" />the place of no doubt. Deshan said: the Diamond commentary—one hook and it is caught. The old woman said: I have a question;
+<lb n="0441b13" ed="X" />
+<lb n="0169b13" ed="R127" />if you can answer it, you need not pay for the fried cakes; if you cannot, then go far away and pay the price. Deshan
+<lb n="0441b14" ed="X" />
+<lb n="0169b14" ed="R127" />said: just ask it, it is truly fitting. The old woman said: the Diamond Sutra says: the past mind cannot<anchor xml:id="nkr_note_add_0441b1401" n="0441b1401" /><anchor xml:id="beg0441b1401" n="0441b1401" /><anchor xml:id="end0441b1401" />
+<lb n="0441b15" ed="X" />
+<lb n="0169b15" ed="R127" />be found, the present mind cannot be found, the future mind cannot be found. Which mind will you point to in order to
+<lb n="0441b16" ed="X" />
+<lb n="0169b16" ed="R127" />plow and seize food? Deshan was speechless, thoroughly exposed. The old woman said: you have not yet eaten your fried cakes; now the
+<lb n="0441b17" ed="X" />
+<lb n="0169b17" ed="R127" />second iron hammer comes. Deshan said: is there no Chan monastery here? The old woman said: nearby there is Long
+<lb n="0441b18" ed="X" />
+<lb n="0169b18" ed="R127" />Tan the old master, with great eyes, driving sheep into the butcher’s gate. Deshan, unable to eat his cakes, went straight to
+<lb n="0441b19" ed="X" />
+<lb n="0170a01" ed="R127" />Longtan, rushed to the abbot’s room and asked: long have I heard of Longtan; now that I have arrived, I see neither the pond nor the dragon;
+<lb n="0441b20" ed="X" />
+<lb n="0170a02" ed="R127" />its full face is revealed. Behind the scenes Longtan replied: since you have personally arrived at Longtan,
+<lb n="0441b21" ed="X" />
+<lb n="0170a03" ed="R127" />the case is concluded. Deshan was speechless, already struck by poison. He then laid down his arms and stayed. One night
+<lb n="0441b22" ed="X" />
+<lb n="0170a04" ed="R127" />he stood serving at Longtan; late at night he went out the door and saw it was dark outside. Longtan lit a paper candle and handed it to him.
+<lb n="0441b23" ed="X" />
+<lb n="0170a05" ed="R127" />As soon as Deshan took it, Longtan immediately blew it out. At this critical moment Deshan suddenly awakened. Once losing
+<lb n="0441b24" ed="X" />
+<lb n="0170a06" ed="R127" />human life, it is never regained through countless kalpas. Deshan then burned the commentaries he had carried, saying: exhausting all subtle
+<pb n="0441c" ed="X" xml:id="X73.1454.0441c" />
+<lb n="0441c01" ed="X" />
+<lb n="0170a07" ed="R127" />distinctions is like placing a single hair into vast emptiness; exhausting the pivot of the world is like a drop thrown into a great abyss. Ancient
+<lb n="0441c02" ed="X" />
+<lb n="0170a08" ed="R127" />and modern standards. Later he stayed at Deshan, destroyed the Buddhist commentaries, and strictly enforced the true command, relying only on a single staff:
+<lb n="0441c03" ed="X" />
+<lb n="0170a09" ed="R127" />whenever he saw a monk enter the gate, he struck. His compassion was as deep as the sea, yet Yantou and Xuefeng both died under his blows.
+<lb n="0441c04" ed="X" />
+<lb n="0170a10" ed="R127" />One day Xuefeng took leave of Deshan; together with Yantou they went to the Aoshan inn. Yantou kept on sleeping,
+<lb n="0441c05" ed="X" />
+<lb n="0170a11" ed="R127" />while Xuefeng only sat without sleeping. Yantou said: why not gobble up sleep like a clay figure in the seven villages?
+<lb n="0441c06" ed="X" />
+<lb n="0170a12" ed="R127" />like that. At some future time, demons and spirits may seize men and women and carry them away. Wind arises through the grass; Feng
+<lb n="0441c07" ed="X" />
+<lb n="0170a13" ed="R127" />pointed to his chest and said: I am not settled here. One confession is already enough. Yantou said: I had thought you were
+<lb n="0441c08" ed="X" />
+<lb n="0170a14" ed="R127" />such a fellow who would later go to a solitary peak and build a grass hut, still speaking such words.
+<lb n="0441c09" ed="X" />
+<lb n="0170a15" ed="R127" />Killing people requires no knife. Feng said: I truly dare not hide it from myself; my life is already in Yantou’s hands.<anchor xml:id="nkr_note_add_0441c0901" n="0441c0901" /><anchor xml:id="beg0441c0901" n="0441c0901" /><anchor xml:id="end0441c0901" />
+<lb n="0441c10" ed="X" />
+<lb n="0170a16" ed="R127" />Yantou said: if we go by your understanding, report everything in detail. If it is so, I will certify it for you; if not,
+<lb n="0441c11" ed="X" />
+<lb n="0170a17" ed="R127" />I will cut it off for you without lifting or carrying anything further. Feng said: when I first saw Master Yanguan expound the doctrine of form and emptiness, I had
+<lb n="0441c12" ed="X" />
+<lb n="0170a18" ed="R127" />an entry point; even the word “entry” was not necessary. Yantou said: from now on, thirty years later, you must
+<lb n="0441c13" ed="X" />
+<lb n="0170b01" ed="R127" />be careful not to bring this up. To help others, one must be utterly thorough. Also, Dongshan’s verse on crossing water says: do not follow
+<lb n="0441c14" ed="X" />
+<lb n="0170b02" ed="R127" />afar in search; with me, a thin donkey follows before and behind the horse. Yantou said: if so, you cannot even save yourself. Killing
+<lb n="0441c15" ed="X" />
+<lb n="0170b03" ed="R127" />requires seeing blood. Feng said: I once sought instruction from Deshan—within the ancestral transmission, do students still have
+<lb n="0441c16" ed="X" />
+<lb n="0170b04" ed="R127" />any share or not? He clutched the stolen goods and cried injustice. Deshan immediately struck him and said: what do you mean, dripping blood? At that moment
+<lb n="0441c17" ed="X" />
+<lb n="0170b05" ed="R127" />it was like the bottom of a bucket falling out, yet he still did not fully accept it. Deshan said: in my school there are no fixed sayings, and not a single
+<lb n="0441c18" ed="X" />
+<lb n="0170b06" ed="R127" />dharma is given to anyone; the first arrow is light, the later arrow deeper. Yantou shouted: have you not heard it said, entering through the gate
+<lb n="0441c19" ed="X" />
+<lb n="0170b07" ed="R127" />is not the family treasure—like sudden thunder too fast to cover the ears. Feng said: then how can one now seek life
+<lb n="0441c20" ed="X" />
+<lb n="0170b08" ed="R127" />when one cannot get life, or seek death when one cannot die? Yantou said: from now on, if you wish to spread the great teaching,
+<lb n="0441c21" ed="X" />
+<lb n="0170b09" ed="R127" />let everything flow from your own chest, covering heaven and covering earth, and in the end be earnest. Feng leapt down<anchor xml:id="nkr_note_add_0441c2101" n="0441c2101" /><anchor xml:id="beg0441c2101" n="0441c2101" /><anchor xml:id="end0441c2101" />
+<lb n="0441c22" ed="X" />
+<lb n="0170b10" ed="R127" />from the meditation seat and said: today is truly Ao Mountain’s enlightenment; it is also like a poor child picking up a staff. This
+<lb n="0441c23" ed="X" />
+<lb n="0170b11" ed="R127" />is the model of practice from the ancients; without Longtan’s eye for distinguishing past and present, one is not
+<lb n="0441c24" ed="X" />
+<lb n="0170b12" ed="R127" />fit to be a teacher; and without Deshan’s direct openness that casts off reverence and formality, one is not fit
+<pb n="0442a" ed="X" xml:id="X73.1454.0442a" />
+<anchor xml:id="nkr_note_add_0441c2401" n="0441c2401" /><anchor xml:id="beg0441c2401" n="0441c2401" /><anchor xml:id="end0441c2401" />
+<lb n="0442a01" ed="X" />
+<lb n="0170b13" ed="R127" />to be a disciple. Likewise, Yantou’s skill in polishing and Xuefeng’s not deceiving himself—deeply piercing and painfully
+<lb n="0442a02" ed="X" />
+<lb n="0170b14" ed="R127" />striking, bringing one to the great place of no doubt and great ease—only then are true teachers and friends seen. Since you brothers have come
+<lb n="0442a03" ed="X" />
+<lb n="0170b15" ed="R127" />here to assemble for the Way, today there is the incense announcement and general teaching. “Announcing incense” was an old practice for newly arrived monks
+<lb n="0442a04" ed="X" />
+<lb n="0170b16" ed="R127" />set up by the elders for new monks: whenever one arrived at a place in practice, one must first request instruction on conditions and causes,
+<lb n="0442a05" ed="X" />
+<lb n="0170b17" ed="R127" />and only then be allowed into the abbot’s room. Later, as people became many, it was simplified so that before the summer retreat everyone would jointly request instruction once,
+<lb n="0442a06" ed="X" />
+<lb n="0170b18" ed="R127" />once. All you brothers! From now on, if you are practicing, just in your own walking, standing, sitting, and<anchor xml:id="nkr_note_add_0442a0601" n="0442a0601" /><anchor xml:id="beg0442a0601" n="0442a0601" /><anchor xml:id="end0442a0601" />
+<lb n="0442a07" ed="X" />
+<lb n="0171a01" ed="R127" />while lying down, investigate thoroughly; investigate again and again, until you reach the place where there is nothing left to investigate. With a crash, you will see<g ref="#CB01403" />
+<lb n="0442a08" ed="X" />
+<lb n="0171a02" ed="R127" />Deshan and Xuefeng’s very lives are in your hands. Not only those two great elders, but all buddhas from the past
+<lb n="0442a09" ed="X" />
+<lb n="0171a03" ed="R127" />and patriarchs’ lives are likewise in your grasp. When you reach here, in all twelve periods of the day you naturally gain strength,
+<lb n="0442a10" ed="X" />
+<lb n="0171a04" ed="R127" />at the shore of birth and death you also gain strength; encountering situations and conditions, you are not turned by things. In the gate of superior practitioners,
+<lb n="0442a11" ed="X" />
+<lb n="0171a05" ed="R127" />you examine and distinguish all directions, and each step has a way of emerging; you do not sit in the nest of right and wrong or gain and loss.
+<lb n="0442a12" ed="X" />
+<lb n="0171a06" ed="R127" />As for the entire Tripitaka and the seventeen hundred koans, and the subtle principles of language and words,
+<lb n="0442a13" ed="X" />
+<lb n="0171a07" ed="R127" />not a single point can be clung to. Even so, where nothing can be clung to, everything is perfectly established. Why? Because the land is numinous,
+<lb n="0442a14" ed="X" />
+<lb n="0171a08" ed="R127" />every step is grass of the Snow Mountains; every monastic is a jewel of the great ocean. You have stood long; take care.</p></cb:div>
+<lb n="0442a15" ed="X" />
+<lb n="0171a09" ed="R127" />
+<cb:div type="other"><cb:mulu level="1" type="其他">taking up the whisk</cb:mulu><head>taking up the whisk</head>
+<lb n="0442a16" ed="X" />
+<lb n="0171a10" ed="R127" />
+<p xml:id="pX73p0442a1601">Jingshan summer retreat. The intent before sound, the upward faculty—beyond the reach of flint sparks, beyond the pursuit of lightning. Two thousand
+<lb n="0442a17" ed="X" />
+<lb n="0171a11" ed="R127" />years ago, the golden-faced elder spoke of the perfectly enlightened saṅghārāma and the wisdom of equality, taking the four noble ones and the six
+<lb n="0442a18" ed="X" />
+<lb n="0171a12" ed="R127" />realms, sentient and insentient, and binding them all in a single restraint—wrong. In the two thousand years since, successive patriarchs have appeared, taking this error
+<lb n="0442a19" ed="X" />
+<lb n="0171a13" ed="R127" />and compounding it as error; in the meantime they eat by day and sleep by night, planting millet, three hundred and five hundred, speaking east<g ref="#CB15737" />
+<lb n="0442a20" ed="X" />
+<lb n="0171a14" ed="R127" />and west, exhausting their own minds and making others laugh until their mouths split open—wrong. Two thousand years later, in the hall at Jingshan<anchor xml:id="nkr_note_add_0442a2001" n="0442a2001" /><anchor xml:id="beg0442a2001" n="0442a2001" /><anchor xml:id="end0442a2001" />
+<lb n="0442a21" ed="X" />
+<lb n="0171a15" ed="R127" />sitting above, perfect peace is brought forth; everyone’s nose is straight and eyes horizontal, each guarding his own boundary; soon one sees the five
+<lb n="0442a22" ed="X" />
+<lb n="0171a16" ed="R127" />peaks of clouds, sitting and listening to the twin waters, penetrating top and bottom—nothing is not right, yet still: wrong. As for<g ref="#CB00589" />
+<lb n="0442a23" ed="X" />
+<lb n="0171a17" ed="R127" />carp in the mountains and dust in the well—what then? Wrong, wrong! At the decisive moment, break the black dragon’s horn
+<lb n="0442a24" ed="X" />
+<lb n="0171a18" ed="R127" />horn.</p>
+<pb n="0442b" ed="X" xml:id="X73.1454.0442b" />
+<lb n="0442b01" ed="X" />
+<lb n="0171b01" ed="R127" />
+<p xml:id="pX73p0442b0101">Verse on the story of Baizhang’s staff as recited by Bianquan and Yabaiyun. The master’s verse says: the mechanism of giving and taking<g ref="#CB00450" />
+<lb n="0442b02" ed="X" />
+<lb n="0171b02" ed="R127" />is directly lifted face to face; supporting heaven and earth, steep and towering; one blow to the skull shatters it into a hundred fragments, scattered
+<lb n="0442b03" ed="X" />
+<lb n="0171b03" ed="R127" />in the endless spring wind.</p>
+<lb n="0442b04" ed="X" />
+<lb n="0171b04" ed="R127" />
+<p xml:id="pX73p0442b0401">Leaving the summer retreat. The buddhas’ secret seal is a broken dung scoop, a stripped broom. The patriarchs’ mysterious gateway is a lump of muddy clay, an iron
+<lb n="0442b05" ed="X" />
+<lb n="0171b05" ed="R127" />threshold. Thus it is held, thus it is revealed. With hawk’s eyes and falcon’s bearing, one spies where there is no gate. Advancing forward<anchor xml:id="nkr_note_orig_0442001" n="0442001" /><g ref="#CB15111" />
+<lb n="0442b06" ed="X" />
+<lb n="0171b06" ed="R127" />brings immediate peril above; retreating brings utter isolation below. Within ninety days, in the four worlds,<anchor xml:id="nkr_note_orig_0442002" n="0442002" />
+<lb n="0442b07" ed="X" />
+<lb n="0171b07" ed="R127" />The wind howls; who dares violate the rules and ordinances? He raises the whisk and says: look at the seal imprint. Revealing
+<lb n="0442b08" ed="X" />
+<lb n="0171b08" ed="R127" />striking the whisk, he says: smash the mysterious barrier; whether used upright or reversed, nothing is impossible. In ten thousand miles there is not a single
+<lb n="0442b09" ed="X" />
+<lb n="0171b09" ed="R127" />blade of grass, yet a scorched-tail leaps out. When a great tiger leaves the gate it is grass; a horned venomous snake lies across the road
+<lb n="0442b10" ed="X" />
+<lb n="0171b10" ed="R127" />coiled in sleep. At just such a moment, during the summer retreat reward, who is the one who attains it? Katsu!</p>
+<lb n="0442b11" ed="X" />
+<lb n="0171b11" ed="R127" />
+<p xml:id="pX73p0442b1101">Case: When Guanxi first visited Linji, as soon as he stepped through the gate, Linji suddenly seized him by the chest. Xi said: I understand! I understand! Linji<anchor xml:id="nkr_note_orig_0442003" n="0442003" />
+<lb n="0442b12" ed="X" />
+<lb n="0171b12" ed="R127" />then pushed him away. The master Ying’an commented: Guanxi had the bearing of a king, yet was buried alive by Linji
+<lb n="0442b13" ed="X" />
+<lb n="0171b13" ed="R127" />at the crossroads of Zhenzhou. If it had been Guangxiao at that time, even if his staff had broken, he still would not have let him go.
+<lb n="0442b14" ed="X" />
+<lb n="0171b14" ed="R127" />Why? When the household is prosperous, filial sons arise; when the state is strong, it has strategists. The abbot commented: when the string is plucked, a different tune arises;
+<lb n="0442b15" ed="X" />
+<lb n="0171b15" ed="R127" />when leaves fall, one knows autumn—so Guanxi is not without merit. If Linji had had a bit more compassion,
+<lb n="0442b16" ed="X" />
+<lb n="0171b16" ed="R127" />he would not have driven him from village to village, inn to inn. Ying’an said: even if the staff were broken, he would not have let him go. Indeed,
+<lb n="0442b17" ed="X" />
+<lb n="0171b17" ed="R127" />truly so! The master commented: Linji is like a fierce tiger blocking the road, devouring whatever he meets; it is a pity that Guanxi’s life
+<lb n="0442b18" ed="X" />
+<lb n="0171b18" ed="R127" />ended beneath its claws and fangs. If at that time he had skillfully stroked its whiskers backward, not only would he have escaped being seized,
+<lb n="0442b19" ed="X" />
+<lb n="0172a01" ed="R127" />he would also have avoided later criticism. Even so, where is it that Linji lacked even a little
+<lb n="0442b20" ed="X" />
+<lb n="0172a02" ed="R127" />compassion? Tiger stripes are easy to see; human markings are hard to see.</p></cb:div>
+<lb n="0442b21" ed="X" />
+<lb n="0172a03" ed="R127" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Verses</cb:mulu><head>Verses</head>
+<lb n="0442b22" ed="X" />
+<lb n="0172a04" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Blood-written Lotus Sutra</cb:mulu><head>Blood-written Lotus Sutra</head>
+<lb n="0442b23" ed="X" />
+<lb n="0172a05" ed="R127" />
+<p xml:id="pX73p0442b2301">Beneath the eyes there are tendons and skin there is blood; only oneself knows the prick of the needle. On the tip of a hair one can open
+<lb n="0442b24" ed="X" />
+<lb n="0172a06" ed="R127" />transformation; red lotus blossoms, three or four branches.</p></cb:div>
+<pb n="0442c" ed="X" xml:id="X73.1454.0442c" />
+<lb n="0442c01" ed="X" />
+<lb n="0172a07" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Tianyi Enlightenment Well</cb:mulu><head>Tianyi Enlightenment Well</head>
+<lb n="0442c02" ed="X" />
+<lb n="0172a08" ed="R127" />
+<p xml:id="pX73p0442c0201">The cloud-root is dug through, deep and dark green; Tianyi suffers and is deceived deeply; mud and water cover the whole body with no place for snow<g ref="#CB08764" />
+<lb n="0442c03" ed="X" />
+<lb n="0172a09" ed="R127" />to settle; in the moonlight, the shadow of a wild goose falls into the heart of the waves.</p></cb:div>
+<lb n="0442c04" ed="X" />
+<lb n="0172a10" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Name of the Southern Elder</cb:mulu><head>Name of the Southern Elder</head>
+<lb n="0442c05" ed="X" />
+<lb n="0172a11" ed="R127" />
+<p xml:id="pX73p0442c0501">The barbarian tongue of the Pu mouth erases the true transmission; throughout the Jambudvīpa realm, all are descendants. Even Mañjuśrī’s pointing cannot
+<lb n="0442c06" ed="X" />
+<lb n="0172a12" ed="R127" />reach it; even Śubhākarasiṃha is dragged into stumbling backward.</p></cb:div>
+<lb n="0442c07" ed="X" />
+<lb n="0172a13" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Sent to Venerable Shixi of Lingyin</cb:mulu><head>Sent to Venerable Shixi of Lingyin</head>
+<lb n="0442c08" ed="X" />
+<lb n="0172a14" ed="R127" />
+<p xml:id="pX73p0442c0801">The snow-lit clarity fully wields the command of life and death; I myself have been pressed to the edge of death. Now when I reflect on it,
+<lb n="0442c09" ed="X" />
+<lb n="0172a15" ed="R127" />my hairs still stand on end, helplessly.</p></cb:div>
+<lb n="0442c10" ed="X" />
+<lb n="0172a16" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">A skull carries the burden of self and other</cb:mulu><head>A skull carries the burden of self and other</head>
+<lb n="0442c11" ed="X" />
+<lb n="0172a17" ed="R127" />
+<p xml:id="pX73p0442c1101">One thing, a hundred limbs, no difference between self and other; bearing it and being borne—when will it end? If you let it go now, then truly let it<anchor xml:id="nkr_note_add_0442c1101" n="0442c1101" /><anchor xml:id="beg0442c1101" n="0442c1101" /><anchor xml:id="end0442c1101" />
+<lb n="0442c12" ed="X" />
+<lb n="0172a18" ed="R127" />go; one burden never had two ends to begin with.</p></cb:div>
+<lb n="0442c13" ed="X" />
+<lb n="0172b01" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Mourning Venerable Shuangshan</cb:mulu><head>Mourning Venerable Shuangshan</head>
+<lb n="0442c14" ed="X" />
+<lb n="0172b02" ed="R127" />
+<p xml:id="pX73p0442c1401">When the sea surges and waves rise, the sword transforms into a dragon; no need to grieve over the empty blue pool. By the pine window in cold moonlight, I ponder
+<lb n="0442c15" ed="X" />
+<lb n="0172b03" ed="R127" />it further; even a withered tree still chants in the midnight wind.</p></cb:div>
+<lb n="0442c16" ed="X" />
+<lb n="0172b04" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Stone Mirror Title</cb:mulu><head>Stone Mirror Title</head>
+<lb n="0442c17" ed="X" />
+<lb n="0172b05" ed="R127" />
+<p xml:id="pX73p0442c1701">One move at the decisive moment rises on a sheer cliff; clearly it is neither form nor platform. Looking at it, grasping or letting go are all delusions
+<lb n="0442c18" ed="X" />
+<lb n="0172b06" ed="R127" />exhausted; ashamed to face one’s original face at birth.</p></cb:div>
+<lb n="0442c19" ed="X" />
+<lb n="0172b07" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Title “Not Transmitted”</cb:mulu><head>Title “Not Transmitted”</head>
+<lb n="0442c20" ed="X" />
+<lb n="0172b08" ed="R127" />
+<p xml:id="pX73p0442c2001">Smashing the winter-melon seal of India, sweeping away the “child Zen” of China—everything flows out from the chest,<g ref="#CB05577" />
+<lb n="0442c21" ed="X" />
+<lb n="0172b09" ed="R127" />from the very source, extinguishing the blind-donkey edge of the true lineage.</p></cb:div>
+<lb n="0442c22" ed="X" />
+<lb n="0172b10" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Jingshan: After the Fire, Reopening the Sayings of Dahui</cb:mulu><head>Jingshan: After the Fire, Reopening the Sayings of Dahui</head>
+<lb n="0442c23" ed="X" />
+<lb n="0172b11" ed="R127" />
+<p xml:id="pX73p0442c2301">The blocks together number more than eight hundred pieces, with over thirty million characters. In the flash of flint fire, one can see it clearly;
+<lb n="0442c24" ed="X" />
+<lb n="0172b12" ed="R127" />once it is broken through, the old master’s three-inch tongue still remains.</p></cb:div>
+<pb n="0443a" ed="X" xml:id="X73.1454.0443a" />
+<lb n="0443a01" ed="X" />
+<lb n="0172b13" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Title “Shepherd Slope” (from the Su province scholar’s idea of herding sheep)</cb:mulu><head>Shepherd Slope Title<note place="inline">蘇省元取牧羊之義</note></head>
+<lb n="0443a02" ed="X" />
+<lb n="0172b14" ed="R127" />
+<p xml:id="pX73p0443a0201">Holding the Han envoy’s tally, he entered the enemy court; where the ram slept, the grass was deep. Even today the flat ground has become mounds,
+<lb n="0443a03" ed="X" />
+<lb n="0172b15" ed="R127" />all of it is the single heart of loyal devotion.</p></cb:div>
+<lb n="0443a04" ed="X" />
+<lb n="0172b16" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Seeing off Layman Hui</cb:mulu><head>Seeing off Layman Hui</head>
+<lb n="0443a05" ed="X" />
+<lb n="0172b17" ed="R127" />
+<p xml:id="pX73p0443a0501">The Tathāgata and the heavenly prince were originally fellow practitioners; having mouths, they have always kept them sealed. At this sudden parting, leakage occurs
+<lb n="0443a06" ed="X" />
+<lb n="0172b18" ed="R127" />you bow deeply, and I respond with palms together in greeting.</p></cb:div>
+<lb n="0443a07" ed="X" />
+<lb n="0173a01" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Seeing off the young monk Wuji, Brother Ming</cb:mulu><head>Seeing off the young monk Wuji, Brother Ming</head>
+<lb n="0443a08" ed="X" />
+<lb n="0173a02" ed="R127" />
+<p xml:id="pX73p0443a0801">Before even unfolding the cooking cloth, you were already pushed away, yet made to sit and drink tea. Such full courtesy and earnestness
+<lb n="0443a09" ed="X" />
+<lb n="0173a03" ed="R127" />has led you to be spoiled by your teacher.</p></cb:div>
+<lb n="0443a10" ed="X" />
+<lb n="0173a04" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Presented to Chen Meipo, Historian Lecturer</cb:mulu><head>Presented to Chen Meipo, Historian Lecturer</head>
+<lb n="0443a11" ed="X" />
+<lb n="0173a05" ed="R127" />
+<p xml:id="pX73p0443a1101">The realm is fully restored, rejoicing in times of peace; who could draw down the Milky Way to wash away weapons of war? It is good to speak of turning oxen loose and returning horses to pasture
+<lb n="0443a12" ed="X" />
+<lb n="0173a06" ed="R127" />this affair—so all under heaven may happily cut firewood and till the fields.</p></cb:div>
+<lb n="0443a13" ed="X" />
+<lb n="0173a07" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Writing the Flower Garland Sutra</cb:mulu><head>Writing the Flower Garland Sutra</head>
+<lb n="0443a14" ed="X" />
+<lb n="0173a08" ed="R127" />
+<p xml:id="pX73p0443a1401">Two thousand years of affairs have already become blurred; white paper is taken up and written with black ink. The slight intent of Sudhana’s quest is fully revealed,<anchor xml:id="nkr_note_add_0443a1401" n="0443a1401" /><anchor xml:id="beg0443a1401" n="0443a1401" /><anchor xml:id="end0443a1401" />
+<lb n="0443a15" ed="X" />
+<lb n="0173a09" ed="R127" />from beginning to end, success and failure are all Mañjuśrī.</p></cb:div></cb:div>
+<lb n="0443a16" ed="X" />
+<lb n="0173a10" ed="R127" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Praise of Buddhas and Patriarchs</cb:mulu><head>Praise of Buddhas and Patriarchs</head>
+<lb n="0443a17" ed="X" />
+<lb n="0173a11" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Bodhisattva seated on a rock</cb:mulu><head>Bodhisattva seated on a rock</head>
+<lb n="0443a18" ed="X" />
+<lb n="0173a12" ed="R127" />
+<p xml:id="pX73p0443a1801">On blue cliffs rising ten thousand ren, and waterfalls plunging a thousand fathoms; seated on a broad boulder, his compassion is as deep as the sea.<g ref="#CB16221" /></p></cb:div>
+<lb n="0443a19" ed="X" />
+<lb n="0173a13" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Fish Basket</cb:mulu><head>Fish Basket</head>
+<lb n="0443a20" ed="X" />
+<lb n="0173a14" ed="R127" />
+<p xml:id="pX73p0443a2001">Clouds hang in tangled folds, and the bearing is such as this; intent on the brocade-scaled fish, one misses the place of complete transmission.<g ref="#CB15150" /></p></cb:div>
+<lb n="0443a21" ed="X" />
+<lb n="0173a15" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Grass-robed Mañjuśrī</cb:mulu><head>Grass-robed Mañjuśrī<anchor xml:id="nkr_note_orig_0443001" n="0443001" /></head>
+<lb n="0443a22" ed="X" />
+<lb n="0173a16" ed="R127" />
+<p xml:id="pX73p0443a2201">Hair hanging to the shoulders, robe stitched of grass; holding the ruyi scepter—what does it illuminate? I bow to the teacher of the seven buddhas; in Vimalakīrti’s city he is met
+<lb n="0443a23" ed="X" />
+<lb n="0173a17" ed="R127" />and overthrown.</p>
+<lb n="0443a24" ed="X" />
+<lb n="0173a18" ed="R127" />
+<p xml:id="pX73p0443a2401">The ocean of practice and vows is deep without bottom; the sutra in hand is clearly shown. A bottle pours out two thousand repayments, falling into the grass
+<pb n="0443b" ed="X" xml:id="X73.1454.0443b" />
+<lb n="0443b01" ed="X" />
+<lb n="0173b01" ed="R127" />there.<g ref="#CB16224" /></p></cb:div>
+<lb n="0443b02" ed="X" />
+<lb n="0173b02" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Jiashan meets Chuanzi</cb:mulu><head>Jiashan meets Chuanzi</head>
+<lb n="0443b03" ed="X" />
+<lb n="0173b03" ed="R127" />
+<p xml:id="pX73p0443b0301">Revered one, at which temple do you dwell? Nets are cast across the sky. At the place of three nods, a few more boat-poles are still lacking.</p></cb:div>
+<lb n="0443b04" ed="X" />
+<lb n="0173b04" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Xiangyan hears the strike of bamboo</cb:mulu><head>Xiangyan hears the strike of bamboo</head>
+<lb n="0443b05" ed="X" />
+<lb n="0173b05" ed="R127" />
+<p xml:id="pX73p0443b0501">A single pebble is heavier than a thousand jun; at the moment of confrontation it triggers the mechanism. After the skull is shattered, lingering regret remains in the bamboo’s fading echo.</p></cb:div>
+<lb n="0443b06" ed="X" />
+<lb n="0173b06" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Morning Sun</cb:mulu><head>Morning Sun</head>
+<lb n="0443b07" ed="X" />
+<lb n="0173b07" ed="R127" />
+<p xml:id="pX73p0443b0701">The present mechanism runs through a single thread; what is precious is its completeness, with no leakage or flaw. Pointing to the numinous and the cold, the whole body breaks into cold sweat.<g ref="#CB16192" /></p></cb:div>
+<lb n="0443b08" ed="X" />
+<lb n="0173b08" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Facing the Moon</cb:mulu><head>Facing the Moon</head>
+<lb n="0443b09" ed="X" />
+<lb n="0173b09" ed="R127" />
+<p xml:id="pX73p0443b0901">In the hand is a palm-leaf scripture; its circulation and transmission have never been fully penetrated. Calling to the moon rabbit in heat—characters are black, paper is white.</p></cb:div>
+<lb n="0443b10" ed="X" />
+<lb n="0173b10" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Hanshan (holding a broom)<g ref="#CB00416" /></cb:mulu><head>Hanshan<note place="inline">執掃<g ref="#CB00416">󰆠</g></note></head>
+<lb n="0443b11" ed="X" />
+<lb n="0173b11" ed="R127" />
+<p xml:id="pX73p0443b1101">Not of my stream, he pulls it up from the root completely. If this person goes forth, he will snatch away your broom handle.</p></cb:div>
+<lb n="0443b12" ed="X" />
+<lb n="0173b12" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Shide (holding a scripture scroll)</cb:mulu><head>Shide<note place="inline">執經卷</note></head>
+<lb n="0443b13" ed="X" />
+<lb n="0173b13" ed="R127" />
+<p xml:id="pX73p0443b1301">Asked about his surname, and he does not know it; asked his given name, and he does not recognize it. Fully holding up a single scripture scroll, how does that compare to standing with hands folded?</p></cb:div>
+<lb n="0443b14" ed="X" />
+<lb n="0173b14" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">The Fifth Patriarch sends the Sixth Patriarch across the river</cb:mulu><head>The Fifth Patriarch sends the Sixth Patriarch across the river</head>
+<lb n="0443b15" ed="X" />
+<lb n="0173b15" ed="R127" />
+<p xml:id="pX73p0443b1501">He was only a rice-pounder on long duty, yet he overturned old conventions with life as fragile as thread. A small boat, one night, rows through the bright moon.
+<lb n="0443b16" ed="X" />
+<lb n="0173b16" ed="R127" />Only when raising a child does one know a father’s kindness.</p></cb:div>
+<lb n="0443b17" ed="X" />
+<lb n="0173b17" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">The boatman</cb:mulu><head>The boatman</head>
+<lb n="0443b18" ed="X" />
+<lb n="0173b18" ed="R127" />
+<p xml:id="pX73p0443b1801">Leaning on the orchid oar, he sits, his two eyes empty and vast. Coldly he gazes at the red-weed shore, his intent resting on the dragon in the blue pool.</p></cb:div>
+<lb n="0443b19" ed="X" />
+<lb n="0174a01" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Yanyang</cb:mulu><head>Yanyang</head>
+<lb n="0443b20" ed="X" />
+<lb n="0174a02" ed="R127" />
+<p xml:id="pX73p0443b2001">Bringing not a single thing, yet carrying it all on his shoulders. This poisonous mind—could it be a fierce tiger?</p></cb:div></cb:div>
+<lb n="0443b21" ed="X" />
+<lb n="0174a03" ed="R127" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Minor Dharma Service</cb:mulu><head>Minor Dharma Service</head>
+<lb n="0443b22" ed="X" />
+<lb n="0174a04" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Venerable Zhen, exhumation and return of remains to Quanzhou</cb:mulu><head>Venerable Zhen, exhumation and return of remains to Quanzhou</head>
+<lb n="0443b23" ed="X" />
+<lb n="0174a05" ed="R127" />
+<p xml:id="pX73p0443b2301">Sound and form are utterly pure; seeing and hearing are unobstructed. If it can be spoken, then it stops there, only slightly revealing half. With a sweep of the sleeve, he departs,
+<lb n="0443b24" ed="X" />
+<lb n="0174a06" ed="R127" />still lacking one final turn. Hūng hūng—at Ling Mountain’s gate, there is still no place for you.</p></cb:div>
+<pb n="0443c" ed="X" xml:id="X73.1454.0443c" />
+<lb n="0443c01" ed="X" />
+<lb n="0174a07" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Exhumation of Yanjing Head</cb:mulu><head>Exhumation of Yanjing Head</head>
+<lb n="0443c02" ed="X" />
+<lb n="0174a08" ed="R127" />
+<p xml:id="pX73p0443c0201">At the eastern privy head, in Yanshou, relieving oneself on the clean ground—already seen before the skull. If one goes on like this,<anchor xml:id="nkr_note_add_0443c0201" n="0443c0201" /><anchor xml:id="beg0443c0201" n="0443c0201" /><anchor xml:id="end0443c0201" />
+<lb n="0443c03" ed="X" />
+<lb n="0174a09" ed="R127" />with no final resting place, what then in the end? My home is in Eastern Prefecture.</p></cb:div>
+<lb n="0443c04" ed="X" />
+<lb n="0174a10" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Fire sermon for Yizang, Scripture Librarian (formerly chanter at Jingshan)</cb:mulu><head>Fire sermon for Yizang<note place="inline">曾在徑山維那</note></head>
+<lb n="0443c05" ed="X" />
+<lb n="0174a11" ed="R127" />
+<p xml:id="pX73p0443c0501">Raising the torch, he says: this meaning is profound and subtle, beyond anyone’s reach. He once personally contended in Dharma battle with seventeen hundred people,
+<lb n="0443c06" ed="X" />
+<lb n="0174a12" ed="R127" />all of whom listened to the full presentation. In reply to the monk asking about letters, the entire Tripiṭaka is not worth a single spit—lift your gaze to Yunyan.
+<lb n="0443c07" ed="X" />
+<lb n="0174a13" ed="R127" />Yun on the cliff says: coral branches, branch by branch, day after day. Yizang, do you see it? Do not call it fire.</p></cb:div>
+<lb n="0443c08" ed="X" />
+<lb n="0174a14" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Sealing the niche of Layman Yong</cb:mulu><head>Sealing the niche of Layman Yong</head>
+<lb n="0443c09" ed="X" />
+<lb n="0174a15" ed="R127" />
+<p xml:id="pX73p0443c0901">This pinch of that person is all iron. In death one sees action; once attained, eternally attained. The gate is shut on the clear wind
+<lb n="0443c10" ed="X" />
+<lb n="0174a16" ed="R127" />□□ in leisure, scattered flower rain lies in utter disarray.</p></cb:div>
+<lb n="0443c11" ed="X" />
+<lb n="0174a17" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Entering the stupa of Record Keeper Zun</cb:mulu><head>Entering the stupa of Record Keeper Zun</head>
+<lb n="0443c12" ed="X" />
+<lb n="0174a18" ed="R127" />
+<p xml:id="pX73p0443c1201">Using Huanglong’s single device, following the ritual of the Seven Buddhas. Not adding a single embellishment, his whole body is raw and unadorned strength.
+<lb n="0443c13" ed="X" />
+<lb n="0174b01" ed="R127" />How high is heaven, how extreme is earth—through iron walls and silver mountains one enters from here.</p></cb:div>
+<lb n="0443c14" ed="X" />
+<lb n="0174b02" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Offering tea for West Hall monk Bu Tuoji</cb:mulu><head>Offering tea for West Hall monk Bu Tuoji</head>
+<lb n="0443c15" ed="X" />
+<lb n="0174b03" ed="R127" />
+<p xml:id="pX73p0443c1501">So-and-so, a spiritual sprout of Eastern Ravine, with the true character of the monastic forest. Before Jade Desk Peak, sharing the seat and upholding teaching. At Mount Putuo,
+<lb n="0443c16" ed="X" />
+<lb n="0174b04" ed="R127" />by the cliffside, cloud waves roll like snow. He swept away the five flavors of Chan in all directions, and exchanged the tongues of monks for the three talents.
+<lb n="0443c17" ed="X" />
+<lb n="0174b05" ed="R127" />Farewell—drink tea, treasure it, and rest.</p></cb:div>
+<lb n="0443c18" ed="X" />
+<lb n="0174b06" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Fire sermon for Record Keeper Ziming (temporarily arrived at death)</cb:mulu><head>Fire sermon for Ziming, Record Keeper<note place="inline">暫到死</note></head>
+<lb n="0443c19" ed="X" />
+<lb n="0174b07" ed="R127" />
+<p xml:id="pX73p0443c1901">So-and-so, from illumination comes sincerity, from sincerity comes illumination. The lifeblood of the Master, the eyes of Yangqi. Thus,
+<lb n="0443c20" ed="X" />
+<lb n="0174b08" ed="R127" />if you understand, it is a ten-thousand-mile journey. Right now, cut off the lips and tongue—speak quickly, speak quickly. He throws down the torch,<anchor xml:id="nkr_note_add_0443c2001" n="0443c2001" /><anchor xml:id="beg0443c2001" n="0443c2001" /><anchor xml:id="end0443c2001" />
+<lb n="0443c21" ed="X" />
+<lb n="0174b09" ed="R127" />saying: the fire boy of Bingding comes seeking fire.</p></cb:div>
+<lb n="0443c22" ed="X" />
+<lb n="0174b10" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Fire sermon for Zhidianza, Head Cook</cb:mulu><head>Fire sermon for Zhidianza, Head Cook</head>
+<lb n="0443c23" ed="X" />
+<lb n="0174b11" ed="R127" />
+<p xml:id="pX73p0443c2301">His aspiration is admirable, and his inclination is also admirable. He speaks of ginger yet does not know its spiciness, and again says black beans…
+<lb n="0443c24" ed="X" />
+<lb n="0174b12" ed="R127" />Good for making sauce. With a sudden turn of the mechanism, both mouth and ears are lost. How is it that in the various places they are buried alive—here
+<pb n="0444a" ed="X" xml:id="X73.1454.0444a" />
+<lb n="0444a01" ed="X" />
+<lb n="0174b13" ed="R127" />cremation.</p></cb:div>
+<lb n="0444a02" ed="X" />
+<lb n="0174b14" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">Torch for West Hall monk Konghai Bao</cb:mulu><head>Torch for West Hall monk Konghai Bao</head>
+<lb n="0444a03" ed="X" />
+<lb n="0174b15" ed="R127" />
+<p xml:id="pX73p0444a0301">Before the mechanism of the sleeping tiger, in the depths where the dragon is trapped, smashing the clay basin and breaking the black bamboo staff—this is Konghai
+<lb n="0444a04" ed="X" />
+<lb n="0174b16" ed="R127" />who has the eyes of one who has traveled widely and fully investigated everywhere. Beneath Nanping Peak, before the Hall of Right Reception, occupying the seat of Nanquan,
+<lb n="0444a05" ed="X" />
+<lb n="0174b17" ed="R127" />carrying Muzhou’s wooden board—this is Konghai’s function of sharing the seat and presenting the essential teaching. In the furnace of smelting gold, using<g ref="#CB08504" />
+<lb n="0444a06" ed="X" />
+<lb n="0174b18" ed="R127" />the method of □clear sky, showing the sickness of sentient beings, folding the tongue of Vimalakīrti—again Konghai enters into descending-hand □<g ref="#CB04622" />
+<lb n="0444a07" ed="X" />
+<lb n="0175a01" ed="R127" />□□. As for the illness of being unable to gather it together, and precisely the inability to find where it arises—how does Konghai
+<lb n="0444a08" ed="X" />
+<lb n="0175a02" ed="R127" />theorize it? He throws down the fire brand and says: at this moment the liver and gall both split apart, like water with water, fire with
+<lb n="0444a09" ed="X" />
+<lb n="0175a03" ed="R127" />fire.</p></cb:div>
+<lb n="0444a10" ed="X" />
+<lb n="0175a04" ed="R127" />
+<cb:div type="other"><cb:mulu level="2" type="其他">For shaving the novice’s head and bestowing the robe</cb:mulu><head>For shaving the novice’s head and bestowing the robe</head>
+<lb n="0444a11" ed="X" />
+<lb n="0175a05" ed="R127" />
+<p xml:id="pX73p0444a1101">At the highest point of the mechanism, it is clearly revealed. Without moving the razor, the hair and beard fall of themselves.<g ref="#CB00576" /></p>
+<lb n="0444a12" ed="X" />
+<lb n="0175a06" ed="R127" />
+<p xml:id="pX73p0444a1201">Buddha hands it to Buddha, patriarchs transmit it to patriarchs. No trace of the thread is revealed—the stupa rests on the left shoulder.</p></cb:div></cb:div>
+<lb n="0444a13" ed="X" />
+<lb n="0175a07" ed="R127" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Written by Head Seat Qian after the general teaching of Master Songyuan<g ref="#CB02494" /></cb:mulu><head>Written by Head Seat Qian after the general teaching of Master Songyuan<g ref="#CB02494" /></head>
+<lb n="0444a14" ed="X" />
+<lb n="0175a08" ed="R127" />
+<p xml:id="pX73p0444a1401">When illness is many, one becomes familiar with medicinal properties; only after proven efficacy is a prescription transmitted. Master Songyuan once served Master Yingan at
+<lb n="0444a15" ed="X" />
+<lb n="0175a09" ed="R127" />Zhongshan, and obtained this effective prescription, widely applying it to cure the illnesses of the many. Elder Xun, Head Seat Qian, selected
+<lb n="0444a16" ed="X" />
+<lb n="0175a10" ed="R127" />responses, harmonized and wrote them down, making them even more manifest. As it is said, curses and all poisonous medicines return to their originator,
+<lb n="0444a17" ed="X" />
+<lb n="0175a11" ed="R127" />so one must be very careful.</p></cb:div>
+<lb n="0444a18" ed="X" />
+<lb n="0175a12" ed="R127" />
+<lb n="0444a19" ed="X" />
+<lb n="0175a13" ed="R127" />
+<cb:juan n="002" fun="close"><cb:jhead>Recorded Sayings of Venerable Yungu, Scroll Lower<note place="inline">終</note></cb:jhead></cb:juan>
+<lb n="0444a20" ed="X" />
+<lb n="0444a21" ed="X" />
+<cb:div type="xu"><cb:mulu level="1" type="序">No. 1454-A</cb:mulu><head>No. 1454-A</head>
+<lb n="0444a22" ed="X" />
+<lb n="0444a23" ed="X" />
+<lb n="0175a15" ed="R127" />
+<p xml:id="pX73p0444a2301">In the Dharma talks at Nantang, sometimes Guanyiu’s “Mountain Dwelling” poems are recited, or Liu Qiqing’s lyrics are sung—some say this is not
+<lb n="0444a24" ed="X" />
+<lb n="0175a16" ed="R127" />Chan—can that be so? In recent times there is a fondness for strange and affected styles; if one’s insight does not reach the ancients, it is like actors in a theater
+<pb n="0444b" ed="X" xml:id="X73.1454.0444b" />
+<lb n="0444b01" ed="X" />
+<lb n="0175a17" ed="R127" />performing history, speaking of matters resembling Liu Bang and Xiang Yu—those who take it in do not tire. How is this not true history
+<lb n="0444b02" ed="X" />
+<lb n="0175a18" ed="R127" />itself? If one has realization, even without such records, who does not have such records? If there is no realization, even if there are such records,
+<lb n="0444b03" ed="X" />
+<lb n="0175b01" ed="R127" />who truly possesses them? Someone says: your argument is too high—then there would be no recorded sayings in the world. Yungu looks
+<lb n="0444b04" ed="X" />
+<lb n="0175b02" ed="R127" />upon scholars—how could one make them without transmission? I folded my hands and apologized, saying: I have offended, I have offended. In the year Wuchen<g ref="#CB08873" />
+<lb n="0444b05" ed="X" />
+<lb n="0175b03" ed="R127" />written on the first day of the ninth month.</p></cb:div>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校注</head>
+<p>
+<app from="#beg0434b1801" to="#end0434b1801"><lem resp="#resp4" wit="#wit.cbeta" cb:provider="iamone (2019-01-29)">磁<note type="cf1">T47n1998Ap0873a29</note></lem><rdg wit="#wit.orig">鎡</rdg></app>
+<app from="#beg0434c0501" to="#end0434c0501"><lem resp="#resp4" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0435b0301" to="#end0435b0301"><lem resp="#resp4" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0435b1101" to="#end0435b1101"><lem resp="#resp4" wit="#wit.cbeta">刺</lem><rdg wit="#wit.orig">剌</rdg></app>
+<app from="#beg0435c0501" to="#end0435c0501"><lem resp="#resp4" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0436a1501" to="#end0436a1501"><lem resp="#resp4" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0437a1501" to="#end0437a1501"><lem resp="#resp4" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0437a1502" to="#end0437a1502"><lem resp="#resp4" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0438a2301" to="#end0438a2301"><lem resp="#resp4" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0439b0201" to="#end0439b0201"><lem resp="#resp5" wit="#wit.cbeta" cb:provider="趙文平 (2021-07-27)">餕餡</lem><rdg wit="#wit.orig">酸饀</rdg></app>
+<app from="#beg0439b0301" to="#end0439b0301"><lem resp="#resp5" wit="#wit.cbeta" cb:provider="趙文平 (2021-07-27)">餡</lem><rdg wit="#wit.orig">饀</rdg></app>
+<app from="#beg0439c1701" to="#end0439c1701"><lem resp="#resp4" wit="#wit.cbeta">己</lem><rdg wit="#wit.orig">已</rdg></app>
+<app from="#beg0439c2201" to="#end0439c2201"><lem resp="#resp4" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0439c2202" to="#end0439c2202"><lem resp="#resp4" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0439c2401" to="#end0439c2401"><lem resp="#resp4" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0440a0101" to="#end0440a0101"><lem resp="#resp4" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0440b0501" to="#end0440b0501"><lem resp="#resp4" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0440b1501" to="#end0440b1501"><lem resp="#resp4" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0440b1502" to="#end0440b1502"><lem resp="#resp4" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0440b1701" to="#end0440b1701"><lem resp="#resp4" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0441a1101" to="#end0441a1101"><lem resp="#resp4" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0441b1401" to="#end0441b1401"><lem resp="#resp4" wit="#wit.cbeta">但</lem><rdg wit="#wit.orig">伹</rdg></app>
+<app from="#beg0441c0901" to="#end0441c0901"><lem resp="#resp4" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0441c2101" to="#end0441c2101"><lem resp="#resp4" wit="#wit.cbeta">己</lem><rdg wit="#wit.orig">已</rdg></app>
+<app from="#beg0441c2401" to="#end0441c2401"><lem resp="#resp4" wit="#wit.cbeta">卻</lem><rdg wit="#wit.orig">郤</rdg></app>
+<app from="#beg0442a0601" to="#end0442a0601"><lem resp="#resp4" wit="#wit.cbeta">己</lem><rdg wit="#wit.orig">已</rdg></app>
+<app from="#beg0442a2001" to="#end0442a2001"><lem resp="#resp4" wit="#wit.cbeta">己</lem><rdg wit="#wit.orig">已</rdg></app>
+<app from="#beg0442c1101" to="#end0442c1101"><lem resp="#resp6" wit="#wit.cbeta">骸</lem><rdg wit="#wit.orig">駭</rdg></app>
+<app from="#beg0443a1401" to="#end0443a1401"><lem resp="#resp4" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0443c0201" to="#end0443c0201"><lem resp="#resp4" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0443c2001" to="#end0443c2001"><lem resp="#resp4" wit="#wit.cbeta">卻</lem><rdg wit="#wit.orig">郤</rdg></app>
+</p>
+</cb:div>
+<cb:div type="xuzang-notes">
+<head>卍續藏 校注</head>
+<p>
+<note n="0434001" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0434001">開疑關次同</note>
+<note n="0434002" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0434002">菓疑果</note>
+<note n="0435001" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0435001">意當作竟</note>
+<note n="0436001" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0436001">間疑問</note>
+<note n="0436002" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0436002">勤疑動</note>
+<note n="0436003" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0436003">亞疑匝</note>
+<note n="0436004" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0436004">者疑老</note>
+<note n="0437001" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0437001">者疑老</note>
+<note n="0437002" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0437002">更疑萸</note>
+<note n="0437003" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0437003">超疑起</note>
+<note n="0437004" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0437004">蒲疑滿次同</note>
+<note n="0437005" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0437005">電疑雷</note>
+<note n="0437006" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0437006">曇疑星</note>
+<note n="0437007" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0437007">註疑誑下同</note>
+<note n="0437008" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0437008">人下應有脫字</note>
+<note n="0439001" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0439001">者疑老</note>
+<note n="0439002" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0439002">則个疑門戶</note>
+<note n="0439003" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0439003">苴疑首</note>
+<note n="0439004" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0439004">輕字原本不明或怪字乎</note>
+<note n="0439005" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0439005">溫疑濕</note>
+<note n="0440001" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0440001">則當作臥</note>
+<note n="0440002" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0440002">花疑托</note>
+<note n="0441001" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0441001">胃當作曾</note>
+<note n="0442001" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0442001">服疑眼</note>
+<note n="0442002" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0442002">邇疑通</note>
+<note n="0442003" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0442003">生疑住</note>
+<note n="0443001" resp="#resp2" type="orig" place="foot text" target="#nkr_note_orig_0443001">普下疑有脫字</note>
+</p>
+</cb:div>
+<cb:div type="add-notes">
+<head>新增校注</head>
+<p>
+<note n="0434b1801" resp="#resp3" type="add" cb:note_key="X73.0434b18.10" target="#nkr_note_add_0434b1801">磁【CB】，鎡【卍續】</note>
+<note n="0434c0501" resp="#resp3" type="add" target="#nkr_note_add_0434c0501">已【CB】，巳【卍續】</note>
+<note n="0435b0301" resp="#resp3" type="add" target="#nkr_note_add_0435b0301">已【CB】，巳【卍續】</note>
+<note n="0435b1101" resp="#resp3" type="add" target="#nkr_note_add_0435b1101">刺【CB】，剌【卍續】</note>
+<note n="0435c0501" resp="#resp3" type="add" target="#nkr_note_add_0435c0501">已【CB】，巳【卍續】</note>
+<note n="0436a1501" resp="#resp3" type="add" target="#nkr_note_add_0436a1501">已【CB】，巳【卍續】</note>
+<note n="0437a1501" resp="#resp3" type="add" target="#nkr_note_add_0437a1501">已【CB】，巳【卍續】</note>
+<note n="0437a1502" resp="#resp3" type="add" target="#nkr_note_add_0437a1502">已【CB】，巳【卍續】</note>
+<note n="0438a2301" resp="#resp3" type="add" target="#nkr_note_add_0438a2301">已【CB】，巳【卍續】</note>
+<note n="0439b0201" resp="#resp3" type="add" cb:note_key="X73.0439b02.13" target="#nkr_note_add_0439b0201">餕餡【CB】，酸饀【卍續】（CBETA 按：「餕」音 jùn，不通「酸」(suān)。「饀」音 tāo，通「饕」(tāo)，非「餡」(xiàn)之異體字。）</note>
+<note n="0439b0301" resp="#resp3" type="add" cb:note_key="X73.0439b03.03" target="#nkr_note_add_0439b0301">餡【CB】，饀【卍續】（CBETA 按：「饀」音 tāo，通「饕」(tāo)，非「餡」(xiàn)之異體字。）</note>
+<note n="0439c1701" resp="#resp3" type="add" target="#nkr_note_add_0439c1701">己【CB】，已【卍續】</note>
+<note n="0439c2201" resp="#resp3" type="add" target="#nkr_note_add_0439c2201">已【CB】，巳【卍續】</note>
+<note n="0439c2202" resp="#resp3" type="add" target="#nkr_note_add_0439c2202">已【CB】，巳【卍續】</note>
+<note n="0439c2401" resp="#resp3" type="add" target="#nkr_note_add_0439c2401">已【CB】，巳【卍續】</note>
+<note n="0440a0101" resp="#resp3" type="add" target="#nkr_note_add_0440a0101">已【CB】，巳【卍續】</note>
+<note n="0440b0501" resp="#resp3" type="add" target="#nkr_note_add_0440b0501">已【CB】，巳【卍續】</note>
+<note n="0440b1501" resp="#resp3" type="add" target="#nkr_note_add_0440b1501">已【CB】，巳【卍續】</note>
+<note n="0440b1502" resp="#resp3" type="add" target="#nkr_note_add_0440b1502">已【CB】，巳【卍續】</note>
+<note n="0440b1701" resp="#resp3" type="add" target="#nkr_note_add_0440b1701">已【CB】，巳【卍續】</note>
+<note n="0441a1101" resp="#resp3" type="add" target="#nkr_note_add_0441a1101">已【CB】，巳【卍續】</note>
+<note n="0441b1401" resp="#resp3" type="add" target="#nkr_note_add_0441b1401">但【CB】，伹【卍續】</note>
+<note n="0441c0901" resp="#resp3" type="add" target="#nkr_note_add_0441c0901">已【CB】，巳【卍續】</note>
+<note n="0441c2101" resp="#resp3" type="add" target="#nkr_note_add_0441c2101">己【CB】，已【卍續】</note>
+<note n="0441c2401" resp="#resp3" type="add" target="#nkr_note_add_0441c2401">卻【CB】，郤【卍續】</note>
+<note n="0442a0601" resp="#resp3" type="add" target="#nkr_note_add_0442a0601">己【CB】，已【卍續】</note>
+<note n="0442a2001" resp="#resp3" type="add" target="#nkr_note_add_0442a2001">己【CB】，已【卍續】</note>
+<note n="0442c1101" resp="#resp3" type="add" cb:note_key="X73.0442c11.04" target="#nkr_note_add_0442c1101">骸【CB】，駭【卍續】</note>
+<note n="0443a1401" resp="#resp3" type="add" target="#nkr_note_add_0443a1401">已【CB】，巳【卍續】</note>
+<note n="0443c0201" resp="#resp3" type="add" target="#nkr_note_add_0443c0201">已【CB】，巳【卍續】</note>
+<note n="0443c2001" resp="#resp3" type="add" target="#nkr_note_add_0443c2001">卻【CB】，郤【卍續】</note>
+</p>
+</cb:div>
+</back></text></TEI>
