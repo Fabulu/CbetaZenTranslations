@@ -35,7 +35,14 @@ permissions:
 
 jobs:
   verify-and-merge:
-    if: startsWith(github.head_ref, 'community/data/')
+    # Two branch-name conventions are allowed:
+    #   community/data/{timestamp}  — community-data PRs (termbase, TM, etc.)
+    #   contrib/{user}/{timestamp}  — translation contribution PRs
+    # Both still go through the per-file path allowlist below, which
+    # restricts every PR to the contributor's own personal community
+    # files. Canonical translation paths under xml-p5t/... are not in
+    # any allowlist, so they require manual review regardless of branch.
+    if: startsWith(github.head_ref, 'community/data/') || startsWith(github.head_ref, 'contrib/')
     runs-on: ubuntu-latest
     steps:
       - name: Verify only per-user community files changed
