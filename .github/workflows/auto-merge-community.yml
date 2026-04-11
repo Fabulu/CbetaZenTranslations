@@ -97,4 +97,11 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_NUM: ${{ github.event.pull_request.number }}
-        run: gh pr merge "$PR_NUM" --merge --auto --repo "$GITHUB_REPOSITORY"
+        # Immediate merge — NOT --auto. The --auto flag enables GitHub's
+        # "merge when ready" queue mode, which requires branch protection
+        # rules to be configured on main so GitHub knows what "ready"
+        # means. We don't have branch protection (intentionally — this
+        # workflow IS the gate), and we don't want queue mode anyway:
+        # the workflow has already validated the PR and is ready to
+        # merge it right now. So just merge it directly.
+        run: gh pr merge "$PR_NUM" --merge --repo "$GITHUB_REPOSITORY"
