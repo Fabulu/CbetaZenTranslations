@@ -1,9 +1,33 @@
 name: Auto-merge community data
 
 on:
-  pull_request:
+  pull_request_target:
     types: [opened, synchronize]
     branches: [main]
+
+# WHY pull_request_target instead of pull_request:
+#
+# pull_request_target runs in the BASE repo's context with a full
+# GITHUB_TOKEN, instead of the read-only token GitHub forces on
+# pull_request workflows triggered from external forks. That fork-token
+# restriction is hardcoded — no YAML permissions block or repo setting
+# can override it — and it's why "gh pr merge" was failing on community
+# PRs from contributors with "Resource not accessible by integration".
+#
+# pull_request_target is dangerous IF the workflow executes PR code,
+# because that code would run with elevated permissions. THIS workflow
+# is safe under pull_request_target because it never touches PR file
+# contents:
+#   - it gets the changed file LIST via the GitHub API (gh pr diff
+#     --name-only), not by checking out the PR head
+#   - it validates paths with grep
+#   - it calls gh pr merge
+# There is no actions/checkout, no install, no build, no script
+# execution from the PR. Nothing the contributor controls can run.
+#
+# This is the durable solution: no PAT, no rotation, no expiration.
+# secrets.GITHUB_TOKEN is provided by GitHub on every workflow run
+# and lasts as long as the repo and GitHub Actions exist.
 
 permissions:
   contents: write
@@ -14,31 +38,25 @@ jobs:
     if: startsWith(github.head_ref, 'community/data/')
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout PR
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
       - name: Verify only per-user community files changed
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUM: ${{ github.event.pull_request.number }}
+          AUTHOR: ${{ github.event.pull_request.user.login }}
         run: |
-          # Get the PR author's GitHub login
-          AUTHOR="${{ github.event.pull_request.user.login }}"
           echo "PR author: $AUTHOR"
 
-          # Get list of changed files
-          BASE="${{ github.event.pull_request.base.sha }}"
-          HEAD="${{ github.event.pull_request.head.sha }}"
-          CHANGED=$(git diff --name-only "$BASE" "$HEAD")
+          # Get the list of changed files via the GitHub API.
+          # We never download or check out PR file contents — only paths.
+          CHANGED=$(gh pr diff "$PR_NUM" --name-only --repo "$GITHUB_REPOSITORY")
           echo "Changed files:"
           echo "$CHANGED"
 
-          # Verify every changed file is in the author's community directory
-          # or is .gitattributes (merge strategy config)
           VIOLATION=""
           while IFS= read -r file; do
             [ -z "$file" ] && continue
 
-            # Allow .gitattributes
+            # Allow .gitattributes (merge strategy config)
             if [ "$file" = ".gitattributes" ]; then
               continue
             fi
@@ -54,12 +72,10 @@ jobs:
             fi
 
             # Allow shared community files that use merge=union
-            # (translation-memory.approved.jsonl, termbase.json, scholar-collections.json)
             if echo "$file" | grep -qE "^(translation-memory\.approved\.jsonl|termbase\.json|scholar-collections\.json|translation-review\.jsonl)$"; then
               continue
             fi
 
-            # Anything else is a violation
             VIOLATION="$VIOLATION\n  $file"
           done <<< "$CHANGED"
 
@@ -71,6 +87,7 @@ jobs:
           echo "All changed files are within allowed community paths."
 
       - name: Auto-merge PR
-        run: gh pr merge ${{ github.event.pull_request.number }} --merge --auto
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUM: ${{ github.event.pull_request.number }}
+        run: gh pr merge "$PR_NUM" --merge --auto --repo "$GITHUB_REPOSITORY"
