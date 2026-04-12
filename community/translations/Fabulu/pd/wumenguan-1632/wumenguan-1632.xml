@@ -1,0 +1,2231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="zh-Hant">無門關（一六三二年和刻本，国立国会図書館本・編訂讀本）</title>
+        <title xml:lang="en">The Gateless Barrier — 1632 NDL Woodblock Reading Edition</title>
+        <title type="alt" xml:lang="zh-Hant">無門關（1632 NDL 和刻本）</title>
+        <title type="alt" xml:lang="ja">無門関 — 1632年国会図書館本 読本版</title>
+        <title type="alt" xml:lang="en">Wumenguan / Mumonkan — 1632 NDL block, Read Zen reading edition</title>
+        <author>無門慧開 (Wumen Huikai, 1183–1260)</author>
+        <editor role="compiler">宗紹 (Zongshao, fl. 1228)</editor>
+        <editor role="reading-edition">Read Zen — OpenZenTexts curation</editor>
+        <respStmt>
+          <resp>Witness sourcing, OCR, image adjudication, editorial rebuild, and TEI conversion</resp>
+          <name>Read Zen — OpenZenTexts curation</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Read Zen — OpenZenTexts</publisher>
+        <pubPlace>https://github.com/Fabulu/OpenZenTexts</pubPlace>
+        <date when="1228">Composed 1228 (Shaoding 1) — base witness printed 1632</date>
+        <availability status="free">
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">
+            <p><label>Reading-edition license:</label> Creative Commons CC0 1.0 Universal (public domain dedication). The editor dedicates this reading edition — including the line-ID scheme, segmentation, case ordering, and small editorial repairs — to the public domain. You may use, copy, modify, redistribute, translate, sell, or build commercial products from this file without any obligation to attribute, share-alike, or notify anyone.</p>
+          </licence>
+          <licence target="https://creativecommons.org/publicdomain/mark/1.0/">
+            <p><label>Underlying work license:</label> Public domain (PD-old). The author Wumen Huikai died in 1260, more than 760 years ago, well beyond any plausible copyright term in any jurisdiction. The 1632 Japanese woodblock witness is a mechanical reproduction of a public-domain original.</p>
+          </licence>
+          <p><label>Base witness:</label> NDL 12865429 無門關 1卷 (Japan, 1632 woodblock imprint). Hosted on Wikimedia Commons as a public-domain mechanical scan.</p>
+          <p><label>Base witness URL:</label> https://commons.wikimedia.org/wiki/File:NDL12865429_%E7%84%A1%E9%96%80%E9%97%9C_1%E5%8D%B7.pdf</p>
+          <p><label>Base witness local PDF:</label> C:\woodblocks\Wumenguan_1632_NDL_Commons\NDL12865429_wumenguan_1juan.pdf (188,151,699 bytes, SHA-256 64D5CB03D60C70E94DE5BAC514BE6BEF3956892E51011CE5F80A163252B50026)</p>
+          <p><label>Corroborating witness (secondary):</label> Waseda University Library bunko31 e1102 無門關 1卷 (Japan, 1752 woodblock imprint), hosted on Wikimedia Commons as a public-domain mechanical scan. URL: https://commons.wikimedia.org/wiki/File:WUL-bunko31_e1102_%E7%84%A1%E9%96%80%E9%96%A2.pdf — local PDF: C:\woodblocks\Mumonkan_1752_Waseda_Commons\WUL-bunko31_e1102_mumonkan.pdf (47,017,686 bytes, SHA-256 A88B551B9C168D6FC946E27130EB0012A8F562815E85E5E8305DD6F9ECCD0C5F). Confidence: medium-high (Commons-hosted PD-old).</p>
+          <p><label>Corroborating witness (context, incomplete rights memo):</label> NDL 2537788 無門慧開禪師語錄 (the Wumen-Huikai Record — a collected sayings-record of the same master). Local PDF: C:\woodblocks\Wumen_Huikai_NDL_Commons\NDL2537788_wumen_kai_record.pdf (218,588,120 bytes, SHA-256 518A4F450325B2E3CB707AC2D657C71E33EC3BDF7F855D1B24D1CB4489C674D4). The rights memo for this witness is still marked incomplete in the local source ledger (C:\woodblocks\Wumen_Huikai_NDL_Commons\README.md) — it is cited here as an editorial corroborant for Huikai's own voice only, not as a primary authority, and downstream users should independently confirm its provenance before leaning on it.</p>
+          <p><label>Rights basis:</label> All three witnesses are PD by age (Song-era core work; 1632/1752 Japanese woodblock imprints; mechanical scans by Wikimedia Commons and/or the NDL). The editorial reading-edition layer — the segmentation, line-ID scheme, case ordering, small repairs — is the editor's own creative work and is released under CC0 1.0. No attribution is required.</p>
+          <p><label>Provenance check:</label> The captured source package shows no CBETA marker. This file is independent of CBETA-encoded material and uses a synthetic "wm32.*" line-ID namespace that cannot collide with CBETA woodblock notation.</p>
+          <p><label>Curator:</label> Read Zen — OpenZenTexts curation, 2026-04-12</p>
+          <p><label>Conversion:</label> Generated from the editorial reading-edition markdown (C:\woodblocks\Transcriptions\Wumenguan_1632_NDL_Commons\architect\WUMENGUAN_1632_READING_EDITION.md, 30,903 bytes, SHA-256 6ECC0B148D4CC82C1CF18B60C193D6C5BE24298875140A89869FE67288C6E742) via tools/woodblock-to-tei/convert-wumenguan-1632.mjs in this repository. The conversion is deterministic and idempotent — same input, same output.</p>
+          <p><label>Commercial use:</label> Fully permitted. No obligations of any kind. CC0 1.0 Universal dedicates the editorial layer to the public domain.</p>
+          <p><label>Required attribution:</label> None. Attribution is welcome but not required. If you want to credit the source anyway, a suggested short form is: "無門關 — 1632 NDL Woodblock Reading Edition, Read Zen OpenZenTexts (CC0)."</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>無門慧開 (Wumen Huikai), 禪宗無門關 (Chánzōng Wúménguān / "The Gateless Barrier of the Chan School"), composed Shaoding 1 (1228), compiled by 宗紹 (Zongshao). Forty-eight kōan cases with the master's commentary (無門曰) and verses (頌), plus a later-appended 49th-case addendum by 安晚 (Anwan). This file presents the 1632 Japanese woodblock witness as an editorial reading edition — not a diplomatic transcript, not a full critical edition.</bibl>
+        <bibl type="witness-base">NDL 12865429 無門關 1卷 (Japan, 1632 woodblock imprint). Wikimedia Commons file: https://commons.wikimedia.org/wiki/File:NDL12865429_%E7%84%A1%E9%96%80%E9%97%9C_1%E5%8D%B7.pdf — local PDF: NDL12865429_wumenguan_1juan.pdf (188,151,699 bytes).</bibl>
+        <bibl type="witness-secondary">Waseda University Library bunko31 e1102 無門關 1卷 (Japan, 1752 woodblock imprint). Wikimedia Commons file: https://commons.wikimedia.org/wiki/File:WUL-bunko31_e1102_%E7%84%A1%E9%96%80%E9%96%A2.pdf — local PDF: WUL-bunko31_e1102_mumonkan.pdf (47,017,686 bytes).</bibl>
+        <bibl type="witness-context">NDL 2537788 無門慧開禪師語錄 (Wumen Huikai Recorded Sayings; rights-memo status: incomplete). Local PDF: NDL2537788_wumen_kai_record.pdf (218,588,120 bytes). Used as a tertiary corroborant for Huikai's voice only.</bibl>
+        <bibl type="digitalSource">Editorial reading-edition markdown rebuilt from the three witnesses above via OCR-first comparison (tesseract, RapidOCR, PaddleOCR, selective EasyOCR), image adjudication, and selective manual repair. Captured 2026-04-12 from C:\woodblocks\Transcriptions\Wumenguan_1632_NDL_Commons\architect\WUMENGUAN_1632_READING_EDITION.md.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>This file is part of the OpenZenTexts collection — Chinese Chan/Zen primary texts curated by the Read Zen project for commercial reusability. Each text in the collection is sourced from a public-domain or freely-licensed witness, with provenance, rights basis, and vetting confidence recorded in this TEI header. The collection deliberately excludes CBETA-derived material so it can be redistributed and built upon without inheriting CBETA non-commercial restrictions.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p><label>Edition kind:</label> This is an <hi rend="italic">editorial reading edition</hi>. It is neither a diplomatic transcript of the 1632 NDL woodblock witness nor a full critical edition. It is a readable editorial text rebuilt from the 1632 base witness, tightened by local OCR comparison, image adjudication, and selective corroboration from two additional PD woodblock witnesses (Waseda 1752 and the NDL Wumen-Huikai Record). Apparatus (variant readings, per-leaf witness notes) is deliberately kept out of this body for v1; the witness-level notes live separately in C:\woodblocks\Transcriptions\Wumenguan_1632_NDL_Commons\architect\WUMENGUAN_1632.md and THREE_WITNESS_VERIFICATION.md and may be surfaced in a future version as a <gi>div</gi> of <att>type</att> "apparatus".</p>
+        <p><label>Line addressing:</label> This file uses synthetic line identifiers in the form "wm32.{section}.{position}" (e.g. wm32.case01.l01, wm32.case01.wumen.l05, wm32.case01.verse.l01, wm32.appendix.case49.verse.l01). The "wm32" prefix is deliberately distinct from the existing OpenZenTexts file ws/gateless-barrier/gateless-barrier.xml, which uses "wm.*" — the two files coexist in the same corpus and any TM or search machinery keyed by line ID must not cross-pollinate them. These identifiers are local to this file, do not reference any external woodblock line notation, and cannot collide with CBETA notation (e.g. T48n2005:0292c22).</p>
+        <p><label>Sentence segmentation:</label> Lines in the source markdown (one logical line per markdown soft break "line  \n" or per blank-line-separated paragraph) are preserved one-to-one as <gi>lb</gi> buckets in the TEI. The source markdown's editorial segmentation is respected and not re-split at sentence-ending punctuation — unlike the ws/gateless-barrier file, which re-splits Wikisource paragraphs at 。！？ boundaries. Keeping the source segmentation here honours the reading-edition's own editorial shape.</p>
+        <p><label>Case 49 and back matter:</label> Cases 1–48 are the structurally complete core sequence. Case 49 (第四十九則語) is late-appended material and is placed outside the core 48-case spine, inside a <gi>div</gi> of <att>type</att> "appendix" with a <gi>head</gi> explicitly naming it as a late addition. Subsequent back-matter sections (跋尾) — the closing address, colophon, 黃龍三關 摘句, 題贊與銜名, 刊記, etc. — each sit in their own <gi>div</gi> of <att>type</att> "appendix" labelled with the source section name.</p>
+        <p><label>Intentionally rough readings:</label> Several passages in the reading edition are witness-backed but locally rough. They are retained verbatim from the reading-edition markdown and are not silently normalized here: (1) "說道有門，無阿師分" in the prefatory material; (2) "請續一向" in case 20; (3) the case 31 無門曰 wording, which is a witness-derived form rather than the familiar received version. These are intentional editorial choices, not OCR errors.</p>
+        <p><label>Editorial repairs baked into the reading edition:</label> The received prefatory opening beginning "佛語心為宗" has been restored. Case 10 reads in the standard order 公案 → 無門曰 → 頌. Case 17 received a coherence pass. Cases 27 and 28 are in the received order (27 = 不是心佛, 28 = 久響龍潭). Case 31 no longer carries imported 龍潭 material. Case 32 uses the expected 阿難乃佛弟子 / 劍刃上行 commentary and verse set. These are noted here so a future editor cannot accidentally "fix" them back to a witness-raw form.</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="preface" xml:id="wm32.preface">
+
+<lb n="wm32.preface.head" />
+<note type="community" resp="Fabulu">translated blocks 1, 3, 5, 7-16, 18, 20-31, 33, 35-73, 75-77, 79-94, 96-101, 103-106, 108-118, 120-129, 131-135, 137-142, 144-151, 153-156, 158-161, 163-168, 170-171, 173-176, 178-183, 185-189, 191-197, 199-204, 206-208, 210-216, 218-223, 225-231, 233-235, 237-242, 244-248, 250-253, 255-260, 262-271, 273-277, 279-284, 286-291, 293-294, 296-301, 303-308, 310-317, 319-329, 331-336, 338-344, 346-353, 355-360, 362-365, 367-369, 371-372, 374-378, 380-381, 383-386, 388-393, 395-400, 402-406, 408-415, 417-422, 424-431, 433-438, 440-448, 450-466, 468-473, 475-478, 480-484, 486-491, 493-495, 497-502, 504-509, 511-513, 515-518, 520-525, 527-536, 538-541, 543-548, 550-552, 554-559, 561-566, 568-570, 572-575, 577-582, 584-586, 588-591, 593-598, 600-611, 613-619, 621-626, 628-629, 631-634, 636-643, 645-649, 651-656, 658-663, 665-669, 671-676, 678-683, 685-692, 694-697, 699-704, 706-709, 711-714, 716-720, 722-753, 755-760, 762-771, 773-781, 783-788, 790-794, 796-802, 804-809, 811-815, 817-822, 824-830, 832-837, 839-852, 854-857, 859-864, 866-870, 872-874, 876-881, 883-886, 888-894, 896-901, 903-906, 908-917, 919-924, 926-930, 932-937, 939-944, 946-950, 952-956, 958-963, 965-970, 972-978, 980-985, 987-999, 1001-1008, 1010-1015, 1017-1036, 1038-1044, 1046-1051, 1053-1059, 1061-1069, 1071-1076, 1078-1079, 1081-1082, 1084-1087, 1089-1092, 1094-1099, 1101-1105, 1107-1112, 1114-1119, 1121-1124, 1126-1130, 1132-1137, 1139-1142, 1144-1148, 1150-1155, 1157-1158, 1160-1163, 1165-1171, 1173-1178, 1180-1187, 1189-1195, 1197-1202, 1204-1213, 1215-1226, 1228-1232, 1234-1240, 1242-1245, 1247-1251, 1253-1260, 1262-1271, 1273-1275, 1277, 1279-1298, 1300, 1302-1306, 1308-1314, 1316, 1318, 1320, 1322-1327, 1329-1334, 1336-1343, 1345-1347, 1349-1353, 1355-1356</note>
+        <head>Preface</head>
+        <p>
+<lb n="wm32.preface.l001" />The Gateless Barrier of the Zen School</p>
+        <p>
+<lb n="wm32.preface.l002" />Compiled by Zongshao of the Song</p>
+        <p>
+<lb n="wm32.preface.l003" />If one says it has no gate, everyone on the whole earth may enter.
+<lb n="wm32.preface.l004" />If one says it has a gate, no teacher has any part in it.
+<lb n="wm32.preface.l005" />To begin with, forcing on a few footnotes,
+<lb n="wm32.preface.l006" />is very much like piling a hat on top of a hat.
+<lb n="wm32.preface.l007" />Insisting that Old Xi praise it,
+<lb n="wm32.preface.l008" />is again like squeezing juice from dry bamboo.
+<lb n="wm32.preface.l009" />Once these noisy copies are produced,
+<lb n="wm32.preface.l010" />there is no need for Old Xi to cast them aside.
+<lb n="wm32.preface.l011" />If cast aside, do not let a single drop fall into the rivers and lakes,
+<lb n="wm32.preface.l012" />or even a thousand-mile black steed could not catch it.</p>
+        <p>
+<lb n="wm32.preface.l013" />Last day of the seventh month, first year of Shaoding. Written out by Xi'an Chen.</p>
+        <p>
+<lb n="wm32.preface.l014" />Fifth day of the first month, second year of Shaoding.
+<lb n="wm32.preface.l015" />Reverently on the Sacred Birthday of the Imperial Founder.
+<lb n="wm32.preface.l016" />Your servant monk Huikai.
+<lb n="wm32.preface.l017" />Previously, on the fifth day of the twelfth month of the first year,
+<lb n="wm32.preface.l018" />had printed and circulated forty-eight cases raising up the pivotal occasions of buddhas and patriarchs.
+<lb n="wm32.preface.l019" />Praying for the present emperor’s sacred person to enjoy ten thousand years, ten thousand years, ten thousand times ten thousand years.
+<lb n="wm32.preface.l020" />Your Majesty the Emperor.
+<lb n="wm32.preface.l021" />I respectfully pray that your sagely brightness equal the sun and moon,
+<lb n="wm32.preface.l022" />and your wise span of years match heaven and earth.
+<lb n="wm32.preface.l023" />In all eight directions they sing of a ruler who possesses the Way,
+<lb n="wm32.preface.l024" />and within the four seas they delight in the transforming power of non-action.
+<lb n="wm32.preface.l025" />Respectfully stated by the Dharma-heir servant monk Huikai, former abbot of Youci Chan Monastery, established through the merit-requital of the Compassionate and Virtuous Empress.</p>
+        <p>
+<lb n="wm32.preface.l026" />The Gateless Barrier of the Zen School</p>
+        <p>
+<lb n="wm32.preface.l027" />The Buddha-word takes mind as its source.
+<lb n="wm32.preface.l028" />Taking no-gate as the Dharma gate.
+<lb n="wm32.preface.l029" />Since it is no-gate,
+<lb n="wm32.preface.l030" />then how will you pass through it?
+<lb n="wm32.preface.l031" />Have you not heard it said:
+<lb n="wm32.preface.l032" />What enters through a gate
+<lb n="wm32.preface.l033" />is not the family treasure.
+<lb n="wm32.preface.l034" />What is gained from conditions
+<lb n="wm32.preface.l035" />from beginning to end is subject to formation and decay.
+<lb n="wm32.preface.l036" />To speak in this way,
+<lb n="wm32.preface.l037" />is very much like raising waves where there is no wind, or gouging a wound into healthy flesh.
+<lb n="wm32.preface.l038" />How much more so when one gets stuck in words and phrases,
+<lb n="wm32.preface.l039" />seeking understanding,
+<lb n="wm32.preface.l040" />like brandishing a stick to strike the moon,
+<lb n="wm32.preface.l041" />or scratching an itch through a boot.
+<lb n="wm32.preface.l042" />What connection is there in that?
+<lb n="wm32.preface.l043" />In the summer of the wuzi year of Shaoding, Huikai
+<lb n="wm32.preface.l044" />was head of the assembly at Longxiang in Dongjia.
+<lb n="wm32.preface.l045" />Because patch-robed monks requested instruction,
+<lb n="wm32.preface.l046" />I then took the old cases of the ancients
+<lb n="wm32.preface.l047" />and made them into tiles for knocking at the gate,
+<lb n="wm32.preface.l048" />guiding students according to circumstances.
+<lb n="wm32.preface.l049" />In the end they were copied down,
+<lb n="wm32.preface.l050" />and without noticing it became a collection.
+<lb n="wm32.preface.l051" />At first I did not arrange them in any sequence of before and after,
+<lb n="wm32.preface.l052" />altogether making forty-eight cases,
+<lb n="wm32.preface.l053" />collectively called The Gateless Barrier.
+<lb n="wm32.preface.l054" />If there is a fellow who does not care for danger or death,
+<lb n="wm32.preface.l055" />he will charge straight in with a single blade,
+<lb n="wm32.preface.l056" />and even eight-armed Nata could not hold him back.
+<lb n="wm32.preface.l057" />Even the four sevens of the Western Heaven,
+<lb n="wm32.preface.l058" />and the two threes of the Eastern Land,
+<lb n="wm32.preface.l059" />would only be able to beg for their lives at the sight of his force.
+<lb n="wm32.preface.l060" />But if he hesitates,
+<lb n="wm32.preface.l061" />it is like watching horsemen through a window;
+<lb n="wm32.preface.l062" />the moment his eyes turn,
+<lb n="wm32.preface.l063" />he has already missed it.</p>
+      </div>
+      <div type="case" n="1" xml:id="wm32.case01">
+          
+<lb n="wm32.case01.head" />
+        <head>1. Zhaozhou's Dog</head>
+        <div type="gongan">
+          
+<lb n="wm32.case01.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case01.l01" />A monk asked Master Zhaozhou: Does a dog also have buddha-nature or not?
+<lb n="wm32.case01.l02" />Zhaozhou said: No.</p>
+        </div>
+        <div type="wumen-commentary">
+          
+<lb n="wm32.case01.wumen.head" />
+          <head>Wumen said:</head>
+          <p>
+<lb n="wm32.case01.wumen.l01" />For this barrier of the master, it is just this one word no; it is a barrier of the Zen school.
+<lb n="wm32.case01.wumen.l02" />Therefore it is called The Gateless Barrier of the Zen School.
+<lb n="wm32.case01.wumen.l03" />One who passes through it will not only personally see Zhaozhou, but will walk hand in hand with the successive patriarchs,
+<lb n="wm32.case01.wumen.l04" />eyebrows entwined, seeing with the same eyes and hearing with the same ears.
+<lb n="wm32.case01.wumen.l05" />Is this not a joyous delight? Is there anyone who wants to pass through the barrier?
+<lb n="wm32.case01.wumen.l06" />Take your three hundred and sixty bones and joints and your eighty-four thousand pores, and throughout your whole body raise up a mass of doubt to investigate this word no.
+<lb n="wm32.case01.wumen.l07" />Carry it continuously day and night. Do not understand it as empty nothingness, and do not understand it in terms of yes and no.
+<lb n="wm32.case01.wumen.l08" />It is like swallowing a red-hot iron ball that you try to vomit out but cannot.
+<lb n="wm32.case01.wumen.l09" />Sweep away all your former bad knowledge and bad awareness, and after long cultivation it becomes pure and ripe.
+<lb n="wm32.case01.wumen.l10" />Naturally inside and outside become one piece, like a mute person having a dream, known only to oneself.
+<lb n="wm32.case01.wumen.l11" />Suddenly it erupts, astonishing heaven and shaking earth.
+<lb n="wm32.case01.wumen.l12" />It is like seizing General Guan's great sword into your hands: meeting a buddha, you kill the buddha; meeting a patriarch, you kill the patriarch.
+<lb n="wm32.case01.wumen.l13" />On the brink of birth and death you attain great freedom, and amid the six paths and four modes of birth you play in samadhi.
+<lb n="wm32.case01.wumen.l14" />But how should you carry it? Exhaust the strength of your whole life in raising this word no.
+<lb n="wm32.case01.wumen.l15" />If it is unbroken, it is like a Dharma candle: once lit, it ignites at once.</p>
+        </div>
+        <div type="verse">
+          
+<lb n="wm32.case01.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case01.verse.l01" />A dog has buddha-nature;
+<lb n="wm32.case01.verse.l02" />the full command is directly raised.
+<lb n="wm32.case01.verse.l03" />The slightest involvement with yes or no,
+<lb n="wm32.case01.verse.l04" />and body is lost, life is lost.</p>
+        </div>
+      </div>
+      <div type="case" n="2" xml:id="wm32.case02">
+          
+<lb n="wm32.case02.head" />
+        <head>2. Baizhang's Wild Fox</head>
+        <div type="gongan">
+          
+<lb n="wm32.case02.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case02.l01" />Whenever Master Baizhang gave instruction, there was an old man who always followed the assembly to hear the Dharma.
+<lb n="wm32.case02.l02" />When the assembly withdrew, the old man also withdrew. Suddenly one day he did not withdraw.
+<lb n="wm32.case02.l03" />The master then asked: Who is this standing before me?
+<lb n="wm32.case02.l04" />The old man said: Yes, I am not a human being.</p>
+          <p>
+<lb n="wm32.case02.l05" />The old man said: Yes, I am not a human being.
+<lb n="wm32.case02.l06" />In the time of the past Buddha Kasyapa, I once lived on this mountain.
+<lb n="wm32.case02.l07" />Because a student asked: Does a greatly cultivated person still fall into cause and effect or not?
+<lb n="wm32.case02.l08" />I answered: He does not fall into cause and effect. For five hundred lives I fell into the body of a wild fox.
+<lb n="wm32.case02.l09" />Now I ask the master to say a turning word in my place, so that I may be freed from being a wild fox.
+<lb n="wm32.case02.l10" />He then asked: Does a person of great cultivation still fall into cause and effect or not.
+<lb n="wm32.case02.l11" />The master said: Not blind to cause and effect.
+<lb n="wm32.case02.l12" />At these words, the old man was greatly awakened.
+<lb n="wm32.case02.l13" />He bowed and said: I have now cast off the body of a wild fox. I dwell behind the mountain.
+<lb n="wm32.case02.l14" />I venture to inform the master and beg that I be dealt with according to the custom for a deceased monk.
+<lb n="wm32.case02.l15" />The master instructed the rector to strike the block and announce to the assembly: After the meal, we will send off a deceased monk.</p>
+          <p>
+<lb n="wm32.case02.l16" />After the meal, they sent off the deceased monk.
+<lb n="wm32.case02.l17" />The assembly discussed it, saying: Everyone is safe and sound in the Nirvana Hall, and no one is ill, so why is this being done.
+<lb n="wm32.case02.l18" />After the meal they saw the master lead the assembly to a rock behind the mountain, where with his staff he pulled out a dead wild fox and then had it cremated according to the rites.
+<lb n="wm32.case02.l19" />That evening, when the master ascended the hall, he brought up the preceding affair.
+<lb n="wm32.case02.l20" />Huangbo then asked: An ancient man gave a wrong reply by just one turning phrase and fell into the body of a wild fox for five hundred lifetimes.
+<lb n="wm32.case02.l21" />If every turning phrase had not been wrong, what would have become of him.
+<lb n="wm32.case02.l22" />The master said: Come closer and I will tell you.
+<lb n="wm32.case02.l23" />Huangbo then stepped forward and gave the master a slap.
+<lb n="wm32.case02.l24" />The master clapped his hands and laughed, saying: I had thought the barbarian's beard was red, but here is another red-bearded barbarian.</p>
+        </div>
+        <div type="wumen-commentary">
+          
+<lb n="wm32.case02.wumen.head" />
+          <head>Wumen said</head>
+          <p>
+<lb n="wm32.case02.wumen.l01" />Not falling into cause and effect: why then did he fall into a wild fox.
+<lb n="wm32.case02.wumen.l02" />Not blind to cause and effect: why then did he cast off the wild fox.
+<lb n="wm32.case02.wumen.l03" />If here you can set one eye in place,
+<lb n="wm32.case02.wumen.l04" />then you will know that old Baizhang won five hundred lifetimes of elegance.</p>
+        </div>
+        <div type="verse">
+          
+<lb n="wm32.case02.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case02.verse.l01" />Not falling, not blind,
+<lb n="wm32.case02.verse.l02" />two faces of one die.
+<lb n="wm32.case02.verse.l03" />Not blind, not falling,
+<lb n="wm32.case02.verse.l04" />a thousand wrongs, ten thousand wrongs.</p>
+        </div>
+      </div>
+      <div type="case" n="3" xml:id="wm32.case03">
+          
+<lb n="wm32.case03.head" />
+        <head>3. Juzhi Raises a Finger</head>
+        <div type="gongan">
+          
+<lb n="wm32.case03.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case03.l01" />Whenever the master Juzhi was questioned, he simply raised one finger.
+<lb n="wm32.case03.l02" />Later, when an outsider asked a boy attendant what essential teaching the master expounded, the boy also raised a finger.
+<lb n="wm32.case03.l03" />When Zhi heard of this, he cut off the boy's finger with a knife.
+<lb n="wm32.case03.l04" />The boy, stricken with pain, ran off howling and weeping.
+<lb n="wm32.case03.l05" />Zhi called him back.
+<lb n="wm32.case03.l06" />The boy turned his head.
+<lb n="wm32.case03.l07" />Zhi then raised a finger.
+<lb n="wm32.case03.l08" />The boy suddenly realized it.</p>
+          <p>
+<lb n="wm32.case03.l09" />When Zhi was about to pass from the world, he said to the assembly:
+<lb n="wm32.case03.l10" />I received Tianlong's one-finger Zen and used it all my life without exhausting it.
+<lb n="wm32.case03.l11" />Having said this, he manifested extinction.</p>
+        </div>
+        <div type="wumen-commentary">
+          
+<lb n="wm32.case03.wumen.head" />
+          <head>Wumen said</head>
+          <p>
+<lb n="wm32.case03.wumen.l01" />The place where Juzhi and the boy awakened was not on the fingertip.
+<lb n="wm32.case03.wumen.l02" />If you can see it here,
+<lb n="wm32.case03.wumen.l03" />then Tianlong, Juzhi, the boy, and you yourself are all strung together on one thread.</p>
+        </div>
+        <div type="verse">
+          
+<lb n="wm32.case03.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case03.verse.l01" />Juzhi dealt bluntly with old Tianlong,
+<lb n="wm32.case03.verse.l02" />with a sharp blade he tested the little boy.
+<lb n="wm32.case03.verse.l03" />The giant spirit lifts his hand, and it is no great thing,
+<lb n="wm32.case03.verse.l04" />yet he splits Mount Hua into ten thousand layers.</p>
+        </div>
+      </div>
+      <div type="case" n="4" xml:id="wm32.case04">
+          
+<lb n="wm32.case04.head" />
+        <head>4. The Bearded Barbarian Has No Beard</head>
+        <div type="gongan">
+          
+<lb n="wm32.case04.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case04.l01" />Huoan said: The barbarian from the West has no beard. Why is that.</p>
+        </div>
+        <div type="wumen-commentary">
+          
+<lb n="wm32.case04.wumen.head" />
+          <head>Wumen said</head>
+          <p>
+<lb n="wm32.case04.wumen.l01" />Investigation must be real investigation; awakening must be real awakening.
+<lb n="wm32.case04.wumen.l02" />You must personally see this barbarian once before it can be so.
+<lb n="wm32.case04.wumen.l03" />But if you speak of personally seeing, it has already become two.</p>
+        </div>
+        <div type="verse">
+          
+<lb n="wm32.case04.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case04.verse.l01" />Before a fool,
+<lb n="wm32.case04.verse.l02" />one must not speak of dreams.
+<lb n="wm32.case04.verse.l03" />The bearded barbarian has no beard,
+<lb n="wm32.case04.verse.l04" />clear wakefulness only adds confusion.</p>
+        </div>
+      </div>
+      <div type="case" n="5" xml:id="wm32.case05">
+          
+<lb n="wm32.case05.head" />
+        <head>5. Xiangyan Up a Tree</head>
+        <div type="gongan">
+          
+<lb n="wm32.case05.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case05.l01" />Master Xiangyan said: It is like a man up a tree, hanging by his mouth from a branch, with his hands not grasping a branch and his feet not resting on the tree.
+<lb n="wm32.case05.l02" />Someone below the tree asks about the meaning of the coming from the West. If he does not answer, he fails the questioner's question.
+<lb n="wm32.case05.l03" />If he does answer, he loses his body and forfeits his life.
+<lb n="wm32.case05.l04" />At just such a moment, how does one answer.</p>
+        </div>
+        <div type="wumen-commentary">
+          
+<lb n="wm32.case05.wumen.head" />
+          <head>Wumen said</head>
+          <p>
+<lb n="wm32.case05.wumen.l01" />Even if you have eloquence like a river pouring down, it is of no use at all.
+<lb n="wm32.case05.wumen.l02" />Even if you can expound the entire great canon, it is still of no use.
+<lb n="wm32.case05.wumen.l03" />If here you can answer rightly,
+<lb n="wm32.case05.wumen.l04" />you bring the dead road of before to life,
+<lb n="wm32.case05.wumen.l05" />and kill the living road of before.
+<lb n="wm32.case05.wumen.l06" />If not yet so, then wait for Maitreya to ask you in the future.</p>
+        </div>
+        <div type="verse">
+          
+<lb n="wm32.case05.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case05.verse.l01" />Xiangyan truly made it all up,
+<lb n="wm32.case05.verse.l02" />his vicious poison knows no limit.
+<lb n="wm32.case05.verse.l03" />He stops up the mouths of the monks,
+<lb n="wm32.case05.verse.l04" />and from their whole bodies burst demon eyes.</p>
+        </div>
+      </div>
+      <div type="case" n="6" xml:id="wm32.case06">
+          
+<lb n="wm32.case06.head" />
+        <head>6. The World-Honored One Holds Up a Flower</head>
+        <div type="gongan">
+          
+<lb n="wm32.case06.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case06.l01" />Once, at the assembly on Vulture Peak, the World-Honored One held up a flower before the assembly.
+<lb n="wm32.case06.l02" />At that time the whole assembly remained silent; only the Venerable Kashyapa broke into a slight smile.</p>
+        </div>
+        <div type="wumen-commentary">
+          
+<lb n="wm32.case06.wumen.head" />
+          <head>Wumen said</head>
+          <p>
+<lb n="wm32.case06.wumen.l01" />The yellow-faced Gautama acted as if no one else were there, pressing the good down into the lowly, hanging up a sheep's head while selling dog meat.
+<lb n="wm32.case06.wumen.l02" />He makes it seem as though it were something quite extraordinary.
+<lb n="wm32.case06.wumen.l03" />Suppose at that time the whole assembly had smiled. How then would the treasury of the true Dharma eye have been transmitted.
+<lb n="wm32.case06.wumen.l04" />And if Kashyapa had not smiled, how then would the treasury of the true Dharma eye have been transmitted.
+<lb n="wm32.case06.wumen.l05" />If you say the treasury of the true Dharma eye was transmitted, that old yellow-faced fellow deceived the people of the village.
+<lb n="wm32.case06.wumen.l06" />If you say there was no transmission, why then did he alone approve Kashyapa.</p>
+        </div>
+        <div type="verse">
+          
+<lb n="wm32.case06.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case06.verse.l01" />He lifts up the flower,
+<lb n="wm32.case06.verse.l02" />Kashyapa breaks into a smile.
+<lb n="wm32.case06.verse.l03" />The tail is already showing,
+<lb n="wm32.case06.verse.l04" />humans and gods are at a loss.</p>
+        </div>
+      </div>
+      <div type="case" n="7" xml:id="wm32.case07">
+          
+<lb n="wm32.case07.head" />
+        <head>7. Zhaozhou Washes the Bowl</head>
+        <div type="gongan">
+          
+<lb n="wm32.case07.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case07.l01" />A monk asked Zhaozhou:
+<lb n="wm32.case07.l02" />This student has just entered the community; I beg the master for instruction.
+<lb n="wm32.case07.l03" />Zhou said: Have you eaten your gruel yet or not.
+<lb n="wm32.case07.l04" />The monk said: I have eaten my gruel.
+<lb n="wm32.case07.l05" />Zhou said: Go wash your bowl.
+<lb n="wm32.case07.l06" />The monk had an insight.</p>
+        </div>
+        <div type="wumen-commentary">
+          
+<lb n="wm32.case07.wumen.head" />
+          <head>Wumen said:</head>
+          <p>
+<lb n="wm32.case07.wumen.l01" />As soon as Zhaozhou opened his mouth, his gallbladder and liver were laid bare.
+<lb n="wm32.case07.wumen.l02" />This monk did not hear the matter truly, calling a bell a jar.</p>
+        </div>
+        <div type="verse">
+          
+<lb n="wm32.case07.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case07.verse.l01" />Just because it was altogether too clear,
+<lb n="wm32.case07.verse.l02" />it instead made attainment come late.
+<lb n="wm32.case07.verse.l03" />Had he known earlier that the lamp was fire,
+<lb n="wm32.case07.verse.l04" />the rice would have been cooked long ago.</p>
+        </div>
+      </div>
+      <div type="case" n="8" xml:id="wm32.case08">
+          
+<lb n="wm32.case08.head" />
+        <head>8. Xi Zhong Makes a Cart</head>
+        <div type="gongan">
+          
+<lb n="wm32.case08.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case08.l01" />Master Yue'an asked a monk:
+<lb n="wm32.case08.l02" />Xi Zhong made a cart with one hundred spokes.
+<lb n="wm32.case08.l03" />Take away both ends and remove the axle,
+<lb n="wm32.case08.l04" />what side of the matter does this clarify?</p>
+        </div>
+        <div type="wumen-commentary">
+          
+<lb n="wm32.case08.wumen.head" />
+          <head>Wumen said:</head>
+          <p>
+<lb n="wm32.case08.wumen.l01" />If one can understand this directly at once,
+<lb n="wm32.case08.wumen.l02" />the eye is like a shooting star,
+<lb n="wm32.case08.wumen.l03" />and the function is like a flash of lightning.</p>
+        </div>
+        <div type="verse">
+          
+<lb n="wm32.case08.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case08.verse.l01" />Where the turning wheel of function revolves,
+<lb n="wm32.case08.verse.l02" />even the adept is still confused.
+<lb n="wm32.case08.verse.l03" />The four directions, above and below,
+<lb n="wm32.case08.verse.l04" />south, north, east, and west.</p>
+        </div>
+      </div>
+      <div type="case" n="9" xml:id="wm32.case09">
+          
+<lb n="wm32.case09.head" />
+        <head>9. Great Penetrating Wisdom Victory</head>
+        <div type="gongan">
+          
+<lb n="wm32.case09.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case09.l01" />Because a monk asked Master Xingyang Rang:
+<lb n="wm32.case09.l02" />Great Penetrating Wisdom Victory Buddha sat at the place of enlightenment for ten kalpas,
+<lb n="wm32.case09.l03" />yet the Buddha Dharma did not appear before him, and he could not attain the Buddha Way.
+<lb n="wm32.case09.l04" />How was this?
+<lb n="wm32.case09.l05" />Rang said:
+<lb n="wm32.case09.l06" />Your question is very fitting.
+<lb n="wm32.case09.l07" />The monk then said:
+<lb n="wm32.case09.l08" />Since he was sitting at the place of enlightenment,
+<lb n="wm32.case09.l09" />why was he unable to attain the Buddha Way?</p>
+        </div>
+        <div type="wumen-commentary">
+          
+<lb n="wm32.case09.wumen.head" />
+          <head>Wumen said:</head>
+          <p>
+<lb n="wm32.case09.wumen.l01" />You may allow the old barbarian to know,
+<lb n="wm32.case09.wumen.l02" />but you may not allow the old barbarian to understand.
+<lb n="wm32.case09.wumen.l03" />If an ordinary person knows, he is a sage.
+<lb n="wm32.case09.wumen.l04" />If a sage understands, he is an ordinary person.</p>
+        </div>
+        <div type="verse">
+          
+<lb n="wm32.case09.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case09.verse.l01" />Ending the body is not like ending the mind's striving.
+<lb n="wm32.case09.verse.l02" />Once the mind is ended, the body causes no worry.
+<lb n="wm32.case09.verse.l03" />If both body and mind are completely ended,
+<lb n="wm32.case09.verse.l04" />why would an immortal need any further ennoblement?</p>
+        </div>
+      </div>
+      <div type="case" n="10" xml:id="wm32.case10">
+          
+<lb n="wm32.case10.head" />
+        <head>10. Qingrui's Solitary Poverty</head>
+        <div type="gongan">
+          
+<lb n="wm32.case10.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case10.l01" />Because a monk asked Master Caoshan:
+<lb n="wm32.case10.l02" />Qingrui is solitary and poor; I beg the master for relief.
+<lb n="wm32.case10.l03" />Caoshan said:
+<lb n="wm32.case10.l04" />Reverend Rui, the clear and original white-house wine,
+<lb n="wm32.case10.l05" />after drinking three cups, you still say it has not touched your lips.</p>
+        </div>
+        <div type="wumen-commentary">
+          
+<lb n="wm32.case10.wumen.head" />
+          <head>Wumen said:</head>
+          <p>
+<lb n="wm32.case10.wumen.l01" />Qingrui was solitary and poor; Caoshan had the eye.</p>
+        </div>
+        <div type="verse">
+          
+<lb n="wm32.case10.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case10.verse.l01" />Poor as Fan Dan,
+<lb n="wm32.case10.verse.l02" />with the spirit of Xiang Yu.
+<lb n="wm32.case10.verse.l03" />Though he had no means of livelihood,
+<lb n="wm32.case10.verse.l04" />he dared contend with the wealthy.</p>
+        </div>
+      </div>
+      <div type="case" n="11" xml:id="wm32.case11">
+          
+<lb n="wm32.case11.head" />
+        <head>11. Zhaozhou Tests the Hermits</head>
+        <div type="gongan">
+          
+<lb n="wm32.case11.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case11.l01" />Zhaozhou went to a hermit's place and asked:
+<lb n="wm32.case11.l02" />Is there? Is there?
+<lb n="wm32.case11.l03" />The hermit raised his fist.
+<lb n="wm32.case11.l04" />Zhaozhou said:
+<lb n="wm32.case11.l05" />The water is too shallow; this is no place to moor a boat.
+<lb n="wm32.case11.l06" />Then he left.</p>
+          <p>
+<lb n="wm32.case11.l07" />He then went to another hermit's place and said:
+<lb n="wm32.case11.l08" />Is there? Is there?
+<lb n="wm32.case11.l09" />This hermit also raised his fist.
+<lb n="wm32.case11.l10" />Zhaozhou said:
+<lb n="wm32.case11.l11" />Able to let go, able to seize,
+<lb n="wm32.case11.l12" />able to kill, able to give life,
+<lb n="wm32.case11.l13" />and then he made a bow.</p>
+        </div>
+        <div type="wumen-commentary">
+          
+<lb n="wm32.case11.wumen.head" />
+          <head>Wumen said:</head>
+          <p>
+<lb n="wm32.case11.wumen.l01" />Both alike raised a fist,
+<lb n="wm32.case11.wumen.l02" />why did he approve one and not approve the other?
+<lb n="wm32.case11.wumen.l03" />Tell me, where was the mistake?
+<lb n="wm32.case11.wumen.l04" />If here you can utter a turning word,
+<lb n="wm32.case11.wumen.l05" />then you will see that Zhaozhou's tongue has no bone,
+<lb n="wm32.case11.wumen.l06" />raising up and knocking down,
+<lb n="wm32.case11.wumen.l07" />attaining great freedom.
+<lb n="wm32.case11.wumen.l08" />Yet although it is so,
+<lb n="wm32.case11.wumen.l09" />still Zhaozhou was seen through by the two hermits.
+<lb n="wm32.case11.wumen.l10" />If you say there was no better or worse, you still do not yet have the eye of Zen study.</p>
+        </div>
+        <div type="verse">
+          
+<lb n="wm32.case11.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case11.verse.l01" />Eyes like shooting stars,
+<lb n="wm32.case11.verse.l02" />function like lightning.
+<lb n="wm32.case11.verse.l03" />A sword that kills people,
+<lb n="wm32.case11.verse.l04" />a sword that gives people life.</p>
+        </div>
+      </div>
+      <div type="case" n="12" xml:id="wm32.case12">
+          
+<lb n="wm32.case12.head" />
+        <head>12. Ruiyan Calls the Master</head>
+        <div type="gongan">
+          
+<lb n="wm32.case12.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case12.l01" />Master Ruiyan every day called out to himself, "Master!"
+<lb n="wm32.case12.l02" />and again answered himself, "Yes!"
+<lb n="wm32.case12.l03" />Then he said:
+<lb n="wm32.case12.l04" />Stay awake.
+<lb n="wm32.case12.l05" />At another time, on another day,
+<lb n="wm32.case12.l06" />do not let others deceive you.</p>
+        </div>
+        <div type="wumen-commentary">
+          
+<lb n="wm32.case12.wumen.head" />
+          <head>Wumen said:</head>
+          <p>
+<lb n="wm32.case12.wumen.l01" />Old Ruiyan buys and sells himself, bringing forth all kinds of divine heads and ghost faces.
+<lb n="wm32.case12.wumen.l02" />Why is this so.
+<lb n="wm32.case12.wumen.l03" />One does the calling, one does the answering;
+<lb n="wm32.case12.wumen.l04" />one is alert and awake, one cannot be deceived by others.
+<lb n="wm32.case12.wumen.l05" />If you fix on them, as before, it is still not it.
+<lb n="wm32.case12.wumen.l06" />If you try to figure it out,
+<lb n="wm32.case12.wumen.l07" />it is all wild fox understanding.</p>
+        </div>
+        <div type="verse">
+          
+<lb n="wm32.case12.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case12.verse.l01" />People who study the Way do not know the true,
+<lb n="wm32.case12.verse.l02" />only because they have long taken the spirit for it.
+<lb n="wm32.case12.verse.l03" />The root of birth and death through measureless kalpas,
+<lb n="wm32.case12.verse.l04" />fools call the original person.</p>
+        </div>
+      </div>
+      <div type="case" n="13" xml:id="wm32.case13">
+          
+<lb n="wm32.case13.head" />
+        <head>13. Deshan Carries His Bowl</head>
+        <div type="gongan">
+          
+<lb n="wm32.case13.gongan-head" />
+          <head>Koan</head>
+          <p>
+<lb n="wm32.case13.l01" />One day Deshan carried his bowl down from the hall.
+<lb n="wm32.case13.l02" />Seeing Xuefeng, he asked, The old man has not yet rung the bell, the drum has not yet sounded,
+<lb n="wm32.case13.l03" />where are you going with your bowl.
+<lb n="wm32.case13.l04" />Deshan then returned to the abbot's quarters.</p>
+          <p>
+<lb n="wm32.case13.l05" />Xuefeng brought this up to Yantou.
+<lb n="wm32.case13.l06" />Yantou said:
+<lb n="wm32.case13.l07" />Big Deshan or little Deshan, he still has not understood the final word.</p>
+          <p>
+<lb n="wm32.case13.l08" />When Deshan heard of this, he had the attendant call Yantou over and asked:
+<lb n="wm32.case13.l09" />So you do not approve of this old monk.</p>
+          <p>
+<lb n="wm32.case13.l10" />Yantou secretly revealed his meaning.
+<lb n="wm32.case13.l11" />Deshan thereupon let the matter rest.
+<lb n="wm32.case13.l12" />The next day, when he ascended the seat, he was indeed unlike his usual self.
+<lb n="wm32.case13.l13" />Yantou went to the front of the monks' hall, clapped his hands, and laughed loudly, saying:
+<lb n="wm32.case13.l14" />Good that the old man has understood the final word.</p>
+          <p>
+<lb n="wm32.case13.l15" />Hereafter, people everywhere will do nothing to him.</p>
+        </div>
+        <div type="wumen-commentary">
+          
+<lb n="wm32.case13.wumen.head" />
+          <head>Wumen said</head>
+          <p>
+<lb n="wm32.case13.wumen.l01" />If this were the final word,
+<lb n="wm32.case13.wumen.l02" />neither Yantou nor Deshan had even dreamed of it.
+<lb n="wm32.case13.wumen.l03" />Examined closely, they are much like a whole shed of puppets.</p>
+        </div>
+        <div type="verse">
+          
+<lb n="wm32.case13.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case13.verse.l01" />If you know the very first word,
+<lb n="wm32.case13.verse.l02" />then you understand the final word.
+<lb n="wm32.case13.verse.l03" />The final and the first
+<lb n="wm32.case13.verse.l04" />are not this one phrase.</p>
+        </div>
+      </div>
+      <div type="case" n="14" xml:id="wm32.case14">
+          
+<lb n="wm32.case14.head" />
+        <head>14. Nanquan Cuts the Cat</head>
+        <div type="gongan">
+          
+<lb n="wm32.case14.gongan-head" />
+          <head>Koan</head>
+          <p>
+<lb n="wm32.case14.l01" />The master Nanquan, because the monks of the eastern and western halls were fighting over a cat,
+<lb n="wm32.case14.l02" />picked it up and said:
+<lb n="wm32.case14.l03" />If the assembly can speak, it will be saved;
+<lb n="wm32.case14.l04" />if you cannot speak, I will cut it down.
+<lb n="wm32.case14.l05" />The assembly had no reply.
+<lb n="wm32.case14.l06" />Nanquan then cut it down.</p>
+          <p>
+<lb n="wm32.case14.l07" />Zhaozhou returned from outside,
+<lb n="wm32.case14.l08" />and Nanquan told him what had happened.
+<lb n="wm32.case14.l09" />Zhaozhou then took off his sandals,
+<lb n="wm32.case14.l10" />placed them on his head, and went out.</p>
+        </div>
+        <div type="wumen-commentary">
+          
+<lb n="wm32.case14.wumen.head" />
+          <head>Wumen said</head>
+          <p>
+<lb n="wm32.case14.wumen.l01" />If at that moment you could have said a turning word here,
+<lb n="wm32.case14.wumen.l02" />then you would have seen that Nanquan's command did not run in vain.
+<lb n="wm32.case14.wumen.l03" />But if not,
+<lb n="wm32.case14.wumen.l04" />had Zhaozhou been there,
+<lb n="wm32.case14.wumen.l05" />he would have snatched away the knife,
+<lb n="wm32.case14.wumen.l06" />and reversed the command,
+<lb n="wm32.case14.wumen.l07" />and Nanquan would have begged for his life.</p>
+        </div>
+        <div type="verse">
+          
+<lb n="wm32.case14.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case14.verse.l01" />Had Zhaozhou been there,
+<lb n="wm32.case14.verse.l02" />he would have reversed the command.
+<lb n="wm32.case14.verse.l03" />Snatching away the knife,
+<lb n="wm32.case14.verse.l04" />Nanquan would have begged for his life.</p>
+        </div>
+      </div>
+      <div type="case" n="15" xml:id="wm32.case15">
+          
+<lb n="wm32.case15.head" />
+        <head>15. Dongshan's Three Blows</head>
+        <div type="gongan">
+          
+<lb n="wm32.case15.gongan-head" />
+          <head>Koan</head>
+          <p>
+<lb n="wm32.case15.l01" />Yunmen asked Dongshan:
+<lb n="wm32.case15.l02" />Where have you come from recently.
+<lb n="wm32.case15.l03" />Dongshan said:
+<lb n="wm32.case15.l04" />Chadu.
+<lb n="wm32.case15.l05" />Yunmen said:
+<lb n="wm32.case15.l06" />Where did you spend the summer.
+<lb n="wm32.case15.l07" />Dongshan said:
+<lb n="wm32.case15.l08" />Hunan.</p>
+          <p>
+<lb n="wm32.case15.l09" />Yunmen said:
+<lb n="wm32.case15.l10" />When did you leave there.
+<lb n="wm32.case15.l11" />Dongshan said:
+<lb n="wm32.case15.l12" />On the twenty-fifth day of the eighth month.
+<lb n="wm32.case15.l13" />Yunmen said:
+<lb n="wm32.case15.l14" />I spare you three blows of the staff.</p>
+          <p>
+<lb n="wm32.case15.l15" />The next day,
+<lb n="wm32.case15.l16" />Dongshan again went up to pay his respects and asked:
+<lb n="wm32.case15.l17" />Yesterday the master spared me three blows of the staff,
+<lb n="wm32.case15.l18" />but I do not know where my fault lay.
+<lb n="wm32.case15.l19" />Yunmen said:
+<lb n="wm32.case15.l20" />Rice bag,
+<lb n="wm32.case15.l21" />you just go on like this from Jiangxi to Hunan.
+<lb n="wm32.case15.l22" />At these words Dongshan had great awakening.</p>
+        </div>
+        <div type="wumen-commentary">
+          
+<lb n="wm32.case15.wumen.head" />
+          <head>Wumen said</head>
+          <p>
+<lb n="wm32.case15.wumen.l01" />At that time Yunmen at once gave him the proper fodder,
+<lb n="wm32.case15.wumen.l02" />so that Dongshan had another living road of vital energy,
+<lb n="wm32.case15.wumen.l03" />and the family gate did not fall into desolation.
+<lb n="wm32.case15.wumen.l04" />For one whole night he floundered in the sea of right and wrong, until dawn before returning again,
+<lb n="wm32.case15.wumen.l05" />whereupon Yunmen gave him a further explanatory breakthrough.
+<lb n="wm32.case15.wumen.l06" />Dongshan immediately awakened,
+<lb n="wm32.case15.wumen.l07" />but he was still not naturally sharp.
+<lb n="wm32.case15.wumen.l08" />Now I ask all of you,
+<lb n="wm32.case15.wumen.l09" />those three blows of the staff for Dongshan,
+<lb n="wm32.case15.wumen.l10" />should he have received them or not.
+<lb n="wm32.case15.wumen.l11" />If you say he should have received them,
+<lb n="wm32.case15.wumen.l12" />then grass, trees, and the whole forest of monks should all receive blows.
+<lb n="wm32.case15.wumen.l13" />If you say he should not have received them,
+<lb n="wm32.case15.wumen.l14" />Yunmen again turns it into deceptive speech.
+<lb n="wm32.case15.wumen.l15" />If you can become clear here,
+<lb n="wm32.case15.wumen.l16" />only then can you breathe out one breath together with Dongshan.</p>
+        </div>
+        <div type="verse">
+          
+<lb n="wm32.case15.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case15.verse.l01" />A lion teaching its cub the art of bewildering prey,
+<lb n="wm32.case15.verse.l02" />just as it prepares to leap forward and spring, it has already turned its body.
+<lb n="wm32.case15.verse.l03" />Without cause, it speaks again of the head-on move,
+<lb n="wm32.case15.verse.l04" />the first arrow is still light, the second arrow goes deep.</p>
+        </div>
+      </div>
+      <div type="case" n="16" xml:id="wm32.case16">
+          
+<lb n="wm32.case16.head" />
+        <head>16. The Bell Sound and the Seven-Strip Robe</head>
+        <div type="gongan">
+          
+<lb n="wm32.case16.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case16.l01" />Yunmen said:
+<lb n="wm32.case16.l02" />The world is so vast and wide,
+<lb n="wm32.case16.l03" />so why do you put on the seven-strip robe at the sound of the bell?</p>
+        </div>
+        <div type="wumen-commentary">
+          
+<lb n="wm32.case16.wumen.head" />
+          <head>Wumen said:</head>
+          <p>
+<lb n="wm32.case16.wumen.l01" />Though it is spoken intimately and directly,
+<lb n="wm32.case16.wumen.l02" />how could one seek it in the sound?
+<lb n="wm32.case16.wumen.l03" />If you listen with the ears, it will surely be hard to understand;
+<lb n="wm32.case16.wumen.l04" />only when hearing sound from the place of the eyes does it begin to be intimate.</p>
+        </div>
+        <div type="verse">
+        
+<lb n="wm32.case16.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case16.verse.l01" />If you understand, all things are of one family;
+<lb n="wm32.case16.verse.l02" />if you do not understand, ten thousand distinctions and a thousand differences.
+<lb n="wm32.case16.verse.l03" />If you do not understand, all things are of one family;
+<lb n="wm32.case16.verse.l04" />if you understand, ten thousand distinctions and a thousand differences.</p>
+        </div>
+      </div>
+      <div type="case" n="17" xml:id="wm32.case17">
+          
+<lb n="wm32.case17.head" />
+        <head>17. The National Teacher's Three Calls</head>
+        <div type="gongan">
+            
+<lb n="wm32.case17.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case17.l01" />The National Teacher called to his attendant three times, and the attendant answered three times.
+<lb n="wm32.case17.l02" />The National Teacher said: I thought I had failed you, but in fact it is you who have failed me.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case17.wumen.head" />
+          <head>Wumen said:</head>
+          <p>
+<lb n="wm32.case17.wumen.l01" />At the National Teacher's three calls, his tongue fell to the ground.
+<lb n="wm32.case17.wumen.l02" />At the attendant's three responses, harmonious light was spat out.
+<lb n="wm32.case17.wumen.l03" />The National Teacher, old and lonely at heart, pressed the ox's head down to make it eat grass.
+<lb n="wm32.case17.wumen.l04" />The attendant was not willing to undertake it; fine food is not fit for one who is already full.
+<lb n="wm32.case17.wumen.l05" />But say, where was it that he failed him?</p>
+        </div>
+        <div type="verse">
+          
+<lb n="wm32.case17.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case17.verse.l01" />An iron cangue with no hole demands that a man carry it.
+<lb n="wm32.case17.verse.l02" />It burdens sons and grandsons in no ordinary way.
+<lb n="wm32.case17.verse.l03" />If you would prop up the gate and brace the door,
+<lb n="wm32.case17.verse.l04" />you must still go barefoot up the mountain of knives.</p>
+        </div>
+      </div>
+      <div type="case" n="18" xml:id="wm32.case18">
+            
+<lb n="wm32.case18.head" />
+        <head>18. Dongshan's Three Pounds</head>
+        <div type="gongan">
+            
+<lb n="wm32.case18.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case18.l01" />A monk asked Master Dongshan: What is Buddha?
+<lb n="wm32.case18.l02" />Dongshan said: Three pounds of hemp.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case18.wumen.head" />
+          <head>Wumen said:</head>
+          <p>
+<lb n="wm32.case18.wumen.l01" />Old Dongshan had realized a bit of clam-and-oyster Zen;
+<lb n="wm32.case18.wumen.l02" />as soon as the two shells opened, liver and entrails were exposed.
+<lb n="wm32.case18.wumen.l03" />Even so, tell me, where do you see Dongshan?</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case18.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case18.verse.l01" />Suddenly brought forth: three pounds of hemp,
+<lb n="wm32.case18.verse.l02" />the words are intimate, and the meaning even more intimate.
+<lb n="wm32.case18.verse.l03" />Whoever comes speaking of right and wrong
+<lb n="wm32.case18.verse.l04" />is at once a person of right and wrong.</p>
+        </div>
+      </div>
+      <div type="case" n="19" xml:id="wm32.case19">
+            
+<lb n="wm32.case19.head" />
+        <head>19. Ordinary Mind Is the Way</head>
+        <div type="gongan">
+            
+<lb n="wm32.case19.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case19.l01" />Zhaozhou asked Nanquan: What is the Way?
+<lb n="wm32.case19.l02" />Nanquan said: Ordinary mind is the Way.
+<lb n="wm32.case19.l03" />Zhaozhou said: Can one still direct oneself toward it?
+<lb n="wm32.case19.l04" />Nanquan said: The moment you aim toward it, you go against it.
+<lb n="wm32.case19.l05" />Zhaozhou said: If one does not aim toward it, how can one know it is the Way?
+<lb n="wm32.case19.l06" />Nanquan said: The Way does not belong to knowing, nor does it belong to not knowing.
+<lb n="wm32.case19.l07" />Knowing is false awareness; not knowing is blank indifference.
+<lb n="wm32.case19.l08" />If you truly reach the Way without doubt, it is like great empty space, vast and open through and through; how could one forcibly affirm or deny it?
+<lb n="wm32.case19.l09" />At these words, Zhaozhou was suddenly awakened.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case19.wumen.head" />
+          <head>Wumen said:</head>
+          <p>
+<lb n="wm32.case19.wumen.l01" />When Nanquan was pressed by Zhaozhou's question,
+<lb n="wm32.case19.wumen.l02" />he was driven to the point that tiles shattered and ice melted, unable to make any further explanation.
+<lb n="wm32.case19.wumen.l03" />Even granting that Zhaozhou awakened there, he still had to study for another thirty years before it was complete.</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case19.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case19.verse.l01" />In spring there are a hundred flowers, in autumn there is the moon;
+<lb n="wm32.case19.verse.l02" />in summer there is a cool breeze, in winter there is snow.
+<lb n="wm32.case19.verse.l03" />If no idle matters hang upon the mind,
+<lb n="wm32.case19.verse.l04" />this is the finest season in the human world.</p>
+        </div>
+      </div>
+      <div type="case" n="20" xml:id="wm32.case20">
+            
+<lb n="wm32.case20.head" />
+        <head>20. The Man of Great Strength</head>
+        <div type="gongan">
+            
+<lb n="wm32.case20.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case20.l01" />Master Songyuan said: A man of great strength—why can he not lift his foot?
+<lb n="wm32.case20.l02" />He also said: Opening the mouth is not on the tongue.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case20.wumen.head" />
+          <head>Wumen said:</head>
+          <p>
+<lb n="wm32.case20.wumen.l01" />Songyuan may be said to have poured out his guts and overturned his belly.
+<lb n="wm32.case20.wumen.l02" />He only lacked someone to undertake it.
+<lb n="wm32.case20.wumen.l03" />If one undertakes it directly on the spot, that is just right for coming here to Wumen and getting a painful staff-blow.
+<lb n="wm32.case20.wumen.l04" />Why?
+<lb n="wm32.case20.wumen.l05" />If you want to know true gold, look at it in the fire.</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case20.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case20.verse.l01" />Lifting the foot, he overturns the fragrant ocean;
+<lb n="wm32.case20.verse.l02" />lowering the head, he looks down upon the heaven of the fourth dhyana.
+<lb n="wm32.case20.verse.l03" />This whole body has nowhere to settle—
+<lb n="wm32.case20.verse.l04" />please go on and continue it yourself.</p>
+        </div>
+      </div>
+      <div type="case" n="21" xml:id="wm32.case21">
+            
+<lb n="wm32.case21.head" />
+        <head>21. Yunmen's Dried Shit-Stick</head>
+        <div type="gongan">
+            
+<lb n="wm32.case21.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case21.l01" />A monk asked Yunmen: What is Buddha?
+<lb n="wm32.case21.l02" />Yunmen said: A dried shit-stick.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case21.wumen.head" />
+          <head>Wumen said:</head>
+          <p>
+<lb n="wm32.case21.wumen.l01" />Yunmen may be said to have been so poor at home that he could hardly provide plain fare,
+<lb n="wm32.case21.wumen.l02" />and so busy with affairs that he had no time even for cursive writing.
+<lb n="wm32.case21.wumen.l03" />At the slightest move he brought out shit to prop up the gate and brace the door.</p>
+        </div>
+        <div type="verse">
+          
+<lb n="wm32.case21.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case21.verse.l01" />A flash of lightning,
+<lb n="wm32.case21.verse.l02" />a spark struck from stone.
+<lb n="wm32.case21.verse.l03" />Blink the eye,
+<lb n="wm32.case21.verse.l04" />and it is already missed.</p>
+        </div>
+      </div>
+      <div type="case" n="22" xml:id="wm32.case22">
+            
+<lb n="wm32.case22.head" />
+        <head>22. Kasyapa's Temple Pole</head>
+        <div type="gongan">
+            
+<lb n="wm32.case22.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case22.l01" />Ananda asked Kashyapa: Apart from the golden robe transmitted by the World-Honored One, what else was transmitted.
+<lb n="wm32.case22.l02" />Kashyapa said: Knock down the temple flagpole in front of the gate.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case22.wumen.head" />
+          <head>Wumen said</head>
+          <p>
+<lb n="wm32.case22.wumen.l01" />If here you can utter one intimate turning phrase,
+<lb n="wm32.case22.wumen.l02" />then you will see that the assembly on Vulture Peak still stands solemnly, never dispersed.
+<lb n="wm32.case22.wumen.l03" />If not, then although the Buddha gave thought to it long ago, even to this very day the marvel has not been attained.</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case22.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case22.verse.l01" />How could the place of the question compare with the intimacy of the answer.
+<lb n="wm32.case22.verse.l02" />How many people strain their eyes over this.
+<lb n="wm32.case22.verse.l03" />Elder brother calls, younger brother answers, exposing the family's shame.
+<lb n="wm32.case22.verse.l04" />Not belonging to yin and yang, it is a different spring.</p>
+        </div>
+      </div>
+      <div type="case" n="23" xml:id="wm32.case23">
+        
+<lb n="wm32.case23.head" />
+        <head>23. Not Thinking Good or Evil</head>
+        <div type="gongan">
+          
+<lb n="wm32.case23.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case23.l01" />The Sixth Patriarch was pursued by the Venerable Ming as far as Dayu Ridge.
+<lb n="wm32.case23.l02" />Seeing Ming arrive, the Patriarch threw the robe and bowl onto a rock and said: This robe is a token of faith. Can it be fought over by force.
+<lb n="wm32.case23.l03" />Ming then tried to lift them, but they were as immovable as a mountain.
+<lb n="wm32.case23.l04" />Ming said plainly: I have come seeking the Dharma, not for the robe. I beg the practitioner to instruct me.
+<lb n="wm32.case23.l05" />The Patriarch said: Not thinking good, not thinking evil, at just such a moment, what is the original face of the Venerable Ming.
+<lb n="wm32.case23.l06" />Ming was greatly awakened on the spot, sweat pouring over his whole body. Weeping, he bowed and asked:
+<lb n="wm32.case23.l07" />Ming said: Beyond the secret words and secret meaning just spoken, is there yet any further purport.
+<lb n="wm32.case23.l08" />The Patriarch said: What I am now telling you is not secret.
+<lb n="wm32.case23.l09" />If you turn the light back and reflect on your own face, the secret is on your side.
+<lb n="wm32.case23.l10" />Ming said: Although I followed the assembly at Huangmei, I had truly not yet understood my own face.
+<lb n="wm32.case23.l11" />Now, receiving your pointing out of the entry, it is like a man drinking water, knowing for himself whether it is cold or warm.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case23.wumen.head" />
+          <head>Wumen said</head>
+          <p>
+<lb n="wm32.case23.wumen.l01" />The Sixth Patriarch may indeed be said
+<lb n="wm32.case23.wumen.l02" />to have handled this matter with utmost urgency.
+<lb n="wm32.case23.wumen.l03" />His old-womanly concern was truly earnest.
+<lb n="wm32.case23.wumen.l04" />It is like peeling the shell from a fresh lychee,
+<lb n="wm32.case23.wumen.l05" />removing the pit and placing it right into your mouth,
+<lb n="wm32.case23.wumen.l06" />only requiring that you swallow it once.</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case23.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case23.verse.l01" />It cannot be sketched, ah, it cannot be painted.
+<lb n="wm32.case23.verse.l02" />Praise cannot reach it, ah, so stop trying to receive it.
+<lb n="wm32.case23.verse.l03" />The original face has nowhere to hide.
+<lb n="wm32.case23.verse.l04" />When the world decays, it does not perish.</p>
+        </div>
+      </div>
+      <div type="case" n="24" xml:id="wm32.case24">
+            
+<lb n="wm32.case24.head" />
+        <head>24. Leaving Words Behind</head>
+        <div type="gongan">
+            
+<lb n="wm32.case24.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case24.l01" />A monk asked Master Fengxue: Speech and silence involve separation and subtlety. How does one pass through without transgressing.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case24.wumen.head" />
+          <head>Wumen said</head>
+          <p>
+<lb n="wm32.case24.wumen.l01" />Fengxue's device was like a flash of lightning: once he found the way, he went straight on.
+<lb n="wm32.case24.wumen.l02" />But what can be done when the tongue of the man sitting before him does not stop.
+<lb n="wm32.case24.wumen.l03" />If here you can see it intimately, there is naturally a road of escape for you.</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case24.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case24.verse.l01" />A phrase that does not reveal its style and bone,
+<lb n="wm32.case24.verse.l02" />before speaking, already delivers the charge.
+<lb n="wm32.case24.verse.l03" />Step forward, mouth mumbling,
+<lb n="wm32.case24.verse.l04" />and I know you are a great covered jar.
+<lb n="wm32.case24.verse.l05" />I long remember Jiangnan in the third month,
+<lb n="wm32.case24.verse.l06" />where partridges cry and a hundred flowers are fragrant.</p>
+        </div>
+      </div>
+      <div type="case" n="25" xml:id="wm32.case25">
+            
+<lb n="wm32.case25.head" />
+        <head>25. The Third Seat Preaches the Dharma</head>
+        <div type="gongan">
+            
+<lb n="wm32.case25.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case25.l01" />Master Yangshan dreamed that he went to Maitreya's place
+<lb n="wm32.case25.l02" />and was assigned the third seat.
+<lb n="wm32.case25.l03" />A venerable one struck the gavel and said:
+<lb n="wm32.case25.l04" />Today the third seat is to preach the Dharma.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case25.wumen.head" />
+          <head>Wumen said</head>
+          <p>
+<lb n="wm32.case25.wumen.l01" />Tell me, was this preaching the Dharma or not preaching the Dharma.
+<lb n="wm32.case25.wumen.l02" />Open your mouth and you lose it.
+<lb n="wm32.case25.wumen.l03" />Close your mouth and you are bereft again.
+<lb n="wm32.case25.wumen.l04" />Neither opening nor closing,
+<lb n="wm32.case25.wumen.l05" />you are a hundred and eight thousand miles away.</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case25.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case25.verse.l01" />Bright sun, blue sky,
+<lb n="wm32.case25.verse.l02" />in a dream, speaking of a dream.
+<lb n="wm32.case25.verse.l03" />Conjuring up marvels, conjuring up marvels,
+<lb n="wm32.case25.verse.l04" />deceiving the whole assembly.</p>
+        </div>
+      </div>
+      <div type="case" n="26" xml:id="wm32.case26">
+            
+<lb n="wm32.case26.head" />
+        <head>26. Two Monks Roll Up the Blinds</head>
+        <div type="gongan">
+            
+<lb n="wm32.case26.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case26.l01" />Before the midday meal, monks came forward for interview with Qingliang, the Great Fayan.
+<lb n="wm32.case26.l02" />Fayan pointed at the blinds with his hand.
+<lb n="wm32.case26.l03" />At that time two monks both went to roll up the blinds.
+<lb n="wm32.case26.l04" />Fayan said: One gained, one lost.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case26.wumen.head" />
+          <head>Wumen said</head>
+          <p>
+<lb n="wm32.case26.wumen.l01" />Tell me then, which was gain and which was loss.
+<lb n="wm32.case26.wumen.l02" />If here you can set one eye in place,
+<lb n="wm32.case26.wumen.l03" />then you will know the point where National Teacher Qingliang fell short.
+<lb n="wm32.case26.wumen.l04" />Even so,
+<lb n="wm32.case26.wumen.l05" />you must avoid deliberating in terms of gain and loss.</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case26.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case26.verse.l01" />Rolled up, bright and clear, it penetrates the great emptiness,
+<lb n="wm32.case26.verse.l02" />yet the great emptiness still does not accord with our school.
+<lb n="wm32.case26.verse.l03" />How could it compare to letting go even of emptiness altogether,
+<lb n="wm32.case26.verse.l04" />dense and seamless, admitting not the slightest breeze.</p>
+        </div>
+      </div>
+      <div type="case" n="27" xml:id="wm32.case27">
+            
+<lb n="wm32.case27.head" />
+        <head>27. It Is Not Mind, Not Buddha</head>
+        <div type="gongan">
+            
+<lb n="wm32.case27.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case27.l01" />A monk asked Master Nanquan:
+<lb n="wm32.case27.l02" />Is there a Dharma that is not spoken to people.
+<lb n="wm32.case27.l03" />Quan said: There is.
+<lb n="wm32.case27.l04" />The monk said: What is the Dharma that is not spoken to people.
+<lb n="wm32.case27.l05" />Quan said: It is not mind,
+<lb n="wm32.case27.l06" />it is not Buddha,
+<lb n="wm32.case27.l07" />it is not a thing.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case27.wumen.head" />
+          <head>Wumen said</head>
+          <p>
+<lb n="wm32.case27.wumen.l01" />Faced with this one question, Nanquan
+<lb n="wm32.case27.wumen.l02" />had to bring out the whole family treasure,
+<lb n="wm32.case27.wumen.l03" />in no small disarray.</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case27.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case27.verse.l01" />Repeated admonition diminishes your virtue,
+<lb n="wm32.case27.verse.l02" />Wordlessness truly has merit.
+<lb n="wm32.case27.verse.l03" />Let the blue sea change as it will,
+<lb n="wm32.case27.verse.l04" />in the end I will not explain it for you.</p>
+        </div>
+      </div>
+      <div type="case" n="28" xml:id="wm32.case28">
+            
+<lb n="wm32.case28.head" />
+        <head>28. Long Ringing at Longtan</head>
+        <div type="gongan">
+            
+<lb n="wm32.case28.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case28.l01" />Because Deshan asked Longtan for instruction.
+<lb n="wm32.case28.l02" />At night Longtan said: The night is deep. Why do you not go down?
+<lb n="wm32.case28.l03" />Deshan then made his respects, lifted the curtain, and went out. Seeing that it was dark outside, he turned back and said: It is dark outside.
+<lb n="wm32.case28.l04" />Longtan then lit a paper candle and handed it to Deshan.</p>
+          <p>
+<lb n="wm32.case28.l05" />As Deshan was about to take it, Longtan blew it out again.
+<lb n="wm32.case28.l06" />At this Deshan suddenly had an insight and then made a bow.
+<lb n="wm32.case28.l07" />Longtan said: What principle have you seen?
+<lb n="wm32.case28.l08" />Deshan said: From this day on, I will no longer doubt the tongues of the old masters under heaven.</p>
+          <p>
+<lb n="wm32.case28.l09" />The next day Longtan ascended the hall and said:
+<lb n="wm32.case28.l10" />Among them is a fellow whose teeth are like a forest of swords and whose mouth is like a basin of blood.
+<lb n="wm32.case28.l11" />Strike him with a staff, and he will not turn his head.
+<lb n="wm32.case28.l12" />Someday, on the summit of a solitary peak, he will establish my Way.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case28.wumen.head" />
+          <head>Wumen said:</head>
+          <p>
+<lb n="wm32.case28.wumen.l01" />Before Deshan had left the barrier,
+<lb n="wm32.case28.wumen.l02" />his heart was full of indignation,
+<lb n="wm32.case28.wumen.l03" />and his mouth was fierce and vehement.
+<lb n="wm32.case28.wumen.l04" />He came all the way to the south,
+<lb n="wm32.case28.wumen.l05" />wanting to wipe out the meaning of the separate transmission outside the teachings.
+<lb n="wm32.case28.wumen.l06" />When he reached the road in Lizhou,
+<lb n="wm32.case28.wumen.l07" />he asked an old woman to buy some refreshments.
+<lb n="wm32.case28.wumen.l08" />The old woman said:
+<lb n="wm32.case28.wumen.l09" />Just as the sutra says,
+<lb n="wm32.case28.wumen.l10" />the past mind cannot be grasped,
+<lb n="wm32.case28.wumen.l11" />the present mind cannot be grasped,
+<lb n="wm32.case28.wumen.l12" />and the future mind cannot be grasped.
+<lb n="wm32.case28.wumen.l13" />Which mind does the venerable one wish to refresh?
+<lb n="wm32.case28.wumen.l14" />When Deshan was hit by this one question,
+<lb n="wm32.case28.wumen.l15" />his mouth went flat like a carrying pole.
+<lb n="wm32.case28.wumen.l16" />Yet although it was so,
+<lb n="wm32.case28.wumen.l17" />he was still unwilling to die beneath the old woman's words.
+<lb n="wm32.case28.wumen.l18" />So he asked the old woman:
+<lb n="wm32.case28.wumen.l19" />Is there any Zen master nearby?
+<lb n="wm32.case28.wumen.l20" />The old woman said:
+<lb n="wm32.case28.wumen.l21" />Five li away there is Master Longtan.
+<lb n="wm32.case28.wumen.l22" />But when he reached Longtan,
+<lb n="wm32.case28.wumen.l23" />he brought out all his failures and shortcomings,
+<lb n="wm32.case28.wumen.l24" />truly, his earlier words did not match his later speech.
+<lb n="wm32.case28.wumen.l25" />Longtan was very much like a fond parent who does not notice the ugliness of his child.
+<lb n="wm32.case28.wumen.l26" />Seeing that he had a little spark of fire,
+<lb n="wm32.case28.wumen.l27" />he hurriedly took foul water
+<lb n="wm32.case28.wumen.l28" />and suddenly poured it right over his head,
+<lb n="wm32.case28.wumen.l29" />dousing it to death.
+<lb n="wm32.case28.wumen.l30" />Looked at coolly,
+<lb n="wm32.case28.wumen.l31" />it is one great joke.</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case28.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case28.verse.l01" />Hearing the name is not as good as seeing the face,
+<lb n="wm32.case28.verse.l02" />seeing the face is not as good as hearing the name.
+<lb n="wm32.case28.verse.l03" />Although he saved his nostrils,
+<lb n="wm32.case28.verse.l04" />still his eyes were blinded.</p>
+        </div>
+      </div>
+      <div type="case" n="29" xml:id="wm32.case29">
+            
+<lb n="wm32.case29.head" />
+        <head>29. Not the Wind, Not the Banner</head>
+        <div type="gongan">
+            
+<lb n="wm32.case29.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case29.l01" />Because the wind was blowing a temple banner,
+<lb n="wm32.case29.l02" />two monks were debating.
+<lb n="wm32.case29.l03" />One said the wind moves,
+<lb n="wm32.case29.l04" />and one said the banner moves.
+<lb n="wm32.case29.l05" />Back and forth, they never accorded with the principle.
+<lb n="wm32.case29.l06" />The patriarch said:
+<lb n="wm32.case29.l07" />It is not the wind that moves,
+<lb n="wm32.case29.l08" />it is not the banner that moves,
+<lb n="wm32.case29.l09" />it is your minds, good sirs, that move.</p>
+        </div>
+        <div type="wumen-commentary">
+          
+<lb n="wm32.case29.wumen.head" />
+          <head>Wumen said:</head>
+          <p>
+<lb n="wm32.case29.wumen.l01" />Not the wind moving,
+<lb n="wm32.case29.wumen.l02" />not the banner moving,
+<lb n="wm32.case29.wumen.l03" />not the mind moving.
+<lb n="wm32.case29.wumen.l04" />Where do you see the patriarch?
+<lb n="wm32.case29.wumen.l05" />If here you see it intimately,
+<lb n="wm32.case29.wumen.l06" />only then will you know the two monks bought iron and got gold.
+<lb n="wm32.case29.wumen.l07" />The patriarch could not suppress his smile,
+<lb n="wm32.case29.wumen.l08" />and made a complete blunder.</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case29.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case29.verse.l01" />Wind, banner, mind moving,
+<lb n="wm32.case29.verse.l02" />all are settled in one indictment.
+<lb n="wm32.case29.verse.l03" />He only knew how to open his mouth,
+<lb n="wm32.case29.verse.l04" />not noticing that his words had fallen.</p>
+        </div>
+      </div>
+      <div type="case" n="30" xml:id="wm32.case30">
+            
+<lb n="wm32.case30.head" />
+        <head>30. This Mind Is Buddha</head>
+        <div type="gongan">
+            
+<lb n="wm32.case30.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case30.l01" />Because Damei asked Mazu:
+<lb n="wm32.case30.l02" />What is Buddha?
+<lb n="wm32.case30.l03" />The patriarch said:
+<lb n="wm32.case30.l04" />This mind is Buddha.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case30.wumen.head" />
+          <head>Wumen said:</head>
+          <p>
+<lb n="wm32.case30.wumen.l01" />If you can directly grasp it at once,
+<lb n="wm32.case30.wumen.l02" />you wear the Buddha's robe,
+<lb n="wm32.case30.wumen.l03" />eat the Buddha's food,
+<lb n="wm32.case30.wumen.l04" />speak the Buddha's words,
+<lb n="wm32.case30.wumen.l05" />practice the Buddha's practice,
+<lb n="wm32.case30.wumen.l06" />and are then a Buddha.</p>
+        </div>
+        <div type="verse">
+          
+<lb n="wm32.case30.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case30.verse.l01" />Under the blue sky and bright sun,
+<lb n="wm32.case30.verse.l02" />avoid seeking at all costs.
+<lb n="wm32.case30.verse.l03" />To ask further how it is,
+<lb n="wm32.case30.verse.l04" />is to embrace the thief and cry injustice.</p>
+        </div>
+      </div>
+      <div type="case" n="31" xml:id="wm32.case31">
+            
+<lb n="wm32.case31.head" />
+        <head>31. Zhaozhou Examines the Old Woman</head>
+        <div type="gongan">
+            
+<lb n="wm32.case31.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case31.l01" />Because a monk asked an old woman:
+<lb n="wm32.case31.l02" />Which way does the road to Mount Tai go.
+<lb n="wm32.case31.l03" />The old woman said: Go straight on.
+<lb n="wm32.case31.l04" />As soon as the monk had gone three or five steps,
+<lb n="wm32.case31.l05" />the old woman said: A fine monk, and yet he goes off just like that.</p>
+          <p>
+<lb n="wm32.case31.l06" />Later a monk told Zhaozhou about this.
+<lb n="wm32.case31.l07" />Zhaozhou said: Wait till I go and test that old woman for you.
+<lb n="wm32.case31.l08" />The next day he went and asked in just the same way.
+<lb n="wm32.case31.l09" />The old woman answered in just the same way.
+<lb n="wm32.case31.l10" />Zhaozhou returned and said to the assembly: That old woman of Mount Tai, I have tested through for you.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case31.wumen.head" />
+          <head>Wumen said</head>
+          <p>
+<lb n="wm32.case31.wumen.l01" />The old woman only knows how to sit in her tent and devise strategies,
+<lb n="wm32.case31.wumen.l02" />but after all she does not know Zhaozhou.
+<lb n="wm32.case31.wumen.l03" />The old old man Zhaozhou
+<lb n="wm32.case31.wumen.l04" />is skilled at stealing a camp and sacking a stockade.
+<lb n="wm32.case31.wumen.l05" />Even so,
+<lb n="wm32.case31.wumen.l06" />tell me, where was it that Zhaozhou tested through the old woman.</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case31.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case31.verse.l01" />The question was the same,
+<lb n="wm32.case31.verse.l02" />the answer too was alike.
+<lb n="wm32.case31.verse.l03" />There is sand in the rice,
+<lb n="wm32.case31.verse.l04" />there are thorns in the mud.</p>
+        </div>
+      </div>
+      <div type="case" n="32" xml:id="wm32.case32">
+        
+<lb n="wm32.case32.head" />
+        <head>32. An Outsider Questions the Buddha</head>
+        <div type="gongan">
+          
+<lb n="wm32.case32.gongan-head" />
+          <head>Koan</head>
+          <p>
+<lb n="wm32.case32.l01" />The World-Honored One, because an outsider asked:
+<lb n="wm32.case32.l02" />I do not ask about words with speech,
+<lb n="wm32.case32.l03" />I do not ask about words without speech.
+<lb n="wm32.case32.l04" />The World-Honored One remained seated.
+<lb n="wm32.case32.l05" />The outsider praised him, saying:
+<lb n="wm32.case32.l06" />World-Honored One, with great compassion and great mercy,
+<lb n="wm32.case32.l07" />you have parted the clouds of my delusion
+<lb n="wm32.case32.l08" />and enabled me to enter.
+<lb n="wm32.case32.l09" />Then he made full prostrations and departed.
+<lb n="wm32.case32.l10" />Ananda then asked the Buddha:
+<lb n="wm32.case32.l11" />What had that outsider realized, that he praised you and left.
+<lb n="wm32.case32.l12" />The World-Honored One said:
+<lb n="wm32.case32.l13" />Like a fine horse in the world, it moves when it sees the shadow of the whip.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case32.wumen.head" />
+          <head>Wumen said</head>
+          <p>
+<lb n="wm32.case32.wumen.l01" />Ananda was the Buddha's disciple,
+<lb n="wm32.case32.wumen.l02" />yet he was far from matching the outsider's understanding.
+<lb n="wm32.case32.wumen.l03" />Tell me, how far apart are the outsider and the Buddha's disciple.</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case32.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case32.verse.l01" />Walking on the edge of a sword,
+<lb n="wm32.case32.verse.l02" />running on the ridge of ice,
+<lb n="wm32.case32.verse.l03" />without climbing steps,
+<lb n="wm32.case32.verse.l04" />letting go at the edge of a cliff.</p>
+        </div>
+      </div>
+      <div type="case" n="33" xml:id="wm32.case33">
+            
+<lb n="wm32.case33.head" />
+        <head>33. Neither Mind Nor Buddha</head>
+        <div type="gongan">
+            
+<lb n="wm32.case33.gongan-head" />
+          <head>Koan</head>
+          <p>
+<lb n="wm32.case33.l01" />Because a monk asked Mazu:
+<lb n="wm32.case33.l02" />What is Buddha.
+<lb n="wm32.case33.l03" />The patriarch said:
+<lb n="wm32.case33.l04" />Neither mind nor Buddha.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case33.wumen.head" />
+          <head>Wumen said</head>
+          <p>
+<lb n="wm32.case33.wumen.l01" />If you can see it here,
+<lb n="wm32.case33.wumen.l02" />the matter of studying under masters is finished.</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case33.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case33.verse.l01" />When you meet a swordsman on the road, you must show your sword;
+<lb n="wm32.case33.verse.l02" />if you do not meet a poet, do not offer a poem.
+<lb n="wm32.case33.verse.l03" />When meeting people, speak only three parts,
+<lb n="wm32.case33.verse.l04" />do not yet give the whole piece completely.</p>
+        </div>
+      </div>
+      <div type="case" n="34" xml:id="wm32.case34">
+            
+<lb n="wm32.case34.head" />
+        <head>34. Wisdom Is Not the Way</head>
+        <div type="gongan">
+            
+<lb n="wm32.case34.gongan-head" />
+          <head>Koan</head>
+          <p>
+<lb n="wm32.case34.l01" />Nanquan said:
+<lb n="wm32.case34.l02" />Mind is not Buddha.
+<lb n="wm32.case34.l03" />Wisdom is not the Way.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case34.wumen.head" />
+          <head>Wumen said</head>
+          <p>
+<lb n="wm32.case34.wumen.l01" />Nanquan may be called
+<lb n="wm32.case34.wumen.l02" />an old fellow with no sense of shame.
+<lb n="wm32.case34.wumen.l03" />The moment he opens his stinking mouth,
+<lb n="wm32.case34.wumen.l04" />the family's disgrace is spread abroad.
+<lb n="wm32.case34.wumen.l05" />Yet even so,
+<lb n="wm32.case34.wumen.l06" />few know the favor.</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case34.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case34.verse.l01" />When the sky clears, the sun comes out;
+<lb n="wm32.case34.verse.l02" />when rain falls, the ground gets wet.
+<lb n="wm32.case34.verse.l03" />He has said it all completely,
+<lb n="wm32.case34.verse.l04" />I only fear you cannot believe it fully.</p>
+        </div>
+      </div>
+      <div type="case" n="35" xml:id="wm32.case35">
+            
+<lb n="wm32.case35.head" />
+        <head>35. The Girl Leaves Her Soul</head>
+        <div type="gongan">
+          
+<lb n="wm32.case35.gongan-head" />
+          <head>Koan</head>
+          <p>
+<lb n="wm32.case35.l01" />Wuzu asked a monk, saying:
+<lb n="wm32.case35.l02" />When the girl Qiannü left her soul,
+<lb n="wm32.case35.l03" />which one was the real one.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case35.wumen.head" />
+          <head>Wumen said</head>
+          <p>
+<lb n="wm32.case35.wumen.l01" />If here you awaken to the real one,
+<lb n="wm32.case35.wumen.l02" />then you will know leaving the shell and entering the shell
+<lb n="wm32.case35.wumen.l03" />to be like lodging at an inn.
+<lb n="wm32.case35.wumen.l04" />But if it is not yet so,
+<lb n="wm32.case35.wumen.l05" />by all means do not run about wildly.
+<lb n="wm32.case35.wumen.l06" />Suddenly, when earth, water, fire, and wind scatter apart,
+<lb n="wm32.case35.wumen.l07" />you will be like a crab dropped into boiling water, flailing with all eight limbs.
+<lb n="wm32.case35.wumen.l08" />When that time comes, do not say
+<lb n="wm32.case35.wumen.l09" />I did not tell you.</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case35.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case35.verse.l01" />The clouds and the moon are the same,
+<lb n="wm32.case35.verse.l02" />the streams and mountains are each different.
+<lb n="wm32.case35.verse.l03" />Ten thousand blessings, ten thousand blessings,
+<lb n="wm32.case35.verse.l04" />is it one or is it two.</p>
+        </div>
+      </div>
+      <div type="case" n="36" xml:id="wm32.case36">
+            
+<lb n="wm32.case36.head" />
+        <head>36. Meeting a Man of the Way on the Road</head>
+        <div type="gongan">
+          
+<lb n="wm32.case36.gongan-head" />
+          <head>Koan</head>
+          <p>
+<lb n="wm32.case36.l01" />Wuzu said:
+<lb n="wm32.case36.l02" />If on the road you meet a man who has attained the Way,
+<lb n="wm32.case36.l03" />Do not answer with speech or silence,
+<lb n="wm32.case36.l04" />but say, what will you answer with?</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case36.wumen.head" />
+          <head>Wumen said:</head>
+          <p>
+<lb n="wm32.case36.wumen.l01" />If here,
+<lb n="wm32.case36.wumen.l02" />you answer intimately and directly,
+<lb n="wm32.case36.wumen.l03" />there is no harm in rejoicing.
+<lb n="wm32.case36.wumen.l04" />If it is not yet so,
+<lb n="wm32.case36.wumen.l05" />you must still keep your eyes open everywhere.</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case36.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case36.verse.l01" />When meeting a realized man on the road,
+<lb n="wm32.case36.verse.l02" />do not answer with speech or silence;
+<lb n="wm32.case36.verse.l03" />a punch straight across the jaw and full in the face—
+<lb n="wm32.case36.verse.l04" />if you understand directly, then you understand.</p>
+        </div>
+      </div>
+      <div type="case" n="37" xml:id="wm32.case37">
+            
+<lb n="wm32.case37.head" />
+        <head>37. The Cypress Tree in the Courtyard</head>
+        <div type="gongan">
+            
+<lb n="wm32.case37.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case37.l01" />A monk asked Zhaozhou:
+<lb n="wm32.case37.l02" />What is the meaning of the Patriarch's coming from the West?
+<lb n="wm32.case37.l03" />Zhaozhou said:
+<lb n="wm32.case37.l04" />The cypress tree in the courtyard.</p>
+        </div>
+        <div type="wumen-commentary">
+        
+<lb n="wm32.case37.wumen.head" />
+          <head>Wumen said:</head>
+          <p>
+<lb n="wm32.case37.wumen.l01" />If, at the place of Zhaozhou's answer,
+<lb n="wm32.case37.wumen.l02" />you see it intimately and directly,
+<lb n="wm32.case37.wumen.l03" />before, there is no Shakyamuni;
+<lb n="wm32.case37.wumen.l04" />after, there is no Maitreya.</p>
+        </div>
+        <div type="verse">
+          
+<lb n="wm32.case37.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case37.verse.l01" />Speech does not unfold the matter,
+<lb n="wm32.case37.verse.l02" />words do not hit the mark;
+<lb n="wm32.case37.verse.l03" />those who take up the words are lost,
+<lb n="wm32.case37.verse.l04" />those who cling to the phrases are deluded.</p>
+        </div>
+      </div>
+      <div type="case" n="38" xml:id="wm32.case38">
+            
+<lb n="wm32.case38.head" />
+        <head>38. The Ox Passing Through the Window Lattice</head>
+        <div type="gongan">
+          
+<lb n="wm32.case38.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case38.l01" />Wuzu said:
+<lb n="wm32.case38.l02" />It is like a water buffalo passing through a window lattice.
+<lb n="wm32.case38.l03" />Its head, horns, and four legs have all passed through,
+<lb n="wm32.case38.l04" />so why is it
+<lb n="wm32.case38.l05" />that the tail cannot pass through?</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case38.wumen.head" />
+          <head>Wumen said:</head>
+          <p>
+<lb n="wm32.case38.wumen.l01" />If here
+<lb n="wm32.case38.wumen.l02" />you can turn one eye upside down,
+<lb n="wm32.case38.wumen.l03" />and utter a turning word,
+<lb n="wm32.case38.wumen.l04" />you can above repay the four kinds of grace and below aid the beings of the three realms.
+<lb n="wm32.case38.wumen.l05" />If it is not yet so,
+<lb n="wm32.case38.wumen.l06" />you must still take good care of the tail.</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case38.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case38.verse.l01" />Going through, it falls into a pit;
+<lb n="wm32.case38.verse.l02" />coming back, it is wrecked instead.
+<lb n="wm32.case38.verse.l03" />This little tail of his—
+<lb n="wm32.case38.verse.l04" />it truly is most strange.</p>
+        </div>
+      </div>
+      <div type="case" n="39" xml:id="wm32.case39">
+            
+<lb n="wm32.case39.head" />
+        <head>39. Yunmen's Falling into Words</head>
+        <div type="gongan">
+          
+<lb n="wm32.case39.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case39.l01" />A monk asked Yunmen:
+<lb n="wm32.case39.l02" />Radiant light in silent illumination pervades lands as numerous as the sands of the Ganges.
+<lb n="wm32.case39.l03" />Before the sentence was finished,
+<lb n="wm32.case39.l04" />Yunmen abruptly said:
+<lb n="wm32.case39.l05" />Is that not the saying of Scholar Zhang Zhuo?
+<lb n="wm32.case39.l06" />The monk said:
+<lb n="wm32.case39.l07" />Yes.
+<lb n="wm32.case39.l08" />Yunmen said:
+<lb n="wm32.case39.l09" />You have fallen into words.
+<lb n="wm32.case39.l10" />Later, Sixin
+<lb n="wm32.case39.l11" />brought it up and said:
+<lb n="wm32.case39.l12" />But say, where was it that this monk fell into words?</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case39.wumen.head" />
+          <head>Wumen said:</head>
+          <p>
+<lb n="wm32.case39.wumen.l01" />If here
+<lb n="wm32.case39.wumen.l02" />you can see Yunmen's functioning,
+<lb n="wm32.case39.wumen.l03" />and why that lonely and exposed monk,
+<lb n="wm32.case39.wumen.l04" />for what reason, fell into words,
+<lb n="wm32.case39.wumen.l05" />then you are fit to be a teacher of humans and devas.
+<lb n="wm32.case39.wumen.l06" />If this is still not clear,
+<lb n="wm32.case39.wumen.l07" />you cannot even save yourself.</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case39.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case39.verse.l01" />Fishing in a rushing current,
+<lb n="wm32.case39.verse.l02" />the one greedy for bait is caught;
+<lb n="wm32.case39.verse.l03" />the moment the mouth opens a crack,
+<lb n="wm32.case39.verse.l04" />life itself is lost.</p>
+        </div>
+      </div>
+      <div type="case" n="40" xml:id="wm32.case40">
+            
+<lb n="wm32.case40.head" />
+        <head>40. Kicking Over the Water Bottle</head>
+        <div type="gongan">
+            
+<lb n="wm32.case40.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case40.l01" />Master Weishan,
+<lb n="wm32.case40.l02" />when first in Baizhang's assembly,
+<lb n="wm32.case40.l03" />served as the cook.
+<lb n="wm32.case40.l04" />Baizhang was about to choose the head of Dawei Mountain,
+<lb n="wm32.case40.l05" />and so he asked the head monk
+<lb n="wm32.case40.l06" />to speak before the assembly.
+<lb n="wm32.case40.l07" />Whoever was exceptional could go.
+<lb n="wm32.case40.l08" />Baizhang then picked up a water bottle
+<lb n="wm32.case40.l09" />and set it on the ground.
+<lb n="wm32.case40.l10" />He posed the question, saying:
+<lb n="wm32.case40.l11" />You may not call it a water bottle—
+<lb n="wm32.case40.l12" />what do you call it?
+<lb n="wm32.case40.l13" />The head monk then said:
+<lb n="wm32.case40.l14" />It cannot be called a wooden dipper.
+<lb n="wm32.case40.l15" />Baizhang then asked Weishan.
+<lb n="wm32.case40.l16" />Weishan then kicked over the water bottle and left.
+<lb n="wm32.case40.l17" />Baizhang laughed and said:
+<lb n="wm32.case40.l18" />The first seat has lost to Mountain Boy.
+<lb n="wm32.case40.l19" />Because of this, he appointed him as founding abbot.</p>
+        </div>
+        <div type="wumen-commentary">
+        
+<lb n="wm32.case40.wumen.head" />
+          <head>Wumen said:</head>
+          <p>
+<lb n="wm32.case40.wumen.l01" />Weishan's courage for that one occasion
+<lb n="wm32.case40.wumen.l02" />still could not help him jump out of Baizhang's trap.
+<lb n="wm32.case40.wumen.l03" />Examining it closely afterward,
+<lb n="wm32.case40.wumen.l04" />then he values the heavy and not the light.
+<lb n="wm32.case40.wumen.l05" />Why is it that the deaf one slips free of the stocks,
+<lb n="wm32.case40.wumen.l06" />only to shoulder an iron cangue.</p>
+        </div>
+        <div type="verse">
+          
+<lb n="wm32.case40.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case40.verse.l01" />He flings down the hoop basket and the wooden ladle,
+<lb n="wm32.case40.verse.l02" />with one thrust in broad daylight he cuts off all covering and concealment.
+<lb n="wm32.case40.verse.l03" />Baizhang's heavy barrier cannot hold him back,
+<lb n="wm32.case40.verse.l04" />from the tip of his foot he kicks out buddhas as dense as hemp.</p>
+        </div>
+      </div>
+      <div type="case" n="41" xml:id="wm32.case41">
+            
+<lb n="wm32.case41.head" />
+        <head>41. Bodhidharma Pacifies the Mind</head>
+        <div type="gongan">
+            
+<lb n="wm32.case41.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case41.l01" />Bodhidharma faced the wall.
+<lb n="wm32.case41.l02" />The Second Patriarch stood in the snow, cut off his arm, and said:
+<lb n="wm32.case41.l03" />This disciple's mind is not yet at peace.
+<lb n="wm32.case41.l04" />I beg the master to pacify my mind.
+<lb n="wm32.case41.l05" />The Patriarch said:
+<lb n="wm32.case41.l06" />Bring me your mind, and I will pacify it for you.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case41.wumen.head" />
+          <head>Wumen said</head>
+          <p>
+<lb n="wm32.case41.wumen.l01" />This gap-toothed old barbarian,
+<lb n="wm32.case41.wumen.l02" />traveled ten thousand miles across the sea with great exertion to come here,
+<lb n="wm32.case41.wumen.l03" />truly raising waves where there was no wind.
+<lb n="wm32.case41.wumen.l04" />In the end he received a single disciple,
+<lb n="wm32.case41.wumen.l05" />who was again lacking one of the six faculties.
+<lb n="wm32.case41.wumen.l06" />Ah,
+<lb n="wm32.case41.wumen.l07" />Xie Sanlang,
+<lb n="wm32.case41.wumen.l08" />does not know four characters.</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case41.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case41.verse.l01" />The direct pointing from the West,
+<lb n="wm32.case41.verse.l02" />the whole matter arose because of the entrustment.
+<lb n="wm32.case41.verse.l03" />The monasteries are disturbed and noisome,
+<lb n="wm32.case41.verse.l04" />and from the start it was you.</p>
+        </div>
+      </div>
+      <div type="case" n="42" xml:id="wm32.case42">
+          
+<lb n="wm32.case42.head" />
+        <head>42. The Woman Comes Out of Samadhi</head>
+        <div type="gongan">
+            
+<lb n="wm32.case42.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case42.l01" />Once the World-Honored One, because Manjushri came to the place where all the buddhas had assembled, found that the buddhas had each already returned to their original places,
+<lb n="wm32.case42.l02" />and only a single woman remained, sitting near the Buddha in samadhi.</p>
+          <p>
+<lb n="wm32.case42.l03" />Manjushri then addressed the Buddha:
+<lb n="wm32.case42.l04" />How is it that this woman may sit near the Buddha, while I may not.</p>
+          <p>
+<lb n="wm32.case42.l05" />The Buddha told Manjushri:
+<lb n="wm32.case42.l06" />Just let this woman rise from samadhi, then you may go before her and ask her yourself.
+<lb n="wm32.case42.l07" />If she can come out of samadhi, then you will know why.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case42.wumen.head" />
+          <head>Wumen said</head>
+          <p>
+<lb n="wm32.case42.wumen.l01" />I bow to old Shakyamuni, who merely staged a bit of variety theater.
+<lb n="wm32.case42.wumen.l02" />Tell me, Manjushri is the teacher of the seven buddhas, so why was he unable to bring the woman out of samadhi.
+<lb n="wm32.case42.wumen.l03" />Why then was the bodhisattva Wangming of the first stage able to bring her out.</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case42.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case42.verse.l01" />Able to bring her out, unable to bring her out,
+<lb n="wm32.case42.verse.l02" />she herself has freedom.
+<lb n="wm32.case42.verse.l03" />Divine heads and ghostly faces,
+<lb n="wm32.case42.verse.l04" />defeat and deficiency become sheer elegance.</p>
+        </div>
+      </div>
+      <div type="case" n="43" xml:id="wm32.case43">
+            
+<lb n="wm32.case43.head" />
+        <head>43. Shoushan's Bamboo Comb</head>
+        <div type="gongan">
+            
+<lb n="wm32.case43.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case43.l01" />Master Shoushan held up a bamboo comb and showed it to the assembly, saying:
+<lb n="wm32.case43.l02" />All of you, if you call it a bamboo comb, you are entangled.
+<lb n="wm32.case43.l03" />If you do not call it a bamboo comb, you turn away from it.
+<lb n="wm32.case43.l04" />You must not have words, and you must not be without words. Speak quickly.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case43.wumen.head" />
+          <head>Wumen said</head>
+          <p>
+<lb n="wm32.case43.wumen.l01" />Call it a bamboo comb and you are entangled.
+<lb n="wm32.case43.wumen.l02" />Do not call it a bamboo comb and you turn away.
+<lb n="wm32.case43.wumen.l03" />You must not have words,
+<lb n="wm32.case43.wumen.l04" />and you must not be without words.
+<lb n="wm32.case43.wumen.l05" />Speak quickly, speak quickly.</p>
+        </div>
+        <div type="verse">
+          
+<lb n="wm32.case43.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case43.verse.l01" />Holding up the bamboo comb,
+<lb n="wm32.case43.verse.l02" />he carries out the command of killing and giving life.
+<lb n="wm32.case43.verse.l03" />Turning away and entanglement race together,
+<lb n="wm32.case43.verse.l04" />buddhas and patriarchs beg for their lives.</p>
+        </div>
+      </div>
+      <div type="case" n="44" xml:id="wm32.case44">
+            
+<lb n="wm32.case44.head" />
+        <head>44. Bajiao's Staff</head>
+        <div type="gongan">
+            
+<lb n="wm32.case44.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case44.l01" />Master Bajiao instructed the assembly, saying:
+<lb n="wm32.case44.l02" />If you have a staff, I give you a staff.
+<lb n="wm32.case44.l03" />If you have no staff, I take your staff away.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case44.wumen.head" />
+          <head>Wumen said</head>
+          <p>
+<lb n="wm32.case44.wumen.l01" />It supports one across the waters by the broken bridge,
+<lb n="wm32.case44.wumen.l02" />and accompanies one home to the village with no moon.
+<lb n="wm32.case44.wumen.l03" />If you call it a staff,
+<lb n="wm32.case44.wumen.l04" />you enter hell like an arrow.</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case44.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case44.verse.l01" />The depths and shallows of every quarter
+<lb n="wm32.case44.verse.l02" />are all within the palm of his hand.
+<lb n="wm32.case44.verse.l03" />Propping up heaven and bracing the earth,
+<lb n="wm32.case44.verse.l04" />everywhere it shakes forth the style of the school.</p>
+        </div>
+      </div>
+      <div type="case" n="45" xml:id="wm32.case45">
+        
+<lb n="wm32.case45.head" />
+        <head>45. Who Is He</head>
+        <div type="gongan">
+          
+<lb n="wm32.case45.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case45.l01" />Patriarch Wuyan of Dongshan said:
+<lb n="wm32.case45.l02" />Shakyamuni and Maitreya are still his servants.
+<lb n="wm32.case45.l03" />Tell me then, who is he.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case45.wumen.head" />
+          <head>Wumen said</head>
+          <p>
+<lb n="wm32.case45.wumen.l01" />If you can clearly see who he is,
+<lb n="wm32.case45.wumen.l02" />it is like running into your own father at a crossroads.
+<lb n="wm32.case45.wumen.l03" />There is no further need to ask anyone else
+<lb n="wm32.case45.wumen.l04" />whether it is so or not.</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case45.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case45.verse.l01" />Do not draw another's bow,
+<lb n="wm32.case45.verse.l02" />do not ride another's horse.
+<lb n="wm32.case45.verse.l03" />do not judge another's right and wrong,
+<lb n="wm32.case45.verse.l04" />do not concern yourself with another's affairs.</p>
+        </div>
+      </div>
+      <div type="case" n="46" xml:id="wm32.case46">
+          
+<lb n="wm32.case46.head" />
+        <head>46. Advancing from the Top of the Pole</head>
+        <div type="gongan">
+            
+<lb n="wm32.case46.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case46.l01" />Master Shishuang said:
+<lb n="wm32.case46.l02" />At the top of a hundred-foot pole, how does one step forward.</p>
+          <p>
+<lb n="wm32.case46.l03" />Also, an ancient worthy said:
+<lb n="wm32.case46.l04" />One sitting atop a hundred-foot pole, though he has entered, it is still not the real.
+<lb n="wm32.case46.l05" />Atop the hundred-foot pole one must take a step forward; the whole body appears throughout the worlds of the ten directions.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case46.wumen.head" />
+          <head>Wumen said:</head>
+          <p>
+<lb n="wm32.case46.wumen.l01" />Take that step,
+<lb n="wm32.case46.wumen.l02" />turn the body.
+<lb n="wm32.case46.wumen.l03" />Then what place would not honor you as supreme?
+<lb n="wm32.case46.wumen.l04" />Yet although it is so,
+<lb n="wm32.case46.wumen.l05" />just say, how do you step forward from atop a hundred-foot pole?
+<lb n="wm32.case46.wumen.l06" />Ha!</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case46.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case46.verse.l01" />Blind the eye at the crown,
+<lb n="wm32.case46.verse.l02" />and you mistake the fixed pole star.
+<lb n="wm32.case46.verse.l03" />Risking the body, able to cast away life,
+<lb n="wm32.case46.verse.l04" />one blind man leads the crowd of blind.</p>
+        </div>
+      </div>
+      <div type="case" n="47" xml:id="wm32.case47">
+            
+<lb n="wm32.case47.head" />
+        <head>47. Doushuai's Three Barriers</head>
+        <div type="gongan">
+            
+<lb n="wm32.case47.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case47.l01" />Master Doushuai Yue set up three barriers to question students:
+<lb n="wm32.case47.l02" />Pushing aside the grass and investigating the mystery is only to seek to see the nature.
+<lb n="wm32.case47.l03" />Right now, where is your nature, worthy one?
+<lb n="wm32.case47.l04" />Only by recognizing your own nature do you escape birth and death.
+<lb n="wm32.case47.l05" />When the light of the eyes falls away, how do you escape?
+<lb n="wm32.case47.l06" />Once you have escaped birth and death, then you know where you go.
+<lb n="wm32.case47.l07" />When the four great elements separate, where do you go?</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case47.wumen.head" />
+          <head>Wumen said:</head>
+          <p>
+<lb n="wm32.case47.wumen.l01" />If you can utter turning words for these three,
+<lb n="wm32.case47.wumen.l02" />then wherever you are, you can be the master,
+<lb n="wm32.case47.wumen.l03" />and on meeting conditions, that is the school.
+<lb n="wm32.case47.wumen.l04" />But if not,
+<lb n="wm32.case47.wumen.l05" />coarse fare easily fills you,
+<lb n="wm32.case47.wumen.l06" />but careful chewing keeps hunger away.</p>
+        </div>
+        <div type="verse">
+          
+<lb n="wm32.case47.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case47.verse.l01" />In a single thought one universally surveys immeasurable kalpas,
+<lb n="wm32.case47.verse.l02" />and the affairs of immeasurable kalpas are precisely now.
+<lb n="wm32.case47.verse.l03" />If now you see through this single thought,
+<lb n="wm32.case47.verse.l04" />you see through the person who now is looking.</p>
+        </div>
+      </div>
+      <div type="case" n="48" xml:id="wm32.case48">
+            
+<lb n="wm32.case48.head" />
+        <head>48. Qianfeng's One Road</head>
+        <div type="gongan">
+            
+<lb n="wm32.case48.gongan-head" />
+          <head>Case</head>
+          <p>
+<lb n="wm32.case48.l01" />Because a monk asked Master Qianfeng:
+<lb n="wm32.case48.l02" />The Bhagavans of the ten directions all share one road, the gate of nirvana.
+<lb n="wm32.case48.l03" />I do not yet know where the head of that road is.
+<lb n="wm32.case48.l04" />Qianfeng lifted his staff, drew a line, and said:
+<lb n="wm32.case48.l05" />It is here.
+<lb n="wm32.case48.l06" />Later the monk asked Yunmen for instruction.
+<lb n="wm32.case48.l07" />Yunmen lifted his fan and said:
+<lb n="wm32.case48.l08" />The fan leaps up to the thirty-third heaven and strikes the nose of Indra.
+<lb n="wm32.case48.l09" />Strike the carp of the Eastern Sea with a staff, and rain pours down like an overturned basin.</p>
+        </div>
+        <div type="wumen-commentary">
+            
+<lb n="wm32.case48.wumen.head" />
+          <head>Wumen said:</head>
+          <p>
+<lb n="wm32.case48.wumen.l01" />One man, down in the deep deep sea bottom,
+<lb n="wm32.case48.wumen.l02" />goes about winnowing earth and raising dust.
+<lb n="wm32.case48.wumen.l03" />One man, on the high high mountain peak,
+<lb n="wm32.case48.wumen.l04" />raises white waves towering to the sky.
+<lb n="wm32.case48.wumen.l05" />Holding fast and letting go,
+<lb n="wm32.case48.wumen.l06" />each extends one hand
+<lb n="wm32.case48.wumen.l07" />to uphold the vehicle of the school.
+<lb n="wm32.case48.wumen.l08" />It is very much like two swift runners crashing into each other.
+<lb n="wm32.case48.wumen.l09" />In this world there is likely no truly straightforward person.
+<lb n="wm32.case48.wumen.l10" />Seen with the true eye,
+<lb n="wm32.case48.wumen.l11" />these two great elders still did not know where the head of the road is.</p>
+        </div>
+        <div type="verse">
+            
+<lb n="wm32.case48.verse.head" />
+          <head>Verse</head>
+          <p>
+<lb n="wm32.case48.verse.l01" />Before lifting a foot, one has already arrived.
+<lb n="wm32.case48.verse.l02" />Before moving the tongue, one has already spoken it fully.
+<lb n="wm32.case48.verse.l03" />Even if every move is ahead of the occasion,
+<lb n="wm32.case48.verse.l04" />you still must know there is an upward opening.</p>
+        </div>
+      </div>
+      <div type="appendix" xml:id="wm32.appendix.case49">
+        
+<lb n="wm32.appendix.case49.head" />
+        <head>Case 49 — The Forty-Ninth Saying</head>
+        <p>
+<lb n="wm32.appendix.case49.l01" />Stop, stop, there is no need to speak of my Dharma as wondrous and hard to conceive.
+<lb n="wm32.appendix.case49.l02" />When Dharma comes from nowhere and wonder is spoken from nowhere, then how is it?
+<lb n="wm32.appendix.case49.l03" />It is not only Fenggan who is loose-tongued; originally it is Shakyamuni who was too talkative.
+<lb n="wm32.appendix.case49.l04" />The old fellow made up this fine oddity, causing sons and grandsons for a thousand hundred generations to be burdened by it.
+<lb n="wm32.appendix.case49.l05" />Vines tangle upside down and the head cannot get out, exactly like this sort of strange huatou.
+<lb n="wm32.appendix.case49.l06" />Leaping up without end, the rice is never cooked; how many places there are to mistake.</p>
+      </div>
+      <div type="appendix" xml:id="wm32.appendix.closing-address">
+          
+<lb n="wm32.appendix.closing-address.head" />
+        <head>Concluding Address to the Assembly</head>
+        <p>
+<lb n="wm32.appendix.closing-address.l01" />Men said, lifting the fan:
+<lb n="wm32.appendix.closing-address.l02" />The fan leaps up to the thirty-third heaven.
+<lb n="wm32.appendix.closing-address.l03" />It strikes the nose of Indra.
+<lb n="wm32.appendix.closing-address.l04" />Strike the carp of the Eastern Sea with a staff, and rain pours down like an overturned basin.</p>
+        <p>
+<lb n="wm32.appendix.closing-address.l05" />Before lifting a foot, one has already arrived.
+<lb n="wm32.appendix.closing-address.l06" />Before moving the tongue, one has already spoken it fully.
+<lb n="wm32.appendix.closing-address.l07" />Even if every move is ahead of the occasion,
+<lb n="wm32.appendix.closing-address.l08" />you still must know there is an upward opening.</p>
+      </div>
+      <div type="appendix" xml:id="wm32.appendix.colophon">
+            
+<lb n="wm32.appendix.colophon.head" />
+        <head>Colophon</head>
+        <p>
+<lb n="wm32.appendix.colophon.l01" />From the buddhas and patriarchs above come these occasions and conditions held forth,
+<lb n="wm32.appendix.colophon.l02" />gathered together at the start of each case.
+<lb n="wm32.appendix.colophon.l03" />inviting people to bear them directly,
+<lb n="wm32.appendix.colophon.l04" />with nowhere at all to fall.
+<lb n="wm32.appendix.colophon.l05" />Only then do superior persons cut off hearing and stir students onward,
+<lb n="wm32.appendix.colophon.l06" />and then know there is truly nowhere to fall.
+<lb n="wm32.appendix.colophon.l07" />Though it is plainly said and clearly known to be only this,
+<lb n="wm32.appendix.colophon.l08" />why is it that one still cannot pass through Wumen's Barrier?</p>
+        <p>
+<lb n="wm32.appendix.colophon.l09" />It is no more than talk in the privy,
+<lb n="wm32.appendix.colophon.l10" />and also like smearing milk on red clay.
+<lb n="wm32.appendix.colophon.l11" />If you pass through Wumen's Barrier,
+<lb n="wm32.appendix.colophon.l12" />you have already dulled Wumen's Barrier.
+<lb n="wm32.appendix.colophon.l13" />If you do not pass through Wumen's Barrier,
+<lb n="wm32.appendix.colophon.l14" />then you too betray yourself.
+<lb n="wm32.appendix.colophon.l15" />As it is said, the nirvana-mind is easy to understand,
+<lb n="wm32.appendix.colophon.l16" />but discriminating wisdom is hard to clarify.
+<lb n="wm32.appendix.colophon.l17" />When discriminating wisdom is clarified,
+<lb n="wm32.appendix.colophon.l18" />home and country naturally rest in peace.</p>
+        <p>
+<lb n="wm32.appendix.colophon.l19" />Five days before the lifting of the retreat in the first year of Shaoding,
+<lb n="wm32.appendix.colophon.l20" />respectfully recorded by the bhikshu Huikai of Wumen, eighth-generation descendant of Yangqi.</p>
+      </div>
+      <div type="appendix" xml:id="wm32.appendix.volume-end">
+            
+<lb n="wm32.appendix.volume-end.head" />
+        <head>End of the Wumen Guan, fascicle end</head>
+        <p>
+<lb n="wm32.appendix.volume-end.l01" />End of the Wumen Guan, fascicle end</p>
+        <p>
+<lb n="wm32.appendix.volume-end.l02" />Stupidly guarding Zen deportment,
+<lb n="wm32.appendix.volume-end.l03" />binding yourself without rope,
+<lb n="wm32.appendix.volume-end.l04" />moving freely without obstruction.
+<lb n="wm32.appendix.volume-end.l05" />The outsider's demonic host keeps the mind fixed,
+<lb n="wm32.appendix.volume-end.l06" />in clear stillness and dark illumination, a deviant Zen.
+<lb n="wm32.appendix.volume-end.l07" />Melting away into a deep pit,
+<lb n="wm32.appendix.volume-end.l08" />dimly blank yet not darkened.
+<lb n="wm32.appendix.volume-end.l09" />Wearing chains and carrying the cangue,
+<lb n="wm32.appendix.volume-end.l10" />thinking good, thinking evil.
+<lb n="wm32.appendix.volume-end.l11" />Hell and heaven,
+<lb n="wm32.appendix.volume-end.l12" />views of Buddha and views of Dharma,
+<lb n="wm32.appendix.volume-end.l13" />are two iron encircling mountains.
+<lb n="wm32.appendix.volume-end.l14" />The moment a thought arises, be aware;
+<lb n="wm32.appendix.volume-end.l15" />to advance is to lose the principle,
+<lb n="wm32.appendix.volume-end.l16" />to retreat is to go against the school,
+<lb n="wm32.appendix.volume-end.l17" />not advancing and not retreating,
+<lb n="wm32.appendix.volume-end.l18" />is enough to suffocate a man to death.
+<lb n="wm32.appendix.volume-end.l19" />Tell me then, how are you to put it into practice.
+<lb n="wm32.appendix.volume-end.l20" />Strive hard in this life.</p>
+      </div>
+      <div type="appendix" xml:id="wm32.appendix.huanglong-sanguan">
+            
+<lb n="wm32.appendix.huanglong-sanguan.head" />
+        <head>Excerpts from Huanglong's Three Barriers</head>
+        <p>
+<lb n="wm32.appendix.huanglong-sanguan.l01" />Once you have finished the verse, do not let yourself suffer the remaining calamity for endless kalpas.</p>
+        <p>
+<lb n="wm32.appendix.huanglong-sanguan.l02" />How is my hand like the Buddha's hand.
+<lb n="wm32.appendix.huanglong-sanguan.l03" />How is my foot like a donkey's foot.
+<lb n="wm32.appendix.huanglong-sanguan.l04" />Everyone has a place of karmic origin.
+<lb n="wm32.appendix.huanglong-sanguan.l05" />Originally, the whole body is hand.
+<lb n="wm32.appendix.huanglong-sanguan.l06" />Roaming across the four seas, backward astride Yangqi's three-legged seat.</p>
+        <p>
+<lb n="wm32.appendix.huanglong-sanguan.l07" />Because each person has a place of karmic origin,
+<lb n="wm32.appendix.huanglong-sanguan.l08" />each one penetrates the subtle pivot.
+<lb n="wm32.appendix.huanglong-sanguan.l09" />First Nezha breaks his bones and returns them to his father.
+<lb n="wm32.appendix.huanglong-sanguan.l10" />How could Wuzu take father and mother as his mirror.
+<lb n="wm32.appendix.huanglong-sanguan.l11" />The roads of ordinary and holy are both cut off,
+<lb n="wm32.appendix.huanglong-sanguan.l12" />and countless bees and ants raise thunderous sound.</p>
+      </div>
+      <div type="appendix" xml:id="wm32.appendix.dedication-titles">
+            
+<lb n="wm32.appendix.dedication-titles.head" />
+        <head>Inscriptions, Eulogies, and Names</head>
+        <p>
+<lb n="wm32.appendix.dedication-titles.l01" />To speak of directly pointing to becoming Buddha is already circuitous, and still more so to speak of becoming Buddha.</p>
+        <p>
+<lb n="wm32.appendix.dedication-titles.l02" />Written in praise by Head Seat Wumen, at Lisengshan, respectfully in thanks, in late spring of the gengyin year of Shaoding, by Wuliang Zongshou.</p>
+        <p>
+<lb n="wm32.appendix.dedication-titles.l03" />Why is there an old woman?</p>
+        <p>
+<lb n="wm32.appendix.dedication-titles.l04" />Among these forty-nine cases, this little bit within them,
+<lb n="wm32.appendix.dedication-titles.l05" />please recognize as raising different eyebrows.
+<lb n="wm32.appendix.dedication-titles.l06" />Inspector and Military Commissioner of Baoning Army, Grand Pacification Commissioner for Jinghu, concurrently Prefect of Jiangling Prefecture, Duke of Handong Commandery, granted a fief of
+<lb n="wm32.appendix.dedication-titles.l07" />two thousand one hundred households, with six hundred households of actual revenue.
+<lb n="wm32.appendix.dedication-titles.l08" />Meng Gong</p>
+      </div>
+      <div type="appendix" xml:id="wm32.appendix.appended-prose">
+            
+<lb n="wm32.appendix.appended-prose.head" />
+        <head>Appended Connected Prose</head>
+        <p>
+<lb n="wm32.appendix.appended-prose.l01" />Old Chan man Wumen composed sayings on forty-eight cases,
+<lb n="wm32.appendix.appended-prose.l02" />judging the koans of the ancient worthies.
+<lb n="wm32.appendix.appended-prose.l03" />It is very much like feeding people butter cakes
+<lb n="wm32.appendix.appended-prose.l04" />and making the buyers open their mouths to receive them.
+<lb n="wm32.appendix.appended-prose.l05" />Anwan wished to strike another round upon his hot furnace,
+<lb n="wm32.appendix.appended-prose.l06" />enough to complete the number of the Great Expansion.</p>
+        <p>
+<lb n="wm32.appendix.appended-prose.l07" />Someone nearby asked, saying:
+<lb n="wm32.appendix.appended-prose.l08" />After all, how should it finally be concluded?
+<lb n="wm32.appendix.appended-prose.l09" />Anwan joined his ten fingers and said:
+<lb n="wm32.appendix.appended-prose.l10" />Stop, stop. No need to speak. My Dharma is wondrous and hard to conceive.
+<lb n="wm32.appendix.appended-prose.l11" />Then quickly above the two characters nanguan he drew a small circle mark,
+<lb n="wm32.appendix.appended-prose.l12" />pointing it out to the assembly and saying:
+<lb n="wm32.appendix.appended-prose.l13" />It is all in here.</p>
+      </div>
+      <div type="appendix" xml:id="wm32.appendix.imprint">
+            
+<lb n="wm32.appendix.imprint.head" />
+        <head>Publication Record</head>
+        <p>
+<lb n="wm32.appendix.imprint.l01" />Written at the Fisherman's Lodge by West Lake.
+<lb n="wm32.appendix.imprint.l02" />On an auspicious day in the first part of late summer, bingwu year of Chunyou,
+<lb n="wm32.appendix.imprint.l03" />Layman Anwan.</p>
+        <p>
+<lb n="wm32.appendix.imprint.l04" />The old printing blocks had worn away, so craftsmen were commissioned anew.
+<lb n="wm32.appendix.imprint.l05" />These blocks were carved and placed in Musashi Province,
+<lb n="wm32.appendix.imprint.l06" />at Guangyuan Chan Temple on Mount Jumu.
+<lb n="wm32.appendix.imprint.l07" />On the thirteenth day of the tenth month, yiyou year of Oei,
+<lb n="wm32.appendix.imprint.l08" />the bhiksu Changmu, who managed the conditions.</p>
+        <p>
+<lb n="wm32.appendix.imprint.l09" />In the ninth month of the renshen year, ninth year of Kanei,
+<lb n="wm32.appendix.imprint.l10" />published by Nakano Sozaemon.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
+          
