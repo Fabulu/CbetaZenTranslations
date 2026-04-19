@@ -4,3 +4,4 @@ community/reviews/*.jsonl merge=union
 community/master-dates/*.jsonl merge=union
 community/tags/*.jsonl merge=union
 community/translation-licenses/*.jsonl merge=union
+community/stars/*.jsonl merge=union
