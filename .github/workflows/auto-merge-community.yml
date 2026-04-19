@@ -78,8 +78,8 @@ jobs:
               continue
             fi
 
-            # Allow shared community files that use merge=union
-            if echo "$file" | grep -qE "^(translation-memory\.approved\.jsonl|termbase\.json|scholar-collections\.json|translation-review\.jsonl)$"; then
+            # Allow shared community files
+            if echo "$file" | grep -qE "^(translation-memory\.approved\.jsonl|termbase\.json|scholar-collections\.json|translation-review\.jsonl|star-counts\.json)$"; then
               continue
             fi
 
