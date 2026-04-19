@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 250,
+  "count": 278,
   "masters": [
     {
       "names": [
@@ -1139,6 +1139,18 @@
     },
     {
       "names": [
+        "Junbeom",
+        "遵範"
+      ],
+      "floruit": 780,
+      "death": 820,
+      "school": "Korean Seon",
+      "teacher": "Sinhaeng",
+      "attestation": "B",
+      "notes": "Obscure link figure in the Beomnang-Daoxin lineage. Known only from the Jijeungdaesa stele at Bongamsa (893 CE, by Choe Chiwon). Transmitted the dharma from Sinhaeng to Hyeeun."
+    },
+    {
+      "names": [
         "Fenzhou Wuye",
         "汾州無業"
       ],
@@ -1190,6 +1202,25 @@
           "url": "https://terebess.hu/zen/mesterek/danxia.html"
         }
       ]
+    },
+    {
+      "names": [
+        "Doui",
+        "道義"
+      ],
+      "floruit": 770,
+      "death": 825,
+      "school": "Korean Seon",
+      "teacher": "Xitang Zhizang",
+      "notes": "First Korean monk to transmit the Seon (Chan) lineage to the Korean peninsula, inaugurating the 'Nine Mountains' Seon movement. He traveled to Tang China and studied under Xitang Zhizang, a direct heir of Mazu Daoyi, receiving formal dharma transmission. Upon returning to Silla, he found the doctrinal Buddhist establishment hostile to Seon and was unable to teach openly during his lifetime. His disciple Yomgo later founded the Gaji Mountain school (Silsangsa), the first of the Nine Mountains Seon lineages. Doui is thus honored as the patriarch who planted Seon in Korean soil, even though its flowering came after his death. Attested in Zutangji (952): records his study under Xitang Zhizang with a transmission dialogue confirming his awakening.",
+      "region": "Korea (Silla)",
+      "links": [
+        {
+          "label": "Wikipedia (Korean Buddhism)",
+          "url": "https://en.wikipedia.org/wiki/Korean_Buddhism"
+        }
+      ],
+      "attestation": "A"
     },
     {
       "names": [
@@ -1564,6 +1595,18 @@
           "url": "https://encyclopediaofbuddhism.org/wiki/Huangbo_Xiyun"
         }
       ]
+    },
+    {
+      "names": [
+        "Hyeeun",
+        "慧隱"
+      ],
+      "floruit": 800,
+      "death": 850,
+      "school": "Korean Seon",
+      "teacher": "Junbeom",
+      "attestation": "B",
+      "notes": "Doheon's direct Seon teacher. Known only from the Jijeungdaesa stele at Bongamsa (893 CE, by Choe Chiwon). Transmitted the Beomnang-Daoxin lineage to Doheon, founder of the Huiyangsan school."
     },
     {
       "names": [
@@ -2198,6 +2241,25 @@
     },
     {
       "names": [
+        "Beomil",
+        "梵日"
+      ],
+      "floruit": 810,
+      "death": 889,
+      "school": "Korean Seon",
+      "teacher": "Yanguan Qi'an",
+      "notes": "Founder of the Sagulsan (Mount Sagul) school, one of the Nine Mountains Seon lineages of Korea. He traveled to Tang China and trained under Yanguan Qi'an, a direct disciple of Mazu Daoyi, practicing for six years before receiving dharma transmission. Returning to Silla, he established Gulsan Monastery as his base and built one of the most active Seon communities of ninth-century Korea. His lineage maintained strong ties with the Mazu school's emphasis on everyday-mind-is-the-Way. He received lavish royal patronage, and his stele inscription is an important source for early Korean Seon. Attested in Zutangji (952): records his awakening under Yanguan Qi'an after six years of practice.",
+      "region": "Korea (Silla)",
+      "links": [
+        {
+          "label": "Wikipedia (Nine Mountains)",
+          "url": "https://en.wikipedia.org/wiki/Nine_mountain_schools_of_Seon"
+        }
+      ],
+      "attestation": "A"
+    },
+    {
+      "names": [
         "Miaoxin",
         "妙信"
       ],
@@ -2358,6 +2420,25 @@
           "url": "https://www.bowzwestchester.org/2017/08/book-of-serenity-35.html"
         }
       ]
+    },
+    {
+      "names": [
+        "Doseon",
+        "道詵"
+      ],
+      "floruit": 827,
+      "death": 898,
+      "school": "Korean Seon",
+      "notes": "Korean Seon monk and master geomancer (pungsu) who profoundly shaped the political geography of Korea. Trained in both Seon meditation and Chinese geomantic arts (fengshui), he applied topographical analysis to temple and capital siting. His prophecies regarding the decline of Silla and the rise of a new dynasty at Songak (modern Kaesong) were later credited with guiding Wang Geon's founding of the Goryeo dynasty (918). He founded or restored numerous temples based on geomantic principles. Though his geomantic legacy sometimes overshadows his Buddhist teaching, he was recognized as a legitimate Seon master. Attested in Goryeo-era hagiographies: credited with prophecies that legitimized the Goryeo founding, with his geomantic writings preserved in the Doseon bigi.",
+      "region": "Korea (Silla / early Goryeo)",
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Doseon"
+        }
+      ],
+      "attestation": "B",
+      "teacher": "Hyejeol"
     },
     {
       "names": [
@@ -4436,6 +4517,34 @@
     },
     {
       "names": [
+        "Jinul",
+        "知訥",
+        "Bojo Jinul",
+        "普照知訥"
+      ],
+      "floruit": 1158,
+      "death": 1210,
+      "school": "Korean Seon",
+      "notes": "Founder of the Jogye Order, the dominant school of Korean Buddhism to the present day. Uniquely among Chan/Seon masters, Jinul achieved three distinct awakenings entirely through reading texts rather than through face-to-face transmission: first from the Platform Sutra, then from Li Tongxuan's commentary on the Avatamsaka Sutra, and finally from Dahui Zonggao's letters on hwadu (huatou) practice. He synthesized 'sudden awakening followed by gradual cultivation' (dono jeomsu) as the normative Seon path, harmonizing Seon meditation with Hwaom (Huayan) doctrinal study. He revitalized Korean Buddhism from his base at Songgwangsa, which he rebuilt as a 'community of the Samgha jewel.' Attested in Buswell (1991), The Korean Approach to Zen: the definitive English-language study of his thought and legacy.",
+      "region": "Korea (Goryeo)",
+      "students": [
+        "Hyesim"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jinul"
+        },
+        {
+          "label": "Buswell (1991)",
+          "url": "https://www.amazon.com/Tracing-Back-Radiance-Chinuls-Approach/dp/0824814274"
+        }
+      ],
+      "attestation": "C",
+      "teacher": "Dahui Zonggao"
+    },
+    {
+      "names": [
         "Po'an Zuxian",
         "破庵祖先"
       ],
@@ -4522,6 +4631,30 @@
           "label": "Terebess (Rujing Record)",
           "url": "https://terebess.hu/zen/mesterek/rujing_record_compiled_by_dogen.pdf"
         }
+      ]
+    },
+    {
+      "names": [
+        "Hyesim",
+        "慧諶",
+        "Chin'gak Hyesim",
+        "真覺慧諶"
+      ],
+      "floruit": 1178,
+      "death": 1234,
+      "school": "Korean Seon",
+      "teacher": "Jinul",
+      "notes": "Jinul's foremost disciple and second master of Songgwangsa. He compiled a collection of 1,125 kongan (koans) titled the Seonmun yeomsong seolhwa (Seon Verses and Commentaries), the first indigenous Korean koan anthology. This monumental work, completed in thirty fascicles, selected cases from Chinese Chan collections and added Korean commentary, establishing an independent Korean Seon literary tradition distinct from mere importation of Chinese texts. He also expanded Songgwangsa's monastic community and received the posthumous title 'National Teacher' (guksa). His koan collection remained central to Korean Seon training for centuries. Attested in Korean Buddhist historical records: the Seonmun yeomsong seolhwa is the first indigenous Korean koan collection, predating comparable Japanese efforts.",
+      "region": "Korea (Goryeo)",
+      "links": [
+        {
+          "label": "Wikipedia (Songgwangsa)",
+          "url": "https://en.wikipedia.org/wiki/Songgwangsa"
+        }
+      ],
+      "attestation": "C",
+      "students": [
+        "Mongyeo"
       ]
     },
     {
@@ -4710,6 +4843,9 @@
           "label": "Terebess",
           "url": "https://terebess.hu/zen/mesterek/XuetingFuyu.html"
         }
+      ],
+      "students": [
+        "Lingyin Wentai"
       ]
     },
     {
@@ -4840,6 +4976,26 @@
     },
     {
       "names": [
+        "Ji'an Zongxin",
+        "及庵宗信"
+      ],
+      "death": 1320,
+      "school": "Linji",
+      "teacher": "Xueyan Zuqin",
+      "students": [
+        "Pingshan Chulin",
+        "Shiwu Qinggong"
+      ],
+      "notes": "Yuan dynasty Linji master, dharma heir of Xueyan Zuqin and dharma brother of Gaofeng Yuanmiao. Teacher of both Shiwu Qinggong and Pingshan Chulin, making him the indirect ancestor of all late-Goryeo Korean Seon. Active at Xifeng Temple (Jianyang) and Daochang Mountain Wanshou Temple (Huzhou). Attested in DILA Authority Database (A021593).",
+      "links": [
+        {
+          "label": "DILA Authority",
+          "url": "https://authority.dila.edu.tw/person/search.php?aid=A021593"
+        }
+      ]
+    },
+    {
+      "names": [
         "Zhongfeng Mingben",
         "中峰明本"
       ],
@@ -4955,6 +5111,27 @@
     },
     {
       "names": [
+        "Pingshan Chulin",
+        "平山處林"
+      ],
+      "floruit": 1279,
+      "death": 1361,
+      "school": "Linji",
+      "teacher": "Ji'an Zongxin",
+      "attestation": "A",
+      "notes": "Yuan dynasty Linji master, 19th generation (not 18th as sometimes claimed in Korean sources). Dharma brother of Shiwu Qinggong — both studied under Ji'an Zongxin. Gave formal dharma transmission to the Korean monk Naong Hyegeun at Jingci Temple in Hangzhou. Also served as abbot of Lingyin Temple. Authored Jingjuyin (淨居吟), over 200 poems. Attested in DILA Authority Database (A016698).",
+      "students": [
+        "Naong Hyegeun"
+      ],
+      "links": [
+        {
+          "label": "DILA Authority",
+          "url": "https://authority.dila.edu.tw/person/search.php?aid=A016698"
+        }
+      ]
+    },
+    {
+      "names": [
         "Chushi Fanqi",
         "楚石梵琦"
       ],
@@ -4973,6 +5150,52 @@
           "url": "https://www.mindisbuddha.org/turn-the-illuminating-light-of-the-mind-inward-chushi-fanqi/"
         }
       ]
+    },
+    {
+      "names": [
+        "Baegun Gyeonghan",
+        "白雲景閑"
+      ],
+      "floruit": 1298,
+      "death": 1374,
+      "school": "Korean Seon",
+      "teacher": "Shiwu Qinggong",
+      "notes": "Korean Seon master best known as the compiler and printer of the Jikji simche yojeol (Anthology of Great Buddhist Priests' Zen Teachings), printed at Heungdeoksa temple in Cheongju in 1377 using movable metal type. This is the oldest known book in the world printed with movable metal type, predating Gutenberg's Bible by 78 years. Baegun traveled to Yuan China and received transmission from Shiwu Qinggong (Stone House), the hermit-poet of Tianmu mountain. His Jikji compiled essential Seon teachings from the patriarchs and was intended as a practical guide for practitioners. Attested in UNESCO Memory of the World Register (2001): the Jikji is recognized as the world's oldest extant movable metal type printed book, with the surviving second volume held by the Bibliotheque nationale de France.",
+      "region": "Korea (Goryeo)",
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Baegun"
+        },
+        {
+          "label": "UNESCO Jikji",
+          "url": "https://en.unesco.org/memoryoftheworld/registry/258"
+        }
+      ],
+      "attestation": "A"
+    },
+    {
+      "names": [
+        "Naong Hyegeun",
+        "懶翁慧勤"
+      ],
+      "floruit": 1320,
+      "death": 1376,
+      "school": "Korean Seon",
+      "teacher": "Pingshan Chulin",
+      "notes": "One of the most celebrated Korean Seon masters of the late Goryeo dynasty, remarkable for having received dharma transmission from two masters of entirely different lineages. He first studied under the Indian monk Zhigong (Dhyanabhadra, d. 1363), who had come to Yuan China and gave Naong transmission in an Indian-derived lineage. He then received a second transmission from the Chinese Linji master Pingshan Chulin, a heir in the mainstream Yangqi-Linji line. This double transmission from both Indian and Chinese sources gave Naong unique authority. He became Royal Teacher (wangsa) and initiated major reforms of Korean Seon before his sudden death. Attested in Korean Buddhist records and Chinese Chan genealogies: both transmissions are documented, with his Indian lineage through Zhigong preserved in Goryeo-era inscriptions.",
+      "region": "Korea (Goryeo)",
+      "students": [
+        "Muhak Jacho",
+        "Gobong Beopjang"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Naong"
+        }
+      ],
+      "attestation": "A"
     },
     {
       "names": [
@@ -4996,6 +5219,28 @@
     },
     {
       "names": [
+        "Taego Bou",
+        "太古普愚"
+      ],
+      "floruit": 1301,
+      "death": 1382,
+      "school": "Korean Seon",
+      "teacher": "Shiwu Qinggong",
+      "notes": "The most important institutional figure in Korean Seon history, credited with unifying the Nine Mountains Seon schools into a single Jogye Order. He traveled to Yuan China and received dharma transmission from the hermit-poet Shiwu Qinggong (Stone House) on Tianmu mountain, returning with Shiwu's robe (cassock) and staff as physical proof of transmission. As Royal Teacher (wangsa) under King Gongmin, he reorganized Korean Seon, ending centuries of fragmentation among rival mountain schools. His unification established the institutional framework that persists in Korean Buddhism today. Though Ahn (2019) has questioned the later Joseon-era lineage claims connecting Hyujeong back through Taego, Taego's own Chinese transmission is well documented. Attested in UNDV 2011 conference paper: confirms the Shiwu transmission with physical evidence including the cassock and cane still preserved.",
+      "region": "Korea (Goryeo)",
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Taego_Bou"
+        }
+      ],
+      "attestation": "A",
+      "students": [
+        "Hwan-am Honsu"
+      ]
+    },
+    {
+      "names": [
         "Hwan-am Honsu",
         "幻庵混修"
       ],
@@ -5006,6 +5251,47 @@
       "attestation": "D",
       "notes": "Convergence point where Taego and Naong lineages merge. Also studied under Naong. Critical link to Hyujeong's lineage, though Ahn (2019) notes this chain is a 17th-century construction.",
       "region": "Korea (Goryeo/Joseon)"
+    },
+    {
+      "names": [
+        "Muhak Jacho",
+        "無學自超"
+      ],
+      "floruit": 1327,
+      "death": 1405,
+      "school": "Korean Seon",
+      "teacher": "Naong Hyegeun",
+      "notes": "Royal preceptor and chief advisor to Yi Seonggye (King Taejo), the founder of the Joseon dynasty (1392). Muhak's most famous contribution was selecting the site of the new capital at Hanyang (modern Seoul) using geomantic principles, a decision that shaped the political geography of Korea to the present day. As Naong's dharma heir, he carried the unified Seon lineage into the new dynasty and served as a bridge between the Goryeo Buddhist establishment and the Joseon court, even as Neo-Confucian officials increasingly marginalized Buddhism. He designed the layout of key Seoul temples including Hoeryongsa. Attested in Joseon-era court records: his role in the capital selection and his advisory relationship with King Taejo are documented in the Joseon wangjo sillok (Annals of the Joseon Dynasty).",
+      "region": "Korea (Goryeo / early Joseon)",
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Muhak"
+        }
+      ],
+      "attestation": "C",
+      "students": [
+        "Gihwa"
+      ]
+    },
+    {
+      "names": [
+        "Gobong Beopjang",
+        "孤峰法藏"
+      ],
+      "floruit": 1350,
+      "death": 1428,
+      "school": "Korean Seon",
+      "teacher": "Naong Hyegeun",
+      "notes": "Naong Hyegeun's primary dharma heir and the master who rebuilt Songgwangsa, the 'Sangha Jewel Temple' originally established by Jinul. During the late Goryeo and early Joseon transition, he preserved the Seon monastic community through a period of political upheaval and growing anti-Buddhist sentiment from Neo-Confucian reformers. His reconstruction of Songgwangsa ensured the physical and institutional survival of the Jinul-Hyesim legacy. He maintained the unified Jogye lineage established by Taego Bou, transmitting it into the fifteenth century. Attested in Songgwangsa temple records: his rebuilding efforts and dharma lineage from Naong are preserved in monastery inscriptions and chronicles.",
+      "region": "Korea (Goryeo / early Joseon)",
+      "links": [
+        {
+          "label": "Wikipedia (Songgwangsa)",
+          "url": "https://en.wikipedia.org/wiki/Songgwangsa"
+        }
+      ],
+      "attestation": "C"
     },
     {
       "names": [
@@ -5089,6 +5375,20 @@
     },
     {
       "names": [
+        "Yuezhou Wenzai",
+        "月舟文載"
+      ],
+      "floruit": 1452,
+      "death": 1524,
+      "teacher": "Wufang Kecong",
+      "school": "Caodong",
+      "students": [
+        "Xiaoshan Zongshu"
+      ],
+      "notes": "Shaolin Monastery abbot. Teacher of Xiaoshan. Mid-Ming Caodong transmission through Shaolin."
+    },
+    {
+      "names": [
         "Byeoksong Jieom",
         "碧松智嚴"
       ],
@@ -5121,6 +5421,40 @@
         "Bianrong",
         "Xiaoyan Debao"
       ]
+    },
+    {
+      "names": [
+        "Bou",
+        "普雨",
+        "Heoung Bou"
+      ],
+      "floruit": 1509,
+      "death": 1565,
+      "school": "Korean Seon",
+      "notes": "Korean Seon monk who achieved the most significant restoration of Buddhist institutional power during the Joseon dynasty's sustained suppression of Buddhism. Under the patronage of Queen Munjeong (regent 1545-1565), he was appointed to the newly restored office of chief monk (panju), reopened the monk examination system, and rebuilt numerous temples. He briefly restored Buddhism to something approaching its former Goryeo-era status. However, his fortunes were entirely tied to the queen: when Munjeong died in 1565, the hostile Neo-Confucian officials immediately stripped him of office, and he was arrested and died under torture or in exile the same year. His rise and fall illustrates the precarious position of Buddhism under Joseon Confucian hegemony. Attested in Joseon wangjo sillok (Annals of the Joseon Dynasty): records both his appointment under Queen Munjeong and his death following her passing.",
+      "region": "Korea (Joseon)",
+      "links": [
+        {
+          "label": "Wikipedia (Korean Buddhism under Joseon)",
+          "url": "https://en.wikipedia.org/wiki/Korean_Buddhism#Joseon_Dynasty"
+        }
+      ],
+      "attestation": "D"
+    },
+    {
+      "names": [
+        "Xiaoshan Zongshu",
+        "小山宗書"
+      ],
+      "floruit": 1500,
+      "death": 1567,
+      "teacher": "Yuezhou Wenzai",
+      "school": "Caodong",
+      "students": [
+        "Yunkong Changzhong",
+        "Huanxiu Changrun"
+      ],
+      "notes": "Shaolin Monastery abbot (1557-1566). Sent warrior monks against Japanese pirates. Key bridge figure connecting Yuan-era Shaolin Caodong to the late Ming revival."
     },
     {
       "names": [
@@ -5202,6 +5536,20 @@
     },
     {
       "names": [
+        "Yunkong Changzhong",
+        "雲空常忠"
+      ],
+      "floruit": 1514,
+      "death": 1588,
+      "teacher": "Xiaoshan Zongshu",
+      "school": "Caodong",
+      "students": [
+        "Wuming Huijing"
+      ],
+      "notes": "67th Caodong patriarch. Studied at Shaolin under Xiaoshan, then retreated to Bingshan for 20 years."
+    },
+    {
+      "names": [
         "Zibo Zhenke",
         "紫柏真可"
       ],
@@ -5223,6 +5571,58 @@
     },
     {
       "names": [
+        "Hyujeong",
+        "休靜",
+        "Seosan Hyujeong",
+        "西山休靜",
+        "Seosan Daesa"
+      ],
+      "floruit": 1520,
+      "death": 1604,
+      "school": "Korean Seon",
+      "notes": "The most revered figure in Joseon-era Korean Buddhism, known both as a profound Seon master and as the warrior-monk who organized Buddhist militia (seungbyeong) to resist the Japanese invasion of 1592 (Imjin War). His treatise Seon'ga gwigam (Mirror for Seon Students) became the standard primer for Korean Seon practice, synthesizing Seon, Gyo (doctrinal study), and Yeombul (Pure Land recitation) into a unified curriculum still used today. At age 73, when Toyotomi Hideyoshi's forces invaded, King Seonjo called upon him to rally monks as soldiers; he mobilized thousands across the peninsula. He traced his lineage through Taego Bou to the Chinese Linji school, though Ahn (2019) has challenged the historicity of the intermediate links in this lineage chain. Attested in Jorgensen (2015): provides a full English translation and study of the Seon'ga gwigam.",
+      "region": "Korea (Joseon)",
+      "students": [
+        "Yujeong (Samyeong)",
+        "Pyeonyang Eongi"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hyujeong"
+        },
+        {
+          "label": "Jorgensen (2015)",
+          "url": "https://www.amazon.com/Seon-Dialogues-Korean-Buddhism-Original/dp/9004284656"
+        }
+      ],
+      "attestation": "D",
+      "teacher": "Buyong Yeonggwan"
+    },
+    {
+      "names": [
+        "Yujeong",
+        "惟政",
+        "Samyeong Yujeong",
+        "四溟惟政",
+        "Samyeong Daesa"
+      ],
+      "floruit": 1544,
+      "death": 1610,
+      "school": "Korean Seon",
+      "teacher": "Hyujeong",
+      "notes": "Hyujeong's foremost disciple, celebrated equally as a Seon master, military commander, and diplomat. During the Imjin War (1592-1598), he led monk-soldiers in combat against the Japanese forces, distinguishing himself at several engagements. After the war, he was sent to Japan as an envoy in 1604 and successfully negotiated the return of approximately 3,500 Korean prisoners of war, a diplomatic feat that made him a national hero. His combination of martial valor and diplomatic skill during Korea's greatest military crisis cemented the image of Buddhist monks as defenders of the nation, counterbalancing the Neo-Confucian narrative that Buddhism was socially useless. Attested in Joseon wangjo sillok and Japanese records: his diplomatic mission to Japan and the repatriation of prisoners are documented in both Korean and Japanese sources.",
+      "region": "Korea (Joseon)",
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Samyeong_daesa"
+        }
+      ],
+      "attestation": "D"
+    },
+    {
+      "names": [
         "Huanyou Zhengchuan",
         "幻有正傳"
       ],
@@ -5238,7 +5638,9 @@
         }
       ],
       "students": [
-        "Miyun Yuanwu"
+        "Miyun Yuanwu",
+        "Tianyin Yuanxiu",
+        "Xueqiao Yuanxin"
       ]
     },
     {
@@ -5279,6 +5681,21 @@
         "Byeogam Gakseong"
       ],
       "region": "Korea (Joseon)"
+    },
+    {
+      "names": [
+        "Wuming Huijing",
+        "無明慧經"
+      ],
+      "floruit": 1548,
+      "death": 1618,
+      "teacher": "Yunkong Changzhong",
+      "school": "Caodong",
+      "students": [
+        "Wuyi Yuanlai",
+        "Yongjue Yuanxian"
+      ],
+      "notes": "68th Caodong patriarch. Founded the Shouchang sublineage. Revived work-ethic monastic practice. Promoted Dahui's kanhua Chan within Caodong."
     },
     {
       "names": [
@@ -5330,6 +5747,20 @@
     },
     {
       "names": [
+        "Wuyi Yuanlai",
+        "無異元來"
+      ],
+      "floruit": 1575,
+      "death": 1630,
+      "teacher": "Wuming Huijing",
+      "school": "Caodong",
+      "students": [
+        "Juelang Daosheng"
+      ],
+      "notes": "69th Caodong patriarch. Also called Boshan. Author of Canxue zhijin (Exhortation on Great Doubt), a classic on huatou practice."
+    },
+    {
+      "names": [
         "Hanyue Fazang",
         "漢月法藏"
       ],
@@ -5352,6 +5783,20 @@
           "url": "https://www.academia.edu/37875520/_Chan_Master_Hanyue_s_Attitude_toward_Sutra_Teachings_in_the_Ming_"
         }
       ]
+    },
+    {
+      "names": [
+        "Tianyin Yuanxiu",
+        "天隱圓修"
+      ],
+      "floruit": 1575,
+      "death": 1635,
+      "teacher": "Huanyou Zhengchuan",
+      "school": "Linji",
+      "students": [
+        "Yulin Tongxiu"
+      ],
+      "notes": "Dharma brother of Miyun Yuanwu under Huanyou. Founded a separate Linji branch. Teacher of the imperial Chan line."
     },
     {
       "names": [
@@ -5384,7 +5829,10 @@
       "teacher": "Huanyou Zhengchuan",
       "students": [
         "Hanyue Fazang",
-        "Shiche Tongcheng"
+        "Shiche Tongcheng",
+        "Feiyin Tongrong",
+        "Muchen Daomin",
+        "Poshan Haiming"
       ],
       "notes": "Central figure of the late Ming Linji revival. Made his line the dominant Chan transmission into the Qing.",
       "links": [
@@ -5401,6 +5849,33 @@
           "url": "https://terebess.hu/zen/mesterek/MiyunYuanwu.html"
         }
       ]
+    },
+    {
+      "names": [
+        "Pyeonyang Eongi",
+        "鞭羊彦機"
+      ],
+      "floruit": 1581,
+      "death": 1644,
+      "school": "Korean Seon",
+      "teacher": "Hyujeong",
+      "students": [
+        "Pungdam Uisim"
+      ],
+      "attestation": "D",
+      "notes": "Founded the Pyeonyang-pa, the dominant branch through which ALL modern Jogye Order lineage traces. War lieutenant during the Imjin War (1592-98). More significant for lineage than his dharma brother Yujeong/Samyeong, who was more famous as diplomat.",
+      "region": "Korea (Joseon)"
+    },
+    {
+      "names": [
+        "Xueqiao Yuanxin",
+        "雪嶠圓信"
+      ],
+      "floruit": 1571,
+      "death": 1647,
+      "teacher": "Huanyou Zhengchuan",
+      "school": "Linji",
+      "notes": "Third dharma brother of Miyun and Tianyin. Controversially claimed transmission from the long-dead Yunmen Wenyan."
     },
     {
       "names": [
@@ -5439,7 +5914,7 @@
       ],
       "floruit": 1599,
       "death": 1655,
-      "school": "Early Chan",
+      "school": "Chan",
       "teacher": "Xueling",
       "notes": "Last of the 'four great monks'. Primarily Tiantai and Pure Land, fierce advocate of Vinaya reform.",
       "links": [
@@ -5459,291 +5934,25 @@
     },
     {
       "names": [
-        "Doui",
-        "道義"
+        "Yongjue Yuanxian",
+        "永覺元賢"
       ],
-      "floruit": 770,
-      "death": 825,
-      "school": "Korean Seon",
-      "teacher": "Xitang Zhizang",
-      "notes": "First Korean monk to transmit the Seon (Chan) lineage to the Korean peninsula, inaugurating the 'Nine Mountains' Seon movement. He traveled to Tang China and studied under Xitang Zhizang, a direct heir of Mazu Daoyi, receiving formal dharma transmission. Upon returning to Silla, he found the doctrinal Buddhist establishment hostile to Seon and was unable to teach openly during his lifetime. His disciple Yomgo later founded the Gaji Mountain school (Silsangsa), the first of the Nine Mountains Seon lineages. Doui is thus honored as the patriarch who planted Seon in Korean soil, even though its flowering came after his death. Attested in Zutangji (952): records his study under Xitang Zhizang with a transmission dialogue confirming his awakening.",
-      "region": "Korea (Silla)",
-      "links": [
-        {
-          "label": "Wikipedia (Korean Buddhism)",
-          "url": "https://en.wikipedia.org/wiki/Korean_Buddhism"
-        }
-      ],
-      "attestation": "A"
+      "floruit": 1578,
+      "death": 1657,
+      "teacher": "Wuming Huijing",
+      "school": "Caodong",
+      "notes": "Brought Shouchang Caodong to Fujian. Restored Gushan Yongquan Monastery (1634). Over 100 volumes of writings. Called 'the last successful Caodong Chan master.'"
     },
     {
       "names": [
-        "Beomil",
-        "梵日"
+        "Juelang Daosheng",
+        "覺浪道盛"
       ],
-      "floruit": 810,
-      "death": 889,
-      "school": "Korean Seon",
-      "teacher": "Yanguan Qi'an",
-      "notes": "Founder of the Sagulsan (Mount Sagul) school, one of the Nine Mountains Seon lineages of Korea. He traveled to Tang China and trained under Yanguan Qi'an, a direct disciple of Mazu Daoyi, practicing for six years before receiving dharma transmission. Returning to Silla, he established Gulsan Monastery as his base and built one of the most active Seon communities of ninth-century Korea. His lineage maintained strong ties with the Mazu school's emphasis on everyday-mind-is-the-Way. He received lavish royal patronage, and his stele inscription is an important source for early Korean Seon. Attested in Zutangji (952): records his awakening under Yanguan Qi'an after six years of practice.",
-      "region": "Korea (Silla)",
-      "links": [
-        {
-          "label": "Wikipedia (Nine Mountains)",
-          "url": "https://en.wikipedia.org/wiki/Nine_mountain_schools_of_Seon"
-        }
-      ],
-      "attestation": "A"
-    },
-    {
-      "names": [
-        "Doseon",
-        "道詵"
-      ],
-      "floruit": 827,
-      "death": 898,
-      "school": "Korean Seon",
-      "notes": "Korean Seon monk and master geomancer (pungsu) who profoundly shaped the political geography of Korea. Trained in both Seon meditation and Chinese geomantic arts (fengshui), he applied topographical analysis to temple and capital siting. His prophecies regarding the decline of Silla and the rise of a new dynasty at Songak (modern Kaesong) were later credited with guiding Wang Geon's founding of the Goryeo dynasty (918). He founded or restored numerous temples based on geomantic principles. Though his geomantic legacy sometimes overshadows his Buddhist teaching, he was recognized as a legitimate Seon master. Attested in Goryeo-era hagiographies: credited with prophecies that legitimized the Goryeo founding, with his geomantic writings preserved in the Doseon bigi.",
-      "region": "Korea (Silla / early Goryeo)",
-      "links": [
-        {
-          "label": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Doseon"
-        }
-      ],
-      "attestation": "B",
-      "teacher": "Hyejeol"
-    },
-    {
-      "names": [
-        "Jinul",
-        "知訥",
-        "Bojo Jinul",
-        "普照知訥"
-      ],
-      "floruit": 1158,
-      "death": 1210,
-      "school": "Korean Seon",
-      "notes": "Founder of the Jogye Order, the dominant school of Korean Buddhism to the present day. Uniquely among Chan/Seon masters, Jinul achieved three distinct awakenings entirely through reading texts rather than through face-to-face transmission: first from the Platform Sutra, then from Li Tongxuan's commentary on the Avatamsaka Sutra, and finally from Dahui Zonggao's letters on hwadu (huatou) practice. He synthesized 'sudden awakening followed by gradual cultivation' (dono jeomsu) as the normative Seon path, harmonizing Seon meditation with Hwaom (Huayan) doctrinal study. He revitalized Korean Buddhism from his base at Songgwangsa, which he rebuilt as a 'community of the Samgha jewel.' Attested in Buswell (1991), The Korean Approach to Zen: the definitive English-language study of his thought and legacy.",
-      "region": "Korea (Goryeo)",
-      "students": [
-        "Hyesim"
-      ],
-      "links": [
-        {
-          "label": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Jinul"
-        },
-        {
-          "label": "Buswell (1991)",
-          "url": "https://www.amazon.com/Tracing-Back-Radiance-Chinuls-Approach/dp/0824814274"
-        }
-      ],
-      "attestation": "C",
-      "teacher": "Dahui Zonggao"
-    },
-    {
-      "names": [
-        "Hyesim",
-        "慧諶",
-        "Chin'gak Hyesim",
-        "真覺慧諶"
-      ],
-      "floruit": 1178,
-      "death": 1234,
-      "school": "Korean Seon",
-      "teacher": "Jinul",
-      "notes": "Jinul's foremost disciple and second master of Songgwangsa. He compiled a collection of 1,125 kongan (koans) titled the Seonmun yeomsong seolhwa (Seon Verses and Commentaries), the first indigenous Korean koan anthology. This monumental work, completed in thirty fascicles, selected cases from Chinese Chan collections and added Korean commentary, establishing an independent Korean Seon literary tradition distinct from mere importation of Chinese texts. He also expanded Songgwangsa's monastic community and received the posthumous title 'National Teacher' (guksa). His koan collection remained central to Korean Seon training for centuries. Attested in Korean Buddhist historical records: the Seonmun yeomsong seolhwa is the first indigenous Korean koan collection, predating comparable Japanese efforts.",
-      "region": "Korea (Goryeo)",
-      "links": [
-        {
-          "label": "Wikipedia (Songgwangsa)",
-          "url": "https://en.wikipedia.org/wiki/Songgwangsa"
-        }
-      ],
-      "attestation": "C",
-      "students": [
-        "Mongyeo"
-      ]
-    },
-    {
-      "names": [
-        "Baegun Gyeonghan",
-        "白雲景閑"
-      ],
-      "floruit": 1298,
-      "death": 1374,
-      "school": "Korean Seon",
-      "teacher": "Shiwu Qinggong",
-      "notes": "Korean Seon master best known as the compiler and printer of the Jikji simche yojeol (Anthology of Great Buddhist Priests' Zen Teachings), printed at Heungdeoksa temple in Cheongju in 1377 using movable metal type. This is the oldest known book in the world printed with movable metal type, predating Gutenberg's Bible by 78 years. Baegun traveled to Yuan China and received transmission from Shiwu Qinggong (Stone House), the hermit-poet of Tianmu mountain. His Jikji compiled essential Seon teachings from the patriarchs and was intended as a practical guide for practitioners. Attested in UNESCO Memory of the World Register (2001): the Jikji is recognized as the world's oldest extant movable metal type printed book, with the surviving second volume held by the Bibliotheque nationale de France.",
-      "region": "Korea (Goryeo)",
-      "links": [
-        {
-          "label": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Baegun"
-        },
-        {
-          "label": "UNESCO Jikji",
-          "url": "https://en.unesco.org/memoryoftheworld/registry/258"
-        }
-      ],
-      "attestation": "A"
-    },
-    {
-      "names": [
-        "Naong Hyegeun",
-        "懶翁慧勤"
-      ],
-      "floruit": 1320,
-      "death": 1376,
-      "school": "Korean Seon",
-      "teacher": "Pingshan Chulin",
-      "notes": "One of the most celebrated Korean Seon masters of the late Goryeo dynasty, remarkable for having received dharma transmission from two masters of entirely different lineages. He first studied under the Indian monk Zhigong (Dhyanabhadra, d. 1363), who had come to Yuan China and gave Naong transmission in an Indian-derived lineage. He then received a second transmission from the Chinese Linji master Pingshan Chulin, a heir in the mainstream Yangqi-Linji line. This double transmission from both Indian and Chinese sources gave Naong unique authority. He became Royal Teacher (wangsa) and initiated major reforms of Korean Seon before his sudden death. Attested in Korean Buddhist records and Chinese Chan genealogies: both transmissions are documented, with his Indian lineage through Zhigong preserved in Goryeo-era inscriptions.",
-      "region": "Korea (Goryeo)",
-      "students": [
-        "Muhak Jacho",
-        "Gobong Beopjang"
-      ],
-      "links": [
-        {
-          "label": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Naong"
-        }
-      ],
-      "attestation": "A"
-    },
-    {
-      "names": [
-        "Taego Bou",
-        "太古普愚"
-      ],
-      "floruit": 1301,
-      "death": 1382,
-      "school": "Korean Seon",
-      "teacher": "Shiwu Qinggong",
-      "notes": "The most important institutional figure in Korean Seon history, credited with unifying the Nine Mountains Seon schools into a single Jogye Order. He traveled to Yuan China and received dharma transmission from the hermit-poet Shiwu Qinggong (Stone House) on Tianmu mountain, returning with Shiwu's robe (cassock) and staff as physical proof of transmission. As Royal Teacher (wangsa) under King Gongmin, he reorganized Korean Seon, ending centuries of fragmentation among rival mountain schools. His unification established the institutional framework that persists in Korean Buddhism today. Though Ahn (2019) has questioned the later Joseon-era lineage claims connecting Hyujeong back through Taego, Taego's own Chinese transmission is well documented. Attested in UNDV 2011 conference paper: confirms the Shiwu transmission with physical evidence including the cassock and cane still preserved.",
-      "region": "Korea (Goryeo)",
-      "links": [
-        {
-          "label": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Taego_Bou"
-        }
-      ],
-      "attestation": "A",
-      "students": [
-        "Hwan-am Honsu"
-      ]
-    },
-    {
-      "names": [
-        "Muhak Jacho",
-        "無學自超"
-      ],
-      "floruit": 1327,
-      "death": 1405,
-      "school": "Korean Seon",
-      "teacher": "Naong Hyegeun",
-      "notes": "Royal preceptor and chief advisor to Yi Seonggye (King Taejo), the founder of the Joseon dynasty (1392). Muhak's most famous contribution was selecting the site of the new capital at Hanyang (modern Seoul) using geomantic principles, a decision that shaped the political geography of Korea to the present day. As Naong's dharma heir, he carried the unified Seon lineage into the new dynasty and served as a bridge between the Goryeo Buddhist establishment and the Joseon court, even as Neo-Confucian officials increasingly marginalized Buddhism. He designed the layout of key Seoul temples including Hoeryongsa. Attested in Joseon-era court records: his role in the capital selection and his advisory relationship with King Taejo are documented in the Joseon wangjo sillok (Annals of the Joseon Dynasty).",
-      "region": "Korea (Goryeo / early Joseon)",
-      "links": [
-        {
-          "label": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Muhak"
-        }
-      ],
-      "attestation": "C",
-      "students": [
-        "Gihwa"
-      ]
-    },
-    {
-      "names": [
-        "Gobong Beopjang",
-        "孤峰法藏"
-      ],
-      "floruit": 1350,
-      "death": 1428,
-      "school": "Korean Seon",
-      "teacher": "Naong Hyegeun",
-      "notes": "Naong Hyegeun's primary dharma heir and the master who rebuilt Songgwangsa, the 'Sangha Jewel Temple' originally established by Jinul. During the late Goryeo and early Joseon transition, he preserved the Seon monastic community through a period of political upheaval and growing anti-Buddhist sentiment from Neo-Confucian reformers. His reconstruction of Songgwangsa ensured the physical and institutional survival of the Jinul-Hyesim legacy. He maintained the unified Jogye lineage established by Taego Bou, transmitting it into the fifteenth century. Attested in Songgwangsa temple records: his rebuilding efforts and dharma lineage from Naong are preserved in monastery inscriptions and chronicles.",
-      "region": "Korea (Goryeo / early Joseon)",
-      "links": [
-        {
-          "label": "Wikipedia (Songgwangsa)",
-          "url": "https://en.wikipedia.org/wiki/Songgwangsa"
-        }
-      ],
-      "attestation": "C"
-    },
-    {
-      "names": [
-        "Bou",
-        "普雨",
-        "Heoung Bou"
-      ],
-      "floruit": 1509,
-      "death": 1565,
-      "school": "Korean Seon",
-      "notes": "Korean Seon monk who achieved the most significant restoration of Buddhist institutional power during the Joseon dynasty's sustained suppression of Buddhism. Under the patronage of Queen Munjeong (regent 1545-1565), he was appointed to the newly restored office of chief monk (panju), reopened the monk examination system, and rebuilt numerous temples. He briefly restored Buddhism to something approaching its former Goryeo-era status. However, his fortunes were entirely tied to the queen: when Munjeong died in 1565, the hostile Neo-Confucian officials immediately stripped him of office, and he was arrested and died under torture or in exile the same year. His rise and fall illustrates the precarious position of Buddhism under Joseon Confucian hegemony. Attested in Joseon wangjo sillok (Annals of the Joseon Dynasty): records both his appointment under Queen Munjeong and his death following her passing.",
-      "region": "Korea (Joseon)",
-      "links": [
-        {
-          "label": "Wikipedia (Korean Buddhism under Joseon)",
-          "url": "https://en.wikipedia.org/wiki/Korean_Buddhism#Joseon_Dynasty"
-        }
-      ],
-      "attestation": "D"
-    },
-    {
-      "names": [
-        "Hyujeong",
-        "休靜",
-        "Seosan Hyujeong",
-        "西山休靜",
-        "Seosan Daesa"
-      ],
-      "floruit": 1520,
-      "death": 1604,
-      "school": "Korean Seon",
-      "notes": "The most revered figure in Joseon-era Korean Buddhism, known both as a profound Seon master and as the warrior-monk who organized Buddhist militia (seungbyeong) to resist the Japanese invasion of 1592 (Imjin War). His treatise Seon'ga gwigam (Mirror for Seon Students) became the standard primer for Korean Seon practice, synthesizing Seon, Gyo (doctrinal study), and Yeombul (Pure Land recitation) into a unified curriculum still used today. At age 73, when Toyotomi Hideyoshi's forces invaded, King Seonjo called upon him to rally monks as soldiers; he mobilized thousands across the peninsula. He traced his lineage through Taego Bou to the Chinese Linji school, though Ahn (2019) has challenged the historicity of the intermediate links in this lineage chain. Attested in Jorgensen (2015): provides a full English translation and study of the Seon'ga gwigam.",
-      "region": "Korea (Joseon)",
-      "students": [
-        "Yujeong (Samyeong)"
-      ],
-      "links": [
-        {
-          "label": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Hyujeong"
-        },
-        {
-          "label": "Jorgensen (2015)",
-          "url": "https://www.amazon.com/Seon-Dialogues-Korean-Buddhism-Original/dp/9004284656"
-        }
-      ],
-      "attestation": "D",
-      "teacher": "Buyong Yeonggwan"
-    },
-    {
-      "names": [
-        "Yujeong",
-        "惟政",
-        "Samyeong Yujeong",
-        "四溟惟政",
-        "Samyeong Daesa"
-      ],
-      "floruit": 1544,
-      "death": 1610,
-      "school": "Korean Seon",
-      "teacher": "Hyujeong",
-      "notes": "Hyujeong's foremost disciple, celebrated equally as a Seon master, military commander, and diplomat. During the Imjin War (1592-1598), he led monk-soldiers in combat against the Japanese forces, distinguishing himself at several engagements. After the war, he was sent to Japan as an envoy in 1604 and successfully negotiated the return of approximately 3,500 Korean prisoners of war, a diplomatic feat that made him a national hero. His combination of martial valor and diplomatic skill during Korea's greatest military crisis cemented the image of Buddhist monks as defenders of the nation, counterbalancing the Neo-Confucian narrative that Buddhism was socially useless. Attested in Joseon wangjo sillok and Japanese records: his diplomatic mission to Japan and the repatriation of prisoners are documented in both Korean and Japanese sources.",
-      "region": "Korea (Joseon)",
-      "links": [
-        {
-          "label": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Samyeong_daesa"
-        }
-      ],
-      "attestation": "D"
+      "floruit": 1592,
+      "death": 1659,
+      "teacher": "Wuyi Yuanlai",
+      "school": "Caodong",
+      "notes": "Founded the Caodong Tianjie lineage at Nanjing. Ming loyalist. Innovative synthesis of Chan and Confucian traditions."
     },
     {
       "names": [
@@ -5760,68 +5969,221 @@
     },
     {
       "names": [
-        "Pingshan Chulin",
-        "平山處林"
+        "Feiyin Tongrong",
+        "費隱通容"
       ],
-      "floruit": 1279,
-      "death": 1361,
+      "floruit": 1593,
+      "death": 1661,
+      "teacher": "Miyun Yuanwu",
       "school": "Linji",
-      "teacher": "Ji'an Zongxin",
-      "attestation": "A",
-      "notes": "Yuan dynasty Linji master, 19th generation (not 18th as sometimes claimed in Korean sources). Dharma brother of Shiwu Qinggong — both studied under Ji'an Zongxin. Gave formal dharma transmission to the Korean monk Naong Hyegeun at Jingci Temple in Hangzhou. Also served as abbot of Lingyin Temple. Authored Jingjuyin (淨居吟), over 200 poems. Attested in DILA Authority Database (A016698).",
       "students": [
-        "Naong Hyegeun"
+        "Yinyuan Longqi"
       ],
-      "links": [
-        {
-          "label": "DILA Authority",
-          "url": "https://authority.dila.edu.tw/person/search.php?aid=A016698"
-        }
-      ]
+      "notes": "Second abbot of Huangbo monastery after Miyun. Published the controversial Wudeng yantong (1654) asserting Linji orthodoxy. CBETA: J26nB178."
     },
     {
       "names": [
-        "Junbeom",
-        "遵範"
+        "Pungdam Uisim",
+        "楓潭義諶"
       ],
-      "floruit": 780,
-      "death": 820,
+      "floruit": 1592,
+      "death": 1665,
       "school": "Korean Seon",
-      "teacher": "Sinhaeng",
-      "attestation": "B",
-      "notes": "Obscure link figure in the Beomnang-Daoxin lineage. Known only from the Jijeungdaesa stele at Bongamsa (893 CE, by Choe Chiwon). Transmitted the dharma from Sinhaeng to Hyeeun."
+      "teacher": "Pyeonyang Eongi",
+      "students": [
+        "Woldam Seoljye"
+      ],
+      "attestation": "D",
+      "notes": "Carried the Pyeonyang lineage into mid-17th century. Important link figure in the main trunk of Korean Seon.",
+      "region": "Korea (Joseon)"
     },
     {
       "names": [
-        "Hyeeun",
-        "慧隱"
+        "Poshan Haiming",
+        "破山海明"
       ],
-      "floruit": 800,
-      "death": 850,
-      "school": "Korean Seon",
-      "teacher": "Junbeom",
-      "attestation": "B",
-      "notes": "Doheon's direct Seon teacher. Known only from the Jijeungdaesa stele at Bongamsa (893 CE, by Choe Chiwon). Transmitted the Beomnang-Daoxin lineage to Doheon, founder of the Huiyangsan school."
-    },
-    {
-      "names": [
-        "Ji'an Zongxin",
-        "及庵宗信"
-      ],
-      "death": 1320,
+      "floruit": 1597,
+      "death": 1666,
+      "teacher": "Miyun Yuanwu",
       "school": "Linji",
-      "teacher": "Xueyan Zuqin",
-      "students": [
-        "Pingshan Chulin",
-        "Shiwu Qinggong"
+      "notes": "Revived Chan in southwest China (Sichuan). Called 'Little Shakyamuni.' Founded Shuanggui Temple (1653). Had 87 dharma heirs."
+    },
+    {
+      "names": [
+        "Yinyuan Longqi",
+        "隱元隆琦"
       ],
-      "notes": "Yuan dynasty Linji master, dharma heir of Xueyan Zuqin and dharma brother of Gaofeng Yuanmiao. Teacher of both Shiwu Qinggong and Pingshan Chulin, making him the indirect ancestor of all late-Goryeo Korean Seon. Active at Xifeng Temple (Jianyang) and Daochang Mountain Wanshou Temple (Huzhou). Attested in DILA Authority Database (A021593).",
-      "links": [
-        {
-          "label": "DILA Authority",
-          "url": "https://authority.dila.edu.tw/person/search.php?aid=A021593"
-        }
-      ]
+      "floruit": 1592,
+      "death": 1673,
+      "teacher": "Feiyin Tongrong",
+      "school": "Linji",
+      "notes": "Chinese Chan master who emigrated to Japan in 1654. Founded Obaku school. Entirely Chinese-trained. His departure was a loss for Chinese Chan. CBETA: J27nB193."
+    },
+    {
+      "names": [
+        "Muchen Daomin",
+        "木陳道忞"
+      ],
+      "floruit": 1596,
+      "death": 1674,
+      "teacher": "Miyun Yuanwu",
+      "school": "Linji",
+      "notes": "First to succeed Miyun at Tiantong (1642). Summoned to Beijing as Chan teacher to the Shunzhi Emperor. CBETA: J26nB180, J26nB181."
+    },
+    {
+      "names": [
+        "Yulin Tongxiu",
+        "玉林通琇"
+      ],
+      "floruit": 1614,
+      "death": 1675,
+      "teacher": "Tianyin Yuanxiu",
+      "school": "Linji",
+      "students": [
+        "Maoxi Xingsen"
+      ],
+      "notes": "Imperial Chan teacher to the Shunzhi Emperor. Titled Yulin Guoshi (National Teacher). Dissuaded the emperor from abdicating to become a monk."
+    },
+    {
+      "names": [
+        "Maoxi Xingsen",
+        "茆溪行森"
+      ],
+      "floruit": 1614,
+      "death": 1677,
+      "teacher": "Yulin Tongxiu",
+      "school": "Linji",
+      "students": [
+        "Meng'an Chaoge"
+      ],
+      "notes": "Yulin's student. Included in the Yongzheng Emperor's Yuxuan yulu."
+    },
+    {
+      "names": [
+        "Woldam Seoljye",
+        "月潭雪霽"
+      ],
+      "floruit": 1632,
+      "death": 1704,
+      "school": "Korean Seon",
+      "teacher": "Pungdam Uisim",
+      "students": [
+        "Hwanseong Jian"
+      ],
+      "attestation": "D",
+      "notes": "Bridged 17th into 18th century. Maintained the Pyeonyang lineage through deepening Joseon suppression.",
+      "region": "Korea (Joseon)"
+    },
+    {
+      "names": [
+        "Meng'an Chaoge",
+        "夢庵超格"
+      ],
+      "floruit": 1639,
+      "death": 1708,
+      "teacher": "Maoxi Xingsen",
+      "school": "Linji",
+      "students": [
+        "Jialing Xingyin"
+      ],
+      "notes": "Link in the imperial Chan line from Yulin to Yongzheng."
+    },
+    {
+      "names": [
+        "Jialing Xingyin",
+        "迦陵性音"
+      ],
+      "floruit": 1671,
+      "death": 1726,
+      "teacher": "Meng'an Chaoge",
+      "school": "Linji",
+      "notes": "Chan teacher of the Yongzheng Emperor before his enthronement. Died on Mount Lu; the emperor issued a special edict honoring his death."
+    },
+    {
+      "names": [
+        "Hwanseong Jian",
+        "喚醒志安"
+      ],
+      "floruit": 1664,
+      "death": 1729,
+      "school": "Korean Seon",
+      "teacher": "Woldam Seoljye",
+      "attestation": "D",
+      "notes": "Major 18th-century figure. Authored Seonmun ojonggangyo (Essentials of the Five Schools of Seon), which systematized Korean Seon doctrine. Was exiled after a controversy. The modern Jogye Order's kanhwa Seon tradition traces through him.",
+      "region": "Korea (Joseon)"
+    },
+    {
+      "names": [
+        "Lingyin Wentai",
+        "靈隱文泰"
+      ],
+      "death": 1289,
+      "school": "Caodong",
+      "teacher": "Xueting Fuyu",
+      "notes": "Shaolin Monastery Caodong transmission. Link figure between Xueting Fuyu and the late Ming Caodong revival."
+    },
+    {
+      "names": [
+        "Huanyuan Fuyu",
+        "還源福遇"
+      ],
+      "death": 1313,
+      "school": "Caodong",
+      "teacher": "Lingyin Wentai",
+      "notes": "Yuan dynasty Shaolin Caodong transmission."
+    },
+    {
+      "names": [
+        "Chunzuo Wencai",
+        "淳拙文才"
+      ],
+      "death": 1352,
+      "school": "Caodong",
+      "teacher": "Huanyuan Fuyu",
+      "notes": "Yuan dynasty Shaolin Caodong transmission."
+    },
+    {
+      "names": [
+        "Songting Ziyan",
+        "松庭子嚴"
+      ],
+      "death": 1380,
+      "school": "Caodong",
+      "teacher": "Chunzuo Wencai",
+      "notes": "Yuan-Ming transition. Shaolin Caodong transmission. Dates approximate."
+    },
+    {
+      "names": [
+        "Ningran Liaogai",
+        "凝然了改"
+      ],
+      "death": 1421,
+      "school": "Caodong",
+      "teacher": "Songting Ziyan",
+      "notes": "Early Ming Shaolin Caodong transmission."
+    },
+    {
+      "names": [
+        "Jukong Qibin",
+        "俱空契斌"
+      ],
+      "death": 1452,
+      "school": "Caodong",
+      "teacher": "Ningran Liaogai",
+      "notes": "Early Ming Shaolin Caodong transmission."
+    },
+    {
+      "names": [
+        "Wufang Kecong",
+        "無方可從"
+      ],
+      "death": 1483,
+      "school": "Caodong",
+      "teacher": "Jukong Qibin",
+      "students": [
+        "Yuezhou Wenzai"
+      ],
+      "notes": "Mid Ming Shaolin Caodong transmission. Teacher of Yuezhou Wenzai."
     }
   ]
 }
