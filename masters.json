@@ -1,6 +1,4 @@
 {
-  "version": 1,
-  "count": 291,
   "masters": [
     {
       "names": [
@@ -34,6 +32,7 @@
       "floruit": 344,
       "death": 413,
       "school": "Early Chan",
+      "notes": "Directed one of the most prolific translation bureaus in Buddhist history. His translations shaped the vocabulary of East Asian Buddhism.",
       "teacher": "Bandhudatta",
       "students": [
         "Sengzhao",
@@ -41,7 +40,6 @@
         "Sengrui",
         "Daorong"
       ],
-      "notes": "Directed one of the most prolific translation bureaus in Buddhist history. His translations shaped the vocabulary of East Asian Buddhism.",
       "links": [
         {
           "label": "Wikipedia",
@@ -187,6 +185,18 @@
         {
           "label": "Encyclopedia of Buddhism",
           "url": "https://encyclopediaofbuddhism.org/wiki/Bodhidharma"
+        },
+        {
+          "label": "Baidu",
+          "url": "https://baike.baidu.com/item/%E8%8F%A9%E6%8F%90%E8%BE%BE%E6%91%A9/950119"
+        },
+        {
+          "label": "CBETA (少室六門 T2009)",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T2009"
+        },
+        {
+          "label": "Stanford (Chan Buddhism)",
+          "url": "https://plato.stanford.edu/entries/buddhism-chan/"
         }
       ]
     },
@@ -415,8 +425,8 @@
       "floruit": 630,
       "death": 700,
       "school": "Early Chan",
-      "teacher": "Huineng",
       "notes": "Nun mentioned in the Platform Sutra who could recite the Mahāparinirvāṇa Sūtra. Huineng reportedly explained its meaning to her.",
+      "teacher": "Huineng",
       "links": [
         {
           "label": "Platform Sutra - Wikipedia",
@@ -432,8 +442,8 @@
       ],
       "floruit": 609,
       "death": 702,
-      "school": "Early Chan",
       "teacher": "Hongren",
+      "school": "Early Chan",
       "notes": "Student of the Fifth Patriarch Hongren. Settled in Zizhou, Sichuan. Empress Wu Zetian gave him a patriarchal robe. Died in seated meditation at age 94. Transmitted to Chuji.",
       "links": [
         {
@@ -511,6 +521,18 @@
         {
           "label": "IEP",
           "url": "https://iep.utm.edu/huineng/"
+        },
+        {
+          "label": "Baidu",
+          "url": "https://baike.baidu.com/item/%E6%85%A7%E8%83%BD/431223"
+        },
+        {
+          "label": "CBETA (壇經 T2008)",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T2008"
+        },
+        {
+          "label": "Britannica (Platform Sutra)",
+          "url": "https://www.britannica.com/topic/Platform-Sutra"
         }
       ]
     },
@@ -563,8 +585,8 @@
       ],
       "floruit": 669,
       "death": 736,
-      "school": "Early Chan",
       "teacher": "Zizhou Zhishen",
+      "school": "Early Chan",
       "notes": "Received patriarchal robe from Zhishen in 702. Key link in the Sichuan Chan lineage recorded in the Lidai fabao ji.",
       "links": [
         {
@@ -691,7 +713,7 @@
       "death": 762,
       "school": "Chan",
       "teacher": "Zizhou Chuji",
-      "notes": "Korean-born monk (Kim Heshang) who established a major Chan center in Sichuan. Known for 'three phrases' teaching.",
+      "notes": "Korean prince of the Silla royal house who became one of the most influential Chan teachers in eighth-century Sichuan. Ordained under Zizhou Chuji (a disciple of Zhishen in the Hongren/East Mountain line), he built a massive congregation in Chengdu around his 'three phrases' (wunian, moyi, mowang) teaching of no-thought, no-recollection, and no-delusion. His liturgical innovations blending Chan with Vinaya confession rites shaped a distinct Sichuan Chan tradition. Buswell (1989) argues he was an early formative influence on the young Mazu Daoyi before Mazu's move east. His legacy was continued by Baotang Wuzhu, though the Baotang school radicalized his teachings. Attested in Lidai fabao ji (c. 774) and Zutangji (952): both record his teaching career in Sichuan, his royal Silla origins, and his three-phrase doctrine.",
       "links": [
         {
           "label": "Wikipedia",
@@ -780,6 +802,7 @@
       "death": 788,
       "school": "Hongzhou",
       "teacher": "Nanyue Huairang",
+      "notes": "One of the most influential Tang dynasty Chan masters. Born 709 in Sichuan. Founded the Hongzhou school, producing 139 dharma heirs. Known for 'this mind is Buddha' (即心是佛) and 'ordinary mind is the Way' (平常心是道). Pioneer of unconventional teaching methods including shouts and blows.",
       "students": [
         "Baizhang Huaihai",
         "Nanquan Puyuan",
@@ -795,7 +818,6 @@
         "Yanguan Qi'an",
         "Jinniu Heshang"
       ],
-      "notes": "One of the most influential Tang dynasty Chan masters. Born 709 in Sichuan. Founded the Hongzhou school, producing 139 dharma heirs. Known for 'this mind is Buddha' (即心是佛) and 'ordinary mind is the Way' (平常心是道). Pioneer of unconventional teaching methods including shouts and blows.",
       "region": "Jiangxi",
       "links": [
         {
@@ -813,6 +835,22 @@
         {
           "label": "Terebess",
           "url": "https://terebess.hu/zen/mazu.html"
+        },
+        {
+          "label": "Baidu",
+          "url": "https://baike.baidu.com/item/%E9%A9%AC%E7%A5%96%E9%81%93%E4%B8%80/5113354"
+        },
+        {
+          "label": "CBETA (廣錄 X1321)",
+          "url": "https://cbetaonline.dila.edu.tw/zh/X1321"
+        },
+        {
+          "label": "Encyclopedia of Buddhism",
+          "url": "https://encyclopediaofbuddhism.org/wiki/Mazu_Daoyi"
+        },
+        {
+          "label": "Stanford (Chan Buddhism)",
+          "url": "https://plato.stanford.edu/entries/buddhism-chan/"
         }
       ]
     },
@@ -960,8 +998,8 @@
       ],
       "floruit": 723,
       "death": 811,
-      "school": "Early Chan",
       "teacher": "Shenhui",
+      "school": "Early Chan",
       "notes": "Second generation Heze lineage. Dharma heir of Shenhui.",
       "links": [
         {
@@ -983,12 +1021,12 @@
       "death": 814,
       "school": "Hongzhou",
       "teacher": "Mazu Daoyi",
+      "notes": "Established the first independent Chan monastic code (百丈清規), revolutionizing Chan communal life. Famous for 'a day without work is a day without food' (一日不作一日不食). Subject of the wild fox koan. His monastic regulations became the model for all later Chan/Zen monasteries.",
       "students": [
         "Huangbo Xiyun",
         "Guishan Lingyou",
         "Wufeng"
       ],
-      "notes": "Established the first independent Chan monastic code (百丈清規), revolutionizing Chan communal life. Famous for 'a day without work is a day without food' (一日不作一日不食). Subject of the wild fox koan. His monastic regulations became the model for all later Chan/Zen monasteries.",
       "links": [
         {
           "label": "Wikipedia",
@@ -1005,6 +1043,14 @@
         {
           "label": "Encyclopedia of Buddhism",
           "url": "https://encyclopediaofbuddhism.org/wiki/Baizhang_Huaihai"
+        },
+        {
+          "label": "Baidu",
+          "url": "https://baike.baidu.com/item/%E7%99%BE%E4%B8%88%E7%A6%85%E5%B8%88/4050416"
+        },
+        {
+          "label": "CBETA (語錄 X1322)",
+          "url": "https://cbetaonline.dila.edu.tw/zh/X1322"
         }
       ]
     },
@@ -1057,8 +1103,8 @@
       ],
       "floruit": 755,
       "death": 817,
-      "school": "Hongzhou",
       "teacher": "Mazu Daoyi",
+      "school": "Hongzhou",
       "notes": "Hongzhou school master at Xingshan Temple in Chang’an. Teacher of the poet Bai Juyi, who wrote his memorial inscription in 819.",
       "links": [
         {
@@ -1124,8 +1170,8 @@
       ],
       "floruit": 750,
       "death": 820,
-      "school": "Early Chan",
       "teacher": "Cizhou Zhiru",
+      "school": "Early Chan",
       "notes": "Third generation Heze lineage. Transmitted to Suizhou Daoyuan.",
       "links": [
         {
@@ -1285,8 +1331,8 @@
       ],
       "floruit": 770,
       "death": 830,
-      "school": "Early Chan",
       "teacher": "Yizhou Nanyin",
+      "school": "Early Chan",
       "notes": "Fourth generation Heze lineage. Teacher of Guifeng Zongmi.",
       "links": [
         {
@@ -1321,13 +1367,13 @@
       "death": 835,
       "school": "Hongzhou",
       "teacher": "Mazu Daoyi",
+      "notes": "One of Mazu's 'three great disciples'. Often called 'Old Teacher Wang' (王老師). After enlightenment under Mazu, retreated to Mount Nanquan for 30 years. Famous for killing the cat (南泉斬貓) and 'ordinary mind is the Way' (平常心是道). Had seventeen dharma heirs.",
       "students": [
         "Zhaozhou Congshen",
         "Changsha Jingcen",
         "Zihu Lizong",
         "Luzu"
       ],
-      "notes": "One of Mazu's 'three great disciples'. Often called 'Old Teacher Wang' (王老師). After enlightenment under Mazu, retreated to Mount Nanquan for 30 years. Famous for killing the cat (南泉斬貓) and 'ordinary mind is the Way' (平常心是道). Had seventeen dharma heirs.",
       "links": [
         {
           "label": "Wikipedia",
@@ -1456,8 +1502,6 @@
       ],
       "floruit": 780,
       "death": 840,
-      "school": "Hongzhou",
-      "teacher": "Damei Fachang",
       "students": [
         "Juzhi"
       ],
@@ -1471,7 +1515,9 @@
           "label": "Terebess (Juzhi)",
           "url": "https://terebess.hu/zen/gutei.html"
         }
-      ]
+      ],
+      "school": "Hongzhou",
+      "teacher": "Damei Fachang"
     },
     {
       "names": [
@@ -1548,8 +1594,8 @@
       "floruit": 772,
       "death": 846,
       "school": "Chan",
-      "teacher": "Xingshan Weikuan",
       "notes": "One of the greatest Tang poets and devoted lay Buddhist. Famous exchange with Bird's Nest Daolin.",
+      "teacher": "Xingshan Weikuan",
       "links": [
         {
           "label": "Wikipedia",
@@ -1572,11 +1618,11 @@
       "death": 850,
       "school": "Hongzhou",
       "teacher": "Baizhang Huaihai",
+      "notes": "Teacher of Linji and one of the most important Tang Chan masters. Born in Fuzhou, Fujian. Teaching centered on 'one mind' (一心): all beings possess this one mind which is the Buddha. His teachings recorded by lay student Pei Xiu in the Chuanxin Fayao (傳心法要) and Wanling Lu (宛陵錄). Named thirteen successors.",
       "students": [
         "Linji Yixuan",
         "Muzhou Daoming"
       ],
-      "notes": "Teacher of Linji and one of the most important Tang Chan masters. Born in Fuzhou, Fujian. Teaching centered on 'one mind' (一心): all beings possess this one mind which is the Buddha. His teachings recorded by lay student Pei Xiu in the Chuanxin Fayao (傳心法要) and Wanling Lu (宛陵錄). Named thirteen successors.",
       "links": [
         {
           "label": "Wikipedia",
@@ -1593,6 +1639,18 @@
         {
           "label": "Encyclopedia of Buddhism",
           "url": "https://encyclopediaofbuddhism.org/wiki/Huangbo_Xiyun"
+        },
+        {
+          "label": "Baidu",
+          "url": "https://baike.baidu.com/item/%E9%BB%84%E6%AB%B1%E7%A6%85%E5%B8%88/9225925"
+        },
+        {
+          "label": "CBETA (傳心法要 T2012A)",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T2012A"
+        },
+        {
+          "label": "Terebess (Lok To tr.)",
+          "url": "https://terebess.hu/zen/Huangbo-LokTo.pdf"
         }
       ]
     },
@@ -1814,8 +1872,8 @@
       ],
       "floruit": 810,
       "death": 860,
-      "school": "Hongzhou",
       "teacher": "Guizong Zhichang",
+      "school": "Hongzhou",
       "notes": "Reclusive monk in Gao’an, Jiangxi. Triggered Linji Yixuan’s great awakening when Huangbo sent Linji to him. Teacher of Moshan Liaoran.",
       "links": [
         {
@@ -1885,13 +1943,13 @@
       "death": 866,
       "school": "Linji",
       "teacher": "Huangbo Xiyun",
+      "notes": "Founder of the Linji (Rinzai) school, one of only two Chan lineages surviving to the present. Asked Huangbo three times about the essence of Buddhism and was beaten each time; enlightened after visiting Gaoan Dayu. Known for radical pedagogy: shouts (喝), blows, and paradoxical statements. Developed 'four shouts' and 'four positions of host and guest' frameworks. His recorded sayings (臨濟錄) compiled by Sansheng Huiran are foundational to the koan tradition.",
       "students": [
         "Xinghua Cunjiang",
         "Sansheng Huiran",
         "Baoshou Yanzhao",
         "Luopu Yuanan"
       ],
-      "notes": "Founder of the Linji (Rinzai) school, one of only two Chan lineages surviving to the present. Asked Huangbo three times about the essence of Buddhism and was beaten each time; enlightened after visiting Gaoan Dayu. Known for radical pedagogy: shouts (喝), blows, and paradoxical statements. Developed 'four shouts' and 'four positions of host and guest' frameworks. His recorded sayings (臨濟錄) compiled by Sansheng Huiran are foundational to the koan tradition.",
       "region": "Hebei",
       "links": [
         {
@@ -1913,6 +1971,18 @@
         {
           "label": "Encyclopedia of Buddhism",
           "url": "https://encyclopediaofbuddhism.org/wiki/Linji_Yixuan"
+        },
+        {
+          "label": "Baidu",
+          "url": "https://baike.baidu.com/item/%E4%B9%89%E7%8E%84/7429471"
+        },
+        {
+          "label": "CBETA (語錄 T1985)",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T1985"
+        },
+        {
+          "label": "BDK (Three Chan Classics)",
+          "url": "https://www.bdkamerica.org/product/three-chan-classics/"
         }
       ]
     },
@@ -1960,6 +2030,7 @@
       "death": 869,
       "school": "Caodong",
       "teacher": "Yunyan Tansheng",
+      "notes": "Co-founder of the Caodong (Soto) school. Born 807 in Kuaiji (Shaoxing, Zhejiang). Created the Five Ranks (五位偏正) teaching and the Jewel Mirror Samadhi (寶鏡三昧). Enlightened upon seeing his reflection crossing a stream. Had 26 dharma heirs. Transmitted to Japan by Dogen as the Soto school.",
       "students": [
         "Caoshan Benji",
         "Yunju Daoying",
@@ -1968,7 +2039,6 @@
         "Yuezhou Qianfeng",
         "Sushan Kuangren"
       ],
-      "notes": "Co-founder of the Caodong (Soto) school. Born 807 in Kuaiji (Shaoxing, Zhejiang). Created the Five Ranks (五位偏正) teaching and the Jewel Mirror Samadhi (寶鏡三昧). Enlightened upon seeing his reflection crossing a stream. Had 26 dharma heirs. Transmitted to Japan by Dogen as the Soto school.",
       "links": [
         {
           "label": "Caodong school",
@@ -1989,6 +2059,18 @@
         {
           "label": "Terebess (Record)",
           "url": "https://terebess.hu/zen/dongshan-eng2.html"
+        },
+        {
+          "label": "Baidu",
+          "url": "https://baike.baidu.com/item/%E8%89%AF%E4%BB%B7/7288000"
+        },
+        {
+          "label": "CBETA (語錄 T1986B)",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T1986B"
+        },
+        {
+          "label": "Encyclopedia of Buddhism",
+          "url": "https://encyclopediaofbuddhism.org/wiki/Dongshan_Liangjie"
         }
       ]
     },
@@ -2074,7 +2156,7 @@
       "death": 881,
       "school": "Chan",
       "teacher": "Chuanzi Decheng",
-      "notes": "Awakened when the boatman-monk pushed him into water.",
+      "notes": "Originally a sutra lecturer in Guangzhou; redirected to study with the boatman-monk Chuanzi Decheng, who pushed him into the river, triggering his awakening. He then established a major monastery on Mount Jia (Jiashan) in Hunan, where he taught for decades. His heir Luopu Yuanan carried his transmission forward.",
       "links": [
         {
           "label": "Wikidata",
@@ -2216,8 +2298,8 @@
       ],
       "floruit": 830,
       "death": 888,
-      "school": "Linji",
       "teacher": "Linji Yixuan",
+      "school": "Linji",
       "notes": "Disciple of Linji Yixuan at Baoshou Monastery in Zhenzhou. Known for exchanges with Zhaozhou and Sansheng.",
       "links": [
         {
@@ -2372,6 +2454,14 @@
         {
           "label": "Baidu",
           "url": "https://baike.baidu.com/item/%E8%B5%B5%E5%B7%9E%E7%A6%85%E5%B8%88/10760978"
+        },
+        {
+          "label": "CBETA (語錄 JB137)",
+          "url": "https://cbetaonline.dila.edu.tw/zh/JB137"
+        },
+        {
+          "label": "Encyclopedia of Buddhism",
+          "url": "https://encyclopediaofbuddhism.org/wiki/Zhaozhou_Congshen"
         }
       ]
     },
@@ -2474,7 +2564,7 @@
       "death": 900,
       "school": "Caodong",
       "teacher": "Dongshan Liangjie",
-      "notes": "Known for 'one arrow piercing three barriers' koan.",
+      "notes": "From Fuzhou. First studied under Deshan Xuanjian alongside Yantou and Xuefeng, then became a dharma heir of Dongshan Liangjie. Achieved great enlightenment at age twenty-seven and became abbot of Mount Qin. Known for the 'one arrow piercing three barriers' exchange.",
       "links": [
         {
           "label": "Terebess",
@@ -2545,8 +2635,8 @@
       "floruit": 837,
       "death": 903,
       "school": "Chan",
-      "teacher": "Shishuang Qingzhu",
       "notes": "Dharma heir of Shishuang Qingzhu (807-888). Dates corrected from d.950 to d.903 per lineage chronology.",
+      "teacher": "Shishuang Qingzhu",
       "links": [
         {
           "label": "Terebess (Heritage PDF)",
@@ -2632,7 +2722,7 @@
       "death": 909,
       "school": "Caodong",
       "teacher": "Dongshan Liangjie",
-      "notes": "Known for 'the price of the dharma body' exchange.",
+      "notes": "Heir of Dongshan Liangjie, nicknamed 'Uncle Dwarf.' Fellow students regarded him as the most penetrating among Dongshan's disciples and would say 'let's just go ask Uncle Dwarf' when difficult questions arose. Known for 'the price of the dharma body' exchange.",
       "links": [
         {
           "label": "Book of Serenity",
@@ -2653,7 +2743,7 @@
       "death": 914,
       "school": "Chan",
       "teacher": "Cuiwei Wuxue",
-      "notes": "Lived as hermit on Mount Touzi for thirty years.",
+      "notes": "Heir of Cuiwei Wuxue, from Shuzhou in Anhui. Settled on Mount Touzi and lived there as a hermit for over thirty years, drawing many students. Visited by Zhaozhou Congshen in a famous encounter. Appears in Blue Cliff Record cases 41, 79, 80, and 91.",
       "links": [
         {
           "label": "Terebess (Heritage PDF)",
@@ -2729,7 +2819,7 @@
       "death": 923,
       "school": "Caodong",
       "teacher": "Dongshan Liangjie",
-      "notes": "Traveled widely before settling under Dongshan.",
+      "notes": "From Nancheng in Fuzhou (Jiangxi). Ordained at fourteen, studied eight years under Dongshan Liangjie, and also visited Linji and Cuiwei Wuxue. Later became abbot of Miaoji Temple on Mount Longya near Changsha. Posthumous title: Great Master Zhengkong. Appears in Blue Cliff Record case 20.",
       "links": [
         {
           "label": "Blue Cliff Record",
@@ -2779,7 +2869,7 @@
       "death": 928,
       "school": "Chan",
       "teacher": "Xuefeng Yicun",
-      "notes": "Close dharma brother of Changqing Huileng.",
+      "notes": "Heir of Xuefeng Yicun and close dharma brother of Changqing Huileng, with whom he appears in paired dialogues. Produced twenty-six dharma heirs, making him one of Xuefeng's most prolific successors. Appears in Blue Cliff Record cases 8, 22, 23, 76, 91, 95 and Book of Serenity case 71.",
       "links": [
         {
           "label": "Terebess",
@@ -2827,7 +2917,7 @@
       "students": [
         "Fengxue Yanzhao"
       ],
-      "notes": "Critical link in Linji lineage between Xinghua and Fengxue.",
+      "notes": "From Hebei. Taught at the South Hall (Nanyuan) of Baoying Monastery in Ruzhou with an extremely strict, confrontational style. Critical link in the Linji lineage: only through his line (via Fengxue Yanzhao) did Linji's transmission survive to modern times.",
       "links": [
         {
           "label": "Terebess",
@@ -2867,8 +2957,8 @@
       ],
       "floruit": 880,
       "death": 930,
-      "school": "Caodong",
       "teacher": "Yunju Daoying",
+      "school": "Caodong",
       "notes": "Caodong lineage patriarch at Tongan Monastery near Nanchang. Successor of Yunju Daoying.",
       "links": [
         {
@@ -2889,7 +2979,7 @@
       "death": 932,
       "school": "Chan",
       "teacher": "Xuefeng Yicun",
-      "notes": "Wore out seven sitting cushions before awakening.",
+      "notes": "From Yanzhou in Zhejiang. Studied under Xuefeng Yicun for twenty-nine years and famously wore out seven meditation cushions before awakening upon rolling up a bamboo screen. Later headed Changqing Monastery in Fuzhou for twenty years. Appears in Blue Cliff Record cases 22 and 23.",
       "links": [
         {
           "label": "Terebess",
@@ -2923,7 +3013,7 @@
       "death": 937,
       "school": "Chan",
       "teacher": "Xuefeng Yicun",
-      "notes": "Known for the 'what sound is that?' (raindrops) koan.",
+      "notes": "Heir of Xuefeng Yicun with five dharma successors. Best known for the 'voice of the raindrops' exchange, preserved as Book of Serenity case 46. Also appears in Blue Cliff Record cases 16, 23, and 46.",
       "links": [
         {
           "label": "BCR 46",
@@ -2947,7 +3037,7 @@
       "students": [
         "Bajiao Huiqing"
       ],
-      "notes": "Important figure in transmitting the Guiyang school.",
+      "notes": "Heir of Yangshan Huiji, taught at the South Pagoda (Nanta) on Mount Yangshan in Jiangxi. Transmitted the Guiyang lineage to Bajiao Huiqing, a Korean monk who traveled to China seeking instruction, keeping the school alive for one more generation.",
       "links": [
         {
           "label": "Wikipedia (Guiyang school)",
@@ -2968,7 +3058,7 @@
       "death": 944,
       "school": "Chan",
       "teacher": "Xuefeng Yicun",
-      "notes": "Abbot of Gushan (Drum Mountain) monastery in Fuzhou.",
+      "notes": "Heir of Xuefeng Yicun. In 908, Min kingdom ruler Wang Shenzhi appointed him to supervise the reconstruction of Yongquan Temple on Gushan (Drum Mountain) in Fuzhou, where he served as abbot and established a lasting Chan lineage in Fujian.",
       "links": [
         {
           "label": "Terebess (Gushan PDF)",
@@ -3013,6 +3103,18 @@
         {
           "label": "Zen Master Yunmen (book)",
           "url": "https://terebess.hu/zen/mesterek/Yunmen.pdf"
+        },
+        {
+          "label": "Baidu",
+          "url": "https://baike.baidu.com/item/%E6%96%87%E5%81%83%E7%A6%85%E5%B8%88/1990401"
+        },
+        {
+          "label": "CBETA (廣錄 T1988)",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T1988"
+        },
+        {
+          "label": "Encyclopedia of Buddhism",
+          "url": "https://encyclopediaofbuddhism.org/wiki/Yunmen_Wenyan"
         }
       ]
     },
@@ -3088,7 +3190,7 @@
       "students": [
         "Xuedou Chongxian"
       ],
-      "notes": "Teacher of Xuedou Chongxian, key link in Yunmen lineage.",
+      "notes": "Heir of Xianglin Chengyuan, both from Sichuan. Teacher of Xuedou Chongxian, whom he awakened with two blows of a fly whisk. Xuedou stayed five years and later compiled Zhimen's discourse record. Key link transmitting the Yunmen school to its greatest poet.",
       "links": [
         {
           "label": "Wikipedia (Xuedou)",
@@ -3131,7 +3233,7 @@
       "death": 970,
       "school": "Yunmen",
       "teacher": "Yunmen Wenyan",
-      "notes": "Direct heir of Yunmen. Known for his three turning phrases.",
+      "notes": "Direct heir of Yunmen Wenyan, taught at Xinkai Temple in Baling (modern Yueyang, Hunan). Instead of written transmission documents, he used three turning phrases to convey the essence of the Yunmen school. Appears in Blue Cliff Record cases 13 and 100.",
       "links": [
         {
           "label": "Terebess",
@@ -3150,8 +3252,8 @@
       ],
       "floruit": 910,
       "death": 970,
-      "school": "Caodong",
       "teacher": "Tongan Daopi",
+      "school": "Caodong",
       "notes": "Caodong lineage patriarch. Transmitted the Caodong dharma from Tongan Daopi to Liangshan Yuanguan.",
       "links": [
         {
@@ -3275,7 +3377,7 @@
       "students": [
         "Zhimen Guangzuo"
       ],
-      "notes": "Served Yunmen for eighteen years before transmission.",
+      "notes": "From Mianzhu in Sichuan. Served as Yunmen Wenyan's attendant for eighteen years; Yunmen's only teaching method was to call his name and shout 'What is this?' Together with Mingjiao, he recorded Yunmen's sayings in writing. Later transmitted the lineage to Zhimen Guangzuo. Appears in Blue Cliff Record case 17.",
       "links": [
         {
           "label": "Wikipedia (Yunmen)",
@@ -3344,8 +3446,8 @@
       ],
       "floruit": 960,
       "death": 1010,
-      "school": "Linji",
       "teacher": "Shoushan Xingnian",
+      "school": "Linji",
       "notes": "Linji master. Student of Shoushan Xingnian. Teacher of Fushan Fayuan, through whom the Caodong lineage was preserved.",
       "links": [
         {
@@ -3364,8 +3466,8 @@
       ],
       "floruit": 960,
       "death": 1020,
-      "school": "Caodong",
       "teacher": "Tongan Guanzhi",
+      "school": "Caodong",
       "notes": "Caodong lineage patriarch. Teacher of Dayang Jingxuan, the last living Caodong lineage holder.",
       "links": [
         {
@@ -3542,8 +3644,8 @@
       ],
       "floruit": 1020,
       "death": 1060,
-      "school": "Yunmen",
       "teacher": "Xuedou Chongxian",
+      "school": "Yunmen",
       "notes": "Yunmen school master at Kaixian Temple on Mount Lushan. Teacher of Foyin Liaoyuan.",
       "links": [
         {
@@ -3562,8 +3664,8 @@
       ],
       "floruit": 991,
       "death": 1067,
-      "school": "Linji",
       "teacher": "Shexian Guisheng",
+      "school": "Linji",
       "notes": "Received Linji transmission from Shexian Guisheng. Accepted Dayang Jingxuan’s Caodong materials and passed them to Touzi Yiqing, saving the Caodong school from extinction.",
       "links": [
         {
@@ -3641,7 +3743,6 @@
       "floruit": 1032,
       "death": 1083,
       "school": "Caodong",
-      "teacher": "Fushan Fayuan",
       "students": [
         "Furong Daokai"
       ],
@@ -3655,7 +3756,8 @@
           "label": "Terebess",
           "url": "https://terebess.hu/zen/touzi-yiqing.html"
         }
-      ]
+      ],
+      "teacher": "Fushan Fayuan"
     },
     {
       "names": [
@@ -3664,8 +3766,8 @@
       ],
       "floruit": 1025,
       "death": 1091,
-      "school": "Linji",
       "teacher": "Huanglong Huinan",
+      "school": "Linji",
       "notes": "Huanglong branch master at Donglin Temple on Mount Lu. Teacher of the poet Su Shi.",
       "links": [
         {
@@ -3684,8 +3786,8 @@
       ],
       "floruit": 1044,
       "death": 1091,
-      "school": "Linji",
       "teacher": "Zhenjing Kewen",
+      "school": "Linji",
       "notes": "Huanglong branch master. Teacher of lay student Zhang Shangying, the Song chancellor.",
       "links": [
         {
@@ -3705,8 +3807,8 @@
       "floruit": 1032,
       "death": 1098,
       "school": "Yunmen",
+      "notes": "Northern Song Yunmen master who served as abbot at nine major monasteries including Jinshan and Lushan Kaixian. Emperor Shenzong bestowed on him a Goryeo robe, golden bowl, and the title 'Chan Master Foyin.' Close friend and teacher of the poet Su Shi (Su Dongpo), with whom he exchanged the famous 'Eight Winds' letter.",
       "teacher": "Kaixian Shanxian",
-      "notes": "Famous for his close friendship with the poet Su Shi.",
       "links": [
         {
           "label": "Baidu Baike",
@@ -3755,8 +3857,8 @@
       "floruit": 1037,
       "death": 1101,
       "school": "Chan",
-      "teacher": "Donglin Changzong",
       "notes": "One of China's greatest poets. Deeply engaged with Chan Buddhism. Legend connected him to a rebirth of Wuzu Shijie.",
+      "teacher": "Donglin Changzong",
       "links": [
         {
           "label": "Wikipedia",
@@ -3781,8 +3883,8 @@
       ],
       "floruit": 1025,
       "death": 1102,
-      "school": "Linji",
       "teacher": "Huanglong Huinan",
+      "school": "Linji",
       "notes": "Also known as Baofeng Kewen. Second-generation Huanglong master. Known for expelling monks immediately after their awakening. Teacher of Doushuai Congyue.",
       "links": [
         {
@@ -3831,8 +3933,8 @@
       ],
       "floruit": 1053,
       "death": 1113,
-      "school": "Linji",
       "teacher": "Wuzu Fayan",
+      "school": "Linji",
       "notes": "Fellow student of Yuanwu Keqin under Wuzu Fayan. His sub-lineage led to Wumen Huikai.",
       "links": [
         {
@@ -3851,8 +3953,8 @@
       ],
       "floruit": 1044,
       "death": 1115,
-      "school": "Linji",
       "teacher": "Huitang Zuxin",
+      "school": "Linji",
       "notes": "Huanglong branch master. Enlightened by a thunderclap after working on Huitang’s fist koan. Teacher of Kongshi Daoren.",
       "links": [
         {
@@ -3871,8 +3973,8 @@
       ],
       "floruit": 1060,
       "death": 1117,
-      "school": "Caodong",
       "teacher": "Furong Daokai",
+      "school": "Caodong",
       "notes": "Direct disciple of Furong Daokai. His line carried Caodong transmission northward into Jin territory, eventually reaching Wansong Xingxiu via four generations — a separate branch from the southern Danxia Zichun line.",
       "links": [
         {
@@ -3967,8 +4069,8 @@
       "floruit": 1043,
       "death": 1121,
       "school": "Linji",
-      "teacher": "Doushuai Congyue",
       "notes": "High-ranking Song official who became devoted Chan patron. Author of Hufa lun.",
+      "teacher": "Doushuai Congyue",
       "links": [
         {
           "label": "Wikidata",
@@ -3988,8 +4090,8 @@
       "floruit": 1077,
       "death": 1132,
       "school": "Yunmen",
+      "notes": "Northern Song Yunmen master who served as abbot of several major monasteries. Renowned poet-monk whose verse explored how nondual insight applies to ethical decision-making in everyday life. His recorded sayings (yulu) circulated widely among Song literati.",
       "teacher": "Jingzhao Chongxin",
-      "notes": "Known for literary skill and poetic dharma talks.",
       "links": [
         {
           "label": "Wikidata",
@@ -4066,8 +4168,8 @@
       ],
       "floruit": 1081,
       "death": 1149,
-      "school": "Caodong",
       "teacher": "Lumen Zijue",
+      "school": "Caodong",
       "notes": "Dharma heir of Lumen Zijue. Continued Furong Daokai's Caodong line in the Jin-controlled north while the southern branch (Danxia Zichun to Hongzhi) flourished under the Song.",
       "links": [
         {
@@ -4086,8 +4188,8 @@
       ],
       "floruit": 1090,
       "death": 1150,
-      "school": "Linji",
       "teacher": "Langye Huijue",
+      "school": "Linji",
       "notes": "Song dynasty Chan master at Langye Mountain. Teacher of Yu Daopo, his only dharma heir.",
       "links": [
         {
@@ -4130,8 +4232,8 @@
       ],
       "floruit": 1079,
       "death": 1152,
-      "school": "Linji",
       "teacher": "Kaifu Daoning",
+      "school": "Linji",
       "notes": "Yangqi branch master. Link between Kaifu Daoning and Laona Zuzheng in the chain to Wumen Huikai.",
       "links": [
         {
@@ -4191,8 +4293,8 @@
       ],
       "floruit": 1091,
       "death": 1162,
-      "school": "Caodong",
       "teacher": "Zhenxie Qingliao",
+      "school": "Caodong",
       "notes": "Initially studied Yunmen, received Caodong transmission from Zhenxie Qingliao. Abbot of Tiantong monastery. Teacher of Xuedou Zhijian.",
       "links": [
         {
@@ -4240,6 +4342,14 @@
         {
           "label": "DILA Authority",
           "url": "https://authority.dila.edu.tw/person/search.php?aid=A000475"
+        },
+        {
+          "label": "Baidu",
+          "url": "https://baike.baidu.com/item/%E5%A4%A7%E6%85%A7%E7%A6%85%E5%B8%88"
+        },
+        {
+          "label": "CBETA (語錄 T1998A)",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T1998A"
         }
       ]
     },
@@ -4304,8 +4414,8 @@
       "floruit": 1100,
       "death": 1170,
       "school": "Linji",
-      "teacher": "Langye Yongqi",
       "notes": "Laywoman who achieved awakening. Notable female figure in Song Chan.",
+      "teacher": "Langye Yongqi",
       "links": [
         {
           "label": "Pacific Zen (Koan)",
@@ -4325,8 +4435,8 @@
       "floruit": 1130,
       "death": 1170,
       "school": "Linji",
-      "teacher": "Dahui Zonggao",
       "notes": "Female Chan master of the Southern Song.",
+      "teacher": "Dahui Zonggao",
       "links": [
         {
           "label": "Wikipedia",
@@ -4345,8 +4455,8 @@
       ],
       "floruit": 1114,
       "death": 1171,
-      "school": "Caodong",
       "teacher": "Puzhao Yibian",
+      "school": "Caodong",
       "notes": "Caodong master of the post-Furong northern lineage. Active in Hebei region during the Jin–Song partition.",
       "links": [
         {
@@ -4368,8 +4478,8 @@
       ],
       "floruit": 1120,
       "death": 1175,
-      "school": "Linji",
       "teacher": "Yue'an Shanguo",
+      "school": "Linji",
       "notes": "Also known as Dahong Zuzheng. Song dynasty Yangqi-line master. Teacher of Yuelin Shiguan.",
       "links": [
         {
@@ -4412,8 +4522,8 @@
       ],
       "floruit": 1105,
       "death": 1192,
-      "school": "Caodong",
       "teacher": "Tiantong Zongjue",
+      "school": "Caodong",
       "notes": "Caodong master at Mount Xuedou. Teacher of Tiantong Rujing, who transmitted Caodong to Japan through Dogen.",
       "links": [
         {
@@ -4433,8 +4543,8 @@
       "floruit": 1130,
       "death": 1200,
       "school": "Linji",
+      "notes": "Female Chan practitioner born into a scholar's family; her father refused to let her ordain, so she practiced as a laywoman under the name Kongshi ('Empty Room'). She attained deep awakening under Sixin Wuxin of the Huanglong branch; contemporaries Yuanwu Keqin and Foyan Qingyuan praised her realization. She opened a bathhouse near her teacher's monastery with the inscription: 'Nothing exists, not even dirt, so what are you bathing?'",
       "teacher": "Sixin Wuxin",
-      "notes": "Female Chan practitioner of the Southern Song.",
       "links": [
         {
           "label": "Spark Zen (bathhouse koan)",
@@ -4457,8 +4567,8 @@
       ],
       "floruit": 1150,
       "death": 1200,
-      "school": "Caodong",
       "teacher": "Lingyan Sengbao",
+      "school": "Caodong",
       "notes": "Caodong master; teacher of Xueyan Huiman. Appears in standard Caodong lineage charts between Lingyan Sengbao and Xueyan Huiman. Specific dates not preserved.",
       "links": [
         {
@@ -4477,8 +4587,8 @@
       ],
       "floruit": 1136,
       "death": 1206,
-      "school": "Caodong",
       "teacher": "Yushan Shiti",
+      "school": "Caodong",
       "students": [
         "Wansong Xingxiu"
       ],
@@ -4574,8 +4684,8 @@
       ],
       "floruit": 1143,
       "death": 1217,
-      "school": "Linji",
       "teacher": "Laona Zuzheng",
+      "school": "Linji",
       "notes": "Yangqi branch Linji master. Teacher of Wumen Huikai, compiler of the Gateless Barrier. Gave Wumen the koan of Zhaozhou’s ‘No’.",
       "links": [
         {
@@ -4665,8 +4775,8 @@
       ],
       "floruit": 1190,
       "death": 1244,
-      "school": "Chan",
       "teacher": "Wansong Xingxiu",
+      "school": "Chan",
       "notes": "Khitan statesman, chief advisor to Genghis Khan and Ögedei Khan; architect of early Mongol civil administration in North China. Lay disciple of Wansong Xingxiu from 1215, dharma name Zhanran Jushi ('Layman Clear-and-Still'). Commissioned Wansong to reconstruct the Book of Serenity in 1224 — without him, Hongzhi Zhengjue's 100 verses would have been lost.",
       "links": [
         {
@@ -4687,15 +4797,15 @@
       ],
       "floruit": 1166,
       "death": 1246,
-      "school": "Caodong",
       "teacher": "Xueyan Huiman",
+      "school": "Caodong",
       "students": [
         "Linquan Conglun",
         "Xueting Fuyu",
         "Yelü Chucai"
       ],
-      "notes": "Influential Caodong master active during the late Jin dynasty and early Mongol period. Compiler of the Book of Serenity (從容錄, Congrong Lu, 1224), his prose commentary on Hongzhi Zhengjue's 100 verse-comments on old cases, composed at the urging of his lay disciple Yelü Chucai. Self-styled 'Old Man of Ten Thousand Pines' (萬松老人). Abbot of Bao'en Temple in Yanjing from 1197 until his death. His lineage became the dominant Chinese Caodong transmission through his disciple Xueting Fuyu at Shaolin.",
       "region": "Yanjing (modern Beijing)",
+      "notes": "Influential Caodong master active during the late Jin dynasty and early Mongol period. Compiler of the Book of Serenity (從容錄, Congrong Lu, 1224), his prose commentary on Hongzhi Zhengjue's 100 verse-comments on old cases, composed at the urging of his lay disciple Yelü Chucai. Self-styled 'Old Man of Ten Thousand Pines' (萬松老人). Abbot of Bao'en Temple in Yanjing from 1197 until his death. His lineage became the dominant Chinese Caodong transmission through his disciple Xueting Fuyu at Shaolin.",
       "links": [
         {
           "label": "Wikipedia",
@@ -4831,8 +4941,8 @@
       ],
       "floruit": 1203,
       "death": 1275,
-      "school": "Caodong",
       "teacher": "Wansong Xingxiu",
+      "school": "Caodong",
       "notes": "Most historically consequential heir of Wansong. Appointed by Kublai Khan to restore Shaolin Monastery, where he installed the Caodong lineage as the dominant transmission. Composed the 70-character generation poem still used to name Shaolin monks today, institutionalizing the lineage. Through him, Wansong's line became the 'unbroken' Shaolin Caodong transmission surviving to the present.",
       "links": [
         {
@@ -4855,8 +4965,8 @@
       ],
       "floruit": 1210,
       "death": 1280,
-      "school": "Caodong",
       "teacher": "Wansong Xingxiu",
+      "school": "Caodong",
       "notes": "Primary monastic heir of Wansong Xingxiu. Succeeded him as abbot of Bao'en Temple in Yanjing. Compiled two major koan collections — Konggu ji (Empty Valley Collection) on Touzi Yiqing's verses and Xutang ji (Empty Hall Collection) on Danxia Zichun's verses. Invited to the Mongol court in 1268.",
       "links": [
         {
@@ -5038,8 +5148,8 @@
       ],
       "floruit": 1255,
       "death": 1341,
-      "school": "Linji",
       "teacher": "Gaofeng Yuanmiao",
+      "school": "Linji",
       "notes": "Yuan dynasty Linji master at Lingyin Temple, Hangzhou. Teacher of Chushi Fanqi.",
       "links": [
         {
@@ -5096,8 +5206,8 @@
       ],
       "floruit": 1284,
       "death": 1357,
-      "school": "Linji",
       "teacher": "Zhongfeng Mingben",
+      "school": "Linji",
       "notes": "Yuan dynasty Linji master. Dharma heir of Zhongfeng Mingben. His line continued through Wanfeng Shiwei to the Ming revival.",
       "links": [
         {
@@ -5138,8 +5248,8 @@
       "floruit": 1296,
       "death": 1370,
       "school": "Linji",
+      "notes": "Ordained at age nine at Tianning Temple in Haiyan, Zhejiang. Studied calligraphy under Zhao Mengfu and became one of the foremost Chan poet-monks of the Yuan dynasty, composing over a hundred Pure Land poems. Yunqi Zhuhong later ranked him first among the most eminent monks of the era.",
       "teacher": "Yuansou Xingduan",
-      "notes": "Major Chan poet of the Yuan-Ming transition.",
       "links": [
         {
           "label": "Calligraphy (MOA Museum)",
@@ -5204,8 +5314,8 @@
       ],
       "floruit": 1303,
       "death": 1381,
-      "school": "Linji",
       "teacher": "Qianyan Yuanzhang",
+      "school": "Linji",
       "notes": "Late Yuan / early Ming Linji master. Key link between Yuan-era Chan and the Ming revival.",
       "links": [
         {
@@ -5327,9 +5437,9 @@
       ],
       "floruit": 1420,
       "death": 1472,
-      "school": "Linji",
       "teacher": "Wanfeng Shiwei",
-      "notes": "Early Ming Linji master in the Zhongfeng Mingben line.",
+      "school": "Linji",
+      "notes": "Early Ming Linji master in the Zhongfeng Mingben line, heir of Wanfeng Shiwei. Active at Baofeng monastery; his transmission continued through Tianqi Benrui and eventually reached Yunqi Zhuhong, the eighth Pure Land patriarch.",
       "links": [
         {
           "label": "Terebess (Zhuhong lineage)",
@@ -5360,8 +5470,8 @@
       ],
       "floruit": 1450,
       "death": 1508,
-      "school": "Linji",
       "teacher": "Baofeng Mingxuan",
+      "school": "Linji",
       "notes": "Mid-Ming Linji master. His heir Wuwen Mingcong continued the lineage.",
       "links": [
         {
@@ -5419,8 +5529,8 @@
       ],
       "floruit": 1480,
       "death": 1543,
-      "school": "Linji",
       "teacher": "Tianqi Benrui",
+      "school": "Linji",
       "notes": "Ming dynasty Linji master. Teacher of both Xiaoyan Debao and Yungu Fahui.",
       "links": [
         {
@@ -5512,8 +5622,8 @@
       ],
       "floruit": 1500,
       "death": 1579,
-      "school": "Linji",
       "teacher": "Wuwen Mingcong",
+      "school": "Linji",
       "notes": "Ming dynasty Chan master who pioneered 7-day meditation retreats. Teacher of Hanshan Deqing, one of the Four Great Monks of the Ming.",
       "links": [
         {
@@ -5532,8 +5642,8 @@
       ],
       "floruit": 1500,
       "death": 1580,
-      "school": "Chan",
       "teacher": "Wuwen Mingcong",
+      "school": "Chan",
       "notes": "Ming dynasty Chan elder at Fatong Temple in Beijing. Teacher of Zibo Zhenke for nine years.",
       "links": [
         {
@@ -5552,8 +5662,8 @@
       ],
       "floruit": 1512,
       "death": 1581,
-      "school": "Linji",
       "teacher": "Wuwen Mingcong",
+      "school": "Linji",
       "notes": "Ming dynasty Linji master. Teacher of Yunqi Zhuhong. His teaching featured the stick and thunderous shout.",
       "links": [
         {
@@ -5594,8 +5704,8 @@
       "floruit": 1543,
       "death": 1603,
       "school": "Linji",
-      "teacher": "Bianrong",
       "notes": "One of the 'four great monks' of late Ming. Spearheaded the Jiaxing canon printing project. Died in prison.",
+      "teacher": "Bianrong",
       "links": [
         {
           "label": "Wikipedia",
@@ -5666,8 +5776,8 @@
       ],
       "floruit": 1549,
       "death": 1614,
-      "school": "Linji",
       "teacher": "Xiaoyan Debao",
+      "school": "Linji",
       "notes": "Late Ming Linji master. Teacher of Miyun Yuanwu, the most influential 17th-century Chan figure.",
       "links": [
         {
@@ -5691,8 +5801,8 @@
       "floruit": 1535,
       "death": 1615,
       "school": "Linji",
-      "teacher": "Xiaoyan Debao",
       "notes": "One of the 'four great monks'. Leading advocate of Chan-Pure Land synthesis.",
+      "teacher": "Xiaoyan Debao",
       "links": [
         {
           "label": "Wikipedia",
@@ -5763,8 +5873,8 @@
       "floruit": 1546,
       "death": 1623,
       "school": "Linji",
-      "teacher": "Yungu Fahui",
       "notes": "One of the 'four great monks'. Prolific writer, exiled to Guangdong. His autobiography is a classic.",
+      "teacher": "Yungu Fahui",
       "links": [
         {
           "label": "Wikipedia",
@@ -5790,8 +5900,8 @@
       ],
       "floruit": 1570,
       "death": 1630,
-      "school": "Linji",
       "teacher": "Hanshan Deqing",
+      "school": "Linji",
       "notes": "Disciple of Hanshan Deqing. Tonsure master of Ouyi Zhixu at Yunqi Temple.",
       "links": [
         {
@@ -5891,8 +6001,8 @@
       ],
       "floruit": 1598,
       "death": 1638,
-      "school": "Linji",
       "teacher": "Miyun Yuanwu",
+      "school": "Linji",
       "notes": "Dharma heir of Miyun Yuanwu. Teacher of the eminent nun Qiyuan Xinggang. Used huatou (critical phrase) practice.",
       "links": [
         {
@@ -5912,7 +6022,6 @@
       "floruit": 1567,
       "death": 1642,
       "school": "Linji",
-      "teacher": "Huanyou Zhengchuan",
       "students": [
         "Hanyue Fazang",
         "Shiche Tongcheng",
@@ -5934,7 +6043,8 @@
           "label": "Terebess",
           "url": "https://terebess.hu/zen/mesterek/MiyunYuanwu.html"
         }
-      ]
+      ],
+      "teacher": "Huanyou Zhengchuan"
     },
     {
       "names": [
@@ -5996,12 +6106,12 @@
       "floruit": 1597,
       "death": 1654,
       "school": "Linji",
+      "notes": "One of the most prominent female Chan masters in Chinese history. A Linji heir of Shiche Tongcheng, she became abbess of Crouching Lion (Fuwo) Chan Monastery, which flourished under her leadership. She left seven female dharma heirs, and her recorded sayings and poems survive in full.",
       "teacher": "Shiche Tongcheng",
       "students": [
         "Yigong",
         "Yikui Chaochen"
       ],
-      "notes": "Linji master of the late Ming / early Qing transition.",
       "links": [
         {
           "label": "Wikidata",
@@ -6025,8 +6135,8 @@
       "floruit": 1599,
       "death": 1655,
       "school": "Chan",
-      "teacher": "Xueling",
       "notes": "Last of the 'four great monks'. Primarily Tiantai and Pure Land, fierce advocate of Vinaya reform.",
+      "teacher": "Xueling",
       "links": [
         {
           "label": "Wikipedia",
@@ -6352,7 +6462,17 @@
       "students": [
         "Jialing Xingyin"
       ],
-      "notes": "Link in the imperial Chan line from Yulin to Yongzheng."
+      "notes": "Linji heir of Maoxi Xingsen in the Yulin Tongxiu line. Taught at Li'an monastery in Hangzhou and later became abbot of Bailin monastery in Beijing. His student Jialing Xingyin became the Chan teacher of the Yongzheng Emperor.",
+      "links": [
+        {
+          "label": "Wikipedia (Yulin Tongxiu)",
+          "url": "https://zh.wikipedia.org/zh-hans/%E7%8E%89%E6%9E%97%E9%80%9A%E7%90%87"
+        },
+        {
+          "label": "Baidu (Yulin Tongxiu)",
+          "url": "https://baike.baidu.com/item/%E7%8E%89%E6%9E%97%E9%80%9A%E7%90%87/8409519"
+        }
+      ]
     },
     {
       "names": [
@@ -6387,6 +6507,9 @@
       "attestation": "D",
       "notes": "Major 18th-century figure. Authored Seonmun ojonggangyo (Essentials of the Five Schools of Seon), which systematized Korean Seon doctrine. Was exiled after a controversy. The modern Jogye Order's kanhwa Seon tradition traces through him.",
       "region": "Korea (Joseon)",
+      "students": [
+        "Hoam Chejeong"
+      ],
       "links": [
         {
           "label": "EncyKorea",
@@ -6402,7 +6525,21 @@
       "death": 1289,
       "school": "Caodong",
       "teacher": "Xueting Fuyu",
-      "notes": "Shaolin Monastery Caodong transmission. Link figure between Xueting Fuyu and the late Ming Caodong revival."
+      "notes": "Shaolin Monastery Caodong transmission. Link figure between Xueting Fuyu and the late Ming Caodong revival.",
+      "links": [
+        {
+          "label": "Baidu (Caodong lineage)",
+          "url": "https://baike.baidu.com/item/%E6%9B%B9%E6%B4%9E%E6%AD%A3%E5%AE%97%E6%B3%95%E8%84%88%E6%BA%90%E6%B5%81/6918516"
+        },
+        {
+          "label": "Dongshan Puli Temple",
+          "url": "https://www.dsplcs.com/dongxiazhifeng/caodongzongmen/974.html"
+        },
+        {
+          "label": "London Chan Meditation",
+          "url": "https://londonchanmeditation.org/lineage/"
+        }
+      ]
     },
     {
       "names": [
@@ -6412,7 +6549,21 @@
       "death": 1313,
       "school": "Caodong",
       "teacher": "Lingyin Wentai",
-      "notes": "Yuan dynasty Shaolin Caodong transmission."
+      "notes": "Third-generation Shaolin Caodong master (after Xueting Fuyu and Lingyin Wentai). Served as abbot of Shaolin Monastery during the late Yuan dynasty, maintaining the Caodong transmission that Xueting Fuyu had restored there.",
+      "links": [
+        {
+          "label": "Baidu (Caodong lineage)",
+          "url": "https://baike.baidu.com/item/%E6%9B%B9%E6%B4%9E%E6%AD%A3%E5%AE%97%E6%B3%95%E8%84%88%E6%BA%90%E6%B5%81/6918516"
+        },
+        {
+          "label": "Dongshan Puli Temple",
+          "url": "https://www.dsplcs.com/dongxiazhifeng/caodongzongmen/974.html"
+        },
+        {
+          "label": "London Chan Meditation",
+          "url": "https://londonchanmeditation.org/lineage/"
+        }
+      ]
     },
     {
       "names": [
@@ -6422,7 +6573,21 @@
       "death": 1352,
       "school": "Caodong",
       "teacher": "Huanyuan Fuyu",
-      "notes": "Yuan dynasty Shaolin Caodong transmission."
+      "notes": "Fourth-generation Shaolin Caodong master, dharma heir of Huanyuan Fuyu. Served as abbot of Shaolin Monastery during the mid-Yuan dynasty, continuing the Caodong lineage that would persist at Shaolin into the Ming.",
+      "links": [
+        {
+          "label": "Baidu (Caodong lineage)",
+          "url": "https://baike.baidu.com/item/%E6%9B%B9%E6%B4%9E%E6%AD%A3%E5%AE%97%E6%B3%95%E8%84%88%E6%BA%90%E6%B5%81/6918516"
+        },
+        {
+          "label": "Dongshan Puli Temple",
+          "url": "https://www.dsplcs.com/dongxiazhifeng/caodongzongmen/974.html"
+        },
+        {
+          "label": "London Chan Meditation",
+          "url": "https://londonchanmeditation.org/lineage/"
+        }
+      ]
     },
     {
       "names": [
@@ -6432,7 +6597,21 @@
       "death": 1380,
       "school": "Caodong",
       "teacher": "Chunzuo Wencai",
-      "notes": "Yuan-Ming transition. Shaolin Caodong transmission. Dates approximate."
+      "notes": "Yuan-Ming transition. Shaolin Caodong transmission. Dates approximate.",
+      "links": [
+        {
+          "label": "Baidu (Caodong lineage)",
+          "url": "https://baike.baidu.com/item/%E6%9B%B9%E6%B4%9E%E6%AD%A3%E5%AE%97%E6%B3%95%E8%84%88%E6%BA%90%E6%B5%81/6918516"
+        },
+        {
+          "label": "Dongshan Puli Temple",
+          "url": "https://www.dsplcs.com/dongxiazhifeng/caodongzongmen/974.html"
+        },
+        {
+          "label": "London Chan Meditation",
+          "url": "https://londonchanmeditation.org/lineage/"
+        }
+      ]
     },
     {
       "names": [
@@ -6442,7 +6621,21 @@
       "death": 1421,
       "school": "Caodong",
       "teacher": "Songting Ziyan",
-      "notes": "Early Ming Shaolin Caodong transmission."
+      "notes": "Sixth-generation Shaolin Caodong master, heir of Songting Ziyan. Served as abbot of Shaolin Monastery in the early Ming, maintaining the Caodong transmission through the Yuan-Ming dynastic transition.",
+      "links": [
+        {
+          "label": "Baidu (Caodong lineage)",
+          "url": "https://baike.baidu.com/item/%E6%9B%B9%E6%B4%9E%E6%AD%A3%E5%AE%97%E6%B3%95%E8%84%88%E6%BA%90%E6%B5%81/6918516"
+        },
+        {
+          "label": "Dongshan Puli Temple",
+          "url": "https://www.dsplcs.com/dongxiazhifeng/caodongzongmen/974.html"
+        },
+        {
+          "label": "London Chan Meditation",
+          "url": "https://londonchanmeditation.org/lineage/"
+        }
+      ]
     },
     {
       "names": [
@@ -6452,7 +6645,21 @@
       "death": 1452,
       "school": "Caodong",
       "teacher": "Ningran Liaogai",
-      "notes": "Early Ming Shaolin Caodong transmission."
+      "notes": "Seventh-generation Shaolin Caodong master, heir of Ningran Liaogai. Served as abbot of Shaolin Monastery in the early-to-mid Ming dynasty, continuing the unbroken Caodong transmission established by Xueting Fuyu.",
+      "links": [
+        {
+          "label": "Baidu (Caodong lineage)",
+          "url": "https://baike.baidu.com/item/%E6%9B%B9%E6%B4%9E%E6%AD%A3%E5%AE%97%E6%B3%95%E8%84%88%E6%BA%90%E6%B5%81/6918516"
+        },
+        {
+          "label": "Dongshan Puli Temple",
+          "url": "https://www.dsplcs.com/dongxiazhifeng/caodongzongmen/974.html"
+        },
+        {
+          "label": "London Chan Meditation",
+          "url": "https://londonchanmeditation.org/lineage/"
+        }
+      ]
     },
     {
       "names": [
@@ -6465,7 +6672,21 @@
       "students": [
         "Yuezhou Wenzai"
       ],
-      "notes": "Mid Ming Shaolin Caodong transmission. Teacher of Yuezhou Wenzai."
+      "notes": "Mid Ming Shaolin Caodong transmission. Teacher of Yuezhou Wenzai.",
+      "links": [
+        {
+          "label": "Baidu (Caodong lineage)",
+          "url": "https://baike.baidu.com/item/%E6%9B%B9%E6%B4%9E%E6%AD%A3%E5%AE%97%E6%B3%95%E8%84%88%E6%BA%90%E6%B5%81/6918516"
+        },
+        {
+          "label": "Dongshan Puli Temple",
+          "url": "https://www.dsplcs.com/dongxiazhifeng/caodongzongmen/974.html"
+        },
+        {
+          "label": "London Chan Meditation",
+          "url": "https://londonchanmeditation.org/lineage/"
+        }
+      ]
     },
     {
       "names": [
@@ -6677,7 +6898,21 @@
       "death": 1702,
       "school": "Caodong",
       "teacher": "Yongjue Yuanxian",
-      "notes": "Only dharma heir of Yongjue Yuanxian. Established Gushan Yongquan Monastery as a hereditary Caodong dharma-transmission seat. The Gushan Caodong line continued through his successors for 250 years, eventually producing Xuyun."
+      "notes": "Only dharma heir of Yongjue Yuanxian. Established Gushan Yongquan Monastery as a hereditary Caodong dharma-transmission seat. The Gushan Caodong line continued through his successors for 250 years, eventually producing Xuyun.",
+      "links": [
+        {
+          "label": "Baidu",
+          "url": "https://baike.baidu.com/item/%E9%81%93%E9%9C%88/7550883"
+        },
+        {
+          "label": "Terebess (Gushan lineage)",
+          "url": "https://terebess.hu/zen/Wang.pdf"
+        },
+        {
+          "label": "Western Chan Fellowship",
+          "url": "https://westernchanfellowship.org/about-the-western-chan-fellowship/lineage-of-the-teachers/lineage-chart/"
+        }
+      ]
     },
     {
       "names": [
@@ -6690,7 +6925,17 @@
       "students": [
         "Nguyen Thieu"
       ],
-      "notes": "Based at Longshan Temple in Guangdong. Transmitted Miyun's Linji lineage to the Vietnamese monk Nguyen Thieu, who brought it to Cochinchina in 1665."
+      "notes": "Based at Longshan Temple in Guangdong. Transmitted Miyun's Linji lineage to the Vietnamese monk Nguyen Thieu, who brought it to Cochinchina in 1665.",
+      "links": [
+        {
+          "label": "Wikipedia (Vietnamese Thien)",
+          "url": "https://en.wikipedia.org/wiki/Thi%E1%BB%81n"
+        },
+        {
+          "label": "London Chan Meditation",
+          "url": "https://londonchanmeditation.org/lineage/"
+        }
+      ]
     },
     {
       "names": [
@@ -6731,5 +6976,6 @@
         }
       ]
     }
-  ]
+  ],
+  "count": 291
 }
