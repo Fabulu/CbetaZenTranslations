@@ -1,0 +1,851 @@
+{"source_sha256":"9e5baf2345df836b42019a11ef7276cb9b9c97b8747ee005987b5f5c9867eb8a","schema":"seg-v1"}
+{"unit_id":"N26n0009_001","lb_range":["0013a01","0013a02","0013a03"],"text_zh":"","text_en":"一　雙品 歸命彼世尊 應供等覺者","type":"prose","confidence":1}
+{"unit_id":"N26n0009_002","lb_range":[],"text_zh":"歸命彼世尊　應供等覺者","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_003","lb_range":["0013a04","0013a05","0013a06"],"text_zh":"一　雙品","text_en":"一　雙品","type":"prose","confidence":1}
+{"unit_id":"N26n0009_004","lb_range":["0013a07"],"text_zh":"一","text_en":"一 諸法意為導，意主意造作。人若染穢意，或語或〔身〕行，苦事則隨彼，如輪","type":"prose","confidence":1}
+{"unit_id":"N26n0009_005","lb_range":["0013a08"],"text_zh":"諸法意為導，意主意造作。人若染穢意，或語或〔身〕行，苦事則隨彼，如輪 隨獸足。","text_en":"隨獸足。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_006","lb_range":["0013a09"],"text_zh":"二","text_en":"二 諸法意為導，意主意造作。人若清淨意、或語或〔身〕行，樂事則隨彼，如影","type":"prose","confidence":1}
+{"unit_id":"N26n0009_007","lb_range":["0013a10"],"text_zh":"諸法意為導，意主意造作。人若清淨意、或語或〔身〕行，樂事則隨彼，如影 之隨形。","text_en":"之隨形。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_008","lb_range":["0013a11"],"text_zh":"三","text_en":"三 「彼罵我擲我，敗我奪取我」，於懷如此念，忿怨事不息。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_009","lb_range":[],"text_zh":"「彼罵我擲我，敗我奪取我」，於懷如此念，忿怨事不息。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_010","lb_range":["0013a12"],"text_zh":"四","text_en":"四 「彼罵我擲我，敗我奪取我」，不懷如是念，忿怨終自息。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_011","lb_range":[],"text_zh":"「彼罵我擲我，敗我奪取我」，不懷如是念，忿怨終自息。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_012","lb_range":["0013a13"],"text_zh":"五","text_en":"五 實於此世中，非以怨止怨，唯以〔忍〕止怨，此為古常法。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_013","lb_range":[],"text_zh":"實於此世中，非以怨止怨，唯以〔忍〕止怨，此為古常法。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_014","lb_range":["0013a14"],"text_zh":"六","text_en":"六 彼人不曉悟：「我等終毀滅」。惟有此悟者，彼諍自然息。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_015","lb_range":[],"text_zh":"彼人不曉悟：「我等終毀滅」。惟有此悟者，彼諍自然息。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_016","lb_range":["0014a01"],"text_zh":"七","text_en":"七 唯求享樂事，不攝護諸根，飲食無限度，怠惰不精勤，彼實為魔服，如風吹弱","type":"prose","confidence":1}
+{"unit_id":"N26n0009_017","lb_range":["0014a02"],"text_zh":"唯求享樂事，不攝護諸根，飲食無限度，怠惰不精勤，彼實為魔服，如風吹弱 樹。","text_en":"樹。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_018","lb_range":["0014a03"],"text_zh":"八","text_en":"八 不求享樂事，善護攝諸根，飲食有限度，信念又精勤，魔王不勝彼，如風吹巖","type":"prose","confidence":1}
+{"unit_id":"N26n0009_019","lb_range":["0014a04"],"text_zh":"不求享樂事，善護攝諸根，飲食有限度，信念又精勤，魔王不勝彼，如風吹巖 山。","text_en":"山。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_020","lb_range":["0014a05"],"text_zh":"九","text_en":"九 雖為纏袈 裟 ，不脫垢濁者 ，無真實克己，不應纏袈 裟 。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_021","lb_range":[],"text_zh":"雖為纏袈裟，不脫垢濁者，無真實克己，不應纏袈裟。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_022","lb_range":["0014a06"],"text_zh":"一〇","text_en":"一〇 離棄諸垢濁 ，善住於戒律，真實以克己，彼應纏袈 裟 。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_023","lb_range":[],"text_zh":"離棄諸垢濁，善住於戒律，真實以克己，彼應纏袈裟。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_024","lb_range":["0014a07"],"text_zh":"一一","text_en":"一一 非真思為真，真實為非真，住於邪思惟，則不達真實。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_025","lb_range":[],"text_zh":"非真思為真，真實為非真，住於邪思惟，則不達真實。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_026","lb_range":["0014a08"],"text_zh":"一二","text_en":"一二 於真知為真，非真知非真，住於正思惟，能達於真實。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_027","lb_range":[],"text_zh":"於真知為真，非真知非真，住於正思惟，能達於真實。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_028","lb_range":["0014a09"],"text_zh":"一三","text_en":"一三 粗茸劣家屋，必受雨漏浸，如此不修心，貪欲則浸入。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_029","lb_range":[],"text_zh":"粗茸劣家屋，必受雨漏浸，如此不修心，貪欲則浸入。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_030","lb_range":["0014a10"],"text_zh":"一四","text_en":"一四 善茸精家屋，不受雨漏浸，如此善修心，貪欲不浸入。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_031","lb_range":[],"text_zh":"善茸精家屋，不受雨漏浸，如此善修心，貪欲不浸入。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_032","lb_range":["0014a11"],"text_zh":"一五","text_en":"一五 現世於此悲，死後他世悲，造諸惡業者，兩世皆憂悲。見自穢業已，彼悲彼","type":"prose","confidence":1}
+{"unit_id":"N26n0009_033","lb_range":["0014a12"],"text_zh":"現世於此悲，死後他世悲，造諸惡業者，兩世皆憂悲。見自穢業已，彼悲彼 苦惱。","text_en":"苦惱。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_034","lb_range":["0014a13"],"text_zh":"一六","text_en":"一六 現世於此喜，死後他世歡，造諸善業者，兩世皆歡喜。見自淨業已，彼樂彼","type":"prose","confidence":1}
+{"unit_id":"N26n0009_035","lb_range":["0014a14"],"text_zh":"現世於此喜，死後他世歡，造諸善業者，兩世皆歡喜。見自淨業已，彼樂彼 歡喜。","text_en":"歡喜。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_036","lb_range":["0015a01"],"text_zh":"一七","text_en":"一七 現世於此苦，死後他世苦，造諸惡業者，兩世皆受苦。謂：「今悲我作惡，墮","type":"prose","confidence":1}
+{"unit_id":"N26n0009_037","lb_range":["0015a02"],"text_zh":"現世於此苦，死後他世苦，造諸惡業者，兩世皆受苦。謂：「今悲我作惡，墮 惡趣更苦。」","text_en":"惡趣更苦。」","type":"verse","confidence":1}
+{"unit_id":"N26n0009_038","lb_range":["0015a03"],"text_zh":"一八","text_en":"一八 現世於此喜，死後他世歡，造諸善業者，兩世皆歡喜。謂：「今造善業喜，往","type":"prose","confidence":1}
+{"unit_id":"N26n0009_039","lb_range":["0015a04"],"text_zh":"現世於此喜，死後他世歡，造諸善業者，兩世皆歡喜。謂：「今造善業喜，往 善趣更喜。」","text_en":"善趣更喜。」","type":"verse","confidence":1}
+{"unit_id":"N26n0009_040","lb_range":["0015a05"],"text_zh":"一九","text_en":"一九 縱多誦經典，放逸不實行，如牧算他牛，不入真沙門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_041","lb_range":[],"text_zh":"縱多誦經典，放逸不實行，如牧算他牛，不入真沙門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_042","lb_range":["0015a06"],"text_zh":"二〇","text_en":"二〇 雖誦經典少，舉止遵法行，具足正智識，棄滅貪瞋癡，善淨心解脫，捨離此","type":"prose","confidence":1}
+{"unit_id":"N26n0009_043","lb_range":["0015a07"],"text_zh":"雖誦經典少，舉止遵法行，具足正智識，棄滅貪瞋癡，善淨心解脫，捨離此 世欲，此世或他世，入真沙門列。","text_en":"世欲，此世或他世，入真沙門列。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_044","lb_range":["0015a08","0015a09","0015a10","0015a11","0015a12","0015a13"],"text_zh":"二一","text_en":"二　不放逸品 二一 不逸不死道，放逸為死路。不放逸不死，逸者如死尸。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_045","lb_range":[],"text_zh":"不逸不死道，放逸為死路。不放逸不死，逸者如死尸。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_046","lb_range":["0015a14"],"text_zh":"二二","text_en":"二二 智者悟此理，所行不放逸。不放逸者樂，喜樂聖者境。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_047","lb_range":[],"text_zh":"智者悟此理，所行不放逸。不放逸者樂，喜樂聖者境。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_048","lb_range":["0016a01"],"text_zh":"二三","text_en":"二三 賢者常堅忍，勇猛修禪定，離軛獲安穩，得無上涅槃。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_049","lb_range":[],"text_zh":"賢者常堅忍，勇猛修禪定，離軛獲安穩，得無上涅槃。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_050","lb_range":["0016a02"],"text_zh":"二四","text_en":"二四 奮勵常正慮，淨行能制己，正法而生活，不逸善譽增。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_051","lb_range":[],"text_zh":"奮勵常正慮，淨行能制己，正法而生活，不逸善譽增。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_052","lb_range":["0016a03"],"text_zh":"二五","text_en":"二五 奮勵不放逸，勝己自調御，賢者自作洲，免沒於瀑流。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_053","lb_range":[],"text_zh":"奮勵不放逸，勝己自調御，賢者自作洲，免沒於瀑流。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_054","lb_range":["0016a04"],"text_zh":"二六","text_en":"二六 癡鈍愚昧人，耽溺於放逸，智者不放逸，如〔護〕最上寶。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_055","lb_range":[],"text_zh":"癡鈍愚昧人，耽溺於放逸，智者不放逸，如〔護〕最上寶。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_056","lb_range":["0016a05"],"text_zh":"二七","text_en":"二七 勿耽於放逸，勿嗜愛欲樂。唯勤住禪定，始得大安樂。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_057","lb_range":[],"text_zh":"勿耽於放逸，勿嗜愛欲樂。唯勤住禪定，始得大安樂。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_058","lb_range":["0016a06"],"text_zh":"二八","text_en":"二八 智者無放逸，除逸時無憂，聖者登慧閣，觀察愚多憂，如立於高山，俯視地","type":"prose","confidence":1}
+{"unit_id":"N26n0009_059","lb_range":["0016a07"],"text_zh":"智者無放逸，除逸時無憂，聖者登慧閣，觀察愚多憂，如立於高山，俯視地 上物。","text_en":"上物。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_060","lb_range":["0016a08"],"text_zh":"二九","text_en":"二九 放逸中無逸，睡眾中獨醒，智人如駿馬，駑駻所不及。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_061","lb_range":[],"text_zh":"放逸中無逸，睡眾中獨醒，智人如駿馬，駑駻所不及。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_062","lb_range":["0016a09"],"text_zh":"三〇","text_en":"三〇 摩伽婆無逸，得天之主位。人讚不放逸，放逸常被責。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_063","lb_range":[],"text_zh":"摩伽婆無逸，得天之主位。人讚不放逸，放逸常被責。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_064","lb_range":["0016a10"],"text_zh":"三一","text_en":"三一 比丘樂不逸，又畏於放逸，猶如猛火炎，燒除大小縛。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_065","lb_range":[],"text_zh":"比丘樂不逸，又畏於放逸，猶如猛火炎，燒除大小縛。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_066","lb_range":["0016a11"],"text_zh":"三二","text_en":"三二 比丘樂不逸，又畏於放逸，彼既近涅槃，決無退墮事。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_067","lb_range":[],"text_zh":"比丘樂不逸，又畏於放逸，彼既近涅槃，決無退墮事。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_068","lb_range":["0016a12","0016a13","0016a14"],"text_zh":"三三","text_en":"三　心品 三三 搖動變易心，難護難制服，智者令調直，如匠矯直箭。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_069","lb_range":[],"text_zh":"搖動變易心，難護難制服，智者令調直，如匠矯直箭。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_070","lb_range":["0017a01"],"text_zh":"三四","text_en":"三四 水中魚離棲，棄投陸地上，如是心戰慄，離脫魔世界。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_071","lb_range":[],"text_zh":"水中魚離棲，棄投陸地上，如是心戰慄，離脫魔世界。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_072","lb_range":["0017a02"],"text_zh":"三五","text_en":"三五 心輕隨欲轉，操動難制服，善哉心調御，調御得安樂。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_073","lb_range":[],"text_zh":"心輕隨欲轉，操動難制服，善哉心調御，調御得安樂。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_074","lb_range":["0017a03"],"text_zh":"三六","text_en":"三六 心轉隨欲轉，微妙猛難見，智者當護心，護心得安樂。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_075","lb_range":[],"text_zh":"心轉隨欲轉，微妙猛難見，智者當護心，護心得安樂。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_076","lb_range":["0017a04"],"text_zh":"三七","text_en":"三七 遠行與獨動，無形隱胸窟，若誰制彼心，脫出魔繫縛。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_077","lb_range":[],"text_zh":"遠行與獨動，無形隱胸窟，若誰制彼心，脫出魔繫縛。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_078","lb_range":["0017a05"],"text_zh":"三八","text_en":"三八 若心不安定，不辨於正法，信念不堅者，智慧不成滿。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_079","lb_range":[],"text_zh":"若心不安定，不辨於正法，信念不堅者，智慧不成滿。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_080","lb_range":["0017a06"],"text_zh":"三九","text_en":"三九 若得心無惱，亦無思慮惑，超脫善與惡，覺者無恐怖。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_081","lb_range":[],"text_zh":"若得心無惱，亦無思慮惑，超脫善與惡，覺者無恐怖。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_082","lb_range":["0017a07"],"text_zh":"四〇","text_en":"四〇 知身如水甕，心安如城廓，慧劍擊魔王，守視真懈怠。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_083","lb_range":[],"text_zh":"知身如水甕，心安如城廓，慧劍擊魔王，守視真懈怠。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_084","lb_range":["0017a08"],"text_zh":"四一","text_en":"四一 此身實不久，當置於地上，被棄無意識，無用如木片。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_085","lb_range":[],"text_zh":"此身實不久，當置於地上，被棄無意識，無用如木片。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_086","lb_range":["0017a09"],"text_zh":"四二","text_en":"四二 仇敵對仇敵，怨家對怨家，若心住邪行，惡業更增大。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_087","lb_range":[],"text_zh":"仇敵對仇敵，怨家對怨家，若心住邪行，惡業更增大。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_088","lb_range":["0017a10"],"text_zh":"四三","text_en":"四三 〔善〕非父母作，亦非親屬作，若心住正道，善 業 更增大。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_089","lb_range":[],"text_zh":"〔善〕非父母作，亦非親屬作，若心住正道，善業更增大。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_090","lb_range":["0017a11","0017a12","0017a13"],"text_zh":"四四","text_en":"四　華品 四四 誰服此地界，閻魔與天界，誰集妙法句？如熟匠〔摘〕華。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_091","lb_range":[],"text_zh":"誰服此地界，閻魔與天界，誰集妙法句？如熟匠〔摘〕華。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_092","lb_range":["0017a14"],"text_zh":"四五","text_en":"四五 有學服地界，閻魔與天界，有學集法句，如熟匠摘華。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_093","lb_range":[],"text_zh":"有學服地界，閻魔與天界，有學集法句，如熟匠摘華。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_094","lb_range":["0018a01"],"text_zh":"四六","text_en":"四六 知身譬泡沫，悟此同幻影，滅魔王華箭，將無死王見。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_095","lb_range":[],"text_zh":"知身譬泡沫，悟此同幻影，滅魔王華箭，將無死王見。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_096","lb_range":["0018a02"],"text_zh":"四七","text_en":"四七 摘集諸華人，其人心貪著，死神將捉去，宛如眠村落，瀑流〔漂蕩〕去。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_097","lb_range":[],"text_zh":"摘集諸華人，其人心貪著，死神將捉去，宛如眠村落，瀑流〔漂蕩〕去。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_098","lb_range":["0018a03"],"text_zh":"四八","text_en":"四八 摘集諸華人，其人心貪著，貪欲無厭足，實被死王伏。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_099","lb_range":[],"text_zh":"摘集諸華人，其人心貪著，貪欲無厭足，實被死王伏。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_100","lb_range":["0018a04"],"text_zh":"四九","text_en":"四九 聖者入村落，猶如蜂採華，不害色與香，唯取甘蜜去。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_101","lb_range":[],"text_zh":"聖者入村落，猶如蜂採華，不害色與香，唯取甘蜜去。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_102","lb_range":["0018a05"],"text_zh":"五〇","text_en":"五〇 不〔觀〕他人過，他人作不作，唯觀自己行，或作或未作。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_103","lb_range":[],"text_zh":"不〔觀〕他人過，他人作不作，唯觀自己行，或作或未作。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_104","lb_range":["0018a06"],"text_zh":"五一","text_en":"五一 猶如美妙華，色豔而無香，善說無實行，彼終無結果。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_105","lb_range":[],"text_zh":"猶如美妙華，色豔而無香，善說無實行，彼終無結果。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_106","lb_range":["0018a07"],"text_zh":"五二","text_en":"五二 猶如美妙華，色豔而芳香，善說有實行，彼終有結果。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_107","lb_range":[],"text_zh":"猶如美妙華，色豔而芳香，善說有實行，彼終有結果。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_108","lb_range":["0018a08"],"text_zh":"五三","text_en":"五三 如由堆諸華，得造眾華鬘，一生之為人，應作諸善事。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_109","lb_range":[],"text_zh":"如由堆諸華，得造眾華鬘，一生之為人，應作諸善事。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_110","lb_range":["0018a09"],"text_zh":"五四","text_en":"五四 華香不逆風，栴檀多伽羅，末利香亦然。德香逆風芬，彼正人之薰，普聞一","type":"prose","confidence":1}
+{"unit_id":"N26n0009_111","lb_range":["0018a10"],"text_zh":"華香不逆風，栴檀多伽羅，末利香亦然。德香逆風芬，彼正人之薰，普聞一 切方。","text_en":"切方。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_112","lb_range":["0018a11"],"text_zh":"五五","text_en":"五五 栴檀多伽羅，越系基青蓮，此等諸香中，戒香最為勝。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_113","lb_range":[],"text_zh":"栴檀多伽羅，越系基青蓮，此等諸香中，戒香最為勝。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_114","lb_range":["0018a12"],"text_zh":"五六","text_en":"五六 栴檀多伽羅，此等香輕微，持戒香最上，薰香諸天間。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_115","lb_range":[],"text_zh":"栴檀多伽羅，此等香輕微，持戒香最上，薰香諸天間。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_116","lb_range":["0018a13"],"text_zh":"五七","text_en":"五七 成就諸戒行，住於不放逸，正智解脫者，魔王不能近。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_117","lb_range":[],"text_zh":"成就諸戒行，住於不放逸，正智解脫者，魔王不能近。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_118","lb_range":["0018a14"],"text_zh":"五八","text_en":"五八 猶如塵穢聚，被棄於大道，蓮華生其中，悅意而芳香。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_119","lb_range":[],"text_zh":"猶如塵穢聚，被棄於大道，蓮華生其中，悅意而芳香。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_120","lb_range":["0019a01"],"text_zh":"五九","text_en":"五九 如此塵聚等，盲昧凡夫中，正覺者弟子，以智慧光輝。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_121","lb_range":[],"text_zh":"如此塵聚等，盲昧凡夫中，正覺者弟子，以智慧光輝。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_122","lb_range":["0019a02","0019a03","0019a04"],"text_zh":"六〇","text_en":"五　愚品 六〇 不眠者夜長，疲者由旬長，不知達正法，愚者流轉長。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_123","lb_range":[],"text_zh":"不眠者夜長，疲者由旬長，不知達正法，愚者流轉長。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_124","lb_range":["0019a05"],"text_zh":"六一","text_en":"六一 若得不勝己為友，與己相等者亦然，寧可堅決之獨行，不與愚者為伴侶。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_125","lb_range":[],"text_zh":"若得不勝己為友，與己相等者亦然，寧可堅決之獨行，不與愚者為伴侶。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_126","lb_range":["0019a06"],"text_zh":"六二","text_en":"六二 「此我子我財」，愚者常煩惱。我且非有我，何況子與財？","type":"prose","confidence":1}
+{"unit_id":"N26n0009_127","lb_range":[],"text_zh":"「此我子我財」，愚者常煩惱。我且非有我，何況子與財？","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_128","lb_range":["0019a07"],"text_zh":"六三","text_en":"六三 愚者自知愚，彼已是智人，愚者自為智，實稱真愚者。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_129","lb_range":[],"text_zh":"愚者自知愚，彼已是智人，愚者自為智，實稱真愚者。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_130","lb_range":["0019a08"],"text_zh":"六四","text_en":"六四 愚者雖終生，親近於賢人，不了達正法，如匙嚐羹味。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_131","lb_range":[],"text_zh":"愚者雖終生，親近於賢人，不了達正法，如匙嚐羹味。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_132","lb_range":["0019a09"],"text_zh":"六五","text_en":"六五 縱然須臾間，親近於智者，能達於正法，如舌嚐羹味。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_133","lb_range":[],"text_zh":"縱然須臾間，親近於智者，能達於正法，如舌嚐羹味。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_134","lb_range":["0019a10"],"text_zh":"六六","text_en":"六六 愚者之無知，與自仇敵行，造作諸惡業，齎得眾苦果。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_135","lb_range":[],"text_zh":"愚者之無知，與自仇敵行，造作諸惡業，齎得眾苦果。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_136","lb_range":["0019a11"],"text_zh":"六七","text_en":"六七 自作不善業，作已生後悔，哭泣淚滿面，當得受業果。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_137","lb_range":[],"text_zh":"自作不善業，作已生後悔，哭泣淚滿面，當得受業果。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_138","lb_range":["0019a12"],"text_zh":"六八","text_en":"六八 若自作善業，作已不後悔，歡喜而愉悅，應得受善果。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_139","lb_range":[],"text_zh":"若自作善業，作已不後悔，歡喜而愉悅，應得受善果。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_140","lb_range":["0019a13"],"text_zh":"六九","text_en":"六九 惡業未熟間，愚者思如蜜，惡業成熟時，愚者彼受苦。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_141","lb_range":[],"text_zh":"惡業未熟間，愚者思如蜜，惡業成熟時，愚者彼受苦。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_142","lb_range":["0019a14"],"text_zh":"七〇","text_en":"七〇 愚者月復月，雖唯取少食，似草之尖端，〔功德〕不值思法者，十六分之一。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_143","lb_range":[],"text_zh":"愚者月復月，雖唯取少食，似草之尖端，〔功德〕不值思法者，十六分之一。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_144","lb_range":["0020a01"],"text_zh":"七一","text_en":"七一 猶如拘牛乳，不立即凝固，愚者造惡業，不即感惡果，業力隨其後，如火灰","type":"prose","confidence":1}
+{"unit_id":"N26n0009_145","lb_range":["0020a02"],"text_zh":"猶如拘牛乳，不立即凝固，愚者造惡業，不即感惡果，業力隨其後，如火灰 復燃。","text_en":"復燃。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_146","lb_range":["0020a03"],"text_zh":"七二","text_en":"七二 愚者求知識，反而成災厄，破碎彼頭首，毀滅其幸福。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_147","lb_range":[],"text_zh":"愚者求知識，反而成災厄，破碎彼頭首，毀滅其幸福。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_148","lb_range":["0020a04"],"text_zh":"七三","text_en":"七三 愚者欲虛名，僧中作上座，僧院居上位，他人求供養。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_149","lb_range":[],"text_zh":"愚者欲虛名，僧中作上座，僧院居上位，他人求供養。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_150","lb_range":["0020a05"],"text_zh":"七四","text_en":"七四 「僧俗皆共知，此事由我作，無論大小事，應從於我意」，此為愚者想，貪慢","type":"prose","confidence":1}
+{"unit_id":"N26n0009_151","lb_range":["0020a06"],"text_zh":"「僧俗皆共知，此事由我作，無論大小事，應從於我意」，此為愚者想，貪慢 心增長。","text_en":"心增長。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_152","lb_range":["0020a07"],"text_zh":"七五","text_en":"七五 一則導世利，一則導涅槃，佛弟子比丘，如是應了知，莫貪世尊敬，專注於","type":"prose","confidence":1}
+{"unit_id":"N26n0009_153","lb_range":["0020a08"],"text_zh":"一則導世利，一則導涅槃，佛弟子比丘，如是應了知，莫貪世尊敬，專注於 遠離。","text_en":"遠離。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_154","lb_range":["0020a09","0020a10","0020a11"],"text_zh":"七六","text_en":"六　賢品 七六 如見彼智者，能指責罪過，當與彼交往，猶如知識者，能指示寶藏。常與彼","type":"prose","confidence":1}
+{"unit_id":"N26n0009_155","lb_range":["0020a12"],"text_zh":"如見彼智者，能指責罪過，當與彼交往，猶如知識者，能指示寶藏。常與彼 交往，有善而無惡。","text_en":"交往，有善而無惡。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_156","lb_range":["0020a13"],"text_zh":"七七","text_en":"七七 訓誡與教示，阻不當惡事。善者愛此人，而成惡人憎。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_157","lb_range":[],"text_zh":"訓誡與教示，阻不當惡事。善者愛此人，而成惡人憎。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_158","lb_range":["0020a14"],"text_zh":"七八","text_en":"七八 勿與惡友交，勿友下劣者，應與善友交，應友最上士。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_159","lb_range":[],"text_zh":"勿與惡友交，勿友下劣者，應與善友交，應友最上士。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_160","lb_range":["0021a01"],"text_zh":"七九","text_en":"七九 以飲法〔水〕者，清澄心快適，賢者常喜樂，聖者所說法。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_161","lb_range":[],"text_zh":"以飲法〔水〕者，清澄心快適，賢者常喜樂，聖者所說法。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_162","lb_range":["0021a02"],"text_zh":"八〇","text_en":"八〇 治水者導水，箭匠之矯箭，木匠之繩木，賢者自調御。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_163","lb_range":[],"text_zh":"治水者導水，箭匠之矯箭，木匠之繩木，賢者自調御。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_164","lb_range":["0021a03"],"text_zh":"八一","text_en":"八一 猶如堅居巖，不為風所搖，毀謗及讚譽，賢者不為動。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_165","lb_range":[],"text_zh":"猶如堅居巖，不為風所搖，毀謗及讚譽，賢者不為動。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_166","lb_range":["0021a04"],"text_zh":"八二","text_en":"八二 猶如深之池，靜明而澄清，賢者聞法已，如是心澄清。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_167","lb_range":[],"text_zh":"猶如深之池，靜明而澄清，賢者聞法已，如是心澄清。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_168","lb_range":["0021a05"],"text_zh":"八三","text_en":"八三 善人離諸欲，不語諸欲事，苦樂所不觸，賢者無喜憂。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_169","lb_range":[],"text_zh":"善人離諸欲，不語諸欲事，苦樂所不觸，賢者無喜憂。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_170","lb_range":["0021a06"],"text_zh":"八四","text_en":"八四 無論自或他，不求子與財，及望諸國土，不欲以非法，求自己繁榮。此為彼","type":"prose","confidence":1}
+{"unit_id":"N26n0009_171","lb_range":["0021a07"],"text_zh":"無論自或他，不求子與財，及望諸國土，不欲以非法，求自己繁榮。此為彼 具戒，智慧正法人。","text_en":"具戒，智慧正法人。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_172","lb_range":["0021a08"],"text_zh":"八五","text_en":"八五 於此人間中，達彼岸者少，其他諸眾生，徘徊此邊岸。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_173","lb_range":[],"text_zh":"於此人間中，達彼岸者少，其他諸眾生，徘徊此邊岸。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_174","lb_range":["0021a09"],"text_zh":"八六","text_en":"八六 善能說法者，及依正法行，將能達彼岸，度難度之境。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_175","lb_range":[],"text_zh":"善能說法者，及依正法行，將能達彼岸，度難度之境。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_176","lb_range":["0021a10"],"text_zh":"八七","text_en":"八七 應棄黑惡法，賢者修白法，由家到無家，喜獨處不易。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_177","lb_range":[],"text_zh":"應棄黑惡法，賢者修白法，由家到無家，喜獨處不易。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_178","lb_range":["0021a11"],"text_zh":"八八","text_en":"八八 應求是法樂，棄欲無所有，智者自清淨，心離諸垢穢。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_179","lb_range":[],"text_zh":"應求是法樂，棄欲無所有，智者自清淨，心離諸垢穢。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_180","lb_range":["0021a12"],"text_zh":"八九","text_en":"八九 菩提之支分，正心而修習，棄捨諸執著，遠離愛貪欲，滅盡而光耀，現世得","type":"prose","confidence":1}
+{"unit_id":"N26n0009_181","lb_range":["0021a13"],"text_zh":"菩提之支分，正心而修習，棄捨諸執著，遠離愛貪欲，滅盡而光耀，現世得 涅槃。","text_en":"涅槃。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_182","lb_range":["0021a14","0022a01","0022a02","0022a03"],"text_zh":"九〇","text_en":"七　阿羅漢品 九〇 有為路盡無憂患，一切〔煩惱〕已解脫，斷盡一切之繫縛，此人已無憂苦惱。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_183","lb_range":[],"text_zh":"有為路盡無憂患，一切〔煩惱〕已解脫，斷盡一切之繫縛，此人已無憂苦惱。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_184","lb_range":["0022a04"],"text_zh":"九一","text_en":"九一 正念出家者，彼不喜在家。如鵝離池去，彼等棄水家。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_185","lb_range":[],"text_zh":"正念出家者，彼不喜在家。如鵝離池去，彼等棄水家。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_186","lb_range":["0022a05"],"text_zh":"九二","text_en":"九二 彼等無蓄積，於食知正念 ，空無相解脫，為彼所行道，如鳥飛虛空，足跡","type":"prose","confidence":1}
+{"unit_id":"N26n0009_187","lb_range":["0022a06"],"text_zh":"彼等無蓄積，於食知正念，空無相解脫，為彼所行道，如鳥飛虛空，足跡 不可得。","text_en":"不可得。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_188","lb_range":["0022a07"],"text_zh":"九三","text_en":"九三 彼滅盡煩惱，亦不貪飲食，空無相解脫，為彼所行跡，如鳥飛虛空，足跡不","type":"prose","confidence":1}
+{"unit_id":"N26n0009_189","lb_range":["0022a08"],"text_zh":"彼滅盡煩惱，亦不貪飲食，空無相解脫，為彼所行跡，如鳥飛虛空，足跡不 可得。","text_en":"可得。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_190","lb_range":["0022a09"],"text_zh":"九四","text_en":"九四 諸根歸寂靜，如御善調馬，斷慢無煩惱，天人所羨慕。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_191","lb_range":[],"text_zh":"諸根歸寂靜，如御善調馬，斷慢無煩惱，天人所羨慕。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_192","lb_range":["0022a10"],"text_zh":"九五","text_en":"九五 敬虔之聖者，忍辱如大地，又似堅居幢，如無污泥地，斯人無輪迴。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_193","lb_range":[],"text_zh":"敬虔之聖者，忍辱如大地，又似堅居幢，如無污泥地，斯人無輪迴。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_194","lb_range":["0022a11"],"text_zh":"九六","text_en":"九六 聖者意寂靜，語與業寂靜，正直而解脫，如是得安穩。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_195","lb_range":[],"text_zh":"聖者意寂靜，語與業寂靜，正直而解脫，如是得安穩。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_196","lb_range":["0022a12"],"text_zh":"九七","text_en":"九七 無信 悟無為，斷繫因永滅，捨棄諸貪欲，實成最上士。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_197","lb_range":[],"text_zh":"無信悟無為，斷繫因永滅，捨棄諸貪欲，實成最上士。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_198","lb_range":["0022a13"],"text_zh":"九八","text_en":"九八 於村落森林，平地或丘陵，阿羅漢住處，其地則可愛。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_199","lb_range":[],"text_zh":"於村落森林，平地或丘陵，阿羅漢住處，其地則可愛。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_200","lb_range":["0022a14"],"text_zh":"九九","text_en":"九九 森林其可愛，眾人所不樂，彼喜離欲樂，不求諸欲樂。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_201","lb_range":[],"text_zh":"森林其可愛，眾人所不樂，彼喜離欲樂，不求諸欲樂。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_202","lb_range":["0023a01","0023a02","0023a03","0023a04","0023a05","0023a06","0023a07","0023a08"],"text_zh":"一〇〇","text_en":"八　千品 一〇〇 縱聚一千言，若無意義者，不如一義語，聞而得寂靜。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_203","lb_range":[],"text_zh":"縱聚一千言，若無意義者，不如一義語，聞而得寂靜。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_204","lb_range":["0023a09"],"text_zh":"一〇一","text_en":"一〇一 縱聚千句偈，若無意義者，不如一句偈，聞而得寂靜。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_205","lb_range":[],"text_zh":"縱聚千句偈，若無意義者，不如一句偈，聞而得寂靜。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_206","lb_range":["0023a10"],"text_zh":"一〇二","text_en":"一〇二 雖誦百句偈，若無意義者，不如一句偈，聞而得寂靜。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_207","lb_range":[],"text_zh":"雖誦百句偈，若無意義者，不如一句偈，聞而得寂靜。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_208","lb_range":["0023a11"],"text_zh":"一〇三","text_en":"一〇三 彼於戰場上，雖勝百萬人，未若克己者，戰士之最上。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_209","lb_range":[],"text_zh":"彼於戰場上，雖勝百萬人，未若克己者，戰士之最上。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_210","lb_range":["0023a12"],"text_zh":"一〇四","text_en":"一〇四 能克服自己，實勝過他人。若有克己者，常為自制御。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_211","lb_range":[],"text_zh":"能克服自己，實勝過他人。若有克己者，常為自制御。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_212","lb_range":["0023a13"],"text_zh":"一〇五","text_en":"一〇五 天神乾闥婆，魔王或梵天，皆遭於敗北，不能勝此人。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_213","lb_range":[],"text_zh":"天神乾闥婆，魔王或梵天，皆遭於敗北，不能勝此人。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_214","lb_range":["0023a14"],"text_zh":"一〇六","text_en":"一〇六 月月投千金，供犧祀百年，不若須臾間，供養修己者，如是此供養，勝祭","type":"prose","confidence":1}
+{"unit_id":"N26n0009_215","lb_range":["0024a01"],"text_zh":"月月投千金，供犧祀百年，不若須臾間，供養修己者，如是此供養，勝祭 祀百年。","text_en":"祀百年。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_216","lb_range":["0024a02"],"text_zh":"一〇七","text_en":"一〇七 若人於林中，事火一百年，不若須臾間，供養修己者，如是此供養，勝祭","type":"prose","confidence":1}
+{"unit_id":"N26n0009_217","lb_range":["0024a03"],"text_zh":"若人於林中，事火一百年，不若須臾間，供養修己者，如是此供養，勝祭 祀百年。","text_en":"祀百年。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_218","lb_range":["0024a04"],"text_zh":"一〇八","text_en":"一〇八 若人於世間，求福一年間，供犧牲祭祀，彼一切功德，不值四分一，禮敬","type":"prose","confidence":1}
+{"unit_id":"N26n0009_219","lb_range":["0024a05"],"text_zh":"若人於世間，求福一年間，供犧牲祭祀，彼一切功德，不值四分一，禮敬 正直者〔阿羅漢〕。","text_en":"正直者〔阿羅漢〕。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_220","lb_range":["0024a06"],"text_zh":"一〇九","text_en":"一〇九 守樂敬禮者，常尊於長上，增長四種法：壽、美、樂與力。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_221","lb_range":[],"text_zh":"守樂敬禮者，常尊於長上，增長四種法：壽、美、樂與力。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_222","lb_range":["0024a07"],"text_zh":"一一〇","text_en":"一一〇 若人百歲壽，破戒無三昧，不如生一日，持戒住禪定。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_223","lb_range":[],"text_zh":"若人百歲壽，破戒無三昧，不如生一日，持戒住禪定。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_224","lb_range":["0024a08"],"text_zh":"一一一","text_en":"一一一 若人百歲壽，無智無三昧，不如生一日，具慧住禪定。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_225","lb_range":[],"text_zh":"若人百歲壽，無智無三昧，不如生一日，具慧住禪定。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_226","lb_range":["0024a09"],"text_zh":"一一二","text_en":"一一二 若人百歲壽，怠惰不精進，不如生一日，堅固行精進。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_227","lb_range":[],"text_zh":"若人百歲壽，怠惰不精進，不如生一日，堅固行精進。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_228","lb_range":["0024a10"],"text_zh":"一一三","text_en":"一一三 若人百歲壽，不見生滅法，不如生一日，得見生滅法。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_229","lb_range":[],"text_zh":"若人百歲壽，不見生滅法，不如生一日，得見生滅法。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_230","lb_range":["0024a11"],"text_zh":"一一四","text_en":"一一四 若人百歲壽，不見不死道，不如生一日，得見不死道。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_231","lb_range":[],"text_zh":"若人百歲壽，不見不死道，不如生一日，得見不死道。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_232","lb_range":["0024a12"],"text_zh":"一一五","text_en":"一一五 若人百歲壽，不見最上法，不如生一日，得見最上法。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_233","lb_range":[],"text_zh":"若人百歲壽，不見最上法，不如生一日，得見最上法。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_234","lb_range":["0024a13","0025a01","0025a02","0025a03"],"text_zh":"一一六","text_en":"九　惡品 一一六 應急速為善，遠離罪惡心。懈怠作善者，其心則喜惡。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_235","lb_range":[],"text_zh":"應急速為善，遠離罪惡心。懈怠作善者，其心則喜惡。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_236","lb_range":["0025a04"],"text_zh":"一一七","text_en":"一一七 人縱作惡已，不應重重作；勿喜於作惡，積惡則受苦。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_237","lb_range":[],"text_zh":"人縱作惡已，不應重重作；勿喜於作惡，積惡則受苦。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_238","lb_range":["0025a05"],"text_zh":"一一八","text_en":"一一八 若人作善已，應復重重作；應喜於作善，積善受快樂。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_239","lb_range":[],"text_zh":"若人作善已，應復重重作；應喜於作善，積善受快樂。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_240","lb_range":["0025a06"],"text_zh":"一一九","text_en":"一一九 惡業未成熟，惡者見為福，惡業成熟時，惡人始見苦。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_241","lb_range":[],"text_zh":"惡業未成熟，惡者見為福，惡業成熟時，惡人始見苦。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_242","lb_range":["0025a07"],"text_zh":"一二〇","text_en":"一二〇 善業未成熟，善人見為苦，善業成熟時，善人方見福。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_243","lb_range":[],"text_zh":"善業未成熟，善人見為苦，善業成熟時，善人方見福。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_244","lb_range":["0025a08"],"text_zh":"一二一","text_en":"一二一 勿輕視小惡，云：「我不招報」，依水點滴落，亦可滿水瓶。愚者盈其惡，","type":"prose","confidence":1}
+{"unit_id":"N26n0009_245","lb_range":["0025a09"],"text_zh":"勿輕視小惡，云：「我不招報」，依水點滴落，亦可滿水瓶。愚者盈其惡， 微微少許積。","text_en":"微微少許積。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_246","lb_range":["0025a10"],"text_zh":"一二二","text_en":"一二二 勿輕視小善，云：「我不招報」，於水點滴落，亦可滿水瓶。賢者盈其善，","type":"prose","confidence":1}
+{"unit_id":"N26n0009_247","lb_range":["0025a11"],"text_zh":"勿輕視小善，云：「我不招報」，於水點滴落，亦可滿水瓶。賢者盈其善， 微微少許積。","text_en":"微微少許積。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_248","lb_range":["0025a12"],"text_zh":"一二三","text_en":"一二三 商人避危道，伴少財寶多，受生避毒品，避惡業亦然。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_249","lb_range":[],"text_zh":"商人避危道，伴少財寶多，受生避毒品，避惡業亦然。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_250","lb_range":["0025a13"],"text_zh":"一二四","text_en":"一二四 若如無瘡手，其心可捉毒，無瘡毒不患，不作者無惡。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_251","lb_range":[],"text_zh":"若如無瘡手，其心可捉毒，無瘡毒不患，不作者無惡。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_252","lb_range":["0025a14"],"text_zh":"一二五","text_en":"一二五 若害無邪人，清淨無穢者，惡反及愚人，如逆風揚塵。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_253","lb_range":[],"text_zh":"若害無邪人，清淨無穢者，惡反及愚人，如逆風揚塵。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_254","lb_range":["0026a01"],"text_zh":"一二六","text_en":"一二六 有人宿胎中，造惡墮地獄；正直昇天界，漏盡證涅槃。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_255","lb_range":[],"text_zh":"有人宿胎中，造惡墮地獄；正直昇天界，漏盡證涅槃。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_256","lb_range":["0026a02"],"text_zh":"一二七","text_en":"一二七 無論虛空及海中，或入山間之洞窟，欲求逃脫惡業者，世間實無有是處。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_257","lb_range":[],"text_zh":"無論虛空及海中，或入山間之洞窟，欲求逃脫惡業者，世間實無有是處。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_258","lb_range":["0026a03"],"text_zh":"一二八","text_en":"一二八 無論虛空及海中，或入山間之洞窟，欲求不為死魔制，世間實無有是處。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_259","lb_range":[],"text_zh":"無論虛空及海中，或入山間之洞窟，欲求不為死魔制，世間實無有是處。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_260","lb_range":["0026a04","0026a05","0026a06"],"text_zh":"一二九","text_en":"一〇　刀杖品 一二九 一切畏刀杖，一切皆懼死，以自量比較，勿殺教他殺。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_261","lb_range":[],"text_zh":"一切畏刀杖，一切皆懼死，以自量比較，勿殺教他殺。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_262","lb_range":["0026a07"],"text_zh":"一三〇","text_en":"一三〇 一切畏刀杖，一切皆愛生，以自量比較，勿殺教他殺。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_263","lb_range":[],"text_zh":"一切畏刀杖，一切皆愛生，以自量比較，勿殺教他殺。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_264","lb_range":["0026a08"],"text_zh":"一三一","text_en":"一三一 欲自安樂者，刀杖害有情，但求自己樂，後世樂難得。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_265","lb_range":[],"text_zh":"欲自安樂者，刀杖害有情，但求自己樂，後世樂難得。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_266","lb_range":["0026a09"],"text_zh":"一三二","text_en":"一三二 欲自安樂者，不以刀杖害，以求自己樂，後世得安樂。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_267","lb_range":[],"text_zh":"欲自安樂者，不以刀杖害，以求自己樂，後世得安樂。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_268","lb_range":["0026a10"],"text_zh":"一三三","text_en":"一三三 對人莫言粗暴語，汝已言者返言汝。忿 怒 之言實甚痛，刀杖互擊可觸汝。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_269","lb_range":[],"text_zh":"對人莫言粗暴語，汝已言者返言汝。忿怒之言實甚痛，刀杖互擊可觸汝。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_270","lb_range":["0026a11"],"text_zh":"一三四","text_en":"一三四 汝若破銅鑼，自默而不言，既得涅槃道，汝無忿怒諍。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_271","lb_range":[],"text_zh":"汝若破銅鑼，自默而不言，既得涅槃道，汝無忿怒諍。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_272","lb_range":["0026a12"],"text_zh":"一三五","text_en":"一三五 如牧者以杖，驅牛至牧場，如是老與死，驅逐有情命。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_273","lb_range":[],"text_zh":"如牧者以杖，驅牛至牧場，如是老與死，驅逐有情命。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_274","lb_range":["0026a13"],"text_zh":"一三六","text_en":"一三六 愚者作惡業，卻不能自知，癡者感業苦，如以火自燒。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_275","lb_range":[],"text_zh":"愚者作惡業，卻不能自知，癡者感業苦，如以火自燒。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_276","lb_range":["0026a14"],"text_zh":"一三七","text_en":"一三七 若以刀杖害，無罪無邪人，十事中一事，忽然彼應遇。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_277","lb_range":[],"text_zh":"若以刀杖害，無罪無邪人，十事中一事，忽然彼應遇。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_278","lb_range":["0027a01"],"text_zh":"一三八","text_en":"一三八 劇烈苦〔失財〕，身體受毀損，或為重病逼，乃至心錯亂。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_279","lb_range":[],"text_zh":"劇烈苦〔失財〕，身體受毀損，或為重病逼，乃至心錯亂。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_280","lb_range":["0027a02"],"text_zh":"一三九","text_en":"一三九 或由王迫害，或遇誣重罪，或親族離散，或破滅財產。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_281","lb_range":[],"text_zh":"或由王迫害，或遇誣重罪，或親族離散，或破滅財產。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_282","lb_range":["0027a03"],"text_zh":"一四〇","text_en":"一四〇 或彼之家屋，遭遇卻火燒，愚者身滅後，墮入於地獄。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_283","lb_range":[],"text_zh":"或彼之家屋，遭遇卻火燒，愚者身滅後，墮入於地獄。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_284","lb_range":["0027a04"],"text_zh":"一四一","text_en":"一四一 裸行螺髻者 ，污泥及斷食，臥地自塵身，蹲踞不住立，不斷疑惑人，無","type":"prose","confidence":1}
+{"unit_id":"N26n0009_285","lb_range":["0027a05"],"text_zh":"裸行螺髻者，污泥及斷食，臥地自塵身，蹲踞不住立，不斷疑惑人，無 得清淨事。","text_en":"得清淨事。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_286","lb_range":["0027a06"],"text_zh":"一四二","text_en":"一四二 其身住寂靜，調御心自制，必然持梵行，不以諸刀杖，加害諸有情，彼為","type":"prose","confidence":1}
+{"unit_id":"N26n0009_287","lb_range":["0027a07"],"text_zh":"其身住寂靜，調御心自制，必然持梵行，不以諸刀杖，加害諸有情，彼為 婆羅門，彼則是沙門，彼則是比丘。","text_en":"婆羅門，彼則是沙門，彼則是比丘。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_288","lb_range":["0027a08"],"text_zh":"一四三","text_en":"一四三 慚愧自制者，此世所少有，如良馬避鞭，彼善避誹辱。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_289","lb_range":[],"text_zh":"慚愧自制者，此世所少有，如良馬避鞭，彼善避誹辱。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_290","lb_range":["0027a09"],"text_zh":"一四四","text_en":"一四四 如良馬加鞭，當奮勵努力，以信戒精進，乃至住禪定，善識別正法，以及","type":"prose","confidence":1}
+{"unit_id":"N26n0009_291","lb_range":["0027a10"],"text_zh":"如良馬加鞭，當奮勵努力，以信戒精進，乃至住禪定，善識別正法，以及 明行足，汝念當勿忘，消滅大窮苦！","text_en":"明行足，汝念當勿忘，消滅大窮苦！","type":"verse","confidence":1}
+{"unit_id":"N26n0009_292","lb_range":["0027a11"],"text_zh":"一四五","text_en":"一四五 治水者導水，箭匠之矯箭，木匠之繩木，德者自調御。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_293","lb_range":[],"text_zh":"治水者導水，箭匠之矯箭，木匠之繩木，德者自調御。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_294","lb_range":["0027a12","0027a13","0027a14","0028a01","0028a02","0028a03"],"text_zh":"一四六","text_en":"一一　老品 一四六 世常燃燒中，有何喜 何歎！汝等黑暗蔽，何不求光明？","type":"prose","confidence":1}
+{"unit_id":"N26n0009_295","lb_range":[],"text_zh":"世常燃燒中，有何喜何歎！汝等黑暗蔽，何不求光明？","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_296","lb_range":["0028a04"],"text_zh":"一四七","text_en":"一四七 汝觀粉飾身，瘡傷骨積集，病患多思惟，非堅常住者。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_297","lb_range":[],"text_zh":"汝觀粉飾身，瘡傷骨積集，病患多思惟，非堅常住者。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_298","lb_range":["0028a05"],"text_zh":"一四八","text_en":"一四八 此衰老形骸，病巢而易壞，穢聚必毀滅，有生終必死。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_299","lb_range":[],"text_zh":"此衰老形骸，病巢而易壞，穢聚必毀滅，有生終必死。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_300","lb_range":["0028a06"],"text_zh":"一四九","text_en":"一四九 猶如葫蘆瓜，秋至將散棄，骸骨成鴿色，觀此有何樂？","type":"prose","confidence":1}
+{"unit_id":"N26n0009_301","lb_range":[],"text_zh":"猶如葫蘆瓜，秋至將散棄，骸骨成鴿色，觀此有何樂？","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_302","lb_range":["0028a07"],"text_zh":"一五〇","text_en":"一五〇 此城骨所造，塗以血與肉，藏著老與死，及虛偽與慢。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_303","lb_range":[],"text_zh":"此城骨所造，塗以血與肉，藏著老與死，及虛偽與慢。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_304","lb_range":["0028a08"],"text_zh":"一五一","text_en":"一五一 美飾王車亦必朽，肉體老邁終亦然，唯善人法無老事，善人相傳與善人。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_305","lb_range":[],"text_zh":"美飾王車亦必朽，肉體老邁終亦然，唯善人法無老事，善人相傳與善人。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_306","lb_range":["0028a09"],"text_zh":"一五二","text_en":"一五二 寡聞之愚人，生來如牡牛，增長彼筋肉，無增彼智慧。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_307","lb_range":[],"text_zh":"寡聞之愚人，生來如牡牛，增長彼筋肉，無增彼智慧。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_308","lb_range":["0028a10"],"text_zh":"一五三","text_en":"一五三 經多生流轉，予求作屋者，但未得見之，受苦再再生。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_309","lb_range":[],"text_zh":"經多生流轉，予求作屋者，但未得見之，受苦再再生。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_310","lb_range":["0028a11"],"text_zh":"一五四","text_en":"一五四 已見作屋者！勿再為造屋，椽桷皆毀壞，棟梁被摧折，得滅盡愛欲，心既","type":"prose","confidence":1}
+{"unit_id":"N26n0009_311","lb_range":["0028a12"],"text_zh":"已見作屋者！勿再為造屋，椽桷皆毀壞，棟梁被摧折，得滅盡愛欲，心既 證無為。","text_en":"證無為。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_312","lb_range":["0028a13"],"text_zh":"一五五","text_en":"一五五 壯時不得財，亦不修梵行，如池邊老鷺，無魚而死滅。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_313","lb_range":[],"text_zh":"壯時不得財，亦不修梵行，如池邊老鷺，無魚而死滅。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_314","lb_range":["0028a14"],"text_zh":"一五六","text_en":"一五六 壯時未獲財，亦不修梵行，臥如破折弓，思嘆於過去。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_315","lb_range":[],"text_zh":"壯時未獲財，亦不修梵行，臥如破折弓，思嘆於過去。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_316","lb_range":["0029a01","0029a02","0029a03","0029a04","0029a05","0029a06","0029a07"],"text_zh":"一五七","text_en":"一二　自己品 一五七 若人知自愛，應善自保護，三時中一時，智者應覺醒。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_317","lb_range":[],"text_zh":"若人知自愛，應善自保護，三時中一時，智者應覺醒。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_318","lb_range":["0029a08"],"text_zh":"一五八","text_en":"一五八 首先於自己，安置正法道，然後誨他人，賢者將無過。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_319","lb_range":[],"text_zh":"首先於自己，安置正法道，然後誨他人，賢者將無過。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_320","lb_range":["0029a09"],"text_zh":"一五九","text_en":"一五九 若欲誨他者，應如自己行，自制可制他，制己實最難。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_321","lb_range":[],"text_zh":"若欲誨他者，應如自己行，自制可制他，制己實最難。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_322","lb_range":["0029a10"],"text_zh":"一六〇","text_en":"一六〇 自為自依怙，他人何可依？自己善調御，獲得難依所。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_323","lb_range":[],"text_zh":"自為自依怙，他人何可依？自己善調御，獲得難依所。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_324","lb_range":["0029a11"],"text_zh":"一六一","text_en":"一六一 惡業由己生，由自生自起，摧壞於愚者，金剛破寶石。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_325","lb_range":[],"text_zh":"惡業由己生，由自生自起，摧壞於愚者，金剛破寶石。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_326","lb_range":["0029a12"],"text_zh":"一六二","text_en":"一六二 破戒如蔓草，覆纏沙羅樹，自己求此作，以快仇敵意。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_327","lb_range":[],"text_zh":"破戒如蔓草，覆纏沙羅樹，自己求此作，以快仇敵意。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_328","lb_range":["0029a13"],"text_zh":"一六三","text_en":"一六三 不善事易行，有害於自己，善及有益事，實為極難行。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_329","lb_range":[],"text_zh":"不善事易行，有害於自己，善及有益事，實為極難行。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_330","lb_range":["0029a14"],"text_zh":"一六四","text_en":"一六四 愚癡惡慧者，持執邪見故，譏蔑羅漢教，乃至尊者教，及正法行者，而自","type":"prose","confidence":1}
+{"unit_id":"N26n0009_331","lb_range":["0030a01"],"text_zh":"愚癡惡慧者，持執邪見故，譏蔑羅漢教，乃至尊者教，及正法行者，而自 取破滅，宛如佳他伽，結果而自亡。","text_en":"取破滅，宛如佳他伽，結果而自亡。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_332","lb_range":["0030a02"],"text_zh":"一六五","text_en":"一六五 惡是由己作，污法亦由己，自己不作惡，清淨亦由己，淨不淨由己，他無","type":"prose","confidence":1}
+{"unit_id":"N26n0009_333","lb_range":["0030a03"],"text_zh":"惡是由己作，污法亦由己，自己不作惡，清淨亦由己，淨不淨由己，他無 淨他事。","text_en":"淨他事。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_334","lb_range":["0030a04"],"text_zh":"一六六","text_en":"一六六 即他有大事，勿為己利益，善知己利事，當專心利益。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_335","lb_range":[],"text_zh":"即他有大事，勿為己利益，善知己利事，當專心利益。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_336","lb_range":["0030a05","0030a06","0030a07"],"text_zh":"一六七","text_en":"一三　世品 一六七 勿從下劣法，勿住於放逸，勿隨於邪見，莫為世俗徒。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_337","lb_range":[],"text_zh":"勿從下劣法，勿住於放逸，勿隨於邪見，莫為世俗徒。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_338","lb_range":["0030a08"],"text_zh":"一六八","text_en":"一六八 奮起勿放逸，行正法善行，隨法善行者，此彼世安樂。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_339","lb_range":[],"text_zh":"奮起勿放逸，行正法善行，隨法善行者，此彼世安樂。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_340","lb_range":["0030a09"],"text_zh":"一六九","text_en":"一六九 應行法善行，不行惡法行，隨法行善者，此彼世安樂。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_341","lb_range":[],"text_zh":"應行法善行，不行惡法行，隨法行善者，此彼世安樂。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_342","lb_range":["0030a10"],"text_zh":"一七〇","text_en":"一七〇 視如水泡沫，見如蜃氣棲，如是觀世者，死王不見他。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_343","lb_range":[],"text_zh":"視如水泡沫，見如蜃氣棲，如是觀世者，死王不見他。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_344","lb_range":["0030a11"],"text_zh":"一七一","text_en":"一七一 來觀此世間，猶如飾王車，愚者湎此中，智者不執著。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_345","lb_range":[],"text_zh":"來觀此世間，猶如飾王車，愚者湎此中，智者不執著。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_346","lb_range":["0030a12"],"text_zh":"一七二","text_en":"一七二 若人先放逸，而後不放逸，如月出雲翳，照耀於此世。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_347","lb_range":[],"text_zh":"若人先放逸，而後不放逸，如月出雲翳，照耀於此世。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_348","lb_range":["0030a13"],"text_zh":"一七三","text_en":"一七三 若作惡業人，覆之以善業，如月出雲翳，照耀於此世。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_349","lb_range":[],"text_zh":"若作惡業人，覆之以善業，如月出雲翳，照耀於此世。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_350","lb_range":["0030a14"],"text_zh":"一七四","text_en":"一七四 此世間黑暗，善知此者少，少有昇天者，如鳥之脫網。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_351","lb_range":[],"text_zh":"此世間黑暗，善知此者少，少有昇天者，如鳥之脫網。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_352","lb_range":["0031a01"],"text_zh":"一七五","text_en":"一七五 天鵞飛行太陽道，以可神通行虛空，賢者破魔王眷屬，得以脫離此世間。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_353","lb_range":[],"text_zh":"天鵞飛行太陽道，以可神通行虛空，賢者破魔王眷屬，得以脫離此世間。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_354","lb_range":["0031a02"],"text_zh":"一七六","text_en":"一七六 違犯一 法者 ，及說諸妄語，不信來世人，無惡而不作。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_355","lb_range":[],"text_zh":"違犯一法者，及說諸妄語，不信來世人，無惡而不作。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_356","lb_range":["0031a03"],"text_zh":"一七七","text_en":"一七七 貪不生天界，愚不稱揚施，賢者隨喜施，來世得安樂。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_357","lb_range":[],"text_zh":"貪不生天界，愚不稱揚施，賢者隨喜施，來世得安樂。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_358","lb_range":["0031a04"],"text_zh":"一七八","text_en":"一七八 地上王權者，或趣天界者，一切世界主，不及勝預流。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_359","lb_range":[],"text_zh":"地上王權者，或趣天界者，一切世界主，不及勝預流。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_360","lb_range":["0031a05","0031a06","0031a07"],"text_zh":"一七九","text_en":"一四　佛陀品 一七九 彼之勝利無能勝，敗者此世不能隨，佛〔智〕無邊無行跡，汝以何法欲誑","type":"prose","confidence":1}
+{"unit_id":"N26n0009_361","lb_range":["0031a08"],"text_zh":"彼之勝利無能勝，敗者此世不能隨，佛〔智〕無邊無行跡，汝以何法欲誑 惑？〔此佛對魔女說〕","text_en":"惑？〔此佛對魔女說〕","type":"verse","confidence":1}
+{"unit_id":"N26n0009_362","lb_range":["0031a09"],"text_zh":"一八〇","text_en":"一八〇 不具於結縛，纏愛難誘使，佛〔智〕無邊無行跡，汝以何法欲誑惑？","type":"prose","confidence":1}
+{"unit_id":"N26n0009_363","lb_range":[],"text_zh":"不具於結縛，纏愛難誘使，佛〔智〕無邊無行跡，汝以何法欲誑惑？","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_364","lb_range":["0031a10"],"text_zh":"一八一","text_en":"一八一 智者專禪定，喜出家寂靜，正念正覺者，天人且羨敬。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_365","lb_range":[],"text_zh":"智者專禪定，喜出家寂靜，正念正覺者，天人且羨敬。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_366","lb_range":["0031a11"],"text_zh":"一八二","text_en":"一八二 得生人道難，生得長壽難，得聞妙法難，遇佛出世難。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_367","lb_range":[],"text_zh":"得生人道難，生得長壽難，得聞妙法難，遇佛出世難。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_368","lb_range":["0031a12"],"text_zh":"一八三","text_en":"一八三 不作一切惡，應當行諸善，自淨之己意，此為諸佛教。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_369","lb_range":[],"text_zh":"不作一切惡，應當行諸善，自淨之己意，此為諸佛教。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_370","lb_range":["0031a13"],"text_zh":"一八四","text_en":"一八四 諸佛說涅槃最勝，忍辱為最上苦行，出家實無害他者，惱他不稱為沙門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_371","lb_range":[],"text_zh":"諸佛說涅槃最勝，忍辱為最上苦行，出家實無害他者，惱他不稱為沙門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_372","lb_range":["0031a14"],"text_zh":"一八五","text_en":"一八五 不誹及不害，嚴守戒律儀，飲食知足量，靜處坐獨居 ，專念增上定，此","type":"prose","confidence":1}
+{"unit_id":"N26n0009_373","lb_range":["0032a01"],"text_zh":"不誹及不害，嚴守戒律儀，飲食知足量，靜處坐獨居，專念增上定，此 為諸佛教。","text_en":"為諸佛教。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_374","lb_range":["0032a02"],"text_zh":"一八六","text_en":"一八六 雖天雨金錢，欲心無滿足，賢者知淫欲，甘少而苦多。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_375","lb_range":[],"text_zh":"雖天雨金錢，欲心無滿足，賢者知淫欲，甘少而苦多。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_376","lb_range":["0032a03"],"text_zh":"一八七","text_en":"一八七 故雖於天樂，彼不喜悅求，正覺者弟子，喜滅於愛欲。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_377","lb_range":[],"text_zh":"故雖於天樂，彼不喜悅求，正覺者弟子，喜滅於愛欲。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_378","lb_range":["0032a04"],"text_zh":"一八八","text_en":"一八八 恐怖所驅使，去歸依山岳、森林或園苑、種種樹支提。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_379","lb_range":[],"text_zh":"恐怖所驅使，去歸依山岳、森林或園苑、種種樹支提。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_380","lb_range":["0032a05"],"text_zh":"一八九","text_en":"一八九 此非安全依，非最上依處。如此之歸依，不離一切苦。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_381","lb_range":[],"text_zh":"此非安全依，非最上依處。如此之歸依，不離一切苦。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_382","lb_range":["0032a06"],"text_zh":"一九〇","text_en":"一九〇 若人歸依佛，歸依法及僧，依於正智慧，得見四聖諦。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_383","lb_range":[],"text_zh":"若人歸依佛，歸依法及僧，依於正智慧，得見四聖諦。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_384","lb_range":["0032a07"],"text_zh":"一九一","text_en":"一九一 苦與苦之因，以及苦之滅，及八支聖道，滅盡一切苦。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_385","lb_range":[],"text_zh":"苦與苦之因，以及苦之滅，及八支聖道，滅盡一切苦。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_386","lb_range":["0032a08"],"text_zh":"一九二","text_en":"一九二 此為安全歸依處，此為最上歸依所。若人如此之歸依，由此解脫一切苦。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_387","lb_range":[],"text_zh":"此為安全歸依處，此為最上歸依所。若人如此之歸依，由此解脫一切苦。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_388","lb_range":["0032a09"],"text_zh":"一九三","text_en":"一九三 聖者極難得，彼非隨處生，賢者所生處，彼家蒙惠榮。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_389","lb_range":[],"text_zh":"聖者極難得，彼非隨處生，賢者所生處，彼家蒙惠榮。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_390","lb_range":["0032a10"],"text_zh":"一九四","text_en":"一九四 諸佛出現樂，宣說正法樂，僧眾和合樂，諸人修行樂。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_391","lb_range":[],"text_zh":"諸佛出現樂，宣說正法樂，僧眾和合樂，諸人修行樂。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_392","lb_range":["0032a11"],"text_zh":"一九五","text_en":"一九五 供養應供者——脫離於虛妄，超越諸憂患，供佛及弟子。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_393","lb_range":[],"text_zh":"供養應供者——脫離於虛妄，超越諸憂患，供佛及弟子。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_394","lb_range":["0032a12"],"text_zh":"一九六","text_en":"一九六 如此之供養，寂靜無畏者，其所得功德，甚難被計量。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_395","lb_range":[],"text_zh":"如此之供養，寂靜無畏者，其所得功德，甚難被計量。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_396","lb_range":["0032a13","0033a01","0033a02","0033a03","0033a04","0033a05","0033a06","0033a07"],"text_zh":"一九七","text_en":"一五　安樂品 一九七 我等實樂生，憎怨中無憎，於怨憎人中，我等無怨憎。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_397","lb_range":[],"text_zh":"我等實樂生，憎怨中無憎，於怨憎人中，我等無怨憎。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_398","lb_range":["0033a08"],"text_zh":"一九八","text_en":"一九八 我等實樂生，苦惱中無苦，於苦惱人中，我等無苦惱。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_399","lb_range":[],"text_zh":"我等實樂生，苦惱中無苦，於苦惱人中，我等無苦惱。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_400","lb_range":["0033a09"],"text_zh":"一九九","text_en":"一九九 我等實樂生，貪者中無貪，於貪欲人中，我等無貪欲。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_401","lb_range":[],"text_zh":"我等實樂生，貪者中無貪，於貪欲人中，我等無貪欲。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_402","lb_range":["0033a10"],"text_zh":"二〇〇","text_en":"二〇〇 我等實樂生，無有何物障，如光音天神 ，我等喜為食。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_403","lb_range":[],"text_zh":"我等實樂生，無有何物障，如光音天神，我等喜為食。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_404","lb_range":["0033a11"],"text_zh":"二〇一","text_en":"二〇一 勝利生怨憎，敗者臥苦惱，勝敗兩具捨，寂靜住安樂。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_405","lb_range":[],"text_zh":"勝利生怨憎，敗者臥苦惱，勝敗兩具捨，寂靜住安樂。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_406","lb_range":["0033a12"],"text_zh":"二〇二","text_en":"二〇二 無火如貪欲，無惡如憎恨，無苦如五蘊，無勝樂寂靜。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_407","lb_range":[],"text_zh":"無火如貪欲，無惡如憎恨，無苦如五蘊，無勝樂寂靜。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_408","lb_range":["0033a13"],"text_zh":"二〇三","text_en":"二〇三 飢餓最大病，行為最大苦，如是實知此，涅槃最上樂。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_409","lb_range":[],"text_zh":"飢餓最大病，行為最大苦，如是實知此，涅槃最上樂。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_410","lb_range":["0033a14"],"text_zh":"二〇四","text_en":"二〇四 無病最上利，知足最上富，信賴最上親，涅槃最上樂。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_411","lb_range":[],"text_zh":"無病最上利，知足最上富，信賴最上親，涅槃最上樂。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_412","lb_range":["0034a01"],"text_zh":"二〇五","text_en":"二〇五 已飲獨居味，乃至寂靜味，喜飲於法味，彼去怖離惡。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_413","lb_range":[],"text_zh":"已飲獨居味，乃至寂靜味，喜飲於法味，彼去怖離惡。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_414","lb_range":["0034a02"],"text_zh":"二〇六","text_en":"二〇六 善哉見聖者，與彼共住樂，由不見愚者，彼常為安樂。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_415","lb_range":[],"text_zh":"善哉見聖者，與彼共住樂，由不見愚者，彼常為安樂。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_416","lb_range":["0034a03"],"text_zh":"二〇七","text_en":"二〇七 與愚者共行，實為長憂愁，與愚共住苦，如與敵共住，與賢者共住，樂如","type":"prose","confidence":1}
+{"unit_id":"N26n0009_417","lb_range":["0034a04"],"text_zh":"與愚者共行，實為長憂愁，與愚共住苦，如與敵共住，與賢者共住，樂如 會親族。是故實如：","text_en":"會親族。是故實如：","type":"verse","confidence":1}
+{"unit_id":"N26n0009_418","lb_range":["0034a05"],"text_zh":"二〇八","text_en":"二〇八 賢智博學者，誠持戒聖者，如隨善良遊，此賢明之人，如月從星道。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_419","lb_range":[],"text_zh":"賢智博學者，誠持戒聖者，如隨善良遊，此賢明之人，如月從星道。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_420","lb_range":["0034a06","0034a07","0034a08","0034a09","0034a10","0034a11"],"text_zh":"二〇九","text_en":"一六　愛好品 二〇九 專注不當事，不專於應作，棄道取愛欲，卻羨成就者。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_421","lb_range":[],"text_zh":"專注不當事，不專於應作，棄道取愛欲，卻羨成就者。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_422","lb_range":["0034a12"],"text_zh":"二一〇","text_en":"二一〇 勿與愛者會，勿會不愛者，不見愛者苦，見憎人亦苦。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_423","lb_range":[],"text_zh":"勿與愛者會，勿會不愛者，不見愛者苦，見憎人亦苦。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_424","lb_range":["0034a13"],"text_zh":"二一一","text_en":"二一一 是故勿愛者，愛別離為苦，若無愛與憎，彼人無桎梏。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_425","lb_range":[],"text_zh":"是故勿愛者，愛別離為苦，若無愛與憎，彼人無桎梏。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_426","lb_range":["0034a14"],"text_zh":"二一二","text_en":"二一二 由愛生憂患，由愛生畏怖，離喜愛無憂，何處有怖畏？","type":"prose","confidence":1}
+{"unit_id":"N26n0009_427","lb_range":[],"text_zh":"由愛生憂患，由愛生畏怖，離喜愛無憂，何處有怖畏？","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_428","lb_range":["0035a01"],"text_zh":"二一三","text_en":"二一三 由愛生憂患，由愛生畏怖，離親愛無憂，何處有怖畏？","type":"prose","confidence":1}
+{"unit_id":"N26n0009_429","lb_range":[],"text_zh":"由愛生憂患，由愛生畏怖，離親愛無憂，何處有怖畏？","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_430","lb_range":["0035a02"],"text_zh":"二一四","text_en":"二一四 由貪欲生憂，由貪欲生怖，離貪欲無憂，何處有怖畏？","type":"prose","confidence":1}
+{"unit_id":"N26n0009_431","lb_range":[],"text_zh":"由貪欲生憂，由貪欲生怖，離貪欲無憂，何處有怖畏？","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_432","lb_range":["0035a03"],"text_zh":"二一五","text_en":"二一五 由欲樂生憂，由欲樂生怖，離欲樂無憂，何處有怖畏？","type":"prose","confidence":1}
+{"unit_id":"N26n0009_433","lb_range":[],"text_zh":"由欲樂生憂，由欲樂生怖，離欲樂無憂，何處有怖畏？","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_434","lb_range":["0035a04"],"text_zh":"二一六","text_en":"二一六 由愛欲生憂，由愛欲生怖，離愛欲無憂，何處有怖畏？","type":"prose","confidence":1}
+{"unit_id":"N26n0009_435","lb_range":[],"text_zh":"由愛欲生憂，由愛欲生怖，離愛欲無憂，何處有怖畏？","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_436","lb_range":["0035a05"],"text_zh":"二一七","text_en":"二一七 具戒與正見，住法知真實，圓滿自己行，彼為世人愛。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_437","lb_range":[],"text_zh":"具戒與正見，住法知真實，圓滿自己行，彼為世人愛。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_438","lb_range":["0035a06"],"text_zh":"二一八","text_en":"二一八 希求不可說〔涅槃〕，富有思慮心，諸欲心不縛，被稱上流人〔近涅槃者〕。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_439","lb_range":[],"text_zh":"希求不可說〔涅槃〕，富有思慮心，諸欲心不縛，被稱上流人〔近涅槃者〕。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_440","lb_range":["0035a07"],"text_zh":"二一九","text_en":"二一九 久在異鄉者，由遠地安歸，親友及知己，羨喜歡迎彼。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_441","lb_range":[],"text_zh":"久在異鄉者，由遠地安歸，親友及知己，羨喜歡迎彼。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_442","lb_range":["0035a08"],"text_zh":"二二〇","text_en":"二二〇 作福業亦是，由此生彼世，福業如親族，迎彼愛來者。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_443","lb_range":[],"text_zh":"作福業亦是，由此生彼世，福業如親族，迎彼愛來者。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_444","lb_range":["0035a09","0035a10","0035a11"],"text_zh":"二二一","text_en":"一七　忿怒品 二二一 應去於忿怒，應棄我慢心，解脫一切縛，不執著名色〔精神、物質〕，彼無","type":"prose","confidence":1}
+{"unit_id":"N26n0009_445","lb_range":["0035a12"],"text_zh":"應去於忿怒，應棄我慢心，解脫一切縛，不執著名色〔精神、物質〕，彼無 一物者，無苦相隨事。","text_en":"一物者，無苦相隨事。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_446","lb_range":["0035a13"],"text_zh":"二二二","text_en":"二二二 止勃發忿怒，如止急行車，是名善御者，餘為執韁人。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_447","lb_range":[],"text_zh":"止勃發忿怒，如止急行車，是名善御者，餘為執韁人。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_448","lb_range":["0035a14"],"text_zh":"二二三","text_en":"二二三 由忍勝忿怒，由善克不善，以施勝吝嗇，由實勝虛妄。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_449","lb_range":[],"text_zh":"由忍勝忿怒，由善克不善，以施勝吝嗇，由實勝虛妄。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_450","lb_range":["0036a01"],"text_zh":"二二四","text_en":"二二四 語實不瞋怒，分與施乞者，人由此三事，得至諸天前。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_451","lb_range":[],"text_zh":"語實不瞋怒，分與施乞者，人由此三事，得至諸天前。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_452","lb_range":["0036a02"],"text_zh":"二二五","text_en":"二二五 聖者不殺生，常攝制護身，則達不死境——彼無憂患處。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_453","lb_range":[],"text_zh":"聖者不殺生，常攝制護身，則達不死境——彼無憂患處。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_454","lb_range":["0036a03"],"text_zh":"二二六","text_en":"二二六 恒常覺醒者，晝夜勤勉學，志於涅槃者，終息其煩惱。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_455","lb_range":[],"text_zh":"恒常覺醒者，晝夜勤勉學，志於涅槃者，終息其煩惱。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_456","lb_range":["0036a04"],"text_zh":"二二七","text_en":"二二七 阿托羅〔優婆塞〕應知！此非今日始，由古來即然，默然被人誹，多言被","type":"prose","confidence":1}
+{"unit_id":"N26n0009_457","lb_range":["0036a05"],"text_zh":"阿托羅〔優婆塞〕應知！此非今日始，由古來即然，默然被人誹，多言被 人誹，寡言被人誹，不為誹謗者，是世極少有。","text_en":"人誹，寡言被人誹，不為誹謗者，是世極少有。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_458","lb_range":["0036a06"],"text_zh":"二二八","text_en":"二二八 只被人誹者，或只被褒人，過未已無有，現在亦應無。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_459","lb_range":[],"text_zh":"只被人誹者，或只被褒人，過未已無有，現在亦應無。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_460","lb_range":["0036a07"],"text_zh":"二二九","text_en":"二二九 智者日日善反省，行無過失有賢明，智慧持戒具行者，彼為智人所讚歎。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_461","lb_range":[],"text_zh":"智者日日善反省，行無過失有賢明，智慧持戒具行者，彼為智人所讚歎。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_462","lb_range":["0036a08"],"text_zh":"二三〇","text_en":"二三〇 質如閻浮金 ，有誰得誹彼，彼為婆羅門，諸天所稱讚。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_463","lb_range":[],"text_zh":"質如閻浮金，有誰得誹彼，彼為婆羅門，諸天所稱讚。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_464","lb_range":["0036a09"],"text_zh":"二三一","text_en":"二三一 攝護身忿怒，制御於身行，棄身之惡行，依身修善行。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_465","lb_range":[],"text_zh":"攝護身忿怒，制御於身行，棄身之惡行，依身修善行。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_466","lb_range":["0036a10"],"text_zh":"二三二","text_en":"二三二 攝護語忿怒，制御於語行，棄語之惡行，依語修善行。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_467","lb_range":[],"text_zh":"攝護語忿怒，制御於語行，棄語之惡行，依語修善行。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_468","lb_range":["0036a11"],"text_zh":"二三三","text_en":"二三三 攝護意忿怒，制御於意行，棄意之惡行，依意修善行。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_469","lb_range":[],"text_zh":"攝護意忿怒，制御於意行，棄意之惡行，依意修善行。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_470","lb_range":["0036a12"],"text_zh":"二三四","text_en":"二三四 智者制御身，亦復制御語，於意亦制御，實成善御者。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_471","lb_range":[],"text_zh":"智者制御身，亦復制御語，於意亦制御，實成善御者。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_472","lb_range":["0036a13","0036a14","0037a01","0037a02","0037a03"],"text_zh":"二三五","text_en":"一八　垢穢品 二三五 汝今已似焦枯葉，閻魔使者近汝邊，汝已立於死門前，然汝旅途亦無糧。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_473","lb_range":[],"text_zh":"汝今已似焦枯葉，閻魔使者近汝邊，汝已立於死門前，然汝旅途亦無糧。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_474","lb_range":["0037a04"],"text_zh":"二三六","text_en":"二三六 汝宜自造安全洲，迅速精勤為智者，拂除心垢無煩惱，汝將到達天聖地。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_475","lb_range":[],"text_zh":"汝宜自造安全洲，迅速精勤為智者，拂除心垢無煩惱，汝將到達天聖地。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_476","lb_range":["0037a05"],"text_zh":"二三七","text_en":"二三七 汝今壽命行既終，汝已近於閻魔前，途中汝無停住所，汝之旅途亦無糧。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_477","lb_range":[],"text_zh":"汝今壽命行既終，汝已近於閻魔前，途中汝無停住所，汝之旅途亦無糧。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_478","lb_range":["0037a06"],"text_zh":"二三八","text_en":"二三八 汝宜自造安全洲，迅速精勤為智者，拂除心垢無煩惱，不復再來生與死。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_479","lb_range":[],"text_zh":"汝宜自造安全洲，迅速精勤為智者，拂除心垢無煩惱，不復再來生與死。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_480","lb_range":["0037a07"],"text_zh":"二三九","text_en":"二三九 剎那剎那間，智者漸次斷，拂除自垢穢，如冶工鍛金。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_481","lb_range":[],"text_zh":"剎那剎那間，智者漸次斷，拂除自垢穢，如冶工鍛金。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_482","lb_range":["0037a08"],"text_zh":"二四〇","text_en":"二四〇 如鐵自生垢〔銹〕，生已自蝕鐵，惡業者亦然，自業導惡趣。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_483","lb_range":[],"text_zh":"如鐵自生垢〔銹〕，生已自蝕鐵，惡業者亦然，自業導惡趣。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_484","lb_range":["0037a09"],"text_zh":"二四一","text_en":"二四一 不誦聖典穢，不修為家屋，懈怠為美穢，放逸護衛穢。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_485","lb_range":[],"text_zh":"不誦聖典穢，不修為家屋，懈怠為美穢，放逸護衛穢。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_486","lb_range":["0037a10"],"text_zh":"二四二","text_en":"二四二 邪行婦人穢，吝嗇施者穢，此世及彼世，惡法實為穢。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_487","lb_range":[],"text_zh":"邪行婦人穢，吝嗇施者穢，此世及彼世，惡法實為穢。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_488","lb_range":["0037a11"],"text_zh":"二四三","text_en":"二四三 此等諸穢中，無明穢為最，汝須棄此穢，成無垢比丘。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_489","lb_range":[],"text_zh":"此等諸穢中，無明穢為最，汝須棄此穢，成無垢比丘。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_490","lb_range":["0037a12"],"text_zh":"二四四","text_en":"二四四 無慚愧厚顏，暴戾與大膽，傲慢罪惡者，其人生活易。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_491","lb_range":[],"text_zh":"無慚愧厚顏，暴戾與大膽，傲慢罪惡者，其人生活易。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_492","lb_range":["0037a13"],"text_zh":"二四五","text_en":"二四五 有慚求清淨，不執著謙遜，營清淨生活，富有見識者，其人生活難。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_493","lb_range":[],"text_zh":"有慚求清淨，不執著謙遜，營清淨生活，富有見識者，其人生活難。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_494","lb_range":["0038a01"],"text_zh":"二四六","text_en":"二四六 若人於此世，殺生說妄語，取人所不與，侵犯他人妻。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_495","lb_range":[],"text_zh":"若人於此世，殺生說妄語，取人所不與，侵犯他人妻。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_496","lb_range":["0038a02"],"text_zh":"二四七","text_en":"二四七 沈於窣羅酒〔穀酒〕、及迷麗取酒〔果酒〕，是人於此世，毀掘自善根。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_497","lb_range":[],"text_zh":"沈於窣羅酒〔穀酒〕、及迷麗取酒〔果酒〕，是人於此世，毀掘自善根。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_498","lb_range":["0038a03"],"text_zh":"二四八","text_en":"二四八 如是汝應知，不制則為惡，勿貪與非法，自陷於永苦。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_499","lb_range":[],"text_zh":"如是汝應知，不制則為惡，勿貪與非法，自陷於永苦。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_500","lb_range":["0038a04"],"text_zh":"二四九","text_en":"二四九 人實由諦信，所樂而施與，若得食不滿，晝夜不得定。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_501","lb_range":[],"text_zh":"人實由諦信，所樂而施與，若得食不滿，晝夜不得定。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_502","lb_range":["0038a05"],"text_zh":"二五〇","text_en":"二五〇 斷除如此心，由根滅絕者，無論晝與夜，得入於三昧。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_503","lb_range":[],"text_zh":"斷除如此心，由根滅絕者，無論晝與夜，得入於三昧。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_504","lb_range":["0038a06"],"text_zh":"二五一","text_en":"二五一 無等貪欲火，無等執著瞋，無等網愚癡，無等流愛欲。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_505","lb_range":[],"text_zh":"無等貪欲火，無等執著瞋，無等網愚癡，無等流愛欲。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_506","lb_range":["0038a07"],"text_zh":"二五二","text_en":"二五二 易見他人過，難見自過失，揭發他人過，如撒布糠穀，己過則隱匿，如狡","type":"prose","confidence":1}
+{"unit_id":"N26n0009_507","lb_range":["0038a08"],"text_zh":"易見他人過，難見自過失，揭發他人過，如撒布糠穀，己過則隱匿，如狡 睹博者，覆蔽其格里。","text_en":"睹博者，覆蔽其格里。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_508","lb_range":["0038a09"],"text_zh":"二五三","text_en":"二五三 詮索他人過，心常易怒者，增長於煩惱，彼遠漏盡事。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_509","lb_range":[],"text_zh":"詮索他人過，心常易怒者，增長於煩惱，彼遠漏盡事。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_510","lb_range":["0038a10"],"text_zh":"二五四","text_en":"二五四 虛空無道跡，外道無沙門，眾生喜虛妄，如來無虛妄。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_511","lb_range":[],"text_zh":"虛空無道跡，外道無沙門，眾生喜虛妄，如來無虛妄。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_512","lb_range":["0038a11"],"text_zh":"二五五","text_en":"二五五 虛空無道跡，外道無沙門，諸行不常住，諸佛無擾亂。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_513","lb_range":[],"text_zh":"虛空無道跡，外道無沙門，諸行不常住，諸佛無擾亂。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_514","lb_range":["0038a12","0038a13","0038a14"],"text_zh":"二五六","text_en":"一九　法住品 二五六 急燥處事故，非為法住者，智者應辨別，正邪之兩者。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_515","lb_range":[],"text_zh":"急燥處事故，非為法住者，智者應辨別，正邪之兩者。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_516","lb_range":["0039a01"],"text_zh":"二五七","text_en":"二五七 導他不燥急，如法而平等，智者護正法，若有賢慮人，是為法住者。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_517","lb_range":[],"text_zh":"導他不燥急，如法而平等，智者護正法，若有賢慮人，是為法住者。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_518","lb_range":["0039a02"],"text_zh":"二五八","text_en":"二五八 不以多言故，彼即是賢者；平靜無怨怖，則稱為智者。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_519","lb_range":[],"text_zh":"不以多言故，彼即是賢者；平靜無怨怖，則稱為智者。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_520","lb_range":["0039a03"],"text_zh":"二五九","text_en":"二五九 不以多言故，彼即持法者；彼雖聞少分，但以身見法，於法不放逸，實為","type":"prose","confidence":1}
+{"unit_id":"N26n0009_521","lb_range":["0039a04"],"text_zh":"不以多言故，彼即持法者；彼雖聞少分，但以身見法，於法不放逸，實為 持法者。","text_en":"持法者。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_522","lb_range":["0039a05"],"text_zh":"二六〇","text_en":"二六〇 不因頭髮白，即稱是長老；彼年之〔虛〕熟，空為長老名。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_523","lb_range":[],"text_zh":"不因頭髮白，即稱是長老；彼年之〔虛〕熟，空為長老名。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_524","lb_range":["0039a06"],"text_zh":"二六一","text_en":"二六一 於彼具真實，具法不殺生，制伏與調御，彼具清淨慧，棄心之垢穢，被稱","type":"prose","confidence":1}
+{"unit_id":"N26n0009_525","lb_range":["0039a07"],"text_zh":"於彼具真實，具法不殺生，制伏與調御，彼具清淨慧，棄心之垢穢，被稱 為長老。","text_en":"為長老。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_526","lb_range":["0039a08"],"text_zh":"二六二","text_en":"二六二 嫉妬慳偽者，雖以辯舌才，或以容色美，非是端正人。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_527","lb_range":[],"text_zh":"嫉妬慳偽者，雖以辯舌才，或以容色美，非是端正人。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_528","lb_range":["0039a09"],"text_zh":"二六三","text_en":"二六三 若斷此〔惡德〕，除根以絕滅，棄過彼智者，是名端正人。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_529","lb_range":[],"text_zh":"若斷此〔惡德〕，除根以絕滅，棄過彼智者，是名端正人。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_530","lb_range":["0039a10"],"text_zh":"二六四","text_en":"二六四 破戒妄語者，剃髮非沙門；欲貪具充滿，云何為沙門？","type":"prose","confidence":1}
+{"unit_id":"N26n0009_531","lb_range":[],"text_zh":"破戒妄語者，剃髮非沙門；欲貪具充滿，云何為沙門？","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_532","lb_range":["0039a11"],"text_zh":"二六五","text_en":"二六五 彼鎮 滅諸惡，不分大與小，鎮 滅諸惡故，是名為沙門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_533","lb_range":[],"text_zh":"彼鎮滅諸惡，不分大與小，鎮滅諸惡故，是名為沙門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_534","lb_range":["0039a12"],"text_zh":"二六六","text_en":"二六六 唯向他行乞 ，非即是比丘 ，奉行諸法儀，亦非為比丘。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_535","lb_range":[],"text_zh":"唯向他行乞，非即是比丘，奉行諸法儀，亦非為比丘。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_536","lb_range":["0039a13"],"text_zh":"二六七","text_en":"二六七 以棄善與惡，勤修梵行者，慎重行此世，彼實為比丘。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_537","lb_range":[],"text_zh":"以棄善與惡，勤修梵行者，慎重行此世，彼實為比丘。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_538","lb_range":["0039a14"],"text_zh":"二六八","text_en":"二六八 愚昧無知者，不以寂默 故，而名為牟尼 ，賢者如權衡。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_539","lb_range":[],"text_zh":"愚昧無知者，不以寂默故，而名為牟尼，賢者如權衡。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_540","lb_range":["0040a01"],"text_zh":"二六九","text_en":"二六九 捨惡取其善，彼得為牟尼 ；彼知於善惡，故稱為牟尼。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_541","lb_range":[],"text_zh":"捨惡取其善，彼得為牟尼；彼知於善惡，故稱為牟尼。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_542","lb_range":["0040a02"],"text_zh":"二七〇","text_en":"二七〇 以害生類 故，彼非為聖者 ；不害 諸生類，是名為聖者。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_543","lb_range":[],"text_zh":"以害生類故，彼非為聖者；不害諸生類，是名為聖者。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_544","lb_range":["0040a03"],"text_zh":"二七一","text_en":"二七一 不依戒律行，或由於多聞，或由於禪定，或由於獨居。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_545","lb_range":[],"text_zh":"不依戒律行，或由於多聞，或由於禪定，或由於獨居。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_546","lb_range":["0040a04"],"text_zh":"二七二","text_en":"二七二 謂：「非凡夫得，享受出家樂」，汝比丘！汝煩惱未盡，勿生安意想 。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_547","lb_range":[],"text_zh":"謂：「非凡夫得，享受出家樂」，汝比丘！汝煩惱未盡，勿生安意想。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_548","lb_range":["0040a05","0040a06","0040a07","0040a08","0040a09","0040a10","0040a11","0040a12","0040a13","0040a14","0041a01","0041a02","0041a03"],"text_zh":"二七三","text_en":"二〇　道品 二七三 道中八支聖道勝；諸諦中四句最勝；諸法中離欲最 勝 ；二足中具眼者勝。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_549","lb_range":[],"text_zh":"道中八支聖道勝；諸諦中四句最勝；諸法中離欲最勝；二足中具眼者勝。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_550","lb_range":["0041a04"],"text_zh":"二七四","text_en":"二七四 無餘知見淨，實唯此一道，汝等順此道，惑亂 魔王者。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_551","lb_range":[],"text_zh":"無餘知見淨，實唯此一道，汝等順此道，惑亂魔王者。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_552","lb_range":["0041a05"],"text_zh":"二七五","text_en":"二七五 汝等順此道，可使苦終盡，知我所說道，得除去欲箭。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_553","lb_range":[],"text_zh":"汝等順此道，可使苦終盡，知我所說道，得除去欲箭。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_554","lb_range":["0041a06"],"text_zh":"二七六","text_en":"二七六 汝等自努力，如來唯說示，住於禪定行，可脫魔王縛。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_555","lb_range":[],"text_zh":"汝等自努力，如來唯說示，住於禪定行，可脫魔王縛。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_556","lb_range":["0041a07"],"text_zh":"二七七","text_en":"二七七 「一切行無常」，依智觀照時，則得厭離苦，此為清淨道。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_557","lb_range":[],"text_zh":"「一切行無常」，依智觀照時，則得厭離苦，此為清淨道。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_558","lb_range":["0041a08"],"text_zh":"二七八","text_en":"二七八 「一切行是苦」，依智觀照時，以得厭離苦，此為清淨道。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_559","lb_range":[],"text_zh":"「一切行是苦」，依智觀照時，以得厭離苦，此為清淨道。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_560","lb_range":["0041a09"],"text_zh":"二七九","text_en":"二七九 「一切法無我」，依智觀照時，以得厭離苦，此為清淨道。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_561","lb_range":[],"text_zh":"「一切法無我」，依智觀照時，以得厭離苦，此為清淨道。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_562","lb_range":["0041a10"],"text_zh":"二八〇","text_en":"二八〇 應努 力 時不努力，少壯時陷怠惰，意氣銷沈又懦弱，懶惰不以智得道。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_563","lb_range":[],"text_zh":"應努力時不努力，少壯時陷怠惰，意氣銷沈又懦弱，懶惰不以智得道。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_564","lb_range":["0041a11"],"text_zh":"二八一","text_en":"二八一 慎語善制意，不以身作惡；淨此三業道，得聖所說道。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_565","lb_range":[],"text_zh":"慎語善制意，不以身作惡；淨此三業道，得聖所說道。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_566","lb_range":["0041a12"],"text_zh":"二八二","text_en":"二八二 由瑜伽智生，無智滅瑜伽，知得此兩道，及其得與失，應自努力行，可增","type":"prose","confidence":1}
+{"unit_id":"N26n0009_567","lb_range":["0041a13"],"text_zh":"由瑜伽智生，無智滅瑜伽，知得此兩道，及其得與失，應自努力行，可增 大智慧。","text_en":"大智慧。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_568","lb_range":["0041a14"],"text_zh":"二八三","text_en":"二八三 當伐欲稠林 ，但勿伐樹木，欲林生畏怖，應脫欲密林。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_569","lb_range":[],"text_zh":"當伐欲稠林，但勿伐樹木，欲林生畏怖，應脫欲密林。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_570","lb_range":["0042a01"],"text_zh":"二八四","text_en":"二八四 男女欲微少，彼心被繫縛，如飲乳犢子，不離彼母中。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_571","lb_range":[],"text_zh":"男女欲微少，彼心被繫縛，如飲乳犢子，不離彼母中。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_572","lb_range":["0042a02"],"text_zh":"二八五","text_en":"二八五 自己斷愛情，如手折秋蓮，勤修寂靜道，善逝宣涅槃。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_573","lb_range":[],"text_zh":"自己斷愛情，如手折秋蓮，勤修寂靜道，善逝宣涅槃。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_574","lb_range":["0042a03"],"text_zh":"二八六","text_en":"二八六 「雨季我住此，冬夏不住此」，此為愚者想，不覺死到來。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_575","lb_range":[],"text_zh":"「雨季我住此，冬夏不住此」，此為愚者想，不覺死到來。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_576","lb_range":["0042a04"],"text_zh":"二八七","text_en":"二八七 溺愛子家畜，彼心執著此，死神將捉去，如睡村瀑流。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_577","lb_range":[],"text_zh":"溺愛子家畜，彼心執著此，死神將捉去，如睡村瀑流。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_578","lb_range":["0042a05"],"text_zh":"二八八","text_en":"二八八 子亦不能救，父子及親戚，莫為能救護，彼為死神捉，親族非能救。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_579","lb_range":[],"text_zh":"子亦不能救，父子及親戚，莫為能救護，彼為死神捉，親族非能救。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_580","lb_range":["0042a06"],"text_zh":"二八九","text_en":"二八九 知此之意義，智者持戒律，應速令清淨，至達涅槃道。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_581","lb_range":[],"text_zh":"知此之意義，智者持戒律，應速令清淨，至達涅槃道。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_582","lb_range":["0042a07","0042a08","0042a09","0042a10","0042a11","0042a12","0042a13","0042a14"],"text_zh":"二九〇","text_en":"二一　雜品 二九〇 若棄於小樂，得見於大樂，智者棄小樂，當見於大樂。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_583","lb_range":[],"text_zh":"若棄於小樂，得見於大樂，智者棄小樂，當見於大樂。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_584","lb_range":["0043a01"],"text_zh":"二九一","text_en":"二九一 施與他人苦，離求自己樂，彼為瞋繫縛，怨憎不解脫。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_585","lb_range":[],"text_zh":"施與他人苦，離求自己樂，彼為瞋繫縛，怨憎不解脫。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_586","lb_range":["0043a02"],"text_zh":"二九二","text_en":"二九二 應作而不作，不應作而作，傲慢放逸者，彼增長煩惱。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_587","lb_range":[],"text_zh":"應作而不作，不應作而作，傲慢放逸者，彼增長煩惱。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_588","lb_range":["0043a03"],"text_zh":"二九三","text_en":"二九三 常勤以念身，不作不應作，應作則常作，念者煩惱盡。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_589","lb_range":[],"text_zh":"常勤以念身，不作不應作，應作則常作，念者煩惱盡。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_590","lb_range":["0043a04"],"text_zh":"二九四","text_en":"二九四 殺母 〔愛欲〕與父〔我慢〕，殺剎帝利族二王〔斷見、常見〕，滅王國〔十","type":"prose","confidence":1}
+{"unit_id":"N26n0009_591","lb_range":["0043a05"],"text_zh":"殺母〔愛欲〕與父〔我慢〕，殺剎帝利族二王〔斷見、常見〕，滅王國〔十 二處〕殺從臣〔喜食〕，行無苦患婆羅門。","text_en":"二處〕殺從臣〔喜食〕，行無苦患婆羅門。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_592","lb_range":["0043a06"],"text_zh":"二九五","text_en":"二九五 殺母 與慢父，殺婆羅門族二王〔同上〕，殺虎第五者〔五蓋、虎＝疑蓋〕，","type":"prose","confidence":1}
+{"unit_id":"N26n0009_593","lb_range":["0043a07"],"text_zh":"殺母與慢父，殺婆羅門族二王〔同上〕，殺虎第五者〔五蓋、虎＝疑蓋〕， 行無苦患婆羅門。","text_en":"行無苦患婆羅門。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_594","lb_range":["0043a08"],"text_zh":"二九六","text_en":"二九六 瞿曇之弟子，常善自覺醒，不分晝與夜，常稱念佛陀。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_595","lb_range":[],"text_zh":"瞿曇之弟子，常善自覺醒，不分晝與夜，常稱念佛陀。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_596","lb_range":["0043a09"],"text_zh":"二九七","text_en":"二九七 瞿曇之弟子，常善自覺醒，不分晝與夜，常稱念達磨。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_597","lb_range":[],"text_zh":"瞿曇之弟子，常善自覺醒，不分晝與夜，常稱念達磨。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_598","lb_range":["0043a10"],"text_zh":"二九八","text_en":"二九八 瞿曇之弟子，常善自覺醒，不分晝與夜，常稱念僧伽。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_599","lb_range":[],"text_zh":"瞿曇之弟子，常善自覺醒，不分晝與夜，常稱念僧伽。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_600","lb_range":["0043a11"],"text_zh":"二九九","text_en":"二九九 瞿曇之弟子，常善自覺醒，不分晝與夜，則常念於身。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_601","lb_range":[],"text_zh":"瞿曇之弟子，常善自覺醒，不分晝與夜，則常念於身。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_602","lb_range":["0043a12"],"text_zh":"三〇〇","text_en":"三〇〇 瞿曇之弟子，常善自覺醒，不分晝與夜，常念不殺生。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_603","lb_range":[],"text_zh":"瞿曇之弟子，常善自覺醒，不分晝與夜，常念不殺生。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_604","lb_range":["0043a13"],"text_zh":"三〇一","text_en":"三〇一 瞿曇之弟子，常善自覺醒，不分晝與夜，心常樂靜慮。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_605","lb_range":[],"text_zh":"瞿曇之弟子，常善自覺醒，不分晝與夜，心常樂靜慮。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_606","lb_range":["0043a14"],"text_zh":"三〇二","text_en":"三〇二 愛樂出家難，在家生活難，非輩 共住難，輪迴往來苦，故不應往來，然","type":"prose","confidence":1}
+{"unit_id":"N26n0009_607","lb_range":["0044a01"],"text_zh":"愛樂出家難，在家生活難，非輩共住難，輪迴往來苦，故不應往來，然 將陷於苦。","text_en":"將陷於苦。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_608","lb_range":["0044a02"],"text_zh":"三〇三","text_en":"三〇三 正信而具戒，得譽與財者，彼至於何處，到處受尊敬。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_609","lb_range":[],"text_zh":"正信而具戒，得譽與財者，彼至於何處，到處受尊敬。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_610","lb_range":["0044a03"],"text_zh":"三〇四","text_en":"三〇四 善名揚遠方，光耀如雲口，惡者夜放箭，雖近不得見。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_611","lb_range":[],"text_zh":"善名揚遠方，光耀如雲口，惡者夜放箭，雖近不得見。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_612","lb_range":["0044a04"],"text_zh":"三〇五","text_en":"三〇五 獨坐與獨臥，獨行而不倦，彼獨自調御，可樂於林中。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_613","lb_range":[],"text_zh":"獨坐與獨臥，獨行而不倦，彼獨自調御，可樂於林中。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_614","lb_range":["0044a05","0044a06","0044a07","0044a08","0044a09","0044a10","0044a11","0044a12","0044a13"],"text_zh":"三〇六","text_en":"二二　地獄品 三〇六 語不實者墮地獄，或自作言我無作，此兩惡業者死後，他世地獄同受苦。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_615","lb_range":[],"text_zh":"語不實者墮地獄，或自作言我無作，此兩惡業者死後，他世地獄同受苦。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_616","lb_range":["0044a14"],"text_zh":"三〇七","text_en":"三〇七 多袈裟纏頸，不節制惡行，惡人由惡業，終墮於地獄。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_617","lb_range":[],"text_zh":"多袈裟纏頸，不節制惡行，惡人由惡業，終墮於地獄。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_618","lb_range":["0045a01"],"text_zh":"三〇八","text_en":"三〇八 破戒無節制，享受檀信施，勿寧吞鐵丸，熱由火焰出。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_619","lb_range":[],"text_zh":"破戒無節制，享受檀信施，勿寧吞鐵丸，熱由火焰出。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_620","lb_range":["0045a02"],"text_zh":"三〇九","text_en":"三〇九 放逸犯他妻，遭次之四事；獲罪臥不安，誹三地獄四。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_621","lb_range":[],"text_zh":"放逸犯他妻，遭次之四事；獲罪臥不安，誹三地獄四。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_622","lb_range":["0045a03"],"text_zh":"三一〇","text_en":"三一〇 罪業墮惡趣，恐怖得樂少，國王加酷杖，則莫犯他妻。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_623","lb_range":[],"text_zh":"罪業墮惡趣，恐怖得樂少，國王加酷杖，則莫犯他妻。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_624","lb_range":["0045a04"],"text_zh":"三一一","text_en":"三一一 不善執茅草，則傷割其手，沙門修邪行，則趣入地獄。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_625","lb_range":[],"text_zh":"不善執茅草，則傷割其手，沙門修邪行，則趣入地獄。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_626","lb_range":["0045a05"],"text_zh":"三一二","text_en":"三一二 懈怠諸行為，污染於戒行，逡巡修梵行，斯者無大果。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_627","lb_range":[],"text_zh":"懈怠諸行為，污染於戒行，逡巡修梵行，斯者無大果。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_628","lb_range":["0045a06"],"text_zh":"三一三","text_en":"三一三 應作所當作，遂行必賣刀，懈怠遊行者，增多於欲塵 。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_629","lb_range":[],"text_zh":"應作所當作，遂行必賣刀，懈怠遊行者，增多於欲塵。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_630","lb_range":["0045a07"],"text_zh":"三一四","text_en":"三一四 不為惡業勝，作惡業受苦；為善業者勝，為善無苦事。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_631","lb_range":[],"text_zh":"不為惡業勝，作惡業受苦；為善業者勝，為善無苦事。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_632","lb_range":["0045a08"],"text_zh":"三一五","text_en":"三一五 猶如邊境城，內外皆防護，護自亦復然。剎那勿輕過，剎那輕忽者，地獄","type":"prose","confidence":1}
+{"unit_id":"N26n0009_633","lb_range":["0045a09"],"text_zh":"猶如邊境城，內外皆防護，護自亦復然。剎那勿輕過，剎那輕忽者，地獄 受憂患。","text_en":"受憂患。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_634","lb_range":["0045a10"],"text_zh":"三一六","text_en":"三一六 不應羞而羞，應羞而不羞，懷此邪見者，眾生達惡趣。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_635","lb_range":[],"text_zh":"不應羞而羞，應羞而不羞，懷此邪見者，眾生達惡趣。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_636","lb_range":["0045a11"],"text_zh":"三一七","text_en":"三一七 不應怖見怖，應怖見不怖，懷此邪見者，眾生達惡趣。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_637","lb_range":[],"text_zh":"不應怖見怖，應怖見不怖，懷此邪見者，眾生達惡趣。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_638","lb_range":["0045a12"],"text_zh":"三一八","text_en":"三一八 無 罪思為罪，是罪見無罪，懷此邪見者，眾生達惡趣。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_639","lb_range":[],"text_zh":"無罪思為罪，是罪見無罪，懷此邪見者，眾生達惡趣。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_640","lb_range":["0045a13"],"text_zh":"三一九","text_en":"三一九 有罪知有罪，無罪知無罪，懷此正見者，眾生達善趣。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_641","lb_range":[],"text_zh":"有罪知有罪，無罪知無罪，懷此正見者，眾生達善趣。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_642","lb_range":["0045a14","0046a01","0046a02","0046a03","0046a04","0046a05"],"text_zh":"三二〇","text_en":"二三　象品 三二〇 如象於戰塲，堪忍弓箭射，我堪忍誹謗，世多破戒者。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_643","lb_range":[],"text_zh":"如象於戰塲，堪忍弓箭射，我堪忍誹謗，世多破戒者。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_644","lb_range":["0046a06"],"text_zh":"三二一","text_en":"三二一 調御象可往戰塲，調御象可為王乘。若能堪忍人誹謗，人中最勝調御者。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_645","lb_range":[],"text_zh":"調御象可往戰塲，調御象可為王乘。若能堪忍人誹謗，人中最勝調御者。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_646","lb_range":["0046a07"],"text_zh":"三二二","text_en":"三二二 調御之騾為優良，信度駿馬亦優良，僑羅大象亦為良，調御自己人更良。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_647","lb_range":[],"text_zh":"調御之騾為優良，信度駿馬亦優良，僑羅大象亦為良，調御自己人更良。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_648","lb_range":["0046a08"],"text_zh":"三二三","text_en":"三二三 實非此等之車乘，到達難到之境地〔涅槃〕，若人善調御自己，由此調御得","type":"prose","confidence":1}
+{"unit_id":"N26n0009_649","lb_range":["0046a09"],"text_zh":"實非此等之車乘，到達難到之境地〔涅槃〕，若人善調御自己，由此調御得 到達。","text_en":"到達。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_650","lb_range":["0046a10"],"text_zh":"三二四","text_en":"三二四 如象名財護，發情暴難制，繁縛不少食，唯念於象林。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_651","lb_range":[],"text_zh":"如象名財護，發情暴難制，繁縛不少食，唯念於象林。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_652","lb_range":["0046a11"],"text_zh":"三二五","text_en":"三二五 懶惰又貪食，多眠輾轉臥，如豬飽無厭，愚者再入胎〔即輪迴〕。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_653","lb_range":[],"text_zh":"懶惰又貪食，多眠輾轉臥，如豬飽無厭，愚者再入胎〔即輪迴〕。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_654","lb_range":["0046a12"],"text_zh":"三二六","text_en":"三二六 以前我此心，隨欲樂徘徊，今我悉制御，如持鉤象師，制御發情象。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_655","lb_range":[],"text_zh":"以前我此心，隨欲樂徘徊，今我悉制御，如持鉤象師，制御發情象。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_656","lb_range":["0046a13"],"text_zh":"三二七","text_en":"三二七 樂時不放逸，常護自己心，救自出難處，如象出泥坑。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_657","lb_range":[],"text_zh":"樂時不放逸，常護自己心，救自出難處，如象出泥坑。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_658","lb_range":["0046a14"],"text_zh":"三二八","text_en":"三二八 若得同行伴，正行富智慮，征服諸危難，欣然與彼行。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_659","lb_range":[],"text_zh":"若得同行伴，正行富智慮，征服諸危難，欣然與彼行。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_660","lb_range":["0047a01"],"text_zh":"三二九","text_en":"三二九 若無同行伴，正行富智慮，應如王棄國，如象獨行林。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_661","lb_range":[],"text_zh":"若無同行伴，正行富智慮，應如王棄國，如象獨行林。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_662","lb_range":["0047a02"],"text_zh":"三三〇","text_en":"三三〇 獨行為殊勝，以不愚為伴，獨行離惡事，如象獨遊林。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_663","lb_range":[],"text_zh":"獨行為殊勝，以不愚為伴，獨行離惡事，如象獨遊林。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_664","lb_range":["0047a03"],"text_zh":"三三一","text_en":"三三一 現時得友樂，滿足適當樂，命終善業樂，棄一切苦樂。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_665","lb_range":[],"text_zh":"現時得友樂，滿足適當樂，命終善業樂，棄一切苦樂。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_666","lb_range":["0047a04"],"text_zh":"三三二","text_en":"三三二 世中敬母樂，敬父亦為樂，世敬沙門樂，敬聖者亦樂。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_667","lb_range":[],"text_zh":"世中敬母樂，敬父亦為樂，世敬沙門樂，敬聖者亦樂。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_668","lb_range":["0047a05"],"text_zh":"三三三","text_en":"三三三 至老持戒樂，安立信仰樂，得有智慧樂，不作惡業樂。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_669","lb_range":[],"text_zh":"至老持戒樂，安立信仰樂，得有智慧樂，不作惡業樂。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_670","lb_range":["0047a06","0047a07","0047a08"],"text_zh":"三三四","text_en":"二四　愛欲品 三三四 若行於放逸，愛增如蔓草，彼生而此生，如猿求林果。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_671","lb_range":[],"text_zh":"若行於放逸，愛增如蔓草，彼生而此生，如猿求林果。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_672","lb_range":["0047a09"],"text_zh":"三三五","text_en":"三三五 若於此世界，為欲所征服，憂患日增長，如毘羅得雨。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_673","lb_range":[],"text_zh":"若於此世界，為欲所征服，憂患日增長，如毘羅得雨。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_674","lb_range":["0047a10"],"text_zh":"三三六","text_en":"三三六 若於此世界，征服惡欲者，憂患自離去，如水滴蓮葉。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_675","lb_range":[],"text_zh":"若於此世界，征服惡欲者，憂患自離去，如水滴蓮葉。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_676","lb_range":["0047a11"],"text_zh":"三三七","text_en":"三三七 我告此善事：汝等集於此，掘愛欲之根，如求毘羅那，掘取其飴根，勿使","type":"prose","confidence":1}
+{"unit_id":"N26n0009_677","lb_range":["0047a12"],"text_zh":"我告此善事：汝等集於此，掘愛欲之根，如求毘羅那，掘取其飴根，勿使 為魔王，再再壞汝等，如流毀華葦。","text_en":"為魔王，再再壞汝等，如流毀華葦。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_678","lb_range":["0047a13"],"text_zh":"三三八","text_en":"三三八 不傷深固根，雖伐樹再生，愛欲不斷根，亦然〔苦〕再生。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_679","lb_range":[],"text_zh":"不傷深固根，雖伐樹再生，愛欲不斷根，亦然〔苦〕再生。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_680","lb_range":["0047a14"],"text_zh":"三三九","text_en":"三三九 彼具三十六愛流，盛勢奔向於樂境，彼具如是邪見人，思惟為欲漂蕩去。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_681","lb_range":[],"text_zh":"彼具三十六愛流，盛勢奔向於樂境，彼具如是邪見人，思惟為欲漂蕩去。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_682","lb_range":["0048a01"],"text_zh":"三四〇","text_en":"三四〇 欲流到處流，蔓草茂發芽，汝見此蔓生，以慧斷其根。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_683","lb_range":[],"text_zh":"欲流到處流，蔓草茂發芽，汝見此蔓生，以慧斷其根。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_684","lb_range":["0048a02"],"text_zh":"三四一","text_en":"三四一 人喜愛滋潤，亦喜逐六境，向樂求樂人，實嚐生與滅。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_685","lb_range":[],"text_zh":"人喜愛滋潤，亦喜逐六境，向樂求樂人，實嚐生與滅。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_686","lb_range":["0048a03"],"text_zh":"三四二","text_en":"三四二 馳逐愛欲人，馳迴如罠兔，繫縛於執著，再再常受苦。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_687","lb_range":[],"text_zh":"馳逐愛欲人，馳迴如罠兔，繫縛於執著，再再常受苦。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_688","lb_range":["0048a04"],"text_zh":"三四三","text_en":"三四三 馳逐愛欲人，馳迴如罠兔，比丘求離欲，故除其愛欲。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_689","lb_range":[],"text_zh":"馳逐愛欲人，馳迴如罠兔，比丘求離欲，故除其愛欲。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_690","lb_range":["0048a05"],"text_zh":"三四四","text_en":"三四四 去欲喜林間 ，離欲又向欲，誠實觀此人，脫繫又向縛。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_691","lb_range":[],"text_zh":"去欲喜林間，離欲又向欲，誠實觀此人，脫繫又向縛。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_692","lb_range":["0048a06"],"text_zh":"三四五","text_en":"三四五 鐵木麻作繩，智言非堅縛，貪戀妻子財，是實為堅縛。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_693","lb_range":[],"text_zh":"鐵木麻作繩，智言非堅縛，貪戀妻子財，是實為堅縛。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_694","lb_range":["0048a07"],"text_zh":"三四六","text_en":"三四六 賢者謂：能引戀著者，是為堅牢縛，斷此無戀著，棄欲而出家。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_695","lb_range":[],"text_zh":"賢者謂：能引戀著者，是為堅牢縛，斷此無戀著，棄欲而出家。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_696","lb_range":["0048a08"],"text_zh":"三四七","text_en":"三四七 彼著於欲流，蜘蛛自結網，斷此離欲著，棄苦而遊行〔出家得解脫〕。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_697","lb_range":[],"text_zh":"彼著於欲流，蜘蛛自結網，斷此離欲著，棄苦而遊行〔出家得解脫〕。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_698","lb_range":["0048a09"],"text_zh":"三四八","text_en":"三四八 棄過現未來，而達於彼岸，意脫一切處，無再受生老。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_699","lb_range":[],"text_zh":"棄過現未來，而達於彼岸，意脫一切處，無再受生老。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_700","lb_range":["0048a10"],"text_zh":"三四九","text_en":"三四九 疑惡所擾亂，熾烈求享樂，愛欲愈增長。如是此類人，自作堅繫縛。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_701","lb_range":[],"text_zh":"疑惡所擾亂，熾烈求享樂，愛欲愈增長。如是此類人，自作堅繫縛。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_702","lb_range":["0048a11"],"text_zh":"三五〇","text_en":"三五〇 喜靜止惡想，常觀身不淨，當滅諸愛欲，不為魔王縛。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_703","lb_range":[],"text_zh":"喜靜止惡想，常觀身不淨，當滅諸愛欲，不為魔王縛。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_704","lb_range":["0048a12"],"text_zh":"三五一","text_en":"三五一 達究竟處無畏，離愛欲無罪穢，斷除生有之箭，此為彼最後身〔即不更輪","type":"prose","confidence":1}
+{"unit_id":"N26n0009_705","lb_range":["0048a13"],"text_zh":"達究竟處無畏，離愛欲無罪穢，斷除生有之箭，此為彼最後身〔即不更輪 迴〕。","text_en":"迴〕。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_706","lb_range":["0048a14"],"text_zh":"三五二","text_en":"三五二 離愛無染著，通曉聖典語，善知法與義，及字之順序，彼為最後身，被稱","type":"prose","confidence":1}
+{"unit_id":"N26n0009_707","lb_range":["0049a01"],"text_zh":"離愛無染著，通曉聖典語，善知法與義，及字之順序，彼為最後身，被稱 大丈夫，及為大智者。","text_en":"大丈夫，及為大智者。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_708","lb_range":["0049a02"],"text_zh":"三五三","text_en":"三五三 我征服一切，我了知一切，一切法無染，捨棄於一切，滅欲而解脫，自悟","type":"prose","confidence":1}
+{"unit_id":"N26n0009_709","lb_range":["0049a03"],"text_zh":"我征服一切，我了知一切，一切法無染，捨棄於一切，滅欲而解脫，自悟 誰稱師？","text_en":"誰稱師？","type":"verse","confidence":1}
+{"unit_id":"N26n0009_710","lb_range":["0049a04"],"text_zh":"三五四","text_en":"三五四 法施勝諸施，法味勝諸味，法樂勝諸樂，滅愛勝諸苦。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_711","lb_range":[],"text_zh":"法施勝諸施，法味勝諸味，法樂勝諸樂，滅愛勝諸苦。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_712","lb_range":["0049a05"],"text_zh":"三五五","text_en":"三五五 毀滅財愚者，決非求彼岸。愚者財欲害，自害如害他。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_713","lb_range":[],"text_zh":"毀滅財愚者，決非求彼岸。愚者財欲害，自害如害他。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_714","lb_range":["0049a06"],"text_zh":"三五六","text_en":"三五六 雜草毀田地，貪欲損世人。施與離貪者，故得大果報。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_715","lb_range":[],"text_zh":"雜草毀田地，貪欲損世人。施與離貪者，故得大果報。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_716","lb_range":["0049a07"],"text_zh":"三五七","text_en":"三五七 雜草毀田地，瞋恚損世人。施與離瞋者，故得大果報。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_717","lb_range":[],"text_zh":"雜草毀田地，瞋恚損世人。施與離瞋者，故得大果報。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_718","lb_range":["0049a08"],"text_zh":"三五八","text_en":"三五八 雜草毀田地，愚癡損世人。施與離癡者，故得大果報。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_719","lb_range":[],"text_zh":"雜草毀田地，愚癡損世人。施與離癡者，故得大果報。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_720","lb_range":["0049a09"],"text_zh":"三五九","text_en":"三五九 雜草毀田地，欲望損世人。施與離欲者，故得大果報。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_721","lb_range":[],"text_zh":"雜草毀田地，欲望損世人。施與離欲者，故得大果報。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_722","lb_range":["0049a10","0049a11","0049a12","0049a13","0049a14","0050a01","0050a02","0050a03"],"text_zh":"三六〇","text_en":"二五　比丘品 三六〇 善哉制於眼，善哉制於耳，善哉制於鼻，善哉制於舌。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_723","lb_range":[],"text_zh":"善哉制於眼，善哉制於耳，善哉制於鼻，善哉制於舌。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_724","lb_range":["0050a04"],"text_zh":"三六一","text_en":"三六一 善哉制於身，善哉制於語，善哉制於意，善哉制一切，制一切比丘，解脫","type":"prose","confidence":1}
+{"unit_id":"N26n0009_725","lb_range":["0050a05"],"text_zh":"善哉制於身，善哉制於語，善哉制於意，善哉制一切，制一切比丘，解脫 一切苦。","text_en":"一切苦。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_726","lb_range":["0050a06"],"text_zh":"三六二","text_en":"三六二 善調手足與言語，最善調御身與首，心喜善住於三昧，獨居知足是比丘。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_727","lb_range":[],"text_zh":"善調手足與言語，最善調御身與首，心喜善住於三昧，獨居知足是比丘。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_728","lb_range":["0050a07"],"text_zh":"三六三","text_en":"三六三 比丘調於語，賢明而寂靜，明正法與義，所說甚柔軟。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_729","lb_range":[],"text_zh":"比丘調於語，賢明而寂靜，明正法與義，所說甚柔軟。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_730","lb_range":["0050a08"],"text_zh":"三六四","text_en":"三六四 住法之樂園，樂法與隨法，思惟憶念法，比丘不退墮。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_731","lb_range":[],"text_zh":"住法之樂園，樂法與隨法，思惟憶念法，比丘不退墮。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_732","lb_range":["0050a09"],"text_zh":"三六五","text_en":"三六五 勿輕自所得，勿羨他所得，比丘羨他得，不入三昧地。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_733","lb_range":[],"text_zh":"勿輕自所得，勿羨他所得，比丘羨他得，不入三昧地。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_734","lb_range":["0050a10"],"text_zh":"三六六","text_en":"三六六 比丘雖得少，不輕嫌所得，清淨活不怠，諸天實稱讚。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_735","lb_range":[],"text_zh":"比丘雖得少，不輕嫌所得，清淨活不怠，諸天實稱讚。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_736","lb_range":["0050a11"],"text_zh":"三六七","text_en":"三六七 若於名及色，不著我我所，非有故無憂，彼實稱比丘。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_737","lb_range":[],"text_zh":"若於名及色，不著我我所，非有故無憂，彼實稱比丘。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_738","lb_range":["0050a12"],"text_zh":"三六八","text_en":"三六八 比丘住慈悲，信喜佛陀教，達寂靜安樂，諸行解脫界。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_739","lb_range":[],"text_zh":"比丘住慈悲，信喜佛陀教，達寂靜安樂，諸行解脫界。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_740","lb_range":["0050a13"],"text_zh":"三六九","text_en":"三六九 比丘汲舟水，水出則舟輕，若斷除貪瞋，汝證得涅槃。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_741","lb_range":[],"text_zh":"比丘汲舟水，水出則舟輕，若斷除貪瞋，汝證得涅槃。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_742","lb_range":["0050a14"],"text_zh":"三七〇","text_en":"三七〇 五斷與棄五 ，五種善勤修。越五著比丘！名為渡瀑流。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_743","lb_range":[],"text_zh":"五斷與棄五，五種善勤修。越五著比丘！名為渡瀑流。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_744","lb_range":["0051a01"],"text_zh":"三七一","text_en":"三七一 修定勿放逸，勿使心迷欲，勿待吞鐵丸，燒然而叫苦。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_745","lb_range":[],"text_zh":"修定勿放逸，勿使心迷欲，勿待吞鐵丸，燒然而叫苦。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_746","lb_range":["0051a02"],"text_zh":"三七二","text_en":"三七二 無慧者無定，無定者無慧。具定與智慧，實彼近涅槃。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_747","lb_range":[],"text_zh":"無慧者無定，無定者無慧。具定與智慧，實彼近涅槃。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_748","lb_range":["0051a03"],"text_zh":"三七三","text_en":"三七三 比丘入空屋，彼心之寂靜，諦觀於正法，享超人界樂。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_749","lb_range":[],"text_zh":"比丘入空屋，彼心之寂靜，諦觀於正法，享超人界樂。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_750","lb_range":["0051a04"],"text_zh":"三七四","text_en":"三七四 人若常正念，諸蘊之生滅，獲得喜與樂，已知得不死〔涅槃〕。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_751","lb_range":[],"text_zh":"人若常正念，諸蘊之生滅，獲得喜與樂，已知得不死〔涅槃〕。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_752","lb_range":["0051a05"],"text_zh":"三七五","text_en":"三七五 有智慧比丘，於現世作是：攝根及知足，隨護戒律儀。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_753","lb_range":[],"text_zh":"有智慧比丘，於現世作是：攝根及知足，隨護戒律儀。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_754","lb_range":["0051a06"],"text_zh":"三七六","text_en":"三七六 態度盡好誼，行為應善行。依此彼多樂，至滅盡諸苦。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_755","lb_range":[],"text_zh":"態度盡好誼，行為應善行。依此彼多樂，至滅盡諸苦。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_756","lb_range":["0051a07"],"text_zh":"三七七","text_en":"三七七 如夏之生花，枯萎而凋落，汝等諸比丘！須棄貪瞋恚。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_757","lb_range":[],"text_zh":"如夏之生花，枯萎而凋落，汝等諸比丘！須棄貪瞋恚。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_758","lb_range":["0051a08"],"text_zh":"三七八","text_en":"三七八 身靜及語靜，意靜住三昧，棄俗樂比丘，稱為寂靜者。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_759","lb_range":[],"text_zh":"身靜及語靜，意靜住三昧，棄俗樂比丘，稱為寂靜者。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_760","lb_range":["0051a09"],"text_zh":"三七九","text_en":"三七九 汝當自警策，自行自省察，自護與正念，比丘住安樂。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_761","lb_range":[],"text_zh":"汝當自警策，自行自省察，自護與正念，比丘住安樂。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_762","lb_range":["0051a10"],"text_zh":"三八〇","text_en":"三八〇 自為自護己，自為自依怙。故須自制御，如商調良馬。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_763","lb_range":[],"text_zh":"自為自護己，自為自依怙。故須自制御，如商調良馬。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_764","lb_range":["0051a11"],"text_zh":"三八一","text_en":"三八一 比丘具喜心，樂教信佛陀，達寂靜安樂，諸行解脫境。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_765","lb_range":[],"text_zh":"比丘具喜心，樂教信佛陀，達寂靜安樂，諸行解脫境。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_766","lb_range":["0051a12"],"text_zh":"三八二","text_en":"三八二 比丘雖年少，精勤佛陀教，如月離雲翳，照耀於此世。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_767","lb_range":[],"text_zh":"比丘雖年少，精勤佛陀教，如月離雲翳，照耀於此世。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_768","lb_range":["0051a13","0051a14","0052a01","0052a02","0052a03","0052a04","0052a05","0052a06","0052a07"],"text_zh":"三八三","text_en":"二六　婆羅門品 三八三 勇敢斷「欲」流，棄欲婆羅門！若知滅諸蘊，汝則知無作。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_769","lb_range":[],"text_zh":"勇敢斷「欲」流，棄欲婆羅門！若知滅諸蘊，汝則知無作。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_770","lb_range":["0052a08"],"text_zh":"三八四","text_en":"三八四 若常住於二法〔止觀〕，婆羅門達彼岸，如是彼智慧者，息滅一切繫縛。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_771","lb_range":[],"text_zh":"若常住於二法〔止觀〕，婆羅門達彼岸，如是彼智慧者，息滅一切繫縛。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_772","lb_range":["0052a09"],"text_zh":"三八五","text_en":"三八五 無彼岸此岸〔現世〕，兩岸皆悉無，離 苦 無繫縛，是名婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_773","lb_range":[],"text_zh":"無彼岸此岸〔現世〕，兩岸皆悉無，離苦無繫縛，是名婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_774","lb_range":["0052a10"],"text_zh":"三八六","text_en":"三八六 彼人入禪定，安住無垢穢，應作皆已作，去諸煩惱漏，到達最上義〔阿羅","type":"prose","confidence":1}
+{"unit_id":"N26n0009_775","lb_range":["0052a11"],"text_zh":"彼人入禪定，安住無垢穢，應作皆已作，去諸煩惱漏，到達最上義〔阿羅 漢果〕，是名婆羅門。","text_en":"漢果〕，是名婆羅門。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_776","lb_range":["0052a12"],"text_zh":"三八七","text_en":"三八七 日照晝月明夜，剎帝利武裝耀，婆羅門定光輝，然佛陀其光明，普照全晝","type":"prose","confidence":1}
+{"unit_id":"N26n0009_777","lb_range":["0052a13"],"text_zh":"日照晝月明夜，剎帝利武裝耀，婆羅門定光輝，然佛陀其光明，普照全晝 全夜。","text_en":"全夜。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_778","lb_range":["0052a14"],"text_zh":"三八八","text_en":"三八八 除棄惡業者，是名婆羅門 ，所行清淨者，則稱為沙門 。自去垢穢者，","type":"prose","confidence":1}
+{"unit_id":"N26n0009_779","lb_range":["0053a01"],"text_zh":"除棄惡業者，是名婆羅門，所行清淨者，則稱為沙門。自去垢穢者， 是名出家人。","text_en":"是名出家人 。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_780","lb_range":["0053a02"],"text_zh":"三八九","text_en":"三八九 勿打婆羅門，婆羅門勿瞋。打婆羅門者，忿瞋災極甚。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_781","lb_range":[],"text_zh":"勿打婆羅門，婆羅門勿瞋。打婆羅門者，忿瞋災極甚。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_782","lb_range":["0053a03"],"text_zh":"三九〇","text_en":"三九〇 婆羅門若制其心，此對彼不少利益。隨時消滅於害心，亦隨得止於痛苦。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_783","lb_range":[],"text_zh":"婆羅門若制其心，此對彼不少利益。隨時消滅於害心，亦隨得止於痛苦。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_784","lb_range":["0053a04"],"text_zh":"三九一","text_en":"三九一 不以身語意，行作諸惡業，制此三處人，是名婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_785","lb_range":[],"text_zh":"不以身語意，行作諸惡業，制此三處人，是名婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_786","lb_range":["0053a05"],"text_zh":"三九二","text_en":"三九二 正覺所說法，不論從何聞，向彼宣說者，恭敬與敬禮，猶如婆羅門，恭敬","type":"prose","confidence":1}
+{"unit_id":"N26n0009_787","lb_range":["0053a06"],"text_zh":"正覺所說法，不論從何聞，向彼宣說者，恭敬與敬禮，猶如婆羅門，恭敬 於聖火。","text_en":"於聖火。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_788","lb_range":["0053a07"],"text_zh":"三九三","text_en":"三九三 不因螺髻及種族，亦非生為婆羅門，誰知真實及法者，彼為幸福婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_789","lb_range":[],"text_zh":"不因螺髻及種族，亦非生為婆羅門，誰知真實及法者，彼為幸福婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_790","lb_range":["0053a08"],"text_zh":"三九四","text_en":"三九四 汝愚螺髻者！衣羊皮何用 ？內心具欲林，汝僅外嚴飾。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_791","lb_range":[],"text_zh":"汝愚螺髻者！衣羊皮何用？內心具欲林，汝僅外嚴飾。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_792","lb_range":["0053a09"],"text_zh":"三九五","text_en":"三九五 諸著糞掃衣，瘦而露脈管，林中獨入定，是名婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_793","lb_range":[],"text_zh":"諸著糞掃衣，瘦而露脈管，林中獨入定，是名婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_794","lb_range":["0053a10"],"text_zh":"三九六","text_en":"三九六 所謂婆羅門，不由母始生。執著世富裕 ，但名說「普」者，不著任何物 ，","type":"prose","confidence":1}
+{"unit_id":"N26n0009_795","lb_range":["0053a11"],"text_zh":"所謂婆羅門，不由母始生。執著世富裕，但名說「普」者，不著任何物， 是名婆羅門。","text_en":"是名婆羅門。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_796","lb_range":["0053a12"],"text_zh":"三九七","text_en":"三九七 斷一切結縛， 彼實無畏怖，離 著無 繫縛，是名婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_797","lb_range":[],"text_zh":"斷一切結縛，彼實無畏怖，離著無繫縛，是名婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_798","lb_range":["0053a13"],"text_zh":"三九八","text_en":"三九八 斷紐與帶緒，及斷網所屬 ，除障礙覺者，是名婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_799","lb_range":[],"text_zh":"斷紐與帶緒，及斷網所屬，除障礙覺者，是名婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_800","lb_range":["0053a14"],"text_zh":"三九九","text_en":"三九九 能忍罵與打，刑縛忍強軍，如是安忍者，是名婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_801","lb_range":[],"text_zh":"能忍罵與打，刑縛忍強軍，如是安忍者，是名婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_802","lb_range":["0054a01"],"text_zh":"四〇〇","text_en":"四〇〇 無瞋具德行，持戒遠離欲，調至最後身，是名婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_803","lb_range":[],"text_zh":"無瞋具德行，持戒遠離欲，調至最後身，是名婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_804","lb_range":["0054a02"],"text_zh":"四〇一","text_en":"四〇一 如水落於蓮葉，如介子在錐尖，不染著諸欲者，稱名為婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_805","lb_range":[],"text_zh":"如水落於蓮葉，如介子在錐尖，不染著諸欲者，稱名為婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_806","lb_range":["0054a03"],"text_zh":"四〇二","text_en":"四〇二 若人於此世，覺悟滅自苦，捨重擔離縛，是名婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_807","lb_range":[],"text_zh":"若人於此世，覺悟滅自苦，捨重擔離縛，是名婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_808","lb_range":["0054a04"],"text_zh":"四〇三","text_en":"四〇三 有甚深智慧，善辨道非道，證無上義者，是名婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_809","lb_range":[],"text_zh":"有甚深智慧，善辨道非道，證無上義者，是名婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_810","lb_range":["0054a05"],"text_zh":"四〇四","text_en":"四〇四 不混在俗者，亦不雜於僧，無家寡欲者，是名婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_811","lb_range":[],"text_zh":"不混在俗者，亦不雜於僧，無家寡欲者，是名婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_812","lb_range":["0054a06"],"text_zh":"四〇五","text_en":"四〇五 一切強弱有情中，彼人盡棄於刀杖，不殺不教他人殺，是名為之婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_813","lb_range":[],"text_zh":"一切強弱有情中，彼人盡棄於刀杖，不殺不教他人殺，是名為之婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_814","lb_range":["0054a07"],"text_zh":"四〇六","text_en":"四〇六 於他敵中無害意，於持刀杖有溫順，執著者中無執著，我稱彼為婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_815","lb_range":[],"text_zh":"於他敵中無害意，於持刀杖有溫順，執著者中無執著，我稱彼為婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_816","lb_range":["0054a08"],"text_zh":"四〇七","text_en":"四〇七 食欲瞋恚與慢心，以及虛偽皆脫落，猶如介子落錐尖，我稱彼為婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_817","lb_range":[],"text_zh":"食欲瞋恚與慢心，以及虛偽皆脫落，猶如介子落錐尖，我稱彼為婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_818","lb_range":["0054a09"],"text_zh":"四〇八","text_en":"四〇八 不言粗暴語，說益言實語，不觸怒於人，是名婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_819","lb_range":[],"text_zh":"不言粗暴語，說益言實語，不觸怒於人，是名婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_820","lb_range":["0054a10"],"text_zh":"四〇九","text_en":"四〇九 於此善或惡，長短與粗細，不與而不取，是名婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_821","lb_range":[],"text_zh":"於此善或惡，長短與粗細，不與而不取，是名婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_822","lb_range":["0054a11"],"text_zh":"四一〇","text_en":"四一〇 對此世彼世，均無有愛著，離繫解脫者，是名婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_823","lb_range":[],"text_zh":"對此世彼世，均無有愛著，離繫解脫者，是名婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_824","lb_range":["0054a12"],"text_zh":"四一一","text_en":"四一一 不存執著者，了悟無疑惑，到達甘露地，是名婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_825","lb_range":[],"text_zh":"不存執著者，了悟無疑惑，到達甘露地，是名婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_826","lb_range":["0054a13"],"text_zh":"四一二","text_en":"四一二 若於此世間，超脫善與惡，無憂清淨者，是名婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_827","lb_range":[],"text_zh":"若於此世間，超脫善與惡，無憂清淨者，是名婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_828","lb_range":["0054a14"],"text_zh":"四一三","text_en":"四一三 如月淨無垢，清淨而澄明，滅盡再生欲，是名婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_829","lb_range":[],"text_zh":"如月淨無垢，清淨而澄明，滅盡再生欲，是名婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_830","lb_range":["0055a01"],"text_zh":"四一四","text_en":"四一四 超越泥濘難行道，并越愚癡輪迴海，得渡得岸住禪定，無欲而又無疑惑，","type":"prose","confidence":1}
+{"unit_id":"N26n0009_831","lb_range":["0055a02"],"text_zh":"超越泥濘難行道，并越愚癡輪迴海，得渡得岸住禪定，無欲而又無疑惑， 無著證涅槃寂靜，我稱之為婆羅門。","text_en":"無著證涅槃寂靜，我稱之為婆羅門。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_832","lb_range":["0055a03"],"text_zh":"四一五","text_en":"四一五 捨棄欲樂於此世，出家遊行成無家，滅盡欲樂生起者，我稱之為婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_833","lb_range":[],"text_zh":"捨棄欲樂於此世，出家遊行成無家，滅盡欲樂生起者，我稱之為婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_834","lb_range":["0055a04"],"text_zh":"四一六","text_en":"四一六 捨棄愛欲於此世，出家遊行為無家，滅盡愛欲生起者，我稱之為婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_835","lb_range":[],"text_zh":"捨棄愛欲於此世，出家遊行為無家，滅盡愛欲生起者，我稱之為婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_836","lb_range":["0055a05"],"text_zh":"四一七","text_en":"四一七 遠離人間縛，超脫天上縛，斷除諸縛者，是名婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_837","lb_range":[],"text_zh":"遠離人間縛，超脫天上縛，斷除諸縛者，是名婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_838","lb_range":["0055a06"],"text_zh":"四一八","text_en":"四一八 捨棄樂不樂，清涼無煩惱，勇者勝世間，是名婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_839","lb_range":[],"text_zh":"捨棄樂不樂，清涼無煩惱，勇者勝世間，是名婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_840","lb_range":["0055a07"],"text_zh":"四一九","text_en":"四一九 若徧知一切，有情之生滅，無執善逝佛，是名婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_841","lb_range":[],"text_zh":"若徧知一切，有情之生滅，無執善逝佛，是名婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_842","lb_range":["0055a08"],"text_zh":"四二〇","text_en":"四二〇 諸天乾闥婆及人，具不知彼所趣道，滅盡煩惱阿羅漢，我稱彼為婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_843","lb_range":[],"text_zh":"諸天乾闥婆及人，具不知彼所趣道，滅盡煩惱阿羅漢，我稱彼為婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_844","lb_range":["0055a09"],"text_zh":"四二一","text_en":"四二一 前〔過〕後〔未來〕，與中間〔現在〕，無有任何物，不著一物者，是名婆","type":"prose","confidence":1}
+{"unit_id":"N26n0009_845","lb_range":["0055a10"],"text_zh":"前〔過〕後〔未來〕，與中間〔現在〕，無有任何物，不著一物者，是名婆 羅門。","text_en":"羅門。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_846","lb_range":["0055a11"],"text_zh":"四二二","text_en":"四二二 牡牛最勝勇猛者，大仙無欲勝利者，洗滌心垢與覺者，我稱彼為婆羅門。","type":"prose","confidence":1}
+{"unit_id":"N26n0009_847","lb_range":[],"text_zh":"牡牛最勝勇猛者，大仙無欲勝利者，洗滌心垢與覺者，我稱彼為婆羅門。","text_en":"","type":"verse","confidence":1}
+{"unit_id":"N26n0009_848","lb_range":["0055a12"],"text_zh":"四二三","text_en":"四二三 牟尼知前生，見天界惡趣，達生之滅盡，業成無上智 ，一切圓滿者，是","type":"prose","confidence":1}
+{"unit_id":"N26n0009_849","lb_range":["0055a13"],"text_zh":"牟尼知前生，見天界惡趣，達生之滅盡，業成無上智，一切圓滿者，是 名婆羅門。","text_en":"名婆羅門。","type":"verse","confidence":1}
+{"unit_id":"N26n0009_850","lb_range":["0055a14","0056a01","0056a02","0056a03","0056a04","0056a05","0056a06","0056a07","0056a08","0056a09","0056a10","0056a11","0056a12","0056a13","0056a14"],"text_zh":"","text_en":"","type":"prose","confidence":1}

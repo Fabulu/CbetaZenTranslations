@@ -1,0 +1,58 @@
+{"source_sha256":"68a00e923f3e9ac684ac69f7dc5e662a1084365332e1c73bd190d60a95316b04","schema":"seg-v1"}
+{"unit_id":"ZW02na008_001","lb_range":["0016a01","0017a01","0017a02","0017a03","0017a04"],"text_zh":"卷首語","text_en":"目錄 卷首語 （1）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_002","lb_range":[],"text_zh":"（1）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_003","lb_range":["0017a05"],"text_zh":"FOREWORD","text_en":"FOREWORD （4）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_004","lb_range":[],"text_zh":"（4）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_005","lb_range":["0017a06"],"text_zh":"卷首の語り","text_en":"卷首の語り （11）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_006","lb_range":[],"text_zh":"（11）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_007","lb_range":["0017a07"],"text_zh":"目錄","text_en":"目錄 （17）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_008","lb_range":[],"text_zh":"（17）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_009","lb_range":["0017a08"],"text_zh":"錄文校勘體例","text_en":"錄文校勘體例 （19）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_010","lb_range":[],"text_zh":"（19）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_011","lb_range":["0017a09","0017a10"],"text_zh":"大藏經編纂及電腦化研討會論文特集","text_en":"大藏經編纂及電腦化研討會論文特集","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_012","lb_range":["0017a11","0017a12"],"text_zh":"在大藏經編纂及電腦化研討會上的發言　葉小文","text_en":"在大藏經編纂及電腦化研討會上的發言　葉小文 （22）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_013","lb_range":[],"text_zh":"（22）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_014","lb_range":["0017a13","0017a14"],"text_zh":"關於新編漢文大藏經的意見　吳立民","text_en":"關於新編漢文大藏經的意見　吳立民 （26）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_015","lb_range":[],"text_zh":"（26）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_016","lb_range":["0017a15"],"text_zh":"編譯南傳大藏經緣起　吳立民","text_en":"編譯南傳大藏經緣起　吳立民 （31）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_017","lb_range":[],"text_zh":"（31）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_018","lb_range":["0017a16"],"text_zh":"大藏經及其光電版編纂芻議　方廣錩","text_en":"大藏經及其光電版編纂芻議　方廣錩 （34）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_019","lb_range":[],"text_zh":"（34）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_020","lb_range":["0017a17","0017a18"],"text_zh":"關於製作大藏經電子文庫的工程技術方案 　中國綜合開發研究院古籍電子化課題組","text_en":"關於製作大藏經電子文庫的工程技術方案 中國綜合開發研究院古籍電子化課題組 （64）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_021","lb_range":[],"text_zh":"（64）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_022","lb_range":["0017a19","0017a20"],"text_zh":"電腦化大藏經工程意義重大勢在必行　王志遠","text_en":"電腦化大藏經工程意義重大勢在必行　王志遠 （71）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_023","lb_range":[],"text_zh":"（71）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_024","lb_range":["0017a21","0017a22"],"text_zh":"關於製作大藏經電子文庫的技術經濟背景概述 　中國綜合開發研究院古籍電子化課題組","text_en":"關於製作大藏經電子文庫的技術經濟背景概述 中國綜合開發研究院古籍電子化課題組 （76）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_025","lb_range":[],"text_zh":"（76）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_026","lb_range":["0017a23","0017a24"],"text_zh":"日本近代以來的大藏經編印事業　楊曾文","text_en":"日本近代以來的大藏經編印事業　楊曾文 （79）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_027","lb_range":[],"text_zh":"（79）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_028","lb_range":["0017a25"],"text_zh":"《中華大藏經》編輯工作的一些情況和經驗教訓　李富華","text_en":"《中華大藏經》編輯工作的一些情況和經驗教訓　李富華 （84）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_029","lb_range":[],"text_zh":"（84）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_030","lb_range":["0017a26"],"text_zh":"臺灣編印《中華大藏經》始末　張新鷹","text_en":"臺灣編印《中華大藏經》始末　張新鷹 （87）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_031","lb_range":[],"text_zh":"（87）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_032","lb_range":["0018a01"],"text_zh":"海外大藏經編輯及光電版大藏經的情況　方廣錩","text_en":"海外大藏經編輯及光電版大藏經的情況　方廣錩 （92）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_033","lb_range":[],"text_zh":"（92）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_034","lb_range":["0018a02","0018a03"],"text_zh":"大藏經編纂及電腦化研討會發言摘要","text_en":"大藏經編纂及電腦化研討會發言摘要 （109）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_035","lb_range":[],"text_zh":"（109）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_036","lb_range":["0018a04"],"text_zh":"大藏經編纂及電腦化研討會紀要","text_en":"大藏經編纂及電腦化研討會紀要 （129）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_037","lb_range":[],"text_zh":"（129）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_038","lb_range":["0018a05","0018a06"],"text_zh":"敦煌禪籍","text_en":"敦煌禪籍","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_039","lb_range":["0018a07"],"text_zh":"七祖法寶記下卷","text_en":"七祖法寶記下卷 （133）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_040","lb_range":[],"text_zh":"（133）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_041","lb_range":["0018a08"],"text_zh":"天竺國菩提達摩禪師論","text_en":"天竺國菩提達摩禪師論 （166）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_042","lb_range":[],"text_zh":"（166）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_043","lb_range":["0018a09","0018a10"],"text_zh":"三藏論疏","text_en":"三藏論疏","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_044","lb_range":["0018a11"],"text_zh":"淨名經集解關中疏卷上","text_en":"淨名經集解關中疏卷上 （175）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_045","lb_range":[],"text_zh":"（175）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_046","lb_range":["0018a12"],"text_zh":"法華經文外義","text_en":"法華經文外義 （293）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_047","lb_range":[],"text_zh":"（293）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_048","lb_range":["0018a13","0018a14"],"text_zh":"天竺要典","text_en":"天竺要典","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_049","lb_range":["0018a15"],"text_zh":"諦義證得經","text_en":"諦義證得經 （355）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_050","lb_range":[],"text_zh":"（355）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_051","lb_range":["0018a16","0018a17"],"text_zh":"遺珠集粹","text_en":"遺珠集粹","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_052","lb_range":["0018a18"],"text_zh":"《瑜伽師地論》披尋記敘","text_en":"《瑜伽師地論》披尋記敘 （460）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_053","lb_range":[],"text_zh":"（460）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_054","lb_range":["0018a19","0018a20"],"text_zh":"徵稿啟事","text_en":"徵 稿啟事 （465）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_055","lb_range":[],"text_zh":"（465）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_056","lb_range":["0018a21"],"text_zh":"徵訂啟事","text_en":"徵 訂啟事 （467）","type":"prose","confidence":1}
+{"unit_id":"ZW02na008_057","lb_range":[],"text_zh":"（467）","text_en":"","type":"prose","confidence":1}

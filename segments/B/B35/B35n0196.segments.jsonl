@@ -1,0 +1,625 @@
+{"source_sha256":"8717666b12665f6bca4c1553e7200cffa753a4fdcb711067d1ab3146eedada99","schema":"seg-v1"}
+{"unit_id":"B35n0196_001","lb_range":["0857a01","0857a02","0857a03","0857a04","0857a05","0857a06","0857a07"],"text_zh":"1：〔〕符號中文字，係校訂者所附註。","text_en":"燉煌本 大乘中宗見解 1：〔〕符號中文字，係校訂者所附註。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_002","lb_range":["0857a08"],"text_zh":"2：（）內文字是對原文之明顯誤字所作的校訂。","text_en":"2：（）內文字是對原文之明顯誤字所作的校訂。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_003","lb_range":["0857a09"],"text_zh":"3：〈〉文字，為與其他寫本所共通者。","text_en":"3：〈〉文字，為與其他寫本所共通者。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_004","lb_range":["0857a10"],"text_zh":"4：羅馬字係依其他資料所補入。","text_en":"4：羅馬字係依其他資料所補入。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_005","lb_range":["0857a11"],"text_zh":"5：句讀為校訂者所斷。","text_en":"5：句讀為校訂者所斷。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_006","lb_range":["0857a12"],"text_zh":"6：行數之號碼亦為校訂者所加。","text_en":"6：行數之號碼亦為校訂者所加。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_007","lb_range":["0857a13","0857a14"],"text_zh":"7：文旁之（一）（二）等數字，係宮本正尊所撰附註之符號，其附註茲不錄。 ※有意深研者，請參閱宮本正尊：「根本中と空」第二一五─二六一頁。","text_en":"7：文旁之（一）（二）等數字，係宮本正尊所撰附註之符號，其附註茲不錄。 ※有意深研者，請參閱宮本正尊：「根本中と空」第二一五─二六一頁。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_008","lb_range":["0858a01","0858a02"],"text_zh":"本文","text_en":"本文","type":"prose","confidence":1}
+{"unit_id":"B35n0196_009","lb_range":["0858a03","0858a04"],"text_zh":"大乘中宗見解","text_en":"大乘中宗見解","type":"prose","confidence":1}
+{"unit_id":"B35n0196_010","lb_range":["0858a05"],"text_zh":"（De Śiṅ Cuṅ Tsoṅ Kyen He）","text_en":"（De Śiṅ Cuṅ Tsoṅ Kyen He）","type":"prose","confidence":1}
+{"unit_id":"B35n0196_011","lb_range":["0858a06","0858a07"],"text_zh":"〔一〕","text_en":"〔一〕 〔外〕四大、問、何者內四大。答、骨定堅硬","type":"prose","confidence":1}
+{"unit_id":"B35n0196_012","lb_range":[],"text_zh":"〔外〕四大、問、何者內四大。答、骨定堅硬","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_013","lb_range":["0858a08"],"text_zh":"〔ẖgve〕si d〔e〕. Bun:〔ha〕〔ja〕ẖdve si de? Tab:〔ku〕r〔`zu〕g kyen ẖgeẖu","text_en":"〔ẖgve〕si d〔e〕. Bun:〔ha〕〔ja〕ẖdve si de? Tab:〔ku〕r〔`zu〕g kyen ẖgeẖu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_014","lb_range":["0858a09"],"text_zh":"以為地大。","text_en":"以為地大。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_015","lb_range":["0858a10"],"text_zh":"yi ẖu di de :","text_en":"yi ẖu di de :","type":"prose","confidence":1}
+{"unit_id":"B35n0196_016","lb_range":["0858a11"],"text_zh":"〔二〕","text_en":"〔二〕 血髓津潤是名水大、體之溫暖以為火","type":"prose","confidence":1}
+{"unit_id":"B35n0196_017","lb_range":[],"text_zh":"血髓津潤是名水大、體之溫暖以為火","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_018","lb_range":["0858a12"],"text_zh":"hyar〔su〕tsin〔`zun〕śi mye śu〔de〕: 〔the〕tsi（ci?）'on ẖdvan ẖi ẖu hva","text_en":"hyar〔su〕tsin〔`zun〕śi mye śu〔de〕: 〔the〕tsi（ci?）'on ẖdvan ẖi ẖu hva","type":"prose","confidence":1}
+{"unit_id":"B35n0196_019","lb_range":["0858a13"],"text_zh":"大。出息入息以","text_en":"大。出息入息以","type":"prose","confidence":1}
+{"unit_id":"B35n0196_020","lb_range":["0858a14"],"text_zh":"〔de〕: chur〔sig〕`zib sig〔ẖi〕.","text_en":"〔de〕: chur〔sig〕`zib sig〔ẖi〕.","type":"prose","confidence":1}
+{"unit_id":"B35n0196_021","lb_range":["0859a01"],"text_zh":"〔三〕","text_en":"〔三〕 為風大。〔問〕、何者空識二大。答、空大者虛通","type":"prose","confidence":1}
+{"unit_id":"B35n0196_022","lb_range":[],"text_zh":"為風大。〔問〕、何者空識二大。答、空大者虛通","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_023","lb_range":["0859a02"],"text_zh":"ẖu phuṅ de. Ha ja khoṅ〔ś〕ig〔`zi〕〔de〕? Tab: khoṅ de ja hu thuṅ","text_en":"ẖu phuṅ de. Ha ja khoṅ〔ś〕ig〔`zi〕〔de〕? Tab: khoṅ de ja hu thuṅ","type":"prose","confidence":1}
+{"unit_id":"B35n0196_024","lb_range":["0859a03"],"text_zh":"分也。識大者了","text_en":"分也。識大者了","type":"prose","confidence":1}
+{"unit_id":"B35n0196_025","lb_range":["0859a04"],"text_zh":"phun ya: śig de ja le ẖu","text_en":"phun ya: śig de ja le ẖu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_026","lb_range":["0859a05"],"text_zh":"〔四〕","text_en":"〔四〕 別心也。問、此四大因內四大感得外四大、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_027","lb_range":[],"text_zh":"別心也。問、此四大因內四大感得外四大、","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_028","lb_range":["0859a06"],"text_zh":"phar〔s〕im ya.〔Bun〕:〔tshi〕si de 'in〔ẖdve〕〔si〕de gvam tig ẖgve〔si〕〔de〕:","text_en":"phar〔s〕im ya.〔Bun〕:〔tshi〕si de 'in〔ẖdve〕〔si〕de gvam tig ẖgve〔si〕〔de〕:","type":"prose","confidence":1}
+{"unit_id":"B35n0196_029","lb_range":["0859a07"],"text_zh":"因外四大感得內四","text_en":"因外四大感得內四","type":"prose","confidence":1}
+{"unit_id":"B35n0196_030","lb_range":["0859a08"],"text_zh":"'in ẖgve si〔de〕gvam tig〔ẖdve〕〔si〕","text_en":"'in ẖgve si〔de〕gvam tig〔ẖdve〕〔si〕","type":"prose","confidence":1}
+{"unit_id":"B35n0196_031","lb_range":["0859a09"],"text_zh":"〔五〕","text_en":"〔五〕 大。答、因內感外。問、何者內感外。答、內","type":"prose","confidence":1}
+{"unit_id":"B35n0196_032","lb_range":[],"text_zh":"大。答、因內感外。問、何者內感外。答、內","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_033","lb_range":["0859a10"],"text_zh":"de? Tab:〔`in〕ẖdve gvam ẖgve: Bun: ha ja ẖdv〔e〕gvam 'ẖgve? Tab: ẖdve","text_en":"de? Tab:〔`in〕ẖdve gvam ẖgve: Bun: ha ja ẖdv〔e〕gvam 'ẖgve? Tab: ẖdve","type":"prose","confidence":1}
+{"unit_id":"B35n0196_034","lb_range":["0859a11"],"text_zh":"有骨定堅硬忘（妄）","text_en":"有骨定堅硬 忘（妄）","type":"prose","confidence":1}
+{"unit_id":"B35n0196_035","lb_range":["0859a12"],"text_zh":"yi ẖu kor `zug kyan ẖge ẖu boṅ","text_en":"yi ẖu kor `zug kyan ẖge ẖu boṅ","type":"prose","confidence":1}
+{"unit_id":"B35n0196_036","lb_range":["0859a13"],"text_zh":"〔六〕","text_en":"〔六〕 相（想）敢（感）得外地大。內有津潤忘（妄）相（想）敢（感）得外","type":"prose","confidence":1}
+{"unit_id":"B35n0196_037","lb_range":[],"text_zh":"相（想）敢（感）得外地大。內有津潤忘（妄）相（想）敢（感）得外","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_038","lb_range":["0859a14"],"text_zh":"syoṅ gvam tig hgve di de: ẖdve〔yi ẖu〕〔tsin〕`zun boṅ syoṅ〔gvam〕tig ẖgve","text_en":"syoṅ gvam tig hgve di de: ẖdve〔yi ẖu〕〔tsin〕`zun boṅ syoṅ〔gvam〕tig ẖgve","type":"prose","confidence":1}
+{"unit_id":"B35n0196_039","lb_range":["0860a01"],"text_zh":"水大。內溫暖忘（妄）相（想）","text_en":"水大。內溫暖忘（妄）相（想）","type":"prose","confidence":1}
+{"unit_id":"B35n0196_040","lb_range":["0860a02"],"text_zh":"śu de: ẖdve 'on〔ẖdvan〕boṅ syoṅ","text_en":"śu de: ẖdve 'on〔ẖdvan〕boṅ syoṅ","type":"prose","confidence":1}
+{"unit_id":"B35n0196_041","lb_range":["0860a03"],"text_zh":"〔七〕","text_en":"〔七〕 敢（感）得外火大。內有出入息忘（妄）相（想）敢（感）得","type":"prose","confidence":1}
+{"unit_id":"B35n0196_042","lb_range":[],"text_zh":"敢（感）得外火大。內有出入息忘（妄）相（想）敢（感）得","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_043","lb_range":["0860a04"],"text_zh":"gvam tig ẖgve hva de: ẖdve〔yi ẖu〕chud〔`z〕ib syig〔boṅ〕syoṅ gvam〔tig〕","text_en":"gvam tig ẖgve hva de: ẖdve〔yi ẖu〕chud〔`z〕ib syig〔boṅ〕syoṅ gvam〔tig〕","type":"prose","confidence":1}
+{"unit_id":"B35n0196_044","lb_range":["0860a05"],"text_zh":"外風大。問、何者是五薀。","text_en":"外風大。問、何者是五薀。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_045","lb_range":["0860a06"],"text_zh":"ẖgve pu〔ṅ〕de. Bun: ha ja śi〔ẖgo〕ẖun?","text_en":"ẖgve pu〔ṅ〕de. Bun: ha ja śi〔ẖgo〕ẖun?","type":"prose","confidence":1}
+{"unit_id":"B35n0196_046","lb_range":["0860a07"],"text_zh":"〔八〕","text_en":"〔八〕 答、色受相（想）行識、是五薀。問、何者是名色薀。〔答〕形","type":"prose","confidence":1}
+{"unit_id":"B35n0196_047","lb_range":[],"text_zh":"答、色受相（想）行識、是五薀。問、何者是名色薀。〔答〕形","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_048","lb_range":["0860a08"],"text_zh":"Tab: śeg śi ẖu syoṅ heṅ śig śi ẖgo 'un. Bun: ha ja śi〔`mye〕śeg 'un? Hyeṅ","text_en":"Tab: śeg śi ẖu syoṅ heṅ śig śi ẖgo 'un. Bun: ha ja śi〔`mye〕śeg 'un? Hyeṅ","type":"prose","confidence":1}
+{"unit_id":"B35n0196_049","lb_range":["0860a09"],"text_zh":"礙以色薀。〔問〕何","text_en":"礙以色薀。〔問〕何","type":"prose","confidence":1}
+{"unit_id":"B35n0196_050","lb_range":["0860a10"],"text_zh":"ẖge yi śeg 'un. Ha","text_en":"ẖge yi śeg 'un. Ha","type":"prose","confidence":1}
+{"unit_id":"B35n0196_051","lb_range":["0860a11"],"text_zh":"〔九〕","text_en":"〔九〕 者受薀。〔答〕領納為受薀。〔問〕何者相（想）薀。〔答〕思想以","type":"prose","confidence":1}
+{"unit_id":"B35n0196_052","lb_range":[],"text_zh":"者受薀。〔答〕領納為受薀。〔問〕何者相（想）薀。〔答〕思想以","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_053","lb_range":["0860a12"],"text_zh":"ja śi ẖu 'un? Tab: leṅ ẖdab ẖu śi ẖu 'un. Ha ja syoṅ〔ún〕? Si syoṅ yi","text_en":"ja śi ẖu 'un? Tab: leṅ ẖdab ẖu śi ẖu 'un. Ha ja syoṅ〔ún〕? Si syoṅ yi","type":"prose","confidence":1}
+{"unit_id":"B35n0196_054","lb_range":["0860a13"],"text_zh":"為想薀。","text_en":"為想薀。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_055","lb_range":["0860a14"],"text_zh":"ẖu sy〔o〕ṅ 'un.","text_en":"ẖu sy〔o〕ṅ 'un.","type":"prose","confidence":1}
+{"unit_id":"B35n0196_056","lb_range":["0861a01"],"text_zh":"〔一○〕","text_en":"〔一○〕 〔問〕何者行薀。〔答〕造作以為行薀。〔問〕何者是識薀。〔答〕分","type":"prose","confidence":1}
+{"unit_id":"B35n0196_057","lb_range":[],"text_zh":"〔問〕何者行薀。〔答〕造作以為行薀。〔問〕何者是識薀。〔答〕分","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_058","lb_range":["0861a02"],"text_zh":"Ha ja heṅ 'un? Tshehu tsa'g yi hu heṅ〔'un〕. Ha ja śi śig 'un? Phun","text_en":"Ha ja heṅ 'un? Tshehu tsa'g yi hu heṅ〔'un〕. Ha ja śi śig 'un? Phun","type":"prose","confidence":1}
+{"unit_id":"B35n0196_059","lb_range":["0861a03"],"text_zh":"別以為識薀。何","text_en":"別以為識薀。 何","type":"prose","confidence":1}
+{"unit_id":"B35n0196_060","lb_range":["0861a04"],"text_zh":"par yi ẖu śig 'un. Ha","text_en":"par yi ẖu śig 'un. Ha","type":"prose","confidence":1}
+{"unit_id":"B35n0196_061","lb_range":["0861a05"],"text_zh":"〔一一〕","text_en":"〔一一〕 問、薀者何義。答、薀者據聚之義。〔問〕何者名為蔭。〔答〕是","type":"prose","confidence":1}
+{"unit_id":"B35n0196_062","lb_range":[],"text_zh":"問、薀者何義。答、薀者據聚之義。〔問〕何者名為蔭。〔答〕是","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_063","lb_range":["0861a06"],"text_zh":"bun 'un ja ha ẖgi? Tab: 'un ja gi su ci〔ẖgi〕. Ha ja mye ẖu 'im? Śi","text_en":"bun 'un ja ha ẖgi? Tab: 'un ja gi su ci〔ẖgi〕. Ha ja mye ẖu 'im? Śi","type":"prose","confidence":1}
+{"unit_id":"B35n0196_064","lb_range":["0861a07"],"text_zh":"蔭（名）","text_en":"蔭（名）","type":"prose","confidence":1}
+{"unit_id":"B35n0196_065","lb_range":["0861a08"],"text_zh":"'im〔mye〕","text_en":"'im〔mye〕","type":"prose","confidence":1}
+{"unit_id":"B35n0196_066","lb_range":["0861a09"],"text_zh":"〔一二〕","text_en":"〔一二〕 覆蓋之義。問何者是十八界。答、六根六塵六識是十","type":"prose","confidence":1}
+{"unit_id":"B35n0196_067","lb_range":[],"text_zh":"覆蓋之義。問何者是十八界。答、六根六塵六識是十","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_068","lb_range":["0861a10"],"text_zh":"phu ke ci ẖgi. Bun: ha ja śi śib par ke? Tab: lug k〔in〕lug chin lug śig śi śib","text_en":"phu ke ci ẖgi. Bun: ha ja śi śib par ke? Tab: lug k〔in〕lug chin lug śig śi śib","type":"prose","confidence":1}
+{"unit_id":"B35n0196_069","lb_range":["0861a11"],"text_zh":"八界。","text_en":"八界。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_070","lb_range":["0861a12"],"text_zh":"par ke.","text_en":"par ke.","type":"prose","confidence":1}
+{"unit_id":"B35n0196_071","lb_range":["0861a13"],"text_zh":"〔一三〕","text_en":"〔一三〕 問、何者是六根。答、眼耳鼻舌身意是為六根。問、何者是","type":"prose","confidence":1}
+{"unit_id":"B35n0196_072","lb_range":[],"text_zh":"問、何者是六根。答、眼耳鼻舌身意是為六根。問、何者是","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_073","lb_range":["0861a14"],"text_zh":"Bun: ha ja śi lug kiñ? Tab: ẖgen `zi phyi śar śin 'i śi ẖu lu`g kin. Bun: ha ja śi","text_en":"Bun: ha ja śi lug kiñ? Tab: ẖgen `zi phyi śar śin 'i śi ẖu lu`g kin. Bun: ha ja śi","type":"prose","confidence":1}
+{"unit_id":"B35n0196_074","lb_range":["0862a01"],"text_zh":"〔一四〕","text_en":"〔一四〕 六塵。答、〔色〕聲香味觸法是六塵。問、何者是六","type":"prose","confidence":1}
+{"unit_id":"B35n0196_075","lb_range":[],"text_zh":"六塵。答、〔色〕聲香味觸法是六塵。問、何者是六","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_076","lb_range":["0862a02"],"text_zh":"lug chin? Tab:〔śeg〕śe〔ṅ〕hoṅ byi chog phab śi lug chin. Bun: ha ja śi lug","text_en":"lug chin? Tab:〔śeg〕śe〔ṅ〕hoṅ byi chog phab śi lug chin. Bun: ha ja śi lug","type":"prose","confidence":1}
+{"unit_id":"B35n0196_077","lb_range":["0862a03"],"text_zh":"識。〔答〕眼識耳識","text_en":"識。〔答〕眼識耳識","type":"prose","confidence":1}
+{"unit_id":"B35n0196_078","lb_range":["0862a04"],"text_zh":"śig? H〔gy〕en〔ś〕ig `zi śig","text_en":"śig? H〔gy〕en〔ś〕ig `zi śig","type":"prose","confidence":1}
+{"unit_id":"B35n0196_079","lb_range":["0862a05"],"text_zh":"〔一五〕","text_en":"〔一五〕 鼻識舌識身識意識是十八界。問、何者十二入。答、眼","type":"prose","confidence":1}
+{"unit_id":"B35n0196_080","lb_range":[],"text_zh":"鼻識舌識身識意識是十八界。問、何者十二入。答、眼","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_081","lb_range":["0862a06"],"text_zh":"pyi śig śar śig śin śig 'i śig śi śib par ke Bun: ha〔ja〕śim `zi〔`zib〕? Tab: ẖgen","text_en":"pyi śig śar śig śin śig 'i śig śi śib par ke Bun: ha〔ja〕śim `zi〔`zib〕? Tab: ẖgen","type":"prose","confidence":1}
+{"unit_id":"B35n0196_082","lb_range":["0862a07"],"text_zh":"〔一六〕","text_en":"〔一六〕 入耳入鼻入舌入身入意入、色入聲入香入味入觸","type":"prose","confidence":1}
+{"unit_id":"B35n0196_083","lb_range":[],"text_zh":"入耳入鼻入舌入身入意入、色入聲入香入味入觸","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_084","lb_range":["0862a08"],"text_zh":"`zib `zi `zib phyi `zib śar `zib śin `zib 'i `zib śeg `zib śeṅ `zib hoṅ `zib hbyi `zib chog","text_en":"`zib `zi `zib phyi `zib śar `zib śin `zib 'i `zib śeg `zib śeṅ `zib hoṅ `zib hbyi `zib chog","type":"prose","confidence":1}
+{"unit_id":"B35n0196_085","lb_range":["0862a09"],"text_zh":"〔一七〕","text_en":"〔一七〕 入〔法入〕。眼等六根為內六入。色等六塵為外","type":"prose","confidence":1}
+{"unit_id":"B35n0196_086","lb_range":[],"text_zh":"入〔法入〕。眼等六根為內六入。色等六塵為外","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_087","lb_range":["0862a10"],"text_zh":"`zib〔phab `zib〕: ẖgvan diṅ lug kin ẖu ẖdve lug `zib: śeg diṅ lug chin ẖu ẖgve","text_en":"`zib〔phab `zib〕: ẖgvan diṅ lug kin ẖu ẖdve lug `zib: śeg diṅ lug chin ẖu ẖgve","type":"prose","confidence":1}
+{"unit_id":"B35n0196_088","lb_range":["0862a11"],"text_zh":"六入。內外二六","text_en":"六入。內外二六","type":"prose","confidence":1}
+{"unit_id":"B35n0196_089","lb_range":["0862a12"],"text_zh":"lug `zib: ẖdve gve `zi lug","text_en":"lug `zib: ẖdve gve `zi lug","type":"prose","confidence":1}
+{"unit_id":"B35n0196_090","lb_range":["0862a13"],"text_zh":"〔一八〕","text_en":"〔一八〕 為十二。〔問、何者為入〕。答、眼塵且對通生識","type":"prose","confidence":1}
+{"unit_id":"B35n0196_091","lb_range":[],"text_zh":"為十二。〔問、何者為入〕。答、眼塵且對通生識","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_092","lb_range":["0862a14"],"text_zh":"ẖu śim `zi〔Bun ^ha ja ẖu `zib?〕Tab. ẖgen chin〔tshya〕dve thoṅ śeṅ śig","text_en":"ẖu śim `zi〔Bun ^ha ja ẖu `zib?〕Tab. ẖgen chin〔tshya〕dve thoṅ śeṅ śig","type":"prose","confidence":1}
+{"unit_id":"B35n0196_093","lb_range":["0863a01"],"text_zh":"道、受入愛憎、名之","text_en":"道、受入愛憎、名之","type":"prose","confidence":1}
+{"unit_id":"B35n0196_094","lb_range":["0863a02"],"text_zh":"de ẖu śi ẖu `zib 'iẖi tsiṅ myi（sic）ci","text_en":"de ẖu śi ẖu `zib 'iẖi tsiṅ myi（sic）ci","type":"prose","confidence":1}
+{"unit_id":"B35n0196_095","lb_range":["0863a03"],"text_zh":"〔一九〕","text_en":"〔一九〕 為入。〔問〕每聞道、歸依三寶。何者是三寶。答、佛","type":"prose","confidence":1}
+{"unit_id":"B35n0196_096","lb_range":[],"text_zh":"為入。〔問〕每聞道、歸依三寶。何者是三寶。答、佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_097","lb_range":["0863a04"],"text_zh":"ẖu `zib. ẖbe bun de ẖu ku 'i sam pe ẖu. Ha ja śi〔sam〕pe ẖu? Tab: phur","text_en":"ẖu `zib. ẖbe bun de ẖu ku 'i sam pe ẖu. Ha ja śi〔sam〕pe ẖu? Tab: phur","type":"prose","confidence":1}
+{"unit_id":"B35n0196_098","lb_range":["0863a05"],"text_zh":"寶法寶","text_en":"寶法寶","type":"prose","confidence":1}
+{"unit_id":"B35n0196_099","lb_range":["0863a06"],"text_zh":"pe ẖu phab pe ẖu","text_en":"pe ẖu phab pe ẖu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_100","lb_range":["0863a07"],"text_zh":"〔二○〕","text_en":"〔二○〕 僧寶是名三寶。問、三寶有幾種。答、有三種。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_101","lb_range":[],"text_zh":"僧寶是名三寶。問、三寶有幾種。答、有三種。","text_en":"","type":"dialogue","confidence":1}
+{"unit_id":"B35n0196_102","lb_range":["0863a08"],"text_zh":"siṅ pe ẖu śi mye sam pe ẖu. Bun: sam pe ẖu yi ẖu gi juṅ? Tab: yi ẖu sam ju〔ṅ〕","text_en":"siṅ pe ẖu śi mye sam pe ẖu. Bun: sam pe ẖu yi ẖu gi juṅ? Tab: yi ẖu sam ju〔ṅ〕","type":"prose","confidence":1}
+{"unit_id":"B35n0196_103","lb_range":["0863a09"],"text_zh":"問、何者是","text_en":"問、何者是","type":"prose","confidence":1}
+{"unit_id":"B35n0196_104","lb_range":["0863a10"],"text_zh":"Bun: ha ja śi","text_en":"Bun: ha ja śi","type":"prose","confidence":1}
+{"unit_id":"B35n0196_105","lb_range":["0863a11"],"text_zh":"〔二一〕","text_en":"〔二一〕 三寶。答。（四）一體三寶、別想（相）三寶、住持三","type":"prose","confidence":1}
+{"unit_id":"B35n0196_106","lb_range":[],"text_zh":"三寶。答。（四）一體三寶、別想（相）三寶、住持三","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_107","lb_range":["0863a12"],"text_zh":"sam pe ẖu（juṅ）? Tab: 'ir the sam pe ẖu phar syaṅ sam pe ẖu chu ch〔i〕sam","text_en":"sam pe ẖu（juṅ）? Tab: 'ir the sam pe ẖu phar syaṅ sam pe ẖu chu ch〔i〕sam","type":"prose","confidence":1}
+{"unit_id":"B35n0196_108","lb_range":["0863a13"],"text_zh":"寶、是名三種。問、","text_en":"寶、是名三種。問、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_109","lb_range":["0863a14"],"text_zh":"pe ẖu śi mye sam pe ẖu（juṅ）Bun:","text_en":"pe ẖu śi mye sam pe ẖu（juṅ）Bun:","type":"prose","confidence":1}
+{"unit_id":"B35n0196_110","lb_range":["0864a01"],"text_zh":"〔二二〕","text_en":"〔二二〕 何者一體三寶。答、法身體有妙覺以為佛","type":"prose","confidence":1}
+{"unit_id":"B35n0196_111","lb_range":[],"text_zh":"何者一體三寶。答、法身體有妙覺以為佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_112","lb_range":["0864a02"],"text_zh":"ha ja 'i〔r〕the sam pe ẖu? Tab: phab śin the yi ẖu ẖbye ẖu ka〔g〕ẖi ẖu phur","text_en":"ha ja 'i〔r〕the sam pe ẖu? Tab: phab śin the yi ẖu ẖbye ẖu ka〔g〕ẖi ẖu phur","type":"prose","confidence":1}
+{"unit_id":"B35n0196_113","lb_range":["0864a03"],"text_zh":"寶。以（法）身","text_en":"寶。 以（法）身","type":"prose","confidence":1}
+{"unit_id":"B35n0196_114","lb_range":["0864a04"],"text_zh":"pe ẖu: phab śin","text_en":"pe ẖu: phab śin","type":"prose","confidence":1}
+{"unit_id":"B35n0196_115","lb_range":["0864a05"],"text_zh":"〔二三〕","text_en":"〔二三〕 體有妙軌以為 妙法寶。法身體有離 無","type":"prose","confidence":1}
+{"unit_id":"B35n0196_116","lb_range":[],"text_zh":"體有妙軌以為妙法寶。法身體有離無","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_117","lb_range":["0864a06"],"text_zh":"the yi ẖu ẖbye ẖu gu .ẖi ẖu ẖbye ẖu phab pe ẖu: phab śin the〔'iẖu〕li ẖbu","text_en":"the yi ẖu ẖbye ẖu gu .ẖi ẖu ẖbye ẖu phab pe ẖu: phab śin the〔'iẖu〕li ẖbu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_118","lb_range":["0864a07"],"text_zh":"違爭、士（是）故","text_en":"違爭、士（是）故","type":"prose","confidence":1}
+{"unit_id":"B35n0196_119","lb_range":["0864a08"],"text_zh":"wu（ẖu?）jeṅ śi ko","text_en":"wu（ẖu?）jeṅ śi ko","type":"prose","confidence":1}
+{"unit_id":"B35n0196_120","lb_range":["0864a09"],"text_zh":"〔二四〕","text_en":"〔二四〕 以為僧寶。問、云何名為妙覺。答、妙者神用","type":"prose","confidence":1}
+{"unit_id":"B35n0196_121","lb_range":[],"text_zh":"以為僧寶。問、云何名為妙覺。答、妙者神用","text_en":"","type":"dialogue","confidence":1}
+{"unit_id":"B35n0196_122","lb_range":["0864a10"],"text_zh":"yi ẖu siṅ pe ẖu. Bun: ẖun ha mye ẖu（ẖbye ẖu）kag? Tab: ẖbye ẖu ja śin yoṅ","text_en":"yi ẖu siṅ pe ẖu. Bun: ẖun ha mye ẖu（ẖbye ẖu）kag? Tab: ẖbye ẖu ja śin yoṅ","type":"prose","confidence":1}
+{"unit_id":"B35n0196_123","lb_range":["0864a11"],"text_zh":"不側稱之","text_en":"不側稱之","type":"prose","confidence":1}
+{"unit_id":"B35n0196_124","lb_range":["0864a12"],"text_zh":"ẖbu cheg〔khyiṅ〕ci","text_en":"ẖbu cheg〔khyiṅ〕ci","type":"prose","confidence":1}
+{"unit_id":"B35n0196_125","lb_range":["0864a13"],"text_zh":"〔二五〕","text_en":"〔二五〕 為妙。覺者、以法身體中覺了性故、故云妙","type":"prose","confidence":1}
+{"unit_id":"B35n0196_126","lb_range":[],"text_zh":"為妙。覺者、以法身體中覺了性故、故云妙","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_127","lb_range":["0864a14"],"text_zh":"ẖu ẖbye ẖu: kag ja ẖi phab śin the ẖi cuṅ kag le ẖu seṅ ko ko ẖun ẖbye ẖu","text_en":"ẖu ẖbye ẖu: kag ja ẖi phab śin the ẖi cuṅ kag le ẖu seṅ ko ko ẖun ẖbye ẖu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_128","lb_range":["0865a01"],"text_zh":"覺。問、云何","text_en":"覺。問、云何","type":"prose","confidence":1}
+{"unit_id":"B35n0196_129","lb_range":["0865a02"],"text_zh":"kag. Bun: ẖun ha","text_en":"kag. Bun: ẖun ha","type":"prose","confidence":1}
+{"unit_id":"B35n0196_130","lb_range":["0865a03"],"text_zh":"〔二六〕","text_en":"〔二六〕 妙軌。答、軌者軌則之義。以法身體中 中有妙","type":"prose","confidence":1}
+{"unit_id":"B35n0196_131","lb_range":[],"text_zh":"妙軌。答、軌者軌則之義。以法身體中中有妙","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_132","lb_range":["0865a04"],"text_zh":"ẖbye ẖu guhi? Tab. gu ja gu tsig ci ẖgi: yi phab śin the cuṅ cuṅ yi ẖu ẖb.ye ẖu","text_en":"ẖbye ẖu guhi? Tab. gu ja gu tsig ci ẖgi: yi phab śin the cuṅ cuṅ yi ẖu ẖb.ye ẖu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_133","lb_range":["0865a05"],"text_zh":"軌持","text_en":"軌持","type":"prose","confidence":1}
+{"unit_id":"B35n0196_134","lb_range":["0865a06"],"text_zh":"gu ẖu chi","text_en":"gu ẖu chi","type":"prose","confidence":1}
+{"unit_id":"B35n0196_135","lb_range":["0865a07"],"text_zh":"〔二七〕","text_en":"〔二七〕 義故、故云妙軌。問、云何離違爭。答、僧者和合","type":"prose","confidence":1}
+{"unit_id":"B35n0196_136","lb_range":[],"text_zh":"義故、故云妙軌。問、云何離違爭。答、僧者和合","text_en":"","type":"dialogue","confidence":1}
+{"unit_id":"B35n0196_137","lb_range":["0865a08"],"text_zh":"hgi go go hun hbychu gu. Bū: hun ha li〔h〕u jeṅ? Tab: siṅ ja hva hvab","text_en":"hgi go go hun hbychu gu. Bū: hun ha li〔h〕u jeṅ? Tab: siṅ ja hva hvab","type":"prose","confidence":1}
+{"unit_id":"B35n0196_138","lb_range":["0865a09"],"text_zh":"為義、","text_en":"為義、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_139","lb_range":["0865a10"],"text_zh":"hu hgi","text_en":"hu hgi","type":"prose","confidence":1}
+{"unit_id":"B35n0196_140","lb_range":["0865a11"],"text_zh":"〔二八〕","text_en":"〔二八〕 法身无相故則無爭、故言體無違爭、名之為僧。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_141","lb_range":[],"text_zh":"法身无相故則無爭、故言體無違爭、名之為僧。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_142","lb_range":["0865a12"],"text_zh":"phab śin ẖbu syaṅ ko tsig ẖbu jeṅ ko ẖgen the ẖi ẖbu wu jeṅ mye ci ẖu siṅ.","text_en":"phab śin ẖbu syaṅ ko tsig ẖbu jeṅ ko ẖgen the ẖi ẖbu wu jeṅ mye ci ẖu siṅ.","type":"prose","confidence":1}
+{"unit_id":"B35n0196_143","lb_range":["0865a13"],"text_zh":"問","text_en":"問","type":"prose","confidence":1}
+{"unit_id":"B35n0196_144","lb_range":["0865a14"],"text_zh":"Bun:","text_en":"Bun:","type":"prose","confidence":1}
+{"unit_id":"B35n0196_145","lb_range":["0866a01"],"text_zh":"〔二九〕","text_en":"〔二九〕 何者為一體。答、三寶名殊、其體不異故、名一體。問、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_146","lb_range":[],"text_zh":"何者為一體。答、三寶名殊、其體不異故、名一體。問、","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_147","lb_range":["0866a02"],"text_zh":"ha ja ẖu 'ir the? Tab: sam pe ẖu mye śu khi the ẖbu yi ko mye 'ir the. Bun:","text_en":"ha ja ẖu 'ir the? Tab: sam pe ẖu mye śu khi the ẖbu yi ko mye 'ir the. Bun:","type":"prose","confidence":1}
+{"unit_id":"B35n0196_148","lb_range":["0866a03"],"text_zh":"〔三○〕","text_en":"〔三○〕 何以得知三寶名殊其體是一。答、 維摩經云「佛","type":"prose","confidence":1}
+{"unit_id":"B35n0196_149","lb_range":[],"text_zh":"何以得知三寶名殊其體是一。答、維摩經云「佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_150","lb_range":["0866a04"],"text_zh":"ha ẖi tig ci sam〔pe ẖu〕mye śu khi the śi 'ir? Tab: yu ẖba gyeṅ ẖun phur","text_en":"ha ẖi tig ci sam〔pe ẖu〕mye śu khi the śi 'ir? Tab: yu ẖba gyeṅ ẖun phur","type":"prose","confidence":1}
+{"unit_id":"B35n0196_151","lb_range":["0866a05"],"text_zh":"即是","text_en":"即是","type":"prose","confidence":1}
+{"unit_id":"B35n0196_152","lb_range":["0866a06"],"text_zh":"tsig śi","text_en":"tsig śi","type":"prose","confidence":1}
+{"unit_id":"B35n0196_153","lb_range":["0866a07"],"text_zh":"〔三一〕","text_en":"〔三一〕 法、 法 即是眾。是三寶皆無為相、與虛空等」。納","type":"prose","confidence":1}
+{"unit_id":"B35n0196_154","lb_range":[],"text_zh":"法、法即是眾。是三寶皆無為相、與虛空等」。納","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_155","lb_range":["0866a08"],"text_zh":"phab〔phab〕tsig śi juṅ śi sam pe ẖu ke ẖbu ẖu syoṅ yi hu khoṅ diṅ ẖda〔b〕","text_en":"phab〔phab〕tsig śi juṅ śi sam pe ẖu ke ẖbu ẖu syoṅ yi hu khoṅ diṅ ẖda〔b〕","type":"prose","confidence":1}
+{"unit_id":"B35n0196_156","lb_range":["0866a09"],"text_zh":"此義","text_en":"此義","type":"prose","confidence":1}
+{"unit_id":"B35n0196_157","lb_range":["0866a10"],"text_zh":"tshi ẖgi","text_en":"tshi ẖgi","type":"prose","confidence":1}
+{"unit_id":"B35n0196_158","lb_range":["0866a11"],"text_zh":"〔三二〕","text_en":"〔三二〕 邊故名一體。問、云何名為別相三寶。答、 六","type":"prose","confidence":1}
+{"unit_id":"B35n0196_159","lb_range":[],"text_zh":"邊故名一體。問、云何名為別相三寶。答、六","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_160","lb_range":["0866a12"],"text_zh":"phyan ko mye 'ir the. Bun: ẖun ha mye ẖu〔phar〕syaṅ sam pe ẖu? Tab: lug","text_en":"phyan ko mye 'ir the. Bun: ẖun ha mye ẖu〔phar〕syaṅ sam pe ẖu? Tab: lug","type":"prose","confidence":1}
+{"unit_id":"B35n0196_161","lb_range":["0866a13"],"text_zh":"丈（丈六）化身","text_en":"丈（丈六）化身","type":"prose","confidence":1}
+{"unit_id":"B35n0196_162","lb_range":["0866a14"],"text_zh":"〔ch〕o〔ṅ〕hva śiu","text_en":"〔ch〕o〔ṅ〕hva śiu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_163","lb_range":["0867a01"],"text_zh":"〔三三〕","text_en":"〔三三〕 以為佛寶。所說言教以為法寶。大乘十信已","type":"prose","confidence":1}
+{"unit_id":"B35n0196_164","lb_range":[],"text_zh":"以為佛寶。所說言教以為法寶。大乘十信已","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_165","lb_range":["0867a02"],"text_zh":"yi ẖu phur pe ẖu: śu śva〔r〕ẖge ke ẖu yi ẖu phab pe ẖu: de〔śiṅ〕śib sin〈yi〉","text_en":"yi ẖu phur pe ẖu: śu śva〔r〕ẖge ke ẖu yi ẖu phab pe ẖu: de〔śiṅ〕śib sin〈yi〉","type":"prose","confidence":1}
+{"unit_id":"B35n0196_166","lb_range":["0867a03"],"text_zh":"上、小","text_en":"上、小","type":"prose","confidence":1}
+{"unit_id":"B35n0196_167","lb_range":["0867a04"],"text_zh":"〈śaṅ〉〈śi ẖu〉","text_en":"〈śaṅ〉〈śi ẖu〉","type":"prose","confidence":1}
+{"unit_id":"B35n0196_168","lb_range":["0867a05"],"text_zh":"〔三四〕","text_en":"〔三四〕 乘初果已上、以為僧寶。問、何名別相。答、一","type":"prose","confidence":1}
+{"unit_id":"B35n0196_169","lb_range":[],"text_zh":"乘初果已上、以為僧寶。問、何名別相。答、一","text_en":"","type":"dialogue","confidence":1}
+{"unit_id":"B35n0196_170","lb_range":["0867a06"],"text_zh":"śiṅ chu gva〈yi〉〈śaṅ〉 yi ẖu siṅ pe ẖu Bun: ha mye phar〔syaṅ〕? Tab: 'ir","text_en":"śiṅ chu gva〈yi〉〈śaṅ〉 yi ẖu siṅ pe ẖu Bun: ha mye phar〔syaṅ〕? Tab: 'ir","type":"prose","confidence":1}
+{"unit_id":"B35n0196_171","lb_range":["0867a07"],"text_zh":"一相殊、","text_en":"一 相殊、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_172","lb_range":["0867a08"],"text_zh":"'ir syaṅ〔śu〕","text_en":"'ir syaṅ〔śu〕","type":"prose","confidence":1}
+{"unit_id":"B35n0196_173","lb_range":["0867a09"],"text_zh":"〔三五〕","text_en":"〔三五〕 名為別相。問、云何一一相殊。答、佛寶不是","type":"prose","confidence":1}
+{"unit_id":"B35n0196_174","lb_range":[],"text_zh":"名為別相。問、云何一一相殊。答、佛寶不是","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_175","lb_range":["0867a10"],"text_zh":"mye ẖu phar syaṅ. Bun: ẖun ha 'ir 'ir〔syaṅ〕śu? Tab: phur pe ẖu ẖbu śi","text_en":"mye ẖu phar syaṅ. Bun: ẖun ha 'ir 'ir〔syaṅ〕śu? Tab: phur pe ẖu ẖbu śi","type":"prose","confidence":1}
+{"unit_id":"B35n0196_176","lb_range":["0867a11"],"text_zh":"法。法不是眾、","text_en":"法。 法 不是眾、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_177","lb_range":["0867a12"],"text_zh":"phab: phab ẖbu śi juṅ","text_en":"phab: phab ẖbu śi juṅ","type":"prose","confidence":1}
+{"unit_id":"B35n0196_178","lb_range":["0867a13"],"text_zh":"〔三六〕","text_en":"〔三六〕 形狀不同故名別相。問、云何名為住持三","type":"prose","confidence":1}
+{"unit_id":"B35n0196_179","lb_range":[],"text_zh":"形狀不同故名別相。問、云何名為住持三","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_180","lb_range":["0867a14"],"text_zh":"heṅ tshoṅ ẖbu thoṅ ko mye phar syaṅ Bun: ẖun ha mye ẖu siṅ（sic）chi sam","text_en":"heṅ tshoṅ ẖbu thoṅ ko mye phar syaṅ Bun: ẖun ha mye ẖu siṅ（sic）chi sam","type":"prose","confidence":1}
+{"unit_id":"B35n0196_181","lb_range":["0868a01"],"text_zh":"寶。答、泥龕","text_en":"寶。答、泥龕","type":"prose","confidence":1}
+{"unit_id":"B35n0196_182","lb_range":["0868a02"],"text_zh":"pe ẖu? Tab: ẖde kham","text_en":"pe ẖu? Tab: ẖde kham","type":"prose","confidence":1}
+{"unit_id":"B35n0196_183","lb_range":["0868a03"],"text_zh":"〔三七〕","text_en":"〔三七〕 素像以為佛寶。紙素竹帛以法寶。剃髮染","type":"prose","confidence":1}
+{"unit_id":"B35n0196_184","lb_range":[],"text_zh":"素像以為佛寶。紙素竹帛以法寶。剃髮染","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_185","lb_range":["0868a04"],"text_zh":"so syaṅ yi ẖu phur pe ẖu: tsi so ts〔i〕g pheg yihu phab pe ẖu: the ẖi phar zam","text_en":"so syaṅ yi ẖu phur pe ẖu: tsi so ts〔i〕g pheg yihu phab pe ẖu: the ẖi phar zam","type":"prose","confidence":1}
+{"unit_id":"B35n0196_186","lb_range":["0868a05"],"text_zh":"依（衣）","text_en":"依（衣）","type":"prose","confidence":1}
+{"unit_id":"B35n0196_187","lb_range":["0868a06"],"text_zh":"〔'i〕","text_en":"〔'i〕","type":"prose","confidence":1}
+{"unit_id":"B35n0196_188","lb_range":["0868a07"],"text_zh":"〔三八〕","text_en":"〔三八〕 以為僧寶。問、何者住持像法。〔答〕令不斷絕","type":"prose","confidence":1}
+{"unit_id":"B35n0196_189","lb_range":[],"text_zh":"以為僧寶。問、何者住持像法。〔答〕令不斷絕","text_en":"","type":"dialogue","confidence":1}
+{"unit_id":"B35n0196_190","lb_range":["0868a08"],"text_zh":"yi ẖu siṅ pe ẖu Bun: Ha ja chu chi syaṅ（sio）phab? Leṅ ẖbu dvan tshvar","text_en":"yi ẖu siṅ pe ẖu Bun: Ha ja chu chi syaṅ（sio）phab? Leṅ ẖbu dvan tshvar","type":"prose","confidence":1}
+{"unit_id":"B35n0196_191","lb_range":["0868a09"],"text_zh":"故名住持。","text_en":"故名住持。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_192","lb_range":["0868a10"],"text_zh":"ko mye chu chi.","text_en":"ko mye chu chi.","type":"prose","confidence":1}
+{"unit_id":"B35n0196_193","lb_range":["0868a11"],"text_zh":"〔三九〕","text_en":"〔三九〕 問、何名像法。答、像法似之法故名像法。問、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_194","lb_range":[],"text_zh":"問、何名像法。答、像法似之法故名像法。問、","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_195","lb_range":["0868a12"],"text_zh":"Bun: ha mye syoṅ phab? Tab: syoṅ phab si ci phab ko mye syoṅ phab. Bun:","text_en":"Bun: ha mye syoṅ phab? Tab: syoṅ phab si ci phab ko mye syoṅ phab. Bun:","type":"prose","confidence":1}
+{"unit_id":"B35n0196_196","lb_range":["0868a13"],"text_zh":"此三種三寶為","text_en":"此三種三寶為","type":"prose","confidence":1}
+{"unit_id":"B35n0196_197","lb_range":["0868a14"],"text_zh":"tshi sam juṅ sam pe ẖu ẖu","text_en":"tshi sam juṅ sam pe ẖu ẖu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_198","lb_range":["0869a01"],"text_zh":"〔四○〕","text_en":"〔四○〕 一、為異。〔答、不一不異。〕問、云何不一不異。答、名別故","type":"prose","confidence":1}
+{"unit_id":"B35n0196_199","lb_range":[],"text_zh":"一、為異。〔答、不一不異。〕問、云何不一不異。答、名別故","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_200","lb_range":["0869a02"],"text_zh":"'ir ẖu yi? Bun: ẖun ha ẖbu 'ir ẖbu yi? Tab: mye phar ko","text_en":"'ir ẖu yi? Bun: ẖun ha ẖbu 'ir ẖbu yi? Tab: mye phar ko","type":"prose","confidence":1}
+{"unit_id":"B35n0196_201","lb_range":["0869a03"],"text_zh":"不一、體同故名不異。","text_en":"不一、體同故名不異。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_202","lb_range":["0869a04"],"text_zh":"ẖbu 'ir: the thoṅ ko mye ẖbu yi.","text_en":"ẖbu 'ir: the thoṅ ko mye ẖbu yi.","type":"prose","confidence":1}
+{"unit_id":"B35n0196_203","lb_range":["0869a05"],"text_zh":"〔四一〕","text_en":"〔四一〕 問、有不可得、无亦不可得。答、離有離無。問、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_204","lb_range":[],"text_zh":"問、有不可得、无亦不可得。答、離有離無。問、","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_205","lb_range":["0869a06"],"text_zh":"Bun: yi ẖu ẖbu〈kha〉 tig ẖbu yi ẖbu〈kha〉 tig? Tab: li yi ẖu li ẖbu Bun:","text_en":"Bun: yi ẖu ẖbu〈kha〉 tig ẖbu yi ẖbu〈kha〉 tig? Tab: li yi ẖu li ẖbu Bun:","type":"prose","confidence":1}
+{"unit_id":"B35n0196_206","lb_range":["0869a07"],"text_zh":"云何離有、云","text_en":"云何離有、云","type":"prose","confidence":1}
+{"unit_id":"B35n0196_207","lb_range":["0869a08"],"text_zh":"ẖun ha li yi ẖu. ẖun","text_en":"ẖun ha li yi ẖu. ẖun","type":"prose","confidence":1}
+{"unit_id":"B35n0196_208","lb_range":["0869a09"],"text_zh":"〔四二〕","text_en":"〔四二〕 何離无。答、自性離故。問、自性共甚離。答、本","type":"prose","confidence":1}
+{"unit_id":"B35n0196_209","lb_range":[],"text_zh":"何離无。答、自性離故。問、自性共甚離。答、本","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_210","lb_range":["0869a10"],"text_zh":"ha li hbu? Tab: tshi syeṅ li ko. Bun: tshi syeṅ khuṅ śyim li? Tab: bun","text_en":"ha li hbu? Tab: tshi syeṅ li ko. Bun: tshi syeṅ khuṅ śyim li? Tab: bun","type":"prose","confidence":1}
+{"unit_id":"B35n0196_211","lb_range":["0869a11"],"text_zh":"性理中有無","text_en":"性理中有無","type":"prose","confidence":1}
+{"unit_id":"B35n0196_212","lb_range":["0869a12"],"text_zh":"syeṅ li cuṅ yi ẖu ẖbu","text_en":"syeṅ li cuṅ yi ẖu ẖbu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_213","lb_range":["0869a13"],"text_zh":"〔四三〕","text_en":"〔四三〕 具（俱）不可得。問、畢竟 喙（噯）作甚謨（恁麼）物。答、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_214","lb_range":[],"text_zh":"具（俱）不可得。問、畢竟喙（噯）作甚謨（恁麼）物。答、","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_215","lb_range":["0869a14"],"text_zh":"khu ẖbu〈kha〉 tig. Bun: pyir keṅ hvan〔tsa〕g śim ma bur? Tab:","text_en":"khu ẖbu〈kha〉 tig. Bun: pyir keṅ hvan〔tsa〕g śim ma bur? Tab:","type":"prose","confidence":1}
+{"unit_id":"B35n0196_216","lb_range":["0870a01"],"text_zh":"法身不自名。問、","text_en":"法身不自名。問、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_217","lb_range":["0870a02"],"text_zh":"phab śin ẖbu tshi mye. Bun:","text_en":"phab śin ẖbu tshi mye. Bun:","type":"prose","confidence":1}
+{"unit_id":"B35n0196_218","lb_range":["0870a03"],"text_zh":"〔四四〕","text_en":"〔四四〕 說有四諦、何者是四諦。答、 大乘四諦、小乘四諦。問、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_219","lb_range":[],"text_zh":"說有四諦、何者是四諦。答、大乘四諦、小乘四諦。問、","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_220","lb_range":["0870a04"],"text_zh":"śvar yi ẖu si de: ha ja śi si de? Tab: de śiṅ si de〈śi ẖu〉 śiṅ si de. Bun:","text_en":"śvar yi ẖu si de: ha ja śi si de? Tab: de śiṅ si de〈śi ẖu〉 śiṅ si de. Bun:","type":"prose","confidence":1}
+{"unit_id":"B35n0196_221","lb_range":["0870a05"],"text_zh":"何者","text_en":"何者","type":"prose","confidence":1}
+{"unit_id":"B35n0196_222","lb_range":["0870a06"],"text_zh":"ha ja","text_en":"ha ja","type":"prose","confidence":1}
+{"unit_id":"B35n0196_223","lb_range":["0870a07"],"text_zh":"〔四五〕","text_en":"〔四五〕 是大乘四諦。答、知無生是名苦諦。知集无和合","type":"prose","confidence":1}
+{"unit_id":"B35n0196_224","lb_range":[],"text_zh":"是大乘四諦。答、知無生是名苦諦。知集无和合","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_225","lb_range":["0870a08"],"text_zh":"śi de śiṅ si de? Tab: kho ẖbu śeṅ śi mye kho de. kho tshib ẖbu hva hvab","text_en":"śi de śiṅ si de? Tab: kho ẖbu śeṅ śi mye kho de. kho tshib ẖbu hva hvab","type":"prose","confidence":1}
+{"unit_id":"B35n0196_226","lb_range":["0870a09"],"text_zh":"是集諦。","text_en":"是集諦。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_227","lb_range":["0870a10"],"text_zh":"śi tshib de.","text_en":"śi tshib de.","type":"prose","confidence":1}
+{"unit_id":"B35n0196_228","lb_range":["0870a11"],"text_zh":"〔四六〕","text_en":"〔四六〕 知滅无滅是名滅諦。以無二法得道是名道","type":"prose","confidence":1}
+{"unit_id":"B35n0196_229","lb_range":[],"text_zh":"知滅无滅是名滅諦。以無二法得道是名道","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_230","lb_range":["0870a12"],"text_zh":"kho ẖbyer ẖbu ẖbyer śi mye ẖbyer de. yi ẖbu `zi phab tig de ẖu śi mye dehu","text_en":"kho ẖbyer ẖbu ẖbyer śi mye ẖbyer de. yi ẖbu `zi phab tig de ẖu śi mye dehu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_231","lb_range":["0870a13"],"text_zh":"諦。問、何","text_en":"諦。問、何","type":"prose","confidence":1}
+{"unit_id":"B35n0196_232","lb_range":["0870a14"],"text_zh":"de. Bun: ha","text_en":"de. Bun: ha","type":"prose","confidence":1}
+{"unit_id":"B35n0196_233","lb_range":["0871a01"],"text_zh":"〔四七〕","text_en":"〔四七〕 者小乘四諦。答、生死果為苦諦。煩惱業為集諦。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_234","lb_range":[],"text_zh":"者小乘四諦。答、生死果為苦諦。煩惱業為集諦。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_235","lb_range":["0871a02"],"text_zh":"ja〈śi ẖu〉 śiṅ si de? Tab: śeṅ si gva ẖu kho de: phan ẖde ẖgeb ẖu tshib de:","text_en":"ja〈śi ẖu〉 śiṅ si de? Tab: śeṅ si gva ẖu kho de: phan ẖde ẖgeb ẖu tshib de:","type":"prose","confidence":1}
+{"unit_id":"B35n0196_236","lb_range":["0871a03"],"text_zh":"〔四八〕","text_en":"〔四八〕 寂滅理為滅諦。戒定惠為道諦。〔問〕既言生死","type":"prose","confidence":1}
+{"unit_id":"B35n0196_237","lb_range":[],"text_zh":"寂滅理為滅諦。戒定惠為道諦。〔問〕既言生死","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_238","lb_range":["0871a04"],"text_zh":"tshi〔g〕ẖbyer li ẖu〔ẖbyer〕de: ke deṅ hve ẖu de ẖu de Gi ẖgen śeṅ si","text_en":"tshi〔g〕ẖbyer li ẖu〔ẖbyer〕de: ke deṅ hve ẖu de ẖu de Gi ẖgen śeṅ si","type":"prose","confidence":1}
+{"unit_id":"B35n0196_239","lb_range":["0871a05"],"text_zh":"果、何者生死因。","text_en":"果、何者生死因。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_240","lb_range":["0871a06"],"text_zh":"gva. Ha ja śeṅ si 'in?","text_en":"gva. Ha ja śeṅ si 'in?","type":"prose","confidence":1}
+{"unit_id":"B35n0196_241","lb_range":["0871a07"],"text_zh":"〔四九〕","text_en":"〔四九〕 答、集是生死因。問、記（既）言生死果亦 合有無","type":"prose","confidence":1}
+{"unit_id":"B35n0196_242","lb_range":[],"text_zh":"答、集是生死因。問、記（既）言生死果亦合有無","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_243","lb_range":["0871a08"],"text_zh":"Tab: tshib śi śeṅ si 'in Bun: gyi ẖgen śeṅ si gva yi〔hvab〕yi ẖu ẖder-phan","text_en":"Tab: tshib śi śeṅ si 'in Bun: gyi ẖgen śeṅ si gva yi〔hvab〕yi ẖu ẖder-phan","type":"prose","confidence":1}
+{"unit_id":"B35n0196_244","lb_range":["0871a09"],"text_zh":"因果何者是","text_en":"因果何者是","type":"prose","confidence":1}
+{"unit_id":"B35n0196_245","lb_range":["0871a10"],"text_zh":"'in gva: ha ja śi","text_en":"'in gva: ha ja śi","type":"prose","confidence":1}
+{"unit_id":"B35n0196_246","lb_range":["0871a11"],"text_zh":"〔五○〕","text_en":"〔五○〕 無因果。答、寂滅理為果、戒定惠為因。問、諸經之","type":"prose","confidence":1}
+{"unit_id":"B35n0196_247","lb_range":[],"text_zh":"無因果。答、寂滅理為果、戒定惠為因。問、諸經之","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_248","lb_range":["0871a12"],"text_zh":"ẖbu 'in gva? Tab: tshig ẖbyer li ẖu gva. ke deṅ hve ẖu 'in. Bun: cu kyeṅ ci","text_en":"ẖbu 'in gva? Tab: tshig ẖbyer li ẖu gva. ke deṅ hve ẖu 'in. Bun: cu kyeṅ ci","type":"prose","confidence":1}
+{"unit_id":"B35n0196_249","lb_range":["0871a13"],"text_zh":"中先","text_en":"中先","type":"prose","confidence":1}
+{"unit_id":"B35n0196_250","lb_range":["0871a14"],"text_zh":"cuṅ sen","text_en":"cuṅ sen","type":"prose","confidence":1}
+{"unit_id":"B35n0196_251","lb_range":["0872a01"],"text_zh":"〔五一〕","text_en":"〔五一〕 因後果。何故此四諦中先果後因。答、舉理而言","type":"prose","confidence":1}
+{"unit_id":"B35n0196_252","lb_range":[],"text_zh":"因後果。何故此四諦中先果後因。答、舉理而言","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_253","lb_range":["0872a02"],"text_zh":"'in hi ẖu gva. ha ko tshi si de cuṅ syan' gva hi ẖu 'in? Tab: gu li ẖgyar ẖgen","text_en":"'in hi ẖu gva. ha ko tshi si de cuṅ syan' gva hi ẖu 'in? Tab: gu li ẖgyar ẖgen","type":"prose","confidence":1}
+{"unit_id":"B35n0196_254","lb_range":["0872a03"],"text_zh":"則合","text_en":"則 合","type":"prose","confidence":1}
+{"unit_id":"B35n0196_255","lb_range":["0872a04"],"text_zh":"tsig hvab","text_en":"tsig hvab","type":"prose","confidence":1}
+{"unit_id":"B35n0196_256","lb_range":["0872a05"],"text_zh":"〔五二〕","text_en":"〔五二〕 先因後果。此四諦法佛初成道時、為五 俱倫比","type":"prose","confidence":1}
+{"unit_id":"B35n0196_257","lb_range":[],"text_zh":"先因後果。此四諦法佛初成道時、為五俱倫比","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_258","lb_range":["0872a06"],"text_zh":"sen 'in hi ẖu gva. tshi si de phab phur chu-〈śeṅ〉 de ẖu śi ẖu ẖgo Khu lin 〈ẖbyi〉","text_en":"sen 'in hi ẖu gva. tshi si de phab phur chu-〈śeṅ〉 de ẖu śi ẖu ẖgo Khu lin 〈ẖbyi〉","type":"prose","confidence":1}
+{"unit_id":"B35n0196_259","lb_range":["0872a07"],"text_zh":"丘等","text_en":"丘等","type":"prose","confidence":1}
+{"unit_id":"B35n0196_260","lb_range":["0872a08"],"text_zh":"〈ẖkhye ẖu〉 diṅ","text_en":"〈ẖkhye ẖu〉 diṅ","type":"prose","confidence":1}
+{"unit_id":"B35n0196_261","lb_range":["0872a09"],"text_zh":"〔五三〕","text_en":"〔五三〕 初聞法要、恐難悟解、 且進視果、後視因、於理无","type":"prose","confidence":1}
+{"unit_id":"B35n0196_262","lb_range":[],"text_zh":"初聞法要、恐難悟解、且進視果、後視因、於理无","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_263","lb_range":["0872a10"],"text_zh":"chu bun phab ye ẖu khuṅ ẖnan ẖgo he: tshya dzin śi gva hi ẖu śi 'in: 'i. li ẖbu","text_en":"chu bun phab ye ẖu khuṅ ẖnan ẖgo he: tshya dzin śi gva hi ẖu śi 'in: 'i. li ẖbu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_264","lb_range":["0872a11"],"text_zh":"狀（殊）。","text_en":"狀（殊）。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_265","lb_range":["0872a12"],"text_zh":"śon.","text_en":"śon.","type":"prose","confidence":1}
+{"unit_id":"B35n0196_266","lb_range":["0872a13"],"text_zh":"〔五四〕","text_en":"〔五四〕 問、說有五乘何者是五乘。答、天乘梵乘聲聞乘","type":"prose","confidence":1}
+{"unit_id":"B35n0196_267","lb_range":[],"text_zh":"問、說有五乘何者是五乘。答、天乘梵乘聲聞乘","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_268","lb_range":["0872a14"],"text_zh":"Bun: śvar yi ẖu ẖgo śiṅ Ha ja śi ẖgo śiṅ? Tab: ẖde śiṅ bam śiṅ śeṅ bun śiṅ","text_en":"Bun: śvar yi ẖu ẖgo śiṅ Ha ja śi ẖgo śiṅ? Tab: ẖde śiṅ bam śiṅ śeṅ bun śiṅ","type":"prose","confidence":1}
+{"unit_id":"B35n0196_269","lb_range":["0873a01"],"text_zh":"緣覺","text_en":"緣覺","type":"prose","confidence":1}
+{"unit_id":"B35n0196_270","lb_range":["0873a02"],"text_zh":"yuan kag","text_en":"yuan kag","type":"prose","confidence":1}
+{"unit_id":"B35n0196_271","lb_range":["0873a03"],"text_zh":"〔五五〕","text_en":"〔五五〕 乘諸佛如來乘、是五乘。〔問〕天乘。〔答〕五戒十善得生","type":"prose","confidence":1}
+{"unit_id":"B35n0196_272","lb_range":[],"text_zh":"乘諸佛如來乘、是五乘。〔問〕天乘。〔答〕五戒十善得生","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_273","lb_range":["0873a04"],"text_zh":"śi〔ṅ〕cu phur〔`z〕u le śiṅ śi ẖgo śiṅ. ẖde śiṅ? ẖgo ke śib śan tig śeṅ","text_en":"śi〔ṅ〕cu phur〔`z〕u le śiṅ śi ẖgo śiṅ. ẖde śiṅ? ẖgo ke śib śan tig śeṅ","type":"prose","confidence":1}
+{"unit_id":"B35n0196_274","lb_range":["0873a05"],"text_zh":"六欲天、是","text_en":"六欲天、是","type":"prose","confidence":1}
+{"unit_id":"B35n0196_275","lb_range":["0873a06"],"text_zh":"lug yog ẖde śi","text_en":"lug yog ẖde śi","type":"prose","confidence":1}
+{"unit_id":"B35n0196_276","lb_range":["0873a07"],"text_zh":"〔五六〕","text_en":"〔五六〕 名天乘。〔問、何者十善〕答、身三口四意三、是名十善、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_277","lb_range":[],"text_zh":"名天乘。〔問、何者十善〕答、身三口四意三、是名十善、","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_278","lb_range":["0873a08"],"text_zh":"mye ẖde śiṅ.〔Ha ja śib śan?〕Tab: śin sam si 'i sam śi mye śib śan","text_en":"mye ẖde śiṅ.〔Ha ja śib śan?〕Tab: śin sam si 'i sam śi mye śib śan","type":"prose","confidence":1}
+{"unit_id":"B35n0196_279","lb_range":["0873a09"],"text_zh":"亦名十惡。問、何者是","text_en":"亦名十惡。問、何者是","type":"prose","confidence":1}
+{"unit_id":"B35n0196_280","lb_range":["0873a10"],"text_zh":"yig mye śib 'ag. Bun ha ja śi.","text_en":"yig mye śib 'ag. Bun ha ja śi.","type":"prose","confidence":1}
+{"unit_id":"B35n0196_281","lb_range":["0873a11"],"text_zh":"〔五七〕","text_en":"〔五七〕 〔身〕三業。〔答〕不殺不盜不媱（淫）。〔問〕何者意三業。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_282","lb_range":[],"text_zh":"〔身〕三業。〔答〕不殺不盜不媱（淫）。〔問〕何者意三業。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_283","lb_range":["0873a12"],"text_zh":"（śin）sam ẖgeb? ẖbu bur ẖbu dehu ẖbu yim. Ha ja 'i sam ẖgeb?","text_en":"（śin）sam ẖgeb? ẖbu bur ẖbu dehu ẖbu yim. Ha ja 'i sam ẖgeb?","type":"prose","confidence":1}
+{"unit_id":"B35n0196_284","lb_range":["0873a13"],"text_zh":"〔答〕不貪不嗔不癡。〔問〕何","text_en":"〔答〕不貪不嗔不癡。〔問〕何","type":"prose","confidence":1}
+{"unit_id":"B35n0196_285","lb_range":["0873a14"],"text_zh":"ẖbu tham ẖbu chin ẖbu chi. Ha","text_en":"ẖbu tham ẖbu chin ẖbu chi. Ha","type":"prose","confidence":1}
+{"unit_id":"B35n0196_286","lb_range":["0874a01"],"text_zh":"〔五八〕","text_en":"〔五八〕 者口四業。〔答〕惡口兩舌妄言綺語不。〔問〕遠此業","type":"prose","confidence":1}
+{"unit_id":"B35n0196_287","lb_range":[],"text_zh":"者口四業。〔答〕惡口兩舌妄言綺語不。〔問〕遠此業","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_288","lb_range":["0874a02"],"text_zh":"ja si ẖgeb? 'A〔g〕lyoṅ śar boṅ ẖgen khi ẖgu ẖbu wen tshi ẖgeb","text_en":"ja si ẖgeb? 'A〔g〕lyoṅ śar boṅ ẖgen khi ẖgu ẖbu wen tshi ẖgeb","type":"prose","confidence":1}
+{"unit_id":"B35n0196_289","lb_range":["0874a03"],"text_zh":"有其五種十善。","text_en":"有其五種十善。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_290","lb_range":["0874a04"],"text_zh":"yi ẖu khi. ẖgo juṅ śib śan?","text_en":"yi ẖu khi. ẖgo juṅ śib śan?","type":"prose","confidence":1}
+{"unit_id":"B35n0196_291","lb_range":["0874a05"],"text_zh":"〔五九〕","text_en":"〔五九〕 〔答〕一人十善、二天十善、三聲聞十善、四緣覺十","type":"prose","confidence":1}
+{"unit_id":"B35n0196_292","lb_range":[],"text_zh":"〔答〕一人十善、二天十善、三聲聞十善、四緣覺十","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_293","lb_range":["0874a06"],"text_zh":"'Ir〈`zin〉 śib śan: `zi ẖde śib śan: sam śeṅ bun śib śan: si yuan kag śib","text_en":"'Ir〈`zin〉 śib śan: `zi ẖde śib śan: sam śeṅ bun śib śan: si yuan kag śib","type":"prose","confidence":1}
+{"unit_id":"B35n0196_294","lb_range":["0874a07"],"text_zh":"善、五菩薩十","text_en":"善、五菩薩十","type":"prose","confidence":1}
+{"unit_id":"B35n0196_295","lb_range":["0874a08"],"text_zh":"śan: ẖgo phu sar śib","text_en":"śan: ẖgo phu sar śib","type":"prose","confidence":1}
+{"unit_id":"B35n0196_296","lb_range":["0874a09"],"text_zh":"〔六○〕","text_en":"〔六○〕 善。問、何者梵乘。答、修四無量心生得色界四禪天","type":"prose","confidence":1}
+{"unit_id":"B35n0196_297","lb_range":[],"text_zh":"善。問、何者梵乘。答、修四無量心生得色界四禪天","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_298","lb_range":["0874a10"],"text_zh":"śan. Bun: ha ja bam śin? Tab: si ẖu si ẖbu lyoṅ sim śeṅ tig śeg ke si `zan ẖde","text_en":"śan. Bun: ha ja bam śin? Tab: si ẖu si ẖbu lyoṅ sim śeṅ tig śeg ke si `zan ẖde","type":"prose","confidence":1}
+{"unit_id":"B35n0196_299","lb_range":["0874a11"],"text_zh":"〔六一〕","text_en":"〔六一〕 名梵乘。問、何者四無量心。答、慈悲喜捨、名四無量","type":"prose","confidence":1}
+{"unit_id":"B35n0196_300","lb_range":[],"text_zh":"名梵乘。問、何者四無量心。答、慈悲喜捨、名四無量","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_301","lb_range":["0874a12"],"text_zh":"mye bam śiṅ. Bun: ha ja si hbu lyoṅ sim? Tab. tshi pyi hi śa mye si hbu lyoṅ","text_en":"mye bam śiṅ. Bun: ha ja si hbu lyoṅ sim? Tab. tshi pyi hi śa mye si hbu lyoṅ","type":"prose","confidence":1}
+{"unit_id":"B35n0196_302","lb_range":["0874a13"],"text_zh":"〔六二〕","text_en":"〔六二〕 心。問、何者〔四無量心。〕〔答〕慈能乘。悲能拔苦。慶","type":"prose","confidence":1}
+{"unit_id":"B35n0196_303","lb_range":[],"text_zh":"心。問、何者〔四無量心。〕〔答〕慈能乘。悲能拔苦。慶","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_304","lb_range":["0874a14"],"text_zh":"sim. Bun: ha ja tshi? Niṅ śiṅ. Pyi? Niṅ phar kho. Kheṅ","text_en":"sim. Bun: ha ja tshi? Niṅ śiṅ. Pyi? Niṅ phar kho. Kheṅ","type":"prose","confidence":1}
+{"unit_id":"B35n0196_305","lb_range":["0875a01"],"text_zh":"彼得樂名之為喜。","text_en":"彼得樂名之為喜。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_306","lb_range":["0875a02"],"text_zh":"byi tig lag mye ci ẖu hi.","text_en":"byi tig lag mye ci ẖu hi.","type":"prose","confidence":1}
+{"unit_id":"B35n0196_307","lb_range":["0875a03"],"text_zh":"〔六三〕","text_en":"〔六三〕 平等持心名之為捨。問、何者聲聞乘。〔答〕因聲悟道","type":"prose","confidence":1}
+{"unit_id":"B35n0196_308","lb_range":[],"text_zh":"平等持心名之為捨。問、何者聲聞乘。〔答〕因聲悟道","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_309","lb_range":["0875a04"],"text_zh":"Pheṅ diṅ tig sim mye ci ẖu śa. Bun: ha ja śeṅ bun śiṅ? 'In śen ẖgo de ẖu","text_en":"Pheṅ diṅ tig sim mye ci ẖu śa. Bun: ha ja śeṅ bun śiṅ? 'In śen ẖgo de ẖu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_310","lb_range":["0875a05"],"text_zh":"得","text_en":"得","type":"prose","confidence":1}
+{"unit_id":"B35n0196_311","lb_range":["0875a06"],"text_zh":"tig","text_en":"tig","type":"prose","confidence":1}
+{"unit_id":"B35n0196_312","lb_range":["0875a07"],"text_zh":"〔六四〕","text_en":"〔六四〕 名聲聞。問、何者緣覺乘。〔答〕悟十二因緣名緣覺","type":"prose","confidence":1}
+{"unit_id":"B35n0196_313","lb_range":[],"text_zh":"名聲聞。問、何者緣覺乘。〔答〕悟十二因緣名緣覺","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_314","lb_range":["0875a08"],"text_zh":"mye śeṅ bun. Bun: ha ja yvan kag śiṅ? ẖgo śib `zi 'in yvan mye yvan kag","text_en":"mye śeṅ bun. Bun: ha ja yvan kag śiṅ? ẖgo śib `zi 'in yvan mye yvan kag","type":"prose","confidence":1}
+{"unit_id":"B35n0196_315","lb_range":["0875a09"],"text_zh":"乘。","text_en":"乘。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_316","lb_range":["0875a10"],"text_zh":"śiṅ.","text_en":"śiṅ.","type":"prose","confidence":1}
+{"unit_id":"B35n0196_317","lb_range":["0875a11"],"text_zh":"〔六五〕","text_en":"〔六五〕 問、緣覺人證悟與聲〔聞〕因有何差異以為兩乘。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_318","lb_range":[],"text_zh":"問、緣覺人證悟與聲〔聞〕因有何差異以為兩乘。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_319","lb_range":["0875a12"],"text_zh":"Bun: yvan kag〈`zin〉 jiṅ ẖgo yi pun bu（sic）'in yi ẖu ha tsha yi yi ẖu lyoṅ śiṅ?","text_en":"Bun: yvan kag〈`zin〉 jiṅ ẖgo yi pun bu（sic）'in yi ẖu ha tsha yi yi ẖu lyoṅ śiṅ?","type":"prose","confidence":1}
+{"unit_id":"B35n0196_320","lb_range":["0875a13"],"text_zh":"答、","text_en":"答、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_321","lb_range":["0875a14"],"text_zh":"Tab:","text_en":"Tab:","type":"prose","confidence":1}
+{"unit_id":"B35n0196_322","lb_range":["0876a01"],"text_zh":"〔六六〕","text_en":"〔六六〕 維證悟同、少有差異、分為兩乘。何以聲聞之人","type":"prose","confidence":1}
+{"unit_id":"B35n0196_323","lb_range":[],"text_zh":"維證悟同、少有差異、分為兩乘。何以聲聞之人","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_324","lb_range":["0876a02"],"text_zh":"yu jiṅ ẖgo thoṅ śe ẖu yi ẖu tsha yi: phun ẖu lyoṅ śiṅ. ha yi śen bun ci〈`zin〉","text_en":"yu jiṅ ẖgo thoṅ śe ẖu yi ẖu tsha yi: phun ẖu lyoṅ śiṅ. ha yi śen bun ci〈`zin〉","type":"prose","confidence":1}
+{"unit_id":"B35n0196_325","lb_range":["0876a03"],"text_zh":"〔六七〕","text_en":"〔六七〕 須值佛說四諦法悟其 道冥〔理〕、緣覺人出無佛","type":"prose","confidence":1}
+{"unit_id":"B35n0196_326","lb_range":[],"text_zh":"須值佛說四諦法悟其道冥〔理〕、緣覺人出無佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_327","lb_range":["0876a04"],"text_zh":"su chi phur śvar si de phab ẖgo khi de ẖu li yvan kag〈`zin〉 chur ẖbu phur","text_en":"su chi phur śvar si de phab ẖgo khi de ẖu li yvan kag〈`zin〉 chur ẖbu phur","type":"prose","confidence":1}
+{"unit_id":"B35n0196_328","lb_range":["0876a05"],"text_zh":"世","text_en":"世","type":"prose","confidence":1}
+{"unit_id":"B35n0196_329","lb_range":["0876a06"],"text_zh":"śe","text_en":"śe","type":"prose","confidence":1}
+{"unit_id":"B35n0196_330","lb_range":["0876a07"],"text_zh":"〔六八〕","text_en":"〔六八〕 獨悟非常、故有差異。 〔問〕證因緣法也。答、無明","type":"prose","confidence":1}
+{"unit_id":"B35n0196_331","lb_range":[],"text_zh":"獨悟非常、故有差異。〔問〕證因緣法也。答、無明","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_332","lb_range":["0876a08"],"text_zh":"thog ẖgo phyi śoṅ: ko yi ẖu tsha yi. Jin 'in yvan phab ya? Tab: ẖbu mye","text_en":"thog ẖgo phyi śoṅ: ko yi ẖu tsha yi. Jin 'in yvan phab ya? Tab: ẖbu mye","type":"prose","confidence":1}
+{"unit_id":"B35n0196_333","lb_range":["0876a09"],"text_zh":"行識名","text_en":"行識名","type":"prose","confidence":1}
+{"unit_id":"B35n0196_334","lb_range":["0876a10"],"text_zh":"heṅ śeg（sic）mye","text_en":"heṅ śeg（sic）mye","type":"prose","confidence":1}
+{"unit_id":"B35n0196_335","lb_range":["0876a11"],"text_zh":"〔六九〕","text_en":"〔六九〕 名色六入觸受愛取有生老死、此是順〔觀〕。〔問〕何","type":"prose","confidence":1}
+{"unit_id":"B35n0196_336","lb_range":[],"text_zh":"名色六入觸受愛取有生老死、此是順〔觀〕。〔問〕何","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_337","lb_range":["0876a12"],"text_zh":"mye śeg lug `zib cho〔g〕śihu 'e tshu yi ẖu seṅ le ẖu si tshi śi śun. Ha","text_en":"mye śeg lug `zib cho〔g〕śihu 'e tshu yi ẖu seṅ le ẖu si tshi śi śun. Ha","type":"prose","confidence":1}
+{"unit_id":"B35n0196_338","lb_range":["0876a13"],"text_zh":"者逆觀。","text_en":"者逆觀。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_339","lb_range":["0876a14"],"text_zh":"ja ẖgig kvan?","text_en":"ja ẖgig kvan?","type":"prose","confidence":1}
+{"unit_id":"B35n0196_340","lb_range":["0877a01"],"text_zh":"〔七○〕","text_en":"〔七○〕 答、〔生〕死眾生、生緣有、有緣〔取〕、取〔緣〕愛、愛緣","type":"prose","confidence":1}
+{"unit_id":"B35n0196_341","lb_range":[],"text_zh":"答、〔生〕死眾生、生緣有、有緣〔取〕、取〔緣〕愛、愛緣","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_342","lb_range":["0877a02"],"text_zh":"Tab:〔s〕i cuṅ śeṅ śeṅ yvan yi ẖu; yi ẖu yvan〔tshu〕; tshu〔yvan〕'e;'e yvan","text_en":"Tab:〔s〕i cuṅ śeṅ śeṅ yvan yi ẖu; yi ẖu yvan〔tshu〕; tshu〔yvan〕'e;'e yvan","type":"prose","confidence":1}
+{"unit_id":"B35n0196_343","lb_range":["0877a03"],"text_zh":"受、受緣觸、觸緣六入、","text_en":"受、受緣觸、觸緣六入、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_344","lb_range":["0877a04"],"text_zh":"śi ẖu; śi ẖu yvan chog ; chog yvan lug `zib ;","text_en":"śi ẖu; śi ẖu yvan chog ; chog yvan lug `zib ;","type":"prose","confidence":1}
+{"unit_id":"B35n0196_345","lb_range":["0877a05"],"text_zh":"〔七一〕","text_en":"〔七一〕 〔六〕入緣名色、名色緣識、識緣行、行〔緣〕無","type":"prose","confidence":1}
+{"unit_id":"B35n0196_346","lb_range":[],"text_zh":"〔六〕入緣名色、名色緣識、識緣行、行〔緣〕無","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_347","lb_range":["0877a06"],"text_zh":"〔lug〕`zib yvan mye śeg ; mye śeg yvan sig ; śig yvan heṅ ; heṅ〔yvan〕ẖbu","text_en":"〔lug〕`zib yvan mye śeg ; mye śeg yvan sig ; śig yvan heṅ ; heṅ〔yvan〕ẖbu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_348","lb_range":["0877a07"],"text_zh":"明、無明〔緣〕一念不覺。〔問〕此十二因","text_en":"明、 無明 〔緣〕一念不覺。〔問〕 此十二因","type":"prose","confidence":1}
+{"unit_id":"B35n0196_349","lb_range":["0877a08"],"text_zh":"mye ; ẖbu mye〔yvan〕'ir nyam ẖbu kag. tshi śib ^zi 'in","text_en":"mye ; ẖbu mye〔yvan〕'ir nyam ẖbu kag. tshi śib ^zi 'in","type":"prose","confidence":1}
+{"unit_id":"B35n0196_350","lb_range":["0877a09"],"text_zh":"〔七二〕","text_en":"〔七二〕 緣、何者緣因果過十二支。〔答〕因無明行現在十二","type":"prose","confidence":1}
+{"unit_id":"B35n0196_351","lb_range":[],"text_zh":"緣、何者緣因果過十二支。〔答〕因無明行現在十二","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_352","lb_range":["0877a10"],"text_zh":"yvan. Ha ja yvan 'in gva kva śib `zi ci? 'In ẖbu mye heṅ hyan tshe śib `zi","text_en":"yvan. Ha ja yvan 'in gva kva śib `zi ci? 'In ẖbu mye heṅ hyan tshe śib `zi","type":"prose","confidence":1}
+{"unit_id":"B35n0196_353","lb_range":["0877a11"],"text_zh":"支果。","text_en":"支果。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_354","lb_range":["0877a12"],"text_zh":"ci gva.","text_en":"ci gva.","type":"prose","confidence":1}
+{"unit_id":"B35n0196_355","lb_range":["0877a13"],"text_zh":"〔七三〕","text_en":"〔七三〕 問、何者如來乘。答、六波羅蜜名佛乘。問、何者是六","type":"prose","confidence":1}
+{"unit_id":"B35n0196_356","lb_range":[],"text_zh":"問、何者如來乘。答、六波羅蜜名佛乘。問、何者是六","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_357","lb_range":["0877a14"],"text_zh":"Bun: ha ja `zu le śiṅ? Tab: lug pa la ẖbyir mye phur śiṅ. Bun: ha ja śi lug","text_en":"Bun: ha ja `zu le śiṅ? Tab: lug pa la ẖbyir mye phur śiṅ. Bun: ha ja śi lug","type":"prose","confidence":1}
+{"unit_id":"B35n0196_358","lb_range":["0878a01"],"text_zh":"波羅","text_en":"波羅","type":"prose","confidence":1}
+{"unit_id":"B35n0196_359","lb_range":["0878a02"],"text_zh":"pa la","text_en":"pa la","type":"prose","confidence":1}
+{"unit_id":"B35n0196_360","lb_range":["0878a03"],"text_zh":"〔七四〕","text_en":"〔七四〕 蜜。答、一布施、二持戒、三忍辱、四精進、五禪定、六智惠、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_361","lb_range":[],"text_zh":"蜜。答、一布施、二持戒、三忍辱、四精進、五禪定、六智惠、","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_362","lb_range":["0878a04"],"text_zh":"byir? Tab: 'ir pu śi `zi chi ke sam si tseṅ dzin ẖgo śan deṅ lug ci hyve","text_en":"byir? Tab: 'ir pu śi `zi chi ke sam si tseṅ dzin ẖgo śan deṅ lug ci hyve","type":"prose","confidence":1}
+{"unit_id":"B35n0196_363","lb_range":["0878a05"],"text_zh":"是","text_en":"是","type":"prose","confidence":1}
+{"unit_id":"B35n0196_364","lb_range":["0878a06"],"text_zh":"śi","text_en":"śi","type":"prose","confidence":1}
+{"unit_id":"B35n0196_365","lb_range":["0878a07"],"text_zh":"〔七五〕","text_en":"〔七五〕 六波〔羅〕蜜。〔問〕何者布施得名波羅蜜。答、布施之時、 不","type":"prose","confidence":1}
+{"unit_id":"B35n0196_366","lb_range":[],"text_zh":"六波〔羅〕蜜。〔問〕何者布施得名波羅蜜。答、布施之時、不","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_367","lb_range":["0878a08"],"text_zh":"lug pa〔la〕ẖbyir. Ha ja pu śi tig mye pa la hbyir? Tab: pu śi ci śi ẖbu","text_en":"lug pa〔la〕ẖbyir. Ha ja pu śi tig mye pa la hbyir? Tab: pu śi ci śi ẖbu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_368","lb_range":["0878a09"],"text_zh":"見受","text_en":"見受","type":"prose","confidence":1}
+{"unit_id":"B35n0196_369","lb_range":["0878a10"],"text_zh":"kyen ẖ`zuhu（sic）","text_en":"kyen ẖ`zuhu（sic）","type":"prose","confidence":1}
+{"unit_id":"B35n0196_370","lb_range":["0878a11"],"text_zh":"〔七六〕","text_en":"〔七六〕 者、不〔見〕施者、不見所施財物、得名波羅蜜。〔問〕何者持","type":"prose","confidence":1}
+{"unit_id":"B35n0196_371","lb_range":[],"text_zh":"者、不〔見〕施者、不見所施財物、得名波羅蜜。〔問〕何者持","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_372","lb_range":["0878a12"],"text_zh":"ja ẖbu kyen śi ja ẖbu kyen śu śi tshe bur tig mye pa la ẖbyir. Ha ja chi","text_en":"ja ẖbu kyen śi ja ẖbu kyen śu śi tshe bur tig mye pa la ẖbyir. Ha ja chi","type":"prose","confidence":1}
+{"unit_id":"B35n0196_373","lb_range":["0878a13"],"text_zh":"戒波羅","text_en":"戒波羅","type":"prose","confidence":1}
+{"unit_id":"B35n0196_374","lb_range":["0878a14"],"text_zh":"kye pa la","text_en":"kye pa la","type":"prose","confidence":1}
+{"unit_id":"B35n0196_375","lb_range":["0879a01"],"text_zh":"〔七七〕","text_en":"〔七七〕 蜜。〔答〕 不見持戒、不見他破戒、不見所持戒法、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_376","lb_range":[],"text_zh":"蜜。〔答〕不見持戒、不見他破戒、不見所持戒法、","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_377","lb_range":["0879a02"],"text_zh":"ẖbyir? ẖbu kyen chi ke ẖbu kyen〈tha ẖ〉 pa ke ẖbu kyen〔ś〕u chi ke phab","text_en":"ẖbyir? ẖbu kyen chi ke ẖbu kyen〈tha ẖ〉 pa ke ẖbu kyen〔ś〕u chi ke phab","type":"prose","confidence":1}
+{"unit_id":"B35n0196_378","lb_range":["0879a03"],"text_zh":"得名波羅〔蜜〕。〔問〕何者","text_en":"得名波羅〔蜜〕。〔問〕何者","type":"prose","confidence":1}
+{"unit_id":"B35n0196_379","lb_range":["0879a04"],"text_zh":"tig mye pa la〔ẖbyir〕. Ha ja","text_en":"tig mye pa la〔ẖbyir〕. Ha ja","type":"prose","confidence":1}
+{"unit_id":"B35n0196_380","lb_range":["0879a05"],"text_zh":"〔七八〕","text_en":"〔七八〕 精進。〔答〕 不見他解怠、不見自修行、得名波羅","type":"prose","confidence":1}
+{"unit_id":"B35n0196_381","lb_range":[],"text_zh":"精進。〔答〕不見他解怠、不見自修行、得名波羅","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_382","lb_range":["0879a06"],"text_zh":"tsoṅ dzin? ẖbu kyen〈tha ẖ〉 ga de ẖbu kyen tshi si ẖu heṅ tig mye pa la","text_en":"tsoṅ dzin? ẖbu kyen〈tha ẖ〉 ga de ẖbu kyen tshi si ẖu heṅ tig mye pa la","type":"prose","confidence":1}
+{"unit_id":"B35n0196_383","lb_range":["0879a07"],"text_zh":"蜜。〔問〕何者","text_en":"蜜。〔問〕何者","type":"prose","confidence":1}
+{"unit_id":"B35n0196_384","lb_range":["0879a08"],"text_zh":"ẖbyir. Ha ja","text_en":"ẖbyir. Ha ja","type":"prose","confidence":1}
+{"unit_id":"B35n0196_385","lb_range":["0879a09"],"text_zh":"〔七九〕","text_en":"〔七九〕 禪定。〔答〕 不見他亂意、不見他所證理、得名波羅","type":"prose","confidence":1}
+{"unit_id":"B35n0196_386","lb_range":[],"text_zh":"禪定。〔答〕不見他亂意、不見他所證理、得名波羅","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_387","lb_range":["0879a10"],"text_zh":"śan deṅ. ẖbu kyen〈tha ẖ〉 lvan 'i ẖbu kyan tha śu ciṅ li tig mye pa la","text_en":"śan deṅ. ẖbu kyen〈tha ẖ〉 lvan 'i ẖbu kyan tha śu ciṅ li tig mye pa la","type":"prose","confidence":1}
+{"unit_id":"B35n0196_388","lb_range":["0879a11"],"text_zh":"蜜。〔問〕何者","text_en":"蜜。〔問〕何者","type":"prose","confidence":1}
+{"unit_id":"B35n0196_389","lb_range":["0879a12"],"text_zh":"ẖbyir? Ha ja","text_en":"ẖbyir? Ha ja","type":"prose","confidence":1}
+{"unit_id":"B35n0196_390","lb_range":["0879a13"],"text_zh":"〔八○〕","text_en":"〔八○〕 智惠。〔答〕不見自智惠、〔不見〕他愚癡、不見所","type":"prose","confidence":1}
+{"unit_id":"B35n0196_391","lb_range":[],"text_zh":"智惠。〔答〕不見自智惠、〔不見〕他愚癡、不見所","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_392","lb_range":["0879a14"],"text_zh":"ci hyve? ẖbu kyen tshi ci hyve phu kya〔n〕（sic）ẖgu tsha ẖbu kyen śu","text_en":"ci hyve? ẖbu kyen tshi ci hyve phu kya〔n〕（sic）ẖgu tsha ẖbu kyen śu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_393","lb_range":["0880a01"],"text_zh":"有惑、得名智","text_en":"有惑、得名智","type":"prose","confidence":1}
+{"unit_id":"B35n0196_394","lb_range":["0880a02"],"text_zh":"yi ẖu hog tig mye ci","text_en":"yi ẖu hog tig mye ci","type":"prose","confidence":1}
+{"unit_id":"B35n0196_395","lb_range":["0880a03"],"text_zh":"〔八一〕","text_en":"〔八一〕 波羅蜜。問、何者引。〔答〕前麤引。〔問〕後後細淨","type":"prose","confidence":1}
+{"unit_id":"B35n0196_396","lb_range":[],"text_zh":"波羅蜜。問、何者引。〔答〕前麤引。〔問〕後後細淨","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_397","lb_range":["0880a04"],"text_zh":"pa la ẖbyir Bun: ha ja 'in? Tshyan tsho yin hihu: hi ẖu se tsheṅ","text_en":"pa la ẖbyir Bun: ha ja 'in? Tshyan tsho yin hihu: hi ẖu se tsheṅ","type":"prose","confidence":1}
+{"unit_id":"B35n0196_398","lb_range":["0880a05"],"text_zh":"前前麤。答、前五","text_en":"前前麤。答、前五","type":"prose","confidence":1}
+{"unit_id":"B35n0196_399","lb_range":["0880a06"],"text_zh":"tshyan tshyan tsho. Tab: tshyan ẖgo","text_en":"tshyan tshyan tsho. Tab: tshyan ẖgo","type":"prose","confidence":1}
+{"unit_id":"B35n0196_400","lb_range":["0880a07"],"text_zh":"〔八二〕","text_en":"〔八二〕 如盲、後一如道（導）。問、何者「 擅土（度）攝於六。資生．无","type":"prose","confidence":1}
+{"unit_id":"B35n0196_401","lb_range":[],"text_zh":"如盲、後一如道（導）。問、何者「擅土（度）攝於六。資生．无","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_402","lb_range":["0880a08"],"text_zh":"`zu meṅ. hi ẖu 'ir `zu de ẖu. Bun: ha ja than do śab 'u lug tsi śeṅ ẖbu","text_en":"`zu meṅ. hi ẖu 'ir `zu de ẖu. Bun: ha ja than do śab 'u lug tsi śeṅ ẖbu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_403","lb_range":["0880a09"],"text_zh":"怖法。此中","text_en":"怖法。此中","type":"prose","confidence":1}
+{"unit_id":"B35n0196_404","lb_range":["0880a10"],"text_zh":"iẖu phab tshi cuṅ","text_en":"iẖu phab tshi cuṅ","type":"prose","confidence":1}
+{"unit_id":"B35n0196_405","lb_range":["0880a11"],"text_zh":"〔八三〕","text_en":"〔八三〕 有一二三、名曰脩行住」。答、擅能攝其六。問、云","type":"prose","confidence":1}
+{"unit_id":"B35n0196_406","lb_range":[],"text_zh":"有一二三、名曰脩行住」。答、擅能攝其六。問、云","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_407","lb_range":["0880a12"],"text_zh":"yi ẖu 'ir `zi sam mye〈si ẖu〉 heṅ chu? Tab: than do（sic）śab khi lug. Bun: hun","text_en":"yi ẖu 'ir `zi sam mye〈si ẖu〉 heṅ chu? Tab: than do（sic）śab khi lug. Bun: hun","type":"prose","confidence":1}
+{"unit_id":"B35n0196_408","lb_range":["0880a13"],"text_zh":"何波羅","text_en":"何波羅","type":"prose","confidence":1}
+{"unit_id":"B35n0196_409","lb_range":["0880a14"],"text_zh":"ha pa la","text_en":"ha pa la","type":"prose","confidence":1}
+{"unit_id":"B35n0196_410","lb_range":["0881a01"],"text_zh":"〔八四〕","text_en":"〔八四〕 蜜中前劣後勝。云何此中乃能攝勝。答、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_411","lb_range":[],"text_zh":"蜜中前劣後勝。云何此中乃能攝勝。答、","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_412","lb_range":["0881a02"],"text_zh":"ẖbyi cuṅ tshyan lyvar hi ẖu śiṅ? ẖun ha tshi cuṅ 〈ẖne ẖi〉 niṅ śab〔śiṅ〕? Tab:","text_en":"ẖbyi cuṅ tshyan lyvar hi ẖu śiṅ? ẖun ha tshi cuṅ 〈ẖne ẖi〉 niṅ śab〔śiṅ〕? Tab:","type":"prose","confidence":1}
+{"unit_id":"B35n0196_413","lb_range":["0881a03"],"text_zh":"且初表視（示）門中","text_en":"且初 表視（示）門中","type":"prose","confidence":1}
+{"unit_id":"B35n0196_414","lb_range":["0881a04"],"text_zh":"shya chu bye ẖu śi〔mo〕n cuṅ","text_en":"shya chu bye ẖu śi〔mo〕n cuṅ","type":"prose","confidence":1}
+{"unit_id":"B35n0196_415","lb_range":["0881a05"],"text_zh":"〔八五〕","text_en":"〔八五〕 作如是說。俱能悟其六波羅蜜三事體空之時","type":"prose","confidence":1}
+{"unit_id":"B35n0196_416","lb_range":[],"text_zh":"作如是說。俱能悟其六波羅蜜三事體空之時","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_417","lb_range":["0881a06"],"text_zh":"dzag `zu śi śvar: khu niṅ ẖgo khi lug pa la ẖbyir dar sam śi khoṅ kho ci śi","text_en":"dzag `zu śi śvar: khu niṅ ẖgo khi lug pa la ẖbyir dar sam śi khoṅ kho ci śi","type":"prose","confidence":1}
+{"unit_id":"B35n0196_418","lb_range":["0881a07"],"text_zh":"无勝。","text_en":"无勝。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_419","lb_range":["0881a08"],"text_zh":"ẖbu śiṅ","text_en":"ẖbu śiṅ","type":"prose","confidence":1}
+{"unit_id":"B35n0196_420","lb_range":["0881a09"],"text_zh":"〔八六〕","text_en":"〔八六〕 問、何者一二三。答、資生攝一〔無畏〕攝二、法攝三。問、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_421","lb_range":[],"text_zh":"問、何者一二三。答、資生攝一〔無畏〕攝二、法攝三。問、","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_422","lb_range":["0881a10"],"text_zh":"Bun: ha ja 'ir `zi sam? Tab: tsi śeṅ sab 'ir śab `zi phab śab sam. Bun:","text_en":"Bun: ha ja 'ir `zi sam? Tab: tsi śeṅ sab 'ir śab `zi phab śab sam. Bun:","type":"prose","confidence":1}
+{"unit_id":"B35n0196_423","lb_range":["0881a11"],"text_zh":"何者資生。","text_en":"何者資生。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_424","lb_range":["0881a12"],"text_zh":"ha ja tsi śeṅ?","text_en":"ha ja tsi śeṅ?","type":"prose","confidence":1}
+{"unit_id":"B35n0196_425","lb_range":["0881a13"],"text_zh":"〔八七〕","text_en":"〔八七〕 答、油（唯）有信心能施財物名為資生也。問、何者","type":"prose","confidence":1}
+{"unit_id":"B35n0196_426","lb_range":[],"text_zh":"答、油（唯）有信心能施財物名為資生也。問、何者","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_427","lb_range":["0881a14"],"text_zh":"Tab: yi yi ẖu sin（sic）sim niṅ śi tshe bur mye ẖu tsi śeṅ ya. Bun: ha ja","text_en":"Tab: yi yi ẖu sin（sic）sim niṅ śi tshe bur mye ẖu tsi śeṅ ya. Bun: ha ja","type":"prose","confidence":1}
+{"unit_id":"B35n0196_428","lb_range":["0882a01"],"text_zh":"无畏施。〔答〕由","text_en":"无畏施。〔答〕由","type":"prose","confidence":1}
+{"unit_id":"B35n0196_429","lb_range":["0882a02"],"text_zh":"ẖbu 'u si? Yi ẖu","text_en":"ẖbu 'u si? Yi ẖu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_430","lb_range":["0882a03"],"text_zh":"〔八八〕","text_en":"〔八八〕 持戒思（忍）耨、施財之時一切眾生无有畏具。問、何","type":"prose","confidence":1}
+{"unit_id":"B35n0196_431","lb_range":[],"text_zh":"持戒思（忍）耨、施財之時一切眾生无有畏具。問、何","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_432","lb_range":["0882a04"],"text_zh":"chi k'e si `zin〔`zig〕tshe ci si 'ir tshe cuṅ śeṅ ẖbu yi ẖu 'u khu Bun: ẖa","text_en":"chi k'e si `zin〔`zig〕tshe ci si 'ir tshe cuṅ śeṅ ẖbu yi ẖu 'u khu Bun: ẖa","type":"prose","confidence":1}
+{"unit_id":"B35n0196_433","lb_range":["0882a05"],"text_zh":"者是","text_en":"者是","type":"prose","confidence":1}
+{"unit_id":"B35n0196_434","lb_range":["0882a06"],"text_zh":"ja śi","text_en":"ja śi","type":"prose","confidence":1}
+{"unit_id":"B35n0196_435","lb_range":["0882a07"],"text_zh":"〔八九〕","text_en":"〔八九〕 法施。答、精進禪定智惠攝三。 合一切眾生","type":"prose","confidence":1}
+{"unit_id":"B35n0196_436","lb_range":[],"text_zh":"法施。答、精進禪定智惠攝三。合一切眾生","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_437","lb_range":["0882a08"],"text_zh":"phab śi? Tab: tsoṅ tshin śan deṅ cig hyve śaṅ sam hab（sic）'ir tshe cu〔ṅ〕śeṅ","text_en":"phab śi? Tab: tsoṅ tshin śan deṅ cig hyve śaṅ sam hab（sic）'ir tshe cu〔ṅ〕śeṅ","type":"prose","confidence":1}
+{"unit_id":"B35n0196_438","lb_range":["0882a09"],"text_zh":"得其解脫","text_en":"得其解脫","type":"prose","confidence":1}
+{"unit_id":"B35n0196_439","lb_range":["0882a10"],"text_zh":"tig khi ga thar","text_en":"tig khi ga thar","type":"prose","confidence":1}
+{"unit_id":"B35n0196_440","lb_range":["0882a11"],"text_zh":"〔九○〕","text_en":"〔九○〕 故名法施。問、聞說三毒。答、貪瞋癡是名三","type":"prose","confidence":1}
+{"unit_id":"B35n0196_441","lb_range":[],"text_zh":"故名法施。問、聞說三毒。答、貪瞋癡是名三","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_442","lb_range":["0882a12"],"text_zh":"ko mye phab śi. Bun: bun śvar sam thog. Tab: tham chin chi śi mye sam","text_en":"ko mye phab śi. Bun: bun śvar sam thog. Tab: tham chin chi śi mye sam","type":"prose","confidence":1}
+{"unit_id":"B35n0196_443","lb_range":["0882a13"],"text_zh":"毒。問、此貪","text_en":"毒。問、此貪","type":"prose","confidence":1}
+{"unit_id":"B35n0196_444","lb_range":["0882a14"],"text_zh":"thog. Bun: tshi tham","text_en":"thog. Bun: tshi tham","type":"prose","confidence":1}
+{"unit_id":"B35n0196_445","lb_range":["0883a01"],"text_zh":"〔九一〕","text_en":"〔九一〕 瞋癡何因如生。答、由貪不得故生瞋、瞋之緣以故","type":"prose","confidence":1}
+{"unit_id":"B35n0196_446","lb_range":[],"text_zh":"瞋癡何因如生。答、由貪不得故生瞋、瞋之緣以故","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_447","lb_range":["0883a02"],"text_zh":"chin chi ha 'in `zu śeṅ? Tab: 'ihu tham ẖbu tig ko śeṅ chin: chin ci khig yi ko","text_en":"chin chi ha 'in `zu śeṅ? Tab: 'ihu tham ẖbu tig ko śeṅ chin: chin ci khig yi ko","type":"prose","confidence":1}
+{"unit_id":"B35n0196_448","lb_range":["0883a03"],"text_zh":"生癡、由","text_en":"生癡、由","type":"prose","confidence":1}
+{"unit_id":"B35n0196_449","lb_range":["0883a04"],"text_zh":"śeṅ chi: yi ẖu","text_en":"śeṅ chi: yi ẖu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_450","lb_range":["0883a05"],"text_zh":"〔九二〕","text_en":"〔九二〕 此如生。問、貪者是何義。答、染着境界名之為貪。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_451","lb_range":[],"text_zh":"此如生。問、貪者是何義。答、染着境界名之為貪。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_452","lb_range":["0883a06"],"text_zh":"tshi `zu śeṅ. Bun: tham ja śi ha ẖgi? Tab: `zam jag keṅ ke mye ci ẖu tham.","text_en":"tshi `zu śeṅ. Bun: tham ja śi ha ẖgi? Tab: `zam jag keṅ ke mye ci ẖu tham.","type":"prose","confidence":1}
+{"unit_id":"B35n0196_453","lb_range":["0883a07"],"text_zh":"〔問〕瞋","text_en":"〔問〕瞋","type":"prose","confidence":1}
+{"unit_id":"B35n0196_454","lb_range":["0883a08"],"text_zh":"Chin","text_en":"Chin","type":"prose","confidence":1}
+{"unit_id":"B35n0196_455","lb_range":["0883a09"],"text_zh":"〔九三〕","text_en":"〔九三〕 者何義。答、增汙（憎污）境界名之為瞋。〔問〕癡者何義。答。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_456","lb_range":[],"text_zh":"者何義。答、增汙（憎污）境界名之為瞋。〔問〕癡者何義。答。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_457","lb_range":["0883a10"],"text_zh":"ja ha ẖgi? Tab: tshin 'o keṅ k.e mye ci ẖu chin. Chi ja ha ẖgi? Tab:","text_en":"ja ha ẖgi? Tab: tshin 'o keṅ k.e mye ci ẖu chin. Chi ja ha ẖgi? Tab:","type":"prose","confidence":1}
+{"unit_id":"B35n0196_458","lb_range":["0883a11"],"text_zh":"於","text_en":"於","type":"prose","confidence":1}
+{"unit_id":"B35n0196_459","lb_range":["0883a12"],"text_zh":"'i","text_en":"'i","type":"prose","confidence":1}
+{"unit_id":"B35n0196_460","lb_range":["0883a13"],"text_zh":"〔九四〕","text_en":"〔九四〕 緣不了之名為癡。〔問〕何故得名為毒。答、此貪","type":"prose","confidence":1}
+{"unit_id":"B35n0196_461","lb_range":[],"text_zh":"緣不了之名為癡。〔問〕何故得名為毒。答、此貪","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_462","lb_range":["0883a14"],"text_zh":"yvan ẖbu le ẖu ci mye ẖu chi. Ha ko tig mye ẖu thog? Tab: tshi tham","text_en":"yvan ẖbu le ẖu ci mye ẖu chi. Ha ko tig mye ẖu thog? Tab: tshi tham","type":"prose","confidence":1}
+{"unit_id":"B35n0196_463","lb_range":["0884a01"],"text_zh":"瞋癡為毒、","text_en":"瞋癡為毒、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_464","lb_range":["0884a02"],"text_zh":"chin chi ẖu thog:","text_en":"chin chi ẖu thog:","type":"prose","confidence":1}
+{"unit_id":"B35n0196_465","lb_range":["0884a03"],"text_zh":"〔九五〕","text_en":"〔九五〕 毒中无過此毒。答、且如世間之毒能雖害一身、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_466","lb_range":[],"text_zh":"毒中无過此毒。答、且如世間之毒能雖害一身、","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_467","lb_range":["0884a04"],"text_zh":"thog cuṅ ẖbu kva tshi thog. Tab: tshya `zu śe ken ci thog niṅ śar he 'ir śin","text_en":"thog cuṅ ẖbu kva tshi thog. Tab: tshya `zu śe ken ci thog niṅ śar he 'ir śin","type":"prose","confidence":1}
+{"unit_id":"B35n0196_468","lb_range":["0884a05"],"text_zh":"貪癡（瞋）癡","text_en":"貪癡（瞋）癡","type":"prose","confidence":1}
+{"unit_id":"B35n0196_469","lb_range":["0884a06"],"text_zh":"tham chin chi","text_en":"tham chin chi","type":"prose","confidence":1}
+{"unit_id":"B35n0196_470","lb_range":["0884a07"],"text_zh":"〔九六〕","text_en":"〔九六〕 毒能害多身、〔答〕世間毒能〔害〕一身、貪瞋癡毒能","type":"prose","confidence":1}
+{"unit_id":"B35n0196_471","lb_range":[],"text_zh":"毒能害多身、〔答〕世間毒能〔害〕一身、貪瞋癡毒能","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_472","lb_range":["0884a08"],"text_zh":"thog niṅ he ta śin.（Tab:）śe ken thog niṅ he 'ir śin tham chin chi thog niṅ","text_en":"thog niṅ he ta śin.（Tab:）śe ken thog niṅ he 'ir śin tham chin chi thog niṅ","type":"prose","confidence":1}
+{"unit_id":"B35n0196_473","lb_range":["0884a09"],"text_zh":"壞多","text_en":"壞多","type":"prose","confidence":1}
+{"unit_id":"B35n0196_474","lb_range":["0884a10"],"text_zh":"he ta","text_en":"he ta","type":"prose","confidence":1}
+{"unit_id":"B35n0196_475","lb_range":["0884a11"],"text_zh":"〔九七〕","text_en":"〔九七〕 身十善。〔答〕只如世間毒蛇毒藥之流、唯害吾身","type":"prose","confidence":1}
+{"unit_id":"B35n0196_476","lb_range":[],"text_zh":"身十善。〔答〕只如世間毒蛇毒藥之流、唯害吾身","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_477","lb_range":["0884a12"],"text_zh":"śin śib śan〔Tab:〕〔ciṅ〕`zu śe ken thog śa thog 'ag ci〔la〕〔yu〕（he）he śin","text_en":"śin śib śan〔Tab:〕〔ciṅ〕`zu śe ken thog śa thog 'ag ci〔la〕〔yu〕（he）he śin","type":"prose","confidence":1}
+{"unit_id":"B35n0196_478","lb_range":["0884a13"],"text_zh":"命、","text_en":"命、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_479","lb_range":["0884a14"],"text_zh":"me","text_en":"me","type":"prose","confidence":1}
+{"unit_id":"B35n0196_480","lb_range":["0885a01"],"text_zh":"〔九八〕","text_en":"〔九八〕 命終後毒即无用、此貪瞋癡毒能令眾生","type":"prose","confidence":1}
+{"unit_id":"B35n0196_481","lb_range":[],"text_zh":"命終後毒即无用、此貪瞋癡毒能令眾生","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_482","lb_range":["0885a02"],"text_zh":"me〈chuṅ〉 hi ẖu thog tsig ẖbu yoṅ tshi tham chin chi thog niṅ leṅ cuṅ śeṅ","text_en":"me〈chuṅ〉 hi ẖu thog tsig ẖbu yoṅ tshi tham chin chi thog niṅ leṅ cuṅ śeṅ","type":"prose","confidence":1}
+{"unit_id":"B35n0196_483","lb_range":["0885a03"],"text_zh":"長輪苦海生","text_en":"長輪苦海生","type":"prose","confidence":1}
+{"unit_id":"B35n0196_484","lb_range":["0885a04"],"text_zh":"choṅ lun kho（n）ke śeṅ","text_en":"choṅ lun kho（n）ke śeṅ","type":"prose","confidence":1}
+{"unit_id":"B35n0196_485","lb_range":["0885a05"],"text_zh":"〔九九〕","text_en":"〔九九〕 死不絕。〔問〕如何對持（治）得免生死。答、如經所說。多","type":"prose","confidence":1}
+{"unit_id":"B35n0196_486","lb_range":[],"text_zh":"死不絕。〔問〕如何對持（治）得免生死。答、如經所說。多","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_487","lb_range":["0885a06"],"text_zh":"si ẖbu tshvar `zu. Ha dve chi tig 'en śeṅ si? Tab: `zu kyeṅ śu śvar ta","text_en":"si ẖbu tshvar `zu. Ha dve chi tig 'en śeṅ si? Tab: `zu kyeṅ śu śvar ta","type":"prose","confidence":1}
+{"unit_id":"B35n0196_488","lb_range":["0885a07"],"text_zh":"貪眾生以不","text_en":"貪眾生以不","type":"prose","confidence":1}
+{"unit_id":"B35n0196_489","lb_range":["0885a08"],"text_zh":"tham cuṅ śeṅ yi ẖbu","text_en":"tham cuṅ śeṅ yi ẖbu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_490","lb_range":["0885a09"],"text_zh":"〔一○○〕","text_en":"〔一○○〕 淨觀為對治、多瞋眾生以慈悲觀為對治。多癡","type":"prose","confidence":1}
+{"unit_id":"B35n0196_491","lb_range":[],"text_zh":"淨觀為對治、多瞋眾生以慈悲觀為對治。多癡","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_492","lb_range":["0885a10"],"text_zh":"tsheṅ gvan ẖu dve chi: ta chin cuṅ śeṅ yi tshi pyi gvan ẖu dve chi: ta chi","text_en":"tsheṅ gvan ẖu dve chi: ta chin cuṅ śeṅ yi tshi pyi gvan ẖu dve chi: ta chi","type":"prose","confidence":1}
+{"unit_id":"B35n0196_493","lb_range":["0885a11"],"text_zh":"眾","text_en":"眾","type":"prose","confidence":1}
+{"unit_id":"B35n0196_494","lb_range":["0885a12"],"text_zh":"cuṅ","text_en":"cuṅ","type":"prose","confidence":1}
+{"unit_id":"B35n0196_495","lb_range":["0885a13"],"text_zh":"〔一○一〕","text_en":"〔一○一〕 生以因緣觀為對治、免生死。此對持（治）門中為是","type":"prose","confidence":1}
+{"unit_id":"B35n0196_496","lb_range":[],"text_zh":"生以因緣觀為對治、免生死。此對持（治）門中為是","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_497","lb_range":["0885a14"],"text_zh":"śeṅ yi si yvan gvan ẖu dve chi: mye śeṅ si: tshi dve chi mon cuṅ ẖu śi","text_en":"śeṅ yi si yvan gvan ẖu dve chi: mye śeṅ si: tshi dve chi mon cuṅ ẖu śi","type":"prose","confidence":1}
+{"unit_id":"B35n0196_498","lb_range":["0886a01"],"text_zh":"久境（究竟）說","text_en":"久境（究竟）說","type":"prose","confidence":1}
+{"unit_id":"B35n0196_499","lb_range":["0886a02"],"text_zh":"gi ẖu keṅ śvar","text_en":"gi ẖu keṅ śvar","type":"prose","confidence":1}
+{"unit_id":"B35n0196_500","lb_range":["0886a03"],"text_zh":"〔一○二〕","text_en":"〔一○二〕 為非 久境（究竟）說。問。見此物否。答。此不增","type":"prose","confidence":1}
+{"unit_id":"B35n0196_501","lb_range":[],"text_zh":"為非久境（究竟）說。問。見此物否。答。此不增","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_502","lb_range":["0886a04"],"text_zh":"ẖu phyi gi ẖu keṅ śvar. Bun: kyan tshi bur phu? Tab: tshi ẖbu tshiṅ","text_en":"ẖu phyi gi ẖu keṅ śvar. Bun: kyan tshi bur phu? Tab: tshi ẖbu tshiṅ","type":"prose","confidence":1}
+{"unit_id":"B35n0196_503","lb_range":["0886a05"],"text_zh":"見我。問、此物不","text_en":"見我。問、此物不","type":"prose","confidence":1}
+{"unit_id":"B35n0196_504","lb_range":["0886a06"],"text_zh":"kyan ẖga. Bun: tshi bur ẖbu","text_en":"kyan ẖga. Bun: tshi bur ẖbu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_505","lb_range":["0886a07"],"text_zh":"〔一○三〕","text_en":"〔一○三〕 解思惟分別見與不見。汝還同此物耶。答、我","type":"prose","confidence":1}
+{"unit_id":"B35n0196_506","lb_range":[],"text_zh":"解思惟分別見與不見。汝還同此物耶。答、我","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_507","lb_range":["0886a08"],"text_zh":"hve si yu phun phar kyan yi ẖbu kyan: `zu hvan thoṅ tshi bur ya? Tab: ẖga","text_en":"hve si yu phun phar kyan yi ẖbu kyan: `zu hvan thoṅ tshi bur ya? Tab: ẖga","type":"prose","confidence":1}
+{"unit_id":"B35n0196_508","lb_range":["0886a09"],"text_zh":"亦如是不","text_en":"亦如是不","type":"prose","confidence":1}
+{"unit_id":"B35n0196_509","lb_range":["0886a10"],"text_zh":"yi ẖu `zu śi ẖbu","text_en":"yi ẖu `zu śi ẖbu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_510","lb_range":["0886a11"],"text_zh":"〔一○四〕","text_en":"〔一○四〕 作是念思惟分別見與不見。〔問〕云何諸法耶。答、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_511","lb_range":[],"text_zh":"作是念思惟分別見與不見。〔問〕云何諸法耶。答、","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_512","lb_range":["0886a12"],"text_zh":"tsag śi nyam si yu phun pyar kyan yi ẖbu kyen. ẖun ha cu phab ya? Tab:","text_en":"tsag śi nyam si yu phun pyar kyan yi ẖbu kyen. ẖun ha cu phab ya? Tab:","type":"prose","confidence":1}
+{"unit_id":"B35n0196_513","lb_range":["0886a13"],"text_zh":"於無心","text_en":"於無心","type":"prose","confidence":1}
+{"unit_id":"B35n0196_514","lb_range":["0886a14"],"text_zh":"'u hbu sim","text_en":"'u hbu sim","type":"prose","confidence":1}
+{"unit_id":"B35n0196_515","lb_range":["0887a01"],"text_zh":"〔一○五〕","text_en":"〔一○五〕 中法繼起。〔問〕心分別一切法耶。〔答〕休分","type":"prose","confidence":1}
+{"unit_id":"B35n0196_516","lb_range":[],"text_zh":"中法繼起。〔問〕心分別一切法耶。〔答〕休分","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_517","lb_range":["0887a02"],"text_zh":"cuṅ phab khoṅ khi. Sim phun pyar 'ir tshe phab sya? Hihu phuṅ（sic）","text_en":"cuṅ phab khoṅ khi. Sim phun pyar 'ir tshe phab sya? Hihu phuṅ（sic）","type":"prose","confidence":1}
+{"unit_id":"B35n0196_518","lb_range":["0887a03"],"text_zh":"別一切法王（生）。問、噯作甚","text_en":"別一切法王（生）。問、 噯作甚","type":"prose","confidence":1}
+{"unit_id":"B35n0196_519","lb_range":["0887a04"],"text_zh":"phar 'ir tshe phab śeṅ. Bun: hva tshag śib","text_en":"phar 'ir tshe phab śeṅ. Bun: hva tshag śib","type":"prose","confidence":1}
+{"unit_id":"B35n0196_520","lb_range":["0887a05"],"text_zh":"〔一○六〕","text_en":"〔一○六〕 沒（恁麼）物。答〔──〕問、取此〔此〕物。答、是青黃赤白","type":"prose","confidence":1}
+{"unit_id":"B35n0196_521","lb_range":[],"text_zh":"沒（恁麼）物。答〔──〕問、取此〔此〕物。答、是青黃赤白","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_522","lb_range":["0887a06"],"text_zh":"ma bur? Tab:〔Bun〕tshu tshi tshi bur? Tab: śi tsheṅ hvoṅ chig","text_en":"ma bur? Tab:〔Bun〕tshu tshi tshi bur? Tab: śi tsheṅ hvoṅ chig","type":"prose","confidence":1}
+{"unit_id":"B35n0196_523","lb_range":["0887a07"],"text_zh":"交我〔問〕噯作甚（恁）","text_en":"交我〔問〕 噯作甚（恁）","type":"prose","confidence":1}
+{"unit_id":"B35n0196_524","lb_range":["0887a08"],"text_zh":"ke ẖu ẖga hvan. Tshag śin（sic）","text_en":"ke ẖu ẖga hvan. Tshag śin（sic）","type":"prose","confidence":1}
+{"unit_id":"B35n0196_525","lb_range":["0887a09"],"text_zh":"〔一○七〕","text_en":"〔一○七〕 物（麼）交我噯。答、有情无情是汝見。問、有情","type":"prose","confidence":1}
+{"unit_id":"B35n0196_526","lb_range":[],"text_zh":"物（麼）交我噯。答、有情无情是汝見。問、有情","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_527","lb_range":["0887a10"],"text_zh":"bur ke ẖu ẖga hvan? Tab: yi ẖu tsheṅ ẖbu tsheṅ śi `zu kyeu. Bun ; yi ẖu tsheṅ","text_en":"bur ke ẖu ẖga hvan? Tab: yi ẖu tsheṅ ẖbu tsheṅ śi `zu kyeu. Bun ; yi ẖu tsheṅ","type":"prose","confidence":1}
+{"unit_id":"B35n0196_528","lb_range":["0887a11"],"text_zh":"无","text_en":"无","type":"prose","confidence":1}
+{"unit_id":"B35n0196_529","lb_range":["0887a12"],"text_zh":"ẖbu","text_en":"ẖbu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_530","lb_range":["0887a13"],"text_zh":"〔一○八〕","text_en":"〔一○八〕 情是汝見。問（答）有情无情是我見。〔問〕云何是","type":"prose","confidence":1}
+{"unit_id":"B35n0196_531","lb_range":[],"text_zh":"情是汝見。問（答）有情无情是我見。〔問〕云何是","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_532","lb_range":["0887a14"],"text_zh":"tsheṅ śi `zu kyan? Bun: yi ẖu tsheṅ ẖbu tsheṅ śi〔ẖga〕kyan. ẖun ha śi","text_en":"tsheṅ śi `zu kyan? Bun: yi ẖu tsheṅ ẖbu tsheṅ śi〔ẖga〕kyan. ẖun ha śi","type":"prose","confidence":1}
+{"unit_id":"B35n0196_533","lb_range":["0888a01"],"text_zh":"見。答、我","text_en":"見。答、我","type":"prose","confidence":1}
+{"unit_id":"B35n0196_534","lb_range":["0888a02"],"text_zh":"kyan? Tab: ẖga","text_en":"kyan? Tab: ẖga","type":"prose","confidence":1}
+{"unit_id":"B35n0196_535","lb_range":["0888a03"],"text_zh":"〔一○九〕","text_en":"〔一○九〕 亦不作有情無情見。問、 久境（究竟） 噯作","type":"prose","confidence":1}
+{"unit_id":"B35n0196_536","lb_range":[],"text_zh":"亦不作有情無情見。問、久境（究竟）噯作","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_537","lb_range":["0888a04"],"text_zh":"〔yi ẖu〕ẖbu tshag yi ẖu tsheṅ ẖbu tsheṅ kyan. Bun: gi ẖu keṅ hvan tshag","text_en":"〔yi ẖu〕ẖbu tshag yi ẖu tsheṅ ẖbu tsheṅ kyan. Bun: gi ẖu keṅ hvan tshag","type":"prose","confidence":1}
+{"unit_id":"B35n0196_538","lb_range":["0888a05"],"text_zh":"甚沒（恁麼）物。","text_en":"甚沒（恁麼）物。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_539","lb_range":["0888a06"],"text_zh":"`zim ma bur?","text_en":"`zim ma bur?","type":"prose","confidence":1}
+{"unit_id":"B35n0196_540","lb_range":["0888a07"],"text_zh":"〔一一○〕","text_en":"〔一一○〕 答、法不自名。問、云何、四到（倒）。答、常樂我淨。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_541","lb_range":[],"text_zh":"答、法不自名。問、云何、四到（倒）。答、常樂我淨。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_542","lb_range":["0888a08"],"text_zh":"Tab: phab ẖbu tshi mye. Bun: ẖun ha si de ẖu? Tab: śoṅ lag ẖga tsheṅ.","text_en":"Tab: phab ẖbu tshi mye. Bun: ẖun ha si de ẖu? Tab: śoṅ lag ẖga tsheṅ.","type":"prose","confidence":1}
+{"unit_id":"B35n0196_543","lb_range":["0888a09"],"text_zh":"〔問、云何倒〕。答、","text_en":"〔問、云何倒〕。答、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_544","lb_range":["0888a10"],"text_zh":"〔Bun: ẖun ha de ẖu〕. Tab","text_en":"〔Bun: ẖun ha de ẖu〕. Tab","type":"prose","confidence":1}
+{"unit_id":"B35n0196_545","lb_range":["0888a11"],"text_zh":"〔一一一〕","text_en":"〔一一一〕 无常計常、不淨計淨、苦計為樂。問、何者〔無〕常","type":"prose","confidence":1}
+{"unit_id":"B35n0196_546","lb_range":[],"text_zh":"无常計常、不淨計淨、苦計為樂。問、何者〔無〕常","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_547","lb_range":["0888a12"],"text_zh":"ẖbu śoṅ kye śoṅ ẖbu tsheṅ kye tsheṅ kho kye ẖu lag. Bnn: ha ja〔ẖbu〕śoṅ","text_en":"ẖbu śoṅ kye śoṅ ẖbu tsheṅ kye tsheṅ kho kye ẖu lag. Bnn: ha ja〔ẖbu〕śoṅ","type":"prose","confidence":1}
+{"unit_id":"B35n0196_548","lb_range":["0888a13"],"text_zh":"計","text_en":"計","type":"prose","confidence":1}
+{"unit_id":"B35n0196_549","lb_range":["0888a14"],"text_zh":"kye","text_en":"kye","type":"prose","confidence":1}
+{"unit_id":"B35n0196_550","lb_range":["0889a01"],"text_zh":"〔一一二〕","text_en":"〔一一二〕 常、不淨計淨。答、是念念遷變、无有常住。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_551","lb_range":[],"text_zh":"常、不淨計淨。答、是念念遷變、无有常住。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_552","lb_range":["0889a02"],"text_zh":"śyoṅ ẖbu. tsheṅ kye tsheṅ? Tab: śi nyam nyam tshyan kyen ẖbu yi ẖu śoṅ chu:","text_en":"śyoṅ ẖbu. tsheṅ kye tsheṅ? Tab: śi nyam nyam tshyan kyen ẖbu yi ẖu śoṅ chu:","type":"prose","confidence":1}
+{"unit_id":"B35n0196_553","lb_range":["0889a03"],"text_zh":"凡夫","text_en":"凡夫","type":"prose","confidence":1}
+{"unit_id":"B35n0196_554","lb_range":["0889a04"],"text_zh":"bam phu","text_en":"bam phu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_555","lb_range":["0889a05"],"text_zh":"〔一一三〕","text_en":"〔一一三〕 不了、妄計有常。是身 三〔十〕六種不〔淨〕之變、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_556","lb_range":[],"text_zh":"不了、妄計有常。是身三〔十〕六種不〔淨〕之變、","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_557","lb_range":["0889a06"],"text_zh":"ẖbu lehu ẖoṅ（sic）kye yi ẖu śoṅ: śi śin sam〔śib〕lug juṅ ẖbu〔tsheṅ〕ci〔kyen〕:","text_en":"ẖbu lehu ẖoṅ（sic）kye yi ẖu śoṅ: śi śin sam〔śib〕lug juṅ ẖbu〔tsheṅ〕ci〔kyen〕:","type":"prose","confidence":1}
+{"unit_id":"B35n0196_558","lb_range":["0889a07"],"text_zh":"凡夫不了、","text_en":"凡夫不了、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_559","lb_range":["0889a08"],"text_zh":"bam phu ẖbu lehu","text_en":"bam phu ẖbu lehu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_560","lb_range":["0889a09"],"text_zh":"〔一一四〕","text_en":"〔一一四〕 妄計為淨。問、何者无我計我、苦為樂。答、是五","type":"prose","confidence":1}
+{"unit_id":"B35n0196_561","lb_range":[],"text_zh":"妄計為淨。問、何者无我計我、苦為樂。答、是五","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_562","lb_range":["0889a10"],"text_zh":"ẖoṅ（sic）kye ẖu tsheṅ. Bun: ha ja ẖbu ẖga kye ẖga kho ẖu lag? Tab: śi ẖgo","text_en":"ẖoṅ（sic）kye ẖu tsheṅ. Bun: ha ja ẖbu ẖga kye ẖga kho ẖu lag? Tab: śi ẖgo","type":"prose","confidence":1}
+{"unit_id":"B35n0196_563","lb_range":["0889a11"],"text_zh":"蘊","text_en":"蘊","type":"prose","confidence":1}
+{"unit_id":"B35n0196_564","lb_range":["0889a12"],"text_zh":"hun","text_en":"hun","type":"prose","confidence":1}
+{"unit_id":"B35n0196_565","lb_range":["0889a13"],"text_zh":"〔一一五〕","text_en":"〔一一五〕 諸佛法和合而有、凡夫不了、妄計有我、是","type":"prose","confidence":1}
+{"unit_id":"B35n0196_566","lb_range":[],"text_zh":"諸佛法和合而有、凡夫不了、妄計有我、是","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_567","lb_range":["0889a14"],"text_zh":"cu phur phab hva hvab ẖgyar yi ẖu: bam phu ẖbu le ẖu boṅ kye yi ẖu ẖga: śi","text_en":"cu phur phab hva hvab ẖgyar yi ẖu: bam phu ẖbu le ẖu boṅ kye yi ẖu ẖga: śi","type":"prose","confidence":1}
+{"unit_id":"B35n0196_568","lb_range":["0890a01"],"text_zh":"身眾苦","text_en":"身眾苦","type":"prose","confidence":1}
+{"unit_id":"B35n0196_569","lb_range":["0890a02"],"text_zh":"śin juṅ kho","text_en":"śin juṅ kho","type":"prose","confidence":1}
+{"unit_id":"B35n0196_570","lb_range":["0890a03"],"text_zh":"〔一一六〕","text_en":"〔一一六〕 之本、凡夫不了、妄計樂相。問、何者是八對。答、於","type":"prose","confidence":1}
+{"unit_id":"B35n0196_571","lb_range":[],"text_zh":"之本、凡夫不了、妄計樂相。問、何者是八對。答、於","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_572","lb_range":["0890a04"],"text_zh":"ci bin: bam phu ẖbu le ẖu boṅ kye lag syoṅ. Bun: ha ja śi par de ẖu? Tab: 'u","text_en":"ci bin: bam phu ẖbu le ẖu boṅ kye lag syoṅ. Bun: ha ja śi par de ẖu? Tab: 'u","type":"prose","confidence":1}
+{"unit_id":"B35n0196_573","lb_range":["0890a05"],"text_zh":"〔一一七〕","text_en":"〔一一七〕 无計有、於有計無。問、何者於無計有、何者於","type":"prose","confidence":1}
+{"unit_id":"B35n0196_574","lb_range":[],"text_zh":"无計有、於有計無。問、何者於無計有、何者於","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_575","lb_range":["0890a06"],"text_zh":"ẖbu kye yi ẖu 'u yi ẖu kye ẖbu. Bun: ha ja 'u ẖbu kye yi ẖu: ha ja 'u","text_en":"ẖbu kye yi ẖu 'u yi ẖu kye ẖbu. Bun: ha ja 'u ẖbu kye yi ẖu: ha ja 'u","type":"prose","confidence":1}
+{"unit_id":"B35n0196_576","lb_range":["0890a07"],"text_zh":"〔一一八〕","text_en":"〔一一八〕 有計无。答、凡夫不了、於無計有、聲聞不了、於","type":"prose","confidence":1}
+{"unit_id":"B35n0196_577","lb_range":[],"text_zh":"有計无。答、凡夫不了、於無計有、聲聞不了、於","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_578","lb_range":["0890a08"],"text_zh":"yi ẖu kye ẖbu? Tab: bam phu ẖbu le ẖu 'u ẖbu kye yi ẖu: śeṅ bun ẖbu le ẖu 'u","text_en":"yi ẖu kye ẖbu? Tab: bam phu ẖbu le ẖu 'u ẖbu kye yi ẖu: śeṅ bun ẖbu le ẖu 'u","type":"prose","confidence":1}
+{"unit_id":"B35n0196_579","lb_range":["0890a09"],"text_zh":"有","text_en":"有","type":"prose","confidence":1}
+{"unit_id":"B35n0196_580","lb_range":["0890a10"],"text_zh":"yi ẖu","text_en":"yi ẖu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_581","lb_range":["0890a11"],"text_zh":"〔一一九〕","text_en":"〔一一九〕 計无。 大乘中宗見解義別行本。 吳法師。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_582","lb_range":[],"text_zh":"計无。大乘中宗見解義別行本。吳法師。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_583","lb_range":["0890a12"],"text_zh":"kye ẖbu. De śiṅ cuṅ tshoṅ kyan he ẖgi phar heṅ bun phab〈śi〉","text_en":"kye ẖbu. De śiṅ cuṅ tshoṅ kyan he ẖgi phar heṅ bun phab〈śi〉","type":"prose","confidence":1}
+{"unit_id":"B35n0196_584","lb_range":["0890a13"],"text_zh":"〔一二○〕","text_en":"〔一二○〕 言大乘〔中〕宗見解者、謂觀三界內外諸法緣","type":"prose","confidence":1}
+{"unit_id":"B35n0196_585","lb_range":[],"text_zh":"言大乘〔中〕宗見解者、謂觀三界內外諸法緣","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_586","lb_range":["0890a14"],"text_zh":"ẖgen de śiṅ〔cuṅ〕tsoṅ kyen he ja ẖu kvan sam ke ẖdve ẖgve cu phab yvan","text_en":"ẖgen de śiṅ〔cuṅ〕tsoṅ kyen he ja ẖu kvan sam ke ẖdve ẖgve cu phab yvan","type":"prose","confidence":1}
+{"unit_id":"B35n0196_587","lb_range":["0891a01"],"text_zh":"起緣性、","text_en":"起緣性、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_588","lb_range":["0891a02"],"text_zh":"〔kh〕i yvan seṅ:","text_en":"〔kh〕i yvan seṅ:","type":"prose","confidence":1}
+{"unit_id":"B35n0196_589","lb_range":["0891a03"],"text_zh":"〔一二一〕","text_en":"〔一二一〕 以世谷（俗）諦猶如幻化夢及陽炎、假施設有。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_590","lb_range":[],"text_zh":"以世谷（俗）諦猶如幻化夢及陽炎、假施設有。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_591","lb_range":["0891a04"],"text_zh":"hi śe svog de yi ẖu `zu hyan hva moṅ khib yoṅ yyam: ga śi śar yi ẖu","text_en":"hi śe svog de yi ẖu `zu hyan hva moṅ khib yoṅ yyam: ga śi śar yi ẖu","type":"prose","confidence":1}
+{"unit_id":"B35n0196_592","lb_range":["0891a05"],"text_zh":"第〔一〕義諦此","text_en":"第〔一〕義諦此","type":"prose","confidence":1}
+{"unit_id":"B35n0196_593","lb_range":["0891a06"],"text_zh":"de 'ir ẖgi de tshi","text_en":"de 'ir ẖgi de tshi","type":"prose","confidence":1}
+{"unit_id":"B35n0196_594","lb_range":["0891a07"],"text_zh":"〔一二二〕","text_en":"〔一二二〕 緣生法因果皆空自性涅盤（槃）无生无滅、","type":"prose","confidence":1}
+{"unit_id":"B35n0196_595","lb_range":[],"text_zh":"緣生法因果皆空自性涅盤（槃）无生无滅、","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_596","lb_range":["0891a08"],"text_zh":"yvan〔śeṅ〕〔ph〕ab 'in gva he khoṅ tshi seṅ ẖder phan ẖbu śeṅ ẖbu ẖbyer","text_en":"yvan〔śeṅ〕〔ph〕ab 'in gva he khoṅ tshi seṅ ẖder phan ẖbu śeṅ ẖbu ẖbyer","type":"prose","confidence":1}
+{"unit_id":"B35n0196_597","lb_range":["0891a09"],"text_zh":"超過言語及","text_en":"超過言語及","type":"prose","confidence":1}
+{"unit_id":"B35n0196_598","lb_range":["0891a10"],"text_zh":"che ẖu kva ẖgen ẖgu khib","text_en":"che ẖu kva ẖgen ẖgu khib","type":"prose","confidence":1}
+{"unit_id":"B35n0196_599","lb_range":["0891a11"],"text_zh":"〔一二三〕","text_en":"〔一二三〕 思量境、而無所得。言宗中（中宗）者、遠離 捐咸（損減）","type":"prose","confidence":1}
+{"unit_id":"B35n0196_600","lb_range":[],"text_zh":"思量境、而無所得。言宗中（中宗）者、遠離捐咸（損減）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_601","lb_range":["0891a12"],"text_zh":"si lyoṅ keṅ ẖgyar ẖbu śu tig: ẖgeṅ cuṅ tsoṅ ja lvan li syoṅ ham","text_en":"si lyoṅ keṅ ẖgyar ẖbu śu tig: ẖgeṅ cuṅ tsoṅ ja lvan li syoṅ ham","type":"prose","confidence":1}
+{"unit_id":"B35n0196_602","lb_range":["0891a13"],"text_zh":"及以增益二","text_en":"及以增益二","type":"prose","confidence":1}
+{"unit_id":"B35n0196_603","lb_range":["0891a14"],"text_zh":"khib yi tshiṅ iẖu: `zi","text_en":"khib yi tshiṅ iẖu: `zi","type":"prose","confidence":1}
+{"unit_id":"B35n0196_604","lb_range":["0892a01"],"text_zh":"〔一二四〕","text_en":"〔一二四〕 邊諦故、於世諦門中觀緣生內外諸如引（?）有、故","type":"prose","confidence":1}
+{"unit_id":"B35n0196_605","lb_range":[],"text_zh":"邊諦故、於世諦門中觀緣生內外諸如引（?）有、故","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_606","lb_range":["0892a02"],"text_zh":"pyan de: ko 'u śe de mon cuṅ gvan yvan śeṅ ẖdve hgve cu `zu yin yi ẖu ko","text_en":"pyan de: ko 'u śe de mon cuṅ gvan yvan śeṅ ẖdve hgve cu `zu yin yi ẖu ko","type":"prose","confidence":1}
+{"unit_id":"B35n0196_607","lb_range":["0892a03"],"text_zh":"不謗","text_en":"不謗","type":"prose","confidence":1}
+{"unit_id":"B35n0196_608","lb_range":["0892a04"],"text_zh":"hbu boṅ","text_en":"hbu boṅ","type":"prose","confidence":1}
+{"unit_id":"B35n0196_609","lb_range":["0892a05"],"text_zh":"〔一二五〕","text_en":"〔一二五〕 世法一向是无。於第〔一〕義而觀諸法超語言","type":"prose","confidence":1}
+{"unit_id":"B35n0196_610","lb_range":[],"text_zh":"世法一向是无。於第〔一〕義而觀諸法超語言","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_611","lb_range":["0892a06"],"text_zh":"śe phab 'ir hoṅ śi ẖbu: 'u deṅ 'ir ẖgi ẖgyar kvan cu phab che ẖu ẖgu ẖgeṅ:","text_en":"śe phab 'ir hoṅ śi ẖbu: 'u deṅ 'ir ẖgi ẖgyar kvan cu phab che ẖu ẖgu ẖgeṅ:","type":"prose","confidence":1}
+{"unit_id":"B35n0196_612","lb_range":["0892a07"],"text_zh":"境以无所得","text_en":"境以无所得","type":"prose","confidence":1}
+{"unit_id":"B35n0196_613","lb_range":["0892a08"],"text_zh":"heṅ yi ẖbu śu tig","text_en":"heṅ yi ẖbu śu tig","type":"prose","confidence":1}
+{"unit_id":"B35n0196_614","lb_range":["0892a09"],"text_zh":"〔一二六〕","text_en":"〔一二六〕 是故不傍（謗）出世間。是遠離二邊故名 中宗。言見","type":"prose","confidence":1}
+{"unit_id":"B35n0196_615","lb_range":[],"text_zh":"是故不傍（謗）出世間。是遠離二邊故名中宗。言見","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_616","lb_range":["0892a10"],"text_zh":"śi ko ẖbu boṅ〔chur〕śe ken: śi lvan li `zi pyan ko mye cuṅ tsoṅ: ẖgen kyan","text_en":"śi ko ẖbu boṅ〔chur〕śe ken: śi lvan li `zi pyan ko mye cuṅ tsoṅ: ẖgen kyan","type":"prose","confidence":1}
+{"unit_id":"B35n0196_617","lb_range":["0892a11"],"text_zh":"解","text_en":"解","type":"prose","confidence":1}
+{"unit_id":"B35n0196_618","lb_range":["0892a12"],"text_zh":"he","text_en":"he","type":"prose","confidence":1}
+{"unit_id":"B35n0196_619","lb_range":["0892a13"],"text_zh":"〔一二七〕","text_en":"〔一二七〕 者、以惠之眼了達世俗第一義、故名為見解。","type":"prose","confidence":1}
+{"unit_id":"B35n0196_620","lb_range":[],"text_zh":"者、以惠之眼了達世俗第一義、故名為見解。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_621","lb_range":["0892a14"],"text_zh":"ja yi hyve ci ẖgen le ẖu dar〔śe〕svog diṅ 'ir ẖgi ko mye ẖu kyen he.","text_en":"ja yi hyve ci ẖgen le ẖu dar〔śe〕svog diṅ 'ir ẖgi ko mye ẖu kyen he.","type":"prose","confidence":1}
+{"unit_id":"B35n0196_622","lb_range":["0893a01"],"text_zh":"〔一二八〕","text_en":"〔一二八〕 大乘中宗見解一卷","type":"prose","confidence":1}
+{"unit_id":"B35n0196_623","lb_range":[],"text_zh":"大乘中宗見解一卷","text_en":"","type":"prose","confidence":1}
+{"unit_id":"B35n0196_624","lb_range":["0893a02"],"text_zh":"de śin cuṅ tsoṅ kyen he 'ir〈kvon〉","text_en":"de śin cuṅ tsoṅ kyen he 'ir〈kvon〉","type":"prose","confidence":1}

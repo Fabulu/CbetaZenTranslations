@@ -1,0 +1,879 @@
+{"source_sha256":"cfdf7f70e24cdafdeea7917133cbcc89b27e786c8d2f85cb696f12322e791e36","schema":"seg-v1"}
+{"unit_id":"X21n0376_001","lb_range":["0558a01","0558a02","0558a03","0558a04","0558a05","0558a06","0558a07","0558a09","0558a10","0558a11","0558a12"],"text_zh":"餘之為義，大抵明乎疏鈔之援引，音義之異同，誘諸 來裔，識其指歸也。嘗考昔人以會粹略隨難解，用名義廣拾遺圖，交 互其說，不可悉數。然其間義有可取者亦取之，而但 直節其辭意耳。雖章句不完，亦前載之。餘故總命題 曰《蘭盆疏鈔餘義》焉。時熙寧元年歲次戊申六月望 日啟講，七月十有二日徹廗，因而再刊，又為之序云。","text_en":"No. 376 蘭盆疏鈔餘義 門人霅谿普靜寺賜紫　日新　隨聽次錄 餘之為義，大抵明乎疏鈔之援引，音義之異同，誘諸 來裔，識其指歸也。嘗考昔人以會粹略隨難解 ，用名義廣拾遺圖 ，交 互其說，不可悉數。然其間義有可取者亦取之，而但 直節其辭意耳。雖章句不完，亦前載之。餘故總命題 曰《蘭盆疏鈔餘義》焉。時熙寧元年歲次戊申六月望 日啟講，七月十有二日徹廗，因而再刊，又為之序云。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_002","lb_range":["0558a13","0558a14","0558a15"],"text_zh":"敘述鈔家之得失，及《摭華》之興起也。若然， 則序文一道，亦分兩節：先序鈔得失，從初文至「難 能」是也；後序鈔興起，從斯疏下至序終。","text_en":"注并序 敘述鈔家之得失，及《摭華》之興起也。若然， 則序文一道，亦分兩節：先序鈔得失，從初文至「難 能」是也；後序鈔興起，從斯疏下至序終。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_003","lb_range":["0558a16","0558a17","0558a18","0558a19"],"text_zh":"即古之餘杭郡，至唐改為杭州。《錢塘記》云：「昔 郡功曹華德信立此塘，以防海水。始開，募有能致 土石一斛與一千，旬日之間，來者雲集。塘未成，譎 不復取，皆棄土而去，塘以遂成焉。」","text_en":"錢塘 即古之餘杭郡，至唐改為杭州。《錢塘記》云：「昔 郡功曹華德信立此塘，以防海水。始開，募有能致 土石一斛與一千，旬日之間，來者雲集。塘未成，譎 不復取，皆棄土而去，塘以遂成焉。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_004","lb_range":["0558a20","0558a21","0558a22","0558a23"],"text_zh":"字無外，號中庸子，俗姓徐氏，錢塘人。受業於 本州淨住院，學台教於奉先源清法師。撰疏十本， 以通十經。著《閑居編》六十卷。其講道訓人，備如集 賢。吳遵路撰行狀󳬴云。","text_en":"知圓 字無外，號中庸子，俗姓徐氏，錢塘人。受業於 本州淨住院，學台教於奉先源清法師。撰疏十本， 以通十經。著《閑居編》六十卷。其講道訓人，備如集 賢。吳遵路撰行狀 󳬴 云。","type":"dialogue","confidence":1}
+{"unit_id":"X21n0376_005","lb_range":["0558a24","0558b01","0558b02"],"text_zh":"即泉郡水名。以泉江之水接于溫江，有似篆 書晉字之形，故縣名晉江，水名晉水，具如《閩王傳》 云。","text_en":"晉水 即泉郡水名。以泉江之水接于溫江，有似篆 書晉字之形，故縣名晉江，水名晉水，具如《閩王傳》 云。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_006","lb_range":["0558b03","0558b04","0558b05"],"text_zh":"字伯長，號潛叟，族揚氏，泉南人。闢帝心觀門 三車，立賢首華梵七祖。製義學文藪，箋經註論，具 如《出家稟學傳》，唯此略傳，日新出之。","text_en":"淨源 字伯長，號潛叟，族揚氏，泉南人。闢帝心觀門 三車，立賢首華梵七祖。製義學文藪，箋經註論，具 如《出家稟學傳》，唯此略傳，日新出之。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_007","lb_range":["0558b06","0558b07"],"text_zh":"有二意：一、刪削科文，重刊印板；二、刊正 鈔文，歸敬三寶等文。","text_en":"刪科重刊 有二意：一、刪削科文，重刊印板；二、刊正 鈔文，歸敬三寶等文。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_008","lb_range":["0558b08","0558b09","0558b10"],"text_zh":"記即鈔也，如《演義鈔》解《華嚴疏》，《筆削記》釋《起 信疏》。亦猶孔頴達之有《正義》，以解五經之注文，非 謂記廣鈔略耳。","text_en":"記鈔 記即鈔也，如《演義鈔》解《華嚴疏》，《筆削記》釋《起 信疏》。亦猶孔頴達之有《正義》，以解五經之注文，非 謂記廣鈔略耳。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_009","lb_range":["0558b11"],"text_zh":"既已瀆亂，且兼壅滯。","text_en":"既瀆且壅 既 已 瀆亂，且兼壅滯。 曹 輩也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_010","lb_range":[],"text_zh":"輩也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_011","lb_range":["0558b12","0558b13","0558b14"],"text_zh":"錯，置也。《論語》云：「刑罰不中，則無所錯 手足。」今謂鈔文有煩略之失，則學者雖手披玩習， 而行之不遠，故云無所錯手足矣。","text_en":"無所錯手足 錯，置也。《論語》云：「刑罰不中，則無所錯 手足。」今謂鈔文有煩略之失，則學者雖手披玩習， 而行之不遠，故云無所錯手足矣。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_012","lb_range":["0558b15","0558b16"],"text_zh":"《論語》：「子游謂吾友張也，為難能也。」包氏 注曰：「言子張容儀難及也。」","text_en":"為難能也 《論語》：「子游謂吾友張也，為難能也。」包氏 注曰：「言子張容儀難及也。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_013","lb_range":["0558b17","0558b18","0558b19"],"text_zh":"姓韓氏，并州祈縣人。先業儒，夙甞預鄉 薦，遇定惠禪師上足潛輝闍梨，剃髮受道。然其內 外典籍，皆有章句，備如本傳云。","text_en":"傳奧法師 姓韓氏，并州祈縣人。先業儒，夙甞預鄉 薦，遇定惠禪師上足潛輝闍梨，剃髮受道。然其內 外典籍，皆有章句，備如本傳云。","type":"dialogue","confidence":1}
+{"unit_id":"X21n0376_014","lb_range":["0558b20"],"text_zh":"愽通教法，軌物為師。出《婆婆論》。","text_en":"法師 愽通教法，軌物為師。出《婆婆論》。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_015","lb_range":["0558b21"],"text_zh":"常也。","text_en":"庸 常也。 馴 巡，音順也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_016","lb_range":[],"text_zh":"巡，音順也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_017","lb_range":["0558b22"],"text_zh":"撥，度也。不度荒唐蓁蕪耳。","text_en":"不撥荒蕪 撥，度也。不度荒唐蓁蕪耳。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_018","lb_range":["0558b23"],"text_zh":"輒，專也。是者筆而存之，非者削而去之。","text_en":"輒事筆削 輒，專也。是者筆而存之，非者削而去之。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_019","lb_range":["0558b24"],"text_zh":"播遷，刪去也。文煩則刪之，對上削字。","text_en":"播遷其文 播遷，刪去也。文煩則刪之，對上削字。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_020","lb_range":["0558c01"],"text_zh":"彌縫，補緝也，闕略則補之，對上筆字。","text_en":"彌縫其闕 彌縫，補緝也，闕略則補之，對上筆字。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_021","lb_range":["0558c02"],"text_zh":"諸之童幼蒙昧也。《周易》云：「童蒙求我。」","text_en":"傳諸童蒙 諸之童幼蒙昧也。《周易》云：「童蒙求我。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_022","lb_range":["0558c03"],"text_zh":"甚也。","text_en":"頗 甚也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_023","lb_range":["0558c04"],"text_zh":"劉勰云：「捃摭英華。」班固云：「英華外發。」","text_en":"采 摭英華 劉勰云：「捃摭英華。」班固云：「英華外發。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_024","lb_range":["0558c05"],"text_zh":"近也。","text_en":"庶 近也。 中庸之義 言不煩不略也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_025","lb_range":[],"text_zh":"言不煩不略也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_026","lb_range":["0558c06","0558c07"],"text_zh":"才藻識智，不敏疾也。雖言才識，學在其 中。","text_en":"才識不敏 才藻識智，不敏疾也。雖言才識，學在其 中。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_027","lb_range":["0558c08"],"text_zh":"短淺之能，仍出自見。","text_en":"短於自見 短淺之能，仍出自見。 冀 望也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_028","lb_range":[],"text_zh":"望也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_029","lb_range":["0558c09"],"text_zh":"後人病《摭華》之是非。","text_en":"後之病今 後人病《摭華》之是非。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_030","lb_range":["0558c10","0558c11"],"text_zh":"亦如無外視奧師之得失。上之二 句，語勢出《史記》。彼文云：「今之病秦，亦猶秦之視昔。」","text_en":"亦猶今之視昔 亦如無外視奧師之得失。上之二 句，語勢出《史記》。彼文云：「今之病秦，亦猶秦之視昔。」","type":"dialogue","confidence":1}
+{"unit_id":"X21n0376_031","lb_range":["0558c12","0558c13","0558c14","0558c15"],"text_zh":"皇，大也。宋，古商丘也。周武王勝紂，封商之後， 以微子受封於此，以為宋國。太祖皇帝受周之封， 由此飛龍，故以受封興王之地，為有天下之號。亦 猶唐高祖受隋之命封唐國，升帝，因號大唐國也。","text_en":"皇宋 皇，大也。宋，古商丘也。周武王勝紂，封商之後， 以微子受封於此，以為宋國。太祖皇帝受周之封， 由此飛龍，故以受封興王之地，為有天下之號。亦 猶唐高祖受隋之命封唐國，升帝，因號大唐國也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_032","lb_range":["0558c16"],"text_zh":"太祖、太宗、真宗，如玉葉聯芳也。","text_en":"三葉 太祖、太宗、真宗，如玉葉聯芳也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_033","lb_range":["0558c17"],"text_zh":"真宗法駕。","text_en":"聖駕 真宗法駕。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_034","lb_range":["0558c18"],"text_zh":"漢武祀后土，始立祀汾陰，在水之南，曰陰。","text_en":"祀汾陰 漢武祀后土，始立祀汾陰，在水之南，曰陰。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_035","lb_range":["0558c19"],"text_zh":"當辛亥年。","text_en":"之明年 當辛亥年。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_036","lb_range":["0558c20"],"text_zh":"歲星也，每年行一次。","text_en":"歲次 歲星也，每年行一次。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_037","lb_range":["0558c21","0558c22","0558c23"],"text_zh":"唐三藏云：「持業、依主與有財，相違、鄰近并帶 數，此六名為離合釋，取合應知離不成。」此法相之 學，慎勿臆說。","text_en":"六釋 唐三藏云：「持業、依主與有財，相違、鄰近并帶 數，此六名為離合釋，取合應知離不成。」此法相之 學，慎勿臆說。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_038","lb_range":["0558c24"],"text_zh":"經勝疏劣，如臣依君，故云依主。稱，去聲。","text_en":"依主受稱 經勝疏劣，如臣依君，故云依主。稱，去聲。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_039","lb_range":["0559a01","0559a02"],"text_zh":"劉勰撰。十卷。言為文用心也。大學謂之 雕龍，小學謂之雕蟲。","text_en":"文心雕龍 劉勰撰。十卷。言為文用心也。大學謂之 雕龍，小學謂之雕蟲。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_040","lb_range":["0559a03"],"text_zh":"彼明臣下上天子書曰疏。","text_en":"疏者，布也 彼明臣下上天子書曰疏。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_041","lb_range":["0559a04","0559a05","0559a06"],"text_zh":"額中曰題。撮取經文中遠之旨，以疏近 意通之。揚雄曰：「聖人之言遠如天，賢者之言近如 地。」","text_en":"撮題近意 額中曰題。撮取經文中遠之旨，以疏近 意通之。揚雄曰：「聖人之言遠如天，賢者之言近如 地。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_042","lb_range":["0559a07"],"text_zh":"後漢第十一主，諱宏。","text_en":"漢靈帝 後漢第十一主，諱宏。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_043","lb_range":["0559a08","0559a09"],"text_zh":"《漢書》，班固所撰，應劭等集解，顏師古又 注之也。","text_en":"應劭注漢 《漢書》，班固所撰，應劭等集解，顏師古又 注之也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_044","lb_range":["0559a10"],"text_zh":"故，舊也。子，爵號。","text_en":"故廬子國 故，舊也。子，爵號。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_045","lb_range":["0559a11","0559a12"],"text_zh":"以南充郡例廬江郡，以充國例。廬國，古 之國即今之州，古之附庸即今之縣也。","text_en":"其事例然 以南充郡例廬江郡，以充國例。廬國，古 之國即今之州，古之附庸即今之縣也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_046","lb_range":["0559a13"],"text_zh":"諱，避也。生有名，死避之。","text_en":"名諱 諱，避也。生有名，死避之。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_047","lb_range":["0559a14"],"text_zh":"德宗年號。","text_en":"建中 德宗年號。 會昌 武宗年號。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_048","lb_range":[],"text_zh":"武宗年號。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_049","lb_range":["0559a15","0559a16"],"text_zh":"儒禮取一歲之終為臘，釋教但一夏之終為 臘。","text_en":"僧臘 儒禮取一歲之終為臘，釋教但一夏之終為 臘。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_050","lb_range":["0559a17","0559a18"],"text_zh":"隔朝曰追諡，易名也；諡，示也。亦生平善惡之 行。","text_en":"追 諡 隔朝曰追 諡 ，易名也； 諡 ，示也。亦生平善惡之 行。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_051","lb_range":["0559a19"],"text_zh":"平昔所居。","text_en":"平居 平昔所居。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_052","lb_range":["0559a20"],"text_zh":"如《助脩記》辨之。","text_en":"終南圭峯 如《助脩記》辨之。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_053","lb_range":["0559a21"],"text_zh":"文出《樂記》。《摭華》依劉勰引文耳。","text_en":"作者曰聖等 文出《樂記》。《摭華》依劉勰引文耳。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_054","lb_range":["0559a22"],"text_zh":"文出《論語》。","text_en":"若聖下 文出《論語》。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_055","lb_range":["0559a23","0559a24"],"text_zh":"包曰：「老彭，殷賢大夫，好述古事。我 若老彭，但述之耳。」","text_en":"竊比於我老彭 包曰：「老彭，殷賢大夫，好述古事。我 若老彭，但述之耳。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_056","lb_range":["0559b01","0559b02","0559b03","0559b04"],"text_zh":"昔吾稟以清凉本疏箋于《華嚴》，今又錄 圭峯疏箋注于此經者，蓋遵一家注辭，皆附于經 論觀法之下。夫然，則不獨使其學者臨文到旨，抑 亦安置教藏，倫例有緒與。","text_en":"錄疏注經 昔吾稟以清凉本疏箋于《華嚴》，今又錄 圭峯疏箋注于此經者，蓋遵一家注辭，皆附于經 論觀法之下。夫然，則不獨使其學者臨文到旨，抑 亦安置教藏，倫例有緒與。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_057","lb_range":["0559b05","0559b06"],"text_zh":"後漢孝章帝於白虎殿會群儒講論五經 同異所作也。班固，字子堅，奉詔纂其事奏，凡十卷。","text_en":"白虎通 後漢孝章帝於白虎殿會群儒講論五經 同異所作也。班固，字子堅，奉詔纂其事奏，凡十卷。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_058","lb_range":["0559b07"],"text_zh":"元氣始萌。","text_en":"太初 元氣始萌。 太始 形氣始端。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_059","lb_range":[],"text_zh":"形氣始端。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_060","lb_range":["0559b08","0559b09"],"text_zh":"質之始也。廣明有五，略辨則三，或謂《摭華》誤 者，淺識狂言，何足信哉。","text_en":"太素 質之始也。廣明有五，略辨則三，或謂《摭華》誤 者，淺識狂言，何足信哉。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_061","lb_range":["0559b10"],"text_zh":"徐整曰：「陽清為天，陰濁為地。」","text_en":"清濁既分 徐整曰：「陽清為天，陰濁為地。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_062","lb_range":["0559b11","0559b12"],"text_zh":"日月為太陽太陰之精，曜謂星曜，即五 星、二十八宿等。","text_en":"精出曜布 日月為太陽太陰之精，曜謂星曜，即五 星、二十八宿等。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_063","lb_range":["0559b13","0559b14"],"text_zh":"度，待洛切。施，去聲。謂品度萬物，施與生 長。","text_en":"度物施生 度，待洛切。施，去聲。謂品度萬物，施與生 長。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_064","lb_range":["0559b15"],"text_zh":"適猶近也。","text_en":"適今 適猶近也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_065","lb_range":["0559b16"],"text_zh":"經，常也。天有常明。","text_en":"天之經 經，常也。天有常明。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_066","lb_range":["0559b17"],"text_zh":"義，利也。地有常利。","text_en":"地之義 義，利也。地有常利。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_067","lb_range":["0559b18"],"text_zh":"宋均注：援引神明契合之事。","text_en":"援神契 宋均注：援引神明契合之事。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_068","lb_range":["0559b19"],"text_zh":"言賴耶識中已具孝矣。","text_en":"有情則識神無始 言賴耶識中 已 具孝矣。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_069","lb_range":["0559b20","0559b21"],"text_zh":"摩，滅也。器界成而復壞，故云相 摩。","text_en":"器世則成壞相摩 摩，滅也。器界成而復壞，故云相 摩。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_070","lb_range":["0559b22"],"text_zh":"言地能懷藏任持，萬物交更遷易也。","text_en":"懷任交易 言地能懷藏任持，萬物交更遷易也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_071","lb_range":["0559b23"],"text_zh":"《禮記》篇名。記其祭祀薦羞之義。","text_en":"祭義 《禮記》篇名。記其祭祀薦羞之義。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_072","lb_range":["0559b24"],"text_zh":"姓曾，名參，字子輿。","text_en":"曾子 姓曾，名參，字子輿。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_073","lb_range":["0559c01"],"text_zh":"猶云無始終也。","text_en":"無朝夕 猶云無始終也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_074","lb_range":["0559c02"],"text_zh":"始混沌出，援神契，塞天地，出祭義。","text_en":"所出不同 始混沌出，援神契，塞天地，出祭義。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_075","lb_range":["0559c03"],"text_zh":"豎深之義。","text_en":"共成一義 豎深之義。 孝弟 悌音。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_076","lb_range":[],"text_zh":"悌音。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_077","lb_range":["0559c04"],"text_zh":"爵稱也。王者，父天母之子也。","text_en":"天子 爵稱也。王者，父天 母之子也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_078","lb_range":["0559c05"],"text_zh":"侯，君也，謂列國之君。","text_en":"諸侯 侯，君也，謂列國之君。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_079","lb_range":["0559c06","0559c07"],"text_zh":"卿，章也。明善理大，扶進人也。章九卿二十 七大夫，出王制。今合辨之，以孝行同故。","text_en":"卿大夫 卿，章也。明善理大，扶進人也。章九卿二十 七大夫，出王制。今合辨之，以孝行同故。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_080","lb_range":["0559c08"],"text_zh":"事也。任事之稱。","text_en":"士 事也。任事之稱。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_081","lb_range":["0559c09"],"text_zh":"庶眾，謂天下眾人也。","text_en":"庶人 庶眾，謂天下眾人也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_082","lb_range":["0559c10","0559c11"],"text_zh":"《孝經疏》云：「或有目患不能 及於孝者，未之有也。」","text_en":"而患不及者，未之有也 《孝經疏》云：「或有目患不能 及於孝者，未之有也。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_083","lb_range":["0559c12","0559c13"],"text_zh":"河圖曰：「舜以大尉即位，與三公臨觀于 河，黃龍五釆負圖出舜前。」","text_en":"天龍負圖 河圖曰：「舜以大尉即位，與三公臨觀于 河，黃龍五釆負圖出舜前。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_084","lb_range":["0559c14","0559c15"],"text_zh":"宋書云：「天錫禹書，神龜出洛，有數九法， 即洪範九疇是也。」","text_en":"地龜出書 宋書云：「天錫禹書，神龜出洛，有數九法， 即洪範九疇是也。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_085","lb_range":["0559c16","0559c17"],"text_zh":"孽，災也。《淮南子》云：「堯射十日而去九留 一。」《尚書》：「惟德動於天，故以禍為福。」","text_en":"天孽消滅 孽，災也。《淮南子》云：「堯射十日而去九留 一。」《尚書》：「惟德動於天，故以禍為福。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_086","lb_range":["0559c18","0559c19"],"text_zh":"《唐書》曰：「睿宗即位日，景雲現。」景，瑞也。又 德宗時，澤州刺史李德上慶雲圖。","text_en":"景雲出游 《唐書》曰：「睿宗即位日，景雲現。」景，瑞也。又 德宗時，澤州 刺 史李德上慶雲圖。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_087","lb_range":["0559c20"],"text_zh":"如察順盧感不生連理。","text_en":"澤林茂 如察順盧感不生連理。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_088","lb_range":["0559c21"],"text_zh":"如郭巨埋子全母，天賜黃金也。","text_en":"浮珍舒 如郭巨埋子全母，天賜黃金也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_089","lb_range":["0559c22","0559c23"],"text_zh":"劉󴕖祖母冬思堇，󴕖哭動，感堇滿地。《爾雅》 云：「苦堇，即蔡也。」","text_en":"恠草秀 劉 󴕖 祖母冬思堇， 󴕖 哭動，感堇滿地。《爾雅》 云：「苦堇，即蔡也。」","type":"dialogue","confidence":1}
+{"unit_id":"X21n0376_090","lb_range":["0559c24","0560a01"],"text_zh":"王祥母思魚，祥臥氷上，水開，感雙鯉躍 出。","text_en":"水出神魚 王祥母思魚，祥臥氷上，水開，感雙鯉躍 出。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_091","lb_range":["0560a02"],"text_zh":"顯，明也。《禮》云：「明則有禮樂，幽則有鬼神。」","text_en":"幽顯 顯，明也。《禮》云：「明則有禮樂，幽則有鬼神。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_092","lb_range":["0560a03"],"text_zh":"儀，像也。分天地之形像。","text_en":"二儀 儀，像也。分天地之形像。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_093","lb_range":["0560a04"],"text_zh":"《孝經．序》云：「因心之孝已萌。」","text_en":"因心之孝 《孝經．序》云：「因心之孝 已 萌。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_094","lb_range":["0560a05"],"text_zh":"《孝經》云：「資於事父以事君，而敬同。」","text_en":"資敬之道 《孝經》云：「資於事父以事君，而敬同。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_095","lb_range":["0560a06"],"text_zh":"《文選》云：「愽通經史謂之儒。」","text_en":"儒 《文選》云：「愽通經史謂之儒。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_096","lb_range":["0560a07"],"text_zh":"仁、義、禮、智、信為萬世常行之道。","text_en":"五常 仁、義、禮、智、信為萬世常行之道。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_097","lb_range":["0560a08"],"text_zh":"平呼，語絕之辭。","text_en":"本與 平呼，語絕之辭。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_098","lb_range":["0560a09"],"text_zh":"〈祭義〉云：「身也者，父母遺體也。」","text_en":"形質由父母而生 〈祭義〉云：「身也者，父母遺體也。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_099","lb_range":["0560a10"],"text_zh":"此約大乘戒定慧三。","text_en":"三學 此約大乘戒定慧三。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_100","lb_range":["0560a11","0560a12"],"text_zh":"亦《禮記》篇名。統猶本也，以其記祭祀齋戒之 本。","text_en":"祭統 亦《禮記》篇名。統猶本也，以其記祭祀齋戒之 本。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_101","lb_range":["0560a13"],"text_zh":"漢愽土劉熈撰。","text_en":"釋名 漢愽土劉熈撰。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_102","lb_range":["0560a14","0560a15"],"text_zh":"周公作，訓成王也。善行則善諡，如云翼 善傳聖曰堯；惡行則惡諡，亦如殘義損善曰紂。","text_en":"周書 諡 法 周公作，訓成王也。善行則善 諡 ，如云翼 善傳聖曰堯；惡行則惡 諡 ，亦如殘義損善曰紂。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_103","lb_range":["0560a16"],"text_zh":"爾，近；雅，正也。近正之言，故曰爾雅。","text_en":"爾雅 爾，近；雅，正也。近正之言，故曰爾雅。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_104","lb_range":["0560a17","0560a18"],"text_zh":"夏天也。郭氏云：「陽氣皓肝曰昊。春曰蒼天，秋 曰旻天，冬曰上天。」","text_en":"昊天 夏天也。郭氏云：「陽氣皓肝曰昊。春曰蒼天，秋 曰旻天，冬曰上天。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_105","lb_range":["0560a19","0560a20"],"text_zh":"《毛詩正義》云：「東漢鄭玄取毛氏詁訓所不 盡及同異者，續之為注解，謂之箋。箋，薦成毛意。」","text_en":"鄭氏箋 《毛詩正義》云：「東漢鄭玄取毛氏詁訓所不 盡及同異者，續之為注解，謂之箋。箋，薦成毛意。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_106","lb_range":["0560a21"],"text_zh":"或云：「過顯曰罪，隱曰釁也。」","text_en":"罪釁 或云：「過顯曰罪，隱曰釁也。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_107","lb_range":["0560a22"],"text_zh":"牛無角曰童，禾晚生曰穉，人幼小以之。","text_en":"童穉 牛無角曰童，禾晚生曰穉，人幼小以之。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_108","lb_range":["0560a23"],"text_zh":"息浪切也。","text_en":"喪亡 息浪切也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_109","lb_range":["0560a24","0560b01"],"text_zh":"延，猶及也。父亡，答書云上延先考。母亡， 延先妣。","text_en":"上延考妣 延，猶及也。父亡，答書云上延先考。母亡， 延先妣。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_110","lb_range":["0560b02","0560b03"],"text_zh":"謂悽然感愴。霜露降，萬物凋。言父母同萬物 之殞。感時念親。","text_en":"悽愴 謂悽然感愴。霜露降，萬物凋。言父母同萬物 之殞。感時念親。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_111","lb_range":["0560b04"],"text_zh":"沾，潤也。小雨曰濡。","text_en":"濡 沾，潤也。小雨曰濡。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_112","lb_range":["0560b05","0560b06"],"text_zh":"驚懼貌。雨露濡生萬物，孝子欲父母同萬物 乘春而生，故云如將見之。","text_en":"𪫟 惕 驚懼貌。雨露濡生萬物，孝子欲父母同萬物 乘春而生，故云如將見之。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_113","lb_range":["0560b07"],"text_zh":"八節如下，序謂四時。","text_en":"節序 八節如下，序謂四時。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_114","lb_range":["0560b08"],"text_zh":"十卷，當時門弟子所集，王肅注之。","text_en":"家語 十卷，當時門弟子所集，王肅注之。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_115","lb_range":["0560b09","0560b10"],"text_zh":"子，慈也，以慈愛洽人。姓孔，名丘，字仲尼。哀公 二十一年生，襄公十一年卒，壽七十三。","text_en":"孔子 子，慈也，以慈愛洽人。姓孔，名丘，字仲尼。哀公 二十一年生，襄公十一年卒，壽七十三。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_116","lb_range":["0560b11"],"text_zh":"適，往也。","text_en":"適齊 適，往也。 中路 去聲，中。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_117","lb_range":[],"text_zh":"去聲，中。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_118","lb_range":["0560b12"],"text_zh":"御車者即顏󴕢。","text_en":"謂僕 御車者即顏 󴕢 。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_119","lb_range":["0560b13"],"text_zh":"擁，持也。鎌，刈禾刀。帶索刈之。","text_en":"擁鎌帶索 擁，持也。鎌，刈禾刀。帶索刈之。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_120","lb_range":["0560b14","0560b15"],"text_zh":"亦作縗。以六寸之布，廣四寸，帖於心前。 衰之言悲，權也。","text_en":"哭而不衰 亦作縗。以六寸之布，廣四寸，帖於心前。 衰之言悲，權也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_121","lb_range":["0560b16"],"text_zh":"上吾自稱，猶云我也。姓虞，名丘，字吾子。","text_en":"吾丘吾子 上吾自稱，猶云我也。姓虞，名丘，字吾子。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_122","lb_range":["0560b17"],"text_zh":"旋音。","text_en":"後還 旋音。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_123","lb_range":["0560b18"],"text_zh":"即齊景公，有馬千駟，是謂驕奢耳。","text_en":"齊君 即齊景公，有馬千駟，是謂驕奢耳。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_124","lb_range":["0560b19"],"text_zh":"識音志。令小子記其言也。","text_en":"小子識之 識音志。令小子記其言也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_125","lb_range":["0560b20"],"text_zh":"十中有三，辭歸養親。","text_en":"十有三 十中有三，辭歸養親。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_126","lb_range":["0560b21"],"text_zh":"姓檀名弓，由善於禮，故以名篇。","text_en":"檀弓 姓檀名弓，由善於禮，故以名篇。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_127","lb_range":["0560b22","0560b23"],"text_zh":"鄭箋注云：「言君無常，以君子有四 方志耳。」","text_en":"東西南北之人 鄭箋注云：「言君無常，以君子有四 方志耳。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_128","lb_range":["0560b24"],"text_zh":"言慎敬也。","text_en":"不登壟 言慎敬也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_129","lb_range":["0560c01"],"text_zh":"墓，地也，即墓之限域。","text_en":"塋域 墓，地也，即墓之限域。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_130","lb_range":["0560c02","0560c03"],"text_zh":"如孝子顏烏，東陽人。父亡，負土為墳。感 郡烏，郵土助之。烏口中血出，遂名其縣為義烏耳。","text_en":"負士為墳 如孝子顏烏，東陽人。父亡，負土為墳。感 郡烏，郵土助之。烏口中血出，遂名其縣為義烏耳。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_131","lb_range":["0560c04","0560c05"],"text_zh":"《通俗》云：「罔象好食亡者肝腦，墓傍植栢 樹，墓前立石虎，以驅罔象也。」","text_en":"植栢成列 《通俗》云：「罔象好食亡者肝腦，墓傍植栢 樹，墓前立石虎，以驅罔象也。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_132","lb_range":["0560c06"],"text_zh":"梁元帝撰，凡三十卷。","text_en":"孝德傳 梁元帝撰，凡三十卷。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_133","lb_range":["0560c07"],"text_zh":"廬，捿寄也。墳之次舍。","text_en":"廬于墳次 廬，捿寄也。墳之次舍。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_134","lb_range":["0560c08"],"text_zh":"古者三十娶妻，而子孫可繼家業。","text_en":"三十年為世 古者三十娶妻，而子孫可繼家業。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_135","lb_range":["0560c09"],"text_zh":"薄也。春物薄少。","text_en":"礿 薄也。春物薄少。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_136","lb_range":["0560c10"],"text_zh":"第，音諦也。諦審其物，可祭先祖。","text_en":"禘 第，音諦也。諦審其物，可祭先祖。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_137","lb_range":["0560c11"],"text_zh":"新也，甞新糓也。","text_en":"甞 新也，甞新糓也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_138","lb_range":["0560c12"],"text_zh":"眾也。冬物眾多。","text_en":"烝 眾也。冬物眾多。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_139","lb_range":["0560c13"],"text_zh":"例烝甞包礿禘也。","text_en":"包冬夏 例烝甞包礿禘也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_140","lb_range":["0560c14"],"text_zh":"損則祭殺牲命，益乃設供󳫠苦。","text_en":"損益 損則祭殺牲命，益乃設供 󳫠 苦。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_141","lb_range":["0560c15","0560c16"],"text_zh":"一、五停心，二、別相念，三、總相念，四、煖，五、頂，六、 忍，七、世第一。","text_en":"七賢 一、五停心，二、別相念，三、總相念，四、煖，五、頂，六、 忍，七、世第一。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_142","lb_range":["0560c17","0560c18"],"text_zh":"一、隨信行，二、隨法行，三、信解，四、見得，五、身證 阿那含，六、時解脫羅漢，七、不時解脫羅漢。","text_en":"七聖 一、隨信行，二、隨法行，三、信解，四、見得，五、身證 阿那含，六、時解脫羅漢，七、不時解脫羅漢。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_143","lb_range":["0560c19"],"text_zh":"十住初賢，十行中賢，十向上賢。","text_en":"三賢 十住初賢，十行中賢，十向上賢。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_144","lb_range":["0560c20","0560c21"],"text_zh":"初歡喜地，二離垢，三發光，四𦦨慧，五難勝，六 現前，七遠行，八不動，九善慧，十法雲。","text_en":"十聖 初歡喜地，二離垢，三發光，四 𦦨 慧，五難勝，六 現前，七遠行，八不動，九善慧，十法雲。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_145","lb_range":["0560c22"],"text_zh":"名蔣，定公之子。","text_en":"魯哀公 名蔣，定公之子。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_146","lb_range":["0560c23"],"text_zh":"知子路之好勇，測顏回之不愚。","text_en":"測物之性情 知子路之好勇，測顏回之不愚。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_147","lb_range":["0560c24"],"text_zh":"大網之繩曰綱，小網之繩曰紀。","text_en":"紀 大網之繩曰綱，小網之繩曰紀。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_148","lb_range":["0561a01"],"text_zh":"表望。","text_en":"望 表望。 帝王 五帝三王。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_149","lb_range":[],"text_zh":"五帝三王。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_150","lb_range":["0561a02"],"text_zh":"有賢者，天下安。無其人，宗庿危。","text_en":"以之安危 有賢者，天下安。無其人，宗庿危。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_151","lb_range":["0561a03"],"text_zh":"接上根以六度，測中下以諦緣。","text_en":"測眾生之根性 接上根以六度，測中下以諦緣。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_152","lb_range":["0561a04"],"text_zh":"通而言之，則大聖所化之境也。","text_en":"佛土 通而言之，則大聖所化之境也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_153","lb_range":["0561a05"],"text_zh":"對上五帝三王。","text_en":"三世諸佛 對上五帝三王。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_154","lb_range":["0561a06","0561a07"],"text_zh":"有師範則三藏教法與，無其人則五分 法身喪。","text_en":"以之揚化 有師範則三藏教法與，無其人則五分 法身喪。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_155","lb_range":["0561a08"],"text_zh":"一日之微功，致生天之巨益。","text_en":"微功致巨益 一日之微功，致生天之巨益。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_156","lb_range":["0561a09"],"text_zh":"盆供之少善，破劇苦之大惡。","text_en":"少善破大惡 盆供之少善，破劇苦之大惡。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_157","lb_range":["0561a10"],"text_zh":"色、香、觸。","text_en":"但三塵 色、香、觸。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_158","lb_range":["0561a11","0561a12"],"text_zh":"實，體也。四名四體，如土田分隔，區以別 矣。","text_en":"名實區別 實，體也。四名四體，如土田分隔，區以別 矣。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_159","lb_range":["0561a13"],"text_zh":"三寶皆尊皆重。","text_en":"三尊 三寶皆尊皆重。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_160","lb_range":["0561a14"],"text_zh":"堯帝姓伊祁，名放勳，始封於唐地。","text_en":"唐 堯帝姓伊祁，名放勳，始封於唐地。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_161","lb_range":["0561a15"],"text_zh":"舜帝姓姚，名重華，始封於虞地。","text_en":"虞 舜帝姓姚，名重華，始封於虞地。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_162","lb_range":["0561a16"],"text_zh":"禹王姓姒，名文命，始封於夏，今銀夏州是也。","text_en":"夏 禹王姓姒，名文命，始封於夏，今銀夏州是也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_163","lb_range":["0561a17"],"text_zh":"姓子，名履，始封於商丘。或云殷、湯，皆國號也。","text_en":"商 姓子，名履，始封於商丘。或云殷、湯，皆國號也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_164","lb_range":["0561a18"],"text_zh":"姓姬名昌，始封於岐周之地。","text_en":"周 姓姬名昌，始封於岐周之地。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_165","lb_range":["0561a19"],"text_zh":"注《爾雅》。","text_en":"李巡 注《爾雅》。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_166","lb_range":["0561a20","0561a21"],"text_zh":"襲，承也。言二帝三王各立其名，不相承 順也。","text_en":"示不相襲 襲，承也。言二帝三王各立其名，不相承 順也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_167","lb_range":["0561a22"],"text_zh":"有《爾雅義疏》十卷。","text_en":"孫炎 有《爾雅義疏》十卷。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_168","lb_range":["0561a23"],"text_zh":"更，平聲，改也。","text_en":"更始 更，平聲，改也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_169","lb_range":["0561a24"],"text_zh":"《論語．序》云：「兼講齊說。」","text_en":"兼，講 《論語．序》云：「兼講齊說。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_170","lb_range":["0561b01"],"text_zh":"張揖撰，凡四卷。","text_en":"廣雅 張揖撰，凡四卷。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_171","lb_range":["0561b02"],"text_zh":"陳大道，告天下。","text_en":"大詰 陳大道，告天下。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_172","lb_range":["0561b03"],"text_zh":"《語》云：「見賢思齊。」","text_en":"思齊 《語》云：「見賢思齊。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_173","lb_range":["0561b04","0561b05"],"text_zh":"銘，名也。述其功業，使可稱名而期於不朽，故 刻諸󳬴石也。","text_en":"󳬴 銘 銘，名也。述其功業，使可稱名而期於不朽，故 刻諸 󳬴 石也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_174","lb_range":["0561b06"],"text_zh":"唐第十五帝，名印，穆宗之子。","text_en":"文宗 唐第十五帝，名印，穆宗之子。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_175","lb_range":["0561b07"],"text_zh":"降誕之辰，猶今之乾元節。","text_en":"慶成節 降誕之辰，猶今之乾元節。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_176","lb_range":["0561b08"],"text_zh":"五十知天命。","text_en":"知命 五十知天命。 耳順 六十而耳順。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_177","lb_range":[],"text_zh":"六十而耳順。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_178","lb_range":["0561b09","0561b10"],"text_zh":"上三字皆訓老也。耊，迭音，䥫也。老，人 身黑如鐵。","text_en":"耆、艾、耊，老也 上三字皆訓老也。耊，迭音， 䥫 也。老，人 身黑如鐵。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_179","lb_range":["0561b11"],"text_zh":"紀國寺慧淨三藏亦有疏文，今也則亡。","text_en":"古疏雖多 紀國寺慧淨三藏亦有疏文，今也則亡。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_180","lb_range":["0561b12","0561b13"],"text_zh":"舛，訛也。如下疏云：「三藏錯會」，故有異釋是也。 的，當也。疏又引三藏云：「物華四事，盆美八珍也。」","text_en":"舛的 舛，訛也。如下疏云：「三藏錯會」，故有異釋是也。 的，當也。疏又引三藏云：「物華四事，盆美八珍也。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_181","lb_range":["0561b14"],"text_zh":"下叶機宜，上符義理。","text_en":"叶機符理 下叶機宜，上符義理。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_182","lb_range":["0561b15"],"text_zh":"玄籍教風。","text_en":"玄風 玄籍教風。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_183","lb_range":["0561b16"],"text_zh":"肅，敬。服，從。尤，甚也。","text_en":"敬服尤深 肅，敬。服，從。尤，甚也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_184","lb_range":["0561b17"],"text_zh":"《禮記》緯書名也。","text_en":"含文嘉 《禮記》緯書名也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_185","lb_range":["0561b18"],"text_zh":"七尺曰仞。","text_en":"三仞 七尺曰仞。 半之 一仞半。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_186","lb_range":[],"text_zh":"一仞半。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_187","lb_range":["0561b19"],"text_zh":"遭猶丁也。","text_en":"遭母憂 遭猶丁也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_188","lb_range":["0561b20"],"text_zh":"刻檀彫像，圖𦘕形容。","text_en":"刻像圖形 刻檀彫像，圖 𦘕 形容。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_189","lb_range":["0561b21"],"text_zh":"西竺以貝多葉傍行而寫。","text_en":"貝多 西竺以貝多葉傍行而寫。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_190","lb_range":["0561b22"],"text_zh":"朱士衡燒經，盡成黃卷赤軸。","text_en":"黃卷 朱士衡燒經，盡成黃卷赤軸。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_191","lb_range":["0561b23"],"text_zh":"下鈔具釋。","text_en":"教理行果 下鈔具釋。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_192","lb_range":["0561b24"],"text_zh":"四果四向。","text_en":"八輩 四果四向。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_193","lb_range":["0561c01"],"text_zh":"資糧、加行、見道、脩道、無學。","text_en":"五位 資糧、加行、見道、脩道、無學。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_194","lb_range":["0561c02","0561c03"],"text_zh":"一、小乘教；二、大乘始教；三、終教；四、頓教；五、圓 教。","text_en":"五教 一、小乘教；二、大乘始教；三、終教；四、頓教；五、圓 教。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_195","lb_range":["0561c04","0561c05"],"text_zh":"此一句刊牒《摭華》，彼以法是佛言，僧 是佛子，故但歸佛寶耳。","text_en":"唯歸佛寶者 此一句刊牒《摭華》，彼以法是佛言，僧 是佛子，故但歸佛寶耳。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_196","lb_range":["0561c06"],"text_zh":"《孝衡鈔》并舊鈔諸文，皆例歸三寶。","text_en":"同遵古訓 《孝衡鈔》并舊鈔諸文，皆例歸三寶。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_197","lb_range":["0561c07"],"text_zh":"貫於下，謂法、僧二寶。","text_en":"稽首 貫於下，謂法、僧二寶。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_198","lb_range":["0561c08"],"text_zh":"蒙於上，亦佛法二寶。","text_en":"冥加 蒙於上，亦佛法二寶。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_199","lb_range":["0561c09"],"text_zh":"即孔安國作傳以注之。","text_en":"注云 即孔安國作傳以注之。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_200","lb_range":["0561c10"],"text_zh":"言也。郭璞云：「相問訊。」","text_en":"問訊 言也。郭璞云：「相問訊。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_201","lb_range":["0561c11"],"text_zh":"律鈔以尼弱故長跪，僧彊故互跪。","text_en":"長跪 律鈔以尼弱故長跪，僧彊故互跪。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_202","lb_range":["0561c12"],"text_zh":"祝音。","text_en":"屬 祝音。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_203","lb_range":["0561c13"],"text_zh":"舉三界之豎，包大千之橫。","text_en":"舉豎而包橫 舉三界之豎，包大千之橫。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_204","lb_range":["0561c14"],"text_zh":"悲故不住涅槃，智故不住生死。","text_en":"悲智兼運 悲故不住涅槃，智故不住生死。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_205","lb_range":["0561c15"],"text_zh":"梵云阿僧祇劫臘波，此云無數時分。","text_en":"三無數劫 梵云阿僧祇劫臘波，此云無數時分。","type":"dialogue","confidence":1}
+{"unit_id":"X21n0376_206","lb_range":["0561c16","0561c17","0561c18"],"text_zh":"一、如來，二、應供，三、正徧知，四、明行足，五、 善逝，六、世間解，七、無上士調御丈夫，八、天人師，九、 佛，十、世尊。","text_en":"十種通號 一、如來，二、應供，三、正徧知，四、明行足，五、 善逝，六、世間解，七、無上士調御丈夫，八、天人師，九、 佛，十、世尊。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_207","lb_range":["0561c19"],"text_zh":"即彌沙塞部五段之文。","text_en":"五分律 即彌沙塞部五段之文。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_208","lb_range":["0561c20","0561c21"],"text_zh":"轉五陰成五分法身，轉色陰成戒身， 受成定，想成慧，行成解脫，識成解脫知見。","text_en":"立五分 法身 轉五陰成五分法身，轉色陰成戒身， 受成定，想成慧，行成解脫，識成解脫知見。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_209","lb_range":["0561c22"],"text_zh":"閃音。","text_en":"睒 閃音。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_210","lb_range":["0561c23","0561c24","0562a01"],"text_zh":"以睒子著鹿皮衣，入山取水，麋鹿相隨。值 王出獵，引弓射鹿，誤中睒子，故云射殺。乃至父母 禱願，帝釋與藥，睒活如。具如經云。射，音石。","text_en":"射殺等 以睒子著鹿皮衣，入山取水，麋鹿相隨。值 王出獵，引弓射鹿，誤中睒子，故云射殺。乃至父母 禱願，帝釋與藥，睒活如。具如經云。射，音石。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_211","lb_range":["0562a02"],"text_zh":"下卷引之。","text_en":"雜寶藏經 下卷引之。 兜率 此云知足。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_212","lb_range":[],"text_zh":"此云知足。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_213","lb_range":["0562a03"],"text_zh":"具云閻浮提，此翻勝金洲。","text_en":"閻浮 具云閻浮提，此翻勝金洲。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_214","lb_range":["0562a04"],"text_zh":"八忍、八智、九無間、九解脫。","text_en":"三十四心 八忍、八智、九無間、九解脫。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_215","lb_range":["0562a05","0562a06"],"text_zh":"武王以萬兵伐紂，周公亦以萬人為舞而祭 武王。","text_en":"萬舞 武王以萬兵伐紂，周公亦以萬人為舞而祭 武王。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_216","lb_range":["0562a07","0562a08"],"text_zh":"匱，竭也。箋云：「孝子之心，非有 竭極之時，長以與汝之族類。」","text_en":"孝子不匱，永錫爾類 匱，竭也。箋云：「孝子之心，非有 竭極之時，長以與汝之族類。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_217","lb_range":["0562a09"],"text_zh":"自酬恩反妄之淺階，密意歸真之深。","text_en":"自淺階深 自酬恩反妄之淺階，密意歸真之深。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_218","lb_range":["0562a10"],"text_zh":"誘引掖持也。毛萇云：「故作諸以誘掖其君。」","text_en":"誘掖 誘引掖持也。毛萇云：「故作諸以誘掖其君。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_219","lb_range":["0562a11"],"text_zh":"養親色難。","text_en":"生前色養 養親色難。 沒後薦追 薦拔追思。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_220","lb_range":[],"text_zh":"薦拔追思。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_221","lb_range":["0562a12"],"text_zh":"試，用也。未敢正說，且試傍論。","text_en":"今試論之 試，用也。未敢正說，且試傍論。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_222","lb_range":["0562a13"],"text_zh":"平居必盡其敬。","text_en":"居則致其敬 平居必盡其敬。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_223","lb_range":["0562a14"],"text_zh":"就養能致其歡。","text_en":"養則致其樂 就養能致其歡。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_224","lb_range":["0562a15"],"text_zh":"色不滿容，行不正履。","text_en":"病則致其憂 色不滿容，行不正履。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_225","lb_range":["0562a16"],"text_zh":"擗踊哭泣，盡其哀情。","text_en":"喪則致其哀 擗踊哭泣，盡其哀情。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_226","lb_range":["0562a17"],"text_zh":"齋戒沐浴，明發不昧。","text_en":"祭則致其嚴 齋戒沐浴，明發不昧。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_227","lb_range":["0562a18"],"text_zh":"當莊敬以臨下。","text_en":"居上不驕 當莊敬以臨下。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_228","lb_range":["0562a19"],"text_zh":"當恭謹以奉上。","text_en":"為下不亂 當恭謹以奉上。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_229","lb_range":["0562a20"],"text_zh":"醜，眾也。爭，競也。當知順以從眾。","text_en":"仕醜不爭 醜，眾也。爭，競也。當知順以從眾。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_230","lb_range":["0562a21"],"text_zh":"危亡。","text_en":"則亡 危亡。 則刑 刑罸及身。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_231","lb_range":[],"text_zh":"刑罸及身。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_232","lb_range":["0562a22"],"text_zh":"丘刃相加。","text_en":"則兵 丘刃相加。 三者不除 驕亂爭。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_233","lb_range":[],"text_zh":"驕亂爭。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_234","lb_range":["0562a23"],"text_zh":"牛、羊、豕。","text_en":"三牲 牛、羊、豕。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_235","lb_range":["0562a24"],"text_zh":"佐，助也。疏者，經之助也。","text_en":"佐成 佐，助也。疏者，經之助也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_236","lb_range":["0562b01"],"text_zh":"反用，述者曰明。","text_en":"明之曰述 反用，述者曰明。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_237","lb_range":["0562b02","0562b03"],"text_zh":"無外以前云釋迦尊是歸本師，今云眾 聖乃十方佛，故云異解。","text_en":"無煩異解 無外以前云釋迦尊是歸本師，今云眾 聖乃十方佛，故云異解。","type":"dialogue","confidence":1}
+{"unit_id":"X21n0376_238","lb_range":["0562b04"],"text_zh":"分限之年，形段之身。","text_en":"分段苦 分限之年，形段之身。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_239","lb_range":["0562b05","0562b06"],"text_zh":"變麤身為細質，對上形段之身；易短劫為 長齡，對上分限之年。","text_en":"變易苦 變麤身為細質，對上形段之身；易短劫為 長齡，對上分限之年。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_240","lb_range":["0562b07"],"text_zh":"叔孫通定之。","text_en":"漢制 叔孫通定之。 皇帝 因秦始皇稱之。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_241","lb_range":[],"text_zh":"因秦始皇稱之。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_242","lb_range":["0562b08"],"text_zh":"正也。","text_en":"嫡 正也。 世子 可以繼世。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_243","lb_range":[],"text_zh":"可以繼世。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_244","lb_range":["0562b09"],"text_zh":"《俱舍》云：「金銀銅鐵輪，一二三四洲。」","text_en":"金輪王 《俱舍》云：「金銀銅鐵輪，一二三四洲。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_245","lb_range":["0562b10","0562b11"],"text_zh":"此云眾主，亦名摩訶波闍波提，此飜大愛 道。不云摩耶者，以佛生七日，摩耶命終故。","text_en":"嬌曇彌 此云眾主，亦名摩訶波闍波提，此飜大愛 道。不云摩耶者，以佛生七日，摩耶命終故。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_246","lb_range":["0562b12"],"text_zh":"此云妙德。","text_en":"迦毗羅 此云妙德。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_247","lb_range":["0562b13"],"text_zh":"姓公名明儀，曾子門人。","text_en":"公明儀 姓公名明儀，曾子門人。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_248","lb_range":["0562b14"],"text_zh":"有德行之稱也，即公明儀召師為夫子也。","text_en":"夫子 有德行之稱也，即公明儀召師為夫子也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_249","lb_range":["0562b15"],"text_zh":"小也。","text_en":"稍 小也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_250","lb_range":["0562b16","0562b17"],"text_zh":"心若思感，則孝存焉；心若衰 滅，則孝止息。","text_en":"心感則孝，心衰則止 心若思感，則孝存焉；心若衰 滅，則孝止息。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_251","lb_range":["0562b18","0562b19"],"text_zh":"即淮南王劉安，漢之宗裔，好著書，因叛戮 于市。","text_en":"淮南子 即淮南王劉安，漢之宗裔，好著書，因叛戮 于市。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_252","lb_range":["0562b20"],"text_zh":"許慎字也。","text_en":"叔重 許慎字也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_253","lb_range":["0562b21"],"text_zh":"次文略飜華梵，緣起如例。","text_en":"十大弟子 次文略飜華梵，緣起如例。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_254","lb_range":["0562b22"],"text_zh":"迦葉飜飲光，頭陀云斗藪。","text_en":"迦葉頭陀 迦葉飜飲光，頭陀云斗藪。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_255","lb_range":["0562b23"],"text_zh":"此云歡喜。","text_en":"阿難 此云歡喜。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_256","lb_range":["0562b24"],"text_zh":"此云滿慈子。","text_en":"富樓那彌多羅尼 此云滿慈子。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_257","lb_range":["0562c01"],"text_zh":"此云扇。","text_en":"迦旃延 此云扇。 阿陀律 此云無滅。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_258","lb_range":[],"text_zh":"此云無滅。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_259","lb_range":["0562c02"],"text_zh":"其母眼如鶖鷺。","text_en":"鶖子 其母眼如鶖鷺。 優波離 此云近執。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_260","lb_range":[],"text_zh":"此云近執。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_261","lb_range":["0562c03"],"text_zh":"此云障日。","text_en":"羅睺羅 此云障日。 善現 梵云須菩提。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_262","lb_range":[],"text_zh":"梵云須菩提。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_263","lb_range":["0562c04"],"text_zh":"如下所明。","text_en":"目連 如下所明。 來蒙 未來童蒙。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_264","lb_range":[],"text_zh":"未來童蒙。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_265","lb_range":["0562c05"],"text_zh":"左丘明作傳解《春秋》。","text_en":"左傳 左丘明作傳解《春秋》。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_266","lb_range":["0562c06"],"text_zh":"如下卷鈔。","text_en":"頴考叔 如下卷鈔。 鈔斥 此並斥指。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_267","lb_range":[],"text_zh":"此並斥指。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_268","lb_range":["0562c07","0562c08"],"text_zh":"如教浣衣之子作數息觀，鍛金之子作 不淨觀。","text_en":"不能觀機 如教浣衣之子作數息觀， 鍛 金之子作 不淨觀。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_269","lb_range":["0562c09"],"text_zh":"昧人天教。","text_en":"既昧經部 昧人天教。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_270","lb_range":["0562c10"],"text_zh":"言小聖無悲心。","text_en":"又枉聖人 言小聖無悲心。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_271","lb_range":["0562c11"],"text_zh":"慎言則少過也。","text_en":"不可不慎 慎言則少過也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_272","lb_range":["0562c12","0562c13"],"text_zh":"王制曰：「天子之田方千里，公侯百里，伯七十 里，子男五十里。」","text_en":"分地 王制曰：「天子之田方千里，公侯百里，伯七十 里，子男五十里。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_273","lb_range":["0562c14","0562c15"],"text_zh":"一、冀州，二、兖，三、青，四、徐，五、揚，六、荊，七、豫，八、梁， 九、雍。","text_en":"九州 一、冀州，二、兖，三、青，四、徐，五、揚，六、荊，七、豫，八、梁， 九、雍。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_274","lb_range":["0562c16"],"text_zh":"猶㹅也，國君聚人而㹅會也。","text_en":"都 猶 㹅 也，國君聚人而 㹅 會也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_275","lb_range":["0562c17"],"text_zh":"防邑也。邑人之聚會。","text_en":"邑 防邑也。邑人之聚會。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_276","lb_range":["0562c18"],"text_zh":"祁音，方千里以象曰。","text_en":"王畿 祁音，方千里以象曰。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_277","lb_range":["0562c19","0562c20"],"text_zh":"近者為親，遠者為疏。七庿曰多，五三等 漸少。","text_en":"親疏多少 近者為親，遠者為疏。七庿曰多，五三等 漸少。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_278","lb_range":["0562c21"],"text_zh":"封，聚也。","text_en":"封土 封，聚也。 除地 除，掃也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_279","lb_range":[],"text_zh":"除，掃也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_280","lb_range":["0562c22","0562c23"],"text_zh":"先在墠者，遷入石函為鬼，故云去也。然， 語助耳。","text_en":"示將去然 先在墠者，遷入石函為鬼，故云去也。然， 語助耳。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_281","lb_range":["0562c24"],"text_zh":"應，平聲，當也。","text_en":"應遷 應，平聲，當也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_282","lb_range":["0563a01"],"text_zh":"享献秋祭曰甞。秋物備矣，故特舉之。","text_en":"享甞乃止 享献秋祭曰甞。秋物備矣，故特舉之。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_283","lb_range":["0563a02","0563a03"],"text_zh":"昭，明也。父有文明之德，以治天下。晉景公諱 昭，改呼為韶。","text_en":"昭行 昭，明也。父有文明之德，以治天下。晉景公諱 昭，改呼為韶。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_284","lb_range":["0563a04","0563a05"],"text_zh":"自后稷已下，文王當穆，武王當昭，故昭 行寄武，穆行寄文。","text_en":"寄藏武祧 自后稷 已 下，文王當穆，武王當昭，故昭 行寄武，穆行寄文。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_285","lb_range":["0563a06"],"text_zh":"穆，敬也，子肅敬於父。","text_en":"穆行 穆，敬也，子肅敬於父。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_286","lb_range":["0563a07"],"text_zh":"寄藏，謂四時不祭也。","text_en":"寄藏文祧 寄藏，謂四時不祭也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_287","lb_range":["0563a08","0563a09"],"text_zh":"禘，大也，祫也。三年一禘，五年一祫。禘以夏祭， 祫以冬祭。","text_en":"禘祫 禘，大也，祫也。三年一禘，五年一祫。禘以夏祭， 祫以冬祭。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_288","lb_range":["0563a10","0563a11"],"text_zh":"次文云：顯考、祖考無庿，故為二壇以祭 之。","text_en":"去祖為壇 次文云：顯考、祖考無庿，故為二壇以祭 之。","type":"dialogue","confidence":1}
+{"unit_id":"X21n0376_289","lb_range":["0563a12"],"text_zh":"的音，王之上士。","text_en":"適士 的音，王之上士。 官師 一官之長。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_290","lb_range":[],"text_zh":"一官之長。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_291","lb_range":["0563a13"],"text_zh":"祭之於寢。","text_en":"庶人無廟 祭之於寢。 上士 今之正卿。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_292","lb_range":[],"text_zh":"今之正卿。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_293","lb_range":["0563a14"],"text_zh":"今之朝官。","text_en":"中士 今之朝官。 下士 今之少官。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_294","lb_range":[],"text_zh":"今之少官。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_295","lb_range":["0563a15","0563a16"],"text_zh":"主天子庫藏曰府，主天子圖籍曰史。屬， 徒也。","text_en":"府史之屬 主天子庫藏曰府，主天子圖籍曰史。屬， 徒也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_296","lb_range":["0563a17","0563a18"],"text_zh":"《尚書》云：「七世之廟，可以觀德。」今直書名圖，庶易詳 覧焉。","text_en":"《尚書》云：「七世之廟，可以觀德。」今直書名圖，庶易詳 覧焉。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_297","lb_range":["0563a19","0563a20","0563a21","0563a22","0563a23","0563a24","0563b01"],"text_zh":"","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_298","lb_range":["0563b02","0563b03","0563b04","0563b05","0563b06","0563b07","0563b08","0563b09","0563b10","0563b11","0563b12","0563b13","0563b14","0563b15","0563b16","0563b17","0563b18","0563b19","0563b20","0563b21","0563b22"],"text_zh":"有志於《摭華鈔》者，未始不廣引夏、殷、周，以至于有 唐，立廟之多少，歷代之差當，是皆亡本逐末，叛釋 泥儒耳。試為陳之：夫鈔者，疏之助也。迹疏以通經， 由經以明孝，此其大槩也。今諸家殊不究疏之之 要辭，經之之孝道，但漁獵鈔文，穿鑿群籍，立廟有 多少，歷代有差當，豈非亡本逐末，叛釋泥儒乎？然 《摭華》引《禮記》祭法，其中注文，皆鄭氏之微言，向出 名圖，兼示昭行寄藏武，穆行寄藏文耳。然而子廟 既向於父，則祖與孫同列矣。而言遷廟者，蓋四親 之名雖遷，而昭穆之行不移，此通制也。若謂互而 遷之，無乃乖於昭穆，失於寄藏者乎？且立庿之宏 規，實儒家之大務，而空門末學，率易辨之，亦猶握 管窺天，持螺酌海，又安能知其高闊深廣哉。","text_en":"有志於《摭華鈔》者，未始不廣引夏、殷、周，以至于有 唐，立廟之多少，歷代之差當，是皆亡本逐末，叛釋 泥儒耳。試為陳之：夫鈔者，疏之助也。迹疏以通經， 由經以明孝，此其大槩也。今諸家殊不究疏之之 要辭，經之之孝道，但漁獵鈔文，穿鑿群籍，立廟有 多少，歷代有差當，豈非亡本逐末，叛釋泥儒乎？然 《摭華》引《禮記》祭法，其中注文，皆鄭氏之微言，向出 名圖，兼示昭行寄藏武，穆行寄藏文耳。然而子廟 既向於父，則祖與孫同列矣。而言遷廟者，蓋四親 之名雖遷，而昭穆之行不移，此通制也。若謂互而 遷之，無乃乖於昭穆，失於寄藏者乎？且立庿之宏 規，實儒家之大務，而空門末學，率易辨之，亦猶握 管窺天，持螺酌海，又安能知其高闊深廣哉。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_299","lb_range":["0563b23"],"text_zh":"哭音。","text_en":"嚳 哭音。 釗 招音。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_300","lb_range":[],"text_zh":"招音。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_301","lb_range":["0563b24"],"text_zh":"戶音。","text_en":"扈 戶音。 五教 義、慈、友、恭、孝。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_302","lb_range":[],"text_zh":"義、慈、友、恭、孝。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_303","lb_range":["0563c01"],"text_zh":"去呼。善事父母曰孝，善事兄姉曰弟。","text_en":"孝弟 去呼。善事父母曰孝，善事兄姉曰弟。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_304","lb_range":["0563c02"],"text_zh":"足後。","text_en":"踵 足後。 肖 似也。不似其先。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_305","lb_range":[],"text_zh":"似也。不似其先。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_306","lb_range":["0563c03"],"text_zh":"得其中庸。","text_en":"得中 得其中庸。 子思 名伋。給音。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_307","lb_range":[],"text_zh":"名伋。給音。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_308","lb_range":["0563c04"],"text_zh":"孔鯉字也。","text_en":"伯魚 孔鯉字也。 跂 企音，望也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_309","lb_range":[],"text_zh":"企音，望也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_310","lb_range":["0563c05"],"text_zh":"父亡竹杖，母亡桐杖。","text_en":"杖而後起 父亡竹杖，母亡桐杖。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_311","lb_range":["0563c06"],"text_zh":"即陽虎也。","text_en":"陽貨 即陽虎也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_312","lb_range":["0563c07"],"text_zh":"宰我雖說禮壞樂崩。","text_en":"疏：雖論禮壞樂崩 宰我雖說禮壞樂崩。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_313","lb_range":["0563c08"],"text_zh":"仲尼終責衣錦食稻。","text_en":"終訶衣錦食稻 仲尼終責衣錦食稻。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_314","lb_range":["0563c09"],"text_zh":"意音。","text_en":"衣 意音。 食 嗣音。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_315","lb_range":[],"text_zh":"嗣音。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_316","lb_range":["0563c10"],"text_zh":"姓宰名予，字子我。","text_en":"宰我 姓宰名予，字子我。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_317","lb_range":["0563c11"],"text_zh":"禮壞無以撿人迹也。","text_en":"禮必壞 禮壞無以撿人迹也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_318","lb_range":["0563c12"],"text_zh":"樂崩無以和人心也。","text_en":"樂必崩 樂崩無以和人心也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_319","lb_range":["0563c13","0563c14"],"text_zh":"春取楊柳之火，夏取棗杏，秋取柞楢，冬 取槐檀。柞，側嫁切。楢，子由切。","text_en":"鑽燧改火 春取楊柳之火，夏取棗杏，秋取柞楢，冬 取槐檀。柞，側嫁切。楢，子由切。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_320","lb_range":["0563c15"],"text_zh":"旨，美也。","text_en":"食旨 旨，美也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_321","lb_range":["0563c16"],"text_zh":"上萬音，延，去聲。若蘿蔓延而不絕也。","text_en":"蔓延 上萬音，延，去聲。若蘿蔓延而不絕也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_322","lb_range":["0563c17"],"text_zh":"下護音，長多貌，出《文選》注文。","text_en":"布濩 下護音，長多貌，出《文選》注文。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_323","lb_range":["0563c18"],"text_zh":"孔曰：「自天子達於庶人。」","text_en":"通喪 孔曰：「自天子達於庶人。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_324","lb_range":["0563c19"],"text_zh":"亦名施鹿林，文出《智度論》。","text_en":"始從鹿苑 亦名施鹿林，文出《智度論》。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_325","lb_range":["0563c20","0563c21"],"text_zh":"佛臨涅槃，四双八樹皆悉變白，如白鶴 然。","text_en":"終至鶴林 佛臨涅槃，四双八樹皆悉變白，如白鶴 然。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_326","lb_range":["0563c22"],"text_zh":"釋上鹿苑，誘五乘之之權也。","text_en":"肇啟五乘 釋上鹿苑，誘五乘之之權也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_327","lb_range":["0563c23","0563c24","0564a01"],"text_zh":"釋上鶴林歸三點之實也。三點喻三德， 法身斷德，般若智德，解脫恩德。亦如梵書伊字，二 點在上，一點在下。首羅三日，則一在上，二在下。","text_en":"卒圓三點 釋上鶴林歸三點之實也。三點喻三德， 法身斷德，般若智德，解脫恩德。亦如梵書伊字，二 點在上，一點在下。首羅三日，則一在上，二在下。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_328","lb_range":["0564a02"],"text_zh":"廣則四字，略唯三字。","text_en":"梵音廣略 廣則四字，略唯三字。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_329","lb_range":["0564a03"],"text_zh":"猶云楚夏也。","text_en":"左右 猶云楚夏也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_330","lb_range":["0564a04"],"text_zh":"即覺賢三藏譯成六十卷。","text_en":"晉譯華嚴 即覺賢三藏譯成六十卷。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_331","lb_range":["0564a05"],"text_zh":"煩惱障麤，所知障細。","text_en":"二障麤細 煩惱障麤，所知障細。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_332","lb_range":["0564a06"],"text_zh":"此辨逐機頓教，非三五漸收。","text_en":"非三五等時 此辨逐機頓教，非三五漸收。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_333","lb_range":["0564a07","0564a08"],"text_zh":"武丘岌法師謂初見有得道，次見空得道，後 双照空有。","text_en":"三時 武丘岌法師謂初見有得道，次見空得道，後 双照空有。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_334","lb_range":["0564a09","0564a10"],"text_zh":"道場惠觀師謂：一、有相教，二、無相教，三、抑揚 教，四、同歸教，五、常住教。","text_en":"五時 道場 惠觀師謂：一、有相教，二、無相教，三、抑揚 教，四、同歸教，五、常住教。 不徇 隨也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_335","lb_range":[],"text_zh":"隨也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_336","lb_range":["0564a11","0564a12"],"text_zh":"此標次文說《華嚴》也。清凉疏云：「理開体 用，號大方廣；知分因果，名佛華嚴。」","text_en":"經詮理智 此標次文說《華嚴》也。清凉疏云：「理開体 用，號大方廣；知分因果，名佛華嚴。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_337","lb_range":["0564a13","0564a14","0564a15"],"text_zh":"此標次文說《梵網》也。賢首疏以攝律儀 戒，攝善法戒，攝眾生戒，皆用三眾淨戒釋十重四 十八輕。","text_en":"律詮德行 此標次文說《梵網》也。賢首疏以攝律儀 戒，攝善法戒，攝眾生戒，皆用三眾淨戒釋十重四 十八輕。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_338","lb_range":["0564a16","0564a17"],"text_zh":"地前能取未亡，解悟也。登地理智 一如，證悟也。此釋經詮理智。","text_en":"悟通解悟證悟 地前能取未亡，解悟也。登地理智 一如，證悟也。此釋經詮理智。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_339","lb_range":["0564a18","0564a19"],"text_zh":"始脩隨相行，悟前也；終證離相行， 悟後也。此約三聚戒，釋律詮德行。","text_en":"行通悟後悟前 始脩隨相行，悟前也；終證離相行， 悟後也。此約三聚戒，釋律詮德行。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_340","lb_range":["0564a20"],"text_zh":"云無毒害。","text_en":"摩竭提 云無毒害。 阿蘭若法 云最靜法。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_341","lb_range":[],"text_zh":"云最靜法。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_342","lb_range":["0564a21","0564a22"],"text_zh":"人間三處：菩提場、普光明殿、逝多林。天上四 所：忉利、夜摩、兜率、他化自在。","text_en":"七處 人間三處：菩提場、普光明殿、逝多林。天上四 所：忉利、夜摩、兜 率 、他化自在。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_343","lb_range":["0564a23"],"text_zh":"以普光明重說兩會，添七成九。","text_en":"九會 以普光明重說兩會，添七成九。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_344","lb_range":["0564a24","0564b01"],"text_zh":"周徧也。即五周因果：一、所信因果，二、差別因 果，三、平等因果，四、成行因果，五、證入因果。","text_en":"五周 周徧也。即五周因果：一、所信因果，二、差別因 果，三、平等因果，四、成行因果，五、證入因果。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_345","lb_range":["0564b02"],"text_zh":"十信、三賢、十地、等覺，即六位圓因也。","text_en":"六位 十信、三賢、十地、等覺，即六位圓因也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_346","lb_range":["0564b03"],"text_zh":"釋疏不引《華嚴》。","text_en":"但略標名 釋疏不引《華嚴》。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_347","lb_range":["0564b04"],"text_zh":"餘諸眾生。","text_en":"餘生 餘諸眾生。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_348","lb_range":["0564b05","0564b06"],"text_zh":"彼經云：「非色非心，非有非無，非因果法， 諸佛之本源耳。」","text_en":"稱性之戒 彼經云：「非色非心，非有非無，非因果法， 諸佛之本源耳。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_349","lb_range":["0564b07"],"text_zh":"十重四十八經。","text_en":"頓制 十重四十八經。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_350","lb_range":["0564b08"],"text_zh":"小乘但七，身三、口四。今約大乘加意三。","text_en":"十支 小乘但七，身三、口四。今約大乘加意三。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_351","lb_range":["0564b09"],"text_zh":"即孝為至極之道等。","text_en":"初義 即孝為至極之道等。 󴕦 猶云過也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_352","lb_range":[],"text_zh":"猶云過也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_353","lb_range":["0564b10"],"text_zh":"正，掌也，即掌樂之官名。子春，姓未詳。","text_en":"樂正子春 正，掌也，即掌樂之官名。子春，姓未詳。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_354","lb_range":["0564b11"],"text_zh":"丘弭切。三尺曰跬，六尺曰步。","text_en":"子春曰：善句跬 丘弭切。三尺曰跬，六尺曰步。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_355","lb_range":["0564b12"],"text_zh":"被也。","text_en":"衾 被也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_356","lb_range":["0564b13","0564b14"],"text_zh":"戰戰恐懼，兢兢戒慎矣。小子者，弟子 也。憂陷。","text_en":"戰戰至薄冰 戰戰恐懼，兢兢戒慎矣。小子者，弟子 也。憂陷。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_357","lb_range":["0564b15"],"text_zh":"句。","text_en":"而今而後，吾知免夫 句。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_358","lb_range":["0564b16","0564b17"],"text_zh":"鄭曰：「乃今日後，我自知免於患難矣。小子者， 弟子也。呼之，欲使聽，誡其言。」","text_en":"小子 鄭曰：「乃今日後，我自知免於患難矣。小子者， 弟子也。呼之，欲使聽，誡其言。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_359","lb_range":["0564b18"],"text_zh":"驚音。","text_en":"矜 驚音。 斷 短音。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_360","lb_range":[],"text_zh":"短音。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_361","lb_range":["0564b19"],"text_zh":"梁昭明太子撰。","text_en":"文選 梁昭明太子撰。 甌駱 甌，地名。駱，姓也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_362","lb_range":[],"text_zh":"甌，地名。駱，姓也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_363","lb_range":["0564b20"],"text_zh":"《尚書》篇名。泰，大也。大會以誓眾。","text_en":"泰誓 《尚書》篇名。泰，大也。大會以誓眾。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_364","lb_range":["0564b21"],"text_zh":"上天大帝。","text_en":"上帝 上天大帝。 下是 釋「降時」二字也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_365","lb_range":[],"text_zh":"釋「降時」二字也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_366","lb_range":["0564b22"],"text_zh":"青黃赤白黑等。","text_en":"正色 青黃赤白黑等。 間色 紅綠紫碧。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_367","lb_range":[],"text_zh":"紅綠紫碧。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_368","lb_range":["0564b23","0564b24"],"text_zh":"儒教中也。《四十二章經．序》云：「域內治平耳，謂 之外教也。」","text_en":"域中 儒教中也。《四十二章經．序》云：「域內治平耳，謂 之外教也。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_369","lb_range":["0564c01"],"text_zh":"言作過招禍之者也。","text_en":"為省招害之徒 言作過招禍之者也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_370","lb_range":["0564c02"],"text_zh":"周太王之長子。","text_en":"太伯 周太王之長子。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_371","lb_range":["0564c03"],"text_zh":"以讓位之德，亦不可用也。","text_en":"斷髮文身 以讓位之德，亦不可用也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_372","lb_range":["0564c04"],"text_zh":"《論語》云：「泰伯其謂至德也已矣。」","text_en":"歎為至德 《論語》云：「泰伯其謂至德也 已 矣。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_373","lb_range":["0564c05","0564c06"],"text_zh":"白夷、叔齊，孤竹君之二子，餓死于首陽 山之下。首，去聲。","text_en":"夷、齊餓死 白夷、叔齊，孤竹君之二子，餓死于首陽 山之下。首，去聲。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_374","lb_range":["0564c07","0564c08"],"text_zh":"子貢曰：「伯夷、叔齊何人也？」仲尼曰：「古之 賢人也。」","text_en":"稱曰賢人 子貢曰：「伯夷、叔齊何人也？」仲尼曰：「古之 賢人也。」 排斥 排擯斥逐。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_375","lb_range":[],"text_zh":"排擯斥逐。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_376","lb_range":["0564c09"],"text_zh":"上平聲，微也。","text_en":"幾諫 上平聲，微也。 波羅門 此云淨志。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_377","lb_range":[],"text_zh":"此云淨志。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_378","lb_range":["0564c10"],"text_zh":"似此方椶櫚，高長六七尺。","text_en":"七多羅樹 似此方椶櫚，高長六七尺。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_379","lb_range":["0564c11"],"text_zh":"此云堅固。","text_en":"娑羅 此云堅固。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_380","lb_range":["0564c12"],"text_zh":"僧述無鬼論，為圭峯取破。","text_en":"王充 僧述無鬼論，為圭峯取破。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_381","lb_range":["0564c13","0564c14"],"text_zh":"且證留形二字，其實識神不亡， 而身形不存。如下破之文。","text_en":"人死精亡而形存 且證留形二字，其實識神不亡， 而身形不存。如下破之文。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_382","lb_range":["0564c15"],"text_zh":"姓名若，字有子。","text_en":"有子 姓名若，字有子。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_383","lb_range":["0564c16","0564c17"],"text_zh":"仲尼曾為中都宰，自宰為司空，由司空為司 𡨥。","text_en":"中都 仲尼曾為中都宰，自宰為司空，由司空為司 𡨥 。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_384","lb_range":["0564c18","0564c19"],"text_zh":"大小斂時之也。衾，單被也。用之舉屍 入棺，并覆屍上。","text_en":"衣衾而舉之 大小 斂 時之也。衾，單被也。用之舉屍 入棺，并覆屍上。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_385","lb_range":["0564c20","0564c21"],"text_zh":"龜曰卜，選以定吉凶，苟不預卜，地下或 值伏石涌泉，則不安其親也。","text_en":"卜其宅兆 龜曰卜，選以定吉凶，苟不預卜，地下或 值伏石涌泉，則不安其親也。 措 置也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_386","lb_range":[],"text_zh":"置也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_387","lb_range":["0564c22"],"text_zh":"名伯，字康伯，師王弼，注《易．繫辭》。","text_en":"韓康伯 名伯，字康伯，師王弼，注《易．繫辭》。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_388","lb_range":["0564c23"],"text_zh":"唐三藏撰，十卷。","text_en":"西域記 唐三藏撰，十卷。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_389","lb_range":["0564c24"],"text_zh":"《業疏．序》云：「據說之章段也。」","text_en":"四分 《業疏．序》云：「據說之章段也。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_390","lb_range":["0565a01","0565a02"],"text_zh":"搥胷并泣皆犯，故云一一。《梵網》波逸提，義 飜為墮，墮在燒暑覆障地獄。","text_en":"一一墮 搥胷并泣皆犯，故云一一。《梵網》波逸提，義 飜為墮，墮在燒暑覆障地獄。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_391","lb_range":["0565a03"],"text_zh":"具云突吉羅，《善見》飜云惡作。","text_en":"吉羅 具云突吉羅，《善見》飜云惡作。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_392","lb_range":["0565a04"],"text_zh":"定其志意，此猶居本處也。","text_en":"散齊七日以定之 定其志意，此猶居本處也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_393","lb_range":["0565a05"],"text_zh":"出本處，往庿側，今宿齋廳是也。","text_en":"致齋三日以齋之 出本處，往庿側，今宿齋廳是也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_394","lb_range":["0565a06"],"text_zh":"此則致齋於庿內，散齋於庿外也。","text_en":"致齋於內下 此則致齋於庿內，散齋於庿外也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_395","lb_range":["0565a07"],"text_zh":"鄭玄云：「思之孰也。」為，去聲。","text_en":"見其所為齋者 鄭玄云：「思之孰也。」為，去聲。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_396","lb_range":["0565a08"],"text_zh":"言忌辰設供，如蘭盆薦親。","text_en":"設供如今經 言忌辰設供，如蘭盆薦親。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_397","lb_range":["0565a09"],"text_zh":"助其善業樂報。","text_en":"疏：資其業報 助其善業樂報。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_398","lb_range":["0565a10","0565a11","0565a12"],"text_zh":"礿祭之月，當三陽生寅位，以一陽生於 子位，是十一月至正月，即三陽也。禘祭之月，當六 陽生於巳位，即四月也。","text_en":"禘礿陽義 礿祭之月，當三陽生寅位，以一陽生於 子位，是十一月至正月，即三陽也。禘祭之月，當六 陽生於巳位，即四月也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_399","lb_range":["0565a13","0565a14","0565a15"],"text_zh":"甞祭之月，當三陰生申位，以一陰生於 午位，是五月至七月即三陰也。烝祭之月，六陰生 於亥位，即十月也。","text_en":"甞烝陰義 甞祭之月，當三陰生申位，以一陰生於 午位，是五月至七月即三陰也。烝祭之月，六陰生 於亥位，即十月也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_400","lb_range":["0565a16","0565a17"],"text_zh":"春生萬物，至夏大小分矣，可以祭先 祖。","text_en":"夏者尊卑著 春生萬物，至夏大小分矣，可以祭先 祖。 卒哭 百日。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_401","lb_range":[],"text_zh":"百日。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_402","lb_range":["0565a18"],"text_zh":"小祥朞年，大祥三年。","text_en":"祥日 小祥朞年，大祥三年。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_403","lb_range":["0565a19"],"text_zh":"三寶，敬田；貧病，悲田。","text_en":"布施二田 三寶，敬田；貧病，悲田。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_404","lb_range":["0565a20"],"text_zh":"姬姓，周代。","text_en":"姬周 姬姓，周代。 夷狄 東夷北狄。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_405","lb_range":[],"text_zh":"東夷北狄。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_406","lb_range":["0565a21"],"text_zh":"佛教報應難弘，禮法祭祀易舉。","text_en":"圖難於易 佛教報應難弘，禮法祭祀易舉。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_407","lb_range":["0565a22"],"text_zh":"遐遠，佛教也。邇近，禮法也。","text_en":"陟遐自邇 遐遠，佛教也。邇近，禮法也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_408","lb_range":["0565a23"],"text_zh":"老子，摩訶迦葉。仲尼，光淨童子。","text_en":"先遣二聖 老子，摩訶迦葉。仲尼，光淨童子。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_409","lb_range":["0565a24"],"text_zh":"亦名震旦，此云思惟，以情慮多端故。","text_en":"支那 亦名震旦，此云思惟，以情慮多端故。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_410","lb_range":["0565b01"],"text_zh":"姓列，名禦𭁵，宋國人。著書八篇，莊子師之。","text_en":"列子 姓列，名禦 𭁵 ，宋國人。著書八篇，莊子師之。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_411","lb_range":["0565b02"],"text_zh":"商姓，太宰官也，名嚭。","text_en":"商太宰嚭 商姓，太宰官也，名嚭。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_412","lb_range":["0565b03","0565b04"],"text_zh":"明五常，述六經，生民已來，未有如夫子 者也。彊，巨良切。","text_en":"博識彊記 明五常，述六經，生民 已 來，未有如夫子 者也。彊，巨良切。 三王 夏、殷、周。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_413","lb_range":[],"text_zh":"夏、殷、周。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_414","lb_range":["0565b05","0565b06"],"text_zh":"洪水滔天，夏禹治之，善用智也。殷伐夏 桀，周伐殷紂，皆其勇也。","text_en":"善用智勇 洪水滔天，夏禹治之，善用智也。殷伐夏 桀，周伐殷紂，皆其勇也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_415","lb_range":["0565b07"],"text_zh":"少昊、顓頊、高辛、唐堯、虞舜。","text_en":"五帝 少昊、顓頊、高辛、唐堯、虞舜。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_416","lb_range":["0565b08","0565b09"],"text_zh":"五帝心雖無為，而迹陟有為，以德教化 於民，善用仁信也。","text_en":"善用仁信 五帝心雖無為，而迹陟有為，以德教化 於民，善用仁信也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_417","lb_range":["0565b10"],"text_zh":"伏羲、神農、黃帝。","text_en":"三皇 伏羲、神農、黃帝。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_418","lb_range":["0565b11","0565b12"],"text_zh":"三皇心既無為，而迹亦無為，以道化於民， 故云善用時。《老子》云：「動善智」，此其證也。","text_en":"善用時 三皇心既無為，而迹亦無為，以道化於民， 故云善用時。《老子》云：「動善智」，此其證也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_419","lb_range":["0565b13"],"text_zh":"驚也。","text_en":"駭 驚也。 匿 隱也。 𲁮 過也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_420","lb_range":[],"text_zh":"隱也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_421","lb_range":[],"text_zh":"過也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_422","lb_range":["0565b14"],"text_zh":"字也，姓端木，名賜。","text_en":"子貢 字也，姓端木，名賜。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_423","lb_range":["0565b15"],"text_zh":"告，音谷。朔，穌也，魄死而復蘇。","text_en":"告朔 告，音谷。朔，穌也，魄死而復蘇。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_424","lb_range":["0565b16"],"text_zh":"戲音。腥羊曰餼。","text_en":"餼 戲音。腥羊曰餼。 朝享 上直遙切。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_425","lb_range":[],"text_zh":"上直遙切。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_426","lb_range":["0565b17","0565b18"],"text_zh":"後漢光武，都洛邑，為東。前漢高祖，都長安，為 西。","text_en":"東漢 後漢光武，都洛邑，為東。前漢高祖，都長安，為 西。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_427","lb_range":["0565b19","0565b20"],"text_zh":"即第二主明帝，名莊。永平年，夜夢金人翔于 殿庭。","text_en":"之初 即第二主明帝，名莊。永平年，夜夢金人翔于 殿庭。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_428","lb_range":["0565b21"],"text_zh":"騰蘭齎《四十二章經》并白氎像等。","text_en":"佛法肇至 騰蘭齎《四十二章經》并白氎像等。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_429","lb_range":["0565b22"],"text_zh":"即佛教。","text_en":"真宗 即佛教。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_430","lb_range":["0565b23"],"text_zh":"逮，及也。謂德宗之代。","text_en":"逮疏主之世 逮，及也。謂德宗之代。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_431","lb_range":["0565b24","0565c01"],"text_zh":"施，平聲。先儒云：「施生而不為，故能 常生。」","text_en":"疏：莫大於施生 施，平聲。先儒云：「施生而不為，故能 常生。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_432","lb_range":["0565c02"],"text_zh":"乾，健也。本以象天，天体乾用也。","text_en":"乾卦 乾，健也。本以象天，天体乾用也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_433","lb_range":["0565c03"],"text_zh":"具云釋迦因陀羅，此云能天帝。","text_en":"帝釋 具云釋迦因陀羅，此云能天帝。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_434","lb_range":["0565c04"],"text_zh":"慈悲善捨，化生平等故。","text_en":"四等 慈悲善捨，化生平等故。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_435","lb_range":["0565c05"],"text_zh":"色界初天王。","text_en":"梵王 色界初天王。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_436","lb_range":["0565c06"],"text_zh":"《禮記經解》云：「潔靜精微，易教也。」","text_en":"潔靜精微 《禮記經解》云：「潔靜精微，易教也。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_437","lb_range":["0565c07"],"text_zh":"《易》云：「窮理𦘕性，以至于命。」","text_en":"至命之書 《易》云：「窮理 𦘕 性，以至于命。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_438","lb_range":["0565c08","0565c09"],"text_zh":"《曲禮》云：「國君春畋不圍澤。」鄭注云：「生 乳之時，重傷其類。」畋，獵也。","text_en":"春畋不圍澤 《曲禮》云：「國君春畋不圍澤。」鄭注云：「生 乳之時，重傷其類。」畋，獵也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_439","lb_range":["0565c10"],"text_zh":"言卿大夫行獵，不盡群而多取也。","text_en":"大夫不揜群 言卿大夫行獵，不盡群而多取也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_440","lb_range":["0565c11"],"text_zh":"麛，迷音，鹿子也。卵，鳥子也。","text_en":"士不取麛卵 麛，迷音，鹿子也。卵，鳥子也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_441","lb_range":["0565c12","0565c13"],"text_zh":"垂一釣取之，不以大繩橫列水內，懸多 鈎，取多魚也。","text_en":"釣而不 綱 垂一釣取之，不以大 繩橫列水內，懸多 鈎，取多魚也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_442","lb_range":["0565c14","0565c15"],"text_zh":"以線繫箭射之曰弋。然仲尼不射宿禽， 恐傷眾類。射，石音。弋，亦音。","text_en":"弋不射宿 以線繫箭射之曰弋。然仲尼不射宿禽， 恐傷眾類。射，石音。弋，亦音。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_443","lb_range":["0565c16"],"text_zh":"名軻，字子輿。師子思，治《中庸》之書。","text_en":"孟子 名軻，字子輿。師子思，治《中庸》之書。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_444","lb_range":["0565c17","0565c18"],"text_zh":"衅與釁同。新鑄鐘，殺牲以血塗其釁郄， 因以祭之。","text_en":"衅鐘之牛 衅與釁同。新鑄鐘，殺牲以血塗其釁郄， 因以祭之。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_445","lb_range":["0565c19"],"text_zh":"用少殺，止多殺。","text_en":"用殺止殺 用少殺，止多殺。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_446","lb_range":["0565c20"],"text_zh":"此云種種現。","text_en":"楞伽 此云種種現。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_447","lb_range":["0565c21"],"text_zh":"《論語》篇名。佾，逸音，列也。天子八佾舞於庭。","text_en":"八佾 《論語》篇名。佾，逸音，列也。天子八佾舞於庭。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_448","lb_range":["0565c22"],"text_zh":"秦相呂不韋造。","text_en":"月令 秦相呂不韋造。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_449","lb_range":["0565c23"],"text_zh":"中氣時，太陽躔氐宿度。","text_en":"中氣日在低 中氣時，太陽躔氐宿度。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_450","lb_range":["0565c24"],"text_zh":"謂黃昏二刻半，女星現南方也。","text_en":"昏須女中 謂黃昏二刻半，女星現南方也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_451","lb_range":["0566a01"],"text_zh":"北斗柄指於戌位，即九月也。","text_en":"斗建戌位 北斗柄指於戌位，即九月也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_452","lb_range":["0566a02","0566a03","0566a04"],"text_zh":"社以勾龍配享，其實土神也。《禮記．祭法》曰：「共工 氏之󰊉九州，其子曰后土，能平九州，故祀為社也。 不言土地而言社者，先王配之以嘉名也。」","text_en":"社 社以勾龍配享，其實土神也。《禮記．祭法》曰：「共工 氏之 󰊉 九州，其子曰后土，能平九州，故祀為社也。 不言土地而言社者，先王配之以嘉名也。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_453","lb_range":["0566a05","0566a06","0566a07"],"text_zh":"稷者，五糓之㹅名也。立壇祭之，報先農也。其神 以后稷為主。《禮記．祭法》云：「厲山氏有天下也，其子 曰農，能植百穀。夏之衰，周棄繼之，故祀以為稷也。」","text_en":"稷 稷者，五糓之 㹅 名也。立壇祭之，報先農也。其神 以后稷為主。《禮記．祭法》云：「厲山氏有天下也，其子 曰農，能植百穀。夏之衰，周棄繼之，故祀以為稷也。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_454","lb_range":["0566a08"],"text_zh":"嗣音。","text_en":"飤 嗣音。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_455","lb_range":["0566a09","0566a10"],"text_zh":"純色牛羊豕曰犧，滌牢中養曰牲。耳角齊者 曰純色，即童子牛也。","text_en":"犧牲 純色牛羊豕曰犧，滌牢中養曰牲。耳角齊者 曰純色，即童子牛也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_456","lb_range":["0566a11"],"text_zh":"力軏切，累也。言人死後，累其德行。","text_en":"誄 力軏切，累也。言人死後，累其德行。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_457","lb_range":["0566a12"],"text_zh":"此一句是誄辭，曹子建作。","text_en":"達士徇名 此一句是誄辭，曹子建作。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_458","lb_range":["0566a13"],"text_zh":"音向。","text_en":"鄉 音向。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_459","lb_range":["0566a14"],"text_zh":"孔安國注《尚書》，蓋言傳通其義也。","text_en":"孔氏傳 孔安國注《尚書》，蓋言傳通其義也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_460","lb_range":["0566a15"],"text_zh":"山夾水㵎。","text_en":"㵎 山夾水 㵎 。 谿 水注川曰谿。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_461","lb_range":[],"text_zh":"水注川曰谿。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_462","lb_range":["0566a16"],"text_zh":"小池。","text_en":"沼 小池。 沚 小渚。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_463","lb_range":[],"text_zh":"小渚。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_464","lb_range":["0566a17"],"text_zh":"大者曰蘋，小者曰萍。","text_en":"蘋 大者曰蘋，小者曰萍。 蘩 蒿也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_465","lb_range":[],"text_zh":"蒿也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_466","lb_range":["0566a18"],"text_zh":"聚藻也。如海藻之類。","text_en":"蘊藻 聚藻也。如海藻之類。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_467","lb_range":["0566a19"],"text_zh":"區方切。","text_en":"筐 區方切。 筥 九呂切。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_468","lb_range":[],"text_zh":"九呂切。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_469","lb_range":["0566a20"],"text_zh":"犧音，即三足鼎。","text_en":"𨪆 犧音，即三足鼎。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_470","lb_range":["0566a21"],"text_zh":"停蓄之水也。上黃音，下鳥音。","text_en":"潢汗 停蓄之水也。上黃音，下鳥音。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_471","lb_range":["0566a22"],"text_zh":"流水也。上平聲，下老音。","text_en":"行潦 流水也。上平聲，下老音。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_472","lb_range":["0566a23"],"text_zh":"紂居衛國朝歌之地，故曰東。","text_en":"東鄰 紂居衛國朝歌之地，故曰東。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_473","lb_range":["0566a24"],"text_zh":"文王在岐山之陽，故曰西伯。","text_en":"西鄰 文王在岐山之陽，故曰西伯。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_474","lb_range":["0566b01"],"text_zh":"字輔嗣，官至尚書。年二十四，受饗。","text_en":"王弼 字輔嗣，官至尚書。年二十四，受饗。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_475","lb_range":["0566b02"],"text_zh":"內障炬火針咽，外障見大力鬼等。","text_en":"內外障 內障炬火針咽，外障見大力鬼等。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_476","lb_range":["0566b03"],"text_zh":"字也，姓言，名偃。","text_en":"子游 字也，姓言，名偃。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_477","lb_range":["0566b04"],"text_zh":"即何晏子平叔注辭。","text_en":"一曰 即何晏子平叔注辭。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_478","lb_range":["0566b05","0566b06"],"text_zh":"人之交接，但食而不愛，若養豕 也。食，嗣音。","text_en":"食而不愛，豕交之 人之交接，但食而不愛，若養豕 也。食，嗣音。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_479","lb_range":["0566b07"],"text_zh":"如人畜獸，但愛而不能敬也。","text_en":"愛而不敬，獸畜之 如人畜獸，但愛而不能敬也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_480","lb_range":["0566b08","0566b09"],"text_zh":"《孝衡》云：「其樹高四十九尺，以七尺為一仞，七 仞為一多羅，七多羅計三百四十三尺也。」","text_en":"七多 《孝衡》云：「其樹高四十九尺，以七尺為一仞，七 仞為一多羅，七多羅計三百四十三尺也。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_481","lb_range":["0566b10"],"text_zh":"應云出世之儀。","text_en":"僧俗之儀 應云出世之儀。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_482","lb_range":["0566b11"],"text_zh":"《禮記．內則篇》敘孝行，大同。","text_en":"曲禮下 《禮記．內則篇》敘孝行，大同。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_483","lb_range":["0566b12","0566b13"],"text_zh":"後漢劉珍等撰。觀，去聲。漢時於宮前造 東西兩觀，今之史舘是也。","text_en":"東觀漢記 後漢劉珍等撰。觀，去聲。漢時於宮前造 東西兩觀，今之史舘是也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_484","lb_range":["0566b14"],"text_zh":"具云摩訶僧祇，此飜大眾部。","text_en":"僧祇 具云摩訶僧祇，此飜大眾部。","type":"dialogue","confidence":1}
+{"unit_id":"X21n0376_485","lb_range":["0566b15"],"text_zh":"即《阿含經》。","text_en":"增一 即《阿含經》。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_486","lb_range":["0566b16","0566b17"],"text_zh":"太子即釋迦，生身父母即淨飯、摩耶， 羅睺羅賊即調達也。","text_en":"太子父母等 太子即釋迦，生身父母即淨飯、摩耶， 羅睺羅賊即調達也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_487","lb_range":["0566b18"],"text_zh":"初患切。奪也。","text_en":"篡 初患切。奪也。 文常 即前漢第三主。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_488","lb_range":[],"text_zh":"即前漢第三主。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_489","lb_range":["0566b19"],"text_zh":"古無定制，繼世之子，即周文王也。","text_en":"文王世子 古無定制，繼世之子，即周文王也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_490","lb_range":["0566b20"],"text_zh":"言常待左右也。","text_en":"不脫冠帶而養 言常待左右也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_491","lb_range":["0566b21"],"text_zh":"欲知氣力鍼藥所勝也。","text_en":"亦一飯 欲知氣力鍼藥所勝也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_492","lb_range":["0566b22"],"text_zh":"去聲。","text_en":"間 去聲。 唐傳 澄照大師撰。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_493","lb_range":[],"text_zh":"澄照大師撰。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_494","lb_range":["0566b23"],"text_zh":"南齊，姓高。","text_en":"高齊 南齊，姓高。 微行 即擔舁也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_495","lb_range":[],"text_zh":"即擔舁也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_496","lb_range":["0566b24"],"text_zh":"衣、食，皆去聲。","text_en":"衣著食飲 衣、食，皆去聲。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_497","lb_range":["0566c01"],"text_zh":"凡母身有患，皆紀經歷治理。","text_en":"女身經理 凡母身有患，皆紀經歷治理。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_498","lb_range":["0566c02","0566c03"],"text_zh":"諒與亮，皆信也。信任冢宰曰諒，不言國政曰 陰。","text_en":"諒陰 諒與亮，皆信也。信任冢宰曰諒，不言國政曰 陰。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_499","lb_range":["0566c04"],"text_zh":"悅音，名也，姓傅，高宗命之為相。","text_en":"說命 悅音，名也，姓傅，高宗命之為相。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_500","lb_range":["0566c05"],"text_zh":"上胡旬切。","text_en":"見齒 上胡旬切。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_501","lb_range":["0566c06","0566c07"],"text_zh":"易，以致切。包咸云：「喪，失於和，不 如慼也。」","text_en":"喪，與其易也寧慼 易，以致切。包咸云：「喪，失於和，不 如慼也。」 清卓 清尚高卓。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_502","lb_range":[],"text_zh":"清尚高卓。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_503","lb_range":["0566c08"],"text_zh":"應法師《經音》云：「天竺貴布也。」","text_en":"白 㲲 應法師《經音》云：「天竺貴布也。」","type":"dialogue","confidence":1}
+{"unit_id":"X21n0376_504","lb_range":["0566c09"],"text_zh":"此云喜，佛親弟。","text_en":"難陀 此云喜，佛親弟。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_505","lb_range":["0566c10"],"text_zh":"佛嫡子也。飜梵如前。","text_en":"羅云 佛嫡子也。飜梵如前。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_506","lb_range":["0566c11"],"text_zh":"喪車之後。","text_en":"喪足 喪車之後。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_507","lb_range":["0566c12","0566c13","0566c14"],"text_zh":"應云六種震動。《大疏》云：「震即是聲，動即 是形。聲兼吼、擊，形兼起、踊，故有六種。此六各三，成 十八相。」次下列經，疏注之。","text_en":"六反震動 應云六種震動。《大疏》云：「震即是聲，動即 是形。聲兼吼、擊，形兼起、踊，故有六種。此六各三，成 十八相。」次下列經，疏注之。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_508","lb_range":["0566c15"],"text_zh":"疏云：「搖颺不安為動。」","text_en":"經云：動、徧動、普徧動 疏云：「搖颺不安為動。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_509","lb_range":["0566c16"],"text_zh":"自下漸高，為起。","text_en":"起、徧起、普徧起 自下漸高，為起。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_510","lb_range":["0566c17"],"text_zh":"忽然騰舉為踊。","text_en":"踊、徧踊、普徧踊 忽然騰舉為踊。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_511","lb_range":["0566c18"],"text_zh":"隱隱出聲為震。","text_en":"震、徧震、普徧震 隱隱出聲為震。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_512","lb_range":["0566c19"],"text_zh":"雄聲郁遏為吼。","text_en":"吼、徧吼、普徧吼 雄聲郁遏為吼。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_513","lb_range":["0566c20","0566c21"],"text_zh":"砰礚發響為擊。廣釋十八相，具如 《華嚴大疏》。","text_en":"擊、徧擊、普徧擊 砰礚發響為擊。廣釋十八相，具如 《華嚴大疏》。 不載 上聲。記也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_514","lb_range":[],"text_zh":"上聲。記也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_515","lb_range":["0566c22"],"text_zh":"以諸切。對舉曰舁。","text_en":"舁 以諸切。對舉曰舁。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_516","lb_range":["0566c23"],"text_zh":"殯葬之禮。","text_en":"禮不足 殯葬之禮。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_517","lb_range":["0566c24","0567a01"],"text_zh":"武帝司馬氏，都洛陽，為西晉。至愍帝渡江，都 金陵，為東晉。","text_en":"西晉 武帝司馬氏，都洛陽，為西晉。至愍帝渡江，都 金陵，為東晉。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_518","lb_range":["0567a02"],"text_zh":"委棄其官，與新令尹。","text_en":"委官 委棄其官，與新令尹。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_519","lb_range":["0567a03","0567a04"],"text_zh":"禮，唯父母喪，見星而行，見星而舍，日行百里， 如星之奔馳。","text_en":"星馳 禮，唯父母喪，見星而行，見星而舍，日行百里， 如星之奔馳。 豫章 洪州。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_520","lb_range":[],"text_zh":"洪州。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_521","lb_range":["0567a05","0567a06"],"text_zh":"今之郡侯，守也。始皇罷削，列郡三十有六，凡 郡一守焉。","text_en":"太守 今之郡侯，守也。始皇罷削，列郡三十有六，凡 郡一守焉。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_522","lb_range":["0567a07"],"text_zh":"「傳」字解疏「弘」字。","text_en":"難傳 「傳」字解疏「弘」字。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_523","lb_range":["0567a08"],"text_zh":"過去善惡為因，今世苦樂為報。","text_en":"善惡報應 過去善惡為因，今世苦樂為報。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_524","lb_range":["0567a09"],"text_zh":"猶云先鋒也。","text_en":"前驅 猶云先鋒也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_525","lb_range":["0567a10","0567a11"],"text_zh":"如王充云：「人死精亡而形存，精亡則神 滅也。」","text_en":"人死神滅 如王充云：「人死精亡而形存，精亡則神 滅也。」 誣 枉也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_526","lb_range":[],"text_zh":"枉也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_527","lb_range":["0567a12","0567a13"],"text_zh":"上滅音，沒也。禰，奴禮切。父也。新死不切 言之，故變父為禰。","text_en":"蔑棄祖禰 上滅音，沒也。禰，奴禮切。父也。新死不切 言之，故變父為禰。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_528","lb_range":["0567a14","0567a15","0567a16"],"text_zh":"此牒上《周易》之文，反詰儒者。 情狀既有，則神明不滅，故云其無形乎。下三句反 詰，倣此消文。","text_en":"既情且狀，其無形乎 此牒上《周易》之文，反詰儒者。 情狀既有，則神明不滅，故云其無形乎。下三句反 詰，倣此消文。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_529","lb_range":["0567a17"],"text_zh":"太王、王季、文王。","text_en":"三后 太王、王季、文王。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_530","lb_range":["0567a18","0567a19"],"text_zh":"武王又能配行其道於京。鄭玄云：「鎬京 在豐水之東也。」","text_en":"王配于京 武王又能配行其道於京。鄭玄云：「鎬京 在豐水之東也。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_531","lb_range":["0567a20"],"text_zh":"旻，天也，反詰三后在天也。","text_en":"升靈上旻 旻，天也，反詰三后在天也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_532","lb_range":["0567a21","0567a22"],"text_zh":"大禹，即牒上夏王也。所祗，即反詰敬神 也。","text_en":"大禹所祇 大禹，即牒上夏王也。所祗，即反詰敬神 也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_533","lb_range":["0567a23","0567a24"],"text_zh":"出《尚書．金縢篇》。武王有疾，周公作請命 之書，以代武王。","text_en":"請代武王 出《尚書．金縢篇》。武王有疾，周公作請命 之書，以代武王。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_534","lb_range":["0567b01","0567b02"],"text_zh":"周公名旦，禱親則反牒武王，故云可虗 罔乎。","text_en":"姬旦禱親 周公名旦，禱親則反牒武王，故云可虗 罔乎。 背，叛 隱，匿也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_535","lb_range":[],"text_zh":"隱，匿也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_536","lb_range":["0567b03","0567b04"],"text_zh":"上文但引《詩》、《書》、《禮》、《易》四經，而該攝《春秋》云五 經。","text_en":"五經 上文但引《詩》、《書》、《禮》、《易》四經，而該攝《春秋》云五 經。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_537","lb_range":["0567b05","0567b06"],"text_zh":"不但誣毀於佛教，亦乃侮慢 周孔聖典也。先儒云：「侮聖言而不習。」","text_en":"非直誣佛，亦侮聖也 不但誣毀於佛教，亦乃侮慢 周孔聖典也。先儒云：「侮聖言而不習。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_538","lb_range":["0567b07"],"text_zh":"通六趣。","text_en":"餘趣 通六趣。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_539","lb_range":["0567b08"],"text_zh":"謂中陰身，別遷他趣五蘊耳。","text_en":"已遷他蘊 謂中陰身，別遷他趣五蘊耳。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_540","lb_range":["0567b09"],"text_zh":"遙音。","text_en":"陶 遙音。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_541","lb_range":["0567b10"],"text_zh":"士，理官也。言刑之輕重，各使服從。","text_en":"士五刑有服 士，理官也。言刑之輕重，各使服從。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_542","lb_range":["0567b11"],"text_zh":"魚器切。","text_en":"劓 魚器切。 剕 扶沸切。 大辟 大罪。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_543","lb_range":[],"text_zh":"扶沸切。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_544","lb_range":[],"text_zh":"大罪。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_545","lb_range":["0567b12"],"text_zh":"改革車輿服飾製度。","text_en":"革與服，改制度 改革車輿服飾製度。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_546","lb_range":["0567b13"],"text_zh":"月音。","text_en":"刖 月音。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_547","lb_range":["0567b14"],"text_zh":"決，開也。謂開其關而撤其梁。","text_en":"決關梁 決，開也。謂開其關而撤其梁。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_548","lb_range":["0567b15"],"text_zh":"越也。","text_en":"踰 越也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_549","lb_range":["0567b16"],"text_zh":"古者閹官守門，即今之黃門也。","text_en":"閹人 古者閹官守門，即今之黃門也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_550","lb_range":["0567b17"],"text_zh":"自內而取曰𡨥。","text_en":"𭁵 自內而取曰 𡨥 。 賊 自外而取曰賊。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_551","lb_range":[],"text_zh":"自外而取曰賊。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_552","lb_range":["0567b18"],"text_zh":"用兵而取曰刧。","text_en":"刧 用兵而取曰刧。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_553","lb_range":["0567b19"],"text_zh":"音諒。巡行而取曰掠。","text_en":"掠 音諒。巡行而取曰掠。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_554","lb_range":["0567b20"],"text_zh":"欺弱而取曰奪。","text_en":"奪 欺弱而取曰奪。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_555","lb_range":["0567b21"],"text_zh":"以手御物曰攘。《語》云：「其父攘羊。」","text_en":"攘 以手御物曰攘。《語》云：「其父攘羊。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_556","lb_range":["0567b22"],"text_zh":"詐也。詐稱上命取之。","text_en":"矯 詐也。詐稱上命取之。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_557","lb_range":["0567b23"],"text_zh":"殺也。行殺盜物。","text_en":"虐 殺也。行殺盜物。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_558","lb_range":["0567b24"],"text_zh":"周第六王，諱昭。","text_en":"周穆王 周第六王，諱昭。 享 當也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_559","lb_range":[],"text_zh":"當也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_560","lb_range":["0567c01"],"text_zh":"掌刑典之官。","text_en":"司 𡨥 掌刑典之官。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_561","lb_range":["0567c02"],"text_zh":"使訓暢夏禹贖刑之法。","text_en":"今訓夏贖刑 使訓暢夏禹贖刑之法。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_562","lb_range":["0567c03"],"text_zh":"揀魯國春秋，列晉宋等國。肅方等撰。","text_en":"三十國春秋 揀魯國春秋，列晉宋等國。肅方等撰。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_563","lb_range":["0567c04"],"text_zh":"姓池，名陽。","text_en":"池陽 姓池，名陽。 舍 捨音。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_564","lb_range":[],"text_zh":"捨音。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_565","lb_range":["0567c05","0567c06"],"text_zh":"羯磨，此云辨事破義，如《雜心論》 廣明。","text_en":"破羯磨轉法輪僧 羯磨，此云辨事破義，如《雜心論》 廣明。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_566","lb_range":["0567c07","0567c08"],"text_zh":"即七逆：一、出佛身血，二、殺父，三、害母，四、殺和 尚，五、殺阿闍梨，六、破羯磨轉法輪僧，七、殺聖人。","text_en":"七遮 即七逆：一、出佛身血，二、殺父，三、害母，四、殺和 尚，五、殺阿闍梨，六、破羯磨轉法輪僧，七、殺聖人。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_567","lb_range":["0567c09"],"text_zh":"砌音。","text_en":"妻 砌音。 禪 去聲，讓也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_568","lb_range":[],"text_zh":"去聲，讓也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_569","lb_range":["0567c10","0567c11","0567c12","0567c13"],"text_zh":"《孝德傳》曰：「郭巨家貧，養老母。有一子三歲，母 常減食與之。巨謂妻曰：『貧乏不能供給，共汝埋之。 子可再有，母豈再得？』遂掘𡊫二尺餘，忽見黃金一 釜，釜上云：『天賜孝子郭巨，官不得奪，人不得取。』」","text_en":"郭巨 《孝德傳》曰：「郭巨家貧，養老母。有一子三歲，母 常減食與之。巨謂妻曰：『貧乏不能供給，共汝埋之。 子可再有，母豈再得？』遂掘 𡊫 二尺餘，忽見黃金一 釜，釜上云：『天賜孝子郭巨，官不得奪，人不得取。』」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_570","lb_range":["0567c14","0567c15","0567c16","0567c17"],"text_zh":"青州千桑縣人。父亡無以葬，乃以身質錢一 萬。永謂主曰：「若無錢還，當以為奴。」葬訖將之，中路 逢女，求為永婦，乃為織絹還錢。主畢，女即去，曰：「吾 天女也，見君至孝，天使為君償債也。」","text_en":"董永 青州千桑縣人。父亡無以葬，乃以身質錢一 萬。永謂主曰：「若無錢還，當以為奴。」葬訖將之，中路 逢女，求為永婦，乃為織絹還錢。主畢，女即去，曰：「吾 天女也，見君至孝，天使為君償債也。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_571","lb_range":["0567c18"],"text_zh":"倉有屋曰廩。","text_en":"廩 倉有屋曰廩。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_572","lb_range":["0567c19"],"text_zh":"《周禮》建官有一百二十。","text_en":"周官 《周禮》建官有一百二十。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_573","lb_range":["0567c20","0567c21","0567c22"],"text_zh":"有云百糓，楊泉《物理論》云：「粱者黍稷之總名， 稻者溉種之總名，菽者眾豆之總名，三糓各二十 種為六十，󰡾果之實助糓各二十，凡為百糓。」","text_en":"五糓 有云百糓， 楊 泉《物理論》云：「粱者黍稷之總名， 稻者溉種之總名，菽者眾豆之總名，三糓各二十 種為六十， 󰡾 果之實助糓各二十，凡為百糓。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_574","lb_range":["0567c23","0567c24","0568a01"],"text_zh":"如於貧病下，悲心通敬孝二心也。承順 三寶下，敬心通孝悲二心也。父母不敬下，孝心通 敬悲二心也。母音無。","text_en":"義必互通 如於貧病下，悲心通敬孝二心也。承順 三寶下，敬心通孝悲二心也。父母不敬下，孝心通 敬悲二心也。母音無。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_575","lb_range":["0568a02","0568a03"],"text_zh":"田是能生故劣，福是所生故勝，前 劣後勝，故名依士。","text_en":"福田者，衣士釋 田是能生故劣，福是所生故勝，前 劣後勝，故名依士。 裁省 裁量省察。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_576","lb_range":[],"text_zh":"裁量省察。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_577","lb_range":["0568a04","0568a05"],"text_zh":"小乘法，權教也。大乘法，實 教也。賢首亦判《般若心經》為實教也。","text_en":"疏：法有大小，教有權實 小乘法，權教也。大乘法，實 教也。賢首亦判《般若心經》為實教也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_578","lb_range":["0568a06","0568a07"],"text_zh":"如《楞嚴》七處徵心，論藏也；自行離 魔，律藏也。","text_en":"經藏亦詮餘二 如《楞嚴》七處徵心，論藏也；自行離 魔，律藏也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_579","lb_range":["0568a08","0568a09"],"text_zh":"律藏亦有經論，論藏亦有經 律。","text_en":"下之二藏，比例可知 律藏亦有經論，論藏亦有經 律。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_580","lb_range":["0568a10"],"text_zh":"此云廣解，或飜種種說。","text_en":"婆沙 此云廣解，或飜種種說。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_581","lb_range":["0568a11"],"text_zh":"宗、釋二論，皆有推徵解釋。","text_en":"疏：論則推徵解釋 宗、釋二論，皆有推徵解釋。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_582","lb_range":["0568a12"],"text_zh":"蓯，音言。此經攝於化制，故云從容也。","text_en":"從容判經 蓯，音言。此經攝於化制，故云從容也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_583","lb_range":["0568a13","0568a14"],"text_zh":"論為能解，經律所解。解經屬化，解律屬 制。","text_en":"以分制化 論為能解，經律所解。解經屬化，解律屬 制。 憑心靈覺 歸佛。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_584","lb_range":[],"text_zh":"歸佛。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_585","lb_range":["0568a15"],"text_zh":"歸法。","text_en":"憑佛所說 歸法。 憑心正伴 歸僧。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_586","lb_range":[],"text_zh":"歸僧。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_587","lb_range":["0568a16"],"text_zh":"此云法密，亦云法藏。","text_en":"曇無德 此云法密，亦云法藏。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_588","lb_range":["0568a17"],"text_zh":"此云一切有也。","text_en":"薩婆多 此云一切有也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_589","lb_range":["0568a18"],"text_zh":"即長小貌。","text_en":"徑挺 即長小貌。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_590","lb_range":["0568a19"],"text_zh":"四王、忉利、夜摩、兜率、化樂、他化。","text_en":"六天 四王、忉利、夜摩、兜率、化樂、他化。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_591","lb_range":["0568a20"],"text_zh":"空處、識處、無有處、非非想處，加四禪成八也。","text_en":"八定 空處、識處、無有處、非非想處，加四禪成八也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_592","lb_range":["0568a21"],"text_zh":"上卑音。張揖撰，文有三卷。","text_en":"埤倉 上卑音。張揖撰，文有三卷。 汎 通也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_593","lb_range":[],"text_zh":"通也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_594","lb_range":["0568a22"],"text_zh":"有諫爭，孝子也。","text_en":"父有爭子 有諫爭，孝子也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_595","lb_range":["0568a23"],"text_zh":"當為也矣。","text_en":"故當不義 當為也矣。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_596","lb_range":["0568a24"],"text_zh":"慮有舉動之失，故扶而持之也。","text_en":"扶持之 慮有舉動之失，故扶而持之也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_597","lb_range":["0568b01","0568b02"],"text_zh":"但是父子皆須如然，非常定在一 人也。如父有三子，不可分日限而就養也。","text_en":"子則然，無常人 但是父子皆須如然，非常定在一 人也。如父有三子，不可分日限而就養也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_598","lb_range":["0568b03","0568b04"],"text_zh":"如晏嬰適齊，齊問楚國政，嬰以過 失語之。","text_en":"可以語其得失 如晏嬰適齊，齊問楚國政，嬰以過 失語之。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_599","lb_range":["0568b05"],"text_zh":"各有司職。","text_en":"不可侵官 各有司職。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_600","lb_range":["0568b06"],"text_zh":"平聲。","text_en":"方喪，資於事，父不聽 平聲。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_601","lb_range":["0568b07"],"text_zh":"字也，姓卜，名商。","text_en":"子夏 字也，姓卜，名商。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_602","lb_range":["0568b08"],"text_zh":"非經史所載也。","text_en":"世傳 非經史所載也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_603","lb_range":["0568b09","0568b10"],"text_zh":"其人生來不順，父臨終令葬水中，欲其須葬 於山，後乃依之。","text_en":"昆子 其人生來不順，父臨終令葬水中，欲其須葬 於山，後乃依之。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_604","lb_range":["0568b11"],"text_zh":"揚聲陳首，罪名。","text_en":"聲罪 揚聲陳首，罪名。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_605","lb_range":["0568b12"],"text_zh":"字休祺，臨浙人。承事繼母。","text_en":"王祥 字休祺，臨浙人。承事繼母。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_606","lb_range":["0568b13"],"text_zh":"賣，猶質也。","text_en":"賣身 賣，猶質也。 從晉 上，去聲。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_607","lb_range":[],"text_zh":"上，去聲。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_608","lb_range":["0568b14"],"text_zh":"靈公無道，樹樓臺，彈人民。","text_en":"盾三諫靈公 靈公無道，樹樓臺，彈人民。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_609","lb_range":["0568b15"],"text_zh":"公作夾幕，藏五百甲兵，欲害之。","text_en":"公怒，欲段之 公作夾幕，藏五百甲兵，欲害之。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_610","lb_range":["0568b16"],"text_zh":"句。","text_en":"盾走 句。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_611","lb_range":["0568b17"],"text_zh":"輒為五百甲兵之一，故扶輪以報之。","text_en":"出乘車 輒為五百甲兵之一，故扶輪以報之。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_612","lb_range":["0568b18"],"text_zh":"不須和會。","text_en":"無扶輪之說 不須和會。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_613","lb_range":["0568b19","0568b20"],"text_zh":"從寬至狹，三對在焉。經為能詮，上 皆所詮。佛為能說，余皆所說。盆為能教，盂蘭所救。","text_en":"佛說盂蘭盆經 從寬至狹，三對在焉。經為能詮，上 皆所詮。佛為能說，余皆所說。盆為能教，盂蘭所救。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_614","lb_range":["0568b21"],"text_zh":"西晉武帝，諱炎，字世安，即文帝之元子。","text_en":"晉武帝 西晉武帝，諱炎，字世安，即文帝之元子。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_615","lb_range":["0568b22"],"text_zh":"即武帝第二子，諱衷，字正度。","text_en":"惠帝 即武帝第二子，諱衷，字正度。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_616","lb_range":["0568b23"],"text_zh":"釋靖邁撰。","text_en":"譯經圖紀 釋靖邁撰。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_617","lb_range":["0568b24"],"text_zh":"即題云《灌臘經》。","text_en":"略舉汲灌 即題云《灌臘經》。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_618","lb_range":["0568c01"],"text_zh":"省，亦略也。其餘即香、油、錠、燭等。","text_en":"以省其餘 省，亦略也。其餘即香、油、錠、燭等。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_619","lb_range":["0568c02","0568c03"],"text_zh":"《呂氏春秋》云：「前歲百擊皷驅疲癘之鬼，謂之 逐除。」","text_en":"臘除 《呂氏春秋》云：「前歲百擊皷驅疲癘之鬼，謂之 逐除。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_620","lb_range":["0568c04"],"text_zh":"孟子：「猶解倒懸。」趙岐注：「喻困苦也。」","text_en":"倒懸 孟 子：「猶解倒懸。」趙岐注：「喻困苦也。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_621","lb_range":["0568c05","0568c06","0568c07","0568c08","0568c09"],"text_zh":"《大宋高僧傳》云：「釋義淨，字文明，姓張氏， 范陽人也。翻傳經論，與奘師杭衡。比其著述，淨多 文性。」又按唐中宗皇帝述聖教序云：「法師義淨，業 該經史，學洞古今。」以是推之，則圭峯始自釋題，終 於解經，多引其疏詞者，良有以也。","text_en":"義淨三藏 《大宋高僧傳》云：「釋義淨，字文明，姓張氏， 范陽人也。翻傳經論，與奘師杭衡。比其著述，淨多 文性。」又按唐中宗皇帝述聖教序云：「法師義淨，業 該經史，學洞古今。」以是推之，則圭峯始自釋題，終 於解經，多引其疏詞者，良有以也。","type":"dialogue","confidence":1}
+{"unit_id":"X21n0376_622","lb_range":["0568c10"],"text_zh":"名也，字子國，孔子十一世孫也。","text_en":"孔安國 名也，字子國，孔子十一世孫也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_623","lb_range":["0568c11"],"text_zh":"冠冕服飾，五彩十二章，具如《周禮》。","text_en":"冕服彩章 冠冕服飾，五彩十二章，具如《周禮》。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_624","lb_range":["0568c12"],"text_zh":"夏桀昏亂，不恤下民。","text_en":"有夏昏德 夏桀昏亂，不恤下民。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_625","lb_range":["0568c13"],"text_zh":"逼急之甚。","text_en":"窘 逼急之甚。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_626","lb_range":["0568c14","0568c15"],"text_zh":"解疏「典誥」二字，籍，部也。《周易》、《尚書》、《毛詩》、《春秋》、 《周禮》文，河間王作《樂記》，是為六經也。","text_en":"六籍 解疏「典誥」二字，籍，部也。《周易》、《尚書》、《毛詩》、《春秋》、 《周禮》文，河間王作《樂記》，是為六經也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_627","lb_range":["0568c16"],"text_zh":"盛德茂業，如《令摸鈔》。","text_en":"彌天 盛德茂業，如《令摸鈔》。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_628","lb_range":["0568c17"],"text_zh":"姓習，名鑿齒，字彥戚。","text_en":"習鑿齒 姓習，名鑿齒，字彥戚。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_629","lb_range":["0568c18"],"text_zh":"升也，入也。《智度論》云：信為能入也。","text_en":"疏：非信不階 升也，入也。《智度論》云：信為能入也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_630","lb_range":["0568c19","0568c20"],"text_zh":"是淨飯王之奴，雖投佛出家，而習氣不 除。","text_en":"惡口車匿 是淨飯王之奴，雖投佛出家，而習氣不 除。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_631","lb_range":["0568c21","0568c22"],"text_zh":"處有淨土穢國，穢中又有諸國，故通云某 處。","text_en":"在某處 處有淨土穢國，穢中又有諸國，故通云某 處。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_632","lb_range":["0568c23","0568c24"],"text_zh":"如《圓覺》十萬菩薩，《法華》萬二千人俱，故通 標某眾也。","text_en":"與某眾 如《圓覺》十萬菩薩，《法華》萬二千人俱，故通 標某眾也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_633","lb_range":["0569a01"],"text_zh":"姓李，名耳，字陽，諡曰聃。","text_en":"老子 姓李，名耳，字陽， 諡 曰聃。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_634","lb_range":["0569a02","0569a03","0569a04","0569a05","0569a06"],"text_zh":"《圓覺大鈔》云：「諸方者，豎謂上 下，橫謂四方。言延促者，人間五十年，四天王天一 晝夜等。言不定，有二意：一則指上延促不定，二謂 四洲晝夜不同，故云不定。謂北洲夜半，南洲日午， 東洲日沒，西洲日出。」","text_en":"諸方時分，延促不定 《圓覺大鈔》云：「諸方者，豎謂上 下，橫謂四方。言延促者，人間五十年，四天王天一 晝夜等。言不定，有二意：一則指上延促不定，二謂 四洲晝夜不同，故云不定。謂北洲夜半，南洲日午， 東洲日沒，西洲日出。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_635","lb_range":["0569a07"],"text_zh":"游化則舍衛，住止則祇園。","text_en":"游化住止 游化則舍衛，住止則祇園。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_636","lb_range":["0569a08"],"text_zh":"此云淨教。","text_en":"阿含 此云淨教。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_637","lb_range":["0569a09","0569a10","0569a11"],"text_zh":"《大鈔》云：「覺妄法本空，照真性 本淨，故云覺了真妄。又覺性中本無諸妄為覺性， 照性上恒沙功德本來具足為覺相。」","text_en":"覺了真妄性相之者 《大鈔》云：「覺妄法本空，照真性 本淨，故云覺了真妄。又覺性中本無諸妄為覺性， 照性上恒沙功德本來具足為覺相。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_638","lb_range":["0569a12"],"text_zh":"始覺智合本覺理也。","text_en":"始本合 始覺智合本覺理也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_639","lb_range":["0569a13","0569a14"],"text_zh":"等覺菩薩由照而至寂，妙覺大聖從寂 而發照，亦猶賢人自明而誠，聖人自誠而明。","text_en":"等覺照寂 等覺菩薩由照而至寂，妙覺大聖從寂 而發照，亦猶賢人自明而誠，聖人自誠而明。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_640","lb_range":["0569a15"],"text_zh":"佳麗女色。","text_en":"疏：具足欲塵 佳麗女色。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_641","lb_range":["0569a16"],"text_zh":"珍奇寶物。","text_en":"財寶 珍奇寶物。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_642","lb_range":["0569a17"],"text_zh":"愽通內外典籍。","text_en":"多聞 愽通內外典籍。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_643","lb_range":["0569a18"],"text_zh":"五通仙人，此則國豐四德，亦名豐德城。","text_en":"解脫 五通仙人，此則國豐四德，亦名豐德城。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_644","lb_range":["0569a19"],"text_zh":"應法師云：「人不𥧌目，常鰥鰥然，如魚目之不閉。」","text_en":"鰥 應法師云：「人不 𥧌 目，常鰥鰥然，如魚目之不閉。」","type":"dialogue","confidence":1}
+{"unit_id":"X21n0376_645","lb_range":["0569a20"],"text_zh":"告之言訴也，言此四是無告訴者。","text_en":"無告 告之言訴也，言此四是無告訴者。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_646","lb_range":["0569a21","0569a22","0569a23"],"text_zh":"《白虎通》曰：「君者，羣下之所歸也。臣者，堅也， 勵志自堅也。父，矩也，以法度教子也。子，孳也，孳孳 無已也。兄，況也，況父法也。弟，悌也，心順行篤也。」","text_en":"君臣下 《白虎通》曰：「君者，羣下之所歸也。臣者，堅也， 勵志自堅也。父，矩也，以法度教子也。子，孳也，孳孳 無 已 也。兄，況也，況父法也。弟，悌也，心順行篤也。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_647","lb_range":["0569a24"],"text_zh":"《倉頡篇》云：「種木曰園，種菜曰圃。」","text_en":"園圃 《倉頡篇》云：「種木曰園，種菜曰圃。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_648","lb_range":["0569b01","0569b02","0569b03","0569b04","0569b05"],"text_zh":"二名，未詳所飜。按靖邁《譯經圖紀》云：「迦葉摩 騰，中印度人，婆羅門種，幼而敏悟，兼有風姿，愽學 多聞，特明經律，每有新義，出於神表。竺法蘭者，中 印度人，禪思毗尼，莫不窮玅，誦經百餘萬言，學徒 千餘，居不求安，常懷弘利，戒範嚴峻，眾莫能窺。」","text_en":"騰蘭 二名，未詳所飜。按靖邁《譯經圖紀》云：「迦葉摩 騰，中印度人，婆羅門種，幼而敏悟，兼有風姿，愽學 多聞，特明經律，每有新義，出於神表。竺法蘭者，中 印度人，禪思毗尼，莫不窮玅，誦經百餘萬言，學徒 千餘，居不求安，常懷弘利，戒範嚴峻，眾莫能窺。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_649","lb_range":["0569b06"],"text_zh":"齎白㲲𦘕像，《四十二章經》，初流通此土。","text_en":"法水初流 齎白 㲲 𦘕 像，《四十二章經》，初流通此土。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_650","lb_range":["0569b07","0569b08"],"text_zh":"鴻，大也。臚，音閭。陳，序也。言大陳序所須，以禮 外國之賓。","text_en":"鴻臚 鴻，大也。臚，音閭。陳，序也。言大陳序所須，以禮 外國之賓。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_651","lb_range":["0569b09","0569b10"],"text_zh":"東夷、而戎、南蠻、北狄通言夷，易也，言禮法簡 易也。","text_en":"四夷 東夷、而戎、南蠻、北狄通言夷，易也，言禮法簡 易也。 邸，舍 暫至曰邸。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_652","lb_range":[],"text_zh":"暫至曰邸。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_653","lb_range":["0569b11"],"text_zh":"法也。論名。","text_en":"毗曇 法也。論名。 別館 白馬等寺。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_654","lb_range":[],"text_zh":"白馬等寺。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_655","lb_range":["0569b12"],"text_zh":"煩惱并無明，如小乘諸論。","text_en":"三漏 煩惱并無明，如小乘諸論。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_656","lb_range":["0569b13","0569b14"],"text_zh":"青提乳哺目連，如趙盾濟食靈 輙，皆恩之實事。","text_en":"疏：乳哺，如濟食等 青提乳哺目連，如趙盾濟食靈 輙，皆恩之實事。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_657","lb_range":["0569b15","0569b16"],"text_zh":"目連得神通，度脫青提，如靈輙為甲 士，扶趙盾輪，皆報之實事。","text_en":"度脫如扶輪 目連得神通，度脫青提，如靈輙為甲 士，扶趙盾輪，皆報之實事。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_658","lb_range":["0569b17","0569b18"],"text_zh":"齊，資音。齋者，《禮記外傳》云：「齋之言齊也， 如針縷緝其裳下之縫，使齊平也。斬者，翦而不緝。」","text_en":"齊斬之異 齊，資音。齋者，《禮記外傳》云：「齋之言齊也， 如針縷緝其裳下之縫，使齊平也。斬者，翦而不緝。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_659","lb_range":["0569b19"],"text_zh":"十三月，除而徹去之。","text_en":"除徹 十三月，除而徹去之。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_660","lb_range":["0569b20"],"text_zh":"唐第三主，諱活，太宗之子也。","text_en":"高宗 唐第三主，諱活，太宗之子也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_661","lb_range":["0569b21"],"text_zh":"則天也。以未登九五，故曰天后。諱𧸵，音照。","text_en":"天后 則天也。以未登九五，故曰天后。諱 𧸵 ，音照。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_662","lb_range":["0569b22"],"text_zh":"標也。標陳己情，進於上也。","text_en":"上表 標也。標陳 己 情，進於上也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_663","lb_range":["0569b23"],"text_zh":"則天年號。","text_en":"垂拱 則天年號。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_664","lb_range":["0569b24"],"text_zh":"唐第六主，諱隆基，睿宗之子。","text_en":"玄宗 唐第六主，諱隆基，睿宗之子。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_665","lb_range":["0569c01"],"text_zh":"太祖皇帝改為左正言。","text_en":"左補闕 太祖皇帝改為左正言。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_666","lb_range":["0569c02"],"text_zh":"致敬神也。","text_en":"五禮吉禮 致敬神也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_667","lb_range":["0569c03"],"text_zh":"為之棺槨。","text_en":"凶禮 為之棺槨。 賓禮 朝聘。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_668","lb_range":[],"text_zh":"朝聘。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_669","lb_range":["0569c04"],"text_zh":"戰戎。","text_en":"軍禮 戰戎。 嘉禮 嫁 聚。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_670","lb_range":[],"text_zh":"嫁聚。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_671","lb_range":["0569c05"],"text_zh":"啟，開。窹與悟，音義同。","text_en":"啟寤 啟，開。窹與悟，音義同。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_672","lb_range":["0569c06"],"text_zh":"隋朝慧遠法師，制《涅槃經疏》。","text_en":"北遠 隋朝慧遠法師，制《涅槃經疏》。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_673","lb_range":["0569c07"],"text_zh":"如鶖子與慈氏。","text_en":"從母立姓 如鶖子與慈氏。 耐 音柰。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_674","lb_range":[],"text_zh":"音柰。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_675","lb_range":["0569c08","0569c09","0569c10"],"text_zh":"《毗柰耶》云：「若父母無信，令起信心；若慳 者，令行惠施；若無智，令發智慧。子能如是，方曰報 恩。」","text_en":"亦不能報 《毗柰耶》云：「若父母無信，令起信心；若慳 者，令行惠施；若無智，令發智慧。子能如是，方曰報 恩。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_676","lb_range":["0569c11"],"text_zh":"或可。第十三王。從文王至幽王，正當其數。","text_en":"十三卷 或可。第十三王。從文王至幽王，正當其數。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_677","lb_range":["0569c12"],"text_zh":"諱涅，宣王之子。","text_en":"幽王 諱涅，宣王之子。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_678","lb_range":["0569c13"],"text_zh":"劉義撰，後編入《南史》。","text_en":"宋書 劉義撰，後編入《南史》。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_679","lb_range":["0569c14","0569c15"],"text_zh":"君子固亦有窮時，但不如小人窮則濫，溢為 非。","text_en":"固窮 君子固亦有窮時，但不如小人窮則濫，溢為 非。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_680","lb_range":["0569c16"],"text_zh":"上音丹，竹器也。下音嗣。","text_en":"簞食 上音丹，竹器也。下音嗣。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_681","lb_range":["0569c17"],"text_zh":"即匏片持水耳。","text_en":"瓢飲 即匏片持水耳。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_682","lb_range":["0569c18"],"text_zh":"亞，次孔聖。","text_en":"亞聖 亞，次孔聖。 浮 捊音。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_683","lb_range":[],"text_zh":"捊音。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_684","lb_range":["0569c19"],"text_zh":"同門曰朋，同志曰友。","text_en":"疏：朋友 同門曰朋，同志曰友。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_685","lb_range":["0569c20"],"text_zh":"韓子云：「南北曰縱，東西曰廣。」","text_en":"縱廣 韓子云：「南北曰縱，東西曰廣。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_686","lb_range":["0569c21"],"text_zh":"有云鬼折草為刀，更相殺害，詳之。","text_en":"刀塗道 有云鬼折草為刀，更相殺害，詳之。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_687","lb_range":["0569c22"],"text_zh":"姓尸，名佼，音絞，魯人，著書二十篇。","text_en":"尸子 姓尸，名佼，音絞，魯人，著書二十篇。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_688","lb_range":["0569c23","0569c24"],"text_zh":"此云相應。上釋三果，多依《行願鈔》引《瑜伽》解 之。","text_en":"瑜伽 此云相應。上釋三果，多依《行願鈔》引《瑜伽》解 之。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_689","lb_range":["0570a01"],"text_zh":"蘭盆鈔名，東京遇榮大師撰，亦二卷。","text_en":"孝衡 蘭盆鈔名，東京遇榮大師撰，亦二卷。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_690","lb_range":["0570a02"],"text_zh":"初殺、正殺、已殺。","text_en":"三時無悔 初殺、正殺、 已 殺。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_691","lb_range":["0570a03","0570a04"],"text_zh":"五戒外，加：六、不坐高廣牀；七、不著華鬘纓絡， 并香油塗身熏衣；八、不自歌舞，不自輒往視聽。","text_en":"八戒 五戒外，加：六、不坐高廣牀；七、不著華鬘纓絡， 并香油塗身熏衣；八、不自歌舞，不自輒往視聽。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_692","lb_range":["0570a05","0570a06"],"text_zh":"殺二親為上品，蚊蚋為下品，餘人餘畜 為中品。","text_en":"不善反此 殺二親為上品，蚊蚋為下品，餘人餘畜 為中品。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_693","lb_range":["0570a07","0570a08","0570a09"],"text_zh":"即我愛、我痴、我見、我慢四惑。故三界輪 外，𦘕王表慢，𦘕女表愛，𦘕婆羅門表見，𦘕猴表癡。 乃執第八相分為內我，與第六為根，云染依。","text_en":"為染汙依 即我愛、我痴、我見、我慢四惑。故三界輪 外， 𦘕 王表慢， 𦘕 女表愛， 𦘕 婆羅門表見， 𦘕 猴表癡。 乃執第八相分為內我，與第六為根，云染依。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_694","lb_range":["0570a10"],"text_zh":"南瞻部洲。","text_en":"疏：此洲 南瞻部洲。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_695","lb_range":["0570a11"],"text_zh":"應法師撰，凡二十五卷。","text_en":"一切經音義 應法師撰，凡二十五卷。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_696","lb_range":["0570a12"],"text_zh":"王逸注之。","text_en":"楚辭注 王逸注之。 通俗文 釋通方俗之言。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_697","lb_range":[],"text_zh":"釋通方俗之言。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_698","lb_range":["0570a13"],"text_zh":"淨住子云：王或臥䥫牀等苦。","text_en":"苦樂並受 淨住子云：王或臥 䥫 牀等苦。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_699","lb_range":["0570a14"],"text_zh":"炙，隻音。《尚書》云：「焚炙忠良。」","text_en":"楚炙賢良 炙，隻音。《尚書》云：「焚炙忠良。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_700","lb_range":["0570a15"],"text_zh":"音汙，憎也。","text_en":"自惡 音汙，憎也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_701","lb_range":["0570a16","0570a17"],"text_zh":"藩，籬也。羸，力追切，絆也。易云：「羝羊觸藩， 羸其角。今羸籬穿，決非絆之也。」","text_en":"藩決不羸 藩，籬也。羸，力追切，絆也。易云：「羝羊觸藩， 羸其角。今羸籬穿，決非絆之也。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_702","lb_range":["0570a18"],"text_zh":"吉迦夜與竺曇耀譯。","text_en":"付法藏傳 吉迦夜與竺曇耀譯。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_703","lb_range":["0570a19"],"text_zh":"胡瓦切，露身也。","text_en":"倮 胡瓦切，露身也。 吾息 子也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_704","lb_range":[],"text_zh":"子也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_705","lb_range":["0570a20"],"text_zh":"地音，擊木作聲，謂之信皷。","text_en":"鳴稚 地音，擊木作聲，謂之信皷。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_706","lb_range":["0570a21"],"text_zh":"指前二鬼。","text_en":"以福故宮殿七寶 指前二鬼。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_707","lb_range":["0570a22"],"text_zh":"指後眾僧。","text_en":"堂閣嚴飾 指後眾僧。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_708","lb_range":["0570a23"],"text_zh":"通指上二。","text_en":"以罪故而受鬼身 通指上二。 膺 當也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_709","lb_range":[],"text_zh":"當也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_710","lb_range":["0570a24","0570b01"],"text_zh":"孔注云：「不慎其德，以速滅敗，雖欲改 悔，其可追及乎？」","text_en":"弗慎厥德，下 孔注云：「不慎其德，以速滅敗，雖欲改 悔，其可追及乎？」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_711","lb_range":["0570b02","0570b03","0570b04"],"text_zh":"厭，塞也。課，責也。當二親忌日，無心脩崇， 但厭塞人之課責，故為之耳。《孝衡》云：「內無實德，外 衒虗名，故云厭課。」","text_en":"厭課者多 厭，塞也。課，責也。當二親忌日，無心脩崇， 但厭塞人之課責，故為之耳。《孝衡》云：「內無實德，外 衒虗名，故云厭課。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_712","lb_range":["0570b05"],"text_zh":"孫悟之子。","text_en":"元啟 孫悟之子。 㳂 襲 㳂 流承襲。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_713","lb_range":[],"text_zh":"㳂流承襲。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_714","lb_range":["0570b06"],"text_zh":"女弱，故拊擗其心。","text_en":"拊心 女弱，故拊擗其心。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_715","lb_range":["0570b07"],"text_zh":"男彊，故跳踊其身。","text_en":"跳身 男彊，故跳踊其身。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_716","lb_range":["0570b08"],"text_zh":"宋文帝。年號。","text_en":"元嘉 宋文帝。年號。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_717","lb_range":["0570b09"],"text_zh":"史臣記天子之事也。","text_en":"起居注 史臣記天子之事也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_718","lb_range":["0570b10","0570b11","0570b12"],"text_zh":"春分、秋分，即八節之二也。節謂分、至、啟、閉 八節。春、秋有分，冬、夏有至，啟謂立春、立夏，閉謂立 秋、立冬，是為八。","text_en":"春秋分 春分、秋分，即八節之二也。節謂分、至、啟、閉 八節。春、秋有分，冬、夏有至，啟謂立春、立夏，閉謂立 秋、立冬，是為八。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_719","lb_range":["0570b13","0570b14"],"text_zh":"權，秤錘也。秤帶其器，以承龍口中水也。錘真 偽功。","text_en":"權器 權，秤錘也。秤帶其器，以承龍口中水也。錘真 偽功。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_720","lb_range":["0570b15","0570b16","0570b17","0570b18","0570b19","0570b20","0570b21","0570b22"],"text_zh":"刻漏更點，起自軒轅，故《周禮》云「挈壺氏掌之」是也。 近世釋瑞新作壺更刻漏，其文簡而理詣，故士大 夫多取之。然〈起居注〉以春秋二分明五十五刻，此 乃一家之說。今依本朝定景福殿秤漏，春秋二分 各五十刻，匪唯學者之易曉，亦古今之通規歟。比 見講學多昧於此，因而錄之，庶備詳覽，勿謂鈔簡， 貴引文繁云耳。","text_en":"節氣加減，刻漏規式 刻漏更點，起自軒轅，故《周禮》云「挈壺氏掌之」是也。 近世釋瑞新作壺更刻漏，其文簡而理詣，故士大 夫多取之。然〈起居注〉以春秋二分明五十五刻，此 乃一家之說。今依本朝定景福殿秤漏，春秋二分 各五十刻，匪唯學者之易曉，亦古今之通規歟。比 見講學多昧於此，因而錄之，庶備詳覽，勿謂鈔簡， 貴引文繁云耳。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_721","lb_range":["0570b23"],"text_zh":"","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_722","lb_range":["0570b24"],"text_zh":"四十刻","text_en":"四十刻 六十刻","type":"prose","confidence":1}
+{"unit_id":"X21n0376_723","lb_range":[],"text_zh":"六十刻","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_724","lb_range":["0570c01"],"text_zh":"四十一刻","text_en":"四十一刻 五十九刻","type":"prose","confidence":1}
+{"unit_id":"X21n0376_725","lb_range":[],"text_zh":"五十九刻","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_726","lb_range":["0570c02"],"text_zh":"四十二刻","text_en":"四十二刻 五十八刻","type":"prose","confidence":1}
+{"unit_id":"X21n0376_727","lb_range":[],"text_zh":"五十八刻","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_728","lb_range":["0570c03"],"text_zh":"四十三刻","text_en":"四十三刻 五十七刻","type":"prose","confidence":1}
+{"unit_id":"X21n0376_729","lb_range":[],"text_zh":"五十七刻","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_730","lb_range":["0570c04"],"text_zh":"四十四刻","text_en":"四十四刻 五十六刻","type":"prose","confidence":1}
+{"unit_id":"X21n0376_731","lb_range":[],"text_zh":"五十六刻","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_732","lb_range":["0570c05"],"text_zh":"四十五刻","text_en":"四十五刻 五十五刻","type":"prose","confidence":1}
+{"unit_id":"X21n0376_733","lb_range":[],"text_zh":"五十五刻","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_734","lb_range":["0570c06"],"text_zh":"四十六刻","text_en":"四十六刻 五十四刻","type":"prose","confidence":1}
+{"unit_id":"X21n0376_735","lb_range":[],"text_zh":"五十四刻","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_736","lb_range":["0570c07"],"text_zh":"四十七刻","text_en":"四十七刻 五十三刻","type":"prose","confidence":1}
+{"unit_id":"X21n0376_737","lb_range":[],"text_zh":"五十三刻","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_738","lb_range":["0570c08"],"text_zh":"四十八刻","text_en":"四十八刻 五十二刻","type":"prose","confidence":1}
+{"unit_id":"X21n0376_739","lb_range":[],"text_zh":"五十二刻","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_740","lb_range":["0570c09"],"text_zh":"四十九刻","text_en":"四十九刻 五十一刻","type":"prose","confidence":1}
+{"unit_id":"X21n0376_741","lb_range":[],"text_zh":"五十一刻","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_742","lb_range":["0570c10"],"text_zh":"五十刻","text_en":"五十刻 五十刻","type":"prose","confidence":1}
+{"unit_id":"X21n0376_743","lb_range":[],"text_zh":"五十刻","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_744","lb_range":["0570c11"],"text_zh":"五十一刻","text_en":"五十一刻 四十九刻","type":"prose","confidence":1}
+{"unit_id":"X21n0376_745","lb_range":[],"text_zh":"四十九刻","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_746","lb_range":["0570c12"],"text_zh":"五十二刻","text_en":"五十二刻 四十八刻","type":"prose","confidence":1}
+{"unit_id":"X21n0376_747","lb_range":[],"text_zh":"四十八刻","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_748","lb_range":["0570c13"],"text_zh":"五十三刻","text_en":"五十三刻 四十七刻","type":"prose","confidence":1}
+{"unit_id":"X21n0376_749","lb_range":[],"text_zh":"四十七刻","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_750","lb_range":["0570c14"],"text_zh":"五十四刻","text_en":"五十四刻 四十六刻","type":"prose","confidence":1}
+{"unit_id":"X21n0376_751","lb_range":[],"text_zh":"四十六刻","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_752","lb_range":["0570c15"],"text_zh":"五十五刻","text_en":"五十五刻 四十五刻","type":"prose","confidence":1}
+{"unit_id":"X21n0376_753","lb_range":[],"text_zh":"四十五刻","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_754","lb_range":["0570c16"],"text_zh":"五十六刻","text_en":"五十六刻 四十四刻","type":"prose","confidence":1}
+{"unit_id":"X21n0376_755","lb_range":[],"text_zh":"四十四刻","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_756","lb_range":["0570c17"],"text_zh":"五十七刻","text_en":"五十七刻 四十三刻","type":"prose","confidence":1}
+{"unit_id":"X21n0376_757","lb_range":[],"text_zh":"四十三刻","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_758","lb_range":["0570c18"],"text_zh":"五十八刻","text_en":"五十八刻 四十二刻","type":"prose","confidence":1}
+{"unit_id":"X21n0376_759","lb_range":[],"text_zh":"四十二刻","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_760","lb_range":["0570c19"],"text_zh":"五十九刻","text_en":"五十九刻 四十一刻","type":"prose","confidence":1}
+{"unit_id":"X21n0376_761","lb_range":[],"text_zh":"四十一刻","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_762","lb_range":["0570c20"],"text_zh":"六十刻","text_en":"六十刻 四十刻","type":"prose","confidence":1}
+{"unit_id":"X21n0376_763","lb_range":[],"text_zh":"四十刻","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_764","lb_range":["0570c21"],"text_zh":"奴力切。思也。","text_en":"惄 奴力切。思也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_765","lb_range":["0570c22"],"text_zh":"匱音。","text_en":"饋 匱音。 勝也 上平聲。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_766","lb_range":[],"text_zh":"上平聲。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_767","lb_range":["0570c23","0570c24","0571a01"],"text_zh":"即神境、天耳、他心。但觀其相曰通，知其因緣 曰明。此三不能緣三世，故不得稱明。委辨如《令摸 鈔》。","text_en":"餘三 即神境、天耳、他心。但觀其相曰通，知其因緣 曰明。此三不能緣三世，故不得稱明。委辨如《令摸 鈔》。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_768","lb_range":["0571a02","0571a03"],"text_zh":"由種子故生起現行，由現行故熏成種 子。","text_en":"種現相資 由種子故生起現行，由現行故熏成種 子。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_769","lb_range":["0571a04","0571a05"],"text_zh":"有六，謂貪、瞋、痴、慢、疑、惡見，今貪屬一數 也。","text_en":"根本煩惱 有六，謂貪、瞋、痴、慢、疑、惡見，今貪屬一數 也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_770","lb_range":["0571a06","0571a07"],"text_zh":"有二十：忿、恨、惱、覆、誑、諂、憍、害、嫉、慳、無慙、無 愧、不信、懈怠、放逸、󳬯沉、掉舉、失念、不正知、散亂。","text_en":"隨煩惱 有二十：忿、恨、惱、覆、誑、 諂、 憍、害、嫉、慳、無慙、無 愧、不信、懈怠、放逸、 󳬯 沉、掉舉、失念、不正知、散亂。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_771","lb_range":["0571a08"],"text_zh":"釋慳。","text_en":"不行惠施 釋慳。 侵奪他財 釋貪。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_772","lb_range":[],"text_zh":"釋貪。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_773","lb_range":["0571a09"],"text_zh":"識、名色、六入、觸、受、生、老死。","text_en":"七支 識、名色、六入、觸、受、生、老死。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_774","lb_range":["0571a10"],"text_zh":"無傷慈過。","text_en":"貪無是過 無傷慈過。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_775","lb_range":["0571a11"],"text_zh":"無分別之慳惑，有人中之習氣。","text_en":"鬼無分別煩惱 無分別之慳惑，有人中之習氣。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_776","lb_range":["0571a12"],"text_zh":"孔融曰：「妄作文章，穿鑿以成。」","text_en":"穿鑿 孔融曰：「妄作文章，穿鑿以成。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_777","lb_range":["0571a13"],"text_zh":"即他化自在天。","text_en":"第六天 即他化自在天。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_778","lb_range":["0571a14","0571a15"],"text_zh":"乾闥婆、毗 舍闍。","text_en":"四王東方提頭賴吒，此云持國，管二部 乾闥婆、毗 舍闍。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_779","lb_range":["0571a16","0571a17"],"text_zh":"鳩槃荼、薜茘 多，魘鬼。","text_en":"南方毗樓勒叉，此云增長，主管二部 鳩槃荼、薜茘 多，魘鬼。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_780","lb_range":["0571a18"],"text_zh":"龍王、富單那。","text_en":"西方毗樓愽叉，此云廣目，管二部 龍王、富單那。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_781","lb_range":["0571a19"],"text_zh":"夜叉、羅剎。","text_en":"北方毗沙門，此云多聞，管二部 夜叉、羅剎。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_782","lb_range":["0571a20"],"text_zh":"字萬石，官至大傅。出《晉書》。","text_en":"謝安 字萬石，官至大傅。出《晉書》。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_783","lb_range":["0571a21","0571a22","0571a23"],"text_zh":"齊沙彌道慧，能講涅槃法，安能述佛性？永問： 「慧年幾？」答云：「十九。」永歎曰：「昔日諸糓年十二善書 學，時人號為才童；今日二道士可謂義少。」","text_en":"義少 齊沙彌道慧，能講涅槃法，安能述佛性？永問： 「慧年幾？」答云：「十九。」永歎曰：「昔日諸糓年十二善書 學，時人號為才童；今日二道士可謂義少。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_784","lb_range":["0571a24","0571b01","0571b02"],"text_zh":"亦如《魏志》云：「張歆與管寧為友，二人鋤園，見 金一挺，寧遂揮鋤與歆，迴於本處。尋有釆薪人，見 變作蛇，因而斫之為二段。□□復來見之。」","text_en":"斷金 亦如《魏志》云：「張歆與管寧為友，二人鋤園，見 金一挺，寧遂揮鋤與歆，迴於本處。尋有釆薪人，見 變作蛇，因而斫之為二段。□□復來見之 。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_785","lb_range":["0571b03","0571b04"],"text_zh":"古人云：「蘭生深林，不以無人而不芳。以 其有十步之香，譬君子美德矣。」","text_en":"其臭如蘭 古人云：「蘭生深林，不以無人而不芳。以 其有十步之香，譬君子美德矣。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_786","lb_range":["0571b05","0571b06"],"text_zh":"約僧體言之，《業疏》云：「三人已下，辨 法未盡；四人已上，作法成濟耳。」","text_en":"四人和合成眾 約僧體言之，《業疏》云：「三人 已 下，辨 法未盡；四人 已 上，作法成濟耳。」","type":"dialogue","confidence":1}
+{"unit_id":"X21n0376_787","lb_range":["0571b07"],"text_zh":"不言秋者，以西天但分三際耳。","text_en":"春冬過少 不言秋者，以西天但分三際耳。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_788","lb_range":["0571b08"],"text_zh":"唯結一日。","text_en":"四月十六日，是前安居 唯結一日。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_789","lb_range":["0571b09"],"text_zh":"亦結一日。","text_en":"五月十六日，是後安居 亦結一日。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_790","lb_range":["0571b10"],"text_zh":"五月十六日、六月十六日、七月十六日。","text_en":"但結三月 五月十六日、六月十六日、七月十六日。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_791","lb_range":["0571b11","0571b12"],"text_zh":"從七月十六至八月十五。名迦提月。賞 前安居之勞也。迦提月即賞勞月也。","text_en":"開後一月 從七月十六至八月十五。名迦提月。賞 前安居之勞也。迦提月即賞勞月也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_792","lb_range":["0571b13"],"text_zh":"四月十六至五月十六。","text_en":"始從十六至後十六 四月十六至五月十六。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_793","lb_range":["0571b14","0571b15"],"text_zh":"如律鈔所明，既非本宗，不可 曲辨。","text_en":"急施衣次第增等文 如律鈔所明，既非本宗，不可 曲辨。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_794","lb_range":["0571b16"],"text_zh":"十四、十五、十六。","text_en":"增三中三日 十四、十五、十六。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_795","lb_range":["0571b17"],"text_zh":"彝法章明，即制教也。","text_en":"彝章 彝法章明，即制教也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_796","lb_range":["0571b18","0571b19"],"text_zh":"以三藏中有律教，例六經之有禮法 焉。","text_en":"禮因人情下 以三藏中有律教，例六經之有禮法 焉。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_797","lb_range":["0571b20"],"text_zh":"玉病曰瑕，人病曰疵。","text_en":"瑕疵 玉病曰瑕，人病曰疵。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_798","lb_range":["0571b21"],"text_zh":"此云本母。","text_en":"摩得勒伽 此云本母。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_799","lb_range":["0571b22"],"text_zh":"自恣懺罪，得入清眾。","text_en":"不孤獨 自恣懺罪，得入清眾。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_800","lb_range":["0571b23"],"text_zh":"如《華嚴》、《圓覺》二疏廣辨。","text_en":"十二分教 如《華嚴》、《圓覺》二疏廣辨。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_801","lb_range":["0571b24","0571c01"],"text_zh":"西域渡海人，以鳥翎毛為袋，或用大牛皮吹 氣內中而渡之耳。","text_en":"浮囊 西域渡海人，以鳥翎毛為袋，或用大牛皮吹 氣內中而渡之耳。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_802","lb_range":["0571c02"],"text_zh":"五篇七聚，廣略釋義如律鈔。","text_en":"篇聚 五篇七聚，廣略釋義如律鈔。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_803","lb_range":["0571c03"],"text_zh":"婬、殺、盜、妄。","text_en":"喻犯四重 婬、殺、盜、妄。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_804","lb_range":["0571c04","0571c05"],"text_zh":"僧殘也。《毗尼母》云：「如人為他所斫殘，有 咽哽。」","text_en":"喻犯十三 僧殘也。《毗尼母》云：「如人為他所斫殘，有 咽哽。」","type":"dialogue","confidence":1}
+{"unit_id":"X21n0376_805","lb_range":["0571c06"],"text_zh":"具云偷蘭遮，善見飜為大罪。","text_en":"喻犯偷蘭 具云偷蘭遮，善見飜為大罪。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_806","lb_range":["0571c07"],"text_zh":"謂三十捨墮、九十單提也。","text_en":"喻犯二提 謂三十捨墮、九十單提也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_807","lb_range":["0571c08"],"text_zh":"具云突吉羅，義飜應當學。","text_en":"喻犯吉羅 具云突吉羅，義飜應當學。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_808","lb_range":["0571c09"],"text_zh":"具云提舍尼，義飜向彼悔。","text_en":"為篇闕提舍 具云提舍尼，義飜向彼悔。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_809","lb_range":["0571c10"],"text_zh":"不開吉羅。","text_en":"為聚不開第五 不開吉羅。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_810","lb_range":["0571c11"],"text_zh":"篇中既闕，聚中亦然。","text_en":"亦闕提舍 篇中既闕，聚中亦然。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_811","lb_range":["0571c12","0571c13"],"text_zh":"《南山鈔》文，但張六聚，以正結罪科，止樹 六法耳。","text_en":"六聚之罪 《南山鈔》文， 但 張六聚，以正結罪科，止樹 六法耳。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_812","lb_range":["0571c14"],"text_zh":"獸音，自言其罪曰首。","text_en":"伏首 獸音，自言其罪曰首。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_813","lb_range":["0571c15"],"text_zh":"遮舉也。依當篇舉法治之。","text_en":"遮法 遮舉也。依當篇舉法治之。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_814","lb_range":["0571c16"],"text_zh":"曾孫、孫、子、考、祖、曾祖、高祖，是謂七世。","text_en":"至高祖 曾孫、孫、子、考、祖、曾祖、高祖，是謂七世。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_815","lb_range":["0571c17"],"text_zh":"揚雄撰，郭璞注。解異方之語也。","text_en":"方言 揚雄撰，郭璞注。解異方之語也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_816","lb_range":["0571c18"],"text_zh":"燈音。","text_en":"鐙 燈音。 糩 檜音。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_817","lb_range":[],"text_zh":"檜音。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_818","lb_range":["0571c19","0571c20"],"text_zh":"有說：「西域地多砂礫及以毒蟲，故用油 塗身并足。」","text_en":"香油塗身 有說：「西域地多砂礫及以毒蟲，故用油 塗身并足。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_819","lb_range":["0571c21"],"text_zh":"此云與樂。","text_en":"旃檀 此云與樂。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_820","lb_range":["0571c22","0571c23","0571c24"],"text_zh":"亦名󳬂金草。生伽毗國，似麥門冬，九月華開， 狀若芙蓉，其色紫碧，香聞數十步，華而不實，但取 其根，能治熱疾。今󳬂金絕多，即不如伽毗之珍也。","text_en":"󳬂 金 亦名 󳬂 金草。生伽毗國，似麥門冬，九月華開， 狀若芙蓉，其色紫碧，香聞數十步，華而不實， 但 取 其根，能治熱疾。今 󳬂 金絕多，即不如伽毗之珍也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_821","lb_range":["0572a01"],"text_zh":"殷第四帝名。","text_en":"太甲 殷第四帝名。 烱 逈音。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_822","lb_range":[],"text_zh":"逈音。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_823","lb_range":["0572a02"],"text_zh":"大乘三學與小教經論律不同。","text_en":"大小仍異 大乘三學與小教經論律不同。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_824","lb_range":["0572a03"],"text_zh":"狀似李，出西京。","text_en":"柰 狀似李，出西京。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_825","lb_range":["0572a04"],"text_zh":"其味香美者，趙國有之。","text_en":"芥 其味香美者，趙國有之。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_826","lb_range":["0572a05"],"text_zh":"壻之父為姻，婦之父為婚。鈔多母字。","text_en":"爾雅下 壻之父為姻，婦之父為婚。鈔多母字。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_827","lb_range":["0572a06"],"text_zh":"呼罪功贈也。","text_en":"疏：財賄 呼罪功贈也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_828","lb_range":["0572a07"],"text_zh":"即七葉嚴。","text_en":"畢鉢羅窟 即七葉嚴。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_829","lb_range":["0572a08"],"text_zh":"鴛音。","text_en":"宛 鴛音。 奔共 恭音。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_830","lb_range":[],"text_zh":"恭音。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_831","lb_range":["0572a09"],"text_zh":"器音，數也。","text_en":"亟 器音，數也。 繕甲兵 繕脩甲鎧。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_832","lb_range":[],"text_zh":"繕脩甲鎧。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_833","lb_range":["0572a10"],"text_zh":"卒，首也。乘，繩證切。","text_en":"具卒乘 卒，首也。乘，繩證切。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_834","lb_range":["0572a11"],"text_zh":"掩，以兵而取也。備，防也。","text_en":"掩不備 掩，以兵而取也。備，防也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_835","lb_range":["0572a12"],"text_zh":"夫人內應，將啟宮門。","text_en":"啟之 夫人內應，將啟宮門。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_836","lb_range":["0572a13","0572a14"],"text_zh":"莊公聞太叔與母之期，言可伐 京矣。","text_en":"公開其期曰可矣 莊公聞太叔與母之期，言可伐 京矣。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_837","lb_range":["0572a15"],"text_zh":"所類切。將帥也。","text_en":"帥 所類切。將帥也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_838","lb_range":["0572a16"],"text_zh":"有鐘皷曰伐，無鐘皷曰侵。","text_en":"伐京 有鐘皷曰伐，無鐘皷曰侵。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_839","lb_range":["0572a17"],"text_zh":"名呂，字子封，即莊公之子。","text_en":"公子呂 名呂，字子封，即莊公之子。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_840","lb_range":["0572a18"],"text_zh":"今之衛州。","text_en":"汲郡 今之衛州。 食舍 捨音。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_841","lb_range":[],"text_zh":"捨音。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_842","lb_range":["0572a19"],"text_zh":"遺猶賜也。","text_en":"以遺 遺猶賜也。 何患 憂也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_843","lb_range":[],"text_zh":"憂也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_844","lb_range":["0572a20"],"text_zh":"橛，音掘也。","text_en":"若闕 橛，音掘也。 隧 遂音。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_845","lb_range":[],"text_zh":"遂音。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_846","lb_range":["0572a21"],"text_zh":"延，長也。","text_en":"延道 延，長也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_847","lb_range":["0572a22"],"text_zh":"宰執山河相，助天子。","text_en":"經：宰相 宰執山河相，助天子。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_848","lb_range":["0572a23"],"text_zh":"即百辟也。《詩》云：「率茲百辟。」","text_en":"百官 即百辟也。《詩》云：「率茲百辟。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_849","lb_range":["0572a24"],"text_zh":"通士農工商四民。","text_en":"萬民 通士農工商四民。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_850","lb_range":["0572b01"],"text_zh":"眾人也。《書》云：「格爾眾庶。」","text_en":"庶人 眾人也。《書》云：「格爾眾庶。」","type":"prose","confidence":1}
+{"unit_id":"X21n0376_851","lb_range":["0572b02"],"text_zh":"周家設官分職。","text_en":"周官 周家設官分職。 太師 天子所師。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_852","lb_range":[],"text_zh":"天子所師。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_853","lb_range":["0572b03"],"text_zh":"傅相天子。","text_en":"太傅 傅相天子。 太保 保安天下。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_854","lb_range":[],"text_zh":"保安天下。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_855","lb_range":["0572b04"],"text_zh":"仍，因也。","text_en":"皆仍之 仍，因也。 俱舍 此云藏。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_856","lb_range":[],"text_zh":"此云藏。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_857","lb_range":["0572b05","0572b06"],"text_zh":"人具四，如《刊定記》。旁生即畜生，如化 生金翅鳥，能食四生龍。","text_en":"人、旁生具四 人具四，如《刊定記》。旁生即畜生，如化 生金翅鳥，能食四生龍。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_858","lb_range":["0572b07","0572b08"],"text_zh":"上三類皆化生中有，即 中陰身。","text_en":"地獄與諸天，中有唯化生 上三類皆化生中有，即 中陰身。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_859","lb_range":["0572b09"],"text_zh":"亦如《刊定》。","text_en":"通胎化二 亦如《刊定》。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_860","lb_range":["0572b10"],"text_zh":"《春秋別解》之名。","text_en":"春秋運斗樞 《春秋別解》之名。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_861","lb_range":["0572b11"],"text_zh":"晉譙周撰。","text_en":"譙子法訓 晉譙周撰。 替 廢也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_862","lb_range":[],"text_zh":"廢也。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_863","lb_range":["0572b12"],"text_zh":"上聲。","text_en":"數 上聲。 鴞 干嬌切。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_864","lb_range":[],"text_zh":"干嬌切。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_865","lb_range":["0572b13"],"text_zh":"許穢切，觜也。","text_en":"喙 許穢切，觜也。 劉子 即劉□。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_866","lb_range":[],"text_zh":"即劉□。","text_en":"","type":"prose","confidence":1}
+{"unit_id":"X21n0376_867","lb_range":["0572b14"],"text_zh":"張衡作。","text_en":"東京賦 張衡作。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_868","lb_range":["0572b15","0572b16"],"text_zh":"念念追思，年年□□。名之為作，作而無違。瑩 於戒德，稱之曰持。","text_en":"作持 念念追思，年年□□。名之為作，作而無違。瑩 於戒德，稱之曰持。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_869","lb_range":["0572b17","0572b18"],"text_zh":"不思劬勞，不救存沒，故名為止。止而有違，戒 黜七遮，乃名為犯。","text_en":"止犯 不思劬勞，不救存沒，故名為止。止而有違，戒 黜七遮，乃名為犯。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_870","lb_range":["0572b19"],"text_zh":"即優婆塞、優婆夷也。","text_en":"士女 即優婆塞、優婆夷也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_871","lb_range":["0572b20"],"text_zh":"結前目連聞教。","text_en":"今受神方 結前目連聞教。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_872","lb_range":["0572b21"],"text_zh":"結前設供獲益。","text_en":"兼覩靈驗 結前設供獲益。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_873","lb_range":["0572b22"],"text_zh":"象謂日月星也。","text_en":"天懸象 象謂日月星也。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_874","lb_range":["0572b23"],"text_zh":"傳體相續。","text_en":"父受氣 傳體相續。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_875","lb_range":["0572b24"],"text_zh":"楊雄，字子雲，法《論語》立言。","text_en":"揚子法言 楊雄，字子雲，法《論語》立言。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_876","lb_range":["0572c01"],"text_zh":"喻脫鬼身，生於善道。","text_en":"反魂起屍 喻脫鬼身，生於善道。","type":"prose","confidence":1}
+{"unit_id":"X21n0376_877","lb_range":["0572c02","0572c03","0572c04","0572c05"],"text_zh":"享保元丙申稔仲冬上旬以宋刻古本校正訖","text_en":"蘭盆疏鈔餘義 享保元丙申稔仲冬上旬以宋刻古本校正訖","type":"prose","confidence":1}
+{"unit_id":"X21n0376_878","lb_range":["0572c06"],"text_zh":"日本國南京沙門　秀慶　識","text_en":"日本國南京沙門　秀慶　識","type":"prose","confidence":1}

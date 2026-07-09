@@ -1,0 +1,366 @@
+{"source_sha256":"846af46d6f1c95e20c1de2fc47be35848cd1f49129e98d235dc795cae481c80e","schema":"seg-v1"}
+{"unit_id":"X63n1239_001","lb_range":["0224b01","0224b02","0224b03","0224b04","0224b05","0224b07","0224b08","0224b09","0224b10","0224b11","0224b12","0224b13","0224b14","0224b15","0224b16","0224b17","0224b18","0224b19"],"text_zh":"自六祖而下有五派，溈仰居其一，惜乎其後不得其 傳。然其法則傳萬世而無弊，不以人為存亡，溈山之 警䇿，是以夫警䇿之行於世尚矣。學者每患其辭雖 顯而其義則難窮，字有舛錯而久未能辨，不有宗師 大匠，安能發揚其義而校正其舛錯乎？大洪淨巖禪 師禪學冠世，每因暇日游戲筆硯，己未安居，因學者 請益，遂為之註解其義，坦然明白，字之舛錯者又從 而校正之，晚學後進有所矜式，俾溈山二百年湮沒 之迹一旦光輝著見，因以傳無窮而施罔極，固不韙 歟！門人史德賢欲鏤板以廣其傳，余嘉其志，輙為之 序而冠于篇首。紹興九年十二月旦日謹序。","text_en":"No. 1239-A 注溈山警策序 左朝奉大夫新廣南東路轉運判官張銖撰 自六祖而下有五派，溈仰居其一，惜乎其後不得其 傳。然其法則傳萬世而無弊，不以人為存亡，溈山之 警 䇿 ，是以夫警 䇿 之行於世尚矣。學者每患其辭雖 顯而其義則難窮，字有舛錯而久未能辨，不有宗師 大匠，安能發揚其義而校正其舛錯乎？大洪淨巖禪 師禪學冠世，每因暇日游戲筆硯， 己 未安居，因學者 請益，遂為之註解其義，坦然明白，字之舛錯者又從 而校正之，晚學後進有所矜式，俾溈山二百年湮沒 之迹一旦光輝著見，因以傳無窮而施罔極，固不韙 歟！門人史德賢欲鏤板以廣其傳，余嘉其志，輙為之 序而冠于篇首。紹興九年十二月旦日謹序。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_002","lb_range":["0224b20","0224b21","0224b22","0224b23","0224b24","0224c01","0224c02","0224c03","0224c04"],"text_zh":"溈山警策","text_en":"溈山警策註 No. 1239 溈山警策註 溈山警策","type":"prose","confidence":1}
+{"unit_id":"X63n1239_003","lb_range":["0224c05"],"text_zh":"大洪嗣祖沙門　守遂　註","text_en":"大洪嗣祖沙門　守遂　註","type":"prose","confidence":1}
+{"unit_id":"X63n1239_004","lb_range":["0224c06"],"text_zh":"溈山大圓禪師","text_en":"溈山大圓禪師","type":"prose","confidence":1}
+{"unit_id":"X63n1239_005","lb_range":["0224c07","0224c08","0224c09","0224c10","0224c11","0224c12","0224c13","0224c14","0224c15","0224c16"],"text_zh":"師諱靈祐，初參百丈大智禪師，侍立夜深，丈云：撥 爐中火看。師撥云：爐中無火。丈自起深撥，乃得一 星火夾起云：你道無者箇是什麼？師因此悟入。丈 令司馬頭陀選得溈山堪建道場，因謂眾曰：若有 人道得一轉語，便去住溈山。乃指淨瓶問云：若喚 作淨瓶則觸，若不喚作淨瓶則背。時華林為首座 云：不可喚作木𣔻。丈不肯。時師為典座，丈乃問師， 師踢倒淨瓶。丈云：首座輸却山子了也。師居溈山， 建溈仰一宗，道傳天下。乃作警䇿，警其未悟，䇿其 未進者也。","text_en":"師諱靈祐，初參百丈大智禪師，侍立夜深，丈云：撥 爐中火看。師撥云：爐中無火。丈自起深撥，乃得一 星火夾起云：你道無者箇是什麼？師因此悟入。丈 令司馬頭陀選得溈山堪建道場，因謂眾曰：若有 人道得一轉語，便去住溈山。乃指淨瓶問云：若喚 作淨瓶則觸，若不喚作淨瓶則背。時華林為首座 云：不可喚作木 𣔻 。丈不肯。時師為典座，丈乃問師， 師踢倒淨瓶。丈云：首座輸却山子了也。師居溈山， 建溈仰一宗，道傳天下。乃作警 䇿 ，警其未悟， 䇿 其 未進者也。","type":"dialogue","confidence":1}
+{"unit_id":"X63n1239_006","lb_range":["0224c17"],"text_zh":"夫業繫受身，未免形累。","text_en":"夫業繫受身，未免形累。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_007","lb_range":["0224c18","0224c19","0224c20","0224c21","0224c22","0224c23","0224c24"],"text_zh":"身為苦本，故先標之，令悟妄本，方可進道。此業繫 兩字，從最初一念不覺心動，謂之業相，次為轉相， 後為現相，乃三細相也。由現相而生境界相、相續 相、執取相、計名字相、造業相、業繫苦相，為六麤相。 前五猶可對治，此末後苦相繫縛眾生，不可對治。 此身既由三細六麤無明種習而成，豈免形質負 累？","text_en":"身為苦本，故先標之，令悟妄本，方可進道。此業繫 兩字，從最初一念不覺心動，謂之業相，次為轉相， 後為現相，乃三細相也。由現相而生境界相、相續 相、執取相、計名字相、造業相、業繫苦相，為六麤相。 前五猶可對治，此末後苦相繫縛眾生，不可對治。 此身既由三細六麤無明種習而成，豈免形質負 累？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_008","lb_range":["0225a01"],"text_zh":"稟父母之遺體，假眾緣而共成。","text_en":"稟父母之遺體，假眾緣而共成。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_009","lb_range":["0225a02","0225a03"],"text_zh":"由稟識妄想故，於父母赤白中受身，假乳哺、洗濯、 飲食、衣服，眾緣得存。佛云：觀身不淨，觀受是苦也。","text_en":"由稟識妄想故，於父母赤白中受身，假乳哺、洗濯、 飲食、衣服，眾緣得存。佛云：觀身不淨，觀受是苦也。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_010","lb_range":["0225a04"],"text_zh":"雖乃四大扶持，常相違背。","text_en":"雖乃四大扶持，常相違背。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_011","lb_range":["0225a05"],"text_zh":"內四大，地、水、火、風，其性各異。","text_en":"內四大，地、水、火、風，其性各異。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_012","lb_range":["0225a06"],"text_zh":"無常老病，不與人期。","text_en":"無常老病，不與人期。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_013","lb_range":["0225a07"],"text_zh":"四大五蘊，念念生滅。","text_en":"四大五蘊，念念生滅。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_014","lb_range":["0225a08"],"text_zh":"朝存夕亡，剎那異世。","text_en":"朝存夕亡，剎那異世。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_015","lb_range":["0225a09"],"text_zh":"剎那是極促之時分。","text_en":"剎那是極促之時分。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_016","lb_range":["0225a10"],"text_zh":"譬如春霜曉露，倐忽即無。","text_en":"譬如春霜曉露，倐忽即無。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_017","lb_range":["0225a11"],"text_zh":"無常之相，須臾變滅。","text_en":"無常之相，須臾變滅。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_018","lb_range":["0225a12"],"text_zh":"岸樹井藤，豈能長久？","text_en":"岸樹井藤，豈能長久？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_019","lb_range":["0225a13"],"text_zh":"危脆不久，亦復如是。","text_en":"危脆不久，亦復如是。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_020","lb_range":["0225a14"],"text_zh":"念念迅速，一剎那間，","text_en":"念念迅速，一剎那間，","type":"prose","confidence":1}
+{"unit_id":"X63n1239_021","lb_range":["0225a15","0225a16"],"text_zh":"如四大力士同時各發一箭射於四方，又有一人 同時收得此四箭時，名一剎那。","text_en":"如四大力士同時各發一箭射於四方，又有一人 同時收得此四箭時，名一剎那。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_022","lb_range":["0225a17"],"text_zh":"轉息即是來生，何乃晏然空過？","text_en":"轉息即是來生，何乃晏然空過？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_023","lb_range":["0225a18","0225a19","0225a20"],"text_zh":"自章初至此，過敘在家出家妄身妄世無常迅速 過患，如此警策令悟，不可空度光陰。自此以下，唯 敘出家者因由，各令思察。","text_en":"自章初至此，過敘在家出家妄身妄世無常迅速 過患，如此警策令悟，不可空度光陰。自此以下，唯 敘出家者因由，各令思察。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_024","lb_range":["0225a21"],"text_zh":"父母不供甘旨，六親固以弃離。","text_en":"父母不供甘旨，六親固以弃離。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_025","lb_range":["0225a22"],"text_zh":"親緣皆弃，乃反常合道。","text_en":"親緣皆弃，乃反常合道。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_026","lb_range":["0225a23"],"text_zh":"不能安國治󳬛。","text_en":"不能安國治 󳬛 。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_027","lb_range":["0225a24","0225b01"],"text_zh":"辭父母，割親緣，又不能竭節奉公，致君澤民，當為 何事？","text_en":"辭父母，割親緣，又不能竭節奉公，致君澤民，當為 何事？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_028","lb_range":["0225b02"],"text_zh":"家業，頓捐繼嗣。","text_en":"家業，頓捐繼嗣。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_029","lb_range":["0225b03"],"text_zh":"絕嗣為不孝，出家弘道，真大孝也。","text_en":"絕嗣為不孝，出家弘道，真大孝也。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_030","lb_range":["0225b04"],"text_zh":"緬離鄉黨，剃髮稟師。","text_en":"緬離鄉黨，剃髮稟師。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_031","lb_range":["0225b05","0225b06"],"text_zh":"頓捨世緣，斷其情愛，稟師剃髮，行古佛之大道，同 古佛之相儀。","text_en":"頓捨世緣，斷其情愛，稟師剃髮，行古佛之大道，同 古佛之相儀。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_032","lb_range":["0225b07"],"text_zh":"內勤尅念之功，外弘不諍之德。","text_en":"內勤尅念之功，外弘不諍之德。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_033","lb_range":["0225b08"],"text_zh":"履踐。出家之功德，要須內外相符。","text_en":"履踐。出家之功德，要須內外相符。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_034","lb_range":["0225b09"],"text_zh":"逈脫塵世，冀期出離。","text_en":"逈脫塵世，冀期出離。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_035","lb_range":["0225b10"],"text_zh":"志存出離塵世，方合出家深旨。","text_en":"志存出離塵世，方合出家深旨。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_036","lb_range":["0225b11"],"text_zh":"何乃纔登戒品，便言我是比丘？","text_en":"何乃纔登戒品，便言我是比丘？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_037","lb_range":["0225b12"],"text_zh":"自謂是比丘，則我相現前可驗。","text_en":"自謂是比丘，則我相現前可驗。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_038","lb_range":["0225b13"],"text_zh":"檀越所須，喫用常住。","text_en":"檀越所須，喫用常住。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_039","lb_range":["0225b14"],"text_zh":"不蠶而衣，不耕而食。","text_en":"不蠶而衣，不耕而食。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_040","lb_range":["0225b15"],"text_zh":"不解忖思來處。","text_en":"不解忖思來處。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_041","lb_range":["0225b16","0225b17","0225b18"],"text_zh":"比丘受食，當作五觀，想彼來處，計功多少。古德觀 一粒米，經七十三遍功夫，忖己德行，全缺應供。證 羅漢已，方合全應供，餘皆名缺應供也。","text_en":"比丘受食，當作五觀，想彼來處，計功多少。古德觀 一粒米，經七十三遍功夫，忖 己 德行，全缺應供。證 羅漢 已 ，方合全應供，餘皆名缺應供也。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_042","lb_range":["0225b19"],"text_zh":"謂言：法爾合供。","text_en":"謂言：法爾合供。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_043","lb_range":["0225b20"],"text_zh":"妄計情執，寧忖己非。","text_en":"妄計情執，寧忖 己 非。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_044","lb_range":["0225b21"],"text_zh":"喫了聚頭喧喧，但說人間雜話。","text_en":"喫了聚頭喧喧，但說人間雜話。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_045","lb_range":["0225b22","0225b23"],"text_zh":"出家志求無為大道，不研佛語佛意，反徇世諦喧 譁。自何乃已下，忘本乖志也。","text_en":"出家志求無為大道，不研佛語佛意，反徇世諦喧 譁。自何乃 已 下，忘本乖志也。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_046","lb_range":["0225b24"],"text_zh":"然則一期趂樂，不知樂是苦因。","text_en":"然則一期趂樂，不知樂是苦因。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_047","lb_range":["0225c01","0225c02"],"text_zh":"世諦之樂，盡為苦本。虗受信施，負債何疑。𭊷鐵負 鞍，猶是輕輕之報。","text_en":"世諦之樂，盡為苦本。虗受信施，負債何疑。 𭊷 鐵負 鞍，猶是輕輕之報。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_048","lb_range":["0225c03"],"text_zh":"曩劫徇塵，未甞返省。","text_en":"曩劫徇塵，未甞返省。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_049","lb_range":["0225c04"],"text_zh":"曠劫徇塵背覺，何嘗暫自回光。","text_en":"曠劫徇塵背覺，何嘗暫自回光。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_050","lb_range":["0225c05"],"text_zh":"時光淹沒，歲月蹉跎。受用殷繁，施利濃厚。","text_en":"時光淹沒，歲月蹉跎。受用殷繁，施利濃厚。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_051","lb_range":["0225c06"],"text_zh":"世利所惑，未省回光。","text_en":"世利所 惑 ，未省回光。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_052","lb_range":["0225c07"],"text_zh":"動經年載，不擬弃離。","text_en":"動經年載，不擬弃離。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_053","lb_range":["0225c08"],"text_zh":"戀著處所，不知過患。","text_en":"戀著處所，不知過患。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_054","lb_range":["0225c09"],"text_zh":"積聚滋多，保持幻質。","text_en":"積聚滋多，保持幻質。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_055","lb_range":["0225c10"],"text_zh":"唯保幻妄之質，違背清淨法身。","text_en":"唯保幻妄之質，違背清淨法身。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_056","lb_range":["0225c11"],"text_zh":"導師有勑，戒勗比丘，進道嚴身，三常不足。","text_en":"導師有勑，戒勗比丘，進道嚴身，三常不足。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_057","lb_range":["0225c12","0225c13","0225c14","0225c15","0225c16","0225c17","0225c18","0225c19"],"text_zh":"佛遺教經一云：當自摩頭，以捨飾好，著壞色衣，執 持應器，以乞自活。二云：受人飲食，當如服藥，於好 於惡，勿生增減，趣得支身，以除飢渴。如蜂採花，但 取其味，不損色香。比丘亦爾，受人供養，趣自除惱， 無得多求，壞其善心。三云：晝則勤心修習善法，無 令失時。初夜後夜，亦勿有廢。中夜誦經，以自消息。 無以睡眠因緣，令一生空過。謂衣、食、睡眠，知是三 事，不可恣情取足也。","text_en":"佛遺教經一云：當自摩頭，以捨飾好，著壞色衣，執 持應器，以乞自活。二云：受人飲食，當如服藥，於好 於惡，勿生增減，趣得支身，以除飢渴。如蜂採花，但 取其味，不損色香。比丘亦爾，受人供養，趣自除惱， 無得多求，壞其善心。三云：晝則勤心修習善法，無 令失時。初夜後夜，亦勿有廢。中夜誦經，以自消息。 無以睡眠因緣，令一生空過。謂衣、食、睡眠，知是三 事，不可恣情取足也。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_058","lb_range":["0225c20"],"text_zh":"人多於此躭味不休。","text_en":"人多於此躭味不休。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_059","lb_range":["0225c21"],"text_zh":"味，謂味著。","text_en":"味，謂味著。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_060","lb_range":["0225c22"],"text_zh":"日往月來，䬃然白首。","text_en":"日往月來， 䬃 然白首。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_061","lb_range":["0225c23"],"text_zh":"古云：只知事逐眼前過，不覺老從頭上來。","text_en":"古云：只知事逐眼前過，不覺老從頭上來。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_062","lb_range":["0225c24"],"text_zh":"後學未聞旨趣。","text_en":"後學未聞旨趣。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_063","lb_range":["0226a01"],"text_zh":"出家旨趣","text_en":"出家旨趣","type":"prose","confidence":1}
+{"unit_id":"X63n1239_064","lb_range":["0226a02"],"text_zh":"應須博問先知。","text_en":"應須博問先知。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_065","lb_range":["0226a03"],"text_zh":"不可守，愚自是。","text_en":"不可守，愚自是。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_066","lb_range":["0226a04"],"text_zh":"將謂出家，貴求衣食。","text_en":"將謂出家，貴求衣食。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_067","lb_range":["0226a05"],"text_zh":"出家者為無為法，私情愚見，反謂求衣食爾。","text_en":"出家者為無為法，私情愚見，反謂求衣食爾。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_068","lb_range":["0226a06"],"text_zh":"佛先制律，啟創發蒙。","text_en":"佛先制律，啟創發蒙。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_069","lb_range":["0226a07"],"text_zh":"啟發蒙昧。","text_en":"啟發蒙昧。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_070","lb_range":["0226a08"],"text_zh":"軌則威儀。","text_en":"軌則威儀。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_071","lb_range":["0226a09"],"text_zh":"有威可敬，有儀可則。","text_en":"有威可敬，有儀可則。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_072","lb_range":["0226a10"],"text_zh":"淨如冰雪。","text_en":"淨如冰雪。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_073","lb_range":["0226a11"],"text_zh":"不同外道雜，戒皆不清淨。","text_en":"不同外道雜，戒皆不清淨。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_074","lb_range":["0226a12"],"text_zh":"止持作犯，束斂初心。","text_en":"止持作犯，束 斂 初心。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_075","lb_range":["0226a13","0226a14"],"text_zh":"攝律儀戒，止惡為持，作惡為犯。攝善法戒，止善為 犯，作善為持。","text_en":"攝律儀戒，止惡為持，作惡為犯。攝善法戒，止善為 犯，作善為持。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_076","lb_range":["0226a15"],"text_zh":"微細條章，革諸猥弊。","text_en":"微細條章，革諸猥弊。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_077","lb_range":["0226a16","0226a17","0226a18"],"text_zh":"五篇七聚性戒遮戒。佛成道十二年後，方乃制律。 阿難問佛：因何十二年前不制戒？佛言：如世補衣， 衣若未破，補則招謗。吾亦如是，因事立戒云。","text_en":"五篇七聚性戒遮戒。佛成道十二年後，方乃制律。 阿難問佛：因何十二年前不制戒？佛言：如世補衣， 衣若未破，補則招謗。吾亦如是，因事立戒云。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_078","lb_range":["0226a19"],"text_zh":"毗尼法席，曾未叨陪；了義上乘，豈能甄別？","text_en":"毗尼法席，曾未叨陪；了義上乘，豈能甄別？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_079","lb_range":["0226a20","0226a21"],"text_zh":"毗尼，律學也，因戒生定，因定發慧。律學尚昧了義， 深旨安可通達耶？","text_en":"毗尼，律學也，因戒生定，因定發慧。律學尚昧了義， 深旨安可通達耶？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_080","lb_range":["0226a22"],"text_zh":"可惜一生空過，後悔難追。","text_en":"可惜一生空過，後悔難追。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_081","lb_range":["0226a23"],"text_zh":"少不努力，老無所成，悔之於後，復何益哉！","text_en":"少不努力，老無所成，悔之於後，復何益哉！","type":"prose","confidence":1}
+{"unit_id":"X63n1239_082","lb_range":["0226a24"],"text_zh":"教理未甞措懷，玄道無因契悟。","text_en":"教理未甞措懷，玄道無因契悟。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_083","lb_range":["0226b01"],"text_zh":"聖教理趣，尚未留心，玄妙之道，若為契悟？","text_en":"聖教理趣，尚未留心，玄妙之道，若為契悟？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_084","lb_range":["0226b02"],"text_zh":"及至年高臈長，空腹高心，不肯親附良朋，唯知倨傲。","text_en":"及至年高臈長，空腹高心，不肯親附良朋，唯知倨傲。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_085","lb_range":["0226b03"],"text_zh":"有年無德，護短飾非，無明習成，傲然自大。","text_en":"有年無德，護短飾非，無明習成，傲然自大。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_086","lb_range":["0226b04"],"text_zh":"未諳法律，戢斂全無。","text_en":"未諳法律，戢 斂 全無。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_087","lb_range":["0226b05"],"text_zh":"不親良朋，焉知法律？三業四儀，動乖律制。","text_en":"不親良朋，焉知法律？三業四儀，動乖律制。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_088","lb_range":["0226b06"],"text_zh":"或大語高聲，出言無度。","text_en":"或大語高聲，出言無度。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_089","lb_range":["0226b07"],"text_zh":"戢斂全無，身業也。大語高聲，語業也。","text_en":"戢 斂 全無，身業也。大語高聲，語業也。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_090","lb_range":["0226b08"],"text_zh":"不敬上中下座婆羅門，聚會無殊。","text_en":"不敬上中下座婆羅門，聚會無殊。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_091","lb_range":["0226b09","0226b10","0226b11"],"text_zh":"不敬意業也。準律有上中下，次佛制先受戒者為 先，後受戒者為後，外道則不然。自此已下，展轉警 其過失。","text_en":"不敬意業也。準律有上中下，次佛制先受戒者為 先，後受戒者為後，外道則不然。自此 已 下，展轉警 其過失。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_092","lb_range":["0226b12"],"text_zh":"椀鉢作聲，食畢先起。","text_en":"椀鉢作聲，食畢先起。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_093","lb_range":["0226b13","0226b14"],"text_zh":"椀是唐言，鉢是梵語，具云鉢多羅，此方云應量器。 若作聲，則餓鬼咽中火起。","text_en":"椀是唐言，鉢是梵語，具云鉢多羅，此方云應量器。 若作聲，則餓鬼咽中火起。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_094","lb_range":["0226b15"],"text_zh":"去就乖角，僧體全無。","text_en":"去就乖角，僧體全無。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_095","lb_range":["0226b16","0226b17"],"text_zh":"僧具足，梵語云僧伽耶，此云眾和合。理事和合為 僧體，去就既不法，何僧體之有耶？","text_en":"僧具足，梵語云僧伽耶，此云眾和合。理事和合為 僧體，去就既不法，何僧體之有耶？","type":"dialogue","confidence":1}
+{"unit_id":"X63n1239_096","lb_range":["0226b18"],"text_zh":"起坐忪諸，動他心念，","text_en":"起坐忪 諸，動他心念，","type":"prose","confidence":1}
+{"unit_id":"X63n1239_097","lb_range":["0226b19"],"text_zh":"忪，諸心神不寧之謂。出家惱他人，不名為沙門。","text_en":"忪，諸心神不寧之謂。出家惱他人，不名為沙門。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_098","lb_range":["0226b20","0226b21"],"text_zh":"不存𬅿𬅿軌則，小小威儀，將何束斂。後昆新學，無因 倣俲。","text_en":"不存 𬅿 𬅿 軌則，小小威儀，將何束 斂 。後昆新學，無因 倣俲。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_099","lb_range":["0226b22"],"text_zh":"若自不能修行正行令他修者，無有是處。","text_en":"若自不能修行正行令他修者，無有是處。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_100","lb_range":["0226b23"],"text_zh":"纔相覺察，便言：我是山僧。","text_en":"纔相覺察，便言：我是山僧。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_101","lb_range":["0226b24"],"text_zh":"人我貢高，欺壓後學。","text_en":"人我貢高，欺壓後學。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_102","lb_range":["0226c01"],"text_zh":"未聞佛教行持，一向情存麤糙。","text_en":"未聞佛教行持，一向情存麤糙。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_103","lb_range":["0226c02"],"text_zh":"行解無取，世諦純熟。","text_en":"行解無取，世諦純熟。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_104","lb_range":["0226c03"],"text_zh":"如斯之見，蓋為初心慵惰，饕餮因循。","text_en":"如斯之見，蓋為初心慵惰，饕餮因循。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_105","lb_range":["0226c04"],"text_zh":"貪財曰饕，貪食曰餮。","text_en":"貪財曰饕，貪食曰餮。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_106","lb_range":["0226c05"],"text_zh":"荏苒人間，遂成疎野。","text_en":"荏苒人間，遂成疎野。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_107","lb_range":["0226c06"],"text_zh":"荏苒塵俗，豈識清閑。","text_en":"荏苒塵俗，豈識清閑。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_108","lb_range":["0226c07"],"text_zh":"不覺躘蹱。老朽觸事面牆。","text_en":"不覺躘蹱。老朽觸事面牆。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_109","lb_range":["0226c08"],"text_zh":"躘蹱，行不進貌。面牆，一無所知。","text_en":"躘蹱，行不進貌。面牆，一無所知。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_110","lb_range":["0226c09"],"text_zh":"後學咨詢，無言接引。","text_en":"後學咨詢，無言接引。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_111","lb_range":["0226c10"],"text_zh":"自己智慧不明，將何開發晚進？","text_en":"自己智慧不明，將何開發晚進？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_112","lb_range":["0226c11"],"text_zh":"縱有談說，不涉典章。","text_en":"縱有談說，不涉典章。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_113","lb_range":["0226c12"],"text_zh":"孟浪臆說，取笑傍觀。","text_en":"孟浪臆說，取笑傍觀。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_114","lb_range":["0226c13"],"text_zh":"或被輕言，便責後生無禮。","text_en":"或被輕言，便責後生無禮。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_115","lb_range":["0226c14"],"text_zh":"不省己非，更責他過。","text_en":"不省己非，更責他過。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_116","lb_range":["0226c15"],"text_zh":"瞋心忿起，言語該人。","text_en":"瞋心忿起，言語該人。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_117","lb_range":["0226c16","0226c17"],"text_zh":"一念瞋心起，百萬障門開。三毒既縱於凡情，四實 寧思於佛語。","text_en":"一念瞋心起，百萬障門開。三毒既縱於凡情，四實 寧思於佛語。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_118","lb_range":["0226c18"],"text_zh":"一朝臥疾在牀，眾苦縈纏逼迫，曉夕思忖，心裏恛惶。","text_en":"一朝臥疾在牀，眾苦縈纏逼迫，曉夕思忖，心裏恛惶。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_119","lb_range":["0226c19"],"text_zh":"眾苦逼迫，恛惶怖憂。","text_en":"眾苦逼迫，恛惶怖憂。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_120","lb_range":["0226c20"],"text_zh":"前路茫茫，未知何往。","text_en":"前路茫茫，未知何往。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_121","lb_range":["0226c21"],"text_zh":"妄宰幻身，曷悟真歸。","text_en":"妄宰幻身，曷悟真歸。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_122","lb_range":["0226c22"],"text_zh":"從茲始知悔過，臨渴掘井奚為。","text_en":"從茲始知悔過，臨渴掘井奚為。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_123","lb_range":["0226c23"],"text_zh":"縱然悔過知非，功行何由得辦？","text_en":"縱然悔過知非，功行何由得辦？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_124","lb_range":["0226c24"],"text_zh":"自恨早不預修，年晚多諸過咎。","text_en":"自恨早不預修，年晚多諸過咎。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_125","lb_range":["0227a01"],"text_zh":"過咎已彰，悔之何補？","text_en":"過咎 已 彰，悔之何補？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_126","lb_range":["0227a02"],"text_zh":"臨行揮霍。","text_en":"臨行揮霍。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_127","lb_range":["0227a03"],"text_zh":"苦無定力，甘伏死門。","text_en":"苦無定力，甘伏死門。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_128","lb_range":["0227a04"],"text_zh":"怕怖慞惶。","text_en":"怕怖慞惶。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_129","lb_range":["0227a05"],"text_zh":"無善可恃，無德可怙。","text_en":"無善可恃，無德可怙。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_130","lb_range":["0227a06"],"text_zh":"縠穿󳭋飛，識心隨業。","text_en":"縠穿 󳭋 飛，識心隨業。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_131","lb_range":["0227a07","0227a08"],"text_zh":"七賢女經云：󳭋來入瓶中，以縠覆其口，縠穿󳭋飛 去，識心隨業走。","text_en":"七賢女經云： 󳭋 來入瓶中，以縠覆其口，縠穿 󳭋 飛 去，識心隨業走。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_132","lb_range":["0227a09"],"text_zh":"如人負債，強者先牽。","text_en":"如人負債，強者先牽。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_133","lb_range":["0227a10"],"text_zh":"善惡業力，皆因妄識為主，力強者牽之，無自由分。","text_en":"善惡業力，皆因妄識為主，力強者牽之，無自由分。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_134","lb_range":["0227a11"],"text_zh":"心緒多端，重處偏墜。","text_en":"心緒多端，重處偏墜。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_135","lb_range":["0227a12"],"text_zh":"六道四生，隨情想而受報。","text_en":"六道四生，隨情想而受報。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_136","lb_range":["0227a13"],"text_zh":"無常殺鬼，念念不停。","text_en":"無常殺鬼，念念不停。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_137","lb_range":["0227a14"],"text_zh":"生時即有滅，不為愚者說。","text_en":"生時即有滅，不為愚者說。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_138","lb_range":["0227a15"],"text_zh":"命不可延。","text_en":"命不可延。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_139","lb_range":["0227a16"],"text_zh":"古云：無常若也黃昏至，更不留君到一更。","text_en":"古云：無常若也黃昏至，更不留君到一更。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_140","lb_range":["0227a17"],"text_zh":"時不可待。","text_en":"時不可待。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_141","lb_range":["0227a18","0227a19"],"text_zh":"勿謂今日不學有明日，今年不學有明年。嗚呼老 矣！是誰之愆？","text_en":"勿謂今日不學有明日，今年不學有明年。嗚呼老 矣！是誰之愆？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_142","lb_range":["0227a20"],"text_zh":"人天三有，應未免之。","text_en":"人天三有，應未免之。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_143","lb_range":["0227a21"],"text_zh":"三界無安，猶如火宅。","text_en":"三界無安，猶如火宅。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_144","lb_range":["0227a22"],"text_zh":"如是受身，非論劫數。","text_en":"如是受身，非論劫數。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_145","lb_range":["0227a23"],"text_zh":"如汲井輪，互為高下。","text_en":"如汲井輪，互為高下。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_146","lb_range":["0227a24"],"text_zh":"感傷歎訝，哀哉切心。","text_en":"感傷歎訝，哀哉切心。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_147","lb_range":["0227b01"],"text_zh":"溈山悲傷未悟，如此情切。","text_en":"溈山悲傷未悟，如此情切。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_148","lb_range":["0227b02"],"text_zh":"豈可緘言，𮞏相警䇿。","text_en":"豈可緘言， 𮞏 相警 䇿 。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_149","lb_range":["0227b03","0227b04"],"text_zh":"眾生輪迴苦趣，懷寶迷󳬛，既為善知識，安可緘默 而不啟發耶？","text_en":"眾生輪迴苦趣，懷寶迷 󳬛 ，既為善知識，安可緘默 而不啟發耶？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_150","lb_range":["0227b05"],"text_zh":"所恨同生像季，去聖時遙。","text_en":"所恨同生像季，去聖時遙。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_151","lb_range":["0227b06","0227b07"],"text_zh":"像法之季，乃佛滅後二千年間，是造警䇿時。今又 二百餘年，聖時愈遠矣。","text_en":"像法之季，乃佛滅後二千年間，是造警 䇿 時。今又 二百餘年，聖時愈遠矣。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_152","lb_range":["0227b08"],"text_zh":"佛法生疎，人多懈怠。","text_en":"佛法生疎，人多懈怠。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_153","lb_range":["0227b09"],"text_zh":"根機皆劣，豈可比況佛正法之時？","text_en":"根機皆劣，豈可比況佛正法之時？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_154","lb_range":["0227b10"],"text_zh":"略伸管見，以曉後來。","text_en":"略伸管見，以曉後來。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_155","lb_range":["0227b11"],"text_zh":"溈山謙辭，謂如管窺天之見，以曉喻後學爾。","text_en":"溈山謙辭，謂如管窺天之見，以曉喻後學爾。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_156","lb_range":["0227b12"],"text_zh":"若不蠲矜，誠難輪逭。","text_en":"若不蠲矜，誠難輪逭。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_157","lb_range":["0227b13","0227b14","0227b15","0227b16","0227b17"],"text_zh":"若不蠲除矜伐前來過患，則實難逃逭於業報苦 輪也。永嘉云：蠲矜怠慢，不顧形骸，專秘至道者，可 謂契神方寸歟。自此下，別敘決志出家之本意，參 訪知識，親近師友，發明大事因緣，暨履踐一代時 教佛語心宗，要須行解相應，續佛慧命之始末也。","text_en":"若不蠲除矜伐前來過患，則實難逃逭於業報苦 輪也。永嘉云：蠲矜怠慢，不顧形骸，專秘至道者，可 謂契神方寸歟。自此下，別敘決志出家之本意，參 訪知識，親近師友，發明大事因緣，暨履踐一代時 教佛語心宗，要須行解相應，續佛慧命之始末也。","type":"dialogue","confidence":1}
+{"unit_id":"X63n1239_158","lb_range":["0227b18"],"text_zh":"夫出家者，發足超方，心形異俗。","text_en":"夫出家者，發足超方，心形異俗。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_159","lb_range":["0227b19"],"text_zh":"獨步大方，心超物哀。","text_en":"獨步大方，心超物 哀。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_160","lb_range":["0227b20"],"text_zh":"紹隆聖種，震攝魔軍。","text_en":"紹隆聖種，震 攝魔軍。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_161","lb_range":["0227b21"],"text_zh":"志齊古佛，力降眾魔。","text_en":"志齊古佛，力降眾魔。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_162","lb_range":["0227b22"],"text_zh":"用報四恩。","text_en":"用報四恩。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_163","lb_range":["0227b23"],"text_zh":"佛恩。國王恩。父母恩。施主恩。","text_en":"佛恩。國王恩。父母恩。施主恩。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_164","lb_range":["0227b24"],"text_zh":"拔濟三有。","text_en":"拔濟三有。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_165","lb_range":["0227c01"],"text_zh":"欲有、色有、無色有，乃三界眾生也。","text_en":"欲有、色有、無色有，乃三界眾生也。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_166","lb_range":["0227c02"],"text_zh":"若不如此，濫廁僧倫。","text_en":"若不如此，濫廁僧倫。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_167","lb_range":["0227c03"],"text_zh":"反此，則皆為混濫，非釋子也。","text_en":"反此，則皆為混濫，非釋子也。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_168","lb_range":["0227c04"],"text_zh":"言行荒疎，虗霑信施。","text_en":"言行荒疎，虗霑信施。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_169","lb_range":["0227c05"],"text_zh":"信施本為福田，荒疎則彼此無益。","text_en":"信施本為福田，荒疎則彼此無益。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_170","lb_range":["0227c06"],"text_zh":"昔年行處，寸步不移。","text_en":"昔年行處，寸步不移。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_171","lb_range":["0227c07"],"text_zh":"古云：但改舊時行履處，莫改舊時人。","text_en":"古云： 但 改舊時行履處，莫改舊時人。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_172","lb_range":["0227c08"],"text_zh":"恍惚一生，將何憑恃？","text_en":"恍惚一生，將何憑恃？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_173","lb_range":["0227c09"],"text_zh":"恍惚如夢未覺，何功行而可憑？","text_en":"恍惚如夢未覺，何功行而可憑？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_174","lb_range":["0227c10"],"text_zh":"況乃堂堂僧相，容皃可觀。","text_en":"況乃堂堂僧相，容皃可觀。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_175","lb_range":["0227c11"],"text_zh":"相皃可觀，非容易所致也。","text_en":"相皃可觀，非容易所致也。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_176","lb_range":["0227c12"],"text_zh":"皆是宿植善根，感斯異報。","text_en":"皆是宿植善根，感斯異報。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_177","lb_range":["0227c13"],"text_zh":"今生因是前生種，未來果是今世修，","text_en":"今生因是前生種，未來果是今世修，","type":"prose","confidence":1}
+{"unit_id":"X63n1239_178","lb_range":["0227c14"],"text_zh":"便擬端然拱手，不貴寸陰。","text_en":"便擬端然拱手，不貴寸陰。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_179","lb_range":["0227c15"],"text_zh":"古人重寸陰，輕尺璧。","text_en":"古人重寸陰，輕尺璧。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_180","lb_range":["0227c16"],"text_zh":"事業不勤，功果無因克就。","text_en":"事業不勤，功果無因克就。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_181","lb_range":["0227c17","0227c18","0227c19"],"text_zh":"古佛經三無數劫，發四洪誓願，歷修萬行，福慧兩 嚴，纖瑕障盡，片善無遺，方證佛果。豈可具足凡夫， 不勤戒定慧學，而欲希求無上大果耶。","text_en":"古佛經三無數劫，發四洪誓願，歷修萬行，福慧兩 嚴，纖瑕障盡，片善無遺，方證佛果。豈可具足凡夫， 不勤戒定慧學，而欲希求無上大果耶。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_182","lb_range":["0227c20"],"text_zh":"豈可一生空過，抑亦來業無裨。","text_en":"豈可一生空過，抑亦來業無裨。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_183","lb_range":["0227c21"],"text_zh":"非惟自悞一生，亦乃來生靡託。","text_en":"非惟自悞一生，亦乃來生靡託。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_184","lb_range":["0227c22"],"text_zh":"辭親決志披緇，意欲等超何所。","text_en":"辭親決志披緇，意欲等超何所。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_185","lb_range":["0227c23"],"text_zh":"出家本志當為何事？","text_en":"出家本志當為何事？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_186","lb_range":["0227c24"],"text_zh":"曉夕思忖，豈可遷延過時？","text_en":"曉夕思忖，豈可遷延過時？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_187","lb_range":["0228a01"],"text_zh":"退步反思，聞健進學。","text_en":"退步反思，聞健進學。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_188","lb_range":["0228a02"],"text_zh":"心期佛法棟梁，用作後來龜鏡。","text_en":"心期佛法棟梁，用作後來龜鏡。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_189","lb_range":["0228a03","0228a04"],"text_zh":"勇志慕佛法之棟梁，乘範作後學之龜鏡。龜知未 來禍福，鏡驗現在妍𡟎。","text_en":"勇志慕佛法之棟梁，乘範作後學之龜鏡。龜知未 來禍福，鏡驗現在妍 𡟎 。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_190","lb_range":["0228a05"],"text_zh":"常以如此，未能少分相應。","text_en":"常以如此，未能少分相應。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_191","lb_range":["0228a06"],"text_zh":"雖有志願，而行解未充，故云未也。","text_en":"雖有志願，而行解未充，故云未也。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_192","lb_range":["0228a07"],"text_zh":"出言須涉於典章。","text_en":"出言須涉於典章。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_193","lb_range":["0228a08"],"text_zh":"言不干典，非君子所談。","text_en":"言不干典，非君子所談。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_194","lb_range":["0228a09"],"text_zh":"談說乃傍於稽古。","text_en":"談說乃傍於稽古。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_195","lb_range":["0228a10"],"text_zh":"語是心苗，豈恣𦚾臆孟浪之說，無稽之言乎？","text_en":"語是心苗，豈恣 𦚾 臆孟浪之說，無稽之言乎？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_196","lb_range":["0228a11"],"text_zh":"形儀挺特。","text_en":"形儀挺特。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_197","lb_range":["0228a12"],"text_zh":"形端表正。","text_en":"形端表正。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_198","lb_range":["0228a13"],"text_zh":"意氣高閑。","text_en":"意氣高閑。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_199","lb_range":["0228a14"],"text_zh":"川有珠則川媚，人蘊道則高閑。","text_en":"川有珠則川媚，人蘊道則高閑。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_200","lb_range":["0228a15"],"text_zh":"遠行要假良朋，數數清於耳目。","text_en":"遠行要假良朋，數數清於耳目。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_201","lb_range":["0228a16","0228a17","0228a18"],"text_zh":"佛問阿難：善知識為幾梵行？阿難云：半梵行。佛言： 不然，善知識者為全梵行。又古云：三人行，必有我 師焉。擇其善者而從之。","text_en":"佛問阿難：善知識為幾梵行？阿難云：半梵行。佛言： 不然，善知識者為全梵行。又古云：三人行，必有我 師焉。擇其善者而從之。","type":"dialogue","confidence":1}
+{"unit_id":"X63n1239_202","lb_range":["0228a19"],"text_zh":"住止必須擇伴，時時聞於未聞。","text_en":"住止必須擇伴，時時聞於未聞。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_203","lb_range":["0228a20"],"text_zh":"開發未聞，警悟迷倒，皆道伴之力也。","text_en":"開發未聞，警悟迷倒，皆道伴之力也。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_204","lb_range":["0228a21"],"text_zh":"故云生我者父母，成我者朋友。","text_en":"故云生我者父母，成我者朋友。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_205","lb_range":["0228a22","0228a23","0228a24"],"text_zh":"同門曰朋，同志曰友。父母能生色身，不能令出離 惡道。惟善知識成立法身，開真正知見，入聖超凡， 生成恩德，豈可忽哉？","text_en":"同門曰朋，同志曰友。父母能生色身，不能令出離 惡道。惟善知識成立法身，開真正知見，入聖超凡， 生成恩德，豈可忽哉？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_206","lb_range":["0228b01"],"text_zh":"親附善者，如霧露中行，雖不濕衣，時時有潤。","text_en":"親附善者，如霧露中行，雖不濕衣，時時有潤。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_207","lb_range":["0228b02"],"text_zh":"善友道伴，滋潤善根，其利叵量。","text_en":"善友道伴，滋潤善根，其利叵量。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_208","lb_range":["0228b03"],"text_zh":"狎習惡者，長惡知見，曉夕造惡，即目交報。","text_en":"狎習惡者，長惡知見，曉夕造惡，即目交報。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_209","lb_range":["0228b04"],"text_zh":"狎近非友，隨邪逐惡，冒犯王法，人所惡賤。","text_en":"狎近非友，隨邪逐惡，冒犯王法，人所惡賤。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_210","lb_range":["0228b05"],"text_zh":"歿後沉淪，一失人身，萬劫不復。","text_en":"歿後沉淪，一失人身，萬劫不復。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_211","lb_range":["0228b06"],"text_zh":"惡友薰習，造作非理，生遭王法，死入阿鼻。","text_en":"惡友薰習，造作非理，生遭王法，死入阿鼻。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_212","lb_range":["0228b07"],"text_zh":"忠言逆耳，豈不銘心者哉！","text_en":"忠言逆耳，豈不銘心者哉！","type":"prose","confidence":1}
+{"unit_id":"X63n1239_213","lb_range":["0228b08"],"text_zh":"苦口忠言，必須逆耳。聞當改過，銘刻於心。","text_en":"苦口忠言，必須逆耳。聞當改過，銘刻於心。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_214","lb_range":["0228b09"],"text_zh":"便能澡心育德，晦迹韜名。","text_en":"便能澡心育德，晦迹韜名。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_215","lb_range":["0228b10","0228b11"],"text_zh":"澡其心而心淨，育其德而德充，隱晦其迹而和光 同塵，韜藏虗名而去華務實。","text_en":"澡其心而心淨，育其德而德充，隱晦其迹而和光 同塵，韜藏虗名而去華務實。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_216","lb_range":["0228b12"],"text_zh":"蘊素精神，喧囂止絕。","text_en":"蘊素精神，喧囂止絕。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_217","lb_range":["0228b13"],"text_zh":"養性憺怕，清閑絕慮。此下先敘參學，次敘窮教。","text_en":"養性憺怕，清閑絕慮。此下先敘參學，次敘窮教。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_218","lb_range":["0228b14"],"text_zh":"若欲參禪學道，頓超方便之門。","text_en":"若欲參禪學道，頓超方便之門。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_219","lb_range":["0228b15"],"text_zh":"正直捨方便，但說無上道。","text_en":"正直捨方便，但說無上道。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_220","lb_range":["0228b16"],"text_zh":"心契玄津。","text_en":"心契玄津。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_221","lb_range":["0228b17"],"text_zh":"心無緣異。","text_en":"心無緣異。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_222","lb_range":["0228b18"],"text_zh":"研幾精妙。","text_en":"研幾精妙。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_223","lb_range":["0228b19"],"text_zh":"研究諸法，窮徹精妙。","text_en":"研究諸法，窮徹精妙。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_224","lb_range":["0228b20"],"text_zh":"決擇深奧。","text_en":"決擇深奧。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_225","lb_range":["0228b21"],"text_zh":"探賾索隱，決擇幽微。","text_en":"探賾索隱，決擇幽微。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_226","lb_range":["0228b22"],"text_zh":"啟悟真源","text_en":"啟悟真源","type":"prose","confidence":1}
+{"unit_id":"X63n1239_227","lb_range":["0228b23"],"text_zh":"開悟真諦之淵源。","text_en":"開悟真諦之淵源。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_228","lb_range":["0228b24"],"text_zh":"愽問先知。","text_en":"愽問先知。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_229","lb_range":["0228c01"],"text_zh":"不可居暗室而守愚迷，當愽學問而資定慧。","text_en":"不可居暗室而守愚迷，當愽學問而資定慧。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_230","lb_range":["0228c02"],"text_zh":"親近善友。","text_en":"親近善友。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_231","lb_range":["0228c03","0228c04","0228c05","0228c06","0228c07"],"text_zh":"善財南詢諸友，一生參學事畢。古云：明正為南，方 盡南矣；益我為友，人皆友焉。遇三毒而三德圓，入 一塵而一心靜。契文殊之妙智，宛是初心；入普賢 之玄門，曾無別體。此可謂親近善友也。書云：於吾 善者，吾亦善之；於吾惡者，吾亦惡之。況釋子乎？","text_en":"善財南詢諸友，一生參學事畢。古云：明正為南，方 盡南矣；益我為友，人皆友焉。遇三毒而三德圓，入 一塵而一心靜。契文殊之妙智，宛是初心；入普賢 之玄門，曾無別體。此可謂親近善友也。書云：於吾 善者，吾亦善之；於吾惡者，吾亦惡之。況釋子乎？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_232","lb_range":["0228c08"],"text_zh":"此宗難得其妙，切須子細用心。","text_en":"此宗難得其妙，切須子細用心。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_233","lb_range":["0228c09","0228c10"],"text_zh":"此心地法門，若得之於心，則伊蘭作栴檀之樹；若 失之於旨，則甘露乃蒺䔧之園，豈容易麤心乎？","text_en":"此心地法門，若得之於心，則伊蘭作栴檀之樹；若 失之於旨，則甘露乃蒺 䔧 之園，豈容易麤心乎？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_234","lb_range":["0228c11"],"text_zh":"可中頓悟正因，便是出塵階漸。","text_en":"可中頓悟正因，便是出塵階漸。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_235","lb_range":["0228c12","0228c13","0228c14"],"text_zh":"若頓悟正因兩字，則百川會海，不辨源流，一念相 應，前後際斷，照體獨立，物我皆如，超出塵勞。理則 頓悟，乘悟併消，事非頓除，因次第盡。","text_en":"若頓悟正因兩字，則百川會海，不辨源流，一念相 應，前後際斷，照體獨立，物我皆如，超出塵勞。理則 頓悟，乘悟併消，事非頓除，因次第盡。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_236","lb_range":["0228c15"],"text_zh":"此則破三界二十五有。","text_en":"此則破三界二十五有。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_237","lb_range":["0228c16","0228c17"],"text_zh":"論云：四洲四惡趣，梵王六欲天，無想及淨居，四空 并四禪，為二十五有也。","text_en":"論云：四洲四惡趣，梵王六欲天，無想及淨居，四空 并四禪，為二十五有也。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_238","lb_range":["0228c18"],"text_zh":"內外諸法盡知不實，從心變起悉是假名。","text_en":"內外諸法盡知不實，從心變起悉是假名。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_239","lb_range":["0228c19","0228c20"],"text_zh":"內心外境，虗妄不實，皆妄識所變。若悟三界唯心， 萬法唯識，寂照光中，了不可得。","text_en":"內心外境，虗妄不實，皆妄識所變。若悟三界唯心， 萬法唯識，寂照光中，了不可得。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_240","lb_range":["0228c21"],"text_zh":"不用將心湊泊。","text_en":"不用將心湊泊。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_241","lb_range":["0228c22"],"text_zh":"將心用心，豈非大錯？","text_en":"將心用心，豈非大錯？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_242","lb_range":["0228c23"],"text_zh":"但情不附物，物豈礙人？","text_en":"但情不附物，物豈礙人？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_243","lb_range":["0228c24"],"text_zh":"情偽不真，物本非物。","text_en":"情偽不真，物本非物。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_244","lb_range":["0229a01"],"text_zh":"任他法性周流，莫斷莫續。","text_en":"任他法性周流，莫斷莫續。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_245","lb_range":["0229a02"],"text_zh":"不必斷妄而續真，法性周流而自適。","text_en":"不必斷妄而續真，法性周流而自適。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_246","lb_range":["0229a03"],"text_zh":"聞聲見色，蓋是尋常。","text_en":"聞聲見色，蓋是尋常。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_247","lb_range":["0229a04","0229a05"],"text_zh":"只此見聞非見聞，無餘聲色可呈君。箇中若了全 無事，體用不妨分不分。","text_en":"只此見聞非見聞，無餘聲色可呈君。箇中若了全 無事，體用不妨分不分。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_248","lb_range":["0229a06"],"text_zh":"者邊那邊，應用不闕。","text_en":"者邊那邊，應用不闕。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_249","lb_range":["0229a07"],"text_zh":"空劫今時，理事無隔。不動道場，遍遊塵剎。","text_en":"空劫今時，理事無隔。不動道場，遍遊塵剎。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_250","lb_range":["0229a08"],"text_zh":"如斯行止，實不枉披法服。","text_en":"如斯行止，實不枉披法服。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_251","lb_range":["0229a09"],"text_zh":"行解既正，表裏相應。","text_en":"行解既正，表裏相應。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_252","lb_range":["0229a10"],"text_zh":"亦乃酬報四恩，拔濟三有。","text_en":"亦乃酬報四恩，拔濟三有。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_253","lb_range":["0229a11"],"text_zh":"兼濟之道，自他獲益。","text_en":"兼濟之道，自他獲益。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_254","lb_range":["0229a12"],"text_zh":"生生若能不退，佛階決定可期。","text_en":"生生若能不退，佛階決定可期。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_255","lb_range":["0229a13","0229a14"],"text_zh":"履踐玄途，非止一生兩生，步步蹈佛階梯，更無退 轉。","text_en":"履踐玄途，非止一生兩生，步步蹈佛階梯，更無退 轉。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_256","lb_range":["0229a15"],"text_zh":"往來三界之賓出沒為他作則。","text_en":"往來三界之賓出沒為他作則。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_257","lb_range":["0229a16","0229a17","0229a18"],"text_zh":"佛為三界導師經云：今此三界皆是我有，其中眾 生悉是吾子。既行古佛之道，為眾生作軌則，引令 出離。","text_en":"佛為三界導師經云：今此三界皆是我有，其中眾 生悉是吾子。既行古佛之道，為眾生作軌則，引令 出離。","type":"dialogue","confidence":1}
+{"unit_id":"X63n1239_258","lb_range":["0229a19"],"text_zh":"此之一學，最妙最玄，但辦肯心，必不相賺。","text_en":"此之一學，最妙最玄，但辦肯心，必不相賺。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_259","lb_range":["0229a20","0229a21","0229a22"],"text_zh":"祖師西來，直指人心，見性成佛，超凡入聖，決定不 悞。唯恐學者不肯留心，如存如亡，或進或退，則不 可造入。自此已下，別就根機，當窮教意。","text_en":"祖師西來，直指人心，見性成佛，超凡入聖，決定不 悞。唯恐學者不肯留心，如存如亡，或進或退，則不 可造入。自此 已 下，別就根機，當窮教意。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_260","lb_range":["0229a23"],"text_zh":"若有中流之士，未能頓超，且於教法留心，溫尋貝葉。","text_en":"若有中流之士，未能頓超，且於教法留心，溫尋貝葉。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_261","lb_range":["0229a24","0229b01"],"text_zh":"根機不等，別開方便之門；溫故知新，要須因指見 月。","text_en":"根機不等，別開方便之門；溫故知新，要須因指見 月。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_262","lb_range":["0229b02","0229b03"],"text_zh":"精搜義理，傳唱敷揚。接引後來，報佛恩德。時光亦不 虗弃，必須以此扶持。","text_en":"精搜義理，傳唱敷揚。接引後來，報佛恩德。時光亦不 虗弃，必須以此扶持。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_263","lb_range":["0229b04"],"text_zh":"傳教導迷，須具教眼，故云必須以此扶持。","text_en":"傳教導迷，須具教眼，故云必須以此扶持。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_264","lb_range":["0229b05"],"text_zh":"住止威儀，便是僧中法器。","text_en":"住止威儀，便是僧中法器。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_265","lb_range":["0229b06"],"text_zh":"威儀肅靜，行止可觀。內德既充，方為法器。","text_en":"威儀肅靜，行止可觀。內德既充，方為法器。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_266","lb_range":["0229b07"],"text_zh":"豈不見倚松之葛，上聳千尋，附託勝因，方能廣益。","text_en":"豈不見倚松之葛，上聳千尋，附託勝因，方能廣益。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_267","lb_range":["0229b08","0229b09"],"text_zh":"前喻從法。古云：青蘿因緣，直上寒松之頂，以內因 外緣互相成之，方趣無上之果，廣利群生。","text_en":"前喻從法。古云：青蘿因緣，直上寒松之頂，以內因 外緣互相成之，方趣無上之果，廣利群生。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_268","lb_range":["0229b10"],"text_zh":"懇修齋戒，莫謾虧踰。","text_en":"懇修齋戒，莫謾虧踰。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_269","lb_range":["0229b11"],"text_zh":"虧者，缺也。踰者，越也。","text_en":"虧者，缺也。踰者，越也。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_270","lb_range":["0229b12"],"text_zh":"世世生生，殊妙因果。","text_en":"世世生生，殊妙因果。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_271","lb_range":["0229b13"],"text_zh":"因果歷然。","text_en":"因果歷然。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_272","lb_range":["0229b14"],"text_zh":"不可等閑過日，兀兀度時，可惜光陰，不求升進。","text_en":"不可等閑過日，兀兀度時，可惜光陰，不求升進。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_273","lb_range":["0229b15"],"text_zh":"若善用其心，則得佛法分。","text_en":"若善用其心，則得佛法分。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_274","lb_range":["0229b16"],"text_zh":"徒消十方信施。","text_en":"徒消十方信施。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_275","lb_range":["0229b17"],"text_zh":"為資道業施將來，道業不成爭消得。","text_en":"為資道業施將來，道業不成爭消得。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_276","lb_range":["0229b18"],"text_zh":"亦乃辜負四恩。","text_en":"亦乃辜負四恩。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_277","lb_range":["0229b19"],"text_zh":"自己沉淪，反成辜負。","text_en":"自己沉淪，反成辜負。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_278","lb_range":["0229b20"],"text_zh":"積累轉深，心塵易壅。","text_en":"積累轉深，心塵易壅。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_279","lb_range":["0229b21"],"text_zh":"過累積之，日深日重。心塵污坌，杜塞靈源。","text_en":"過累積之，日深日重。心塵污坌，杜塞靈源。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_280","lb_range":["0229b22"],"text_zh":"髑途成滯，人所輕欺。","text_en":"髑途成滯，人所輕欺。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_281","lb_range":["0229b23"],"text_zh":"根塵滯塞，解行顛邪。背本逐末，被人輕賤。","text_en":"根塵滯塞，解行顛邪。背本逐末，被人輕賤。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_282","lb_range":["0229b24"],"text_zh":"古云：彼既丈夫我亦爾，不應自輕而退屈。","text_en":"古云：彼既丈夫我亦爾，不應自輕而退屈。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_283","lb_range":["0229c01","0229c02"],"text_zh":"教云：十方世界諸菩薩，念念趣求善逝果，彼既丈 夫我亦爾，不應自輕而退屈。","text_en":"教云：十方世界諸菩薩，念念趣求善逝果，彼既丈 夫我亦爾，不應自輕而退屈。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_284","lb_range":["0229c03"],"text_zh":"若不如此，徒在緇門，荏苒一生，殊無所益。","text_en":"若不如此，徒在緇門，荏苒一生，殊無所益。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_285","lb_range":["0229c04"],"text_zh":"不如上所說修行，則可知理也。","text_en":"不如上所說修行，則可知理也。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_286","lb_range":["0229c05","0229c06"],"text_zh":"伏望興決烈之志，開特達之懷，舉措看他上流，莫擅 隨於庸鄙。","text_en":"伏望興決烈之志，開特達之懷，舉措看他上流，莫擅 隨於庸鄙。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_287","lb_range":["0229c07"],"text_zh":"見賢思齊，見不賢而內自省。","text_en":"見賢思齊，見不賢而內自省。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_288","lb_range":["0229c08"],"text_zh":"今生便須決斷，想料不由別人。","text_en":"今生便須決斷，想料不由別人。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_289","lb_range":["0229c09"],"text_zh":"好惡自看，無人替代。","text_en":"好惡自看，無人替代。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_290","lb_range":["0229c10"],"text_zh":"息意忘緣。","text_en":"息意忘緣。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_291","lb_range":["0229c11"],"text_zh":"內息意，外忘緣。","text_en":"內息意，外忘緣。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_292","lb_range":["0229c12"],"text_zh":"不與諸塵作對。","text_en":"不與諸塵作對。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_293","lb_range":["0229c13"],"text_zh":"內若不動，外無所為。","text_en":"內若不動，外無所為。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_294","lb_range":["0229c14"],"text_zh":"心空境寂。","text_en":"心空境寂。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_295","lb_range":["0229c15"],"text_zh":"心本空，境本寂。","text_en":"心本空，境本寂。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_296","lb_range":["0229c16"],"text_zh":"只為久滯不通。","text_en":"只為久滯不通。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_297","lb_range":["0229c17"],"text_zh":"無始迷昧，背覺合塵。","text_en":"無始迷昧，背覺合塵。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_298","lb_range":["0229c18"],"text_zh":"熟覽斯文，時時警䇿。","text_en":"熟覽斯文，時時警 䇿 。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_299","lb_range":["0229c19"],"text_zh":"覺斯文，警斯意。","text_en":"覺斯文，警斯意。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_300","lb_range":["0229c20"],"text_zh":"強作主宰，莫徇人情。","text_en":"強作主宰，莫徇人情。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_301","lb_range":["0229c21"],"text_zh":"人情濃，道情微。","text_en":"人情濃，道情微。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_302","lb_range":["0229c22"],"text_zh":"業果所牽，誠難逃避。","text_en":"業果所牽，誠難逃避。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_303","lb_range":["0229c23"],"text_zh":"天作孽，猶可逃；自作孽，不可逭。","text_en":"天作孽，猶可逃；自作孽，不可逭。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_304","lb_range":["0229c24"],"text_zh":"聲和響順，形直影端。","text_en":"聲和響順，形直影端。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_305","lb_range":["0230a01"],"text_zh":"因果酬答，譬之影響。","text_en":"因果酬答，譬之影響。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_306","lb_range":["0230a02"],"text_zh":"因果歷然，豈無憂懼？","text_en":"因 果 歷然，豈無憂懼？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_307","lb_range":["0230a03"],"text_zh":"識法者懼。","text_en":"識法者懼。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_308","lb_range":["0230a04"],"text_zh":"故經云：","text_en":"故經云：","type":"prose","confidence":1}
+{"unit_id":"X63n1239_309","lb_range":["0230a05"],"text_zh":"說一切有部經。","text_en":"說一切有部經。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_310","lb_range":["0230a06"],"text_zh":"假使百千劫，所作業不亡，因緣會遇時，果報還自受。","text_en":"假使百千劫，所作業不亡，因緣會遇時，果報還自受。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_311","lb_range":["0230a07"],"text_zh":"因惑造業，如影隨形。未證聖果，業熟須受。","text_en":"因惑造業，如影隨形。未證聖果，業熟須受。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_312","lb_range":["0230a08"],"text_zh":"故知三界刑罰，縈絆殺人。","text_en":"故知三界刑罰，縈絆殺人。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_313","lb_range":["0230a09"],"text_zh":"三界覊縻，猶如牢獄。","text_en":"三界覊縻，猶如牢獄。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_314","lb_range":["0230a10"],"text_zh":"弩力勤修，莫空過日。","text_en":"弩力勤修，莫空過日。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_315","lb_range":["0230a11"],"text_zh":"念念不迷方，真修莫空過。","text_en":"念念不迷方，真修莫空過。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_316","lb_range":["0230a12"],"text_zh":"深知過患，方乃相勸行持。","text_en":"深知過患，方乃相勸行持。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_317","lb_range":["0230a13","0230a14","0230a15"],"text_zh":"自未得度，先度人者，菩薩發心。自覺已圓，復度他 者，如來應世。溈山自知三界眾生過患如此，更能 勸他行持，非地位之人，安能如是。次證誓願。","text_en":"自未得度，先度人者，菩薩發心。自覺 已 圓，復度他 者，如來應世。溈山自知三界眾生過患如此，更能 勸他行持，非地位之人，安能如是。次證誓願。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_318","lb_range":["0230a16"],"text_zh":"願百劫千生，處處同為法侶。","text_en":"願百劫千生，處處同為法侶。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_319","lb_range":["0230a17"],"text_zh":"信茲言，行茲行，皆佛法之伴侶也。","text_en":"信茲言，行茲行，皆佛法之伴侶也。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_320","lb_range":["0230a18"],"text_zh":"乃為銘曰：","text_en":"乃為銘曰：","type":"prose","confidence":1}
+{"unit_id":"X63n1239_321","lb_range":["0230a19"],"text_zh":"重頌前來警䇿之大略。","text_en":"重頌前來警 䇿 之大略。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_322","lb_range":["0230a20"],"text_zh":"幻身夢宅。","text_en":"幻身夢宅。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_323","lb_range":["0230a21"],"text_zh":"四大幻身，三界夢宅。","text_en":"四大幻身，三界夢宅。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_324","lb_range":["0230a22"],"text_zh":"空中物色","text_en":"空中物色","type":"prose","confidence":1}
+{"unit_id":"X63n1239_325","lb_range":["0230a23"],"text_zh":"不實如空花。","text_en":"不實如空花。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_326","lb_range":["0230a24"],"text_zh":"前際無窮，後際寧剋。","text_en":"前際無窮，後際寧剋。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_327","lb_range":["0230b01"],"text_zh":"妄法非三際可得。","text_en":"妄法非三際可得。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_328","lb_range":["0230b02"],"text_zh":"出此沒彼，升沉疲極。","text_en":"出此沒彼，升沉疲極。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_329","lb_range":["0230b03"],"text_zh":"生死出沒，無有定所。升謂人天，沉則苦趣。","text_en":"生死出沒，無有定所。升謂人天，沉則苦趣。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_330","lb_range":["0230b04"],"text_zh":"未免三輪，何時休息。","text_en":"未免三輪，何時休息。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_331","lb_range":["0230b05"],"text_zh":"三界如蟻，循環輪轉無已。","text_en":"三界如蟻，循環輪轉無 已 。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_332","lb_range":["0230b06"],"text_zh":"貪戀世間陰緣成質。","text_en":"貪戀世間陰 緣 成質。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_333","lb_range":["0230b07","0230b08"],"text_zh":"世間有三種：智正覺世間、有情世間、器世間。此論 迷情貪戀有情器世間，非謂智正覺世間也。","text_en":"世間有三種：智正覺世間、有情世間、器世間。此論 迷情貪戀有情器世間，非謂智正覺世間也。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_334","lb_range":["0230b09"],"text_zh":"從生至老，一無所得。","text_en":"從生至老，一無所得。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_335","lb_range":["0230b10"],"text_zh":"妄法本空","text_en":"妄法本空","type":"prose","confidence":1}
+{"unit_id":"X63n1239_336","lb_range":["0230b11"],"text_zh":"根本無明，因茲被惑。","text_en":"根本無明，因茲被惑。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_337","lb_range":["0230b12","0230b13","0230b14"],"text_zh":"根本智受無明熏，真隨妄轉，妄認四大為身，六塵 緣影為心，我執法執，計著親疎愛憎名字，造業受 報，皆無明所惑。","text_en":"根本智受無明熏，真隨妄轉，妄認四大為身，六塵 緣影為心，我執法執，計著親疎愛憎名字，造業受 報，皆無明所惑。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_338","lb_range":["0230b15"],"text_zh":"光陰可惜，剎那不測。","text_en":"光陰可惜，剎那不測。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_339","lb_range":["0230b16"],"text_zh":"剎那生滅，不可虗弃。光陰不進，古佛之道。","text_en":"剎那生滅，不可虗弃。光陰不進，古佛之道。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_340","lb_range":["0230b17"],"text_zh":"今生空過，來世窒塞。","text_en":"今生空過，來世窒塞。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_341","lb_range":["0230b18"],"text_zh":"非但空過一生，未來憑何通達。","text_en":"非但空過一生，未來憑何通達。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_342","lb_range":["0230b19"],"text_zh":"從迷至迷，皆因六賊。","text_en":"從迷至迷，皆因六賊。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_343","lb_range":["0230b20","0230b21","0230b22","0230b23"],"text_zh":"六識之賊，自劫家寶。若悟八識可為四智，前五識 為成所作智，第六識為妙觀察智，第七識為平等 性智，第八識為大圓鏡智，則六門皆智為前導，何 迷可得？","text_en":"六識之賊，自劫家寶。若悟八識可為四智，前五識 為成所作智，第六識為妙觀察智，第七識為平等 性智，第八識為大圓鏡智，則六門皆智為前導，何 迷可得？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_344","lb_range":["0230b24"],"text_zh":"六道往還，三界匍匐。","text_en":"六道往還，三界匍匐。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_345","lb_range":["0230c01"],"text_zh":"三界六道，何由出離？","text_en":"三界六道，何由出離？","type":"prose","confidence":1}
+{"unit_id":"X63n1239_346","lb_range":["0230c02"],"text_zh":"早訪明師，親近高德。","text_en":"早訪明師，親近高德。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_347","lb_range":["0230c03"],"text_zh":"訪求明眼師友，示真出離之要。","text_en":"訪求明眼師友，示真出離之要。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_348","lb_range":["0230c04"],"text_zh":"決擇身心，去其荊𣗥。","text_en":"決擇身心，去其荊 𣗥 。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_349","lb_range":["0230c05"],"text_zh":"明心達本，去其偽妄。","text_en":"明心達本，去其偽妄。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_350","lb_range":["0230c06"],"text_zh":"世自浮虗，眾緣豈逼。","text_en":"世自浮虗，眾緣豈逼。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_351","lb_range":["0230c07"],"text_zh":"既知四大根塵三際無實，眾苦皆空。","text_en":"既知四大根塵三際無實，眾苦皆空。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_352","lb_range":["0230c08"],"text_zh":"研窮法理，以悟為則。","text_en":"研窮法理，以悟為則。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_353","lb_range":["0230c09"],"text_zh":"窮究淵源，頓悟佛之知見。","text_en":"窮究淵源，頓悟佛之知見。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_354","lb_range":["0230c10"],"text_zh":"心境俱捐，莫記莫憶。","text_en":"心境俱捐，莫記莫憶。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_355","lb_range":["0230c11"],"text_zh":"內心外境，放之自然，體無去住。","text_en":"內心外境，放之自然，體無去住。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_356","lb_range":["0230c12"],"text_zh":"六根怡然，行住寂默。","text_en":"六根怡然，行住寂默。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_357","lb_range":["0230c13"],"text_zh":"法喜禪悅，卷舒任運。四威儀中，止觀齊運。","text_en":"法喜禪悅，卷舒任運。四威儀中，止觀齊運。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_358","lb_range":["0230c14"],"text_zh":"一心不生，萬法俱息。","text_en":"一心不生，萬法俱息。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_359","lb_range":["0230c15","0230c16","0230c17"],"text_zh":"一念不生，諸緣頓息，末後一句，始到牢關。把斷要 津，不通凡聖，誰是知音者？不須更憶龐居士，天上 人間只自知。","text_en":"一念不生，諸緣頓息，末後一句，始到牢關。把斷要 津，不通凡聖，誰是知音者？不須更憶龐居士，天上 人間只自知。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_360","lb_range":["0230c18","0230c19","0230c20","0230c21","0230c22","0230c23","0230c24","0231a01","0231a02","0231a03","0231a04","0231a05","0231a06","0231a07","0231a08","0231a09","0231a10","0231a11","0231a12","0231a13","0231a14","0231a15","0231a16","0231a17","0231a18","0231a19","0231a20","0231a21","0231a22","0231a23","0231a24","0231b01"],"text_zh":"道無今古，人有悟迷。是故釋迦老人承願力，示現鹿 野苑至䟦提河三百餘會，言無言言，開示人天，令各 悟入佛之知見。惟四十二章經．遺教經者，是始終教 誡法寶也。後漢永平間，迦葉摩騰．竺法蘭持前一經 東來，焚驗有靈，立教與宗。梁大通間，又得西天二十 八世祖達磨大師傳佛心印，前來直指，與經符契。是 我此土人有大乘根器，而有大幸也。可大師者，立雪 斷臂，求問妙道，言下有悟。執侍數載，三拜得髓，授受 衣盂，七傳而至百丈。百丈得黃蘗運公．溈山祐公，大 振玄風，增輝佛日。溈山因見學者少有放逸，遂述法 語，警其未悟，䇿其未到，文簡語直，義愽意深。叢林中 以四十二章經．遺教經．溈山警䇿，謂之佛祖三經。能 一覧而直前者，不歷多生，便可成佛作祖。宣和間，又 得遂禪師直注深義，初學易通，妙矣哉！自此有志於 道者，省力甚多，不懷香而見佛祖，不動步而登覺場。 今靜山慧大師抽衣資，鋟梓于吳中休休庵，以廣其 傳。奇哉！以財鋟梓名財施，以教傳法名法施，財法二 施名大施。佛云：能行大施者，決證菩提。靜山將來種 智圓明，十號俱彰，因此勝緣也。覽斯經者，却宜淨心 如虗空，向未開卷以前著眼，掀飜窠臼，洞徹玄微，挽 回真風，大興末運。若也見義勇為，將來亦可成器。其 或循行數墨，辜負佛祖多矣！","text_en":"注溈山警 䇿 No. 1239-B 道無今古，人有悟迷。是故釋迦老人承願力，示現鹿 野苑至 䟦 提河三百餘會，言無言言，開示人天，令各 悟入佛之知見。惟四十二章經．遺教經者，是始終教 誡法寶也。後漢永平間，迦葉摩騰．竺法蘭持前一經 東來，焚驗有靈，立教與宗。梁大通間，又得西天二十 八世祖達磨大師傳佛心印，前來直指，與經符契。是 我此土人有大乘根器，而有大幸也。可大師者，立雪 斷臂，求問妙道，言下有悟。執侍數載，三拜得髓，授受 衣盂，七傳而至百丈。百丈得黃蘗運公．溈山祐公，大 振玄風，增輝佛日。溈山因見學者少有放逸，遂述法 語，警其未悟， 䇿 其未到，文簡語直，義愽意深。叢林中 以四十二章經．遺教經．溈山警 䇿 ，謂之佛祖三經。能 一覧而直前者，不歷多生，便可成佛作祖。宣和間，又 得遂禪師直注深義，初學易通，妙矣哉！自此有志於 道者，省力甚多，不懷香而見佛祖，不動步而登覺場。 今靜山慧大師抽衣資，鋟梓于吳中休休庵，以廣其 傳。奇哉！以財鋟梓名財施，以教傳法名法施，財法二 施名大施。佛云：能行大施者，決證菩提。靜山將來種 智圓明，十號俱彰，因此勝緣也。覽斯經者，却宜淨心 如虗空，向未開卷以前著眼，掀飜窠臼，洞徹玄微，挽 回真風，大興末運。若也見義勇為，將來亦可成器。其 或循行數墨，辜負佛祖多矣！","type":"dialogue","confidence":1}
+{"unit_id":"X63n1239_361","lb_range":["0231b02"],"text_zh":"至元丙戌燈節絕，　牧叟　德異　敘","text_en":"至元丙戌燈節絕，　牧叟　德異　敘","type":"prose","confidence":1}
+{"unit_id":"X63n1239_362","lb_range":["0231b03","0231b04","0231b05","0231b06","0231b07","0231b08","0231b09","0231b10","0231b11","0231b12","0231b13","0231b14"],"text_zh":"釋志峯與志道。覺溫施主金氏曰：大難者，重刊佛祖 三經，來請予䟦其尾。予觀其書，四十二章也，遺教經 也，溈山警䇿也。立法創制，纖毫未遺，成佛作祖，正路 斯在。道上人法施，何可量哉！學者目此書，如嚴師在 上，撿身若不及，則可矣。如或不然，三經亦虗文矣，豈 不惜哉！","text_en":"No. 1239-C 釋志峯與志道。覺溫施主金氏曰：大難者，重刊佛祖 三經，來請予 䟦 其尾。予觀其書，四十二章也，遺教經 也，溈山警 䇿 也。立法創制，纖毫未遺，成佛作祖，正路 斯在。道上人法施，何可量哉！學者目此書，如嚴師在 上，撿身若不及，則可矣。如或不然，三經亦虗文矣，豈 不惜哉！","type":"dialogue","confidence":1}
+{"unit_id":"X63n1239_363","lb_range":["0231b15","0231b16"],"text_zh":"青龍甲子十月　日　　推忠保節同德贊化功 臣三重大匡韓山府院君李　穡䟦","text_en":"青龍甲子十月　日　　推忠保節同德贊化功 臣三重大匡韓山府院君李　穡 䟦","type":"prose","confidence":1}
+{"unit_id":"X63n1239_364","lb_range":["0231b17","0231b18","0231b19","0231b20","0231b21","0231b22","0231b23","0231b24","0231c01","0231c02"],"text_zh":"前二經，佛所說也。後警䇿，溈山所說也。三經實學者 入道參學，成佛作祖之蹊逕根本也。遂禪師注出，節 下生枝也。靜山不然，掃險枝葉，復繡梓以廣其傳。蓋 欲人人與佛祖駢肩接足，同一受用，其心亦可尚矣。 學者儻能遵而行之，則佛祖即汝，汝即佛祖。忽若一 箇半箇，纔出母胎，便具超佛越祖作略，則此經皆為 剩語。","text_en":"No. 1239-D 前二經，佛所說也。後警 䇿 ，溈山所說也。三經實學者 入道參學，成佛作祖之蹊逕根本也。遂禪師注出，節 下生枝也。靜山不然，掃險枝葉，復繡梓以廣其傳。蓋 欲人人與佛祖駢肩接足，同一受用，其心亦可尚矣。 學者儻能遵而行之，則佛祖即汝，汝即佛祖。忽若一 箇半箇，纔出母胎，便具超佛越祖作略，則此經皆為 剩語。","type":"prose","confidence":1}
+{"unit_id":"X63n1239_365","lb_range":["0231c03"],"text_zh":"時丙戌春中，前覺根比丘　益大　拜書","text_en":"時丙戌春中，前覺根比丘　益大　拜書","type":"prose","confidence":1}

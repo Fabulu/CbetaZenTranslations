@@ -1,0 +1,583 @@
+{"source_sha256":"96bb615f75186210f9eabbd26712702f3490ec53184bbd5877e19d875754b9c6","schema":"seg-v1"}
+{"unit_id":"A110n1490_001","lb_range":["0661b01","0661b02","0661b03","0661b04"],"text_zh":"《四諦經》一卷。 三藏安世高譯。","text_en":"舊入藏錄 小乘重單合譯經 《四諦經》一卷 。 三藏安世高譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_002","lb_range":["0661b05","0661b06"],"text_zh":"《恒水經》一卷。 西晉釋法炬譯。","text_en":"《恒水經》一卷。 西晉釋法炬譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_003","lb_range":["0661b07","0661b08"],"text_zh":"《本相倚致經》一卷。 三藏安世高譯。","text_en":"《本相倚致經》一卷。 三藏安世高譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_004","lb_range":["0661b09","0661b10","0661b11","0661b12","0662a01","0662a02","0662a03","0662a04"],"text_zh":"《緣本致經》一卷。","text_en":"《緣本致經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_005","lb_range":["0662a05","0662a06"],"text_zh":"《頂生王故事經》一卷。 上二經，並西晉釋法炬譯。","text_en":"《頂生王故事經》一卷。 上二經，並西晉釋法炬譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_006","lb_range":["0662a07","0662a08"],"text_zh":"《文陀竭王經》一卷。 北涼沙門曇無讖譯。","text_en":"《文陀竭王經》一卷。 北涼沙門曇無讖譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_007","lb_range":["0662a09","0662a10"],"text_zh":"《閻羅王五天使者經》一卷。 宋沙門惠簡譯。","text_en":"《閻羅王五天使者經》一卷。 宋沙門惠簡譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_008","lb_range":["0662a11","0662b01"],"text_zh":"《鐵城泥犁經》一卷。 西晉沙門曇無蘭譯。","text_en":"《鐵城泥犁經》一卷。 西晉沙門曇無蘭譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_009","lb_range":["0662b02"],"text_zh":"《古來世時經》一卷。失譯。","text_en":"《古來世時經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_010","lb_range":["0662b03","0662b04"],"text_zh":"《阿那律八念經》一卷。 竺支曜譯。","text_en":"《阿那律八念經》一卷。 竺支曜譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_011","lb_range":["0662b05","0662b06"],"text_zh":"《離睡眠經》一卷。 竺法護譯。","text_en":"《離睡眠經》一卷。 竺法護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_012","lb_range":["0662b07","0662b08"],"text_zh":"《是法非法經》一卷。 安世高譯。","text_en":"《是法非法經》一卷。 安世高譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_013","lb_range":["0662b09","0662b10"],"text_zh":"《求欲經》一卷。 釋法炬譯。","text_en":"《求欲經》一卷。 釋法炬譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_014","lb_range":["0662b11","0662b12"],"text_zh":"《受歲經》一卷。 竺法護譯。","text_en":"《受歲經》一卷。 竺法護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_015","lb_range":["0662b13"],"text_zh":"《梵志計水淨經》一卷。失譯。","text_en":"《梵志計水淨經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_016","lb_range":["0663a01"],"text_zh":"《苦陰經》一卷。失譯。","text_en":"《苦陰經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_017","lb_range":["0663a02","0663a03"],"text_zh":"《釋摩男本經》一卷。 吳支謙譯。","text_en":"《釋摩男本經》一卷。 吳支謙譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_018","lb_range":["0663a04","0663a05"],"text_zh":"《樂想經》一卷。 竺法護譯。","text_en":"《樂想經》一卷。 竺法護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_019","lb_range":["0663a06","0663a07"],"text_zh":"《苦陰因事經》一卷。 釋法炬譯。","text_en":"《苦陰因事經》一卷。 釋法炬譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_020","lb_range":["0663a08","0663a09"],"text_zh":"《漏分布經》一卷。 安世高譯。","text_en":"《漏分布經》一卷。 安世高譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_021","lb_range":["0663a10","0663a11"],"text_zh":"《阿耨風經》一卷。 曇無蘭譯。","text_en":"《阿耨風經》一卷。 曇無蘭譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_022","lb_range":["0663b01","0663b02"],"text_zh":"《諸法本經》一卷。 吳支謙譯。","text_en":"《諸法本經》一卷。 吳支謙譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_023","lb_range":["0663b03"],"text_zh":"《瞿曇彌記果》。失譯。","text_en":"《瞿曇彌記果》。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_024","lb_range":["0663b04","0663b05"],"text_zh":"《瞻婆比丘經》一卷。 釋法炬譯。","text_en":"《瞻婆比丘經》一卷。 釋法炬譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_025","lb_range":["0663b06"],"text_zh":"《魔嬈亂經》一卷。失譯。","text_en":"《魔嬈亂經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_026","lb_range":["0663b07","0663b08","0663b09"],"text_zh":"《弊魔試目連經》一卷。 吳支謙譯。 上二十九經，二十九卷，同帙，若字号。","text_en":"《弊魔試目連經》一卷。 吳支謙譯。 上二十九經，二十九卷，同帙，若字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_027","lb_range":["0663b10"],"text_zh":"《頼吒和羅經》一卷。失譯。","text_en":"《頼吒和羅經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_028","lb_range":["0663b11","0663b12"],"text_zh":"《善生子經》一卷。 西晉沙門支法度譯。","text_en":"《善生子經》一卷。 西晉沙門支法度譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_029","lb_range":["0664a01","0664a02"],"text_zh":"《數經》一卷。 沙門法炬譯。","text_en":"《數經》一卷。 沙門法炬譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_030","lb_range":["0664a03"],"text_zh":"《梵志頞羅延問種尊經》一卷。失譯。","text_en":"《梵志頞羅延問種尊經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_031","lb_range":["0664a04"],"text_zh":"《三歸五戒慈心猒離功德經》一卷。失譯。","text_en":"《三歸五戒慈心猒離功德經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_032","lb_range":["0664a05"],"text_zh":"《湏達經》一卷。失譯。","text_en":"《湏達經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_033","lb_range":["0664a06"],"text_zh":"《佛為黃竹園老婆羅門說學經》一卷。失譯。","text_en":"《佛為黃竹園老婆羅門說學經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_034","lb_range":["0664a07","0664a08"],"text_zh":"《梵摩喻經》一卷。 吳支謙譯。","text_en":"《梵摩喻經》一卷。 吳支謙譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_035","lb_range":["0664a09","0664a10"],"text_zh":"《尊上經》一卷。 竺法護譯。","text_en":"《尊上經》一卷。 竺法護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_036","lb_range":["0664a11","0664a12"],"text_zh":"《鸚鵡經》一卷。 宋求那跋陀羅譯。","text_en":"《鸚鵡經》一卷。 宋求那跋陀羅譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_037","lb_range":["0664b01"],"text_zh":"《兜調經》一卷。失譯。","text_en":"《兜調經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_038","lb_range":["0664b02"],"text_zh":"《意經》一卷。","text_en":"《意經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_039","lb_range":["0664b03","0664b04"],"text_zh":"《應法經》一卷。 上二經，並竺法護譯。","text_en":"《應法經》一卷。 上二經，並竺法護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_040","lb_range":["0664b05"],"text_zh":"《泥犁經》一卷。失譯。","text_en":"《泥犁經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_041","lb_range":["0664b06"],"text_zh":"《優婆墮舍迦經》一卷。失譯。","text_en":"《優婆墮舍迦經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_042","lb_range":["0664b07","0664b08"],"text_zh":"《齋經》一卷。 吳支謙譯。","text_en":"《齋經》一卷。 吳支謙譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_043","lb_range":["0664b09","0664b10"],"text_zh":"《鞞摩肅經》一卷。 求那跋陀羅譯。","text_en":"《鞞摩肅經》一卷。 求那跋陀羅譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_044","lb_range":["0664b11"],"text_zh":"《婆羅門子命終愛念不離經》一卷。","text_en":"《婆羅門子命終愛念不離經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_045","lb_range":["0664b12","0664b13"],"text_zh":"《十支居士八城人經》一卷。 上二經，安世高譯。","text_en":"《十支居士八城人經》一卷。 上二經，安世高譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_046","lb_range":["0665a01"],"text_zh":"《邪見經》一卷。失譯。","text_en":"《邪見經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_047","lb_range":["0665a02"],"text_zh":"《箭喻經》一卷。失譯。","text_en":"《箭喻經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_048","lb_range":["0665a03","0665a04"],"text_zh":"《普法義經》一卷。 安世高譯。","text_en":"《普法義經》一卷。 安世高譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_049","lb_range":["0665a05","0665a06"],"text_zh":"《廣義法門經》一卷。 三藏真諦譯。","text_en":"《廣義法門經》一卷。 三藏真諦譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_050","lb_range":["0665a07","0665a08"],"text_zh":"《戒德香經》一卷。 東晉曇無蘭譯。","text_en":"《戒德香經》一卷。 東晉曇無蘭譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_051","lb_range":["0665a09"],"text_zh":"《四人出現世間經》一卷。失譯。","text_en":"《四人出現世間經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_052","lb_range":["0665a10","0665a11"],"text_zh":"《波斯匿王塵坌身經》一卷。 沙門法炬譯。","text_en":"《波斯匿王塵坌身經》一卷。 沙門法炬譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_053","lb_range":["0665b01","0665b02"],"text_zh":"《須摩提女經》一卷。 吳支謙譯。","text_en":"《須摩提女經》一卷。 吳支謙譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_054","lb_range":["0665b03","0665b04"],"text_zh":"《婆羅門避死經》一卷。 安世高譯。","text_en":"《婆羅門避死經》一卷。 安世高譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_055","lb_range":["0665b05"],"text_zh":"《施食獲五福報經》一卷。失譯。","text_en":"《施食獲五福報經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_056","lb_range":["0665b06","0665b07"],"text_zh":"《頻婆娑羅王詣佛供養經》一卷。 釋法炬譯。","text_en":"《頻婆娑羅王詣佛供養經》一卷。 釋法炬譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_057","lb_range":["0665b08"],"text_zh":"《長者子六過出家經》一卷。失譯。","text_en":"《長者子六過出家經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_058","lb_range":["0665b09","0665b10","0665b11"],"text_zh":"《鴦崛摩經》一卷。 竺法護譯。 上三十二經，三十二卷，同帙，思字号。","text_en":"《鴦崛摩經》一卷。 竺法護譯。 上三十二經，三十二卷，同帙，思字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_059","lb_range":["0665b12","0666a01"],"text_zh":"《鴦崛髻經》一卷。 釋法炬譯。","text_en":"《鴦崛髻經》一卷。 釋法炬譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_060","lb_range":["0666a02"],"text_zh":"《力士移山經》一卷。","text_en":"《力士移山經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_061","lb_range":["0666a03","0666a04"],"text_zh":"《四未曾有法經》一卷。 上二經，並竺法護譯。","text_en":"《四未曾有法經》一卷。 上二經，並竺法護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_062","lb_range":["0666a05","0666a06"],"text_zh":"《舍利弗目連遊四衢經》一卷。 沙門康孟祥譯。","text_en":"《舍利弗目連遊四衢經》一卷。 沙門康孟祥譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_063","lb_range":["0666a07"],"text_zh":"《七佛父母姓字經》一卷。失譯。","text_en":"《七佛父母姓字經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_064","lb_range":["0666a08","0666a09"],"text_zh":"《放牛經》一卷。 右《增一阿含》別品同譯。","text_en":"《放牛經》一卷。 右《增一阿含》別品同譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_065","lb_range":["0666a10","0666a11"],"text_zh":"《緣起經》一卷。 三藏玄奘譯。","text_en":"《緣起經》一卷。 三藏玄奘譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_066","lb_range":["0666a12","0666b01"],"text_zh":"《十一想思念如來經》一卷。 求那跋陀羅譯。","text_en":"《十一想思念如來經》一卷。 求那跋陀羅譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_067","lb_range":["0666b02","0666b03"],"text_zh":"《四泥犁經》一卷。 曇無蘭譯。","text_en":"《四泥犁經》一卷。 曇無蘭譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_068","lb_range":["0666b04","0666b05"],"text_zh":"《阿那邠𨚎化七子經》一卷。 安世高譯。","text_en":"《阿那邠 𨚎 化七子經》一卷。 安世高譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_069","lb_range":["0666b06","0666b07"],"text_zh":"《大愛道般泥洹經》一卷。 白法祖譯。","text_en":"《大愛道般泥洹經》一卷。 白法祖譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_070","lb_range":["0666b08","0666b09"],"text_zh":"《佛母般泥洹經》一卷。 沙門惠簡譯。","text_en":"《佛母般泥洹經》一卷。 沙門惠簡譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_071","lb_range":["0666b10","0666b11"],"text_zh":"《國王不離先泥十夢經》一卷。 曇無蘭譯。","text_en":"《國王不離先泥十夢經》一卷。 曇無蘭譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_072","lb_range":["0666b12"],"text_zh":"《舍衛國王夢見十事經》一卷。失譯。","text_en":"《舍衛國王夢見十事經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_073","lb_range":["0666b13","0667a01"],"text_zh":"《阿難同學經》一卷。 安世高譯。","text_en":"《阿難同學經》一卷。 安世高譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_074","lb_range":["0667a02","0667a03"],"text_zh":"《五蘊皆空經》一卷。 三藏義淨譯。","text_en":"《五蘊皆空經》一卷。 三藏義淨譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_075","lb_range":["0667a04","0667a05"],"text_zh":"《七處三觀經》一卷。 安世高譯。","text_en":"《七處三觀經》一卷。 安世高譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_076","lb_range":["0667a06"],"text_zh":"《佛說積骨經》一卷。","text_en":"《佛說積骨經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_077","lb_range":["0667a07","0667a08"],"text_zh":"《聖法印經》一卷。 竺法護譯。","text_en":"《聖法印經》一卷。 竺法護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_078","lb_range":["0667a09"],"text_zh":"《雜阿含經》一卷。失譯。","text_en":"《雜阿含經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_079","lb_range":["0667a10","0667a11"],"text_zh":"《五陰譬喻經》一卷。 安世高譯。","text_en":"《五陰譬喻經》一卷。 安世高譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_080","lb_range":["0667b01","0667b02"],"text_zh":"《水沫所漂經》一卷。 曇無蘭譯。","text_en":"《水沫所漂經》一卷。 曇無蘭譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_081","lb_range":["0667b03"],"text_zh":"《不自守意經》一卷。失譯。","text_en":"《不自守意經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_082","lb_range":["0667b04"],"text_zh":"《滿願子經》一卷。失譯。","text_en":"《滿願子經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_083","lb_range":["0667b05","0667b06"],"text_zh":"《轉法輪經》一卷。 安世高譯。","text_en":"《轉法輪經》一卷。 安世高譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_084","lb_range":["0667b07","0667b08"],"text_zh":"《三轉法輪經》一卷。 三藏義淨譯。","text_en":"《三轉法輪經》一卷。 三藏義淨譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_085","lb_range":["0667b09","0667b10"],"text_zh":"《八正道經》一卷。 安世高譯。","text_en":"《八正道經》一卷。 安世高譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_086","lb_range":["0667b11","0667b12"],"text_zh":"《難提釋經》一卷。 法炬、法立等譯。","text_en":"《難提釋經》一卷。 法炬、法立等譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_087","lb_range":["0668a01"],"text_zh":"《馬有三相經》一卷。","text_en":"《馬有三相經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_088","lb_range":["0668a02","0668a03"],"text_zh":"《馬有八態譬人經》一卷。 上二經，並竺支曜譯。","text_en":"《馬有八態譬人經》一卷。 上二經，並竺支曜譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_089","lb_range":["0668a04","0668a05"],"text_zh":"《相應相可經》一卷。 沙門法炬譯。","text_en":"《相應相可經》一卷。 沙門法炬譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_090","lb_range":["0668a06","0668a07","0668a08"],"text_zh":"《治禪病祕要經》二卷。 北涼安楊侯沮渠京聲譯。 上三十二經，三十三卷，同帙，言字号。","text_en":"《治禪病祕要經》二卷。 北涼安楊侯沮渠京聲譯。 上三十二經，三十三卷，同帙，言字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_091","lb_range":["0668a09"],"text_zh":"《摩鄧女經》一卷。失譯。","text_en":"《摩鄧女經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_092","lb_range":["0668a10"],"text_zh":"《摩鄧女解形中六事經》一卷。失譯。","text_en":"《摩鄧女解形中六事經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_093","lb_range":["0668a11","0668a12"],"text_zh":"《摩登伽經》三卷。 吳竺律炎、支謙同譯。","text_en":"《摩登伽經》三卷。 吳竺律炎、支謙同譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_094","lb_range":["0668b01","0668b02"],"text_zh":"《舍頭諫經》一卷。 竺法護譯。","text_en":"《舍頭諫經》一卷。 竺法護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_095","lb_range":["0668b03"],"text_zh":"《鬼問目連經》一卷。失譯。","text_en":"《鬼問目連經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_096","lb_range":["0668b04","0668b05"],"text_zh":"《雜藏經》一卷。 沙門法顯譯。","text_en":"《雜藏經》一卷。 沙門法顯譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_097","lb_range":["0668b06"],"text_zh":"《餓鬼報應經》一卷。失譯。","text_en":"《餓鬼報應經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_098","lb_range":["0668b07","0668b08"],"text_zh":"《阿難問事佛吉󱇈經》一卷。 安世高譯。","text_en":"《阿難問事佛吉 󱇈 經》一卷。 安世高譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_099","lb_range":["0668b09"],"text_zh":"《慢法經》一卷。失譯。","text_en":"《慢法經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_100","lb_range":["0668b10","0668b11"],"text_zh":"《阿難分別經》一卷。 乞伏秦沙門聖堅譯。","text_en":"《阿難分別經》一卷。 乞伏秦沙門聖堅譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_101","lb_range":["0668b12"],"text_zh":"《五母子經》一卷。失譯。","text_en":"《五母子經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_102","lb_range":["0668b13"],"text_zh":"《沙彌羅經》一卷。失譯。","text_en":"《沙彌羅經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_103","lb_range":["0669a01"],"text_zh":"《玉耶女經》一卷。失譯。","text_en":"《玉耶女經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_104","lb_range":["0669a02"],"text_zh":"《玉耶女經》一卷。失譯。","text_en":"《玉耶女經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_105","lb_range":["0669a03"],"text_zh":"《阿遬達經》一卷。失譯。","text_en":"《阿遬達經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_106","lb_range":["0669a04","0669a05"],"text_zh":"《修行本起經》二卷。失譯。 上十六經，十九卷，同帙，辭字号。","text_en":"《修行本起經》二卷。 失譯。 上十六經，十九卷，同帙，辭字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_107","lb_range":["0669a06"],"text_zh":"《太子瑞應本起經》二卷。失譯。","text_en":"《太子瑞應本起經》二卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_108","lb_range":["0669a07","0669a08"],"text_zh":"《過去現在因果經》四卷。 求那跋陀羅譯。","text_en":"《過去現在因果經》四卷。 求那跋陀羅譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_109","lb_range":["0669a09","0669a10"],"text_zh":"《法海經》一卷。 釋法炬譯。","text_en":"《法海經》一卷。 釋法炬譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_110","lb_range":["0669a11"],"text_zh":"《海八德經》一卷。失譯。","text_en":"《海八德經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_111","lb_range":["0669b01","0669b02"],"text_zh":"《四十二章經》一卷。 漢迦葉摩騰、竺法蘭同譯。","text_en":"《四十二章經》一卷。 漢迦葉摩騰、竺法蘭同譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_112","lb_range":["0669b03","0669b04"],"text_zh":"《柰女因緣經》一卷。 安世高譯。","text_en":"《柰女因緣經》一卷。 安世高譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_113","lb_range":["0669b05"],"text_zh":"《罪業報應教化地獄經》一卷。失譯。","text_en":"《罪業報應教化地獄經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_114","lb_range":["0669b06","0669b07"],"text_zh":"《龍王兄弟經》一卷。 吳支謙譯。","text_en":"《龍王兄弟經》一卷。 吳支謙譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_115","lb_range":["0669b08","0669b09"],"text_zh":"《長者音恱經》一卷。失譯。 上九經，十三卷，同帙，安字号。","text_en":"《長者音恱經》一卷。 失譯。 上九經，十三卷，同帙，安字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_116","lb_range":["0669b10","0669b11"],"text_zh":"《禪祕要法經》四卷。 三藏羅什譯。","text_en":"《禪祕要法經》四卷。 三藏羅什譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_117","lb_range":["0669b12"],"text_zh":"《七女經》一卷。","text_en":"《七女經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_118","lb_range":["0670a01","0670a02"],"text_zh":"《八師經》一卷。 上二經，並吳支謙譯。","text_en":"《八師經》一卷。 上二經，並吳支謙譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_119","lb_range":["0670a03","0670a04"],"text_zh":"《越難經》一卷。 西晉淨信士聶遠譯。","text_en":"《越難經》一卷。 西晉淨信士聶遠譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_120","lb_range":["0670a05","0670a06"],"text_zh":"《所欲致患經》一卷。 竺法護譯。","text_en":"《所欲致患經》一卷。 竺法護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_121","lb_range":["0670a07","0670a08"],"text_zh":"《阿闍世王問五逆經》一卷。 釋法炬譯。","text_en":"《阿闍世王問五逆經》一卷。 釋法炬譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_122","lb_range":["0670a09","0670a10"],"text_zh":"《五苦章句經》一卷。 曇無蘭譯。","text_en":"《五苦章句經》一卷。 曇無蘭譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_123","lb_range":["0670a11"],"text_zh":"《堅意經》一卷。失譯。","text_en":"《堅意經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_124","lb_range":["0670a12","0670b01"],"text_zh":"《淨飯王般涅盤經》一卷。 宋居士沮渠京聲譯。","text_en":"《淨飯王般涅盤經》一卷。 宋居士沮渠京聲譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_125","lb_range":["0670b02"],"text_zh":"《進學經》一卷。失譯。","text_en":"《進學經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_126","lb_range":["0670b03"],"text_zh":"《得道梯橙錫杖經》一卷。失譯。","text_en":"《得道梯橙錫杖經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_127","lb_range":["0670b04","0670b05"],"text_zh":"《貧窮老翁經》一卷。 宋沙門惠簡譯。","text_en":"《貧窮老翁經》一卷。 宋沙門惠簡譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_128","lb_range":["0670b06","0670b07"],"text_zh":"《三摩竭經》一卷。 吳天竺沙門律頭炎譯。","text_en":"《三摩竭經》一卷。 吳天竺沙門律頭炎譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_129","lb_range":["0670b08","0670b09"],"text_zh":"《萍沙王五願經》一卷。 吳支謙譯。","text_en":"《萍沙王五願經》一卷。 吳支謙譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_130","lb_range":["0670b10","0670b11"],"text_zh":"《瑠璃王經》一卷。竺法護譯。 上十五經，十八卷，同帙，定字号。","text_en":"《瑠璃王經》一卷。 竺法護譯。 上十五經，十八卷，同帙，定字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_131","lb_range":["0670b12","0670b13"],"text_zh":"《生經》五卷。 竺法護譯。","text_en":"《生經》五卷。 竺法護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_132","lb_range":["0671a01","0671a02","0671a03"],"text_zh":"《義足經》二卷。 吳支謙譯。 上二經，七卷，同帙，篤字号。","text_en":"《義足經》二卷。 吳支謙譯。 上二經，七卷，同帙，篤字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_133","lb_range":["0671a04"],"text_zh":"上小乘重單合譯經。","text_en":"上小乘重單合譯經。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_134","lb_range":["0671a05","0671a06","0671a07"],"text_zh":"下小乘單譯經，　緫 八十七部，　二百二十四卷，　一十七帙。 　自《正法念處經》，下至《療痔病經》。","text_en":"小乘單譯經 下小乘單譯經，　緫 八十七部，　二百二十四卷，　一十七帙。 自《正法念處經》，下至《療痔病經》。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_135","lb_range":["0671a08","0671a09"],"text_zh":"《正法念處經》七十卷，七帙，初、成、美、慎、終、冝、令字号。 般若流支譯。","text_en":"《正法念處經》七十卷，七帙，初、成、美、慎、終、冝、令字号。 般若流支譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_136","lb_range":["0671a10","0671a11"],"text_zh":"《佛本行集》六十卷，六帙，榮、業、所、基、籍、甚字号。 闍耶屈多譯。","text_en":"《佛本行集》六十卷，六帙，榮、業、所、基、籍、甚字号。 闍耶屈多譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_137","lb_range":["0671b01","0671b02"],"text_zh":"《本事經》七卷。 三藏玄奘譯。","text_en":"《本事經》七卷。 三藏玄奘譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_138","lb_range":["0671b03"],"text_zh":"《興起行經》二卷。失譯。","text_en":"《興起行經》二卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_139","lb_range":["0671b04","0671b05","0671b06"],"text_zh":"《業報差別經》一卷。 曇法智譯。 上三經，十卷，同帙，無字号。","text_en":"《業報差別經》一卷。 曇法智譯。 上三經，十卷，同帙，無字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_140","lb_range":["0671b07"],"text_zh":"《大安般守意經》二卷。","text_en":"《大安般守意經》二卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_141","lb_range":["0671b08"],"text_zh":"《陰持入經》一卷。","text_en":"《陰持入經》一卷 。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_142","lb_range":["0671b09"],"text_zh":"《處處經》一卷。","text_en":"《處處經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_143","lb_range":["0671b10"],"text_zh":"《罵意經》一卷。","text_en":"《罵意經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_144","lb_range":["0671b11","0671b12"],"text_zh":"《分別善惡所起經》一卷。 上五經，並安世高譯。","text_en":"《分別善惡所起經》一卷。 上五經，並安世高譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_145","lb_range":["0672a01"],"text_zh":"《出家緣經》一卷。失譯。","text_en":"《出家緣經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_146","lb_range":["0672a02"],"text_zh":"《阿含正行經》一卷。","text_en":"《阿含正行經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_147","lb_range":["0672a03"],"text_zh":"《十八泥犁經》一卷。","text_en":"《十八泥犁經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_148","lb_range":["0672a04"],"text_zh":"《法受塵經》一卷。","text_en":"《法受塵經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_149","lb_range":["0672a05"],"text_zh":"《禪行法想經》一卷。","text_en":"《禪行法想經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_150","lb_range":["0672a06","0672a07"],"text_zh":"《長者子懊惱三處經》一卷。 上五經，並安世高譯。","text_en":"《長者子懊惱三處經》一卷。 上五經，並安世高譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_151","lb_range":["0672a08"],"text_zh":"《揵陀國王經》一卷。失譯。","text_en":"《揵陀國王經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_152","lb_range":["0672a09","0672a10"],"text_zh":"《湏摩提長者經》一卷。 吳支謙譯。","text_en":"《湏摩提長者經》一卷。 吳支謙譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_153","lb_range":["0672a11"],"text_zh":"《阿難四事經》一卷。失譯。","text_en":"《阿難四事經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_154","lb_range":["0672a12"],"text_zh":"《未生怨經》一卷。失譯。","text_en":"《未生怨經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_155","lb_range":["0672b01","0672b02"],"text_zh":"《四願經》一卷。 吳支謙譯。","text_en":"《四願經》一卷。 吳支謙譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_156","lb_range":["0672b03"],"text_zh":"《黑氏梵志經》一卷。失譯。","text_en":"《黑氏梵志經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_157","lb_range":["0672b04"],"text_zh":"《猘狗經》一卷。失譯。","text_en":"《猘狗經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_158","lb_range":["0672b05"],"text_zh":"《分別經》一卷。失譯。","text_en":"《分別經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_159","lb_range":["0672b06"],"text_zh":"《八關齋經》一卷。失譯。","text_en":"《八關齋經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_160","lb_range":["0672b07"],"text_zh":"《阿鳩留經》一卷。失譯。","text_en":"《阿鳩留經》一卷。 失譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_161","lb_range":["0672b08","0672b09"],"text_zh":"《孝子經》一卷。失譯。 上二十二經，二十三卷，同帙，竟字号。","text_en":"《孝子經》一卷。 失譯。 上二十二經，二十三卷，同帙，竟字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_162","lb_range":["0672b10"],"text_zh":"《五百弟子自說本起經》一卷。","text_en":"《五百弟子自說本起經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_163","lb_range":["0672b11"],"text_zh":"《大迦葉本經》一卷。","text_en":"《大迦葉本經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_164","lb_range":["0672b12"],"text_zh":"《四自侵經》一卷。","text_en":"《四自侵經》 一卷 。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_165","lb_range":["0673b01","0673b03","0673b04","0673b05"],"text_zh":"《廣品歷章》三十卷，三帙。 第一帙，十卷，高字号。 第二帙，十卷，冠字号。 第三帙，十卷，陪字号。","text_en":"新入藏錄 皇朝新翻藏乘統收錄上 《廣品歷章》三十卷，三帙。 第一帙，十卷，高字号。 第二帙，十卷，冠字号。 第三帙，十卷，陪字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_166","lb_range":["0673b06","0673b07"],"text_zh":"《大唐正元續開元釋教錄》三。 《品歷章》同第三帙。","text_en":"《大唐正元續開元釋教錄》三。 《品歷章》同第三帙。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_167","lb_range":["0673b08"],"text_zh":"二百四十二卷經論及念誦法見行入藏者。","text_en":"二百四十二卷經論及念誦法見行入藏者。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_168","lb_range":["0673b09","0673b10","0673b11","0673b12"],"text_zh":"已上三項，緫二百七十五卷。逐 一函帙、字号、卷數列之于左。","text_en":"已上三項，緫二百七十五卷。逐 一函帙、字号、卷數列之于左。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_169","lb_range":["0674a01","0674a02","0674a03"],"text_zh":"《大烏樞瑟摩明王經》三卷。","text_en":"《大烏樞瑟摩明王經》三卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_170","lb_range":["0674a04"],"text_zh":"《穢跡金剛說神通大滿陀羅尼法術靈要門》一卷。","text_en":"《穢跡金剛說神通大滿陀羅尼法術靈要門》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_171","lb_range":["0674a05","0674a06","0674a07","0674a08","0674a09"],"text_zh":"《穢跡金剛禁百變法》一卷。 上三經，並此天竺國三藏何質達霰譯。 …卷，計八卷，同第八帙，纓字号。","text_en":"《穢跡金剛禁百變法》一卷。 上三經，並此天竺國三藏何質達霰譯。 … 卷，計八卷，同第八帙，纓字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_172","lb_range":["0674a10"],"text_zh":"《菩提場莊嚴經》一卷。","text_en":"《菩提場莊嚴經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_173","lb_range":["0674a11"],"text_zh":"《除一切疾病陀羅尼經》一卷。","text_en":"《除一切疾病陀羅尼經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_174","lb_range":["0674b01"],"text_zh":"《能淨一切眼陀羅尼經》一卷。","text_en":"《能淨一切眼陀羅尼經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_175","lb_range":["0674b02"],"text_zh":"《施燄口餓鬼陀羅尼經》一卷。","text_en":"《施燄口餓鬼陀羅尼經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_176","lb_range":["0674b03"],"text_zh":"《三十五佛名經》一卷。","text_en":"《三十五佛名經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_177","lb_range":["0674b04"],"text_zh":"《八大菩薩曼荼羅經》一卷。","text_en":"《八大菩薩曼荼羅經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_178","lb_range":["0674b05"],"text_zh":"《葉衣觀自在菩薩陀羅尼經》一卷。","text_en":"《葉衣觀自在菩薩陀羅尼經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_179","lb_range":["0674b06"],"text_zh":"《訶利帝母經》一卷。","text_en":"《訶利帝母經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_180","lb_range":["0674b07"],"text_zh":"《毗沙門天王經》一卷。","text_en":"《毗沙門天王經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_181","lb_range":["0674b08","0674b09","0674b10"],"text_zh":"《觀自在菩薩說普賢陀羅尼經》一卷。 並三藏不空譯。 上一十部，共一十卷，同第九帙，世字号。","text_en":"《觀自在菩薩說普賢陀羅尼經》一卷。 並三藏不空譯。 上一十部，共一十卷，同第九帙，世字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_182","lb_range":["0674b11"],"text_zh":"《文殊問字母品經》一卷。","text_en":"《文殊問字母品經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_183","lb_range":["0674b12","0674b13"],"text_zh":"《金剛頂瑜伽千手千眼觀自在念誦法》一 卷。","text_en":"《金剛頂瑜伽千手千眼觀自在念誦法》一 卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_184","lb_range":["0675a01"],"text_zh":"《金剛頂蓮華部心念誦法》一卷。","text_en":"《金剛頂蓮華部心念誦法》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_185","lb_range":["0675a02"],"text_zh":"《無量壽如來念誦儀軌》一卷。","text_en":"《無量壽如來念誦儀軌》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_186","lb_range":["0675a03"],"text_zh":"《阿閦如來念誦法》一卷。","text_en":"《阿閦如來念誦法》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_187","lb_range":["0675a04"],"text_zh":"《佛頂尊勝念誦法》一卷。","text_en":"《佛頂尊勝念誦法》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_188","lb_range":["0675a05"],"text_zh":"《金剛頂勝初瑜伽普賢菩薩念誦法》一卷。","text_en":"《金剛頂勝初瑜伽普賢菩薩念誦法》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_189","lb_range":["0675a06"],"text_zh":"《金剛王菩薩念誦法》一卷。","text_en":"《金剛王菩薩念誦法》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_190","lb_range":["0675a07"],"text_zh":"《普賢金剛薩埵念誦法》一卷。","text_en":"《普賢金剛薩埵念誦法》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_191","lb_range":["0675a08","0675a09","0675a10","0675a11"],"text_zh":"《金剛頂瑜伽五祕密修行儀軌》一卷。 並三藏不空譯。 上一十部，共一十卷，除闕本一卷 外，計九卷，同第十帙，祿字号。","text_en":"《金剛頂瑜伽五祕密修行儀軌》一卷。 並三藏不空譯。 上一十部，共一十卷，除闕本一卷 外，計九卷，同第十帙，祿字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_192","lb_range":["0675b01"],"text_zh":"《金剛壽命念誦法》一卷。","text_en":"《金剛壽命念誦法》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_193","lb_range":["0675b02"],"text_zh":"《一字頂輪王瑜伽經》一卷。","text_en":"《一字頂輪王瑜伽經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_194","lb_range":["0675b03"],"text_zh":"《一字佛頂輪王念誦儀軌》一卷。","text_en":"《一字佛頂輪王念誦儀軌》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_195","lb_range":["0675b04"],"text_zh":"《仁王般若念誦法》一卷。","text_en":"《仁王般若念誦法》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_196","lb_range":["0675b05"],"text_zh":"《如意輪念誦法》一卷。","text_en":"《如意輪念誦法》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_197","lb_range":["0675b06"],"text_zh":"《大虛空藏菩薩念誦法》一卷。","text_en":"《大虛空藏菩薩念誦法》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_198","lb_range":["0675b07"],"text_zh":"《瑜伽蓮華部念誦法》一卷。","text_en":"《瑜伽蓮華部念誦法》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_199","lb_range":["0675b08","0675b09"],"text_zh":"《聖觀自在菩薩心真言觀行儀軌》一卷。","text_en":"《聖觀自在菩薩心真言觀行儀軌》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_200","lb_range":["0675b10"],"text_zh":"《觀自在多羅瑜伽念誦法》一卷。","text_en":"《觀自在多羅瑜伽念誦法》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_201","lb_range":["0675b11","0675b12","0676a01"],"text_zh":"《甘露軍吒利瑜伽念誦法》一卷。 並三藏不空譯。 上一十部，共一十卷，同第十一帙，侈字号。","text_en":"《甘露軍吒利瑜伽念誦法》一卷。 並三藏不空譯。 上一十部，共一十卷，同第十一帙，侈字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_202","lb_range":["0676a02"],"text_zh":"《華嚴入法界品四十二字觀門》一卷。","text_en":"《華嚴入法界品四十二字觀門》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_203","lb_range":["0676a03"],"text_zh":"《文殊讚法身禮》一卷。","text_en":"《文殊讚法身禮》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_204","lb_range":["0676a04"],"text_zh":"《受菩提心戒儀》一卷。","text_en":"《受菩提心戒儀》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_205","lb_range":["0676a05"],"text_zh":"《金剛頂瑜伽三十七尊禮》一卷。","text_en":"《金剛頂瑜伽三十七尊禮》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_206","lb_range":["0676a06"],"text_zh":"《般若理趣經釋》二卷。","text_en":"《般若理趣經釋》二卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_207","lb_range":["0676a07"],"text_zh":"《大曼荼羅十七尊釋》一卷。","text_en":"《大曼荼羅十七尊釋》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_208","lb_range":["0676a08"],"text_zh":"《金剛頂瑜伽護摩儀》一卷。","text_en":"《金剛頂瑜伽護摩儀》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_209","lb_range":["0676a09"],"text_zh":"《都部陀羅尼目》一卷。","text_en":"《都部陀羅尼目》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_210","lb_range":["0676a10"],"text_zh":"《大乘緣生論》一卷。","text_en":"《大乘緣生論》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_211","lb_range":["0676a11","0676a12","0676b01"],"text_zh":"《七俱胝佛母陀羅尼經》一卷。 並三藏不空譯。 上一十部，共一十一卷，同第十二帙，富字号。","text_en":"《七俱胝佛母陀羅尼經》一卷。 並三藏不空譯。 上一十部，共一十一卷，同第十二帙，富字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_212","lb_range":["0676b02","0676b03","0676b04"],"text_zh":"《大虛空藏菩薩所問經》八卷。 三藏不空譯。 右一經，一部，八卷，同第十三帙，車字号。","text_en":"《大虛空藏菩薩所問經》八卷。 三藏不空譯。 右一經，一部，八卷，同第十三帙，車字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_213","lb_range":["0676b05"],"text_zh":"《仁王經》二卷。","text_en":"《仁王經》二卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_214","lb_range":["0676b06"],"text_zh":"《大乘密嚴經》三卷。","text_en":"《大乘密嚴經》三卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_215","lb_range":["0676b07"],"text_zh":"《仁王念誦儀軌》一卷。","text_en":"《仁王念誦儀軌》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_216","lb_range":["0676b08"],"text_zh":"《大聖文殊師利菩薩功德莊嚴經》三卷。","text_en":"《大聖文殊師利菩薩功德莊嚴經》三卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_217","lb_range":["0676b09","0676b10","0676b11"],"text_zh":"《成就妙法蓮華經王瑜伽觀智儀軌》一卷。 並三藏不空譯。 上五部，共一十卷，同第十四帙，駕字号。","text_en":"《成就妙法蓮華經王瑜伽觀智儀軌》一卷。 並三藏不空譯。 上五部，共一十卷，同第十四帙，駕字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_218","lb_range":["0676b12","0676b13"],"text_zh":"《金剛頂勝初瑜伽經中略出大樂金剛薩 埵念誦儀》一卷。","text_en":"《金剛頂勝初瑜伽經中略出大樂金剛薩 埵念誦儀》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_219","lb_range":["0677a01"],"text_zh":"《大樂金剛薩埵修行成就儀軌》一卷。","text_en":"《大樂金剛薩埵修行成就儀軌》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_220","lb_range":["0677a02"],"text_zh":"《大藥叉女歡喜母并愛子成就法》一卷。","text_en":"《大藥叉女歡喜母并愛子成就法》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_221","lb_range":["0677a03"],"text_zh":"《普徧光明大隨求陀羅尼經》二卷。","text_en":"《普徧光明大隨求陀羅尼經》二卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_222","lb_range":["0677a05"],"text_zh":"《金剛頂超勝三界說文殊五字真言勝相》一卷。","text_en":"《金剛頂超勝三界說文殊五字真言勝相》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_223","lb_range":["0677a06"],"text_zh":"《五字陀羅尼頌》一卷。","text_en":"《五字陀羅尼頌》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_224","lb_range":["0677a07"],"text_zh":"《聖閻曼德迦威怒王立成大神驗念誦法》一卷。","text_en":"《聖閻曼德迦威怒王立成大神驗念誦法》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_225","lb_range":["0677a08"],"text_zh":"《文殊師利菩薩根本大教王金翅鳥王品》一卷。","text_en":"《文殊師利菩薩根本大教王金翅鳥王品》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_226","lb_range":["0677a09","0677a10","0677a11"],"text_zh":"《不空羂索毗盧遮那佛大灌頂光真言》一卷。 並三藏不空譯。 上九部，共一十卷，同第十五帙，肥字号。","text_en":"《不空羂索毗盧遮那佛大灌頂光真言》一卷。 並三藏不空譯。 上九部，共一十卷，同第十五帙，肥字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_227","lb_range":["0677b01"],"text_zh":"《聖迦柅忿怒金剛童子菩薩成就儀軌經》三卷。","text_en":"《聖迦柅忿怒金剛童子菩薩成就儀軌經》三卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_228","lb_range":["0677b02"],"text_zh":"《大威怒烏芻澀摩儀軌》一卷。","text_en":"《大威怒烏芻澀摩儀軌》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_229","lb_range":["0677b03"],"text_zh":"《佛說摩利支天經》一卷。","text_en":"《佛說摩利支天經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_230","lb_range":["0677b04","0677b05"],"text_zh":"《金剛頂經一字頂輪王瑜伽一切時處念 誦成佛儀軌》一卷。","text_en":"《金剛頂經一字頂輪王瑜伽一切時處念 誦成佛儀軌》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_231","lb_range":["0677b06"],"text_zh":"《佛為優填王說王法政論經》一卷。","text_en":"《佛為優填王說王法政論經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_232","lb_range":["0677b07"],"text_zh":"《大方廣如來藏經》一卷。","text_en":"《大方廣如來藏經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_233","lb_range":["0677b08"],"text_zh":"《佛說一髻尊陀羅尼經》一卷。","text_en":"《佛說一髻尊陀羅尼經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_234","lb_range":["0677b09","0677b10","0677b11","0677b12"],"text_zh":"《速疾立驗摩𨢘首羅天說迦婁羅阿 尾奢法》一卷。 並三藏不空譯。 上八部，共一十卷，同第十六帙，輕字号。","text_en":"《速疾立驗摩 𨢘 首羅天說迦婁羅阿 尾奢法》一卷。 並三藏不空譯。 上八部，共一十卷，同第十六帙，輕字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_235","lb_range":["0678a01"],"text_zh":"《大日經略攝念誦隨行法》一卷。","text_en":"《大日經略攝念誦隨行法》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_236","lb_range":["0678a02","0678a03"],"text_zh":"《大毗盧遮那成佛神變加持經略示七支 念誦隨行法》一卷。","text_en":"《大毗盧遮那成佛神變加持經略示七支 念誦隨行法》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_237","lb_range":["0678a04"],"text_zh":"《木槵經》一卷。","text_en":"《木槵經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_238","lb_range":["0678a05","0678a06"],"text_zh":"《金剛頂瑜伽文殊師利菩薩儀軌供養 法一品》一卷。","text_en":"《金剛頂瑜伽文殊師利菩薩儀軌供養 法一品》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_239","lb_range":["0678a07"],"text_zh":"《曼殊師利童子菩薩五字瑜伽法》一卷。","text_en":"《曼殊師利童子菩薩五字瑜伽法》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_240","lb_range":["0678a08"],"text_zh":"《金剛頂降三世大儀軌》一卷。","text_en":"《金剛頂降三世大儀軌》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_241","lb_range":["0678a09","0678a10"],"text_zh":"《文殊師利菩薩及諸仙所說吉󱇈時日 善惡宿曜經》二卷。","text_en":"《文殊師利菩薩及諸仙所說吉 󱇈 時日 善惡宿曜經》二卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_242","lb_range":["0678a11"],"text_zh":"《金剛頂經觀自在如來修行法》一卷。","text_en":"《金剛頂經觀自在如來修行法》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_243","lb_range":["0678a12","0678b01","0678b02","0678b03"],"text_zh":"《金剛頂瑜伽中發阿耨多羅三藐三菩 提心論》一卷。 並三藏不空譯。 上九部，共一十卷，同第十七帙，䇿字号。","text_en":"《金剛頂瑜伽中發阿耨多羅三藐三菩 提心論》一卷。 並三藏不空譯。 上九部，共一十卷，同第十七帙， 䇿 字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_244","lb_range":["0678b04"],"text_zh":"《瑜伽金剛頂經釋字母品》一卷。","text_en":"《瑜伽金剛頂經釋字母品》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_245","lb_range":["0678b05"],"text_zh":"《修習般若波羅蜜菩薩觀行念誦儀軌》一卷。","text_en":"《修習般若波羅蜜菩薩觀行念誦儀軌》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_246","lb_range":["0678b06"],"text_zh":"《仁王般若陀羅尼釋》一卷。","text_en":"《仁王般若陀羅尼釋》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_247","lb_range":["0678b07"],"text_zh":"《觀自在大悲成就瑜伽蓮華部念誦法門》一卷。","text_en":"《觀自在大悲成就瑜伽蓮華部念誦法門》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_248","lb_range":["0678b08"],"text_zh":"《佛說大孔雀明王畫像壇場儀軌》一卷。","text_en":"《佛說大孔雀明王畫像壇場儀軌》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_249","lb_range":["0678b09","0678b10"],"text_zh":"《金剛手光明灌頂經最勝立印聖無動尊 大威怒王念誦儀軌法品》一卷。","text_en":"《金剛手光明灌頂經最勝立印聖無動尊 大威怒王念誦儀軌法品》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_250","lb_range":["0678b11"],"text_zh":"《末利支提婆花鬘經》一卷。","text_en":"《末利支提婆花鬘經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_251","lb_range":["0678b12"],"text_zh":"《大聖天歡喜雙身毗那夜迦法》一卷。","text_en":"《大聖天歡喜雙身毗那夜迦法》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_252","lb_range":["0678b13"],"text_zh":"《觀自在菩薩如意輪瑜伽》一卷。","text_en":"《觀自在菩薩如意輪瑜伽》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_253","lb_range":["0679a01"],"text_zh":"《金輪王佛頂要略念誦法》一卷。","text_en":"《金輪王佛頂要略念誦法》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_254","lb_range":["0679a02","0679a03","0679a04"],"text_zh":"《金剛瑜伽降三世成就極深密門》一卷。 並三藏不空譯。 上十一部，共十一卷，同第十八帙，功字号。","text_en":"《金剛瑜伽降三世成就極深密門》一卷。 並三藏不空譯。 上十一部，共十一卷，同第十八帙，功字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_255","lb_range":["0679a05"],"text_zh":"《大乘理趣六波羅蜜多經》一部，十卷。","text_en":"《大乘理趣六波羅蜜多經》一部，十卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_256","lb_range":["0679a06"],"text_zh":"《華嚴長者問那羅延力經》一卷。","text_en":"《華嚴長者問那羅延力經》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_257","lb_range":["0679a07","0679a08","0679a09"],"text_zh":"《般若波羅蜜多心經》一卷。 並𦋺賔國沙門般若與沙門利言等同譯。 上三部，共十二卷，同第十九帙，茂字号。","text_en":"《般若波羅蜜多心經》一卷。 並 𦋺 賔國沙門般若與沙門利言等同譯。 上三部，共十二卷，同第十九帙，茂字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_258","lb_range":["0679a10","0679a11","0679b01","0679b02","0679b03","0679b04"],"text_zh":"《新譯大方廣佛華嚴經》一部，四十卷，　四帙。 𦋺賔國三藏般若與沙門利言等同譯。 第一帙，十卷，實字号。 第二帙，十卷，勒字号。 第三帙，十卷，碑字号。 第四帙，十卷，刻字号。","text_en":"《新譯大方廣佛華嚴經》一部，四十卷，　四帙。 𦋺 賔國三藏般若與沙門利言等同譯。 第一帙，十卷，實字号。 第二帙，十卷，勒字号。 第三帙，十卷，碑字号。 第四帙，十卷，刻字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_259","lb_range":["0679b05","0679b06"],"text_zh":"《十力經》一卷。 安西國三藏勿提犀魚譯。","text_en":"《十力經》一卷。 安西國三藏勿提犀魚譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_260","lb_range":["0679b07","0679b08"],"text_zh":"《迴向輪經》一卷。 于闐國三藏尸羅達摩譯。","text_en":"《迴向輪經》一卷。 于闐國三藏尸羅達摩譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_261","lb_range":["0679b09","0679b10","0679b11"],"text_zh":"《十地經》一部，九卷。 三藏尸羅達摩譯。 上三部，共一十一卷，同第二十四帙，銘字号。","text_en":"《十地經》一部，九卷。 三藏尸羅達摩譯。 上三部，共一十一卷，同第二十四帙，銘字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_262","lb_range":["0679b12","0679b13","0680a01"],"text_zh":"《守護國界主陀羅尼經》一部，一十卷。 𦋺賔國三藏般若與牟尼室利等譯。 上一經，一十卷，第二十五帙，磻字号。","text_en":"《守護國界主陀羅尼經》一部，一十卷。 𦋺 賔國三藏般若與牟尼室利等譯。 上一經，一十卷，第二十五帙，磻字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_263","lb_range":["0680a02","0680a03","0680a04"],"text_zh":"《本生心地觀經》一部，八卷。 三藏般若與利言等同譯。 上一經，八卷，第二十六帙，谿字号。","text_en":"《本生心地觀經》一部，八卷。 三藏般若與利言等同譯。 上一經，八卷，第二十六帙，谿字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_264","lb_range":["0680a05","0680a06","0680a07"],"text_zh":"《千鉢文殊經》一部，一十卷。 三藏不空譯。 上一經，一十卷，第二十七帙，伊字号。","text_en":"《千鉢文殊經》一部，一十卷。 三藏不空譯。 上一經，一十卷，第二十七帙，伊字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_265","lb_range":["0680a08","0680a09","0680a10","0680a11","0680a12"],"text_zh":"右準《正元續開元釋教錄》，四朝翻譯經 論及念誦法、讚錄等，計一百二十五部， 二百四十二卷，二十四帙；并《廣品歷章》三 十卷，本錄三卷，勒成三帙，附《正元錄》之 首。已上緫二百七十五卷，二十七帙。","text_en":"右準《正元續開元釋教錄》，四朝翻譯經 論及念誦法、讚錄等，計一百二十五部， 二百四十二卷，二十四帙；并《廣品歷章》三 十卷，本錄三卷，勒成三帙，附《正元錄》之 首。 已 上緫二百七十五卷，二十七帙。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_266","lb_range":["0680b01","0680b02","0680b04","0680b05","0680b06","0680b07","0680b08","0680b09","0680b10","0680b11","0680b12","0681a01","0681a02","0681a03","0681a04","0681a05","0681a06","0681a07","0681a08","0681a09","0681a10","0681a11","0681a12","0681b01","0681b02","0681b03","0681b04","0681b05","0681b06","0681b07","0681b08","0681b09","0681b10","0681b11","0681b12","0681b13","0682a01","0682a02","0682a03","0682a04"],"text_zh":"夫法以化人，言以詮教。以空為法，人將疇 觀。謂法離言，教復何屬？維摩雖存於默領， 文殊亦啟乎劇談。然則筌本非魚，捨筌而 魚不可得；指本非月，去指而月安可求？冝 哉真乘，為乎祕寶。自雙林寂滅，圓教隆興， 感夕夢於金人，傳經文於白馬。毗尼之藏， 朅來於西方； 調御之仁，大濟於東國。示含生之覺路，為 緜㝢之福田。變桀暴之心，成於調伏；遷殘 忍之性，歸乎慈悲。含靈之所依，歷世之所 尚。蓋以輔五常之治，為眾善之基也。 國家鴻源濬發， 元命會昌，在宥蒸民，裁成庶類。挺生 文考，振起 佛緣。金輪之尊，下臨於溥率；鐵圍之遠，咸 奉於聲明。而又得自 天姿，達於性理，述宣奧妙，開導昏蒙。鑒鷲 嶺之希微，協祇園之敷暢。故令絕域，罔不 賔王，顧彼寶坊，盈茲貝葉。期慧日之普照， 庶法雨之徧霑。有詔方袍，悉從翻譯，申命 鴻筆，共加詳研。歲序󳅕更，篇󳞥滋廣，暨 予沖眇，祗嗣慶靈。󱏈懷 付囑之言，復欽 燕翼之訓。罔敢失墜，常冀闡揚。思以一音， 周于三界。五印苾芻之士，接袂而來賔； 千覺龍象之書，盈編而充委。紹遵 先志，繼茂丕功。始自興國，汔于茲日。凡譯 經律論四百一十三卷，僧惟淨等共司傳 譯，兵部侍郎修國史趙安仁續典潤文，並 貢露章縷，徵曩志思。紹《貞元》之舊錄，用增 金地之烈輝。俞詔云：「頒纂集俄畢，勒成二 十一卷，并緫錄一卷。國朝新譯及釋門 述作，咸列於此。神宗之作，昭 聖教而有孚；菲德之文，並 睿製而增惕。覽封奏之疊上，求序引而 冠篇。式廣勝因，罔諧多讓。仍題曰《大中 祥符法寶錄》云爾。」","text_en":"皇朝新翻藏乘統收錄下 皇宋大中祥符法寶錄序文 真宗文明武定章聖元孝皇帝製 夫法以化人，言以詮教。以空為法，人將疇 觀。謂法離言，教復何屬？維摩雖存於默領， 文殊亦啟乎劇談。然則筌本非魚，捨筌而 魚不可得；指本非月，去指而月安可求？冝 哉真乘，為乎祕寶。自雙林寂滅，圓教隆興， 感夕夢於金人，傳經文於白馬。毗尼之藏， 朅來於西方； 調御之仁，大濟於東國。示含生之覺路，為 緜 㝢 之福田。變桀暴之心，成於調伏；遷殘 忍之性，歸乎慈悲。含靈之所依，歷世之所 尚。蓋以輔五常之治，為眾善之基也。 國家鴻源濬發， 元命會昌，在宥蒸民，裁成庶類。挺生 文考，振起 佛緣。金輪之尊，下臨於溥率；鐵圍之遠，咸 奉於聲明。而又得自 天姿，達於性理，述宣奧妙，開導昏蒙。鑒鷲 嶺之希微，協祇園之敷暢。故令絕域，罔不 賔王，顧彼寶坊，盈茲貝葉。期慧日之普照， 庶法雨之徧霑。有詔 方 袍，悉從翻譯，申命 鴻筆，共加詳研。歲序 󳅕 更，篇 󳞥 滋廣，暨 予沖眇，祗嗣慶靈。 󱏈 懷 付囑之言，復欽 燕翼之訓。罔敢失墜，常冀闡揚。思以一音， 周于三界。五印苾芻之士，接袂而來賔； 千覺龍象之書，盈編而充委。紹遵 先志，繼茂丕功。始自興國，汔于茲日。凡譯 經律論四百一十三卷，僧惟淨等共司傳 譯，兵部侍郎修國史趙安仁續典潤文，並 貢露章縷，徵曩志思。紹《貞元》之舊錄，用增 金地之烈輝。俞詔云：「頒纂集俄畢，勒成二 十一卷，并緫錄一卷。國朝新譯及釋門 述作，咸列於此。神宗之作，昭 聖教而有孚；菲德之文，並 睿製而增惕。覽封奏之疊上，求序引而 冠篇。式廣勝因，罔諧多讓。仍題曰《大中 祥符法寶錄》云爾。」","type":"dialogue","confidence":1}
+{"unit_id":"A110n1490_267","lb_range":["0682a05","0682a06","0682a09","0682a10","0682a11"],"text_zh":"聖朝新譯大乘經律論、小乘經律、西方 東土聖賢集傳見入藏者，緫二百三十 二部，五百六十九卷，六十帙，列之如左。","text_en":"緫排新經入藏錄下 聖朝新譯大乘經律論、小乘經律、西方 東土聖賢集傳見入藏者，緫二百三十 二部，五百六十九卷，六十帙，列之如左。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_268","lb_range":["0682b01","0682b02","0682b03","0682b04"],"text_zh":"自《佛母出生三法藏般若波羅蜜多經》 至《息除中夭陀羅尼經》，計一百四十 部，二百八十六卷，三十帙。","text_en":"大乘經 自《佛母出生三法藏般若波羅蜜多經》 至《息除中夭陀羅尼經》，計一百四十 部，二百八十六卷，三十帙。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_269","lb_range":["0682b05","0682b06","0682b07","0682b08"],"text_zh":"《佛母出生三法藏般若波羅蜜多經》一部，二十五卷。 三藏施護譯。 第一至十，十卷，一帙，尹字号。 第十一至二十，一十卷，一帙，佐字号。","text_en":"《佛母出生三法藏般若波羅蜜多經》一部，二十五卷。 三藏施護譯。 第一至十，十卷，一帙，尹字号。 第十一至二十，一十卷，一帙，佐字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_270","lb_range":["0682b09","0682b10"],"text_zh":"《佛母出生三法藏般若波羅蜜多經》第二 十一至二十五，共五卷。","text_en":"《佛母出生三法藏般若波羅蜜多經》第二 十一至二十五，共五卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_271","lb_range":["0682b11","0682b12"],"text_zh":"《佛母寶德藏般若波羅蜜多經》一部，三卷。 三藏法賢譯。","text_en":"《佛母寶德藏般若波羅蜜多經》一部，三卷。 三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_272","lb_range":["0683a01"],"text_zh":"《聖佛母般若波羅蜜多經》一部，一卷。","text_en":"《聖佛母般若波羅蜜多經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_273","lb_range":["0683a02","0683a03"],"text_zh":"《了義般若波羅蜜多心經》一部，一卷。 上四經，一十卷，同帙，時字号。","text_en":"《了義般若波羅蜜多心經》一部，一卷。 上四經，一十卷，同帙，時字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_274","lb_range":["0683a04"],"text_zh":"《五十頌聖般若波羅蜜多經》一部，一卷。","text_en":"《五十頌聖般若波羅蜜多經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_275","lb_range":["0683a05","0683a06","0683a07"],"text_zh":"《聖八千頌般若波羅蜜多一百八名真實圓 義陀羅尼經》一部，一卷。 上四經，並三藏施護譯。","text_en":"《聖八千頌般若波羅蜜多一百八名真實圓 義陀羅尼經》一部，一卷。 上四經，並三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_276","lb_range":["0683a08","0683a09"],"text_zh":"《觀想佛母般若波羅蜜多菩薩經》一部，一卷。 三藏天息災譯。","text_en":"《觀想佛母般若波羅蜜多菩薩經》一部，一卷。 三藏天息災譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_277","lb_range":["0683a10"],"text_zh":"《帝釋般若波羅蜜多心經》一部，一卷。","text_en":"《帝釋般若波羅蜜多心經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_278","lb_range":["0683a11","0683a12"],"text_zh":"《徧照般若波羅蜜多經》一部，一卷。 上二經，三藏施護譯。","text_en":"《徧照般若波羅蜜多經》一部，一卷。 上二經，三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_279","lb_range":["0683b01","0683b02"],"text_zh":"《聖佛母小字般若波羅蜜多經》一部，一卷。 三藏天息災譯。","text_en":"《聖佛母小字般若波羅蜜多經》一部，一卷。 三藏天息災譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_280","lb_range":["0683b03"],"text_zh":"《金剛場莊嚴般若波羅蜜多教中一分》一卷。","text_en":"《金剛場莊嚴般若波羅蜜多教中一分》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_281","lb_range":["0683b04","0683b05","0683b06"],"text_zh":"《佛母般若波羅蜜多大明觀想儀軌》一部，一卷。 上二經，三藏施護譯。 上八經，八部，八卷，同帙，阿字号。","text_en":"《佛母般若波羅蜜多大明觀想儀軌》一部，一卷。 上二經，三藏施護譯。 上八經，八部，八卷，同帙，阿字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_282","lb_range":["0683b07","0683b08"],"text_zh":"《未曾有正法經》一部，六卷。 三藏法天譯。","text_en":"《未曾有正法經》一部，六卷。 三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_283","lb_range":["0683b09","0683b10","0683b11"],"text_zh":"《大方廣善巧方便經》一部，四卷。 三藏施護譯。 上二經，二部，一十卷，同帙，衡字号。","text_en":"《大方廣善巧方便經》一部，四卷。 三藏施護譯。 上二經，二部，一十卷，同帙，衡字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_284","lb_range":["0683b12"],"text_zh":"《大集會正法經》一部，五卷。","text_en":"《大集會正法經》一部，五卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_285","lb_range":["0683b13","0684a01","0684a02"],"text_zh":"《大迦葉問大寶積正法經》一部，五卷。 上二經，二部，一十卷，同帙，奄字号。 上二經，三藏施護譯。","text_en":"《大迦葉問大寶積正法經》一部，五卷。 上二經，二部，一十卷，同帙，奄字号。 上二經，三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_286","lb_range":["0684a03","0684a04"],"text_zh":"《大乘無量壽莊嚴經》一部，三卷。 三藏法賢譯。","text_en":"《大乘無量壽莊嚴經》一部，三卷。 三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_287","lb_range":["0684a05"],"text_zh":"《如幻三摩地無量印法門經》一部，三卷。","text_en":"《如幻三摩地無量印法門經》一部，三卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_288","lb_range":["0684a06","0684a07","0684a08"],"text_zh":"《護國尊者所問大乘經》一部，四卷。 上二經，三藏施護譯。 上三經，三部，一十卷，同帙，宅字号。","text_en":"《護國尊者所問大乘經》一部，四卷。 上二經，三藏施護譯。 上三經，三部，一十卷，同帙，宅字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_289","lb_range":["0684a09","0684a10"],"text_zh":"《妙法聖念處經》一部，八卷。 三藏法天譯。","text_en":"《妙法聖念處經》一部，八卷。 三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_290","lb_range":["0684a11"],"text_zh":"《四無所畏經》一部，一卷。","text_en":"《四無所畏經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_291","lb_range":["0684b01","0684b02","0684b03"],"text_zh":"《大自在天子因地經》一部，一卷。 上二經，三藏施護譯。 上三經，三部，一十卷，同帙，曲字号。","text_en":"《大自在天子因地經》一部，一卷。 上二經，三藏施護譯。 上三經，三部，一十卷，同帙，曲字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_292","lb_range":["0684b04","0684b05"],"text_zh":"《法身經》一部，一卷。 三藏法賢譯。","text_en":"《法身經》一部，一卷。 三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_293","lb_range":["0684b06"],"text_zh":"《諸佛經》一部，一卷。","text_en":"《諸佛經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_294","lb_range":["0684b07","0684b08"],"text_zh":"《十號經》一部，一卷。 上二經，三藏施護譯。","text_en":"《十號經》一部，一卷。 上二經，三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_295","lb_range":["0684b09","0684b10"],"text_zh":"《較量一切佛剎功德經》一部，一卷。 三藏法賢譯。","text_en":"《較量一切佛剎功德經》一部，一卷。 三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_296","lb_range":["0684b11","0684b12"],"text_zh":"《大乘善見變化文殊師利問法經》一部，一卷。 三藏天息災譯。","text_en":"《大乘善見變化文殊師利問法經》一部，一卷。 三藏天息災譯。","type":"dialogue","confidence":1}
+{"unit_id":"A110n1490_297","lb_range":["0685a01","0685a02"],"text_zh":"《妙吉祥菩薩所問大乘法螺經》一部，一卷。 三藏法賢譯。","text_en":"《妙吉祥菩薩所問大乘法螺經》一部，一卷。 三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_298","lb_range":["0685a03","0685a04"],"text_zh":"《外道問聖大乘法無我義經》一部，一卷。 三藏法天譯。","text_en":"《外道問聖大乘法無我義經》一部，一卷。 三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_299","lb_range":["0685a05"],"text_zh":"《大乘舍黎娑擔摩經》一部，一卷。","text_en":"《大乘舍黎娑擔摩經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_300","lb_range":["0685a06","0685a07"],"text_zh":"《如意寶惣持王經》一部，一卷。 上二經，三藏施護譯。","text_en":"《如意寶惣持王經》一部，一卷。 上二經，三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_301","lb_range":["0685a08","0685a09"],"text_zh":"《八大菩薩經》一部，一卷。 三藏法賢譯。","text_en":"《八大菩薩經》一部，一卷。 三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_302","lb_range":["0685a10"],"text_zh":"《大乘寶月童子問法經》一部，一卷。","text_en":"《大乘寶月童子問法經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_303","lb_range":["0685a11","0685a12","0685b01"],"text_zh":"《分別布施經》一部，一卷。 上二經，三藏施護譯。 上十二經，十二部，十二卷，同帙，阜字号。","text_en":"《分別布施經》一部，一卷。 上二經，三藏施護譯。 上十二經，十二部，十二卷，同帙，阜字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_304","lb_range":["0685b02"],"text_zh":"《法印經》一部，一卷。","text_en":"《法印經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_305","lb_range":["0685b03"],"text_zh":"《大方廣未曾有經善巧方便品》一卷。","text_en":"《大方廣未曾有經善巧方便品》一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_306","lb_range":["0685b04"],"text_zh":"《佛為娑伽羅龍王所說大乘經》一部，一卷。","text_en":"《佛為娑伽羅龍王所說大乘經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_307","lb_range":["0685b05","0685b06"],"text_zh":"《入無分別法門經》一部，一卷。 上四經，三藏施護譯。","text_en":"《入無分別法門經》一部，一卷。 上四經，三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_308","lb_range":["0685b07","0685b08"],"text_zh":"《金耀童子經》一部，一卷。 三藏天息災譯。","text_en":"《金耀童子經》一部，一卷。 三藏天息災譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_309","lb_range":["0685b09"],"text_zh":"《月光菩薩經》一部，一卷。","text_en":"《月光菩薩經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_310","lb_range":["0685b10"],"text_zh":"《布施經》一部，一卷。","text_en":"《布施經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_311","lb_range":["0685b11"],"text_zh":"《寶授菩薩菩提行經》一部，一卷。","text_en":"《寶授菩薩菩提行經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_312","lb_range":["0685b12","0685b13"],"text_zh":"《尊那經》一部，一卷。 上四經，三藏法賢譯。","text_en":"《尊那經》一部，一卷。 上四經，三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_313","lb_range":["0686a01","0686a02","0686a03"],"text_zh":"《大乘日子王所問經》一部，一卷。 三藏法天譯。 上十經，十部，十卷，同帙，微字号。","text_en":"《大乘日子王所問經》一部，一卷。 三藏法天譯。 上十經，十部，十卷，同帙，微字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_314","lb_range":["0686a04","0686a05","0686a06","0686a07","0686a08"],"text_zh":"《大方廣菩薩藏文殊師利根本儀軌 經》一部，二十卷。 三藏天息災譯。 上一十卷，一帙，旦字号。 下一十卷，一帙，熟字号。","text_en":"《大方廣菩薩藏文殊師利根本儀軌 經》一部，二十卷。 三藏天息災譯。 上一十卷，一帙，旦字号。 下一十卷，一帙，熟字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_315","lb_range":["0686a09","0686a10","0686a11","0686b01"],"text_zh":"《一切如來金剛三業最上祕密大教王 經》一部，七卷。 三藏施護譯。 上一經，一部，七卷，一帙，營字号。","text_en":"《一切如來金剛三業最上祕密大教王 經》一部，七卷。 三藏施護譯。 上一經，一部，七卷，一帙，營字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_316","lb_range":["0686b02","0686b03","0686b04"],"text_zh":"《最上根本大樂金剛不空三昧大教王經》一部，七卷。 三藏法賢譯。 上一經，一部，七卷，一帙，桓字号。","text_en":"《最上根本大樂金剛不空三昧大教王經》一部，七卷。 三藏法賢譯。 上一經，一部，七卷，一帙，桓字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_317","lb_range":["0686b05","0686b06"],"text_zh":"《大方廣緫持寶光明經》一部，五卷。 三藏法天譯。","text_en":"《大方廣緫持寶光明經》一部，五卷。 三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_318","lb_range":["0686b07"],"text_zh":"《祕密相經》一部，三卷。","text_en":"《祕密相經》一部，三卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_319","lb_range":["0686b08","0686b09","0686b10","0686b11"],"text_zh":"《最勝妙吉祥根本智最上祕密一切名 義三摩地分》一部，二卷。 上二經，三藏施護譯。 上三經，三部，一十卷，同帙，公字号。","text_en":"《最勝妙吉祥根本智最上祕密一切名 義三摩地分》一部，二卷。 上二經，三藏施護譯。 上三經，三部，一十卷，同帙，公字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_320","lb_range":["0686b12"],"text_zh":"《無二平等最上瑜伽大教王經》一部，六卷。","text_en":"《無二平等最上瑜伽大教王經》一部，六卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_321","lb_range":["0687a01","0687a02","0687a03"],"text_zh":"《祕密三昧大教王經》一部，四卷。 上二經，三藏施護譯。 上二經，二部，一十卷，同帙，匡字号。","text_en":"《祕密三昧大教王經》一部，四卷。 上二經，三藏施護譯。 上二經，二部，一十卷，同帙，匡字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_322","lb_range":["0687a04","0687a05"],"text_zh":"《瑜伽大教王經》一部，五卷。 三藏法賢譯。","text_en":"《瑜伽大教王經》一部，五卷。 三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_323","lb_range":["0687a06","0687a07"],"text_zh":"《發菩提心破諸魔經》一部，二卷。 三藏施護譯。","text_en":"《發菩提心破諸魔經》一部，二卷。 三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_324","lb_range":["0687a08","0687a09"],"text_zh":"《最上大乘金剛大教寶王經》一部，二卷。 三藏法天譯。","text_en":"《最上大乘金剛大教寶王經》一部，二卷。 三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_325","lb_range":["0687a10","0687a11","0687a12"],"text_zh":"《聖觀自在菩薩不空王祕密心陀羅尼 經》一部，一卷。三藏施護譯。 上四經，四部，一十卷，同帙，合字号。","text_en":"《聖觀自在菩薩不空王祕密心陀羅尼 經》一部，一卷。 三藏施護譯。 上四經，四部，一十卷，同帙，合字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_326","lb_range":["0687b01","0687b02","0687b03"],"text_zh":"《大摩里支菩薩經》一部，七卷。 三藏天息災譯。 上一經，一部，七卷，一帙，濟字号。","text_en":"《大摩里支菩薩經》一部，七卷。 三藏天息災譯。 上一經，一部，七卷，一帙，濟字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_327","lb_range":["0687b04","0687b05"],"text_zh":"《大乘不思議神通境界經》一部，三卷。 三藏施護譯。","text_en":"《大乘不思議神通境界經》一部，三卷。 三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_328","lb_range":["0687b06","0687b07","0687b08"],"text_zh":"《一切如來大祕密王未曾有最上微妙 大曼拏羅經》一部，五卷。 三藏天息災譯。","text_en":"《一切如來大祕密王未曾有最上微妙 大曼拏羅經》一部，五卷。 三藏天息災譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_329","lb_range":["0687b09","0687b10","0687b11"],"text_zh":"《一切祕密最上名義大教王儀軌》一部，二卷。 三藏施護譯。 上三經，三部，一十卷，同帙，弱字号。","text_en":"《一切祕密最上名義大教王儀軌》一部，二卷。 三藏施護譯。 上三經，三部，一十卷，同帙，弱字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_330","lb_range":["0687b12","0687b13"],"text_zh":"《金剛手菩薩降伏一切部多大教王經》一部，三卷。 三藏法天譯。","text_en":"《金剛手菩薩降伏一切部多大教王經》一部，三卷。 三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_331","lb_range":["0688a01","0688a02","0688a03"],"text_zh":"《金剛香菩薩大明成就儀軌經》一部，三卷。 三藏施護譯。 上二經，二部，六卷，同帙，扶字号。","text_en":"《金剛香菩薩大明成就儀軌經》一部，三卷。 三藏施護譯。 上二經，二部，六卷，同帙，扶字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_332","lb_range":["0688a04","0688a05"],"text_zh":"《持明藏瑜伽大教尊那菩薩大明成就 儀軌經》一部，四卷。","text_en":"《持明藏瑜伽大教尊那菩薩大明成就 儀軌經》一部，四卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_333","lb_range":["0688a06"],"text_zh":"《妙吉祥最勝根本大教經》一部，三卷。","text_en":"《妙吉祥最勝根本大教經》一部，三卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_334","lb_range":["0688a07","0688a08","0688a09"],"text_zh":"《最上秘密那拏天經》一部，三卷。 上三經，三藏法賢譯。 上三經，三部，一十卷，同帙，傾字号。","text_en":"《最上秘密那拏天經》一部，三卷。 上三經，三藏法賢譯。 上三經，三部，一十卷，同帙，傾字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_335","lb_range":["0688a10","0688a11"],"text_zh":"《大乘莊嚴寶王經》一部，四卷。 三藏天息災譯。","text_en":"《大乘莊嚴寶王經》一部，四卷。 三藏天息災譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_336","lb_range":["0688b01","0688b02"],"text_zh":"《妙臂菩薩所問經》一部，四卷。 三藏法天譯。","text_en":"《妙臂菩薩所問經》一部，四卷。 三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_337","lb_range":["0688b03","0688b04","0688b05"],"text_zh":"《一切佛攝相應大教王經聖觀自在菩薩 念誦儀軌》一部，一卷。 三藏法賢譯。","text_en":"《一切佛攝相應大教王經聖觀自在菩薩 念誦儀軌》一部，一卷。 三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_338","lb_range":["0688b06","0688b07","0688b08"],"text_zh":"《普賢曼拏羅經》一部，一卷。 三藏施護譯。 上四經，四部，一十卷，同帙，綺字号。","text_en":"《普賢曼拏羅經》一部，一卷。 三藏施護譯。 上四經，四部，一十卷，同帙，綺字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_339","lb_range":["0688b09"],"text_zh":"《聖寶藏神儀軌經》一部，二卷。","text_en":"《聖寶藏神儀軌經》一部，二卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_340","lb_range":["0688b10","0688b11"],"text_zh":"《寶藏神大明曼拏羅儀軌經》一部，二卷。 上二經，三藏法天譯。","text_en":"《寶藏神大明曼拏羅儀軌經》一部，二卷。 上二經，三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_341","lb_range":["0688b12","0689a01"],"text_zh":"《大乘八大曼拏羅經》一部，一卷。 三藏法賢譯。","text_en":"《大乘八大曼拏羅經》一部，一卷。 三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_342","lb_range":["0689a02","0689a03","0689a04"],"text_zh":"《廣大蓮華莊嚴曼拏羅滅一切罪陀 羅尼經》一部，一卷。 三藏施護譯。","text_en":"《廣大蓮華莊嚴曼拏羅滅一切罪陀 羅尼經》一部，一卷。 三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_343","lb_range":["0689a05","0689a06","0689a07"],"text_zh":"《囉嚩拏說救療小兒疾病經》一部，一卷。 三藏法賢譯。 上五經，五部，七卷，同帙，迴字号。","text_en":"《囉嚩拏說救療小兒疾病經》一部，一卷。 三藏法賢譯。 上五經，五部，七卷，同帙，迴字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_344","lb_range":["0689a08","0689a09"],"text_zh":"《守護大千國土經》一部，三卷。 三藏施護譯。","text_en":"《守護大千國土經》一部，三卷。 三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_345","lb_range":["0689a10","0689a11","0689a12"],"text_zh":"《大乘聖無量壽決定光明王如來陀羅尼 經》一部，一卷。 三藏法天譯。","text_en":"《大乘聖無量壽決定光明王如來陀羅尼 經》一部，一卷。 三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_346","lb_range":["0689b01","0689b02"],"text_zh":"《聖多羅菩薩經》一部，一卷。 三藏法賢譯。","text_en":"《聖多羅菩薩經》一部，一卷。 三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_347","lb_range":["0689b03","0689b04"],"text_zh":"《聖多羅菩薩一百八名陀羅尼經》一部，一卷。 三藏法天譯。","text_en":"《聖多羅菩薩一百八名陀羅尼經》一部，一卷。 三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_348","lb_range":["0689b05","0689b06"],"text_zh":"《聖觀自在菩薩一百八名經》一部，一卷。 三藏天息災譯。","text_en":"《聖觀自在菩薩一百八名經》一部，一卷。 三藏天息災譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_349","lb_range":["0689b07","0689b08"],"text_zh":"《毗俱胝菩薩一百八名經》一部，一卷。 三藏法天譯。","text_en":"《毗俱胝菩薩一百八名經》一部，一卷。 三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_350","lb_range":["0689b09","0689b10"],"text_zh":"《讚揚聖德多羅菩薩一百八名經》一部，一卷。 三藏天息災譯。","text_en":"《讚揚聖德多羅菩薩一百八名經》一部，一卷。 三藏天息災譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_351","lb_range":["0689b11","0689b12","0689b13"],"text_zh":"《毗沙門天王經》一部，一卷。 三藏法天譯。 上八經，八部，一十卷，同帙，漢字号。","text_en":"《毗沙門天王經》一部，一卷。 三藏法天譯。 上八經，八部，一十卷，同帙，漢字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_352","lb_range":["0690a01","0690a02","0690a03"],"text_zh":"《佛頂放無垢光明入普門觀察一切如來 心陀羅尼經》一部，二卷。 三藏施護譯。","text_en":"《佛頂放無垢光明入普門觀察一切如來 心陀羅尼經》一部，二卷。 三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_353","lb_range":["0690a04","0690a05"],"text_zh":"《大乘觀想曼羅淨諸惡趣經》一部，二卷。 三藏法賢譯。","text_en":"《大乘觀想曼羅淨諸惡趣經》一部，二卷。 三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_354","lb_range":["0690a06","0690a07"],"text_zh":"《出生一切如來法眼徧照大力明王經》一部，二卷。 三藏法護譯。","text_en":"《出生一切如來法眼徧照大力明王經》一部，二卷。 三藏法護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_355","lb_range":["0690a08","0690a09"],"text_zh":"《一切如來安像三昧儀軌經》一部，一卷。 三藏法護譯。","text_en":"《一切如來安像三昧儀軌經》一部，一卷。 三藏法護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_356","lb_range":["0690a10","0690a11"],"text_zh":"《幻化網大瑜伽教十忿怒明王大明觀想 儀軌經》一部，一卷。","text_en":"《幻化網大瑜伽教十忿怒明王大明觀想 儀軌經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_357","lb_range":["0690b01","0690b02","0690b03"],"text_zh":"《妙吉祥瑜伽大教金剛陪囉嚩輪觀想成 就儀軌經》一部，一卷。 上二經，三藏法賢譯。","text_en":"《妙吉祥瑜伽大教金剛陪囉嚩輪觀想成 就儀軌經》一部，一卷。 上二經，三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_358","lb_range":["0690b04","0690b05","0690b06"],"text_zh":"《帝釋巖祕密成就儀軌》一部，一卷。 三藏施護譯。 上七經，七部，一十卷，同帙，惠字号。","text_en":"《帝釋巖祕密成就儀軌》一部，一卷。 三藏施護譯。 上七經，七部，一十卷，同帙，惠字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_359","lb_range":["0690b07"],"text_zh":"《聖莊嚴陀羅尼經》一部，二卷。","text_en":"《聖莊嚴陀羅尼經》一部，二卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_360","lb_range":["0690b08"],"text_zh":"《寶帶陀羅尼經》一部，一卷。","text_en":"《寶帶陀羅尼經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_361","lb_range":["0690b09","0690b10"],"text_zh":"《金身陀羅尼經》一部，一卷。 上三經，三藏施護譯。","text_en":"《金身陀羅尼經》一部，一卷。 上三經，三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_362","lb_range":["0690b11"],"text_zh":"《大護明大陀羅尼經》一部，一卷。","text_en":"《大護明大陀羅尼經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_363","lb_range":["0690b12","0691a01"],"text_zh":"《普賢菩薩陀羅尼經》一部，一卷。 上二經，三藏法天譯。","text_en":"《普賢菩薩陀羅尼經》一部，一卷。 上二經，三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_364","lb_range":["0691a02","0691a03"],"text_zh":"《一切如來正法祕密篋印心陀羅尼經》一部，一卷。 三藏施護譯。","text_en":"《一切如來正法祕密篋印心陀羅尼經》一部，一卷。 三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_365","lb_range":["0691a04","0691a05"],"text_zh":"《聖虛空藏菩薩陀羅尼經》一部，一卷。 三藏法天譯。","text_en":"《聖虛空藏菩薩陀羅尼經》一部，一卷。 三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_366","lb_range":["0691a06","0691a07"],"text_zh":"《聖持世陀羅尼經》一部，一卷。 三藏施護譯。","text_en":"《聖持世陀羅尼經》一部，一卷。 三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_367","lb_range":["0691a08","0691a09","0691a10"],"text_zh":"《大寒林聖難拏陀羅尼經》一部，一卷。 三藏法天譯。 上九經，九部，一十卷，同帙，說字号。","text_en":"《大寒林聖難拏陀羅尼經》一部，一卷。 三藏法天譯。 上九經，九部，一十卷，同帙，說字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_368","lb_range":["0691a11","0691a12"],"text_zh":"《樓閣正法甘露鼓經》一部，一卷。 三藏天息災譯。","text_en":"《樓閣正法甘露鼓經》一部，一卷。 三藏天息災譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_369","lb_range":["0691b01"],"text_zh":"《大愛陀羅尼經》一部，一卷。","text_en":"《大愛陀羅尼經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_370","lb_range":["0691b02","0691b03"],"text_zh":"《善樂長者經》一部，一卷。 上二經，三藏法賢譯。","text_en":"《善樂長者經》一部，一卷。 上二經，三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_371","lb_range":["0691b04"],"text_zh":"《聖大揔持王經》一部，一卷。","text_en":"《聖大揔持王經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_372","lb_range":["0691b05"],"text_zh":"《聖六字大明王陀羅尼經》一部，一卷。","text_en":"《聖六字大明王陀羅尼經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_373","lb_range":["0691b06"],"text_zh":"《智光滅一切業障陀羅尼經》一部，一卷。","text_en":"《智光滅一切業障陀羅尼經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_374","lb_range":["0691b07"],"text_zh":"《華積樓閣陀羅尼經》一部，一卷。","text_en":"《華積樓閣陀羅尼經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_375","lb_range":["0691b08"],"text_zh":"《尊勝大明王經》一部，一卷。","text_en":"《尊勝大明王經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_376","lb_range":["0691b09"],"text_zh":"《勝幡瓔珞陀羅尼經》一部，一卷。","text_en":"《勝幡瓔珞陀羅尼經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_377","lb_range":["0691b10"],"text_zh":"《聖六字增壽大明陀羅尼經》一部，一卷。","text_en":"《聖六字增壽大明陀羅尼經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_378","lb_range":["0691b11"],"text_zh":"《千轉大明陀羅尼經》一部，一卷。","text_en":"《千轉大明陀羅尼經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_379","lb_range":["0691b12","0691b13","0692a01"],"text_zh":"《增慧陀羅尼經》一部，一卷。 上九經，三藏施護譯。 上十二經，十二部，十二卷，同帙，感字号。","text_en":"《增慧陀羅尼經》一部，一卷。 上九經，三藏施護譯。 上十二經，十二部，十二卷，同帙，感字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_380","lb_range":["0692a02"],"text_zh":"《俱枳羅陀羅尼經》。","text_en":"《俱枳羅陀羅尼經》。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_381","lb_range":["0692a03"],"text_zh":"《消除一切災障寶髻陀羅尼經》。","text_en":"《消除一切災障寶髻陀羅尼經》。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_382","lb_range":["0692a04"],"text_zh":"《妙色陀羅尼經》。","text_en":"《妙色陀羅尼經》。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_383","lb_range":["0692a05"],"text_zh":"《旃檀香身陀羅尼經》。","text_en":"《旃檀香身陀羅尼經》。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_384","lb_range":["0692a06"],"text_zh":"《鉢蘭那賖嚩哩大陀羅尼經》。","text_en":"《鉢蘭那賖嚩哩大陀羅尼經》。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_385","lb_range":["0692a07"],"text_zh":"《宿命智陀羅尼經》。","text_en":"《宿命智陀羅尼經》。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_386","lb_range":["0692a08"],"text_zh":"《慈氏菩薩誓願陀羅尼經》。","text_en":"《慈氏菩薩誓願陀羅尼經》。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_387","lb_range":["0692a09"],"text_zh":"《滅除五逆罪大陀羅尼經》。","text_en":"《滅除五逆罪大陀羅尼經》。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_388","lb_range":["0692a10"],"text_zh":"《無量功德陀羅尼經》。","text_en":"《無量功德陀羅尼經》。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_389","lb_range":["0692a11"],"text_zh":"《十八臂陀羅尼經》。","text_en":"《十八臂陀羅尼經》。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_390","lb_range":["0692b01"],"text_zh":"《洛叉陀羅尼經》。","text_en":"《洛叉陀羅尼經》。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_391","lb_range":["0692b02","0692b03","0692b04"],"text_zh":"《辟除諸惡陀羅尼經》。 三藏法賢譯。 上一十二經，合一卷。","text_en":"《辟除諸惡陀羅尼經》。 三藏法賢譯。 上一十二經，合一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_392","lb_range":["0692b05"],"text_zh":"《寶生陀羅尼經》。","text_en":"《寶生陀羅尼經》。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_393","lb_range":["0692b06","0692b07","0692b08"],"text_zh":"《蓮華眼陀羅尼經》。 三藏施護譯。 上二經，合一卷。","text_en":"《蓮華眼陀羅尼經》。 三藏施護譯。 上二經，合一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_394","lb_range":["0692b09","0692b10"],"text_zh":"《一切如來烏瑟膩沙最勝揔持經》一部，一卷。 三藏法天譯。","text_en":"《一切如來烏瑟膩沙最勝揔持經》一部，一卷。 三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_395","lb_range":["0692b11"],"text_zh":"《持明藏八大揔持王經》一部，一卷。","text_en":"《持明藏八大揔持王經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_396","lb_range":["0692b12"],"text_zh":"《大金剛香陀羅尼經》一部，一卷。","text_en":"《大金剛香陀羅尼經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_397","lb_range":["0693a01","0693a02"],"text_zh":"《最上意陀羅尼經》一部，一卷。 上三經，三藏施護譯。","text_en":"《最上意陀羅尼經》一部，一卷。 上三經，三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_398","lb_range":["0693a03","0693a04"],"text_zh":"《無畏陀羅尼經》一部，一卷。 三藏法賢譯。","text_en":"《無畏陀羅尼經》一部，一卷。 三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_399","lb_range":["0693a05","0693a06","0693a07"],"text_zh":"《消除一切閃電鄣難隨求如意陀羅尼 經》一部，一卷。 三藏施護譯。","text_en":"《消除一切閃電鄣難隨求如意陀羅尼 經》一部，一卷。 三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_400","lb_range":["0693a08"],"text_zh":"《最勝佛頂陀羅尼經》一部，一卷。","text_en":"《最勝佛頂陀羅尼經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_401","lb_range":["0693a09","0693a10","0693a11"],"text_zh":"《無能勝大明心陀羅尼經》一部，一卷。 上二經，三藏法天譯。 上二十二經，一十部，一十卷，同帙，武字号。","text_en":"《無能勝大明心陀羅尼經》一部，一卷。 上二經，三藏法天譯。 上二十二經，一十部，一十卷，同帙，武字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_402","lb_range":["0693a12"],"text_zh":"《妙吉祥菩薩陀羅尼經》。","text_en":"《妙吉祥菩薩陀羅尼經》。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_403","lb_range":["0693b01"],"text_zh":"《無量壽大智陀羅尼經》。","text_en":"《無量壽大智陀羅尼經》。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_404","lb_range":["0693b02"],"text_zh":"《宿命智陀羅尼經》。","text_en":"《宿命智陀羅尼經》。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_405","lb_range":["0693b03"],"text_zh":"《慈氏菩薩陀羅尼經》。","text_en":"《慈氏菩薩陀羅尼經》。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_406","lb_range":["0693b04","0693b05"],"text_zh":"《虛空藏菩薩陀羅尼經》。 上五經，合一卷。","text_en":"《虛空藏菩薩陀羅尼經》。 上五經，合一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_407","lb_range":["0693b06"],"text_zh":"《大吉祥陀羅尼經》。","text_en":"《大吉祥陀羅尼經》。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_408","lb_range":["0693b07","0693b08","0693b09"],"text_zh":"《寶賢陀羅尼經》。 上七經，三藏法賢譯。 上二經，合一卷。","text_en":"《寶賢陀羅尼經》。 上七經，三藏法賢譯。 上二經，合一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_409","lb_range":["0693b10","0693b11"],"text_zh":"《聖最勝陀羅尼經》一部，一卷。 三藏施護譯。","text_en":"《聖最勝陀羅尼經》一部，一卷。 三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_410","lb_range":["0693b12","0693b13"],"text_zh":"《大乘聖吉祥持世陀羅尼經》一部，一卷。 三藏法天譯。","text_en":"《大乘聖吉祥持世陀羅尼經》一部，一卷。 三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_411","lb_range":["0694a01"],"text_zh":"《延壽妙門陀羅尼經》一部，一卷。","text_en":"《延壽妙門陀羅尼經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_412","lb_range":["0694a02","0694a03"],"text_zh":"《祕密八名陀羅尼經》一部，一卷。 上二經，三藏法賢譯。","text_en":"《祕密八名陀羅尼經》一部，一卷。 上二經，三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_413","lb_range":["0694a04","0694a05"],"text_zh":"《無能勝大明王陀羅尼經》一部，一卷。 三藏施護譯。","text_en":"《無能勝大明王陀羅尼經》一部，一卷。 三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_414","lb_range":["0694a06"],"text_zh":"《無能勝大明陀羅尼經》一部，一卷。","text_en":"《無能勝大明陀羅尼經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_415","lb_range":["0694a07","0694a08"],"text_zh":"《聖無能勝金剛火陀羅尼經》一部，一卷。 上二經，三藏法天譯。","text_en":"《聖無能勝金剛火陀羅尼經》一部，一卷。 上二經，三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_416","lb_range":["0694a09","0694a10"],"text_zh":"《大金剛妙高山樓閣陀羅尼經》一部，一卷。 上十五經，一十部，一十卷，同帙，丁字号。","text_en":"《大金剛妙高山樓閣陀羅尼經》一部，一卷。 上十五經，一十部，一十卷，同帙，丁字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_417","lb_range":["0694a11"],"text_zh":"《施一切無畏陀羅尼經》一部，一卷。","text_en":"《施一切無畏陀羅尼經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_418","lb_range":["0694b01"],"text_zh":"《無能勝幡王如來莊嚴陀羅尼經》一部，一卷。","text_en":"《無能勝幡王如來莊嚴陀羅尼經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_419","lb_range":["0694b02"],"text_zh":"《如意摩尼陀羅尼經》一部，一卷。","text_en":"《如意摩尼陀羅尼經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_420","lb_range":["0694b03","0694b04"],"text_zh":"《聖最上燈明如來陀羅尼經》一部，一卷。 上四經，三藏施護譯。","text_en":"《聖最上燈明如來陀羅尼經》一部，一卷。 上四經，三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_421","lb_range":["0694b05","0694b06"],"text_zh":"《一切如來名号陀羅尼經》一部，一卷。 三藏法賢譯。","text_en":"《一切如來名号陀羅尼經》一部，一卷。 三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_422","lb_range":["0694b07","0694b08"],"text_zh":"《聖曜母陀羅尼經》一部，一卷。 三藏法天譯。","text_en":"《聖曜母陀羅尼經》一部，一卷。 三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_423","lb_range":["0694b09"],"text_zh":"《息除賊難陀羅尼經》一部，一卷。","text_en":"《息除賊難陀羅尼經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_424","lb_range":["0694b10","0694b11"],"text_zh":"《觀自在菩薩母陀羅尼經》一部，一卷。 上二經，三藏法賢譯。","text_en":"《觀自在菩薩母陀羅尼經》一部，一卷。 上二經，三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_425","lb_range":["0694b12","0695a01"],"text_zh":"《諸佛心印陀羅尼經》一部，一卷。 三藏法天譯。","text_en":"《諸佛心印陀羅尼經》一部，一卷。 三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_426","lb_range":["0695a02","0695a03","0695a04","0695a05"],"text_zh":"《息除中天陀羅尼經》一部，一卷。 三藏施護譯。 上一十經，一十部，一十卷，并大乘律 一卷，附共一十一卷，同帙，俊字号。","text_en":"《息除中天陀羅尼經》一部，一卷。 三藏施護譯。 上一十經，一十部，一十卷，并大乘律 一卷，附共一十一卷，同帙，俊字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_427","lb_range":["0695a06","0695a07"],"text_zh":"《大乘戒經》一部，一卷。","text_en":"大乘律 《大乘戒經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_428","lb_range":["0695a08","0695a09","0695a10"],"text_zh":"自《佛母般若波羅蜜多圓集要義論》至《金 剛針論》，計一十一部，一十九卷，三帙。","text_en":"大乘論 自《佛母般若波羅蜜多圓集要義論》至《金 剛針論》，計一十一部，一十九卷，三帙。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_429","lb_range":["0695a11"],"text_zh":"《佛母般若波羅蜜多圓集要義論》一部，一卷。","text_en":"《佛母般若波羅蜜多圓集要義論》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_430","lb_range":["0695a12","0695b01"],"text_zh":"《佛母般若波羅蜜多圓集要義釋論》一部，四卷。 上二論，二部，五卷，同帙，乂字号。","text_en":"《佛母般若波羅蜜多圓集要義釋論》一部，四卷。 上二論，二部，五卷，同帙，乂字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_431","lb_range":["0695b02"],"text_zh":"《廣釋菩提心論》一部，四卷。","text_en":"《廣釋菩提心論》一部，四卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_432","lb_range":["0695b03"],"text_zh":"《菩提心離相論》一部，一卷。","text_en":"《菩提心離相論》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_433","lb_range":["0695b04"],"text_zh":"《大乘二十頌論》一部，一卷。","text_en":"《大乘二十頌論》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_434","lb_range":["0695b05","0695b06"],"text_zh":"《六十頌如理論》一部，一卷。 上四論，四部，七卷，同帙，密字号。","text_en":"《六十頌如理論》一部，一卷。 上四論，四部，七卷，同帙，密字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_435","lb_range":["0695b07"],"text_zh":"《集諸法寶最上義論》一部，二卷。","text_en":"《集諸法寶最上義論》一部，二卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_436","lb_range":["0695b08"],"text_zh":"《集大乘相論》一部，二卷。","text_en":"《集大乘相論》一部，二卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_437","lb_range":["0695b09"],"text_zh":"《大乘破有論》一部，一卷。","text_en":"《大乘破有論》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_438","lb_range":["0695b10","0695b11"],"text_zh":"《諸教決定名義論》一部，一卷。 上十論，三藏施護譯。","text_en":"《諸教決定名義論》一部，一卷。 上十論，三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_439","lb_range":["0695b12","0695b13","0696a01"],"text_zh":"《金剛針論》一部，一卷。 三藏法天譯。 上五論，五部，七卷，同帙，勿字号。","text_en":"《金剛針論》一部，一卷。 三藏法天譯。 上五論，五部，七卷，同帙，勿字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_440","lb_range":["0696a02","0696a03","0696a04"],"text_zh":"自《眾許摩訶帝經》至《解憂經》，計四十 四部，六十九卷，七帙。","text_en":"小乘經 自《眾許摩訶帝經》至《解憂經》，計四十 四部，六十九卷，七帙。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_441","lb_range":["0696a05","0696a06","0696a07"],"text_zh":"《眾許摩訶帝經》一部，一十三卷。 三藏法賢譯。 上一經，一部，一十三卷，一帙，多字号。","text_en":"《眾許摩訶帝經》一部，一十三卷。 三藏法賢譯。 上一經，一部，一十三卷，一帙，多字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_442","lb_range":["0696a08"],"text_zh":"《大集法門經》一部，二卷。","text_en":"《大集法門經》一部，二卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_443","lb_range":["0696a09","0696a10"],"text_zh":"《大生義經》一部，一卷。 上二經，三藏施護譯。","text_en":"《大生義經》一部，一卷。 上二經，三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_444","lb_range":["0696a11","0696b01"],"text_zh":"《分別緣生經》一部，一卷。 三藏法天譯。","text_en":"《分別緣生經》一部，一卷。 三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_445","lb_range":["0696b02","0696b03"],"text_zh":"《信佛功德經》一部，一卷。 三藏法賢譯。","text_en":"《信佛功德經》一部，一卷。 三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_446","lb_range":["0696b04","0696b05"],"text_zh":"《大三摩惹經》一部，一卷。 三藏法天譯。","text_en":"《大三摩惹經》一部，一卷。 三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_447","lb_range":["0696b06","0696b07"],"text_zh":"《決定義經》一部，一卷。 三藏法賢譯。","text_en":"《決定義經》一部，一卷。 三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_448","lb_range":["0696b08","0696b09"],"text_zh":"《長者施報經》一部，一卷。 三藏法天譯。","text_en":"《長者施報經》一部，一卷。 三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_449","lb_range":["0696b10"],"text_zh":"《四品法門經》一部，一卷。","text_en":"《四品法門經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_450","lb_range":["0696b11","0696b12","0697a01"],"text_zh":"《信解智力經》一部，一卷。 上二經，三藏法賢譯。 上九經，九部，一十卷，同帙，士字号。","text_en":"《信解智力經》一部，一卷。 上二經，三藏法賢譯。 上九經，九部，一十卷，同帙，士字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_451","lb_range":["0697a02","0697a03"],"text_zh":"《給孤長者女得度因緣經》一部，三卷。 三藏施護譯。","text_en":"《給孤長者女得度因緣經》一部，三卷。 三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_452","lb_range":["0697a04","0697a05"],"text_zh":"《分別善惡報應經》一部，二卷。 三藏天息災譯。","text_en":"《分別善惡報應經》一部，二卷。 三藏天息災譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_453","lb_range":["0697a06","0697a07"],"text_zh":"《勝軍王所問經》一部，一卷。 三藏施護譯。","text_en":"《勝軍王所問經》一部，一卷。 三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_454","lb_range":["0697a08","0697a09"],"text_zh":"《阿羅漢具德經》一部，一卷。 三藏法賢譯。","text_en":"《阿羅漢具德經》一部，一卷。 三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_455","lb_range":["0697a10","0697a11"],"text_zh":"《七佛經》一部，一卷。 三藏法天譯。","text_en":"《七佛經》一部，一卷。 三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_456","lb_range":["0697a12"],"text_zh":"《金光王童子經》一部，一卷。","text_en":"《金光王童子經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_457","lb_range":["0697b01","0697b02","0697b03","0697b04"],"text_zh":"《頻婆娑羅王經》一部，一卷。 上二經，三藏法賢譯。 上七經，七部，一十卷，同帙，寔字号。 《初分說經》一部，二卷。三藏施護譯。","text_en":"《頻婆娑羅王經》一部，一卷。 上二經，三藏法賢譯。 上七經，七部，一十卷，同帙，寔字号。 《初分說經》一部，二卷。 三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_458","lb_range":["0697b05","0697b06"],"text_zh":"《毗婆尸佛經》一部，二卷。 三藏法天譯。","text_en":"《毗婆尸佛經》一部，二卷。 三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_459","lb_range":["0697b07"],"text_zh":"《息諍因緣經》一部，一卷。","text_en":"《息諍因緣經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_460","lb_range":["0697b08","0697b09"],"text_zh":"《淨意優婆塞所問經》一部，一卷。 上二經，三藏施護譯。","text_en":"《淨意優婆塞所問經》一部，一卷。 上二經，三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_461","lb_range":["0697b10","0697b11"],"text_zh":"《帝釋所問經》一部，一卷。 三藏法賢譯。","text_en":"《帝釋所問經》一部，一卷。 三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_462","lb_range":["0697b12","0697b13","0698a01"],"text_zh":"《嗟韈曩法天子受三歸依獲免惡道經》 一部，一卷。三藏施護譯。 上六經，六部，八卷，同帙，寧字号。","text_en":"《嗟韈曩法天子受三歸依獲免惡道經》 一部，一卷。 三藏施護譯。 上六經，六部，八卷，同帙，寧字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_463","lb_range":["0698a02"],"text_zh":"《光明童子因緣經》一部，四卷。","text_en":"《光明童子因緣經》一部，四卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_464","lb_range":["0698a03","0698a04"],"text_zh":"《尼拘陀梵志經》一部，二卷。 上二經，三藏施護譯。","text_en":"《尼拘陀梵志經》一部，二卷。 上二經，三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_465","lb_range":["0698a05","0698a06","0698a07"],"text_zh":"《大正句王經》一部，二卷。 三藏法賢譯。 上三經，三部，八卷，同帙，晉字号。","text_en":"《大正句王經》一部，二卷。 三藏法賢譯。 上三經，三部，八卷，同帙，晉字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_466","lb_range":["0698a08"],"text_zh":"《大堅固婆羅門緣起經》一部，二卷。","text_en":"《大堅固婆羅門緣起經》一部，二卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_467","lb_range":["0698a09"],"text_zh":"《灌頂王喻經》一部，一卷。","text_en":"《灌頂王喻經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_468","lb_range":["0698a10"],"text_zh":"《輪王七寶經》一部，一卷。","text_en":"《輪王七寶經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_469","lb_range":["0698a11"],"text_zh":"《蟻喻經》一部，一卷。","text_en":"《蟻喻經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_470","lb_range":["0698b01"],"text_zh":"《月喻經》一部，一卷。","text_en":"《月喻經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_471","lb_range":["0698b02"],"text_zh":"《醫喻經》一部，一卷。","text_en":"《醫喻經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_472","lb_range":["0698b03","0698b04"],"text_zh":"《園生樹經》一部，一卷。 上七經，三藏施護譯。","text_en":"《園生樹經》一部，一卷。 上七經，三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_473","lb_range":["0698b05"],"text_zh":"《舊城喻經》一部，一卷。","text_en":"《舊城喻經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_474","lb_range":["0698b06","0698b07","0698b08"],"text_zh":"《戒香經》一部，一卷。 上二經，三藏法賢譯。 上九經，九部，一十卷，同帙，楚字号。","text_en":"《戒香經》一部，一卷。 上二經，三藏法賢譯。 上九經，九部，一十卷，同帙，楚字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_475","lb_range":["0698b09","0698b10"],"text_zh":"《十二緣生祥瑞經》一部，二卷。 三藏施護譯。","text_en":"《十二緣生祥瑞經》一部，二卷。 三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_476","lb_range":["0698b11","0698b12"],"text_zh":"《護國經》一部，一卷。 三藏法賢譯。","text_en":"《護國經》一部，一卷。 三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_477","lb_range":["0699a01","0699a02"],"text_zh":"《較量壽命經》一部，一卷。 三藏天息災譯。","text_en":"《較量壽命經》一部，一卷。 三藏天息災譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_478","lb_range":["0699a03"],"text_zh":"《人仙經》一部，一卷。","text_en":"《人仙經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_479","lb_range":["0699a04"],"text_zh":"《難你計溼嚩囉天說支輪經》一部，一卷。","text_en":"《難 你 計溼嚩囉天說支輪經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_480","lb_range":["0699a05"],"text_zh":"《迦葉仙人說醫女人經》一部，一卷。","text_en":"《迦葉仙人說醫女人經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_481","lb_range":["0699a06","0699a07"],"text_zh":"《薩鉢多酥哩踰𭡠野經》一部，一卷。 上四經，三藏法賢譯。","text_en":"《薩鉢多酥哩踰 𭡠 野經》一部，一卷。 上四經，三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_482","lb_range":["0699a08"],"text_zh":"《諸行有為經》一部，一卷。","text_en":"《諸行有為經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_483","lb_range":["0699a09","0699a10","0699a11"],"text_zh":"《解憂經》一部，一卷。 上二經，三藏法天譯。 上九經，九部，一十卷，同帙，更字号。","text_en":"《解憂經》一部，一卷。 上二經，三藏法天譯。 上九經，九部，一十卷，同帙，更字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_484","lb_range":["0699a12","0699b01","0699b02"],"text_zh":"自《苾芻迦尸迦十法經》至《沙彌十戒儀則 經》，計五部，五卷，一帙。","text_en":"小乘律 自《苾芻迦尸迦十法經》至《沙彌十戒儀則 經》，計五部，五卷，一帙。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_485","lb_range":["0699b03"],"text_zh":"《苾芻迦尸迦十法經》一部，一卷。","text_en":"《苾芻迦尸迦十法經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_486","lb_range":["0699b04"],"text_zh":"《苾芻五法經》一部，一卷。","text_en":"《苾芻五法經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_487","lb_range":["0699b05","0699b06"],"text_zh":"《目連所問經》一部，一卷。 上三經，三藏法天譯。","text_en":"《目連所問經》一部，一卷。 上三經，三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_488","lb_range":["0699b07","0699b08"],"text_zh":"《解夏經》一部，一卷。 三藏法賢譯。","text_en":"《解夏經》一部，一卷。 三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_489","lb_range":["0699b09","0699b10","0699b11"],"text_zh":"《沙彌十戒儀則經》一部，一卷。 三藏施護譯。 上五經，五部，五卷，同帙，霸字号。","text_en":"《沙彌十戒儀則經》一部，一卷。 三藏施護譯。 上五經，五部，五卷，同帙，霸字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_490","lb_range":["0699b12","0699b13","0700a01","0700a02"],"text_zh":"自《菩提行經》至《六道伽陀經》，計二十 一部，二十九卷，三帙。","text_en":"聖賢集傳翻譯著撰 西方聖賢集傳(梵本翻譯者) 自《菩提行經》至《六道伽陀經》，計二十 一部，二十九卷，三帙。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_491","lb_range":["0700a03"],"text_zh":"《菩提行經》一部，四卷。","text_en":"《菩提行經》一部，四卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_492","lb_range":["0700a04","0700a05"],"text_zh":"《法集要頌經》一部，四卷。 上二經，三藏天息災譯。","text_en":"《法集要頌經》一部，四卷。 上二經，三藏天息災譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_493","lb_range":["0700a06","0700a07"],"text_zh":"《法集名數經》一部，一卷。 三藏施護譯。","text_en":"《法集名數經》一部，一卷。 三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_494","lb_range":["0700a08","0700a09","0700a10"],"text_zh":"《菩提心觀釋》一部，一卷。 三藏法天譯。 上四經，四部，一十卷，同帙，趙字号。","text_en":"《菩提心觀釋》一部，一卷。 三藏法天譯。 上四經，四部，一十卷，同帙，趙字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_495","lb_range":["0700a11"],"text_zh":"《佛吉祥德讚》一部，三卷。","text_en":"《佛吉祥德讚》一部，三卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_496","lb_range":["0700b01","0700b02"],"text_zh":"《聖觀自在菩薩功德讚》一部，一卷。 上二讚，三藏施護譯。","text_en":"《聖觀自在菩薩功德讚》一部，一卷。 上二讚，三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_497","lb_range":["0700b03","0700b04"],"text_zh":"《佛三身讚》一部，一卷。 三藏法賢譯。","text_en":"《佛三身讚》一部，一卷。 三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_498","lb_range":["0700b05","0700b06"],"text_zh":"《一切如來說佛頂輪王一百八名讚》一部，一卷。 三藏施護譯。","text_en":"《一切如來說佛頂輪王一百八名讚》一部，一卷。 三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_499","lb_range":["0700b07","0700b08"],"text_zh":"《佛一百八名讚》一部，一卷。 三藏法天譯。","text_en":"《佛一百八名讚》一部，一卷。 三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_500","lb_range":["0700b09","0700b10"],"text_zh":"《聖多羅菩薩梵讚》一部，一卷。 三藏施護譯。","text_en":"《聖多羅菩薩梵讚》一部，一卷。 三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_501","lb_range":["0700b11","0700b12"],"text_zh":"《文殊師利一百八名梵讚》一部，一卷。 三藏法天譯。","text_en":"《文殊師利一百八名梵讚》一部，一卷。 三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_502","lb_range":["0701a01","0701a02"],"text_zh":"《聖金剛手菩薩一百八名梵讚》一部，一卷。 三藏法賢譯。","text_en":"《聖金剛手菩薩一百八名梵讚》一部，一卷。 三藏法賢譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_503","lb_range":["0701a03","0701a04"],"text_zh":"《聖觀自在菩薩梵讚》一部，一卷。 三藏法天譯。","text_en":"《聖觀自在菩薩梵讚》一部，一卷。 三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_504","lb_range":["0701a05","0701a06","0701a07"],"text_zh":"《揵稚梵讚》一部，一卷。 三藏法賢譯。 上一十部，一十二卷，同帙，魏字号。","text_en":"《揵稚梵讚》一部，一卷。 三藏法賢譯。 上一十部，一十二卷，同帙，魏字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_505","lb_range":["0701a08"],"text_zh":"《八大靈塔名號經》。","text_en":"《八大靈塔名號經》。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_506","lb_range":["0701a09"],"text_zh":"《八大靈塔梵讚》。","text_en":"《八大靈塔梵讚》。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_507","lb_range":["0701a10","0701a11","0701a12"],"text_zh":"《三身梵讚》。 三藏法賢譯。 上三經讚，合一卷。","text_en":"《三身梵讚》。 三藏法賢譯。 上三經讚，合一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_508","lb_range":["0701b01","0701b02"],"text_zh":"《七佛讚唄伽陀》一部，一卷。 三藏法天譯。","text_en":"《七佛讚唄伽陀》一部，一卷。 三藏法天譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_509","lb_range":["0701b03","0701b04"],"text_zh":"《聖賢集伽陀一百頌》一部，一卷。 三藏天息災譯。","text_en":"《聖賢集伽陀一百頌》一部，一卷。 三藏天息災譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_510","lb_range":["0701b05","0701b06"],"text_zh":"《廣大發願頌》一部，一卷。 三藏施護譯。","text_en":"《廣大發願頌》一部，一卷。 三藏施護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_511","lb_range":["0701b07","0701b08"],"text_zh":"《勝軍化世百喻伽陀經》一部，一卷。 三藏天息災譯。","text_en":"《勝軍化世百喻伽陀經》一部，一卷。 三藏天息災譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_512","lb_range":["0701b09"],"text_zh":"《讚法界頌》一部，一卷。","text_en":"《讚法界頌》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_513","lb_range":["0701b10","0701b11","0701b12"],"text_zh":"《六道伽陀經》一部，一卷。 上二部，三藏施護譯。 上七部，七卷，同帙，困字号。","text_en":"《六道伽陀經》一部，一卷。 上二部，三藏施護譯。 上七部，七卷，同帙，困字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_514","lb_range":["0701b13","0702a01","0702a02","0702a03","0702a04"],"text_zh":"自 太宗皇帝御製《蓮華心輪迴文偈頌》 至《大宋大中祥符法寶錄》，計一 十一部，凡一百六十卷，一十六帙。","text_en":"東土聖賢著撰 自 太宗皇帝御製《蓮華心輪迴文偈頌》 至《大宋大中祥符法寶錄》，計一 十一部，凡一百六十卷，一十六帙。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_515","lb_range":["0702a05","0702a06","0702a07"],"text_zh":"《蓮華心輪迴文偈頌》一部，二十五卷，合一十一卷。 上一部，一十一卷，一帙，撗字号。","text_en":"太宗皇帝御製 《蓮華心輪迴文偈頌》一部，二十五卷，合一十一卷。 上一部，一十一卷，一帙，撗字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_516","lb_range":["0702a08","0702a09","0702a10","0702a11","0702b01","0702b02","0702b03","0702b04","0702b05"],"text_zh":"《祕藏詮》一部，惣三十卷。 《祕藏詮》二十卷。 《祕藏詮佛賦歌行》一卷。 《祕藏詮幽隱律詩》四卷。 《祕藏詮懷感詩》四卷。 《祕藏詮懷感迴文詩》一卷。 上一十卷，一帙，假字号。 中一十卷，一帙，途字号。 下一十卷，一帙，滅字号。","text_en":"《祕藏詮》一部，惣三十卷。 《祕藏詮》二十卷。 《祕藏詮佛賦歌行》一卷。 《祕藏詮幽隱律詩》四卷。 《祕藏詮懷感詩》四卷。 《祕藏詮懷感迴文詩》一卷。 上一十卷，一帙，假字号。 中一十卷，一帙，途字号。 下一十卷，一帙，滅字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_517","lb_range":["0702b06"],"text_zh":"《逍遙詠》一部，一十一卷。","text_en":"《逍遙詠》一部，一十一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_518","lb_range":["0702b07","0702b08"],"text_zh":"《緣識》一部，五卷。 上二部，一十六卷，同帙，虢字号。","text_en":"《緣識》一部，五卷。 上二部，一十六卷，同帙，虢字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_519","lb_range":["0702b09","0702b10"],"text_zh":"《妙覺集》一部，五卷。 上一部，五卷，一帙，踐字号。","text_en":"《妙覺集》一部，五卷。 上一部，五卷，一帙，踐字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_520","lb_range":["0702b11","0702b12"],"text_zh":"《法音前集》一部，七卷。","text_en":"真宗皇帝御製 《法音前集》一部，七卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_521","lb_range":["0703a01","0703a02"],"text_zh":"《箋注　聖教序》一部，三卷。 上二部，一十卷，同帙，土字号。","text_en":"《箋注　聖教序》一部，三卷。 上二部，一十卷，同帙，土字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_522","lb_range":["0703a03","0703a04"],"text_zh":"《大宋高僧傳》一部，三十卷。","text_en":"高僧集傳 《大宋高僧傳》一部，三十卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_523","lb_range":["0703a05","0703a06","0703a07","0703a08","0703a09","0703a10"],"text_zh":"《僧史略》一部，三卷。 第一至第八，八卷，同帙，會字号。 第九至十六，八卷，同帙，盟字号。 第十七至二十四，八卷，同帙，何字号。 第二十五至三十并《僧史略》三卷， 九卷，同帙，遵字号。","text_en":"《僧史略》一部，三卷。 第一至第八，八卷，同帙，會字号。 第九至十六，八卷，同帙，盟字号。 第十七至二十四，八卷，同帙，何字号。 第二十五至三十并《僧史略》三卷， 九卷，同帙，遵字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_524","lb_range":["0703a11","0703a12","0703b01","0703b02"],"text_zh":"《景德傳燈錄》一部，三十三卷。 上十一卷，一帙，約字号。 中十一卷，一帙，法字号。 下十一卷，一帙，韓字号。","text_en":"《景德傳燈錄》一部，三十三卷。 上十一卷，一帙，約字号。 中十一卷，一帙，法字号。 下十一卷，一帙，韓字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_525","lb_range":["0703b03"],"text_zh":"《大宋大中祥符法寶錄》一部，二十二卷。","text_en":"《大宋大中祥符法寶錄》一部，二十二卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_526","lb_range":["0703b04","0703b05","0703b06"],"text_zh":"《應元崇德仁壽慈聖皇太后發願文》一卷。 上十一卷，一帙，弊字号。 下十二卷，一帙，內一卷緫錄，煩字号。","text_en":"《應元崇德仁壽慈聖皇太后發願文》一卷。 上十一卷，一帙，弊字号。 下十二卷，一帙，內一卷緫錄，煩字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_527","lb_range":["0703b07","0703b08","0703b09","0703b10","0703b11","0703b12","0703b13"],"text_zh":"又自大中祥符五年五月，後續譯出經 論等，自《白衣金幢二婆羅門緣起經》至 《海意菩薩所問淨印法門經》，緫一十七部， 一百七卷，未經編收名錄。今且以卷、部、 年次勒成一十帙，附《大中祥符法寶 錄》後收。所󰀪未再編修續錄已來， 不至湮墜，經本今列于左。","text_en":"後續譯出經論 又自大中祥符五年五月，後續譯出經 論等，自《白衣金幢二婆羅門緣起經》至 《海意菩薩所問淨印法門經》，緫一十七部， 一百七卷，未經編收名錄。今且以卷、部、 年次勒成一十帙，附《大中祥符法寶 錄》後收。所 󰀪 未再編修續錄 已 來， 不至湮墜，經本今列于左。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_528","lb_range":["0704a01"],"text_zh":"《佛說白衣金幢二婆羅門緣起經》一部，三卷。","text_en":"《佛說白衣金幢二婆羅門緣起經》一部，三卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_529","lb_range":["0704a02","0704a03","0704a04","0704a05","0704a06","0704a07"],"text_zh":"《佛說一切如來真實攝大乘現證三昧 大教王經》一部，三十卷。並三藏施護譯。 并上一經，一部，三卷，共三十三卷。 上帙，一十三卷，內三卷附帙，刑字号。 中帙，一十卷，起字号。 下帙，一十卷，翦字号。","text_en":"《佛說一切如來真實攝大乘現證三昧 大教王經》一部，三十卷。並三藏施護譯。 并上一經，一部，三卷，共三十三卷。 上帙，一十三卷，內三卷附帙，刑字号。 中帙，一十卷，起字号。 下帙，一十卷，翦字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_530","lb_range":["0704a08"],"text_zh":"《佛說福力太子因緣經》一部，四卷。","text_en":"《佛說福力太子因緣經》一部，四卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_531","lb_range":["0704a09","0704a10","0704a11"],"text_zh":"《佛說無畏授所問大乘經》一部，三卷。 上二經，三藏施護譯。 上二經，二部，七卷，同帙，頗字号。","text_en":"《佛說無畏授所問大乘經》一部，三卷。 上二經，三藏施護譯。 上二經，二部，七卷，同帙，頗字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_532","lb_range":["0704b01"],"text_zh":"《佛說頂生王因緣經》一部，六卷。","text_en":"《佛說頂生王因緣經》一部，六卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_533","lb_range":["0704b02"],"text_zh":"《佛說佛十力經》一部，一卷。","text_en":"《佛說佛十力經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_534","lb_range":["0704b03"],"text_zh":"《佛說勝義空經》一部，一卷。","text_en":"《佛說勝義空經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_535","lb_range":["0704b04"],"text_zh":"《佛說隨勇尊者經》一部，一卷。","text_en":"《佛說隨勇尊者經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_536","lb_range":["0704b05"],"text_zh":"《佛說清淨心經》一部，一卷。","text_en":"《佛說清淨心經》一部，一卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_537","lb_range":["0704b06","0704b07","0704b08"],"text_zh":"《佛說五大施經》一部，一卷。 上六經，三藏施護譯。 上六經，六部，共十一卷，同帙，牧字号。","text_en":"《佛說五大施經》一部，一卷。 上六經，三藏施護譯。 上六經，六部，共十一卷，同帙，牧字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_538","lb_range":["0704b09","0704b10"],"text_zh":"《大乘寶要義論》一部，一十卷。一至三，共三卷。 三藏惟淨譯。","text_en":"《大乘寶要義論》一部，一十卷。一至三，共三卷。 三藏惟淨譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_539","lb_range":["0704b11","0704b12"],"text_zh":"《大乘寶要義論》四至六，共三卷。 三藏法護譯。","text_en":"《大乘寶要義論》四至六，共三卷。 三藏法護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_540","lb_range":["0705a01","0705a02","0705a03"],"text_zh":"《大乘寶要義論》七至十，共四卷。 三藏惟淨譯。 上一論，一部，一十卷，同帙，用字号。","text_en":"《大乘寶要義論》七至十，共四卷。 三藏惟淨譯。 上一論，一部，一十卷，同帙，用字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_541","lb_range":["0705a04","0705a05"],"text_zh":"《佛說除蓋障菩薩所問經》一部，二十卷。一至三，共三卷。 三藏法護譯。","text_en":"《佛說除蓋障菩薩所問經》一部，二十卷。一至三，共三卷。 三藏法護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_542","lb_range":["0705a06","0705a07"],"text_zh":"《佛說除蓋障菩薩所問經》四至六，共三卷。 三藏惟淨譯。","text_en":"《佛說除蓋障菩薩所問經》四至六，共三卷。 三藏惟淨譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_543","lb_range":["0705a08","0705a09","0705a10"],"text_zh":"《佛說除蓋障菩薩所問經》七至十，共四卷。 三藏法護譯。 上一經，一十卷，一帙，軍字号。","text_en":"《佛說除蓋障菩薩所問經》七至十，共四卷。 三藏法護譯。 上一經，一十卷，一帙，軍字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_544","lb_range":["0705a11","0705a12"],"text_zh":"《佛說除蓋障菩薩所問經》十一至十三，共三卷。 三藏惟淨譯。","text_en":"《佛說除蓋障菩薩所問經》十一至十三，共三卷。 三藏惟淨譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_545","lb_range":["0705b01"],"text_zh":"《佛說除蓋障菩薩所問經》十四至十六，共三卷。","text_en":"《佛說除蓋障菩薩所問經》十四至十六，共三卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_546","lb_range":["0705b02"],"text_zh":"《佛說除蓋障菩薩所問經》十七至二十，共四卷。","text_en":"《佛說除蓋障菩薩所問經》十七至二十，共四卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_547","lb_range":["0705b03","0705b04","0705b05"],"text_zh":"《佛說八種長養功德經》一卷。 上二經，三藏法護譯。 上二經，共十一卷，同帙，最字号。","text_en":"《佛說八種長養功德經》一卷。 上二經，三藏法護譯。 上二經，共十一卷，同帙，最字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_548","lb_range":["0705b06","0705b07"],"text_zh":"《佛說身毛喜豎經》三卷。 三藏惟淨譯。","text_en":"《佛說身毛喜豎經》三卷。 三藏惟淨譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_549","lb_range":["0705b08"],"text_zh":"《佛說大乘大方廣佛冠經》二卷。","text_en":"《佛說大乘大方廣佛冠經》二卷。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_550","lb_range":["0705b09","0705b10","0705b11"],"text_zh":"《聖佛母般若波羅蜜多九頌精義論》二卷。 上四卷，三藏法護譯。 上二經、一論，共七卷，同帙，精字号。","text_en":"《聖佛母般若波羅蜜多九頌精義論》二卷。 上四卷，三藏法護譯。 上二經、一論，共七卷，同帙，精字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_551","lb_range":["0705b12","0705b13","0706a01"],"text_zh":"《佛說海意菩薩所問淨印法門經》一部， 十八卷。一至三，共三卷。 三藏惟淨譯。","text_en":"《佛說海意菩薩所問淨印法門經》一部， 十八卷。一至三，共三卷。 三藏惟淨譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_552","lb_range":["0706a02","0706a03"],"text_zh":"《佛說海意菩薩所問淨印法門經》四至六，共三卷。 三藏法護譯。","text_en":"《佛說海意菩薩所問淨印法門經》四至六，共三卷。 三藏法護譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_553","lb_range":["0706a04","0706a05"],"text_zh":"《佛說海意菩薩所問淨印法門經》七至九，共三卷。 三藏惟淨譯。","text_en":"《佛說海意菩薩所問淨印法門經》七至九，共三卷。 三藏惟淨譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_554","lb_range":["0706a06","0706a07","0706a08","0706a09"],"text_zh":"《佛說海意菩薩所問淨印法門經》十至 十二，共三卷。 三藏法護譯。 上一經，十二卷，一帙，宣字号。","text_en":"《佛說海意菩薩所問淨印法門經》十至 十二，共三卷。 三藏法護譯。 上一經，十二卷，一帙，宣字号。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_555","lb_range":["0706a10","0706a11","0706b01"],"text_zh":"《佛說海意菩薩所問淨印法門經》十三 至十五，共三卷。 三藏惟淨譯。","text_en":"《佛說海意菩薩所問淨印法門經》十三 至十五，共三卷。 三藏惟淨譯。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_556","lb_range":["0706b02","0706b03","0706b04","0706b05","0706b06","0706b07"],"text_zh":"《佛說海意菩薩所問淨印法門經》十六至 十八，共三卷。 三藏法護譯。 上六卷，一帙，威字号。 此一經，緫前計十八卷，成一部。起天 聖二年十月，終天聖五年三月。","text_en":"《佛說海意菩薩所問淨印法門經》十六至 十八，共三卷。 三藏法護譯。 上六卷，一帙，威字号。 此一經，緫前計十八卷，成一部。起天 聖二年十月，終天聖五年三月。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_557","lb_range":["0706b08","0706b09","0706b10"],"text_zh":"右《天聖釋教緫錄》中都收《開元》舊錄并 附續新編及《正元》、《法寶》等錄，共計六百二 帙，六百二號。","text_en":"右《天聖釋教緫錄》中都收《開元》舊錄并 附續新編及《正元》、《法寶》等錄，共計六百二 帙，六百二號。","type":"prose","confidence":1}
+{"unit_id":"A110n1490_558","lb_range":["0706b11","0706b12","0707a01"],"text_zh":"同編修沙門臣","text_en":"《天聖釋教緫錄》下冊 同編修沙門臣","type":"prose","confidence":1}
+{"unit_id":"A110n1490_559","lb_range":["0707a02"],"text_zh":"同編修沙門臣","text_en":"同編修沙門臣","type":"prose","confidence":1}
+{"unit_id":"A110n1490_560","lb_range":["0707a03"],"text_zh":"同編修沙門臣","text_en":"同編修沙門臣","type":"prose","confidence":1}
+{"unit_id":"A110n1490_561","lb_range":["0707a04"],"text_zh":"同編修沙門臣","text_en":"同編修沙門臣","type":"prose","confidence":1}
+{"unit_id":"A110n1490_562","lb_range":["0707a05"],"text_zh":"同編修沙門臣","text_en":"同編修沙門臣","type":"prose","confidence":1}
+{"unit_id":"A110n1490_563","lb_range":["0707a06"],"text_zh":"同編修沙門臣","text_en":"同編修沙門臣","type":"prose","confidence":1}
+{"unit_id":"A110n1490_564","lb_range":["0707a07"],"text_zh":"同編修沙門臣","text_en":"同編修沙門臣","type":"prose","confidence":1}
+{"unit_id":"A110n1490_565","lb_range":["0707a08"],"text_zh":"同編修沙門臣","text_en":"同編修沙門臣","type":"prose","confidence":1}
+{"unit_id":"A110n1490_566","lb_range":["0707a09"],"text_zh":"同編修沙門臣","text_en":"同編修沙門臣","type":"prose","confidence":1}
+{"unit_id":"A110n1490_567","lb_range":["0707a10"],"text_zh":"同編修沙門臣","text_en":"同編修沙門臣","type":"prose","confidence":1}
+{"unit_id":"A110n1490_568","lb_range":["0707a11"],"text_zh":"同編修沙門臣","text_en":"同編修沙門臣","type":"prose","confidence":1}
+{"unit_id":"A110n1490_569","lb_range":["0707b01"],"text_zh":"同編修賜紫沙門臣","text_en":"同編修賜紫沙門臣","type":"prose","confidence":1}
+{"unit_id":"A110n1490_570","lb_range":["0707b02"],"text_zh":"同編修賜紫沙門臣","text_en":"同編修賜紫沙門臣","type":"prose","confidence":1}
+{"unit_id":"A110n1490_571","lb_range":["0707b03"],"text_zh":"同編修賜紫沙門臣","text_en":"同編修賜紫沙門臣","type":"prose","confidence":1}
+{"unit_id":"A110n1490_572","lb_range":["0707b04"],"text_zh":"同編修譯經證義廣演大師賜紫沙門臣","text_en":"同編修譯經證義廣演大師賜紫沙門臣","type":"prose","confidence":1}
+{"unit_id":"A110n1490_573","lb_range":["0707b05"],"text_zh":"同編修左街講經首座演法大師賜紫沙門臣","text_en":"同編修左街講經首座演法大師賜紫沙門臣","type":"prose","confidence":1}
+{"unit_id":"A110n1490_574","lb_range":["0707b06"],"text_zh":"同編修右街講論首座廣濟大師賜紫沙門臣","text_en":"同編修右街講論首座廣濟大師賜紫沙門臣","type":"prose","confidence":1}
+{"unit_id":"A110n1490_575","lb_range":["0707b07"],"text_zh":"同編修左街講論首座譯經證義兼綴文大師賜紫沙門臣","text_en":"同編修左街講論首座譯經證義兼綴文 大師賜紫沙門臣","type":"prose","confidence":1}
+{"unit_id":"A110n1490_576","lb_range":["0707b08"],"text_zh":"同編修右街副僧錄宗教大師賜紫沙門臣","text_en":"同編修右街副僧錄宗教大師賜紫沙門臣","type":"prose","confidence":1}
+{"unit_id":"A110n1490_577","lb_range":["0707b09"],"text_zh":"同編修右街僧錄法智大師賜紫沙門臣","text_en":"同編修右街僧錄法智大師賜紫沙門臣","type":"prose","confidence":1}
+{"unit_id":"A110n1490_578","lb_range":["0707b10"],"text_zh":"同編修譯經三藏朝散大夫試鴻臚卿光梵大師賜紫沙門臣","text_en":"同編修譯經三藏朝散大夫試鴻臚卿光梵大師賜紫沙門臣","type":"prose","confidence":1}
+{"unit_id":"A110n1490_579","lb_range":["0707b11"],"text_zh":"管勾編修入內內侍省內侍黃門臣黃　元","text_en":"管勾編修入內內侍省內侍黃門臣黃　元","type":"prose","confidence":1}
+{"unit_id":"A110n1490_580","lb_range":["0707b12"],"text_zh":"管勾編修上　　御藥供奉臣羅","text_en":"管勾編修上　　御藥供奉臣羅","type":"prose","confidence":1}
+{"unit_id":"A110n1490_581","lb_range":["0707b13"],"text_zh":"管勾編修上　　御藥供奉臣藍　元","text_en":"管勾編修上　　御藥供奉臣藍　元","type":"prose","confidence":1}
+{"unit_id":"A110n1490_582","lb_range":["0708a01"],"text_zh":"入內內侍省內侍高品勾當印經院傳法院提點七寶塔臣陳　文一","text_en":"入內內侍省內侍高品勾當印經院傳法院提點七寶塔臣陳　文一","type":"prose","confidence":1}

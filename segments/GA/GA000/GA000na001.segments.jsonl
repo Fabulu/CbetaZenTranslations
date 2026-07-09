@@ -1,0 +1,57 @@
+{"source_sha256":"e5b2009c0a3969933a287e0bbbbad45d32708d61d37e97bea3a831a3ccf45d3a","schema":"seg-v1"}
+{"unit_id":"GA000na001_001","lb_range":["0001a01","0001a02","0001a03"],"text_zh":"本集成陸續進行中之「中國佛寺志」文本來自以下兩套叢書：","text_en":"中國佛寺志編輯說明 本集成陸續進行中之「中國佛寺志」文本來自以下兩套叢書：","type":"prose","confidence":1}
+{"unit_id":"GA000na001_002","lb_range":["0001a04"],"text_zh":"中國佛寺史志彙刊　台北：1980-1994　杜潔祥　主編　110 vols.","text_en":"中國佛寺史志彙刊　台北：1980-1994　杜潔祥　主編　110 vols.","type":"prose","confidence":1}
+{"unit_id":"GA000na001_003","lb_range":["0001a05"],"text_zh":"中國佛寺志叢刊　揚州：廣陵書社 2006　白化文　張智　主編　130 vols.","text_en":"中國佛寺志叢刊　揚州：廣陵書社 2006　白化文　張智　主編　130 vols.","type":"prose","confidence":1}
+{"unit_id":"GA000na001_004","lb_range":["0001a06","0001a07"],"text_zh":"以上共 240 冊，合 237 寺志。CBETA 目前已收錄其中 51 部寺志，詳目如下：","text_en":"以上共 240 冊，合 237 寺志。CBETA 目前已收錄其中 51 部寺志，詳目如下：","type":"prose","confidence":1}
+{"unit_id":"GA000na001_005","lb_range":["0001a08"],"text_zh":"GA0002 洛陽伽藍記集證","text_en":"GA0002 洛陽伽藍記集證","type":"prose","confidence":1}
+{"unit_id":"GA000na001_006","lb_range":["0001a09"],"text_zh":"GA0003 洛陽伽藍記鉤沉","text_en":"GA0003 洛陽伽藍記鉤沉","type":"prose","confidence":1}
+{"unit_id":"GA000na001_007","lb_range":["0001a10"],"text_zh":"GA0004 洛陽伽藍記合校本","text_en":"GA0004 洛陽伽藍記合校本","type":"prose","confidence":1}
+{"unit_id":"GA000na001_008","lb_range":["0001a11"],"text_zh":"GA0005 南朝佛寺志","text_en":"GA0005 南朝佛寺志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_009","lb_range":["0001a12"],"text_zh":"GA0008 重修普陀山志","text_en":"GA0008 重修普陀山志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_010","lb_range":["0001a13"],"text_zh":"GA0009 普陀洛迦新志","text_en":"GA0009 普陀洛迦新志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_011","lb_range":["0001a14"],"text_zh":"GA0010 明州阿育王山志","text_en":"GA0010 明州阿育王山志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_012","lb_range":["0001a15"],"text_zh":"GA0011 明州阿育王山續志","text_en":"GA0011 明州阿育王山續志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_013","lb_range":["0001a16"],"text_zh":"GA0012 天童寺志","text_en":"GA0012 天童寺志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_014","lb_range":["0001a17"],"text_zh":"GA0013 七塔寺志","text_en":"GA0013 七塔寺志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_015","lb_range":["0001a18"],"text_zh":"GA0014 明州岳林寺志","text_en":"GA0014 明州岳林寺志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_016","lb_range":["0001a19"],"text_zh":"GA0015 大昭慶律寺志","text_en":"GA0015 大昭慶律寺志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_017","lb_range":["0001a20"],"text_zh":"GA0017 玉岑山慧因高麗華嚴教寺志","text_en":"GA0017 玉岑山慧因高麗華嚴教寺志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_018","lb_range":["0001a21"],"text_zh":"GA0018 鳳凰山聖果寺志","text_en":"GA0018 鳳凰山聖果寺志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_019","lb_range":["0001a22"],"text_zh":"GA0019 武林理安寺志","text_en":"GA0019 武林理安寺志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_020","lb_range":["0001a23"],"text_zh":"GA0020 龍井見聞錄","text_en":"GA0020 龍井見聞錄","type":"prose","confidence":1}
+{"unit_id":"GA000na001_021","lb_range":["0001a24"],"text_zh":"GA0021 武林靈隱寺志","text_en":"GA0021 武林靈隱寺志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_022","lb_range":["0001a25"],"text_zh":"GA0022 增修雲林寺志","text_en":"GA0022 增修雲林寺志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_023","lb_range":["0001a26"],"text_zh":"GA0023 雲林寺續志","text_en":"GA0023 雲林寺續志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_024","lb_range":["0001a27"],"text_zh":"GA0024 杭州上天竺講寺志","text_en":"GA0024 杭州上天竺講寺志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_025","lb_range":["0001a28"],"text_zh":"GA0025 雲居聖水寺志","text_en":"GA0025 雲居聖水寺志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_026","lb_range":["0001a29"],"text_zh":"GA0028 龍興祥符戒壇寺志","text_en":"GA0028 龍興祥符戒壇寺志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_027","lb_range":["0001a30"],"text_zh":"GA0029 西谿梵隱志","text_en":"GA0029 西谿梵隱志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_028","lb_range":["0001a31"],"text_zh":"GA0030 崇福寺志","text_en":"GA0030 崇福寺志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_029","lb_range":["0001a32"],"text_zh":"GA0031 續崇福寺志","text_en":"GA0031 續崇福寺志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_030","lb_range":["0001a33"],"text_zh":"GA0032 徑山志","text_en":"GA0032 徑山志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_031","lb_range":["0001a34"],"text_zh":"GA0036 破山興福寺志","text_en":"GA0036 破山興福寺志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_032","lb_range":["0001a35"],"text_zh":"GA0037 金山龍游禪寺志略","text_en":"GA0037 金山龍游禪寺志略","type":"prose","confidence":1}
+{"unit_id":"GA000na001_033","lb_range":["0001a36"],"text_zh":"GA0040 平山堂圖志","text_en":"GA0040 平山堂圖志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_034","lb_range":["0001a37"],"text_zh":"GA0042 鄧尉山聖恩寺志","text_en":"GA0042 鄧尉山聖恩寺志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_035","lb_range":["0001a38"],"text_zh":"GA0043 寒山寺志","text_en":"GA0043 寒山寺志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_036","lb_range":["0001a39"],"text_zh":"GA0044 鹿泉寺志","text_en":"GA0044 鹿泉寺志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_037","lb_range":["0001a40"],"text_zh":"GA0045 鶴林寺志（京口三山全志）","text_en":"GA0045 鶴林寺志（京口三山全志）","type":"prose","confidence":1}
+{"unit_id":"GA000na001_038","lb_range":["0001a41"],"text_zh":"GA0046 鶴林寺志（釋明賢本）","text_en":"GA0046 鶴林寺志（釋明賢本）","type":"prose","confidence":1}
+{"unit_id":"GA000na001_039","lb_range":["0001a42"],"text_zh":"GA0047 潭柘山岫雲寺志","text_en":"GA0047 潭柘山岫雲寺志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_040","lb_range":["0001a43"],"text_zh":"GA0048 弘慈廣濟寺新志","text_en":"GA0048 弘慈廣濟寺新志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_041","lb_range":["0001a44"],"text_zh":"GA0049 峨眉山志","text_en":"GA0049 峨眉山志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_042","lb_range":["0001a45"],"text_zh":"GA0055 重刊洛陽伽藍記","text_en":"GA0055 重刊洛陽伽藍記","type":"prose","confidence":1}
+{"unit_id":"GA000na001_043","lb_range":["0001a46"],"text_zh":"GA0057 江南梵剎志","text_en":"GA0057 江南梵剎志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_044","lb_range":["0001a47"],"text_zh":"GA0059 雲門山志","text_en":"GA0059 雲門山志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_045","lb_range":["0001a48"],"text_zh":"GA0060 大嶼山志","text_en":"GA0060 大嶼山志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_046","lb_range":["0001a49"],"text_zh":"GA0062 泉州開元寺志","text_en":"GA0062 泉州開元寺志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_047","lb_range":["0001a50"],"text_zh":"GA0063 廈門南普陀寺志","text_en":"GA0063 廈門南普陀寺志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_048","lb_range":["0001a51"],"text_zh":"GA0064 天台勝蹟錄","text_en":"GA0064 天台勝蹟錄","type":"prose","confidence":1}
+{"unit_id":"GA000na001_049","lb_range":["0001a52"],"text_zh":"GA0065 鴈山志","text_en":"GA0065 鴈山志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_050","lb_range":["0001a53"],"text_zh":"GA0077 九華山志","text_en":"GA0077 九華山志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_051","lb_range":["0001a54"],"text_zh":"GA0081 清涼山志","text_en":"GA0081 清涼山志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_052","lb_range":["0001a55"],"text_zh":"GA0084 雞足山寺志","text_en":"GA0084 雞足山寺志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_053","lb_range":["0001a56"],"text_zh":"GA0086 黃檗山寺志","text_en":"GA0086 黃檗山寺志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_054","lb_range":["0001a57"],"text_zh":"GA0089 天台山方外志","text_en":"GA0089 天台山方外志","type":"prose","confidence":1}
+{"unit_id":"GA000na001_055","lb_range":["0001a58"],"text_zh":"GB0109 徑山集","text_en":"GB0109 徑山集","type":"prose","confidence":1}
+{"unit_id":"GA000na001_056","lb_range":["0001a59","0001a60"],"text_zh":"「中國佛寺志」原始全文 XML 標記文檔及內容註解皆由法鼓文理學院（DILA）提供，謹此致謝！","text_en":"「中國佛寺志」原始全文 XML 標記文檔及內容註解皆由法鼓文理學院（DILA）提供，謹此致謝！","type":"prose","confidence":1}

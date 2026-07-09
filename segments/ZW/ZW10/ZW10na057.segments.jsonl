@@ -1,0 +1,59 @@
+{"source_sha256":"ecddc2052d1b18e1e1e0db53140ad970f51eeaddfad28500bd3e8f7231113888","schema":"seg-v1"}
+{"unit_id":"ZW10na057_001","lb_range":["a001a01","a001a02","a001a03","a001a04"],"text_zh":"卷首語","text_en":"目錄 卷首語 （1）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_002","lb_range":[],"text_zh":"（1）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_003","lb_range":["a001a05"],"text_zh":"錄文校勘體例","text_en":"錄文校勘體例 （7）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_004","lb_range":[],"text_zh":"（7）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_005","lb_range":["a001a06"],"text_zh":"梵藏典籍新譯","text_en":"梵藏典籍新譯","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_006","lb_range":["a001a07"],"text_zh":"三自性論","text_en":"三自性論 （3）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_007","lb_range":[],"text_zh":"（3）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_008","lb_range":["a001a08"],"text_zh":"譯者附記","text_en":"譯者附記 （9）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_009","lb_range":[],"text_zh":"（9）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_010","lb_range":["a001a09"],"text_zh":"漢譯藏文佛典","text_en":"漢譯藏文佛典","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_011","lb_range":["a001a10"],"text_zh":"因相輪抉擇","text_en":"因相輪抉擇 （15）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_012","lb_range":[],"text_zh":"（15）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_013","lb_range":["a001a11"],"text_zh":"佚典遺珠","text_en":"佚典遺珠","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_014","lb_range":["a001a12"],"text_zh":"諸經佛名卷上","text_en":"諸經佛名卷上 （23）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_015","lb_range":[],"text_zh":"（23）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_016","lb_range":["a001a13"],"text_zh":"佛典註疏","text_en":"佛典註疏","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_017","lb_range":["a001a14"],"text_zh":"御注金剛般若經","text_en":"御注金剛般若經 （39）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_018","lb_range":[],"text_zh":"（39）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_019","lb_range":["a001a15"],"text_zh":"文殊師利所說般若波羅蜜經序偈釋","text_en":"文殊師利所說般若波羅蜜經序偈釋 （108）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_020","lb_range":[],"text_zh":"（108）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_021","lb_range":["a002a01"],"text_zh":"佛教懺儀","text_en":"佛教懺儀","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_022","lb_range":["a002a02"],"text_zh":"法華七禮文","text_en":"法華七禮文 （177）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_023","lb_range":[],"text_zh":"（177）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_024","lb_range":["a002a03"],"text_zh":"附：關於《法華七禮文》","text_en":"附：關於《法華七禮文》 （179）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_025","lb_range":[],"text_zh":"（179）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_026","lb_range":["a002a04"],"text_zh":"疑偽經","text_en":"疑偽經","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_027","lb_range":["a002a05"],"text_zh":"照明菩薩經","text_en":"照明菩薩經 （195）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_028","lb_range":[],"text_zh":"（195）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_029","lb_range":["a002a06"],"text_zh":"佛說佛名經（二十卷本）","text_en":"佛說佛名經（二十卷本） （211）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_030","lb_range":[],"text_zh":"（211）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_031","lb_range":["a002a07"],"text_zh":"佛說佛名經卷第一","text_en":"佛說佛名經卷第一 （213）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_032","lb_range":[],"text_zh":"（213）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_033","lb_range":["a002a08"],"text_zh":"佛說佛名經卷第二","text_en":"佛說佛名經卷第二 （245）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_034","lb_range":[],"text_zh":"（245）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_035","lb_range":["a002a09"],"text_zh":"佛說佛名經卷第三","text_en":"佛說佛名經卷第三 （271）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_036","lb_range":[],"text_zh":"（271）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_037","lb_range":["a002a10"],"text_zh":"佛說佛名經卷第四","text_en":"佛說佛名經卷第四 （301）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_038","lb_range":[],"text_zh":"（301）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_039","lb_range":["a002a11"],"text_zh":"《壇經》整理","text_en":"《壇經》整理","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_040","lb_range":["a002a12"],"text_zh":"敦煌本《壇經》校釋疏義","text_en":"敦煌本《壇經》校釋疏義 （329）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_041","lb_range":[],"text_zh":"（329）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_042","lb_range":["a002a13"],"text_zh":"前言","text_en":"前言 （329）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_043","lb_range":[],"text_zh":"（329）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_044","lb_range":["a002a14"],"text_zh":"標題章","text_en":"標題章 （338）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_045","lb_range":[],"text_zh":"（338）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_046","lb_range":["a002a15"],"text_zh":"第一章","text_en":"第一章 （373）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_047","lb_range":[],"text_zh":"（373）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_048","lb_range":["a002a16"],"text_zh":"第二章","text_en":"第二章 （393）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_049","lb_range":[],"text_zh":"（393）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_050","lb_range":["a002a17"],"text_zh":"研究論文","text_en":"研究論文","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_051","lb_range":["a002a18"],"text_zh":"敦煌本《壇經》錄校三題","text_en":"敦煌本《壇經》錄校三題 （419）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_052","lb_range":[],"text_zh":"（419）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_053","lb_range":["a003a01","a003a02","a003a03"],"text_zh":"明初的兩部南藏 ——再論從《洪武南藏》到 《永樂南藏》","text_en":"明初的兩部南藏 ——再論從《洪武南藏》到 《永樂南藏》 （443）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_054","lb_range":[],"text_zh":"（443）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_055","lb_range":["a003a04"],"text_zh":"徵稿啟事","text_en":"徵稿啟事 （460）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_056","lb_range":[],"text_zh":"（460）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_057","lb_range":["a003a05","a003a06"],"text_zh":"《藏外佛教文獻》總目錄 （第一輯～第十二輯）","text_en":"《藏外佛教文獻》總目錄 （第一輯～第十二輯） （462）","type":"prose","confidence":1}
+{"unit_id":"ZW10na057_058","lb_range":[],"text_zh":"（462）","text_en":"","type":"prose","confidence":1}

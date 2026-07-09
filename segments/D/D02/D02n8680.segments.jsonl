@@ -1,0 +1,973 @@
+{"source_sha256":"c5d785eaa8f9848859ee20c3074f719b6a91efd121b8e1cfe398a9c8277001d5","schema":"seg-v1"}
+{"unit_id":"D02n8680_001","lb_range":["0001a01","0001a02"],"text_zh":"南无可喜佛","text_en":"佛 󵘸 佛名經卷苐七 南无可喜佛 南无善香 佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_002","lb_range":[],"text_zh":"南无善香佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_003","lb_range":["0001a03"],"text_zh":"南无疾佛","text_en":"南无疾佛 南无妙眼佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_004","lb_range":[],"text_zh":"南无妙眼佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_005","lb_range":["0001a04"],"text_zh":"南无善勝佛","text_en":"南无善勝佛 南无脩義佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_006","lb_range":[],"text_zh":"南无脩義佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_007","lb_range":["0001a05"],"text_zh":"南无善意佛","text_en":"南无善意佛 南无妙意佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_008","lb_range":[],"text_zh":"南无妙意佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_009","lb_range":["0001a06"],"text_zh":"南无金意佛","text_en":"南无金意佛 南无善眼 佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_010","lb_range":[],"text_zh":"南无善眼佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_011","lb_range":["0002a01"],"text_zh":"南无天清淨佛","text_en":"南无天清淨佛 南无輸頭 檀 佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_012","lb_range":[],"text_zh":"南无輸頭檀佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_013","lb_range":["0002a02"],"text_zh":"南无善見佛","text_en":"南无善見佛 南无毗 㽞 羅 佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_014","lb_range":[],"text_zh":"南无毗㽞羅佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_015","lb_range":["0002a03"],"text_zh":"南无毗摟󳑧义佛","text_en":"南无毗摟 󳑧 义佛 南无梵聲 佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_016","lb_range":[],"text_zh":"南无梵聲佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_017","lb_range":["0002a04"],"text_zh":"南无成就勝佛","text_en":"南无成就勝佛 南无勝光明 佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_018","lb_range":[],"text_zh":"南无勝光明佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_019","lb_range":["0002a05"],"text_zh":"南无无垢佛","text_en":"南无无垢佛 南无摩 󵕦 󵘥 陁佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_020","lb_range":[],"text_zh":"南无摩󵕦󵘥陁佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_021","lb_range":["0002a06"],"text_zh":"南无摩梨栺佛","text_en":"南无摩梨栺佛 南无大摩梨指佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_022","lb_range":[],"text_zh":"南无大摩梨指佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_023","lb_range":["0002a07"],"text_zh":"南无能聖佛","text_en":"南无能聖佛 南无聲自在佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_024","lb_range":[],"text_zh":"南无聲自在佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_025","lb_range":["0002a08"],"text_zh":"南无讚歎成就佛","text_en":"南无讚歎成就佛 南无勝成就華佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_026","lb_range":[],"text_zh":"南无勝成就華佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_027","lb_range":["0002a09"],"text_zh":"南无拘蘇摩佛","text_en":"南无拘蘇摩佛 南无不動 佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_028","lb_range":[],"text_zh":"南无不動佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_029","lb_range":["0002a10"],"text_zh":"南无日蔵佛","text_en":"南无日蔵佛 南无樂聲 佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_030","lb_range":[],"text_zh":"南无樂聲佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_031","lb_range":["0003a01"],"text_zh":"南无能作光佛","text_en":"南无能作光佛 南无龍徳 佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_032","lb_range":[],"text_zh":"南无龍徳佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_033","lb_range":["0003a02"],"text_zh":"󷖲此以上五千五百佛十二部經一切賢聖。","text_en":"󷖲 此以上五千五百佛十二部經一切賢 聖 。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_034","lb_range":["0003a03"],"text_zh":"南无金剛光佛","text_en":"南无金剛光佛 南无稱王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_035","lb_range":[],"text_zh":"南无稱王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_036","lb_range":["0003a04"],"text_zh":"南无𮓜王佛","text_en":"南无 𮓜 王佛 南无高光佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_037","lb_range":[],"text_zh":"南无高光佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_038","lb_range":["0003a05"],"text_zh":"南无發行佛","text_en":"南无發行佛 南无智成就佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_039","lb_range":[],"text_zh":"南无智成就佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_040","lb_range":["0003a06"],"text_zh":"南无香自在佛","text_en":"南无香自在佛 南无 𮟯 羅延蔵佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_041","lb_range":[],"text_zh":"南无𮟯羅延蔵佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_042","lb_range":["0003a07"],"text_zh":"南无火蔵佛","text_en":"南无火蔵佛 南无破垢勝王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_043","lb_range":[],"text_zh":"南无破垢勝王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_044","lb_range":["0003a08"],"text_zh":"南无寶盖脫光佛","text_en":"南无寶盖脫光佛 南无山自在王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_045","lb_range":[],"text_zh":"南无山自在王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_046","lb_range":["0003a09"],"text_zh":"南无寶月佛","text_en":"南无寶月佛 南无師子奮迅幢自在","type":"prose","confidence":1}
+{"unit_id":"D02n8680_047","lb_range":[],"text_zh":"南无師子奮迅幢自在","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_048","lb_range":["0003a10"],"text_zh":"南无寶根廣眼佛","text_en":"南无寶根廣眼佛 南无世自在王 佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_049","lb_range":[],"text_zh":"南无世自在王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_050","lb_range":["0003a11"],"text_zh":"南无遠離諸怖畏随煩𢙉聲佛","text_en":"南无遠離諸怖畏随煩 𢙉 聲佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_051","lb_range":["0003a12"],"text_zh":"南无敷華盧舎𮟯佛","text_en":"南无敷華盧舎 𮟯 佛 南无香波頭摩佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_052","lb_range":[],"text_zh":"南无香波頭摩佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_053","lb_range":["0004a01"],"text_zh":"南无无垢功徳威徳王佛","text_en":"南无无垢功徳威徳王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_054","lb_range":["0004a02"],"text_zh":"南无不動佛","text_en":"南无不動佛 南无日蔵佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_055","lb_range":[],"text_zh":"南无日蔵佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_056","lb_range":["0004a03"],"text_zh":"南无樂自在聲大佛","text_en":"南无樂自在聲大佛 南无智日佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_057","lb_range":[],"text_zh":"南无智日佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_058","lb_range":["0004a04"],"text_zh":"南无月蔵佛","text_en":"南无月蔵佛 南无金剛齒佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_059","lb_range":[],"text_zh":"南无金剛齒佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_060","lb_range":["0004a05"],"text_zh":"南无龍吼佛","text_en":"南无龍吼佛 南无勝自在佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_061","lb_range":[],"text_zh":"南无勝自在佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_062","lb_range":["0004a06"],"text_zh":"南无不可思議王佛","text_en":"南无不可思議王佛 南无火勝蔵佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_063","lb_range":[],"text_zh":"南无火勝蔵佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_064","lb_range":["0004a07"],"text_zh":"南无喜幢佛","text_en":"南无喜幢佛 南无无畏自在佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_065","lb_range":[],"text_zh":"南无无畏自在佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_066","lb_range":["0004a08"],"text_zh":"南无見󳇐㽞佛","text_en":"南无見 󳇐 㽞 佛 南无智像佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_067","lb_range":[],"text_zh":"南无智像佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_068","lb_range":["0004a09"],"text_zh":"南无无垢眼佛","text_en":"南无无垢眼佛 南无无憂勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_069","lb_range":[],"text_zh":"南无无憂勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_070","lb_range":["0004a10"],"text_zh":"南无法自在吼佛","text_en":"南无法自在吼佛 南无去自在莎羅王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_071","lb_range":[],"text_zh":"南无去自在莎羅王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_072","lb_range":["0005a01"],"text_zh":"南无師子奮迅佛","text_en":"南无師子奮迅佛 南无 𮟯 羅延佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_073","lb_range":[],"text_zh":"南无𮟯羅延佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_074","lb_range":["0005a02"],"text_zh":"南无善擇蔵佛","text_en":"南无善擇蔵佛 南无寶集佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_075","lb_range":[],"text_zh":"南无寶集佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_076","lb_range":["0005a03"],"text_zh":"南无功徳奮迅佛","text_en":"南无功徳奮迅佛 南无火蔵佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_077","lb_range":[],"text_zh":"南无火蔵佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_078","lb_range":["0005a04"],"text_zh":"南无星𪧐稱佛","text_en":"南无星 𪧐 稱佛 南无功徳力堅固王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_079","lb_range":[],"text_zh":"南无功徳力堅固王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_080","lb_range":["0005a05"],"text_zh":"南无妙吼聲奮迅佛","text_en":"南无妙吼聲奮迅佛 南无莎羅勝點王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_081","lb_range":[],"text_zh":"南无莎羅勝點王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_082","lb_range":["0005a06"],"text_zh":"南无威徳自在光眀佛","text_en":"南无威徳自在光眀佛 南无妙聲吼佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_083","lb_range":[],"text_zh":"南无妙聲吼佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_084","lb_range":["0005a07"],"text_zh":"南无寶掌龍自在","text_en":"南无寶掌龍自在 南无法雲吼自在平 󵓕 佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_085","lb_range":[],"text_zh":"南无法雲吼自在平󵓕佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_086","lb_range":["0005a08"],"text_zh":"南无寶山佛","text_en":"南无寶山佛 南无妙光蔵佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_087","lb_range":[],"text_zh":"南无妙光蔵佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_088","lb_range":["0005a09"],"text_zh":"南无師子脩多羅佛","text_en":"南无師子脩多羅佛 南无普蔵佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_089","lb_range":[],"text_zh":"南无普蔵佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_090","lb_range":["0005a10"],"text_zh":"南无淨華佛","text_en":"南无淨華佛 南无歌羅毗羅奮迅佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_091","lb_range":[],"text_zh":"南无歌羅毗羅奮迅佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_092","lb_range":["0005a11"],"text_zh":"南无法疾然燈佛","text_en":"南无法疾然燈佛 南无无 󵓕 上 󳇐 㽞 佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_093","lb_range":[],"text_zh":"南无无󵓕上󳇐㽞佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_094","lb_range":["0006a01"],"text_zh":"南无稱聲王佛","text_en":"南无稱聲王佛 南无梵諦釋聲佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_095","lb_range":[],"text_zh":"南无梵諦釋聲佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_096","lb_range":["0006a02"],"text_zh":"南无遠離逼惚佛","text_en":"南无遠離逼惚佛 南无毗沙門堅固王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_097","lb_range":[],"text_zh":"南无毗沙門堅固王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_098","lb_range":["0006a03"],"text_zh":"南无破摩王宮佛","text_en":"南无破摩王宮佛 南无莎羅王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_099","lb_range":[],"text_zh":"南无莎羅王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_100","lb_range":["0006a04"],"text_zh":"南无大奮迅光佛","text_en":"南无大奮迅光佛 南无華勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_101","lb_range":[],"text_zh":"南无華勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_102","lb_range":["0006a05"],"text_zh":"南无旃檀佛","text_en":"南无旃 檀 佛 南无 󳇐 㽞 王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_103","lb_range":[],"text_zh":"南无󳇐㽞王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_104","lb_range":["0006a06"],"text_zh":"南无拘羅伽堅固樹提佛","text_en":"南无拘羅伽堅固樹提佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_105","lb_range":["0006a07"],"text_zh":"南无智奮迅佛","text_en":"南无智奮迅佛 南无二万同名月然燈佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_106","lb_range":[],"text_zh":"南无二万同名月然燈佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_107","lb_range":["0006a08"],"text_zh":"南无无垢身佛","text_en":"南无无垢身佛 南无波頭摩光佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_108","lb_range":[],"text_zh":"南无波頭摩光佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_109","lb_range":["0006a09"],"text_zh":"南无華勝𡵯佛","text_en":"南无華勝 𡵯 佛 南无華光佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_110","lb_range":[],"text_zh":"南无華光佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_111","lb_range":["0006a10"],"text_zh":"南无稱幢佛","text_en":"南无稱幢佛 南无 𨵻 浮 檀 金光佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_112","lb_range":[],"text_zh":"南无𨵻浮檀金光佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_113","lb_range":["0007a01"],"text_zh":"南无多摩羅󵘥葉栴檀香佛","text_en":"南无多摩羅 󵘥 葉 栴檀 香佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_114","lb_range":["0007a02"],"text_zh":"南无大道智勝佛","text_en":"南无大道智勝佛 南无不動佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_115","lb_range":[],"text_zh":"南无不動佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_116","lb_range":["0007a03"],"text_zh":"南无󳇐㽞山佛","text_en":"南无 󳇐 㽞 山佛 南无師子吼佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_117","lb_range":[],"text_zh":"南无師子吼佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_118","lb_range":["0007a04"],"text_zh":"南无師子幢佛","text_en":"南无師子幢佛 南无住虚空佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_119","lb_range":[],"text_zh":"南无住虚空佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_120","lb_range":["0007a05"],"text_zh":"南无常入涅槃佛","text_en":"南无常入涅槃佛 南无帝釋幢佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_121","lb_range":[],"text_zh":"南无帝釋幢佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_122","lb_range":["0007a06"],"text_zh":"南无梵幢佛","text_en":"南无梵幢佛 南无无量壽佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_123","lb_range":[],"text_zh":"南无无量壽佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_124","lb_range":["0007a07"],"text_zh":"南无善度佛","text_en":"南无善度佛 南无雲燈佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_125","lb_range":[],"text_zh":"南无雲燈佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_126","lb_range":["0007a08"],"text_zh":"南无󳇐㽞刧佛","text_en":"南无 󳇐 㽞 刧佛 南无多羅摩 󵘥 葉旃 檀","type":"prose","confidence":1}
+{"unit_id":"D02n8680_127","lb_range":[],"text_zh":"南无多羅摩󵘥葉旃檀","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_128","lb_range":["0007a09"],"text_zh":"南无雲自在王佛","text_en":"南无雲自在王佛 南无一切世間高佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_129","lb_range":[],"text_zh":"南无一切世間高佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_130","lb_range":["0007a10"],"text_zh":"南无能破諸畏佛","text_en":"南无能破諸畏佛 南无 𥼶 迦牟 󵕦 佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_131","lb_range":[],"text_zh":"南无𥼶迦牟󵕦佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_132","lb_range":["0007a11"],"text_zh":"南无法光眀佛","text_en":"南无法光眀佛 南无五百普光眀佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_133","lb_range":[],"text_zh":"南无五百普光眀佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_134","lb_range":["0008a01"],"text_zh":"󷖲此以上五千六百佛十二部經一切賢聖。","text_en":"󷖲 此以上五千六百佛十二部經一切賢聖。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_135","lb_range":["0008a02"],"text_zh":"南无大海住持智奮迅通佛","text_en":"南无大海住持智奮迅通佛 南无七寶波頭摩 𡵯 佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_136","lb_range":[],"text_zh":"南无七寶波頭摩𡵯佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_137","lb_range":["0008a03"],"text_zh":"南无二千寶幢佛","text_en":"南无二千寶幢佛 南无多寶佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_138","lb_range":[],"text_zh":"南无多寶佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_139","lb_range":["0008a04"],"text_zh":"南无一切眾生愛見佛","text_en":"南无一切眾生愛見佛 南无百千光眀滿 󷖵 幢佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_140","lb_range":[],"text_zh":"南无百千光眀滿󷖵幢佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_141","lb_range":["0008a05"],"text_zh":"南无二千億千驚怖吼聲","text_en":"南无二千億千驚怖吼聲 南无二十億百日月然燈佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_142","lb_range":[],"text_zh":"南无二十億百日月然燈佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_143","lb_range":["0008a06"],"text_zh":"南无二十億百妙聲王佛","text_en":"南无二十億百妙聲王佛 南无二十億百雲聲王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_144","lb_range":[],"text_zh":"南无二十億百雲聲王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_145","lb_range":["0008a07"],"text_zh":"南无寶威徳高王佛","text_en":"南无寶威徳高王佛 南无月光无垢日光眀勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_146","lb_range":[],"text_zh":"南无月光无垢日光眀勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_147","lb_range":["0008a08"],"text_zh":"南无蓮花葉星𪧐王花通佛","text_en":"南无蓮花葉星 𪧐 王花通佛 南无雲妙皷聲王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_148","lb_range":[],"text_zh":"南无雲妙皷聲王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_149","lb_range":["0008a09"],"text_zh":"南无住持水吼聲妙聲星𪧐王拘蘇摩通佛","text_en":"南无住持水吼聲妙聲星 𪧐 王拘蘇摩通佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_150","lb_range":["0008a10"],"text_zh":"南无莎羅樹王佛","text_en":"南无莎羅樹王佛 南无无垢光眀佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_151","lb_range":[],"text_zh":"南无无垢光眀佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_152","lb_range":["0009a01"],"text_zh":"南无寶炎佛","text_en":"南无寶炎佛 南无華 󵖋 林王華通佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_153","lb_range":[],"text_zh":"南无華󵖋林王華通佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_154","lb_range":["0009a02"],"text_zh":"南无日月寶作光眀佛","text_en":"南无日月寶作光眀佛 南无功徳寶光眀佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_155","lb_range":[],"text_zh":"南无功徳寶光眀佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_156","lb_range":["0009a03"],"text_zh":"南无寶杖佛","text_en":"南无寶杖佛 南无雲王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_157","lb_range":[],"text_zh":"南无雲王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_158","lb_range":["0009a04"],"text_zh":"南无寶盖勝光眀佛","text_en":"南无寶盖勝光眀佛 南无普見佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_159","lb_range":[],"text_zh":"南无普見佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_160","lb_range":["0009a05"],"text_zh":"南无功徳自在佛","text_en":"南无功徳自在佛 南无師子聲作佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_161","lb_range":[],"text_zh":"南无師子聲作佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_162","lb_range":["0009a06"],"text_zh":"南无寶積示現佛","text_en":"南无寶積示現佛 南无樂堅佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_163","lb_range":[],"text_zh":"南无樂堅佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_164","lb_range":["0009a07"],"text_zh":"南无菩提意佛","text_en":"南无菩提意佛 南无量命佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_165","lb_range":[],"text_zh":"南无量命佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_166","lb_range":["0009a08"],"text_zh":"南无阿閦佛","text_en":"南无阿閦佛 南无香王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_167","lb_range":[],"text_zh":"南无香王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_168","lb_range":["0009a09"],"text_zh":"南无寶作佛","text_en":"南无寶作佛 南无脩行法王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_169","lb_range":[],"text_zh":"南无脩行法王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_170","lb_range":["0009a10"],"text_zh":"南无盖王佛","text_en":"南无盖王佛 南无摩 󵕦 王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_171","lb_range":[],"text_zh":"南无摩󵕦王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_172","lb_range":["0009a11"],"text_zh":"南无月蔵佛","text_en":"南无月蔵佛 南无日蔵佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_173","lb_range":[],"text_zh":"南无日蔵佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_174","lb_range":["0010a01"],"text_zh":"南无聲身王佛","text_en":"南无聲身王佛 南无善覺佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_175","lb_range":[],"text_zh":"南无善覺佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_176","lb_range":["0010a02"],"text_zh":"南无湏󳇐刧佛","text_en":"南无湏 󳇐 刧佛 南无能聖佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_177","lb_range":[],"text_zh":"南无能聖佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_178","lb_range":["0010a03"],"text_zh":"南无寶波頭摩月淨勝王佛","text_en":"南无寶波頭摩月淨勝王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_179","lb_range":["0010a04"],"text_zh":"南无不動佛","text_en":"南无不動佛 南无普滿佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_180","lb_range":[],"text_zh":"南无普滿佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_181","lb_range":["0010a05"],"text_zh":"南无盡慧佛","text_en":"南无盡慧佛 南无寶幢佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_182","lb_range":[],"text_zh":"南无寶幢佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_183","lb_range":["0010a06"],"text_zh":"南无奮迅恭敬稱佛","text_en":"南无奮迅恭敬稱佛 南无无垢光眀蔵佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_184","lb_range":[],"text_zh":"南无无垢光眀蔵佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_185","lb_range":["0010a07"],"text_zh":"南无雲護佛","text_en":"南无雲護佛 南无師子奮迅佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_186","lb_range":[],"text_zh":"南无師子奮迅佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_187","lb_range":["0010a08"],"text_zh":"南无勝高山王佛","text_en":"南无勝高山王佛 南无波頭摩上佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_188","lb_range":[],"text_zh":"南无波頭摩上佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_189","lb_range":["0010a09"],"text_zh":"南无身上佛","text_en":"南无身上佛 南无多寶妙佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_190","lb_range":[],"text_zh":"南无多寶妙佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_191","lb_range":["0010a10"],"text_zh":"南无勝蔵山增上王佛","text_en":"南无勝蔵山增上王佛 南无意勇猛仙行勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_192","lb_range":[],"text_zh":"南无意勇猛仙行勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_193","lb_range":["0011a01"],"text_zh":"南无甘露蔵佛","text_en":"南无甘露蔵佛 南无妙皷聲王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_194","lb_range":[],"text_zh":"南无妙皷聲王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_195","lb_range":["0011a02"],"text_zh":"南无日月佛","text_en":"南无日月佛 南无唯寶盖佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_196","lb_range":[],"text_zh":"南无唯寶盖佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_197","lb_range":["0011a03"],"text_zh":"南无普光眀奮迅光","text_en":"南无普光眀奮迅光 南无能行成就聖佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_198","lb_range":[],"text_zh":"南无能行成就聖佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_199","lb_range":["0011a04"],"text_zh":"南无不動佛","text_en":"南无不動佛 南无无垢光眀稱王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_200","lb_range":[],"text_zh":"南无无垢光眀稱王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_201","lb_range":["0011a05"],"text_zh":"南无九十法㽵嚴佛","text_en":"南无九十法 㽵 嚴佛 南无摩 󵕦 金盖佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_202","lb_range":[],"text_zh":"南无摩󵕦金盖佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_203","lb_range":["0011a06"],"text_zh":"南无星𪧐佛","text_en":"南无星 𪧐 佛 南无高山歡喜佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_204","lb_range":[],"text_zh":"南无高山歡喜佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_205","lb_range":["0011a07"],"text_zh":"南无菩提分華身佛","text_en":"南无菩提分華身佛 南无如寶佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_206","lb_range":[],"text_zh":"南无如寶佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_207","lb_range":["0011a08"],"text_zh":"南无寶作佛","text_en":"南无寶作佛 南无能脩行佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_208","lb_range":[],"text_zh":"南无能脩行佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_209","lb_range":["0011a09"],"text_zh":"南无高聚佛","text_en":"南无高聚佛 南无寶光眀佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_210","lb_range":[],"text_zh":"南无寶光眀佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_211","lb_range":["0011a10"],"text_zh":"南无寶來佛","text_en":"南无寶來佛 南无寶高佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_212","lb_range":[],"text_zh":"南无寶高佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_213","lb_range":["0011a11"],"text_zh":"南无阿閦佛","text_en":"南无阿閦佛 南无寶光眀佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_214","lb_range":[],"text_zh":"南无寶光眀佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_215","lb_range":["0012a01"],"text_zh":"南无大光眀佛","text_en":"南无大光眀佛 南无不可量聲佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_216","lb_range":[],"text_zh":"南无不可量聲佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_217","lb_range":["0012a02"],"text_zh":"南无不可思議聲佛","text_en":"南无不可思議聲佛 南无大稱佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_218","lb_range":[],"text_zh":"南无大稱佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_219","lb_range":["0012a03"],"text_zh":"南无寶照佛","text_en":"南无寶照佛 南无得大无畏佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_220","lb_range":[],"text_zh":"南无得大无畏佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_221","lb_range":["0012a04"],"text_zh":"南无寶聲佛","text_en":"南无寶聲佛 南无无邊清淨佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_222","lb_range":[],"text_zh":"南无无邊清淨佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_223","lb_range":["0012a05"],"text_zh":"南无月聲佛","text_en":"南无月聲佛 南无无邊稱佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_224","lb_range":[],"text_zh":"南无无邊稱佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_225","lb_range":["0012a06"],"text_zh":"南无月光清淨佛","text_en":"南无月光清淨佛 南无清淨光佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_226","lb_range":[],"text_zh":"南无清淨光佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_227","lb_range":["0012a07"],"text_zh":"南无无垢光佛","text_en":"南无无垢光佛 南无无邊寶佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_228","lb_range":[],"text_zh":"南无无邊寶佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_229","lb_range":["0012a08"],"text_zh":"南无波頭摩勝佛","text_en":"南无波頭摩勝佛 南无身勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_230","lb_range":[],"text_zh":"南无身勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_231","lb_range":["0012a09"],"text_zh":"南无金色佛","text_en":"南无金色佛 南无梵聲王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_232","lb_range":[],"text_zh":"南无梵聲王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_233","lb_range":["0012a10"],"text_zh":"南无金光眀佛","text_en":"南无金光眀佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_234","lb_range":["0013a01"],"text_zh":"󷖲此以上五千七百佛十二部經一切賢聖。","text_en":"󷖲 此以上五千七百佛十二部經一切賢聖。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_235","lb_range":["0013a02"],"text_zh":"南无金色作佛","text_en":"南无金色作佛 南无龍自在王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_236","lb_range":[],"text_zh":"南无龍自在王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_237","lb_range":["0013a03"],"text_zh":"南无金色華香自在王佛","text_en":"南无金色華香自在王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_238","lb_range":["0013a04"],"text_zh":"南无堅固王佛","text_en":"南无堅固王佛 南无堅固勇仙行勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_239","lb_range":[],"text_zh":"南无堅固勇仙行勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_240","lb_range":["0013a05"],"text_zh":"南无勝蔵摩󵕦光佛","text_en":"南无勝蔵摩 󵕦 光佛 南无无量香光佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_241","lb_range":[],"text_zh":"南无无量香光佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_242","lb_range":["0013a06"],"text_zh":"南无師子吼聲佛","text_en":"南无師子吼聲佛 南无大勢至精進脩行畢","type":"prose","confidence":1}
+{"unit_id":"D02n8680_243","lb_range":[],"text_zh":"南无大勢至精進脩行畢","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_244","lb_range":["0013a07"],"text_zh":"南无堅固智佛","text_en":"南无堅固智佛 南无妙皷聲王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_245","lb_range":[],"text_zh":"南无妙皷聲王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_246","lb_range":["0013a08"],"text_zh":"南无月妙佛","text_en":"南无月妙佛 南无華勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_247","lb_range":[],"text_zh":"南无華勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_248","lb_range":["0013a09"],"text_zh":"南无世間燈佛","text_en":"南无世 間 燈佛 南无火佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_249","lb_range":[],"text_zh":"南无火佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_250","lb_range":["0013a10"],"text_zh":"南无寶輪佛","text_en":"南无寶輪佛 南无无垢智佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_251","lb_range":[],"text_zh":"南无无垢智佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_252","lb_range":["0014a01"],"text_zh":"南无常寂滅佛","text_en":"南无常寂滅佛 南无无邊寶化光眀佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_253","lb_range":[],"text_zh":"南无无邊寶化光眀佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_254","lb_range":["0014a02"],"text_zh":"南无湏󳇐山奮迅佛","text_en":"南无湏 󳇐 山奮迅佛 南无寶華佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_255","lb_range":[],"text_zh":"南无寶華佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_256","lb_range":["0014a03"],"text_zh":"南无集寶聚佛","text_en":"南无集寶聚佛 南无不退輪寶住勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_257","lb_range":[],"text_zh":"南无不退輪寶住勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_258","lb_range":["0014a04"],"text_zh":"南无徳普盧舎𮟯清淨佛","text_en":"南无徳普盧舎 𮟯 清淨佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_259","lb_range":["0014a05"],"text_zh":"南无日月燈佛","text_en":"南无日月燈佛 南无迷 㽞 佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_260","lb_range":[],"text_zh":"南无迷㽞佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_261","lb_range":["0014a06"],"text_zh":"南无大󳇐㽞佛","text_en":"南无大 󳇐 㽞 佛 南无湏 󳇐 刧佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_262","lb_range":[],"text_zh":"南无湏󳇐刧佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_263","lb_range":["0014a07"],"text_zh":"南无香面佛","text_en":"南无香面佛 南无成就香佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_264","lb_range":[],"text_zh":"南无成就香佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_265","lb_range":["0014a08"],"text_zh":"南无󳇐㽞香佛","text_en":"南无 󳇐 㽞 香佛 南无清淨光佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_266","lb_range":[],"text_zh":"南无清淨光佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_267","lb_range":["0014a09"],"text_zh":"南无法上佛","text_en":"南无法上佛 南无香自在王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_268","lb_range":[],"text_zh":"南无香自在王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_269","lb_range":["0014a10"],"text_zh":"南无大摩󵕦佛","text_en":"南无大摩 󵕦 佛 南无香光佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_270","lb_range":[],"text_zh":"南无香光佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_271","lb_range":["0015a01"],"text_zh":"南无火光佛","text_en":"南无火光佛 南无甘露光佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_272","lb_range":[],"text_zh":"南无甘露光佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_273","lb_range":["0015a02"],"text_zh":"南无月光佛","text_en":"南无月光佛 南无月燈佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_274","lb_range":[],"text_zh":"南无月燈佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_275","lb_range":["0015a03"],"text_zh":"南无月照佛","text_en":"南无月照佛 南无月聲佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_276","lb_range":[],"text_zh":"南无月聲佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_277","lb_range":["0015a04"],"text_zh":"南无勝作佛","text_en":"南无勝作佛 南无多寶佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_278","lb_range":[],"text_zh":"南无多寶佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_279","lb_range":["0015a05"],"text_zh":"南无師子吼佛","text_en":"南无師子吼佛 南无師子聲佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_280","lb_range":[],"text_zh":"南无師子聲佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_281","lb_range":["0015a06"],"text_zh":"南无勇猛仙佛","text_en":"南无勇猛仙佛 南无金剛喜佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_282","lb_range":[],"text_zh":"南无金剛喜佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_283","lb_range":["0015a07"],"text_zh":"南无護一切佛","text_en":"南无護一切佛 南无離諸疑佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_284","lb_range":[],"text_zh":"南无離諸疑佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_285","lb_range":["0015a08"],"text_zh":"南无寶炎眷属佛","text_en":"南无寶炎眷属佛 南无无憂佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_286","lb_range":[],"text_zh":"南无无憂佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_287","lb_range":["0015a09"],"text_zh":"南无住持速力佛","text_en":"南无住持速力佛 南无妙喜佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_288","lb_range":[],"text_zh":"南无妙喜佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_289","lb_range":["0015a10"],"text_zh":"南无自在作佛","text_en":"南无自在作佛 南无无邊聲佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_290","lb_range":[],"text_zh":"南无无邊聲佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_291","lb_range":["0016a01"],"text_zh":"南无然燈作佛","text_en":"南无然燈作佛 南无寶光眀佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_292","lb_range":[],"text_zh":"南无寶光眀佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_293","lb_range":["0016a02"],"text_zh":"南无阿󳇐陁佛","text_en":"南无阿 󳇐 陁佛 南无釋 󵘸 佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_294","lb_range":[],"text_zh":"南无釋󵘸佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_295","lb_range":["0016a03"],"text_zh":"南无擇聲佛","text_en":"南无擇聲佛 南无勝蔵積吼王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_296","lb_range":[],"text_zh":"南无勝蔵積吼王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_297","lb_range":["0016a04"],"text_zh":"南无降伏金剛堅佛","text_en":"南无降伏金剛堅佛 南无寶月光佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_298","lb_range":[],"text_zh":"南无寶月光佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_299","lb_range":["0016a05"],"text_zh":"南无寶火佛","text_en":"南无寶火佛 南无賢上佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_300","lb_range":[],"text_zh":"南无賢上佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_301","lb_range":["0016a06"],"text_zh":"南无寶波頭摩𡵯佛","text_en":"南无寶波頭摩 𡵯 佛 南无寶勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_302","lb_range":[],"text_zh":"南无寶勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_303","lb_range":["0016a07"],"text_zh":"南无金寶光佛","text_en":"南无金寶光佛 南无怖喜快勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_304","lb_range":[],"text_zh":"南无怖喜快勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_305","lb_range":["0016a08"],"text_zh":"南无不可量勝佛","text_en":"南无不可量勝佛 南无善逝王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_306","lb_range":[],"text_zh":"南无善逝王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_307","lb_range":["0016a09"],"text_zh":"南无聖自在手佛","text_en":"南无聖自在手佛 南无不可 󵘸 分別佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_308","lb_range":[],"text_zh":"南无不可󵘸分別佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_309","lb_range":["0016a10"],"text_zh":"南无不空勝佛","text_en":"南无不空勝佛 南无月妙勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_310","lb_range":[],"text_zh":"南无月妙勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_311","lb_range":["0017a01"],"text_zh":"南无樹提勝佛","text_en":"南无樹提勝佛 南无虚空光眀佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_312","lb_range":[],"text_zh":"南无虚空光眀佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_313","lb_range":["0017a02"],"text_zh":"南无善清淨无垢間錯","text_en":"南无善清淨无垢間錯 南无善住善根蔵王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_314","lb_range":[],"text_zh":"南无善住善根蔵王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_315","lb_range":["0017a03"],"text_zh":"南无成就一切勝佛","text_en":"南无成就一切勝佛 南无智功徳清淨勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_316","lb_range":[],"text_zh":"南无智功徳清淨勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_317","lb_range":["0017a04"],"text_zh":"南无善󵘸清淨幢佛","text_en":"南无善 󵘸 清淨幢佛 南无琉璃蔵上勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_318","lb_range":[],"text_zh":"南无琉璃蔵上勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_319","lb_range":["0017a05"],"text_zh":"南无普功徳奮迅佛","text_en":"南无普功徳奮迅佛 南无善清淨功徳寶佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_320","lb_range":[],"text_zh":"南无善清淨功徳寶佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_321","lb_range":["0017a06"],"text_zh":"南无寶光眀清淨心","text_en":"南无寶光眀清淨心 南无金上勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_322","lb_range":[],"text_zh":"南无金上勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_323","lb_range":["0017a07"],"text_zh":"南无勝月佛","text_en":"南无勝月佛 南无波頭摩上奮迅","type":"prose","confidence":1}
+{"unit_id":"D02n8680_324","lb_range":[],"text_zh":"南无波頭摩上奮迅","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_325","lb_range":["0017a08"],"text_zh":"南无波頭摩上佛","text_en":"南无波頭摩上佛 南无寶成就勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_326","lb_range":[],"text_zh":"南无寶成就勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_327","lb_range":["0017a09"],"text_zh":"南无電光幢王佛","text_en":"南无電光幢王佛 南无電光眀高王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_328","lb_range":[],"text_zh":"南无電光眀高王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_329","lb_range":["0017a10"],"text_zh":"南无多羅王佛","text_en":"南无多羅王佛 南无妙勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_330","lb_range":[],"text_zh":"南无妙勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_331","lb_range":["0018a01"],"text_zh":"南无虚空然燈佛","text_en":"南无虚空然燈佛 南无成就一切功徳佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_332","lb_range":[],"text_zh":"南无成就一切功徳佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_333","lb_range":["0018a02"],"text_zh":"南无賢高幢王佛","text_en":"南无賢高幢王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_334","lb_range":["0018a03"],"text_zh":"󷖲此以上五千八百佛十二部經一切賢聖。","text_en":"󷖲 此以上五千八百佛十二部經一切賢聖。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_335","lb_range":["0018a04"],"text_zh":"南无住持一切寶間錯㽵嚴佛","text_en":"南无住持一切寶間錯 㽵 嚴佛 南无俱湏摩火奮迅通佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_336","lb_range":[],"text_zh":"南无俱湏摩火奮迅通佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_337","lb_range":["0018a05"],"text_zh":"南无寶光月㽵嚴智威徳聲自在王佛","text_en":"南无寶光月 㽵 嚴智威徳聲自在王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_338","lb_range":["0018a06"],"text_zh":"南无敷華莎羅王佛","text_en":"南无敷華莎羅王佛 南无月輪清淨佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_339","lb_range":[],"text_zh":"南无月輪清淨佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_340","lb_range":["0018a07"],"text_zh":"南无善寂智月聲自在王佛","text_en":"南无善寂智月聲自在王佛 南无阿僧祇精進住勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_341","lb_range":[],"text_zh":"南无阿僧祇精進住勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_342","lb_range":["0018a08"],"text_zh":"南无彼心炎佛","text_en":"南无彼心炎佛 南无山功徳幢王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_343","lb_range":[],"text_zh":"南无山功徳幢王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_344","lb_range":["0018a09"],"text_zh":"南无法幢上佛","text_en":"南无法幢上佛 南无湏 󳇐 山佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_345","lb_range":[],"text_zh":"南无湏󳇐山佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_346","lb_range":["0018a10"],"text_zh":"南无功徳師子自在佛","text_en":"南无功徳師子自在佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_347","lb_range":["0019a01"],"text_zh":"南无寂王佛","text_en":"南无寂王佛 南无淨王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_348","lb_range":[],"text_zh":"南无淨王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_349","lb_range":["0019a02"],"text_zh":"南无稱王佛","text_en":"南无稱王佛 南无功徳湏 󳇐 勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_350","lb_range":[],"text_zh":"南无功徳湏󳇐勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_351","lb_range":["0019a03"],"text_zh":"南无日佛","text_en":"南无日佛 南无月靣佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_352","lb_range":[],"text_zh":"南无月靣佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_353","lb_range":["0019a04"],"text_zh":"南无離虚空畏佛","text_en":"南无離虚空畏佛 南无普光佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_354","lb_range":[],"text_zh":"南无普光佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_355","lb_range":["0019a05"],"text_zh":"南无方成佛","text_en":"南无方成佛 南无住海靣佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_356","lb_range":[],"text_zh":"南无住海靣佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_357","lb_range":["0019a06"],"text_zh":"南无寶光佛","text_en":"南无寶光佛 南无雲勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_358","lb_range":[],"text_zh":"南无雲勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_359","lb_range":["0019a07"],"text_zh":"南无法炎佛","text_en":"南无法炎佛 南无山功徳佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_360","lb_range":[],"text_zh":"南无山功徳佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_361","lb_range":["0019a08"],"text_zh":"南无華生佛","text_en":"南无華生佛 南无悲佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_362","lb_range":[],"text_zh":"南无悲佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_363","lb_range":["0019a09"],"text_zh":"南无法界華佛","text_en":"南无法界華佛 南无華幢佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_364","lb_range":[],"text_zh":"南无華幢佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_365","lb_range":["0019a10"],"text_zh":"南无王意佛","text_en":"南无王意佛 南无王恵佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_366","lb_range":[],"text_zh":"南无王恵佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_367","lb_range":["0020a01"],"text_zh":"南无智慧佛","text_en":"南无智慧佛 南无心義佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_368","lb_range":[],"text_zh":"南无心義佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_369","lb_range":["0020a02"],"text_zh":"南无自在佛","text_en":"南无自在佛 南无勝天意佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_370","lb_range":[],"text_zh":"南无勝天意佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_371","lb_range":["0020a03"],"text_zh":"南无速為佛","text_en":"南无速為佛 南无光眀幢勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_372","lb_range":[],"text_zh":"南无光眀幢勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_373","lb_range":["0020a04"],"text_zh":"南无高威徳去佛","text_en":"南无高威徳去佛 南无華佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_374","lb_range":[],"text_zh":"南无華佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_375","lb_range":["0020a05"],"text_zh":"南无寶炎佛","text_en":"南无寶炎佛 南无功徳山佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_376","lb_range":[],"text_zh":"南无功徳山佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_377","lb_range":["0020a06"],"text_zh":"南无寶實佛","text_en":"南无寶實佛 南无功徳海勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_378","lb_range":[],"text_zh":"南无功徳海勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_379","lb_range":["0020a07"],"text_zh":"南无法光眀佛","text_en":"南无法光眀佛 南无華蔵勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_380","lb_range":[],"text_zh":"南无華蔵勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_381","lb_range":["0020a08"],"text_zh":"南无世間月佛","text_en":"南无世間月佛 南无眼目佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_382","lb_range":[],"text_zh":"南无眼目佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_383","lb_range":["0020a09"],"text_zh":"南无香光佛","text_en":"南无香光佛 南无摩 󵕦 湏 󳇐 勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_384","lb_range":[],"text_zh":"南无摩󵕦湏󳇐勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_385","lb_range":["0020a10"],"text_zh":"南无乹闥婆王佛","text_en":"南无乹闥婆王佛 南无光眀命佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_386","lb_range":[],"text_zh":"南无光眀命佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_387","lb_range":["0021a01"],"text_zh":"南无摩󵕦蔵王佛","text_en":"南无摩 󵕦 蔵王佛 南无山威徳恵佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_388","lb_range":[],"text_zh":"南无山威徳恵佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_389","lb_range":["0021a02"],"text_zh":"南无寂色去佛","text_en":"南无寂色去佛 南无靣報佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_390","lb_range":[],"text_zh":"南无靣報佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_391","lb_range":["0021a03"],"text_zh":"南无廣智佛","text_en":"南无廣智佛 南无寶光眀佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_392","lb_range":[],"text_zh":"南无寶光眀佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_393","lb_range":["0021a04"],"text_zh":"南无虚空重勝佛","text_en":"南无虚空重勝佛 南无妙相光眀佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_394","lb_range":[],"text_zh":"南无妙相光眀佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_395","lb_range":["0021a05"],"text_zh":"南无行佛","text_en":"南无行佛 南无身自在佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_396","lb_range":[],"text_zh":"南无身自在佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_397","lb_range":["0021a06"],"text_zh":"南无𮟯羅延行佛","text_en":"南无 𮟯 羅延行佛 南无湏 󳇐 勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_398","lb_range":[],"text_zh":"南无湏󳇐勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_399","lb_range":["0021a07"],"text_zh":"南无功徳轉輪佛","text_en":"南无功徳轉輪佛 南无山王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_400","lb_range":[],"text_zh":"南无山王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_401","lb_range":["0021a08"],"text_zh":"南无不可勝佛","text_en":"南无不可勝佛 南无快威徳佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_402","lb_range":[],"text_zh":"南无快威徳佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_403","lb_range":["0021a09"],"text_zh":"南无樹山佛","text_en":"南无樹山佛 南无莎羅王山蔵佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_404","lb_range":[],"text_zh":"南无莎羅王山蔵佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_405","lb_range":["0021a10"],"text_zh":"南无世自在身佛","text_en":"南无世自在身佛 南无鏡光佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_406","lb_range":[],"text_zh":"南无鏡光佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_407","lb_range":["0022a01"],"text_zh":"南无實𧺫佛","text_en":"南无實 𧺫 佛 南无自在勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_408","lb_range":[],"text_zh":"南无自在勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_409","lb_range":["0022a02"],"text_zh":"南无功徳光佛","text_en":"南无功徳光佛 南无地威徳勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_410","lb_range":[],"text_zh":"南无地威徳勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_411","lb_range":["0022a03"],"text_zh":"南无身法光眀佛","text_en":"南无身法光眀佛 南无勝王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_412","lb_range":[],"text_zh":"南无勝王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_413","lb_range":["0022a04"],"text_zh":"南无堅吼意佛","text_en":"南无堅吼意佛 南无高幢勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_414","lb_range":[],"text_zh":"南无高幢勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_415","lb_range":["0022a05"],"text_zh":"南无信意佛","text_en":"南无信意佛 南无寶光眀佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_416","lb_range":[],"text_zh":"南无寶光眀佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_417","lb_range":["0022a06"],"text_zh":"南无淨勝佛","text_en":"南无淨勝佛 南无虚空聲佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_418","lb_range":[],"text_zh":"南无虚空聲佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_419","lb_range":["0022a07"],"text_zh":"南无法界鏡像勝佛","text_en":"南无法界鏡像勝佛 南无照輪光眀佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_420","lb_range":[],"text_zh":"南无照輪光眀佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_421","lb_range":["0022a08"],"text_zh":"次礼十二部尊經大蔵法輪。","text_en":"次礼十二部尊經大蔵法輪。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_422","lb_range":["0022a09"],"text_zh":"南无𮟯頼經","text_en":"南无 𮟯 頼經 南无觧日隘神呪經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_423","lb_range":[],"text_zh":"南无觧日隘神呪經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_424","lb_range":["0022a10"],"text_zh":"南无邪業自活經","text_en":"南无 邪 業自活經 南无八関齋經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_425","lb_range":[],"text_zh":"南无八関齋經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_426","lb_range":["0023a01"],"text_zh":"南无八陽神呪經","text_en":"南无八陽神呪經 南无八部佛名經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_427","lb_range":[],"text_zh":"南无八部佛名經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_428","lb_range":["0023a02"],"text_zh":"南无和利長者所問經","text_en":"南无和利長者所問經 南无佛心捴持經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_429","lb_range":[],"text_zh":"南无佛心捴持經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_430","lb_range":["0023a03"],"text_zh":"南无降棄魔菩󴅽經","text_en":"南无降棄魔菩 󴅽 經 南无難日經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_431","lb_range":[],"text_zh":"南无難日經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_432","lb_range":["0023a04"],"text_zh":"南无釋摩男經","text_en":"南无釋摩男經 南无度護法經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_433","lb_range":[],"text_zh":"南无度護法經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_434","lb_range":["0023a05"],"text_zh":"南无分別經","text_en":"南无分別經 南无相國阿羅訶公經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_435","lb_range":[],"text_zh":"南无相國阿羅訶公經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_436","lb_range":["0023a06"],"text_zh":"󷖲此以上五千九百佛十二部經一切賢聖。","text_en":"󷖲 此以上五千九百佛十二部經一切賢聖。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_437","lb_range":["0023a07"],"text_zh":"南无呪時氣病經","text_en":"南无呪時氣病經 南无迦旃延无常經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_438","lb_range":[],"text_zh":"南无迦旃延无常經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_439","lb_range":["0023a08"],"text_zh":"南无施色力經","text_en":"南无施色力經 南无呪水經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_440","lb_range":[],"text_zh":"南无呪水經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_441","lb_range":["0023a09"],"text_zh":"南无呪小兒病經","text_en":"南无呪小兒病經 南无馬有八 態 經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_442","lb_range":[],"text_zh":"南无馬有八態經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_443","lb_range":["0023a10"],"text_zh":"南无悔過經","text_en":"南无悔過經 南无三十七品經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_444","lb_range":[],"text_zh":"南无三十七品經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_445","lb_range":["0024a01"],"text_zh":"南无長者子本意經","text_en":"南无長者子本意經 南无現 󱇈 万守經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_446","lb_range":[],"text_zh":"南无現󱇈万守經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_447","lb_range":["0024a02"],"text_zh":"南无九十六種外道神呪經","text_en":"南无九十六種外道神呪經 南无稱揚諸佛功徳經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_448","lb_range":[],"text_zh":"南无稱揚諸佛功徳經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_449","lb_range":["0024a03"],"text_zh":"南无普眀王經","text_en":"南无普眀王經 南无木义經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_450","lb_range":[],"text_zh":"南无木义經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_451","lb_range":["0024a04"],"text_zh":"南无大方便經","text_en":"南无大方便經 南无三法度經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_452","lb_range":[],"text_zh":"南无三法度經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_453","lb_range":["0024a05"],"text_zh":"南无菩󴅽蔵經","text_en":"南无菩 󴅽 蔵經 南无无垢施經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_454","lb_range":[],"text_zh":"南无无垢施經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_455","lb_range":["0024a06"],"text_zh":"南无難陁女經","text_en":"南无難陁女經 南无毗婆沙經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_456","lb_range":[],"text_zh":"南无毗婆沙經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_457","lb_range":["0024a07"],"text_zh":"南无法王經","text_en":"南无法王經 南无自 䨱 經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_458","lb_range":[],"text_zh":"南无自䨱經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_459","lb_range":["0024a08"],"text_zh":"次礼十方諸大菩󴅽。","text_en":"次礼十方諸大菩 󴅽 。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_460","lb_range":["0024a09"],"text_zh":"南无不瞬菩󴅽","text_en":"南无不瞬菩 󴅽 南无无言菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_461","lb_range":[],"text_zh":"南无无言菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_462","lb_range":["0024a10"],"text_zh":"南无寶勝菩󴅽","text_en":"南无寶勝菩 󴅽 南无寶心菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_463","lb_range":[],"text_zh":"南无寶心菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_464","lb_range":["0025a01"],"text_zh":"南无善思議菩󴅽","text_en":"南无善思議菩 󴅽 南无摩 󵕦 髻菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_465","lb_range":[],"text_zh":"南无摩󵕦髻菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_466","lb_range":["0025a02"],"text_zh":"南无㽵嚴王菩󴅽","text_en":"南无 㽵 嚴王菩 󴅽 南无國土 㽵 嚴菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_467","lb_range":[],"text_zh":"南无國土㽵嚴菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_468","lb_range":["0025a03"],"text_zh":"南无因陁羅菩󴅽","text_en":"南无因陁羅菩 󴅽 南无天山菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_469","lb_range":[],"text_zh":"南无天山菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_470","lb_range":["0025a04"],"text_zh":"南无善眼菩󴅽","text_en":"南无善眼菩 󴅽 南无住持世間才菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_471","lb_range":[],"text_zh":"南无住持世間才菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_472","lb_range":["0025a05"],"text_zh":"南无大將菩󴅽","text_en":"南无大將菩 󴅽 南无寂意菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_473","lb_range":[],"text_zh":"南无寂意菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_474","lb_range":["0025a06"],"text_zh":"南无速行菩󴅽","text_en":"南无速行菩 󴅽 南无善臂菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_475","lb_range":[],"text_zh":"南无善臂菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_476","lb_range":["0025a07"],"text_zh":"南无山峯菩󴅽","text_en":"南无山峯菩 󴅽 南无曇无竭菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_477","lb_range":[],"text_zh":"南无曇无竭菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_478","lb_range":["0025a08"],"text_zh":"南无勝願菩󴅽","text_en":"南无勝願菩 󴅽 南无病嚴相星 𪧐 山王菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_479","lb_range":[],"text_zh":"南无病嚴相星𪧐山王菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_480","lb_range":["0025a09"],"text_zh":"南无樂󵘸无滯菩󴅽","text_en":"南无樂 󵘸 无滯菩 󴅽 南无无垢智菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_481","lb_range":[],"text_zh":"南无无垢智菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_482","lb_range":["0025a10"],"text_zh":"南无娑伽羅菩󴅽","text_en":"南无娑伽羅菩 󴅽 南无断一切憂菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_483","lb_range":[],"text_zh":"南无断一切憂菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_484","lb_range":["0026a01"],"text_zh":"南无地蔵菩󴅽","text_en":"南无地蔵菩 󴅽 南无普現菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_485","lb_range":[],"text_zh":"南无普現菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_486","lb_range":["0026a02"],"text_zh":"南无發行成就菩󴅽","text_en":"南无發行成就菩 󴅽 南无染汙菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_487","lb_range":[],"text_zh":"南无染汙菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_488","lb_range":["0026a03"],"text_zh":"南无清淨三輪菩󴅽","text_en":"南无清淨三輪菩 󴅽 南无寂靜心菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_489","lb_range":[],"text_zh":"南无寂靜心菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_490","lb_range":["0026a04"],"text_zh":"南无无邊功徳菩󴅽","text_en":"南无无邊功徳菩 󴅽 南无虚空平 󵓕 智菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_491","lb_range":[],"text_zh":"南无虚空平󵓕智菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_492","lb_range":["0026a05"],"text_zh":"南无波頭摩眼菩󴅽","text_en":"南无波頭摩眼菩 󴅽 南无金剛幢菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_493","lb_range":[],"text_zh":"南无金剛幢菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_494","lb_range":["0026a06"],"text_zh":"次礼聲聞緣覺一切賢聖。","text_en":"次礼聲聞緣覺一切賢聖。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_495","lb_range":["0026a07"],"text_zh":"南无直福徳辟支佛","text_en":"南无直福徳辟支佛 南无識辟支佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_496","lb_range":[],"text_zh":"南无識辟支佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_497","lb_range":["0026a08"],"text_zh":"南无香辟支佛","text_en":"南无香辟支佛 南无有香辟支佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_498","lb_range":[],"text_zh":"南无有香辟支佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_499","lb_range":["0026a09"],"text_zh":"南无見人飛騰辟支佛","text_en":"南无見人飛騰辟支佛 南无可波羅辟支佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_500","lb_range":[],"text_zh":"南无可波羅辟支佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_501","lb_range":["0026a10"],"text_zh":"南无秦摩利辟支佛","text_en":"南无秦摩利辟支佛 南无月淨辟支佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_502","lb_range":[],"text_zh":"南无月淨辟支佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_503","lb_range":["0027a01"],"text_zh":"南无善智辟支佛","text_en":"南无善智辟支佛 南无脩陁羅辟支佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_504","lb_range":[],"text_zh":"南无脩陁羅辟支佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_505","lb_range":["0027a02"],"text_zh":"礼三寶已次𣸪懺悔。","text_en":"礼三寶 已 次 𣸪 懺悔。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_506","lb_range":["0027a03","0027a04","0027a05","0027a06","0027a07","0027a08"],"text_zh":"已懺三塗󵓕報今當𣸪次󷑗𡍭懺悔人天餘報 相與稟此𨵻浮壽命雖日百年滿者无幾於其 中間盛年󰌚枉其󵉤无量但有眾苦煎迫形心 愁憂𢙢怯未曾蹔離如此皆是善根󲮬弱𢙣業 滋多󷗯使現在心有所為皆不稱意當知悉是過 去已來𢙣業餘報是故弟子今日至誠歸依佛。","text_en":"已懺三塗 󵓕 報今當 𣸪 次 󷑗 𡍭 懺悔人天餘報 相與稟此 𨵻 浮壽命雖日百年滿者无幾於其 中間盛年 󰌚 枉其 󵉤 无量但有眾苦煎迫形心 愁憂 𢙢 怯未曾蹔離如此皆是善根 󲮬 弱 𢙣 業 滋多 󷗯 使現在心有所為皆不稱意當知悉是過 去 已 來 𢙣 業餘報是故弟子今日至誠歸依佛。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_507","lb_range":["0027a09"],"text_zh":"南无東方蓮華上佛","text_en":"南无東方蓮華上佛 南无南方調伏佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_508","lb_range":[],"text_zh":"南无南方調伏佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_509","lb_range":["0027a10"],"text_zh":"南无西方无量眀佛","text_en":"南无西方无量眀佛 南无北方勝諸拫佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_510","lb_range":[],"text_zh":"南无北方勝諸拫佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_511","lb_range":["0028a01"],"text_zh":"南无東南方蓮華","text_en":"南无東南方蓮華 南无西南方无量花佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_512","lb_range":[],"text_zh":"南无西南方无量花佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_513","lb_range":["0028a02"],"text_zh":"南无西北方自在智佛","text_en":"南无西北方自在智佛 南无東北方蓮花徳佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_514","lb_range":[],"text_zh":"南无東北方蓮花徳佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_515","lb_range":["0028a03"],"text_zh":"南无下方別佛","text_en":"南无下方別佛 南无上方伏怨智佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_516","lb_range":[],"text_zh":"南无上方伏怨智佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_517","lb_range":["0028a04"],"text_zh":"如是十方盡虚空界一切三寶。","text_en":"如是十方盡虚空界一切三寶。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_518","lb_range":["0028a05","0028a06","0028a07","0028a08","0028a09","0028a10","0029a01","0029a02","0029a03","0029a04","0029a05","0029a06","0029a07","0029a08","0029a09","0029a10","0030a01","0030a02","0030a03","0030a04","0030a05"],"text_zh":"弟子󵓕无始以來至於今日所有現在及以未來 人天之中无量餘報流殃𪧐對隆殘百疾六拫不 具罪報懺悔人間邊地耶見三𢙣八難罪報懺 悔人間多病消瘦󷖰命枉󰌚罪報懺悔人間六親 眷属不能得常相保守罪報懺悔人間怨家聚 會愁憂怖畏罪報懺悔人間水火盜賊刀兵危 險驚𢙢怯弱罪報懺悔人間孤獨困苦流離波迸 亡失國土罪報懺悔人間窂獄繫閇幽執側立鞭 撻拷楚罪報懺悔人間公𥝠口舌便相羅染更相 誣謗罪報懺悔人間𢙣病連年累月不差枕臥 床廗不能𧺫居罪報懺悔人間冬溫夏疫毒厲傷 寒罪報懺悔人間賊風腫滿否寒罪報懺悔人間 為諸𢙣神伺求其便欲作禍祟罪報懺悔人間有 鳥鳴百恠飛屍耶鬼為作󵦂異罪報懺悔人間為 𮓜豹犲狼水陸一切諸𢙣禽獸所傷罪報懺悔人間 自經自㓨自煞罪報懺悔人間投巖赴火自沈自墜 罪報懺悔人間无有威徳名聞罪報懺悔人間 衣服資生不稱心罪報懺悔人閒行來出入有所 云為值𢙣知識為作㽞難罪報如是現在未來天 人之中无量禍撗灾疫厄難衰𢙉罪報弟子今日 向十方佛尊法聖僧求哀懺悔。","text_en":"弟子 󵓕 无始以來至於今日所有現在及以未來 人天之中无量餘報流殃 𪧐 對隆殘百疾六拫不 具罪報懺悔人間邊地耶見三 𢙣 八難罪報懺 悔人間多病消瘦 󷖰 命枉 󰌚 罪報懺悔人間六親 眷属不能得常相保守罪報懺悔人間怨家聚 會愁憂怖畏罪報懺悔人間水火盜賊刀兵危 險驚 𢙢 怯弱罪報懺悔人間孤獨困苦流離波迸 亡失國土罪報懺悔人間窂獄繫閇幽執側立鞭 撻拷楚罪報懺悔人間公 𥝠 口舌便相羅染更相 誣謗罪報懺悔人間 𢙣 病連年累月不差 枕 臥 床廗不能 𧺫 居罪報懺悔人間冬溫夏疫毒厲傷 寒罪報懺悔人間賊風腫滿否寒罪報懺悔人間 為諸 𢙣 神伺求其便欲作禍 祟 罪報懺悔人間有 鳥鳴百恠飛屍耶鬼為作 󵦂 異罪報懺悔人間為 𮓜 豹犲狼水陸一切諸 𢙣 禽獸所傷罪報懺悔人間 自經自 㓨 自煞罪報懺悔人間投巖赴火自沈自墜 罪報懺悔人間无有威徳名聞罪報懺悔人間 衣服資生不稱心罪報懺悔人閒行來出入有所 云為值 𢙣 知識為作 㽞 難罪報如是現在未來天 人之中无量禍撗灾疫厄難衰 𢙉 罪報弟子今日 向十方佛尊法聖僧求哀懺悔。","type":"dialogue","confidence":1}
+{"unit_id":"D02n8680_519","lb_range":["0030a06"],"text_zh":"南无方差別佛","text_en":"南无方差別佛 南无智无眀佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_520","lb_range":[],"text_zh":"南无智无眀佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_521","lb_range":["0030a07"],"text_zh":"南无幢意佛","text_en":"南无幢意佛 南无虚空然燈佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_522","lb_range":[],"text_zh":"南无虚空然燈佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_523","lb_range":["0030a08"],"text_zh":"南无无病勝佛","text_en":"南无无病勝佛 南无照佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_524","lb_range":[],"text_zh":"南无照佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_525","lb_range":["0030a09"],"text_zh":"南无眀佛","text_en":"南无眀佛 南无福徳光眀勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_526","lb_range":[],"text_zh":"南无福徳光眀勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_527","lb_range":["0030a10"],"text_zh":"南无寂勝佛","text_en":"南无寂勝佛 南无大悲雲勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_528","lb_range":[],"text_zh":"南无大悲雲勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_529","lb_range":["0031a01"],"text_zh":"南无刀光眀意佛","text_en":"南无刀光眀意佛 南无現一切眾生色佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_530","lb_range":[],"text_zh":"南无現一切眾生色佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_531","lb_range":["0031a02"],"text_zh":"南无過勝佛","text_en":"南无過勝佛 南无脩光眀佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_532","lb_range":[],"text_zh":"南无脩光眀佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_533","lb_range":["0031a03"],"text_zh":"南无曇无竭佛","text_en":"南无曇无竭佛 南无風疾行勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_534","lb_range":[],"text_zh":"南无風疾行勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_535","lb_range":["0031a04"],"text_zh":"南无清淨幢佛","text_en":"南无清淨幢佛 南无妙盖勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_536","lb_range":[],"text_zh":"南无妙盖勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_537","lb_range":["0031a05"],"text_zh":"南无三世鏡像勝佛","text_en":"南无三世鏡像勝佛 南无鏡像堅佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_538","lb_range":[],"text_zh":"南无鏡像堅佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_539","lb_range":["0031a06"],"text_zh":"南无鏡像勝佛","text_en":"南无鏡像勝佛 南无金剛勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_540","lb_range":[],"text_zh":"南无金剛勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_541","lb_range":["0031a07"],"text_zh":"南无身堅㽵嚴湏󳇐勝佛","text_en":"南无身堅 㽵 嚴湏 󳇐 勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_542","lb_range":["0031a08"],"text_zh":"󷖲此以上六千佛十二部經一切賢聖。","text_en":"󷖲 此以上六千佛十二部經一切賢聖。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_543","lb_range":["0031a09"],"text_zh":"南无念憶王佛","text_en":"南无念憶王佛 南无身法恵佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_544","lb_range":[],"text_zh":"南无身法恵佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_545","lb_range":["0031a10"],"text_zh":"南无智恵然燈光眀勝佛","text_en":"南无智恵然燈光眀勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_546","lb_range":["0032a01"],"text_zh":"南无廣智勝佛","text_en":"南无廣智勝佛 南无法行世智意佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_547","lb_range":[],"text_zh":"南无法行世智意佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_548","lb_range":["0032a02"],"text_zh":"南无法印意智勝佛","text_en":"南无法印意智勝佛 南无法海意智勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_549","lb_range":[],"text_zh":"南无法海意智勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_550","lb_range":["0032a03"],"text_zh":"南无法財佛","text_en":"南无法財佛 南无寶財佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_551","lb_range":[],"text_zh":"南无寶財佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_552","lb_range":["0032a04"],"text_zh":"南无福徳功徳佛","text_en":"南无福徳功徳佛 南无轉法輪勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_553","lb_range":[],"text_zh":"南无轉法輪勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_554","lb_range":["0032a05"],"text_zh":"南无雲佛","text_en":"南无雲佛 南无忍辱燈佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_555","lb_range":[],"text_zh":"南无忍辱燈佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_556","lb_range":["0032a06"],"text_zh":"南无勝威徳意佛","text_en":"南无勝威徳意佛 南无光眀速寂聲佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_557","lb_range":[],"text_zh":"南无光眀速寂聲佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_558","lb_range":["0032a07"],"text_zh":"南无大願速勝佛","text_en":"南无大願速勝佛 南无不可降伏幢佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_559","lb_range":[],"text_zh":"南无不可降伏幢佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_560","lb_range":["0032a08"],"text_zh":"南无智炎佛","text_en":"南无智炎佛 南无成就勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_561","lb_range":[],"text_zh":"南无成就勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_562","lb_range":["0032a09"],"text_zh":"南无法自在佛","text_en":"南无法自在佛 南无不成就意佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_563","lb_range":[],"text_zh":"南无不成就意佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_564","lb_range":["0032a10"],"text_zh":"南无世間言語堅固聲","text_en":"南无世間言語堅固聲 南无一切聲出聲勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_565","lb_range":[],"text_zh":"南无一切聲出聲勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_566","lb_range":["0033a01"],"text_zh":"南无自在功徳佛","text_en":"南无自在功徳佛 南无成就自在意佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_567","lb_range":[],"text_zh":"南无成就自在意佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_568","lb_range":["0033a02"],"text_zh":"南无方天佛","text_en":"南无方天佛 南无不靣 捨 佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_569","lb_range":[],"text_zh":"南无不靣捨佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_570","lb_range":["0033a03"],"text_zh":"南无眾生心佛","text_en":"南无眾生心佛 南无平 󵓕 身佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_571","lb_range":[],"text_zh":"南无平󵓕身佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_572","lb_range":["0033a04"],"text_zh":"南无自性佛","text_en":"南无自性佛 南无行勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_573","lb_range":[],"text_zh":"南无行勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_574","lb_range":["0033a05"],"text_zh":"南无智光佛","text_en":"南无智光佛 南无千億寶 㽵 嚴佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_575","lb_range":[],"text_zh":"南无千億寶㽵嚴佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_576","lb_range":["0033a06"],"text_zh":"南无寶勝佛","text_en":"南无寶勝佛 南无香自在佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_577","lb_range":[],"text_zh":"南无香自在佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_578","lb_range":["0033a07"],"text_zh":"南无降伏怨佛","text_en":"南无降伏怨佛 南无安隱佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_579","lb_range":[],"text_zh":"南无安隱佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_580","lb_range":["0033a08"],"text_zh":"南无能与依止佛","text_en":"南无能与依止佛 南无无邊威徳佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_581","lb_range":[],"text_zh":"南无无邊威徳佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_582","lb_range":["0033a09"],"text_zh":"南无金色光佛","text_en":"南无金色光佛 南无師子奮迅佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_583","lb_range":[],"text_zh":"南无師子奮迅佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_584","lb_range":["0033a10"],"text_zh":"南无甘露光佛","text_en":"南无甘露光佛 南无能聖成佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_585","lb_range":[],"text_zh":"南无能聖成佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_586","lb_range":["0033a11"],"text_zh":"南无普光佛","text_en":"南无普光佛 南无功徳勝積王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_587","lb_range":[],"text_zh":"南无功徳勝積王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_588","lb_range":["0034a01"],"text_zh":"南无善住摩󵕦積王佛","text_en":"南无善住摩 󵕦 積王佛 南无遠離諸畏樹安隱佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_589","lb_range":[],"text_zh":"南无遠離諸畏樹安隱佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_590","lb_range":["0034a02"],"text_zh":"南无飲甘露佛","text_en":"南无飲甘露佛 南无无邊光佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_591","lb_range":[],"text_zh":"南无无邊光佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_592","lb_range":["0034a03"],"text_zh":"南无寶高佛","text_en":"南无寶高佛 南无无邊 㽵 嚴王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_593","lb_range":[],"text_zh":"南无无邊㽵嚴王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_594","lb_range":["0034a04"],"text_zh":"南无離怨佛","text_en":"南无離怨佛 南无金色光佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_595","lb_range":[],"text_zh":"南无金色光佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_596","lb_range":["0034a05"],"text_zh":"南无寶作佛","text_en":"南无寶作佛 南无无塵勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_597","lb_range":[],"text_zh":"南无无塵勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_598","lb_range":["0034a06"],"text_zh":"南无師子聲王佛","text_en":"南无師子聲王佛 南无寶幢佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_599","lb_range":[],"text_zh":"南无寶幢佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_600","lb_range":["0034a07"],"text_zh":"南无善心佛","text_en":"南无善心佛 南无高住佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_601","lb_range":[],"text_zh":"南无高住佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_602","lb_range":["0034a08"],"text_zh":"南无華王佛","text_en":"南无華王佛 南无智作佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_603","lb_range":[],"text_zh":"南无智作佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_604","lb_range":["0034a09"],"text_zh":"南无海智佛","text_en":"南无海智佛 南无歡喜佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_605","lb_range":[],"text_zh":"南无歡喜佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_606","lb_range":["0034a10"],"text_zh":"南无樂㽵嚴佛","text_en":"南无樂 㽵 嚴佛 南无離闇佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_607","lb_range":[],"text_zh":"南无離闇佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_608","lb_range":["0035a01"],"text_zh":"南无堅成佛","text_en":"南无堅成佛 南无見細佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_609","lb_range":[],"text_zh":"南无見細佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_610","lb_range":["0035a02"],"text_zh":"南无无畏徳佛","text_en":"南无无畏徳佛 南无空上佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_611","lb_range":[],"text_zh":"南无空上佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_612","lb_range":["0035a03"],"text_zh":"南无實語佛","text_en":"南无實語佛 南无稱上佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_613","lb_range":[],"text_zh":"南无稱上佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_614","lb_range":["0035a04"],"text_zh":"南无擇智佛","text_en":"南无擇智佛 南无不行威徳佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_615","lb_range":[],"text_zh":"南无不行威徳佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_616","lb_range":["0035a05"],"text_zh":"南无人華佛","text_en":"南无人華佛 南无遠離諸畏佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_617","lb_range":[],"text_zh":"南无遠離諸畏佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_618","lb_range":["0035a06"],"text_zh":"南无能與无畏佛","text_en":"南无能與无畏佛 南无金華佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_619","lb_range":[],"text_zh":"南无金華佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_620","lb_range":["0035a07"],"text_zh":"南无无畏作佛","text_en":"南无无畏作佛 南无不空見佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_621","lb_range":[],"text_zh":"南无不空見佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_622","lb_range":["0035a08"],"text_zh":"南无實華佛","text_en":"南无實華佛 南无六十寶作佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_623","lb_range":[],"text_zh":"南无六十寶作佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_624","lb_range":["0035a09"],"text_zh":"南无寶積佛","text_en":"南无寶積佛 南无金華佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_625","lb_range":[],"text_zh":"南无金華佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_626","lb_range":["0035a10"],"text_zh":"南无降伏王佛","text_en":"南无降伏王佛 南无金光佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_627","lb_range":[],"text_zh":"南无金光佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_628","lb_range":["0035a11"],"text_zh":"南无見義佛","text_en":"南无見義佛 南无大擇佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_629","lb_range":[],"text_zh":"南无大擇佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_630","lb_range":["0036a01"],"text_zh":"南无妙无畏佛","text_en":"南无妙无畏佛 南无大慈佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_631","lb_range":[],"text_zh":"南无大慈佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_632","lb_range":["0036a02"],"text_zh":"南无不可降伏王佛","text_en":"南无不可降伏王佛 南无難勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_633","lb_range":[],"text_zh":"南无難勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_634","lb_range":["0036a03"],"text_zh":"南无上首佛","text_en":"南无上首佛 南无法上佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_635","lb_range":[],"text_zh":"南无法上佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_636","lb_range":["0036a04"],"text_zh":"南无勝一切佛","text_en":"南无勝一切佛 南无高行佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_637","lb_range":[],"text_zh":"南无高行佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_638","lb_range":["0036a05"],"text_zh":"南无高稱佛","text_en":"南无高稱佛 南无勝聖佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_639","lb_range":[],"text_zh":"南无勝聖佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_640","lb_range":["0036a06"],"text_zh":"󷖲此以上六千一百佛十二部經一切賢聖。","text_en":"󷖲 此以上六千一百佛十二部經一切賢聖。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_641","lb_range":["0036a07"],"text_zh":"南无星𪧐佛","text_en":"南无星 𪧐 佛 南无識佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_642","lb_range":[],"text_zh":"南无識佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_643","lb_range":["0036a08"],"text_zh":"南无商佛","text_en":"南无商佛 南无聞名佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_644","lb_range":[],"text_zh":"南无聞名佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_645","lb_range":["0036a09"],"text_zh":"南无大悲佛","text_en":"南无大悲佛 南无无量壽佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_646","lb_range":[],"text_zh":"南无无量壽佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_647","lb_range":["0036a10"],"text_zh":"南无无邊盖光眀勝佛","text_en":"南无无邊盖光眀勝佛 南无山積光眀勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_648","lb_range":[],"text_zh":"南无山積光眀勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_649","lb_range":["0037a01"],"text_zh":"南无无垢力三昧奮迅","text_en":"南无无垢力三昧奮迅 南无一切徳王光眀佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_650","lb_range":[],"text_zh":"南无一切徳王光眀佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_651","lb_range":["0037a02"],"text_zh":"南无火眾佛","text_en":"南无火眾佛 南无湏 󳇐 刧佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_652","lb_range":[],"text_zh":"南无湏󳇐刧佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_653","lb_range":["0037a03"],"text_zh":"南无堅自在王佛","text_en":"南无堅自在王佛 南无梵吼聲佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_654","lb_range":[],"text_zh":"南无梵吼聲佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_655","lb_range":["0037a04"],"text_zh":"南无󳇐樓聚佛","text_en":"南无 󳇐 樓聚佛 南无善眼佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_656","lb_range":[],"text_zh":"南无善眼佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_657","lb_range":["0037a05"],"text_zh":"南无成就聚佛","text_en":"南无成就聚佛 南无離愚奮迅佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_658","lb_range":[],"text_zh":"南无離愚奮迅佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_659","lb_range":["0037a06"],"text_zh":"南无无㝵眼佛","text_en":"南无无 㝵 眼佛 南无寶幢佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_660","lb_range":[],"text_zh":"南无寶幢佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_661","lb_range":["0037a07"],"text_zh":"南无釋迦牟󵕦佛","text_en":"南无釋迦牟 󵕦 佛 南无功徳勝蔵佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_662","lb_range":[],"text_zh":"南无功徳勝蔵佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_663","lb_range":["0037a08"],"text_zh":"南无難勝佛","text_en":"南无難勝佛 南无樂 󵘸 㽵 嚴佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_664","lb_range":[],"text_zh":"南无樂󵘸㽵嚴佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_665","lb_range":["0037a09"],"text_zh":"南无无邊功徳寶㽵嚴威徳王刧佛","text_en":"南无无邊功徳寶 㽵 嚴威徳王刧佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_666","lb_range":["0037a10"],"text_zh":"南无勝蔵積吼王佛","text_en":"南无勝蔵積吼王佛 南无功徳寶勝威徳王刧佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_667","lb_range":[],"text_zh":"南无功徳寶勝威徳王刧佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_668","lb_range":["0037a11"],"text_zh":"南无樂󵘸一切法㽵嚴","text_en":"南无樂 󵘸 一切法 㽵 嚴 南无无邊樂 󵘸 相佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_669","lb_range":[],"text_zh":"南无无邊樂󵘸相佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_670","lb_range":["0038a01"],"text_zh":"南无千雲吼聲王佛","text_en":"南无千雲吼聲王佛 南无金上光明勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_671","lb_range":[],"text_zh":"南无金上光明勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_672","lb_range":["0038a02"],"text_zh":"南无種種威徳王光眀勝佛","text_en":"南无種種威徳王光眀勝佛 南无覺佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_673","lb_range":[],"text_zh":"南无覺佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_674","lb_range":["0038a03"],"text_zh":"南无清淨金虚空吼嚴光眀佛","text_en":"南无清淨金虚空吼嚴光眀佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_675","lb_range":["0038a04"],"text_zh":"南无一切法行威徳奮迅光眀佛","text_en":"南无一切法行威徳奮迅光眀佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_676","lb_range":["0038a05","0038a06"],"text_zh":"南无東方无邊徳功徳寶福徳㽵嚴廣世界无垢 清淨光眀菩提分俱蘇摩不断絕光眀㽵嚴光佛","text_en":"南无東方无邊徳功徳寶福徳 㽵 嚴廣世界无垢 清淨光眀菩提分俱蘇摩不断絕光眀 㽵 嚴光佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_677","lb_range":["0038a07"],"text_zh":"南无南方樂󵘸佛世界无邊功徳寶樂󵘸佛","text_en":"南无南方樂 󵘸 佛世界无邊功徳寶樂 󵘸 佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_678","lb_range":["0038a08"],"text_zh":"南无西方光眀世界普光佛","text_en":"南无西方光眀世界普光佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_679","lb_range":["0038a09"],"text_zh":"南无北方一切寶種種㽵嚴世界无邊寶功徳自在佛","text_en":"南无北方一切寶種種 㽵 嚴世界无邊寶功徳自在佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_680","lb_range":["0038a10"],"text_zh":"南无東南方无憂世界離一切憂闇佛","text_en":"南无東南方无憂世界離一切憂闇佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_681","lb_range":["0039a01"],"text_zh":"南无西南方善可見世界大悲觀一切眾生佛","text_en":"南无西南方善可見世界大悲觀一切眾生佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_682","lb_range":["0039a02"],"text_zh":"南无東北方住清淨无垢世界虚空无垢佛","text_en":"南无東北方住清淨无垢世界虚空无垢佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_683","lb_range":["0039a03"],"text_zh":"南无西北方遠離闇世界光眀㽵嚴王佛","text_en":"南无西北方遠離闇世界光眀 㽵 嚴王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_684","lb_range":["0039a04"],"text_zh":"南无下方盧舎𮟯光眀世界寶憂波羅勝佛","text_en":"南无下方盧舎 𮟯 光眀世界寶憂波羅勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_685","lb_range":["0039a05"],"text_zh":"南无上方㽵嚴世界稱名聲佛","text_en":"南无上方 㽵 嚴世界稱名聲佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_686","lb_range":["0039a06","0039a07"],"text_zh":"南无无垢刧无垢世界无垢光如來初成佛彼世 界塵沙諸佛出世佛","text_en":"南无无垢刧无垢世界无垢光如來初成佛彼世 界塵沙諸佛出世佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_687","lb_range":["0039a08","0039a09"],"text_zh":"南无无垢廣世界名成就善就刧勝護如來初 成佛彼世界塵沙諸佛出世佛","text_en":"南无无垢廣世界名成就善就刧勝護如來初 成佛彼世界塵沙諸佛出世佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_688","lb_range":["0039a10"],"text_zh":"南无東方阿閦佛","text_en":"南无東方阿閦佛 南无火不迷佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_689","lb_range":[],"text_zh":"南无火不迷佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_690","lb_range":["0039a11"],"text_zh":"南无香王佛","text_en":"南无香王佛 南无香上佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_691","lb_range":[],"text_zh":"南无香上佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_692","lb_range":["0040a01"],"text_zh":"南无南方寶佛","text_en":"南无南方寶佛 南无寶作佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_693","lb_range":[],"text_zh":"南无寶作佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_694","lb_range":["0040a02"],"text_zh":"南无寶成佛","text_en":"南无寶成佛 南无寶蔵佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_695","lb_range":[],"text_zh":"南无寶蔵佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_696","lb_range":["0040a03"],"text_zh":"南无寶月佛","text_en":"南无寶月佛 南无金剛堅佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_697","lb_range":[],"text_zh":"南无金剛堅佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_698","lb_range":["0040a04"],"text_zh":"南无金剛仙佛","text_en":"南无金剛仙佛 南无金剛幢佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_699","lb_range":[],"text_zh":"南无金剛幢佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_700","lb_range":["0040a05"],"text_zh":"南无東南方大󳇐㽞佛","text_en":"南无東南方大 󳇐 㽞 佛 南无 󳇐 㽞 山佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_701","lb_range":[],"text_zh":"南无󳇐㽞山佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_702","lb_range":["0040a06"],"text_zh":"南无󳇐㽞王佛","text_en":"南无 󳇐 㽞 王佛 南无 󳇐 㽞 幢佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_703","lb_range":[],"text_zh":"南无󳇐㽞幢佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_704","lb_range":["0040a07"],"text_zh":"南无󳇐㽞積佛","text_en":"南无 󳇐 㽞 積佛 南无善 󳇐 㽞 王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_705","lb_range":[],"text_zh":"南无善󳇐㽞王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_706","lb_range":["0040a08"],"text_zh":"南无日蔵佛","text_en":"南无日蔵佛 南无前後上佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_707","lb_range":[],"text_zh":"南无前後上佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_708","lb_range":["0040a09"],"text_zh":"南无淨王佛","text_en":"南无淨王佛 南无雞中幢王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_709","lb_range":[],"text_zh":"南无雞中幢王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_710","lb_range":["0040a10"],"text_zh":"南无大雞中佛","text_en":"南无大雞中佛 南无西方阿 󳇐 陁佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_711","lb_range":[],"text_zh":"南无西方阿󳇐陁佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_712","lb_range":["0041a01"],"text_zh":"南无阿󳇐陁幢佛","text_en":"南无阿 󳇐 陁幢佛 南无阿 󳇐 陁聲佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_713","lb_range":[],"text_zh":"南无阿󳇐陁聲佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_714","lb_range":["0041a02"],"text_zh":"南无阿󳇐陁稱佛","text_en":"南无阿 󳇐 陁稱佛 南无阿 󳇐 陁吼佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_715","lb_range":[],"text_zh":"南无阿󳇐陁吼佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_716","lb_range":["0041a03"],"text_zh":"南无阿󳇐陁和佛","text_en":"南无阿 󳇐 陁和佛 南无阿 󳇐 陁勝上佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_717","lb_range":[],"text_zh":"南无阿󳇐陁勝上佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_718","lb_range":["0041a04"],"text_zh":"南无阿󳇐陁師子佛","text_en":"南无阿 󳇐 陁師子佛 南无阿 󳇐 陁住持佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_719","lb_range":[],"text_zh":"南无阿󳇐陁住持佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_720","lb_range":["0041a05"],"text_zh":"南无阿󳇐陁勝佛","text_en":"南无阿 󳇐 陁勝佛 南无西南方日蔵佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_721","lb_range":[],"text_zh":"南无西南方日蔵佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_722","lb_range":["0041a06"],"text_zh":"南无日光眀佛","text_en":"南无日光眀佛 南无无憂佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_723","lb_range":[],"text_zh":"南无无憂佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_724","lb_range":["0041a07"],"text_zh":"南无離一切畏佛","text_en":"南无離一切畏佛 南无佛智清淨業佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_725","lb_range":[],"text_zh":"南无佛智清淨業佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_726","lb_range":["0041a08"],"text_zh":"南无盡作佛","text_en":"南无盡作佛 南无華佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_727","lb_range":[],"text_zh":"南无華佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_728","lb_range":["0041a09"],"text_zh":"南无大華佛","text_en":"南无大華佛 南无華王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_729","lb_range":[],"text_zh":"南无華王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_730","lb_range":["0041a10"],"text_zh":"南无華聲佛","text_en":"南无華聲佛 南无盧舎 𮟯 佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_731","lb_range":[],"text_zh":"南无盧舎𮟯佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_732","lb_range":["0041a11"],"text_zh":"南无北方妙皷聲佛","text_en":"南无北方妙皷聲佛 南无妙皷王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_733","lb_range":[],"text_zh":"南无妙皷王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_734","lb_range":["0042a01"],"text_zh":"南无妙吼聲佛","text_en":"南无妙吼聲佛 南无離諸畏佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_735","lb_range":[],"text_zh":"南无離諸畏佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_736","lb_range":["0042a02"],"text_zh":"南无无畏佛","text_en":"南无无畏佛 南无无畏憂佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_737","lb_range":[],"text_zh":"南无无畏憂佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_738","lb_range":["0042a03"],"text_zh":"南无日舌光眀佛","text_en":"南无日舌光眀佛 南无 󷑚 陁香佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_739","lb_range":[],"text_zh":"南无󷑚陁香佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_740","lb_range":["0042a04"],"text_zh":"南无幢盖佛","text_en":"南无幢盖佛 南无西北方上前積佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_741","lb_range":[],"text_zh":"南无西北方上前積佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_742","lb_range":["0042a05"],"text_zh":"󷖲此以上六千二百佛十二部尊經一切賢聖。","text_en":"󷖲 此以上六千二百佛十二部尊經一切賢聖。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_743","lb_range":["0042a06"],"text_zh":"南无山勝積佛","text_en":"南无山勝積佛 南无勝積佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_744","lb_range":[],"text_zh":"南无勝積佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_745","lb_range":["0042a07"],"text_zh":"南无日上佛","text_en":"南无日上佛 南无清淨王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_746","lb_range":[],"text_zh":"南无清淨王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_747","lb_range":["0042a08"],"text_zh":"南无淨勝佛","text_en":"南无淨勝佛 南无日靣佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_748","lb_range":[],"text_zh":"南无日靣佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_749","lb_range":["0042a09"],"text_zh":"南无智幢王佛","text_en":"南无智幢王佛 南无光眀佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_750","lb_range":[],"text_zh":"南无光眀佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_751","lb_range":["0042a10"],"text_zh":"南无光眀王佛","text_en":"南无光眀王佛 南无光眀光佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_752","lb_range":[],"text_zh":"南无光眀光佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_753","lb_range":["0043a01"],"text_zh":"南无上方師子佛","text_en":"南无上方師子佛 南无師子王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_754","lb_range":[],"text_zh":"南无師子王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_755","lb_range":["0043a02"],"text_zh":"南无師子上王佛","text_en":"南无師子上王佛 南无師子積佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_756","lb_range":[],"text_zh":"南无師子積佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_757","lb_range":["0043a03"],"text_zh":"南无師子仙佛","text_en":"南无師子仙佛 南无仙王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_758","lb_range":[],"text_zh":"南无仙王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_759","lb_range":["0043a04"],"text_zh":"南无仙佛","text_en":"南无仙佛 南无仙光佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_760","lb_range":[],"text_zh":"南无仙光佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_761","lb_range":["0043a05"],"text_zh":"南无仙捨敬佛","text_en":"南无仙 捨 敬佛 南无仙覺仙佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_762","lb_range":[],"text_zh":"南无仙覺仙佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_763","lb_range":["0043a06"],"text_zh":"南无大燈佛","text_en":"南无大燈佛 南无然燈王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_764","lb_range":[],"text_zh":"南无然燈王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_765","lb_range":["0043a07"],"text_zh":"南无樂󵘸山佛","text_en":"南无樂 󵘸 山佛 南无燈譬喻佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_766","lb_range":[],"text_zh":"南无燈譬喻佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_767","lb_range":["0043a08"],"text_zh":"南无對治仙佛","text_en":"南无對治仙佛 南无覺諍佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_768","lb_range":[],"text_zh":"南无覺諍佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_769","lb_range":["0043a09"],"text_zh":"南无對治佛","text_en":"南无對治佛 南无對恨佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_770","lb_range":[],"text_zh":"南无對恨佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_771","lb_range":["0043a10"],"text_zh":"南无對治山佛","text_en":"南无對治山佛 南无愛然燈佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_772","lb_range":[],"text_zh":"南无愛然燈佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_773","lb_range":["0043a11"],"text_zh":"南无依山佛","text_en":"南无依山佛 南无東方阿閦佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_774","lb_range":[],"text_zh":"南无東方阿閦佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_775","lb_range":["0044a01"],"text_zh":"南无󳇐㽞幢佛","text_en":"南无 󳇐 㽞 幢佛 南无大 󳇐 㽞 佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_776","lb_range":[],"text_zh":"南无大󳇐㽞佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_777","lb_range":["0044a02"],"text_zh":"南无󳇐㽞光佛","text_en":"南无 󳇐 㽞 光佛 南无真聲佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_778","lb_range":[],"text_zh":"南无真聲佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_779","lb_range":["0044a03"],"text_zh":"南无南方日月燈佛","text_en":"南无南方日月燈佛 南无大火聚佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_780","lb_range":[],"text_zh":"南无大火聚佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_781","lb_range":["0044a04"],"text_zh":"南无稱光佛","text_en":"南无稱光佛 南无 󳇐 㽞 燈佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_782","lb_range":[],"text_zh":"南无󳇐㽞燈佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_783","lb_range":["0044a05"],"text_zh":"南无无邊精進佛","text_en":"南无无邊精進佛 南无西方阿 󳇐 陁佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_784","lb_range":[],"text_zh":"南无西方阿󳇐陁佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_785","lb_range":["0044a06"],"text_zh":"南无阿󳇐陁幢佛","text_en":"南无阿 󳇐 陁幢佛 南无阿 󳇐 陁高佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_786","lb_range":[],"text_zh":"南无阿󳇐陁高佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_787","lb_range":["0044a07"],"text_zh":"南无大火光眀佛","text_en":"南无大火光眀佛 南无大照佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_788","lb_range":[],"text_zh":"南无大照佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_789","lb_range":["0044a08"],"text_zh":"南无寶幢佛","text_en":"南无寶幢佛 南无香聚佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_790","lb_range":[],"text_zh":"南无香聚佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_791","lb_range":["0044a09"],"text_zh":"南无上方大光炎聚佛","text_en":"南无上方大光炎聚佛 南无火聲佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_792","lb_range":[],"text_zh":"南无火聲佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_793","lb_range":["0044a10"],"text_zh":"南无難勝佛","text_en":"南无難勝佛 南无日成就佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_794","lb_range":[],"text_zh":"南无日成就佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_795","lb_range":["0045a01"],"text_zh":"南无羅󱶈光佛","text_en":"南无羅 󱶈 光佛 南无下方師子佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_796","lb_range":[],"text_zh":"南无下方師子佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_797","lb_range":["0045a02"],"text_zh":"南无稱佛","text_en":"南无稱佛 南无威徳佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_798","lb_range":[],"text_zh":"南无威徳佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_799","lb_range":["0045a03"],"text_zh":"南无法佛","text_en":"南无法佛 南无法幢佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_800","lb_range":[],"text_zh":"南无法幢佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_801","lb_range":["0045a04"],"text_zh":"南无法住持佛","text_en":"南无法住持佛 南无東方梵聲佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_802","lb_range":[],"text_zh":"南无東方梵聲佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_803","lb_range":["0045a05"],"text_zh":"南无星𪧐王佛","text_en":"南无星 𪧐 王佛 南无香香佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_804","lb_range":[],"text_zh":"南无香香佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_805","lb_range":["0045a06"],"text_zh":"南无香光佛","text_en":"南无香光佛 南无大炎聚佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_806","lb_range":[],"text_zh":"南无大炎聚佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_807","lb_range":["0045a07"],"text_zh":"南无寶種種華敷身佛","text_en":"南无寶種種華敷身佛 南无堅王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_808","lb_range":[],"text_zh":"南无堅王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_809","lb_range":["0045a08"],"text_zh":"南无寶蓮華勝佛","text_en":"南无寶蓮華勝佛 南无見一切義佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_810","lb_range":[],"text_zh":"南无見一切義佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_811","lb_range":["0045a09"],"text_zh":"南无湏󳇐刧佛","text_en":"南无湏 󳇐 刧佛 南无聲吼佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_812","lb_range":[],"text_zh":"南无聲吼佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_813","lb_range":["0045a10"],"text_zh":"南无智自在佛","text_en":"南无智自在佛 南无威徳自在佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_814","lb_range":[],"text_zh":"南无威徳自在佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_815","lb_range":["0045a11"],"text_zh":"南无莎羅自在王佛","text_en":"南无莎羅自在王佛 南无智勇猛佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_816","lb_range":[],"text_zh":"南无智勇猛佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_817","lb_range":["0046a01"],"text_zh":"南无光自在佛","text_en":"南无光自在佛 南无堅自在王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_818","lb_range":[],"text_zh":"南无堅自在王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_819","lb_range":["0046a02"],"text_zh":"南无聲徳佛","text_en":"南无聲徳佛 南无師子奮迅 󵖋 佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_820","lb_range":[],"text_zh":"南无師子奮迅󵖋佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_821","lb_range":["0046a03"],"text_zh":"南无湏󳇐山然燈王佛","text_en":"南无湏 󳇐 山然燈王佛 南无香山佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_822","lb_range":[],"text_zh":"南无香山佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_823","lb_range":["0046a04"],"text_zh":"南无不可動佛","text_en":"南无不可動佛 南无藥王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_824","lb_range":[],"text_zh":"南无藥王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_825","lb_range":["0046a05"],"text_zh":"南无尋光佛","text_en":"南无尋光佛 南无火炎香佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_826","lb_range":[],"text_zh":"南无火炎香佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_827","lb_range":["0046a06"],"text_zh":"南无勝蔵佛","text_en":"南无勝蔵佛 南无无心光眀佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_828","lb_range":[],"text_zh":"南无无心光眀佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_829","lb_range":["0046a07"],"text_zh":"南无毗㽞雖佛","text_en":"南无毗 㽞 雖佛 南无蓮華佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_830","lb_range":[],"text_zh":"南无蓮華佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_831","lb_range":["0046a08"],"text_zh":"南无喜聚佛","text_en":"南无喜聚佛 南无栴檀佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_832","lb_range":[],"text_zh":"南无栴檀佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_833","lb_range":["0046a09"],"text_zh":"南无月光佛","text_en":"南无月光佛 南无驚怖幢佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_834","lb_range":[],"text_zh":"南无驚怖幢佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_835","lb_range":["0046a10"],"text_zh":"南无火脩行佛","text_en":"南无火脩行佛 南无波頭摩生佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_836","lb_range":[],"text_zh":"南无波頭摩生佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_837","lb_range":["0047a01"],"text_zh":"南无月勝佛","text_en":"南无月勝佛 南无莎羅集佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_838","lb_range":[],"text_zh":"南无莎羅集佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_839","lb_range":["0047a02"],"text_zh":"南无大莎羅集佛","text_en":"南无大莎羅集佛 南无幢佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_840","lb_range":[],"text_zh":"南无幢佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_841","lb_range":["0047a03"],"text_zh":"南无淨命佛","text_en":"南无淨命佛 南无金臺佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_842","lb_range":[],"text_zh":"南无金臺佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_843","lb_range":["0047a04"],"text_zh":"󷖲此以上六千三百佛十二部經一切賢聖。","text_en":"󷖲 此以上六千三百佛十二部經一切賢聖。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_844","lb_range":["0047a05"],"text_zh":"南无愛見佛","text_en":"南无愛見佛 南无金色色佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_845","lb_range":[],"text_zh":"南无金色色佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_846","lb_range":["0047a06"],"text_zh":"南无湏摩𮟯光佛","text_en":"南无湏摩 𮟯 光佛 南无妙蓮華刧億 𮟯","type":"prose","confidence":1}
+{"unit_id":"D02n8680_847","lb_range":["0047a07"],"text_zh":"南无妙蓮華刧億𮟯 由他百千万佛同名一切菩提華佛","text_en":"由他百千万佛同名一切菩提華佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_848","lb_range":["0047a08"],"text_zh":"南无七百同名光㽵嚴佛","text_en":"南无七百同名光 㽵 嚴佛 南无三百同名大幢佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_849","lb_range":[],"text_zh":"南无三百同名大幢佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_850","lb_range":["0047a09"],"text_zh":"南无十千同名㽵嚴王佛","text_en":"南无十千同名 㽵 嚴王佛 南无善發勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_851","lb_range":[],"text_zh":"南无善發勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_852","lb_range":["0047a10"],"text_zh":"南无日輪光眀佛","text_en":"南无日輪光眀佛 南无普盖佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_853","lb_range":[],"text_zh":"南无普盖佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_854","lb_range":["0047a11"],"text_zh":"南无三昧奮迅佛","text_en":"南无三昧奮迅佛 南无寶華勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_855","lb_range":[],"text_zh":"南无寶華勝佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_856","lb_range":["0048a01"],"text_zh":"南无无邊󷖵𡵯佛","text_en":"南无无邊 󷖵 𡵯 佛 南无善香香王佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_857","lb_range":[],"text_zh":"南无善香香王佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_858","lb_range":["0048a02"],"text_zh":"南无善擇𰚇佛","text_en":"南无善擇 𰚇 佛 南无湏 󳇐 刧佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_859","lb_range":[],"text_zh":"南无湏󳇐刧佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_860","lb_range":["0048a03"],"text_zh":"南无功徳王光眀佛","text_en":"南无功徳王光眀佛 南无普至光佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_861","lb_range":[],"text_zh":"南无普至光佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_862","lb_range":["0048a04"],"text_zh":"南无金剛佛","text_en":"南无金剛佛 南无 󵕦 󳇐 佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_863","lb_range":[],"text_zh":"南无󵕦󳇐佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_864","lb_range":["0048a05"],"text_zh":"南无不可盡世界一色佛","text_en":"南无不可盡世界一色佛 南无袈裟幢世界山自在","type":"prose","confidence":1}
+{"unit_id":"D02n8680_865","lb_range":[],"text_zh":"南无袈裟幢世界山自在","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_866","lb_range":["0048a06"],"text_zh":"南无堅幢世界智勝山王佛","text_en":"南无堅幢世界智勝山王佛 南无一切香舉世界勝華蔵佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_867","lb_range":[],"text_zh":"南无一切香舉世界勝華蔵佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_868","lb_range":["0048a07"],"text_zh":"南无金剛摩󵕦世界金剛蔵光眀勝佛","text_en":"南无金剛摩 󵕦 世界金剛蔵光眀勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_869","lb_range":["0048a08"],"text_zh":"南无智成就世界智幢佛","text_en":"南无智成就世界智幢佛 南无意味世界普照佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_870","lb_range":[],"text_zh":"南无意味世界普照佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_871","lb_range":["0048a09"],"text_zh":"南无波頭摩首世界勝佛","text_en":"南无波頭摩首世界勝佛 南无鏡輪世界金剛幢佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_872","lb_range":[],"text_zh":"南无鏡輪世界金剛幢佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_873","lb_range":["0048a10"],"text_zh":"南无光眀清淨力世界日","text_en":"南无光眀清淨力世界日 南无安樂世界最力佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_874","lb_range":[],"text_zh":"南无安樂世界最力佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_875","lb_range":["0049a01"],"text_zh":"南无阿閦佛","text_en":"南无阿閦佛 南无寶幢佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_876","lb_range":[],"text_zh":"南无寶幢佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_877","lb_range":["0049a02"],"text_zh":"南无无量光佛","text_en":"南无无量光佛 南无妙聲佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_878","lb_range":[],"text_zh":"南无妙聲佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_879","lb_range":["0049a03"],"text_zh":"南无寶俱蘇摩功徳海瑠璃歌𮟯加山真金光眀勝佛","text_en":"南无寶俱蘇摩功徳海瑠璃歌 𮟯 加山真金光眀勝佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_880","lb_range":["0049a04"],"text_zh":"南无釋迦牟󵕦佛","text_en":"南无釋迦牟 󵕦 佛 南无寶炎佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_881","lb_range":[],"text_zh":"南无寶炎佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_882","lb_range":["0049a05"],"text_zh":"次礼十二部尊經大蔵法輪。","text_en":"次礼十二部尊經大蔵法輪。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_883","lb_range":["0049a06"],"text_zh":"南无眀月童子三昧經","text_en":"南无眀月童子三昧經 南无擽狗經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_884","lb_range":[],"text_zh":"南无擽狗經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_885","lb_range":["0049a07"],"text_zh":"南无本行經","text_en":"南无本行經 南无迦葉戒經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_886","lb_range":[],"text_zh":"南无迦葉戒經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_887","lb_range":["0049a08"],"text_zh":"南无阿含口觧經","text_en":"南无阿含口觧經 南无迦稱偈經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_888","lb_range":[],"text_zh":"南无迦稱偈經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_889","lb_range":["0049a09"],"text_zh":"南无迦葉本經","text_en":"南无迦葉本經 南无般若道行經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_890","lb_range":[],"text_zh":"南无般若道行經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_891","lb_range":["0049a10"],"text_zh":"南无興顯經","text_en":"南无興顯經 南无多三昧經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_892","lb_range":[],"text_zh":"南无多三昧經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_893","lb_range":["0050a01"],"text_zh":"南无人所󷖲來如幻經","text_en":"南无人所 󷖲 來如幻經 南无阿湏輪子婆羅門經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_894","lb_range":[],"text_zh":"南无阿湏輪子婆羅門經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_895","lb_range":["0050a02"],"text_zh":"南无殖眾徳本經","text_en":"南无殖眾徳本經 南无阿惟越 󷗯 遮經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_896","lb_range":[],"text_zh":"南无阿惟越󷗯遮經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_897","lb_range":["0050a03"],"text_zh":"南无進學經","text_en":"南无進學經 南无菩 󴅽 法齊經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_898","lb_range":[],"text_zh":"南无菩󴅽法齊經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_899","lb_range":["0050a04"],"text_zh":"南无悲心邑經","text_en":"南无悲心邑經 南无菩 󴅽 道地經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_900","lb_range":[],"text_zh":"南无菩󴅽道地經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_901","lb_range":["0050a05"],"text_zh":"南无阿毗曇七經","text_en":"南无阿毗曇七經 南无凡人三事愚癡不 󷖵 經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_902","lb_range":[],"text_zh":"南无凡人三事愚癡不󷖵經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_903","lb_range":["0050a06"],"text_zh":"南无惟羅菩󴅽經","text_en":"南无惟羅菩 󴅽 經 南无五十挍計經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_904","lb_range":[],"text_zh":"南无五十挍計經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_905","lb_range":["0050a07"],"text_zh":"南无為身无𣸪經","text_en":"南无為身无 𣸪 經 南无惟 㽞 經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_906","lb_range":[],"text_zh":"南无惟㽞經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_907","lb_range":["0050a08"],"text_zh":"南无五隂事經","text_en":"南无五隂事經 南无雜阿含丹章經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_908","lb_range":[],"text_zh":"南无雜阿含丹章經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_909","lb_range":["0050a09"],"text_zh":"南无恵經","text_en":"南无恵經 南无五母子經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_910","lb_range":[],"text_zh":"南无五母子經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_911","lb_range":["0050a10"],"text_zh":"南无發意决疑經","text_en":"南无發意决疑經 南无恵上菩 󴅽 經","type":"prose","confidence":1}
+{"unit_id":"D02n8680_912","lb_range":[],"text_zh":"南无恵上菩󴅽經","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_913","lb_range":["0051a01"],"text_zh":"次礼十方諸大菩󴅽。","text_en":"次礼十方諸大菩 󴅽 。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_914","lb_range":["0051a02"],"text_zh":"南无波頭摩華嚴","text_en":"南无波頭摩華嚴 南无寶 㽵 嚴菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_915","lb_range":[],"text_zh":"南无寶㽵嚴菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_916","lb_range":["0051a03"],"text_zh":"南无寶路菩󴅽","text_en":"南无寶路菩 󴅽 南无功徳王恵菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_917","lb_range":[],"text_zh":"南无功徳王恵菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_918","lb_range":["0051a04"],"text_zh":"南无㽵嚴王菩󴅽","text_en":"南无 㽵 嚴王菩 󴅽 南无断諸嚴王菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_919","lb_range":[],"text_zh":"南无断諸嚴王菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_920","lb_range":["0051a05"],"text_zh":"南无妙皷聲菩󴅽","text_en":"南无妙皷聲菩 󴅽 南无 󵕦 民陁羅菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_921","lb_range":[],"text_zh":"南无󵕦民陁羅菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_922","lb_range":["0051a06"],"text_zh":"南无大自在菩󴅽","text_en":"南无大自在菩 󴅽 南无諸功徳身菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_923","lb_range":[],"text_zh":"南无諸功徳身菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_924","lb_range":["0051a07"],"text_zh":"南无光眀意菩󴅽","text_en":"南无光眀意菩 󴅽 南无善見菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_925","lb_range":[],"text_zh":"南无善見菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_926","lb_range":["0051a08"],"text_zh":"南无不取諸法菩󴅽","text_en":"南无不取諸法菩 󴅽 南无轉女拫菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_927","lb_range":[],"text_zh":"南无轉女拫菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_928","lb_range":["0051a09"],"text_zh":"南无思惟大悲菩󴅽","text_en":"南无思惟大悲菩 󴅽 南无寶盖山菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_929","lb_range":[],"text_zh":"南无寶盖山菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_930","lb_range":["0051a10"],"text_zh":"南无雲山吼聲菩󴅽","text_en":"南无雲山吼聲菩 󴅽 南无羅 󱶈 㽵 嚴菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_931","lb_range":[],"text_zh":"南无羅󱶈㽵嚴菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_932","lb_range":["0051a11"],"text_zh":"南无寶蔵菩󴅽","text_en":"南无寶蔵菩 󴅽 南无法雞兜菩 󴅽","type":"prose","confidence":1}
+{"unit_id":"D02n8680_933","lb_range":[],"text_zh":"南无法雞兜菩󴅽","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_934","lb_range":["0052a01"],"text_zh":"次礼聲聞緣覺一切賢聖。","text_en":"次礼聲聞緣覺一切賢聖。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_935","lb_range":["0052a02"],"text_zh":"南无善法辟支佛","text_en":"南无善法辟支佛 南无應求辟支佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_936","lb_range":[],"text_zh":"南无應求辟支佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_937","lb_range":["0052a03"],"text_zh":"南无𩬚求辟支佛","text_en":"南无 𩬚 求辟支佛 南无大勢辟支佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_938","lb_range":[],"text_zh":"南无大勢辟支佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_939","lb_range":["0052a04"],"text_zh":"南无脩行不着辟支佛","text_en":"南无脩行不着辟支佛 南无難 捨 辟支佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_940","lb_range":[],"text_zh":"南无難捨辟支佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_941","lb_range":["0052a05"],"text_zh":"南无歡喜辟支佛","text_en":"南无歡喜辟支佛 南无喜辟支佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_942","lb_range":[],"text_zh":"南无喜辟支佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_943","lb_range":["0052a06"],"text_zh":"南无随喜辟支佛","text_en":"南无随喜辟支佛 南无十二婆羅堕辟支佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_944","lb_range":[],"text_zh":"南无十二婆羅堕辟支佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_945","lb_range":["0052a07"],"text_zh":"󷖲此以上六千四百佛十二部經一切賢聖。","text_en":"󷖲 此以上六千四百佛十二部經一切賢聖。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_946","lb_range":["0052a08"],"text_zh":"礼三寶已次𣸪懺悔。","text_en":"礼三寶 已 次 𣸪 懺悔。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_947","lb_range":["0052a09","0052a10","0053a01","0053a02","0053a03","0053a04","0053a05","0053a06","0053a07","0053a08","0053a09","0053a10","0053a11","0054a01","0054a02","0054a03","0054a04","0054a05","0054a06"],"text_zh":"夫欲礼懺必湏先敬三寶所以然者三寶即是 一切眾生良友福田若能歸向者則滅无量 罪長无量福能令行者離生死苦得觧脫樂 是故弟子某甲󵓕歸依十方盡虚空界一切諸 佛歸依十方盡虚空界一切尊法歸依十方盡虚 空界一切聖僧弟子今日所以懺悔者正言无始以 來在凡夫地不問貴賤罪自无量或因三業而生 罪或󷖲六根而起過或以內心自耶思惟或藉外 境𢙢於染着如是乃至十𢙣增長八万四千諸塵 勞門然其罪相雖復无量大而為語不出有三 何󵓕為三一者煩𢙉二者是業三者是果報此 三種法能障聖道及以人天勝妙好事是故經中 目為三障所以諸佛菩󴅽教作方便懺悔除滅 此三滅者則六拫十𢙣乃至八万四千諸塵勞門皆 悉清淨是故弟子今日運此增上勝心懺悔三 障欲滅此三罪者當用何󵓕心可令此罪滅先 當興七種心以為方便然後此罪乃可得滅何󵓕為 七一者慙愧二者怖畏三者猒離四者發菩提心 五者怨親平󵓕六者念報佛恩七者觀性空。","text_en":"夫欲礼懺必湏先敬三寶所以然者三寶即是 一切眾生良友福田若能歸向者則滅无量 罪長无量福能令行者離生死苦得觧脫樂 是故弟子某甲 󵓕 歸依十方盡虚空界一切諸 佛歸依十方盡虚空界一切尊法歸依十方盡虚 空界一切聖僧弟子今日所以懺悔者正言无始以 來在凡夫地不問貴賤罪自无量或因三業而生 罪或 󷖲 六根而起過或以內心自耶思惟或藉外 境 𢙢 於染着如是乃至十 𢙣 增長八万四千諸塵 勞門然其罪相雖復无量大而為語不出有三 何 󵓕 為三一者煩 𢙉 二者是業三者是果報此 三種法能障聖道及以人天勝妙好事是故經中 目為三障所以諸佛菩 󴅽 教作方便懺悔除滅 此三滅者則六拫十 𢙣 乃至八万四千諸塵勞門皆 悉清淨是故弟子今日運此增上勝心懺悔三 障欲滅此三罪者當用何 󵓕 心可令此罪滅先 當興七種心以為方便然後此罪乃可得滅何 󵓕 為 七一者慙愧二者怖畏三者猒離四者發菩提心 五者怨親平 󵓕 六者念報佛恩七者觀性空。","type":"dialogue","confidence":1}
+{"unit_id":"D02n8680_948","lb_range":["0054a07","0054a08","0054a09","0054a10"],"text_zh":"苐一慚愧者自惟我与𥼶迦如來同為凡夫而今 世尊成道以來尒所塵沙刧󵉤而我󵓕相与躭 染六塵流浪生死永无出期此實天下可慙愧 可羞可恥。","text_en":"苐一慚愧者自惟我与 𥼶 迦如來同為凡夫而今 世尊成道以來尒所塵沙刧 󵉤 而我 󵓕 相与躭 染六塵流浪生死永无出期此實天下可慙愧 可羞可恥。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_949","lb_range":["0055a01","0055a02","0055a03"],"text_zh":"苐二𢙢怖者既是凡夫身口意業常与罪相應 以是因緣命終之後應堕地獄畜生餓鬼受无量 苦如此實為可驚可𢙢可怖可懼。","text_en":"苐二 𢙢 怖者既是凡夫身口意業常与罪相應 以是因緣命終之後應堕地獄畜生餓鬼受无量 苦如此實為可驚可 𢙢 可怖可懼。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_950","lb_range":["0055a04","0055a05","0055a06","0055a07","0055a08","0055a09","0055a10","0055a11"],"text_zh":"苐三猒離者相与當觀生死之中唯有无常苦 空无我不淨虚假如水上泡速起速滅往來流 轉猶若車輪生老病死八苦交煎无時蹔息眾 󵓕相与但觀自身󷖲頭至󷖵其中但有卅六物髮 毛抓齒膿血涕唾生熟二蔵大膓小膓脾腎心肺 肝膽𦚻𦝩肪膏𦜩膜𮏴脉骨髄大小便利九孔 常流是故經言此身苦所集一切皆不淨何有智 恵者而當樂此身生死既有如此種種𢙣法甚可患。","text_en":"苐三猒離者相与當觀生死之中唯有无常苦 空无我不淨虚假如水上泡速起速滅往來流 轉猶若車輪生老病死八苦交煎无時蹔息眾 󵓕 相与但觀自身 󷖲 頭至 󷖵 其中但有卅六物髮 毛抓齒膿血涕唾生熟二蔵大膓小膓脾腎心肺 肝 膽 𦚻 𦝩 肪膏 𦜩 膜 𮏴 脉骨髄大小便利九孔 常流是故經言此身苦所集一切皆不淨何有智 恵者而當樂此身生死既有如此種種 𢙣 法甚可患。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_951","lb_range":["0056a01","0056a02","0056a03","0056a04","0056a05","0056a06"],"text_zh":"苐四發菩提心者經言當樂佛身佛身者即 法身也󷖲无量功徳智恵生󷖲六波羅蜜生󷖲 慈悲喜捨生󷖲三十七助道法生󷖲如是󵓕種 種功徳智恵生如來身欲得此身者當發菩 提心求一切種智常樂我淨󴅽婆若果淨佛國土 成就眾生於身命財无所恡惜。","text_en":"苐四發菩提心者經言當樂佛身佛身者即 法身也 󷖲 无量功徳智恵生 󷖲 六波羅蜜生 󷖲 慈悲喜 捨 生 󷖲 三十七助道法生 󷖲 如是 󵓕 種 種功徳智恵生如來身欲得此身者當發菩 提心求一切種智常樂我淨 󴅽 婆若果淨佛國土 成就眾生於身命財无所恡惜。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_952","lb_range":["0056a07","0056a08","0056a09","0056a10"],"text_zh":"苐五怨親平󵓕者於一切眾生起慈悲心无彼 我想何以故尒若見怨異親即是分別以分別故 起諸相着相着因緣生諸煩𢙉煩𢙉因緣造諸𢙣 業𢙣業因緣故得苦果。","text_en":"苐五怨親平 󵓕 者於一切眾生起慈悲心无彼 我想何以故尒若見怨異親即是分別以分別故 起諸相着相着因緣生諸煩 𢙉 煩 𢙉 因緣造諸 𢙣 業 𢙣 業因緣故得苦果。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_953","lb_range":["0057a01","0057a02","0057a03","0057a04","0057a05","0057a06"],"text_zh":"苐六念報佛㤙者如來往昔无量刧中捨頭目髄 󶫨支節手󷖵國城妻子𤉢馬七󳏃為我󵓕故脩 諸苦行此㤙此徳實難酬報是故經言若以頂戴 兩肩荷負於恒沙刧亦不能報我󵓕欲報如來㤙 者當於此世勇猛精進忍捍勞苦不惜身命建立 三寶弘勇大乗廣化眾生同入正道。","text_en":"苐六念報佛 㤙 者如來往昔无量刧中 捨 頭目髄 󶫨 支節手 󷖵 國城妻子 𤉢 馬七 󳏃 為我 󵓕 故脩 諸苦行此 㤙 此徳實難酬報是故經言若以頂戴 兩肩荷負於恒沙刧亦不能報我 󵓕 欲報如來 㤙 者當於此世勇猛精進忍捍勞苦不惜身命建立 三寶弘勇大乗廣化眾生同入正道。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_954","lb_range":["0057a07","0057a08","0057a09","0057a10","0057a11","0058a01","0058a02","0058a03","0058a04","0058a05","0058a06","0058a07","0058a08","0058a09","0058a10","0059a01","0059a02","0059a03","0059a04","0059a05","0059a06","0059a07","0059a08","0059a09","0059a10","0059a11"],"text_zh":"苐七觀罪性空者无有實相󷖲因緣生顛倒而有 既󷖲因緣而生則可󷖲因緣而滅󷖲因緣而生者狎 近𢙣友造作无端󷖲因緣而滅者即是今日洗心 懺悔是故經言此罪相不在內不在外不在中間故 如此罪󷖲本是空生如是󵓕種心已緣想十方諸 佛賢聖擎捲合掌披陳至到慚愧改革舒歷 心肝洗蕩膓𦝩如此懺悔亦何罪而不滅亦何障而不消 若𣸪正尒脩修緩󷖷情慮徒自勞形於事何益且復 人命无常喻如轉燭一息不還便向灰壤三塗苦 報即身應受不可以錢財寶貨嘱託求脫󷑔𥥆 𰩑𰩑㤙赦无期獨嬰此苦无代受者莫言我今 生中无有此罪所以不能墾到懺悔經中道言凡夫之 人舉󷖵動𡵯无非是罪又𣸪過去生中皆𭜧成就 无量𢙣業追逐行者如影随形若不懺悔罪𢙣日 深故苞蔵瘕疵佛教不許󵘸誨先罪淨名所尚 故知長淪苦海寔由隱󷑕是故弟子今日發露懺 悔不敢󷑕蔵所言三障者一日煩𢙉二名為業三是 果報此三種法更相由𮑭因煩𢙉故以起𢙣業因𢙣 業故故得苦果是故弟子今日至心苐一先應懺悔 又此煩𢙉以為怨家何以能断眾生恵命拫故亦招 此煩𢙉以為賊能刧眾生諸善法故詔此煩𢙉以為 瀑河能㵱眾生入於生死大苦海故亦因此煩𢙉以為 羈鎻能繫眾生於生死獄不能得出故所以六道𭷣 連四生不絕𢙣業无窮苦果不息當知皆是煩𢙉 過四連生不絕𢙣業无窮苦果不息當知皆是煩 𢙉過患是故弟子今日運此增上善心歸依佛。","text_en":"苐七觀罪性空者无有實相 󷖲 因緣生顛倒而有 既 󷖲 因緣而生則可 󷖲 因緣而滅 󷖲 因緣而生者狎 近 𢙣 友造作无端 󷖲 因緣而滅者即是今日洗心 懺悔是故經言此罪相不在內不在外不在中間故 如此罪 󷖲 本是空生如是 󵓕 種心 已 緣想十方諸 佛賢聖擎捲合掌披陳至到慚愧改革舒歷 心肝洗蕩膓 𦝩 如此懺悔亦何罪而不滅亦何障而不消 若 𣸪 正尒脩修緩 󷖷 情慮徒自勞形於事何益且復 人命无常喻如轉燭一息不還便向 灰 壤三塗苦 報即身應受不可以錢財寶貨嘱託求脫 󷑔 𥥆 𰩑 𰩑 㤙 赦无期獨嬰此苦无代受者莫言我今 生中无有此罪所以不能墾到懺悔經中道言凡夫之 人舉 󷖵 動 𡵯 无非是罪又 𣸪 過去生中皆 𭜧 成就 无量 𢙣 業追逐行者如影随形若不懺悔罪 𢙣 日 深故苞蔵瘕疵佛教不許 󵘸 誨先罪淨名所尚 故知長淪苦海寔由隱 󷑕 是故弟子今日發露懺 悔不敢 󷑕 蔵所言三障者一日煩 𢙉 二名為業三是 果報此三種法更相由 𮑭 因煩 𢙉 故以起 𢙣 業因 𢙣 業故故得苦果是故弟子今日至心苐一先應懺悔 又此煩 𢙉 以為怨家何以能断眾生恵命拫故亦招 此煩 𢙉 以為賊能刧眾生諸善法故詔此煩 𢙉 以為 瀑河能 㵱 眾生入於生死大苦海故亦因此煩 𢙉 以為 羈鎻能繫眾生於生死獄不能得出故所以六道 𭷣 連四生不絕 𢙣 業无窮苦果不息當知皆是煩 𢙉 過四連生不絕 𢙣 業无窮苦果不息當知皆是煩 𢙉 過患是故弟子今日運此增上善心歸依佛。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_955","lb_range":["0060a01"],"text_zh":"南无東方善徳佛","text_en":"南无東方善徳佛 南无南方寶相佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_956","lb_range":[],"text_zh":"南无南方寶相佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_957","lb_range":["0060a02"],"text_zh":"南无西方普光佛","text_en":"南无西方普光佛 南无北方相徳佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_958","lb_range":[],"text_zh":"南无北方相徳佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_959","lb_range":["0060a03"],"text_zh":"南无東南方󱶈眀佛","text_en":"南无東南方 󱶈 眀佛 南无西南方上智佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_960","lb_range":[],"text_zh":"南无西南方上智佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_961","lb_range":["0060a04"],"text_zh":"南无西北方華徳佛","text_en":"南无西北方華徳佛 南无東北方眀智佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_962","lb_range":[],"text_zh":"南无東北方眀智佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_963","lb_range":["0060a05"],"text_zh":"南无下方眀徳佛","text_en":"南无下方眀徳佛 南无上方香積佛","type":"prose","confidence":1}
+{"unit_id":"D02n8680_964","lb_range":[],"text_zh":"南无上方香積佛","text_en":"","type":"prose","confidence":1}
+{"unit_id":"D02n8680_965","lb_range":["0060a06","0060a07","0060a08","0060a09","0060a10","0061a01","0061a02"],"text_zh":"如是十方盡虚空界一切三寶 弟子󷖲无始以來至于今日或在人天六道受報 有此心識常懷愚或繁滿胷衿或因三毒拫造一 切罪或因三漏造一切罪或因三覺造一切罪或因三 受造一切罪或因三苦造一切罪或緣三假造一切罪 或貪三有造一切罪如是󵓕罪无量无邊𢙉乱一 切六道四生今日慚愧皆𭜧懺悔。","text_en":"如是十方盡虚空界一切三寶 弟子 󷖲 无始以來至于今日或在人天六道受報 有此心識常懷愚或繁滿胷衿或因三毒拫造一 切罪或因三漏造一切罪或因三覺造一切罪或因三 受造一切罪或因三苦造一切罪或緣三假造一切罪 或貪三有造一切罪如是 󵓕 罪无量无邊 𢙉 乱一 切六道四生今日慚愧皆 𭜧 懺悔。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_966","lb_range":["0061a03","0061a04","0061a05","0061a06","0061a07","0061a08","0061a09","0061a10","0061a11","0062a01"],"text_zh":"又𣸪弟子无始以來至於今日或因四識住造一切罪 或因四流造一切罪或因四取造一切罪或因四執造一 切罪或因四緣造一切罪或因四大造一切罪或因四縛 造一切罪或因四食造一切罪或因四生造一切罪如是󵓕 罪无量无邊𢙉乱六道一切眾生今日慙愧皆𭜧懺 悔又復弟子无始以來至於今日或因五住地煩𢙉造一 切罪或因五受拫造一切罪或因五盖造一切罪或因五 慳造一切罪或因五慳造一切罪或因五見造一切罪或 因五心造一切罪如是󵓕煩𢙉无量无邊𢙉亂六道一 切四生今日發露皆𢘻懺悔。","text_en":"又 𣸪 弟子无始以來至於今日或因四識住造一切罪 或因四流造一切罪或因四取造一切罪或因四執造一 切罪或因四緣造一切罪或因四大造一切罪或因四縛 造一切罪或因四食造一切罪或因四生造一切罪如是 󵓕 罪无量无邊 𢙉 乱六道一切眾生今日慙愧皆 𭜧 懺 悔又復弟子无始以來至於今日或因五住地煩 𢙉 造一 切罪或因五受拫造一切罪或因五盖造一切罪或因五 慳造一切罪或因五慳造一切罪或因五見造一切罪或 因五心造一切罪如是 󵓕 煩 𢙉 无量无邊 𢙉 亂六道一 切四生今日發露皆 𢘻 懺悔。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_967","lb_range":["0062a02","0062a03","0062a04","0062a05","0062a06"],"text_zh":"又𣸪弟子无始以來至於今日或因六情拫造一切罪 或因六識造一切罪或因六拫造一切罪或因六受造一 切罪或因六行造一切罪或因六受造一切罪或因六疑造 一切罪如是󵓕煩𢙉无量无邊𢙉亂六道一切四生今日 慙愧發露皆𢘻懺悔。","text_en":"又 𣸪 弟子无始以來至於今日或因六情拫造一切罪 或因六識造一切罪或因六拫造一切罪或因六受造一 切罪或因六行造一切罪或因六受造一切罪或因六疑造 一切罪如是 󵓕 煩 𢙉 无量无邊 𢙉 亂六道一切四生今日 慙愧發露皆 𢘻 懺悔。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_968","lb_range":["0062a07","0062a08","0062a09"],"text_zh":"又𣸪弟子无始以來至於今日或因七漏造一切罪或 因七使造一切罪或因八到造一切罪或因八苦造一切罪 𢙉亂六道一切四生今日發露皆𭜧懺悔。","text_en":"又 𣸪 弟子无始以來至於今日或因七漏造一切罪或 因七使造一切罪或因八到造一切罪或因八苦造一切罪 𢙉 亂六道一切四生今日發露皆 𭜧 懺悔。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_969","lb_range":["0062a10","0063a01","0063a02","0063a03","0063a04","0063a05","0063a06","0063a07","0063a08"],"text_zh":"又復无始以來至于今日或因九𢙉造一切罪或因九結 造一切罪或因九上緣造一切罪或因十煩𢙉造一切罪 或因十緾造一切罪或因十一遍使造一切罪或因十二入 造一切罪或因十六知見造一切罪或因十八界造一切罪 或因廿五我造一切罪或因六十二見造一切罪或因見諦 思惟九十八使百八煩𢙉晝夜熾然開諸門漏造一切罪 𢙉亂賢聖及以四生遍滿三界󳇐亘六道无𠁅可 蔵无𠁅可避今日至到向十方佛尊法聖眾慙愧發 露皆𢘻懺悔。","text_en":"又復无始以來至于今日或因九 𢙉 造一切罪或因九結 造一切罪或因九上緣造一切罪或因十煩 𢙉 造一切罪 或因十緾造一切罪或因十一遍使造一切罪或因十二入 造一切罪或因十六知見造一切罪或因十八界造一切罪 或因廿五我造一切罪或因六十二見造一切罪或因見諦 思惟九十八使百八煩 𢙉 晝夜熾然開諸門漏造一切罪 𢙉 亂賢聖及以四生遍滿三界 󳇐 亘六道无 𠁅 可 蔵无 𠁅 可避今日至到向十方佛尊法聖眾慙愧發 露皆 𢘻 懺悔。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_970","lb_range":["0063a09","0063a10"],"text_zh":"願弟子承是懺悔三毒一切煩𢙉生生世世三恵眀 三達朗三苦滅三願滿。","text_en":"願弟子承是懺悔三毒一切煩 𢙉 生生世世三恵眀 三達朗三苦滅三願滿。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_971","lb_range":["0063a11","0063a12","0064a01","0064a02","0064a03","0064a04","0064a05","0064a06","0064a07","0064a08","0064a09"],"text_zh":"願弟子承是懺悔四識一切煩𢙉所生功徳生生世 世廣四󵓕心立四信業四𢙣趣滅得四无畏願弟 子承是懺悔五盖󵓕諸煩𢙉度五道樹五拫淨五 眼成五分懺悔六受󵓕諸煩𢙉所生功徳願生生世 世具󷖵六神通滿󷖵六度業不為六塵或常行 六妙行又復弟子承是懺悔七漏八垢九結十緾󵓕一切 諸煩𢙉所生功徳生生世世坐七淨花洗塵八水具九 断智成十地行願以懺悔十一遍使及十二入十八界󵓕一 切諸煩𢙉所生功徳願十一空觧常用拪心自在能轉 十二行輪具󷖵十八不共之法无量功徳一切圎滿作礼 一拜。","text_en":"願弟子承是懺悔四識一切煩 𢙉 所生功徳生生世 世廣四 󵓕 心立四信業四 𢙣 趣滅得四无畏願弟 子承是懺悔五盖 󵓕 諸煩 𢙉 度五道樹五拫淨五 眼成五分懺悔六受 󵓕 諸煩 𢙉 所生功徳願生生世 世具 󷖵 六神通滿 󷖵 六度業不為六塵或常行 六妙行又復弟子承是懺悔七漏八垢九結十緾 󵓕 一切 諸煩 𢙉 所生功徳生生世世坐七淨花洗塵八水具九 断智成十地行願以懺悔十一遍使及十二入十八界 󵓕 一 切諸煩 𢙉 所生功徳願十一空觧常用拪心自在能轉 十二行輪具 󷖵 十八不共之法无量功徳一切圎滿作礼 一拜。","type":"prose","confidence":1}
+{"unit_id":"D02n8680_972","lb_range":["0064a10","0064a11"],"text_zh":"","text_en":"佛名經卷苐七","type":"prose","confidence":1}

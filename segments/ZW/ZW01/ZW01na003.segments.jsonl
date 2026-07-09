@@ -1,0 +1,60 @@
+{"source_sha256":"fe30d74a7845c257ac79847542d2e62f8920e53a779d0a16f56fce4e38eb9fea","schema":"seg-v1"}
+{"unit_id":"ZW01na003_001","lb_range":["0027a01","0027a02","0027a03","0027a04"],"text_zh":"緣起","text_en":"目錄 緣起 （1）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_002","lb_range":[],"text_zh":"（1）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_003","lb_range":["0027a05"],"text_zh":"卷首語","text_en":"卷首語 （5）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_004","lb_range":[],"text_zh":"（5）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_005","lb_range":["0027a06"],"text_zh":"Foreword","text_en":"Foreword （10）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_006","lb_range":[],"text_zh":"（10）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_007","lb_range":["0027a07"],"text_zh":"卷首の語り","text_en":"卷首の語り （20）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_008","lb_range":[],"text_zh":"（20）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_009","lb_range":["0027a08"],"text_zh":"目錄","text_en":"目錄 （27）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_010","lb_range":[],"text_zh":"（27）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_011","lb_range":["0027a09"],"text_zh":"錄文校勘體例","text_en":"錄文校勘體例 （29）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_012","lb_range":[],"text_zh":"（29）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_013","lb_range":["0027a10"],"text_zh":"敦煌禪籍","text_en":"敦煌禪籍","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_014","lb_range":["0027a11"],"text_zh":"天竺國菩提達摩禪師論","text_en":"天竺國菩提達摩禪師論 （32）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_015","lb_range":[],"text_zh":"（32）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_016","lb_range":["0027a12"],"text_zh":"禪策問答","text_en":"禪策問答 （45）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_017","lb_range":[],"text_zh":"（45）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_018","lb_range":["0027a13"],"text_zh":"息諍論","text_en":"息諍論 （53）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_019","lb_range":[],"text_zh":"（53）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_020","lb_range":["0027a14","0027a15"],"text_zh":"密教典籍","text_en":"密教典籍","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_021","lb_range":["0027a16"],"text_zh":"八種粗重犯墮","text_en":"八種粗重犯墮 （60）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_022","lb_range":[],"text_zh":"（60）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_023","lb_range":["0027a17","0027a18"],"text_zh":"三藏論疏","text_en":"三藏論疏","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_024","lb_range":["0027a19"],"text_zh":"天請問經疏","text_en":"天請問經疏 （64）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_025","lb_range":[],"text_zh":"（64）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_026","lb_range":["0027a20"],"text_zh":"附：文軌及其著作","text_en":"附：文軌及其著作 （95）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_027","lb_range":[],"text_zh":"（95）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_028","lb_range":["0027a21"],"text_zh":"《行事鈔》中分門圖錄","text_en":"《行事鈔》中分門圖錄 （101）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_029","lb_range":[],"text_zh":"（101）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_030","lb_range":["0027a22"],"text_zh":"阿毗達磨俱舍論實義疏","text_en":"阿毗達磨俱舍論實義疏 （169）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_031","lb_range":[],"text_zh":"（169）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_032","lb_range":["0027a23","0027a24"],"text_zh":"疑偽經","text_en":"疑偽經","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_033","lb_range":["0027a25"],"text_zh":"佛為心王菩薩說頭陀經","text_en":"佛為心王菩薩說頭陀經 （251）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_034","lb_range":[],"text_zh":"（251）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_035","lb_range":["0027a26"],"text_zh":"附：關於《佛為心王菩薩說頭陀經》","text_en":"附：關於《佛為心王菩薩說頭陀經》 （318）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_036","lb_range":[],"text_zh":"（318）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_037","lb_range":["0028a01"],"text_zh":"佛說孝順子修行成佛經","text_en":"佛說孝順子修行成佛經 （329）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_038","lb_range":[],"text_zh":"（329）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_039","lb_range":["0028a02"],"text_zh":"最妙勝定經","text_en":"最妙勝定經 （338）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_040","lb_range":[],"text_zh":"（338）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_041","lb_range":["0028a03"],"text_zh":"水月觀音經","text_en":"水月觀音經 （349）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_042","lb_range":[],"text_zh":"（349）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_043","lb_range":["0028a04"],"text_zh":"附：關於《水月觀音經》","text_en":"附：關於《水月觀音經》 （350）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_044","lb_range":[],"text_zh":"（350）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_045","lb_range":["0028a05"],"text_zh":"佛說金剛經纂","text_en":"佛說金剛經纂 （354）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_046","lb_range":[],"text_zh":"（354）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_047","lb_range":["0028a06"],"text_zh":"大方廣華嚴十惡品經","text_en":"大方廣華嚴十惡品經 （359）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_048","lb_range":[],"text_zh":"（359）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_049","lb_range":["0028a07"],"text_zh":"天公經","text_en":"天公經 （369）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_050","lb_range":[],"text_zh":"（369）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_051","lb_range":["0028a08"],"text_zh":"佛母經","text_en":"佛母經 （374）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_052","lb_range":[],"text_zh":"（374）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_053","lb_range":["0028a09","0028a10"],"text_zh":"研究論文","text_en":"研究論文","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_054","lb_range":["0028a11"],"text_zh":"關於禪藏與敦煌禪籍的若干問題","text_en":"關於禪藏與敦煌禪籍的若干問題 （392）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_055","lb_range":[],"text_zh":"（392）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_056","lb_range":["0028a12","0028a13"],"text_zh":"徵稿啟事","text_en":"徵 稿啟事 （426）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_057","lb_range":[],"text_zh":"（426）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_058","lb_range":["0028a14"],"text_zh":"《藏外佛教文獻》編委會啟事","text_en":"《藏外佛教文獻》編委會啟事 （428）","type":"prose","confidence":1}
+{"unit_id":"ZW01na003_059","lb_range":[],"text_zh":"（428）","text_en":"","type":"prose","confidence":1}

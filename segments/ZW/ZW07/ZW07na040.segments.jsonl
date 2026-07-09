@@ -1,0 +1,61 @@
+{"source_sha256":"b913331f298c898abe5b8f4f03586ca4cbacaffa671a261c0d6da0bba3e2d234","schema":"seg-v1"}
+{"unit_id":"ZW07na040_001","lb_range":["0033a01","0033a02","0033a03","0033a04"],"text_zh":"卷首語","text_en":"目錄 卷首語 （1）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_002","lb_range":[],"text_zh":"（1）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_003","lb_range":["0033a05"],"text_zh":"Foreword","text_en":"Foreword （9）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_004","lb_range":[],"text_zh":"（9）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_005","lb_range":["0033a06"],"text_zh":"序（日文）","text_en":"序（日文） （23）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_006","lb_range":[],"text_zh":"（23）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_007","lb_range":["0033a07"],"text_zh":"目錄","text_en":"目錄 （33）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_008","lb_range":[],"text_zh":"（33）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_009","lb_range":["0033a08"],"text_zh":"錄文校勘體例","text_en":"錄文校勘體例 （35）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_010","lb_range":[],"text_zh":"（35）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_011","lb_range":["0033a09","0033a10"],"text_zh":"三藏論疏","text_en":"三藏論疏","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_012","lb_range":["0033a11"],"text_zh":"注心要法門","text_en":"注心要法門 （39）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_013","lb_range":[],"text_zh":"（39）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_014","lb_range":["0033a12","0033a13"],"text_zh":"佛教儀軌","text_en":"佛教儀軌","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_015","lb_range":["0033a14"],"text_zh":"金剛五禮","text_en":"金剛五禮 （52）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_016","lb_range":[],"text_zh":"（52）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_017","lb_range":["0033a15"],"text_zh":"金剛禮","text_en":"金剛禮 （63）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_018","lb_range":[],"text_zh":"（63）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_019","lb_range":["0033a16","0033a17"],"text_zh":"阿吒力教典籍","text_en":"阿吒力教典籍","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_020","lb_range":["0033a18"],"text_zh":"護國司南抄","text_en":"護國司南抄 （68）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_021","lb_range":[],"text_zh":"（68）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_022","lb_range":["0033a19"],"text_zh":"佛說消災延壽藥師灌頂章句儀","text_en":"佛說消災延壽藥師灌頂章句儀 （114）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_023","lb_range":[],"text_zh":"（114）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_024","lb_range":["0033a20"],"text_zh":"藥師道場解經頌文灌頂章句教誡儀文","text_en":"藥師道場解經頌文灌頂章句教誡儀文 （115）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_025","lb_range":[],"text_zh":"（115）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_026","lb_range":["0033a21"],"text_zh":"佛說消災延壽藥師灌頂章句一時儀文","text_en":"佛說消災延壽藥師灌頂章句一時儀文 （133）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_027","lb_range":[],"text_zh":"（133）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_028","lb_range":["0033a22"],"text_zh":"佛說藥師二時科儀文","text_en":"佛說藥師二時科儀文 （151）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_029","lb_range":[],"text_zh":"（151）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_030","lb_range":["0033a23"],"text_zh":"佛說藥師三時儀文","text_en":"佛說藥師三時儀文 （166）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_031","lb_range":[],"text_zh":"（166）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_032","lb_range":["0033a24"],"text_zh":"藥師灌頂章句拔苦過罪生死得度綱目","text_en":"藥師灌頂章句拔苦過罪生死得度綱目 （199）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_033","lb_range":[],"text_zh":"（199）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_034","lb_range":["0033a25"],"text_zh":"佛說藥師三時密咒","text_en":"佛說藥師三時密咒 （210）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_035","lb_range":[],"text_zh":"（210）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_036","lb_range":["0033a26"],"text_zh":"附：放生儀文","text_en":"附：放生儀文 （221）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_037","lb_range":[],"text_zh":"（221）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_038","lb_range":["0034a01","0034a02"],"text_zh":"疑偽經","text_en":"疑偽經","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_039","lb_range":["0034a03"],"text_zh":"淨度三昧經","text_en":"淨度三昧經 （226）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_040","lb_range":[],"text_zh":"（226）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_041","lb_range":["0034a04"],"text_zh":"佛說淨度三昧經卷第一","text_en":"佛說淨度三昧經卷第一 （231）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_042","lb_range":[],"text_zh":"（231）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_043","lb_range":["0034a05"],"text_zh":"佛說淨度三昧經卷第二","text_en":"佛說淨度三昧經卷第二 （262）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_044","lb_range":[],"text_zh":"（262）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_045","lb_range":["0034a06"],"text_zh":"佛說淨度三昧經卷第三","text_en":"佛說淨度三昧經卷第三 （292）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_046","lb_range":[],"text_zh":"（292）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_047","lb_range":["0034a07"],"text_zh":"附：《淨度三昧經》的編纂與撰述","text_en":"附：《淨度三昧經》的編纂與撰述 （327）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_048","lb_range":[],"text_zh":"（327）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_049","lb_range":["0034a08"],"text_zh":"地藏菩薩十齋日","text_en":"地藏菩薩十齋日 （348）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_050","lb_range":[],"text_zh":"（348）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_051","lb_range":["0034a09"],"text_zh":"附：關於《地藏菩薩十齋日》","text_en":"附：關於《地藏菩薩十齋日》 （363）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_052","lb_range":[],"text_zh":"（363）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_053","lb_range":["0034a10","0034a11"],"text_zh":"西夏佚典","text_en":"西夏佚典","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_054","lb_range":["0034a12"],"text_zh":"寧夏西夏方塔出土漢文佛典敘錄","text_en":"寧夏西夏方塔出土漢文佛典敘錄 （372）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_055","lb_range":[],"text_zh":"（372）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_056","lb_range":["0034a13","0034a14"],"text_zh":"研究論文","text_en":"研究論文","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_057","lb_range":["0034a15","0034a16"],"text_zh":"日本佛教目錄學的形成 ——以《東域傳燈錄》為中心","text_en":"日本佛教目錄學的形成 ——以《東域傳燈錄》為中心 （416）","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_058","lb_range":[],"text_zh":"（416）","text_en":"","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_059","lb_range":["0034a17","0034a18"],"text_zh":"《藏外佛教文獻》要目","text_en":"《藏外佛教文獻》要目","type":"prose","confidence":1}
+{"unit_id":"ZW07na040_060","lb_range":["0034a19"],"text_zh":"徵稿啟事","text_en":"徵稿啟事","type":"prose","confidence":1}
