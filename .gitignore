@@ -42,3 +42,7 @@ obj/
 # --- Local generated reference TM ---
 translation-memory.reference.jsonl
 xml-p5t-safety-backup/
+
+# The Zen dictionary headword index is a published data artifact the website
+# depends on, not a search index. The blanket *index* rule would swallow it.
+!termbase.index.json
