@@ -1,0 +1,1665 @@
+{
+ "version": 2,
+ "corpus": "Cbeta",
+ "file_count": 37412,
+ "master_count": 276,
+ "built_utc": "2026-07-14T15:17:46.460526Z",
+ "masters": {
+  "Bai Juyi": {
+   "slug": "bai_juyi",
+   "primary_count": 0,
+   "secondary_count": 137,
+   "total_mentions": 413
+  },
+  "Baiyun Shouduan": {
+   "slug": "baiyun_shouduan",
+   "primary_count": 2,
+   "secondary_count": 69,
+   "total_mentions": 142
+  },
+  "Baizhang Huaihai": {
+   "slug": "baizhang_huaihai",
+   "primary_count": 4,
+   "secondary_count": 740,
+   "total_mentions": 5734
+  },
+  "Bajiao Huiqing": {
+   "slug": "bajiao_huiqing",
+   "primary_count": 0,
+   "secondary_count": 23,
+   "total_mentions": 36
+  },
+  "Baling Haojian": {
+   "slug": "baling_haojian",
+   "primary_count": 0,
+   "secondary_count": 11,
+   "total_mentions": 17
+  },
+  "Baoen Xuanze": {
+   "slug": "baoen_xuanze",
+   "primary_count": 0,
+   "secondary_count": 16,
+   "total_mentions": 23
+  },
+  "Baofeng Mingxuan": {
+   "slug": "baofeng_mingxuan",
+   "primary_count": 0,
+   "secondary_count": 7,
+   "total_mentions": 16
+  },
+  "Baofu Congzhan": {
+   "slug": "baofu_congzhan",
+   "primary_count": 0,
+   "secondary_count": 20,
+   "total_mentions": 35
+  },
+  "Baoshou Yanzhao": {
+   "slug": "baoshou_yanzhao",
+   "primary_count": 0,
+   "secondary_count": 1,
+   "total_mentions": 1
+  },
+  "Baotang Wuzhu": {
+   "slug": "baotang_wuzhu",
+   "primary_count": 0,
+   "secondary_count": 12,
+   "total_mentions": 23
+  },
+  "Beomil": {
+   "slug": "beomil",
+   "primary_count": 0,
+   "secondary_count": 11,
+   "total_mentions": 35
+  },
+  "Beomnang": {
+   "slug": "beomnang",
+   "primary_count": 0,
+   "secondary_count": 89,
+   "total_mentions": 293
+  },
+  "Bianrong": {
+   "slug": "bianrong",
+   "primary_count": 0,
+   "secondary_count": 48,
+   "total_mentions": 73
+  },
+  "Bodhidharma": {
+   "slug": "bodhidharma",
+   "primary_count": 30,
+   "secondary_count": 1382,
+   "total_mentions": 11631
+  },
+  "Buhyu Seonsu": {
+   "slug": "buhyu_seonsu",
+   "primary_count": 0,
+   "secondary_count": 2,
+   "total_mentions": 16
+  },
+  "Buyong Yeonggwan": {
+   "slug": "buyong_yeonggwan",
+   "primary_count": 0,
+   "secondary_count": 2,
+   "total_mentions": 22
+  },
+  "Byeogam Gakseong": {
+   "slug": "byeogam_gakseong",
+   "primary_count": 0,
+   "secondary_count": 2,
+   "total_mentions": 9
+  },
+  "Byeokgye Jeongsim": {
+   "slug": "byeokgye_jeongsim",
+   "primary_count": 0,
+   "secondary_count": 1,
+   "total_mentions": 1
+  },
+  "Byeoksong Jieom": {
+   "slug": "byeoksong_jieom",
+   "primary_count": 0,
+   "secondary_count": 1,
+   "total_mentions": 11
+  },
+  "Caoshan Benji": {
+   "slug": "caoshan_benji",
+   "primary_count": 2,
+   "secondary_count": 370,
+   "total_mentions": 2033
+  },
+  "Changqing Huileng": {
+   "slug": "changqing_huileng",
+   "primary_count": 0,
+   "secondary_count": 30,
+   "total_mentions": 56
+  },
+  "Changsha Jingcen": {
+   "slug": "changsha_jingcen",
+   "primary_count": 0,
+   "secondary_count": 37,
+   "total_mentions": 68
+  },
+  "Chejing": {
+   "slug": "chejing",
+   "primary_count": 0,
+   "secondary_count": 31,
+   "total_mentions": 35
+  },
+  "Cheonyeong": {
+   "slug": "cheonyeong",
+   "primary_count": 0,
+   "secondary_count": 9,
+   "total_mentions": 9
+  },
+  "Chuanzi Decheng": {
+   "slug": "chuanzi_decheng",
+   "primary_count": 1,
+   "secondary_count": 314,
+   "total_mentions": 1045
+  },
+  "Chungji": {
+   "slug": "chungji",
+   "primary_count": 0,
+   "secondary_count": 1,
+   "total_mentions": 1
+  },
+  "Chunzuo Wencai": {
+   "slug": "chunzuo_wencai",
+   "primary_count": 0,
+   "secondary_count": 12,
+   "total_mentions": 25
+  },
+  "Chushi Fanqi": {
+   "slug": "chushi_fanqi",
+   "primary_count": 1,
+   "secondary_count": 26,
+   "total_mentions": 52
+  },
+  "Cishou Huaishen": {
+   "slug": "cishou_huaishen",
+   "primary_count": 1,
+   "secondary_count": 9,
+   "total_mentions": 20
+  },
+  "Cizhou Zhiru": {
+   "slug": "cizhou_zhiru",
+   "primary_count": 0,
+   "secondary_count": 2,
+   "total_mentions": 3
+  },
+  "Cuiwei Wuxue": {
+   "slug": "cuiwei_wuxue",
+   "primary_count": 0,
+   "secondary_count": 31,
+   "total_mentions": 62
+  },
+  "Cuiyan Lingcan": {
+   "slug": "cuiyan_lingcan",
+   "primary_count": 0,
+   "secondary_count": 20,
+   "total_mentions": 45
+  },
+  "Dahui Zonggao": {
+   "slug": "dahui_zonggao",
+   "primary_count": 2,
+   "secondary_count": 28,
+   "total_mentions": 44
+  },
+  "Damei Fachang": {
+   "slug": "damei_fachang",
+   "primary_count": 0,
+   "secondary_count": 273,
+   "total_mentions": 872
+  },
+  "Danxia Tianran": {
+   "slug": "danxia_tianran",
+   "primary_count": 3,
+   "secondary_count": 459,
+   "total_mentions": 2023
+  },
+  "Danxia Zichun": {
+   "slug": "danxia_zichun",
+   "primary_count": 1,
+   "secondary_count": 30,
+   "total_mentions": 55
+  },
+  "Daoan": {
+   "slug": "daoan",
+   "primary_count": 5,
+   "secondary_count": 563,
+   "total_mentions": 2593
+  },
+  "Daosheng": {
+   "slug": "daosheng",
+   "primary_count": 3,
+   "secondary_count": 852,
+   "total_mentions": 2795
+  },
+  "Daowu Yuanzhi": {
+   "slug": "daowu_yuanzhi",
+   "primary_count": 0,
+   "secondary_count": 4,
+   "total_mentions": 5
+  },
+  "Daoxin": {
+   "slug": "daoxin",
+   "primary_count": 1,
+   "secondary_count": 279,
+   "total_mentions": 995
+  },
+  "Dayang Jingxuan": {
+   "slug": "dayang_jingxuan",
+   "primary_count": 0,
+   "secondary_count": 16,
+   "total_mentions": 24
+  },
+  "Dazhu Huihai": {
+   "slug": "dazhu_huihai",
+   "primary_count": 0,
+   "secondary_count": 163,
+   "total_mentions": 353
+  },
+  "Deshan Xuanjian": {
+   "slug": "deshan_xuanjian",
+   "primary_count": 0,
+   "secondary_count": 786,
+   "total_mentions": 7501
+  },
+  "Deshan Yuanming": {
+   "slug": "deshan_yuanming",
+   "primary_count": 0,
+   "secondary_count": 24,
+   "total_mentions": 37
+  },
+  "Doheon": {
+   "slug": "doheon",
+   "primary_count": 0,
+   "secondary_count": 16,
+   "total_mentions": 31
+  },
+  "Donglin Changzong": {
+   "slug": "donglin_changzong",
+   "primary_count": 0,
+   "secondary_count": 20,
+   "total_mentions": 30
+  },
+  "Dongshan Liangjie": {
+   "slug": "dongshan_liangjie",
+   "primary_count": 2,
+   "secondary_count": 571,
+   "total_mentions": 6344
+  },
+  "Dongshan Shouchu": {
+   "slug": "dongshan_shouchu",
+   "primary_count": 0,
+   "secondary_count": 42,
+   "total_mentions": 73
+  },
+  "Doseon": {
+   "slug": "doseon",
+   "primary_count": 0,
+   "secondary_count": 10,
+   "total_mentions": 241
+  },
+  "Doui": {
+   "slug": "doui",
+   "primary_count": 0,
+   "secondary_count": 707,
+   "total_mentions": 1856
+  },
+  "Doushuai Congyue": {
+   "slug": "doushuai_congyue",
+   "primary_count": 0,
+   "secondary_count": 28,
+   "total_mentions": 53
+  },
+  "Doyun": {
+   "slug": "doyun",
+   "primary_count": 0,
+   "secondary_count": 8,
+   "total_mentions": 15
+  },
+  "Duanqiao Miaolun": {
+   "slug": "duanqiao_miaolun",
+   "primary_count": 1,
+   "secondary_count": 24,
+   "total_mentions": 48
+  },
+  "Fayan Wenyi": {
+   "slug": "fayan_wenyi",
+   "primary_count": 0,
+   "secondary_count": 29,
+   "total_mentions": 50
+  },
+  "Feiyin Tongrong": {
+   "slug": "feiyin_tongrong",
+   "primary_count": 0,
+   "secondary_count": 17,
+   "total_mentions": 34
+  },
+  "Fengxue Yanzhao": {
+   "slug": "fengxue_yanzhao",
+   "primary_count": 0,
+   "secondary_count": 56,
+   "total_mentions": 112
+  },
+  "Fenyang Shanzhao": {
+   "slug": "fenyang_shanzhao",
+   "primary_count": 0,
+   "secondary_count": 37,
+   "total_mentions": 69
+  },
+  "Fenzhou Wuye": {
+   "slug": "fenzhou_wuye",
+   "primary_count": 0,
+   "secondary_count": 35,
+   "total_mentions": 55
+  },
+  "Foyan Qingyuan": {
+   "slug": "foyan_qingyuan",
+   "primary_count": 0,
+   "secondary_count": 19,
+   "total_mentions": 31
+  },
+  "Foyin Liaoyuan": {
+   "slug": "foyin_liaoyuan",
+   "primary_count": 0,
+   "secondary_count": 15,
+   "total_mentions": 29
+  },
+  "Fozhao Deguang": {
+   "slug": "fozhao_deguang",
+   "primary_count": 0,
+   "secondary_count": 27,
+   "total_mentions": 41
+  },
+  "Furong Daokai": {
+   "slug": "furong_daokai",
+   "primary_count": 0,
+   "secondary_count": 44,
+   "total_mentions": 73
+  },
+  "Fushan Fayuan": {
+   "slug": "fushan_fayuan",
+   "primary_count": 0,
+   "secondary_count": 31,
+   "total_mentions": 54
+  },
+  "Gaoan Dayu": {
+   "slug": "gaoan_dayu",
+   "primary_count": 0,
+   "secondary_count": 27,
+   "total_mentions": 42
+  },
+  "Gaofeng Yuanmiao": {
+   "slug": "gaofeng_yuanmiao",
+   "primary_count": 2,
+   "secondary_count": 22,
+   "total_mentions": 49
+  },
+  "Gihwa": {
+   "slug": "gihwa",
+   "primary_count": 0,
+   "secondary_count": 16,
+   "total_mentions": 27
+  },
+  "Gugok Gagun": {
+   "slug": "gugok_gagun",
+   "primary_count": 0,
+   "secondary_count": 1,
+   "total_mentions": 22
+  },
+  "Guifeng Zongmi": {
+   "slug": "guifeng_zongmi",
+   "primary_count": 23,
+   "secondary_count": 191,
+   "total_mentions": 822
+  },
+  "Guishan Lingyou": {
+   "slug": "guishan_lingyou",
+   "primary_count": 5,
+   "secondary_count": 587,
+   "total_mentions": 5530
+  },
+  "Guizong Zhichang": {
+   "slug": "guizong_zhichang",
+   "primary_count": 0,
+   "secondary_count": 32,
+   "total_mentions": 55
+  },
+  "Gushan Shenyan": {
+   "slug": "gushan_shenyan",
+   "primary_count": 0,
+   "secondary_count": 22,
+   "total_mentions": 45
+  },
+  "Gyeongu": {
+   "slug": "gyeongu",
+   "primary_count": 0,
+   "secondary_count": 7,
+   "total_mentions": 12
+  },
+  "Hanshan Deqing": {
+   "slug": "hanshan_deqing",
+   "primary_count": 0,
+   "secondary_count": 29,
+   "total_mentions": 72
+  },
+  "Hanyue Fazang": {
+   "slug": "hanyue_fazang",
+   "primary_count": 0,
+   "secondary_count": 13,
+   "total_mentions": 22
+  },
+  "Hoam Chejeong": {
+   "slug": "hoam_chejeong",
+   "primary_count": 0,
+   "secondary_count": 1,
+   "total_mentions": 2
+  },
+  "Hongcheok": {
+   "slug": "hongcheok",
+   "primary_count": 0,
+   "secondary_count": 3,
+   "total_mentions": 14
+  },
+  "Hongren": {
+   "slug": "hongren",
+   "primary_count": 1,
+   "secondary_count": 182,
+   "total_mentions": 1009
+  },
+  "Hongzhi Zhengjue": {
+   "slug": "hongzhi_zhengjue",
+   "primary_count": 2,
+   "secondary_count": 129,
+   "total_mentions": 455
+  },
+  "Honwon": {
+   "slug": "honwon",
+   "primary_count": 0,
+   "secondary_count": 59,
+   "total_mentions": 83
+  },
+  "Huangbo Xiyun": {
+   "slug": "huangbo_xiyun",
+   "primary_count": 4,
+   "secondary_count": 699,
+   "total_mentions": 4758
+  },
+  "Huanglong Huinan": {
+   "slug": "huanglong_huinan",
+   "primary_count": 1,
+   "secondary_count": 40,
+   "total_mentions": 96
+  },
+  "Huanyou Zhengchuan": {
+   "slug": "huanyou_zhengchuan",
+   "primary_count": 0,
+   "secondary_count": 21,
+   "total_mentions": 43
+  },
+  "Huanyuan Fuyu": {
+   "slug": "huanyuan_fuyu",
+   "primary_count": 0,
+   "secondary_count": 13,
+   "total_mentions": 22
+  },
+  "Huike": {
+   "slug": "huike",
+   "primary_count": 0,
+   "secondary_count": 344,
+   "total_mentions": 1007
+  },
+  "Huilin Zongben": {
+   "slug": "huilin_zongben",
+   "primary_count": 1,
+   "secondary_count": 21,
+   "total_mentions": 41
+  },
+  "Huineng": {
+   "slug": "huineng",
+   "primary_count": 2,
+   "secondary_count": 614,
+   "total_mentions": 2550
+  },
+  "Huitang Zuxin": {
+   "slug": "huitang_zuxin",
+   "primary_count": 0,
+   "secondary_count": 12,
+   "total_mentions": 20
+  },
+  "Huiyuan of Lushan": {
+   "slug": "huiyuan_of_lushan",
+   "primary_count": 13,
+   "secondary_count": 374,
+   "total_mentions": 1069
+  },
+  "Huqiu Shaolong": {
+   "slug": "huqiu_shaolong",
+   "primary_count": 1,
+   "secondary_count": 53,
+   "total_mentions": 98
+  },
+  "Hwan-am Honsu": {
+   "slug": "hwan-am_honsu",
+   "primary_count": 0,
+   "secondary_count": 1,
+   "total_mentions": 8
+  },
+  "Hwanseong Jian": {
+   "slug": "hwanseong_jian",
+   "primary_count": 0,
+   "secondary_count": 1,
+   "total_mentions": 2
+  },
+  "Hyeeun": {
+   "slug": "hyeeun",
+   "primary_count": 0,
+   "secondary_count": 23,
+   "total_mentions": 37
+  },
+  "Hyejeol": {
+   "slug": "hyejeol",
+   "primary_count": 0,
+   "secondary_count": 70,
+   "total_mentions": 132
+  },
+  "Hyeonuk": {
+   "slug": "hyeonuk",
+   "primary_count": 0,
+   "secondary_count": 9,
+   "total_mentions": 18
+  },
+  "Hyesim": {
+   "slug": "hyesim",
+   "primary_count": 0,
+   "secondary_count": 4,
+   "total_mentions": 10
+  },
+  "Hyujeong": {
+   "slug": "hyujeong",
+   "primary_count": 0,
+   "secondary_count": 42,
+   "total_mentions": 200
+  },
+  "Ieom": {
+   "slug": "ieom",
+   "primary_count": 0,
+   "secondary_count": 17,
+   "total_mentions": 25
+  },
+  "Jialing Xingyin": {
+   "slug": "jialing_xingyin",
+   "primary_count": 0,
+   "secondary_count": 2,
+   "total_mentions": 21
+  },
+  "Ji'an Zongxin": {
+   "slug": "jian_zongxin",
+   "primary_count": 0,
+   "secondary_count": 1,
+   "total_mentions": 4
+  },
+  "Jiashan Shanhui": {
+   "slug": "jiashan_shanhui",
+   "primary_count": 0,
+   "secondary_count": 368,
+   "total_mentions": 2217
+  },
+  "Jingqing Daofu": {
+   "slug": "jingqing_daofu",
+   "primary_count": 0,
+   "secondary_count": 17,
+   "total_mentions": 28
+  },
+  "Jingzhao Chongxin": {
+   "slug": "jingzhao_chongxin",
+   "primary_count": 0,
+   "secondary_count": 3,
+   "total_mentions": 5
+  },
+  "Jinniu Heshang": {
+   "slug": "jinniu_heshang",
+   "primary_count": 0,
+   "secondary_count": 45,
+   "total_mentions": 64
+  },
+  "Jinul": {
+   "slug": "jinul",
+   "primary_count": 4,
+   "secondary_count": 7,
+   "total_mentions": 31
+  },
+  "Jiufeng Daoqian": {
+   "slug": "jiufeng_daoqian",
+   "primary_count": 0,
+   "secondary_count": 14,
+   "total_mentions": 22
+  },
+  "Juelang Daosheng": {
+   "slug": "juelang_daosheng",
+   "primary_count": 0,
+   "secondary_count": 10,
+   "total_mentions": 18
+  },
+  "Jukong Qibin": {
+   "slug": "jukong_qibin",
+   "primary_count": 0,
+   "secondary_count": 21,
+   "total_mentions": 39
+  },
+  "Junbeom": {
+   "slug": "junbeom",
+   "primary_count": 0,
+   "secondary_count": 1,
+   "total_mentions": 3
+  },
+  "Juzhi": {
+   "slug": "juzhi",
+   "primary_count": 8,
+   "secondary_count": 914,
+   "total_mentions": 5587
+  },
+  "Kaifu Daoning": {
+   "slug": "kaifu_daoning",
+   "primary_count": 1,
+   "secondary_count": 22,
+   "total_mentions": 44
+  },
+  "Kaixian Shanxian": {
+   "slug": "kaixian_shanxian",
+   "primary_count": 0,
+   "secondary_count": 23,
+   "total_mentions": 50
+  },
+  "Kongshi Daoren": {
+   "slug": "kongshi_daoren",
+   "primary_count": 0,
+   "secondary_count": 27,
+   "total_mentions": 48
+  },
+  "Kuangyuan Benguo": {
+   "slug": "kuangyuan_benguo",
+   "primary_count": 0,
+   "secondary_count": 2,
+   "total_mentions": 3
+  },
+  "Kumarajiva": {
+   "slug": "kumarajiva",
+   "primary_count": 54,
+   "secondary_count": 341,
+   "total_mentions": 2288
+  },
+  "Langye Huijue": {
+   "slug": "langye_huijue",
+   "primary_count": 0,
+   "secondary_count": 3,
+   "total_mentions": 4
+  },
+  "Lao'an": {
+   "slug": "laoan",
+   "primary_count": 0,
+   "secondary_count": 23,
+   "total_mentions": 43
+  },
+  "Laona Zuzheng": {
+   "slug": "laona_zuzheng",
+   "primary_count": 0,
+   "secondary_count": 14,
+   "total_mentions": 20
+  },
+  "Liangshan Yuanguan": {
+   "slug": "liangshan_yuanguan",
+   "primary_count": 0,
+   "secondary_count": 35,
+   "total_mentions": 71
+  },
+  "Lingyin Wentai": {
+   "slug": "lingyin_wentai",
+   "primary_count": 0,
+   "secondary_count": 19,
+   "total_mentions": 39
+  },
+  "Lingzhao": {
+   "slug": "lingzhao",
+   "primary_count": 0,
+   "secondary_count": 233,
+   "total_mentions": 725
+  },
+  "Linji Yixuan": {
+   "slug": "linji_yixuan",
+   "primary_count": 2,
+   "secondary_count": 738,
+   "total_mentions": 11782
+  },
+  "Linquan Conglun": {
+   "slug": "linquan_conglun",
+   "primary_count": 0,
+   "secondary_count": 12,
+   "total_mentions": 19
+  },
+  "Liu Tiemo": {
+   "slug": "liu_tiemo",
+   "primary_count": 0,
+   "secondary_count": 87,
+   "total_mentions": 174
+  },
+  "Longtan Chongxin": {
+   "slug": "longtan_chongxin",
+   "primary_count": 1,
+   "secondary_count": 392,
+   "total_mentions": 1504
+  },
+  "Longya Judun": {
+   "slug": "longya_judun",
+   "primary_count": 0,
+   "secondary_count": 24,
+   "total_mentions": 36
+  },
+  "Lumen Zijue": {
+   "slug": "lumen_zijue",
+   "primary_count": 0,
+   "secondary_count": 6,
+   "total_mentions": 26
+  },
+  "Luohan Guichen": {
+   "slug": "luohan_guichen",
+   "primary_count": 0,
+   "secondary_count": 21,
+   "total_mentions": 41
+  },
+  "Luopu Yuanan": {
+   "slug": "luopu_yuanan",
+   "primary_count": 0,
+   "secondary_count": 17,
+   "total_mentions": 29
+  },
+  "Luzu": {
+   "slug": "luzu",
+   "primary_count": 0,
+   "secondary_count": 205,
+   "total_mentions": 681
+  },
+  "Manhaeng": {
+   "slug": "manhaeng",
+   "primary_count": 0,
+   "secondary_count": 97,
+   "total_mentions": 319
+  },
+  "Mayu Baoche": {
+   "slug": "mayu_baoche",
+   "primary_count": 0,
+   "secondary_count": 21,
+   "total_mentions": 39
+  },
+  "Mazu Daoyi": {
+   "slug": "mazu_daoyi",
+   "primary_count": 1,
+   "secondary_count": 599,
+   "total_mentions": 4316
+  },
+  "Mi'an Xianjie": {
+   "slug": "mian_xianjie",
+   "primary_count": 0,
+   "secondary_count": 18,
+   "total_mentions": 28
+  },
+  "Miaodao": {
+   "slug": "miaodao",
+   "primary_count": 0,
+   "secondary_count": 591,
+   "total_mentions": 1626
+  },
+  "Miaoxin": {
+   "slug": "miaoxin",
+   "primary_count": 0,
+   "secondary_count": 74,
+   "total_mentions": 142
+  },
+  "Miaozong": {
+   "slug": "miaozong",
+   "primary_count": 0,
+   "secondary_count": 93,
+   "total_mentions": 215
+  },
+  "Miyun Yuanwu": {
+   "slug": "miyun_yuanwu",
+   "primary_count": 0,
+   "secondary_count": 34,
+   "total_mentions": 58
+  },
+  "Mongyeo": {
+   "slug": "mongyeo",
+   "primary_count": 0,
+   "secondary_count": 371,
+   "total_mentions": 630
+  },
+  "Moshan Liaoran": {
+   "slug": "moshan_liaoran",
+   "primary_count": 0,
+   "secondary_count": 3,
+   "total_mentions": 3
+  },
+  "Muchen Daomin": {
+   "slug": "muchen_daomin",
+   "primary_count": 0,
+   "secondary_count": 7,
+   "total_mentions": 12
+  },
+  "Muhak Jacho": {
+   "slug": "muhak_jacho",
+   "primary_count": 0,
+   "secondary_count": 1,
+   "total_mentions": 7
+  },
+  "Muyeom": {
+   "slug": "muyeom",
+   "primary_count": 0,
+   "secondary_count": 1337,
+   "total_mentions": 8274
+  },
+  "Muzhou Daoming": {
+   "slug": "muzhou_daoming",
+   "primary_count": 0,
+   "secondary_count": 379,
+   "total_mentions": 1854
+  },
+  "Nanquan Puyuan": {
+   "slug": "nanquan_puyuan",
+   "primary_count": 0,
+   "secondary_count": 583,
+   "total_mentions": 5104
+  },
+  "Nanta Guangyong": {
+   "slug": "nanta_guangyong",
+   "primary_count": 0,
+   "secondary_count": 17,
+   "total_mentions": 35
+  },
+  "Nanyang Huizhong": {
+   "slug": "nanyang_huizhong",
+   "primary_count": 0,
+   "secondary_count": 39,
+   "total_mentions": 73
+  },
+  "Nanyuan Huiyong": {
+   "slug": "nanyuan_huiyong",
+   "primary_count": 0,
+   "secondary_count": 46,
+   "total_mentions": 84
+  },
+  "Nanyue Huairang": {
+   "slug": "nanyue_huairang",
+   "primary_count": 0,
+   "secondary_count": 80,
+   "total_mentions": 190
+  },
+  "Naong Hyegeun": {
+   "slug": "naong_hyegeun",
+   "primary_count": 0,
+   "secondary_count": 2,
+   "total_mentions": 8
+  },
+  "Nguyen Thieu": {
+   "slug": "nguyen_thieu",
+   "primary_count": 0,
+   "secondary_count": 7,
+   "total_mentions": 8
+  },
+  "Ningran Liaogai": {
+   "slug": "ningran_liaogai",
+   "primary_count": 0,
+   "secondary_count": 18,
+   "total_mentions": 34
+  },
+  "Niutou Fachi": {
+   "slug": "niutou_fachi",
+   "primary_count": 0,
+   "secondary_count": 1,
+   "total_mentions": 1
+  },
+  "Niutou Farong": {
+   "slug": "niutou_farong",
+   "primary_count": 0,
+   "secondary_count": 221,
+   "total_mentions": 446
+  },
+  "Niutou Huifang": {
+   "slug": "niutou_huifang",
+   "primary_count": 0,
+   "secondary_count": 1,
+   "total_mentions": 1
+  },
+  "Ouyi Zhixu": {
+   "slug": "ouyi_zhixu",
+   "primary_count": 0,
+   "secondary_count": 13,
+   "total_mentions": 24
+  },
+  "Oxhead Zhiwei": {
+   "slug": "oxhead_zhiwei",
+   "primary_count": 0,
+   "secondary_count": 3,
+   "total_mentions": 4
+  },
+  "Pang Yun": {
+   "slug": "pang_yun",
+   "primary_count": 1,
+   "secondary_count": 389,
+   "total_mentions": 1314
+  },
+  "Panshan Baoji": {
+   "slug": "panshan_baoji",
+   "primary_count": 0,
+   "secondary_count": 43,
+   "total_mentions": 78
+  },
+  "Pingshan Chulin": {
+   "slug": "pingshan_chulin",
+   "primary_count": 0,
+   "secondary_count": 7,
+   "total_mentions": 25
+  },
+  "Po'an Zuxian": {
+   "slug": "poan_zuxian",
+   "primary_count": 0,
+   "secondary_count": 14,
+   "total_mentions": 22
+  },
+  "Poshan Haiming": {
+   "slug": "poshan_haiming",
+   "primary_count": 0,
+   "secondary_count": 13,
+   "total_mentions": 23
+  },
+  "Pungdam Uisim": {
+   "slug": "pungdam_uisim",
+   "primary_count": 0,
+   "secondary_count": 1,
+   "total_mentions": 2
+  },
+  "Puzhao Yibian": {
+   "slug": "puzhao_yibian",
+   "primary_count": 0,
+   "secondary_count": 7,
+   "total_mentions": 15
+  },
+  "Qianyan Yuanzhang": {
+   "slug": "qianyan_yuanzhang",
+   "primary_count": 0,
+   "secondary_count": 31,
+   "total_mentions": 59
+  },
+  "Qingliang Taiqin": {
+   "slug": "qingliang_taiqin",
+   "primary_count": 0,
+   "secondary_count": 14,
+   "total_mentions": 30
+  },
+  "Qingyuan Xingsi": {
+   "slug": "qingyuan_xingsi",
+   "primary_count": 0,
+   "secondary_count": 47,
+   "total_mentions": 86
+  },
+  "Qinshan Wensui": {
+   "slug": "qinshan_wensui",
+   "primary_count": 0,
+   "secondary_count": 18,
+   "total_mentions": 33
+  },
+  "Qiyuan Xinggang": {
+   "slug": "qiyuan_xinggang",
+   "primary_count": 0,
+   "secondary_count": 1,
+   "total_mentions": 1
+  },
+  "Ruiyan Shiyan": {
+   "slug": "ruiyan_shiyan",
+   "primary_count": 0,
+   "secondary_count": 24,
+   "total_mentions": 48
+  },
+  "Sansheng Huiran": {
+   "slug": "sansheng_huiran",
+   "primary_count": 0,
+   "secondary_count": 22,
+   "total_mentions": 37
+  },
+  "Sengcan": {
+   "slug": "sengcan",
+   "primary_count": 1,
+   "secondary_count": 125,
+   "total_mentions": 358
+  },
+  "Sengzhao": {
+   "slug": "sengzhao",
+   "primary_count": 4,
+   "secondary_count": 179,
+   "total_mentions": 652
+  },
+  "Shenhui": {
+   "slug": "shenhui",
+   "primary_count": 2,
+   "secondary_count": 352,
+   "total_mentions": 2340
+  },
+  "Shenxiu": {
+   "slug": "shenxiu",
+   "primary_count": 0,
+   "secondary_count": 221,
+   "total_mentions": 1283
+  },
+  "Shexian Guisheng": {
+   "slug": "shexian_guisheng",
+   "primary_count": 0,
+   "secondary_count": 21,
+   "total_mentions": 35
+  },
+  "Shiche Tongcheng": {
+   "slug": "shiche_tongcheng",
+   "primary_count": 0,
+   "secondary_count": 11,
+   "total_mentions": 19
+  },
+  "Shishuang Chuyuan": {
+   "slug": "shishuang_chuyuan",
+   "primary_count": 1,
+   "secondary_count": 66,
+   "total_mentions": 116
+  },
+  "Shishuang Qingzhu": {
+   "slug": "shishuang_qingzhu",
+   "primary_count": 0,
+   "secondary_count": 29,
+   "total_mentions": 50
+  },
+  "Shitou Xiqian": {
+   "slug": "shitou_xiqian",
+   "primary_count": 0,
+   "secondary_count": 592,
+   "total_mentions": 3095
+  },
+  "Shiwu Qinggong": {
+   "slug": "shiwu_qinggong",
+   "primary_count": 0,
+   "secondary_count": 15,
+   "total_mentions": 35
+  },
+  "Shoushan Xingnian": {
+   "slug": "shoushan_xingnian",
+   "primary_count": 0,
+   "secondary_count": 69,
+   "total_mentions": 128
+  },
+  "Sinhaeng": {
+   "slug": "sinhaeng",
+   "primary_count": 0,
+   "secondary_count": 55,
+   "total_mentions": 79
+  },
+  "Sixin Wuxin": {
+   "slug": "sixin_wuxin",
+   "primary_count": 1,
+   "secondary_count": 23,
+   "total_mentions": 42
+  },
+  "Songting Ziyan": {
+   "slug": "songting_ziyan",
+   "primary_count": 0,
+   "secondary_count": 17,
+   "total_mentions": 35
+  },
+  "Songyuan Chongyue": {
+   "slug": "songyuan_chongyue",
+   "primary_count": 1,
+   "secondary_count": 14,
+   "total_mentions": 28
+  },
+  "Su Shi": {
+   "slug": "su_shi",
+   "primary_count": 0,
+   "secondary_count": 177,
+   "total_mentions": 412
+  },
+  "Suizhou Daoyuan": {
+   "slug": "suizhou_daoyuan",
+   "primary_count": 0,
+   "secondary_count": 10,
+   "total_mentions": 12
+  },
+  "Sunji": {
+   "slug": "sunji",
+   "primary_count": 0,
+   "secondary_count": 664,
+   "total_mentions": 1456
+  },
+  "Sushan Kuangren": {
+   "slug": "sushan_kuangren",
+   "primary_count": 0,
+   "secondary_count": 6,
+   "total_mentions": 11
+  },
+  "Taego Bou": {
+   "slug": "taego_bou",
+   "primary_count": 0,
+   "secondary_count": 2,
+   "total_mentions": 24
+  },
+  "Tianhuang Daowu": {
+   "slug": "tianhuang_daowu",
+   "primary_count": 0,
+   "secondary_count": 50,
+   "total_mentions": 153
+  },
+  "Tianlong": {
+   "slug": "tianlong",
+   "primary_count": 0,
+   "secondary_count": 1476,
+   "total_mentions": 5329
+  },
+  "Tianqi Benrui": {
+   "slug": "tianqi_benrui",
+   "primary_count": 0,
+   "secondary_count": 27,
+   "total_mentions": 67
+  },
+  "Tianru Weize": {
+   "slug": "tianru_weize",
+   "primary_count": 1,
+   "secondary_count": 25,
+   "total_mentions": 52
+  },
+  "Tiantai Deshao": {
+   "slug": "tiantai_deshao",
+   "primary_count": 0,
+   "secondary_count": 30,
+   "total_mentions": 43
+  },
+  "Tiantong Rujing": {
+   "slug": "tiantong_rujing",
+   "primary_count": 0,
+   "secondary_count": 22,
+   "total_mentions": 31
+  },
+  "Tiantong Zongjue": {
+   "slug": "tiantong_zongjue",
+   "primary_count": 0,
+   "secondary_count": 12,
+   "total_mentions": 21
+  },
+  "Tianyi Yihuai": {
+   "slug": "tianyi_yihuai",
+   "primary_count": 0,
+   "secondary_count": 49,
+   "total_mentions": 94
+  },
+  "Tianyin Yuanxiu": {
+   "slug": "tianyin_yuanxiu",
+   "primary_count": 0,
+   "secondary_count": 11,
+   "total_mentions": 20
+  },
+  "Tongan Daopi": {
+   "slug": "tongan_daopi",
+   "primary_count": 0,
+   "secondary_count": 2,
+   "total_mentions": 5
+  },
+  "Touzi Datong": {
+   "slug": "touzi_datong",
+   "primary_count": 0,
+   "secondary_count": 28,
+   "total_mentions": 47
+  },
+  "Touzi Yiqing": {
+   "slug": "touzi_yiqing",
+   "primary_count": 2,
+   "secondary_count": 41,
+   "total_mentions": 84
+  },
+  "Wanfeng Shiwei": {
+   "slug": "wanfeng_shiwei",
+   "primary_count": 0,
+   "secondary_count": 22,
+   "total_mentions": 44
+  },
+  "Wansong Xingxiu": {
+   "slug": "wansong_xingxiu",
+   "primary_count": 2,
+   "secondary_count": 41,
+   "total_mentions": 95
+  },
+  "Weilin Daopei": {
+   "slug": "weilin_daopei",
+   "primary_count": 3,
+   "secondary_count": 11,
+   "total_mentions": 28
+  },
+  "Woldam Seoljye": {
+   "slug": "woldam_seoljye",
+   "primary_count": 0,
+   "secondary_count": 1,
+   "total_mentions": 4
+  },
+  "Wufang Kecong": {
+   "slug": "wufang_kecong",
+   "primary_count": 0,
+   "secondary_count": 14,
+   "total_mentions": 29
+  },
+  "Wufeng": {
+   "slug": "wufeng",
+   "primary_count": 1,
+   "secondary_count": 218,
+   "total_mentions": 723
+  },
+  "Wujin Zang": {
+   "slug": "wujin_zang",
+   "primary_count": 1,
+   "secondary_count": 437,
+   "total_mentions": 1139
+  },
+  "Wumen Huikai": {
+   "slug": "wumen_huikai",
+   "primary_count": 3,
+   "secondary_count": 13,
+   "total_mentions": 31
+  },
+  "Wuming Huijing": {
+   "slug": "wuming_huijing",
+   "primary_count": 1,
+   "secondary_count": 23,
+   "total_mentions": 45
+  },
+  "Wuwen Mingcong": {
+   "slug": "wuwen_mingcong",
+   "primary_count": 0,
+   "secondary_count": 12,
+   "total_mentions": 37
+  },
+  "Wuxiang": {
+   "slug": "wuxiang",
+   "primary_count": 3,
+   "secondary_count": 2430,
+   "total_mentions": 46183
+  },
+  "Wuxie Lingmo": {
+   "slug": "wuxie_lingmo",
+   "primary_count": 0,
+   "secondary_count": 13,
+   "total_mentions": 17
+  },
+  "Wuyi Yuanlai": {
+   "slug": "wuyi_yuanlai",
+   "primary_count": 1,
+   "secondary_count": 18,
+   "total_mentions": 34
+  },
+  "Wuzhun Shifan": {
+   "slug": "wuzhun_shifan",
+   "primary_count": 1,
+   "secondary_count": 37,
+   "total_mentions": 76
+  },
+  "Wuzu Fayan": {
+   "slug": "wuzu_fayan",
+   "primary_count": 0,
+   "secondary_count": 67,
+   "total_mentions": 124
+  },
+  "Xianglin Chengyuan": {
+   "slug": "xianglin_chengyuan",
+   "primary_count": 0,
+   "secondary_count": 29,
+   "total_mentions": 49
+  },
+  "Xiangyan Zhixian": {
+   "slug": "xiangyan_zhixian",
+   "primary_count": 0,
+   "secondary_count": 27,
+   "total_mentions": 47
+  },
+  "Xiaoshan Zongshu": {
+   "slug": "xiaoshan_zongshu",
+   "primary_count": 0,
+   "secondary_count": 6,
+   "total_mentions": 13
+  },
+  "Xiaoyan Debao": {
+   "slug": "xiaoyan_debao",
+   "primary_count": 0,
+   "secondary_count": 15,
+   "total_mentions": 29
+  },
+  "Xinghua Cunjiang": {
+   "slug": "xinghua_cunjiang",
+   "primary_count": 0,
+   "secondary_count": 73,
+   "total_mentions": 140
+  },
+  "Xingshan Weikuan": {
+   "slug": "xingshan_weikuan",
+   "primary_count": 0,
+   "secondary_count": 13,
+   "total_mentions": 21
+  },
+  "Xitang Zhizang": {
+   "slug": "xitang_zhizang",
+   "primary_count": 0,
+   "secondary_count": 46,
+   "total_mentions": 85
+  },
+  "Xuansha Shibei": {
+   "slug": "xuansha_shibei",
+   "primary_count": 2,
+   "secondary_count": 52,
+   "total_mentions": 99
+  },
+  "Xuedou Chongxian": {
+   "slug": "xuedou_chongxian",
+   "primary_count": 2,
+   "secondary_count": 489,
+   "total_mentions": 6252
+  },
+  "Xuedou Zhijian": {
+   "slug": "xuedou_zhijian",
+   "primary_count": 0,
+   "secondary_count": 14,
+   "total_mentions": 20
+  },
+  "Xuefeng Yicun": {
+   "slug": "xuefeng_yicun",
+   "primary_count": 4,
+   "secondary_count": 470,
+   "total_mentions": 3880
+  },
+  "Xueling": {
+   "slug": "xueling",
+   "primary_count": 0,
+   "secondary_count": 287,
+   "total_mentions": 575
+  },
+  "Xueqiao Yuanxin": {
+   "slug": "xueqiao_yuanxin",
+   "primary_count": 0,
+   "secondary_count": 17,
+   "total_mentions": 31
+  },
+  "Xueting Fuyu": {
+   "slug": "xueting_fuyu",
+   "primary_count": 0,
+   "secondary_count": 16,
+   "total_mentions": 30
+  },
+  "Xueyan Huiman": {
+   "slug": "xueyan_huiman",
+   "primary_count": 0,
+   "secondary_count": 1,
+   "total_mentions": 3
+  },
+  "Xueyan Zuqin": {
+   "slug": "xueyan_zuqin",
+   "primary_count": 1,
+   "secondary_count": 27,
+   "total_mentions": 55
+  },
+  "Xutang Zhiyu": {
+   "slug": "xutang_zhiyu",
+   "primary_count": 0,
+   "secondary_count": 5,
+   "total_mentions": 8
+  },
+  "Yangqi Fanghui": {
+   "slug": "yangqi_fanghui",
+   "primary_count": 2,
+   "secondary_count": 63,
+   "total_mentions": 122
+  },
+  "Yangshan Huiji": {
+   "slug": "yangshan_huiji",
+   "primary_count": 1,
+   "secondary_count": 506,
+   "total_mentions": 4301
+  },
+  "Yanguan Qi'an": {
+   "slug": "yanguan_qian",
+   "primary_count": 0,
+   "secondary_count": 26,
+   "total_mentions": 44
+  },
+  "Yantou Quanhuo": {
+   "slug": "yantou_quanhuo",
+   "primary_count": 0,
+   "secondary_count": 392,
+   "total_mentions": 2759
+  },
+  "Yaoshan Weiyan": {
+   "slug": "yaoshan_weiyan",
+   "primary_count": 0,
+   "secondary_count": 432,
+   "total_mentions": 2203
+  },
+  "Yelü Chucai": {
+   "slug": "yelü_chucai",
+   "primary_count": 0,
+   "secondary_count": 35,
+   "total_mentions": 62
+  },
+  "Ying'an Tanhua": {
+   "slug": "yingan_tanhua",
+   "primary_count": 0,
+   "secondary_count": 18,
+   "total_mentions": 33
+  },
+  "Yinyuan Longqi": {
+   "slug": "yinyuan_longqi",
+   "primary_count": 0,
+   "secondary_count": 2,
+   "total_mentions": 9
+  },
+  "Yizhou Nanyin": {
+   "slug": "yizhou_nanyin",
+   "primary_count": 0,
+   "secondary_count": 6,
+   "total_mentions": 9
+  },
+  "Yongjia Xuanjue": {
+   "slug": "yongjia_xuanjue",
+   "primary_count": 0,
+   "secondary_count": 31,
+   "total_mentions": 47
+  },
+  "Yongjue Yuanxian": {
+   "slug": "yongjue_yuanxian",
+   "primary_count": 1,
+   "secondary_count": 12,
+   "total_mentions": 24
+  },
+  "Yongming Yanshou": {
+   "slug": "yongming_yanshou",
+   "primary_count": 8,
+   "secondary_count": 53,
+   "total_mentions": 204
+  },
+  "Yongzheng Emperor": {
+   "slug": "yongzheng_emperor",
+   "primary_count": 0,
+   "secondary_count": 9,
+   "total_mentions": 15
+  },
+  "Yu Daopo": {
+   "slug": "yu_daopo",
+   "primary_count": 0,
+   "secondary_count": 41,
+   "total_mentions": 72
+  },
+  "Yuansou Xingduan": {
+   "slug": "yuansou_xingduan",
+   "primary_count": 1,
+   "secondary_count": 22,
+   "total_mentions": 42
+  },
+  "Yuantong Faxiu": {
+   "slug": "yuantong_faxiu",
+   "primary_count": 0,
+   "secondary_count": 14,
+   "total_mentions": 21
+  },
+  "Yuanwu Keqin": {
+   "slug": "yuanwu_keqin",
+   "primary_count": 1,
+   "secondary_count": 123,
+   "total_mentions": 731
+  },
+  "Yue'an Shanguo": {
+   "slug": "yuean_shanguo",
+   "primary_count": 0,
+   "secondary_count": 10,
+   "total_mentions": 19
+  },
+  "Yuelin Shiguan": {
+   "slug": "yuelin_shiguan",
+   "primary_count": 1,
+   "secondary_count": 10,
+   "total_mentions": 21
+  },
+  "Yuezhou Qianfeng": {
+   "slug": "yuezhou_qianfeng",
+   "primary_count": 0,
+   "secondary_count": 359,
+   "total_mentions": 1808
+  },
+  "Yuezhou Wenzai": {
+   "slug": "yuezhou_wenzai",
+   "primary_count": 0,
+   "secondary_count": 15,
+   "total_mentions": 32
+  },
+  "Yujeong": {
+   "slug": "yujeong",
+   "primary_count": 0,
+   "secondary_count": 94,
+   "total_mentions": 344
+  },
+  "Yulin Tongxiu": {
+   "slug": "yulin_tongxiu",
+   "primary_count": 0,
+   "secondary_count": 14,
+   "total_mentions": 26
+  },
+  "Yunan Puyan": {
+   "slug": "yunan_puyan",
+   "primary_count": 0,
+   "secondary_count": 11,
+   "total_mentions": 23
+  },
+  "Yungu Fahui": {
+   "slug": "yungu_fahui",
+   "primary_count": 0,
+   "secondary_count": 10,
+   "total_mentions": 18
+  },
+  "Yunju Daoying": {
+   "slug": "yunju_daoying",
+   "primary_count": 0,
+   "secondary_count": 41,
+   "total_mentions": 76
+  },
+  "Yunmen Wenyan": {
+   "slug": "yunmen_wenyan",
+   "primary_count": 4,
+   "secondary_count": 747,
+   "total_mentions": 12878
+  },
+  "Yunqi Zhuhong": {
+   "slug": "yunqi_zhuhong",
+   "primary_count": 26,
+   "secondary_count": 72,
+   "total_mentions": 392
+  },
+  "Yunyan Tansheng": {
+   "slug": "yunyan_tansheng",
+   "primary_count": 0,
+   "secondary_count": 39,
+   "total_mentions": 74
+  },
+  "Zhang Shangying": {
+   "slug": "zhang_shangying",
+   "primary_count": 3,
+   "secondary_count": 89,
+   "total_mentions": 221
+  },
+  "Zhangjing Huaihui": {
+   "slug": "zhangjing_huaihui",
+   "primary_count": 0,
+   "secondary_count": 6,
+   "total_mentions": 8
+  },
+  "Zhaozhou Congshen": {
+   "slug": "zhaozhou_congshen",
+   "primary_count": 1,
+   "secondary_count": 702,
+   "total_mentions": 12412
+  },
+  "Zhenjing Kewen": {
+   "slug": "zhenjing_kewen",
+   "primary_count": 0,
+   "secondary_count": 24,
+   "total_mentions": 35
+  },
+  "Zhenxie Qingliao": {
+   "slug": "zhenxie_qingliao",
+   "primary_count": 1,
+   "secondary_count": 38,
+   "total_mentions": 80
+  },
+  "Zhimen Guangzuo": {
+   "slug": "zhimen_guangzuo",
+   "primary_count": 0,
+   "secondary_count": 23,
+   "total_mentions": 46
+  },
+  "Zhitong": {
+   "slug": "zhitong",
+   "primary_count": 6,
+   "secondary_count": 620,
+   "total_mentions": 2713
+  },
+  "Zhongfeng Mingben": {
+   "slug": "zhongfeng_mingben",
+   "primary_count": 1,
+   "secondary_count": 34,
+   "total_mentions": 59
+  },
+  "Zibo Zhenke": {
+   "slug": "zibo_zhenke",
+   "primary_count": 0,
+   "secondary_count": 7,
+   "total_mentions": 10
+  },
+  "Zihu Lizong": {
+   "slug": "zihu_lizong",
+   "primary_count": 0,
+   "secondary_count": 18,
+   "total_mentions": 28
+  },
+  "Zizhou Chuji": {
+   "slug": "zizhou_chuji",
+   "primary_count": 0,
+   "secondary_count": 222,
+   "total_mentions": 456
+  },
+  "Zizhou Zhishen": {
+   "slug": "zizhou_zhishen",
+   "primary_count": 0,
+   "secondary_count": 28,
+   "total_mentions": 73
+  },
+  "Zongchi": {
+   "slug": "zongchi",
+   "primary_count": 14,
+   "secondary_count": 1442,
+   "total_mentions": 8616
+  }
+ }
+}
