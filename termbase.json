@@ -587,6 +587,22 @@
     "WrittenUtc": "2026-07-15T19:51:09.254908+00:00"
   },
   {
+    "SourceTerm": "一槌兩當",
+    "PreferredTarget": "one hammer serving two tasks",
+    "AlternateTargets": [
+      "one strike doing double duty"
+    ],
+    "SearchAliases": [
+      "one hammer two tasks",
+      "double-duty strike",
+      "two results at once"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase describes one hammer blow doing two jobs: Yunmen supplies it as a proxy answer, two later records frame it as a question, and Tian’an places it in a bell-board verse.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-18T20:20:00Z"
+  },
+  {
     "SourceTerm": "一機一境",
     "PreferredTarget": "a single device and a single situation",
     "AlternateTargets": [
@@ -1969,6 +1985,22 @@
     "Note": "The primary sense is the shared phrase in the historical Baizhang public case, not a Baizhang-specific meaning. The fox-body sequence is translated because the record literally states it; no broader account is inferred from it. Wansong's contrast, the embedded monk's objection, Wumen's paired verdict, Chaozong's no-rope rebuke, and later same-or-different questions are preserved as speaker-owned positions. They do not create different referents and therefore do not justify a sense split.",
     "CreatedBy": "Codex fresh f001 lane B evidence-first",
     "WrittenUtc": "2026-07-15T05:30:00Z"
+  },
+  {
+    "SourceTerm": "不是一番寒徹骨、爭得梅花撲鼻香",
+    "PreferredTarget": "without cold penetrating to the bone, how could plum-blossom fragrance strike the nose?",
+    "AlternateTargets": [
+      "only bone-piercing cold brings the plum blossom's fragrance"
+    ],
+    "SearchAliases": [
+      "cold to the bone",
+      "plum blossom fragrance",
+      "hardship and flowering proverb"
+    ],
+    "Status": "preferred",
+    "Note": "The complete couplet joins severe winter cold to the fragrance of the plum blossom; Chan records use it in a patriarch praise, hall addresses, the unnamed questioner's winter-solstice question, and an appraisal of taking up the work.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-18T21:45:00Z"
   },
   {
     "SourceTerm": "不是冤家不聚頭",
@@ -3796,6 +3828,22 @@
     "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
   },
   {
+    "SourceTerm": "來説是非者、便是是非人",
+    "PreferredTarget": "the one who comes talking right and wrong is a person of right and wrong",
+    "AlternateTargets": [
+      "whoever reports disputes becomes a disputant"
+    ],
+    "SearchAliases": [
+      "speaker of right and wrong",
+      "tale bearer is the quarreller",
+      "talking disputes makes a disputant"
+    ],
+    "Status": "preferred",
+    "Note": "The saying turns accusation back on its bearer: the person who arrives reporting another's right and wrong displays the very discriminating involvement being reported.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-18T20:50:52Z"
+  },
+  {
     "SourceTerm": "侍者",
     "PreferredTarget": "attendant",
     "AlternateTargets": [],
@@ -4514,6 +4562,23 @@
     "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
     "CreatedBy": "Codex f003 Lane A full-case author",
     "WrittenUtc": "2026-07-15T04:50:30.422923+00:00"
+  },
+  {
+    "SourceTerm": "儱儱侗侗",
+    "PreferredTarget": "muddled and indiscriminate",
+    "AlternateTargets": [
+      "blurred and muddled",
+      "indiscriminately confused"
+    ],
+    "SearchAliases": [
+      "blurred and muddled",
+      "indiscriminately confused",
+      "muddled and indiscriminate"
+    ],
+    "Status": "preferred",
+    "Note": "Longlong dongdong describes handling words or distinctions in a blurred, indiscriminate fashion.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-19T08:00:00Z"
   },
   {
     "SourceTerm": "充飢",
@@ -6365,6 +6430,22 @@
     "WrittenUtc": "2026-07-18T10:01:16.858092Z"
   },
   {
+    "SourceTerm": "千錯萬錯",
+    "PreferredTarget": "a thousand errors, ten thousand errors",
+    "AlternateTargets": [
+      "errors upon errors"
+    ],
+    "SearchAliases": [
+      "thousand errors",
+      "ten thousand errors",
+      "utterly mistaken"
+    ],
+    "Status": "preferred",
+    "Note": "The doubled number phrase gives an exhaustive verdict of error. A death verse, dialogue answer, monastic address, and counterposed hall line all retain the same intensified verdict.",
+    "CreatedBy": "Codex cohort-002 lane-B 41-50 strict author",
+    "WrittenUtc": "2026-07-19T08:00:00Z"
+  },
+  {
     "SourceTerm": "半隻眼",
     "PreferredTarget": "half an eye",
     "AlternateTargets": [
@@ -7347,6 +7428,22 @@
     "Note": "No specialized theory of accumulating words is added without an explicit comparison.",
     "CreatedBy": "Codex post720 Lane C positions 033-058",
     "WrittenUtc": "2026-07-17T16:30:22.041434+00:00"
+  },
+  {
+    "SourceTerm": "吾心似秋月、碧潭清皎潔",
+    "PreferredTarget": "my mind resembles the autumn moon over a clear, bright blue pool",
+    "AlternateTargets": [
+      "my mind is like the autumn moon, clear and bright in a blue pool"
+    ],
+    "SearchAliases": [
+      "mind like autumn moon",
+      "clear blue pool",
+      "Hanshan autumn moon verse"
+    ],
+    "Status": "preferred",
+    "Note": "The retained witnesses quote the paired opening of Hanshan's verse and then praise, fault, or recast it.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-18T23:50:00Z"
   },
   {
     "SourceTerm": "呂洞賓",
@@ -10679,6 +10776,22 @@
     "WrittenUtc": "2026-07-17T13:32:15.971693+00:00"
   },
   {
+    "SourceTerm": "客聽主裁",
+    "PreferredTarget": "the guest follows the host's direction",
+    "AlternateTargets": [
+      "the visitor accepts the host's arrangement"
+    ],
+    "SearchAliases": [
+      "guest follows host",
+      "host directs guest",
+      "visiting-seat convention"
+    ],
+    "Status": "preferred",
+    "Note": "The formula is spoken by visiting masters who accept the resident host's invitation and terms for the address.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-19T00:45:00Z"
+  },
+  {
     "SourceTerm": "家常",
     "PreferredTarget": "the ordinary household way",
     "AlternateTargets": [],
@@ -11152,6 +11265,22 @@
     "Note": "Small and great are text-drawn grades here, not two English aliases for one event.",
     "CreatedBy": "Codex investigation-next300 Lane A",
     "WrittenUtc": "2026-07-17T16:00:00Z"
+  },
+  {
+    "SourceTerm": "小魚呑大魚",
+    "PreferredTarget": "the small fish swallows the large fish",
+    "AlternateTargets": [
+      "a small fish swallowing a large fish"
+    ],
+    "SearchAliases": [
+      "small fish swallows big fish",
+      "ancient sail small fish",
+      "Yantou fish answer"
+    ],
+    "Status": "preferred",
+    "Note": "Yantou gives the line as the answer to what happens after the ancient sail is raised.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-19T00:05:00Z"
   },
   {
     "SourceTerm": "少室峰前",
@@ -11680,6 +11809,22 @@
     "WrittenUtc": "2026-07-18T18:19:10Z"
   },
   {
+    "SourceTerm": "幽鳥語喃喃、辭雲入亂峰",
+    "PreferredTarget": "a secluded bird murmuring as departing clouds enter tangled peaks",
+    "AlternateTargets": [
+      "the bird-and-cloud scene couplet"
+    ],
+    "SearchAliases": [
+      "secluded bird",
+      "departing clouds",
+      "tangled peaks"
+    ],
+    "Status": "preferred",
+    "Note": "The couplet sets a murmuring secluded bird beside departing clouds entering a disorder of peaks. Yangqi asks with it in the original encounter and later quotations; another hall address recites it with the recorded reply.",
+    "CreatedBy": "Codex cohort-002 lane-B 41-50 strict author",
+    "WrittenUtc": "2026-07-19T08:00:00Z"
+  },
+  {
     "SourceTerm": "序",
     "PreferredTarget": "preface",
     "AlternateTargets": [
@@ -12206,6 +12351,22 @@
     "Note": "All eight complete candidate cases were reviewed for the the ancestral vehicle from before reading; the six retained works cover one inherited-lineage referent; recension differences between “pointed out” and “indicated” are readings, not senses.",
     "CreatedBy": "Codex fresh semantic author A051-060 2026-07-18",
     "WrittenUtc": "2026-07-18T10:01:16.675386Z"
+  },
+  {
+    "SourceTerm": "從東過西、從西過東",
+    "PreferredTarget": "crossing from east to west and from west to east",
+    "AlternateTargets": [
+      "passing east to west, then west to east"
+    ],
+    "SearchAliases": [
+      "east to west",
+      "west to east",
+      "crossing the hall"
+    ],
+    "Status": "preferred",
+    "Note": "The paired motion records a person traversing the hall in both directions: Deshan and Zhaozhou do it in raised cases, an unnamed monk does it before Yuantong, and Daowu does it carrying a hoe.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-18T20:20:00Z"
   },
   {
     "SourceTerm": "從門入者不是家珍",
@@ -14732,6 +14893,22 @@
     "WrittenUtc": "2026-07-18T20:25:00Z"
   },
   {
+    "SourceTerm": "撒沙撒土",
+    "PreferredTarget": "scattering sand and soil",
+    "AlternateTargets": [
+      "throwing sand and dirt"
+    ],
+    "SearchAliases": [
+      "scatter sand",
+      "throw soil",
+      "obscuring talk"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase names throwing loose grit; the retained Chan uses apply it to verbal elaboration that soils, obscures, or needlessly adds to what is before the assembly.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-18T20:20:00Z"
+  },
+  {
     "SourceTerm": "撞著露柱",
     "PreferredTarget": "to run into the exposed pillar",
     "AlternateTargets": [
@@ -14747,6 +14924,23 @@
     "Note": "The collision image becomes a warning or verdict for someone who misses while moving in the dark or following words.",
     "CreatedBy": "Codex Iriya cohort001 Lane B explicit full-case author",
     "WrittenUtc": "2026-07-18T04:29:03.059349+00:00"
+  },
+  {
+    "SourceTerm": "撥波求水",
+    "PreferredTarget": "parting the waves to seek water",
+    "AlternateTargets": [
+      "push waves aside looking for water",
+      "seek water apart from the waves"
+    ],
+    "SearchAliases": [
+      "push waves aside looking for water",
+      "seek water apart from the waves",
+      "parting the waves to seek water"
+    ],
+    "Status": "preferred",
+    "Note": "Parting the waves to seek water names a search that separates what is sought from the very form in which it is already present.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-19T08:00:00Z"
   },
   {
     "SourceTerm": "撥無因果",
@@ -14953,6 +15147,22 @@
     "WrittenUtc": "2026-07-18T08:15:53.294764Z"
   },
   {
+    "SourceTerm": "擔水河頭賣",
+    "PreferredTarget": "carrying water to sell at the riverbank",
+    "AlternateTargets": [
+      "offering what is already abundant"
+    ],
+    "SearchAliases": [
+      "sell water by river",
+      "redundant offering",
+      "carry water"
+    ],
+    "Status": "preferred",
+    "Note": "The image names the needless labor of carrying water to a riverbank in order to sell it. Masters use it in addresses, a hypothetical objection, an answer to “what is Buddha?”, and a warning against further explanation.",
+    "CreatedBy": "Codex cohort-002 lane-B 41-50 strict author",
+    "WrittenUtc": "2026-07-19T08:00:00Z"
+  },
+  {
     "SourceTerm": "擔荷",
     "PreferredTarget": "to shoulder responsibility",
     "AlternateTargets": [
@@ -15015,6 +15225,23 @@
     "Note": "The article concerns the fixed judicial metaphor; literal administrative case closure without an evaluative Chan verdict is excluded.",
     "CreatedBy": "iriya-construction-001 lane A",
     "WrittenUtc": "2026-07-18T14:30:00Z"
+  },
+  {
+    "SourceTerm": "據虎頭、收虎尾",
+    "PreferredTarget": "seizing the tiger's head and gathering in its tail",
+    "AlternateTargets": [
+      "grasp the tiger's head, take in its tail",
+      "control the tiger from head to tail"
+    ],
+    "SearchAliases": [
+      "grasp the tiger's head, take in its tail",
+      "control the tiger from head to tail",
+      "seizing the tiger's head and gathering in its tail"
+    ],
+    "Status": "preferred",
+    "Note": "Seizing the tiger's head and gathering in its tail is a paired formula for taking hold of an encounter from its opening through its close.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-19T08:00:00Z"
   },
   {
     "SourceTerm": "擧一明三",
@@ -16031,6 +16258,23 @@
     "WrittenUtc": "2026-07-15T13:00:00Z"
   },
   {
+    "SourceTerm": "春無三日晴",
+    "PreferredTarget": "spring has no three clear days",
+    "AlternateTargets": [
+      "no three clear spring days",
+      "changeable spring weather"
+    ],
+    "SearchAliases": [
+      "no three clear spring days",
+      "changeable spring weather",
+      "spring has no three clear days"
+    ],
+    "Status": "preferred",
+    "Note": "Spring has no three clear days: the weather proverb appears as an answer, an address line, and a substitute reply across the records.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-19T08:00:00Z"
+  },
+  {
     "SourceTerm": "昭昭靈靈",
     "PreferredTarget": "bright and numinous",
     "AlternateTargets": [
@@ -16079,6 +16323,22 @@
     "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
     "CreatedBy": "Codex f003 Lane A full-case author",
     "WrittenUtc": "2026-07-15T04:50:30.422923+00:00"
+  },
+  {
+    "SourceTerm": "晝見日、夜見星",
+    "PreferredTarget": "see the sun by day and the stars by night",
+    "AlternateTargets": [
+      "by day, see the sun; by night, see the stars"
+    ],
+    "SearchAliases": [
+      "sun by day stars by night",
+      "daylight sun nighttime stars",
+      "plain as sun and stars"
+    ],
+    "Status": "preferred",
+    "Note": "The paired observation names what is plainly visible in its proper time. Chan speakers use that obviousness as an answer, an awakening-day challenge, or a contrast with claims of special attainment.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-18T20:50:52Z"
   },
   {
     "SourceTerm": "普茶",
@@ -16875,6 +17135,22 @@
     "WrittenUtc": "2026-07-16T18:11:06.370777+00:00"
   },
   {
+    "SourceTerm": "本分作家",
+    "PreferredTarget": "a genuine expert in the fundamental matter",
+    "AlternateTargets": [
+      "a true expert at the fundamental business"
+    ],
+    "SearchAliases": [
+      "genuine expert",
+      "original allotment expert",
+      "fundamental expert"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase joins the original allotment or proper business to the accomplished expert; records apply it to named people and to the capacity required for decisive handling.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-18T20:20:00Z"
+  },
+  {
     "SourceTerm": "本分大事",
     "PreferredTarget": "the great matter proper to one’s fundamental responsibility",
     "AlternateTargets": [],
@@ -17278,6 +17554,22 @@
     "Note": "4 exact occurrences from 4 independent works are stored.",
     "CreatedBy": "Codex fresh construction Lane C",
     "WrittenUtc": "2026-07-17T00:00:00Z"
+  },
+  {
+    "SourceTerm": "東家杓柄長、西家杓柄短",
+    "PreferredTarget": "unequal ladle handles at the eastern and western households",
+    "AlternateTargets": [
+      "one house has a long ladle handle, the other a short one"
+    ],
+    "SearchAliases": [
+      "long ladle handle",
+      "short ladle handle",
+      "east and west households"
+    ],
+    "Status": "preferred",
+    "Note": "The saying compares neighboring households through unequal ladle handles; the records retain it as an answer, a test-question, and a concluding utterance.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-18T20:20:00Z"
   },
   {
     "SourceTerm": "東山水上行",
@@ -17899,6 +18191,23 @@
     "Note": "Different orientations remain one handling, not separate senses.",
     "CreatedBy": "Codex Iriya lane B121-130 full-case author",
     "WrittenUtc": "2026-07-18T17:00:00Z"
+  },
+  {
+    "SourceTerm": "横按鏌鎁全正令、太平寰宇斬癡頑",
+    "PreferredTarget": "holding Moye crosswise under the full true command while cutting down the foolish and stubborn in a peaceful realm",
+    "AlternateTargets": [
+      "Moye held crosswise under the true command",
+      "cutting down the stubborn in a peaceful realm"
+    ],
+    "SearchAliases": [
+      "Moye held crosswise under the true command",
+      "cutting down the stubborn in a peaceful realm",
+      "holding Moye crosswise under the full true command while cutting down the foolish and stubborn in a peaceful realm"
+    ],
+    "Status": "preferred",
+    "Note": "The couplet places the Moye sword crosswise under the full command and, even in a peaceful realm, cuts down the foolish and stubborn.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-19T08:00:00Z"
   },
   {
     "SourceTerm": "横説竪説",
@@ -18686,6 +18995,22 @@
     "Note": "One idiomatic image with multiple attested stances; grammatical form and differing evaluations do not create extra senses.",
     "CreatedBy": "Codex f002 Lane C fresh corpus build",
     "WrittenUtc": "2026-07-15T04:06:26.730577+00:00"
+  },
+  {
+    "SourceTerm": "水中鹽味、色裏膠青",
+    "PreferredTarget": "salt's taste in water, binder in pigment",
+    "AlternateTargets": [
+      "salt flavor in water, glue in color"
+    ],
+    "SearchAliases": [
+      "salt dissolved in water",
+      "binder hidden in pigment",
+      "present but unseen"
+    ],
+    "Status": "preferred",
+    "Note": "Fu Dashi's Mind-King Inscription immediately says the pair is certainly present, though its form is not seen. Later Chan records quote, versify, and speak the pair in hall addresses.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-18T21:52:00Z"
   },
   {
     "SourceTerm": "水到渠成",
@@ -20220,6 +20545,23 @@
     "WrittenUtc": "2026-07-17T16:30:22.041434+00:00"
   },
   {
+    "SourceTerm": "澄潭不許蒼龍蟠",
+    "PreferredTarget": "a clear pool does not permit a blue dragon to coil",
+    "AlternateTargets": [
+      "the limpid pool admits no coiled dragon",
+      "no blue dragon coils in the clear pool"
+    ],
+    "SearchAliases": [
+      "the limpid pool admits no coiled dragon",
+      "no blue dragon coils in the clear pool",
+      "a clear pool does not permit a blue dragon to coil"
+    ],
+    "Status": "preferred",
+    "Note": "A clear pool does not permit a blue dragon to coil is Xuedou's line in the seamless-stupa verse and a formula later masters reuse in addresses and questions.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-19T08:00:00Z"
+  },
+  {
     "SourceTerm": "灑灑落落",
     "PreferredTarget": "free and unencumbered",
     "AlternateTargets": [
@@ -20529,6 +20871,22 @@
     "Note": "Primary Zen-loaded sense first. The ordinary bridge is mechanical: a hammer-head needs an eye for its handle, so this imagined solid head is unusable as a normal hammer. The corpus's own water, wind, wedge, and no-place predicates establish the no-entry deployment; the entry does not assign it an invisible symbolic meaning. No harvested passage treats the compound as an actual implement.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-16T12:01:39.532559+00:00"
+  },
+  {
+    "SourceTerm": "無孔鐵鎚當面擲",
+    "PreferredTarget": "a holeless iron hammer hurled straight at the face",
+    "AlternateTargets": [
+      "the ungraspable hammer thrown face-on"
+    ],
+    "SearchAliases": [
+      "holeless hammer",
+      "iron hammer at face",
+      "direct impact"
+    ],
+    "Status": "preferred",
+    "Note": "The line names an iron hammer with no aperture hurled directly at someone’s face. It occurs in demonstration verse, Dahui’s answer, another dialogue answer, and a hall challenge.",
+    "CreatedBy": "Codex cohort-002 lane-B 41-50 strict author",
+    "WrittenUtc": "2026-07-19T08:00:00Z"
   },
   {
     "SourceTerm": "無字",
@@ -24458,6 +24816,22 @@
     "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
   },
   {
+    "SourceTerm": "穩密田地",
+    "PreferredTarget": "stable, close-set ground",
+    "AlternateTargets": [
+      "secure and intimate ground"
+    ],
+    "SearchAliases": [
+      "stable ground",
+      "secure ground",
+      "close-set field"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase names a condition or ground described as settled and closely secured; the retained records predicate it of a predecessor, an addressee’s share, and the tradition’s inherited field.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-18T20:20:00Z"
+  },
+  {
     "SourceTerm": "空劫",
     "PreferredTarget": "the empty eon",
     "AlternateTargets": [
@@ -24818,6 +25192,22 @@
     "Note": "6 exact witnesses from 6 distinct canonical works.",
     "CreatedBy": "Codex construction Lane B fresh author",
     "WrittenUtc": "2026-07-17T05:48:00.115946+00:00"
+  },
+  {
+    "SourceTerm": "竹密不妨流水過、山高豈礙白雲飛",
+    "PreferredTarget": "water passes dense bamboo and clouds pass high mountains unhindered",
+    "AlternateTargets": [
+      "water passes through thick bamboo; clouds pass high mountains"
+    ],
+    "SearchAliases": [
+      "water through dense bamboo",
+      "clouds beyond high mountains",
+      "bamboo water cloud mountain"
+    ],
+    "Status": "preferred",
+    "Note": "The couplet presents water and cloud as movement that remains unhindered by dense bamboo or a high mountain; replies, hall addresses, and quoted appraisals use it for passage without collision.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-18T20:50:52Z"
   },
   {
     "SourceTerm": "竹篦",
@@ -25686,6 +26076,22 @@
     "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
     "CreatedBy": "Codex f003 Lane A full-case author",
     "WrittenUtc": "2026-07-15T04:49:07.954968+00:00"
+  },
+  {
+    "SourceTerm": "羅籠不肯住、呼喚不囘頭",
+    "PreferredTarget": "refusing the snare and not turning when called",
+    "AlternateTargets": [
+      "uncontained and unresponsive to recall"
+    ],
+    "SearchAliases": [
+      "refuse the snare",
+      "not turn when called",
+      "beyond recall"
+    ],
+    "Status": "preferred",
+    "Note": "The paired saying describes one who will neither remain inside a capturing net nor turn back at a summons. It appears as the record’s explicitly unnamed questioning monk’s hypothetical, a hall description of breaking out, Xuansha’s quoted verse, and a memorial appraisal.",
+    "CreatedBy": "Codex cohort-002 lane-B 41-50 strict author",
+    "WrittenUtc": "2026-07-19T08:00:00Z"
   },
   {
     "SourceTerm": "羚羊掛角",
@@ -27453,6 +27859,22 @@
     "WrittenUtc": "2026-07-18T14:05:00+02:00"
   },
   {
+    "SourceTerm": "虚空釘橛",
+    "PreferredTarget": "hammering a peg into empty space",
+    "AlternateTargets": [
+      "driving a stake into the void"
+    ],
+    "SearchAliases": [
+      "peg in empty space",
+      "stake in the void",
+      "futile fixing"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase pictures trying to fasten a peg where nothing can hold it; speakers apply the impossible work to inherited devices, retreat exertion, and propositions they reject.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-18T20:25:00Z"
+  },
+  {
     "SourceTerm": "虛空",
     "PreferredTarget": "empty space",
     "AlternateTargets": [
@@ -27633,6 +28055,22 @@
     "Note": "Five curated anchors across independent works support this continuity sense, including teacher-successor transmission; hereditary bloodline and bodily circulation remain separate referents in the following senses.",
     "CreatedBy": "Codex legacy full rebuild Lane A",
     "WrittenUtc": "2026-07-16T18:01:56.353570+00:00"
+  },
+  {
+    "SourceTerm": "血脈不斷",
+    "PreferredTarget": "the blood-pulse remains unbroken",
+    "AlternateTargets": [
+      "the vital current is not interrupted"
+    ],
+    "SearchAliases": [
+      "unbroken blood pulse",
+      "continuous vital current",
+      "lineage pulse unbroken"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase names continuity through movement, speech, or succession rather than a literal wound or flow of blood.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-19T00:05:00Z"
   },
   {
     "SourceTerm": "行住坐臥",
@@ -27976,6 +28414,22 @@
     "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:51:32.086137+00:00"
+  },
+  {
+    "SourceTerm": "西天人不會唐言",
+    "PreferredTarget": "a man from the western regions does not understand Tang speech",
+    "AlternateTargets": [
+      "the western man cannot understand Tang language"
+    ],
+    "SearchAliases": [
+      "western man",
+      "Tang speech",
+      "Bodhidharma language answer"
+    ],
+    "Status": "preferred",
+    "Note": "Yangqi first answers the unnamed questioner about facing the wall with this plain language mismatch; Cuiyan and Tian’an redeploy the line as answers, while Yunwai Xingze later raises Yangqi’s wording in another examination.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-18T20:20:00Z"
   },
   {
     "SourceTerm": "西天四七",
@@ -29419,6 +29873,22 @@
     "WrittenUtc": "2026-07-15T15:59:21.415513+00:00"
   },
   {
+    "SourceTerm": "賊是小人、智過君子",
+    "PreferredTarget": "a thief is a petty man, but his wit surpasses a gentleman’s",
+    "AlternateTargets": [
+      "the thief is base, yet cleverer than the gentleman"
+    ],
+    "SearchAliases": [
+      "thief and gentleman",
+      "petty thief",
+      "thief wit proverb"
+    ],
+    "Status": "preferred",
+    "Note": "The complete proverb contrasts low social character with superior tactical intelligence; speakers use it as an opening judgment and as an answer in interviews.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-18T20:20:00Z"
+  },
+  {
     "SourceTerm": "賊身已露",
     "PreferredTarget": "the culprit has already exposed himself",
     "AlternateTargets": [
@@ -29559,6 +30029,23 @@
     "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:51:19.010346+00:00"
+  },
+  {
+    "SourceTerm": "賺殺一船人",
+    "PreferredTarget": "dupe everyone aboard",
+    "AlternateTargets": [
+      "lead a whole boatload astray",
+      "deceive the entire boat"
+    ],
+    "SearchAliases": [
+      "dupe the whole boat",
+      "lead everyone aboard astray",
+      "deceive a boatload"
+    ],
+    "Status": "preferred",
+    "Note": "The nautical idiom condemns a saying or move for misleading not one hearer but everyone carried along by it; the boat supplies the affected group, not a literal voyage.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-18T20:50:52Z"
   },
   {
     "SourceTerm": "赤心片片",
@@ -29908,6 +30395,22 @@
     "WrittenUtc": "2026-07-18T17:46:22Z"
   },
   {
+    "SourceTerm": "身心一如、身外無餘",
+    "PreferredTarget": "body and mind as one, with nothing left outside the body",
+    "AlternateTargets": [
+      "body and mind in one suchness, nothing beyond the body"
+    ],
+    "SearchAliases": [
+      "body mind one",
+      "nothing outside the body",
+      "Huizhong body teaching"
+    ],
+    "Status": "preferred",
+    "Note": "Huizhong opposes a body that perishes while a separate nature survives by asserting one body-mind with no remainder outside; later speakers cite, test, and redeploy the formula.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-18T20:25:00Z"
+  },
+  {
     "SourceTerm": "身心客塵",
     "PreferredTarget": "body and mind as adventitious dust",
     "AlternateTargets": [],
@@ -30142,6 +30645,22 @@
     "WrittenUtc": "2026-07-17T12:26:38.257007+00:00"
   },
   {
+    "SourceTerm": "巡人犯夜",
+    "PreferredTarget": "the night patrolman breaks curfew",
+    "AlternateTargets": [
+      "the watchman himself violates the night ban"
+    ],
+    "SearchAliases": [
+      "patrolman breaks curfew",
+      "watchman violates night ban",
+      "Fayan school answer"
+    ],
+    "Status": "preferred",
+    "Note": "The compact reversal makes the official charged with enforcing the night ban its violator; it circulates as Wuzu Fayan’s school answer and as a later independent response.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-18T20:25:00Z"
+  },
+  {
     "SourceTerm": "近離什麼處",
     "PreferredTarget": "where have you recently come from?",
     "AlternateTargets": [],
@@ -30263,6 +30782,39 @@
     "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:51:38.590663+00:00"
+  },
+  {
+    "SourceTerm": "逆水之波",
+    "PreferredTarget": "a wave running against the current",
+    "AlternateTargets": [
+      "an upstream-running wave"
+    ],
+    "SearchAliases": [
+      "against-current wave",
+      "upstream wave",
+      "reverse-flow wave"
+    ],
+    "Status": "preferred",
+    "Note": "The image is repeatedly contrasted with following the water's direction.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-18T23:50:00Z"
+  },
+  {
+    "SourceTerm": "逆順縱横",
+    "PreferredTarget": "against and with, vertical and horizontal",
+    "AlternateTargets": [
+      "contrary or compliant, freely across",
+      "in reversal and accord, every direction"
+    ],
+    "SearchAliases": [
+      "contrary or compliant, freely across",
+      "in reversal and accord, every direction",
+      "against and with, vertical and horizontal"
+    ],
+    "Status": "preferred",
+    "Note": "Against and with, vertical and horizontal marks movement through contrary and compliant conditions and across every direction.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-19T08:00:00Z"
   },
   {
     "SourceTerm": "逍遙",
@@ -30609,6 +31161,22 @@
     "WrittenUtc": "2026-07-18T04:21:36.443681+00:00"
   },
   {
+    "SourceTerm": "運出自己家珍",
+    "PreferredTarget": "bring out the treasures of one's own house",
+    "AlternateTargets": [
+      "deploy one's own household treasure"
+    ],
+    "SearchAliases": [
+      "own-house treasure",
+      "bring out one's treasure",
+      "household treasury"
+    ],
+    "Status": "preferred",
+    "Note": "The records pair the phrase with opening one's own storehouse and then bringing its valuables into use.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-19T00:30:00Z"
+  },
+  {
     "SourceTerm": "運水搬柴",
     "PreferredTarget": "carry water and move firewood",
     "AlternateTargets": [],
@@ -30764,6 +31332,23 @@
     "Note": "Four deployments across four works preserve the complete balanced formula as a case, challenge, and hall verdict.",
     "CreatedBy": "Codex Iriya construction cohort 001 lane C clean packet",
     "WrittenUtc": "2026-07-18T08:16:19.327769Z"
+  },
+  {
+    "SourceTerm": "達磨來也",
+    "PreferredTarget": "Bodhidharma has come",
+    "AlternateTargets": [
+      "Damo has come",
+      "the founder has arrived"
+    ],
+    "SearchAliases": [
+      "Damo has come",
+      "the founder has arrived",
+      "Bodhidharma has come"
+    ],
+    "Status": "preferred",
+    "Note": "Bodhidharma has come is a compact arrival announcement used as an answer and repeatedly raised in Xuefeng's reported saying.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-19T08:00:00Z"
   },
   {
     "SourceTerm": "選佛場",
@@ -31359,6 +31944,22 @@
     "Note": "The paired image names a constraining threshold that must be opened, broken through, or left behind. Some passages use it in established verse language; the phrase does not itself specify one fixed stage.",
     "CreatedBy": "Codex Iriya lane C61-160 exact-turn author",
     "WrittenUtc": "2026-07-18T15:42:00Z"
+  },
+  {
+    "SourceTerm": "金香爐下鐵崑崙",
+    "PreferredTarget": "an iron Kunlun beneath a golden incense burner",
+    "AlternateTargets": [
+      "iron Kunlun under the golden censer"
+    ],
+    "SearchAliases": [
+      "golden incense burner",
+      "iron Kunlun",
+      "censer and Kunlun"
+    ],
+    "Status": "preferred",
+    "Note": "The records preserve the fixed image as answers about a person, a formless body, and a place to stand, and as the final line of Chushi Fanqi’s praise.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-18T20:20:00Z"
   },
   {
     "SourceTerm": "金鱗",
@@ -32018,6 +32619,22 @@
     "WrittenUtc": "2026-07-15T12:35:37.484662+00:00"
   },
   {
+    "SourceTerm": "開一線道",
+    "PreferredTarget": "opening a thread-width road",
+    "AlternateTargets": [
+      "opening a single narrow way through"
+    ],
+    "SearchAliases": [
+      "thread-width road",
+      "narrow opening",
+      "open one line of passage"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase describes making the narrowest passage available; it occurs in requests, answers, and a commentator’s invitation to respond.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-18T20:20:00Z"
+  },
+  {
     "SourceTerm": "開口",
     "PreferredTarget": "to open one’s mouth",
     "AlternateTargets": [
@@ -32158,6 +32775,22 @@
     "Note": "8 selected witnesses delimit this sense.",
     "CreatedBy": "Codex f003 laneB final2 repair author",
     "WrittenUtc": "2026-07-15T18:30:00Z"
+  },
+  {
+    "SourceTerm": "開眼也著、合眼也著",
+    "PreferredTarget": "caught with eyes open and caught with eyes shut",
+    "AlternateTargets": [
+      "hit whether the eyes are open or closed"
+    ],
+    "SearchAliases": [
+      "eyes open caught",
+      "eyes shut caught",
+      "no escape by closing the eyes"
+    ],
+    "Status": "preferred",
+    "Note": "The paired formula denies escape by changing whether one looks: hall speakers attach it to blows, traps, and questions that leave neither visual stance outside the encounter.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-18T20:25:00Z"
   },
   {
     "SourceTerm": "開眼尿床",
@@ -32350,6 +32983,22 @@
     "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
     "CreatedBy": "Codex f003 Lane A full-case author",
     "WrittenUtc": "2026-07-15T04:52:26.825273+00:00"
+  },
+  {
+    "SourceTerm": "陝府灌鐵牛",
+    "PreferredTarget": "the Shaanfu cast-iron ox",
+    "AlternateTargets": [
+      "Shaanfu’s iron ox"
+    ],
+    "SearchAliases": [
+      "Shaanfu iron ox",
+      "cast iron ox",
+      "Jiazhou elephant pair"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase names the cast-iron ox associated with Shaanfu. It serves as an answer, a verse line, a later appraisal, and the object of the record’s explicitly unnamed questioning monk’s explicit question; several witnesses pair it with the Jiazhou elephant.",
+    "CreatedBy": "Codex cohort-002 lane-B 41-50 strict author",
+    "WrittenUtc": "2026-07-19T08:00:00Z"
   },
   {
     "SourceTerm": "陝府鐵牛",
@@ -33055,6 +33704,23 @@
     "WrittenUtc": "2026-07-18T07:37:15.583031Z"
   },
   {
+    "SourceTerm": "青天轟霹靂",
+    "PreferredTarget": "thunderclap in a clear sky",
+    "AlternateTargets": [
+      "thunder exploding from blue sky",
+      "a bolt from the clear sky"
+    ],
+    "SearchAliases": [
+      "thunder exploding from blue sky",
+      "a bolt from the clear sky",
+      "thunderclap in a clear sky"
+    ],
+    "Status": "preferred",
+    "Note": "Thunderclap in a clear sky is a sudden, violent sound-image used in verse, hall speech, and an answer naming the Linji house.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-19T08:00:00Z"
+  },
+  {
     "SourceTerm": "青州布衫",
     "PreferredTarget": "the Qingzhou cloth shirt",
     "AlternateTargets": [
@@ -33648,6 +34314,23 @@
     "WrittenUtc": "2026-07-17T00:00:00Z"
   },
   {
+    "SourceTerm": "顛言倒語",
+    "PreferredTarget": "topsy-turvy talk",
+    "AlternateTargets": [
+      "inverted and disordered speech",
+      "talking upside down"
+    ],
+    "SearchAliases": [
+      "inverted and disordered speech",
+      "talking upside down",
+      "topsy-turvy talk"
+    ],
+    "Status": "preferred",
+    "Note": "Topsy-turvy talk is an adverse label for speech judged disordered, misplaced, or merely performative.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-19T08:00:00Z"
+  },
+  {
     "SourceTerm": "類墮",
     "PreferredTarget": "the category fall",
     "AlternateTargets": [
@@ -33718,6 +34401,22 @@
     "WrittenUtc": "2026-07-16T12:23:20.487102+00:00"
   },
   {
+    "SourceTerm": "風力所轉、終成敗壞",
+    "PreferredTarget": "turned by the force of wind, it finally falls into ruin",
+    "AlternateTargets": [
+      "wind-driven things ultimately decay"
+    ],
+    "SearchAliases": [
+      "wind force ruin",
+      "turned by conditions",
+      "eventual decay"
+    ],
+    "Status": "preferred",
+    "Note": "Nanquan's complete paired sentence is retained as a warning about what is moved by wind-force.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-19T00:30:00Z"
+  },
+  {
     "SourceTerm": "風吹不入",
     "PreferredTarget": "wind cannot enter it",
     "AlternateTargets": [
@@ -33749,6 +34448,22 @@
     "Note": "6 exact witnesses from 6 distinct canonical works.",
     "CreatedBy": "Codex construction Lane B fresh author",
     "WrittenUtc": "2026-07-17T05:47:08.167553+00:00"
+  },
+  {
+    "SourceTerm": "風吹柳絮毛毬走、雨打梨花蛺蝶飛",
+    "PreferredTarget": "wind blows willow catkins—fur balls roll—and rain beats pear blossoms—butterflies fly",
+    "AlternateTargets": [
+      "the willow-catkin and pear-blossom likeness couplet"
+    ],
+    "SearchAliases": [
+      "willow catkin fur balls",
+      "pear blossom butterflies",
+      "wind rain likeness"
+    ],
+    "Status": "preferred",
+    "Note": "The paired line places wind-blown willow catkins beside rolling fur balls, then rain-beaten pear blossoms beside flying butterflies. Sanshan quotes and appraises the line, Jiashan supplies it in a raised exchange, an unnamed monk repeats it, and Xuedou Hongyuan Shao gives it as an answer.",
+    "CreatedBy": "Codex cohort-002 lane-B 41-50 strict author",
+    "WrittenUtc": "2026-07-19T08:00:00Z"
   },
   {
     "SourceTerm": "風行草偃",
@@ -33865,6 +34580,22 @@
     "Note": "Literal parenthood is not the point in these retained teacher–disciple cases.",
     "CreatedBy": "Codex Iriya lane B131-140 full-case author",
     "WrittenUtc": "2026-07-18T15:20:00Z"
+  },
+  {
+    "SourceTerm": "養子方知父慈",
+    "PreferredTarget": "only after raising a child does one know a father's care",
+    "AlternateTargets": [
+      "raising a child reveals a father's kindness"
+    ],
+    "SearchAliases": [
+      "father's care",
+      "raising a child proverb",
+      "parental handling"
+    ],
+    "Status": "preferred",
+    "Note": "Guishan first gives the proverb in appraising Linji and Huangbo; Jingshan later applies it to Nanquan's handling of Zhaozhou at the well ladder.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-19T00:45:00Z"
   },
   {
     "SourceTerm": "餬餅",
@@ -34341,6 +35072,22 @@
     "WrittenUtc": "2026-07-15T05:39:15.393137+00:00"
   },
   {
+    "SourceTerm": "髑髏前見鬼",
+    "PreferredTarget": "seeing ghosts before a skull",
+    "AlternateTargets": [
+      "ghosts projected in front of a skull"
+    ],
+    "SearchAliases": [
+      "skull ghosts",
+      "see ghosts",
+      "imagined figures"
+    ],
+    "Status": "preferred",
+    "Note": "The saying places the act of seeing ghosts before an insentient skull. Baoen Xiu, Wansong, Yuanwu, and a biographical dialogue use the line while discussing imagined or calculated appearances.",
+    "CreatedBy": "Codex cohort-002 lane-B 41-50 strict author",
+    "WrittenUtc": "2026-07-19T08:00:00Z"
+  },
+  {
     "SourceTerm": "髑髏裏眼睛",
     "PreferredTarget": "the eye inside the skull",
     "AlternateTargets": [
@@ -34513,6 +35260,22 @@
     "Note": "6 exact full-case witnesses from 6 independent works support this corpus-bounded sense.",
     "CreatedBy": "Codex f004 lane C1166-C1175 exact-actor recovery author",
     "WrittenUtc": "2026-07-15T15:28:02.993665+00:00"
+  },
+  {
+    "SourceTerm": "魚魯參差",
+    "PreferredTarget": "confusing “fish” with “Lu”",
+    "AlternateTargets": [
+      "a tiny graphic difference causing a wrong reading"
+    ],
+    "SearchAliases": [
+      "fish Lu confusion",
+      "similar graphs mistaken",
+      "graphic near-match"
+    ],
+    "Status": "preferred",
+    "Note": "The saying names scribal or visual confusion between similar graphs and commonly travels with the knife-graph comparison; Chan speakers use it for near resemblance that masks a consequential error.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-18T20:25:00Z"
   },
   {
     "SourceTerm": "魯祖面壁",
@@ -34828,6 +35591,22 @@
     "Note": "Huanglong Huinan’s three recurrent public questions: where one’s birth-origin is; how Huanglong’s hand resembles the Buddha’s hand; and how Huanglong’s foot resembles a donkey’s foot.",
     "CreatedBy": "Codex f004 lane A exact-turn repair author",
     "WrittenUtc": "2026-07-15T14:30:00Z"
+  },
+  {
+    "SourceTerm": "黄金自有黄金價、終不和沙賣與人",
+    "PreferredTarget": "gold keeps its own price and is never sold mixed with sand",
+    "AlternateTargets": [
+      "true gold keeps its price and is not sold blended with sand"
+    ],
+    "SearchAliases": [
+      "gold has its price",
+      "gold not sold with sand",
+      "true value unmixed"
+    ],
+    "Status": "preferred",
+    "Note": "The couplet joins intrinsic worth to refusal of adulteration: genuine gold commands its own price and is not offered as a sand mixture. Speakers use it to close displays of uncompromised teaching.",
+    "CreatedBy": "Codex cohort-002 lane-B author",
+    "WrittenUtc": "2026-07-18T20:50:52Z"
   },
   {
     "SourceTerm": "黑山",
