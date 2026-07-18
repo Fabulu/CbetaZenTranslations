@@ -1925,6 +1925,18 @@
     "WrittenUtc": "2026-07-15T15:15:00Z"
   },
   {
+    "SourceTerm": "不是苦心人不知",
+    "PreferredTarget": "no one who has not suffered for it knows",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "no one who has not suffered for it knows"
+    ],
+    "Status": "preferred",
+    "Note": "Generic pain and ignorance are outside the complete conditional saying.",
+    "CreatedBy": "Codex Iriya lane A151-167 full-case author",
+    "WrittenUtc": "2026-07-18T17:57:35Z"
+  },
+  {
     "SourceTerm": "不會",
     "PreferredTarget": "do not understand",
     "AlternateTargets": [],
@@ -6730,6 +6742,18 @@
     "WrittenUtc": "2026-07-18T23:55:00Z"
   },
   {
+    "SourceTerm": "只具一隻眼",
+    "PreferredTarget": "equipped with only one eye",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "equipped with only one eye"
+    ],
+    "Status": "preferred",
+    "Note": "Literal monocular injury is not inferred from this appraisal formula.",
+    "CreatedBy": "Codex Iriya lane A151-167 full-case author",
+    "WrittenUtc": "2026-07-18T17:57:35Z"
+  },
+  {
     "SourceTerm": "只如",
     "PreferredTarget": "just as for...",
     "AlternateTargets": [
@@ -8772,6 +8796,18 @@
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
   },
   {
+    "SourceTerm": "多口阿師",
+    "PreferredTarget": "a talkative teacher",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a talkative teacher"
+    ],
+    "Status": "preferred",
+    "Note": "The label criticizes excess speech; it does not establish an institutional teacher title.",
+    "CreatedBy": "Codex Iriya lane A151-167 full-case author",
+    "WrittenUtc": "2026-07-18T17:57:35Z"
+  },
+  {
     "SourceTerm": "夜半正明，天曉不露",
     "PreferredTarget": "bright at midnight, not exposed at dawn",
     "AlternateTargets": [
@@ -8814,6 +8850,18 @@
     "Note": "The entry reports how the inherited allusion is deployed; it does not turn every poetic butterfly into the same claim.",
     "CreatedBy": "Codex post720 Lane C positions 006-032",
     "WrittenUtc": "2026-07-17T16:00:19.168168+00:00"
+  },
+  {
+    "SourceTerm": "大事了畢",
+    "PreferredTarget": "the great matter is finished",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the great matter is finished"
+    ],
+    "Status": "preferred",
+    "Note": "Routine completion language is excluded where no great matter is grammatically stated.",
+    "CreatedBy": "Codex Iriya lane A151-167 full-case author",
+    "WrittenUtc": "2026-07-18T17:57:35Z"
   },
   {
     "SourceTerm": "大休大歇",
@@ -9300,6 +9348,18 @@
     "Note": "The couplet is a landscape relation, and the records provide no additional gloss for clouds, water, or moon.",
     "CreatedBy": "Codex Iriya lane C161-166 full-case author",
     "WrittenUtc": "2026-07-19T06:30:00Z"
+  },
+  {
+    "SourceTerm": "天地與我同根、萬物與我一體",
+    "PreferredTarget": "heaven and earth share one root with me, and the myriad things form one body with me",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "heaven and earth share one root with me, and the myriad things form one body with me"
+    ],
+    "Status": "preferred",
+    "Note": "The entry reports the quoted equation and its case deployments without importing a metaphysics of universal identity.",
+    "CreatedBy": "Codex Iriya lane A151-167 full-case author",
+    "WrittenUtc": "2026-07-18T18:19:10Z"
   },
   {
     "SourceTerm": "天女",
@@ -11275,6 +11335,18 @@
     "WrittenUtc": "2026-07-18T20:30:00Z"
   },
   {
+    "SourceTerm": "幻化空身即法身",
+    "PreferredTarget": "this illusory empty body is itself the law-body",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "this illusory empty body is itself the law-body"
+    ],
+    "Status": "preferred",
+    "Note": "The article does not treat every mention of an empty or illusory body as this fixed equation.",
+    "CreatedBy": "Codex Iriya lane A151-167 full-case author",
+    "WrittenUtc": "2026-07-18T18:19:10Z"
+  },
+  {
     "SourceTerm": "序",
     "PreferredTarget": "preface",
     "AlternateTargets": [
@@ -11493,6 +11565,18 @@
     "Note": "This excludes animal handling and retains the criticism of manipulating a lifeless case.",
     "CreatedBy": "Codex post720 Lane A positions 007-032",
     "WrittenUtc": "2026-07-17T17:48:39.440462+00:00"
+  },
+  {
+    "SourceTerm": "弄泥團漢",
+    "PreferredTarget": "a fellow playing with mud balls",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a fellow playing with mud balls"
+    ],
+    "Status": "preferred",
+    "Note": "Literal clay work is excluded from the insulting person-label documented here.",
+    "CreatedBy": "Codex Iriya lane A151-167 full-case author",
+    "WrittenUtc": "2026-07-18T17:57:35Z"
   },
   {
     "SourceTerm": "弄精魂",
@@ -12444,6 +12528,18 @@
     "WrittenUtc": "2026-07-15T00:00:00Z"
   },
   {
+    "SourceTerm": "慣得其便",
+    "PreferredTarget": "well accustomed to taking the advantage",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "well accustomed to taking the advantage"
+    ],
+    "Status": "preferred",
+    "Note": "Habitual conduct without the explicit convenience or advantage predicate remains separate.",
+    "CreatedBy": "Codex Iriya lane A151-167 full-case author",
+    "WrittenUtc": "2026-07-18T18:19:10Z"
+  },
+  {
     "SourceTerm": "慣戰作家",
     "PreferredTarget": "a seasoned combatant and accomplished hand",
     "AlternateTargets": [],
@@ -12603,6 +12699,18 @@
     "WrittenUtc": "2026-07-15T16:00:00Z"
   },
   {
+    "SourceTerm": "懷州牛喫禾、益州馬腹脹",
+    "PreferredTarget": "a Huai cow eats grain and a Yi horse’s belly swells",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a Huai cow eats grain and a Yi horse’s belly swells"
+    ],
+    "Status": "preferred",
+    "Note": "Independent cattle, horse, grain, illness, and cautery passages do not count without the linked saying.",
+    "CreatedBy": "Codex Iriya lane A151-167 full-case author",
+    "WrittenUtc": "2026-07-18T18:19:10Z"
+  },
+  {
     "SourceTerm": "懸崖撒手",
     "PreferredTarget": "release your grip over a sheer drop",
     "AlternateTargets": [
@@ -12638,6 +12746,30 @@
     "Note": "Five exact witnesses preserve Dongshan's line as quotation, direct question, or later case citation; parallel recensions are not treated as different sayings.",
     "CreatedBy": "Codex f004 lane B bulk evidence-first author",
     "WrittenUtc": "2026-07-15T10:28:15.689574+00:00"
+  },
+  {
+    "SourceTerm": "我爲法王、於法自在",
+    "PreferredTarget": "I am the law-king, free within the law",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "I am the law-king, free within the law"
+    ],
+    "Status": "preferred",
+    "Note": "Narrative descriptions of kings and law are excluded unless the complete first-person proclamation is present.",
+    "CreatedBy": "Codex Iriya lane A151-167 full-case author",
+    "WrittenUtc": "2026-07-18T18:19:10Z"
+  },
+  {
+    "SourceTerm": "我王庫内無如是刀",
+    "PreferredTarget": "my king’s storehouse has no such blade",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "my king’s storehouse has no such blade"
+    ],
+    "Status": "preferred",
+    "Note": "The line does not inventory a historical armory or identify a literal king; each witness uses the royal store and blade inside speech.",
+    "CreatedBy": "Codex Iriya lane A151-167 full-case author",
+    "WrittenUtc": "2026-07-18T18:19:10Z"
   },
   {
     "SourceTerm": "戒和尚",
@@ -14596,6 +14728,18 @@
     "Note": "6 distinct work IDs selected after complete-case actor review.",
     "CreatedBy": "Codex f004 lane B complete-case author",
     "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
+  },
+  {
+    "SourceTerm": "攙行奪市",
+    "PreferredTarget": "cut into the trade and steal the market",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "cut into the trade and steal the market"
+    ],
+    "Status": "preferred",
+    "Note": "Literal market theft is not asserted by these Chan uses of the received idiom.",
+    "CreatedBy": "Codex Iriya lane A151-167 full-case author",
+    "WrittenUtc": "2026-07-18T17:57:35Z"
   },
   {
     "SourceTerm": "攝心",
@@ -20490,6 +20634,18 @@
     "WrittenUtc": "2026-07-15T02:21:36.664993+00:00"
   },
   {
+    "SourceTerm": "熟處難忘",
+    "PreferredTarget": "what is familiar is hard to forget",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "what is familiar is hard to forget"
+    ],
+    "Status": "preferred",
+    "Note": "Ordinary memory language lacking the familiar-place construction is outside this article.",
+    "CreatedBy": "Codex Iriya lane A151-167 full-case author",
+    "WrittenUtc": "2026-07-18T18:39:23Z"
+  },
+  {
     "SourceTerm": "燃燈佛",
     "PreferredTarget": "Dipankara Buddha",
     "AlternateTargets": [],
@@ -21282,6 +21438,18 @@
     "Note": "7 distinct work IDs selected after complete-context review.",
     "CreatedBy": "Codex f004 lane A rereview repair author",
     "WrittenUtc": "2026-07-15T15:15:00Z"
+  },
+  {
+    "SourceTerm": "瓦解氷消",
+    "PreferredTarget": "tiles break apart and ice melts away",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "tiles break apart and ice melts away"
+    ],
+    "Status": "preferred",
+    "Note": "Literal broken tiles or melting ice are excluded unless the paired formula functions as one predicate.",
+    "CreatedBy": "Codex Iriya lane A151-167 full-case author",
+    "WrittenUtc": "2026-07-18T17:57:35Z"
   },
   {
     "SourceTerm": "生死",
@@ -26449,6 +26617,18 @@
     "WrittenUtc": "2026-07-18T04:29:03.807193+00:00"
   },
   {
+    "SourceTerm": "落草之談",
+    "PreferredTarget": "talk from within the weeds",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "talk from within the weeds"
+    ],
+    "Status": "preferred",
+    "Note": "Literal grass and roadside vegetation do not establish this speech-category sense.",
+    "CreatedBy": "Codex Iriya lane A151-167 full-case author",
+    "WrittenUtc": "2026-07-18T18:19:10Z"
+  },
+  {
     "SourceTerm": "落處",
     "PreferredTarget": "where it lands",
     "AlternateTargets": [
@@ -29844,6 +30024,18 @@
     "WrittenUtc": "2026-07-18T17:35:02Z"
   },
   {
+    "SourceTerm": "道遠乎哉",
+    "PreferredTarget": "is the Way far away?",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "is the Way far away?"
+    ],
+    "Status": "preferred",
+    "Note": "Questions about physical road distance are excluded unless they reproduce the received Way question.",
+    "CreatedBy": "Codex Iriya lane A151-167 full-case author",
+    "WrittenUtc": "2026-07-18T17:57:35Z"
+  },
+  {
     "SourceTerm": "達磨不來東土，二祖不往西天",
     "PreferredTarget": "Bodhidharma does not come east and the Second Patriarch does not go west",
     "AlternateTargets": [
@@ -30200,6 +30392,18 @@
     "Note": "The first two witnesses preserve an overheard debate: Xuefeng Daoyuan is the biography subject, not either utterer. The anonymous former resident’s core case is retained in the explanation, while the curated evidence uses attributable deployments by Wanru Tongwei, Xueyan Zuqin, Dahui Zonggao, and Chushi Fanqi rather than disguising the former teacher as a generic monk.",
     "CreatedBy": "Codex f004 lane B bulk evidence-first author",
     "WrittenUtc": "2026-07-15T10:28:15.689574+00:00"
+  },
+  {
+    "SourceTerm": "量才補職",
+    "PreferredTarget": "assign offices according to ability",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "assign offices according to ability"
+    ],
+    "Status": "preferred",
+    "Note": "Generic weighing and employment prose is excluded unless the capacity-to-office formula occurs.",
+    "CreatedBy": "Codex Iriya lane A151-167 full-case author",
+    "WrittenUtc": "2026-07-18T17:57:35Z"
   },
   {
     "SourceTerm": "金不博金",
