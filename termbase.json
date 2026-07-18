@@ -121,6 +121,18 @@
     "WrittenUtc": "2026-07-17T00:00:00Z"
   },
   {
+    "SourceTerm": "一切聲是佛聲",
+    "PreferredTarget": "every sound is Buddha’s sound",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "every sound is Buddha’s sound"
+    ],
+    "Status": "preferred",
+    "Note": "The entry records the exact universal sound formula and does not merge every neighboring discussion of color or sound.",
+    "CreatedBy": "Codex Iriya lane A131-150 full-case author",
+    "WrittenUtc": "2026-07-18T17:35:02Z"
+  },
+  {
     "SourceTerm": "一口吸盡西江水",
     "PreferredTarget": "drink up all the West River's water in one mouthful",
     "AlternateTargets": [
@@ -675,6 +687,18 @@
     "Note": "One idiomatic image with multiple attested stances; grammatical form and differing evaluations do not create extra senses.",
     "CreatedBy": "Codex f002 Lane C fresh corpus build",
     "WrittenUtc": "2026-07-15T04:06:26.730577+00:00"
+  },
+  {
+    "SourceTerm": "一盲引衆盲",
+    "PreferredTarget": "one blind person leads the crowd of blind people",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "one blind person leads the crowd of blind people"
+    ],
+    "Status": "preferred",
+    "Note": "The retained uses concern misleading guidance, not physical blindness reports.",
+    "CreatedBy": "Codex Iriya lane A131-150 full-case author",
+    "WrittenUtc": "2026-07-18T17:28:08Z"
   },
   {
     "SourceTerm": "一相三昧",
@@ -2471,6 +2495,19 @@
     "Note": "Long rain without clearing is both weather and an interview phrase. Masters turn it into a house style, a capping shout, or a condition whose next line—airing out, spring, a drowned nostril—tests whether the questioner can move.",
     "CreatedBy": "Codex Iriya cohort001 Lane B position38 packet author",
     "WrittenUtc": "2026-07-18T07:41:38.276991+00:00"
+  },
+  {
+    "SourceTerm": "之乎者也",
+    "PreferredTarget": "the bookish particles “zhi, hu, zhe, ye”",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the four classical literary particles",
+      "bookish classical particles"
+    ],
+    "Status": "preferred",
+    "Note": "The entry covers the fixed four-particle string, not every occurrence of its individual graphs.",
+    "CreatedBy": "Codex Iriya lane A131-150 full-case author",
+    "WrittenUtc": "2026-07-18T17:28:08Z"
   },
   {
     "SourceTerm": "九九八十一",
@@ -6996,6 +7033,18 @@
     "WrittenUtc": "2026-07-15T15:15:00Z"
   },
   {
+    "SourceTerm": "向鬼窟裏作活計",
+    "PreferredTarget": "make a livelihood inside a ghost cave",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "make a livelihood inside a ghost cave"
+    ],
+    "Status": "preferred",
+    "Note": "Literal caves and ghost stories are outside this idiomatic rebuke.",
+    "CreatedBy": "Codex Iriya lane A131-150 full-case author",
+    "WrittenUtc": "2026-07-18T17:28:08Z"
+  },
+  {
     "SourceTerm": "君向瀟湘我向秦",
     "PreferredTarget": "you head toward Xiaoxiang, while I head toward Qin",
     "AlternateTargets": [],
@@ -7817,6 +7866,18 @@
     "WrittenUtc": "2026-07-18T07:41:33.516366+00:00"
   },
   {
+    "SourceTerm": "四七二三",
+    "PreferredTarget": "the twenty-eight Indian and six Chinese patriarchs",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the twenty-eight Indian and six Chinese patriarchs"
+    ],
+    "Status": "preferred",
+    "Note": "The arithmetic is a compact lineage count; unrelated numerical fours, sevens, twos, and threes are excluded.",
+    "CreatedBy": "Codex Iriya lane A131-150 full-case author",
+    "WrittenUtc": "2026-07-18T17:28:08Z"
+  },
+  {
     "SourceTerm": "四天王",
     "PreferredTarget": "the Four Heavenly Kings",
     "AlternateTargets": [
@@ -8114,6 +8175,18 @@
     "Note": "Other predicates retain the same rounded form while attaching different claims to it. Qianyan Yuanzhang pairs “perfectly round” with “shining and flashing,” then says “large within large, narrow within narrow.” Hongzhi Zhengjue says that the form is neither the least bit deficient nor the least bit excessive. Chunan Furong Baining Yi also criticizes a fixed reading: he says later people take “the perfectly round and shining one” as the ultimate rule, yet do not know that the Way has no fixed body and that heading toward it goes astray. His warning prevents the dictionary from converting a recurrent description into one universal abstract definition. The adverbial form occurs 15 times in 11 texts, and the exact round-and-shining pairing occurs three times in three texts.",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "土上加泥",
+    "PreferredTarget": "add mud on top of earth",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "add mud on top of earth"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase concerns redundant addition, not literal building soil or clay work.",
+    "CreatedBy": "Codex Iriya lane A131-150 full-case author",
+    "WrittenUtc": "2026-07-18T17:35:02Z"
   },
   {
     "SourceTerm": "土地堂",
@@ -8975,6 +9048,18 @@
     "Note": "Two distinct X68 passages are retained as separate same-work deployments and are distinguished from the independent J26 witness; duplicate work does not inflate independent-source count.",
     "CreatedBy": "Codex post-current-investigation720 Lane B positions 6-59",
     "WrittenUtc": "2026-07-17T17:18:50.250413+00:00"
+  },
+  {
+    "SourceTerm": "大死底人",
+    "PreferredTarget": "a person who has undergone the great death",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a person who has undergone the great death"
+    ],
+    "Status": "preferred",
+    "Note": "The headword names the person in the recurring question; the shorter “great death” expression is related but broader.",
+    "CreatedBy": "Codex Iriya lane A131-150 full-case author",
+    "WrittenUtc": "2026-07-18T17:35:02Z"
   },
   {
     "SourceTerm": "大用",
@@ -10014,6 +10099,18 @@
     "Note": "Eight reviewed witnesses comprise seven independent case/work families; the T51 and X80 Letan witnesses are parallel transmissions of one case and count once for independence.",
     "CreatedBy": "Codex f003 laneB exact8 priority repair author",
     "WrittenUtc": "2026-07-15T17:30:00Z"
+  },
+  {
+    "SourceTerm": "宗乘中事",
+    "PreferredTarget": "the matter within the lineage vehicle",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the matter within the lineage vehicle"
+    ],
+    "Status": "preferred",
+    "Note": "The matter is the lineage vehicle’s business in these cases, not every ordinary affair conducted by members of a lineage.",
+    "CreatedBy": "Codex Iriya lane A131-150 full-case author",
+    "WrittenUtc": "2026-07-18T17:35:02Z"
   },
   {
     "SourceTerm": "宗匠",
@@ -12426,6 +12523,18 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "應機接物",
+    "PreferredTarget": "respond to the occasion and receive people",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "respond to the occasion and receive people"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase is an encounter-office pair, not every ordinary response to circumstances.",
+    "CreatedBy": "Codex Iriya lane A131-150 full-case author",
+    "WrittenUtc": "2026-07-18T17:28:08Z"
+  },
+  {
     "SourceTerm": "應物現形",
     "PreferredTarget": "responding to things, showing a form",
     "AlternateTargets": [
@@ -12768,6 +12877,18 @@
     "Note": "The exact phrase occurs 340 times in 153 allowlisted files. Seven exact witnesses across seven independent works support one continuity/unification sense; the close form “make into one piece” remains related rather than counted here.",
     "CreatedBy": "Codex fresh f001 lane A evidence-first",
     "WrittenUtc": "2026-07-15T00:00:00Z"
+  },
+  {
+    "SourceTerm": "打破漆桶",
+    "PreferredTarget": "break open the lacquer bucket",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "break open the lacquer bucket"
+    ],
+    "Status": "preferred",
+    "Note": "Some records still say “not yet” after the bucket breaks, so the phrase alone is not a final certificate.",
+    "CreatedBy": "Codex Iriya lane A131-150 full-case author",
+    "WrittenUtc": "2026-07-18T17:28:08Z"
   },
   {
     "SourceTerm": "打破蔡州",
@@ -13740,6 +13861,18 @@
     "WrittenUtc": "2026-07-15T10:28:15.689574+00:00"
   },
   {
+    "SourceTerm": "掉棒打月",
+    "PreferredTarget": "drop the staff and strike at the moon",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "drop the staff and strike at the moon"
+    ],
+    "Status": "preferred",
+    "Note": "The staff and moon form one failed-action image; literal staffs and astronomical moon descriptions remain outside it.",
+    "CreatedBy": "Codex Iriya lane A131-150 full-case author",
+    "WrittenUtc": "2026-07-18T17:35:02Z"
+  },
+  {
     "SourceTerm": "掉舉",
     "PreferredTarget": "agitation",
     "AlternateTargets": [
@@ -14551,6 +14684,18 @@
     "Note": "The exact form has 340 matches in 126 files. The graph variant with the shorter form of the final character has nine matches in five files. The Yan Yang question 'when not one thing is brought' occurs eighty-four times in fifty-four files, and its follow-up 'since not one thing is brought' occurs fourteen times in fourteen. 'Put everything down at once' occurs five times in three files, while the direct opposite imperative 'raise it up' occurs once. None of the seven required definition formulas occurs, so the entry is built from complete exchanges, physical deployments, the text-drawn opposition, and later quotations of the case.",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "放你三十棒",
+    "PreferredTarget": "spare you thirty blows",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "spare you thirty blows"
+    ],
+    "Status": "preferred",
+    "Note": "The formula records a reprieve from blows in these turns; it is not evidence that a beating occurred.",
+    "CreatedBy": "Codex Iriya lane A131-150 full-case author",
+    "WrittenUtc": "2026-07-18T17:28:08Z"
   },
   {
     "SourceTerm": "放曠逍遙",
@@ -16696,6 +16841,18 @@
     "Note": "The label is not expanded into an unattested psychology of lifeless quiet.",
     "CreatedBy": "Codex post720 Lane C positions 033-058",
     "WrittenUtc": "2026-07-17T16:30:22.041434+00:00"
+  },
+  {
+    "SourceTerm": "枯木裏龍吟",
+    "PreferredTarget": "a dragon sings inside a withered tree",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a dragon sings inside a withered tree"
+    ],
+    "Status": "preferred",
+    "Note": "Dragon and tree stay one image; separate dragon calls or dead-tree descriptions do not anchor it.",
+    "CreatedBy": "Codex Iriya lane A131-150 full-case author",
+    "WrittenUtc": "2026-07-18T17:28:08Z"
   },
   {
     "SourceTerm": "枯木開花",
@@ -20699,6 +20856,18 @@
     "WrittenUtc": "2026-07-15T14:06:41.045212+00:00"
   },
   {
+    "SourceTerm": "特地一場愁",
+    "PreferredTarget": "a whole spell of sorrow for nothing",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a whole spell of sorrow for nothing"
+    ],
+    "Status": "preferred",
+    "Note": "The line can be quoted with differing objects of sorrow; those contexts do not create different lexical referents.",
+    "CreatedBy": "Codex Iriya lane A131-150 full-case author",
+    "WrittenUtc": "2026-07-18T17:35:02Z"
+  },
+  {
     "SourceTerm": "犀牛",
     "PreferredTarget": "the rhinoceros",
     "AlternateTargets": [
@@ -21419,6 +21588,18 @@
     "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:30:57.027055+00:00"
+  },
+  {
+    "SourceTerm": "當機覿面",
+    "PreferredTarget": "face-to-face at the occasion",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "face-to-face at the occasion"
+    ],
+    "Status": "preferred",
+    "Note": "The coordinated face-to-face occasion remains one relational phrase; either component alone has broader uses.",
+    "CreatedBy": "Codex Iriya lane A131-150 full-case author",
+    "WrittenUtc": "2026-07-18T17:35:02Z"
   },
   {
     "SourceTerm": "當處",
@@ -25130,6 +25311,18 @@
     "WrittenUtc": "2026-07-18T23:55:00Z"
   },
   {
+    "SourceTerm": "胡喝亂喝",
+    "PreferredTarget": "shout blindly and chaotically",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "shout blindly and chaotically"
+    ],
+    "Status": "preferred",
+    "Note": "A shout is not condemned merely for being loud; the retained rebukes target indiscriminate shouting that cannot distinguish the encounter.",
+    "CreatedBy": "Codex Iriya lane A131-150 full-case author",
+    "WrittenUtc": "2026-07-18T17:35:02Z"
+  },
+  {
     "SourceTerm": "胡言漢語",
     "PreferredTarget": "Hu words and Han speech",
     "AlternateTargets": [],
@@ -26151,6 +26344,18 @@
     "Note": "Seven exact witnesses in seven independent works support the case-comment sense; false segmentation in the phrase recorded sayings that one authored is excluded.",
     "CreatedBy": "Codex fresh f001 lane A evidence-first",
     "WrittenUtc": "2026-07-15T09:40:00Z"
+  },
+  {
+    "SourceTerm": "落七落八",
+    "PreferredTarget": "fall into a seven-and-eight jumble",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "fall into a seven-and-eight jumble"
+    ],
+    "Status": "preferred",
+    "Note": "The number pair functions as one disorder verdict; literal falling and unrelated sevens or eights are excluded.",
+    "CreatedBy": "Codex Iriya lane A131-150 full-case author",
+    "WrittenUtc": "2026-07-18T17:35:02Z"
   },
   {
     "SourceTerm": "落二落三",
@@ -29627,6 +29832,18 @@
     "WrittenUtc": "2026-07-15T08:19:54.041548+00:00"
   },
   {
+    "SourceTerm": "道得八成",
+    "PreferredTarget": "manage only eighty percent",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "manage only eighty percent"
+    ],
+    "Status": "preferred",
+    "Note": "Eight tenths is an appraisal within a turn, not a corpus frequency or mathematical measurement.",
+    "CreatedBy": "Codex Iriya lane A131-150 full-case author",
+    "WrittenUtc": "2026-07-18T17:35:02Z"
+  },
+  {
     "SourceTerm": "達磨不來東土，二祖不往西天",
     "PreferredTarget": "Bodhidharma does not come east and the Second Patriarch does not go west",
     "AlternateTargets": [
@@ -30103,6 +30320,18 @@
     "Note": "Nineteen exact hits occur in sixteen frozen works. Parallel Yunju recensions were treated as one inherited family rather than multiplied.",
     "CreatedBy": "Codex f005 lane A author",
     "WrittenUtc": "2026-07-15T17:04:33.531281+00:00"
+  },
+  {
+    "SourceTerm": "金屑雖貴、落眼成翳",
+    "PreferredTarget": "gold dust, though precious, blinds the eye when it falls in",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "gold dust, though precious, blinds the eye when it falls in"
+    ],
+    "Status": "preferred",
+    "Note": "The proverb does not say gold lacks value; it says its location in the eye makes it obstructive.",
+    "CreatedBy": "Codex Iriya lane A131-150 full-case author",
+    "WrittenUtc": "2026-07-18T17:28:08Z"
   },
   {
     "SourceTerm": "金毛師子",
@@ -33482,6 +33711,18 @@
     "Note": "Gaofeng Yuanmiao speaks of stripping this shirt off; Baoning Renyong and later speakers describe recognizing a trace of breath in the old shirt, while Dahui records removing it alongside a greasy cap. Exact-turn review keeps quotations and record headings separate.",
     "CreatedBy": "iriya-construction-001 lane B",
     "WrittenUtc": "2026-07-18T09:06:17.158872Z"
+  },
+  {
+    "SourceTerm": "鷂子過新羅",
+    "PreferredTarget": "a sparrowhawk passes Silla",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a sparrowhawk passes Silla"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase names the hawk’s completed flight; it does not make every quick response an instance of this line.",
+    "CreatedBy": "Codex Iriya lane A131-150 full-case author",
+    "WrittenUtc": "2026-07-18T17:28:08Z"
   },
   {
     "SourceTerm": "鷺鶿",
