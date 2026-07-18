@@ -5343,6 +5343,18 @@
     "WrittenUtc": "2026-07-17T16:00:00Z"
   },
   {
+    "SourceTerm": "分疎不下",
+    "PreferredTarget": "unable to account for it",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "unable to account for it"
+    ],
+    "Status": "preferred",
+    "Note": "The grammatical object varies by case, so the English target does not make the failure reflexive.",
+    "CreatedBy": "Codex Iriya lane A121-130 full-case author",
+    "WrittenUtc": "2026-07-18T17:27:34Z"
+  },
+  {
     "SourceTerm": "分疏不下",
     "PreferredTarget": "unable to account for it",
     "AlternateTargets": [
@@ -5902,6 +5914,18 @@
     "Note": "The word “worlds” is retained explicitly in the English target. Translation canary: every lexical component of the headword was checked against the target.",
     "CreatedBy": "Codex f004 lane C author",
     "WrittenUtc": "2026-07-15T10:47:37.387461+00:00"
+  },
+  {
+    "SourceTerm": "十方無壁落、四面亦無門",
+    "PreferredTarget": "no walls in the ten directions, no gate on any side",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "no walls in the ten directions, no gate on any side"
+    ],
+    "Status": "preferred",
+    "Note": "The absence of walls and gates is explicit; the entry adds no hidden enclosure beyond the stated scene.",
+    "CreatedBy": "Codex Iriya lane B151-160 full-case author",
+    "WrittenUtc": "2026-07-18T17:03:34Z"
   },
   {
     "SourceTerm": "十方薄伽梵、一路涅槃門",
@@ -6555,6 +6579,18 @@
     "Note": "One hundred forty-five exact hits occur in eighty-nine frozen works. The stored witnesses preserve both formidable and explicitly limited deployments.",
     "CreatedBy": "Codex f005 lane A author",
     "WrittenUtc": "2026-07-15T18:59:02.906491+00:00"
+  },
+  {
+    "SourceTerm": "口是禍門",
+    "PreferredTarget": "the mouth is the gate of disaster",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the mouth is the gate of disaster"
+    ],
+    "Status": "preferred",
+    "Note": "The article reports the literal formula and its recorded placements without adding a causal theory of speech.",
+    "CreatedBy": "Codex Iriya lane A121-130 full-case author",
+    "WrittenUtc": "2026-07-18T17:27:34Z"
   },
   {
     "SourceTerm": "古佛",
@@ -8121,6 +8157,18 @@
     "WrittenUtc": "2026-07-15T05:08:23.100877+00:00"
   },
   {
+    "SourceTerm": "坐久成勞",
+    "PreferredTarget": "long sitting becomes weariness",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "long sitting becomes weariness"
+    ],
+    "Status": "preferred",
+    "Note": "The answer reports weariness from prolonged sitting. It is not evidence for a prescribed sitting procedure.",
+    "CreatedBy": "Codex Iriya lane B151-160 full-case author",
+    "WrittenUtc": "2026-07-18T17:03:34Z"
+  },
+  {
     "SourceTerm": "坐具",
     "PreferredTarget": "a sitting cloth",
     "AlternateTargets": [
@@ -8284,6 +8332,18 @@
     "Note": "Six exact occurrences from 6 independent works are stored.",
     "CreatedBy": "Codex Lane C position 23 explicit full-case author",
     "WrittenUtc": "2026-07-17T09:47:29.135884+00:00"
+  },
+  {
+    "SourceTerm": "坐脱立亡",
+    "PreferredTarget": "die seated or expire standing",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "die seated or expire standing"
+    ],
+    "Status": "preferred",
+    "Note": "Jiufeng explicitly separates the two death postures from grasping the former teacher’s meaning.",
+    "CreatedBy": "Codex Iriya lane A121-130 full-case author",
+    "WrittenUtc": "2026-07-18T17:27:34Z"
   },
   {
     "SourceTerm": "坐臥經行",
@@ -8996,6 +9056,18 @@
     "WrittenUtc": "2026-07-16T12:01:41.515180+00:00"
   },
   {
+    "SourceTerm": "大盡三十日、小盡二十九",
+    "PreferredTarget": "a long month has thirty days and a short month has twenty-nine",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a long month has thirty days and a short month has twenty-nine"
+    ],
+    "Status": "preferred",
+    "Note": "The calendar statement is literal; this entry does not assign hidden values to thirty or twenty-nine.",
+    "CreatedBy": "Codex Iriya lane B161-167 full-case author",
+    "WrittenUtc": "2026-07-18T17:46:22Z"
+  },
+  {
     "SourceTerm": "大蟲",
     "PreferredTarget": "the tiger",
     "AlternateTargets": [
@@ -9102,6 +9174,18 @@
     "Note": "The retained cases distinguish Shakyamuni’s quoted birth declaration from later masters and contemporary monks who raise, copy, or appraise it; Yangqi Fanghui’s hall address explicitly depicts contemporary monks copying it.",
     "CreatedBy": "Codex Iriya Lane B B071-B080 full-case author",
     "WrittenUtc": "2026-07-18T11:16:52.053234+00:00"
+  },
+  {
+    "SourceTerm": "天上有星皆拱北、人間無水不朝東",
+    "PreferredTarget": "all stars in heaven face north and all waters on earth flow east",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "all stars in heaven face north and all waters on earth flow east"
+    ],
+    "Status": "preferred",
+    "Note": "The pair supplies a directional image; praise of any particular ruler or teacher depends on the surrounding address, not on the saying alone.",
+    "CreatedBy": "Codex Iriya lane B151-160 full-case author",
+    "WrittenUtc": "2026-07-18T17:03:34Z"
   },
   {
     "SourceTerm": "天下太平",
@@ -10038,6 +10122,18 @@
     "WrittenUtc": "2026-07-14T19:00:00Z"
   },
   {
+    "SourceTerm": "官不容針、私通車馬",
+    "PreferredTarget": "official needle exclusion versus private passage for carts and horses",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "official needle exclusion versus private passage for carts and horses"
+    ],
+    "Status": "preferred",
+    "Note": "The official needle clause and private cart-and-horse clause are preserved as one balanced saying.",
+    "CreatedBy": "Codex Iriya lane A121-130 full-case author",
+    "WrittenUtc": "2026-07-18T17:27:34Z"
+  },
+  {
     "SourceTerm": "定光佛",
     "PreferredTarget": "Dipankara Buddha",
     "AlternateTargets": [],
@@ -10622,6 +10718,18 @@
     "WrittenUtc": "2026-07-16T18:11:14.491876+00:00"
   },
   {
+    "SourceTerm": "尿床鬼子",
+    "PreferredTarget": "bed-wetting brat",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "bed-wetting brat"
+    ],
+    "Status": "preferred",
+    "Note": "This is an insult in the records, not a diagnosis or an entry about childhood.",
+    "CreatedBy": "Codex Iriya lane B161-167 full-case author",
+    "WrittenUtc": "2026-07-18T17:46:22Z"
+  },
+  {
     "SourceTerm": "屋裏販揚州",
     "PreferredTarget": "peddling Yangzhou inside the house",
     "AlternateTargets": [
@@ -10635,6 +10743,18 @@
     "Note": "5 exact occurrences from 5 independent works are stored.",
     "CreatedBy": "Codex fresh construction Lane C",
     "WrittenUtc": "2026-07-17T00:00:00Z"
+  },
+  {
+    "SourceTerm": "屙屎送尿",
+    "PreferredTarget": "to shit and piss",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to shit and piss"
+    ],
+    "Status": "preferred",
+    "Note": "The terms name excretion directly. Polite substitution would erase the wording the masters chose.",
+    "CreatedBy": "Codex Iriya lane B161-167 full-case author",
+    "WrittenUtc": "2026-07-18T17:51:21Z"
   },
   {
     "SourceTerm": "山是山、水是水",
@@ -10929,6 +11049,18 @@
     "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
     "CreatedBy": "Codex f003 Lane A full-case author",
     "WrittenUtc": "2026-07-15T04:53:36.766800+00:00"
+  },
+  {
+    "SourceTerm": "平地上死人無數",
+    "PreferredTarget": "on level ground the dead are countless",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "on level ground the dead are countless"
+    ],
+    "Status": "preferred",
+    "Note": "Later raisers remain distinct from Yunmen, who owns the quoted original in both raised cases.",
+    "CreatedBy": "Codex Iriya lane A121-130 full-case author",
+    "WrittenUtc": "2026-07-18T17:27:34Z"
   },
   {
     "SourceTerm": "平地喫交",
@@ -11683,6 +11815,18 @@
     "Note": "Biographies, answers, exhortations, and blows use it for an experience or impact that reaches the person without remainder. Exact-turn review separates quotations, questions, and record headings.",
     "CreatedBy": "iriya-construction-001 lane B",
     "WrittenUtc": "2026-07-18T09:10:01.650559Z"
+  },
+  {
+    "SourceTerm": "心不是佛、智不是道",
+    "PreferredTarget": "neither mind as Buddha nor wisdom as Way",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "neither mind as Buddha nor wisdom as Way"
+    ],
+    "Status": "preferred",
+    "Note": "Nanquan’s warning against conceptual understanding is local evidence, not a generalized resting-place claim.",
+    "CreatedBy": "Codex Iriya lane A121-130 full-case author",
+    "WrittenUtc": "2026-07-18T17:27:34Z"
   },
   {
     "SourceTerm": "心印",
@@ -12837,6 +12981,18 @@
     "WrittenUtc": "2026-07-15T10:28:15.689574+00:00"
   },
   {
+    "SourceTerm": "把斷要津、不通凡聖",
+    "PreferredTarget": "to block the crucial crossing, letting neither ordinary nor sacred through",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to block the crucial crossing, letting neither ordinary nor sacred through"
+    ],
+    "Status": "preferred",
+    "Note": "“Ordinary” and “sacred” are the two classes explicitly barred; the entry does not invent what lies beyond the crossing.",
+    "CreatedBy": "Codex Iriya lane B151-160 full-case author",
+    "WrittenUtc": "2026-07-18T17:03:34Z"
+  },
+  {
     "SourceTerm": "把關",
     "PreferredTarget": "to guard the barrier",
     "AlternateTargets": [
@@ -13463,6 +13619,18 @@
     "Note": "Literal historical discussion of the old court anecdote is not represented; these witnesses use the comparison as a verdict.",
     "CreatedBy": "iriya-construction-001 lane A manual speech-marker recovery",
     "WrittenUtc": "2026-07-18T16:15:00Z"
+  },
+  {
+    "SourceTerm": "按牛頭喫草",
+    "PreferredTarget": "to press an ox’s head down to make it eat grass",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to press an ox’s head down to make it eat grass"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase records coercion, not an agricultural recommendation.",
+    "CreatedBy": "Codex Iriya lane B151-160 full-case author",
+    "WrittenUtc": "2026-07-18T17:03:34Z"
   },
   {
     "SourceTerm": "捉敗了也",
@@ -14182,6 +14350,18 @@
     "Note": "The numerical wording describes inferential reach; it is not a literal instruction to enumerate exactly three objects.",
     "CreatedBy": "iriya-construction-001 lane A manual speech-marker recovery",
     "WrittenUtc": "2026-07-18T17:25:00Z"
+  },
+  {
+    "SourceTerm": "擧足下足",
+    "PreferredTarget": "raising or lowering the foot",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "raising or lowering the foot"
+    ],
+    "Status": "preferred",
+    "Note": "The article renders the source location term as “the site of the Way” and adds no broader pedagogical claim.",
+    "CreatedBy": "Codex Iriya lane A121-130 full-case author",
+    "WrittenUtc": "2026-07-18T17:27:34Z"
   },
   {
     "SourceTerm": "擬對",
@@ -16392,6 +16572,18 @@
     "WrittenUtc": "2026-07-18T15:53:06Z"
   },
   {
+    "SourceTerm": "松直棘曲",
+    "PreferredTarget": "pines are straight, thorns are crooked",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "pines are straight, thorns are crooked"
+    ],
+    "Status": "preferred",
+    "Note": "The records state visible difference without assigning moral rank to straightness or crookedness.",
+    "CreatedBy": "Codex Iriya lane B151-160 full-case author",
+    "WrittenUtc": "2026-07-18T17:03:34Z"
+  },
+  {
     "SourceTerm": "果位",
     "PreferredTarget": "the attained fruit-stage",
     "AlternateTargets": [
@@ -16802,6 +16994,18 @@
     "Note": "The saying claims that the staff or its blow discriminates accurately rather than striking blindly.",
     "CreatedBy": "Codex Iriya construction lane A positions 43–50",
     "WrittenUtc": "2026-07-18T08:01:11.474017Z"
+  },
+  {
+    "SourceTerm": "棒頭有眼明如日",
+    "PreferredTarget": "at the staff-tip an eye shines like the sun",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "at the staff-tip an eye shines like the sun"
+    ],
+    "Status": "preferred",
+    "Note": "Shousheng’s lacquer-dark reversal is retained alongside affirmative staff-tip uses.",
+    "CreatedBy": "Codex Iriya lane A121-130 full-case author",
+    "WrittenUtc": "2026-07-18T17:27:34Z"
   },
   {
     "SourceTerm": "森羅萬象",
@@ -20618,6 +20822,18 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "猶有這箇在",
+    "PreferredTarget": "that is still there",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "that is still there"
+    ],
+    "Status": "preferred",
+    "Note": "The demonstrative remains deliberately unspecified in the dialogue; translating it as a named defect would exceed the text.",
+    "CreatedBy": "Codex Iriya lane B151-160 full-case author",
+    "WrittenUtc": "2026-07-18T17:03:34Z"
+  },
+  {
     "SourceTerm": "猶較些子",
     "PreferredTarget": "still somewhat closer",
     "AlternateTargets": [
@@ -20994,6 +21210,18 @@
     "Note": "The earlier draft split Huanglong's checkpoint from biographical 'native place.' Item 8 requires their merger: both ask the person's origin circumstance, and the named chamber setting changes deployment rather than referent. The generative condition applied to the myriad things remains separate below.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
+  },
+  {
+    "SourceTerm": "生鐵鑄就",
+    "PreferredTarget": "cast from raw iron",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "cast from raw iron"
+    ],
+    "Status": "preferred",
+    "Note": "“Raw iron” is figurative in the retained uses; no casting workshop or finished iron object is described.",
+    "CreatedBy": "Codex Iriya lane B151-160 full-case author",
+    "WrittenUtc": "2026-07-18T17:03:34Z"
   },
   {
     "SourceTerm": "用處",
@@ -21641,6 +21869,18 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "盡法無民",
+    "PreferredTarget": "to exhaust the law leaves no people",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to exhaust the law leaves no people"
+    ],
+    "Status": "preferred",
+    "Note": "The line is retained as a rule-limit formula; it does not authorize the dictionary to decide which law should be relaxed.",
+    "CreatedBy": "Codex Iriya lane B161-167 full-case author",
+    "WrittenUtc": "2026-07-18T17:46:22Z"
+  },
+  {
     "SourceTerm": "監寺",
     "PreferredTarget": "the monastery supervisor",
     "AlternateTargets": [
@@ -22204,6 +22444,18 @@
     "WrittenUtc": "2026-07-17T08:54:56.520459+00:00"
   },
   {
+    "SourceTerm": "眼横鼻直",
+    "PreferredTarget": "eyes horizontal, nose vertical",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "eyes horizontal, nose vertical"
+    ],
+    "Status": "preferred",
+    "Note": "Local contrasts remain local; the shared evidence is the ordinary horizontal-eye, vertical-nose alignment.",
+    "CreatedBy": "Codex Iriya lane A121-130 full-case author",
+    "WrittenUtc": "2026-07-18T17:27:34Z"
+  },
+  {
     "SourceTerm": "眼目",
     "PreferredTarget": "eyes as organs",
     "AlternateTargets": [
@@ -22231,6 +22483,18 @@
     "Note": "8 retained full-case witnesses after lexical-boundary and deployment review.",
     "CreatedBy": "Codex f004 lane B complete-case author",
     "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
+  },
+  {
+    "SourceTerm": "眼睛突出",
+    "PreferredTarget": "with the eyes bulging out",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "with the eyes bulging out"
+    ],
+    "Status": "preferred",
+    "Note": "The bodily image varies in appraisal, so protruding eyes alone do not certify either success or failure.",
+    "CreatedBy": "Codex Iriya lane B151-160 full-case author",
+    "WrittenUtc": "2026-07-18T17:03:34Z"
   },
   {
     "SourceTerm": "眼空四海",
@@ -22897,6 +23161,18 @@
     "WrittenUtc": "2026-07-15T15:03:50.947927+00:00"
   },
   {
+    "SourceTerm": "禍出私門",
+    "PreferredTarget": "disaster comes through the private gate",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "disaster comes through the private gate"
+    ],
+    "Status": "preferred",
+    "Note": "Private gate is the literal image in the wording; the entry makes no claim about a physical doorway or household.",
+    "CreatedBy": "Codex Iriya lane B161-167 full-case author",
+    "WrittenUtc": "2026-07-18T17:46:22Z"
+  },
+  {
     "SourceTerm": "禪人",
     "PreferredTarget": "a Chan person",
     "AlternateTargets": [
@@ -23146,6 +23422,18 @@
     "Note": "Alone exposed among the myriad forms says that the body sought elsewhere is already unmistakably displayed amid every appearance.",
     "CreatedBy": "Codex Iriya construction lane C evidence-first",
     "WrittenUtc": "2026-07-18T07:13:49.801777Z"
+  },
+  {
+    "SourceTerm": "萬里一條鐵",
+    "PreferredTarget": "ten thousand miles, one bar of iron",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "ten thousand miles, one bar of iron"
+    ],
+    "Status": "preferred",
+    "Note": "The witnesses establish continuity and hardness but do not identify a literal bar extending ten thousand miles.",
+    "CreatedBy": "Codex Iriya lane B151-160 full-case author",
+    "WrittenUtc": "2026-07-18T17:03:34Z"
   },
   {
     "SourceTerm": "萬里崖州",
@@ -24132,6 +24420,18 @@
     "Note": "The weaving phrase describes closely connected back-and-forth work. Records apply it to verbal exchange, case commentary, and the literal metaphor of stitching a robe; the phrase does not by itself decide whether that work succeeds.",
     "CreatedBy": "Codex Iriya lane C61-160 exact-turn author",
     "WrittenUtc": "2026-07-18T15:28:00Z"
+  },
+  {
+    "SourceTerm": "經有經師、論有論師",
+    "PreferredTarget": "sutras have sutra teachers and treatises have treatise teachers",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "sutras have sutra teachers and treatises have treatise teachers"
+    ],
+    "Status": "preferred",
+    "Note": "The line distinguishes available scripture and treatise specialists; it does not say that Yaoshan himself will fill either role.",
+    "CreatedBy": "Codex Iriya lane B161-167 full-case author",
+    "WrittenUtc": "2026-07-18T17:46:22Z"
   },
   {
     "SourceTerm": "經行",
@@ -28499,6 +28799,18 @@
     "WrittenUtc": "2026-07-16T18:01:54.667186+00:00"
   },
   {
+    "SourceTerm": "蹉過了也",
+    "PreferredTarget": "you have already missed it",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "you have already missed it"
+    ],
+    "Status": "preferred",
+    "Note": "The object of the miss depends on the surrounding exchange; the fixed verdict itself supplies no teaching-category object.",
+    "CreatedBy": "Codex Iriya lane B161-167 full-case author",
+    "WrittenUtc": "2026-07-18T17:46:22Z"
+  },
+  {
     "SourceTerm": "身心客塵",
     "PreferredTarget": "body and mind as adventitious dust",
     "AlternateTargets": [],
@@ -28987,6 +29299,18 @@
     "Note": "Family comparison with 'that one' (那箇), the variant forms of 'this one' (者箇 and 這个), 'what is it?' (是什麼), and 'who?' (阿誰). Different referents do not create different senses: fist, whisk, sound, pig, residual 'this,' and entrusted charge all instantiate the same proximal demonstrative function. No master-specific meaning found.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "這野狐精",
+    "PreferredTarget": "this wild-fox spirit",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "this wild-fox spirit"
+    ],
+    "Status": "preferred",
+    "Note": "The retained uses share the insulting rebuke, while their immediate occasions remain distinct.",
+    "CreatedBy": "Codex Iriya lane A121-130 full-case author",
+    "WrittenUtc": "2026-07-18T17:27:34Z"
   },
   {
     "SourceTerm": "通方作者",
