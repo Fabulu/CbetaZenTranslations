@@ -14,6 +14,18 @@
     "WrittenUtc": "2026-07-18T10:04:34.216581Z"
   },
   {
+    "SourceTerm": "一二三四五六七",
+    "PreferredTarget": "one, two, three, four, five, six, seven",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "one, two, three, four, five, six, seven"
+    ],
+    "Status": "preferred",
+    "Note": "The numeral string remains an ordinary count inside each deployment; this entry does not assign a hidden symbolic value to seven.",
+    "CreatedBy": "Codex Iriya lane A101-110 full-case author",
+    "WrittenUtc": "2026-07-18T16:35:00Z"
+  },
+  {
     "SourceTerm": "一任𨁝跳",
     "PreferredTarget": "leave you free to leap about",
     "AlternateTargets": [
@@ -271,6 +283,18 @@
     "WrittenUtc": "2026-07-15T04:51:16.010993+00:00"
   },
   {
+    "SourceTerm": "一坐具地",
+    "PreferredTarget": "one sitting-cloth's patch of ground",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "one sitting-cloth's patch of ground"
+    ],
+    "Status": "preferred",
+    "Note": "Ordinary land measures without the sitting cloth do not establish this lexical unit.",
+    "CreatedBy": "Codex Iriya lane B121-130 full-case author",
+    "WrittenUtc": "2026-07-18T17:00:00Z"
+  },
+  {
     "SourceTerm": "一場懡㦬",
     "PreferredTarget": "a complete public embarrassment",
     "AlternateTargets": [
@@ -375,6 +399,18 @@
     "Note": "Zen bends ordinary ‘one word’ plus ‘barrier’ language into the monastic name for Yunmen's recurrent single-graph answers. The naming formula is explicit, so this deviation is corpus-stated. Cross-check with ‘look—look!—hah!’ (顧鑒咦): one later text says the shortened ‘look!—hah!’ became a one-word barrier, but that later comparison does not make the two labels identical or create a second sense. Frozen-corpus concordance: 78 exact hits in 55 storage files representing 54 independent works.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "一家有事百家忙",
+    "PreferredTarget": "when one household has trouble, a hundred households are busy",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "when one household has trouble, a hundred households are busy"
+    ],
+    "Status": "preferred",
+    "Note": "The proverb marks repercussions that mobilize many beyond the household directly involved.",
+    "CreatedBy": "Codex Iriya lane C101-110 full-case author",
+    "WrittenUtc": "2026-07-18T21:30:00Z"
   },
   {
     "SourceTerm": "一念不生",
@@ -656,6 +692,18 @@
     "Note": "The fractional count says that genuine recognition or capacity is exceedingly rare.",
     "CreatedBy": "Codex Iriya construction lane C evidence-first",
     "WrittenUtc": "2026-07-18T07:37:12.035407Z"
+  },
+  {
+    "SourceTerm": "一箭落雙鵰",
+    "PreferredTarget": "one arrow brings down two eagles",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "one arrow brings down two eagles"
+    ],
+    "Status": "preferred",
+    "Note": "The image describes one move that simultaneously catches two targets.",
+    "CreatedBy": "Codex Iriya lane C101-110 full-case author",
+    "WrittenUtc": "2026-07-18T21:30:00Z"
   },
   {
     "SourceTerm": "一箭過新羅",
@@ -1214,6 +1262,18 @@
     "Note": "Beneath three rafters names the concrete monastic sitting place beneath three rafters at the long sitting platform, commonly paired with 'before the seven-foot platform. Architectural mentions of rafters without the monastic platform collocation do not establish this institutional phrase.",
     "CreatedBy": "Codex Iriya Lane B B071-B080 full-case author",
     "WrittenUtc": "2026-07-18T11:16:52.053234+00:00"
+  },
+  {
+    "SourceTerm": "三段不同",
+    "PreferredTarget": "three sections, each different",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "three sections, each different"
+    ],
+    "Status": "preferred",
+    "Note": "The formula distinguishes three successive demonstrations before gathering them into one rubric.",
+    "CreatedBy": "Codex Iriya lane C111-120 full-case author",
+    "WrittenUtc": "2026-07-18T23:20:00Z"
   },
   {
     "SourceTerm": "三玄",
@@ -1961,6 +2021,18 @@
     "Note": "The stored editions repeat the Dazhu Huihai and Faming exchange; they establish one inherited case, not independent support.",
     "CreatedBy": "Codex investigation-next300 Lane A",
     "WrittenUtc": "2026-07-17T16:00:00Z"
+  },
+  {
+    "SourceTerm": "不落階級",
+    "PreferredTarget": "not falling into ranks",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "not falling into ranks"
+    ],
+    "Status": "preferred",
+    "Note": "The corpus distinguishes denial of graded placement from a new superior rank; grammatical noun and verb frames do not create different things.",
+    "CreatedBy": "Codex Iriya lane A101-110 full-case author",
+    "WrittenUtc": "2026-07-18T16:35:00Z"
   },
   {
     "SourceTerm": "不許夜行，投明須到",
@@ -2907,6 +2979,18 @@
     "WrittenUtc": "2026-07-15T00:00:00Z"
   },
   {
+    "SourceTerm": "任從滄海變、終不爲君通",
+    "PreferredTarget": "let the blue sea change as it may, for in the end I will not disclose it to you",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "let the blue sea change as it may, for in the end I will not disclose it to you"
+    ],
+    "Status": "preferred",
+    "Note": "The paired line refuses to disclose the point even through total worldly change.",
+    "CreatedBy": "Codex Iriya lane C101-110 full-case author",
+    "WrittenUtc": "2026-07-18T21:30:00Z"
+  },
+  {
     "SourceTerm": "任性逍遙",
     "PreferredTarget": "to roam freely according to one's nature",
     "AlternateTargets": [
@@ -3771,6 +3855,18 @@
     "WrittenUtc": "2026-07-18T06:50:51.935330Z"
   },
   {
+    "SourceTerm": "借路經過",
+    "PreferredTarget": "to borrow the road in passing",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to borrow the road in passing"
+    ],
+    "Status": "preferred",
+    "Note": "The borrowed road remains a temporary route; it is not evidence that every reference to a road carries this idiom.",
+    "CreatedBy": "Codex Iriya lane B121-130 full-case author",
+    "WrittenUtc": "2026-07-18T17:00:00Z"
+  },
+  {
     "SourceTerm": "倩女離魂",
     "PreferredTarget": "Qiannu's soul leaves her body",
     "AlternateTargets": [
@@ -4185,6 +4281,18 @@
     "Note": "The phrase need not denote a deathbed utterance.",
     "CreatedBy": "Codex post720 Lane C positions 033-058",
     "WrittenUtc": "2026-07-17T16:30:22.041434+00:00"
+  },
+  {
+    "SourceTerm": "光前絶後",
+    "PreferredTarget": "to outshine all before and after",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to outshine all before and after"
+    ],
+    "Status": "preferred",
+    "Note": "To outshine all before and after praises a saying, exchange, house style, or final act as without predecessor or successor.",
+    "CreatedBy": "Codex Lane B B111-B120 full-case author",
+    "WrittenUtc": "2026-07-19T00:00:00Z"
   },
   {
     "SourceTerm": "光影門頭",
@@ -4671,6 +4779,18 @@
     "Note": "The phrase pictures double doors opened outward like the spreading strokes of the graph eight; masters use it for a gate, disclosure, or public presentation that leaves no concealment while still requiring the visitor to enter or recognize it.",
     "CreatedBy": "Codex Iriya cohort001 Lane A evidence-first",
     "WrittenUtc": "2026-07-18T07:00:47.506020+00:00"
+  },
+  {
+    "SourceTerm": "八角磨盤空裏走",
+    "PreferredTarget": "an octagonal millstone travels through empty air",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "an octagonal millstone travels through empty air"
+    ],
+    "Status": "preferred",
+    "Note": "The eight corners, millstone, empty air, and motion form one fixed image; ordinary millstones and unrelated empty-sky language do not supply its sense or depth.",
+    "CreatedBy": "Codex Iriya lane A101-110 full-case author",
+    "WrittenUtc": "2026-07-18T16:35:00Z"
   },
   {
     "SourceTerm": "八面玲瓏",
@@ -5234,6 +5354,18 @@
     "WrittenUtc": "2026-07-15T05:09:02.950859+00:00"
   },
   {
+    "SourceTerm": "前三三、後三三",
+    "PreferredTarget": "three before, three after",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "three before, three after"
+    ],
+    "Status": "preferred",
+    "Note": "Three before, three after is the Wutai old man’s deliberately non-numerical answer to how many people reside there, later quoted and redeployed as a set saying.",
+    "CreatedBy": "Codex Lane B B111-B120 full-case author",
+    "WrittenUtc": "2026-07-19T00:00:00Z"
+  },
+  {
     "SourceTerm": "前後際斷",
     "PreferredTarget": "the before-and-after limits cut off",
     "AlternateTargets": [
@@ -5372,6 +5504,18 @@
     "Note": "Seven body witnesses use the beyond-the-eon expression temporally or attributively for what is beyond/before an eon. The book title Record Beyond the Eon is excluded from semantic depth rather than treated as another temporal witness.",
     "CreatedBy": "Codex Lane C independent-review repair",
     "WrittenUtc": "2026-07-17T03:30:00Z"
+  },
+  {
+    "SourceTerm": "動容揚古路、不墮悄然機",
+    "PreferredTarget": "movement carries on the old road without dropping into the mechanism of silence",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "movement carries on the old road without dropping into the mechanism of silence"
+    ],
+    "Status": "preferred",
+    "Note": "The line contrasts manifest movement with dropping into silent mechanism; it does not turn ordinary bodily motion or quiet into separate imported theories.",
+    "CreatedBy": "Codex Iriya lane A101-110 full-case author",
+    "WrittenUtc": "2026-07-18T16:35:00Z"
   },
   {
     "SourceTerm": "動念即乖",
@@ -5745,6 +5889,18 @@
     "Note": "A thousand differences and ten thousand distinctions names the proliferating variety of words, gates, cases, and appearances without deciding whether that variety is arbitrary or reducible.",
     "CreatedBy": "Codex Iriya construction lane C evidence-first",
     "WrittenUtc": "2026-07-18T07:15:15.783072Z"
+  },
+  {
+    "SourceTerm": "千年桃核",
+    "PreferredTarget": "a thousand-year peach pit",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a thousand-year peach pit"
+    ],
+    "Status": "preferred",
+    "Note": "A thousand-year peach pit is an old shell invoked to ask whether its original kernel remains or whether seeking that old kernel is pointless.",
+    "CreatedBy": "Codex Lane B B111-B120 full-case author",
+    "WrittenUtc": "2026-07-19T00:00:00Z"
   },
   {
     "SourceTerm": "千手千眼",
@@ -6645,6 +6801,18 @@
     "Note": "A public-testing label for what does not stop at an initial answer, an achieved position, or the label 'beyond' itself; six independent works. feedback-inference-verdict: retained as a public-testing label rather than a hidden object; feedback-observations: six masters deploy it and several immediately undercut fixation on it; feedback-falsification-searches: checked whether it named a stable teaching formula or private attainment; feedback-counterexamples: ordinary sounds and actions are explicitly used to display it; feedback-scope: the six stored independent works; lookup-probes: further mechanism, beyond mechanism, upward mechanism, public test; opening-interpretation-verdict: revised English-first and grounded in the recorded contrasts.",
     "CreatedBy": "Codex f004 lane A rereview repair author",
     "WrittenUtc": "2026-07-15T15:15:00Z"
+  },
+  {
+    "SourceTerm": "君向瀟湘我向秦",
+    "PreferredTarget": "you head toward Xiaoxiang, while I head toward Qin",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "you head toward Xiaoxiang, while I head toward Qin"
+    ],
+    "Status": "preferred",
+    "Note": "A farewell line sends two people toward different regions and so marks decisive divergence.",
+    "CreatedBy": "Codex Iriya lane C111-120 full-case author",
+    "WrittenUtc": "2026-07-18T23:20:00Z"
   },
   {
     "SourceTerm": "君臣",
@@ -7660,6 +7828,18 @@
     "WrittenUtc": "2026-07-18T20:30:00Z"
   },
   {
+    "SourceTerm": "因邪打正",
+    "PreferredTarget": "to strike the correct through the mistaken",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to strike the correct through the mistaken"
+    ],
+    "Status": "preferred",
+    "Note": "The idiom describes accidentally reaching a correct point while responding from a mistaken premise.",
+    "CreatedBy": "Codex Iriya lane C111-120 full-case author",
+    "WrittenUtc": "2026-07-18T23:20:00Z"
+  },
+  {
     "SourceTerm": "因風吹火",
     "PreferredTarget": "use the wind to fan the fire",
     "AlternateTargets": [],
@@ -7753,6 +7933,18 @@
     "Note": "5 distinct work IDs selected after complete-case actor review.",
     "CreatedBy": "Codex f004 lane B complete-case author",
     "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
+  },
+  {
+    "SourceTerm": "土曠人稀、相逢者少",
+    "PreferredTarget": "broad land, scarce people, and rare encounters",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "broad land, scarce people, and rare encounters"
+    ],
+    "Status": "preferred",
+    "Note": "Both clauses are required because the scarcity of people supplies the condition for rare encounters.",
+    "CreatedBy": "Codex Iriya lane B121-130 full-case author",
+    "WrittenUtc": "2026-07-18T17:00:00Z"
   },
   {
     "SourceTerm": "地藏",
@@ -8111,6 +8303,18 @@
     "Note": "No second referent was found. Reversal as “land after land, mote after mote” (剎剎塵塵) changes order, not the thing denoted.",
     "CreatedBy": "Codex f002 Lane C author",
     "WrittenUtc": "2026-07-15T01:46:59.471086+00:00"
+  },
+  {
+    "SourceTerm": "墮坑落壍",
+    "PreferredTarget": "to fall into pits and ditches",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to fall into pits and ditches"
+    ],
+    "Status": "preferred",
+    "Note": "To fall into pits and ditches depicts being trapped, ruined, or led into error.",
+    "CreatedBy": "Codex Lane B B111-B120 full-case author",
+    "WrittenUtc": "2026-07-19T00:00:00Z"
   },
   {
     "SourceTerm": "墮負",
@@ -11015,6 +11219,18 @@
     "WrittenUtc": "2026-07-17T16:00:00Z"
   },
   {
+    "SourceTerm": "後園驢喫草",
+    "PreferredTarget": "the donkey grazes in the back garden",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the donkey grazes in the back garden"
+    ],
+    "Status": "preferred",
+    "Note": "Yantou’s plain answer relocates the unfurled-sail question to a donkey grazing behind the house.",
+    "CreatedBy": "Codex Iriya lane C111-120 full-case author",
+    "WrittenUtc": "2026-07-18T23:20:00Z"
+  },
+  {
     "SourceTerm": "後堂",
     "PreferredTarget": "rear-hall office or officer",
     "AlternateTargets": [
@@ -11058,6 +11274,18 @@
     "Note": "Dengjue is the quoted origin, while the later record remains the transmitting or quoting voice.",
     "CreatedBy": "Codex post-current-investigation720 Lane B positions 6-59",
     "WrittenUtc": "2026-07-17T17:17:31.918157+00:00"
+  },
+  {
+    "SourceTerm": "得人一牛、還人一馬",
+    "PreferredTarget": "receive a cow from someone and return a horse",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "receive a cow from someone and return a horse"
+    ],
+    "Status": "preferred",
+    "Note": "The exchange proverb answers another’s move in kind while deliberately changing the returned item.",
+    "CreatedBy": "Codex Iriya lane C111-120 full-case author",
+    "WrittenUtc": "2026-07-18T23:20:00Z"
   },
   {
     "SourceTerm": "得少爲足",
@@ -11466,6 +11694,18 @@
     "WrittenUtc": "2026-07-15T00:00:00Z"
   },
   {
+    "SourceTerm": "急急如律令",
+    "PreferredTarget": "urgently, urgently, as the ordinance commands",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "urgently, urgently, as the ordinance commands"
+    ],
+    "Status": "preferred",
+    "Note": "Urgently, urgently, as the ordinance commands is the closing command of a written or spoken talisman.",
+    "CreatedBy": "Codex Lane B B111-B120 full-case author",
+    "WrittenUtc": "2026-07-19T00:00:00Z"
+  },
+  {
     "SourceTerm": "恁麼",
     "PreferredTarget": "in this way",
     "AlternateTargets": [
@@ -11602,6 +11842,18 @@
     "Note": "The frozen allowlisted corpus has 537 exact hits in 152 files representing 148 works. Seven anchors across six works cover estimating, reckoning, exclusion from discrimination, being glued to it, being dim beyond it, using it on cases, and learned explanation as reliance on it. These collocations describe one kind of cognition, not different things.",
     "CreatedBy": "Codex fresh-build lane B",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "惜取眉毛",
+    "PreferredTarget": "take care of your eyebrows",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "take care of your eyebrows"
+    ],
+    "Status": "preferred",
+    "Note": "Take care of your eyebrows warns that an overconfident claim or explanation risks the stock consequence of losing one’s eyebrows.",
+    "CreatedBy": "Codex Lane B B111-B120 full-case author",
+    "WrittenUtc": "2026-07-19T00:00:00Z"
   },
   {
     "SourceTerm": "惺惺",
@@ -12864,6 +13116,18 @@
     "WrittenUtc": "2026-07-18T16:15:00Z"
   },
   {
+    "SourceTerm": "捏目生花",
+    "PreferredTarget": "to pinch the eyes and produce flowers",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to pinch the eyes and produce flowers"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase presents an illusory display produced by distorting one’s own seeing.",
+    "CreatedBy": "Codex Iriya lane C101-110 full-case author",
+    "WrittenUtc": "2026-07-18T21:30:00Z"
+  },
+  {
     "SourceTerm": "掀倒禪床",
     "PreferredTarget": "overturn the Chan seat",
     "AlternateTargets": [
@@ -13319,6 +13583,18 @@
     "Note": "Family check: “clap the hands” (撫掌), “hand-clapping” (拍手撫掌), “clap and laugh loudly” (撫掌大笑), “clap once” (撫掌一下), and “clap three times” (撫掌三下) all denote the same physical action. They differ in accompanying speech and count, not referent, so they remain one sense.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
+  },
+  {
+    "SourceTerm": "撲落非他物",
+    "PreferredTarget": "what falls with a thud is no other thing",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "what falls with a thud is no other thing"
+    ],
+    "Status": "preferred",
+    "Note": "The paired “not dust” line is a recurrent continuation, not a second referent of the falling object.",
+    "CreatedBy": "Codex Iriya lane B121-130 full-case author",
+    "WrittenUtc": "2026-07-18T17:00:00Z"
   },
   {
     "SourceTerm": "擇乳",
@@ -14702,6 +14978,30 @@
     "WrittenUtc": "2026-07-15T01:57:21.074268+00:00"
   },
   {
+    "SourceTerm": "有佛處不得住、無佛處急走過",
+    "PreferredTarget": "do not stay where there is a buddha and hurry past where there is no buddha",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "do not stay where there is a buddha and hurry past where there is no buddha"
+    ],
+    "Status": "preferred",
+    "Note": "Both clauses are required: entries containing only one stopping place are family evidence, not occurrences of the complete paired command.",
+    "CreatedBy": "Codex Iriya lane A101-110 full-case author",
+    "WrittenUtc": "2026-07-18T16:35:00Z"
+  },
+  {
+    "SourceTerm": "有利無利、不離行市",
+    "PreferredTarget": "whether there is profit or none, one does not leave the marketplace",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "whether there is profit or none, one does not leave the marketplace"
+    ],
+    "Status": "preferred",
+    "Note": "The market proverb says that profit and loss alike remain within the arena of exchange.",
+    "CreatedBy": "Codex Iriya lane C101-110 full-case author",
+    "WrittenUtc": "2026-07-18T21:30:00Z"
+  },
+  {
     "SourceTerm": "有功者賞",
     "PreferredTarget": "those with merit are rewarded",
     "AlternateTargets": [
@@ -14717,6 +15017,18 @@
     "Note": "The line announces an evaluative rule: demonstrated accomplishment receives the fitting award, sometimes paradoxically a blow.",
     "CreatedBy": "Codex Iriya construction cohort 001 lane C positions 44-50",
     "WrittenUtc": "2026-07-18T08:47:27.154594Z"
+  },
+  {
+    "SourceTerm": "有水皆含月、無山不帶雲",
+    "PreferredTarget": "moon-holding waters and cloud-bearing mountains",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "moon-holding waters and cloud-bearing mountains"
+    ],
+    "Status": "preferred",
+    "Note": "Nearby moon-in-water or cloud-on-mountain phrases are excluded unless they preserve both halves of the couplet.",
+    "CreatedBy": "Codex Iriya lane B121-130 full-case author",
+    "WrittenUtc": "2026-07-18T17:00:00Z"
   },
   {
     "SourceTerm": "有甚交涉",
@@ -15014,6 +15326,18 @@
     "Note": "6 independent witnesses delimit this sense.",
     "CreatedBy": "Codex f003 Lane B evidence-first",
     "WrittenUtc": "2026-07-15T05:17:36.484554+00:00"
+  },
+  {
+    "SourceTerm": "末後一句、始到牢關",
+    "PreferredTarget": "only with the final phrase does one reach the barrier",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "only with the final phrase does one reach the barrier"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase names the final, constricting threshold rather than an ordinary concluding sentence.",
+    "CreatedBy": "Codex Iriya lane C101-110 full-case author",
+    "WrittenUtc": "2026-07-18T21:30:00Z"
   },
   {
     "SourceTerm": "末後一著",
@@ -16141,6 +16465,18 @@
     "WrittenUtc": "2026-07-17T11:37:58.846891+00:00"
   },
   {
+    "SourceTerm": "横拈倒用",
+    "PreferredTarget": "to take it up sideways and use it upside down",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to take it up sideways and use it upside down"
+    ],
+    "Status": "preferred",
+    "Note": "Different orientations remain one handling, not separate senses.",
+    "CreatedBy": "Codex Iriya lane B121-130 full-case author",
+    "WrittenUtc": "2026-07-18T17:00:00Z"
+  },
+  {
     "SourceTerm": "横説竪説",
     "PreferredTarget": "to speak every which way",
     "AlternateTargets": [],
@@ -16154,6 +16490,18 @@
     "Note": "To speak across and upright is to speak at length in every direction or manner. Speaking at length in every direction remains speech; the cited appraisals separately state what it does not reach.",
     "CreatedBy": "Codex Iriya Lane B B071-B080 full-case author",
     "WrittenUtc": "2026-07-18T11:16:52.053234+00:00"
+  },
+  {
+    "SourceTerm": "横身當宇宙",
+    "PreferredTarget": "to stretch one’s body across the cosmos",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to stretch one’s body across the cosmos"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase pictures an unconfined body spanning the entire cosmos.",
+    "CreatedBy": "Codex Iriya lane C111-120 full-case author",
+    "WrittenUtc": "2026-07-18T23:20:00Z"
   },
   {
     "SourceTerm": "機用",
@@ -16236,6 +16584,18 @@
     "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
+  },
+  {
+    "SourceTerm": "欲窮千里目、更上一層樓",
+    "PreferredTarget": "to see a thousand miles farther, climb one more storey",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to see a thousand miles farther, climb one more storey"
+    ],
+    "Status": "preferred",
+    "Note": "The tower line makes greater vision depend on ascending beyond the present vantage.",
+    "CreatedBy": "Codex Iriya lane C111-120 full-case author",
+    "WrittenUtc": "2026-07-18T23:20:00Z"
   },
   {
     "SourceTerm": "欲識佛性義，當觀時節因緣",
@@ -16338,6 +16698,18 @@
     "Note": "All eight complete candidate cases were reviewed for the raise the proper command in full reading; the six retained works cover one fully exercised command formula; martial question and hall proclamation share the same command image.",
     "CreatedBy": "Codex fresh semantic author A051-060 2026-07-18",
     "WrittenUtc": "2026-07-18T10:01:17.374085Z"
+  },
+  {
+    "SourceTerm": "正令當行",
+    "PreferredTarget": "the active command takes effect",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the active command takes effect"
+    ],
+    "Status": "preferred",
+    "Note": "The command is evidenced by its enacted force and command vocabulary; the entry does not turn every forceful saying into this fixed expression.",
+    "CreatedBy": "Codex Iriya lane A101-110 full-case author",
+    "WrittenUtc": "2026-07-18T16:35:00Z"
   },
   {
     "SourceTerm": "正位",
@@ -16650,6 +17022,18 @@
     "WrittenUtc": "2026-07-15T01:57:20.846575+00:00"
   },
   {
+    "SourceTerm": "殘羹餿飯",
+    "PreferredTarget": "leftover broth and soured rice",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "leftover broth and soured rice"
+    ],
+    "Status": "preferred",
+    "Note": "Literal monastery leftovers remain possible food, but the retained complete expression is repeatedly predicated of reused words and answers; unrelated meal narration is excluded.",
+    "CreatedBy": "Codex Iriya lane A101-110 full-case author",
+    "WrittenUtc": "2026-07-18T16:35:00Z"
+  },
+  {
     "SourceTerm": "殺人",
     "PreferredTarget": "to kill a person",
     "AlternateTargets": [
@@ -16665,6 +17049,18 @@
     "Note": "5 selected witnesses delimit this sense.",
     "CreatedBy": "Codex f003 Lane B evidence-first",
     "WrittenUtc": "2026-07-15T04:57:57.112946+00:00"
+  },
+  {
+    "SourceTerm": "殺人不眨眼",
+    "PreferredTarget": "to kill without blinking",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to kill without blinking"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase is figurative in the retained Chan appraisals, except Cao Han's historically framed threat; the shared lexical image does not assert approval of literal killing.",
+    "CreatedBy": "Codex Iriya lane A101-110 full-case author",
+    "WrittenUtc": "2026-07-18T16:35:00Z"
   },
   {
     "SourceTerm": "殺人刀",
@@ -18276,6 +18672,18 @@
     "WrittenUtc": "2026-07-16T18:02:03.092730+00:00"
   },
   {
+    "SourceTerm": "漏逗不少",
+    "PreferredTarget": "to give away quite a lot",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to give away quite a lot"
+    ],
+    "Status": "preferred",
+    "Note": "To give away quite a lot judges speech, silence, posture, or commentary as exposing more than its performer intended to conceal.",
+    "CreatedBy": "Codex Lane B B111-B120 full-case author",
+    "WrittenUtc": "2026-07-19T00:00:00Z"
+  },
+  {
     "SourceTerm": "漸修",
     "PreferredTarget": "gradual cultivation",
     "AlternateTargets": [
@@ -18473,6 +18881,18 @@
     "Note": "The corpus has 253 matches in 109 files. Naming constructions have two matches in two files for 'called a person with nothing going on,' four in four for 'named,' and twenty-four in twenty-three for 'called.' 'Buddha is a person with nothing going on' occurs five times in five files; 'an inactive person with nothing going on' occurs seventy-six times in forty-three, and the corrective 'a person with nothing going on remains a difficult golden lock' occurs twice in two. The neighboring formula 'having nothing going on is the honored person' occurs six times in six files. The entry retains both the definitions and the record's explicit checks on adopting the label too quickly.",
     "CreatedBy": "Codex legacy full rebuild Lane A",
     "WrittenUtc": "2026-07-16T18:02:05.417279+00:00"
+  },
+  {
+    "SourceTerm": "無事生事",
+    "PreferredTarget": "to make trouble where there was none",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to make trouble where there was none"
+    ],
+    "Status": "preferred",
+    "Note": "Narrated trouble and deliberate contrivance share one event; differing grammatical subjects do not create separate things.",
+    "CreatedBy": "Codex Iriya lane B121-130 full-case author",
+    "WrittenUtc": "2026-07-18T17:00:00Z"
   },
   {
     "SourceTerm": "無位",
@@ -19664,6 +20084,18 @@
     "WrittenUtc": "2026-07-15T16:45:00Z"
   },
   {
+    "SourceTerm": "猛虎當路坐",
+    "PreferredTarget": "a fierce tiger sits across the road",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a fierce tiger sits across the road"
+    ],
+    "Status": "preferred",
+    "Note": "The tiger blocks the route as an image of an answer whose force cannot be passed casually.",
+    "CreatedBy": "Codex Iriya lane C111-120 full-case author",
+    "WrittenUtc": "2026-07-18T23:20:00Z"
+  },
+  {
     "SourceTerm": "猢猻",
     "PreferredTarget": "monkey",
     "AlternateTargets": [
@@ -20348,6 +20780,18 @@
     "Note": "Exact frozen-corpus count: 1,103 hits in 235 files and 230 works. Seven witnesses across six independent works meet the packet floor and cover definition, bodily description, unbroken condition, autobiography, instruction, preface formulation, and critique.",
     "CreatedBy": "Codex fresh f001 lane A",
     "WrittenUtc": "2026-07-14T22:45:00Z"
+  },
+  {
+    "SourceTerm": "癡人面前、不得説夢",
+    "PreferredTarget": "one must not tell dreams before a fool",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "one must not tell dreams before a fool"
+    ],
+    "Status": "preferred",
+    "Note": "The saying withholds subtle talk from someone liable to mistake it for a literal object.",
+    "CreatedBy": "Codex Iriya lane C101-110 full-case author",
+    "WrittenUtc": "2026-07-18T21:30:00Z"
   },
   {
     "SourceTerm": "登座",
@@ -23194,6 +23638,18 @@
     "WrittenUtc": "2026-07-15T04:06:26.730577+00:00"
   },
   {
+    "SourceTerm": "縁木求魚",
+    "PreferredTarget": "to climb a tree seeking fish",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to climb a tree seeking fish"
+    ],
+    "Status": "preferred",
+    "Note": "The idiom marks pursuing an object by means incapable of attaining it.",
+    "CreatedBy": "Codex Iriya lane C101-110 full-case author",
+    "WrittenUtc": "2026-07-18T21:30:00Z"
+  },
+  {
     "SourceTerm": "縱奪",
     "PreferredTarget": "release and seize",
     "AlternateTargets": [
@@ -23274,6 +23730,18 @@
     "Note": "Five witnesses from five independent works cover the title, a compiler biography, a first-person compilation project, and two lineage disputes.",
     "CreatedBy": "Codex f004 lane B evidence-first full-context author",
     "WrittenUtc": "2026-07-15T10:22:54.675700+00:00"
+  },
+  {
+    "SourceTerm": "纔有是非、紛然失心",
+    "PreferredTarget": "as soon as right and wrong arise, the mind is thrown into confusion",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "as soon as right and wrong arise, the mind is thrown into confusion"
+    ],
+    "Status": "preferred",
+    "Note": "The couplet warns that discriminative assent and rejection immediately disturb the mind.",
+    "CreatedBy": "Codex Iriya lane C111-120 full-case author",
+    "WrittenUtc": "2026-07-18T23:20:00Z"
   },
   {
     "SourceTerm": "罔措",
@@ -23807,6 +24275,18 @@
     "Note": "One hundred fifty-nine exact hits occur in ninety-six frozen works. The recurring warning formula and the answer use share one impossible bodily image.",
     "CreatedBy": "Codex f005 lane A author",
     "WrittenUtc": "2026-07-15T18:45:14.307929+00:00"
+  },
+  {
+    "SourceTerm": "腦門著地",
+    "PreferredTarget": "with the forehead against the ground",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "with the forehead against the ground"
+    ],
+    "Status": "preferred",
+    "Note": "The posture marks complete defeat, submission, or being thrown down before an encounter.",
+    "CreatedBy": "Codex Iriya lane C111-120 full-case author",
+    "WrittenUtc": "2026-07-18T23:20:00Z"
   },
   {
     "SourceTerm": "腰纏十萬貫",
@@ -24642,6 +25122,18 @@
     "WrittenUtc": "2026-07-17T14:10:00Z"
   },
   {
+    "SourceTerm": "著甚來由",
+    "PreferredTarget": "for what reason?",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "for what reason?"
+    ],
+    "Status": "preferred",
+    "Note": "For what reason? challenges an action or assertion as needless, ill-founded, or inexplicable.",
+    "CreatedBy": "Codex Lane B B111-B120 full-case author",
+    "WrittenUtc": "2026-07-19T00:00:00Z"
+  },
+  {
     "SourceTerm": "著衣喫飯",
     "PreferredTarget": "dress and eat",
     "AlternateTargets": [
@@ -24674,6 +25166,18 @@
     "Note": "Seven exact witnesses in seven independent works support the case-comment sense; false segmentation in the phrase recorded sayings that one authored is excluded.",
     "CreatedBy": "Codex fresh f001 lane A evidence-first",
     "WrittenUtc": "2026-07-15T09:40:00Z"
+  },
+  {
+    "SourceTerm": "落二落三",
+    "PreferredTarget": "to fall into second and third place",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to fall into second and third place"
+    ],
+    "Status": "preferred",
+    "Note": "Second and third are relative positions in one verdict, not two separate senses or an arithmetic entry for the numerals.",
+    "CreatedBy": "Codex Iriya lane A101-110 full-case author",
+    "WrittenUtc": "2026-07-18T16:35:00Z"
   },
   {
     "SourceTerm": "落在第二",
@@ -25116,6 +25620,18 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "血濺梵天",
+    "PreferredTarget": "blood splashes Brahma's heaven",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "blood splashes Brahma's heaven"
+    ],
+    "Status": "preferred",
+    "Note": "The image names an extreme result in verbal and weapon frames; it does not establish that blood physically reaches a celestial location.",
+    "CreatedBy": "Codex Iriya lane A101-110 full-case author",
+    "WrittenUtc": "2026-07-18T16:35:00Z"
+  },
+  {
     "SourceTerm": "血脈",
     "PreferredTarget": "unbroken continuity",
     "AlternateTargets": [
@@ -25550,6 +26066,18 @@
     "Note": "The full contrast is retained, and quoted origin is separated from current utterer.",
     "CreatedBy": "Codex post720 Lane C positions 033-058",
     "WrittenUtc": "2026-07-17T16:30:22.041434+00:00"
+  },
+  {
+    "SourceTerm": "見神見鬼",
+    "PreferredTarget": "to see spirits and ghosts",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to see spirits and ghosts"
+    ],
+    "Status": "preferred",
+    "Note": "To see spirits and ghosts names delusive apparition-seeing and, in encounter questions, sharply challenges a visitor’s claimed experience.",
+    "CreatedBy": "Codex Lane B B111-B120 full-case author",
+    "WrittenUtc": "2026-07-19T00:00:00Z"
   },
   {
     "SourceTerm": "見聞覺知",
@@ -27436,6 +27964,18 @@
     "WrittenUtc": "2026-07-17T12:26:38.257007+00:00"
   },
   {
+    "SourceTerm": "近離什麼處",
+    "PreferredTarget": "where have you recently come from?",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "where have you recently come from?"
+    ],
+    "Status": "preferred",
+    "Note": "Where have you recently come from? is the standard opening question put to a newly arrived traveler or visiting monk.",
+    "CreatedBy": "Codex Lane B B111-B120 full-case author",
+    "WrittenUtc": "2026-07-19T00:00:00Z"
+  },
+  {
     "SourceTerm": "返照回光",
     "PreferredTarget": "turn the light around",
     "AlternateTargets": [
@@ -27700,6 +28240,18 @@
     "Note": "The Zen deviation is grammatical and recurrent: the records redistribute seeing from two eyes to the entire body, then coordinate that whole-body eye with whole-body ear, mouth, mind, and hand language. This entry reports those attested deployments without deciding the image's interpretation. The corpus evidence does not require a second referent or word-class sense. Frozen-corpus concordance: 203 exact hits in 100 storage files representing 99 independent works.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "通身無影像",
+    "PreferredTarget": "the whole body has no image or shadow",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the whole body has no image or shadow"
+    ],
+    "Status": "preferred",
+    "Note": "The line describes full manifestation without a graspable form or trace.",
+    "CreatedBy": "Codex Iriya lane C101-110 full-case author",
+    "WrittenUtc": "2026-07-18T21:30:00Z"
   },
   {
     "SourceTerm": "速禮三拜",
@@ -28132,6 +28684,18 @@
     "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:51:29.249517+00:00"
+  },
+  {
+    "SourceTerm": "鄭州出曹門",
+    "PreferredTarget": "to leave Cao Gate by way of Zhengzhou",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to leave Cao Gate by way of Zhengzhou"
+    ],
+    "Status": "preferred",
+    "Note": "The expression is not a geographical itinerary; its retained uses are judgments on missing the matter at hand.",
+    "CreatedBy": "Codex Iriya lane B121-130 full-case author",
+    "WrittenUtc": "2026-07-18T17:00:00Z"
   },
   {
     "SourceTerm": "酒糟漢",
@@ -30223,6 +30787,18 @@
     "WrittenUtc": "2026-07-17T08:59:44.371858+00:00"
   },
   {
+    "SourceTerm": "面赤不如語直",
+    "PreferredTarget": "better plain speech than a reddened face",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "better plain speech than a reddened face"
+    ],
+    "Status": "preferred",
+    "Note": "The face and the speech form one comparison, not two independent maxims.",
+    "CreatedBy": "Codex Iriya lane B121-130 full-case author",
+    "WrittenUtc": "2026-07-18T17:00:00Z"
+  },
+  {
     "SourceTerm": "面門",
     "PreferredTarget": "the face",
     "AlternateTargets": [
@@ -30600,6 +31176,18 @@
     "Note": "Records use it to approve the complete handling of an encounter or address from its opening through its close. Exact-turn review separates quotations, questions, and record headings.",
     "CreatedBy": "iriya-construction-001 lane B",
     "WrittenUtc": "2026-07-18T09:10:00.929303Z"
+  },
+  {
+    "SourceTerm": "頭白齒黄",
+    "PreferredTarget": "white-haired and yellow-toothed",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "white-haired and yellow-toothed"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase marks advanced age and often sharpens a rebuke about long effort without insight.",
+    "CreatedBy": "Codex Iriya lane C101-110 full-case author",
+    "WrittenUtc": "2026-07-18T21:30:00Z"
   },
   {
     "SourceTerm": "頭首",
@@ -31904,6 +32492,18 @@
     "Note": "The clever child misses the decisive joint is a cutting appraisal: apparent cleverness is named at the moment someone's move exposes its failure or misses the case's articulation.",
     "CreatedBy": "Codex Iriya cohort001 Lane B positions11-20 evidence-first",
     "WrittenUtc": "2026-07-18T06:10:41.301422+00:00"
+  },
+  {
+    "SourceTerm": "鼓兩片皮",
+    "PreferredTarget": "to flap the two pieces of skin",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to flap the two pieces of skin"
+    ],
+    "Status": "preferred",
+    "Note": "The anatomy is explicit lip movement; the phrase does not denote a separate ritual implement.",
+    "CreatedBy": "Codex Iriya lane B121-130 full-case author",
+    "WrittenUtc": "2026-07-18T17:00:00Z"
   },
   {
     "SourceTerm": "鼓聲",
