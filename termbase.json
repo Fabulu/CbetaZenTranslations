@@ -4877,6 +4877,18 @@
     "WrittenUtc": "2026-07-18T16:35:00Z"
   },
   {
+    "SourceTerm": "八面受敵",
+    "PreferredTarget": "to face enemies on eight sides",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to face enemies on eight sides"
+    ],
+    "Status": "preferred",
+    "Note": "“Enemy” belongs to the military idiom; the retained sermons do not report eight literal attacking armies.",
+    "CreatedBy": "Codex Iriya lane C161-166 full-case author",
+    "WrittenUtc": "2026-07-19T06:30:00Z"
+  },
+  {
     "SourceTerm": "八面玲瓏",
     "PreferredTarget": "open and responsive on all eight sides",
     "AlternateTargets": [
@@ -9109,6 +9121,18 @@
     "WrittenUtc": "2026-07-18T05:09:24.045339+00:00"
   },
   {
+    "SourceTerm": "天共白雲曉、水和明月流",
+    "PreferredTarget": "heaven and white clouds dawn together as water and the bright moon flow together",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "heaven and white clouds dawn together as water and the bright moon flow together"
+    ],
+    "Status": "preferred",
+    "Note": "The couplet is a landscape relation, and the records provide no additional gloss for clouds, water, or moon.",
+    "CreatedBy": "Codex Iriya lane C161-166 full-case author",
+    "WrittenUtc": "2026-07-19T06:30:00Z"
+  },
+  {
     "SourceTerm": "天女",
     "PreferredTarget": "a heavenly woman",
     "AlternateTargets": [],
@@ -9119,6 +9143,18 @@
     "Note": "7 distinct work IDs selected after complete-context review.",
     "CreatedBy": "Codex f004 lane A 926-950 full-case repair author",
     "WrittenUtc": "2026-07-15T16:45:00Z"
+  },
+  {
+    "SourceTerm": "天左旋、地右轉",
+    "PreferredTarget": "heaven turns left and earth turns right",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "heaven turns left and earth turns right"
+    ],
+    "Status": "preferred",
+    "Note": "The records do not explain a cosmology behind the rotations; this entry keeps the stated directions and their observed Chan deployments.",
+    "CreatedBy": "Codex Iriya lane C161-166 full-case author",
+    "WrittenUtc": "2026-07-19T06:30:00Z"
   },
   {
     "SourceTerm": "天龍一指",
@@ -11984,6 +12020,18 @@
     "Note": "8 exact witnesses from 8 independent works delimit this sense.",
     "CreatedBy": "Codex f005 lane B 1313-1322 author",
     "WrittenUtc": "2026-07-15T19:52:51.275842+00:00"
+  },
+  {
+    "SourceTerm": "悟了同未悟",
+    "PreferredTarget": "having awakened is the same as not having awakened",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "having awakened is the same as not having awakened"
+    ],
+    "Status": "preferred",
+    "Note": "The line does not deny that awakening occurs: it explicitly compares the awakened condition with the not-awakened condition in verse and beginner terminology.",
+    "CreatedBy": "Codex Iriya lane C161-166 full-case author",
+    "WrittenUtc": "2026-07-19T06:30:00Z"
   },
   {
     "SourceTerm": "悟道",
@@ -20312,6 +20360,18 @@
     "WrittenUtc": "2026-07-15T02:02:36.882203+00:00"
   },
   {
+    "SourceTerm": "牆壁瓦礫",
+    "PreferredTarget": "walls, tiles, and rubble",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "walls, tiles, and rubble"
+    ],
+    "Status": "preferred",
+    "Note": "The list denotes physical debris in its literal wording. Claims such as “is buddha-mind” or “emits light” are reported only where the cited speaker states them.",
+    "CreatedBy": "Codex Iriya lane C161-166 full-case author",
+    "WrittenUtc": "2026-07-19T06:30:00Z"
+  },
+  {
     "SourceTerm": "牛皮也須穿",
     "PreferredTarget": "even oxhide would have to be pierced through",
     "AlternateTargets": [],
@@ -23854,6 +23914,18 @@
     "Note": "Six works place the dung basket beside a broom in answers, dismissals, commentary, verse, and an attendant-call.",
     "CreatedBy": "Codex construction Lane C positions31-40 explicit full-case author",
     "WrittenUtc": "2026-07-17T11:30:40.463541+00:00"
+  },
+  {
+    "SourceTerm": "紅爐上一點雪",
+    "PreferredTarget": "a single snowflake on a red-hot furnace",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a single snowflake on a red-hot furnace"
+    ],
+    "Status": "preferred",
+    "Note": "The cases use a comparison, not a narrated furnace experiment; no material snow survives or is measured.",
+    "CreatedBy": "Codex Iriya lane C161-166 full-case author",
+    "WrittenUtc": "2026-07-19T06:30:00Z"
   },
   {
     "SourceTerm": "紅爐片雪",
