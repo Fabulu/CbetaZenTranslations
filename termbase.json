@@ -1,5 +1,21 @@
 [
   {
+    "SourceTerm": "一不做、二不休",
+    "PreferredTarget": "once begun, carry it through without stopping",
+    "AlternateTargets": [
+      "do not leave the first move half done"
+    ],
+    "SearchAliases": [
+      "once begun no stopping",
+      "carry through",
+      "no half measure"
+    ],
+    "Status": "preferred",
+    "Note": "The idiom presses a move through without retreating into a half-finished first step. Kaixian builds a hall verse from the idiom; the unnamed questioning monk asks about its force; the Yefu master applies it to accepting an appointment; Daxiu uses it at the moment of ascending the seat.",
+    "CreatedBy": "Codex cohort-002 lane-A 41-50 strict author",
+    "WrittenUtc": "2026-07-18T21:03:28Z"
+  },
+  {
     "SourceTerm": "一不成，二不是",
     "PreferredTarget": "one fails and two is not it",
     "AlternateTargets": [
@@ -437,6 +453,22 @@
     "WrittenUtc": "2026-07-18T21:30:00Z"
   },
   {
+    "SourceTerm": "一彩兩賽",
+    "PreferredTarget": "one showing, two gains",
+    "AlternateTargets": [
+      "one display, two wins"
+    ],
+    "SearchAliases": [
+      "one move two gains",
+      "single display double result",
+      "one act two wins"
+    ],
+    "Status": "preferred",
+    "Note": "The four-character appraisal counts one displayed act and two resulting gains.",
+    "CreatedBy": "Codex cohort-002 lane A author",
+    "WrittenUtc": "2026-07-18T23:10:00Z"
+  },
+  {
     "SourceTerm": "一念不生",
     "PreferredTarget": "not a single thought arises",
     "AlternateTargets": [
@@ -522,6 +554,22 @@
     "Note": "The exact saying occurs 8 times in 6 allowlisted texts. Independent witnesses preserve attribution to Baizhang, its later status as an injunction for communal labor, and Hongzhi's house-style quotation. No competing wording establishes a separate sense.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-15T14:00:00Z"
+  },
+  {
+    "SourceTerm": "一有多種、二無兩般",
+    "PreferredTarget": "many kinds within one and no division within two",
+    "AlternateTargets": [
+      "one is manifold while two remain undivided"
+    ],
+    "SearchAliases": [
+      "one many kinds",
+      "two without division",
+      "balanced one and two"
+    ],
+    "Status": "preferred",
+    "Note": "The balanced saying sets variety within one beside the refusal to divide two into rival forms. Poshan inserts the saying as his answer to a farewell line; Zhihong opens a staff verse with it; Lianyue answers a Chan-and-discipline question; Juelang answers whether five ranks agree or differ.",
+    "CreatedBy": "Codex A26-30 strict author",
+    "WrittenUtc": "2026-07-19T06:00:00Z"
   },
   {
     "SourceTerm": "一棒一條痕",
@@ -1032,6 +1080,21 @@
     "Note": "The ink-dot and the paired dragon-making response belong to one image, not two senses.",
     "CreatedBy": "Codex Iriya lane B131-140 full-case author",
     "WrittenUtc": "2026-07-18T15:20:00Z"
+  },
+  {
+    "SourceTerm": "丁一卓二",
+    "PreferredTarget": "stating one as one and two as two",
+    "AlternateTargets": [
+      "stating one as one and two as two"
+    ],
+    "SearchAliases": [
+      "one as one",
+      "two as two"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase marks blunt exactness—one stated as one, two set down as two—yet the records refuse to freeze there. Xianjie gives it as a clipped answer; Xinyue alternates it with throwing two and three; Yezhu meets it by taking three as three; Chunbeide calls both formulations provisional.",
+    "CreatedBy": "Codex A31-40 strict author",
+    "WrittenUtc": "2026-07-19T09:00:00Z"
   },
   {
     "SourceTerm": "七佛",
@@ -1578,6 +1641,38 @@
     "WrittenUtc": "2026-07-18T19:30:00Z"
   },
   {
+    "SourceTerm": "上是天、下是地",
+    "PreferredTarget": "above is heaven, below is earth",
+    "AlternateTargets": [
+      "heaven above and earth below"
+    ],
+    "SearchAliases": [
+      "heaven above earth below",
+      "what lies between heaven and earth",
+      "above heaven below earth"
+    ],
+    "Status": "preferred",
+    "Note": "The paired locatives state the ordinary vertical arrangement and often open a question about what occupies the middle.",
+    "CreatedBy": "Codex cohort-002 lane-A author",
+    "WrittenUtc": "2026-07-19T02:45:00Z"
+  },
+  {
+    "SourceTerm": "上無攀仰、下絶己躬",
+    "PreferredTarget": "nothing above to look up to and one’s own person cut off below",
+    "AlternateTargets": [
+      "nothing above to revere, no self below"
+    ],
+    "SearchAliases": [
+      "nothing to look up to no self below",
+      "above no reliance below no self",
+      "cut off one’s own person"
+    ],
+    "Status": "preferred",
+    "Note": "The couplet removes both an object above for reverent dependence and one’s own person below.",
+    "CreatedBy": "Codex cohort-002 lane-A author",
+    "WrittenUtc": "2026-07-19T02:45:00Z"
+  },
+  {
     "SourceTerm": "下坡不走，快便難逢",
     "PreferredTarget": "if you will not go downhill, the opportune moment is hard to meet",
     "AlternateTargets": [
@@ -1979,6 +2074,22 @@
     "Note": "Six works preserve Huairang's answer, Huineng's ratification, and later quotation.",
     "CreatedBy": "Codex construction Lane C positions31-40 explicit full-case author",
     "WrittenUtc": "2026-07-17T12:25:40.674983+00:00"
+  },
+  {
+    "SourceTerm": "不消一揑",
+    "PreferredTarget": "not requiring even one pinch",
+    "AlternateTargets": [
+      "without needing a single pinch"
+    ],
+    "SearchAliases": [
+      "one pinch unnecessary",
+      "not even a pinch",
+      "needs no squeeze"
+    ],
+    "Status": "preferred",
+    "Note": "A single pinch is presented as more than enough when restraint is not released.",
+    "CreatedBy": "Codex cohort-002 lane-A author",
+    "WrittenUtc": "2026-07-19T02:45:00Z"
   },
   {
     "SourceTerm": "不涉萬緣",
@@ -2901,6 +3012,21 @@
     "WrittenUtc": "2026-07-18T15:05:00+02:00"
   },
   {
+    "SourceTerm": "人無遠慮、必有近憂",
+    "PreferredTarget": "without long foresight, near trouble follows",
+    "AlternateTargets": [
+      "without long foresight, near trouble follows"
+    ],
+    "SearchAliases": [
+      "long foresight",
+      "near trouble"
+    ],
+    "Status": "preferred",
+    "Note": "The proverb makes delayed consequences the point: failure to look far ahead leaves trouble already close. Zhenru turns it against fixation on Xuedou; Shouzhuo and Zuzhen use it as dialogue answers; Chushi Fanqi sends refined gold back to the furnace.",
+    "CreatedBy": "Codex A31-40 strict author",
+    "WrittenUtc": "2026-07-19T09:00:00Z"
+  },
+  {
     "SourceTerm": "仁義道中",
     "PreferredTarget": "within the bounds of humane obligation and propriety",
     "AlternateTargets": [
@@ -3422,6 +3548,22 @@
     "Note": "The proposition sounds minimizing, but records qualify and test it: trust must be sufficient, the barrier remains difficult, and Linji’s awakening claim is immediately demanded as a demonstration.",
     "CreatedBy": "Codex Iriya construction lane C evidence-first",
     "WrittenUtc": "2026-07-18T07:28:22.280129Z"
+  },
+  {
+    "SourceTerm": "佛眼覷不見",
+    "PreferredTarget": "the buddha-eye cannot glimpse it",
+    "AlternateTargets": [
+      "invisible even to the buddha-eye"
+    ],
+    "SearchAliases": [
+      "buddha eye cannot see",
+      "buddha eye cannot glimpse",
+      "unseen by the buddha eye"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase predicates failure of sight specifically of the buddha-eye.",
+    "CreatedBy": "Codex cohort-002 lane-A author",
+    "WrittenUtc": "2026-07-19T01:40:00Z"
   },
   {
     "SourceTerm": "佛祖",
@@ -5157,6 +5299,22 @@
     "WrittenUtc": "2026-07-18T07:32:00.202421Z"
   },
   {
+    "SourceTerm": "冬至寒食一百五",
+    "PreferredTarget": "one hundred and five days from the winter solstice to Cold Food",
+    "AlternateTargets": [
+      "the calendrical span from solstice to Cold Food"
+    ],
+    "SearchAliases": [
+      "winter solstice Cold Food",
+      "one hundred five days",
+      "seasonal count"
+    ],
+    "Status": "preferred",
+    "Note": "The fixed count links the winter solstice to the Cold Food observance as a compact seasonal interval. A winter verse links passing time to the calendrical count; another winter address uses the same interval; Tiebiansha recites it in a hall address; a Qingming address opens by counting from solstice to Cold Food.",
+    "CreatedBy": "Codex cohort-002 lane-A 41-50 strict author",
+    "WrittenUtc": "2026-07-18T21:03:28Z"
+  },
+  {
     "SourceTerm": "冬行春令",
     "PreferredTarget": "to issue spring commands while winter is under way",
     "AlternateTargets": [],
@@ -5651,6 +5809,22 @@
     "WrittenUtc": "2026-07-18T15:20:00Z"
   },
   {
+    "SourceTerm": "劍爲不平離寶匣、藥因救病出金瓶",
+    "PreferredTarget": "a sword leaving its jeweled box for injustice and medicine leaving its golden bottle for illness",
+    "AlternateTargets": [
+      "the sword leaves its case and medicine leaves its bottle"
+    ],
+    "SearchAliases": [
+      "sword for injustice",
+      "medicine for illness",
+      "responsive corrective action"
+    ],
+    "Status": "preferred",
+    "Note": "A sword leaves its jeweled box because of injustice, and medicine leaves its golden bottle because of illness. Yuanan justifies equal blows, Pufu threatens corrective discipline, Mengtang answers about use after illumination, and Tianyin caps a staff demonstration with the sword-and-medicine pair.",
+    "CreatedBy": "Codex A26-30 strict author",
+    "WrittenUtc": "2026-07-19T06:00:00Z"
+  },
+  {
     "SourceTerm": "功不浪施",
     "PreferredTarget": "the effort is not spent in vain",
     "AlternateTargets": [
@@ -6119,6 +6293,21 @@
     "Note": "A thousand-year peach pit is an old shell invoked to ask whether its original kernel remains or whether seeking that old kernel is pointless.",
     "CreatedBy": "Codex Lane B B111-B120 full-case author",
     "WrittenUtc": "2026-07-19T00:00:00Z"
+  },
+  {
+    "SourceTerm": "千年田、八百主",
+    "PreferredTarget": "a thousand-year field with eight hundred owners",
+    "AlternateTargets": [
+      "a thousand-year field with eight hundred owners"
+    ],
+    "SearchAliases": [
+      "ancient field",
+      "many owners"
+    ],
+    "Status": "preferred",
+    "Note": "The field outlasts its succession of owners: use and custody change while the ground remains. Foyan adds the tree retained after contract; Lingshu names it as house style; an anonymous verse turns it into a recognition test; Songyuan warns against settling there.",
+    "CreatedBy": "Codex A31-40 strict author",
+    "WrittenUtc": "2026-07-19T09:00:00Z"
   },
   {
     "SourceTerm": "千手千眼",
@@ -7055,6 +7244,23 @@
     "Note": "A public-testing label for what does not stop at an initial answer, an achieved position, or the label 'beyond' itself; six independent works. feedback-inference-verdict: retained as a public-testing label rather than a hidden object; feedback-observations: six masters deploy it and several immediately undercut fixation on it; feedback-falsification-searches: checked whether it named a stable teaching formula or private attainment; feedback-counterexamples: ordinary sounds and actions are explicitly used to display it; feedback-scope: the six stored independent works; lookup-probes: further mechanism, beyond mechanism, upward mechanism, public test; opening-interpretation-verdict: revised English-first and grounded in the recorded contrasts.",
     "CreatedBy": "Codex f004 lane A rereview repair author",
     "WrittenUtc": "2026-07-15T15:15:00Z"
+  },
+  {
+    "SourceTerm": "向上關捩子",
+    "PreferredTarget": "the upward pivot",
+    "AlternateTargets": [
+      "the upward turning mechanism",
+      "the pivot above"
+    ],
+    "SearchAliases": [
+      "upward pivot",
+      "higher turning point",
+      "pivot beyond words"
+    ],
+    "Status": "preferred",
+    "Note": "The final three graphs name a pivoting or turning mechanism; the opening two place it in the recurrent upward register.",
+    "CreatedBy": "Codex cohort-002 lane-A author",
+    "WrittenUtc": "2026-07-19T01:40:00Z"
   },
   {
     "SourceTerm": "向鬼窟裏作活計",
@@ -8999,6 +9205,22 @@
     "WrittenUtc": "2026-07-15T04:52:26.825273+00:00"
   },
   {
+    "SourceTerm": "大方無外",
+    "PreferredTarget": "the great expanse has no outside",
+    "AlternateTargets": [
+      "the all-inclusive expanse has no exterior"
+    ],
+    "SearchAliases": [
+      "no outside",
+      "all-inclusive field",
+      "boundless great direction"
+    ],
+    "Status": "preferred",
+    "Note": "The great expanse has no outside: the phrase names an all-containing field beyond which the cases posit nothing further. Mingjue's poem fills the field completely; Yuanwu joins it to formlessness; Hongzhi pairs it with unbounded true perspective; Junshan says it contains the ten directions.",
+    "CreatedBy": "Codex A26-30 strict author",
+    "WrittenUtc": "2026-07-19T06:00:00Z"
+  },
+  {
     "SourceTerm": "大有事在",
     "PreferredTarget": "there will be serious business ahead",
     "AlternateTargets": [
@@ -9338,6 +9560,21 @@
     "WrittenUtc": "2026-07-18T05:09:24.045339+00:00"
   },
   {
+    "SourceTerm": "天不能蓋、地不能載",
+    "PreferredTarget": "something heaven cannot cover and earth cannot bear",
+    "AlternateTargets": [
+      "what heaven cannot cover and earth cannot bear"
+    ],
+    "SearchAliases": [
+      "beyond heaven and earth",
+      "cannot cover or bear"
+    ],
+    "Status": "preferred",
+    "Note": "The expression describes what exceeds the carrying capacity of both sky above and earth below. Hao applies it to transmission incense; Qingyu answers an unnamed questioner with freedom; Liang immediately warns against his own formulation; Tanying answers the question by burying it deeper.",
+    "CreatedBy": "Codex A31-40 strict author",
+    "WrittenUtc": "2026-07-19T09:00:00Z"
+  },
+  {
     "SourceTerm": "天共白雲曉、水和明月流",
     "PreferredTarget": "heaven and white clouds dawn together as water and the bright moon flow together",
     "AlternateTargets": [],
@@ -9416,6 +9653,22 @@
     "Note": "4 reviewed witnesses delimit this sense.",
     "CreatedBy": "Codex f003 Lane B evidence-first",
     "WrittenUtc": "2026-07-15T05:39:15.793393+00:00"
+  },
+  {
+    "SourceTerm": "失却鼻孔",
+    "PreferredTarget": "to lose one's nostrils",
+    "AlternateTargets": [
+      "to have one's nostrils taken away"
+    ],
+    "SearchAliases": [
+      "lose the nose",
+      "lose one's bearings",
+      "nostrils lost"
+    ],
+    "Status": "preferred",
+    "Note": "Losing one's nostrils is a recurrent bodily verdict used to fault a person in an encounter. Zhenjing Kewen contrasts saving the eyebrows with losing the nostrils when speech and use are treated as separate gains. Yunfeng Zhixuan says that taking either side of the wind-and-banner exchange leaves a Chan participant without his nostrils; Huanglong Zhen applies the same loss to Yangshan, while Ying'an Tanhua points it out directly to a questioner.",
+    "CreatedBy": "Codex cohort-002 lane-A full-case author",
+    "WrittenUtc": "2026-07-18T20:25:00Z"
   },
   {
     "SourceTerm": "失錢遭罪",
@@ -9761,6 +10014,22 @@
     "Note": "The full-case reading separates the action-stage directions from Guxue Zhe's personification of the implement.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:51:36.345478+00:00"
+  },
+  {
+    "SourceTerm": "如龍得水、似虎靠山",
+    "PreferredTarget": "like a dragon gaining water, like a tiger backed by a mountain",
+    "AlternateTargets": [
+      "a dragon in water, a tiger against its mountain"
+    ],
+    "SearchAliases": [
+      "dragon gains water tiger finds mountain",
+      "dragon with water tiger with mountain",
+      "well placed and unimpeded"
+    ],
+    "Status": "preferred",
+    "Note": "The paired comparisons picture creatures gaining the element or terrain that supports their strength.",
+    "CreatedBy": "Codex cohort-002 lane-A author",
+    "WrittenUtc": "2026-07-19T02:20:00Z"
   },
   {
     "SourceTerm": "妙用",
@@ -10570,6 +10839,22 @@
     "WrittenUtc": "2026-07-17T10:40:31.881591+00:00"
   },
   {
+    "SourceTerm": "寒時寒殺闍黎、熱時熱殺闍黎",
+    "PreferredTarget": "cold kills you and heat kills you",
+    "AlternateTargets": [
+      "when cold, be killed by cold; when hot, be killed by heat"
+    ],
+    "SearchAliases": [
+      "Dongshan cold and heat",
+      "place without cold or heat",
+      "cold kills hot kills"
+    ],
+    "Status": "preferred",
+    "Note": "Dongshan's two clauses jointly answer the question about the place without cold or heat.",
+    "CreatedBy": "Codex cohort-002 lane-A author",
+    "WrittenUtc": "2026-07-19T01:00:00Z"
+  },
+  {
     "SourceTerm": "寒灰",
     "PreferredTarget": "cold ashes",
     "AlternateTargets": [
@@ -10774,6 +11059,23 @@
     "WrittenUtc": "2026-07-16T18:01:58.081915+00:00"
   },
   {
+    "SourceTerm": "尋常茶飯",
+    "PreferredTarget": "ordinary tea and rice",
+    "AlternateTargets": [
+      "everyday tea and rice",
+      "common fare"
+    ],
+    "SearchAliases": [
+      "ordinary fare",
+      "everyday food",
+      "usual tea and rice"
+    ],
+    "Status": "preferred",
+    "Note": "Tea and rice name familiar daily fare; the records apply that familiarity to matters otherwise described in enlarged or difficult terms.",
+    "CreatedBy": "Codex cohort-002 lane-A author",
+    "WrittenUtc": "2026-07-19T01:40:00Z"
+  },
+  {
     "SourceTerm": "尋牛",
     "PreferredTarget": "search for the ox",
     "AlternateTargets": [
@@ -10803,6 +11105,21 @@
     "Note": "Any criticism is reported from its complete line rather than built into the literal compound.",
     "CreatedBy": "Codex post720 Lane C positions 033-058",
     "WrittenUtc": "2026-07-17T16:30:22.041434+00:00"
+  },
+  {
+    "SourceTerm": "對面千里",
+    "PreferredTarget": "a thousand miles apart face-to-face",
+    "AlternateTargets": [
+      "a thousand miles apart face-to-face"
+    ],
+    "SearchAliases": [
+      "face to face",
+      "thousand miles apart"
+    ],
+    "Status": "preferred",
+    "Note": "Face-to-face proximity can still amount to a thousand miles of separation. Daoyin answers where the mountain person is; the verse blames a hair of contrivance; Tanying uses it when an adept visitor arrives.",
+    "CreatedBy": "Codex A31-40 strict author",
+    "WrittenUtc": "2026-07-19T09:00:00Z"
   },
   {
     "SourceTerm": "小參",
@@ -10900,6 +11217,22 @@
     "Note": "5 exact occurrences from 5 independent works are stored.",
     "CreatedBy": "Codex fresh construction Lane C",
     "WrittenUtc": "2026-07-17T00:00:00Z"
+  },
+  {
+    "SourceTerm": "展開兩手",
+    "PreferredTarget": "to open both hands",
+    "AlternateTargets": [
+      "to spread both hands"
+    ],
+    "SearchAliases": [
+      "open hands",
+      "spread both hands",
+      "both hands displayed"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase names a complete two-handed gesture, either performed in an encounter or proposed and discussed in later comment.",
+    "CreatedBy": "Codex cohort-002 lane-A full-case author",
+    "WrittenUtc": "2026-07-18T20:25:00Z"
   },
   {
     "SourceTerm": "屙屎送尿",
@@ -11875,6 +12208,22 @@
     "WrittenUtc": "2026-07-18T10:01:16.675386Z"
   },
   {
+    "SourceTerm": "從門入者不是家珍",
+    "PreferredTarget": "what enters through the gate is not household treasure",
+    "AlternateTargets": [
+      "imported understanding is not one's own treasure"
+    ],
+    "SearchAliases": [
+      "gate household treasure",
+      "borrowed understanding",
+      "one's own treasure"
+    ],
+    "Status": "preferred",
+    "Note": "The saying contrasts what arrives from outside with treasure arising as one's own usable possession. A Tiantong evening address rejects imported understanding; Zhimen warns against recognizing shadows; Gulin contrasts entry from outside with one's own flow; Shiyu speaks it at the monastery gate.",
+    "CreatedBy": "Codex cohort-002 lane-A 41-50 strict author",
+    "WrittenUtc": "2026-07-18T21:03:28Z"
+  },
+  {
     "SourceTerm": "微塵",
     "PreferredTarget": "a mote of dust",
     "AlternateTargets": [
@@ -12526,6 +12875,22 @@
     "Note": "8 exact evidence rows from 8 independent works are stored for this sense.",
     "CreatedBy": "Codex fresh f001 lane A evidence-first",
     "WrittenUtc": "2026-07-15T00:00:00Z"
+  },
+  {
+    "SourceTerm": "意根下卜度",
+    "PreferredTarget": "reckoning beneath the faculty of thought",
+    "AlternateTargets": [
+      "calculating under the thinking faculty"
+    ],
+    "SearchAliases": [
+      "mental calculation",
+      "conceptual reckoning",
+      "thinking it over"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase names calculation carried out under the mind faculty.",
+    "CreatedBy": "Codex cohort-002 lane A author",
+    "WrittenUtc": "2026-07-18T23:10:00Z"
   },
   {
     "SourceTerm": "慣得其便",
@@ -13363,6 +13728,22 @@
     "WrittenUtc": "2026-07-15T05:09:02.950859+00:00"
   },
   {
+    "SourceTerm": "抱橋柱澡洗",
+    "PreferredTarget": "clinging to a bridge pillar to bathe",
+    "AlternateTargets": [
+      "hugging a bridge pillar while washing"
+    ],
+    "SearchAliases": [
+      "clinging to support",
+      "bridge pillar bathing",
+      "holding fast while seeking release"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase pictures someone entering the water to wash while refusing to release the bridge pillar.",
+    "CreatedBy": "Codex cohort-002 structured actor canary",
+    "WrittenUtc": "2026-07-18T22:30:00Z"
+  },
+  {
     "SourceTerm": "抱璞",
     "PreferredTarget": "carry uncut jade",
     "AlternateTargets": [
@@ -13808,6 +14189,21 @@
     "Note": "The direct glosses “seven hands and eight feet” and “no small amount of disorder” are retained as the texts' own answers. Eleven occurrences explicitly ask how not to drag mud and carry water. The entry reports these relations without assigning the phrase an unstated purpose.",
     "CreatedBy": "Codex fresh f001 lane B evidence-first",
     "WrittenUtc": "2026-07-15T05:30:00Z"
+  },
+  {
+    "SourceTerm": "拗曲作直",
+    "PreferredTarget": "bending the crooked and calling it straight",
+    "AlternateTargets": [
+      "bending the crooked and calling it straight"
+    ],
+    "SearchAliases": [
+      "crooked called straight",
+      "distorted judgment"
+    ],
+    "Status": "preferred",
+    "Note": "To bend what is crooked and present it as straight is to force a distorted account into apparent correctness. The compendium applies it to an appraisal; Fayan to Deshan’s blow; Zhipeng to accepting a lax schedule; Xianjie to the Buddha’s speech through silence.",
+    "CreatedBy": "Codex A31-40 strict author",
+    "WrittenUtc": "2026-07-19T09:00:00Z"
   },
   {
     "SourceTerm": "拾得",
@@ -14320,6 +14716,22 @@
     "WrittenUtc": "2026-07-18T09:10:01.017759Z"
   },
   {
+    "SourceTerm": "撑天拄地",
+    "PreferredTarget": "to support heaven and prop up earth",
+    "AlternateTargets": [
+      "to brace heaven and earth"
+    ],
+    "SearchAliases": [
+      "support heaven and earth",
+      "prop up earth",
+      "brace the world"
+    ],
+    "Status": "preferred",
+    "Note": "The impossible load is assigned to a strong person, a staff, or the stature disclosed in an address.",
+    "CreatedBy": "Codex cohort-002 lane-A full-case author",
+    "WrittenUtc": "2026-07-18T20:25:00Z"
+  },
+  {
     "SourceTerm": "撞著露柱",
     "PreferredTarget": "to run into the exposed pillar",
     "AlternateTargets": [
@@ -14760,6 +15172,22 @@
     "Note": "In the Extended Record of Yongjue Yuanxian, Yongjue quotes \"gathering the mind is called restraint\" (攝心名戒), then challenges it point by point: \"what thing is mind that it can be gathered? What thing is gathering that it can gather mind? Water does not wash water\" (心是何物而可攝？攝又是何物而可攝心？水不洗水). Yongming Yanshou's Source-Mirror Record states that before reaching its stated gate, \"saying right makes wrong; gathering the mind is still an error\" (說是成非，攝心猶錯). Shiwu Qinggong's community verse retains the ordinary finite action by listing chanting and \"gathering the mind to drive off sleep\" (攝心除睡). Counted forms include \"gathering the mind is called restraint\" (攝心名戒, two occurrences in two texts), \"gather the mind to drive off sleep\" (攝心除睡, two in two), \"the way of gathering the mind\" (攝心之法, one), \"place of gathering the mind\" (攝心處, one), and \"gather the mind and illuminate within\" (攝心內照, three in three). The entry records the action and the texts' own challenges without resolving those challenges into an external system.",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "攪長河爲酥酪、變大地作黄金",
+    "PreferredTarget": "transforming the long river into curds and the great earth into gold",
+    "AlternateTargets": [
+      "river and earth transformed beyond ordinary limits"
+    ],
+    "SearchAliases": [
+      "river into curds",
+      "earth into gold",
+      "prodigious transformation"
+    ],
+    "Status": "preferred",
+    "Note": "The paired feats name prodigious transformative capacity that the records immediately qualify or cap. Tianan subordinates the feats to daily responsibility, Baishan still says 'not yet,' Tianyin makes them ordinary after breakthrough, and Juelang grants them only after penetrating trust.",
+    "CreatedBy": "Codex A26-30 strict author",
+    "WrittenUtc": "2026-07-19T06:00:00Z"
   },
   {
     "SourceTerm": "放一線道",
@@ -15310,6 +15738,22 @@
     "WrittenUtc": "2026-07-15T18:08:00Z"
   },
   {
+    "SourceTerm": "日出東方夜落西",
+    "PreferredTarget": "the sun rises in the east and at night sets in the west",
+    "AlternateTargets": [
+      "sunrise east, nightfall west"
+    ],
+    "SearchAliases": [
+      "sun rises east sets west",
+      "sunrise and sunset",
+      "day east night west"
+    ],
+    "Status": "preferred",
+    "Note": "The sentence states the sun’s daily east-to-west course.",
+    "CreatedBy": "Codex cohort-002 lane-A author",
+    "WrittenUtc": "2026-07-19T02:45:00Z"
+  },
+  {
     "SourceTerm": "日午打三更",
     "PreferredTarget": "strike the third watch at noon",
     "AlternateTargets": [
@@ -15511,6 +15955,21 @@
     "Note": "The paired white images can present apparent sameness, but the records also distinguish them and rebuke treating the pair as a settled equation.",
     "CreatedBy": "Codex Iriya cohort001 Lane B explicit full-case bulk author",
     "WrittenUtc": "2026-07-18T04:43:22.879653+00:00"
+  },
+  {
+    "SourceTerm": "明珠在掌",
+    "PreferredTarget": "a bright pearl held in the palm",
+    "AlternateTargets": [
+      "a bright pearl held in the palm"
+    ],
+    "SearchAliases": [
+      "bright pearl",
+      "pearl in hand"
+    ],
+    "Status": "preferred",
+    "Note": "A pearl already lying in the palm is something immediately available and responsive to what appears. Xuedou links possession with earned reward; Yuanwu compares encounter to mirror and pearl; Shuzhong lets the pearl distribute the colors before it.",
+    "CreatedBy": "Codex A31-40 strict author",
+    "WrittenUtc": "2026-07-19T09:00:00Z"
   },
   {
     "SourceTerm": "明眼",
@@ -15895,6 +16354,21 @@
     "Note": "The line announces an evaluative rule: demonstrated accomplishment receives the fitting award, sometimes paradoxically a blow.",
     "CreatedBy": "Codex Iriya construction cohort 001 lane C positions 44-50",
     "WrittenUtc": "2026-07-18T08:47:27.154594Z"
+  },
+  {
+    "SourceTerm": "有權有實、有照有用",
+    "PreferredTarget": "having adaptive means and actuality, illumination and function",
+    "AlternateTargets": [
+      "provisional and real, illumination and function"
+    ],
+    "SearchAliases": [
+      "provisional and real",
+      "illumination and function"
+    ],
+    "Status": "preferred",
+    "Note": "The paired saying requires both adaptive means and actuality, both illumination and function. Huijing makes the four capacities a condition for not betraying his house; Jie’an ties them to free command; Fazang analyzes them through the fan; Yulin locates them in daily recitation.",
+    "CreatedBy": "Codex A31-40 strict author",
+    "WrittenUtc": "2026-07-19T09:00:00Z"
   },
   {
     "SourceTerm": "有水皆含月、無山不帶雲",
@@ -18041,6 +18515,22 @@
     "WrittenUtc": "2026-07-15T09:15:00Z"
   },
   {
+    "SourceTerm": "殺人須見血",
+    "PreferredTarget": "to kill, one must see blood",
+    "AlternateTargets": [
+      "killing must draw blood"
+    ],
+    "SearchAliases": [
+      "see blood",
+      "draw blood",
+      "killing must be thorough"
+    ],
+    "Status": "preferred",
+    "Note": "The line is paired repeatedly with doing a service thoroughly.",
+    "CreatedBy": "Codex cohort-002 lane-A author",
+    "WrittenUtc": "2026-07-19T02:20:00Z"
+  },
+  {
     "SourceTerm": "殺佛殺祖",
     "PreferredTarget": "kill buddhas and patriarchs",
     "AlternateTargets": [],
@@ -19259,6 +19749,22 @@
     "Note": "All eight complete candidate cases were reviewed for the the sea is calm and the river clear reading; the six retained works cover one peace-and-order formula; literal weather and political felicity are the same conventional image here.",
     "CreatedBy": "Codex fresh semantic author A051-060 2026-07-18",
     "WrittenUtc": "2026-07-18T10:01:16.920165Z"
+  },
+  {
+    "SourceTerm": "海枯終見底、人死不知心",
+    "PreferredTarget": "a sea-bottom may be exposed, but a human heart remains unknown",
+    "AlternateTargets": [
+      "a dried sea shows its bottom, but death does not disclose a person's heart"
+    ],
+    "SearchAliases": [
+      "sea dries heart unknown",
+      "person dies heart unknowable",
+      "sea bottom human heart"
+    ],
+    "Status": "preferred",
+    "Note": "The two clauses travel together as a contrast between a finally visible sea-floor and a human heart that remains undisclosed.",
+    "CreatedBy": "Codex cohort-002 lane-A full-case author",
+    "WrittenUtc": "2026-07-18T20:25:00Z"
   },
   {
     "SourceTerm": "海神知貴不知價",
@@ -21561,6 +22067,22 @@
     "WrittenUtc": "2026-07-18T17:03:34Z"
   },
   {
+    "SourceTerm": "用盡自己心、笑破他人口",
+    "PreferredTarget": "exhaust one’s own mind and split another’s mouth with laughter",
+    "AlternateTargets": [
+      "spend your mind, make others laugh"
+    ],
+    "SearchAliases": [
+      "use up own mind make others laugh",
+      "laugh someone’s mouth open",
+      "exhausted effort ridicule"
+    ],
+    "Status": "preferred",
+    "Note": "The paired verdict contrasts expended effort with the laughter it draws from others.",
+    "CreatedBy": "Codex cohort-002 lane-A author",
+    "WrittenUtc": "2026-07-19T02:45:00Z"
+  },
+  {
     "SourceTerm": "用處",
     "PreferredTarget": "use or function",
     "AlternateTargets": [
@@ -23099,6 +23621,22 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "知過必改",
+    "PreferredTarget": "knowing a fault, one must correct it",
+    "AlternateTargets": [
+      "once a fault is known, correct it"
+    ],
+    "SearchAliases": [
+      "correct a known fault",
+      "recognize and amend a fault",
+      "know error change it"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase directly follows acknowledgments of fault in several encounters.",
+    "CreatedBy": "Codex cohort-002 lane-A author",
+    "WrittenUtc": "2026-07-19T02:20:00Z"
+  },
+  {
     "SourceTerm": "石人",
     "PreferredTarget": "stone person",
     "AlternateTargets": [],
@@ -23508,6 +24046,22 @@
     "Note": "Complete contexts, paratext boundaries, and independent work identities were checked before compilation.",
     "CreatedBy": "Codex f004 lane C stale-hash recovery author",
     "WrittenUtc": "2026-07-15T15:03:50.947927+00:00"
+  },
+  {
+    "SourceTerm": "禍不單行",
+    "PreferredTarget": "misfortune does not travel alone",
+    "AlternateTargets": [
+      "trouble does not come singly"
+    ],
+    "SearchAliases": [
+      "misfortunes come together",
+      "one trouble follows another",
+      "trouble never comes alone"
+    ],
+    "Status": "preferred",
+    "Note": "The saying states that one misfortune arrives with another.",
+    "CreatedBy": "Codex cohort-002 lane A author",
+    "WrittenUtc": "2026-07-18T23:30:00Z"
   },
   {
     "SourceTerm": "禍出私門",
@@ -23978,6 +24532,22 @@
     "WrittenUtc": "2026-07-17T13:08:20.904647+00:00"
   },
   {
+    "SourceTerm": "空手把鋤頭、歩行騎水牛",
+    "PreferredTarget": "empty-handed grasping a hoe while walking astride a water buffalo",
+    "AlternateTargets": [
+      "with empty hands I hold a hoe; on foot I ride a buffalo"
+    ],
+    "SearchAliases": [
+      "empty hand hoe walking buffalo",
+      "Fu Dashi hoe buffalo verse",
+      "walking while riding a water buffalo"
+    ],
+    "Status": "preferred",
+    "Note": "The two clauses are the opening half of Shanhui Dashi’s four-line verse and remain one paired lexical unit.",
+    "CreatedBy": "Codex cohort-002 lane-A author",
+    "WrittenUtc": "2026-07-19T02:20:00Z"
+  },
+  {
     "SourceTerm": "空華",
     "PreferredTarget": "a flower in empty space",
     "AlternateTargets": [],
@@ -24410,6 +24980,21 @@
     "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
+  },
+  {
+    "SourceTerm": "箭過新羅",
+    "PreferredTarget": "the arrow has already passed Silla",
+    "AlternateTargets": [
+      "the arrow has already passed Silla"
+    ],
+    "SearchAliases": [
+      "arrow past Silla",
+      "too late arrow"
+    ],
+    "Status": "preferred",
+    "Note": "The arrow has already passed Silla: the retained cases use the distant flight as an image of something already far beyond the present point. Shouzhi follows a pause with the warning; Yunmen fires it as an urgent saying; a verse looks skyward after the shot; Yingfu answers a comparison of two Chan categories with it.",
+    "CreatedBy": "Codex A31-40 strict author",
+    "WrittenUtc": "2026-07-19T09:00:00Z"
   },
   {
     "SourceTerm": "箭鋒相拄",
@@ -26804,6 +27389,22 @@
     "WrittenUtc": "2026-07-15T05:37:12.429465+00:00"
   },
   {
+    "SourceTerm": "藏身露影",
+    "PreferredTarget": "hiding the body while exposing its shadow",
+    "AlternateTargets": [
+      "concealment betrayed by its own trace"
+    ],
+    "SearchAliases": [
+      "hidden body exposed shadow",
+      "concealment betrayed",
+      "visible trace"
+    ],
+    "Status": "preferred",
+    "Note": "The image judges an attempted concealment that gives itself away through the trace it leaves visible. Xuedou names Danyuan a man hiding his body yet showing its shadow; the unnamed questioning monk turns the phrase into a self-exposing inference; Dahui applies it to two interlocutors; Yuanwu uses it as a direct reply.",
+    "CreatedBy": "Codex cohort-002 lane-A 41-50 strict author",
+    "WrittenUtc": "2026-07-18T21:03:28Z"
+  },
+  {
     "SourceTerm": "藥師",
     "PreferredTarget": "Medicine Master Buddha",
     "AlternateTargets": [
@@ -27044,6 +27645,22 @@
     "Note": "7 distinct work IDs selected after complete-case actor review.",
     "CreatedBy": "Codex f004 lane B complete-case author",
     "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
+  },
+  {
+    "SourceTerm": "行到水窮處、坐看雲起時",
+    "PreferredTarget": "walking to the water’s end and sitting to watch clouds rise",
+    "AlternateTargets": [
+      "go to where the stream ends and sit watching clouds arise"
+    ],
+    "SearchAliases": [
+      "water ends clouds rise",
+      "stream ends clouds arise",
+      "walk to the source and watch clouds"
+    ],
+    "Status": "preferred",
+    "Note": "The paired line joins reaching the end of flowing water with sitting to watch clouds form.",
+    "CreatedBy": "Codex cohort-002 structured actor canary",
+    "WrittenUtc": "2026-07-18T22:30:00Z"
   },
   {
     "SourceTerm": "行履",
@@ -27403,6 +28020,22 @@
     "WrittenUtc": "2026-07-15T15:28:02.993665+00:00"
   },
   {
+    "SourceTerm": "見之不取、思之千里",
+    "PreferredTarget": "failing to take what is seen before thought puts it a thousand miles away",
+    "AlternateTargets": [
+      "do not seize the immediate; thought makes it remote"
+    ],
+    "SearchAliases": [
+      "seen not taken",
+      "thought thousand miles",
+      "immediate recognition"
+    ],
+    "Status": "preferred",
+    "Note": "The warning says that what is immediately seen goes untaken; once thought begins, it is already a thousand miles away. Huanglong concludes a gold-and-sand test with the warning; a small talk repeats that discernment test; a Dajue evening address applies it to household treasure; Tianru gives it as an encounter answer.",
+    "CreatedBy": "Codex cohort-002 lane-A 41-50 strict author",
+    "WrittenUtc": "2026-07-18T21:03:28Z"
+  },
+  {
     "SourceTerm": "見性",
     "PreferredTarget": "to see one's nature",
     "AlternateTargets": [
@@ -27563,6 +28196,22 @@
     "WrittenUtc": "2026-07-17T11:50:57.209160+00:00"
   },
   {
+    "SourceTerm": "見面不如聞名",
+    "PreferredTarget": "meeting the person is worse than hearing the reputation",
+    "AlternateTargets": [
+      "the encounter disappoints the report"
+    ],
+    "SearchAliases": [
+      "meeting reputation",
+      "heard name disappointed",
+      "face to face"
+    ],
+    "Status": "preferred",
+    "Note": "The idiom delivers a pointed appraisal: the actual encounter falls short of the reputation heard beforehand. Mituo Zhengyan says it while leaving an encounter; Shishuang applies it in a visit; Cheya turns it into a hall appraisal; Li Ao voices the familiar complaint when meeting Yaoshan.",
+    "CreatedBy": "Codex cohort-002 lane-A 41-50 strict author",
+    "WrittenUtc": "2026-07-18T21:03:28Z"
+  },
+  {
     "SourceTerm": "覓心了不可得",
     "PreferredTarget": "having sought the mind, I could not find it",
     "AlternateTargets": [
@@ -27690,6 +28339,22 @@
     "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
     "CreatedBy": "Codex f003 Lane A full-case author",
     "WrittenUtc": "2026-07-15T04:51:27.765004+00:00"
+  },
+  {
+    "SourceTerm": "觀音入理之門",
+    "PreferredTarget": "Guanyin's gate of entry into principle",
+    "AlternateTargets": [
+      "hearing as an entrance into realization"
+    ],
+    "SearchAliases": [
+      "Guanyin gate",
+      "hearing enters principle",
+      "sound realization"
+    ],
+    "Status": "preferred",
+    "Note": "Guanyin's gate of entering principle is named beside midnight bells and drums, hearing, a questioned drum-strike, and Baizhang's meal-drum case. A demonstration joins midnight bell and drum to Guanyin's gate; a birthday address links mature hearing to it; the named student asks why the Miaozhan respondent does not strike the drum; Baizhang identifies the field-working monk's response to the meal drum as the gate.",
+    "CreatedBy": "Codex cohort-002 lane-A 41-50 strict author",
+    "WrittenUtc": "2026-07-18T21:03:28Z"
   },
   {
     "SourceTerm": "解制",
@@ -27989,6 +28654,22 @@
     "Note": "8 reviewed witnesses delimit this sense.",
     "CreatedBy": "Codex f003 Lane B evidence-first",
     "WrittenUtc": "2026-07-15T05:39:11.769687+00:00"
+  },
+  {
+    "SourceTerm": "言端語端",
+    "PreferredTarget": "the edge of words, the edge of speech",
+    "AlternateTargets": [
+      "word-end and speech-end"
+    ],
+    "SearchAliases": [
+      "edge of speech",
+      "limit of words",
+      "verbal edge"
+    ],
+    "Status": "preferred",
+    "Note": "The doubled phrase names the edge or endpoint of verbal expression.",
+    "CreatedBy": "Codex cohort-002 lane A author",
+    "WrittenUtc": "2026-07-18T23:30:00Z"
   },
   {
     "SourceTerm": "言語道斷",
@@ -29100,6 +29781,22 @@
     "WrittenUtc": "2026-07-18T08:26:07.196766Z"
   },
   {
+    "SourceTerm": "路不拾遺",
+    "PreferredTarget": "lost property is not picked up on the road",
+    "AlternateTargets": [
+      "nothing lost on the road is taken"
+    ],
+    "SearchAliases": [
+      "road where nothing is stolen",
+      "lost property left untouched",
+      "nothing picked up on the road"
+    ],
+    "Status": "preferred",
+    "Note": "The old order-and-honesty formula is repeatedly made answer, praise, and case comment in Chan records.",
+    "CreatedBy": "Codex cohort-002 lane-A full-case author",
+    "WrittenUtc": "2026-07-18T20:25:00Z"
+  },
+  {
     "SourceTerm": "路逢達道人，不將語默對",
     "PreferredTarget": "when meeting an accomplished person on the road, do not answer with speech or silence",
     "AlternateTargets": [
@@ -29182,6 +29879,21 @@
     "Note": "Frozen-corpus concordance: 1,555 exact hits in 237 files and 232 independent works. One act covers missing, overlooking, and letting the occasion pass. Different triggers—asking, intending, opening or closing the eyes, hurrying, slowing, or claiming understanding—are attested circumstances of the same miss, not separate senses.",
     "CreatedBy": "Codex legacy full rebuild Lane A",
     "WrittenUtc": "2026-07-16T18:01:54.667186+00:00"
+  },
+  {
+    "SourceTerm": "蹉過也不知",
+    "PreferredTarget": "missing it without knowing",
+    "AlternateTargets": [
+      "missing it without knowing"
+    ],
+    "SearchAliases": [
+      "missed without knowing",
+      "unnoticed miss"
+    ],
+    "Status": "preferred",
+    "Note": "The rebuke says the miss has occurred at one’s own feet before the challenged respondent recognizes it. Dahui locates the miss underfoot; Dangui gives it after striking; Yuanwu answers a claim of present proof; Baoning follows it with a shout.",
+    "CreatedBy": "Codex A31-40 strict author",
+    "WrittenUtc": "2026-07-19T09:00:00Z"
   },
   {
     "SourceTerm": "蹉過了也",
@@ -31363,6 +32075,22 @@
     "WrittenUtc": "2026-07-16T12:26:37.856302+00:00"
   },
   {
+    "SourceTerm": "開口見膽",
+    "PreferredTarget": "open the mouth and show the guts",
+    "AlternateTargets": [
+      "the moment the mouth opens, the guts appear"
+    ],
+    "SearchAliases": [
+      "show your guts when speaking",
+      "speech reveals the insides",
+      "open mouth bare guts"
+    ],
+    "Status": "preferred",
+    "Note": "The bodily image describes speech that immediately exposes what is inside.",
+    "CreatedBy": "Codex cohort-002 lane-A author",
+    "WrittenUtc": "2026-07-19T02:20:00Z"
+  },
+  {
     "SourceTerm": "開堂",
     "PreferredTarget": "open the teaching hall",
     "AlternateTargets": [
@@ -31498,6 +32226,22 @@
     "Note": "The exact short form has in 33 allowlisted texts. Its stable expansion is 'ended-study, doing-nothing-contrived, at-ease person of the Way.' Evidence includes explicit naming formulas, a list of synonyms, prose distinctions among kinds of study, and verse deployment. The ordinary reading 'idle person' alone misses the corpus-defined epithet.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-15T14:00:00Z"
+  },
+  {
+    "SourceTerm": "間不容髮",
+    "PreferredTarget": "no interval admitting even a hair",
+    "AlternateTargets": [
+      "not even a hair's breadth intervenes"
+    ],
+    "SearchAliases": [
+      "hair-breadth immediacy",
+      "no interval",
+      "exact accord"
+    ],
+    "Status": "preferred",
+    "Note": "Not even a hair can fit between: the phrase denies the smallest interval in the relation named by each case. Zhongfeng says awakened clarity and ordinary applications admit no intervening hair; Dahui places the phrase between one thought and its application; Xueyan compares the meeting to two mirrors with no hair admitted; Xieyun uses it for a house rule whose exacting edge leaves no gap.",
+    "CreatedBy": "Codex A26-30 strict author",
+    "WrittenUtc": "2026-07-19T06:00:00Z"
   },
   {
     "SourceTerm": "闍黎",
@@ -32039,6 +32783,22 @@
     "Note": "Six exact headword occurrences from four independent later-use works are stored, plus the defining Xuefeng–Xuansha action scene from Xuefeng Yicun’s own record. Repeated appraisals within X69n1357 and J36nB369 count as depth inside those works, never as extra independent sources.",
     "CreatedBy": "Codex construction lane C evidence-first",
     "WrittenUtc": "2026-07-17T00:00:00Z"
+  },
+  {
+    "SourceTerm": "雪後始知松柏操、事難方見丈夫心",
+    "PreferredTarget": "knowing pine-and-cypress constancy after snow and a steadfast heart when affairs turn difficult",
+    "AlternateTargets": [
+      "adversity reveals constancy"
+    ],
+    "SearchAliases": [
+      "snow pine cypress",
+      "difficulty steadfast person",
+      "adversity reveals"
+    ],
+    "Status": "preferred",
+    "Note": "The couplet says that pressure reveals durable character just as snow reveals the constancy of pine and cypress. The Qianming master answers a question about costly commitment with the couplet; the unnamed questioning monk offers it as an advance; the Qinglong master applies it to conduct unmoved by pressure; a Tiantong ordination address uses it for perseverance.",
+    "CreatedBy": "Codex cohort-002 lane-A 41-50 strict author",
+    "WrittenUtc": "2026-07-18T21:03:28Z"
   },
   {
     "SourceTerm": "雲巖掃地",
