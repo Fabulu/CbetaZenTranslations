@@ -438,6 +438,21 @@
     "WrittenUtc": "2026-07-17T10:48:22.946909+00:00"
   },
   {
+    "SourceTerm": "一塵飛而翳天、一芥墮而覆地",
+    "PreferredTarget": "a mote rises to veil the sky and a mustard seed falls to cover the earth",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a mote rises to veil the sky and a mustard seed falls to cover the earth",
+      "one speck blocks the sky",
+      "mustard seed covers the earth",
+      "tiny thing obscures everything"
+    ],
+    "Status": "preferred",
+    "Note": "The physical impossibility is the shared image; the sources do not assign dust and mustard seed separate symbolic codes.",
+    "CreatedBy": "Codex lane C rev2 C111-120 author",
+    "WrittenUtc": "2026-07-19T15:00:00Z"
+  },
+  {
     "SourceTerm": "一大事因緣",
     "PreferredTarget": "the single great matter",
     "AlternateTargets": [
@@ -4567,6 +4582,21 @@
     "WrittenUtc": "2026-07-18T06:50:51.935330Z"
   },
   {
+    "SourceTerm": "借婆裙子拜婆年",
+    "PreferredTarget": "borrow the old woman’s skirt to pay the old woman New Year respects",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "borrow the old woman’s skirt to pay the old woman New Year respects",
+      "borrow her skirt to greet her",
+      "borrowed offering",
+      "pay New Year respects with her own skirt"
+    ],
+    "Status": "preferred",
+    "Note": "The household scene is stable, but the records do not supply one universal judgment for every deployment.",
+    "CreatedBy": "Codex lane C rev2 C104-120 author",
+    "WrittenUtc": "2026-07-19T14:00:00Z"
+  },
+  {
     "SourceTerm": "借路經過",
     "PreferredTarget": "to borrow the road in passing",
     "AlternateTargets": [],
@@ -8462,6 +8492,21 @@
     "WrittenUtc": "2026-07-19T12:00:00Z"
   },
   {
+    "SourceTerm": "唱九作十",
+    "PreferredTarget": "to call nine ten",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to call nine ten",
+      "call nine ten",
+      "say nine is ten",
+      "misstate the count"
+    ],
+    "Status": "preferred",
+    "Note": "The numerical wording is stable; the corpus supplies no second referent beyond deliberate or criticized misstatement.",
+    "CreatedBy": "Codex lane C rev2 C101-120 author",
+    "WrittenUtc": "2026-07-19T12:00:00Z"
+  },
+  {
     "SourceTerm": "商山四皓",
     "PreferredTarget": "the Four Hoaryheads of Mount Shang",
     "AlternateTargets": [],
@@ -9870,6 +9915,21 @@
     "WrittenUtc": "2026-07-18T07:28:21.743534Z"
   },
   {
+    "SourceTerm": "壺中日月長",
+    "PreferredTarget": "within the pot, days and months are long",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "within the pot, days and months are long",
+      "long days inside the pot",
+      "time in a jar",
+      "world inside a pot"
+    ],
+    "Status": "preferred",
+    "Note": "The sources retain the impossible scale of the pot image but do not identify one literal pot or explain a symbolic system.",
+    "CreatedBy": "Codex lane C rev2 C111-120 author",
+    "WrittenUtc": "2026-07-19T15:00:00Z"
+  },
+  {
     "SourceTerm": "夏安居",
     "PreferredTarget": "the summer residence period",
     "AlternateTargets": [
@@ -10820,6 +10880,20 @@
     "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:30:57.027055+00:00"
+  },
+  {
+    "SourceTerm": "好晴好雨",
+    "PreferredTarget": "fine clear weather, fine rain",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "fine clear weather, fine rain",
+      "good weather",
+      "rain or shine"
+    ],
+    "Status": "preferred",
+    "Note": "The pair names one balanced appraisal, not two weather senses.",
+    "CreatedBy": "Codex lane C rev2 C101-120 author",
+    "WrittenUtc": "2026-07-19T12:00:00Z"
   },
   {
     "SourceTerm": "好箇消息",
@@ -15749,6 +15823,20 @@
     "WrittenUtc": "2026-07-18T21:30:00Z"
   },
   {
+    "SourceTerm": "捧上不成龍",
+    "PreferredTarget": "lifting it up will not make it a dragon",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "lifting it up will not make it a dragon",
+      "raise it but it will not become a dragon",
+      "elevation does not transform"
+    ],
+    "Status": "preferred",
+    "Note": "The image concerns failed transformation by elevation, not a claim about literal dragon-raising.",
+    "CreatedBy": "Codex lane C rev2 C104-120 author",
+    "WrittenUtc": "2026-07-19T14:00:00Z"
+  },
+  {
     "SourceTerm": "捨重從輕",
     "PreferredTarget": "abandon the heavy and follow the light",
     "AlternateTargets": [],
@@ -16789,6 +16877,21 @@
     "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
   },
   {
+    "SourceTerm": "攙奪行市",
+    "PreferredTarget": "to cut in and seize the market trade",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to cut in and seize the market trade",
+      "poach another’s market",
+      "seize the trade",
+      "cut into another seller’s business"
+    ],
+    "Status": "preferred",
+    "Note": "The market scene is explicit in the wording; the entry does not generalize it into every form of rivalry.",
+    "CreatedBy": "Codex lane C rev2 C111-120 author",
+    "WrittenUtc": "2026-07-19T15:00:00Z"
+  },
+  {
     "SourceTerm": "攙旗奪鼓",
     "PreferredTarget": "rush the banner and seize the drum",
     "AlternateTargets": [],
@@ -17711,6 +17814,21 @@
     "WrittenUtc": "2026-07-18T16:00:00+00:00"
   },
   {
+    "SourceTerm": "明頭合、暗頭合",
+    "PreferredTarget": "meet in the light, meet in the dark",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "meet in the light, meet in the dark",
+      "accord in light and dark",
+      "fit openly and secretly",
+      "meet under bright or hidden conditions"
+    ],
+    "Status": "preferred",
+    "Note": "The sources coordinate the two conditions; they do not define separate light and dark systems.",
+    "CreatedBy": "Codex lane C rev2 C111-120 author",
+    "WrittenUtc": "2026-07-19T15:00:00Z"
+  },
+  {
     "SourceTerm": "昏沈",
     "PreferredTarget": "dull sinking",
     "AlternateTargets": [
@@ -18165,6 +18283,21 @@
     "Note": "Nearby moon-in-water or cloud-on-mountain phrases are excluded unless they preserve both halves of the couplet.",
     "CreatedBy": "Codex Iriya lane B121-130 full-case author",
     "WrittenUtc": "2026-07-18T17:00:00Z"
+  },
+  {
+    "SourceTerm": "有理不在高聲",
+    "PreferredTarget": "having reason does not depend on a loud voice",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "having reason does not depend on a loud voice",
+      "reason needs no shouting",
+      "truth is not in a loud voice",
+      "a sound case speaks quietly"
+    ],
+    "Status": "preferred",
+    "Note": "The formula evaluates reason and volume; it does not prove that quiet speech is always correct.",
+    "CreatedBy": "Codex lane C rev2 C111-120 author",
+    "WrittenUtc": "2026-07-19T15:00:00Z"
   },
   {
     "SourceTerm": "有甚交涉",
@@ -21968,6 +22101,20 @@
     "WrittenUtc": "2026-07-17T08:57:36.806673+00:00"
   },
   {
+    "SourceTerm": "深沙努眼睛",
+    "PreferredTarget": "the deep-sand spirit strains his eyes",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the deep-sand spirit strains his eyes",
+      "deep-sand spirit stares",
+      "straining his eyes"
+    ],
+    "Status": "preferred",
+    "Note": "Several files repeat the same Fachang–Ying exchange and count as one deployment class.",
+    "CreatedBy": "Codex lane C rev2 C104-120 author",
+    "WrittenUtc": "2026-07-19T14:00:00Z"
+  },
+  {
     "SourceTerm": "深深海底行",
     "PreferredTarget": "walk on the deepest ocean floor",
     "AlternateTargets": [
@@ -24466,6 +24613,21 @@
     "WrittenUtc": "2026-07-18T08:15:51.012223Z"
   },
   {
+    "SourceTerm": "當局者迷",
+    "PreferredTarget": "the person inside the game is confused",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the person inside the game is confused",
+      "participant is confused",
+      "inside the game cannot see",
+      "onlooker sees clearly"
+    ],
+    "Status": "preferred",
+    "Note": "The entries preserve the participant-versus-observer contrast stated by the sources, without claiming observers are invariably right.",
+    "CreatedBy": "Codex lane C rev2 C111-120 author",
+    "WrittenUtc": "2026-07-19T15:00:00Z"
+  },
+  {
     "SourceTerm": "當斷不斷、返招其亂",
     "PreferredTarget": "when what should be cut off is not cut off, disorder returns",
     "AlternateTargets": [],
@@ -25951,6 +26113,21 @@
     "Note": "The phrase directly follows acknowledgments of fault in several encounters.",
     "CreatedBy": "Codex cohort-002 lane-A author",
     "WrittenUtc": "2026-07-19T03:44:39.755866+00:00"
+  },
+  {
+    "SourceTerm": "矮子看戲、隨人上下",
+    "PreferredTarget": "a short man watching a play, rising and falling with everyone else",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a short man watching a play, rising and falling with everyone else",
+      "short spectator follows the crowd",
+      "copying the crowd",
+      "following others up and down"
+    ],
+    "Status": "preferred",
+    "Note": "The retained sources themselves state the comparison; no outside symbolism is needed.",
+    "CreatedBy": "Codex lane C rev2 C104-120 author",
+    "WrittenUtc": "2026-07-19T14:00:00Z"
   },
   {
     "SourceTerm": "石上栽華",
@@ -27619,6 +27796,21 @@
     "WrittenUtc": "2026-07-17T10:25:51.482032+00:00"
   },
   {
+    "SourceTerm": "索飯錢有日在",
+    "PreferredTarget": "the day when the meal bill is demanded will come",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the day when the meal bill is demanded will come",
+      "the meal bill comes due",
+      "pay for your rice",
+      "food debt will be collected"
+    ],
+    "Status": "preferred",
+    "Note": "Two Linji anchors are recensions of one utterance and count as one deployment class.",
+    "CreatedBy": "Codex lane C rev2 C111-120 author",
+    "WrittenUtc": "2026-07-19T15:00:00Z"
+  },
+  {
     "SourceTerm": "紫芝",
     "PreferredTarget": "purple fungus",
     "AlternateTargets": [
@@ -27649,6 +27841,20 @@
     "Note": "The title is retained where the song itself is named, not wherever purple fungus appears.",
     "CreatedBy": "Codex post720 Lane C positions 006-032",
     "WrittenUtc": "2026-07-17T16:00:19.168168+00:00"
+  },
+  {
+    "SourceTerm": "細嚼難飢",
+    "PreferredTarget": "chew finely and hunger comes slowly",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "chew finely and hunger comes slowly",
+      "chew carefully and stay full",
+      "fine chewing delays hunger"
+    ],
+    "Status": "preferred",
+    "Note": "The line is an eating proverb whose Chan force remains tied to its explicit coarse-versus-fine contrast.",
+    "CreatedBy": "Codex lane C rev2 C104-120 author",
+    "WrittenUtc": "2026-07-19T14:00:00Z"
   },
   {
     "SourceTerm": "結冬",
@@ -27892,6 +28098,21 @@
     "Note": "The exact headword occurs 796 times in 213 allowlisted storage files. Standard self-definition searches did not produce a simple equation; their zero results are preserved in WORK rather than printed as unattested Chinese evidence. The strongest structural evidence is Huiyan Zhizhao's explicit pairing of five-house key outlines with lineage-framework terms, Yantou Quanhuo's two transmitted formulas, and the named-house compounds. Linji and Caodong qualification does not change the referent, so one corpus-wide sense remains warranted.",
     "CreatedBy": "Codex GPT-5.6",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "綿包特石",
+    "PreferredTarget": "cotton wrapped around a peculiar stone",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "cotton wrapped around a peculiar stone",
+      "cotton-wrapped stone",
+      "soft wrapping around hard stone",
+      "soft exterior, hard core"
+    ],
+    "Status": "preferred",
+    "Note": "The sources establish wrapping and contrasting materials but do not state which quality should be praised.",
+    "CreatedBy": "Codex lane C rev2 C111-120 author",
+    "WrittenUtc": "2026-07-19T15:00:00Z"
   },
   {
     "SourceTerm": "綿密",
@@ -29671,6 +29892,21 @@
     "WrittenUtc": "2026-07-15T09:40:00Z"
   },
   {
+    "SourceTerm": "著靴水上立",
+    "PreferredTarget": "stand on the water wearing boots",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "stand on the water wearing boots",
+      "boots on water",
+      "stand on water in shoes",
+      "water-standing"
+    ],
+    "Status": "preferred",
+    "Note": "The actor changes across cases, but the water-standing action remains the same physical impossibility.",
+    "CreatedBy": "Codex lane C rev2 C111-120 author",
+    "WrittenUtc": "2026-07-19T15:00:00Z"
+  },
+  {
     "SourceTerm": "落七落八",
     "PreferredTarget": "fall into a seven-and-eight jumble",
     "AlternateTargets": [],
@@ -29951,6 +30187,21 @@
     "Note": "8 independent works anchor the headword and delimit the gloss.",
     "CreatedBy": "Codex f003 Lane B evidence-first",
     "WrittenUtc": "2026-07-15T04:45:40.547108+00:00"
+  },
+  {
+    "SourceTerm": "﨟月三十日",
+    "PreferredTarget": "the thirtieth day of the twelfth month",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the thirtieth day of the twelfth month",
+      "last day of the twelfth month",
+      "year-end deadline",
+      "New Year’s Eve"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase retains a literal calendar referent even when the surrounding language treats it as a reckoning.",
+    "CreatedBy": "Codex lane C rev2 C104-120 author",
+    "WrittenUtc": "2026-07-19T14:00:00Z"
   },
   {
     "SourceTerm": "薰風自南來",
@@ -31796,6 +32047,20 @@
     "Note": "The negative comparison must retain the impossibility of naming it as a determinate thing.",
     "CreatedBy": "Codex Iriya lane B131-140 full-case author",
     "WrittenUtc": "2026-07-18T15:20:00Z"
+  },
+  {
+    "SourceTerm": "誰知席帽下、元是昔愁人",
+    "PreferredTarget": "who knew that beneath the mat hat was the formerly sorrowful man",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "who knew that beneath the mat hat was the formerly sorrowful man",
+      "mat-hat recognition",
+      "formerly sorrowful man"
+    ],
+    "Status": "preferred",
+    "Note": "The corpus preserves the recognition couplet but does not identify the “formerly sorrowful man” by a personal name.",
+    "CreatedBy": "Codex lane C rev2 C101-120 author",
+    "WrittenUtc": "2026-07-19T12:00:00Z"
   },
   {
     "SourceTerm": "調達謗佛",
@@ -35448,6 +35713,21 @@
     "WrittenUtc": "2026-07-15T19:51:09.254908+00:00"
   },
   {
+    "SourceTerm": "開眼瞌睡",
+    "PreferredTarget": "dozing with the eyes open",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "dozing with the eyes open",
+      "sleeping with eyes open",
+      "wide-awake dozing",
+      "open-eyed sleeper"
+    ],
+    "Status": "preferred",
+    "Note": "The expression describes a contradiction in responsiveness, not a medical diagnosis.",
+    "CreatedBy": "Codex lane C rev2 C111-120 author",
+    "WrittenUtc": "2026-07-19T15:00:00Z"
+  },
+  {
     "SourceTerm": "開示",
     "PreferredTarget": "to disclose or show",
     "AlternateTargets": [
@@ -37749,6 +38029,21 @@
     "Note": "Only clauses assigning that testing function support the entry; a nearby master is not substituted for an unnamed questioner.",
     "CreatedBy": "Codex post-current-investigation720 Lane B positions 6-59",
     "WrittenUtc": "2026-07-17T17:09:08.823288+00:00"
+  },
+  {
+    "SourceTerm": "驢事未了、馬事到來",
+    "PreferredTarget": "before the donkey business is finished, the horse business arrives",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "before the donkey business is finished, the horse business arrives",
+      "donkey business unfinished, horse business arrives",
+      "one thing after another",
+      "unfinished business overtaken"
+    ],
+    "Status": "preferred",
+    "Note": "The animals identify successive kinds of business in one fixed saying; the texts do not present literal stable work.",
+    "CreatedBy": "Codex lane C rev2 C104-120 author",
+    "WrittenUtc": "2026-07-19T14:00:00Z"
   },
   {
     "SourceTerm": "驢前馬後",
