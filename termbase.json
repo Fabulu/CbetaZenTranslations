@@ -892,6 +892,20 @@
     "WrittenUtc": "2026-07-15T04:45:39.893705+00:00"
   },
   {
+    "SourceTerm": "一畝之地、三蛇九鼠",
+    "PreferredTarget": "one acre of ground, three snakes and nine rats",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "three snakes and nine rats on one acre",
+      "an acre crowded with snakes and rats",
+      "small ground many vermin"
+    ],
+    "Status": "preferred",
+    "Note": "The numerical image is retained intact rather than allegorically assigning meanings the cited speakers do not state.",
+    "CreatedBy": "Codex Lane C C131-140 full-case construction",
+    "WrittenUtc": "2026-07-19T10:20:00+02:00"
+  },
+  {
     "SourceTerm": "一盲引眾盲",
     "PreferredTarget": "one blind person leads the many blind",
     "AlternateTargets": [
@@ -1634,6 +1648,20 @@
     "Note": "Beneath three rafters names the concrete monastic sitting place beneath three rafters at the long sitting platform, commonly paired with 'before the seven-foot platform. Architectural mentions of rafters without the monastic platform collocation do not establish this institutional phrase.",
     "CreatedBy": "Codex Iriya Lane B B071-B080 full-case author",
     "WrittenUtc": "2026-07-18T11:16:52.053234+00:00"
+  },
+  {
+    "SourceTerm": "三歳孩兒雖道得、八十老人行不得",
+    "PreferredTarget": "a three-year-old can say it, but an eighty-year-old cannot carry it out",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "easy to say hard to do",
+      "a child can say it an elder cannot practice it",
+      "three-year-old speech eighty-year-old action"
+    ],
+    "Status": "preferred",
+    "Note": "The entry preserves a conduct contrast stated by the case and does not convert it into a generalized age judgment.",
+    "CreatedBy": "Codex Lane C C131-140 full-case construction",
+    "WrittenUtc": "2026-07-19T10:20:00+02:00"
   },
   {
     "SourceTerm": "三段不同",
@@ -2998,6 +3026,20 @@
     "WrittenUtc": "2026-07-18T12:00:00Z"
   },
   {
+    "SourceTerm": "也好與一拶",
+    "PreferredTarget": "it would also be well to press him once",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "press him once",
+      "give one more test",
+      "apply another squeeze"
+    ],
+    "Status": "preferred",
+    "Note": "The object of the proposed press changes by case, so the entry keeps the test formula without inventing one fixed target.",
+    "CreatedBy": "Codex Lane C C131-140 full-case construction",
+    "WrittenUtc": "2026-07-19T10:20:00+02:00"
+  },
+  {
     "SourceTerm": "乾坤未剖",
     "PreferredTarget": "before heaven and earth were divided",
     "AlternateTargets": [],
@@ -3736,6 +3778,21 @@
     "WrittenUtc": "2026-07-15T10:28:15.689574+00:00"
   },
   {
+    "SourceTerm": "伏聽處分",
+    "PreferredTarget": "await disposition",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "await judgment",
+      "submit to disposition",
+      "stand for judgment",
+      "await sentence"
+    ],
+    "Status": "preferred",
+    "Note": "Disposition here is a pending judgment or disposal, not automatically a punishment; the surrounding clauses decide whether the formula is threat, verdict, or challenge.",
+    "CreatedBy": "Codex Lane C C121-125 manual full-case canary",
+    "WrittenUtc": "2026-07-19T09:05:00+02:00"
+  },
+  {
     "SourceTerm": "休去歇去",
     "PreferredTarget": "rest and cease",
     "AlternateTargets": [
@@ -4354,6 +4411,20 @@
     "Note": "Copying an existing model does not imply that the copy is accurate or approved.",
     "CreatedBy": "Codex post720 Lane A canary",
     "WrittenUtc": "2026-07-17T13:32:15.971693+00:00"
+  },
+  {
+    "SourceTerm": "依樣畫猫兒",
+    "PreferredTarget": "draw a cat by following the model",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "copy the model mechanically",
+      "imitate the pattern",
+      "trace another cat"
+    ],
+    "Status": "preferred",
+    "Note": "The target is imitative reproduction, not cats as animals or drawing as an independent art.",
+    "CreatedBy": "Codex Lane C C131-140 full-case construction",
+    "WrittenUtc": "2026-07-19T10:20:00+02:00"
   },
   {
     "SourceTerm": "依樣畫葫蘆",
@@ -5100,6 +5171,20 @@
     "Note": "The phrase need not denote a deathbed utterance.",
     "CreatedBy": "Codex post720 Lane C positions 033-058",
     "WrittenUtc": "2026-07-17T16:30:22.041434+00:00"
+  },
+  {
+    "SourceTerm": "先行不到、末後太過",
+    "PreferredTarget": "the earlier move fell short and the later move went too far",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "too early and too late",
+      "first fell short, last went too far",
+      "earlier move missed, later move overshot"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase judges two positions relative to an unstated fit; it does not identify a universal middle course.",
+    "CreatedBy": "Codex Lane C C121-125 manual full-case canary",
+    "WrittenUtc": "2026-07-19T09:05:00+02:00"
   },
   {
     "SourceTerm": "光前絶後",
@@ -9035,6 +9120,20 @@
     "WrittenUtc": "2026-07-16T12:01:41.515180+00:00"
   },
   {
+    "SourceTerm": "單提獨弄",
+    "PreferredTarget": "raise it singly and handle it alone",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "single-handed raising",
+      "independent handling",
+      "take it up without support"
+    ],
+    "Status": "preferred",
+    "Note": "The pair names one mode of independent handling; the two coordinated verbs are not split into separate senses.",
+    "CreatedBy": "Codex Lane C C131-140 full-case construction",
+    "WrittenUtc": "2026-07-19T10:20:00+02:00"
+  },
+  {
     "SourceTerm": "嗣法",
     "PreferredTarget": "inherit lineage transmission",
     "AlternateTargets": [
@@ -9406,6 +9505,20 @@
     "Note": "Other predicates retain the same rounded form while attaching different claims to it. Qianyan Yuanzhang pairs “perfectly round” with “shining and flashing,” then says “large within large, narrow within narrow.” Hongzhi Zhengjue says that the form is neither the least bit deficient nor the least bit excessive. Chunan Furong Baining Yi also criticizes a fixed reading: he says later people take “the perfectly round and shining one” as the ultimate rule, yet do not know that the Way has no fixed body and that heading toward it goes astray. His warning prevents the dictionary from converting a recurrent description into one universal abstract definition. The adverbial form occurs 15 times in 11 texts, and the exact round-and-shining pairing occurs three times in three texts.",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "圓陀陀地",
+    "PreferredTarget": "perfectly round and complete",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "round and whole",
+      "complete without lack",
+      "fully rounded"
+    ],
+    "Status": "preferred",
+    "Note": "The sources predicate round completeness of experience or functioning, not a literal circular object.",
+    "CreatedBy": "Codex Lane C C131-140 full-case construction",
+    "WrittenUtc": "2026-07-19T10:20:00+02:00"
   },
   {
     "SourceTerm": "土上加泥",
@@ -12450,6 +12563,19 @@
     "Note": "Small and great are text-drawn grades here, not two English aliases for one event.",
     "CreatedBy": "Codex investigation-next300 Lane A",
     "WrittenUtc": "2026-07-17T16:00:00Z"
+  },
+  {
+    "SourceTerm": "小慈妨大慈",
+    "PreferredTarget": "small compassion obstructs great compassion",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "minor kindness hinders greater compassion",
+      "small mercy blocks great mercy"
+    ],
+    "Status": "preferred",
+    "Note": "The records state this as a maxim and then apply it to withholding a harder test; they do not define compassion as softness in every setting.",
+    "CreatedBy": "Codex Lane C C141-145 full-case construction",
+    "WrittenUtc": "2026-07-19T13:20:00+02:00"
   },
   {
     "SourceTerm": "小魚呑大魚",
@@ -16111,6 +16237,20 @@
     "WrittenUtc": "2026-07-16T18:02:04.971521+00:00"
   },
   {
+    "SourceTerm": "掠虚頭漢",
+    "PreferredTarget": "a fellow who grabs at empty advantage",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "empty-claim grabber",
+      "borrowed-advantage fellow",
+      "one who snatches at the void"
+    ],
+    "Status": "preferred",
+    "Note": "The term attacks unsupported encounter performance, not poverty, emptiness, or virtuality as independent topics.",
+    "CreatedBy": "Codex Lane C C131-140 full-case construction",
+    "WrittenUtc": "2026-07-19T10:20:00+02:00"
+  },
+  {
     "SourceTerm": "探竿影草",
     "PreferredTarget": "probing pole and shadow grass",
     "AlternateTargets": [
@@ -17808,6 +17948,20 @@
     "WrittenUtc": "2026-07-17T13:08:19.415648+00:00"
   },
   {
+    "SourceTerm": "明修棧道、暗度陳倉",
+    "PreferredTarget": "openly repair the plank road while secretly crossing at Chencang",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "open roadwork secret crossing",
+      "public move and hidden passage",
+      "repair openly cross secretly"
+    ],
+    "Status": "preferred",
+    "Note": "Both the open repair and secret crossing are required; a generic secret action is not the headword.",
+    "CreatedBy": "Codex Lane C C131-140 full-case construction",
+    "WrittenUtc": "2026-07-19T10:20:00+02:00"
+  },
+  {
     "SourceTerm": "明心見性",
     "PreferredTarget": "become clear about mind and see nature",
     "AlternateTargets": [
@@ -19466,6 +19620,20 @@
     "WrittenUtc": "2026-07-18T15:53:06Z"
   },
   {
+    "SourceTerm": "東行不見西行利",
+    "PreferredTarget": "going east, one misses the advantage of going west",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "go east and miss the western advantage",
+      "one direction hides the other",
+      "eastward travel misses western gain"
+    ],
+    "Status": "preferred",
+    "Note": "The directional contrast criticizes restricted handling; it does not establish a rule that one compass direction is intrinsically profitable.",
+    "CreatedBy": "Codex Lane C C126-130 full-case construction",
+    "WrittenUtc": "2026-07-19T09:45:00+02:00"
+  },
+  {
     "SourceTerm": "松直棘曲",
     "PreferredTarget": "pines are straight, thorns are crooked",
     "AlternateTargets": [],
@@ -19590,6 +19758,19 @@
     "Note": "The label is not expanded into an unattested psychology of lifeless quiet.",
     "CreatedBy": "Codex post720 Lane C positions 033-058",
     "WrittenUtc": "2026-07-17T16:30:22.041434+00:00"
+  },
+  {
+    "SourceTerm": "枯木花開劫外春",
+    "PreferredTarget": "dead wood flowers in spring beyond the aeon",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "withered wood blooms in spring beyond time",
+      "dead tree flowering beyond the aeon"
+    ],
+    "Status": "preferred",
+    "Note": "The records preserve a poetic line; beyond-the-aeon is retained literally rather than converted into a chronology or abstract teaching.",
+    "CreatedBy": "Codex Lane C C141-145 full-case construction",
+    "WrittenUtc": "2026-07-19T13:20:00+02:00"
   },
   {
     "SourceTerm": "枯木裏龍吟",
@@ -25114,6 +25295,19 @@
     "WrittenUtc": "2026-07-18T07:13:49.140147Z"
   },
   {
+    "SourceTerm": "白雲抱幽石",
+    "PreferredTarget": "white clouds embrace the secluded rock",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "white clouds hold the hidden stone",
+      "clouds embrace a solitary rock"
+    ],
+    "Status": "preferred",
+    "Note": "The literal landscape image remains primary; its Chan deployment comes from answers and hall verses, not an imported symbolism for cloud or stone.",
+    "CreatedBy": "Codex Lane C C141-145 full-case construction",
+    "WrittenUtc": "2026-07-19T13:20:00+02:00"
+  },
+  {
     "SourceTerm": "白雲萬里",
     "PreferredTarget": "white clouds for ten thousand miles",
     "AlternateTargets": [
@@ -27257,6 +27451,20 @@
     "WrittenUtc": "2026-07-17T17:28:05.442634+00:00"
   },
   {
+    "SourceTerm": "空手去、空手歸",
+    "PreferredTarget": "go empty-handed and return empty-handed",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "leave with nothing and return with nothing",
+      "empty-handed both ways",
+      "no acquisition on departure or return"
+    ],
+    "Status": "preferred",
+    "Note": "The pair answers an acquisition question; neither half is treated as a separate trip or sense.",
+    "CreatedBy": "Codex Lane C C131-140 full-case construction",
+    "WrittenUtc": "2026-07-19T10:20:00+02:00"
+  },
+  {
     "SourceTerm": "空手把鉏頭",
     "PreferredTarget": "grasp a hoe with empty hands",
     "AlternateTargets": [],
@@ -27672,6 +27880,20 @@
     "Note": "Six exact witnesses plus one marked family verse cover case title, Changsha attribution, early lamp discourse, public interviews, and later commentary. Title, quotation, instruction, and question all name the same step from the same pole-top image, not different things.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": "2026-07-16T12:26:37.856302+00:00"
+  },
+  {
+    "SourceTerm": "笑我者多、哂我者少",
+    "PreferredTarget": "many laugh at me, but few sneer at me",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "many laugh, few sneer",
+      "many laugh at me",
+      "few sneer at me"
+    ],
+    "Status": "preferred",
+    "Note": "The sources state the many/few contrast but do not explain why laughter is common or why scorn is rare.",
+    "CreatedBy": "Codex Lane C C121-125 manual full-case canary",
+    "WrittenUtc": "2026-07-19T09:05:00+02:00"
   },
   {
     "SourceTerm": "第一句",
@@ -28487,6 +28709,22 @@
     "Note": "No separate Zen-technical object emerged. Ordinary inability to know what to do is bent into a recurrent public-interview report, commonly placed directly before the next action recorded in the case. Formula searches produced no corpus definition of the word; the deployment, not an imported psychological gloss, fixes the entry. Frozen-corpus concordance: 1114 exact hits in 246 storage files representing 242 independent works. Frozen-corpus concordance: 1114 exact hits in 246 storage files representing 242 independent works. Frozen-corpus concordance: 1114 exact hits in 246 storage files representing 242 independent works. Frozen-corpus concordance: 1114 exact hits in 246 storage files representing 242 independent works. Frozen-corpus concordance: 1114 exact hits in 246 storage files representing 242 independent works. Frozen-corpus concordance: 1114 exact hits in 246 storage files representing 242 independent works. Frozen-corpus concordance: 1114 exact hits in 246 storage files representing 242 independent works. Frozen-corpus concordance: 1114 exact hits in 246 storage files representing 242 independent works.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "罕逢穿耳客、多遇刻舟人",
+    "PreferredTarget": "the rare receptive listener versus common seekers fixed on a mark",
+    "AlternateTargets": [
+      "rarely meeting a pierced-ear guest, often meeting one who marks the boat"
+    ],
+    "SearchAliases": [
+      "rare is the perceptive guest, common is the boat-marker",
+      "few hear through it, many cling to the mark",
+      "pierced-ear guest and marked-boat person"
+    ],
+    "Status": "preferred",
+    "Note": "Receptive listener is the smallest corpus-grounded inference from the repeated opposition; pierced-ear guest remains the literal image, not a claim that physical ear piercing confers understanding. The marked-boat half explicitly supplies fixation on a lost position.",
+    "CreatedBy": "Codex Lane C C126-130 full-case construction",
+    "WrittenUtc": "2026-07-19T09:45:00+02:00"
   },
   {
     "SourceTerm": "罪不重科",
@@ -29802,6 +30040,20 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "若是鳳凰兒、不向那邊討",
+    "PreferredTarget": "a phoenix chick does not seek on that other side",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the phoenix chick does not look elsewhere",
+      "a true phoenix does not seek over there",
+      "phoenix offspring needs no outside search"
+    ],
+    "Status": "preferred",
+    "Note": "The saying refuses displaced seeking in a live exchange; it does not make the phoenix a general symbol detached from that grammatical action.",
+    "CreatedBy": "Codex Lane C C126-130 full-case construction",
+    "WrittenUtc": "2026-07-19T09:45:00+02:00"
+  },
+  {
     "SourceTerm": "苦瓠連根苦、甜瓜徹蒂甜",
     "PreferredTarget": "bitter to the root and sweet through the stem",
     "AlternateTargets": [],
@@ -30438,6 +30690,20 @@
     "Note": "9 reviewed witnesses delimit this sense.",
     "CreatedBy": "Codex f003 Lane B evidence-first",
     "WrittenUtc": "2026-07-15T05:37:12.429465+00:00"
+  },
+  {
+    "SourceTerm": "藏身無路",
+    "PreferredTarget": "no road on which to hide the body",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "nowhere to hide",
+      "no route for concealment",
+      "the body has no hiding road"
+    ],
+    "Status": "preferred",
+    "Note": "The body is the exposed participant in an encounter, not a separate metaphysical body posited by the entry.",
+    "CreatedBy": "Codex Lane C C131-140 full-case construction",
+    "WrittenUtc": "2026-07-19T10:20:00+02:00"
   },
   {
     "SourceTerm": "藏身露影",
@@ -31125,6 +31391,20 @@
     "WrittenUtc": "2026-07-18T20:20:00Z"
   },
   {
+    "SourceTerm": "西天令嚴",
+    "PreferredTarget": "the command in the Western Heaven is strict",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the Western-Heaven command is strict",
+      "strict command from the west",
+      "Western Heaven decree"
+    ],
+    "Status": "preferred",
+    "Note": "The records do not state a statute or enumerate its provisions; the entry therefore keeps the command image without inventing a hidden rule.",
+    "CreatedBy": "Codex Lane C C121-125 manual full-case canary",
+    "WrittenUtc": "2026-07-19T09:05:00+02:00"
+  },
+  {
     "SourceTerm": "西天四七",
     "PreferredTarget": "the twenty-eight Indian patriarchs",
     "AlternateTargets": [],
@@ -31278,6 +31558,20 @@
     "Note": "The full contrast is retained, and quoted origin is separated from current utterer.",
     "CreatedBy": "Codex post720 Lane C positions 033-058",
     "WrittenUtc": "2026-07-17T16:30:22.041434+00:00"
+  },
+  {
+    "SourceTerm": "見機而變",
+    "PreferredTarget": "to change when one sees the situation",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "adapt to the situation",
+      "change upon seeing the cue",
+      "respond to changing conditions"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase denotes situational adaptation; the corpus refuses to treat adaptation alone as proof that the response was carried through.",
+    "CreatedBy": "Codex Lane C C126-130 full-case construction",
+    "WrittenUtc": "2026-07-19T09:45:00+02:00"
   },
   {
     "SourceTerm": "見神見鬼",
@@ -36115,6 +36409,21 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "阿轆轆地",
+    "PreferredTarget": "rolling and turning freely",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "rolling freely",
+      "turning freely",
+      "rolling readily",
+      "quickly turning"
+    ],
+    "Status": "preferred",
+    "Note": "The rolling image is grammatical and figurative in these passages; none describes a literal wheel or ball.",
+    "CreatedBy": "Codex Lane C C121-125 manual full-case canary",
+    "WrittenUtc": "2026-07-19T09:05:00+02:00"
+  },
+  {
     "SourceTerm": "阿那箇",
     "PreferredTarget": "which one?",
     "AlternateTargets": [
@@ -36967,6 +37276,20 @@
     "Note": "#0g deviation: this is not merely bamboo scenery. It functions as the fixed opening of a proposition repeatedly affirmed, denied, questioned, and commented on by Chan teachers. The paired phrase “luxuriant yellow flowers” (鬱鬱黃花) has 64 hits in 45 texts. Exact “verdant green bamboo is entirely the body of reality” (青青翠竹盡是法身) has 23 hits in 17 texts. Headword count: 23 hits in 17 texts. “True-as-is” and “body of reality” translate the two attested predicates without adding a definition beyond these recorded predicates.",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "靜悄悄地",
+    "PreferredTarget": "utterly quiet and still",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "completely silent",
+      "perfectly still",
+      "quiet without a sound"
+    ],
+    "Status": "preferred",
+    "Note": "The expression describes emphatic silence and stillness, while the corpus repeatedly warns against taking that condition as sufficient.",
+    "CreatedBy": "Codex Lane C C126-130 full-case construction",
+    "WrittenUtc": "2026-07-19T09:45:00+02:00"
   },
   {
     "SourceTerm": "非干我事",
