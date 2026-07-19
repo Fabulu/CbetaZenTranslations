@@ -362,6 +362,23 @@
     "WrittenUtc": "2026-07-18T08:01:11.277687Z"
   },
   {
+    "SourceTerm": "一場敗缺",
+    "PreferredTarget": "a complete display of failure",
+    "AlternateTargets": [
+      "one thoroughgoing defeat",
+      "an exposure of the whole performance"
+    ],
+    "SearchAliases": [
+      "complete failure exposed",
+      "thorough defeat",
+      "performance laid bare"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase is an evaluative verdict, not a report that a historical battle occurred.",
+    "CreatedBy": "Codex cohort-002 lane-A 51-100 strict author",
+    "WrittenUtc": "2026-07-18T22:51:06.939290Z"
+  },
+  {
     "SourceTerm": "一場漏逗",
     "PreferredTarget": "a complete display of leakage",
     "AlternateTargets": [],
@@ -1171,6 +1188,23 @@
     "Note": "The phrase marks blunt exactness—one stated as one, two set down as two—yet the records refuse to freeze there. Xianjie gives it as a clipped answer; Xinyue alternates it with throwing two and three; Yezhu meets it by taking three as three; Chunbeide calls both formulations provisional.",
     "CreatedBy": "Codex A31-40 strict author",
     "WrittenUtc": "2026-07-19T09:00:00Z"
+  },
+  {
+    "SourceTerm": "七事隨身",
+    "PreferredTarget": "equipped with all seven requisites",
+    "AlternateTargets": [
+      "the seven requisites ready at hand",
+      "fully equipped for the encounter"
+    ],
+    "SearchAliases": [
+      "seven requisites at hand",
+      "fully equipped Chan adept",
+      "ready on every side"
+    ],
+    "Status": "preferred",
+    "Note": "The records use a conventional set of seven as a compact readiness image; they do not enumerate seven physical possessions in these occurrences.",
+    "CreatedBy": "Codex cohort-002 lane-A 51-100 strict author",
+    "WrittenUtc": "2026-07-18T22:37:49.105210Z"
   },
   {
     "SourceTerm": "七佛",
@@ -3002,6 +3036,20 @@
     "WrittenUtc": "2026-07-17T17:18:50.250413+00:00"
   },
   {
+    "SourceTerm": "五戒不持",
+    "PreferredTarget": "not keeping the five precepts",
+    "AlternateTargets": [
+      "failing to observe the five precepts"
+    ],
+    "SearchAliases": [
+      "not keeping the five precepts"
+    ],
+    "Status": "preferred",
+    "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one explicit non-observance charge deployed literally and provocatively.",
+    "CreatedBy": "Codex cohort-002 lane-A 61-70 full-case author",
+    "WrittenUtc": "2026-07-18T23:21:12.323729Z"
+  },
+  {
     "SourceTerm": "五湖衲子",
     "PreferredTarget": "patch-robed monks of the five lakes",
     "AlternateTargets": [
@@ -3163,6 +3211,22 @@
     "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:51:25.427221+00:00"
+  },
+  {
+    "SourceTerm": "人平不語、水平不流",
+    "PreferredTarget": "the paired formula: a settled person does not speak and level water does not flow",
+    "AlternateTargets": [
+      "when a person is settled there is no speech, as level water does not flow"
+    ],
+    "SearchAliases": [
+      "person at peace silent",
+      "level water does not flow",
+      "settled stillness"
+    ],
+    "Status": "preferred",
+    "Note": "The pair presents stillness through balanced human and water clauses; it does not assert that silence is universally superior.",
+    "CreatedBy": "Codex cohort-002 lane-A 51-100 strict author",
+    "WrittenUtc": "2026-07-18T22:31:40.107261Z"
   },
   {
     "SourceTerm": "人從橋上過、橋流水不流",
@@ -5310,6 +5374,23 @@
     "WrittenUtc": "2026-07-18T07:41:38.276991+00:00"
   },
   {
+    "SourceTerm": "兩鏡相照",
+    "PreferredTarget": "two mirrors illuminating one another",
+    "AlternateTargets": [
+      "two mirrors facing and reflecting each other",
+      "mutual illumination between two mirrors"
+    ],
+    "SearchAliases": [
+      "two facing mirrors",
+      "mutual mirror reflection",
+      "image between mirrors"
+    ],
+    "Status": "preferred",
+    "Note": "The image is relational: the records test what appears between reflecting parties rather than defining mirrors in isolation.",
+    "CreatedBy": "Codex cohort-002 lane-A 51-100 strict author",
+    "WrittenUtc": "2026-07-18T22:56:39.855431Z"
+  },
+  {
     "SourceTerm": "八十翁翁入場屋",
     "PreferredTarget": "an eighty-year-old man entering the examination hall",
     "AlternateTargets": [
@@ -5761,6 +5842,23 @@
     "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
   },
   {
+    "SourceTerm": "出身猶可易、脱體道應難",
+    "PreferredTarget": "getting the body out may still be easy—saying it with the whole body should be hard",
+    "AlternateTargets": [
+      "showing an emergence is easier than voicing total freedom",
+      "coming forth is relatively easy; expressing complete release is hard"
+    ],
+    "SearchAliases": [
+      "emergence easy complete release hard",
+      "speaking from total freedom",
+      "coming forth versus full release"
+    ],
+    "Status": "preferred",
+    "Note": "The records preserve a paired comparison between getting the body out and saying it with the whole body; the entry does not assign technical stages to either half.",
+    "CreatedBy": "Codex cohort-002 lane-A 51-100 strict author",
+    "WrittenUtc": "2026-07-19T00:47:56.109240Z"
+  },
+  {
     "SourceTerm": "出身處",
     "PreferredTarget": "a point of emergence from a bind",
     "AlternateTargets": [
@@ -6011,6 +6109,20 @@
     "WrittenUtc": "2026-07-15T01:47:00.025684+00:00"
   },
   {
+    "SourceTerm": "前箭猶輕後箭深",
+    "PreferredTarget": "the deeper later arrow",
+    "AlternateTargets": [
+      "the first arrow is still light; the later arrow goes deep"
+    ],
+    "SearchAliases": [
+      "the deeper later arrow"
+    ],
+    "Status": "preferred",
+    "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one two-arrow comparison used to rank consecutive sayings.",
+    "CreatedBy": "Codex cohort-002 lane-A 71-80 full-case author",
+    "WrittenUtc": "2026-07-18T23:33:51.531430Z"
+  },
+  {
     "SourceTerm": "前輩尊宿",
     "PreferredTarget": "a venerable predecessor",
     "AlternateTargets": [],
@@ -6065,6 +6177,20 @@
     "Note": "The image condemns making a wound where flesh was sound—that is, creating unnecessary trouble by an added move.",
     "CreatedBy": "Codex Iriya lane C121-130 full-case author",
     "WrittenUtc": "2026-07-18T23:55:00Z"
+  },
+  {
+    "SourceTerm": "劈腹剜心",
+    "PreferredTarget": "split the belly and gouge out the heart",
+    "AlternateTargets": [
+      "open the belly and cut out the heart"
+    ],
+    "SearchAliases": [
+      "split the belly and gouge out the heart"
+    ],
+    "Status": "preferred",
+    "Note": "All ten packet cases were read; six work-distinct witnesses were retained for the paired belly-splitting and heart-gouging actions in inherited appraisal and later direct use.",
+    "CreatedBy": "Codex cohort-002 lane-A 61-70 full-case author",
+    "WrittenUtc": "2026-07-19T00:47:56.109240Z"
   },
   {
     "SourceTerm": "劈面",
@@ -7143,6 +7269,37 @@
     "WrittenUtc": "2026-07-15T04:52:26.825273+00:00"
   },
   {
+    "SourceTerm": "口似匾擔",
+    "PreferredTarget": "with a mouth flat as a carrying pole",
+    "AlternateTargets": [
+      "left flat-mouthed",
+      "unable to answer, mouth rigid as a shoulder pole"
+    ],
+    "SearchAliases": [
+      "mouth like carrying pole",
+      "left unable to answer",
+      "flat-mouthed Chan rebuke"
+    ],
+    "Status": "preferred",
+    "Note": "The pole supplies the mouth comparison; the phrase does not describe anatomical shape.",
+    "CreatedBy": "Codex cohort-002 lane-A 51-100 strict author",
+    "WrittenUtc": "2026-07-19T00:47:56.109240Z"
+  },
+  {
+    "SourceTerm": "口似磉盤",
+    "PreferredTarget": "mouth like a stone plinth",
+    "AlternateTargets": [
+      "a mouth resembling a stone foundation"
+    ],
+    "SearchAliases": [
+      "mouth like a stone plinth"
+    ],
+    "Status": "preferred",
+    "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one stone-plinth mouth simile across self-description, answer, and verse.",
+    "CreatedBy": "Codex cohort-002 lane-A 61-70 full-case author",
+    "WrittenUtc": "2026-07-19T00:47:56.109240Z"
+  },
+  {
     "SourceTerm": "口似血盆",
     "PreferredTarget": "a mouth like a basin of blood",
     "AlternateTargets": [
@@ -7494,6 +7651,20 @@
     "Note": "Sounds of one kind answer each other, and shared breath or temper seeks its own kind.",
     "CreatedBy": "Codex cohort-002 lane-B B151-B160 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
+  },
+  {
+    "SourceTerm": "同道方知",
+    "PreferredTarget": "only one on the same road knows",
+    "AlternateTargets": [
+      "only a fellow of the way knows"
+    ],
+    "SearchAliases": [
+      "only one on the same road knows"
+    ],
+    "Status": "preferred",
+    "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one shared-road recognition formula across answers and hall comments.",
+    "CreatedBy": "Codex cohort-002 lane-A 61-70 full-case author",
+    "WrittenUtc": "2026-07-18T23:21:12.440368Z"
   },
   {
     "SourceTerm": "同道者方知",
@@ -9235,6 +9406,23 @@
     "WrittenUtc": "2026-07-15T04:04:40.471839+00:00"
   },
   {
+    "SourceTerm": "堆山積嶽",
+    "PreferredTarget": "piled as high as mountains and great peaks",
+    "AlternateTargets": [
+      "heaped mountain upon mountain",
+      "accumulated into immense masses"
+    ],
+    "SearchAliases": [
+      "piled like mountains",
+      "enormous accumulation",
+      "heaped into great peaks"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase describes magnitude and density of accumulation; its object must be supplied by the local sentence.",
+    "CreatedBy": "Codex cohort-002 lane-A 51-100 strict author",
+    "WrittenUtc": "2026-07-18T22:40:17.341431Z"
+  },
+  {
     "SourceTerm": "堯舜",
     "PreferredTarget": "Yao and Shun",
     "AlternateTargets": [
@@ -9634,6 +9822,20 @@
     "Note": "170 exact hits in 95 independent works; 7 selected exact witnesses are stored.",
     "CreatedBy": "Codex Lane A evidence-first calibration",
     "WrittenUtc": "2026-07-17T08:58:55.483120+00:00"
+  },
+  {
+    "SourceTerm": "大巧若拙",
+    "PreferredTarget": "great skill seems clumsy",
+    "AlternateTargets": [
+      "great dexterity resembles clumsiness"
+    ],
+    "SearchAliases": [
+      "great skill seems clumsy"
+    ],
+    "Status": "preferred",
+    "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one skill-and-appearance reversal in questions, comments, and verses.",
+    "CreatedBy": "Codex cohort-002 lane-A 61-70 full-case author",
+    "WrittenUtc": "2026-07-19T00:47:56.109240Z"
   },
   {
     "SourceTerm": "大徹大悟",
@@ -12734,6 +12936,20 @@
     "WrittenUtc": "2026-07-17T03:30:00Z"
   },
   {
+    "SourceTerm": "形直影端",
+    "PreferredTarget": "when the form is straight, the shadow is upright",
+    "AlternateTargets": [
+      "straight form, upright shadow"
+    ],
+    "SearchAliases": [
+      "when the form is straight, the shadow is upright"
+    ],
+    "Status": "preferred",
+    "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one form-and-shadow correspondence used affirmatively and contrastively.",
+    "CreatedBy": "Codex cohort-002 lane-A 61-70 full-case author",
+    "WrittenUtc": "2026-07-18T23:21:12.508195Z"
+  },
+  {
     "SourceTerm": "律儀",
     "PreferredTarget": "disciplinary rules and regulated conduct",
     "AlternateTargets": [
@@ -14934,6 +15150,20 @@
     "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
   },
   {
+    "SourceTerm": "拏雲攫霧",
+    "PreferredTarget": "seize clouds and clutch mist",
+    "AlternateTargets": [
+      "grasp clouds and snatch mist"
+    ],
+    "SearchAliases": [
+      "seize clouds and clutch mist"
+    ],
+    "Status": "preferred",
+    "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one cloud-grasping image with several explicitly named bearers.",
+    "CreatedBy": "Codex cohort-002 lane-A 61-70 full-case author",
+    "WrittenUtc": "2026-07-18T23:21:12.545053Z"
+  },
+  {
     "SourceTerm": "拖死屍",
     "PreferredTarget": "drag a dead corpse",
     "AlternateTargets": [
@@ -15322,6 +15552,20 @@
     "WrittenUtc": "2026-07-15T04:06:26.730577+00:00"
   },
   {
+    "SourceTerm": "描不成、畫不就",
+    "PreferredTarget": "cannot be traced, cannot be drawn",
+    "AlternateTargets": [
+      "impossible to depict or paint"
+    ],
+    "SearchAliases": [
+      "cannot be traced, cannot be drawn"
+    ],
+    "Status": "preferred",
+    "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one paired denial of pictorial completion across quotation and direct answers.",
+    "CreatedBy": "Codex cohort-002 lane-A 61-70 full-case author",
+    "WrittenUtc": "2026-07-18T23:21:12.406910Z"
+  },
+  {
     "SourceTerm": "提婆宗",
     "PreferredTarget": "the Deva school",
     "AlternateTargets": [
@@ -15479,6 +15723,20 @@
     "Note": "The exact phrase occurs in 45 allowlisted texts, concentrated in later discourse records and case comments. Attested agents include a named Chan figure's reply, rewritten words, landscape, sounds, written characters, and a case question. No in-corpus occurrence defines a physical operation.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-15T13:00:00Z"
+  },
+  {
+    "SourceTerm": "換手搥胸",
+    "PreferredTarget": "change hands and beat the chest",
+    "AlternateTargets": [
+      "switch hands to pound the chest"
+    ],
+    "SearchAliases": [
+      "change hands and beat the chest"
+    ],
+    "Status": "preferred",
+    "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one repeated chest-beating lament image across answers and verses.",
+    "CreatedBy": "Codex cohort-002 lane-A 61-70 full-case author",
+    "WrittenUtc": "2026-07-18T23:21:12.373381Z"
   },
   {
     "SourceTerm": "摩尼珠",
@@ -17150,6 +17408,22 @@
     "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:51:23.578215+00:00"
+  },
+  {
+    "SourceTerm": "更參三十年",
+    "PreferredTarget": "investigate for another thirty years",
+    "AlternateTargets": [
+      "thirty more years of inquiry are needed"
+    ],
+    "SearchAliases": [
+      "another thirty years",
+      "keep investigating",
+      "not yet understood"
+    ],
+    "Status": "preferred",
+    "Note": "The formula refuses premature closure and sends the addressee back to sustained inquiry for another thirty years. Miaowei rejects Baohua's closure with thirty more years; an old-case comment sends the reader back to inquiry; Yunmen's quoted challenge does the same beyond a conceptual limit; a poem admonishes Wen Shangren with it.",
+    "CreatedBy": "Codex cohort-002 lane-A 41-50 strict author",
+    "WrittenUtc": "2026-07-18T21:03:28Z"
   },
   {
     "SourceTerm": "更進一步",
@@ -22599,6 +22873,22 @@
     "Note": "Exact count: 47 hits in 33 allowlisted texts. Family research covered the woodcutter, rotted axe/handle, chess game, lost road, Lanke person, and the separate Mount Lanke place-name. The allusion and the mountain are different referents and are split.",
     "CreatedBy": "Codex f002 Lane C worksheet-first author",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "爛泥裏有刺",
+    "PreferredTarget": "there is a thorn in the mud",
+    "AlternateTargets": [
+      "the yielding surface conceals a sharp point"
+    ],
+    "SearchAliases": [
+      "thorn in mud",
+      "hidden sharpness",
+      "soft surface danger"
+    ],
+    "Status": "preferred",
+    "Note": "The image warns that an apparently yielding or messy situation still contains a sharp point that catches careless handling. Dahui warns that Linji's expedients retain a point; he gives the image as a dialogue answer; the Lingshan master embeds it in a judgment on Qianfeng; the Sanfeng master uses it to warn about Guishan's laugh.",
+    "CreatedBy": "Codex cohort-002 lane-A 41-50 strict author",
+    "WrittenUtc": "2026-07-18T21:03:28Z"
   },
   {
     "SourceTerm": "父慈子孝",
@@ -29588,6 +29878,20 @@
     "WrittenUtc": "2026-07-18T21:03:28Z"
   },
   {
+    "SourceTerm": "見兎放鷹",
+    "PreferredTarget": "release the hawk on seeing a rabbit",
+    "AlternateTargets": [
+      "on sighting the rabbit, loose the hawk"
+    ],
+    "SearchAliases": [
+      "release the hawk on seeing a rabbit"
+    ],
+    "Status": "preferred",
+    "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one timed-release image in appraisals and hall addresses.",
+    "CreatedBy": "Codex cohort-002 lane-A 71-80 full-case author",
+    "WrittenUtc": "2026-07-18T23:33:51.464848Z"
+  },
+  {
     "SourceTerm": "見性",
     "PreferredTarget": "to see one's nature",
     "AlternateTargets": [
@@ -32480,6 +32784,24 @@
     "WrittenUtc": "2026-07-17T17:05:39.542128+00:00"
   },
   {
+    "SourceTerm": "道不虚行",
+    "PreferredTarget": "the Way does not proceed in vain",
+    "AlternateTargets": [
+      "the Way does not travel in vain",
+      "the Way operates only when conditions meet"
+    ],
+    "SearchAliases": [
+      "the Way does not proceed in vain",
+      "Way responds to conditions",
+      "teaching does not arise in vain",
+      "Way finds a fitting path"
+    ],
+    "Status": "preferred",
+    "Note": "Here the negative element denies groundless or fruitless operation; it does not claim that a metaphysical entity literally travels.",
+    "CreatedBy": "Codex cohort-002 lane-A 51-100 strict author",
+    "WrittenUtc": "2026-07-18T22:54:48.107235Z"
+  },
+  {
     "SourceTerm": "道中人",
     "PreferredTarget": "person of the Way",
     "AlternateTargets": [
@@ -32725,6 +33047,23 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "邯鄲學唐歩",
+    "PreferredTarget": "learning another’s gait at Handan",
+    "AlternateTargets": [
+      "imitating the Handan walk",
+      "copying another’s step and losing one’s own"
+    ],
+    "SearchAliases": [
+      "Handan gait imitation",
+      "copying another’s walk",
+      "losing one’s own step"
+    ],
+    "Status": "preferred",
+    "Note": "The entry preserves the proverb’s gait-learning scene; the Chan uses target derivative performance, not travel to the historical city.",
+    "CreatedBy": "Codex cohort-002 lane-A 51-100 strict author",
+    "WrittenUtc": "2026-07-18T22:45:58.065383Z"
+  },
+  {
     "SourceTerm": "邯鄲學步",
     "PreferredTarget": "to imitate the gait of Handan",
     "AlternateTargets": [],
@@ -32915,6 +33254,20 @@
     "Note": "7 distinct work IDs selected after complete-context review.",
     "CreatedBy": "Codex f004 lane B bulk evidence-first author",
     "WrittenUtc": "2026-07-15T10:28:15.689574+00:00"
+  },
+  {
+    "SourceTerm": "野狐精魅",
+    "PreferredTarget": "wild-fox sprites",
+    "AlternateTargets": [
+      "wild-fox spirits and phantoms"
+    ],
+    "SearchAliases": [
+      "wild-fox sprites"
+    ],
+    "Status": "preferred",
+    "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one creature-insult in one transmitted Linji address.",
+    "CreatedBy": "Codex cohort-002 lane-A 61-70 full-case author",
+    "WrittenUtc": "2026-07-18T23:21:12.292289Z"
   },
   {
     "SourceTerm": "野狐話",
@@ -33278,6 +33631,22 @@
     "Note": "The image names exact affinity: teacher, student, word, and circumstance meet as precisely as a needle and mustard seed.",
     "CreatedBy": "Codex Iriya construction cohort 001 lane C positions 44-50",
     "WrittenUtc": "2026-07-18T09:07:50.144655Z"
+  },
+  {
+    "SourceTerm": "釣魚船上謝三郎",
+    "PreferredTarget": "Xie Sanlang on the fishing boat",
+    "AlternateTargets": [
+      "fisherman Xie Sanlang aboard his boat"
+    ],
+    "SearchAliases": [
+      "Xie Sanlang",
+      "fishing boat adept",
+      "fisherman on the boat"
+    ],
+    "Status": "preferred",
+    "Note": "The name-and-setting formula is retained as an encounter image; the evidence does not establish a historical biography for Xie Sanlang.",
+    "CreatedBy": "Codex cohort-002 lane-A 51-100 strict author",
+    "WrittenUtc": "2026-07-18T22:28:54.399105Z"
   },
   {
     "SourceTerm": "鈍置殺人",
