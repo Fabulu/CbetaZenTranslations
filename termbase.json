@@ -5716,6 +5716,20 @@
     "WrittenUtc": "2026-07-18T22:56:39.855431Z"
   },
   {
+    "SourceTerm": "八兩半斤",
+    "PreferredTarget": "eight ounces, half a catty",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "half a catty, eight ounces",
+      "equal weight",
+      "six of one, half a dozen of the other"
+    ],
+    "Status": "preferred",
+    "Note": "In the traditional weight relation, eight ounces make half a catty. The retained records themselves invoke scales, fixed price, balance markers, and equal heaviness.",
+    "CreatedBy": "Codex Lane C C146-150 full-case construction",
+    "WrittenUtc": "2026-07-19T05:49:26.266688+00:00"
+  },
+  {
     "SourceTerm": "八十翁翁入場屋",
     "PreferredTarget": "an eighty-year-old man entering the examination hall",
     "AlternateTargets": [
@@ -7735,6 +7749,19 @@
     "Note": "Fixed bodily verdict, “the mouth resembles a nostril.” It answers the request for a leak-proof sentence and is separately offered as an all-covering answer before being tested.",
     "CreatedBy": "Codex cohort-002 lane-B B081-B090 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
+  },
+  {
+    "SourceTerm": "口只堪喫飯",
+    "PreferredTarget": "the mouth is fit only for eating rice",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a mouth good only for eating",
+      "the mouth can only eat meals"
+    ],
+    "Status": "preferred",
+    "Note": "The final graph is rendered as rice or a meal; the records use the phrase both as a direct answer and as a verdict on failed speech.",
+    "CreatedBy": "Codex Lane C C146-150 full-case construction",
+    "WrittenUtc": "2026-07-19T05:49:26.266688+00:00"
   },
   {
     "SourceTerm": "口如匾擔",
@@ -12733,6 +12760,20 @@
     "Note": "The frozen corpus has 2,487 exact hits in 333 files representing 329 works. Eight anchors span direct replies, questions, sermon statements, cited cases, and later commentary across independent works.",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "山花開似錦、澗水湛如藍",
+    "PreferredTarget": "mountain flowers open like brocade and ravine water is deep blue like indigo",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "mountain flowers like brocade",
+      "ravine water blue as indigo",
+      "mountain flowers and blue stream"
+    ],
+    "Status": "preferred",
+    "Note": "The records keep the landscape literal even when speakers deploy it as answer, question, or opening line; they do not make flower, brocade, water, or indigo into fixed symbols.",
+    "CreatedBy": "Codex Lane C C146-150 full-case construction",
+    "WrittenUtc": "2026-07-19T05:49:26.266688+00:00"
   },
   {
     "SourceTerm": "山門",
@@ -24195,6 +24236,19 @@
     "WrittenUtc": "2026-07-15T14:06:41.045212+00:00"
   },
   {
+    "SourceTerm": "物見主、眼卓竪",
+    "PreferredTarget": "when the thing sees its master, the eyes stand erect",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the thing meets its master and the eyes stand up",
+      "object sees owner, eyes stand erect"
+    ],
+    "Status": "preferred",
+    "Note": "The first noun is retained as 'the thing' because the corpus does not replace it with a more specific object; the second clause describes the eyes visibly standing erect.",
+    "CreatedBy": "Codex Lane C C146-150 full-case construction",
+    "WrittenUtc": "2026-07-19T05:49:26.266688+00:00"
+  },
+  {
     "SourceTerm": "特地一場愁",
     "PreferredTarget": "a whole spell of sorrow for nothing",
     "AlternateTargets": [],
@@ -28598,6 +28652,21 @@
     "Note": "The idiom marks pursuing an object by means incapable of attaining it.",
     "CreatedBy": "Codex Iriya lane C101-110 full-case author",
     "WrittenUtc": "2026-07-18T21:30:00Z"
+  },
+  {
+    "SourceTerm": "縮却舌頭",
+    "PreferredTarget": "draw back the tongue",
+    "AlternateTargets": [
+      "pull in the tongue"
+    ],
+    "SearchAliases": [
+      "be left unable to speak",
+      "hold your tongue"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase names a physical speech-organ action and, in these records, an inability or command to continue speaking; those are one governed action rather than separate senses.",
+    "CreatedBy": "Codex Lane C C141-145 full-case construction",
+    "WrittenUtc": "2026-07-19T13:20:00+02:00"
   },
   {
     "SourceTerm": "縱奪",
@@ -35196,6 +35265,19 @@
     "WrittenUtc": "2026-07-15T15:28:02.993665+00:00"
   },
   {
+    "SourceTerm": "金烏急、玉兎速",
+    "PreferredTarget": "the golden crow hastens and the jade hare speeds",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "golden crow swift, jade hare fast",
+      "sun-crow hastens and moon-hare speeds"
+    ],
+    "Status": "preferred",
+    "Note": "The paired traditional names are translated literally and identified through the records' own light/dark and east/west motion; the entry adds no outside cosmological system.",
+    "CreatedBy": "Codex Lane C C146-150 full-case construction",
+    "WrittenUtc": "2026-07-19T05:49:26.266688+00:00"
+  },
+  {
     "SourceTerm": "金牛飯",
     "PreferredTarget": "Jinniu’s rice",
     "AlternateTargets": [],
@@ -35912,6 +35994,19 @@
     "Note": "Shishuang Chuyuan says, ‘though Chang’an is pleasant, it is not a place to stay long.’ Jue’an Kexiang, Poshan Haiming, and Baichi Xingyuan use the same proverb in addresses and interviews. Dahui Zonggao quotes Shishuang’s line and adds his own verse afterward; the proverb remains Shishuang’s utterance.",
     "CreatedBy": "Codex cohort002 lane C C71-100 full-case packet author",
     "WrittenUtc": "2026-07-19T02:00:29.778189+00:00"
+  },
+  {
+    "SourceTerm": "長憶江南三月裏、鷓鴣啼處百花香",
+    "PreferredTarget": "I long remember Jiangnan in the third month, where amid partridge cries all the flowers are fragrant",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "remembering Jiangnan in March",
+      "partridges call where all flowers are fragrant"
+    ],
+    "Status": "preferred",
+    "Note": "The couplet is retained as one answer unit; the records do not reduce its remembered landscape to fixed conceptual equivalents.",
+    "CreatedBy": "Codex Lane C C141-145 full-case construction",
+    "WrittenUtc": "2026-07-19T13:20:00+02:00"
   },
   {
     "SourceTerm": "長老",
