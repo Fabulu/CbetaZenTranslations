@@ -251,6 +251,23 @@
     "WrittenUtc": "2026-07-16T12:23:20.487102+00:00"
   },
   {
+    "SourceTerm": "一句作麼生道",
+    "PreferredTarget": "how would you state the one phrase?",
+    "AlternateTargets": [
+      "how do you say the single phrase?",
+      "what is the one decisive saying?"
+    ],
+    "SearchAliases": [
+      "how would you state the one phrase?",
+      "how do you say the single phrase?",
+      "what is the one decisive saying?"
+    ],
+    "Status": "preferred",
+    "Note": "The words do not ask for a dictionary paraphrase: in the hall they require an answer now, and the reply or action that follows becomes part of the case. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:06.489510+00:00"
+  },
+  {
     "SourceTerm": "一句合頭語",
     "PreferredTarget": "one phrase that fits the head",
     "AlternateTargets": [
@@ -367,6 +384,23 @@
     "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:51:16.010993+00:00"
+  },
+  {
+    "SourceTerm": "一圓相",
+    "PreferredTarget": "a single circle",
+    "AlternateTargets": [
+      "one circular figure",
+      "a circle-sign"
+    ],
+    "SearchAliases": [
+      "a single circle",
+      "one circular figure",
+      "a circle-sign"
+    ],
+    "Status": "preferred",
+    "Note": "The circle is not passive decoration: its making and alteration become moves in the public case, with authority residing in what is done with the figure. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:09.731852+00:00"
   },
   {
     "SourceTerm": "一坐具地",
@@ -1809,6 +1843,23 @@
     "WrittenUtc": "2026-07-15T18:59:02.906491+00:00"
   },
   {
+    "SourceTerm": "三日耳聾",
+    "PreferredTarget": "deaf for three days",
+    "AlternateTargets": [
+      "three days of deafness",
+      "ears deafened for three days"
+    ],
+    "SearchAliases": [
+      "deaf for three days",
+      "three days of deafness",
+      "ears deafened for three days"
+    ],
+    "Status": "preferred",
+    "Note": "The bodily effect becomes the case's verdict on the force of the record's shout, repeatedly carried into later interviews rather than treated as medical history. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:09.731852+00:00"
+  },
+  {
     "SourceTerm": "三昧",
     "PreferredTarget": "complete command",
     "AlternateTargets": [
@@ -2087,6 +2138,23 @@
     "WrittenUtc": "2026-07-16T18:11:11.375843+00:00"
   },
   {
+    "SourceTerm": "三頓棒",
+    "PreferredTarget": "three beatings with the staff",
+    "AlternateTargets": [
+      "three rounds of blows",
+      "three staff-beatings"
+    ],
+    "SearchAliases": [
+      "three beatings with the staff",
+      "three rounds of blows",
+      "three staff-beatings"
+    ],
+    "Status": "preferred",
+    "Note": "The staff is the recorded respondent's public implement of command; counting three beatings turns the action into a recognizable case marker rather than a generic mention of violence. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:09.731852+00:00"
+  },
+  {
     "SourceTerm": "三頭六臂",
     "PreferredTarget": "three heads and six arms",
     "AlternateTargets": [],
@@ -2097,6 +2165,23 @@
     "Note": "Three heads and six arms figures extraordinary, many-sided power or capability.",
     "CreatedBy": "Codex Lane B B101-B105 full-case author",
     "WrittenUtc": "2026-07-18T15:00:00+00:00"
+  },
+  {
+    "SourceTerm": "上三十三天",
+    "PreferredTarget": "to ascend to the Heaven of the Thirty-three",
+    "AlternateTargets": [
+      "go up to the Thirty-third Heaven",
+      "rise to Trāyastriṃśa Heaven"
+    ],
+    "SearchAliases": [
+      "to ascend to the Heaven of the Thirty-three",
+      "go up to the Thirty-third Heaven",
+      "rise to Trāyastriṃśa Heaven"
+    ],
+    "Status": "preferred",
+    "Note": "Zen uses the cosmological height as a direction tested and overturned in public speech, not as a travel instruction or promised destination. The sense has 7 exact occurrences in 7 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:07.848387+00:00"
   },
   {
     "SourceTerm": "上供",
@@ -2212,6 +2297,19 @@
     "Note": "Frozen-corpus concordance: 13230 exact hits in 407 storage files representing 401 independent works.Frozen-corpus concordance: 13230 exact hits in 407 storage files representing 401 independent works. A separate rare nominal use for the lower of two seating positions is split below. The nested expression “lower-seat phrase” is a longer lexical object and does not define this action. Frozen-corpus concordance: 13230 exact hits in 407 storage files representing 401 independent works. Frozen-corpus concordance: 13230 exact hits in 407 storage files representing 401 independent works. Frozen-corpus concordance: 13230 exact hits in 407 storage files representing 401 independent works.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": "2026-07-13T21:18:00Z"
+  },
+  {
+    "SourceTerm": "下手處",
+    "PreferredTarget": "the point where one can get a hand in",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the point where one can get a hand in",
+      "a place to get one’s hand in"
+    ],
+    "Status": "preferred",
+    "Note": "The place to get a hand in is the practical point of entry repeatedly demanded in questions; some answers deny that any such place can be found.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
   },
   {
     "SourceTerm": "下禪床",
@@ -4535,6 +4633,19 @@
     "WrittenUtc": "2026-07-17T10:25:57.056650+00:00"
   },
   {
+    "SourceTerm": "作得主",
+    "PreferredTarget": "to remain master of the situation",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "take charge",
+      "remain master of the situation"
+    ],
+    "Status": "preferred",
+    "Note": "To take charge is to remain master of the situation rather than be turned by circumstances; the records test this through the guest-and-host relation.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+  },
+  {
     "SourceTerm": "作模作樣",
     "PreferredTarget": "put on a pose and make a show",
     "AlternateTargets": [],
@@ -4900,6 +5011,25 @@
     "Note": "The frozen allowlisted corpus has 592 exact hits in 198 files representing 195 works. Eight anchors cover four questioners, four distinct named replies or definitions, and the split question/answer turns in Deshan Zhixian's exchange. The differing answers concern the same requested continuation and do not become separate master-specific senses.",
     "CreatedBy": "Codex fresh-build lane B",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "信得及",
+    "PreferredTarget": "to trust it fully",
+    "AlternateTargets": [
+      "be able to trust it",
+      "have complete confidence",
+      "credit it"
+    ],
+    "SearchAliases": [
+      "to trust it fully",
+      "be able to trust it",
+      "have complete confidence",
+      "credit it"
+    ],
+    "Status": "preferred",
+    "Note": "In these records trust is publicly tested by what follows from it, not treated as assent to a proposition in isolation. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:06.489510+00:00"
   },
   {
     "SourceTerm": "信心不二",
@@ -5669,6 +5799,25 @@
     "WrittenUtc": "2026-07-17T16:30:22.041434+00:00"
   },
   {
+    "SourceTerm": "入地獄",
+    "PreferredTarget": "to enter hell",
+    "AlternateTargets": [
+      "go to hell",
+      "fall into hell",
+      "enter the hells"
+    ],
+    "SearchAliases": [
+      "to enter hell",
+      "go to hell",
+      "fall into hell",
+      "enter the hells"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase remains a hard consequence while masters also use its entry and exit as the contested hinge of a public case. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:06.489510+00:00"
+  },
+  {
     "SourceTerm": "入地獄如箭射",
     "PreferredTarget": "go to hell like an arrow",
     "AlternateTargets": [
@@ -5750,6 +5899,23 @@
     "Note": "Prajñātāra makes incoming and outgoing breath his answer about constantly turning the scroll. Prajñātāra answers a king’s question about not turning scrolls with this paired line and says this is constantly turning the scroll; Miyun Yuanwu, Linye Tongqi, and Poshan Haiming raise, question, and criticize the same answer in public encounters.",
     "CreatedBy": "Codex cohort002 lane C C71-100 full-case packet author",
     "WrittenUtc": "2026-07-19T02:00:31.207870+00:00"
+  },
+  {
+    "SourceTerm": "入方丈",
+    "PreferredTarget": "to enter the abbot’s quarters",
+    "AlternateTargets": [
+      "enter the abbot’s room",
+      "go into the abbot’s quarters"
+    ],
+    "SearchAliases": [
+      "to enter the abbot’s quarters",
+      "enter the abbot’s room",
+      "go into the abbot’s quarters"
+    ],
+    "Status": "preferred",
+    "Note": "The room is institutional and public-facing even when the interview is restricted: entry brings the visitor into the presiding role's immediate testing space. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:07.848387+00:00"
   },
   {
     "SourceTerm": "入水入泥",
@@ -7027,6 +7193,19 @@
     "WrittenUtc": "2026-07-13T08:00:00Z"
   },
   {
+    "SourceTerm": "剔起眉毛",
+    "PreferredTarget": "raise your eyebrows and look closely",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "raise your eyebrows and look closely",
+      "raise your eyebrows and look"
+    ],
+    "Status": "preferred",
+    "Note": "“Raise your eyebrows and look closely” is an imperative to inspect the present case rather than pass over it.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+  },
+  {
     "SourceTerm": "剜肉作瘡",
     "PreferredTarget": "to gouge healthy flesh and make a wound",
     "AlternateTargets": [],
@@ -7037,6 +7216,30 @@
     "Note": "The image condemns making a wound where flesh was sound—that is, creating unnecessary trouble by an added move.",
     "CreatedBy": "Codex Iriya lane C121-130 full-case author",
     "WrittenUtc": "2026-07-18T23:55:00Z"
+  },
+  {
+    "SourceTerm": "劃一劃",
+    "PreferredTarget": "draw one stroke",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "draw one stroke"
+    ],
+    "Status": "preferred",
+    "Note": "Drawing one stroke is an enacted answer, often made with the staff; the line itself occupies the place where a verbal reply was demanded.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+  },
+  {
+    "SourceTerm": "劈脊便棒",
+    "PreferredTarget": "immediately strike across the back",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "immediately strike across the back"
+    ],
+    "Status": "preferred",
+    "Note": "To strike straight across the back is an immediate narrated action, not an explanation: the performer’s blow answers before explanatory speech can intervene.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
   },
   {
     "SourceTerm": "劈腹剜心",
@@ -7425,6 +7628,18 @@
     "WrittenUtc": "2026-07-19T03:44:39.755866+00:00"
   },
   {
+    "SourceTerm": "十方同聚會",
+    "PreferredTarget": "the ten directions gather in one assembly",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the ten directions gather in one assembly"
+    ],
+    "Status": "preferred",
+    "Note": "“The ten directions gather in one assembly” names total convergence, first as a saying and repeatedly as a line raised, quoted, or capped in later halls.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+  },
+  {
     "SourceTerm": "十方無壁落、四面亦無門",
     "PreferredTarget": "no walls in the ten directions, no gate on any side",
     "AlternateTargets": [],
@@ -7766,6 +7981,23 @@
     "Note": "1,887 raw exact-string hits occur in 204 frozen files; seven curated works preserve the staff, the single blow, and its immediately following speech.",
     "CreatedBy": "Codex f005 lane B canary author",
     "WrittenUtc": "2026-07-15T18:38:54.279991+00:00"
+  },
+  {
+    "SourceTerm": "卓一卓",
+    "PreferredTarget": "to strike once with the staff",
+    "AlternateTargets": [
+      "give one staff-strike",
+      "plant the staff once"
+    ],
+    "SearchAliases": [
+      "to strike once with the staff",
+      "give one staff-strike",
+      "plant the staff once"
+    ],
+    "Status": "preferred",
+    "Note": "The teaching-seat implement makes the one strike a visible and audible intervention carrying the recorded respondent's authority in the hall. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:09.731852+00:00"
   },
   {
     "SourceTerm": "卓拄杖",
@@ -9237,6 +9469,18 @@
     "WrittenUtc": "2026-07-19T06:55:34.668645Z"
   },
   {
+    "SourceTerm": "唱誰家曲",
+    "PreferredTarget": "whose house’s song do you sing?",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "whose house’s song do you sing?"
+    ],
+    "Status": "preferred",
+    "Note": "“Whose house’s song do you sing?” asks which lineage the public performance expresses.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+  },
+  {
     "SourceTerm": "商山四皓",
     "PreferredTarget": "the Four Hoaryheads of Mount Shang",
     "AlternateTargets": [],
@@ -10548,6 +10792,18 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "塗毒鼓",
+    "PreferredTarget": "the poison-smeared drum",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the poison-smeared drum"
+    ],
+    "Status": "preferred",
+    "Note": "The poison-smeared drum is said to kill whoever hears it; masters turn that lethal sound into an image for a word, shout, or address whose effect admits no safe listener.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+  },
+  {
     "SourceTerm": "填溝塞壑",
     "PreferredTarget": "filling ditches and blocking ravines",
     "AlternateTargets": [
@@ -10733,6 +10989,23 @@
     "WrittenUtc": "2026-07-15T04:06:26.730577+00:00"
   },
   {
+    "SourceTerm": "士大夫",
+    "PreferredTarget": "scholar-officials",
+    "AlternateTargets": [
+      "literati officials",
+      "gentry officials"
+    ],
+    "SearchAliases": [
+      "scholar-officials",
+      "literati officials",
+      "gentry officials"
+    ],
+    "Status": "preferred",
+    "Note": "They are not spectators outside the record: their questions, patronage, and judgments place them inside the public social field in which Zen teaching is conducted. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:07.848387+00:00"
+  },
+  {
     "SourceTerm": "壺中日月長",
     "PreferredTarget": "within the pot, days and months are long",
     "AlternateTargets": [],
@@ -10781,6 +11054,18 @@
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
   },
   {
+    "SourceTerm": "外馳求",
+    "PreferredTarget": "to run outward seeking",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to run outward seeking"
+    ],
+    "Status": "preferred",
+    "Note": "Running outward in search is the recurrent warning against leaving the present matter to seek an answer elsewhere.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+  },
+  {
     "SourceTerm": "多口阿師",
     "PreferredTarget": "a talkative teacher",
     "AlternateTargets": [],
@@ -10805,6 +11090,18 @@
     "Note": "Fresh C60 construction from exact complete cases; bridged discovery 87 hits across 49 works; exact apparatus-clean frequency is compiled by the depth gate.",
     "CreatedBy": "Codex fresh semantic author lane C repair",
     "WrittenUtc": "2026-07-18T10:04:35.622707Z"
+  },
+  {
+    "SourceTerm": "夜明簾",
+    "PreferredTarget": "the night-bright curtain",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the night-bright curtain"
+    ],
+    "Status": "preferred",
+    "Note": "The night-bright curtain is a recurrent technical image placed in verses and rank-language; the entry records that use without inventing an institution behind it.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
   },
   {
     "SourceTerm": "夜靜水寒魚不食、滿船空載月明歸",
@@ -10960,6 +11257,18 @@
     "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one skill-and-appearance reversal in questions, comments, and verses.",
     "CreatedBy": "Codex cohort-002 lane-A 61-70 full-case author",
     "WrittenUtc": "2026-07-19T00:47:56.109240Z"
+  },
+  {
+    "SourceTerm": "大庾嶺",
+    "PreferredTarget": "Dayu Ridge, the geographical pass",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Dayu Ridge, the geographical pass"
+    ],
+    "Status": "preferred",
+    "Note": "Dayu Ridge is the physical pass reached in travel and pursuit narratives.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
   },
   {
     "SourceTerm": "大徹大悟",
@@ -11867,6 +12176,23 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "如何是境中人",
+    "PreferredTarget": "who is the person within the scene?",
+    "AlternateTargets": [
+      "what is the person in the scene?",
+      "who is the one within the environment?"
+    ],
+    "SearchAliases": [
+      "who is the person within the scene?",
+      "what is the person in the scene?",
+      "who is the one within the environment?"
+    ],
+    "Status": "preferred",
+    "Note": "The paired interview turns scenery into a public test: after the place is named, the question presses for the person who is not separable from it. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:06.489510+00:00"
+  },
+  {
     "SourceTerm": "如何是無寒暑處",
     "PreferredTarget": "where is the place without heat or cold?",
     "AlternateTargets": [
@@ -12535,6 +12861,18 @@
     "Note": "Frozen-corpus concordance: 2,159 exact hits in 337 files and 331 works. One referent covers inheritance, activation, support, and flourishing; response differences are lineage claims, not separate senses.",
     "CreatedBy": "Codex fresh-build f001 lane B",
     "WrittenUtc": "2026-07-14T19:00:00Z"
+  },
+  {
+    "SourceTerm": "宗風嗣阿誰",
+    "PreferredTarget": "whose house style do you inherit?",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "whose house style do you inherit?"
+    ],
+    "Status": "preferred",
+    "Note": "“Whose house style do you inherit?” is the paired succession question that presses the same lineage claim from the side of inheritance.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
   },
   {
     "SourceTerm": "官不容針、私通車馬",
@@ -13649,6 +13987,35 @@
     "Note": "7 selected witnesses delimit this sense.",
     "CreatedBy": "Codex f003 Lane B evidence-first",
     "WrittenUtc": "2026-07-15T04:57:56.244387+00:00"
+  },
+  {
+    "SourceTerm": "帝釋鼻孔",
+    "PreferredTarget": "Indra’s nostril",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Indra’s nostril"
+    ],
+    "Status": "preferred",
+    "Note": "Indra’s nostril is an impossible point of purchase: verses and challenges send a person or object through it to cap claims of extraordinary reach.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+  },
+  {
+    "SourceTerm": "師唱誰家曲",
+    "PreferredTarget": "whose house’s tune do you sing?",
+    "AlternateTargets": [
+      "whose lineage tune is this?",
+      "whose teaching-house song is being sung?"
+    ],
+    "SearchAliases": [
+      "whose house’s tune do you sing?",
+      "whose lineage tune is this?",
+      "whose teaching-house song is being sung?"
+    ],
+    "Status": "preferred",
+    "Note": "The musical wording makes lineage audible as a tune the person on the teaching seat must perform and answer for before the assembly. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:09.731852+00:00"
   },
   {
     "SourceTerm": "師子",
@@ -15543,6 +15910,19 @@
     "WrittenUtc": "2026-07-19T08:55:00Z"
   },
   {
+    "SourceTerm": "成佛作祖",
+    "PreferredTarget": "to become a buddha and become a patriarch",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to become a buddha and become a patriarch",
+      "to become a buddha and make a patriarch"
+    ],
+    "Status": "preferred",
+    "Note": "To become a buddha and become a patriarch names the paired ambition that masters promise, challenge, or dismiss; Here “become a patriarch” does not mean manufacturing one.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+  },
+  {
     "SourceTerm": "成群作隊",
     "PreferredTarget": "forming crowds and moving in groups",
     "AlternateTargets": [],
@@ -16443,6 +16823,23 @@
     "WrittenUtc": "2026-07-15T00:00:00Z"
   },
   {
+    "SourceTerm": "拄杖頭",
+    "PreferredTarget": "the tip of the staff",
+    "AlternateTargets": [
+      "staff-tip",
+      "head of the staff"
+    ],
+    "SearchAliases": [
+      "the tip of the staff",
+      "staff-tip",
+      "head of the staff"
+    ],
+    "Status": "preferred",
+    "Note": "Zen bends an ordinary end of a stick into the active point from which the teaching-seat emblem displays, gathers, or breaks what the address has raised. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:06.489510+00:00"
+  },
+  {
     "SourceTerm": "拈一放一",
     "PreferredTarget": "pick up one and put down one",
     "AlternateTargets": [
@@ -16799,6 +17196,23 @@
     "Note": "Primary person sense. Shide and Hanshan (拾得寒山 / 寒山拾得) and Fenggan (豐干) form the recurring figure family. The ordinary verb is split below because it denotes a different action, not a reading of the person.",
     "CreatedBy": "Codex f002 Lane C author",
     "WrittenUtc": "2026-07-15T02:23:02.740125+00:00"
+  },
+  {
+    "SourceTerm": "指天指地",
+    "PreferredTarget": "to point to heaven and point to earth",
+    "AlternateTargets": [
+      "point upward and downward",
+      "point at sky and ground"
+    ],
+    "SearchAliases": [
+      "to point to heaven and point to earth",
+      "point upward and downward",
+      "point at sky and ground"
+    ],
+    "Status": "preferred",
+    "Note": "Zen's Buddha is defined here by the visible gesture as it is mounted on the teaching seat, attacked, copied, and made answerable in later public cases. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:09.731852+00:00"
   },
   {
     "SourceTerm": "指東劃西",
@@ -17611,6 +18025,19 @@
     "WrittenUtc": "2026-07-15T04:32:50.316120+00:00"
   },
   {
+    "SourceTerm": "擊石火",
+    "PreferredTarget": "a spark struck from stone",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a spark struck from stone",
+      "fire struck from stone"
+    ],
+    "Status": "preferred",
+    "Note": "A stone-struck spark supplies a measure of nearly instantaneous action, while contrary cases explicitly deny that the matter can be reduced even to that speed.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+  },
+  {
     "SourceTerm": "擊禪床",
     "PreferredTarget": "strike the teaching-hall seat or bench",
     "AlternateTargets": [
@@ -18138,6 +18565,18 @@
     "Note": "The formula records a reprieve from blows in these turns; it is not evidence that a beating occurred.",
     "CreatedBy": "Codex Iriya lane A131-150 full-case author",
     "WrittenUtc": "2026-07-18T17:28:08Z"
+  },
+  {
+    "SourceTerm": "放光動地",
+    "PreferredTarget": "to emit light and shake the earth",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to emit light and shake the earth"
+    ],
+    "Status": "preferred",
+    "Note": "Emitting light and shaking the earth is the old cosmic display, but masters also bring the formula down onto ordinary activity and test whether such display proves anything.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
   },
   {
     "SourceTerm": "放憨作麼",
@@ -18949,6 +19388,35 @@
     "WrittenUtc": "2026-07-15T05:47:04.506294+00:00"
   },
   {
+    "SourceTerm": "明眼人",
+    "PreferredTarget": "a clear-eyed person",
+    "AlternateTargets": [
+      "one with a discerning eye",
+      "a person who can see clearly"
+    ],
+    "SearchAliases": [
+      "a clear-eyed person",
+      "one with a discerning eye",
+      "a person who can see clearly"
+    ],
+    "Status": "preferred",
+    "Note": "The clear eye is a public standard of discernment: the figure can expose a false claim, recognize a turn, or judge the case without borrowing its participants' confidence. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:06.489510+00:00"
+  },
+  {
+    "SourceTerm": "明眼衲僧",
+    "PreferredTarget": "a clear-eyed patchrobed monk",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a clear-eyed patchrobed monk"
+    ],
+    "Status": "preferred",
+    "Note": "A clear-eyed patchrobed monk is the competent judge imagined inside an encounter, the person expected to see whether an answer, blow, or turning word has actually met the case.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+  },
+  {
     "SourceTerm": "明破即不堪",
     "PreferredTarget": "once plainly exposed, it cannot stand",
     "AlternateTargets": [
@@ -19485,6 +19953,23 @@
     "WrittenUtc": "2026-07-18T08:47:27.154594Z"
   },
   {
+    "SourceTerm": "有句無句",
+    "PreferredTarget": "having a phrase, having no phrase",
+    "AlternateTargets": [
+      "a phrase and no phrase",
+      "with a saying or without one"
+    ],
+    "SearchAliases": [
+      "having a phrase, having no phrase",
+      "a phrase and no phrase",
+      "with a saying or without one"
+    ],
+    "Status": "preferred",
+    "Note": "The pair is deployed as a trap with both exits named: choosing words or wordlessness still leaves the interlocutor answerable in the public exchange. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:06.489510+00:00"
+  },
+  {
     "SourceTerm": "有條攀條，無條攀例",
     "PreferredTarget": "when a rule exists, cling to it, and when none exists, cling to precedent",
     "AlternateTargets": [],
@@ -19647,6 +20132,19 @@
     "Note": "Look southeast in the morning and northwest in the evening.",
     "CreatedBy": "Codex cohort-002 lane-B B151-B160 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
+  },
+  {
+    "SourceTerm": "木上座",
+    "PreferredTarget": "Wooden Senior, the personified staff",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Wooden Senior, the personified staff",
+      "Wooden Senior"
+    ],
+    "Status": "preferred",
+    "Note": "Wooden Senior is the staff personified as an elder of the hall: masters question it, send it away, call it back, and make its movement carry the encounter.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
   },
   {
     "SourceTerm": "木人",
@@ -21272,6 +21770,18 @@
     "WrittenUtc": "2026-07-18T23:20:00Z"
   },
   {
+    "SourceTerm": "樹倒藤枯",
+    "PreferredTarget": "when the tree falls, the vine withers",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "when the tree falls, the vine withers"
+    ],
+    "Status": "preferred",
+    "Note": "The falling tree removes the vine’s support, and the inherited line lets a questioner press what can remain when both members of that dependence collapse.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+  },
+  {
     "SourceTerm": "機不離位、墮在毒海",
     "PreferredTarget": "when the mechanism does not leave its position, it falls into the poisonous sea",
     "AlternateTargets": [],
@@ -21630,6 +22140,23 @@
     "Note": "The examination ground and mind-empty passing line form one assembly couplet.",
     "CreatedBy": "iriya-construction-001 lane A",
     "WrittenUtc": "2026-07-18T13:00:00Z"
+  },
+  {
+    "SourceTerm": "歷代祖師",
+    "PreferredTarget": "the patriarchs through the generations",
+    "AlternateTargets": [
+      "successive generations of patriarchs",
+      "patriarchs of every generation"
+    ],
+    "SearchAliases": [
+      "the patriarchs through the generations",
+      "successive generations of patriarchs",
+      "patriarchs of every generation"
+    ],
+    "Status": "preferred",
+    "Note": "The collective is not background history: masters summon it into the hall as a benchmark that the current question can affirm, exceed, or leave speechless. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:06.489510+00:00"
   },
   {
     "SourceTerm": "歷歷",
@@ -22438,6 +22965,18 @@
     "Note": "One adjectival predicate across food, sayings, and inquiry: all are described as lacking flavor. These are different subjects but not different lexical things or word classes, so item 8 does not require a split. Positive and negative appraisals are text-drawn contrasts, not separate readings supplied by this entry. Frozen-corpus concordance: 83 exact hits in 52 storage files representing 51 independent works.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": "2026-07-16T12:01:41.515180+00:00"
+  },
+  {
+    "SourceTerm": "沒絃琴",
+    "PreferredTarget": "the stringless lute",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the stringless lute"
+    ],
+    "Status": "preferred",
+    "Note": "The stringless lute is an impossible instrument that can nevertheless be requested, played, or heard in an encounter; its lack of strings is the point of the test.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
   },
   {
     "SourceTerm": "沒蹤跡",
@@ -25180,6 +25719,23 @@
     "WrittenUtc": "2026-07-18T06:10:41.301422+00:00"
   },
   {
+    "SourceTerm": "牛頭未見四祖時",
+    "PreferredTarget": "before Niutou met the Fourth Patriarch",
+    "AlternateTargets": [
+      "Niutou before meeting Daoxin",
+      "before Oxhead saw the Fourth Patriarch"
+    ],
+    "SearchAliases": [
+      "before Niutou met the Fourth Patriarch",
+      "Niutou before meeting Daoxin",
+      "before Oxhead saw the Fourth Patriarch"
+    ],
+    "Status": "preferred",
+    "Note": "The biographical meeting is bent into a before-and-after interview trap: both sides must be answered without reducing the case to a story of simple improvement. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:07.848387+00:00"
+  },
+  {
     "SourceTerm": "牛頭沒、馬頭囘",
     "PreferredTarget": "the ox-head vanishes, the horse-head returns",
     "AlternateTargets": [
@@ -25973,6 +26529,23 @@
     "WrittenUtc": "2026-07-15T05:47:05.000557+00:00"
   },
   {
+    "SourceTerm": "畢竟作麼生",
+    "PreferredTarget": "ultimately, how is it?",
+    "AlternateTargets": [
+      "in the end, what is it?",
+      "finally, how?"
+    ],
+    "SearchAliases": [
+      "ultimately, how is it?",
+      "in the end, what is it?",
+      "finally, how?"
+    ],
+    "Status": "preferred",
+    "Note": "The formula refuses to let an adequate-sounding first answer close the public examination; it asks what remains when the issue is carried through. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:07.848387+00:00"
+  },
+  {
     "SourceTerm": "異類",
     "PreferredTarget": "other kinds",
     "AlternateTargets": [
@@ -26450,6 +27023,22 @@
     "WrittenUtc": "2026-07-18T07:13:49.140147Z"
   },
   {
+    "SourceTerm": "白牯",
+    "PreferredTarget": "the cat-and-white-ox case formula",
+    "AlternateTargets": [
+      "the cat and white ox formula"
+    ],
+    "SearchAliases": [
+      "white ox",
+      "cat and white ox",
+      "black cat and white ox"
+    ],
+    "Status": "preferred",
+    "Note": "Paired with the cat and contrasted with the buddhas, the white ox belongs to the inherited “know there is” case formula.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+  },
+  {
     "SourceTerm": "白雲抱幽石",
     "PreferredTarget": "white clouds embrace the secluded rock",
     "AlternateTargets": [],
@@ -26600,6 +27189,23 @@
     "WrittenUtc": "2026-07-19T04:20:00Z"
   },
   {
+    "SourceTerm": "百草頭",
+    "PreferredTarget": "the tips of the hundred grasses",
+    "AlternateTargets": [
+      "every blade of grass",
+      "among the myriad grasses"
+    ],
+    "SearchAliases": [
+      "the tips of the hundred grasses",
+      "every blade of grass",
+      "among the myriad grasses"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase bends ordinary vegetation into the point where the record demands recognition amid the many things of the present world. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:06.489510+00:00"
+  },
+  {
     "SourceTerm": "百草頭上祖師意",
     "PreferredTarget": "the patriarchs’ intent atop the hundred grasses",
     "AlternateTargets": [],
@@ -26610,6 +27216,23 @@
     "Note": "The phrase locates the patriarchs' intent atop the hundred grasses. The retained records use it as an answer and as a question.",
     "CreatedBy": "Codex cohort002 lane C clean full-case author",
     "WrittenUtc": "2026-07-19T00:40:37.009445Z"
+  },
+  {
+    "SourceTerm": "百雜碎",
+    "PreferredTarget": "smashed into a hundred fragments",
+    "AlternateTargets": [
+      "shattered to bits",
+      "broken into pieces"
+    ],
+    "SearchAliases": [
+      "smashed into a hundred fragments",
+      "shattered to bits",
+      "broken into pieces"
+    ],
+    "Status": "preferred",
+    "Note": "In the hall the violent phrase functions as a verdict enacted by word or staff: the presented thing is not refined but broken beyond recovery. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:09.731852+00:00"
   },
   {
     "SourceTerm": "皂白",
@@ -26859,6 +27482,23 @@
     "Note": "5 exact full-case witnesses from 5 independent works support this corpus-bounded sense.",
     "CreatedBy": "Codex f004 C1156-1165 fresh author",
     "WrittenUtc": "2026-07-15T14:54:06.495578+00:00"
+  },
+  {
+    "SourceTerm": "直下承當",
+    "PreferredTarget": "to take it up immediately",
+    "AlternateTargets": [
+      "accept it directly",
+      "shoulder it on the spot"
+    ],
+    "SearchAliases": [
+      "to take it up immediately",
+      "accept it directly",
+      "shoulder it on the spot"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase makes acceptance answerable in the present encounter: directness is tested by the person's next word or action, not certified by inward assent. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:09.731852+00:00"
   },
   {
     "SourceTerm": "直心",
@@ -27271,6 +27911,18 @@
     "WrittenUtc": "2026-07-17T12:25:57.588949+00:00"
   },
   {
+    "SourceTerm": "真面目",
+    "PreferredTarget": "the true face",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the true face"
+    ],
+    "Status": "preferred",
+    "Note": "The true face is the actual countenance demanded by identity questions, opposed to borrowed descriptions or concealment.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+  },
+  {
     "SourceTerm": "眼中著屑",
     "PreferredTarget": "to put grit in the eye",
     "AlternateTargets": [],
@@ -27447,6 +28099,23 @@
     "Note": "5 distinct work IDs selected after complete-case actor review.",
     "CreatedBy": "Codex f004 lane B complete-case author",
     "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
+  },
+  {
+    "SourceTerm": "睹明星",
+    "PreferredTarget": "to see the morning star",
+    "AlternateTargets": [
+      "behold the morning star",
+      "seeing the bright star"
+    ],
+    "SearchAliases": [
+      "to see the morning star",
+      "behold the morning star",
+      "seeing the bright star"
+    ],
+    "Status": "preferred",
+    "Note": "The inherited Buddha episode becomes a present public case whose seeing, eye, and declaration are open to the record's praise or attack. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:07.848387+00:00"
   },
   {
     "SourceTerm": "瞎漢",
@@ -27822,6 +28491,23 @@
     "Note": "Household ruin is a figurative action in the paired sayings; the witnesses do not report destroyed buildings.",
     "CreatedBy": "Codex Iriya lane A111-120 full-case author",
     "WrittenUtc": "2026-07-18T18:20:00Z"
+  },
+  {
+    "SourceTerm": "破沙盆",
+    "PreferredTarget": "a broken earthen basin",
+    "AlternateTargets": [
+      "broken clay basin",
+      "shattered washbasin"
+    ],
+    "SearchAliases": [
+      "a broken earthen basin",
+      "broken clay basin",
+      "shattered washbasin"
+    ],
+    "Status": "preferred",
+    "Note": "Zen places the discarded household object in the answer-position, where its breakage and lack of prestige confront the questioner's requested value. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:07.848387+00:00"
   },
   {
     "SourceTerm": "破草鞋",
@@ -28202,6 +28888,23 @@
     "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
     "CreatedBy": "Codex Lane C independent-review repair",
     "WrittenUtc": "2026-07-17T03:30:00Z"
+  },
+  {
+    "SourceTerm": "禪和子",
+    "PreferredTarget": "a Chan fellow",
+    "AlternateTargets": [
+      "Chan practitioner",
+      "fellow of the Chan community"
+    ],
+    "SearchAliases": [
+      "a Chan fellow",
+      "Chan practitioner",
+      "fellow of the Chan community"
+    ],
+    "Status": "preferred",
+    "Note": "The label places its bearer inside the encounter community but grants no achievement: a the expression may be challenged, exposed, or called to act. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:09.731852+00:00"
   },
   {
     "SourceTerm": "禪堂",
@@ -28702,6 +29405,18 @@
     "WrittenUtc": "2026-07-19T02:20:00Z"
   },
   {
+    "SourceTerm": "空王殿",
+    "PreferredTarget": "the Empty King’s hall",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the Empty King’s hall"
+    ],
+    "Status": "preferred",
+    "Note": "The Empty King’s hall is a corpus image associated with the Buddha called the Empty King; the records use the hall in verse and address rather than merely naming a building.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+  },
+  {
     "SourceTerm": "空腹高心",
     "PreferredTarget": "empty belly and lofty mind",
     "AlternateTargets": [],
@@ -28770,6 +29485,18 @@
     "Note": "Four formal addresses in four independent works establish the pierced-nostrils image as capture and control by an implement or stated position.",
     "CreatedBy": "Codex Iriya construction cohort 001 lane C structural-canary sample",
     "WrittenUtc": "2026-07-18T09:05:50.780512Z"
+  },
+  {
+    "SourceTerm": "穿衣喫飯",
+    "PreferredTarget": "putting on clothes and eating meals",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "putting on clothes and eating meals"
+    ],
+    "Status": "preferred",
+    "Note": "Putting on clothes and eating meals are ordinary acts made the matter under test; the records ask what, if anything, remains apart from them.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
   },
   {
     "SourceTerm": "穿過髑髏",
@@ -30802,6 +31529,23 @@
     "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
   },
   {
+    "SourceTerm": "臨濟宗",
+    "PreferredTarget": "the Linji school",
+    "AlternateTargets": [
+      "Linji lineage",
+      "Linji tradition"
+    ],
+    "SearchAliases": [
+      "the Linji school",
+      "Linji lineage",
+      "Linji tradition"
+    ],
+    "Status": "preferred",
+    "Note": "In Zen records it is a living house whose succession and public manner are asserted and contested, not merely a modern classification label. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:06.489510+00:00"
+  },
+  {
     "SourceTerm": "臨終示眾",
     "PreferredTarget": "at the end, address the assembly",
     "AlternateTargets": [
@@ -32003,6 +32747,18 @@
     "WrittenUtc": "2026-07-19T10:20:00+02:00"
   },
   {
+    "SourceTerm": "藏身處",
+    "PreferredTarget": "a place to hide the body",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a place to hide the body"
+    ],
+    "Status": "preferred",
+    "Note": "A bodily hiding place is demanded and denied in paired cases: later speakers raise the old exchange to test whether concealment leaves any trace.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+  },
+  {
     "SourceTerm": "藏身露影",
     "PreferredTarget": "hiding the body while exposing its shadow",
     "AlternateTargets": [
@@ -33116,6 +33872,23 @@
     "Note": "8 independent works anchor the headword and delimit the gloss.",
     "CreatedBy": "Codex f003 Lane B evidence-first",
     "WrittenUtc": "2026-07-15T04:45:36.907142+00:00"
+  },
+  {
+    "SourceTerm": "覿面相呈",
+    "PreferredTarget": "to present it face-to-face",
+    "AlternateTargets": [
+      "show it directly face-to-face",
+      "present it before one’s eyes"
+    ],
+    "SearchAliases": [
+      "to present it face-to-face",
+      "show it directly face-to-face",
+      "present it before one’s eyes"
+    ],
+    "Status": "preferred",
+    "Note": "The face-to-face presentation belongs to the public encounter: what is claimed must stand in the meeting rather than behind an explanation. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:09.731852+00:00"
   },
   {
     "SourceTerm": "覿面錯過",
@@ -35521,6 +36294,18 @@
     "WrittenUtc": "2026-07-17T11:30:40.463541+00:00"
   },
   {
+    "SourceTerm": "透頂透底",
+    "PreferredTarget": "through the top and through the bottom",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "through the top and through the bottom"
+    ],
+    "Status": "preferred",
+    "Note": "Through the top and through the bottom is a verdict of thorough penetration, leaving no upper or lower part untouched.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+  },
+  {
     "SourceTerm": "逐塊",
     "PreferredTarget": "chasing the clod",
     "AlternateTargets": [
@@ -35875,6 +36660,23 @@
     "WrittenUtc": "2026-07-15T14:06:41.045212+00:00"
   },
   {
+    "SourceTerm": "過在甚麼處",
+    "PreferredTarget": "where does the fault lie?",
+    "AlternateTargets": [
+      "where is the error?",
+      "what is at fault?"
+    ],
+    "SearchAliases": [
+      "where does the fault lie?",
+      "where is the error?",
+      "what is at fault?"
+    ],
+    "Status": "preferred",
+    "Note": "The question turns criticism into a live test: naming that there is a fault is insufficient unless the respondent can show where it is. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:07.848387+00:00"
+  },
+  {
     "SourceTerm": "過水睹影",
     "PreferredTarget": "crossing water and seeing the reflection",
     "AlternateTargets": [
@@ -35888,6 +36690,18 @@
     "Note": "The headword names the recorded event, not every mention of a mirror.",
     "CreatedBy": "Codex investigation-next300 Lane A",
     "WrittenUtc": "2026-07-17T16:00:00Z"
+  },
+  {
+    "SourceTerm": "過量人",
+    "PreferredTarget": "a person beyond measure",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a person beyond measure"
+    ],
+    "Status": "preferred",
+    "Note": "A person beyond measure is one whom ordinary scales cannot contain, commonly paired with action that likewise exceeds measure.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
   },
   {
     "SourceTerm": "道不屬知",
@@ -36312,6 +37126,23 @@
     "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
     "CreatedBy": "Codex f003 Lane A full-case author",
     "WrittenUtc": "2026-07-15T04:46:29.393398+00:00"
+  },
+  {
+    "SourceTerm": "酬法乳",
+    "PreferredTarget": "to repay the milk of the teaching",
+    "AlternateTargets": [
+      "repay the teaching’s nourishment",
+      "requite the teaching received"
+    ],
+    "SearchAliases": [
+      "to repay the milk of the teaching",
+      "repay the teaching’s nourishment",
+      "requite the teaching received"
+    ],
+    "Status": "preferred",
+    "Note": "The metaphor makes lineage debt active: repayment is shown through carrying the public teaching, not merely through private gratitude. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:07.848387+00:00"
   },
   {
     "SourceTerm": "醉後添盃",
@@ -37267,6 +38098,18 @@
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
   },
   {
+    "SourceTerm": "鐵壁銀山",
+    "PreferredTarget": "an iron wall and silver mountain",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "an iron wall and silver mountain"
+    ],
+    "Status": "preferred",
+    "Note": "An iron wall and silver mountain is an impenetrable barrier image, also transmitted in the reversed form “silver mountain and iron wall.”",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+  },
+  {
     "SourceTerm": "鐵樹花開",
     "PreferredTarget": "the iron tree blossoms",
     "AlternateTargets": [
@@ -37517,6 +38360,18 @@
     "Note": "The tall has a tall teaching-body, the short a short teaching-body assigns each visible stature its correspondingly described body. Dahui Zonggao extends the sequence through round and square and then says tall is not tall, short not short, round not round, and square not square before asking what is called the teaching-body. Yunmen Wenyan, Feiyin Tongrong, and Qingzhong Tiebi Huiji place the formula among visible differences and then test the formulation.",
     "CreatedBy": "Codex cohort-002 lane-B B101-B110 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
+  },
+  {
+    "SourceTerm": "長連床",
+    "PreferredTarget": "the long communal platform",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the long communal platform"
+    ],
+    "Status": "preferred",
+    "Note": "The long communal platform is the shared monastery bench on which monastics sit or sleep and around which encounters are staged.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
   },
   {
     "SourceTerm": "長養聖胎",
@@ -38740,6 +39595,23 @@
     "Note": "All eight complete candidate cases were reviewed for the exposed pillar and lantern reading; the six retained works cover one paired institutional image; speaking, laughing, and celebrating are predicates of the same pair.",
     "CreatedBy": "Codex fresh semantic author A051-060 2026-07-18",
     "WrittenUtc": "2026-07-18T10:01:17.190137Z"
+  },
+  {
+    "SourceTerm": "靈山會",
+    "PreferredTarget": "the assembly at Vulture Peak",
+    "AlternateTargets": [
+      "Vulture Peak assembly",
+      "assembly on Sacred Peak"
+    ],
+    "SearchAliases": [
+      "the assembly at Vulture Peak",
+      "Vulture Peak assembly",
+      "assembly on Sacred Peak"
+    ],
+    "Status": "preferred",
+    "Note": "Zen defines this Buddha-scene by its use in the lineage's own public interviews: raised flower, responsive smile, and the claimed handing on of the treasury. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:07.848387+00:00"
   },
   {
     "SourceTerm": "靈山話月、曹溪指月",
@@ -40189,6 +41061,18 @@
     "WrittenUtc": "2026-07-15T14:06:41.045212+00:00"
   },
   {
+    "SourceTerm": "驀直去",
+    "PreferredTarget": "go straight on",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "go straight on"
+    ],
+    "Status": "preferred",
+    "Note": "“Go straight on” is the old woman’s abrupt direction and, in later records, a saying raised and quoted as a case.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+  },
+  {
     "SourceTerm": "驗人",
     "PreferredTarget": "to test a person",
     "AlternateTargets": [
@@ -40480,6 +41364,23 @@
     "Note": "Fixed idiom of resting on a high pillow without worry. A recorded hall address invokes it for the peace of defeated rival teachings; the unnamed questioning monk asks how to reach such freedom from concern amid advance and retreat.",
     "CreatedBy": "Codex cohort-002 lane-B B091-B100 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
+  },
+  {
+    "SourceTerm": "高著眼",
+    "PreferredTarget": "raise your eye higher",
+    "AlternateTargets": [
+      "look higher",
+      "set the eye high"
+    ],
+    "SearchAliases": [
+      "raise your eye higher",
+      "look higher",
+      "set the eye high"
+    ],
+    "Status": "preferred",
+    "Note": "The command turns seeing into an immediate public correction: the listener must alter where the discerning eye is set. The sense has 8 exact occurrences in 8 independent works.",
+    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
+    "WrittenUtc": "2026-07-19T13:41:09.731852+00:00"
   },
   {
     "SourceTerm": "高高峰頂立",
@@ -40943,6 +41844,19 @@
     "Note": "Exact allowlist count for the graph pair: 49 hits in 39 texts; the fixed yellow-millet dream form occurs 13 times in 12 texts. The dream is related to the Handan and Southern-Bough dream families but is not merged with them.",
     "CreatedBy": "Codex f002 Lane C worksheet-first author",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "黃面老子",
+    "PreferredTarget": "the yellow-faced old fellow, the Zen Buddha",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the yellow-faced old fellow, the Zen Buddha",
+      "the yellow-faced old fellow"
+    ],
+    "Status": "preferred",
+    "Note": "The yellow-faced old fellow is the masters’ irreverent name for the Zen Buddha, especially the Buddha who raises the flower, mounts the seat, or is subjected to the hall’s tests.",
+    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
+    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
   },
   {
     "SourceTerm": "黃龍三關",
