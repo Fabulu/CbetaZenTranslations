@@ -2309,6 +2309,30 @@
     "WrittenUtc": "2026-07-17T13:14:37.662703+00:00"
   },
   {
+    "SourceTerm": "不犯之令",
+    "PreferredTarget": "the command that permits no violation",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the command that permits no violation"
+    ],
+    "Status": "preferred",
+    "Note": "Four unnamed monks ask for the non-violation command; Chushi Fanqi and Huanxiu Changrun use it in formal addresses. Six independent works anchor this range.",
+    "CreatedBy": "Codex cohort-002 lane-A positions 83-100 explicit full-case adjudication",
+    "WrittenUtc": "2026-07-19T00:55:52.888405Z"
+  },
+  {
+    "SourceTerm": "不直半文錢",
+    "PreferredTarget": "not worth half a cash coin",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "not worth half a cash coin"
+    ],
+    "Status": "preferred",
+    "Note": "Records apply it to treasure, robes, teachers, sayings, and accomplishments whose stated value is reversed or dismissed. Six independent works anchor this range.",
+    "CreatedBy": "Codex cohort-002 lane-A positions 83-100 explicit full-case adjudication",
+    "WrittenUtc": "2026-07-19T00:02:15.050488Z"
+  },
+  {
     "SourceTerm": "不瞞人底句",
     "PreferredTarget": "a line that does not deceive people",
     "AlternateTargets": [],
@@ -3315,6 +3339,18 @@
     "WrittenUtc": "2026-07-18T07:28:21.948887Z"
   },
   {
+    "SourceTerm": "今日捉敗",
+    "PreferredTarget": "caught and exposed today",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "today I caught the culprit"
+    ],
+    "Status": "preferred",
+    "Note": "Hunyuan Tanmi, Sanjiao Zhisong, Yushan Shangsi, Jiaozhong Huian Miguang, Fenyang Shanzhao, and Daxiao Xingchong utter the capture formula in the six retained cases.",
+    "CreatedBy": "Codex cohort-002 lane-A positions 83-100 explicit full-case adjudication",
+    "WrittenUtc": "2026-07-19T00:55:52.888405Z"
+  },
+  {
     "SourceTerm": "付囑",
     "PreferredTarget": "entrust",
     "AlternateTargets": [
@@ -3405,6 +3441,20 @@
     "Note": "It is a genre label, not evidence that the compiler is the ancient figure.",
     "CreatedBy": "Codex investigation-next300 Lane A",
     "WrittenUtc": "2026-07-17T16:00:00Z"
+  },
+  {
+    "SourceTerm": "令不虚行",
+    "PreferredTarget": "the command does not run in vain",
+    "AlternateTargets": [
+      "the order is not carried out for nothing"
+    ],
+    "SearchAliases": [
+      "the command does not run in vain"
+    ],
+    "Status": "preferred",
+    "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one effective-command assertion with explicit staff and verse settings.",
+    "CreatedBy": "Codex cohort-002 lane-A 71-80 full-case author",
+    "WrittenUtc": "2026-07-18T23:33:51.737877Z"
   },
   {
     "SourceTerm": "以字不成，八字不是",
@@ -11511,6 +11561,20 @@
     "WrittenUtc": "2026-07-15T10:22:54.675700+00:00"
   },
   {
+    "SourceTerm": "家破人亡",
+    "PreferredTarget": "house ruined, people gone",
+    "AlternateTargets": [
+      "the household destroyed and its people dead or dispersed"
+    ],
+    "SearchAliases": [
+      "house ruined, people gone"
+    ],
+    "Status": "preferred",
+    "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one paired household-loss formula in verse, question, and answer.",
+    "CreatedBy": "Codex cohort-002 lane-A 71-80 full-case author",
+    "WrittenUtc": "2026-07-18T23:33:51.786016Z"
+  },
+  {
     "SourceTerm": "家賊難防",
     "PreferredTarget": "a household thief is hard to guard against",
     "AlternateTargets": [
@@ -11799,6 +11863,18 @@
     "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:51:40.664019+00:00"
+  },
+  {
+    "SourceTerm": "將南作北",
+    "PreferredTarget": "take south for north",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "take south for north"
+    ],
+    "Status": "preferred",
+    "Note": "Case comments, hall addresses, and instructions pair it with making short long or pointing east while speaking west. Six independent works anchor this range.",
+    "CreatedBy": "Codex cohort-002 lane-A positions 83-100 explicit full-case adjudication",
+    "WrittenUtc": "2026-07-19T00:02:15.598468Z"
   },
   {
     "SourceTerm": "將心來",
@@ -12161,6 +12237,20 @@
     "Note": "5 distinct work IDs selected after complete-case actor review.",
     "CreatedBy": "Codex f004 lane B complete-case author",
     "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
+  },
+  {
+    "SourceTerm": "巣知風、穴知雨",
+    "PreferredTarget": "weather-wise nest and burrow",
+    "AlternateTargets": [
+      "a nest knows wind; a burrow knows rain"
+    ],
+    "SearchAliases": [
+      "weather-wise nest and burrow"
+    ],
+    "Status": "preferred",
+    "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one paired weather-sign formula across answers, verse, and comment.",
+    "CreatedBy": "Codex cohort-002 lane-A 71-80 full-case author",
+    "WrittenUtc": "2026-07-18T23:33:51.698620Z"
   },
   {
     "SourceTerm": "左之右之",
@@ -13513,6 +13603,18 @@
     "WrittenUtc": "2026-07-15T10:16:10.755480+00:00"
   },
   {
+    "SourceTerm": "忉忉怛怛",
+    "PreferredTarget": "chattering on and on",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "chattering on and on"
+    ],
+    "Status": "preferred",
+    "Note": "Dahui and later speakers apply it to prolonged verbal exposition, questioning, and commentary, sometimes with explicit criticism. Six independent works anchor this range.",
+    "CreatedBy": "Codex cohort-002 lane-A positions 83-100 explicit full-case adjudication",
+    "WrittenUtc": "2026-07-19T00:55:52.888405Z"
+  },
+  {
     "SourceTerm": "忌晨",
     "PreferredTarget": "the morning of a death anniversary",
     "AlternateTargets": [
@@ -13600,6 +13702,20 @@
     "Note": "Urgently, urgently, as the ordinance commands is the closing command of a written or spoken talisman.",
     "CreatedBy": "Codex Lane B B111-B120 full-case author",
     "WrittenUtc": "2026-07-19T00:00:00Z"
+  },
+  {
+    "SourceTerm": "急水上打毬子",
+    "PreferredTarget": "play a ball on swift water",
+    "AlternateTargets": [
+      "a ball struck on a rapid current"
+    ],
+    "SearchAliases": [
+      "play a ball on swift water"
+    ],
+    "Status": "preferred",
+    "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one inherited rapid-water ball image with an explicit old gloss.",
+    "CreatedBy": "Codex cohort-002 lane-A 71-80 full-case author",
+    "WrittenUtc": "2026-07-18T23:33:51.566279Z"
   },
   {
     "SourceTerm": "恁麼",
@@ -14525,6 +14641,18 @@
     "Note": "The corpus uses the same verb for concrete grasping, for holding a passage or throat, and in the paired critical vocabulary ‘hold fast / release’ (把定／放行); these uses retain the literal opposition and do not require separate senses. Wansong further states, ‘where the ancients held fast, they could release and advance from the top of a pole; when releasing, they could hold firm, standing like a thousand-fathom wall’ (古人把定處放得行竿頭進步，放行時把得定壁立千仞). The record thus refuses a simple equation of holding with one fixed outcome; this entry reports the wording without assigning an intent to it.",
     "CreatedBy": "Codex",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "把定封疆",
+    "PreferredTarget": "hold the frontier fixed",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "hold the frontier fixed"
+    ],
+    "Status": "preferred",
+    "Note": "Commentators use it for an inflexible position, often contrasting it with living and dying together, yielding with circumstances, or opening a line. Six independent works anchor this range.",
+    "CreatedBy": "Codex cohort-002 lane-A positions 83-100 explicit full-case adjudication",
+    "WrittenUtc": "2026-07-19T00:02:15.106533Z"
   },
   {
     "SourceTerm": "把手上高山",
@@ -15474,6 +15602,20 @@
     "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
   },
   {
+    "SourceTerm": "掣風掣顛",
+    "PreferredTarget": "act windblown and crazed",
+    "AlternateTargets": [
+      "behave wildly and crazily"
+    ],
+    "SearchAliases": [
+      "act windblown and crazed"
+    ],
+    "Status": "preferred",
+    "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one wild-conduct expression in a named case and later addresses.",
+    "CreatedBy": "Codex cohort-002 lane-A 71-80 full-case author",
+    "WrittenUtc": "2026-07-18T23:33:51.678224Z"
+  },
+  {
     "SourceTerm": "接引",
     "PreferredTarget": "to receive and lead",
     "AlternateTargets": [
@@ -15550,6 +15692,18 @@
     "Note": "One idiomatic image with multiple attested stances; grammatical form and differing evaluations do not create extra senses.",
     "CreatedBy": "Codex f002 Lane C fresh corpus build",
     "WrittenUtc": "2026-07-15T04:06:26.730577+00:00"
+  },
+  {
+    "SourceTerm": "掬水月在手，弄花香滿衣",
+    "PreferredTarget": "scooping water to hold moonlight and handling flowers until fragrance fills the robe",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "scooping water to hold moonlight and handling flowers until fragrance fills the robe"
+    ],
+    "Status": "preferred",
+    "Note": "Masters quote it in answers, appraisals, hall addresses, and comments, preserving both halves as one balanced scene. Six independent works anchor this range.",
+    "CreatedBy": "Codex cohort-002 lane-A positions 83-100 explicit full-case adjudication",
+    "WrittenUtc": "2026-07-19T00:02:15.519238Z"
   },
   {
     "SourceTerm": "描不成、畫不就",
@@ -17378,6 +17532,18 @@
     "WrittenUtc": "2026-07-17T00:00:00Z"
   },
   {
+    "SourceTerm": "智不到處，切忌道著",
+    "PreferredTarget": "where knowing does not reach, take care not to speak of it",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "where knowing does not reach, take care not to speak of it"
+    ],
+    "Status": "preferred",
+    "Note": "It appears as a quoted old saying, an unnamed participant’s question, a raised case, and a line followed by the warning that speaking produces horns. Six independent works anchor this range.",
+    "CreatedBy": "Codex cohort-002 lane-A positions 83-100 explicit full-case adjudication",
+    "WrittenUtc": "2026-07-19T00:55:52.888405Z"
+  },
+  {
     "SourceTerm": "暗中明",
     "PreferredTarget": "brightness within darkness",
     "AlternateTargets": [
@@ -18633,6 +18799,20 @@
     "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
   },
   {
+    "SourceTerm": "東山西嶺青",
+    "PreferredTarget": "the eastern mountain and western ridge are green",
+    "AlternateTargets": [
+      "eastern peak, western ridge: green"
+    ],
+    "SearchAliases": [
+      "the eastern mountain and western ridge are green"
+    ],
+    "Status": "preferred",
+    "Note": "All ten packet cases were inspected; six work-distinct witnesses were retained for the recorded deployment range.",
+    "CreatedBy": "Codex cohort-002 lane-A rule-19 canary",
+    "WrittenUtc": "2026-07-18T23:43:26.879229Z"
+  },
+  {
     "SourceTerm": "東序",
     "PreferredTarget": "eastern rank",
     "AlternateTargets": [],
@@ -19414,6 +19594,18 @@
     "WrittenUtc": "2026-07-18T07:41:34.692954+00:00"
   },
   {
+    "SourceTerm": "欺敵者亡",
+    "PreferredTarget": "the one who underrates the enemy perishes",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the one who underrates the enemy perishes"
+    ],
+    "Status": "preferred",
+    "Note": "Guishan uses it to appraise Huangbo, and later raisers and commentators reuse it as a short verdict on mishandling another person’s move. Six independent works anchor this range.",
+    "CreatedBy": "Codex cohort-002 lane-A positions 83-100 explicit full-case adjudication",
+    "WrittenUtc": "2026-07-19T00:02:15.187472Z"
+  },
+  {
     "SourceTerm": "歇即菩提",
     "PreferredTarget": "when the crazed mind stops, that is awakening",
     "AlternateTargets": [
@@ -19631,6 +19823,20 @@
     "Note": "The frozen corpus has 1,664 exact hits in 338 files representing 331 works. Eight anchors cover a listener, surroundings, verse, instruction, named clarity formulas, and critical use across independent works.",
     "CreatedBy": "Codex legacy full rebuild Lane A",
     "WrittenUtc": "2026-07-16T18:01:55.957580+00:00"
+  },
+  {
+    "SourceTerm": "歸依佛法僧",
+    "PreferredTarget": "take refuge in Buddha, the teaching, and the community",
+    "AlternateTargets": [
+      "threefold refuge formula"
+    ],
+    "SearchAliases": [
+      "take refuge in Buddha, the teaching, and the community"
+    ],
+    "Status": "preferred",
+    "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one threefold refuge formula reused in answers and phrase classifications.",
+    "CreatedBy": "Codex cohort-002 lane-A 71-80 full-case author",
+    "WrittenUtc": "2026-07-18T23:33:51.615705Z"
   },
   {
     "SourceTerm": "歸方丈",
@@ -24836,6 +25042,18 @@
     "WrittenUtc": "2026-07-17T12:33:35.419599+00:00"
   },
   {
+    "SourceTerm": "看樓打樓",
+    "PreferredTarget": "look at the tower and strike the tower",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "look at the tower and strike the tower"
+    ],
+    "Status": "preferred",
+    "Note": "Gulin Qingmao applies the tower-blow to an inherited case; other comments set the same charge beside “wash soil in mud” and “bind oneself with a grass rope.” Six independent works anchor this range.",
+    "CreatedBy": "Codex cohort-002 lane-A positions 83-100 explicit full-case adjudication",
+    "WrittenUtc": "2026-07-19T00:02:15.680045Z"
+  },
+  {
     "SourceTerm": "看破",
     "PreferredTarget": "see through",
     "AlternateTargets": [
@@ -27853,6 +28071,18 @@
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
   },
   {
+    "SourceTerm": "脚跟不點地",
+    "PreferredTarget": "without settled footing",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "heels not touching the ground"
+    ],
+    "Status": "preferred",
+    "Note": "Questions, appraisals, verses, and replies use the phrase as a charge of lacking settled footing or of continual coming and going. Five independent works anchor this sense.",
+    "CreatedBy": "Codex cohort-002 lane-A positions 83-100 explicit full-case adjudication",
+    "WrittenUtc": "2026-07-19T00:55:52.888405Z"
+  },
+  {
     "SourceTerm": "脚踏實地",
     "PreferredTarget": "feet planted on solid ground",
     "AlternateTargets": [
@@ -28306,6 +28536,20 @@
     "WrittenUtc": "2026-07-17T00:00:00Z"
   },
   {
+    "SourceTerm": "與賊過梯",
+    "PreferredTarget": "pass a ladder to a thief",
+    "AlternateTargets": [
+      "hand the thief a ladder"
+    ],
+    "SearchAliases": [
+      "pass a ladder to a thief"
+    ],
+    "Status": "preferred",
+    "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one aid-to-a-thief verdict across comments, warnings, and rebuttal.",
+    "CreatedBy": "Codex cohort-002 lane-A 71-80 full-case author",
+    "WrittenUtc": "2026-07-18T23:33:51.647746Z"
+  },
+  {
     "SourceTerm": "舉拂示眾",
     "PreferredTarget": "to raise the whisk before the assembly",
     "AlternateTargets": [],
@@ -28360,6 +28604,20 @@
     "Note": "8 exact witnesses from 8 independent works delimit this sense.",
     "CreatedBy": "Codex f005 lane B 1313-1322 author",
     "WrittenUtc": "2026-07-15T19:52:51.275842+00:00"
+  },
+  {
+    "SourceTerm": "舌拄上齶",
+    "PreferredTarget": "tongue braced against the upper palate",
+    "AlternateTargets": [
+      "tongue pressed to the roof of the mouth"
+    ],
+    "SearchAliases": [
+      "tongue braced against the upper palate"
+    ],
+    "Status": "preferred",
+    "Note": "All ten packet cases were inspected; six work-distinct witnesses were retained for the recorded deployment range.",
+    "CreatedBy": "Codex cohort-002 lane-A rule-19 canary",
+    "WrittenUtc": "2026-07-18T23:43:27.044102Z"
   },
   {
     "SourceTerm": "舌頭",
@@ -29751,6 +30009,18 @@
     "Note": "Six body witnesses delimit the physical monastic robe in speech, gift, verse, and narrated action; a contents row is excluded.",
     "CreatedBy": "Codex Lane C independent-review repair",
     "WrittenUtc": "2026-07-17T03:30:00Z"
+  },
+  {
+    "SourceTerm": "裁長補短",
+    "PreferredTarget": "trim the long and fill out the short",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "trim the long and fill out the short"
+    ],
+    "Status": "preferred",
+    "Note": "Xuedou Chongxian uses the phrase in his Deshan comment; Muchen Daomin later uses it while appraising Daochang Bian. Six independent works anchor this range.",
+    "CreatedBy": "Codex cohort-002 lane-A positions 83-100 explicit full-case adjudication",
+    "WrittenUtc": "2026-07-19T00:55:52.888405Z"
   },
   {
     "SourceTerm": "裴休",
@@ -32935,6 +33205,18 @@
     "WrittenUtc": "2026-07-17T05:48:00.115946+00:00"
   },
   {
+    "SourceTerm": "還丹一粒，點鐵成金",
+    "PreferredTarget": "one return-elixir pellet, touching iron and making gold",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "one elixir pellet turns iron into gold"
+    ],
+    "Status": "preferred",
+    "Note": "Questions and addresses pair it with one decisive saying that turns ordinary into sage, while later comments quote the same transformation formula. Six independent works anchor this range.",
+    "CreatedBy": "Codex cohort-002 lane-A positions 83-100 explicit full-case adjudication",
+    "WrittenUtc": "2026-07-19T00:02:14.978116Z"
+  },
+  {
     "SourceTerm": "還我話頭來",
     "PreferredTarget": "give me back my words",
     "AlternateTargets": [
@@ -33796,6 +34078,18 @@
     "Note": "The target describes the attested lexical unit; surrounding cases determine the particular judgment made with it.",
     "CreatedBy": "Codex fresh construction Lane A",
     "WrittenUtc": "2026-07-17T00:00:00Z"
+  },
+  {
+    "SourceTerm": "鋸解秤鎚",
+    "PreferredTarget": "saw open a scale weight",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the sawed-open scale weight"
+    ],
+    "Status": "preferred",
+    "Note": "The old answer to “what is buddha?” circulates through verses and later lists of compact answer-lines. Six independent works anchor this range.",
+    "CreatedBy": "Codex cohort-002 lane-A positions 83-100 explicit full-case adjudication",
+    "WrittenUtc": "2026-07-19T00:02:14.691454Z"
   },
   {
     "SourceTerm": "錦上添花",
@@ -35035,6 +35329,22 @@
     "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
+  },
+  {
+    "SourceTerm": "雖與我同條生，不與我同條死",
+    "PreferredTarget": "though born on the same branch as me, not dying on the same branch as me",
+    "AlternateTargets": [
+      "sharing my branch in life but not in death"
+    ],
+    "SearchAliases": [
+      "same branch in life, not in death",
+      "born together, not dying together",
+      "雖與我同條生、不與我同條死"
+    ],
+    "Status": "preferred",
+    "Note": "Ten complete cases were read; six witnesses were retained across five distinct works and five deployment classes, with the two Yantou recensions counted once.",
+    "CreatedBy": "Codex Iriya A80 backfill author",
+    "WrittenUtc": "2026-07-19T01:22:12.570781Z"
   },
   {
     "SourceTerm": "雞寒上樹鴨寒下水",
