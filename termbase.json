@@ -30161,6 +30161,22 @@
     "WrittenUtc": "2026-07-17T16:00:00Z"
   },
   {
+    "SourceTerm": "無我",
+    "PreferredTarget": "no self",
+    "AlternateTargets": [
+      "without self"
+    ],
+    "SearchAliases": [
+      "no self",
+      "without self",
+      "absence of self"
+    ],
+    "Status": "preferred",
+    "Note": "Forms such as no self-mark, a mind without self, no person and no self, and no self or mine govern different surrounding nouns, but each retained use negates the same asserted self; none supplies a second referent.",
+    "CreatedBy": "Codex U1 218-227 full-case author",
+    "WrittenUtc": "2026-07-20T22:01:15.599369+00:00"
+  },
+  {
     "SourceTerm": "無手人行拳、無口人呌喚",
     "PreferredTarget": "the paired impossibility of a handless punch and a mouthless shout",
     "AlternateTargets": [],
