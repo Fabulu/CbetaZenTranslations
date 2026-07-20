@@ -4148,7 +4148,7 @@
       "confused bundle"
     ],
     "Status": "preferred",
-    "Note": "Only two packet cases survive, and their shared core is confused display rather than a fixed teaching error.",
+    "Note": "Two independent cases survive; their shared core is confused display rather than a fixed teaching error.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T14:00:00Z"
   },
@@ -12275,6 +12275,24 @@
     "WrittenUtc": "2026-07-20T22:00:00Z"
   },
   {
+    "SourceTerm": "嘯",
+    "PreferredTarget": "long whistle",
+    "AlternateTargets": [
+      "long wordless cry"
+    ],
+    "SearchAliases": [
+      "長嘯",
+      "嘯一聲",
+      "一聲長嘯",
+      "long whistle",
+      "wordless cry"
+    ],
+    "Status": "preferred",
+    "Note": "The human gesture is marked as great, long, or one sounding, and its sound carries across mountains, forests, sky, or earth. Animal howls have a different actor and referent and are excluded from this gesture article. None of the retained passages uses a laughter verb.",
+    "CreatedBy": "Codex bounded acquisition from frozen Chan corpus",
+    "WrittenUtc": "2026-07-21T00:00:00Z"
+  },
+  {
     "SourceTerm": "噇酒糟漢",
     "PreferredTarget": "wine-lees-guzzling fellow",
     "AlternateTargets": [
@@ -16939,7 +16957,7 @@
       "all sounds are Buddha sound retort"
     ],
     "Status": "preferred",
-    "Note": "The Yuquan passage is a later quotation of the same Touzi encounter, so only the Blue Cliff witness is retained for depth.",
+    "Note": "The Yuquan passage is a later quotation of the same Touzi encounter. Both carriers are shown, but they preserve one deployment and the sense remains provisional.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T10:00:00Z"
   },
@@ -18278,16 +18296,17 @@
   },
   {
     "SourceTerm": "律行",
-    "PreferredTarget": "enter through disciplinary conduct",
+    "PreferredTarget": "disciplinary conduct",
     "AlternateTargets": [
-      "enter by rule-governed conduct"
+      "rule-governed conduct"
     ],
     "SearchAliases": [
-      "enter through disciplinary conduct",
-      "enter by rule-governed conduct"
+      "disciplinary conduct",
+      "rule-governed conduct",
+      "violate disciplinary conduct"
     ],
     "Status": "preferred",
-    "Note": "It is not generic cultivation, and praise in one biography does not define every rule.",
+    "Note": "Entering disciplinary conduct and violating disciplinary conduct govern the same referent with different verbs; they do not establish different things or separate senses.",
     "CreatedBy": "Codex investigation-next300 Lane A",
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
@@ -22748,7 +22767,7 @@
       "handle the tiger at both ends"
     ],
     "Status": "preferred",
-    "Note": "All available records transmit the same Xuedou verse; one explicit attribution is retained.",
+    "Note": "All available records transmit the same Xuedou verse. The Blue Cliff Record carrier and a later explicit attribution are retained without treating the recensions as independent uses.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T23:30:00Z"
   },
@@ -42101,7 +42120,7 @@
       "to give thanks for lodging in the assembly"
     ],
     "Status": "preferred",
-    "Note": "Case contexts repeatedly frame this expression as to give thanks for lodging in the assembly, whether raised, answered, contrasted, or capped. The lead witness is Imperially Commissioned Baizhang Monastic Regulations. Only exact-headword cases support this target; looser paraphrases are excluded. The boundary check is anchored to work:T48n2025.",
+    "Note": "The exact expression is confined to one monastic regulations work, so the sense remains provisional despite several distinct procedural statements.",
     "CreatedBy": "Codex post-current-investigation720 Lane B positions 6-59",
     "WrittenUtc": "2026-07-17T16:18:19.293524+00:00"
   },
@@ -44098,7 +44117,7 @@
       "meet a patriarch kill the patriarch"
     ],
     "Status": "preferred",
-    "Note": "The exact shorter string has in 47 allowlisted texts. It is almost always paired with 'meet buddha, kill buddha' and often extended with 'meet an arhat, kill the arhat.' Linji's fuller roster is primary; later uses include quotation, interrogation, sword language, verse, and explicit contrast with grandmotherly care.",
+    "Note": "The exact shorter string has 64 hits in 53 allowlisted files. It is almost always paired with 'meet buddha, kill buddha' and often extended with 'meet an arhat, kill the arhat.' Linji's fuller roster is primary; later uses include quotation, interrogation, sword language, verse, and explicit contrast with grandmotherly care.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-15T13:00:00Z"
   },
@@ -45794,7 +45813,7 @@
       "Jingqing landscape challenge"
     ],
     "Status": "preferred",
-    "Note": "Only two packet deployments survive, so the sense remains provisional.",
+    "Note": "Two independent deployments survive: Jingqing Daofu's live challenge and Koho Kennichi's later sermon use.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T16:00:00Z"
   },
