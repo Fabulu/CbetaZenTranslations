@@ -21195,17 +21195,20 @@
   },
   {
     "SourceTerm": "拏雲攫霧",
-    "PreferredTarget": "seize clouds and clutch mist",
+    "PreferredTarget": "grasp clouds and seize mist",
     "AlternateTargets": [
-      "grasp clouds and snatch mist"
+      "seize clouds and mist"
     ],
     "SearchAliases": [
-      "seize clouds and clutch mist"
+      "拏 雲 攫 霧",
+      "grasp clouds and seize mist",
+      "seize clouds and mist",
+      "dragonlike reach"
     ],
     "Status": "preferred",
-    "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one cloud-grasping image with several explicitly named bearers.",
-    "CreatedBy": "Codex cohort-002 lane-A 61-70 full-case author",
-    "WrittenUtc": "2026-07-18T23:21:12.545053Z"
+    "Note": "The corpus writes the four graphs continuously. Dragon and dragon-transformation settings predominate, while Baiyu Jingsi also makes pagoda eaves the grammatical bearer. The same paired action can be asserted, denied, tested, or limited without becoming a different sense.",
+    "CreatedBy": "Codex Iriya canonical-form acquisition from frozen Chan corpus",
+    "WrittenUtc": "2026-07-21T00:00:00Z"
   },
   {
     "SourceTerm": "拖死屍",
