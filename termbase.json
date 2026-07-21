@@ -4720,6 +4720,20 @@
     "WrittenUtc": "2026-07-17T17:18:50.250413+00:00"
   },
   {
+    "SourceTerm": "五戒",
+    "PreferredTarget": "five precepts",
+    "AlternateTargets": [
+      "five rules"
+    ],
+    "SearchAliases": [
+      "five commandments"
+    ],
+    "Status": "preferred",
+    "Note": "The five precepts are an enumerated set of prohibitions; the records define the set, call it a root, and test who receives and keeps it.",
+    "CreatedBy": "Codex precept next-wave author",
+    "WrittenUtc": "2026-07-21T16:40:00Z"
+  },
+  {
     "SourceTerm": "五戒不持",
     "PreferredTarget": "not keeping the five precepts",
     "AlternateTargets": [
@@ -11220,6 +11234,21 @@
     "Note": "The phrase marks surrendering one's judgment or course to another's control.",
     "CreatedBy": "Codex C21-25 strict author",
     "WrittenUtc": "2026-07-19T07:00:00Z"
+  },
+  {
+    "SourceTerm": "受戒",
+    "PreferredTarget": "receive the precepts",
+    "AlternateTargets": [
+      "take the precepts"
+    ],
+    "SearchAliases": [
+      "ordination",
+      "be ordained"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase names the formal reception event; ordination is a retrieval bridge, not permission to import a separate institution into every context.",
+    "CreatedBy": "Codex precept next-wave author",
+    "WrittenUtc": "2026-07-21T16:40:00Z"
   },
   {
     "SourceTerm": "叢林",
@@ -19592,6 +19621,21 @@
     "WrittenUtc": "2026-07-18T23:21:12.508195Z"
   },
   {
+    "SourceTerm": "律",
+    "PreferredTarget": "disciplinary code",
+    "AlternateTargets": [
+      "monastic code"
+    ],
+    "SearchAliases": [
+      "Vinaya",
+      "rule"
+    ],
+    "Status": "preferred",
+    "Note": "The monastic disciplinary code and civil law are different institutional referents and are split; musical compounds remain family evidence.",
+    "CreatedBy": "Codex precept next-wave author",
+    "WrittenUtc": "2026-07-21T16:40:00Z"
+  },
+  {
     "SourceTerm": "律儀",
     "PreferredTarget": "disciplinary rules and regulated conduct",
     "AlternateTargets": [
@@ -19609,6 +19653,21 @@
     "Note": "118 exact hits in 76 independent works; 7 selected exact witnesses are stored.",
     "CreatedBy": "Codex Lane A evidence-first calibration",
     "WrittenUtc": "2026-07-17T10:05:43.323476+00:00"
+  },
+  {
+    "SourceTerm": "律師",
+    "PreferredTarget": "a Vinaya master",
+    "AlternateTargets": [
+      "a master of monastic discipline",
+      "a Vinaya preceptor"
+    ],
+    "SearchAliases": [
+      "ordination preceptor"
+    ],
+    "Status": "preferred",
+    "Note": "Ordination teacher, discipline specialist, and interlocutor all concern the same institutional role. The hostile Bodhidharma narrative is one inherited deployment repeated across lamp recensions and counts once.",
+    "CreatedBy": "Codex precept next-wave B",
+    "WrittenUtc": "2026-07-21T14:30:00Z"
   },
   {
     "SourceTerm": "律行",
@@ -20291,6 +20350,21 @@
     "Note": "Rows containing “mind, intent, and consciousness” (the mind-intent-consciousness compound) are family evidence only and do not count as independent segmentation of the shorter pair.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T07:29:26.734379+00:00"
+  },
+  {
+    "SourceTerm": "心戒",
+    "PreferredTarget": "the mind-precept",
+    "AlternateTargets": [
+      "precepts of mind",
+      "the precept in mind"
+    ],
+    "SearchAliases": [
+      "mind precept"
+    ],
+    "Status": "preferred",
+    "Note": "The quoted formula, contrast with form-precepts, nonseparation statement, and personal reception concern one precept referent rather than separate metaphorical senses.",
+    "CreatedBy": "Codex precept next-wave B",
+    "WrittenUtc": "2026-07-21T15:35:00Z"
   },
   {
     "SourceTerm": "心月孤圓、光呑萬象",
@@ -21321,6 +21395,20 @@
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
   {
+    "SourceTerm": "戒",
+    "PreferredTarget": "precept",
+    "AlternateTargets": [
+      "rule"
+    ],
+    "SearchAliases": [
+      "commandment"
+    ],
+    "Status": "preferred",
+    "Note": "A precept is a binding rule in this corpus; its commands, reception, keeping, and violation remain concrete.",
+    "CreatedBy": "Codex precept next-wave author",
+    "WrittenUtc": "2026-07-21T16:40:00Z"
+  },
+  {
     "SourceTerm": "戒和尚",
     "PreferredTarget": "the ordaining preceptor",
     "AlternateTargets": [],
@@ -21331,6 +21419,49 @@
     "Note": "5 distinct work IDs selected after complete-case actor review.",
     "CreatedBy": "Codex f004 lane B complete-case author",
     "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
+  },
+  {
+    "SourceTerm": "戒定慧",
+    "PreferredTarget": "precepts, dhyana, and wisdom",
+    "AlternateTargets": [
+      "precepts–dhyana–wisdom"
+    ],
+    "SearchAliases": [
+      "precepts dhyana wisdom"
+    ],
+    "Status": "preferred",
+    "Note": "The three graphs name one stable ordered formula. Different definitions and appraisals concern that same triad and do not create extra lexical things.",
+    "CreatedBy": "Codex precept next-wave B",
+    "WrittenUtc": "2026-07-21T14:30:00Z"
+  },
+  {
+    "SourceTerm": "戒律",
+    "PreferredTarget": "precepts and discipline",
+    "AlternateTargets": [
+      "precept code"
+    ],
+    "SearchAliases": [
+      "disciplinary rules"
+    ],
+    "Status": "preferred",
+    "Note": "The compound names the binding precepts together with their disciplinary code, not an abstract moral atmosphere.",
+    "CreatedBy": "Codex precept next-wave author",
+    "WrittenUtc": "2026-07-21T16:40:00Z"
+  },
+  {
+    "SourceTerm": "戒法",
+    "PreferredTarget": "the precepts",
+    "AlternateTargets": [
+      "precept teaching",
+      "precept rules"
+    ],
+    "SearchAliases": [
+      "precept rules"
+    ],
+    "Status": "preferred",
+    "Note": "Reception, instruction, and rule/code passages concern one body of precepts rather than different things. Headings that mean an address on the precepts segment as “precept address” and are not evidence for another sense.",
+    "CreatedBy": "Codex precept next-wave B",
+    "WrittenUtc": "2026-07-21T15:35:00Z"
   },
   {
     "SourceTerm": "戒相",
@@ -21374,6 +21505,21 @@
     "Note": "The target describes the attested lexical unit; surrounding cases determine the particular judgment made with it.",
     "CreatedBy": "Codex fresh construction Lane A",
     "WrittenUtc": "2026-07-19T03:23:22.023942+00:00"
+  },
+  {
+    "SourceTerm": "戒體",
+    "PreferredTarget": "the basis of the precepts",
+    "AlternateTargets": [
+      "the precept-body",
+      "what the precepts rest on"
+    ],
+    "SearchAliases": [
+      "basis of the precepts"
+    ],
+    "Status": "preferred",
+    "Note": "The corpus asks and answers what constitutes the precepts while preserving the same referent; different proposed identifications are readings of that question, not separate lexical things.",
+    "CreatedBy": "Codex precept next-wave B",
+    "WrittenUtc": "2026-07-21T15:35:00Z"
   },
   {
     "SourceTerm": "截斷",
@@ -22815,6 +22961,20 @@
     "Note": "The comic grammar is the point; it does not establish a detachable physical mouth.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T16:10:56.490245Z"
+  },
+  {
+    "SourceTerm": "持戒",
+    "PreferredTarget": "keep the precepts",
+    "AlternateTargets": [
+      "observe the precepts"
+    ],
+    "SearchAliases": [
+      "precept keeping"
+    ],
+    "Status": "preferred",
+    "Note": "Keeping means remaining answerable to the binding rules; the records test what such keeping amounts to without making the rule disappear.",
+    "CreatedBy": "Codex precept next-wave author",
+    "WrittenUtc": "2026-07-21T16:40:00Z"
   },
   {
     "SourceTerm": "指天指地",
@@ -29375,6 +29535,20 @@
     "WrittenUtc": "2026-07-19T16:51:12.994564Z"
   },
   {
+    "SourceTerm": "毘尼",
+    "PreferredTarget": "Vinaya",
+    "AlternateTargets": [
+      "disciplinary code"
+    ],
+    "SearchAliases": [
+      "monastic discipline"
+    ],
+    "Status": "preferred",
+    "Note": "Vinaya names the disciplinary code and its field of study; masters invoke it as an institutional authority and test what attention to it accomplishes.",
+    "CreatedBy": "Codex precept next-wave author",
+    "WrittenUtc": "2026-07-21T16:40:00Z"
+  },
+  {
     "SourceTerm": "氣急殺人",
     "PreferredTarget": "enough to kill one with exasperation",
     "AlternateTargets": [
@@ -30522,6 +30696,21 @@
     "WrittenUtc": "2026-07-17T00:00:00Z"
   },
   {
+    "SourceTerm": "波羅提木叉",
+    "PreferredTarget": "the code securing liberation",
+    "AlternateTargets": [
+      "pratimoksha",
+      "the code of liberation"
+    ],
+    "SearchAliases": [
+      "pratimoksha code"
+    ],
+    "Status": "preferred",
+    "Note": "Definition, scriptural quotation, teaching-seat demonstration, and adversarial question all concern the same precept code; the different appraisals do not create separate referents.",
+    "CreatedBy": "Codex precept next-wave B",
+    "WrittenUtc": "2026-07-21T15:35:00Z"
+  },
+  {
     "SourceTerm": "波羅蜜",
     "PreferredTarget": "perfection",
     "AlternateTargets": [],
@@ -31353,6 +31542,20 @@
     "Note": "Sense and actor decisions were made from complete stored contexts before prose compilation.",
     "CreatedBy": "Codex f004 lane C evidence-first full-context canary",
     "WrittenUtc": "2026-07-20T00:00:00Z"
+  },
+  {
+    "SourceTerm": "清規",
+    "PreferredTarget": "monastic regulations",
+    "AlternateTargets": [
+      "pure regulations"
+    ],
+    "SearchAliases": [
+      "monastery rules"
+    ],
+    "Status": "preferred",
+    "Note": "The regulations organize the Chan monastery's offices and conduct; masters both define their institutional origin and enforce them in public cases.",
+    "CreatedBy": "Codex precept next-wave author",
+    "WrittenUtc": "2026-07-21T16:40:00Z"
   },
   {
     "SourceTerm": "渠今正是我",
@@ -32514,6 +32717,21 @@
     "WrittenUtc": "2026-07-17T12:15:28.223910+00:00"
   },
   {
+    "SourceTerm": "無相戒",
+    "PreferredTarget": "the formless precepts",
+    "AlternateTargets": [
+      "formless precepts",
+      "the precepts without marks"
+    ],
+    "SearchAliases": [
+      "formless precepts"
+    ],
+    "Status": "preferred",
+    "Note": "Conferral, the named precept teaching, and the direct question concern one class of precepts; the answer’s image does not create another lexical thing.",
+    "CreatedBy": "Codex precept next-wave B",
+    "WrittenUtc": "2026-07-21T15:35:00Z"
+  },
+  {
     "SourceTerm": "無相為體",
     "PreferredTarget": "formlessness as the basis",
     "AlternateTargets": [],
@@ -33534,6 +33752,21 @@
     "Note": "The animal image is one thing across the cases; the objects of criticism differ and do not create new lexical senses.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T18:49:10.584327Z"
+  },
+  {
+    "SourceTerm": "犯戒",
+    "PreferredTarget": "to violate the precepts",
+    "AlternateTargets": [
+      "to break the precepts",
+      "precept violation"
+    ],
+    "SearchAliases": [
+      "breaking the precepts"
+    ],
+    "Status": "preferred",
+    "Note": "Intention, explicit rule-breaking, and testing formulas all concern violating the precepts; the masters’ criteria and consequences differ, but the act is not a different lexical thing.",
+    "CreatedBy": "Codex precept next-wave B",
+    "WrittenUtc": "2026-07-21T15:35:00Z"
   },
   {
     "SourceTerm": "狗咬枯骨",
@@ -36867,6 +37100,20 @@
     "Note": "Household ruin is a figurative action in the paired sayings; the witnesses do not report destroyed buildings.",
     "CreatedBy": "Codex Iriya lane A111-120 full-case author",
     "WrittenUtc": "2026-07-18T18:20:00Z"
+  },
+  {
+    "SourceTerm": "破戒",
+    "PreferredTarget": "break a precept",
+    "AlternateTargets": [
+      "violate the precepts"
+    ],
+    "SearchAliases": [
+      "precept violation"
+    ],
+    "Status": "preferred",
+    "Note": "Breaking names violation of a binding rule; masters also use it to expose claims that relocate violation without answering for it.",
+    "CreatedBy": "Codex precept next-wave author",
+    "WrittenUtc": "2026-07-21T16:40:00Z"
   },
   {
     "SourceTerm": "破沙盆",
@@ -41927,6 +42174,18 @@
     "Note": "The entry tracks Huineng’s attributed verse line and the later encounters that quote it.",
     "CreatedBy": "Codex investigation-next300 Lane A",
     "WrittenUtc": "2026-07-17T14:10:00Z"
+  },
+  {
+    "SourceTerm": "菩薩戒",
+    "PreferredTarget": "the bodhisattva precepts",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "bodhisattva vows"
+    ],
+    "Status": "preferred",
+    "Note": "The disciple-title, reception event, rule-body, and direct-question uses name the same institutional precept class; grammatical differences do not require separate senses.",
+    "CreatedBy": "Codex precept next-wave B",
+    "WrittenUtc": "2026-07-21T14:30:00Z"
   },
   {
     "SourceTerm": "華嶽連天碧、黄河徹底流",
@@ -49999,6 +50258,21 @@
     "Note": "The former verb/result targets were request and receipt grammar for the same showing and are merged. Compare raising and expounding, question-and-answer, offering an indication, addressing the assembly, and formal instruction words. No mystical content is assigned to the act or its received result. Frozen-corpus concordance: 1641 exact hits in 292 storage files representing 286 independent works.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "開遮",
+    "PreferredTarget": "permission and prohibition",
+    "AlternateTargets": [
+      "allowing and barring",
+      "exceptions and prohibitions"
+    ],
+    "SearchAliases": [
+      "precept permissions and prohibitions"
+    ],
+    "Status": "preferred",
+    "Note": "The precept and Chan cases retain one paired operation—allowing and barring—applied in distinct settings; context alone does not prove two different things.",
+    "CreatedBy": "Codex precept next-wave B",
+    "WrittenUtc": "2026-07-21T15:35:00Z"
   },
   {
     "SourceTerm": "開門",
