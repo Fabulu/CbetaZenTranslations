@@ -3055,6 +3055,24 @@
     "WrittenUtc": "2026-07-14T23:15:00Z"
   },
   {
+    "SourceTerm": "不二",
+    "PreferredTarget": "not two",
+    "AlternateTargets": [
+      "not divided in two"
+    ],
+    "SearchAliases": [
+      "not-two",
+      "not divided",
+      "nonduality",
+      "non-duality",
+      "nondual"
+    ],
+    "Status": "preferred",
+    "Note": "The preferred rendering preserves the predicate's grammar. The familiar English abstractions are retained only as hidden corrective search aliases and are not accepted translations.",
+    "CreatedBy": "Codex standalone 不二 flagship construction",
+    "WrittenUtc": "2026-07-21T00:00:00Z"
+  },
+  {
     "SourceTerm": "不二法門",
     "PreferredTarget": "gate of not-two",
     "AlternateTargets": [
