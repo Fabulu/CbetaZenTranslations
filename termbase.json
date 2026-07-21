@@ -17198,6 +17198,25 @@
     "WrittenUtc": "2026-07-19T19:57:16.627305Z"
   },
   {
+    "SourceTerm": "定",
+    "PreferredTarget": "dhyana composure",
+    "AlternateTargets": [
+      "composure",
+      "absorption"
+    ],
+    "SearchAliases": [
+      "dhyana",
+      "composure",
+      "absorption",
+      "always in composure",
+      "moving and still"
+    ],
+    "Status": "preferred",
+    "Note": "Six standalone locative uses from six independent works are stored; longer compounds do not supply this sense's evidence floor.",
+    "CreatedBy": "Codex standalone-keystone evidence-first author",
+    "WrittenUtc": "2026-07-21T21:20:00+00:00"
+  },
+  {
     "SourceTerm": "定光佛",
     "PreferredTarget": "Dipankara Buddha",
     "AlternateTargets": [],
@@ -21142,6 +21161,25 @@
     "Note": "A battle-tested accomplished hand is a Chan appraisal for someone proven in encounters; the surrounding verdict can praise that capability, challenge it, or show it failing.",
     "CreatedBy": "Codex Iriya cohort001 Lane B positions11-20 evidence-first",
     "WrittenUtc": "2026-07-18T06:10:41.301422+00:00"
+  },
+  {
+    "SourceTerm": "慧",
+    "PreferredTarget": "insight",
+    "AlternateTargets": [
+      "clear seeing",
+      "wisdom as a capacity"
+    ],
+    "SearchAliases": [
+      "insight",
+      "clear seeing",
+      "wisdom",
+      "wisdom capacity",
+      "戒定慧"
+    ],
+    "Status": "preferred",
+    "Note": "Many appearances belong to compounds, titles, or personal names. This article retains cases where the character is independently questioned or defined.",
+    "CreatedBy": "Codex 慧 keystone author",
+    "WrittenUtc": "2026-07-21T17:30:27Z"
   },
   {
     "SourceTerm": "慧命",
