@@ -2100,18 +2100,19 @@
   },
   {
     "SourceTerm": "七尺單前",
-    "PreferredTarget": "before the seven-foot sitting platform",
+    "PreferredTarget": "at one’s seven-foot place on the monastic platform",
     "AlternateTargets": [
-      "before seven-foot sitting platform"
+      "before one’s seven-foot place on the sitting platform"
     ],
     "SearchAliases": [
-      "before the seven-foot sitting platform",
-      "七尺單前"
+      "seven-foot place",
+      "seven-foot sitting place",
+      "monastic platform place"
     ],
     "Status": "preferred",
-    "Note": "Sermons and exchanges make this the concrete place of seated training, composure, and testing in the monks hall. Exact-turn review separates quotations, questions, and record headings.",
-    "CreatedBy": "iriya-construction-001 lane B",
-    "WrittenUtc": "2026-07-18T09:10:01.121771Z"
+    "Note": "The allotment (單) is the resident’s place on the long communal platform, not an abstract platform image.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T09:00:00Z"
   },
   {
     "SourceTerm": "七手八脚",
@@ -2127,6 +2128,23 @@
     "Note": "The construction is evaluative or figurative in these cases; it does not assert a literal creature with seven hands and eight feet.",
     "CreatedBy": "Codex investigation-next300 Lane B",
     "WrittenUtc": "2026-07-17T13:14:37.420396+00:00"
+  },
+  {
+    "SourceTerm": "七條",
+    "PreferredTarget": "the seven-strip robe",
+    "AlternateTargets": [
+      "the seven-panel robe",
+      "the seven-strip kāṣāya"
+    ],
+    "SearchAliases": [
+      "seven-piece robe",
+      "seven-fold robe",
+      "seven-strip monastic robe"
+    ],
+    "Status": "preferred",
+    "Note": "The headword names the counted seven-strip robe even when the noun robe is omitted.",
+    "CreatedBy": "Codex Blyth priority lane A",
+    "WrittenUtc": "2026-07-21T16:02:00Z"
   },
   {
     "SourceTerm": "七穿八穴",
@@ -3053,6 +3071,24 @@
     "Note": "Exact frozen-Seven witnesses across five independent works meet the packet floor and cover assembly response, final response, failed group responses, ordered response, repeated attempts, reported failure, and delayed successful submission.",
     "CreatedBy": "Codex fresh f001 lane A",
     "WrittenUtc": "2026-07-14T23:15:00Z"
+  },
+  {
+    "SourceTerm": "不二",
+    "PreferredTarget": "not two",
+    "AlternateTargets": [
+      "not divided in two"
+    ],
+    "SearchAliases": [
+      "not-two",
+      "not divided",
+      "nonduality",
+      "non-duality",
+      "nondual"
+    ],
+    "Status": "preferred",
+    "Note": "The preferred rendering preserves the predicate's grammar. The familiar English abstractions are retained only as hidden corrective search aliases and are not accepted translations.",
+    "CreatedBy": "Codex standalone 不二 flagship construction",
+    "WrittenUtc": "2026-07-21T00:00:00Z"
   },
   {
     "SourceTerm": "不二法門",
@@ -5173,6 +5209,22 @@
     "Note": "The line licenses dealing fully with the present occasion; it does not prescribe intoxication as a universal rule.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T19:45:40.300930Z"
+  },
+  {
+    "SourceTerm": "他是阿誰",
+    "PreferredTarget": "who is he?",
+    "AlternateTargets": [
+      "who is that?"
+    ],
+    "SearchAliases": [
+      "Another",
+      "who is this Another",
+      "Shakyamuni and Maitreya are his servants"
+    ],
+    "Status": "preferred",
+    "Note": "The headword is the complete question, not a special dictionary sense imposed on every occurrence of the pronoun 'he' or 'that one' (他).",
+    "CreatedBy": "Codex Blyth acquisition lane C",
+    "WrittenUtc": "2026-07-21T19:40:00Z"
   },
   {
     "SourceTerm": "付囑",
@@ -7613,15 +7665,20 @@
   },
   {
     "SourceTerm": "兔子懷胎",
-    "PreferredTarget": "a rabbit carries a fetus",
-    "AlternateTargets": [],
+    "PreferredTarget": "the rabbit becomes pregnant",
+    "AlternateTargets": [
+      "a rabbit conceives"
+    ],
     "SearchAliases": [
-      "a rabbit carries a fetus"
+      "pregnant rabbit",
+      "rabbit becomes pregnant",
+      "rabbit conceives",
+      "rabbit conceives by moonlight"
     ],
     "Status": "preferred",
-    "Note": "The pregnant rabbit is the answer about prajna in operation; moon-bearing bivalves belong to the paired question about its body.",
-    "CreatedBy": "Codex Iriya lane C131-140 full-case author",
-    "WrittenUtc": "2026-07-18T23:59:00Z"
+    "Note": "Zhimen Guangzuo gives the phrase as the answer about complete discernment in operation. Yuanwu Keqin explicitly identifies it as a mid-autumn moon-conception image and warns that Zhimen's answer is not located in the rabbit or bivalve themselves. Caoyuan Sheng's later rabbit-gives-birth-to-a-tiger verse belongs to a different moonlit case.",
+    "CreatedBy": "Codex inherited-image audit repair",
+    "WrittenUtc": "2026-07-21T11:20:00Z"
   },
   {
     "SourceTerm": "兔角杖",
@@ -13144,18 +13201,19 @@
   },
   {
     "SourceTerm": "嘉州大象",
-    "PreferredTarget": "the Jiazhou elephant",
+    "PreferredTarget": "the great image at Jiazhou",
     "AlternateTargets": [
-      "Jiazhou’s great elephant"
+      "the great Buddha image at Jiazhou"
     ],
     "SearchAliases": [
-      "Jiazhou elephant",
-      "Shaanfu iron ox and Jiazhou elephant"
+      "the great statue at Jiazhou",
+      "the great Buddha at Jiazhou",
+      "the great elephant of Jiazhou"
     ],
     "Status": "preferred",
-    "Note": "Across sermons and capping lines it is repeatedly paired with the Shaanfu iron ox: the pair collide, swallow one another, are mounted, released, or receive matching diagnoses. Exact-turn review keeps quotations and record headings separate.",
-    "CreatedBy": "iriya-construction-001 lane B",
-    "WrittenUtc": "2026-07-18T09:06:17.665157Z"
+    "Note": "The corpus-family spellings 'great image,' 'stone image,' 'stone buddha,' and 'great buddha' identify the final graph here as the image/statue form, not an elephant. Later sayings animate the fixed image in wordplay without changing its referent.",
+    "CreatedBy": "Codex inherited-image repair lane A",
+    "WrittenUtc": "2026-07-21T14:40:00Z"
   },
   {
     "SourceTerm": "嘉州打大象",
@@ -16364,6 +16422,24 @@
     "WrittenUtc": "2026-07-19T02:20:00Z"
   },
   {
+    "SourceTerm": "妄覺",
+    "PreferredTarget": "delusive awareness",
+    "AlternateTargets": [
+      "false awareness",
+      "mistaken knowing"
+    ],
+    "SearchAliases": [
+      "delusive awareness",
+      "false awareness",
+      "mistaken knowing",
+      "illusion"
+    ],
+    "Status": "preferred",
+    "Note": "Blyth's flat ‘illusion’ loses the headword's graph for awareness (覺). The Chan passages preserve an active false or delusive awareness and explicitly contrast it with both true awareness and blank unknowing.",
+    "CreatedBy": "Codex Blyth resume lane B evidence-first",
+    "WrittenUtc": "2026-07-21T13:00:00Z"
+  },
+  {
     "SourceTerm": "妙用",
     "PreferredTarget": "marvelous function",
     "AlternateTargets": [
@@ -16679,6 +16755,22 @@
     "Note": "This article limits solitary illumination shining alone to the exact uses in T/T48/T48n2001.xml and X/X71/X71n1426.xml; no broader component count or neighbouring compound is used for validation.",
     "CreatedBy": "Codex post-current-investigation720 Lane A positions 33-59",
     "WrittenUtc": "2026-07-17T17:28:05.442634+00:00"
+  },
+  {
+    "SourceTerm": "孤貧",
+    "PreferredTarget": "solitary and poor",
+    "AlternateTargets": [
+      "alone and destitute",
+      "orphaned and poor"
+    ],
+    "SearchAliases": [
+      "poor and alone",
+      "destitute monk"
+    ],
+    "Status": "preferred",
+    "Note": "The Qingshui-Caoshan exchange is one inherited case despite its many recensions. Independent poems by named masters support the same paired description without turning it into another sense.",
+    "CreatedBy": "Codex Blyth priority lane A",
+    "WrittenUtc": "2026-07-21T15:48:00Z"
   },
   {
     "SourceTerm": "孫臏",
@@ -23431,6 +23523,22 @@
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
   {
+    "SourceTerm": "摩訶衍",
+    "PreferredTarget": "great vehicle",
+    "AlternateTargets": [
+      "the great conveyance"
+    ],
+    "SearchAliases": [
+      "great vehicle",
+      "Mahayana",
+      "Makaen"
+    ],
+    "Status": "preferred",
+    "Note": "The Chinese phonetic form (摩訶衍) corresponds to Mahāyāna, but the preferred English follows Baizhang Huaihai's own corpus gloss rather than leaving Blyth's ‘Makaen’ unexplained.",
+    "CreatedBy": "Codex Blyth resume lane B evidence-first",
+    "WrittenUtc": "2026-07-21T13:00:00Z"
+  },
+  {
     "SourceTerm": "摸索不著",
     "PreferredTarget": "impossible to get hold of",
     "AlternateTargets": [
@@ -25763,6 +25871,22 @@
     "Note": "6 exact occurrences from 6 independent works are stored.",
     "CreatedBy": "Codex fresh construction Lane C",
     "WrittenUtc": "2026-07-19T03:44:39.755866+00:00"
+  },
+  {
+    "SourceTerm": "智",
+    "PreferredTarget": "discernment",
+    "AlternateTargets": [
+      "wisdom"
+    ],
+    "SearchAliases": [
+      "knowing",
+      "understanding",
+      "intelligence"
+    ],
+    "Status": "preferred",
+    "Note": "This article covers the independently active single graph. Larger compounds and personal names or titles containing that graph require separate treatment.",
+    "CreatedBy": "Codex 智 evidence reconciliation",
+    "WrittenUtc": "2026-07-21T14:32:00Z"
   },
   {
     "SourceTerm": "智不到處，切忌道著",
@@ -30956,6 +31080,22 @@
     "WrittenUtc": "2026-07-19T13:47:01.573989Z"
   },
   {
+    "SourceTerm": "涅槃妙心",
+    "PreferredTarget": "the wondrous mind of nirvana",
+    "AlternateTargets": [
+      "nirvana's wondrous mind",
+      "the subtle mind of nirvana"
+    ],
+    "SearchAliases": [
+      "wondrous nirvana mind",
+      "subtle nirvana mind"
+    ],
+    "Status": "preferred",
+    "Note": "This entry covers the complete phrase, not the final two graphs by themselves.",
+    "CreatedBy": "Codex Blyth priority lane A",
+    "WrittenUtc": "2026-07-21T15:35:00Z"
+  },
+  {
     "SourceTerm": "涅槃會",
     "PreferredTarget": "nirvana assembly",
     "AlternateTargets": [
@@ -32502,6 +32642,24 @@
     "Note": "The clause concerns unavailable formulation, not a temporary refusal to answer.",
     "CreatedBy": "Codex post720 Lane A positions 007-032",
     "WrittenUtc": "2026-07-17T17:48:39.440462+00:00"
+  },
+  {
+    "SourceTerm": "無記",
+    "PreferredTarget": "unresponsive blankness",
+    "AlternateTargets": [
+      "indeterminate dullness",
+      "blank unknowing"
+    ],
+    "SearchAliases": [
+      "unresponsive blankness",
+      "blank unknowing",
+      "indeterminate dullness",
+      "neutral awareness"
+    ],
+    "Status": "preferred",
+    "Note": "The source passages do not support Blyth's ‘lack of discrimination’: they distinguish this blank, nonresponsive condition from both false knowing and the way that Nanquan says belongs to neither knowing nor not knowing.",
+    "CreatedBy": "Codex Blyth resume lane B evidence-first",
+    "WrittenUtc": "2026-07-21T12:45:00Z"
   },
   {
     "SourceTerm": "無語",
@@ -40261,6 +40419,22 @@
     "WrittenUtc": "2026-07-18T17:35:02Z"
   },
   {
+    "SourceTerm": "胡子",
+    "PreferredTarget": "the western foreigner",
+    "AlternateTargets": [
+      "the man from the West",
+      "the western barbarian"
+    ],
+    "SearchAliases": [
+      "foreigner from the West",
+      "Bodhidharma"
+    ],
+    "Status": "preferred",
+    "Note": "Five qualifying witnesses use “the western foreigner” (西天胡子), while Wumen's independent “this foreigner” (者箇胡子) proves that the word remains the referring unit after the modifier is dropped. Personal-name constructions such as Li Huzi and Liao Huzi are excluded name constructions, not counterevidence to the retained case sense.",
+    "CreatedBy": "Codex Blyth priority lane A",
+    "WrittenUtc": "2026-07-21T15:20:00Z"
+  },
+  {
     "SourceTerm": "胡盧胡盧",
     "PreferredTarget": "hulu, hulu—the sound of a banner in the wind",
     "AlternateTargets": [],
@@ -40404,6 +40578,23 @@
     "Note": "The phrase describes being free of the faculties and the objects encountered through them. Yongjue Yuanxian explicitly parses the affirming mind as the faculty and what it affirms as the object; this is a local grammatical explanation, not a newly named technical category.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T22:00:00Z"
+  },
+  {
+    "SourceTerm": "脫生死",
+    "PreferredTarget": "be free of birth and death",
+    "AlternateTargets": [
+      "escape birth and death",
+      "be free of life and death"
+    ],
+    "SearchAliases": [
+      "free from birth and death",
+      "liberation from birth and death",
+      "escape life and death"
+    ],
+    "Status": "preferred",
+    "Note": "The graphs name getting free of birth and death. The entry stays with the questions, answers, and descriptions preserved in the Zen records.",
+    "CreatedBy": "Codex Blyth acquisition lane C",
+    "WrittenUtc": "2026-07-21T19:48:00Z"
   },
   {
     "SourceTerm": "脫體",
@@ -40643,18 +40834,19 @@
   },
   {
     "SourceTerm": "臘月火燒山",
-    "PreferredTarget": "in the twelfth month, fire burns the mountain",
-    "AlternateTargets": [],
+    "PreferredTarget": "at year’s coldest end, fire burns the mountain",
+    "AlternateTargets": [
+      "in the twelfth month, fire burns the mountain"
+    ],
     "SearchAliases": [
-      "in the twelfth month, fire burns the mountain",
-      "twelfth",
-      "month",
-      "burns"
+      "winter mountain fire",
+      "fire burns the mountain at year end",
+      "twelfth-month mountain fire"
     ],
     "Status": "preferred",
-    "Note": "In the twelfth month, fire burns the mountain is Xianglin Chengyuan's complete answer when asked about the matter beneath the patch robe. The records give no gloss for the winter fire image beyond its wording and its place in Xianglin’s case.",
-    "CreatedBy": "Codex Iriya Lane B B071-B080 full-case author",
-    "WrittenUtc": "2026-07-18T11:16:52.053234+00:00"
+    "Note": "The twelfth lunar month (臘月) is the cold at year’s end; later verses make the collision with mountain fire explicit rather than supplying a hidden symbolic gloss.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T09:00:00Z"
   },
   {
     "SourceTerm": "臥月眠雲",
@@ -41310,6 +41502,22 @@
     "Note": "The frozen corpus has 2,184 exact hits in 98 files representing 95 works. Eight anchors cover hall addresses, replies after questions, a response after group silence, and transmitted early cases across six independent works. Repeated witnesses from one work do not inflate work spread.",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "良馬見鞭影",
+    "PreferredTarget": "a good horse moves at the sight of the whip's shadow",
+    "AlternateTargets": [
+      "a fine horse runs on seeing the whip's shadow"
+    ],
+    "SearchAliases": [
+      "good horse whip shadow",
+      "fine horse sees the whip",
+      "horse moves at the shadow of the whip"
+    ],
+    "Status": "preferred",
+    "Note": "The recurrent longer form, 'a good horse sees the whip's shadow and moves' (良馬見鞭影而行), adds the following motion explicitly. The records do not make the whip strike the horse; seeing its shadow is enough for motion.",
+    "CreatedBy": "Codex Blyth acquisition lane C",
+    "WrittenUtc": "2026-07-21T19:00:00Z"
   },
   {
     "SourceTerm": "芥子",
@@ -42438,15 +42646,18 @@
     "SourceTerm": "蚌含明月",
     "PreferredTarget": "the clam holds the bright moon",
     "AlternateTargets": [
-      "a clam containing the moon"
+      "a clam takes in the bright moon"
     ],
     "SearchAliases": [
-      "a clam containing the moon"
+      "clam holds the moon",
+      "clam contains the moon",
+      "moon-bearing clam",
+      "clam forms a pearl by moonlight"
     ],
     "Status": "preferred",
-    "Note": "Fresh C56 construction from exact complete cases; bridged discovery 74 hits across 46 works; exact apparatus-clean frequency is compiled by the depth gate.",
-    "CreatedBy": "Codex fresh semantic author lane C repair",
-    "WrittenUtc": "2026-07-18T10:04:35.053225Z"
+    "Note": "Zhimen Guangzuo gives the phrase as the answer about the body of complete discernment. Yuanwu Keqin explicitly identifies it as a mid-autumn image of a clam opening to moonlight and forming a pearl; the paired pregnant-rabbit answer concerns operation.",
+    "CreatedBy": "Codex inherited-image audit repair",
+    "WrittenUtc": "2026-07-21T11:30:00Z"
   },
   {
     "SourceTerm": "蛇入竹筒",
@@ -43906,6 +44117,22 @@
     "WrittenUtc": "2026-07-21T00:30:00Z"
   },
   {
+    "SourceTerm": "觸背",
+    "PreferredTarget": "touching it or turning away from it",
+    "AlternateTargets": [
+      "touching it or going against it"
+    ],
+    "SearchAliases": [
+      "touch or turn away",
+      "assert or deny",
+      "bamboo slat naming challenge"
+    ],
+    "Status": "preferred",
+    "Note": "One paired term in the bamboo-slat family; the separate single graphs remain outside this entry.",
+    "CreatedBy": "Codex Blyth acquisition lane C",
+    "WrittenUtc": "2026-07-21T19:35:00Z"
+  },
+  {
     "SourceTerm": "觸途成滯",
     "PreferredTarget": "meet obstruction at every turn",
     "AlternateTargets": [
@@ -44761,6 +44988,23 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "諦聽",
+    "PreferredTarget": "listen carefully",
+    "AlternateTargets": [
+      "listen attentively",
+      "pay close attention"
+    ],
+    "SearchAliases": [
+      "listen closely",
+      "hear carefully",
+      "attentive listening"
+    ],
+    "Status": "preferred",
+    "Note": "The command is also repeated for emphasis. Repetition remains the same imperative, not another sense.",
+    "CreatedBy": "Codex Blyth priority lane B",
+    "WrittenUtc": "2026-07-21T14:00:00Z"
+  },
+  {
     "SourceTerm": "諦觀法王法、法王法如是",
     "PreferredTarget": "ceremonial proclamation that the Teaching King’s teaching is thus",
     "AlternateTargets": [
@@ -45066,13 +45310,16 @@
   },
   {
     "SourceTerm": "豆爆寒灰",
-    "PreferredTarget": "beans bursting in cold ashes",
-    "AlternateTargets": [],
-    "SearchAliases": [
+    "PreferredTarget": "hot beans bursting through cold ash",
+    "AlternateTargets": [
       "beans bursting in cold ashes"
     ],
+    "SearchAliases": [
+      "beans burst in cold ash",
+      "hot beans in cold ash"
+    ],
     "Status": "preferred",
-    "Note": "The image is not paraphrased as an inner living response.",
+    "Note": "The corpus does not license calling every occurrence impossible: Shanquan Wei explicitly places hot beans in cold ash beside a burning pinewood hearth.",
     "CreatedBy": "Codex post720 Lane C positions 033-058",
     "WrittenUtc": "2026-07-17T16:30:22.041434+00:00"
   },
@@ -46406,6 +46653,24 @@
     "Note": "The phrase describes lively responsiveness that turns with conditions without sticking in deliberation or a fixed position.",
     "CreatedBy": "Codex Iriya construction cohort 001 lane C positions 44-50",
     "WrittenUtc": "2026-07-18T09:10:50.968463Z"
+  },
+  {
+    "SourceTerm": "辜負",
+    "PreferredTarget": "to let down",
+    "AlternateTargets": [
+      "to fail",
+      "to disappoint"
+    ],
+    "SearchAliases": [
+      "let down",
+      "fail someone",
+      "disappoint",
+      "betray a trust"
+    ],
+    "Status": "preferred",
+    "Note": "The cited uses concern failing a person, one's own life or faculties, or an entrusted relationship; the passages do not frame the verb as committing a religious transgression.",
+    "CreatedBy": "Codex Blyth priority lane A evidence-first",
+    "WrittenUtc": "2026-07-21T12:00:00+00:00"
   },
   {
     "SourceTerm": "辜負殺人",
@@ -50393,6 +50658,22 @@
     "WrittenUtc": "2026-07-15T18:59:02.906491+00:00"
   },
   {
+    "SourceTerm": "離微",
+    "PreferredTarget": "separation and subtlety",
+    "AlternateTargets": [
+      "the separated and the subtle"
+    ],
+    "SearchAliases": [
+      "separation and subtlety",
+      "speech silence distinction",
+      "Li and Wei"
+    ],
+    "Status": "preferred",
+    "Note": "The corpus preserves separation (離) and subtlety (微) as a fixed pair rather than a single verb meaning ‘transgress.’ It does not support turning the pair into Blyth's one-word action; the recurring syntax is ‘involve’ (涉), ‘not fall into’ (不落), and ‘not violate’ (不犯).",
+    "CreatedBy": "Codex Blyth resume lane B evidence-first",
+    "WrittenUtc": "2026-07-21T13:00:00Z"
+  },
+  {
     "SourceTerm": "離心",
     "PreferredTarget": "apart from mind",
     "AlternateTargets": [
@@ -50534,19 +50815,19 @@
     "WrittenUtc": "2026-07-15T15:03:50.947927+00:00"
   },
   {
-    "SourceTerm": "雲從龍，風從虎",
-    "PreferredTarget": "the dragon-cloud and tiger-wind correspondence",
+    "SourceTerm": "雲從龍、風從虎",
+    "PreferredTarget": "clouds follow the dragon and wind follows the tiger",
     "AlternateTargets": [
-      "cloud follows dragon, wind follows tiger"
+      "clouds attend the dragon; wind attends the tiger"
     ],
     "SearchAliases": [
-      "clouds follow dragon",
-      "wind follows tiger"
+      "clouds follow dragons and wind follows tigers",
+      "like answers like"
     ],
     "Status": "preferred",
-    "Note": "Qixian Zhiqian gives the full pair as a direct answer and tests its dragon-and-tiger terms in the next exchange; sermons and capping sequences retain both coordinated clauses among further correspondences. Exact-turn review keeps quotations and record headings separate.",
-    "CreatedBy": "iriya-construction-001 lane B",
-    "WrittenUtc": "2026-07-18T08:15:51.189508Z"
+    "Note": "The records place the paired line within an explicit same-kind series: water goes to wetness, fire to dryness, each returns to its own place, and lions and sandalwoods remain with their own kind.",
+    "CreatedBy": "Codex inherited-image repair lane A",
+    "WrittenUtc": "2026-07-21T14:40:00Z"
   },
   {
     "SourceTerm": "雲水",
