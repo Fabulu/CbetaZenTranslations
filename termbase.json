@@ -17499,13 +17499,11 @@
   },
   {
     "SourceTerm": "定",
-    "PreferredTarget": "dhyana composure",
+    "PreferredTarget": "composure",
     "AlternateTargets": [
-      "composure",
       "absorption"
     ],
     "SearchAliases": [
-      "dhyana",
       "composure",
       "absorption",
       "always in composure",
