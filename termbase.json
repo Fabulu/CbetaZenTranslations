@@ -20851,6 +20851,27 @@
     "WrittenUtc": "2026-07-20T14:30:00Z"
   },
   {
+    "SourceTerm": "悟",
+    "PreferredTarget": "awakening",
+    "AlternateTargets": [
+      "to awaken",
+      "to realize"
+    ],
+    "SearchAliases": [
+      "awakening",
+      "awaken",
+      "realization",
+      "realize directly",
+      "sudden awakening",
+      "what did they awaken to",
+      "awakening and delusion"
+    ],
+    "Status": "preferred",
+    "Note": "Ten standalone lexical uses from ten independent works are stored. Compound-only substring matches were excluded from the evidence floor.",
+    "CreatedBy": "Codex standalone-keystone evidence-first author",
+    "WrittenUtc": "2026-07-21T17:02:40.599382+00:00"
+  },
+  {
     "SourceTerm": "悟了同未悟",
     "PreferredTarget": "having awakened is the same as not having awakened",
     "AlternateTargets": [],
@@ -33649,22 +33670,20 @@
   },
   {
     "SourceTerm": "牧牛",
-    "PreferredTarget": "herd an ox",
+    "PreferredTarget": "to herd cattle",
     "AlternateTargets": [
-      "tend the ox",
-      "ox-herding"
+      "to tend an ox",
+      "cattle-herding"
     ],
     "SearchAliases": [
-      "herd an ox",
-      "tend cattle",
-      "ox herding",
-      "tending an ox",
+      "herd cattle",
+      "tend an ox",
       "cowherding"
     ],
     "Status": "preferred",
-    "Note": "Five exact occurrences cover exchange, comparison, preface, definition, and criticism. The criticism contests the same ox-herding image and therefore does not create a second referent.",
-    "CreatedBy": "Codex fresh f002 Lane A evidence-first",
-    "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
+    "Note": "The records also use the expression for ordinary work with cattle; this literal action remains distinct from its teaching-seat use as an ox-herding image.",
+    "CreatedBy": "Codex bounded standalone 牧牛 author",
+    "WrittenUtc": "2026-07-21T16:10:00Z"
   },
   {
     "SourceTerm": "牧牛圖",
@@ -53768,6 +53787,27 @@
     "Note": "The literal field of skulls is a capping image; the texts do not identify one historical battlefield.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T15:56:54.711452Z"
+  },
+  {
+    "SourceTerm": "體",
+    "PreferredTarget": "what something is in itself",
+    "AlternateTargets": [
+      "its essential constitution",
+      "substance, as contrasted with function",
+      "body, in the sense of a thing's constituting form"
+    ],
+    "SearchAliases": [
+      "essence",
+      "substance",
+      "essential constitution",
+      "what it is in itself",
+      "body versus function",
+      "體用"
+    ],
+    "Status": "preferred",
+    "Note": "Most appearances of the bare graph lie inside compounds. The retained evidence uses it as the questioned head noun and keeps repeated copies of one answer from inflating the entry.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T16:20:00Z"
   },
   {
     "SourceTerm": "體露",
