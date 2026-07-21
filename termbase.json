@@ -14064,6 +14064,24 @@
     "WrittenUtc": "2026-07-20T12:00:00Z"
   },
   {
+    "SourceTerm": "坐斷要津不通凡聖",
+    "PreferredTarget": "occupy the crucial crossing, letting neither ordinary nor sacred pass",
+    "AlternateTargets": [
+      "hold the vital pass, admitting neither common nor holy",
+      "cut off the strategic crossing to ordinary and sacred alike"
+    ],
+    "SearchAliases": [
+      "block the crucial pass",
+      "neither ordinary nor sacred can pass",
+      "hold the vital crossing",
+      "坐斷要津、不通凡聖"
+    ],
+    "Status": "preferred",
+    "Note": "The cited passages preserve four distinct uses, one from each work.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T15:48:32.048677Z"
+  },
+  {
     "SourceTerm": "坐禪",
     "PreferredTarget": "the seated dhyana procedure",
     "AlternateTargets": [
@@ -15302,6 +15320,23 @@
     "Note": "great teaching names a great teaching or body of teaching when it is expounded or described as illuminating.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T22:30:00Z"
+  },
+  {
+    "SourceTerm": "大海不停死屍",
+    "PreferredTarget": "the great sea does not retain a corpse",
+    "AlternateTargets": [
+      "the great sea keeps no dead body"
+    ],
+    "SearchAliases": [
+      "great sea does not keep a corpse",
+      "ocean rejects a corpse",
+      "sea does not lodge a dead body",
+      "Linji dead body sea"
+    ],
+    "Status": "preferred",
+    "Note": "The five exact matches preserve one Linji address in separate recensions; three exact recensions are stored, but they establish one deployment rather than three independent uses.",
+    "CreatedBy": "Codex priority Iriya evidence-first author",
+    "WrittenUtc": "2026-07-21T15:56:09.476797+00:00"
   },
   {
     "SourceTerm": "大海若知足，百川應倒流",
@@ -26879,6 +26914,24 @@
     "WrittenUtc": "2026-07-17T11:37:58.846891+00:00"
   },
   {
+    "SourceTerm": "未透底人參句不如參意，透得底人參意不如參句",
+    "PreferredTarget": "one who has not penetrated does better to investigate the intent than the phrase, but one who has penetrated does better to investigate the phrase than the intent",
+    "AlternateTargets": [
+      "before breaking through, examine the intent rather than the wording; after breaking through, examine the wording rather than the intent"
+    ],
+    "SearchAliases": [
+      "investigate the phrase or the intent",
+      "before and after penetration",
+      "參句不如參意",
+      "參意不如參句",
+      "未透底人參句不如參意、透得底人參意不如參句"
+    ],
+    "Status": "preferred",
+    "Note": "The full paired saying is preserved in the Blue Cliff Record. Its clauses are separated there by editorial stops, so the canonical lookup form bridges punctuation without changing any graph.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T15:48:32.048677Z"
+  },
+  {
     "SourceTerm": "末後一句",
     "PreferredTarget": "the final phrase",
     "AlternateTargets": [
@@ -32410,6 +32463,23 @@
     "Note": "The line names an iron hammer with no aperture hurled directly at someone’s face. Dongchan Kuifuming uses it in a demonstration verse, Dahui Zonggao gives it in a direct answer, Yuechuang Liao uses it in another dialogue answer, and Dajue Jinglun raises it in a hall challenge. Dongchan Kuifuming and Dajue Jinglun are identified by their source sections but remain unlinked identities, so they are named here without being inserted into the lineage roster.",
     "CreatedBy": "Codex cohort-002 lane-B 41-50 strict author",
     "WrittenUtc": "2026-07-19T08:00:00Z"
+  },
+  {
+    "SourceTerm": "無孔鐵鎚重下楔",
+    "PreferredTarget": "drive another wedge into a holeless iron hammer",
+    "AlternateTargets": [
+      "wedge in a holeless hammer",
+      "impossible extra fastening"
+    ],
+    "SearchAliases": [
+      "holeless hammer",
+      "driving a wedge",
+      "one corresponding statement"
+    ],
+    "Status": "preferred",
+    "Note": "Six textual witnesses preserve four distinct uses: Xuedou Chongxian's verse, Shaoshan Gao's admonition, Shian Shao's answer, and Yulun Man's verse.",
+    "CreatedBy": "Codex Iriya remaining lane B positions 168-334 governed structured author",
+    "WrittenUtc": "2026-07-19T14:20:47.494944Z"
   },
   {
     "SourceTerm": "無字",
@@ -44484,6 +44554,23 @@
     "Note": "The echo is predicated of wording and response, not a separately narrated physical sound.",
     "CreatedBy": "Codex Iriya lane A111-120 full-case author",
     "WrittenUtc": "2026-07-18T18:20:00Z"
+  },
+  {
+    "SourceTerm": "言中辨的，句裏藏機",
+    "PreferredTarget": "discern the target in words and conceal the pivot in a phrase",
+    "AlternateTargets": [
+      "pick out the mark in speech and hide the turn inside a sentence"
+    ],
+    "SearchAliases": [
+      "target in words pivot in phrase",
+      "discern the mark in speech",
+      "conceal the pivot in a sentence",
+      "verbal skill is still drifting"
+    ],
+    "Status": "preferred",
+    "Note": "The complete paired wording has one exact occurrence in one work; the entry therefore preserves a single, explicitly bounded use.",
+    "CreatedBy": "Codex priority Iriya evidence-first author",
+    "WrittenUtc": "2026-07-21T15:56:09.476797+00:00"
   },
   {
     "SourceTerm": "言前",
