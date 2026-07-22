@@ -1,0 +1,2341 @@
+{
+  "master": "Jingshan Daoqin",
+  "primary_count": 2,
+  "secondary_count": 331,
+  "total_mentions": 724,
+  "primary": [
+    {
+      "path": "T\\T50\\T50n2042.xml",
+      "mentions": 7,
+      "title": "Biography of King Ashoka",
+      "title_zh": "阿育王傳",
+      "snippet": "阿育王傳卷第一 西晉安息三藏安法欽譯 本施土緣"
+    },
+    {
+      "path": "T\\T17\\T17n0816.xml",
+      "mentions": 6,
+      "title": "The Buddha’s Discourse on Miraculous Powers of the Path",
+      "title_zh": "佛說道神足無極變化經",
+      "snippet": "第一 西晉安息三藏安法欽譯 聞如是：一時佛遊於忉利天上，在巴質樹下 紺"
+    }
+  ],
+  "secondary": [
+    {
+      "path": "F\\F28\\F28n1072.xml",
+      "mentions": 30,
+      "title": "Collection of Names of All Buddhas and Bodhisattvas",
+      "title_zh": "一切佛菩薩名集",
+      "snippet": "...焰佛南无堅悟智佛 南无無量歡喜光佛南无最清淨不空聞佛 南无遍法界普照明佛南无一切功德山須\uDB8C\uDDD0勝雲佛 南无波羅蜜善眼莊嚴王佛南无最勝功德海佛 南无名稱普聞蓮花眼幢佛南无..."
+    },
+    {
+      "path": "T\\T14\\T14n0441.xml",
+      "mentions": 23,
+      "title": "The Buddha Speaks the Sūtra of Buddha Names",
+      "title_zh": "佛說佛名經",
+      "snippet": "... 南無六十 頻波羅遠離諸怖畏佛 南無一切同名遠離 諸怖畏佛 南無須彌山微塵數一切功德山 王勝名佛 南無一切同名功德山王勝名佛 南無千佛國土不可說億那由他微塵數普賢 佛..."
+    },
+    {
+      "path": "T\\T14\\T14n0440.xml",
+      "mentions": 20,
+      "title": "The Buddha Speaks the Sūtra of Buddha Names",
+      "title_zh": "佛說佛名經",
+      "snippet": "名遠離諸怖畏佛 南無須彌山微塵數一切功德山王勝名佛 南無一切同名功德山王勝名佛 南無十佛 國土不可說億那由他微塵數普賢佛 ..."
+    },
+    {
+      "path": "GA\\GA029\\GA029n0028.xml",
+      "mentions": 19,
+      "title": "Gazetteer of Longxing Xiangfu Ordination Platform Monastery",
+      "title_zh": "龍興祥符戒壇寺志",
+      "snippet": "...十有二年重建龍興寺 僧交熙募重建龍興寺疏武林城中罕存唐人遺 蹟唯祥符橋之龍興寺有國一禪師天中塔及胡 季良所書尊勝經幢幢下藏舍利五十四顆禪師 寂于貞元壬申距今同治壬申越歲..."
+    },
+    {
+      "path": "B\\B15\\B15n0088.xml",
+      "mentions": 16,
+      "title": "Selected Extracts from the Complete Collection of Illustrations and Writings from Antiquity to the Present (Part 1)",
+      "title_zh": "古今圖書集成選輯（上）",
+      "snippet": "...道時已有百千無 量億那由他眾生得離苦惱已能作大佛事次無量 壽佛成等正覺號一切光明功德山王如來第二太 子亦於寶藏佛前發大誓願願次觀音成佛國土莊 嚴一如觀音無異時佛即授記..."
+    },
+    {
+      "path": "P\\P179\\P179n1612.xml",
+      "mentions": 14,
+      "title": "Songs of Names of Buddhas, World-Honored Ones, Tathagatas, Bodhisattvas, and Worthies (Vols. 1–18)",
+      "title_zh": "諸佛世尊如來菩薩尊者名稱歌曲(第1卷-第18卷)",
+      "snippet": "...善世之曲 南無釋迦牟尼佛。南無金剛牟尼佛。南無金 剛光王佛。南無金剛功德佛。普光功德山王 佛。南無拘留孫佛。南無阿彌陀佛。南無拘那 含牟尼佛。 又 南無火光慧滅昏闇佛..."
+    },
+    {
+      "path": "P\\P178\\P178n1611.xml",
+      "mentions": 14,
+      "title": "Sutra of Names of Buddhas, World-Honored Ones, Tathagatas, Bodhisattvas, Worthies, and Holy Monks (Vols. 1–29)",
+      "title_zh": "諸佛世尊如來菩薩尊者神僧名經(第1卷-第29卷)",
+      "snippet": "...南無 善眼佛南無善親佛南無善臂佛南無善聲 佛南無善華佛南無善香佛南無善山佛南 無功德山佛南無善生佛南無善思議佛南 無善住清淨功德寶佛南無見一切義佛南 無一切世間愛見佛..."
+    },
+    {
+      "path": "GA\\GA040\\GA040n0040.xml",
+      "mentions": 11,
+      "title": "Illustrated Gazetteer of Pingshan Hall",
+      "title_zh": "平山堂圖志",
+      "snippet": "照清歡 蜀岡遊罷催歸轡 畫鷁原遲十里餘船馬北南殊所 習 始知古語信非虛 功德山 右拱平山嶠 遐臨廿四橋古原詠文士 今半屬禪寮 法雨鏡中落 天花雲外飄憑牕尤暢意..."
+    },
+    {
+      "path": "GA\\GA032\\GA032n0032.xml",
+      "mentions": 11,
+      "title": "Gazetteer of Jingshan (Vols. 6–14)",
+      "title_zh": "徑山志(第6卷-第14卷)",
+      "snippet": "...樓鑰 徑山乃天下奇處也。由雙徑而上，至高絕之地，五峰巉 然，中本龍湫，化為寶所。國一禪師開山于天寶之初，特 為偉異，天作地藏，待斯人而後發。道成名震，召歸長安， 代宗為..."
+    },
+    {
+      "path": "X\\X04\\X04n0223.xml",
+      "mentions": 11,
+      "title": "Combined Treatise on the Avatamsaka Sutra",
+      "title_zh": "華嚴經合論",
+      "snippet": "...「諸佛子！彼勝音世界，最初劫中，有十須彌山微塵 數如來出興於世。其第一佛，號一切功德山須彌勝 雲。諸佛子！應知彼佛將出現時，一百年前，此摩尼華 枝輪大林中，一切莊嚴，..."
+    },
+    {
+      "path": "Y\\Y22\\Y22n0022.xml",
+      "mentions": 10,
+      "title": "Studies in Buddhist History and Geography",
+      "title_zh": "佛教史地考論",
+      "snippet": "...王傳的內容 一 本傳的組織概說《阿育王傳》，西晉惠帝時（二九〇——三〇六）的 安法欽譯，凡五卷（或分七卷），十一品。異譯現存二本：一、劉宋元嘉中（四 三五——四五三..."
+    },
+    {
+      "path": "T\\T10\\T10n0279.xml",
+      "mentions": 9,
+      "title": "Great Vaipulya Buddha Avataṃsaka Sutra (Flower Garland Sutra)",
+      "title_zh": "大方廣佛華嚴經",
+      "snippet": "...佛子！ 彼勝音世界，最初劫中，有十須彌山微塵數 如來出興於世。其第一佛，號：一切功德山須 彌勝雲。諸佛子！應知彼佛將出現時，一百年 前，此摩尼華枝輪大林中，一切莊嚴周..."
+    },
+    {
+      "path": "T\\T09\\T09n0278.xml",
+      "mentions": 9,
+      "title": "Great Vaipulya Buddha Avataṃsaka Sutra (Flower Garland Sutra)",
+      "title_zh": "大方廣佛華嚴經",
+      "snippet": "...菩薩、寶 端嚴菩薩、大慧端嚴菩薩、金剛智端嚴菩薩、 離垢端嚴菩薩、法日端嚴菩薩、功德山端嚴 菩薩、智光端嚴菩薩、普妙德端嚴菩薩、大地 藏菩薩、虛空藏菩薩、蓮華藏菩薩、..."
+    },
+    {
+      "path": "X\\X74\\X74n1470.xml",
+      "mentions": 9,
+      "title": "Avatamsaka Ocean-Seal Assembly Repentance Rite",
+      "title_zh": "華嚴經海印道場懺儀",
+      "snippet": "唵薩㗚末怛達遏怛遏怛巴\uD874\uDE81難葛浪彌 。 功德山陀羅尼呪 捺麼莫\uD874\uDE81也捺㗚\uD874\uDE81㗚麻也捺麼珊遏也唵席寧呼 魯魯席\uDB90\uDE53嚕"
+    },
+    {
+      "path": "T\\T55\\T55n2154.xml",
+      "mentions": 9,
+      "title": "Kaiyuan Era Buddhist Catalog",
+      "title_zh": "開元釋教錄",
+      "snippet": "沙門彊梁婁至 沙門安法欽 沙門無羅叉 優婆塞竺叔蘭 沙門白法祖 沙門釋法立"
+    },
+    {
+      "path": "T\\T55\\T55n2149.xml",
+      "mentions": 8,
+      "title": "Great Tang Catalog of Inner Buddhist Texts",
+      "title_zh": "大唐內典錄",
+      "snippet": "...忘身利物誓志弘宣。匪憚苦辛。闡法為務。 護於晉世出經最多。弘護法網由其而起。其 法欽羅叉聶遠父子竺法蘭等相繼度述。所 以五十年間華戒道俗十有三人。并前失譯 諸經戒等..."
+    },
+    {
+      "path": "X\\X08\\X08n0240.xml",
+      "mentions": 7,
+      "title": "Outline Essentials of the Avatamsaka Sutra (Volumes 1–44)",
+      "title_zh": "華嚴綱要(第1卷-第44卷)",
+      "snippet": "...。諸佛子！彼勝音世界 最初劫中，有十須彌山微塵數如來出興於世，其第 一佛，號一切功德山須彌勝雲。諸佛子！應知彼佛將 出現時，一百年前，此摩尼華枝輪大林中，一切莊嚴 周..."
+    },
+    {
+      "path": "T\\T55\\T55n2157.xml",
+      "mentions": 7,
+      "title": "Newly Compiled Zhenyuan Buddhist Catalog",
+      "title_zh": "貞元新定釋教目錄",
+      "snippet": "... 西晉沙門竺法護一百七十五部三百五十 四卷經戒集 沙門彊梁婁至一部一卷集 沙門安法欽五部一十六卷經集 沙門無羅叉一部三十卷經 優婆塞竺叔蘭二部五卷經 沙門白法祖一十"
+    },
+    {
+      "path": "ZW\\ZW12\\ZW12n0099.xml",
+      "mentions": 6,
+      "title": "Buddha-Name Sūtra Spoken by the Buddha (20-scroll ed., Scrolls 8–10)",
+      "title_zh": "佛說佛名經（二十卷本——卷第八～卷第十）",
+      "snippet": "南無寂靜智佛。南無妙心佛。 南無功德莊嚴佛。南無增上行佛。 南無智意佛。南無功德山清淨聲佛。 南無攝集佛。南無妙信佛。 南無月見佛。南無功德王光明"
+    },
+    {
+      "path": "L\\L130\\L130n1557.xml",
+      "mentions": 6,
+      "title": "Collected Edition of the Commentary and Subcommentary on the Avatamsaka Sutra (Vols. 1–17)",
+      "title_zh": "大方廣佛華嚴經疏鈔會本(第1卷-第17卷)",
+      "snippet": "...舉其總言最初劫者即種種莊嚴劫也 既云最初即此後更有大劫於理無違。 其第一佛號一切功德山須彌勝雲。 第二正顯本事中歷事四佛即為四別第 一逢一切功德山須彌勝雲佛第二波羅 ..."
+    },
+    {
+      "path": "B\\B31\\B31n0170.xml",
+      "mentions": 6,
+      "title": "General History of Korean Buddhism",
+      "title_zh": "朝鮮佛教通史",
+      "snippet": "...又一日入廁還出。放下洗桶云。惟此一事實。餘二則非真。此言豈徒然哉。丙戌 夏。歸于功德山大乘寺。是年為始。至於己丑。四歲之間。三設般若講席。庚寅夏。到 天磨山觀音窟。大..."
+    },
+    {
+      "path": "B\\B29\\B29n0161.xml",
+      "mentions": 6,
+      "title": "Wulin Buddhist Gazetteer",
+      "title_zh": "武林梵志",
+      "snippet": "...遂即剃度名崇慧如長安與方士競法 既勝代宗問其師承對曰臣師徑山僧法欽召赴闕 賜號曰國一禪師逾年辭歸詔杭州即其庵建寺曰 徑山僖宗乾符六年改為乾符鎮國院宋大中祥符 元年改賜承..."
+    },
+    {
+      "path": "B\\B03\\B03n0002.xml",
+      "mentions": 6,
+      "title": "Essentials Compiled from Commentaries and Treatises on the Avataṃsaka Sūtra (Volumes 1–46)",
+      "title_zh": "華嚴經疏論纂要(第1卷-第46卷)",
+      "snippet": "...初。即此後更有大劫。於理無違。 ○第二正顯本事中。歷事四佛。即為四別。第一逢一切功德山須彌勝雲佛。第二波羅蜜善眼莊嚴佛。第 三最勝功德海佛。第四名稱普聞蓮華眼幢佛。各..."
+    },
+    {
+      "path": "Y\\Y40\\Y40n0038.xml",
+      "mentions": 6,
+      "title": "History of Chinese Chan",
+      "title_zh": "中國禪宗史",
+      "snippet": "...寺道悟傳〉，是根據符載〈 荊州城東天皇寺道悟禪師碑〉的。如《僧傳》說： 「投徑山國一禪師。（道）悟禮足始畢，密受宗要，於語言處，識衣中珠。身心豁然，真 妄皆遣，斷諸疑滯..."
+    },
+    {
+      "path": "X\\X09\\X09n0240.xml",
+      "mentions": 5,
+      "title": "Outline Essentials of the Avatamsaka Sutra (Volumes 45–80)",
+      "title_zh": "華嚴綱要(第45卷-第80卷)",
+      "snippet": "...薩、寶 威力菩薩、大威力菩薩、金剛智威力菩薩、離塵垢威 力菩薩、正法日威力菩薩、功德山威力菩薩、智光影 威力菩薩、普吉祥威力菩薩、地藏菩薩、虗空藏菩薩、 蓮華藏菩薩、..."
+    },
+    {
+      "path": "T\\T03\\T03n0157.xml",
+      "mentions": 5,
+      "title": "Sutra of the Sorrowful Lotus",
+      "title_zh": "悲華經",
+      "snippet": "...種種莊嚴，在菩提樹下坐金剛座，於一念 中間成阿耨多羅三藐三菩提，號遍出一 切光明功德山王如來、應供、正遍知、明行足、善 逝、世間解、無上士、調御丈夫、天人師、佛、世尊..."
+    },
+    {
+      "path": "B\\B05\\B05n0002.xml",
+      "mentions": 5,
+      "title": "Essentials Compiled from Commentaries and Treatises on the Avataṃsaka Sūtra (Volumes 86–120)",
+      "title_zh": "華嚴經疏論纂要(第86卷-第120卷)",
+      "snippet": "...力菩薩。寶威力菩薩。大威力菩薩。金剛智威力菩薩。離塵垢威力菩薩。正法日威力菩薩。功德山威力 菩薩。智光影威力菩薩。普吉祥威力菩薩。 【疏】二有九威力者。表行能進修故。"
+    },
+    {
+      "path": "T\\T11\\T11n0310.xml",
+      "mentions": 5,
+      "title": "Great Jewel Heap Sutra (Mahāratnakūṭa)",
+      "title_zh": "大寶積經",
+      "snippet": "天主憍尸迦，住在善法堂， 出過諸大眾，金剛杵光耀。 十力功德山，兩足尊勝王， 超過諸外道，猶如釋天王。 須夜摩天王，天眾所供養， 住在天眾中，..."
+    },
+    {
+      "path": "X\\X07\\X07n0234.xml",
+      "mentions": 5,
+      "title": "Annotated Commentary on the Avatamsaka Sutra",
+      "title_zh": "華嚴經疏注",
+      "snippet": "...△二、一一 別顯，正彰本事。經來不盡，故無總結。歷事四佛，即 為四別。初、逢一切功德山須彌勝雲佛，六：初、總標 佛號。 其第一佛，號一切功德山須彌勝雲。"
+    },
+    {
+      "path": "X\\X78\\X78n1549.xml",
+      "mentions": 4,
+      "title": "Record of Pure Land Saints and Worthies",
+      "title_zh": "淨土聖賢錄",
+      "snippet": "...嚴無量無邊安樂世界所不及也。汝 於菩提樹下成阿耨多羅三藐三菩提，號徧出一切 光明功德山王如來。又觀世音菩薩得大勢菩薩受 記經云：佛言：乃往過去廣遠無量不可思議阿僧劫，..."
+    },
+    {
+      "path": "T\\T51\\T51n2076.xml",
+      "mentions": 4,
+      "title": "Jingde Record of the Transmission of the Lamp",
+      "title_zh": "景德傳燈錄",
+      "snippet": "...修禪那。師 問曰。初云何觀。云何用心。復禮久而無言。師 三禮而退。屬唐代宗詔徑山國一禪師至闕。師 乃謁之遂得正法。及南歸先是孤山永福寺 有辟支佛塔。時道俗共為法會。師振..."
+    },
+    {
+      "path": "T\\T49\\T49n2034.xml",
+      "mentions": 4,
+      "title": "Chronicle of the Three Jewels Through the Successive Dynasties",
+      "title_zh": "歷代三寶紀",
+      "snippet": "彊梁婁至等亡身利物誓 志弘宣。匪憚苦辛闡法為務。護於晉世出經 最多。其法欽羅叉聶遠父子竺法蘭等。相繼 度述。所以五十年間。華"
+    },
+    {
+      "path": "ZW\\ZW10\\ZW10n0085.xml",
+      "mentions": 4,
+      "title": "Buddha-Name Sūtra Spoken by the Buddha (20-scroll ed., Scrolls 1–4)",
+      "title_zh": "佛說佛名經（二十卷本——卷第一～卷第四）",
+      "snippet": "南無一切同名遠離怖畏佛。 南無須彌微塵數一切功德山王勝名佛。 南無一切同名功德山王勝名佛。 南無十佛國土不可說億那由他微塵數普賢佛..."
+    },
+    {
+      "path": "ZW\\ZW10\\ZW10n0080.xml",
+      "mentions": 4,
+      "title": "Buddha Names from Various Sūtras, Upper Scroll",
+      "title_zh": "諸經佛名卷上",
+      "snippet": "不可思議功德王佛 寶光明佛寶尊音王佛 無量壽佛□出一切光明功德山王佛 善住現寶山王佛普現佛 普賢佛蓮華尊佛"
+    },
+    {
+      "path": "L\\L133\\L133n1557.xml",
+      "mentions": 4,
+      "title": "Collected Edition of the Commentary and Subcommentary on the Avatamsaka Sutra (Vols. 51–80)",
+      "title_zh": "大方廣佛華嚴經疏鈔會本(第51卷-第80卷)",
+      "snippet": "...。 地威力菩薩寶威力菩薩大威力菩薩金剛 智威力菩薩離塵垢威力菩薩正法日威力 菩薩功德山威力菩薩智光影威力菩薩普 吉祥威力菩薩。 二有九威力者表行能進修故。 地藏菩薩虛..."
+    },
+    {
+      "path": "GA\\GA031\\GA031n0032.xml",
+      "mentions": 4,
+      "title": "Gazetteer of Jingshan (Vols. 1–5)",
+      "title_zh": "徑山志(第1卷-第5卷)",
+      "snippet": "徑山位於浙江天目山之徑路，故謂之徑山。唐天寶初（七四二），國一禪師隱居於此，並行開山， 經宋、元迄明代月林鏡禪師共八十七代高僧之經營，殿宇廣建，紺..."
+    },
+    {
+      "path": "D\\D52\\D52n8951.xml",
+      "mentions": 4,
+      "title": "Tathāgata Incense",
+      "title_zh": "如來香",
+      "snippet": "...後。過中夜分。明相出 時。觀世音菩薩。於七寳菩提樹下。結跏趺坐成等正 覺。號普光功德山王如來。應供正徧知明行足善逝 世間解無上士調御丈夫天人師佛世尊。其佛國土。 自然..."
+    },
+    {
+      "path": "T\\T12\\T12n0371.xml",
+      "mentions": 4,
+      "title": "Sutra of Avalokiteśvara Bodhisattva’s Prophecy (Bestowal of Prediction)",
+      "title_zh": "觀世音菩薩授記經",
+      "snippet": "...後，過中夜分明相出時，觀世音菩薩，於 七寶菩提樹下，結加趺坐，成等正覺，號普光 功德山王如來、應供、正遍知、明行足、善逝、世間 解、無上士、調御丈夫、天人師、佛、世尊..."
+    },
+    {
+      "path": "T\\T10\\T10n0293.xml",
+      "mentions": 4,
+      "title": "Great Vaipulya Buddha Avataṃsaka Sutra (Flower Garland Sutra)",
+      "title_zh": "大方廣佛華嚴經",
+      "snippet": "...雲，第二無間虛空心， 三佛妙生具莊嚴，四名法海大吼聲， 第五法界大音聲，六妙變化功德山， 第七普方威德尊，第八出生法海聲， 第九海燈功德山，第十隨順智日王。"
+    },
+    {
+      "path": "X\\X88\\X88n1644.xml",
+      "mentions": 4,
+      "title": "Guanyin Compassion Grove Collection",
+      "title_zh": "觀音慈林集",
+      "snippet": "有百千無量億那 由他眾生得離苦惱。已能作大佛事。次無量壽佛成 等正覺。號一切光明功德山王如來。 第二太子。亦於寶藏佛前。發大誓願。願次觀音成佛。 國土莊嚴。一如觀音無..."
+    },
+    {
+      "path": "T\\T55\\T55n2153.xml",
+      "mentions": 4,
+      "title": "Great Zhou Revised Catalog of the Various Sutras",
+      "title_zh": "大周刊定眾經目錄",
+      "snippet": "...門竺法護於長安 譯。見內典錄。 導神足無極變化經一部四卷 右西晉惠帝元康年沙門安法欽於洛陽 譯。見內典錄。即是竺法護譯。佛昇忉利天 為母說法經同本別譯。文少不同。 ..."
+    },
+    {
+      "path": "T\\T49\\T49n2035.xml",
+      "mentions": 3,
+      "title": "Comprehensive Chronicle of Buddhas and Patriarchs",
+      "title_zh": "佛祖統紀",
+      "snippet": "...是大丈夫事。豈 將相之所能為。晉公裴度三十餘人。皆問道 行門人禮。後乞歸山。賜號國一禪師。勅杭 州守臣於山中重建寺宇。長吏月至候問。 師初依素禪師。素戒之曰。汝乘流而行..."
+    },
+    {
+      "path": "T\\T47\\T47n1969A.xml",
+      "mentions": 3,
+      "title": "Writings from the Land of Bliss",
+      "title_zh": "樂邦文類",
+      "snippet": "...皆真。生佛同體矣。依正皆 真。生佛同體。則樂邦之過去尊音王如來。未 嘗入滅。未來功德山王如來。久已成佛。現在 阿彌陀如來。在十萬億佛剎外。而靡所隔也。 八萬四千隨形好..."
+    },
+    {
+      "path": "LC\\LC06\\LC06n0006.xml",
+      "mentions": 3,
+      "title": "Survey of Canon Editions Through the Dynasties and a New Catalog of the Chinese Canon",
+      "title_zh": "歷朝藏經略考及新編漢文大藏經目錄",
+      "snippet": "...或題佛昇忉利天為母 說法經〔經〕。 －〇八二九 道神足無極變化經 四卷。 西晉安法欽譯〔經〕，先失譯〔祐〕。勘 同佛昇忉利天品經〔經〕。 〇八三〇 菩薩本源集 四卷..."
+    },
+    {
+      "path": "LC\\LC02\\LC02n0002.xml",
+      "mentions": 3,
+      "title": "Brief Lectures on the Origins and Development of Chinese Buddhism",
+      "title_zh": "中國佛學源流略講",
+      "snippet": "...驗其得失，諮其通途，坦其宗致，與諸宿舊義業沙門釋慧恭、 僧䂮、僧遷、寶度、慧精、法欽、道流、僧叡、道恢、道標、道恒、道悰等五百餘 人，詳其義旨，審其文中（檢查文字正..."
+    },
+    {
+      "path": "GA\\GA084\\GA084n0086.xml",
+      "mentions": 3,
+      "title": "Monastery Gazetteer of Huangbo Mountain",
+      "title_zh": "黃檗山寺志",
+      "snippet": "...元，葬於大溪山塔。迄今御典輝煌，殿 閣巍聳，得非祖之願深所致哉！ 第二代重興覺田法欽大師李姓，隆慶間，中天老人為之薙染，恊剏 此山。入道童真，驅狐兎，剪荊棘，初無把..."
+    },
+    {
+      "path": "GA\\GA023\\GA023n0021.xml",
+      "mentions": 3,
+      "title": "Gazetteer of Lingyin Monastery, Wulin",
+      "title_zh": "武林靈隱寺志",
+      "snippet": "武林靈隱寺誌卷之五上 累朝檀越 昔徑山國一禪師稱唐帝曰「檀越」。「檀越」為大功 德主，僧門所藉以安身學道、興隆佛法者也。蓋 大..."
+    },
+    {
+      "path": "CC\\CC001\\CC001n0001.xml",
+      "mentions": 3,
+      "title": "Continued Biographies of Bhikṣuṇīs (Buddhist Nuns)",
+      "title_zh": "續比丘尼傳",
+      "snippet": "二五、唐長安某庵尼功德山傳 功德山，姓氏住處失詳，道行顯著，能前知。肅宗朝，屢入宮為后 妃說法。代宗廣德..."
+    },
+    {
+      "path": "C\\C071\\C071n1665.xml",
+      "mentions": 3,
+      "title": "Sūtra of Bodhisattva Names",
+      "title_zh": "菩薩名經",
+      "snippet": "南無勢力自在王菩\uDB90\uDD7D 南無一切佛藏冠菩\uDB90\uDD7D 南無普照三世覺菩\uDB90\uDD7D 南無功德山威力菩\uDB90\uDD7D 南無功德珊瑚上菩\uDB90\uDD7D 南無最勝自在王菩\uDB90\uDD7D"
+    },
+    {
+      "path": "B\\B34\\B34n0193.xml",
+      "mentions": 3,
+      "title": "Dharma Vehicle of the Wu Capital",
+      "title_zh": "吳都法乘",
+      "snippet": "大覺 贊曰代有覺士出於文儒宴坐䨇徑龍驤厥居珠淵鱗屋化為 精廬國一之號帝賜不誣 國一禪師龔明之 國一禪師乃崑山圓明村朱氏子捨俗為僧受業於景德寺法 名道欽因遊歷叢林遇有一..."
+    },
+    {
+      "path": "B\\B27\\B27n0151.xml",
+      "mentions": 3,
+      "title": "New Continued Biographies of Eminent Monks",
+      "title_zh": "新續高僧傳",
+      "snippet": "...揭簾 忽大悟汗流浹背源見之喜曰子方識好惡矣馬祖百丈文殊 普賢幾為汝累由是譽問四馳道欽七眾政和末太師張司成 虛百丈堅命開堂舉僧問大隋刼大洞然時這箇壞也不壞話 遂曰六合..."
+    },
+    {
+      "path": "B\\B25\\B25n0144.xml",
+      "mentions": 3,
+      "title": "Zutang Ji (Anthology from the Patriarchs’ Hall)",
+      "title_zh": "祖堂集",
+      "snippet": "...曰：「此間無公止泊處。」 ○先徑山和尚嗣鶴林，師諱道欽。大歷年代宗請 赴京師，號國一禪師。肅宗皇帝來禮師，師見帝 來遂起立。帝曰：「大師見朕來因何起？」師曰：「檀越 因..."
+    },
+    {
+      "path": "B\\B16\\B16n0088.xml",
+      "mentions": 3,
+      "title": "Selected Extracts from the Complete Collection of Illustrations and Writings from Antiquity to the Present (Part 2)",
+      "title_zh": "古今圖書集成選輯（下）",
+      "snippet": "... 崇惠 按宋高僧傳崇惠姓章氏杭州人也穉\uD87E\uDD57之年見乎 器局鷲鳥難籠出塵心切往禮徑山國一禪師為弟 子雖勤禪觀多以三密教為恆務初於昌化千頃最 峰頂結茅為庵專誦佛頂呪數稔又往鹽..."
+    },
+    {
+      "path": "A\\A112\\A112n1494.xml",
+      "mentions": 3,
+      "title": "Newly Revised Catalogue of Dharma Treasures of the Jingyou Era",
+      "title_zh": "景祐新修法寶錄",
+      "snippet": "...率鯀 睿作，敢沿眾悃，竊覬 俞恩。臣夷簡等誠懇誠願， 頓首頓首。恭惟 景祐體天法道欽文聦武聖 神孝德皇帝陛下，道貫真機， 學該智地，紹 三后之丕命， 撫萬邦之大同，..."
+    },
+    {
+      "path": "X\\X81\\X81n1568.xml",
+      "mentions": 3,
+      "title": "Strict Lineage of the Five Lamps (Vols. 10–25)",
+      "title_zh": "五燈嚴統(第10卷-第25卷)",
+      "snippet": "...人治得麼？若治得，永劫 不相識。若治不得，時時常見我。言訖告寂。 金陵鍾山章義院道欽禪師太原人也。初住廬山棲 賢。上堂：道遠乎哉？觸事而真。聖遠乎哉？體之則神。我 ..."
+    },
+    {
+      "path": "X\\X80\\X80n1568.xml",
+      "mentions": 3,
+      "title": "Strict Lineage of the Five Lamps (Vols. 1–9)",
+      "title_zh": "五燈嚴統(第1卷-第9卷)",
+      "snippet": "...妄頌，俾修 禪那。師問曰：初云何觀？云何用心？禮久而無言，師三 禮而退。屬代宗詔國一禪師至闕，師乃謁之，遂得正 法。及南歸，孤山永福寺有辟支佛塔，時道俗共為法 會，師振..."
+    },
+    {
+      "path": "X\\X80\\X80n1565.xml",
+      "mentions": 3,
+      "title": "Five Lamps Compendium",
+      "title_zh": "五燈會元",
+      "snippet": "...妄頌。俾修 禪那。師問曰。初云何觀。云何用心。禮久而無言。師三 禮而退。屬代宗詔國一禪師至闕。師乃謁之。遂得正 法。及南歸孤山永福寺。有辟支佛塔。時道俗共為法 會。師振..."
+    },
+    {
+      "path": "X\\X77\\X77n1524.xml",
+      "mentions": 3,
+      "title": "Supplement to the Continued Biographies of Eminent Monks",
+      "title_zh": "補續高僧傳",
+      "snippet": "...於化城之後。 笑翁堪公傳 妙堪，號笑翁，慈溪毛氏子。廣顙平頂，骨氣清豪。從野 菴道欽受學，以廣記多聞稱。後一力參究，依息菴觀 於金山，又走靈隱見松源，皆不契。時無用..."
+    },
+    {
+      "path": "T\\T85\\T85n2905.xml",
+      "mentions": 3,
+      "title": "Names of 1,500 Buddhas of the Present Ten Directions, with Mixed Buddhas of the Same Names",
+      "title_zh": "現在十方千五百佛名並雜佛同號",
+      "snippet": "...。九十同號尊相眾生佛。九十同 號微妙音佛。八十四同號音相佛。八十同號 勝尊大海智功德山力王佛。八十同號智懃 王佛。八十同號師子步王佛。七十同號普淨 花王佛。七十同號聚..."
+    },
+    {
+      "path": "T\\T50\\T50n2061.xml",
+      "mentions": 3,
+      "title": "Song Dynasty Biographies of Eminent Monks",
+      "title_zh": "宋高僧傳",
+      "snippet": "...人也。生有奇表，親黨異其偉器。八歲從師， 道趣高邈。隨大寂移居龔公山，後謁徑山 國一禪師，與其談論周旋，人皆改觀。屬元 戎路嗣恭請大寂居府，藏乃迴郡，得大寂 付授納袈裟..."
+    },
+    {
+      "path": "ZW\\ZW12\\ZW12n0098.xml",
+      "mentions": 2,
+      "title": "Ritual for the Great Assembly of Perfect Penetration and Three Wisdoms",
+      "title_zh": "圓通三慧大齋道場儀",
+      "snippet": "...種 莊嚴，菩提樹下，坐金剛座，於一念中間，成阿耨 多羅三藐三菩提，號遍出一切光明功德山王如來。 又按《大悲分陀利經．三王子授記品》所言， 與《悲華經》大抵無異。彼經云..."
+    },
+    {
+      "path": "X\\X86\\X86n1601.xml",
+      "mentions": 2,
+      "title": "Genealogy of the Chan Lamp",
+      "title_zh": "禪燈世譜",
+      "snippet": "安國玄挺 鶴林玄素 徑山道欽 金陵曇益 吳門圓鏡"
+    },
+    {
+      "path": "X\\X86\\X86n1600.xml",
+      "mentions": 2,
+      "title": "Chronological Compilation of the Sectarian Lineage",
+      "title_zh": "宗統編年",
+      "snippet": "...要，供奉勤至。司徒楊綰一見歎禮，退而告人曰： 此實方外之高士也，難得而名焉。詔號國一禪師。 詔諡五祖曰大滿禪師，塔號法雨。 己酉四年 禪師懷海，住洪州大雄山。"
+    },
+    {
+      "path": "X\\X22\\X22n0423.xml",
+      "mentions": 2,
+      "title": "Yuan Zhong’s Extracts on the Brief Explanation of the Amitābha Sūtra",
+      "title_zh": "阿彌陀經略解圓中鈔",
+      "snippet": "...正定聚，故無世智辨聰難也。 阿彌陀佛今現在說法，經無量劫，觀音即補其處， 號普光功德山王佛，故無佛前佛後難也。蓮苞托 質，無生苦也。寒暑不遷，無老苦也。身非分段，無病..."
+    },
+    {
+      "path": "T\\T54\\T54n2126.xml",
+      "mentions": 2,
+      "title": "Brief History of Buddhist Monks of the Great Song",
+      "title_zh": "大宋僧史略",
+      "snippet": "...而半。羅什 入關。贏糧裹足。而至者三千。秦主勅選道\uDB81\uDCAF 法師為僧正。慧遠為悅眾。法欽慧斌掌僧錄。 給車輿吏力。僧正秩同侍中。餘則差降。此土 立僧官。秦\uDB81\uDCAF為始也。 ..."
+    },
+    {
+      "path": "T\\T49\\T49n2037.xml",
+      "mentions": 2,
+      "title": "Brief Investigation of Antiquity of the Shakya Lineage",
+      "title_zh": "釋氏稽古略",
+      "snippet": "...嶺。帝賜諡無際大師。塔曰見相。師 嗣青原思。思嗣六祖。 國一 壬申貞元八年十二月國一禪師入寂。 師諱道欽。蘇州崑山朱氏子。初業儒。年二十 八遇潤州鶴林素禪師。勉之剃落。..."
+    },
+    {
+      "path": "T\\T49\\T49n2036.xml",
+      "mentions": 2,
+      "title": "General Record of Buddhas and Patriarchs Through the Ages",
+      "title_zh": "佛祖歷代通載",
+      "snippet": "...始 作盂蘭盆會 杜鴻漸問法於無住禪師 清涼澄觀國師 召忠國師試太白 山人 詔徑山國一禪師 牛頭惠忠禪 師 忠國師試大耳三藏 不空三藏 碑 曇一律師碑 三祖鏡 智禪師碑 ..."
+    },
+    {
+      "path": "T\\T47\\T47n2000.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Monk Xutang",
+      "title_zh": "虛堂和尚語錄",
+      "snippet": "...兩。舉一明三。不涉化儀。如何相 見。卓主丈。白鳥望中沒。青山斷處幽。 復舉。當山國一禪師因。馬祖遣僧馳書至。書 中作一圓相。國師啟緘見之。遂於圓相中。著 一點封回。師云..."
+    },
+    {
+      "path": "T\\T35\\T35n1735.xml",
+      "mentions": 2,
+      "title": "Commentary on the Great Avataṃsaka Sutra",
+      "title_zh": "大方廣佛華嚴經疏",
+      "snippet": "...最初，即此後更有大劫，於理無違。第二 正顯本事中，歷事四佛即為四別：第一逢 一切功德山須彌勝雲佛、第二波羅蜜善眼 莊嚴佛、第三最勝功德海佛、第四名稱普聞 蓮華眼幢佛，..."
+    },
+    {
+      "path": "T\\T34\\T34n1723.xml",
+      "mentions": 2,
+      "title": "Profound Praise of the Lotus Sutra",
+      "title_zh": "妙法蓮華經玄贊",
+      "snippet": "...歸依而拔眾生苦，略云觀 音。《觀音授記經》云：「阿彌陀佛滅度後次當作 佛，名普光功德山王佛。此佛滅已，大勢至 菩薩次當作佛，名善住功德寶王佛。」「得 大勢」者，所至之..."
+    },
+    {
+      "path": "P\\P154\\P154n1519.xml",
+      "mentions": 2,
+      "title": "Essential Compendium of the Zen School: Main and Continued Collections (Vols. 1–12)",
+      "title_zh": "宗門統要正續集(第1卷-第12卷)",
+      "snippet": "...云兩彩一賽又云三人指路 擬何為。溈山喆云諸人還識馬祖徑山 麼一點水墨兩處成龍國師道欽師猶被 馬師惑可謂千里同風不見道手執夜明 符幾箇知天曉。 續徑山杲云馬師仲冬嚴寒..."
+    },
+    {
+      "path": "J\\J32\\J32nB271.xml",
+      "mentions": 2,
+      "title": "Reading the Canon: A Guide to the Essentials (Vols. 6–44)",
+      "title_zh": "閱藏知津(第6卷-第44卷)",
+      "snippet": "...明一切佛身，皆同幻化，有供養者，福祐亦 等。 道神足無極變化經 西晉安息國沙門安法欽譯 與上經同，而有目連普見一切處佛，疑怪請問 之事。 佛說盂蘭盆經"
+    },
+    {
+      "path": "J\\J29\\J29nB239.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Chuiwan",
+      "title_zh": "吹萬禪師語錄",
+      "snippet": "...離詞，玄談杜舌。紙上若留活計，鬼窟仍舊 家常。 太極圖說序 道學之所從來也，始自國一禪師傳于壽涯禪師，涯 傳麻衣，衣傳陳摶，摶傳种放，放傳穆修，修傳李挺之， 之傳邵子，..."
+    },
+    {
+      "path": "J\\J26\\J26nB177.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Poshan",
+      "title_zh": "破山禪師語錄",
+      "snippet": "...為 九十七種。目為圓相暗機，義海、字海，意語、默論，種種 不一者，難道也是馬祖送道欽書始當？時只有馬鳴 所現日輪，何得又有各樣差別者？何耶？如渠實未夢 見，自是弄精..."
+    },
+    {
+      "path": "GA\\GA020\\GA020n0017.xml",
+      "mentions": 2,
+      "title": "Gazetteer of Huiyin Goryeo Huayan Teaching Monastery, Yucen Mountain",
+      "title_zh": "玉岑山慧因高麗華嚴教寺志",
+      "snippet": "...造東京，受《雜華》於大詵。從荊溪習《止觀》、《法 華》、《維摩》等疏。謁牛頭忠、徑山欽、洛陽無名，咨決南宗 禪法。謁慧雲，明了北宗玄理。一切儒墨、竺乾、梵書諸 部，莫..."
+    },
+    {
+      "path": "GA\\GA010\\GA010n0009.xml",
+      "mentions": 2,
+      "title": "New Gazetteer of Putuo Luojia",
+      "title_zh": "普陀洛迦新志",
+      "snippet": "...世音菩薩，居補怛洛迦之山，得大悲解脫之法。師承靜住，標正法明之稱；補 處彌陀，授功德山之記。寶藏住世，囘向菩提；威德園觀，宏深誓願。從聞思修，頓入摩 提；得圓通常，舉..."
+    },
+    {
+      "path": "D\\D60\\D60n9021.xml",
+      "mentions": 2,
+      "title": "Compilation on Understanding Confucians",
+      "title_zh": "知儒編",
+      "snippet": "...也。陸問大悲菩薩用許多 手眼作甚麼。泉曰。秪如國家。又用大夫作甚 麼。 崔趙公問道欽。弟子今欲出家得否。欽曰。出家 乃大丈事。非將相之所能為。公有省。 唐肅宗問南陽..."
+    },
+    {
+      "path": "B\\B33\\B33n0192.xml",
+      "mentions": 2,
+      "title": "Record of Exegetical Notes (Shiwén Jì)",
+      "title_zh": "釋文紀",
+      "snippet": "...授遠規以 濟頹緒僧\uDB90\uDE0E法師學優早年德芳暮齒可為國內僧主 僧遷法師禪慧兼修即為悅眾法欽慧斌共掌僧錄 與恒標二公勸罷道書 卿等樂道體閒服膺法門皦然之操義誠在可嘉但朕 臨..."
+    },
+    {
+      "path": "B\\B24\\B24n0140.xml",
+      "mentions": 2,
+      "title": "Gazetteer of Xuefeng",
+      "title_zh": "雪峰志",
+      "snippet": "龍光澄忋 永興可休 太平清海 慈雲慧深 興陽道欽 保福清谿 報恩熙 萬安清運 報慈文欽"
+    },
+    {
+      "path": "B\\B24\\B24n0137.xml",
+      "mentions": 2,
+      "title": "Register of Correct Names",
+      "title_zh": "正名錄",
+      "snippet": "...為療膏肓者．資上妙藥。開暗冥者．求善知識。 不假舟檝．其濟渡乎。遂蹶然振策投徑山國一禪師。悟禮足始畢．密受宗要。於語言處．識衣中珠。身心豁 然．真妄皆遣。斷諸疑滯．無畏..."
+    },
+    {
+      "path": "B\\B19\\B19n0103.xml",
+      "mentions": 2,
+      "title": "Annotated Glossary of Chan Monastic Terms and Implements",
+      "title_zh": "禪林象器箋",
+      "snippet": "...師五十三歲。千僧閣成。 師遣介泉南。求記於李漢老參政。其略曰。院去 城百里。自唐國一禪師。始斬蓬藋。驅龍虵而居之。 寺無常產。山之神龍。實助其緣化。公至之始眾纔 三百。..."
+    },
+    {
+      "path": "B\\B13\\B13n0080.xml",
+      "mentions": 2,
+      "title": "Great Tang Records on the Western Regions (Collated Punctuated Edition)",
+      "title_zh": "大唐西域記（校點本）",
+      "snippet": "...幽微，曆數玄文，若視諸掌，風範清高，令聞 遐被。王甚珍敬，國人宗重。門人千數，味道欽風。每自言曰：「吾為世出，述聖導凡，先賢 後哲，無與我比。彼大自在天、婆藪天、那..."
+    },
+    {
+      "path": "X\\X83\\X83n1578.xml",
+      "mentions": 2,
+      "title": "Record Pointing at the Moon",
+      "title_zh": "指月錄",
+      "snippet": "...嗣 牛頭山法融禪師 牛頭山智巖禪師 牛頭山智威禪師 安國玄挺禪師 天柱崇慧禪師 徑山道欽禪師 天台雲居智禪師 鳥窠道林禪師 五祖旁出法嗣 嵩嶽慧安國師 壽州道樹禪師"
+    },
+    {
+      "path": "X\\X83\\X83n1574.xml",
+      "mentions": 2,
+      "title": "Expanded Collection: Continued Transmission of the Lamp Record",
+      "title_zh": "增集續傳燈錄",
+      "snippet": "...用全禪師法嗣 ○四明育王笑翁妙堪禪師俗\uD863\uDF7B慈溪毛氏。廣顙平 頂，骨清氣豪。從野庵道欽受釋學，依息庵觀于金山， 參松源岳於靈隱，皆不契。時無用居天童，徑造其室。 用問..."
+    },
+    {
+      "path": "X\\X67\\X67n1310.xml",
+      "mentions": 2,
+      "title": "Picking Up Jewels from the Eight Directions Collection",
+      "title_zh": "拈八方珠玉集",
+      "snippet": "...舉：欽山一日見僧來，竪起手云：開即成掌，五指參差。 復握云：如今為拳必無高下，你道欽山還通商量也 無？僧竪起拳，欽山云：你只是个無開合漢。僧云：未審 和尚如何接人？..."
+    },
+    {
+      "path": "X\\X65\\X65n1295.xml",
+      "mentions": 2,
+      "title": "Comprehensive Collection of Chan School Verse-on-Old-Cases Linked Pearls",
+      "title_zh": "禪宗頌古聯珠通集",
+      "snippet": "牛頭法融禪師鶴林玄素禪師 徑山國一禪師鳥窠道林禪師 蒙山道明禪師破竈墮和尚"
+    },
+    {
+      "path": "X\\X63\\X63n1248.xml",
+      "mentions": 2,
+      "title": "Pure Regulations of Huanzhu Hermitage",
+      "title_zh": "幻住庵清規",
+      "snippet": "... 薄供，輙罄微誠。 本師釋迦如來大和尚，伏願 智 慧海宏深，蕩 慈波於無窮無極；功德山高聳，垂道 樹而益茂葢榮。同十方諸佛，大轉法輪；與法界眾生， 俱成 正覺。但某等..."
+    },
+    {
+      "path": "X\\X61\\X61n1156.xml",
+      "mentions": 2,
+      "title": "Direct Pointer Collection for Returning to the Origin",
+      "title_zh": "歸元直指集",
+      "snippet": "...吾儒得道學者有幾人乎？」空谷曰：「真儒學禪 得道者不可知計，略言數人向子乎？ 「國一禪師以道學傳於壽涯禪師，涯傳麻衣，衣傳陳 摶，摶傳种放，放傳穆修，修傳李挺之，李傳康..."
+    },
+    {
+      "path": "X\\X35\\X35n0642.xml",
+      "mentions": 2,
+      "title": "Collated Edition of Notes on \"Profound Meaning\" of the Avalokiteśvara Sutra",
+      "title_zh": "觀音經玄義記會本",
+      "snippet": "...作 苦行弟子。次當等者，觀音授記經云：觀世音菩薩， 次阿彌陀，後當成正覺，名普光功德山王如來。補 處者，猶儲君之義也。 二、其本下，結難測。 其"
+    },
+    {
+      "path": "T\\T14\\T14n0442.xml",
+      "mentions": 2,
+      "title": "Sūtra of the Names of 1,500 Buddhas of the Ten Directions",
+      "title_zh": "十方千五百佛名經",
+      "snippet": "...音王佛、寶藏佛、無量淨王佛、 寶山王佛、不可思議功德佛、寶尊音佛、 遍出一切光明功德山王佛、寶海佛、智華 無垢堅佛、普賢佛、阿閦佛、無垢功德光 明王佛、善樂自在音光明..."
+    },
+    {
+      "path": "T\\T10\\T10n0294.xml",
+      "mentions": 2,
+      "title": "The Buddha Speaks: Rāmaga Sutra",
+      "title_zh": "佛說羅摩伽經",
+      "snippet": "...德幢菩薩、寶威德 菩薩、大威德菩薩、金剛智威德菩薩、淨威德 菩薩、法日威德菩薩、功德山威德菩薩、智炎 威德菩薩、普現勝威德菩薩、持地藏菩薩、虛 空藏菩薩、蓮華藏菩薩、..."
+    },
+    {
+      "path": "X\\X20\\X20n0360.xml",
+      "mentions": 2,
+      "title": "New Notes on the Text and Phrases of the Golden Light Sūtra",
+      "title_zh": "金光明經文句新記",
+      "snippet": "...更不煩文。若不爾者，經文但云如水中月，文句 那云水月是應，月是報邪？況復經云：佛功德山，光明 晃耀，如寶山王。此與前文龍尊讚云佛光巍巍，明\uD85A\uDDA8 熾盛，不亦同邪？況義淨..."
+    },
+    {
+      "path": "X\\X12\\X12n0281.xml",
+      "mentions": 2,
+      "title": "Commentary on Perfect Penetration in the Śūraṅgama Sutra",
+      "title_zh": "楞嚴經圓通疏",
+      "snippet": "法師 經疏 擕李法師 證真鈔 真際法師 刪補疏 道欽法師 手鑑 荊公王丞相 經解 補遺 纂註 釋要 覺範禪師 合論"
+    },
+    {
+      "path": "T\\T55\\T55n2155.xml",
+      "mentions": 2,
+      "title": "Abridged Excerpts from the Kaiyuan Buddhist Catalog",
+      "title_zh": "開元釋教錄略出",
+      "snippet": "昇忉利天為母說法經三卷西晉三藏竺 法護譯 道神足無極變化經四卷西晉安息三藏安 法欽譯上三經十一卷同帙計一百五十 七紙 【被】。 寶雨經十卷唐"
+    },
+    {
+      "path": "T\\T50\\T50n2062.xml",
+      "mentions": 2,
+      "title": "Great Ming Biographies of Eminent Monks",
+      "title_zh": "大明高僧傳",
+      "snippet": "...悟汗流浹背。靈源見 喜曰。子方識好惡矣。馬祖百丈文殊普賢幾 為汝累。由是聲譽四馳道欽七眾。政和末 太師張司成虛百丈。堅命開堂。舉僧問大 隋劫火洞然時這箇壞也不壞話。..."
+    },
+    {
+      "path": "T\\T50\\T50n2059.xml",
+      "mentions": 2,
+      "title": "Biographies of Eminent Monks",
+      "title_zh": "高僧傳",
+      "snippet": "梵本相 應。於是興使沙門僧\uDB81\uDCAF、僧遷、法欽、道流、道恒、 道標、僧叡、僧肇等八百餘人，諮受什旨，更令 出《大品》。什持梵本..."
+    },
+    {
+      "path": "T\\T32\\T32n1680.xml",
+      "mentions": 2,
+      "title": "One Hundred Fifty Verses in Praise of the Buddha",
+      "title_zh": "一百五十讚佛頌",
+      "snippet": "...斯善逝德，總集如來躬， 離佛相好身，餘非所安處。 我因先世福，幸遇調御師， 仰讚功德山，遠酬尊所記。 一切有情類，皆因煩惱持， 唯佛能善除，由悲久住世。"
+    },
+    {
+      "path": "ZW\\ZW11\\ZW11n0093.xml",
+      "mentions": 1,
+      "title": "Buddha-Name Sūtra Spoken by the Buddha (20-scroll ed., Scrolls 5–7)",
+      "title_zh": "佛說佛名經（二十卷本——卷第五～卷第七）",
+      "snippet": "南無勝親佛。南無寶名佛。 南無大行佛。南無高光明佛。 南無功德山佛。南無大稱佛。 南無法稱佛。南無施光明佛。 南無雲德佛。南無實作佛。"
+    },
+    {
+      "path": "X\\X88\\X88n1671.xml",
+      "mentions": 1,
+      "title": "Register of Monks and Nuns of the Eastern Land",
+      "title_zh": "東國僧尼錄",
+      "snippet": "開于 朝。 年甫冠，隣友亡，問諸父老曰：死何之？皆曰：所不知也。 中心痛悼，走入功德山，投了然師祝髮。師曰：汝為 何事出家？對以超三界，利羣生，且請開示。曰：汝之 來..."
+    },
+    {
+      "path": "X\\X88\\X88n1661.xml",
+      "mentions": 1,
+      "title": "(Complete Collection of Ancient and Modern Books) Spirits & Portents: Buddhist Section—Records of Events",
+      "title_zh": "(古今圖書集成)神異典釋教部紀事",
+      "snippet": "...遏，則前至誕月，江 淮失丁男六十萬，不為細變。有詔徐州禁止。 酉陽雜爼相傳云：釋道欽往徑山，有問道者，率爾而 對，皆造宗極。劉忠州晏嘗乞心偈，令執爐而聽，再三 稱諸..."
+    },
+    {
+      "path": "X\\X88\\X88n1649.xml",
+      "mentions": 1,
+      "title": "Record of Dharma Joy of Notable Gentlemen",
+      "title_zh": "名公法喜志",
+      "snippet": "...公。因閹竪煽虐，退歸集賢里，日 與白居易、劉禹錫文酒相歡，不問戶外事。嘗訪道於 徑山道欽禪師，執弟子禮，求出世法。臨卒，謂門人曰： 吾死無所繫，但午橋莊松雲嶺未成，輭碧..."
+    },
+    {
+      "path": "X\\X87\\X87n1628.xml",
+      "mentions": 1,
+      "title": "Fortress Anthology of the Buddha-Dharma",
+      "title_zh": "佛法金湯編",
+      "snippet": "... 殷懃，拒之而不去，踈之而益親，至於水洒挺逐，而戶 外之屨常滿。院去城百里，自唐國一禪師始斬蓬藋、 驅龍蛇而居之。寺無常產，山之神龍實助其緣化。師 至之始，眾纔三百二年..."
+    },
+    {
+      "path": "X\\X87\\X87n1626.xml",
+      "mentions": 1,
+      "title": "Abstracts of Eminent Monks",
+      "title_zh": "高僧摘要",
+      "snippet": "...。父母不獲 已，許之，遂往明州大德剃落。年二十五，依杭州竹林 寺大德具戒，投徑山國一禪師，密受宗要。于語言處， 識衣中珠，身心豁然，真妄皆遣，斷諸疑滯，直見佛性。 服勤..."
+    },
+    {
+      "path": "X\\X87\\X87n1624.xml",
+      "mentions": 1,
+      "title": "Forest Notes",
+      "title_zh": "林間錄",
+      "snippet": "...陽人，姓張氏。年十 四出家，依明州大德披剃。年二十五，杭州竹林寺受 具。首謁徑山國一禪師，服勤五年。大歷中，抵鍾陵，謁 馬大師。經二夏，乃造石頭。元和丁亥四月示疾，壽六..."
+    },
+    {
+      "path": "X\\X87\\X87n1618.xml",
+      "mentions": 1,
+      "title": "Guide to the Patriarchal Court",
+      "title_zh": "祖庭指南",
+      "snippet": "...嗣法三人。 第二十世徑山無準師範禪師破菴嗣，生雍氏，蜀之 梓州人也。九歲依陰平山道欽出家。初請益成都老 宿名堯者坐禪之法，堯曰：禪是何物？坐底是誰？師晝 夜體究。一..."
+    },
+    {
+      "path": "X\\X86\\X86n1608.xml",
+      "mentions": 1,
+      "title": "Eulogies on the Portrait Biographies of the Eighty-Eight Patriarchs",
+      "title_zh": "八十八祖道影傳贊",
+      "snippet": "...俾修 禪那。師問曰：初云何觀？云何用心？理久而無言，師三 禮而退。後南歸，參徑山國一禪師，發明心地。因見秦 望山有長松，枝葉繁茂，盤屈如葢，遂棲止其上，故時 人謂之鳥窠..."
+    },
+    {
+      "path": "X\\X86\\X86n1607.xml",
+      "mentions": 1,
+      "title": "Laypeople’s Lamp Record",
+      "title_zh": "居士分燈錄",
+      "snippet": "...「教外單傳佛祖機，本 來無悟亦無迷。浮雲散盡青天在，日出東方夜落西。」 贊曰：「國一禪師云：『出家乃大丈夫之事，非將相之所 能為。』張德遠出將入相，而又與聞單傳之旨，非..."
+    },
+    {
+      "path": "X\\X80\\X80n1564.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Five Lamps Compendium",
+      "title_zh": "五燈會元目錄",
+      "snippet": "四祖下七世 忠禪師法嗣 佛窟惟則禪師 鶴林素禪師法嗣 徑山道欽禪師 四祖下八世 佛窟則禪師法嗣 天台雲居智禪師 徑山欽禪師法嗣 鳥"
+    },
+    {
+      "path": "X\\X79\\X79n1563.xml",
+      "mentions": 1,
+      "title": "Great Treasury of Light",
+      "title_zh": "大光明藏",
+      "snippet": "...立？國師曰：者箇是馬師底，仁者作麼生？師云：早箇呈 似和尚了。尋又送書至徑山，謁國一禪師，語載國一 章。僧問馬祖：離四句，絕百非，請師直指西來意。祖云： 我今日勞倦，不..."
+    },
+    {
+      "path": "X\\X79\\X79n1562.xml",
+      "mentions": 1,
+      "title": "Chan Forest Sangha Treasures Biographies (Southern Song–Yuan–Ming)",
+      "title_zh": "南宋元明禪林僧寶傳",
+      "snippet": "...泐二公，尤追惜之。葢嘉其壯 志西行，大光聖化云。 贊曰：曇、泐二禪師，望重龍河，道欽有國者，可謂一時 能事矣。況其利物多方，言言合轍，法法隨根，又以道 餘名振他\uDB8E\uDF1B..."
+    },
+    {
+      "path": "X\\X79\\X79n1557.xml",
+      "mentions": 1,
+      "title": "Essential Compendium of the United Lamp",
+      "title_zh": "聯燈會要",
+      "snippet": "...？師云：土雞瓦犬。 都尉李文和公遵勗公謁石門聰禪師，問出家 事，聰云：昔崔趙公參國一禪師，問曰：弟子欲出家，得 否？一云：出家是大丈夫事，非將相之所能為。公於言 下大悟..."
+    },
+    {
+      "path": "X\\X78\\X78n1556.xml",
+      "mentions": 1,
+      "title": "Jianzhong Jingguo Continued Lamp Record",
+      "title_zh": "建中靖國續燈錄",
+      "snippet": "大師云：又道飛過去。師因有省。後住百丈， 傳正法眼。 澧州天皇道悟禪師初參徑山國一禪師，次至馬大 師宗席，皆契心要。後到石頭，問曰：離却定慧，以何法 示人？石頭曰：我..."
+    },
+    {
+      "path": "X\\X78\\X78n1553.xml",
+      "mentions": 1,
+      "title": "Tiansheng Expanded Lamp Record",
+      "title_zh": "天聖廣燈錄",
+      "snippet": "...， 石頭作噓噓聲， 峰又無語。回舉似師， 師云： 向汝道石頭路滑。 師令僧馳書與徑山欽和尚，書中畫一圓相，徑山纔 開見，索筆於中著一点。後有僧舉似忠國師，國師云： 欽..."
+    },
+    {
+      "path": "X\\X74\\X74n1499.xml",
+      "mentions": 1,
+      "title": "Dharma-Wheel Precious Repentance for the Dharma-Realm Water-and-Land Great Feast",
+      "title_zh": "法界聖凡水陸大齋法輪寶懺",
+      "snippet": "百零四佛，不足五五。 一心奉請三劫三千諸佛名經 一名集諸佛大功德山。開元拾遺附梁錄。先五 十三佛，次莊嚴劫，賢劫，星宿劫，各千佛。 一心奉請千佛因..."
+    },
+    {
+      "path": "X\\X74\\X74n1496.xml",
+      "mentions": 1,
+      "title": "Compassionate Sanctuary Water Repentance: Annotated Outline",
+      "title_zh": "慈悲道場水懺法科註",
+      "snippet": "...勢至 二大士，於何國土成等正覺？佛答：阿彌陀佛正法 滅後，觀世音成等正覺，號普光功德山王如來。彼 佛國土，號曰眾寶善集莊嚴。般涅槃後，得大勢，即 於其國成等正覺，號善..."
+    },
+    {
+      "path": "X\\X74\\X74n1495.xml",
+      "mentions": 1,
+      "title": "Compassionate Sanctuary Water Repentance: Notes Heard Along the Way",
+      "title_zh": "慈悲道場水懺法隨聞錄",
+      "snippet": "...記經：德藏菩薩問佛：觀音、勢至 于何土成佛？答：彌陀正法滅後，觀音成佛，號普光 功德山王，國土號眾寶善集莊嚴。般涅槃後，得大 勢，即于其國成等正覺，號善住功德寶王，永..."
+    },
+    {
+      "path": "X\\X72\\X72n1439.xml",
+      "mentions": 1,
+      "title": "Chan Master Weilin Daopei’s Fragrant Meal Record",
+      "title_zh": "為霖道霈禪師餐香錄",
+      "snippet": "...此一著，便具大丈夫成佛作祖力量，非世間榮貴勳 業可得而較量也。故昔日崔趙公問徑山國一禪師 曰：弟子欲出家得否？徑山曰：出家乃大丈夫事，非將 相之所能為，豈不然耶？雖然如..."
+    },
+    {
+      "path": "X\\X72\\X72n1437.xml",
+      "mentions": 1,
+      "title": "Expanded Record of Chan Master Yongjue Yuanxian",
+      "title_zh": "永覺元賢禪師廣錄",
+      "snippet": "...如何 依舊沉吟？過水炤見面孔，方知昔日婆心，從此橫開 五位，剪斷諸見稠林。 徑山國一禪師 為真法寶，作丈夫事。鼻祖雙徑，龍王獻地。馬師不能 惑亂，天王亦遭鈍置。豈獨為唐..."
+    },
+    {
+      "path": "X\\X24\\X24n0468.xml",
+      "mentions": 1,
+      "title": "Annotated Explanation of the Diamond Sūtra",
+      "title_zh": "金剛經註解",
+      "snippet": "...。何故？如來者，如如本性 也，本無動靜，所以無去無來，故假名如來。昔肅宗 皇帝詔國一禪師入內道場，師見帝起身，帝曰：禪 師何必見寡人起身？曰：檀越何得以四威儀中見 貧道..."
+    },
+    {
+      "path": "X\\X24\\X24n0467.xml",
+      "mentions": 1,
+      "title": "Annotated Essentials of the Ritual Outline for Interpreting the Diamond Sūtra",
+      "title_zh": "銷釋金剛經科儀會要註解",
+      "snippet": "...年，詔至\uD863\uDDC2下，帝親瞻禮。 帝謂忠國師曰：朕欲賜欽師一名。國師欣然奉詔， 乃賜號國一禪師。後辭歸徑山，至是十二月，示疾 說法而逝。帝賜諡大覺禪師也。"
+    },
+    {
+      "path": "X\\X22\\X22n0413.xml",
+      "mentions": 1,
+      "title": "Direct-Pointing Commentary on the Contemplation Sūtra",
+      "title_zh": "觀無量壽經直指疏",
+      "snippet": "...億那由它百千萬億劫。』又告 第二尼摩太子：『由汝願取大千界故，今當字汝為 大勢至功德山王。佛滅度後，汝當成道，號善住珍 寶山王如來。』如是次第授千子中，有願取五濁成 ..."
+    },
+    {
+      "path": "X\\X20\\X20n0362.xml",
+      "mentions": 1,
+      "title": "Outline Notes on the Golden Light Sūtra",
+      "title_zh": "金光明經科註",
+      "snippet": "所有福德，不可思議。 佛功德山，我今敬禮。 夫相好不獨在應身，報法亦通。莊嚴父母生身者， 應相好也；莊嚴尊特身..."
+    },
+    {
+      "path": "X\\X16\\X16n0318.xml",
+      "mentions": 1,
+      "title": "Doctrinal Integration of the Śūraṅgama Sutra",
+      "title_zh": "楞嚴經宗通",
+      "snippet": "...云何名為顛倒行事，是顛倒中之顛倒也，是迷 中之迷也。故曰：迷中倍人。二倍字相應。徑山欽國 師同忠國師在內庭坐次，見帝駕來，師起立。帝曰： 師何以起？師曰：檀越何得向四..."
+    },
+    {
+      "path": "X\\X13\\X13n0287.xml",
+      "mentions": 1,
+      "title": "Subcommentary Clarifying the Commentary on the Śūraṅgama Sutra",
+      "title_zh": "楞嚴經疏解蒙鈔",
+      "snippet": "...於瓦官，咨雜華於大詵，習天台止觀、法華、維摩 等疏於荊溪，參決南宗禪學於牛頭忠、徑山欽。群機 盡攝，萬理俱融，卓然為一代之師。去聖日遠，末學支 分，欲總萃諸家，折衷融..."
+    },
+    {
+      "path": "X\\X11\\X11n0268.xml",
+      "mentions": 1,
+      "title": "Collected Annotations on the Śūraṅgama Sutra",
+      "title_zh": "楞嚴經集註",
+      "snippet": "...寶所成世界，所有種種莊嚴安樂世界，所不能及。汝於後夜，成 等正覺，號徧出一切光明功德山王如來應供等。然則悲華與今經，皆覆本垂 迹之名，今得圓通，即太子後身也。補遺云：..."
+    },
+    {
+      "path": "X\\X10\\X10n0250.xml",
+      "mentions": 1,
+      "title": "Essential Explanations Following the Text in the Commentary and Subcommentary on the Sutra of Perfect Enlightenment",
+      "title_zh": "圓覺經疏鈔隨文要解",
+      "snippet": "... 故但任心為修也。五、本 無事而忘情，即四祖下，旁出牛頭融大師之宗，鶴林 馬素、徑山道欽禪師所弘。融久精般若空宗，於一切 法已無計執。後遇四祖，顯出絕待靈心，故息緣忘情..."
+    },
+    {
+      "path": "X\\X09\\X09n0245.xml",
+      "mentions": 1,
+      "title": "Subcommentary Explaining the Meaning of the Great Commentary on the Sutra of Perfect Enlightenment",
+      "title_zh": "圓覺經大疏釋義鈔",
+      "snippet": "...、第三法持、第四智威、第 五慧忠、第六智威。弟子潤州鶴林寺馬素和上、素弟 子勁山道欽和上相襲，傳此宗旨。言本無事者，是所 悟理。謂心境本空，非今始寂；迷之謂有，所以..."
+    },
+    {
+      "path": "X\\X09\\X09n0242.xml",
+      "mentions": 1,
+      "title": "General Meaning of the Thirty-Nine Chapters of the Avatamsaka Sutra",
+      "title_zh": "華嚴經三十九品大意",
+      "snippet": "...共 圍遶。此勝音世界，最初劫中，有十須彌山微塵數如 來出興於世；其第一佛，名一切功德山須彌勝雲，於 其道場大蓮華中忽然出現；其身周普等真法界，一 切佛剎皆示出生，一切..."
+    },
+    {
+      "path": "X\\X08\\X08n0239.xml",
+      "mentions": 1,
+      "title": "‘Ocean-Absorbing’ Collection on the Avatamsaka Sutra",
+      "title_zh": "華嚴經吞海集",
+      "snippet": "... 乘空往來，心有所欲，應念而至。天城、龍城，右旋 而列。華枝林中，有徧照道場一切功德山。須彌 勝音佛，忽然出現，其身周普，等真法界。大威光 太子，見佛光明，獲十種法，..."
+    },
+    {
+      "path": "X\\X08\\X08n0236.xml",
+      "mentions": 1,
+      "title": "Record of Profound Discussions on the Avatamsaka Sutra",
+      "title_zh": "華嚴懸談會玄記",
+      "snippet": "...， 一生歷事四佛，而得因圓。言大威光者，有大威德， 其道光明。故經云：「初逢一切功德山須彌勝雲佛， 見光，即時證得十種法門；次聞法，獲得彼佛宿世 所集法海光明，又得一..."
+    },
+    {
+      "path": "TX\\TX31\\TX31n0019.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part Nineteen – Collected Writings (Vols. 137–321)",
+      "title_zh": "太虛大師全書．第十九編\u3000文叢(第137卷-第321卷)",
+      "snippet": "...陽潘氏，生於瑞徵。九歲剃度，二十一歲具戒荊州 果願寺。入陜，初謁復禮法師，旋得法國一禪師。南歸，在孤山永福寺與韜光法師曾 相問答。師真侍者會通，久之欲辭去，問以何往？曰..."
+    },
+    {
+      "path": "T\\T53\\T53n2122.xml",
+      "mentions": 1,
+      "title": "Pearl Grove of the Dharma Garden",
+      "title_zh": "法苑珠林",
+      "snippet": "...言音譯流便。既 覽舊經義多紕僻。皆由先度失旨故。不與梵 本相應。興使沙門僧䂮僧遷法欽道流道常 道標僧叡僧肇等八百餘人。諮受什旨。更令 出大品。什持梵本。興執舊經以相..."
+    },
+    {
+      "path": "T\\T52\\T52n2115.xml",
+      "mentions": 1,
+      "title": "Writings Collection of Tanjin",
+      "title_zh": "鐔津文集",
+      "snippet": "...之事。是二者始知佛之所以 為聖人也。故其為法為言。乃能感天地而懷 鬼神幽冥。要其法欽其言。而古人嘗發於巫 覡卜祝接於夢寐者。固亦多矣。河海方波濤 \uD877\uDC14湧其舟欲沒人之..."
+    },
+    {
+      "path": "T\\T52\\T52n2113.xml",
+      "mentions": 1,
+      "title": "Beishan Record",
+      "title_zh": "北山錄",
+      "snippet": "...者十室而半。羅 什入關。學徒籯糧不遠千里而至者三千。 因立道䂮為僧正。慧遠為悅眾法欽慧斌 掌僧錄給車輿吏人。僧正祑同侍 中。餘別有差。震旦有僧官。自秦始也。魏世 立..."
+    },
+    {
+      "path": "T\\T51\\T51n2078.xml",
+      "mentions": 1,
+      "title": "Record of the Orthodox Lineage of Dharma Transmission",
+      "title_zh": "傳法正宗記",
+      "snippet": "。一曰金華曇益者。 一曰吳門圓鏡者。 三十一祖之八世。曰徑山國一禪師道欽。其 所出法嗣四人。"
+    },
+    {
+      "path": "T\\T51\\T51n2077.xml",
+      "mentions": 1,
+      "title": "Continued Record of the Transmission of the Lamp",
+      "title_zh": "續傳燈錄",
+      "snippet": "開和法顒禪師天峯佛印禪師 元豐宗燈禪師神光道芳禪師 禪慧法欽禪師兜率景常禪師 頴叔蔣之奇居士 佛日才禪師法嗣九人"
+    },
+    {
+      "path": "T\\T51\\T51n2073.xml",
+      "mentions": 1,
+      "title": "Records and Biographies Related to the Avatamsaka Sutra",
+      "title_zh": "華嚴經傳記",
+      "snippet": "...義釋文窮微 洞奧。至二年初徙。居玄兌山嵩巖寺。注釋 同前。時孝明帝靈大后胡氏。重道欽人。旨 請就闕。法師辭疾。未見至夏首。重命固請。既 辭不獲免。至十六日。進入東柏..."
+    },
+    {
+      "path": "T\\T51\\T51n2067.xml",
+      "mentions": 1,
+      "title": "Accounts in Praise of the Lotus Sutra",
+      "title_zh": "弘贊法華傳",
+      "snippet": "...既覽舊經。義多紕僻。皆由先度失旨。不與梵 本相應。於是。興。使沙門僧\uDB81\uDCAF。僧遷。法欽。道 流。道恒。道標。僧叡。僧肇等八百餘人。\uD85E\uDECE受 什旨。弘始八年夏。於長安大寺..."
+    },
+    {
+      "path": "T\\T50\\T50n2064.xml",
+      "mentions": 1,
+      "title": "Biographies of Miraculous Monks",
+      "title_zh": "神僧傳",
+      "snippet": "...數日方止。春 秋八十有七。 崇惠 釋崇惠。姓章氏。杭州人也。穉秣之年。往禮徑 山國一禪師為弟子。復誓志於潛落雲寺遁 跡。俄有神白惠曰。師持佛頂少結莎訶令密 語不圓。莎訶..."
+    },
+    {
+      "path": "T\\T49\\T49n2038.xml",
+      "mentions": 1,
+      "title": "Continuation Collection of the Brief Investigation of Antiquity (Shijian)",
+      "title_zh": "釋鑑稽古略續集",
+      "snippet": "...全龕於死關之內。從治命也。祖雍識師 有語錄。盛行於世云 斷橋禪師。 雪巖禪師 諱法欽。五歲出家。十六剃度。十 八行脚。十九靈隱。掛塔移單過淨慈。一日在 天目。殿上行..."
+    },
+    {
+      "path": "T\\T48\\T48n2025.xml",
+      "mentions": 1,
+      "title": "Imperially Commissioned Baizhang Monastic Regulations",
+      "title_zh": "勅修百丈清規",
+      "snippet": "...傷風化。正統七年二 月十二日。該通政使司右通政李錫等官於 奉天門奏奉聖旨。禮部知道欽此欽遵抄出 到部參照。住持僧忠智奏稱重刊百丈清規。 乞賜序文一節。合無行移翰林院..."
+    },
+    {
+      "path": "T\\T47\\T47n1998A.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Dahui Pujue",
+      "title_zh": "大慧普覺禪師語錄",
+      "snippet": "...能荷擔此箇大事。 且那箇是出格道人。不見昔日江西馬大師。 遣西堂智藏。馳書上徑山國一禪師。國一開 鍼見一圓相。遂索筆對智藏。於圓相中點一 點。智藏罔措。這箇豈不是格外消..."
+    },
+    {
+      "path": "T\\T47\\T47n1997.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Yuanwu Foguo",
+      "title_zh": "圓悟佛果禪師語錄",
+      "snippet": "...留意祖道。與楊文公為友。日夕切磋。後見 石門慈照禪師。因為舉。唐房孺相公問徑山 國一禪師云。祖師大道畢竟意旨如何。徑山 云此大丈夫事。非將相之所能為。李聞之大 悟。遂作..."
+    },
+    {
+      "path": "T\\T46\\T46n1956.xml",
+      "mentions": 1,
+      "title": "Collection on Rebirth through the Complete Causes of Esoteric Mantras",
+      "title_zh": "密呪圓因往生集",
+      "snippet": "...欲所往諸佛剎土。皆得隨意無有障 礙。及得種種世間出世間法。心所樂求皆得 成就。 功德山陀羅尼呪捺麼莫\uD874\uDE81也 捺麼\uD874\uDE81 唥麻也 捺麼珊遏也 西寧乎嚕嚕 西\uD875\uDD26嚕 吉勒鉢..."
+    },
+    {
+      "path": "T\\T45\\T45n1861.xml",
+      "mentions": 1,
+      "title": "Doctrinal Compendium of the Mahāyāna Dharma Garden",
+      "title_zh": "大乘法苑義林章",
+      "snippet": "...億劫當有終極。滅度之後。觀世音菩薩。 明相出時。於七寶菩提樹下成等正覺。名 普光功德山王佛。國名眾寶普集莊嚴。勝 阿彌陀佛國百千萬億不可為比。此佛滅 已大勢至成佛。名..."
+    },
+    {
+      "path": "T\\T44\\T44n1849.xml",
+      "mentions": 1,
+      "title": "Brief Inquiry into the Inner Meaning of the Awakening of Faith",
+      "title_zh": "大乘起信論內義略探記",
+      "snippet": "...佛壽命無量劫。 當終極滅度後。觀音菩薩明相出時。七寶菩 提樹下。成等正覺。名普光功德山王佛。國土 名眾寶普集莊嚴。勝阿彌陀國百千億不可 為比。佛滅已。大勢至成佛。名善..."
+    },
+    {
+      "path": "T\\T44\\T44n1838.xml",
+      "mentions": 1,
+      "title": "Commentary on the Mahāyāna Treatise on the Non-Dual Dharma Realm",
+      "title_zh": "大乘法界無差別論疏",
+      "snippet": "...。罄己所知。略示群品。其為論也。理超謂 迹。以菩提心涅槃界為因果之勝地。清淨土 功德山為緣性之本轍。善苗擢葉即返流以 契本。白法開華。自還源而造極。亘煩惱海不 思議而..."
+    },
+    {
+      "path": "T\\T39\\T39n1803.xml",
+      "mentions": 1,
+      "title": "Doctrinal Commentary on the Uṣṇīṣa Vijaya Dhāraṇī Sutra",
+      "title_zh": "佛頂尊勝陀羅尼經教跡義記",
+      "snippet": "...滅後，過中夜分 明相出時，有觀音菩薩，於七寶菩提樹下結 跏趺坐成等正覺，號曰普光功德山王如來， 十號具足，國土如上。」《鼓音經》云：「阿彌陀佛有 無量聲聞，國名清泰，..."
+    },
+    {
+      "path": "T\\T36\\T36n1742.xml",
+      "mentions": 1,
+      "title": "Outline of the Contemplation Gate of Vows and Practices in the Great Avataṃsaka Sutra",
+      "title_zh": "大方廣佛華嚴經願行觀門骨目",
+      "snippet": "...那由他城周匝圍繞。彼勝音世 界最初劫中有十須彌山，微塵數如來出興， 第一佛名一切功德山須彌勝雲，王名喜見 善慧，統領"
+    },
+    {
+      "path": "T\\T36\\T36n1739.xml",
+      "mentions": 1,
+      "title": "Treatise on the New Avataṃsaka Sutra",
+      "title_zh": "新華嚴經論",
+      "snippet": "...數眾生發菩提心。功德 山須彌勝雲如來為威光說頌，歎威光之德。 於此十一行頌中，明功德山如來歎威光所 得如佛所行廣大，如文可知。 十二「諸佛子」已下有十五行經，明莊嚴劫..."
+    },
+    {
+      "path": "T\\T36\\T36n1736.xml",
+      "mentions": 1,
+      "title": "Subcommentary Explaining the Meaning of the Commentary on the Great Avataṃsaka Sutra",
+      "title_zh": "大方廣佛華嚴經隨疏演義鈔",
+      "snippet": "...足迴文，合云彼勝音世界中， 有十須彌山微塵數如來出興於世，其劫最 初第一佛號一切功德山須彌勝雲也。此正 甚善。今不欲繁舉出經之過，強以理通最 初劫言耳。云「更有大」者..."
+    },
+    {
+      "path": "T\\T34\\T34n1727.xml",
+      "mentions": 1,
+      "title": "Record of the Profound Meaning of Avalokiteśvara",
+      "title_zh": "觀音玄義記",
+      "snippet": "...弟子。」「次當」等者，《觀音授記經》云「觀世音 菩薩，次阿彌陀後當成正覺，名普光功德山 王如來。」「補處」者，猶儲君之義也。二、「其本」下，結 難測。如上經說，或已成..."
+    },
+    {
+      "path": "T\\T34\\T34n1726.xml",
+      "mentions": 1,
+      "title": "Profound Meaning of Avalokiteśvara",
+      "title_zh": "觀音玄義",
+      "snippet": "... 勝，佛言：「當發菩提心。」從如來初發菩提心，次 阿彌陀佛後當成正覺，觀音名普光功德山 王，勢至名善住功德寶王。又，《如來藏經》亦 云「觀音、文殊皆未成佛。」若《觀音..."
+    },
+    {
+      "path": "T\\T34\\T34n1721.xml",
+      "mentions": 1,
+      "title": "Commentary on the Meaning of the Lotus Sutra",
+      "title_zh": "法華義疏",
+      "snippet": "...後，世界出法音不斷，彼佛於中夜入滅， 觀音補處，世界轉名眾寶普集莊嚴，佛號普 光功德山王；大勢至補觀音處，佛號善住功 德寶王也。金光師子佛及彌陀佛皆有三乘， 後二佛唯..."
+    },
+    {
+      "path": "T\\T34\\T34n1719.xml",
+      "mentions": 1,
+      "title": "Record of the Lotus Sutra Phrases and Sentences",
+      "title_zh": "法華文句記",
+      "snippet": "...，於夜後分其土轉名一 切珍寶之所成就所有莊嚴勝安樂界，於一 念頃便成正覺，號一切功德山王，壽九十六 億那由他百千萬億劫。第二太子名大勢志 ，第三名文殊，第四名普賢，在..."
+    },
+    {
+      "path": "T\\T33\\T33n1711.xml",
+      "mentions": 1,
+      "title": "Praise of the Heart Sutra",
+      "title_zh": "般若波羅蜜多心經贊",
+      "snippet": "...滅後，過中夜分，明星出時， 觀世音菩薩於七寶菩提樹下結加趺坐，成等 正覺，號普光功德山王如來，十號具足，乃至 國名眾寶莊嚴。又《無量壽》曰，觀音菩薩於是 國土修菩薩行..."
+    },
+    {
+      "path": "ZW\\ZW07\\ZW07n0062.xml",
+      "mentions": 1,
+      "title": "Ritual Text for the Medicine Buddha Consecration for Disaster Removal",
+      "title_zh": "佛說消災延壽藥師灌頂章句儀",
+      "snippet": "...果滿不思議，萬德功圓無等倫。 六度願門因地發，百千相好果中圓。 慈悲海門應難量，功德山高讚不盡。 南無三滿哆。沒陀喃。唵。佩殺紫呬。虞魯吠。 嚕你也鉢囉。波囉惹耶。怛..."
+    },
+    {
+      "path": "ZS\\ZS01\\ZS01n0001.xml",
+      "mentions": 1,
+      "title": "Classified Compilation of Buddhist Materials from Official Histories",
+      "title_zh": "正史佛教資料類編",
+      "snippet": "...以鄴城 舊宮為天平寺。 世宗以來至武定末，沙門知名者，有惠猛、惠辨、惠深、僧暹、道欽、僧 獻、道晞、僧深、惠光、惠顯、法榮、道長，並見重於當世。 魏有天下，至於禪讓..."
+    },
+    {
+      "path": "T\\T03\\T03n0190.xml",
+      "mentions": 1,
+      "title": "Collected Sutra on the Buddha’s Past Deeds",
+      "title_zh": "佛本行集經",
+      "snippet": "猶彼迦葉空出家。 譬如炎熾大火燃，普燒盡諸所祭物， 如是無智愚癡故，自燒一切功德山。 大臣前言見未來，造作眾罪無果報， 彼於先世修福業，故今得受快樂心。"
+    },
+    {
+      "path": "M\\M59\\M59n1540.xml",
+      "mentions": 1,
+      "title": "General Discourses of Chan Master Dahui Pujue",
+      "title_zh": "大慧普覺禪師普說",
+      "snippet": "...為是有 為是無藏曰有俗士乃笑藏云莫曾問尊宿來曰然藏曰 尊宿向你道甚麼曰某曾問徑山國一禪師向我道無和 尚因何言有藏乃問你有妻否曰有妻又問徑山和尚有 妻否曰無妻藏曰徑山和尚..."
+    },
+    {
+      "path": "L\\L154\\L154n1641.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of National Teacher Xiu of Dajue Puji Nengren",
+      "title_zh": "大覺普濟能仁琇國師語錄",
+      "snippet": "...云會麼。 徑山僧叅師云在徑山多少時進云若干 時師云山上有鯉魚麼進云初學不會師 云國一禪師在汝脚底。 七僧入室久立師云難難難七石油蔴\uD84D\uDDF3 上攤眾無語一僧問如何是西來大意師..."
+    },
+    {
+      "path": "L\\L154\\L154n1639.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Tianyin Xiu",
+      "title_zh": "天隱修禪師語錄",
+      "snippet": "出親人口卻被旁人冷眼窺末後句更為奇 太尉還曾識得伊咄 舉徑山國一禪師唐代宗詔至闕下親加瞻 禮一日在內\uDB88\uDEB7坐次見帝駕來迺起立帝云 師何以起一云檀越何得..."
+    },
+    {
+      "path": "L\\L154\\L154n1638.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Xueqiao Xin (Vols. 7–10)",
+      "title_zh": "雪嶠信禪師語錄(第7卷-第10卷)",
+      "snippet": "...相逢著不是當年這老胡莫謂似 月中無影休辜負若向空王殿上行\uDB9D\uDDFF跟 斬斷誰回互 徑山國一禪師上堂僧問如何是道師曰山 上有鯉魚井底有蓬塵。 拈這則公案因國一答得新奇古今無人 ..."
+    },
+    {
+      "path": "L\\L153\\L153n1637.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Huanyouchuan",
+      "title_zh": "幻有傳禪師語錄",
+      "snippet": "...師曰為我將這兩個老和尚 做一坑埋\uD861\uDEAB會麼者云不會師以手合掌 曰老僧罪過。 舉僧問徑山欽如何是道師云山上有鯉魚 水底有蓬塵此等之語不唯超脫新奇抑且 為啟悟標格見道法幢者..."
+    },
+    {
+      "path": "L\\L143\\L143n1608.xml",
+      "mentions": 1,
+      "title": "Catalog of the Dharma Treasures of the Great Canon’s Sacred Teachings",
+      "title_zh": "大藏聖教法寶標目",
+      "snippet": "...。故國復治。 觀世音受記經 右說觀世音次補彌陀佛。其國土莊嚴超 越百千萬倍。佛號功德山王如來。得大勢 菩薩次補觀音成佛。號善住功德寶王如 來。 海龍王經四卷 【改】 ..."
+    },
+    {
+      "path": "J\\J40\\J40nB480.xml",
+      "mentions": 1,
+      "title": "Separate Transmission of Yiguan",
+      "title_zh": "一貫別傳",
+      "snippet": "...界名勝音，劫名種種莊嚴香水，海名清淨光明，城 名燄光明，道場名寶華遍照，佛名一切功德山須彌勝 雲，光名起發一切善根音，王名喜見善慧，太子名大威 光。此非種種光明遍照而..."
+    },
+    {
+      "path": "J\\J39\\J39nB455.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Yisou Gao of Tongtian",
+      "title_zh": "通天逸叟高禪師語錄",
+      "snippet": "...云：「水涸露魚蹤。」進云：「如何是道中人？」 師云：「無喜亦無嗔。」進云：「徑山國一禪師道：『山上有鯉 魚，海底有篷塵。』意作麼生？」師云：「無毛鷂子貼天飛。」 問：「..."
+    },
+    {
+      "path": "J\\J39\\J39nB454.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Pinjixiang",
+      "title_zh": "頻吉祥禪師語錄",
+      "snippet": "...時無口。」 羃羃黃雲戀素秋，新州歸後復何儔，溪南滿目蒼 煙起，送罷孤舟一水流。 徑山道欽禪師因馬祖令人送書。 一井之田，眾家可食。了彼徭役，滿吾作志。穫可讓 耕，的必同..."
+    },
+    {
+      "path": "J\\J38\\J38nB425.xml",
+      "mentions": 1,
+      "title": "Complete Record of Chan Master Jifei",
+      "title_zh": "即非禪師全錄",
+      "snippet": "...。 且道正宗分在甚麼處？依經解義，三世佛冤；離經 一字，如同魔說。」 舉：「徑山國一禪師因官人問云：『傳舍有二使，郵吏為 刲一羊，二使聞之，一人救，一人不救，罪福異之乎..."
+    },
+    {
+      "path": "J\\J38\\J38nB410.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Lianfeng",
+      "title_zh": "蓮峰禪師語錄",
+      "snippet": "...亡；晏國師散宅 拋家，謾言作者。縱然到處稱尊，也是徽宗比狩。」 舉：「馬祖送書與徑山欽，欽發緘，見一圓相，即一點卻 封回。忠國師聞，云：『欽師猶被馬師惑。』」 拈云：..."
+    },
+    {
+      "path": "J\\J37\\J37nB394.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Yi’an",
+      "title_zh": "翼菴禪師語錄",
+      "snippet": "...上菩 提。」復拈柱杖云：「秪此不著纖力，能轉無量莊嚴。」隨卓 一卓云：「轉寶峰為功德山，巍巍無過其上；轉寶壑為 甚深義，淵淵莫盡其底；轉寶樹為莊嚴林，頭頭戛玉 鏘金；..."
+    },
+    {
+      "path": "J\\J37\\J37nB393.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Huayan Huanchufo",
+      "title_zh": "華巖還初佛禪師語錄",
+      "snippet": "...因甚一塵便翳。 蓋覆乾坤日，何妨塵入間。誰知正法眼，滅卻瞎驢邊。 馬祖令人送書與徑山道欽禪師，書中作一圓 相，欽師發緘，於圓相中著一點，卻封回忠國師 云：「欽師猶被馬師..."
+    },
+    {
+      "path": "J\\J37\\J37nB390.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Chulin of Beijing",
+      "title_zh": "北京楚林禪師語錄",
+      "snippet": "...江邊婆子賣風流，卻把花枝帶滿頭，剛被傍觀輕借 問，一聲款乃過滄洲。 杭州徑山國一道欽禪師，因馬祖遣人送書到， 書中作一圓相，師發緘見，遂於圓相中著一點， 卻封回。忠..."
+    },
+    {
+      "path": "J\\J37\\J37nB388.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Yikui of Shending",
+      "title_zh": "神鼎一揆禪師語錄",
+      "snippet": "... 有路，還期特達之人。苟非良馬見鞭影而行，盡同鈍 鳥焉翔乎天外？不見崔趙公問徑山國一禪師云：『弟 子欲出家，得否？』國云：『出家乃大丈夫事，非將相之所 能為。』敢問大眾..."
+    },
+    {
+      "path": "J\\J37\\J37nB386.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Yuan’an Feng",
+      "title_zh": "遠菴僼禪師語錄",
+      "snippet": "...時；止濼困魚，徒勞激浪。 不見昔日李都尉訪谷隱聰，問出家事，聰即舉：『崔趙 公問徑山欽：「弟子出得家否？」欽云：「出家乃大丈夫事， 非將相之所能為。」都尉便於此放卻身..."
+    },
+    {
+      "path": "J\\J36\\J36nB369.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Zhe’an Fan",
+      "title_zh": "蔗菴範禪師語錄",
+      "snippet": "...達磨家私。若有克家之子，兩肩荷負。」乃 擲拄杖曰：「向者裏會取。」 上堂。舉：「國一禪師因馬祖遣智藏來問曰：『十二時中 以何為境？』一曰：『侍汝回去時有信。』藏曰：『即..."
+    },
+    {
+      "path": "J\\J36\\J36nB359.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Baiyu",
+      "title_zh": "百愚禪師語錄",
+      "snippet": "...貴如浮雲、棄功名如敝屣，豈不謂 世、出世間一大丈夫？且道孰是其人？不見崔趙公問 徑山欽曰：『弟子欲出家，得否？』曰：『出家乃大丈夫事，非 將相之所能為。』趙公於言下有..."
+    },
+    {
+      "path": "J\\J35\\J35nB336.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Huigongxiong of Baoxianglin, Nanhai",
+      "title_zh": "南海寶象林慧弓詗禪師語錄",
+      "snippet": "...豎起拳，又伸掌，曰：「開即成掌，五指參 差。」復握拳，云：「如今為拳必無高下，汝道欽山還通商 量也無？」僧近前卻豎起拳，師曰：「你恁麼秪是箇開 合漢。」 拈云：「就..."
+    },
+    {
+      "path": "J\\J35\\J35nB325.xml",
+      "mentions": 1,
+      "title": "Resolving Doubts",
+      "title_zh": "解惑篇",
+      "snippet": "...而為四時，以一氣言之，皆元之為也。」濂問太極圖 之所由，總曰：「竹林壽涯禪師，得國一禪師之心傳，其來遠 矣！非言事物，而言至理。當時建圖之意，據吾教中，依空立 世界，以..."
+    },
+    {
+      "path": "J\\J34\\J34nB311.xml",
+      "mentions": 1,
+      "title": "Complete Record of Chan Master Juelangsheng of Tianjie",
+      "title_zh": "天界覺浪盛禪師全錄",
+      "snippet": "...賊大敗。」 偶因撥動玉泉喝，稱得果然野干鳴，千古禪流高著 眼，莫教錯認定盤星。 國一禪師初登徑山頂上，於龍湫邊宴坐，五百 龍神不安，因讓其窟宅湧為寺基。且道國一宴 坐，..."
+    },
+    {
+      "path": "J\\J34\\J34nB306.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Neishaozhong",
+      "title_zh": "內紹種禪師語錄",
+      "snippet": "...不復銜花。 紅白花開長短枝，調笙挈榼鬧春時。青林一夜嚴霜 後，果熟香殘賣向誰。 國一禪師在大內，一日見帝來，乃起立。帝云：「師何 以起？」師云：「檀越何得向四威儀中見貧..."
+    },
+    {
+      "path": "J\\J34\\J34nB295.xml",
+      "mentions": 1,
+      "title": "Study of Buddhism: Examinations and Admonitions",
+      "title_zh": "學佛考訓",
+      "snippet": "...弘卷軸。 《委宛餘編》云：「釋迦佛姓剎利，字頓吉，又為悉達。阿彌 陀佛，是為普光功德山王波頗智光佛也。一曰佛陀， 一曰浮屠，一曰部多，一曰母馱，一曰沒陀，五天竺異 音..."
+    },
+    {
+      "path": "J\\J33\\J33nB286.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Yingningjing",
+      "title_zh": "攖寧靜禪師語錄",
+      "snippet": "...也。且《景德傳燈》系大宋道 原禪師編次，賜入龍藏，師系法眼下二世孫，當真 宗時，道欽四海明賢與之核實，驀修筆定，頒賜流 行，敢以洞宗之始祖機緣而不為之一詳細乎？但 ..."
+    },
+    {
+      "path": "J\\J29\\J29nB248.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Dabianquan",
+      "title_zh": "達變權禪師語錄",
+      "snippet": "...風。」瑩侍者云：「大用現前。」一僧云：「山上有鯉魚， 海底有蓬塵。」師云：「者是國一禪師底，與你沒交涉。」僧 無語，師喝出。 問瑩侍者：「蟄戶不開，龍無龍句，知你會不得..."
+    },
+    {
+      "path": "J\\J29\\J29nB244.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Sanshanlai",
+      "title_zh": "三山來禪師語錄",
+      "snippet": "...不信？」宿云：「汝便是佛！」 僧有省。今則喚公是佛，公其信耶、否耶？又崔趙公問 道欽禪師曰：「弟子欲學道參禪，得麼？」欽曰：「參禪學道 乃大丈夫事，非將相之所能為。..."
+    },
+    {
+      "path": "J\\J29\\J29nB241.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Tiebiji of Qingzhong",
+      "title_zh": "慶忠鐵壁機禪師語錄",
+      "snippet": "...用喝、不用音 聲、不用色身，請下一轉語，不妨與上座相見。 復向文學 昔崔趙公問於道欽禪師云：「如弟子亦可出家參禪 否？」師答云：「參禪乃大丈夫事，非將相所能為。」公..."
+    },
+    {
+      "path": "J\\J29\\J29nB232.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Monk Shuijianhai of Tianwang at Jinsu",
+      "title_zh": "天王水鑑海和尚住金粟語錄",
+      "snippet": "...而鉅觀者則興陽、太陽、芭蕉。然山以人名，太陽以玄， 芭蕉以清，興陽以名者則不一。道欽開山，四宗弘道， 賢髼頭傳大溈哲公之道開席興陽，玅喜遊興陽，尚 及見賢之肉身在，..."
+    },
+    {
+      "path": "J\\J29\\J29nB230.xml",
+      "mentions": 1,
+      "title": "Six-Session Record of Monk Shuijianhai of Tianwang",
+      "title_zh": "天王水鑑海和尚六會錄",
+      "snippet": "...鉅 觀者則興陽、太陽、芭蕉。然山以人名，太陽以玄，芭蕉 以清，興陽以名者則不一。道欽開山，四宗弘道，賢髼 頭傳大溈哲公之道開席興陽，妙喜遊興陽，尚及見 賢之肉身在，..."
+    },
+    {
+      "path": "J\\J28\\J28nB208.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Guxue Zhe",
+      "title_zh": "古雪哲禪師語錄",
+      "snippet": "...，同參一 句作麼生道？慈光直射西峰上，翠靄高凝紫石間。」復 舉：「馬祖遣僧馳書訊徑山欽禪師，欽開緘，見書中祇 畫一○相，乃拈筆於○相中著一點，依舊封回。後來 忠國師云..."
+    },
+    {
+      "path": "J\\J27\\J27nB191.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Xiangtian Jinian",
+      "title_zh": "象田即念禪師語錄",
+      "snippet": "... 勞禮拜又何足道？師尊法尊，心虛道進，委身盡敬，不亦 宜乎？」 崔趙公問徑山道人法欽：「弟子可出得家否？」欽曰：「出家 是大丈夫事，非將相所能為。」趙公嘆賞其言。蓋..."
+    },
+    {
+      "path": "J\\J26\\J26nB183.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Shiqi of Xuedou",
+      "title_zh": "雪竇石奇禪師語錄",
+      "snippet": "...， 越山吳水清，都來不隔線，腳底最分明。」下座。 沙彌剃染請上堂。舉：「崔趙公問徑山欽禪師：『弟子欲 出家，得否？』欽云：『出家乃大丈夫事，非將相之所能為。』 趙公乃..."
+    },
+    {
+      "path": "J\\J26\\J26nB182.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Wanru",
+      "title_zh": "萬如禪師語錄",
+      "snippet": "...家辦道 第一個樣子。又不見？李文和參石門聰禪師，叩及宗 門中事，聰舉崔趙公見徑山國一禪師因緣，李忽契 悟，亦呈偈云：『參禪須是鐵漢，著手心頭便判，直趣無 上菩提，一切是..."
+    },
+    {
+      "path": "J\\J25\\J25nB174.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Juelangsheng of Tianjie",
+      "title_zh": "天界覺浪盛禪師語錄",
+      "snippet": "...泉畔，煙鎖幽林；佛字巖前，月窺 古洞。千載風光不昧，特地開眼其誰？昔牛頭第七世 徑山道欽禪師，因馬祖令人送書到，師發緘見一圓 相，乃於相中著一點卻封回。忠國師聞之曰：『..."
+    },
+    {
+      "path": "J\\J25\\J25nB171.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Monk Tianyin",
+      "title_zh": "天隱和尚語錄",
+      "snippet": "...話迢遙。祖翁快利竹篦子，賞罰分明正 令高，箇裏知音親證得，夜來孤月照青霄。」 舉國一禪師在內庭，見帝起立，帝云：「師何以起？」一云： 「檀越何得向四威儀中見貧道？」頌云..."
+    },
+    {
+      "path": "J\\J25\\J25nB154.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Songyin Weianran",
+      "title_zh": "松隱唯菴然和尚語錄",
+      "snippet": "...簷頭，何必千巖萬壑遊；十里湖光煙柳 外，畫船不是採蓮舟。 送整禪人歸揚州觀音閣 功德山頭觀自在，巍巍坐斷鐵牛機；大人境界無人 到，門外長江映落暉。 次韻送天界玉藏主 ..."
+    },
+    {
+      "path": "J\\J23\\J23nB135.xml",
+      "mentions": 1,
+      "title": "Shimen’s Literary Chan",
+      "title_zh": "石門文字禪",
+      "snippet": "...石塔銘 溈山空印禪師軾公，與余登芙蓉，謁長老從公于潮 音堂，同遊東澗。道人師粲、法欽、文顯預焉。空印使同 遊者以石絫塔于澗之曲，從笑曰：「連日群鵲翔鳴，豈 此勝緣之..."
+    },
+    {
+      "path": "J\\J23\\J23nB125.xml",
+      "mentions": 1,
+      "title": "Lineage of the First Awakened (Selected: ‘Emperors Asking the Way’)",
+      "title_zh": "先覺宗乘（選錄「帝王問道錄」）",
+      "snippet": "...潭之北，中有黃 金充一國，無影樹下合同船，琉璃殿上 無知識。」 唐大曆三年代宗詔徑山欽至闕下，親加瞻禮。一日 同忠國師在內庭坐次，見帝駕來，欽起立。帝曰：「師何 以起..."
+    },
+    {
+      "path": "J\\J21\\J21nB109.xml",
+      "mentions": 1,
+      "title": "Survey of the Buddhist Canon",
+      "title_zh": "大藏一覽",
+      "snippet": "...勢二大士，於何國土成等正覺？』佛答：『阿彌陀佛 正法滅後，觀世音成等正覺，號普光功德山王 如來，彼佛國土號曰眾寶善集莊嚴；般涅槃後， 得大勢即於其國成等正覺，號善住功..."
+    },
+    {
+      "path": "J\\J20\\J20nB096.xml",
+      "mentions": 1,
+      "title": "Chan Explanation of the Zhouyi (I Ching)",
+      "title_zh": "周易禪解",
+      "snippet": "...以為謙也。佛法釋者，裒佛果無邊功 德之山，以益眾生之地；了知大地眾生，皆具佛果 功德山王。稱物機宜而平等施以佛樂，不令一人 獨得滅度。 初六：謙謙君子，用涉大川，吉。..."
+    },
+    {
+      "path": "J\\J15\\J15nB005.xml",
+      "mentions": 1,
+      "title": "Commentary Notes on the Avataṃsaka ‘Samantabhadra Vows’ (Selected: Seven Huayan Patriarchs + Appendix)",
+      "title_zh": "大方廣佛華嚴經普賢行願品別行疏鈔（選錄「華嚴宗七祖行蹟」及「附錄」）",
+      "snippet": "...之榻；目不視非儀之綵；舌不味過午之餚；手不釋圓明 之珠；宿不離衣缽之側。從牛頭忠徑山欽問西來宗旨， 授華嚴圓教於京都詵禪師。至是大曆三年，代宗詔入 內，與大辯正三藏譯..."
+    },
+    {
+      "path": "J\\J01\\J01nA042.xml",
+      "mentions": 1,
+      "title": "Chronological Biography of Chan Master Dahui Pujue",
+      "title_zh": "大慧普覺禪師年譜",
+      "snippet": "...者，亦皆鉗喙結 舌，歎息其不可及。吾不知公之道，自有以使之耶！ 院去城百里，自唐國一禪師始斬蓬藋，驅龍蛇而 居之。寺無常產，山之神龍實助其緣化。公至之始， 眾纔三百，二..."
+    },
+    {
+      "path": "I\\I01\\I01n0093.xml",
+      "mentions": 1,
+      "title": "Statue-Making Inscription by Daoduan of Yongxian Monastery and 300 People",
+      "title_zh": "永顯寺道端等三百人造像記",
+      "snippet": "... 像主趙多兒 郡中正魯光□ 維那趙紹暉 像主趙思 像主孫顯祖 王司馬子立 維那王道欽 像主趙景璨 像主趙舍洛 都維那司馬吳容 維那魯清暉 像主趙洪度 像主孫伏奴 都..."
+    },
+    {
+      "path": "I\\I01\\I01n0011.xml",
+      "mentions": 1,
+      "title": "Stele: Feng Shenyu and 220 People Make Images",
+      "title_zh": "馮神育等二百廿人造像碑",
+      "snippet": "... 邑子趙林坊 邑子馮真苻 邑子祁令宋 邑子馮神育 邑子馮道多 邑師馮洪標 邑子馮道欽 邑子馮洪哲 邑子馮神護 邑子馮道初 邑子祁令智 邑子馮神憙 邑子馮天勗 邑子馮..."
+    },
+    {
+      "path": "GB\\GB078\\GB078n0109.xml",
+      "mentions": 1,
+      "title": "Jingshan Collection",
+      "title_zh": "徑山集",
+      "snippet": "興聖萬壽禪寺住持金華宗淨集 徑山在臨安縣天目山東北。唐國一禪師法欽始開山，代宗詔建寺乾符。宋大中祥符、政和疊改寺 額。南渡後，顯仁太后、高宗嘗..."
+    },
+    {
+      "path": "GA\\GA079\\GA079n0081.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Qingliang Mountain",
+      "title_zh": "清涼山志",
+      "snippet": "...，目不視非儀之綵，舌不味過午之餚，手不釋圓明之珠，宿不離衣鉢之側。」從牛 頭忠、徑山欽，問西來宗旨。遙稟於賢首國師《華嚴》圓旨。代宗大曆三年，詔入內，與大 辯正三藏譯..."
+    },
+    {
+      "path": "GA\\GA043\\GA043n0046.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Helin Monastery (Shi Mingxian Edition)",
+      "title_zh": "鶴林寺志（釋明賢本）",
+      "snippet": "...感天 雨\uDB89\uDE08有匾，為索靖書曰：天雨寳\uDB89\uDE08，骨力勁麗，若龍跳 鸞停，致足珎也。上足法欽禪師剃度于是，祖曰：此非 汝所。乘流而行，遇徑則止。后入徑山，龍神引至五\uD847\uDDB6 之..."
+    },
+    {
+      "path": "GA\\GA030\\GA030n0029.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Xixi Fanyin",
+      "title_zh": "西谿梵隱志",
+      "snippet": "...寺，宋太平 興國中有臥禪師在此施法。光明寺，唐高宗勅賜光明禪寺。隆慶寺，後唐莊宗徑山欽禪師中興。 其他佛教勝蹟，不勝枚擧。宋代以降，「西谿百詠」之輯不一作，可見其勝也..."
+    },
+    {
+      "path": "GA\\GA027\\GA027n0025.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Shengshui Monastery, Yunju",
+      "title_zh": "雲居聖水寺志",
+      "snippet": "...龍灌沐 諷祕密之真詮敢忘遺教獻蘋蘩之薄供仰酬 慈恩伏願智慧海宏深蕩慈波於無窮無極功德山 高聳垂道樹而益茂益榮同十方諸佛大轉法輪與 法界眾生俱成正覺但等下情無任瞻仰慈容..."
+    },
+    {
+      "path": "GA\\GA021\\GA021n0019.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Li’an Monastery, Wulin",
+      "title_zh": "武林理安寺志",
+      "snippet": "...義。 就蘇州湛然法師，習《天台止觀》、《法華》、《維摩》等經疏。謁牛頭 忠禪師、徑山欽禪師，咨決南宗心要。復見慧雲禪師，了北 宗元理，兼習儒門經傳、子史、小學、蒼、雅..."
+    },
+    {
+      "path": "GA\\GA014\\GA014n0012.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Tiantong Monastery (Vols. 5–10)",
+      "title_zh": "天童寺志(第5卷-第10卷)",
+      "snippet": "...孤硬無匹，超然于生死 中，亦可風也。」 笑翁堪禪師 師諱妙堪，慈溪毛氏子。從野翁道欽受釋學。參松 源岳于靈隱，不契。時無用全禪師居天童，俓造其 室。用問曰：「行脚僧..."
+    },
+    {
+      "path": "GA\\GA012\\GA012n0011.xml",
+      "mentions": 1,
+      "title": "Sequel Gazetteer of Ayuwang Mountain, Mingzhou",
+      "title_zh": "明州阿育王山續志",
+      "snippet": "...有道韻，頂 相平滿，額廣伏犀。甫冠，銳欲超俗，父兄不奪其志， 乃從邑之蘆山院野菴道欽薙髮受具戒。欽使徧 參，歴依金山息菴觀、淨慈肯堂充、靈隱松源岳諸 大老之門，未泮..."
+    },
+    {
+      "path": "GA\\GA001\\GA001n0004.xml",
+      "mentions": 1,
+      "title": "Collated Edition of the Record of Luoyang Monasteries",
+      "title_zh": "洛陽伽藍記合校本",
+      "snippet": "...嘉木靈芝叢生其上林泉婉 麗花綵曜目宋雲與惠生割捨行資於山頂造浮圖一所刻石隸書銘魏功德山有收骨寺三百餘僧王城南一百 餘里有如來昔作摩休國剝皮為紙拆骨為筆 處阿育王起塔籠..."
+    },
+    {
+      "path": "GA\\GA001\\GA001n0003.xml",
+      "mentions": 1,
+      "title": "Probing Notes on the Record of Luoyang Monasteries",
+      "title_zh": "洛陽伽藍記鉤沈",
+      "snippet": "...嘉木靈芝 叢生其上林泉婉麗花綵矅目宋雲惠生割捨行資 於山頂造浮圖一區刻石隸書銘魏功德山有收骨 寺三百餘僧王城南一百餘里有如來昔作摩休國 剝皮為紙折骨為筆處阿育王起塔籠..."
+    },
+    {
+      "path": "GA\\GA001\\GA001n0002.xml",
+      "mentions": 1,
+      "title": "Collected Evidential Notes on the Record of Luoyang Monasteries",
+      "title_zh": "洛陽伽藍記集證",
+      "snippet": "...禾 靈芝叢生其上林泉婉麗花綵曜目宋雲與惠生割捨行 資於山頂造浮圖一所刻石隷書銘魏功德山有收骨寺 三百餘僧王城南一百餘里有如來昔作摩休國剝皮為 紙折骨為筆處阿育王起塔籠..."
+    },
+    {
+      "path": "F\\F01\\F01n0016.xml",
+      "mentions": 1,
+      "title": "Sūtra of Great King Avalokiteśvara",
+      "title_zh": "大王觀世音經",
+      "snippet": "藏師子游戲佛 藥師瑠璃光佛 普光功德山王佛 善住功德寶王佛 六方六佛名号 東 方寶光月殿妙尊音王佛 南方樹根華王佛 西..."
+    },
+    {
+      "path": "D\\D50\\D50n8945.xml",
+      "mentions": 1,
+      "title": "Outer Collection of Monk Xuefeng Kong",
+      "title_zh": "雪峰空和尚外集",
+      "snippet": "...再拜而 欽承惟願菩\uDB90\uDD7D大慈悲受我少分之供養戒品為香 萬行花勇猛為幢堅固座願雲定水功德山慧燈智 日清凉月所陳妙樂皆法喜所列珍羞盡禪悅一一 遍滿虛空界念念出我清淨心心無所..."
+    },
+    {
+      "path": "D\\D48\\D48n8939.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Ancient Venerable Masters",
+      "title_zh": "古尊宿語錄",
+      "snippet": "...不道赤肉團上非無位\uDB9F\uDE4B人定 便擒住云且道無位\uDB9F\uDE4B人與非無位\uDB9F\uDE4B人相去多少速道 速道欽山直得面青面黑嵓頭雪峯同勸云者新戒觸悮 上座且望慈悲定云若不是者兩个\uD859\uDCB3漢\uD844\uDFBA殺..."
+    },
+    {
+      "path": "C\\C078\\C078n1720.xml",
+      "mentions": 1,
+      "title": "Chan School: Comprehensive Linked-Pearls Collection of Verse Commentaries on Old Cases",
+      "title_zh": "禪宗頌古聯珠通集",
+      "snippet": "...威儀山長水遠空相憶黃葉吹風人未歸 杭州鳥窠道林禪師初詣長安西 明寺學華嚴唐代宗詔國一禪師至闕乃謁 之得法歸於西湖秦望山有長松枝葉繁茂 盤屈如盖遂棲止其上故以為名有侍者會..."
+    },
+    {
+      "path": "C\\C077\\C077n1710.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Ancient Venerable Masters",
+      "title_zh": "古尊宿語錄",
+      "snippet": "...踏倒 水潦起來呵呵大咲云無量妙義百千三昧 盡在一毛頭上識得根源去。師令僧馳 書與徑山欽和尚書中畫一圓相徑山纔開 見索筆於中著一點後有僧舉似忠國師國 師云欽師猶被馬師惑..."
+    },
+    {
+      "path": "B\\B32\\B32n0173.xml",
+      "mentions": 1,
+      "title": "Genkō Shakusho (Buddhist History of the Genkō Era)",
+      "title_zh": "元亨釋書",
+      "snippet": "...撾鼓上堂 曰。東澗水清旦泚。源遠流長。波騰鼎沸。從這裏入。不 知其幾是則是只。如國一禪師經過梁溪。驀將泗州 大聖鼻孔一捏。直得無處出氣。為復壓良為賤。為復 神通遊戲。君..."
+    },
+    {
+      "path": "B\\B31\\B31n0169.xml",
+      "mentions": 1,
+      "title": "Historical Materials on Korean Temples and Monasteries",
+      "title_zh": "朝鮮寺剎史料",
+      "snippet": "...重新於雲林 之間霽月光風相知山光水色互暎人耶天耶工不鬼役物不天來可記 乎施化師之功德山高水長云爾 光緒五年己卯仲夏澣普運子禧謹記 ○深源寺懸板 定州牧鳳鳴山深源寺佛像..."
+    },
+    {
+      "path": "B\\B29\\B29n0160.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Buddhist Monasteries in Jinling",
+      "title_zh": "金陵梵剎志",
+      "snippet": "...喜若月印水若鏡印像緣法法爾剎網有盡惟此常住 不騫不阤一一微塵曷往弗攝在彼在此如是功德山頛 海墨罔克攸紀我乘佛力說此頌言以曙厥理天龍神鬼 人非人等勿替頂禮 萬曆二十九年..."
+    },
+    {
+      "path": "B\\B26\\B26n0146.xml",
+      "mentions": 1,
+      "title": "Fangshan Yunju Temple Stone Canon: Selected Rubbings of Scriptures, Colophons, and Inscriptions",
+      "title_zh": "房山雲居寺石經──經文、題記、碑銘等拓片之選輯",
+      "snippet": "...那羅王所問經四卷姚秦鳩摩羅什譯遼大安二年有草一、二洞 道神足無極變化經四卷西晉安法欽譯無草一、二洞 佛說寶雨經十卷唐達摩流支等譯遼大安二年有木一洞 寶雲經七卷梁曼陀..."
+    },
+    {
+      "path": "B\\B25\\B25n0145.xml",
+      "mentions": 1,
+      "title": "Extensive Record of Zhongfeng Mingben of Tianmu",
+      "title_zh": "天目中峰廣錄",
+      "snippet": "叅禪要深信豈應從淺近直擬跨懸崖 不辭挨白刃橫披古佛衣高佩魔王印 道源功德山咸承慈母孕 叅禪為生死豈是尋常事從始直至終"
+    },
+    {
+      "path": "B\\B21\\B21n0116.xml",
+      "mentions": 1,
+      "title": "Collected Annotations on the Vajracchedikā Prajñāpāramitā Sūtra (Diamond Sūtra)",
+      "title_zh": "金剛般若波羅蜜經集註",
+      "snippet": "...何故。如來者。如如本\uD86A\uDEEC也。本無動靜。所以無去無來。故假名如來。昔肅宗皇 帝。詔國一禪師入內道塲。師見帝起身。帝曰。禪師何必見寡人起身。曰。檀越何得以四威儀中見貧道。如..."
+    },
+    {
+      "path": "B\\B17\\B17n0094.xml",
+      "mentions": 1,
+      "title": "Selections from Cefu Yuangui (Outstanding Models from the Treasury of Books)",
+      "title_zh": "冊府元龜選輯",
+      "snippet": "...節度使 鳳翔尹邢君牙迎護葬於舊所 八年七月丁卯幸章敬寺 九年五月賜故杭州徑山寺僧法欽諡日大覺禪師 六月詔定國忌日寺觀齋僧道人數有差 十二年九月右神䇿等軍上"
+    },
+    {
+      "path": "B\\B17\\B17n0091.xml",
+      "mentions": 1,
+      "title": "Selections from the Standard Histories (Jin, Song, Liang, Wei, Sui, Old Tang, Yuan, Ming)",
+      "title_zh": "正史選輯（晉書、宋書、梁書、魏書、隋書、舊唐書、元史、明史）",
+      "snippet": "...詔以鄴城舊宮為天平寺。 世宗以來至武定末，沙門知名者，有惠猛、惠辨、惠深、僧暹、道欽、僧獻、道晞、僧深、惠 光、惠顯、法榮、道長，並見重於當世。 魏有天下，至於禪讓..."
+    },
+    {
+      "path": "B\\B17\\B17n0089.xml",
+      "mentions": 1,
+      "title": "Selections from Taiping Guangji (Volumes 87–134)",
+      "title_zh": "太平廣記選輯（卷八十七～一三四）",
+      "snippet": "...流便。既覽舊經。義多紕僻。皆由先度失旨。不與梵本相應。於是興使沙門僧䂮、僧 遷、法欽、道流、道恒、道標、僧叡、僧肇等八百餘人。諮受什旨。更令出大品。什持梵本。興執舊..."
+    },
+    {
+      "path": "B\\B14\\B14n0082.xml",
+      "mentions": 1,
+      "title": "Jade Flowers of the Transmission of the Lamp (Fragment)",
+      "title_zh": "傳燈玉英集（殘卷）",
+      "snippet": "...陽人也姓潘氏母 朱氏夢日光入口因而有娠及誕異香滿室遂 名香光後詣長安屬代宗詔徑山國一禪師至 闕師乃謁之遂得正法及南歸見秦望山有長 松枝葉盤屈遂捿止其上故時人謂之鳥窠禪 ..."
+    },
+    {
+      "path": "B\\B06\\B06n0009.xml",
+      "mentions": 1,
+      "title": "Guided Edition of the Abhidharmakośa-śāstra",
+      "title_zh": "冠導阿毗達磨俱舍論",
+      "snippet": "...是則顯佛世尊身 具有無邊殊勝奇特因果恩德如大寶山。有諸愚夫 自乏眾德。雖聞如是佛功德山及所說法不能信重。 諸有智者聞說如斯生信重心徹於骨髓。彼由一念 極信重心轉滅無邊..."
+    },
+    {
+      "path": "A\\A098\\A098n1267.xml",
+      "mentions": 1,
+      "title": "Comprehensive Register of Buddhist Teachings of the Kaiyuan Era of the Great Tang (Volumes 5–20)",
+      "title_zh": "大唐開元釋教廣品歷章(第5卷-第20卷)",
+      "snippet": "...第二 佛說道神足無極變化經卷第三 佛說道神足無極變化經卷第四 右西晉安息國沙門安法欽於雒陽 譯見竺道祖錄 上三經十卷同帙 寶雨經一部十卷"
+    },
+    {
+      "path": "Y\\Y36\\Y36n0034.xml",
+      "mentions": 1,
+      "title": "Studies of Sarvāstivāda Treatises and Scholars",
+      "title_zh": "說一切有部為主的論書與論師之研究",
+      "snippet": "...、傳於罽賓的說一切有部的傳說，從佛滅到阿育王時，也有五師。五 師的古說，如西晉安法欽所譯的《阿育王傳》卷七說： 「（優波）毱多……語提多迦曰：子！佛以法付囑迦葉，迦..."
+    },
+    {
+      "path": "X\\X84\\X84n1580.xml",
+      "mentions": 1,
+      "title": "Separate Transmission Outside the Teachings",
+      "title_zh": "教外別傳",
+      "snippet": "...僧却問師。師曰：他得大闡提。 伊闕自在禪師 伊闕伏牛山自在禪師，吳興李氏子。初依國一禪師 受具，後參馬祖，發明心地。祖令送書與忠國師，國師 曰：馬大師以何法示徒？曰：即..."
+    },
+    {
+      "path": "X\\X83\\X83n1572.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Continued Transmission of the Lamp Record",
+      "title_zh": "續傳燈錄目錄",
+      "snippet": "...禪師 靈鷲慧明禪師 開和法顒禪師 天峰佛印禪師 元豐宗燈禪師 神光道芳禪師 禪慧法欽禪師 兜率景常禪師 頴叔蔣之奇居士 佛日才禪師法嗣九人 夾山自齡禪師 千頃允良禪..."
+    },
+    {
+      "path": "X\\X82\\X82n1571.xml",
+      "mentions": 1,
+      "title": "Complete Five Lamps (Vols. 34–120)",
+      "title_zh": "五燈全書(第34卷-第120卷)",
+      "snippet": "臥龍先禪師法嗣 臨安府徑山無準師範禪師蜀之梓潼雍氏子。九歲 依陰平山道欽出家，經書過目成誦。宋光宗紹熙甲 寅冬登具戒，明年出遊至成都，坐夏正法。有老堯首..."
+    },
+    {
+      "path": "X\\X81\\X81n1571.xml",
+      "mentions": 1,
+      "title": "Complete Five Lamps (Vols. 1–33)",
+      "title_zh": "五燈全書(第1卷-第33卷)",
+      "snippet": "...。後詣長安西明寺復 禮法師，學華嚴經、起信論。禮示以真妄頌，俾修禪那。 屬代宗詔國一禪師至闕，師乃謁之，遂得正法。及南 歸，孤山永福寺有辟支佛塔，時道俗共為法會，師振 ..."
+    },
+    {
+      "path": "X\\X81\\X81n1570.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Complete Five Lamps",
+      "title_zh": "五燈全書目錄",
+      "snippet": "四祖下第七世 牛頭忠禪師法嗣 佛窟惟則禪師 鶴林素禪師法嗣 徑山道欽禪師 金陵曇益禪師 吳門圓鏡禪師 四祖下第八世 佛窟則禪師法嗣 天台雲居智禪師"
+    },
+    {
+      "path": "X\\X80\\X80n1567.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Strict Lineage of the Five Lamps",
+      "title_zh": "五燈嚴統目錄",
+      "snippet": "...人，姓張氏。年十 四歲出家，依明州大德披剃。年二十五，杭州竹林寺 受具。首謁徑山國一禪師，服勤五年。大歷中，抵鍾陵， 謁馬大師。經二夏，乃造石頭。元和丁亥四月示寂，壽 ..."
+    },
+    {
+      "path": "X\\X78\\X78n1540.xml",
+      "mentions": 1,
+      "title": "Record of Manifest Responses to the Lotus Sutra",
+      "title_zh": "法華經顯應錄",
+      "snippet": "...天竺習華嚴大經。晚止蘇州，從荊溪禪師傳天 台止觀，聽法華、維摩等經。又參牛頭忠、徑山欽，得南 北兩宗禪法。師博學深究，識量宏遠，著華嚴貞元等 疏，塑像寫經，不可殫舉。..."
+    },
+    {
+      "path": "X\\X77\\X77n1530.xml",
+      "mentions": 1,
+      "title": "Brief Record of the Five Patriarchs of the Dharma-Realm School",
+      "title_zh": "法界宗五祖略記",
+      "snippet": "...， 目不視非儀之彩，舌不味過午之餚，手不釋圓明之 珠，宿不離衣鉢之側。從牛頭忠、徑山欽問西來宗 旨。又謁洛陽無名禪師，印可融寂，自在受用。即曰： 明以照幽，法以達迷。..."
+    },
+    {
+      "path": "X\\X77\\X77n1526.xml",
+      "mentions": 1,
+      "title": "Brief Accounts of Eminent Monks of West Lake in Wulin",
+      "title_zh": "武林西湖高僧事略",
+      "snippet": "...。母夢日光入口有娠。誕時異香 滿室。遂名香光。幼出家。詣長安西明學華嚴。代宗詔 國一禪師至闕。師謁之。得法南歸。抵西湖秦望山。有 大松樹盤屈如葢。乃止其上。時人因以鳥窠..."
+    },
+    {
+      "path": "X\\X73\\X73n1452.xml",
+      "mentions": 1,
+      "title": "Complete Works of Venerable Zibo",
+      "title_zh": "紫柏尊者全集",
+      "snippet": "...：少 算不如多算，況無算乎？想子晉言必不苟發，預非多 算，安能便爾耶？昔崔趙公問徑山欽禪師：弟子出得 家否？欽正色曰：出家乃大丈夫事，非將相所能為。予 初讀此，以為老..."
+    },
+    {
+      "path": "X\\X71\\X71n1421.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Yu’an Zhiji",
+      "title_zh": "愚菴智及禪師語錄",
+      "snippet": "...前。師云：一任鑽龜打瓦。又有僧 出問云：記得昔日江西馬祖甞令西堂智藏馳書到 當山國一禪師，師開緘見一圓相，索筆於圓相中點 一點，意旨如何？師云：不因闍梨問，老僧亦不知。..."
+    },
+    {
+      "path": "X\\X71\\X71n1420.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Chushi Fanqi",
+      "title_zh": "楚石梵琦禪師語錄",
+      "snippet": "...妙喜云：馬師仲冬嚴寒，國一 孟夏漸熱，雖然寒熱不同，彼此不失時節。忠國師因 甚却道欽師猶被馬師惑？還委悉麼？無風荷葉動，決 定有魚行。師云：圓相中著點墨，日月無光，..."
+    },
+    {
+      "path": "X\\X71\\X71n1414.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Liao’an Qingyu",
+      "title_zh": "了菴清欲禪師語錄",
+      "snippet": "...譬如磁石針，合處無違碍。 又如大圓鏡，形影自融會。我不離大士，大士不離我。 偉哉功德山，面面長相對。 大圓照中，滿月慈容。六根互用，一性融通。香水海層 層波浪，寶蓮座..."
+    },
+    {
+      "path": "X\\X70\\X70n1402.xml",
+      "mentions": 1,
+      "title": "Miscellaneous Records of Chan Master Tianmu Mingben",
+      "title_zh": "天目明本禪師雜錄",
+      "snippet": "...光，教令存想念西方。自從親證三摩 地，不離慈尊左右傍。 泥牛耕破蓮花土，鉄馬蹈飜功德山。自性彌陀渾不 覺，猶將心鏡照慈顏。 道人別有惟心土，不屬東西南北方。眨得眼來千..."
+    },
+    {
+      "path": "X\\X70\\X70n1387.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Jianguan Ziyi",
+      "title_zh": "劍關子益禪師語錄",
+      "snippet": "...乃云：欽師猶被馬師惑。拈云：馬大師用盡 平生伎倆，到國一面前不消一點，因甚南陽却道欽 師猶被馬師惑？人必自侮，國必自伐。 上堂：㝡初句，向上機，瞿曇不會，達磨不知。..."
+    },
+    {
+      "path": "X\\X70\\X70n1383.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of the Monk Wuzhun: Memorial Responses",
+      "title_zh": "無準和尚奏對語錄",
+      "snippet": "徑山無準禪師行狀 粲無文撰 師諱師範，號無準，生於蜀之梓潼雍氏。九歲依陰平 山僧道欽出家，經書過目成誦，而又喜閱宗門語要。 師兄澄道印有聲講席，每以機緣詰之，師應答..."
+    },
+    {
+      "path": "X\\X69\\X69n1370.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Huaihai Yuanzhao",
+      "title_zh": "淮海原肇禪師語錄",
+      "snippet": "...樂。太平時光以何為據？含暉亭上望東溟，淩霄 峰頂揖南嶽。 復舉：馬祖遣智藏馳書上國一禪師，開見一圓相，國 一於中著一點，封回忠國。師聞，云：欽山猶被馬師惑。 師頌云：覿..."
+    },
+    {
+      "path": "X\\X69\\X69n1321.xml",
+      "mentions": 1,
+      "title": "Expanded Record of Chan Master Mazu Daoyi (Four Houses Record, Vol. 1)",
+      "title_zh": "馬祖道一禪師廣錄（四家語錄卷一）",
+      "snippet": "...非，請和尚答某甲。」祖乃 畫地一畫，曰：「不得道長短，答汝了也。」 祖令僧馳書與徑山欽和尚，書中畫一圓相；徑山纔 開見，索筆於中著一點。後有僧舉似忠國師，國師云： 「..."
+    },
+    {
+      "path": "X\\X68\\X68n1319.xml",
+      "mentions": 1,
+      "title": "Imperially Selected Recorded Sayings",
+      "title_zh": "御選語錄",
+      "snippet": "...盡在汝分上，一切自看。 僧曰：如何是解卜度人？ 師曰： 汝纔出門時，便不中也。 徑山道欽禪師 馬祖令人送書到，書中作一圓相。師發緘，於圓相中 著一點，却封回。"
+    },
+    {
+      "path": "X\\X68\\X68n1315.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Ancient Worthies",
+      "title_zh": "古尊宿語錄",
+      "snippet": "...水潦起來呵呵大咲云：無量妙義、百千三昧，盡在一 毛頭上識得根源去。 師令僧馳書與徑山欽和尚，書 中畫一圓相，徑山纔開見，索筆於中著一點。後有僧 舉似忠國師，國師云：欽..."
+    },
+    {
+      "path": "X\\X67\\X67n1309.xml",
+      "mentions": 1,
+      "title": "Treasury of the True Dharma Eye",
+      "title_zh": "正法眼藏",
+      "snippet": "...有意邪？祖曰：無意誰 當分別？曰：分別亦非意。祖曰：善哉！善哉！少留一宿。 徑山國一禪師。唐代宗詔至闕下，親加瞻禮。一日，師 在內庭，見帝起立。帝曰：師何以起？曰：檀越..."
+    },
+    {
+      "path": "X\\X67\\X67n1308.xml",
+      "mentions": 1,
+      "title": "Path-Stone: Dripping Milk Collection",
+      "title_zh": "徑石滴乳集",
+      "snippet": "...齊安機雲續 大鑑下第二十世 杭州徑山無準師範禪師。劍州梓潼雍氏子。九歲依 陰平山道欽出家，經書過目成誦。紹熈五年冬登具。 明年次成都，坐夏正法。遇瞎堂高弟名堯者，請..."
+    },
+    {
+      "path": "X\\X66\\X66n1297.xml",
+      "mentions": 1,
+      "title": "Dharma Grove of the Tradition’s Mirror",
+      "title_zh": "宗鑑法林",
+      "snippet": "卷七 旁出諸祖 牛頭法融 安國玄挺 天柱慧崇 鶴林玄素 徑山道欽 鳥窠道林 蒙山道明 嵩山慧安 嵩嶽破竈 嵩山峻極 終南惟政 南陽慧忠 永嘉真覺"
+    },
+    {
+      "path": "X\\X66\\X66n1296.xml",
+      "mentions": 1,
+      "title": "Compilation of the School Gate’s “Raising Old Cases”",
+      "title_zh": "宗門拈古彙集",
+      "snippet": "僧璨 慧能 旁出祖師 四祖旁出 牛頭法融 安國玄挺 鶴林玄素 徑山道欽 鳥窠道林 五祖旁出 嵩山峻極 六祖旁出 荷澤神會"
+    },
+    {
+      "path": "X\\X65\\X65n1280.xml",
+      "mentions": 1,
+      "title": "Brief Discourse on Dispelling Delusion and Providing Remedy",
+      "title_zh": "闢妄救略說",
+      "snippet": "...人除却是非 難。 ▲徑山無準師範禪師破菴嗣，生雍氏，蜀之梓州人 也。九歲依陰平山道欽出家。初請益成都老宿名堯 者坐禪之法，堯曰：禪是何物？坐底是誰？師晝夜體究。 一..."
+    },
+    {
+      "path": "X\\X65\\X65n1277.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Master Yin of Gaofeng Longquan Monastery (Jixian)",
+      "title_zh": "高峰龍泉院因師集賢語錄",
+      "snippet": "...之門。生生披如來忍辱之衣，世世處 諸佛慈悲之寶。 又 障雲散而菩提月現，業海枯而功德山高。不入邪宗， 常生正念。 又 七寶池中，盡滌業障報障煩惱障。九蓮臺上，常聞妙"
+    },
+    {
+      "path": "X\\X64\\X64n1266.xml",
+      "mentions": 1,
+      "title": "Written Explanations of Precious Instructions of the Chan Grove",
+      "title_zh": "禪林寶訓筆說",
+      "snippet": "...都尉李遵勗。號和 文居士。得法于谷隱蘊聰禪師。初參聰時。問出家 事。聰以崔趙公問徑山道欽禪師曰。弟子今欲出 家得否。欽曰。出家乃大丈夫事。非將相之所能為。 勗于是有省。..."
+    },
+    {
+      "path": "X\\X64\\X64n1260.xml",
+      "mentions": 1,
+      "title": "Outline Record of the Successive Patriarchs",
+      "title_zh": "列祖提綱錄",
+      "snippet": "...，方能荷擔此箇大事。 且那箇是出格道人？不見昔日江西馬大師遣西堂 智藏馳書上徑山國一禪師，國一開緘，見一圓相，遂 索筆對智藏於圓相中點一點，智藏罔措。者箇豈非 格外消息..."
+    },
+    {
+      "path": "X\\X63\\X63n1252.xml",
+      "mentions": 1,
+      "title": "Textual Verification of Chan Monastery Lettering Phrases",
+      "title_zh": "禪林疏語考證",
+      "snippet": "...曦烏。想居東嶽之幽陰，莫訴南垓之痛苦。 謹依法炬，冀破幽關。伏願亡父，業海枯而 功德山高，障雲散而菩提月現。光浮蓮宇，豁開雙眼 見如來；風動寶林，驟聽一音宣妙法。"
+    },
+    {
+      "path": "X\\X63\\X63n1244.xml",
+      "mentions": 1,
+      "title": "Record Clarifying the Meaning of Baizhang’s Pure Regulations",
+      "title_zh": "百丈清規證義記",
+      "snippet": "...難思。萬古懺摩依 度人師。 普菴靈應。大德名稱。天龍八部永隨身。地境悉 和平。妙法欽聞。善果植升恒 度人師。 大鵬金翅。鬼子母天。息惡歸拜世尊前。受戒護 心源。誓願..."
+    },
+    {
+      "path": "X\\X62\\X62n1176.xml",
+      "mentions": 1,
+      "title": "Complete Pure Land Collection",
+      "title_zh": "淨土全書",
+      "snippet": "...寶藏如來復告第一不眴太子：今當號汝為觀世音。無量壽佛般涅槃， 後當成佛，道號普光功德山如來。又告第二尼摩太 子：次當作佛，號善住功德寶王如來。汝以願力取清 淨土，復號..."
+    },
+    {
+      "path": "X\\X61\\X61n1169.xml",
+      "mentions": 1,
+      "title": "Collected Compilation of “Pure Land: Birth in the Unborn”",
+      "title_zh": "淨土生無生論會集",
+      "snippet": "...無量無邊安樂世界所 不能及。汝於菩提樹下，成阿耨多羅三藐三菩提， 號遍出一切光明功德山王如來。○勢至者，梵語 摩訶那鉢，此云大勢至，現在極樂世界第二補處 菩薩也。悲華..."
+    },
+    {
+      "path": "X\\X61\\X61n1162.xml",
+      "mentions": 1,
+      "title": "Complete Collection of Pure Land Provisions",
+      "title_zh": "淨土資糧全集",
+      "snippet": "...時寶藏如來復告第一不眴太子：今當號汝為觀世音無量壽佛，般涅槃後當成 佛道，號普光功德山王如來。又告第二尼摩太子：次 當作佛，號善住功德寶王如來。汝以願力取清淨土， 復..."
+    },
+    {
+      "path": "X\\X61\\X61n1154.xml",
+      "mentions": 1,
+      "title": "Pure Land Guide-to-the-Source Collection",
+      "title_zh": "淨土指歸集",
+      "snippet": "...時佛復告第一不眴太子： 『今當號汝為觀世音，無量壽佛般涅槃後，當成佛道， 號普光功德山王如來。』又告第二尼摩太子：『次當作 佛，號善住功德寶王如來，汝以願力，取清淨土..."
+    },
+    {
+      "path": "X\\X60\\X60n1120.xml",
+      "mentions": 1,
+      "title": "Combined Study of Novice Rules and Daily Vinaya Practice",
+      "title_zh": "沙彌律儀毗尼日用合參",
+      "snippet": "...亦不達。去日蒙和尚 許個鈯斧子，秪今便請。青垂一足，遷便禮拜。◎馬祖 令人送書到徑山欽，書中作一○相。師發緘，於○相 中著一點，封回忠國師云：欽師猶被馬師惑。徑山杲 ..."
+    },
+    {
+      "path": "X\\X59\\X59n1081.xml",
+      "mentions": 1,
+      "title": "Altar Procedure for the Yoga Compendium’s Food-Offering Rite",
+      "title_zh": "修設瑜伽集要施食壇儀",
+      "snippet": "...量劫中作佛，號曰正法 明如來。大悲願力，安樂眾生，現為菩薩，未來成佛， 號曰普光功德山王如來。梵語阿耶菩婁吉底輸， 此云觀世音。觀者，能觀之智，指應而言；世音是所 觀..."
+    },
+    {
+      "path": "X\\X56\\X56n0948.xml",
+      "mentions": 1,
+      "title": "Collected Works of Alternative Views by Renyue of Siming",
+      "title_zh": "四明仁岳異說叢書",
+      "snippet": "...極。滅度之後，觀音菩薩，次當 補處。明相出時，於七寶菩提樹下，成等正覺，號普光 功德山王，國名眾寶，勝阿彌陀佛國十倍。此等事相， 豈約法性身上論補處哉？妙宗本立觀經八..."
+    },
+    {
+      "path": "X\\X54\\X54n0872.xml",
+      "mentions": 1,
+      "title": "New Commentary on the *Zhao Treatise*: Easeful Mastery",
+      "title_zh": "肇論新疏游刃",
+      "snippet": "...，於我則不足，於君則有餘。 疏「草堂」下，〈什公傳〉云「秦主使沙門僧\uDB81\uDCAF、僧遷、法欽、道 流等八百餘人」，《晉書》云「草堂坐禪者常數三千」，今云 五百，從本論也。 ..."
+    },
+    {
+      "path": "X\\X46\\X46n0787.xml",
+      "mentions": 1,
+      "title": "Essential Extracts on the Commentary to the *Mahāyāna Dharmadhātu Non-Differentiation Treatise*",
+      "title_zh": "大乘法界無差別論疏領要鈔",
+      "snippet": "...，謂即此論自性門 中所明離染清淨相也。謂即此心自性不染，又出客 塵煩惱障得。清淨功德山者，亦此門中所明白法所 成相也。謂如是自性清淨心為一切白法所依，即以 一切白淨法..."
+    },
+    {
+      "path": "X\\X45\\X45n0767.xml",
+      "mentions": 1,
+      "title": "Collected Reading of the Awakening of Faith Commentary & Notes (Front Matter)",
+      "title_zh": "起信論疏記會閱卷首",
+      "snippet": "...， 目不視非儀之彩，舌不味過午之餚，手不釋圓明之 珠，宿不離衣鉢之側。從牛頭忠、徑山欽問西來宗 旨。又謁洛陽無名禪師，印可融寂，自在受用。即曰： 明以照幽，法以達迷。..."
+    },
+    {
+      "path": "X\\X35\\X35n0648.xml",
+      "mentions": 1,
+      "title": "Annotated Explanation of the Gao Wang Avalokiteśvara Sutra",
+      "title_zh": "高王觀音經註釋",
+      "snippet": "...借佛國帝 青寶石。極其明淨者，以喻佛身。言醫治眾生，必先 性體極其光明也。 普光功德山王佛。 佛居山中，而功德普徧十方，即儒家光被四表，格 於上下也。"
+    },
+    {
+      "path": "X\\X34\\X34n0637.xml",
+      "mentions": 1,
+      "title": "Notes on Determining and Discerning the \"Profound Praise\" on the Lotus Sutra",
+      "title_zh": "法華經玄贊決擇記",
+      "snippet": "...，獲福無 邊，故有分別功德下。自聞佛壽，功德無邊；若能隨喜， 福亦不少，故有隨喜功德山。由作法師，獲多功德，故 有法師功德。法師功德既是不少，毀法師者，獲罪無 邊，故..."
+    },
+    {
+      "path": "X\\X32\\X32n0616.xml",
+      "mentions": 1,
+      "title": "Collected Meanings of the Lotus Sutra",
+      "title_zh": "法華經會義",
+      "snippet": "...明，故觀音名徧十方界。觀世 音得大勢二菩薩受記經云：次阿彌陀後當成正 覺，名普光功德山王如來。如此本迹，難可測知也。 觀心釋者，觀心因緣所生，是三藏觀世音；觀心即 空..."
+    },
+    {
+      "path": "X\\X30\\X30n0605.xml",
+      "mentions": 1,
+      "title": "Outline Commentary on the Lotus Sutra",
+      "title_zh": "法華經科註",
+      "snippet": "... 於夜後分其土轉名一切珍寶之所成就，所有莊 嚴勝安樂界，於一念頃便成正覺，號一切功德山 王，壽九十六億那由他百千萬億劫。第二太子名 大勢至，第三名文殊師利，第四名普賢..."
+    },
+    {
+      "path": "X\\X29\\X29n0594.xml",
+      "mentions": 1,
+      "title": "Compilation of Meanings from Commentaries on the Lotus Sutra",
+      "title_zh": "法華經疏義纘",
+      "snippet": "...養勝？佛 言：當發菩提心。從如來初發菩提心，次阿彌陀佛，後 當成正覺。觀音名普光功德山王，勢至名善住功德 寶王。又如來藏經亦云：觀音文殊皆未成佛。若觀音 三昧經云：先..."
+    },
+    {
+      "path": "X\\X28\\X28n0588.xml",
+      "mentions": 1,
+      "title": "Reference Index for the \"Profound Subcommentary\" on the Lotus Sutra",
+      "title_zh": "法華經玄籤備撿",
+      "snippet": "...寶海二字也。又寶藏授觀音記 言：善男子！汝於一切眾中生大悲心，今當號為一 切光明功德山王如來。今籤云字汝為觀世音者， 恐誤，觀世音乃因名耳。 綩綖 綩，繡裳也。綖，席..."
+    },
+    {
+      "path": "X\\X25\\X25n0485.xml",
+      "mentions": 1,
+      "title": "Thus Explained: The Diamond Sūtra",
+      "title_zh": "金剛經如是解",
+      "snippet": "...，我心湛然，豈有來去？寂而常照，照而常寂，行 住坐臥，無不清淨也。 昔肅宗皇帝詔國一禪師入內道場，師見帝起 身，帝曰：禪師何必見寡人起身？師曰：檀越何得 於四威儀中見貧..."
+    },
+    {
+      "path": "T\\T20\\T20n1189.xml",
+      "mentions": 1,
+      "title": "The Buddha Speaks the Sūtra of Mañjuśrī Bodhisattva’s Supreme True Names and Meanings",
+      "title_zh": "佛說文殊菩薩最勝真實名義經",
+      "snippet": "...得三種解脫。 遠離一切障，住等虛空性， 超出煩惱垢，三世悉同然。 諸眾生大龍，現功德山頂， 解脫諸煩惱，勝住虛空道。 持大如意寶，眾寶中最上， 廣大成劫樹，最上大賢瓶..."
+    },
+    {
+      "path": "T\\T20\\T20n1187.xml",
+      "mentions": 1,
+      "title": "The Buddha Speaks the Supreme Mañjuśrī: Fundamental Wisdom, Highest Secret—Section on the Samādhi of All Names and Meanings",
+      "title_zh": "佛說最勝妙吉祥根本智最上祕密一切名義三摩地分",
+      "snippet": "遠離一切障，等虛空清淨， 過去煩惱垢，三世悉同然。 諸眾生大龍，現功德山頂， 一切得解脫，如妙寶蓮華。 彼大如意寶，眾寶中最上， 堅牢大劫樹，最上大賢瓶..."
+    },
+    {
+      "path": "T\\T17\\T17n0829.xml",
+      "mentions": 1,
+      "title": "Great Vehicle Sutra of Universal Radiant Treasury Beyond Words",
+      "title_zh": "大乘離文字普光明藏經",
+      "snippet": "...法輞菩薩、辯積 菩薩、持地菩薩、持世菩薩、大名稱菩薩、具 諸辯菩薩、千容相菩薩、功德山菩薩、蓮華 眼菩薩、蓮華面菩薩、珠髻菩薩、妙音菩薩。 如是等菩薩摩訶薩，皆如童子..."
+    },
+    {
+      "path": "T\\T16\\T16n0664.xml",
+      "mentions": 1,
+      "title": "The Combined Golden Light Sutra",
+      "title_zh": "合部金光明經",
+      "snippet": "...，猶如鵝王； 光明晃曜，如寶山王；微妙清淨， 如鍊真金。所有福德，不可思議， 佛功德山，我今敬禮。佛真法身， 猶如虛空，應物現形，如水中月， 無有障礙，如焰、如化。是..."
+    },
+    {
+      "path": "T\\T16\\T16n0663.xml",
+      "mentions": 1,
+      "title": "The Golden Light Sutra",
+      "title_zh": "金光明經",
+      "snippet": "...，猶如鵝王； 光明晃耀，如寶山王；微妙清淨， 如鍊真金；所有福德，不可思議； 佛功德山，我今敬禮。佛真法身， 猶如虛空，應物現形，如水中月， 無有障礙，如焰如化，是故..."
+    },
+    {
+      "path": "T\\T14\\T14n0443.xml",
+      "mentions": 1,
+      "title": "Sūtra of the Dhāraṇī of the Names of 5,500 Buddhas for Removing Obstacles and Erasing Sins",
+      "title_zh": "五千五百佛名神呪除障滅罪經",
+      "snippet": "...如來 南無勝妙彌留如 來 南無梵彌留如來 南無分別彌留如來 南無樹山如來 南無相功德山如來 南無 金山如來 南無寂光深聚如來 南無功德 聚如來 南無法力功德聚如來 南..."
+    },
+    {
+      "path": "T\\T13\\T13n0397.xml",
+      "mentions": 1,
+      "title": "Great Vaipulya Mahāsaṃnipāta Sutra (Great Collection)",
+      "title_zh": "大方等大集經",
+      "snippet": "...」山王菩薩 即作是言：「世尊！惜身命者不能護法，我不惜 命如法而住，故能護法。」功德山王菩薩言：「世 尊！有貪利者不能護法，我無貪利故能護法。」 寶幢菩薩言：「世尊！..."
+    },
+    {
+      "path": "T\\T12\\T12n0364.xml",
+      "mentions": 1,
+      "title": "The Buddha Speaks: Great Amitābha Sutra",
+      "title_zh": "佛說大阿彌陀經",
+      "snippet": "...九分，則現在會中二法 王子，曠劫精勤，位隣等妙，次補佛處，掌 握化權，一曰、普光功德山王，二曰、善住功 德寶王，後無央劫相繼出興，到此則安樂 舊號，轉而為眾寶善集莊嚴..."
+    },
+    {
+      "path": "T\\T11\\T11n0320.xml",
+      "mentions": 1,
+      "title": "Sutra of the Father and Son Collection",
+      "title_zh": "父子合集經",
+      "snippet": "...， 能與眾生作導師，唯冀能仁為演說。 此諸遍淨天子眾，合掌稱讚甚希有， 瞻仰如來功德山，聞已一心而頂受。 佛為最上天人師，了達諸法無罣礙， 當願憐念諸眾生，說此放光神..."
+    },
+    {
+      "path": "X\\X88\\X88n1646.xml",
+      "mentions": 1,
+      "title": "Biographies of Laypeople",
+      "title_zh": "居士傳",
+      "snippet": "...皆真。生佛同體 矣。依正皆真。生佛同體。則樂\uDB8E\uDF1B之過去尊音王如來 未甞入滅。未來功德山王如來久已成佛。現在阿彌 陀如來在十萬億佛剎外而靡所隔也。八萬四千隨"
+    },
+    {
+      "path": "X\\X86\\X86n1596.xml",
+      "mentions": 1,
+      "title": "Single-Transmission Record of Nanyue",
+      "title_zh": "南嶽單傳記",
+      "snippet": "...堯封潛曰： 吹火長尖嘴。 第五十三祖徑山師範禪師生於蜀之梓潼雍氏，九 歲依陰平山道欽出家，經書過目成誦。紹熙五年登 具戒，出遊至成都，坐夏正法。有老堯首座，瞎堂高弟..."
+    },
+    {
+      "path": "X\\X86\\X86n1595.xml",
+      "mentions": 1,
+      "title": "Correct Transmission of Buddhas and Patriarchs: Quick Record, Past and Present",
+      "title_zh": "佛祖正傳古今捷錄",
+      "snippet": "...海五湖平似鏡，行人莫與路為仇。 第二十世無準師範禪師蜀之梓童雍氏子。九歲依 陰平道欽出家，首謁佛炤，炤問：何處人？曰：劍州。炤曰： 帶得劍來麼？師隨聲便喝，炤曰：者..."
+    },
+    {
+      "path": "X\\X85\\X85n1594.xml",
+      "mentions": 1,
+      "title": "Outline of Buddhas and Patriarchs",
+      "title_zh": "佛祖綱目",
+      "snippet": "...得母。故東至海岱，西及隴蜀， 南窮交廣，北盡朔方，學者莫不歸慕參承，人皆目之 為功德山。至於天龍敬向，異類歸依，地產靈芝，空雨 甘露，聖燈夜現，綵雲朝暉，猛獸棲其旁，..."
+    },
+    {
+      "path": "X\\X85\\X85n1593.xml",
+      "mentions": 1,
+      "title": "Orthodox Line of the Chan School",
+      "title_zh": "禪宗正脉",
+      "snippet": "...此則 聖人如夢，百姓如夢，孰為死生哉？至人以是能獨照， 能為萬物主，吾知之矣。 徑山道欽禪師初服膺儒教，年二十八，遇素禪師，謂 之曰：觀子神氣溫粹，真法寶也。師感悟，因..."
+    },
+    {
+      "path": "X\\X84\\X84n1585.xml",
+      "mentions": 1,
+      "title": "Drafts for the Continuation of the Lamp",
+      "title_zh": "續燈存稿",
+      "snippet": "臥龍先禪師法嗣 杭州徑山無準師範禪師生於蜀之梓潼雍氏。九歲， 依陰平山道欽出家，經書過目成誦。紹熈五年冬，登 具戒。明年，次成都，坐夏正法。遇瞎堂高弟堯首..."
+    },
+    {
+      "path": "X\\X84\\X84n1583.xml",
+      "mentions": 1,
+      "title": "Orthodox Continuation of the Lamp",
+      "title_zh": "續燈正統",
+      "snippet": "臥龍先禪師法嗣 杭州府徑山無準師範禪師蜀梓潼雍氏子。九歲，依 陰平山道欽出家。紹熈甲寅，登具戒。明年，遊成都，坐 夏正法。請益瞎堂高弟堯首座坐禪法。堯曰..."
+    },
+    {
+      "path": "X\\X84\\X84n1582.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Orthodox Continuation of the Lamp",
+      "title_zh": "續燈正統目錄",
+      "snippet": "...禪師 長安圓錦禪師 永慶可洽禪師 平陽淨浩禪師 洛陽悟本禪師 古汴真騰禪師 興國道欽禪師 長安悟才禪師 新中常景禪師 長安圓達禪師 金臺周惠禪師 嵩易國琦禪師 扶風..."
+    },
+    {
+      "path": "X\\X77\\X77n1522.xml",
+      "mentions": 1,
+      "title": "Newly Compiled Classified Biographies of Monks of the Six Studies",
+      "title_zh": "新修科分六學僧傳",
+      "snippet": "...就蘇州習天台止觀於湛 然法師，兼法華、維摩等經疏。復咨決南宗禪旨於牛 頭山忠師、徑山欽師、洛陽無名師，北宗於惠雲師。於 是旁覧泛問，天竺悉曇四囲五明秘呪儀軌，東土經 ..."
+    },
+    {
+      "path": "X\\X77\\X77n1521.xml",
+      "mentions": 1,
+      "title": "(Complete Collection of Ancient and Modern Books) Buddhist Section: Collected Studies",
+      "title_zh": "(古今圖書集成)釋教部彙考",
+      "snippet": "...以鄴城舊 宮為天平寺。世宗以來至武定末，沙門知名者，有慧 猛、慧辨、慧深、僧暹、道欽、僧獻、道晞、僧深、慧光、慧顯、法 榮、道長，並見重於當世。自魏有天下，至於禪讓..."
+    },
+    {
+      "path": "X\\X76\\X76n1517.xml",
+      "mentions": 1,
+      "title": "Reference Mirror of the Shakya Clan Through the Dynasties",
+      "title_zh": "歷朝釋氏資鑑",
+      "snippet": "...？帝謂 山人曰：朕有國位，不足為寶，師乃國寶也。山人曰：陛 下真識寶者矣。 詔。徑山道欽禪師詔書曰：朕聞江左有蘊道禪人，德 性氷霜，淨行林野。朕虗心瞻企，渴仰懸懸，有感..."
+    },
+    {
+      "path": "X\\X76\\X76n1516.xml",
+      "mentions": 1,
+      "title": "Comprehensive Mirror of the Shakya Clan",
+      "title_zh": "釋氏通鑑",
+      "snippet": "...謂山人曰：朕有國 位，不足為寶。師乃國寶也。山人曰：陛下真識寶者矣。 ○是歲，詔徑山道欽禪師。詔書云：朕聞江左有蘊道 禪人，德性氷霜，淨行林野。朕虗心瞻企，渴仰懸懸，有..."
+    },
+    {
+      "path": "X\\X75\\X75n1513.xml",
+      "mentions": 1,
+      "title": "Orthodox Lineage of the Buddhist Gate",
+      "title_zh": "釋門正統",
+      "snippet": "揚尖初淵 崇先了生 楊尖法欽 龍華方 南屏靈玩"
+    },
+    {
+      "path": "X\\X75\\X75n1512.xml",
+      "mentions": 1,
+      "title": "Comprehensive Annals of Longxing",
+      "title_zh": "隆興編年通論",
+      "snippet": "...越何得向 四威儀中見貧道？帝悅，謂忠國師曰：眹欲賜欽師一 名。忠欣然奉詔，遂賜號國一禪師。後辭歸本山。馬祖 大師令門人智藏問：十二時中以何為境？師曰：待汝 回去時有信。..."
+    },
+    {
+      "path": "X\\X74\\X74n1484.xml",
+      "mentions": 1,
+      "title": "Compassionate Precious Repentance for the Medicine Buddha",
+      "title_zh": "慈悲藥師寶懺",
+      "snippet": "...果滿不思議，十號名稱無等倫， 二六願門因地發，百千相好果中圓。 慈悲海闊測難量，功德山高讚莫盡。 南無東方淨琉璃世界藥師琉璃光如來 南無消灾延壽藥師佛"
+    },
+    {
+      "path": "X\\X74\\X74n1479.xml",
+      "mentions": 1,
+      "title": "Ritual Procedures for the Peacock Queen Sutra",
+      "title_zh": "佛母孔雀尊經科式",
+      "snippet": "常住三寶，體徧十方，隨眾生心， 感而應現。 佛功德山，惟高惟聳；法智慧海， 最廣最深。 羅剎女 羅剎女眾降吉祥"
+    },
+    {
+      "path": "X\\X74\\X74n1478.xml",
+      "mentions": 1,
+      "title": "Repentance Based on the Shurangama: The Ultimate Matter",
+      "title_zh": "依楞嚴究竟事懺",
+      "snippet": "南無六十頻婆羅遠離諸怖畏佛 南無億那由他百千覺華佛 南無須彌山微塵數一切功德山王勝名佛 南無十方佛國土不可說億那由他微塵數普賢佛 南無初發心念斷疑發解斷煩惱佛"
+    },
+    {
+      "path": "X\\X74\\X74n1469.xml",
+      "mentions": 1,
+      "title": "Avatamsaka Ocean-Seal Assembly: Nine Sessions Buddha-Inviting Rite",
+      "title_zh": "華嚴經海印道場九會請佛儀",
+      "snippet": "...，降臨道場，受我供養！ 香花請 一心奉請普門淨光明世界海、勝因世界最初劫中 一切功德山須彌勝雲佛、波羅蜜善眼莊嚴王佛、最 勝功德海佛、名稱普聞蓮華眼幢佛等十須彌極微 ..."
+    },
+    {
+      "path": "X\\X23\\X23n0447.xml",
+      "mentions": 1,
+      "title": "Brief Commentary on Avalokiteśvara’s Wish-Fulfilling Mind Dhāraṇī Sūtra",
+      "title_zh": "觀自在菩薩如意心陀羅尼經略疏",
+      "snippet": "...薩皆坐寶 石，恭敬圍繞，而為宣說大慈悲法，令其攝受一切 眾生。今亦見者，呪即菩薩功德山故，大悲海故。△ 七、得淨身。 即得自身清淨。"
+    },
+    {
+      "path": "X\\X23\\X23n0439.xml",
+      "mentions": 1,
+      "title": "Esoteric Elaboration Extracts on the Exposition of the Mahāvairocana Sūtra",
+      "title_zh": "大日經義釋演密鈔",
+      "snippet": "...也。言阿彌陀姉妹者，謂彌陀是姉，多羅是妹，妹即是 其亞者，將來補阿彌陀處，號普光功德山王，即是此 多羅尊也。常途不曉真言密號，無所揀辨，雖世多稱 念觀音，然不知所念之..."
+    },
+    {
+      "path": "X\\X22\\X22n0405.xml",
+      "mentions": 1,
+      "title": "Notes Explaining the Contemplation of Infinite Life Buddha Sūtra",
+      "title_zh": "釋觀無量壽佛經記",
+      "snippet": "...佛同異中三：先同，次異，三結次第。《悲華 經》云：「觀音菩薩成佛時，號出一切光明功德山王如 來，世界轉名一切珍寶，所有一切勝於安養。」 第十一觀，初因光神力中三：初明..."
+    },
+    {
+      "path": "X\\X22\\X22n0397.xml",
+      "mentions": 1,
+      "title": "Notes on the Infinite Life Sūtra",
+      "title_zh": "無量壽經記",
+      "snippet": "...！汝於后夜種種莊嚴，在菩提樹 下坐金剛座，於一念中間成阿耨菩提，號遍出一 切光明功德山王如來、應供乃至佛、世尊。其佛壽 命九十六億那由佗百千劫，般涅槃已正法位世"
+    },
+    {
+      "path": "X\\X20\\X20n0358.xml",
+      "mentions": 1,
+      "title": "Collected Notes on the Text and Phrases of the Golden Light Sūtra",
+      "title_zh": "金光明經文句文句記會本",
+      "snippet": "所有福德，不可思議。 【記】五、結歎。 佛功德山，我今敬禮。 【記】二、總示身相三：初、通嚴三身。 【文句】夫相好不獨在應身，報..."
+    },
+    {
+      "path": "X\\X11\\X11n0271.xml",
+      "mentions": 1,
+      "title": "Commentarial Notes on the Śūraṅgama Sutra",
+      "title_zh": "楞嚴經箋",
+      "snippet": "...，皆得解脫。又此菩薩大悲經云：過去名正法明 如來。觀音授記經云：未來補彌陀名普光功德山 王如來。又有佛出世名觀世音者，因從果號，資得 師名，表師資互明，因果交微。"
+    },
+    {
+      "path": "X\\X11\\X11n0269.xml",
+      "mentions": 1,
+      "title": "Record of Permeating Hearing on the Śūraṅgama Sutra",
+      "title_zh": "楞嚴經熏聞記",
+      "snippet": "...珍寶所成世界，所 有種種莊嚴安樂世界所不能及。汝於後夜成等正 覺，號徧出一切光明功德山王如來、應供、正徧知等。 二、爾時下，廣現符瑞。▲經金剛三昧，此應通指圓定 名為..."
+    },
+    {
+      "path": "X\\X05\\X05n0231.xml",
+      "mentions": 1,
+      "title": "Outline Text of the Commentary on the Avatamsaka Sutra",
+      "title_zh": "華嚴經疏科文",
+      "snippet": "初總舉劫中多佛 二別彰本事 初逢一切功德山須彌勝雲佛 初總標佛號 二先瑞熟機"
+    },
+    {
+      "path": "X\\X03\\X03n0221.xml",
+      "mentions": 1,
+      "title": "Revised Notes on the Abridged Commentary to the Avatamsaka Sutra",
+      "title_zh": "續華嚴經略疏刊定記",
+      "snippet": "...，明逢第四名 稱普聞蓮華明幢佛。 就初段中，文有七：一、先瑞熟機；二、「爾時一切功德山」 下，佛現華內；三、「爾時彼佛」下，佛光驚機；四、「時一切世 間主」下，機覺來..."
+    },
+    {
+      "path": "TX\\TX02\\TX02n0001.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part One – Comprehensive Study of Buddhism (Vols. 27–34)",
+      "title_zh": "太虛大師全書．第一編\u3000佛法總學(第27卷-第34卷)",
+      "snippet": "...後，禪眾有如法依處，禪宗遂卓焉興立。 道、指道悟禪師。道悟是婺州東陽人，初謁徑山國一禪師，受心法，服務五年。 在大歷年間抵鍾陵謁道一，重印可前解，悟又住了兩年。後來去參..."
+    },
+    {
+      "path": "T\\T85\\T85n2898.xml",
+      "mentions": 1,
+      "title": "High King Avalokiteśvara Sūtra",
+      "title_zh": "高王觀世音經",
+      "snippet": "告須彌登王佛。法護佛。金剛藏師子 游戲佛。寶勝佛。神通佛。藥師琉璃光王佛。 普光功德山王佛。善住功德寶王佛。過去七 佛。未來賢劫千佛。千五百佛。萬五千佛。五 百花勝佛..."
+    },
+    {
+      "path": "T\\T85\\T85n2871.xml",
+      "mentions": 1,
+      "title": "Sūtra of Great Penetration and Vastness: Repentance, Eradication of Sin, Adornment, and Buddhahood",
+      "title_zh": "大通方廣懺悔滅罪莊嚴成佛經",
+      "snippet": "...明佛。南無日轉 光明王佛。南無香積佛。南無師子億像佛。南 無師子遊戲佛。南無普光功德山王佛。南無 善住功德寶王佛。南無寶華莊嚴王佛。南無難 勝佛。南無須彌相佛。南無須..."
+    },
+    {
+      "path": "T\\T55\\T55n2151.xml",
+      "mentions": 1,
+      "title": "Illustrated Record of Sutra Translations Past and Present",
+      "title_zh": "古今譯經圖紀",
+      "snippet": "...也。志情 曠放弘化在懷。以晉武帝太康二年歲次辛 丑。於廣州譯。十二遊經。 沙門安法欽。安息國人。學贍眾經語兼晉俗。 幽鑒無滯剋暢玄門。以晉武帝太康二年歲"
+    },
+    {
+      "path": "T\\T55\\T55n2148.xml",
+      "mentions": 1,
+      "title": "Catalog of the Various Sutras",
+      "title_zh": "眾經目錄",
+      "snippet": "昇忉利天為母說法經二卷 晉太 康年竺法護譯 道神足無極變化經四卷 晉太康年 安法欽譯 右二經同本異譯。"
+    },
+    {
+      "path": "T\\T55\\T55n2147.xml",
+      "mentions": 1,
+      "title": "Catalog of the Various Sutras",
+      "title_zh": "眾經目錄",
+      "snippet": "昇忉利天為母說法經二卷 晉太康年竺 法護譯 道神足無極變化經四卷 晉太康年 安法欽譯 右二經同本異譯。 維摩詰經二卷 吳黃武年支謙譯"
+    },
+    {
+      "path": "T\\T55\\T55n2145.xml",
+      "mentions": 1,
+      "title": "Collected Records on the Tripiṭaka",
+      "title_zh": "出三藏記集",
+      "snippet": "...攬舊經。驗其得失。諮 其通途。坦其宗致。與諸宿舊義業沙門釋慧 恭僧䂮僧遷寶度慧精法欽道流僧叡道恢道 㯹道恒道悰等五百餘人。詳其義旨。審其文 中。然後書之。以其年十二..."
+    },
+    {
+      "path": "T\\T51\\T51n2101.xml",
+      "mentions": 1,
+      "title": "Record of Mount Potalaka",
+      "title_zh": "補陀洛迦山傳",
+      "snippet": "...。悲華諸經 說。此菩薩。久已成佛。號正法明如來。又云。 後成正覺。號遍出一切光明功德山王如來。 楞嚴經云。觀世音菩薩言。我昔於無數恒河 沙劫。有佛出現。名觀世音。教我..."
+    },
+    {
+      "path": "T\\T51\\T51n2099.xml",
+      "mentions": 1,
+      "title": "Expanded Record of Mount Qingliang",
+      "title_zh": "廣清涼傳",
+      "snippet": "...路半崖。安置其寺。懸泉滴。溜水 透巖。下去七八里許。俯視靈壽鎮定。復見易 州抱腹功德山。 東峨谷南。有鐵勤寺。向陽寺。日照寺。壘石 寺。並在谷中。林木高深。聯綿不絕。..."
+    },
+    {
+      "path": "T\\T50\\T50n2060.xml",
+      "mentions": 1,
+      "title": "Continued Biographies of Eminent Monks",
+      "title_zh": "續高僧傳",
+      "snippet": "...戒日之兄滿胄王造也。又有鍮石精舍高可 八丈。戒日親造。彫裝未備日役千功。彼國 常法欽敬德望。有諸論師智識清遠。王給 封戶乃至十城。漸降量賞不減三城。其寺 現在受封大..."
+    },
+    {
+      "path": "T\\T37\\T37n1754.xml",
+      "mentions": 1,
+      "title": "Commentary on the Meaning of the Sutra on Contemplating the Buddha of Infinite Life",
+      "title_zh": "觀無量壽佛經義疏",
+      "snippet": "...短長，《觀音受記經》云『阿彌陀佛壽雖無量，當 有終極。般涅槃後，觀音補處，號普光功德山王』， 據此定知是應。」《十疑論》云「有漏凡夫，隨分得 見佛身麁相」，謂應佛也。..."
+    },
+    {
+      "path": "T\\T32\\T32n1681.xml",
+      "mentions": 1,
+      "title": "Praise of the Buddha’s Auspicious Virtues",
+      "title_zh": "佛吉祥德讚",
+      "snippet": "...。 布施持戒及忍辱，精進禪定并智慧， 諸波羅蜜悉已圓，阿私陀仙常供養。 佛是高勝功德山，功德藏并功德海， 自覺覺他覺行圓，聲聞十方而普震， 無邊言說無邊德，辯才無盡亦..."
+    },
+    {
+      "path": "T\\T29\\T29n1563.xml",
+      "mentions": 1,
+      "title": "Abhidharma Treatise: Manifestation of the School Treasury (Samaya-pradīpikā)",
+      "title_zh": "阿毘達磨藏顯宗論",
+      "snippet": "...是則顯佛世尊身具有無邊 殊勝奇特因果恩德如大寶山。有諸愚夫自 乏眾德，雖聞如是佛功德山及所說法不能 信重。諸有智者聞說如斯，生信重心徹於 骨髓。彼由一念極信重心，轉滅..."
+    },
+    {
+      "path": "T\\T29\\T29n1562.xml",
+      "mentions": 1,
+      "title": "Abhidharma Treatise: Accord with Correct Reasoning (Nyāyānusāra)",
+      "title_zh": "阿毘達磨順正理論",
+      "snippet": "...是則顯佛世尊身具有無邊殊勝奇特 因果恩德如大寶山。有諸愚夫自乏眾德，雖 聞如是佛功德山及所說法，不能信重。諸有 智者聞說如斯，生信重心徹於骨髓，彼由一 念極信重心，轉..."
+    },
+    {
+      "path": "T\\T29\\T29n1558.xml",
+      "mentions": 1,
+      "title": "Abhidharmakośa Śāstra",
+      "title_zh": "阿毘達磨俱舍論",
+      "snippet": "...是則顯佛世尊身具有無 邊殊勝奇特因果恩德如大寶山。有諸愚 夫自乏眾德，雖聞如是佛功德山及所說 法不能信重。諸有智者聞說如斯生信 重心徹於骨髓，彼由一念極信重心轉滅 無..."
+    },
+    {
+      "path": "T\\T27\\T27n1545.xml",
+      "mentions": 1,
+      "title": "Mahāvibhāṣā Śāstra (Great Abhidharma Vibhāṣā)",
+      "title_zh": "阿毘達磨大毘婆沙論",
+      "snippet": "...不出世。至劫減時佛出于 世。爾時人無化生。復有說者。化生輕飄不 堪與佛力無畏等。功德山王作依止故。復 有說者。一切化生其身微弱。不能荷負阿 耨多羅三藐三菩提之重擔故。..."
+    }
+  ]
+}

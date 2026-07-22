@@ -1,1 +1,114 @@
-{"primary_count":0,"secondary_count":4,"total_mentions":10,"primary":[],"secondary":[{"path":"B\\B31\\B31n0170.xml","mentions":6,"title":"General History of Korean Buddhism","title_zh":"朝鮮佛教通史","snippet":"...稟承。而從六祖壇經。及大慧書狀。獨自悟入。發明大道。曹溪山第二世真 覺國師。法諱慧諶。號無衣子。輯述禪門拈頌集三十卷。又其弟子覺雲禪師。著拈頌說 話。世以龜谷覺雲與..."},{"path":"B\\B31\\B31n0169.xml","mentions":2,"title":"Historical Materials on Korean Temples and Monasteries","title_zh":"朝鮮寺剎史料","snippet":"...則獨無記焉者何也盖有所待也吁花芳之為寺尚矣而興 廢不一矣粵在高麗康宗壬戌真覺國師慧諶遙望靈氣葱葱乎藏於海 中乘筏渡海顧瞻湖山勝狀任望雲一山乃曰無乃靈區藏其中乎飛錫 ..."},{"path":"B\\B35\\B35n0194.xml","mentions":1,"title":"General Catalogue of the Chinese Tripiṭaka","title_zh":"中華大藏經總目錄","snippet":"...學大成鉛印本，較大正續藏二五六四多增補一則。 654曹溪真覺國師語錄不分卷 高麗慧諶說，有塔銘，嗣普照訥，世次待考。昭和十五年漢城圖書株式會社鉛印一冊， 有刊誤表，..."},{"path":"B\\B25\\B25n0144.xml","mentions":1,"title":"Zutang Ji (Anthology from the Patriarchs’ Hall)","title_zh":"祖堂集","snippet":"得 凡几 齊覺雲、慧諶〈禪門拈頌：拈頌說話會本 卷十四〉收於《韓國佛教全書》第5册（首爾：東國大學校出..."}]}
+{
+  "master": "Hyesim",
+  "primary_count": 0,
+  "secondary_count": 15,
+  "total_mentions": 35,
+  "primary": [],
+  "secondary": [
+    {
+      "path": "B\\B31\\B31n0170.xml",
+      "mentions": 10,
+      "title": "General History of Korean Buddhism",
+      "title_zh": "朝鮮佛教通史",
+      "snippet": "...扇海晏河清。時和歲稔。物物各得其所。家家純樂無為。區區 之心。切切於此」。是昔時真覺國師之言。亦今日尚玄居士之心也。時大正六年一月一 日（歲次丙辰佛成道日）書于京城府鳳..."
+    },
+    {
+      "path": "B\\B31\\B31n0169.xml",
+      "mentions": 5,
+      "title": "Historical Materials on Korean Temples and Monasteries",
+      "title_zh": "朝鮮寺剎史料",
+      "snippet": "... 五六三 望雲山花芳寺重創序 五六七 望雲山花芳寺誌 五七三 曹溪山第二世故斷寺真覺國師碑 五七六 花芳寺誌跋 五八二 花芳寺三法堂重創記 五八三 蓮華山玉泉寺創建記文..."
+    },
+    {
+      "path": "GA\\GA079\\GA079n0081.xml",
+      "mentions": 4,
+      "title": "Gazetteer of Qingliang Mountain",
+      "title_zh": "清涼山志",
+      "snippet": "...老鶴巢穩 雲閒 僧舍幽何時投杖屨 於此事清修 護國寺鷲峯南，三里許。元成宗勅建，真覺國師住此，著《慧燈集》。明弘治間，周國母 重建。鎮澄詩：探奇來古寺 觸目動幽懷"
+    },
+    {
+      "path": "T\\T49\\T49n2036.xml",
+      "mentions": 3,
+      "title": "General Record of Buddhas and Patriarchs Through the Ages",
+      "title_zh": "佛祖歷代通載",
+      "snippet": "...德。 正月遣使問民疾苦。 三月三日大赦。 大德六年九月一日。五臺山大萬聖祐國 寺真覺國師歿。師諱文才。字仲華。楊氏。其 先弘農人。高曾以來世官壟坻。父靜義。金 季為清水..."
+    },
+    {
+      "path": "T\\T49\\T49n2038.xml",
+      "mentions": 2,
+      "title": "Continuation Collection of the Brief Investigation of Antiquity (Shijian)",
+      "title_zh": "釋鑑稽古略續集",
+      "snippet": "... 壬寅大德六年三月。詔以旱溢為災。赦天下 免其差稅三年 六月建文宣王廟於京師。 真覺國師 諱文才。號仲華。清水楊氏子。少 孤事母。孝性捷敏。於書無所不讀。尤邃於性 理之..."
+    },
+    {
+      "path": "B\\B16\\B16n0088.xml",
+      "mentions": 2,
+      "title": "Selected Extracts from the Complete Collection of Illustrations and Writings from Antiquity to the Present (Part 2)",
+      "title_zh": "古今圖書集成選輯（下）",
+      "snippet": "...譽日馳成宗建萬聖寺於五臺詔求開山第一 代住持時帝師迦羅斯巴薦之成宗即鑄金印署為 真覺國師總釋源宗兼祐國住持事帝師齎旨起師 師辭曰山僧荷蒙國恩居白馬寺亦過矣何德敢主 祐國..."
+    },
+    {
+      "path": "X\\X87\\X87n1628.xml",
+      "mentions": 1,
+      "title": "Fortress Anthology of the Buddha-Dharma",
+      "title_zh": "佛法金湯編",
+      "snippet": "...建臨洮寺。世 祖甞以五臺絕境，欲為佛寺而未果也。帝繼志建寺， 賜名萬壽祐國寺，命真覺國師文才為住持。三年，命 弘濟大禪師、江淛釋教總統補陀僧寧一山，賷詔使 日本。九年，..."
+    },
+    {
+      "path": "X\\X87\\X87n1626.xml",
+      "mentions": 1,
+      "title": "Abstracts of Eminent Monks",
+      "title_zh": "高僧摘要",
+      "snippet": "...諡為姓。少 即好學聰睿。天啟初，依安和尚薙髮，登具戒，歷諸講 席，精究三藏。後遇真覺國師，啟廸厥心。既而周遊關 陝、河洛、襄漢，訪諸耆德，如栢林潭、關輔懷、南陽慈諸 公..."
+    },
+    {
+      "path": "X\\X86\\X86n1600.xml",
+      "mentions": 1,
+      "title": "Chronological Compilation of the Sectarian Lineage",
+      "title_zh": "宗統編年",
+      "snippet": "...松 堂。將終焉，世祖降旨主洛陽白馬寺。成宗建祐國 寺，詔為開山第一世，鑄金印，署真覺國師。帝師親 賷旨起之，辭不受，不得已而行。大弘清涼之道，至 老無怠。九月朔，說法辭..."
+    },
+    {
+      "path": "T\\T49\\T49n2039.xml",
+      "mentions": 1,
+      "title": "Memorabilia of the Three Kingdoms",
+      "title_zh": "三國遺事",
+      "snippet": "...有大班。至今猶 然。即大遼應曆三年癸丑歲也。本朝光廟五 載也。塔之第三災也。曹溪無衣子留詩云。聞 噵皇龍災塔日。連燒一面示無間。是也。自至 元甲子已來大朝使佐本國。皇..."
+    },
+    {
+      "path": "T\\T49\\T49n2035.xml",
+      "mentions": 1,
+      "title": "Comprehensive Chronicle of Buddhas and Patriarchs",
+      "title_zh": "佛祖統紀",
+      "snippet": "...元年建臨洮寺。世祖甞以五臺絕境 欲為佛寺而未果。帝繼志建寺。賜名 萬壽佑國寺。命真覺國師文才主之。 三年。命弘濟禪師江浙釋教總統補陀僧 寧一齎詔使日本。 是年夏五月。罷..."
+    },
+    {
+      "path": "B\\B35\\B35n0194.xml",
+      "mentions": 1,
+      "title": "General Catalogue of the Chinese Tripiṭaka",
+      "title_zh": "中華大藏經總目錄",
+      "snippet": "...愚中和尚語錄六卷 652絕海禪師語錄二卷 653永源寂室和尚語錄四卷 654曹溪真覺國師語錄不分卷 655懶翁和尚語錄不分卷 656太古和尚語錄不分卷 657無文和尚語..."
+    },
+    {
+      "path": "B\\B27\\B27n0151.xml",
+      "mentions": 1,
+      "title": "New Continued Biographies of Eminent Monks",
+      "title_zh": "新續高僧傳",
+      "snippet": "...川赴海聲譽日馳成宗建萬聖寺于五臺詔求開山住持時 帝師迦羅斯巴薦之成宗即鑄金印署為真覺國師總釋源宗 兼祐國住持事帝師賫旨至才辭曰山僧荷蒙國恩居白馬寺 亦過矣何德敢主祐國越..."
+    },
+    {
+      "path": "X\\X77\\X77n1524.xml",
+      "mentions": 1,
+      "title": "Supplement to the Continued Biographies of Eminent Monks",
+      "title_zh": "補續高僧傳",
+      "snippet": "...以博其趣，而益致其思焉。是其所 以造詣，葢得之繫表，故其講說深有宗通理味。後嗣 真覺國師傳賢首宗教，以師承既高，見解益明。其方 寸之地，湛如止水，瑩如明鏡。雖以天資之高..."
+    },
+    {
+      "path": "T\\T50\\T50n2062.xml",
+      "mentions": 1,
+      "title": "Great Ming Biographies of Eminent Monks",
+      "title_zh": "大明高僧傳",
+      "snippet": "...成宗建萬聖寺于五臺。詔求開山第 一代住持。時帝師迦羅斯巴薦之。成宗即鑄 金印署為真覺國師總釋源宗兼祐國住持 事。帝師齎旨起師。師辭曰。山僧荷蒙國恩 居白馬寺亦過矣。何德..."
+    }
+  ]
+}

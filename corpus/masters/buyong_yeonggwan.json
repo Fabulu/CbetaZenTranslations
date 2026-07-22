@@ -1,1 +1,506 @@
-{"primary_count":0,"secondary_count":2,"total_mentions":22,"primary":[],"secondary":[{"path":"B\\B31\\B31n0170.xml","mentions":21,"title":"General History of Korean Buddhism","title_zh":"朝鮮佛教通史","snippet":"...濟嫡派 太古普愚一八九龜谷覺雲三二三碧松智嚴三三一 懶翁慧勤二五四涵虛已和三二八芙蓉靈觀三三三 幻庵混修三二〇碧溪正心三三〇慶聖一禪三三四 無學自超三二一千峰卍雨三三〇..."},{"path":"B\\B31\\B31n0169.xml","mentions":1,"title":"Historical Materials on Korean Temples and Monasteries","title_zh":"朝鮮寺剎史料","snippet":"...二共奉而闍毗之三南傾土七眾填谷三 舍利騰出即寺之西麓藏諸石鍾大師之承竺教厥有所自芙蓉靈觀接 臨濟之遺緒浮体與清虛休靜俱事觀靜傳之松雲体傳之碧巖云其所 著有禪源集圖中决疑..."}]}
+{
+  "master": "Buyong Yeonggwan",
+  "primary_count": 0,
+  "secondary_count": 71,
+  "total_mentions": 137,
+  "primary": [],
+  "secondary": [
+    {
+      "path": "B\\B31\\B31n0170.xml",
+      "mentions": 20,
+      "title": "General History of Korean Buddhism",
+      "title_zh": "朝鮮佛教通史",
+      "snippet": "...濟嫡派 太古普愚一八九龜谷覺雲三二三碧松智嚴三三一 懶翁慧勤二五四涵虛已和三二八芙蓉靈觀三三三 幻庵混修三二〇碧溪正心三三〇慶聖一禪三三四 無學自超三二一千峰卍雨三三〇..."
+    },
+    {
+      "path": "GA\\GA036\\GA036n0037.xml",
+      "mentions": 6,
+      "title": "Brief Gazetteer of Jinshan Longyou Chan Monastery (Vols. 1–2)",
+      "title_zh": "金山龍游禪寺志略(第1卷-第2卷)",
+      "snippet": "...呼黿處以浮玉山隨波出沒潮汐不爽 竹逕山頭有竹二本云黃金嵌碧玉碧玉嵌黃金在大悲殿後靈觀閣前謂之竹逕 龍門在筆架山之右相傳龍宮在下紀出三禁堂 鶻嶺"
+    },
+    {
+      "path": "B\\B14\\B14n0081.xml",
+      "mentions": 6,
+      "title": "Baolin Chronicle of Caoxi (Shuangfeng Mountain) (Fragment)",
+      "title_zh": "雙峰山曹侯溪寶林傳（殘卷）",
+      "snippet": "...一日而赴上元武帝親駕車輦迎 請大師昇殿供養是時志公和尚監 修高座寺在彼言笑謂寺僧靈觀曰 汝名靈觀實靈觀不靈觀曰願和尚指 示志公曰從西有一大乘菩\uDB90\uDD7D而入 此國汝若不信..."
+    },
+    {
+      "path": "B\\B25\\B25n0144.xml",
+      "mentions": 5,
+      "title": "Zutang Ji (Anthology from the Patriarchs’ Hall)",
+      "title_zh": "祖堂集",
+      "snippet": "...而至上元，武帝親駕車 輦，迎請大師昇殿供養。是時志公和尚監修高 座寺，彼謂寺主僧靈觀曰：「汝名靈觀，實靈觀不？」 靈觀曰：「唯願和尚指示。」志公曰：「從西天有大乘 ..."
+    },
+    {
+      "path": "B\\B27\\B27n0151.xml",
+      "mentions": 4,
+      "title": "New Continued Biographies of Eminent Monks",
+      "title_zh": "新續高僧傳",
+      "snippet": "...山普濟寺沙門釋妙福傳 宜都顯明山寺沙門釋道慶傳 昆明妙湛寺沙門釋悟本傳 潤州金山靈觀閣沙門釋定清傳 通海東華山寺沙門釋慧心傳 峩湄普賢寺沙門釋慧宗傳 洱海般若寺沙門..."
+    },
+    {
+      "path": "T\\T51\\T51n2076.xml",
+      "mentions": 3,
+      "title": "Jingde Record of the Transmission of the Lamp",
+      "title_zh": "景德傳燈錄",
+      "snippet": "縣人也。姓黃氏。生而有異。及長名文矩。 為縣獄卒。往往棄役往神光靈觀和尚及西 院大安禪師所。吏不能禁。後謁萬歲塔譚空 禪師落髮。不披袈裟不受具戒。唯..."
+    },
+    {
+      "path": "GA\\GA053\\GA053n0057.xml",
+      "mentions": 3,
+      "title": "Gazetteer of Buddhist Monasteries in Jiangnan",
+      "title_zh": "江南梵剎志",
+      "snippet": "哉。 至和觀在常熟縣治西宋咸淳中建。 衍慶昭靈觀在吳江縣東北隅，唐先天二年勅建名曹 王，廟王名，明太宗第十四子也，即昭靈侯。梁時..."
+    },
+    {
+      "path": "B\\B14\\B14n0082.xml",
+      "mentions": 3,
+      "title": "Jade Flowers of the Transmission of the Lamp (Fragment)",
+      "title_zh": "傳燈玉英集（殘卷）",
+      "snippet": "筠州末山尼了然 鎮州義玄禪師睦州陳尊宿 杭州楚南禪師福州靈觀禪師 杭州宗徹禪師魏府大覺禪師 相國裴休公袁州光穆禪師"
+    },
+    {
+      "path": "B\\B02\\B02n0001.xml",
+      "mentions": 3,
+      "title": "Complete Works on Huayan Studies by Master Junru (Volumes 10–20)",
+      "title_zh": "均如大師華嚴學全書(第10卷-第20卷)",
+      "snippet": "...事者上教義中各具理事故三解行者於上理事 各具解行故問何故料簡旨皈改解行為行位耶荅靈觀 德云濫於五位中解行故也此章\uDB89\uDFCF綱目隨儼師所立故 不改也料簡旨皈以自意取捨故改也..."
+    },
+    {
+      "path": "X\\X84\\X84n1580.xml",
+      "mentions": 3,
+      "title": "Separate Transmission Outside the Teachings",
+      "title_zh": "教外別傳",
+      "snippet": "...魔巖和尚 湖南祗林和尚 南嶽下四世 臨濟義玄禪師 睦州陳尊宿 千頃楚南禪師 烏石靈觀禪師 羅漢宗徹禪師 相國裴休居士 大隨法真禪師 靈樹如敏禪師 靈雲志勤禪師 壽山..."
+    },
+    {
+      "path": "X\\X70\\X70n1394.xml",
+      "mentions": 3,
+      "title": "Recorded Sayings of Chan Master Duanqiao Miaolun",
+      "title_zh": "斷橋妙倫禪師語錄",
+      "snippet": "...、未識根株，山僧不免與諸人 指出。驀拈主丈提起，啞！元來是箇主丈子。復舉：僧 問靈觀和尚：如何是佛？靈觀吐舌示之，其僧禮拜。觀 云：見箇甚麼道理便禮拜？僧云：謝和尚..."
+    },
+    {
+      "path": "X\\X24\\X24n0451.xml",
+      "mentions": 3,
+      "title": "Meaning Commentary on the Large Prajñāpāramitā Sūtra",
+      "title_zh": "大品經義疏",
+      "snippet": "...因人則屬因攝，果人則屬果 攝，何須別立人大？力用等終是因果所攝，不須十也。 次有靈觀法師，是地論師中好手，經至東陽，後還都 豐樂寺歸，興皇法師假停三日，講看之人疑其..."
+    },
+    {
+      "path": "X\\X88\\X88n1671.xml",
+      "mentions": 2,
+      "title": "Register of Monks and Nuns of the Eastern Land",
+      "title_zh": "東國僧尼錄",
+      "snippet": "...數白雲中。遂投崇仁長老落髮，從 一禪和尚受戒。時嘉靖庚子，師年二十一歲矣。尋 參靈觀大師，得印可。後因遊行村落，聞午鷄，忽然 有省，嘆曰：寧作一生癡獃漢，不欲做鈆槧..."
+    },
+    {
+      "path": "X\\X87\\X87n1614.xml",
+      "mentions": 2,
+      "title": "Chan Grove Primer: Jade Grove",
+      "title_zh": "禪苑蒙求瑤林",
+      "snippet": "...以手托庵門，放身出云：是什麼？僧亦云： 是什麼？峯低頭歸庵。 老觀閉戶福州鳥岩山靈觀禪師， 尋常扃戶，人罕見之。唯一信士，每至食時送供方 開。一日，雪峯伺便扣門，師..."
+    },
+    {
+      "path": "X\\X79\\X79n1563.xml",
+      "mentions": 2,
+      "title": "Great Treasury of Light",
+      "title_zh": "大光明藏",
+      "snippet": "...拄杖。要識靈樹眼麼？瞎。 泉州國歡慧日大師 師少為福州候官縣獄卒，往往棄役至神光靈觀和 尚處及西院大安禪師處，吏不能禁。後謁萬歲談空 禪師落髮，不披袈裟，不受具戒，..."
+    },
+    {
+      "path": "X\\X79\\X79n1559.xml",
+      "mentions": 2,
+      "title": "Jiatai Universal Lamp Record",
+      "title_zh": "嘉泰普燈錄",
+      "snippet": "...郊迎，延居別殿。遂問聖諦，機語不契。至十九日， 潛往江北先是誌公修高座寺，謂寺主靈觀曰：當有 大乘菩薩自西而來，廣化此國。聽吾讖曰：仰覩兩扇， 低腰捻鈎。九烏射盡，..."
+    },
+    {
+      "path": "X\\X79\\X79n1557.xml",
+      "mentions": 2,
+      "title": "Essential Compendium of the United Lamp",
+      "title_zh": "聯燈會要",
+      "snippet": "...康和尚 京兆米和尚 常侍王公敬 筠州黃蘗希運禪師法嗣上四人 睦州陳尊宿 福州烏石靈觀禪師 杭州千頃楚南禪師 相國裴公休 卷第九 南嶽下第五世 筠州黃蘗希運禪師法嗣下"
+    },
+    {
+      "path": "X\\X78\\X78n1553.xml",
+      "mentions": 2,
+      "title": "Tiansheng Expanded Lamp Record",
+      "title_zh": "天聖廣燈錄",
+      "snippet": "...詔赴京師。十月一日，至金陵，車駕為之出郊， 遂延居別殿。寺誌：公修高座寺，謂寺主靈觀曰：名靈 觀否？答曰：凡情不測。誌公曰：從西有大乘菩薩，今入 國中，非久而出。聽..."
+    },
+    {
+      "path": "ZS\\ZS01\\ZS01n0001.xml",
+      "mentions": 2,
+      "title": "Classified Compilation of Buddhist Materials from Official Histories",
+      "title_zh": "正史佛教資料類編",
+      "snippet": "...仁宗紀一》188） 祈雨於開寶寺 （明道二年）三月庚午，加恩百官。丁亥，祈雨於會靈觀、上清宮、景 德開寶寺。 （《宋史》卷十《仁宗紀二》195） 安太祖御容於楊州建..."
+    },
+    {
+      "path": "D\\D48\\D48n8939.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Ancient Venerable Masters",
+      "title_zh": "古尊宿語錄",
+      "snippet": "...故因迎夜月仍得待朝陽 群木煙初暖幽蘭花正芳坐來禪性澹蜂蝶自輕狂 \uD875\uDD03香城順禪師 靈觀拋頭後名山護有神道場千古舊法席幾畨新 廢去何由物興來故在人況師先達者不與眾同塵 ..."
+    },
+    {
+      "path": "C\\C077\\C077n1710.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Ancient Venerable Masters",
+      "title_zh": "古尊宿語錄",
+      "snippet": "...有方故因迎夜月仍得待朝陽群木煙初 䐘幽蘭花正芳坐來禪性澹蜂蝶自輕狂 寄香城順禪師靈觀拋頭後名山護有神 道塲千古舊法席幾番新廢去何由物興來 故在人况師先達者不與眾同塵..."
+    },
+    {
+      "path": "B\\B01\\B01n0001.xml",
+      "mentions": 2,
+      "title": "Complete Works on Huayan Studies by Master Junru (Volumes 1–9)",
+      "title_zh": "均如大師華嚴學全書(第1卷-第9卷)",
+      "snippet": "...一何得云呼第一名時一 切並第一名口許是相德義耶是故此義難也問若 尒難者如何見耶荅靈觀大德云相大德亦一切一 名口許一切自名口許二義具也藏師亦尒謂相德 義中一事中一多義..."
+    },
+    {
+      "path": "X\\X83\\X83n1578.xml",
+      "mentions": 2,
+      "title": "Record Pointing at the Moon",
+      "title_zh": "指月錄",
+      "snippet": "潭州石室善道禪師 澧州龍潭崇信禪師 卷之十三 六祖下第五世 睦州陳尊宿 福州烏石靈觀禪師 益州大隨法真禪師 福州靈雲志勤禪師 洪州新興嚴陽尊者"
+    },
+    {
+      "path": "X\\X68\\X68n1319.xml",
+      "mentions": 2,
+      "title": "Imperially Selected Recorded Sayings",
+      "title_zh": "御選語錄",
+      "snippet": "... 云：五人。 師云：瓦解冰消。 僧云：和尚未 曾有問。 師云：賊把贓為驗。 烏石靈觀禪師 師問西院：此一片地堪著甚麼物？ 西院曰：好著箇無 相佛。 師曰：好片地，被..."
+    },
+    {
+      "path": "X\\X68\\X68n1315.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Ancient Worthies",
+      "title_zh": "古尊宿語錄",
+      "snippet": "...，仍得待朝陽。 群木煙初煖，幽蘭花正芳。坐來禪性澹，蜂蝶自輕狂。 寄香城順禪師 靈觀拋頭後，名山護有神。道場千古舊，法席幾飜新。 廢去何由物，興來故在人。況師先達者..."
+    },
+    {
+      "path": "X\\X66\\X66n1297.xml",
+      "mentions": 2,
+      "title": "Dharma Grove of the Tradition’s Mirror",
+      "title_zh": "宗鑑法林",
+      "snippet": "五世 臨濟義玄 卷二十二 臨濟義玄 卷二十三 睦州道明 烏石靈觀 相國裴休 卷二十四 大隨法真 靈樹如敏 靈雲志勤 光孝慧覺"
+    },
+    {
+      "path": "X\\X66\\X66n1296.xml",
+      "mentions": 2,
+      "title": "Compilation of the School Gate’s “Raising Old Cases”",
+      "title_zh": "宗門拈古彙集",
+      "snippet": "南四 臨濟義玄 卷第二十一 南四 烏石靈觀 大隨法真 靈樹如敏 靈雲志勤 仰山慧寂 香嚴智閑 卷第二十二 南四"
+    },
+    {
+      "path": "X\\X65\\X65n1295.xml",
+      "mentions": 2,
+      "title": "Comprehensive Collection of Chan School Verse-on-Old-Cases Linked Pearls",
+      "title_zh": "禪宗頌古聯珠通集",
+      "snippet": "六祖下第五世之二 睦州陳尊宿烏石靈觀禪師 相國裴休居士新興嚴陽尊者 杭州多福和尚興化石梯禪師"
+    },
+    {
+      "path": "X\\X86\\X86n1601.xml",
+      "mentions": 1,
+      "title": "Genealogy of the Chan Lamp",
+      "title_zh": "禪燈世譜",
+      "snippet": "陳操尚書 千頃楚南 烏石靈觀 羅漢宗徹 六合德元"
+    },
+    {
+      "path": "X\\X80\\X80n1564.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Five Lamps Compendium",
+      "title_zh": "五燈會元目錄",
+      "snippet": "...安禪師 南嶽下四世 黃檗運禪師法嗣 臨濟義玄禪師 睦州陳尊宿 千頃楚南禪師 烏石靈觀禪師 羅漢宗徹禪師 相國裴休居士 長慶安禪師法嗣 大隨法真禪師 靈樹如敏禪師 靈..."
+    },
+    {
+      "path": "X\\X17\\X17n0330.xml",
+      "mentions": 1,
+      "title": "Essential Principles of the Laṅkāvatāra Sūtra",
+      "title_zh": "楞伽經宗通",
+      "snippet": "...復自云：長 也。天童拈云：雲門大師雖然自起自倒，要且車不 橫推，理無曲斷。又烏石靈觀禪師云：若言我不道， 即啞却我口；若言我道，即禿却我舌。覺範云：佛法 大有，秪是..."
+    },
+    {
+      "path": "T\\T51\\T51n2078.xml",
+      "mentions": 1,
+      "title": "Record of the Orthodox Lineage of Dharma Transmission",
+      "title_zh": "傳法正宗記",
+      "snippet": "...三人。一曰臨濟義玄者。一曰 睦州陳尊宿者。一曰杭州千頃山楚南者。一 曰福州烏石山靈觀者。一曰杭州羅漢宗徹 者。一曰魏府大覺者。一曰相國裴休者。一曰 揚州德元者。一曰..."
+    },
+    {
+      "path": "P\\P154\\P154n1519.xml",
+      "mentions": 1,
+      "title": "Essential Compendium of the Zen School: Main and Continued Collections (Vols. 1–12)",
+      "title_zh": "宗門統要正續集(第1卷-第12卷)",
+      "snippet": "...不覺醜假饒索 火燒却終不向別處托生會麼老婆心切 呵呵笑一任傍人說短長。 福州烏石靈觀禪師一日因新到來偶引麵 次遂引麵示之其僧便去師晚間問首座今 日新到在甚處座云當時..."
+    },
+    {
+      "path": "L\\L154\\L154n1641.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of National Teacher Xiu of Dajue Puji Nengren",
+      "title_zh": "大覺普濟能仁琇國師語錄",
+      "snippet": "... \uD854\uDC5E我此平懷何所窮若更有多才能思逞 英豪的一任\uD860\uDC5D跳。 示眾舉曹山行脚到烏石山靈觀禪師處 問如何是毘盧師法身主觀曰我若向汝 道即別有也曹山舉似洞山山曰好個話 頭秪..."
+    },
+    {
+      "path": "L\\L154\\L154n1639.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Tianyin Xiu",
+      "title_zh": "天隱修禪師語錄",
+      "snippet": "知之 卻到百丈門下鈍置再撥而轉何不當伊叱 時呵呵大笑拂袖而出。 舉曹山行\uDB86\uDFFE時問靈觀如何是毗盧師法身 主觀云不道曹舉似洞山山云好個話頭只 欠進語何不更去問為甚不道曹..."
+    },
+    {
+      "path": "L\\L153\\L153n1637.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Huanyouchuan",
+      "title_zh": "幻有傳禪師語錄",
+      "snippet": "...山云今日又似得便 宜又似落便宜。師云作麼生是得便宜處 又作麼生是落便宜處。 烏石靈觀禪師曹山行脚時問如何是毘盧 法身主觀云不道曹舉似洞山山云好箇話 頭只欠進語何不更..."
+    },
+    {
+      "path": "J\\J39\\J39nB463.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Gumeilie of Weishan",
+      "title_zh": "溈山古梅冽禪師語錄",
+      "snippet": "...時若在，見伊道：『把將去。』便近前 以腳抹卻，免得人向胡餅裏呷汁。」 舉：「烏石靈觀因雪峰來敲門，觀云：『誰？』云：『鳳凰兒。』觀云： 『作麼？』云：『來啗老觀。』..."
+    },
+    {
+      "path": "J\\J39\\J39nB454.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Pinjixiang",
+      "title_zh": "頻吉祥禪師語錄",
+      "snippet": "...惡。」 前舟入浪浪花沉，後舟入浪浪花起，漁人不怕打 頭風，只管撈蝦復撈鯉。 烏石靈觀禪師，曹山行腳時問：「如何是毘盧師法身 主？」石曰：「我若向你道，即別有也。」曹..."
+    },
+    {
+      "path": "J\\J38\\J38nB425.xml",
+      "mentions": 1,
+      "title": "Complete Record of Chan Master Jifei",
+      "title_zh": "即非禪師全錄",
+      "snippet": "...昔日裴相今 豐主，須信慧林即壽林。」師云：「不涉古今再道看。」水禮 退，乃云：「靈觀上堂祝睦州壽，揩背須借他人手；佛日 請廣壽陞座自祝，喫飯須用自己口。遠承法愛，愧..."
+    },
+    {
+      "path": "J\\J37\\J37nB390.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Chulin of Beijing",
+      "title_zh": "北京楚林禪師語錄",
+      "snippet": "...打曰：「這掠虛漢！」 三喝四喝後，惟應作者知。不是金牙客，如何射尉遲。 福州烏石靈觀禪師，曹山行腳時，問：「如何是毘 盧師法身主？」師曰：「我向你道即別有也。」曹山..."
+    },
+    {
+      "path": "J\\J36\\J36nB363.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Wenmunian",
+      "title_zh": "文穆念禪師語錄",
+      "snippet": "...我。」 重重指注原無他，只要渠儂直下荷，叵耐頑皮真 癩肉，油鹽特費老師多。 烏石靈觀禪師，尋常唯扃戶，人罕得見。雪峰一日伺 便扣門，石開門，峰驀胸搊住，曰：「是凡？..."
+    },
+    {
+      "path": "J\\J32\\J32nB276.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Buhui",
+      "title_zh": "不會禪師語錄",
+      "snippet": "...？」壽云：「莫管他。」 是誰不把金剛戴，見怪不緣其怪壞，一任雷轟電掣 來，歷歷靈靈觀自在。 佛照因孝宗宣問：「釋迦入山六年，所成何事」？師 曰：「將謂陛下忘卻"
+    },
+    {
+      "path": "J\\J29\\J29nB234.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Yichuyuan",
+      "title_zh": "一初元禪師語錄",
+      "snippet": "...」 橫將玉笛逆風吹，不犯宮商調自奇，最惜能邀仙子 曲，被人喚作鷓鴣辭。 福州烏石靈觀禪師引麵次，有僧來參，師引麵 示之，僧便去。至晚，問：「小師今日新到在麼？」曰：..."
+    },
+    {
+      "path": "J\\J28\\J28nB205.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Jieweizhou",
+      "title_zh": "介為舟禪師語錄",
+      "snippet": "...： 「子承父業自為家，不賣靈龜賣鱉蛇，特向人前輕一 擲，遭他毒氣眼彌麻。」 烏石靈觀禪師因雪峰來參，敲門，師云：「誰？」峰云：「鳳 皇兒。」師云：「作什麼？」峰云：..."
+    },
+    {
+      "path": "J\\J27\\J27nB198.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Xueguan",
+      "title_zh": "雪關禪師語錄",
+      "snippet": "...：入得重門始是門，梵音深遠令人聞；分明影 象都忘卻，井底蝦蟆帶月吞。 福州烏石山靈觀禪師，曹山行腳時問：「如何 是毘盧師法身主？」師曰：「我若向你道，即別有也。」曹..."
+    },
+    {
+      "path": "J\\J26\\J26nB181.xml",
+      "mentions": 1,
+      "title": "Bushuitai Collection",
+      "title_zh": "布水臺集",
+      "snippet": "...，其高出雲天， 其羅青錯黛不知幾千萬疊中乃霄然洞開，梵宇原 隰每每雙谿流碧，異境靈觀勝焉茲絕。且也虹飛雪 瀑，天設巖臺，雲壑幽奇，珠林蒼倩，所以發明王之夢、 煥奎璧..."
+    },
+    {
+      "path": "GA\\GA090\\GA090n0089.xml",
+      "mentions": 1,
+      "title": "Tiantai Mountain Gazetteer of the Clergy Outside the Order (Vols. 19–30)",
+      "title_zh": "天台山方外志(第19卷-第30卷)",
+      "snippet": "...通，真僊時來。顧我鍊師，于彼 瓊臺。鍊師鍊師，道入元微。噏日安坐，凌霄欲飛。興廢靈觀，鍊師攸贊。道無不為，美哉輪奐。 窈窈茫茫，通天降祥。保我皇唐，如山是常。」崔尚..."
+    },
+    {
+      "path": "GA\\GA037\\GA037n0037.xml",
+      "mentions": 1,
+      "title": "Brief Gazetteer of Jinshan Longyou Chan Monastery (Vols. 2–4)",
+      "title_zh": "金山龍游禪寺志略(第2卷-第4卷)",
+      "snippet": "... 六塵飛不上簾鈎一聲清磬海門 曉 數點殘燈山寺秋萵笋薦茶香可啜 蒲團作榻倦 堪投靈觀閣上凭闌看 宦海奔馳若個休 其二 翠箔朱甍蔭玉泉 層層石徑費攀緣江山一覽窮千"
+    },
+    {
+      "path": "GA\\GA016\\GA016n0015.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Dazhaoqing Vinaya Monastery",
+      "title_zh": "大昭慶律寺志",
+      "snippet": "...開 水枕能令山俯仰 風船解與 月徘徊烏菱白芡不論錢 亂繫青菰裹綠盤 忽 憶嘗新會靈觀 滯留江海得加餐獻花游女木 蘭橈 細雨斜風濕翠翹 無限芳洲生杜若 吳兒不識 楚詞..."
+    },
+    {
+      "path": "C\\C078\\C078n1720.xml",
+      "mentions": 1,
+      "title": "Chan School: Comprehensive Linked-Pearls Collection of Verse Commentaries on Old Cases",
+      "title_zh": "禪宗頌古聯珠通集",
+      "snippet": "頌曰。水中 鹽味色裡膠清若人辨得天下橫行 福州烏石靈觀禪師曹山 行脚時問如何是毗盧師法身主師曰我若 向\uD87E\uDC04道即別有也曹山舉似洞山山曰好..."
+    },
+    {
+      "path": "B\\B31\\B31n0169.xml",
+      "mentions": 1,
+      "title": "Historical Materials on Korean Temples and Monasteries",
+      "title_zh": "朝鮮寺剎史料",
+      "snippet": "...二共奉而闍毗之三南傾土七眾填谷三 舍利騰出即寺之西麓藏諸石鍾大師之承竺教厥有所自芙蓉靈觀接 臨濟之遺緒浮体與清虛休靜俱事觀靜傳之松雲体傳之碧巖云其所 著有禪源集圖中决疑..."
+    },
+    {
+      "path": "B\\B27\\B27n0152.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of National Master Puji Yulin",
+      "title_zh": "普濟玉琳國師語錄",
+      "snippet": "...倆有時盡我此平懷何所窮 猶有多才能的思逞英豪麼一任\uD860\uDC5D跳 示眾舉曹山行腳到烏石山靈觀禪師處問如何是 毘盧師法身主觀曰我若向汝道即別有也曹山舉 似洞山山曰好個話頭秖欠..."
+    },
+    {
+      "path": "B\\B19\\B19n0103.xml",
+      "mentions": 1,
+      "title": "Annotated Glossary of Chan Monastic Terms and Implements",
+      "title_zh": "禪林象器箋",
+      "snippet": "...莆田縣國歡崇福院慧日大師。福州 侯官人也。姓黃氏。生而有異。及長名文矩。 落髮至靈觀和尚所觀曰。我非汝師。汝去禮西院 去。師携一小青竹杖。入西院法堂。安遙見而笑 曰..."
+    },
+    {
+      "path": "X\\X81\\X81n1571.xml",
+      "mentions": 1,
+      "title": "Complete Five Lamps (Vols. 1–33)",
+      "title_zh": "五燈全書(第1卷-第33卷)",
+      "snippet": "\uD874\uDC75錢塘發塔，覩師全身儼然，爪髮俱長，拜謝而 去。 福州烏石山靈觀禪師尋常扄戶，人罕見之。唯一信 士，每至食時送供方開。 一日，雪峰伺便扣門，師開..."
+    },
+    {
+      "path": "X\\X81\\X81n1570.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Complete Five Lamps",
+      "title_zh": "五燈全書目錄",
+      "snippet": "...度使 南嶽下第四世 黃檗運禪師法嗣 臨濟義玄禪師 睦州陳尊宿 千頃楚南禪師 烏石靈觀禪師 羅漢宗徹禪師 相國裴休 六合德元禪師 土門讚禪師 襄州政禪師 吳門弘宣禪師"
+    },
+    {
+      "path": "X\\X80\\X80n1568.xml",
+      "mentions": 1,
+      "title": "Strict Lineage of the Five Lamps (Vols. 1–9)",
+      "title_zh": "五燈嚴統(第1卷-第9卷)",
+      "snippet": "...大順二年，宣州孫儒宼錢塘，發塔，覩師全身儼然， 爪髮俱長，拜謝而去。 福州烏石山靈觀禪師尋常扄戶，人罕見之。唯 一信士，每至食時送供方開。一日，雪峯伺便扣門。師 開..."
+    },
+    {
+      "path": "X\\X80\\X80n1567.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Strict Lineage of the Five Lamps",
+      "title_zh": "五燈嚴統目錄",
+      "snippet": "...安禪師 南嶽下四世 黃檗運禪師法嗣 臨濟義玄禪師 睦州陳尊宿 千頃楚南禪師 烏石靈觀禪師 羅漢宗徹禪師 相國裴休居士 長慶安禪師法嗣 大隨法真禪師 靈樹如敏禪師 靈..."
+    },
+    {
+      "path": "X\\X80\\X80n1565.xml",
+      "mentions": 1,
+      "title": "Five Lamps Compendium",
+      "title_zh": "五燈會元",
+      "snippet": "...。大順二年宣州孫儒宼錢塘。發塔。覩師全身儼然。 爪髮俱長。拜謝而去。 福州烏石山靈觀禪師尋常扄戶。人罕見之。唯 一信士每至食時送供。方開。一日。雪峯伺便扣門。師 開..."
+    },
+    {
+      "path": "X\\X70\\X70n1401.xml",
+      "mentions": 1,
+      "title": "Chan Essentials of Chan Master Gaofeng Yuanmiao",
+      "title_zh": "高峰原妙禪師禪要",
+      "snippet": "...。 惠。聰。 炊。飯。 戒。澄 智異山南臺庵開板以傳。神興寺幹善道人靈祉 校正。靈觀 性牛。 金義忠。兩主。 徐貴進。兩主。 姜石孫。 施主卓守、"
+    },
+    {
+      "path": "X\\X70\\X70n1388.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Huanxi Weiyi",
+      "title_zh": "環溪惟一禪師語錄",
+      "snippet": "師復云：黃蘗當時若能一向牙關咬定，教這風顛漢 子更疑三十年。 福州烏石靈觀禪師，因新到來參，偶引\uDB8E\uDEF9示之，其僧便出。觀晚間問首座：新 到在什麼處？座云：當..."
+    },
+    {
+      "path": "X\\X70\\X70n1382.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Wuzhun Shifan",
+      "title_zh": "無準師範禪師語錄",
+      "snippet": "...，只向佗 道：即今亦不短。若進得這語，管取南源舌頭吐了，決 定縮不得。 僧問烏石靈觀師：如何是佛？觀吐舌示之，其僧禮 拜。觀云：見箇什麼便禮拜？僧云：謝和尚出舌相示..."
+    },
+    {
+      "path": "X\\X70\\X70n1377.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Songyuan Chongyue",
+      "title_zh": "松源崇嶽禪師語錄",
+      "snippet": "...語，州便打，云： 這掠虗漢。師云：老睦州甚生氣槩，却向這僧手裏呈 欵。 上堂。舉靈觀和尚常閉門坐。一日雪峰敲門。觀便開 門。峯搊住云。是凡是聖。觀乃唾云。這野狐精。..."
+    },
+    {
+      "path": "X\\X69\\X69n1333.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Xuefeng Yicun (Record of Chan Master Zhenjue)",
+      "title_zh": "雪峰義存禪師語錄（真覺禪師語錄）",
+      "snippet": "...舉前話，州云：儞過去時寄箇鍬子去。後雪竇拈 云：者僧不從雪峰來，可惜趙州鍬子。 靈觀和尚常 閉門獨坐，一日，師去扣門，觀便開門，師搊住云：是凡？ 是聖？觀唾云：野狐..."
+    },
+    {
+      "path": "X\\X68\\X68n1318.xml",
+      "mentions": 1,
+      "title": "Continued Essentials from the Sayings of Ancient Worthies",
+      "title_zh": "續古尊宿語要",
+      "snippet": "...之食，令他永絕飢虗。雖 然有時逼到萬仞崖頭，又須是你當人自肯放身捨 命始得。 舉靈觀和尚常閉門坐，一日雪峯敲門，觀便開門，峯 搊住云：是凡是聖？觀乃唾云：這野狐精！..."
+    },
+    {
+      "path": "X\\X67\\X67n1307.xml",
+      "mentions": 1,
+      "title": "Elder Wansong’s Commentary and Chanted Remarks on Master Tiantong Jue’s Picking Up Ancient Cases: Record of Requests for Instruction",
+      "title_zh": "萬松老人評唱天童覺和尚拈古請益錄",
+      "snippet": "...云：長也。天童拈云：雲 門大師雖然自起自倒，要且車不橫推， 理無曲斷。 師舉烏石靈觀禪師云：若言我不道，即啞却我口。若 言我道，即禿却我舌。覺範道：佛法大有，祇是牙..."
+    },
+    {
+      "path": "X\\X67\\X67n1299.xml",
+      "mentions": 1,
+      "title": "Classified Anthology of the Chan Grove",
+      "title_zh": "禪林類聚",
+      "snippet": "...德頌云：青青掩映松蘿窟，脩竹超然物外物。若 將脩竹比喬松，不及喬松老風骨。 烏石靈觀禪師。僧問：如何是毗盧師法身主？師云：不 道。云：為甚麼不道？師云：我若道，即縮..."
+    },
+    {
+      "path": "X\\X31\\X31n0614.xml",
+      "mentions": 1,
+      "title": "The Great Pivot of the Lotus Sutra",
+      "title_zh": "法華經大窾",
+      "snippet": "...養。又諸下四聖，樂見 偈中。是人下，頌得甘露味。以深下，頌說一味法。僧 問烏石山靈觀禪師：如何是佛？師引舌示之。其僧 禮拜，師曰：你見甚麼便禮拜？曰：謝和尚出示舌相..."
+    },
+    {
+      "path": "X\\X85\\X85n1593.xml",
+      "mentions": 1,
+      "title": "Orthodox Line of the Chan School",
+      "title_zh": "禪宗正脉",
+      "snippet": "...道 如何修？師曰：未有闍黎時體取。曰：未有某甲時教誰 體？師曰：體者亦無。 烏石靈觀禪師尋常扄戶，人罕見之。唯一信士，每至 食時，送供方開。【頌】一日，雪峯伺便扣門..."
+    },
+    {
+      "path": "X\\X76\\X76n1516.xml",
+      "mentions": 1,
+      "title": "Comprehensive Mirror of the Shakya Clan",
+      "title_zh": "釋氏通鑑",
+      "snippet": "指以報親。 壬子 泉州莆田國歡崇福慧日大師，初名文矩，為縣獄卒。 常往神光靈觀及西院大安所，後往萬歲譚空禪師 落髮，不披袈裟，不受具戒，唯以雜綵為掛子。復至觀..."
+    },
+    {
+      "path": "T\\T51\\T51n2097.xml",
+      "mentions": 1,
+      "title": "Collection of Overall Splendors of Nanyue",
+      "title_zh": "南嶽總勝集",
+      "snippet": "... 於西澗。今日龍真洞 本朝開寶中。有閣 主道士率子廉。得道尸解。事具下卷。 〔西靈觀〕在廟西二里。湘中記云。晉女貞 薛鍊師冲舉之處。梁天監五年建觀。至後 周武穆公主..."
+    },
+    {
+      "path": "T\\T47\\T47n1986A.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Wuben of Dongshan, Yunzhou",
+      "title_zh": "筠州洞山悟本禪師語錄",
+      "snippet": "...更道。曹云不道。師曰。為什麼不 道。曹云。不名本寂。師深器之。 曹山行脚時問烏石靈觀禪師。如何是毘盧 師法身主。石曰。我若向汝道即別有也。山舉 似師。師曰。好箇話頭..."
+    }
+  ]
+}

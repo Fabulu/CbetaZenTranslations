@@ -1,1 +1,156 @@
-{"primary_count":0,"secondary_count":4,"total_mentions":5,"primary":[],"secondary":[{"path":"Y\\Y40\\Y40n0038.xml","mentions":2,"title":"History of Chinese Chan","title_zh":"中國禪宗史","snippet":"大正五一．二五〇中。 道吾圓智（石頭下）：「師見雲巖不安（病了），乃謂曰：離此殼漏子，向什麼處相見？ 巖云：不..."},{"path":"X\\X76\\X76n1516.xml","mentions":1,"title":"Comprehensive Mirror of the Shakya Clan","title_zh":"釋氏通鑑","snippet":"...文集 勒成六十卷，編納盧山東林大藏，自為記，欲與二林 結他生之緣。廬山記○九月，道吾圓智禪師示寂，壽六 十七，敕諡脩一大師。 丙辰"},{"path":"X\\X86\\X86n1601.xml","mentions":1,"title":"Genealogy of the Chan Lamp","title_zh":"禪燈世譜","snippet":"稗樹慧省 高沙彌 百顏明哲 道吾圓智 預章，海昏張氏子。唐 文宗大和九年九月 十日示寂。"},{"path":"T\\T51\\T51n2078.xml","mentions":1,"title":"Record of the Orthodox Lineage of Dharma Transmission","title_zh":"傳法正宗記","snippet":"...合大隱 者。一曰丹霞慧勤者。 大鑒之四世。曰藥山惟儼禪師。其所出法嗣 九人。一曰道吾圓智者。一曰雲巖曇晟者。一 曰華亭船子德誠者。一曰宣州椑樹慧省者。"}]}
+{
+  "master": "Daowu Yuanzhi",
+  "primary_count": 0,
+  "secondary_count": 21,
+  "total_mentions": 27,
+  "primary": [],
+  "secondary": [
+    {
+      "path": "X\\X79\\X79n1557.xml",
+      "mentions": 3,
+      "title": "Essential Compendium of the United Lamp",
+      "title_zh": "聯燈會要",
+      "snippet": "... 前荊州天皇道悟禪師法嗣一人 澧州龍潭崇信禪師 前澧州藥山惟儼禪師法嗣六人 澄州道吾宗智禪師 潭州雲巖曇晟禪師 秀州舡子德誠禪師 宣州椑樹慧省禪師 高沙彌 朗州刺史李翱..."
+    },
+    {
+      "path": "Y\\Y40\\Y40n0038.xml",
+      "mentions": 2,
+      "title": "History of Chinese Chan",
+      "title_zh": "中國禪宗史",
+      "snippet": "...塵勞蘊界生死諸入和合，逈然無寄，一 切不拘，去留無礙。往來生死，如門開相似」。 道吾圓智（石頭下）：「師見雲巖不安（病了），乃謂曰：離此殼漏子，向什麼處相見？ 巖云：不..."
+    },
+    {
+      "path": "X\\X84\\X84n1580.xml",
+      "mentions": 2,
+      "title": "Separate Transmission Outside the Teachings",
+      "title_zh": "教外別傳",
+      "snippet": "...京兆尸利禪師 招提慧朗禪師 興國振朗禪師 法門佛陀禪師 大同濟禪師 青原下三世 道吾宗智禪師 雲巖曇晟禪師 船子德誠禪師 \uDB8E\uDF30樹慧省禪師 百巖明哲禪師 澧州高沙彌 翠微..."
+    },
+    {
+      "path": "X\\X83\\X83n1578.xml",
+      "mentions": 2,
+      "title": "Record Pointing at the Moon",
+      "title_zh": "指月錄",
+      "snippet": "魔巖和尚 湖南祇林和尚 卷之十二 六祖下第四世 潭州溈山靈祐禪師 潭州道吾宗智禪師 潭州雲巖曇晟禪師 華亭船子德誠禪師 宣州\uDB8E\uDF30樹慧省禪師 鄂州百巖明哲禪師 ..."
+    },
+    {
+      "path": "X\\X66\\X66n1296.xml",
+      "mentions": 2,
+      "title": "Compilation of the School Gate’s “Raising Old Cases”",
+      "title_zh": "宗門拈古彙集",
+      "snippet": "師祖 陸亘大夫 甘贄 普化 良遂 金州操 秘魔巖 上林戒靈 青三 道吾宗智 雲巖曇晟 船子德誠 \uDB8E\uDF30樹慧省 拍巖明哲 高沙彌 卷第十九 青三"
+    },
+    {
+      "path": "X\\X86\\X86n1601.xml",
+      "mentions": 1,
+      "title": "Genealogy of the Chan Lamp",
+      "title_zh": "禪燈世譜",
+      "snippet": "稗樹慧省 高沙彌 百顏明哲 道吾圓智 預章，海昏張氏子。唐 文宗大和九年九月 十日示寂。"
+    },
+    {
+      "path": "X\\X80\\X80n1564.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Five Lamps Compendium",
+      "title_zh": "五燈會元目錄",
+      "snippet": "汾州石樓禪師 法門佛陀禪師 水空和尚 大同濟禪師 青原下三世 藥山儼禪師法嗣 道吾宗智禪師 雲巖曇晟禪師 船子德誠禪師 椑樹慧省禪師 百巖明哲禪師 澧州高沙彌 刺"
+    },
+    {
+      "path": "T\\T51\\T51n2078.xml",
+      "mentions": 1,
+      "title": "Record of the Orthodox Lineage of Dharma Transmission",
+      "title_zh": "傳法正宗記",
+      "snippet": "...合大隱 者。一曰丹霞慧勤者。 大鑒之四世。曰藥山惟儼禪師。其所出法嗣 九人。一曰道吾圓智者。一曰雲巖曇晟者。一 曰華亭船子德誠者。一曰宣州椑樹慧省者。"
+    },
+    {
+      "path": "T\\T49\\T49n2037.xml",
+      "mentions": 1,
+      "title": "Brief Investigation of Antiquity of the Shakya Lineage",
+      "title_zh": "釋氏稽古略",
+      "snippet": "...。帝聞師 道譽賜紫衣。辭不受。至是光啟三年入寂。葬 院之西北隅。勅諡普會大師。嗣道吾宗智智 嗣藥山儼。儼嗣石頭遷。遷嗣青原思。 戊申文德元年二月。帝自鳳翔歸京。三月不 ..."
+    },
+    {
+      "path": "J\\J39\\J39nB454.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Pinjixiang",
+      "title_zh": "頻吉祥禪師語錄",
+      "snippet": "...佛界來？」 人間最貴是黃金，落眼還他作一塵，踢倒靈床不 著孝，從伊四壁白雲侵。 道吾宗智禪師，溈山問：「甚處去來？」吾曰：「看病來。」山曰： 「有幾人病？」吾曰：「有病..."
+    },
+    {
+      "path": "J\\J25\\J25nB176.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Yangzhuoming of Miyin Monastery, Dawei",
+      "title_zh": "大溈密印寺養拙明禪師語錄",
+      "snippet": "...謂無語。雲巖千傳正 傳，洞山五宗一宗，不惜艸鞋錢，到者裏 按過。有病底有不病底，道吾宗智，落聲 色不落聲色，則是疏山。米裏有蟲，石霜 諸為米頭；二年同一春，夾山會充典座..."
+    },
+    {
+      "path": "B\\B31\\B31n0170.xml",
+      "mentions": 1,
+      "title": "General History of Korean Buddhism",
+      "title_zh": "朝鮮佛教通史",
+      "snippet": "... 五世高麗元宗大師。 【青原下石霜派】青原行思下一世石頭希遷。二世藥山惟儼。三世道吾宗智。四世石霜慶諸 五世新羅欽忠禪師。新羅行寂禪師。新羅朗空禪師。新羅清虛禪師。 石..."
+    },
+    {
+      "path": "X\\X81\\X81n1570.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Complete Five Lamps",
+      "title_zh": "五燈全書目錄",
+      "snippet": "禪師 福州碎石和尚 商州商嶺和尚 常州義興和尚 青原下第三世 藥山儼禪師法嗣 道吾宗智禪師 雲巖曇晟禪師 船子德誠禪師 椑樹慧省禪師 鄂州百顏禪師 澧州高沙彌 鼎州李..."
+    },
+    {
+      "path": "X\\X80\\X80n1567.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Strict Lineage of the Five Lamps",
+      "title_zh": "五燈嚴統目錄",
+      "snippet": "法門佛陀禪師 水空和尚 大同濟禪師 青原下三世 藥山儼禪師法嗣 道吾宗智禪師 雲巖曇晟禪師 船子德誠禪師 椑樹慧省禪師 百巖明哲禪師 澧州高沙彌 刺"
+    },
+    {
+      "path": "X\\X68\\X68n1319.xml",
+      "mentions": 1,
+      "title": "Imperially Selected Recorded Sayings",
+      "title_zh": "御選語錄",
+      "snippet": "...魔？ 師曰：賊不打貧兒家。 曰：十二年後為甚麼不降魔？ 師 曰：賊不打貧兒家。 道吾宗智禪師 師預藥山法會，密契心印。一日，山問：子去何處來？ 師 曰：遊山來。 山曰：..."
+    },
+    {
+      "path": "X\\X67\\X67n1303.xml",
+      "mentions": 1,
+      "title": "Elder Linquan’s Commentary and Chanted Remarks on Master Touzi Qing’s Verses on Ancient Cases: Empty Valley Collection",
+      "title_zh": "林泉老人評唱投子青和尚頌古空谷集",
+      "snippet": "...道：智不到處 切忌道著，道著則頭角生。合作麼生行履？師乃抽身入僧堂。 師云：潭州道吾宗智禪師，豫章海昏張氏子，依盤和 尚受教具戒，預藥山法會，密契心印。一日，山問：子去..."
+    },
+    {
+      "path": "X\\X66\\X66n1297.xml",
+      "mentions": 1,
+      "title": "Dharma Grove of the Tradition’s Mirror",
+      "title_zh": "宗鑑法林",
+      "snippet": "卷五十七 長髭曠 法門佛陀 汾州石樓 大同普濟 大鑒下四世 雲巖曇晟 道吾宗智 卷五十八 船子德誠 \uDB8E\uDF30樹慧省 百顏明哲 高沙彌 翠微無學 孝義性空"
+    },
+    {
+      "path": "X\\X65\\X65n1295.xml",
+      "mentions": 1,
+      "title": "Comprehensive Collection of Chan School Verse-on-Old-Cases Linked Pearls",
+      "title_zh": "禪宗頌古聯珠通集",
+      "snippet": "甘贄行者 六祖下第四世之四 龍潭崇信禪師道吾宗智禪師 雲巖曇晟禪師百巖明哲禪師 船子德誠禪師藥山高沙彌"
+    },
+    {
+      "path": "X\\X85\\X85n1594.xml",
+      "mentions": 1,
+      "title": "Outline of Buddhas and Patriarchs",
+      "title_zh": "佛祖綱目",
+      "snippet": "...然上問： 承聞和尚昨日答南泉遷化一則語，可謂光前絕後， 今古罕聞。岑亦默然。 ○道吾宗智禪師入寂 慶諸住石霜，宗智將化，以諸為正傳，棄其眾從諸。諸 迎居正\uD856\uDE0A，行必掖，..."
+    },
+    {
+      "path": "X\\X85\\X85n1593.xml",
+      "mentions": 1,
+      "title": "Orthodox Line of the Chan School",
+      "title_zh": "禪宗正脉",
+      "snippet": "...，師示頌曰：十二時中那事別，子丑寅卯吾 今說。若會唯心萬法空，釋迦彌勒從茲決。 道吾宗智禪師預藥山法會，密契心印。一日，山問：子 去何處來？師曰：遊山來。山曰：不離此室..."
+    },
+    {
+      "path": "X\\X76\\X76n1516.xml",
+      "mentions": 1,
+      "title": "Comprehensive Mirror of the Shakya Clan",
+      "title_zh": "釋氏通鑑",
+      "snippet": "...以所著文集 勒成六十卷，編納盧山東林大藏，自為記，欲與二林 結他生之緣。○九月，道吾圓智禪師示寂，壽六 十七，敕諡脩一大師。 丙辰"
+    }
+  ]
+}

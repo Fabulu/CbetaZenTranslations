@@ -1,1 +1,170 @@
-{"primary_count":0,"secondary_count":7,"total_mentions":25,"primary":[],"secondary":[{"path":"B\\B31\\B31n0170.xml","mentions":12,"title":"General History of Korean Buddhism","title_zh":"朝鮮佛教通史","snippet":"...一八六 首山省念一六一虎丘紹隆一八二石屋清珙一八六 汾陽善昭一六三應庵曇華一八三平山處林一八八 石霜楚圓（慈明）一六四密庵咸傑一七三 楊岐方會一六六破庵祖先一八四"},{"path":"X\\X84\\X84n1579.xml","mentions":3,"title":"Continuation of the Record Pointing at the Moon","title_zh":"續指月錄","snippet":"已上二人徑山陵嗣 汝州香嚴思聰禪師鐵山瓊嗣 湖州石屋清珙禪師 淨慈平山處林禪師 婺州石門至剛禪師已上三人道場信嗣 海門天真惟則禪師"},{"path":"X\\X83\\X83n1574.xml","mentions":3,"title":"Expanded Collection: Continued Transmission of the Lamp Record","title_zh":"增集續傳燈錄","snippet":"...禪師 桐江大禪師此後無傳 唯堂一禪師 道場及庵信禪師法嗣 福源石屋清珙禪師 淨慈平山處林禪師 靈雲鐵牛定禪師法嗣 般若絕學世誠禪師 南華玄極規禪師此後無傳 皇慶絕翁紹禪..."},{"path":"B\\B31\\B31n0169.xml","mentions":2,"title":"Historical Materials on Korean Temples and Monasteries","title_zh":"朝鮮寺剎史料","snippet":"...輩警策也又曰指空 名禪賢父諱滿摩竭提國王嗣法普明尊者△△△△△官署丞牙世具 嗣法平山處林禪師先生銘二師浮圖已書之矣於吾石鐘幸併著之獨 潤筆菴凡七所皆為先生作△△△△△△..."},{"path":"X\\X84\\X84n1585.xml","mentions":2,"title":"Drafts for the Continuation of the Lamp","title_zh":"續燈存稿","snippet":"...念便傷他。工夫到此切須記，枯木巖 前蹉路多。深言密語，真得自在三昧云。 杭州淨慈平山處林禪師杭州淨慈平山處林禪師本郡仁和王氏子。生時有 異徵。秊十二，父母命投邑之廣嚴寺..."},{"path":"X\\X84\\X84n1583.xml","mentions":2,"title":"Orthodox Continuation of the Lamp","title_zh":"續燈正統","snippet":"散天香。臨終，訣眾偈曰：七十六年，了然寬廓。拶破 虗空，須彌倒卓。 杭州府淨慈平山處林禪師杭州府淨慈平山處林禪師本郡仁和王氏子。生時 有異徵。年十二，父母命投廣嚴寺出..."},{"path":"X\\X81\\X81n1570.xml","mentions":1,"title":"Table of Contents of the Complete Five Lamps","title_zh":"五燈全書目錄","snippet":"...法嗣 徑山竺遠正源禪師 寶林桐江紹大禪師 道場信禪師法嗣 福源石屋清珙禪師 淨慈平山處林禪師 正覺石門至剛禪師 匡廬源禪師法嗣 海門天真惟則禪師 松巖秋江元湛禪師 鳳山..."}]}
+{
+  "master": "Pingshan Chulin",
+  "primary_count": 0,
+  "secondary_count": 23,
+  "total_mentions": 39,
+  "primary": [],
+  "secondary": [
+    {
+      "path": "B\\B31\\B31n0170.xml",
+      "mentions": 10,
+      "title": "General History of Korean Buddhism",
+      "title_zh": "朝鮮佛教通史",
+      "snippet": "...一八六 首山省念一六一虎丘紹隆一八二石屋清珙一八六 汾陽善昭一六三應庵曇華一八三平山處林一八八 石霜楚圓（慈明）一六四密庵咸傑一七三 楊岐方會一六六破庵祖先一八四"
+    },
+    {
+      "path": "X\\X80\\X80n1566.xml",
+      "mentions": 3,
+      "title": "Five Lamps Compendium: Continued Abridgment",
+      "title_zh": "五燈會元續略",
+      "snippet": "...山正源禪師 覺隱本誠禪師 智者義禪師 道場信禪師法嗣 福源清珙禪師 聖羅剛禪師 平山林禪師 匡山源禪師法嗣 海門惟則禪師 瑞巖寶禪師法嗣 華頂先覩禪師"
+    },
+    {
+      "path": "B\\B31\\B31n0169.xml",
+      "mentions": 2,
+      "title": "Historical Materials on Korean Temples and Monasteries",
+      "title_zh": "朝鮮寺剎史料",
+      "snippet": "...輩警策也又曰指空 名禪賢父諱滿摩竭提國王嗣法普明尊者△△△△△官署丞牙世具 嗣法平山處林禪師先生銘二師浮圖已書之矣於吾石鐘幸併著之獨 潤筆菴凡七所皆為先生作△△△△△△..."
+    },
+    {
+      "path": "B\\B29\\B29n0161.xml",
+      "mentions": 2,
+      "title": "Wulin Buddhist Gazetteer",
+      "title_zh": "武林梵志",
+      "snippet": "...復之乾道五年僧行杲始營佛閣鐘 樓元大德七年僧如岳增建前殿而門廡稍存其制 元貞乙未平山林禪師棄家於茲受具戒遍叅諸宿 歷主名山藏楊宗乘為東南之倡由是寺之名益著 元末兵亂尋..."
+    },
+    {
+      "path": "X\\X83\\X83n1574.xml",
+      "mentions": 2,
+      "title": "Expanded Collection: Continued Transmission of the Lamp Record",
+      "title_zh": "增集續傳燈錄",
+      "snippet": "...木巖本植禪師 桐江大禪師 唯堂一禪師 道場及庵信禪師法嗣 福源石屋清珙禪師 淨慈平山處林禪師 靈雲鐵牛定禪師法嗣 般若絕學世誠禪師 南華玄極規禪師 皇慶絕翁紹禪師 江陵..."
+    },
+    {
+      "path": "X\\X71\\X71n1421.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Yu’an Zhiji",
+      "title_zh": "愚菴智及禪師語錄",
+      "snippet": "...冬至，上堂：千秋令節今朝是，九九陽生第一 爻。四海陰霾俱解駮，宕雲深處祝唐堯。 平山林和尚入祖堂，召大眾云：亭亭石塔東峯上，此 老初來百神仰。福源浩浩起當湖，千歲岩頭..."
+    },
+    {
+      "path": "X\\X64\\X64n1260.xml",
+      "mentions": 2,
+      "title": "Outline Record of the Successive Patriarchs",
+      "title_zh": "列祖提綱錄",
+      "snippet": "...和尚平生妙用處麼？縱橫手面與 人別，拈出蒿湯便是茶。 大夜對靈 愚庵及禪師為靈隱平山林和尚對靈小參：正法眼 藏，涅槃妙心。廓三際以無去無來，洞十虗而非中非 外。諸佛知..."
+    },
+    {
+      "path": "X\\X87\\X87n1626.xml",
+      "mentions": 1,
+      "title": "Abstracts of Eminent Monks",
+      "title_zh": "高僧摘要",
+      "snippet": "...出。自是機辯瀾翻，有 不可嬰之鋒，遂服勤月餘，日益玄奧，諸方聞而咸畏 服之。靈隱平山林公招致，俾掌藏鑰。後眾請開法于 海門祐福禪院，千指圍繞。如示眾云：魚吹浪，鳶掀風..."
+    },
+    {
+      "path": "X\\X86\\X86n1605.xml",
+      "mentions": 1,
+      "title": "Record of Continuing the Lamp",
+      "title_zh": "繼燈錄",
+      "snippet": "...得耶？師曰：何得之 有？曰：子作道理會耶？師拂袖而出。遂服勤月餘，日益 玄奧。適平山林公招主藏鑰，師往赴之。後眾請開法 海門。上堂，僧問：如何是向上事？師曰：向下薦取..."
+    },
+    {
+      "path": "X\\X79\\X79n1562.xml",
+      "mentions": 1,
+      "title": "Chan Forest Sangha Treasures Biographies (Southern Song–Yuan–Ming)",
+      "title_zh": "南宋元明禪林僧寶傳",
+      "snippet": "...為 章句精麗，如巖泉夜響，玉磬晨鳴云。嘉禾當湖新創 福源禪剎，盡禮致珙，珙不起。平山林禪師作契聦排 闥圖柬珙，珙慨曰：林兄不容吾高臥也。於是自擕竹 笠，飄然而來。福源..."
+    },
+    {
+      "path": "J\\J36\\J36nB346.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Gulin Ru",
+      "title_zh": "古林如禪師語錄",
+      "snippet": "樓閣三千聳翠微，五峰高卓顯全機。橫擔竹杖凌霄 頂，喝石巖前驟步歸。 住天平山林覺寺 常掩柴扉人罕知，時聞幽鳥話多奇，門緣塔卓靈巖 近，戶聳天平險峻支。苔徑落花..."
+    },
+    {
+      "path": "B\\B34\\B34n0193.xml",
+      "mentions": 1,
+      "title": "Dharma Vehicle of the Wu Capital",
+      "title_zh": "吳都法乘",
+      "snippet": "達朝廷詔諡佛慈慧照禪師移文江淛請淨慈平山林公躳入 天湖取師舍利舘伴歸國平山與師為同\uD842\uDEF5皆愚公之本意也 師之上堂法語山居詩頌..."
+    },
+    {
+      "path": "B\\B27\\B27n0151.xml",
+      "mentions": 1,
+      "title": "New Continued Biographies of Eminent Monks",
+      "title_zh": "新續高僧傳",
+      "snippet": "珙傳 釋清珙字石屋受具後與淨慈平山林同得法於道場及庵遂 隱居吳興霞霧山以清苦自守不干檀越偶至絕食飲水而已 為人慈祥恤..."
+    },
+    {
+      "path": "B\\B16\\B16n0088.xml",
+      "mentions": 1,
+      "title": "Selected Extracts from the Complete Collection of Illustrations and Writings from Antiquity to the Present (Part 2)",
+      "title_zh": "古今圖書集成選輯（下）",
+      "snippet": "...楞伽金剛諸經奉旨頒行天 下 夷簡 按列朝詩集夷簡字易道義興人與止庵祥公同嗣 法於平山林和尚洪武五年與鍾山法會十一年住 杭州淨慈寺十二年住南京天界寺除僧錄左善世 鍾山法..."
+    },
+    {
+      "path": "X\\X84\\X84n1579.xml",
+      "mentions": 1,
+      "title": "Continuation of the Record Pointing at the Moon",
+      "title_zh": "續指月錄",
+      "snippet": "...○洎 信示寂，往依虗谷陵，於仰山居第二座。○臨終，更衣 沐浴，集眾說偈而化。勑諡普慧性悟禪師。 婺州羅山正覺石門至剛禪師世居山麓，得法於及 庵信和尚。遊歷罷歸里，里人即其地..."
+    },
+    {
+      "path": "X\\X82\\X82n1571.xml",
+      "mentions": 1,
+      "title": "Complete Five Lamps (Vols. 34–120)",
+      "title_zh": "五燈全書(第34卷-第120卷)",
+      "snippet": "...還淨慈，更衣 沐浴，集眾說偈而化。當辛丑五月一日，世壽八十三， 僧臘六十六。敕諡普慧性悟禪師，塔淨居菴右。 婺州羅山正覺石門至剛禪師世居山麓，得法于及 菴信。遊歷罷，歸里中..."
+    },
+    {
+      "path": "X\\X81\\X81n1570.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Complete Five Lamps",
+      "title_zh": "五燈全書目錄",
+      "snippet": "...法嗣 徑山竺遠正源禪師 寶林桐江紹大禪師 道場信禪師法嗣 福源石屋清珙禪師 淨慈平山處林禪師 正覺石門至剛禪師 匡廬源禪師法嗣 海門天真惟則禪師 松巖秋江元湛禪師 鳳山..."
+    },
+    {
+      "path": "X\\X81\\X81n1568.xml",
+      "mentions": 1,
+      "title": "Strict Lineage of the Five Lamps (Vols. 10–25)",
+      "title_zh": "五燈嚴統(第10卷-第25卷)",
+      "snippet": "...：今夏 五月矣。左右曰：然。師曰：此八月八日最良，吾將逝矣。 至期，整衣坐脫。 平山林禪師法嗣 杭州止庵德祥禪師本郡人一日倚座曰：一隊噇酒 糟漢，我爭如你何？不道竟寂..."
+    },
+    {
+      "path": "X\\X80\\X80n1567.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Strict Lineage of the Five Lamps",
+      "title_zh": "五燈嚴統目錄",
+      "snippet": "首座 般若誠禪師法嗣 仰山正友禪師 智者義禪師法嗣 淨慈普仁禪師 平山林禪師法嗣 止菴德祥禪師 海門則禪師法嗣 弁山智安禪師 華頂覩禪師法嗣"
+    },
+    {
+      "path": "X\\X77\\X77n1524.xml",
+      "mentions": 1,
+      "title": "Supplement to the Continued Biographies of Eminent Monks",
+      "title_zh": "補續高僧傳",
+      "snippet": "...師。數道師德，王 甚渴仰。及師化，表達朝廷，詔諡佛慈慧照禪師。移文 江浙，請淨慈平山林公入天湖，取師舍利之半，館伴 歸國，建塔供養。師有上堂法語、山居偈頌、緝本盛行 ..."
+    },
+    {
+      "path": "X\\X70\\X70n1399.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Shiw u Qinghong",
+      "title_zh": "石屋清洪禪師語錄",
+      "snippet": "...以國師之號尊之。聞師道行，意甚傾渴，表達 朝廷詔諡佛慈慧照禪師，移文江淛，請淨慈平山林 公躬入天湖，取師舍利，舘伴歸國。平山與師為同參， 皆愚公之本意也。師之上堂法語..."
+    },
+    {
+      "path": "X\\X84\\X84n1585.xml",
+      "mentions": 1,
+      "title": "Drafts for the Continuation of the Lamp",
+      "title_zh": "續燈存稿",
+      "snippet": "...曰：吾 緣盡矣。乃還淨慈，更衣沐浴，集眾說偈而化。世壽八 十三，僧臘六十六。敕諡普慧性悟禪師。 婺州羅山正覺石門至剛禪師世居山麓，得法於及 菴。遊歷罷，歸里。里中善信即其地..."
+    },
+    {
+      "path": "X\\X84\\X84n1583.xml",
+      "mentions": 1,
+      "title": "Orthodox Continuation of the Lamp",
+      "title_zh": "續燈正統",
+      "snippet": "...還淨慈，更衣 沐浴，集眾說偈而化。當辛丑五月一日，世壽八十三， 僧臘六十六。敕諡普慧性悟禪師，塔淨居菴右。 匡山源禪師法嗣 杭州府海門天真惟則禪師別號氷檗老人，吳興費"
+    }
+  ]
+}

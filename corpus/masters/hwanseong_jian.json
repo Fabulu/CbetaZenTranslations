@@ -1,1 +1,422 @@
-{"primary_count":0,"secondary_count":1,"total_mentions":2,"primary":[],"secondary":[{"path":"B\\B31\\B31n0170.xml","mentions":2,"title":"General History of Korean Buddhism","title_zh":"朝鮮佛教通史","snippet":"...。五五八。五七四白谷處能五一二月渚道安五二八 斯智四〇五松雲四七三枕肱懸辯五一三喚醒志安五二九 學悅四一五。四二八浮休四八五醉如三愚五一四虛靜法宗五三二 信眉四〇一。四..."}]}
+{
+  "master": "Hwanseong Jian",
+  "primary_count": 0,
+  "secondary_count": 59,
+  "total_mentions": 90,
+  "primary": [],
+  "secondary": [
+    {
+      "path": "B\\B31\\B31n0170.xml",
+      "mentions": 7,
+      "title": "General History of Korean Buddhism",
+      "title_zh": "朝鮮佛教通史",
+      "snippet": "...剎。 【宗旨】稱號禪教兩宗大本山傳燈寺。 【燈規】傳燈寺本末寺。清虛休靜禪師法胤喚惺志安禪師之法孫。為住持。 【主職】傳燈寺第一任住持金之淳。明治四十四年十二月二日就職..."
+    },
+    {
+      "path": "GA\\GA025\\GA025n0023.xml",
+      "mentions": 5,
+      "title": "Sequel Gazetteer of Yunlin Monastery",
+      "title_zh": "雲林寺續志",
+      "snippet": "一三 五七九 生死如翻手去來無所從 蝦跳不出斗書 罷擲筆而逝 志安秀禪師浙江湖州府歸安縣人氏出家于本縣 正福寺依師即現僧相年二十餘來雲林受戒發 明..."
+    },
+    {
+      "path": "T\\T48\\T48n2016.xml",
+      "mentions": 5,
+      "title": "Record of the Mirror of the School",
+      "title_zh": "宗鏡錄",
+      "snippet": "...人凡有痛處。吾即不安。今 日心痛。手足皆廢。事在不測。遂歸覲。父果已 死。又唐張志安。居鄉閭稱孝。差為里尹。在縣 忽稱母疾急。縣令問。志安曰。母有疾志安亦 病。志安..."
+    },
+    {
+      "path": "X\\X63\\X63n1231.xml",
+      "mentions": 4,
+      "title": "Notes on the “Mind Rhapsody”",
+      "title_zh": "心賦注",
+      "snippet": "... 凡有痛處，吾即不安。今日心痛，手足皆廢，事在不 測。遂乃歸覲，父果已死。又唐張志安，居鄉閭稱孝， 差為里尹。在縣忽稱母疾急，縣令問志安，曰：母有 疾，志安亦病。志..."
+    },
+    {
+      "path": "X\\X79\\X79n1557.xml",
+      "mentions": 2,
+      "title": "Essential Compendium of the United Lamp",
+      "title_zh": "聯燈會要",
+      "snippet": "...九峯道虔禪師法嗣三人 洪州同安常察禪師 吉州禾山澄源禪師 新羅清院和尚 潭州雲盖志安禪師嗣一人 新羅臥龍和尚 潭州大光居誨禪師嗣一人 潭州伏龍和尚 台州湧泉景欣"
+    },
+    {
+      "path": "X\\X78\\X78n1551.xml",
+      "mentions": 2,
+      "title": "Collected Records of the Western Ark",
+      "title_zh": "西舫彙征",
+      "snippet": "...師稱佛聲甚厲，又見房 西壁有光若鏡，現淨土境相，頻伽皷翼祥倐然而化。 明瞻晚歲克志安養，或譏其遲暮，瞻曰：十念功成，猶 得見佛，吾何慮焉。後因疾，於興善寺具齋別道俗..."
+    },
+    {
+      "path": "T\\T51\\T51n2072.xml",
+      "mentions": 2,
+      "title": "Collection on Rebirth",
+      "title_zh": "往生集",
+      "snippet": "... 僧衒異香七日。慧通三日。行今浹旬。孰非梵 行之芬芳也哉。 明瞻 唐明瞻。晚歲剋志安養。或譏其遲暮。瞻曰。 十念功成。猶得見佛吾何慮乎。後因疾。於興 教寺具齋。別道..."
+    },
+    {
+      "path": "T\\T49\\T49n2035.xml",
+      "mentions": 2,
+      "title": "Comprehensive Chronicle of Buddhas and Patriarchs",
+      "title_zh": "佛祖統紀",
+      "snippet": "...諸君之來 豈宜忌淨土之遊乎。程之乃鑱石為誓文 以志其事遂於西林㵎北別立禪坊。 養志安貧。精研玄理。兼持禁戒。宗張等咸 難仰之。嘗貽書關中與什肇。揚搉經義。 著念佛三..."
+    },
+    {
+      "path": "T\\T04\\T04n0192.xml",
+      "mentions": 2,
+      "title": "Buddhacarita: Praise of the Buddha’s Deeds",
+      "title_zh": "佛所行讚",
+      "snippet": "群生樂瞻仰，猶如初生月。 王如天帝釋，夫人猶舍脂， 執志安如地，心淨若蓮花， 假譬名摩耶，其實無倫比。 於彼"
+    },
+    {
+      "path": "D\\D52\\D52n8951.xml",
+      "mentions": 2,
+      "title": "Tathāgata Incense",
+      "title_zh": "如來香",
+      "snippet": "...前然一指誓傳 天台教觀。雍熈初。謁寳雲通師。智解秀出。學行高古。 名冠兩浙。而專志安養。智者大師諱日。然頂誓力行 四三昧。嘗於東山行般舟三昧。九十日。苦學嘔血。入 ..."
+    },
+    {
+      "path": "B\\B24\\B24n0140.xml",
+      "mentions": 2,
+      "title": "Gazetteer of Xuefeng",
+      "title_zh": "雪峰志",
+      "snippet": "...無善報恩，世理既不相應，亦合少分省察。吾若四 大離散之日，先已有木函石龕，竝依舊志安排，毋 違我意。若有披麻下淚者，非我眷屬。」眾皆秉命，共 矢修營，塔制苟完而葢石..."
+    },
+    {
+      "path": "B\\B16\\B16n0088.xml",
+      "mentions": 2,
+      "title": "Selected Extracts from the Complete Collection of Illustrations and Writings from Antiquity to the Present (Part 2)",
+      "title_zh": "古今圖書集成選輯（下）",
+      "snippet": "... 虓虎聞有惡獸輒往投之皆避而不噉山粒本絕終 日忘餐或以餅果繼命而已外覩不堪其惱而志安 之容色如故經於七載禪業無斷晚住此山福林寺 會大業屏除流徙隱逸慨法陵遲一至於此乃..."
+    },
+    {
+      "path": "X\\X78\\X78n1546.xml",
+      "mentions": 2,
+      "title": "Newly Compiled Biographies of Rebirth (in the Pure Land)",
+      "title_zh": "新修往生傳",
+      "snippet": "...加勉勵，無宜後也。程之又㝡有文， 得議其事，鑱石以眾之，於西林間 北別立禪坊，養志安貧，研精玄理，精 勤不倦，具待禁戒。宗、張等咸歎仰之， 專念坐禪。始涉半歲，艮於..."
+    },
+    {
+      "path": "X\\X77\\X77n1524.xml",
+      "mentions": 2,
+      "title": "Supplement to the Continued Biographies of Eminent Monks",
+      "title_zh": "補續高僧傳",
+      "snippet": "...感應。一時英俊執 經輪下，無不虗往而寔歸。及還華，徑于池深木寒處， 修十六觀，一志安養。後刻期坐化，闍維舍利纍然如 砌。 本無，字我菴，台之黃巖人。從淨慈方山落髮，..."
+    },
+    {
+      "path": "X\\X69\\X69n1333.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Xuefeng Yicun (Record of Chan Master Zhenjue)",
+      "title_zh": "雪峰義存禪師語錄（真覺禪師語錄）",
+      "snippet": "...報恩。世禮既不 相應，亦合有少分省察。吾若四大離\uD84B\uDFE8日，先已有木 函石龕，竝依舊志安排。不得別造墳塔，不得設靈筵， 不得持孝服。或有戴一尺布，下一滴淚，此非沙門，非..."
+    },
+    {
+      "path": "X\\X62\\X62n1176.xml",
+      "mentions": 2,
+      "title": "Complete Pure Land Collection",
+      "title_zh": "淨土全書",
+      "snippet": "...進菩薩。後一年，琉璃地復現，即日 而終。異香經旬，肉身不壞。 明瞻 唐明瞻晚歲克志安養，或譏其遲暮，瞻曰：十念功成， 猶得見佛，吾何慮乎？後因疾，于興教寺具齋別道俗..."
+    },
+    {
+      "path": "X\\X62\\X62n1172.xml",
+      "mentions": 2,
+      "title": "Pure Land Morning Bell",
+      "title_zh": "淨土晨鐘",
+      "snippet": "...常精進菩薩。後一年，琉璃地復現，即日 而終。異香經旬，肉身不壞。 唐明瞻晚歲，尅志安養。或譏其遲暮，瞻曰：十念功成， 猶得見佛，吾何慮乎？後因疾，於興教寺具齋，別道..."
+    },
+    {
+      "path": "X\\X61\\X61n1162.xml",
+      "mentions": 2,
+      "title": "Complete Collection of Pure Land Provisions",
+      "title_zh": "淨土資糧全集",
+      "snippet": "... 引也。儻無遠師之久，何以致佛之迎？曰：不然。僧 衒九十始迴心念佛，明瞻晚歲方剋志安養，俱 感三聖來迎，又奚在久近乎？顧人之所修何如 耳。 考證："
+    },
+    {
+      "path": "X\\X86\\X86n1600.xml",
+      "mentions": 1,
+      "title": "Chronological Compilation of the Sectarian Lineage",
+      "title_zh": "宗統編年",
+      "snippet": "...之、南陽宗炳、張 萊民、張季碩等並依之。遠勵眾精修淨業，共結蓮 社，一心念佛，刻志安養。程之著發願文，王喬之等 為念佛三昧詩以見志。 祥符蔭曰：東林淨業，普攝三根；..."
+    },
+    {
+      "path": "X\\X78\\X78n1550.xml",
+      "mentions": 1,
+      "title": "Record of Pure Land Saints and Worthies: Continued Edition",
+      "title_zh": "淨土聖賢錄續編",
+      "snippet": "...時發此願，與然指同，不如一意 西方之為愈也。遂閉目念佛。初若勉強，用力猛勵，神 志安定，復得助緣者十數人，晝夜佛聲相續。初十日 晚，自言見一人至牀前，令瓜果俱勿食。..."
+    },
+    {
+      "path": "X\\X78\\X78n1549.xml",
+      "mentions": 1,
+      "title": "Record of Pure Land Saints and Worthies",
+      "title_zh": "淨土聖賢錄",
+      "snippet": "...廣建佛寺。瞻私以施物，歲飯 千僧，書寫大乘經論。後入太乙山智炬寺而隱焉。晚 歲刻志安養，或譏其遲暮，瞻曰：十念功成，猶得見佛， 吾何慮乎？貞觀二年冬，遇疾，自知時至..."
+    },
+    {
+      "path": "T\\T53\\T53n2121.xml",
+      "mentions": 1,
+      "title": "Differences and Variants in Sutras and Vinaya",
+      "title_zh": "經律異相",
+      "snippet": "...之也。王曰 國事多故且坐苑中。太子令之深處苑內。王 事總猥忘之六日。忽而寤曰。梵志安在乎。 疾呼之來。梵志守戒飢渴六日。厥體瘦疵起 而蹌地。王覩流淚曰。吾過重矣。皇..."
+    },
+    {
+      "path": "T\\T51\\T51n2068.xml",
+      "mentions": 1,
+      "title": "Records and Biographies Related to the Lotus Sutra",
+      "title_zh": "法華傳記",
+      "snippet": "...輒往投之。皆避而不噉。山粒本絕。 終日忘飡。或以餅果繼命而已。外覩不堪其 惱。而志安之。容色如故。經于七載。禪業無 斷。晚住此山福林寺會。大業屏除流徒隱逸。 慨法陵..."
+    },
+    {
+      "path": "T\\T51\\T51n2067.xml",
+      "mentions": 1,
+      "title": "Accounts in Praise of the Lotus Sutra",
+      "title_zh": "弘贊法華傳",
+      "snippet": "...軌往投之。皆避而不噉。山粒本絕。 終日忘餐。或以餅果繼命而已。外覩不堪其 惱。而志安之。容色如故。經于七歲。載禪業 無斷。晚住"
+    },
+    {
+      "path": "T\\T50\\T50n2046.xml",
+      "mentions": 1,
+      "title": "Biography of Bodhisattva Ashvaghosha",
+      "title_zh": "馬鳴菩薩傳",
+      "snippet": "...前而坐。占視沙門容貌和 悅志意安泰。又復舉體備有論相。便念言將 無非是聖比丘耶。志安且悅又備論相。今日 將成佳論議也。便共立要若墮負者當以何罪 外道言若負者當斷其舌..."
+    },
+    {
+      "path": "T\\T47\\T47n1973.xml",
+      "mentions": 1,
+      "title": "Precious Mirror of the Lushan Lotus School",
+      "title_zh": "廬山蓮宗寶鑑",
+      "snippet": "...。先於禪林寺習 律。繼入國清普賢像前燃指誓習台教。學高 行苦名冠二浙。博習教觀專志安養。甞要期 般舟三昧九十日。素苦學嘔血。處道場兩足 皮裂師以死自誓。忽一日恍若夢..."
+    },
+    {
+      "path": "T\\T39\\T39n1803.xml",
+      "mentions": 1,
+      "title": "Doctrinal Commentary on the Uṣṇīṣa Vijaya Dhāraṇī Sutra",
+      "title_zh": "佛頂尊勝陀羅尼經教跡義記",
+      "snippet": "...泥盧豆。其 淨梵王大子悉達多者，年十九捨輪王位，於 二月八日夜半子時踰城出家，一志安禪合 掌定心而坐，苦行六年，日食麻麥，皮骨相連， 王聞如是，悲泣歎曰：『我子捨輪..."
+    },
+    {
+      "path": "P\\P155\\P155n1519.xml",
+      "mentions": 1,
+      "title": "Essential Compendium of the Zen School: Main and Continued Collections (Vols. 13–20)",
+      "title_zh": "宗門統要正續集(第13卷-第20卷)",
+      "snippet": "...幾人舁峯乃踴身起云道什麼 師再問峯云行行他不會師云知即知秪是 道不得。 潭州雲蓋志安禪師因僧問石霜萬 戶俱閉時如何霜云堂中事作麼生僧經半 年方始道得云無人接渠霜云道..."
+    },
+    {
+      "path": "N\\N07\\N07n0004.xml",
+      "mentions": 1,
+      "title": "Digha Nikaya (Vols. 15–23)",
+      "title_zh": "長部經典(第15卷-第23卷)",
+      "snippet": "...行善之持戒者，無論參加任何社團，如剎帝利、婆羅門、 居士或沙門，彼皆有自信力而心志安泰。此是守戒行善持戒者之第三得。 復次，居士等！守戒行善之持戒者，死時不惱亂，此..."
+    },
+    {
+      "path": "J\\J36\\J36nB348.xml",
+      "mentions": 1,
+      "title": "Doctrinal Treatises of Master Ouyi of Lingfeng",
+      "title_zh": "靈峰蕅益大師宗論",
+      "snippet": "...入 旋出，席不暇煖，不亦深負山靈也乎？甲午仲春晦日， 從新安歸，始克痛謝他緣，畢志安臥。客歲名幻遊，今 應名為幻住也。偶有所述，名《幻住雜編》。 靈峰蕅益大師宗論卷..."
+    },
+    {
+      "path": "J\\J34\\J34nB298.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Shenfeng Xian",
+      "title_zh": "屾峰憲禪師語錄",
+      "snippet": "...，是過量人，始全宜諾。恭惟孺蜚沈公 聲光不息，言行斯存，德峻耆年，慷慨胸無渣滓，志安 晚世，尋常理愜中和，不佞佛而佛不願違，不悖道○ 而道不可得。山僧雖失叔夜之交，..."
+    },
+    {
+      "path": "J\\J31\\J31nB267.xml",
+      "mentions": 1,
+      "title": "Lazy Studio Supplementary Collection of Monk Muyun",
+      "title_zh": "牧雲和尚嬾齋別集",
+      "snippet": "... 今歲秋成，何薄之甚耶？前月為庵中結制，不過應個 時節，外來師僧所留無幾，幸而私志安分，不十分以 得失關心，頹然一室，殊自得也。想欲知近況，此白。 與丁方流文學 重..."
+    },
+    {
+      "path": "GA\\GA029\\GA029n0028.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Longxing Xiangfu Ordination Platform Monastery",
+      "title_zh": "龍興祥符戒壇寺志",
+      "snippet": "寺址之所接其為坊曰羲同 康熙仁和縣志祥符律寺在羲同坊 曰安國 乾道志安國坊仁和倉橋 曰武林 萬厤府志祥符寺在武林坊 曰興賢"
+    },
+    {
+      "path": "B\\B32\\B32n0173.xml",
+      "mentions": 1,
+      "title": "Genkō Shakusho (Buddhist History of the Genkō Era)",
+      "title_zh": "元亨釋書",
+      "snippet": "...施三寶。具如大寶三年六月記。其後天平寶字中僕射藤 拱佩有女。性無世染不納聘禮。專志安養。七年六月 入寺薙髮。誓曰。我不見彌陀真身不出寺門。其志確 乎不拔。數日一比丘..."
+    },
+    {
+      "path": "B\\B31\\B31n0169.xml",
+      "mentions": 1,
+      "title": "Historical Materials on Korean Temples and Monasteries",
+      "title_zh": "朝鮮寺剎史料",
+      "snippet": "...志萬人感釋靈 印朗聰演初大愚與有勞於修復之際亦不可泯云 崇禎紀元後再戊申六月日 喚惺志安記 叅學沙彌稀有書 都監通政最雲"
+    },
+    {
+      "path": "B\\B27\\B27n0151.xml",
+      "mentions": 1,
+      "title": "New Continued Biographies of Eminent Monks",
+      "title_zh": "新續高僧傳",
+      "snippet": "...南翁 之旨揚州吳貫之號稱八怪名擅一時樂與森交且精琴理所 作詩詞書法別有逸趣獲證於志安秀老人嘉慶十四年繼主 雲林三年退養於千佛閣禁足禮華嚴經時雖鼓琴弄翰而禪 理功深心..."
+    },
+    {
+      "path": "B\\B15\\B15n0088.xml",
+      "mentions": 1,
+      "title": "Selected Extracts from the Complete Collection of Illustrations and Writings from Antiquity to the Present (Part 1)",
+      "title_zh": "古今圖書集成選輯（上）",
+      "snippet": "...道後來當前 而坐占視沙門容貌和悅志意安泰又復舉體備有 論相便念言將無非是近比丘耶志安且悅又備論 相今日將成佳論議也便共立要若墮負者當以何 罪外道言若負者當斷其舌長老..."
+    },
+    {
+      "path": "X\\X78\\X78n1543.xml",
+      "mentions": 1,
+      "title": "Biographies of the Eighteen Worthies of Donglin",
+      "title_zh": "東林十八高賢傳",
+      "snippet": "...來。豈宜忘淨土之遊乎。程 之乃鑱石為誓文。以志其事。遂于西林㵎北。 別立禪坊。養志安貧。精研玄理。兼持禁戒。宗張等咸 歎仰之。甞貽書關中。與什肇揚搉經義著念佛三昧。..."
+    },
+    {
+      "path": "X\\X78\\X78n1542.xml",
+      "mentions": 1,
+      "title": "Record of Efficacy from Upholding the Guanyin Sutra",
+      "title_zh": "觀音經持驗記",
+      "snippet": "...林寺習律。繼入國清。燃指於普賢像 前。誓傳台教。學高行苦。名冠二浙。博習教觀。專志安 養。甞力行般舟三昧。以九十日為期。素苦學嘔血。處 道場中。兩足皮裂。師以死自誓..."
+    },
+    {
+      "path": "X\\X73\\X73n1452.xml",
+      "mentions": 1,
+      "title": "Complete Works of Venerable Zibo",
+      "title_zh": "紫柏尊者全集",
+      "snippet": "...住，何往而不 可哉？今子當溽暑，涉崎嶇，赴新安，而不能一日千 里，一夕十年，則其志安在？子其勉之。 夏日蒸泉處處湯，千峰夾道暑偏藏。憐君此去魚投 沸，但念無生當處涼..."
+    },
+    {
+      "path": "X\\X70\\X70n1376.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Chijue Daochong",
+      "title_zh": "痴絕道冲禪師語錄",
+      "snippet": "...未生底消息，只要各人一 念分明，自證自悟，初不以實法繫綴人也。後來有箇 潭州雲盖志安禪師，便是自證自悟此一念底人。一 日到雲居，問云：某甲不柰何時如何？居云：只為工..."
+    },
+    {
+      "path": "X\\X62\\X62n1173.xml",
+      "mentions": 1,
+      "title": "Direct Pointer for Returning West",
+      "title_zh": "西歸直指",
+      "snippet": "...菩薩。後一年，瑠璃地復現，即日而終。異香經旬，肉 身不壞。 明瞻 唐明瞻晚歲，刻志安養，念佛不輟。或譏其遲暮，瞻曰： 十念成功，猶得見佛，吾何慮乎？後因疾，於興教寺..."
+    },
+    {
+      "path": "X\\X54\\X54n0866.xml",
+      "mentions": 1,
+      "title": "Commentary on the *Zhao Treatise*",
+      "title_zh": "肇論疏",
+      "snippet": "...是從詮為言也。但樂小功 德、厭畏生死，即為聲聞；樂獨善寂、少多濟物，即為緣 覺；志安生死、不求自出，名為菩薩，即七地以上過於 二乘，此不須論。今六地以下與三乘同，同..."
+    },
+    {
+      "path": "T\\T21\\T21n1301.xml",
+      "mentions": 1,
+      "title": "Sūtra of Prince Shetoujian and the Twenty-Eight Lunar Mansions",
+      "title_zh": "舍頭諫太子二十八宿經",
+      "snippet": "...吾說四種一。仁講揚邪法， 以姊欲為婦，是義不相應。 設使是世間，梵志之所生， 梵志安得妻？君子自取耶？ 工師那得婦？細民意何趣？ 假使梵天生，安得為夫婦？ 梵天不生..."
+    },
+    {
+      "path": "T\\T18\\T18n0913.xml",
+      "mentions": 1,
+      "title": "Fire Hūṁ Offering Ritual Manual",
+      "title_zh": "火\uD851\uDE56供養儀軌",
+      "snippet": "次誦本尊真言，燒火木兩頭搵三味，誦一 遍即擲爐中，仍須定志安詳不得卒暴矣。 次投火木總畢即燒五穀，每至「娑嚩訶」前加 所祈法，數以香水遍灑諸..."
+    },
+    {
+      "path": "T\\T17\\T17n0820.xml",
+      "mentions": 1,
+      "title": "The Buddha’s Discourse on Expounding the Path amid Worldly Karma",
+      "title_zh": "佛說演道俗業經",
+      "snippet": "...是頌曰： 「畏無量生死、周旋之艱難， 心已懷恐懼，唯欲求自安。 坐禪而數息，專精志安般， 觀身中惡露，不淨有若干。 棄捐三界色，斷欲得自安， 不能修大慈，唯志樂泥洹..."
+    },
+    {
+      "path": "T\\T14\\T14n0565.xml",
+      "mentions": 1,
+      "title": "The Sūtra on Complying with Skillful Means of Provisional Teachings",
+      "title_zh": "順權方便經",
+      "snippet": "令人歡樂？」其女答曰：「或有眾生樂于梵天， 我修梵行隨無量禪，欣然志安從樂授之，然 後乃化勸佛大道。或慕帝釋，現天帝位甚可 愛樂，示斯自在無常之法，因..."
+    },
+    {
+      "path": "T\\T14\\T14n0425.xml",
+      "mentions": 1,
+      "title": "The Bhadrakalpika (Auspicious Aeon) Sūtra",
+      "title_zh": "賢劫經",
+      "snippet": "承功勳德必生天上， 何所明智與愚諍訟？ 無明迷惑智慧志安， 智致道果癡不覺之， 是故行道悉以忍之。 愚喜諍亂智無所訟，"
+    },
+    {
+      "path": "T\\T13\\T13n0399.xml",
+      "mentions": 1,
+      "title": "Sutra of the Precious Maiden’s Questions",
+      "title_zh": "寶女所問經",
+      "snippet": "...有罪處亦不 說罪、不說方面，不樂王者，不為塵埃，無有慳 貪、亦無所見心無所起，其志安雅離于滅盡， 則無所有無有處所、亦無方面無有塵勞，無 所悋惜亦無所覩，計如心者罪..."
+    },
+    {
+      "path": "T\\T12\\T12n0342.xml",
+      "mentions": 1,
+      "title": "The Buddha Speaks: Sutra on the Samādhi of Like an Illusion",
+      "title_zh": "佛說如幻三昧經",
+      "snippet": "...諸華供養如來，令大千國虛空之中 成華交露，此眾華光皆照佛國，靡不周至。 文殊師利志安和雅，從三昧興，即出其室退 住一面，因復彈指——此彈指聲，六反震動三千 大千世界..."
+    },
+    {
+      "path": "T\\T12\\T12n0338.xml",
+      "mentions": 1,
+      "title": "The Buddha Speaks: Sutra of the Maiden Vimaladāna (Stainless Giving)",
+      "title_zh": "佛說離垢施女經",
+      "snippet": "心。莫祠祀時， 願樂比丘。斯等髠頭，而被袈裟， 若志安解，不習此黨。恐女父母， 不以歡悅，吾等當啟，於大明王。 女所祠祀，則亦不祥。善..."
+    },
+    {
+      "path": "X\\X88\\X88n1646.xml",
+      "mentions": 1,
+      "title": "Biographies of Laypeople",
+      "title_zh": "居士傳",
+      "snippet": "...。非他人 所能拔也。立起盥沐著衣。對佛焚香煉臂哀苦懺悔。 徹夜無少倦。及還坐。神志安定。淨土現前。乃薙髮披 袈裟別眾而逝。憨山清公聞而歎曰。勇哉。聞生其可 謂烈丈大..."
+    },
+    {
+      "path": "X\\X88\\X88n1644.xml",
+      "mentions": 1,
+      "title": "Guanyin Compassion Grove Collection",
+      "title_zh": "觀音慈林集",
+      "snippet": "...受生。見\uD87E\uDC35中出蓮花數朵。 釋遵式 遵式禪師。台州臨海人。學行高古。名冠兩浙。專志安 養。甞行般舟三昧。九十日為期。苦學嘔血。入道場。兩 足皮裂。以死自誓。忽如夢中..."
+    },
+    {
+      "path": "X\\X85\\X85n1594.xml",
+      "mentions": 1,
+      "title": "Outline of Buddhas and Patriarchs",
+      "title_zh": "佛祖綱目",
+      "snippet": "...五日，忽聞鐘聲，曰：鐘聲，我輩事也。俱時化去。 ○明瞻。隱居太乙山智炬寺，晚歲尅志安養。貞觀二 年十月，知命將盡，入京就興善寺設齋，辭別道俗。時 僕射房玄齡、杜如晦..."
+    },
+    {
+      "path": "X\\X76\\X76n1517.xml",
+      "mentions": 1,
+      "title": "Reference Mirror of the Shakya Clan Through the Dynasties",
+      "title_zh": "歷朝釋氏資鑑",
+      "snippet": "己巳 開平三年，湖南楚王馬殷因衡山道正表奏， 乞與僧論義。王請雲盖志安禪師至，茶罷，師就王借 劒一口，乃握劒問道正云：你本教云：恍恍惚惚，其中 有物。..."
+    },
+    {
+      "path": "X\\X76\\X76n1516.xml",
+      "mentions": 1,
+      "title": "Comprehensive Mirror of the Shakya Clan",
+      "title_zh": "釋氏通鑑",
+      "snippet": "己巳 雲盖志安禪師，一日，衡山道正表奏湖南馬 王，乞與師論義。王遂請師至，具云：茶罷，師就大王..."
+    },
+    {
+      "path": "X\\X75\\X75n1515.xml",
+      "mentions": 1,
+      "title": "Continuation of the Chronicle of Buddhas and Patriarchs",
+      "title_zh": "續佛祖統紀",
+      "snippet": "...演福。越八 日，門人奉遺骨塔于龍井之安養。春秋六十有七，僧 夏五十有三。得法弟子志安．元淨．性澄．淨真．宗渠等 四十餘人。師歷名剎七，復道場二，被璽書三。其道德 之..."
+    },
+    {
+      "path": "X\\X75\\X75n1512.xml",
+      "mentions": 1,
+      "title": "Comprehensive Annals of Longxing",
+      "title_zh": "隆興編年通論",
+      "snippet": "...紹眾靈而繼軌，指太息以為期。究茲道也，豈不 弘哉。程之自於西林北㵎，別立禪房。養志安貧，研精 玄理。精勤不倦，具持禁戒。宗張等咸歎仰之，日專坐 禪。始涉半歲，即於定..."
+    },
+    {
+      "path": "T\\T50\\T50n2060.xml",
+      "mentions": 1,
+      "title": "Continued Biographies of Eminent Monks",
+      "title_zh": "續高僧傳",
+      "snippet": "...狩輒往 投之。皆避而不噉。山粒本絕終日忘餐。或 以餅果繼命而已。外覩不堪其惱。而志安 之容色如故。經于七載禪業無斷。晚住此 山福林寺。會大業屏除流徙隱逸。慨法陵遲 ..."
+    }
+  ]
+}

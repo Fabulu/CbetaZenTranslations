@@ -1,0 +1,612 @@
+{
+  "master": "Xuzhou Xingsheng",
+  "primary_count": 2,
+  "secondary_count": 84,
+  "total_mentions": 248,
+  "primary": [
+    {
+      "path": "J\\J33\\J33nB282.xml",
+      "mentions": 7,
+      "title": "Recorded Sayings of Chan Master Xuzhou Sheng",
+      "title_zh": "虛舟省禪師語錄",
+      "snippet": "虛舟省禪師語錄卷之一 小師超直編 順治乙未二月二十二日，師受紹興府嵊縣眾檀信 請，住顯..."
+    },
+    {
+      "path": "J\\J33\\J33nB279.xml",
+      "mentions": 1,
+      "title": "Chan Master Xuzhou’s Commentary on the ‘Verses on the Eight Consciousnesses’",
+      "title_zh": "虛舟禪師註八識規矩頌",
+      "snippet": "...不欲其深，而欲其淺。至于由 淺而深，是悟之者之事，非解之者之事也。 西湖留錫退居虛舟省道人識 八識規矩淺說 余觀唐奘師幼具宿根，為法涉流沙，不憚狼狽，遇化 身曼殊，授..."
+    }
+  ],
+  "secondary": [
+    {
+      "path": "ZS\\ZS01\\ZS01n0001.xml",
+      "mentions": 19,
+      "title": "Classified Compilation of Buddhist Materials from Official Histories",
+      "title_zh": "正史佛教資料類編",
+      "snippet": "以錢萬錠助建佛寺（464） 命西僧作佛事於仁智殿（465） 命河南、甘肅等行省誦《藏經》（465） 給大承天護聖寺田宅、奴僕等為永業（465） 廣靈縣地產銀所..."
+    },
+    {
+      "path": "J\\J21\\J21nB110.xml",
+      "mentions": 13,
+      "title": "Record of Protecting the Dharma",
+      "title_zh": "護法錄",
+      "snippet": "...，汲將焉 求，竟撾鼓而退，隱于會稽山水間，飄飄然如野鶴孤 雲，人不知其為師。江浙行省丞相達識帖穆爾公方 領宣政院事，遣使者以物色，訪之，力請還山，躬帥僚 屬香華以迎..."
+    },
+    {
+      "path": "B\\B27\\B27n0151.xml",
+      "mentions": 12,
+      "title": "New Continued Biographies of Eminent Monks",
+      "title_zh": "新續高僧傳",
+      "snippet": "... 萬壽圓覺寺浙河左右傑偉之士奔走其室唯恐後之明年鹽 官海岸崩居民惴惴恐為魚鼈江浙行省右丞相脫驩甚憂之 祈禜於上天竺請濟親履其地建水陸無遮大會七日夜濟冥 心觀想取海沙..."
+    },
+    {
+      "path": "X\\X77\\X77n1524.xml",
+      "mentions": 11,
+      "title": "Supplement to the Continued Biographies of Eminent Monks",
+      "title_zh": "補續高僧傳",
+      "snippet": "...闡其祕，名聞于朝，有 旨賜號慈峰妙辯大師。閱七年，退處禦溪別峰蘭若。 至正十年，行省丞相尊其道，遣使延之高麗，特授御 製金襴袈裟。及張士誠據姑蘇，累聘不應。疾亟，起..."
+    },
+    {
+      "path": "B\\B34\\B34n0193.xml",
+      "mentions": 9,
+      "title": "Dharma Vehicle of the Wu Capital",
+      "title_zh": "吳都法乘",
+      "snippet": "...師道價傾四方非惟禪林奔凑而 公卿大夫若太尉高公納麟若中書兵部尚書黃公德昭若浙 江行省左丞老老若江東廣訪副使伯顏不花或函香致敬或 馳書問道或上謁親問玄要得其片言隻字寶..."
+    },
+    {
+      "path": "B\\B24\\B24n0135.xml",
+      "mentions": 9,
+      "title": "Pushi Collection",
+      "title_zh": "蒲室集",
+      "snippet": "...巨府 使一妄男子竊取之而入孰不蠒\uD878\uDE14於我也泰定 改元 天子即位以銀青榮祿大夫江淛行省左承相領行 宣政院事建明公選之道令下之日吾徒以手加 \uD873\uDC43以祝以頌行之期月\uD86A\uDDD0贓老..."
+    },
+    {
+      "path": "B\\B16\\B16n0088.xml",
+      "mentions": 9,
+      "title": "Selected Extracts from the Complete Collection of Illustrations and Writings from Antiquity to the Present (Part 2)",
+      "title_zh": "古今圖書集成選輯（下）",
+      "snippet": "...國如意大寶法王西天佛子大元帝師 至治間特詔郡縣建廟通祀泰定元年又以繪像十 一頒各行省為之塑像云亦憐真嗣為帝師凡六歲 至元十九年卒荅兒麻八剌乞列嗣二十三年卒亦 攝思連..."
+    },
+    {
+      "path": "B\\B15\\B15n0088.xml",
+      "mentions": 9,
+      "title": "Selected Extracts from the Complete Collection of Illustrations and Writings from Antiquity to the Present (Part 1)",
+      "title_zh": "古今圖書集成選輯（上）",
+      "snippet": "...作佛事建佛寺又詔各郡建帝師殿召西 僧赴京師 按元史仁宗本紀延祐七年春正月辛卯江浙行省 丞相黑驢言白雲僧沈明仁擅度僧四千八百餘人 獲鈔四萬餘錠既已辭伏今遣其徒沈崇勝潛..."
+    },
+    {
+      "path": "J\\J40\\J40nB479.xml",
+      "mentions": 8,
+      "title": "Recorded Sayings of Chan Master Zhufengxu of Zhaojue",
+      "title_zh": "昭覺竹峰續禪師語錄",
+      "snippet": "...道承誰恩力得恁麼奇特？」良久，云：「青山況是吾 家物，不用尋家別問津。」 結制，通省會眾姓營齋，請上堂。詣法堂，指座云：「佛祖 門庭，人天標榜，最初一步踏著，直向千..."
+    },
+    {
+      "path": "X\\X77\\X77n1521.xml",
+      "mentions": 8,
+      "title": "(Complete Collection of Ancient and Modern Books) Buddhist Section: Collected Studies",
+      "title_zh": "(古今圖書集成)釋教部彙考",
+      "snippet": "...。又詔各郡建帝師殿，召西 僧赴京師。 按元史仁宗本紀：延祐七年春正月辛 卯，江浙行省丞相黑驢言：白雲僧沈明仁擅度僧四 千八百餘人，獲鈔四萬餘錠，既已辭伏，今遣其徒沈..."
+    },
+    {
+      "path": "X\\X83\\X83n1574.xml",
+      "mentions": 7,
+      "title": "Expanded Collection: Continued Transmission of the Lamp Record",
+      "title_zh": "增集續傳燈錄",
+      "snippet": "...逝。闍維，五色舍利如菽不可計，雙目睛、齒牙、頂 骨俱不燼。時改作豫章烏遮塔，江西行省丞相幹赤 命以舊藏釋尊舍利奉於中，遣使分一山之目睛、舍 利貯之銀匣陪葬焉。 ○奉..."
+    },
+    {
+      "path": "X\\X82\\X82n1571.xml",
+      "mentions": 7,
+      "title": "Complete Five Lamps (Vols. 34–120)",
+      "title_zh": "五燈全書(第34卷-第120卷)",
+      "snippet": "...半，饑 不自勝，侍者請取勺粟為飯。師曰，不可常住，豈住持 人得私。仁宗延祐丙辰，行省稟旨迎師主徑山。僧問， 過去心不可得，現在心不可得，未來心不可得，此意 如何。師..."
+    },
+    {
+      "path": "X\\X84\\X84n1585.xml",
+      "mentions": 7,
+      "title": "Drafts for the Continuation of the Lamp",
+      "title_zh": "續燈存稿",
+      "snippet": "...主藏室。至正壬午，江南行宣政院舉師出世 昌國之隆教，尋領普慈。戊戌，遷淨慈。江浙行省丞相 達識帖穆兒復請住持徑山。僧問：不與萬法為侶者 是什麼人？師曰：十字街頭石敢..."
+    },
+    {
+      "path": "X\\X84\\X84n1583.xml",
+      "mentions": 6,
+      "title": "Orthodox Continuation of the Lamp",
+      "title_zh": "續燈正統",
+      "snippet": "...然而 逝。闍維，收五色舍利如菽無數，目睛齒牙頂骨俱不 燼。時改作豫章烏遮塔，江西行省丞相幹赤命以舊 藏世尊舍利奉于中，遣使分師之目睛舍利貯之銀 盒陪塟焉，其餘分塟東..."
+    },
+    {
+      "path": "B\\B29\\B29n0161.xml",
+      "mentions": 5,
+      "title": "Wulin Buddhist Gazetteer",
+      "title_zh": "武林梵志",
+      "snippet": "...其如 存服茲諭祭賜勅諭祭碑額見存為律宗第一山錢 塘縣歲造土牛迎春于此元時劉伯溫以行省都 事坐法宿菴中簡俊上人詩云 城外春江動客愁江 邊細草綠悠悠還將短髮臨歧路畏向東..."
+    },
+    {
+      "path": "B\\B06\\B06n0007.xml",
+      "mentions": 5,
+      "title": "Paṭṭhāna (The Book of Conditional Relations)",
+      "title_zh": "發趣論",
+      "snippet": "...止、本性親依止。所緣親依止者．謂施施． 受戒．作布薩業．尊重省察。尊重前諸善行而行省察。從靜慮出尊重靜慮而行省察。諸有學者尊重進姓而 行省察．尊重清淨而行省察。諸有..."
+    },
+    {
+      "path": "GA\\GA026\\GA026n0024.xml",
+      "mentions": 4,
+      "title": "Gazetteer of Shangtianzhu Lecture Monastery, Hangzhou",
+      "title_zh": "杭州上天竺講寺志",
+      "snippet": "...咨叩，盡其學。大德間，出主海鹽德藏，賴以起廢。仍割己儲，營法華期懺。泰定 己丑，行省丞相脫驩公舉住下天竺，諸大方麟鳳爭願出席下。居七年，寺之門舊臨澗南，逼於 巖，巖..."
+    },
+    {
+      "path": "B\\B29\\B29n0160.xml",
+      "mentions": 4,
+      "title": "Gazetteer of Buddhist Monasteries in Jinling",
+      "title_zh": "金陵梵剎志",
+      "snippet": "...懼封人之祝終以堯辭乃 塵長者之國遽如佛許仰憑護念誓畢薰修 崇禧萬壽寺碑記畧元四川行省平章趙世延 昔在我世祖皇帝膺上天之景運承太祖之丕基混一海 宇建立制度條理綱紀一出..."
+    },
+    {
+      "path": "B\\B06\\B06n0008.xml",
+      "mentions": 4,
+      "title": "Great Commentary on the Paṭṭhāna (Book of Conditional Relations)",
+      "title_zh": "大發趣論註",
+      "snippet": "...親依止三種。此中有云．『施施．受戒．作布薩 業．尊重其事而省察之。尊重前諸善行而行省察。從靜慮出尊重靜慮而行省察。諸有學者尊重進姓而行 省察．尊重清淨而行省察。諸有..."
+    },
+    {
+      "path": "X\\X84\\X84n1579.xml",
+      "mentions": 4,
+      "title": "Continuation of the Record Pointing at the Moon",
+      "title_zh": "續指月錄",
+      "snippet": "...菽，目睛不燼。鎔以烈\uD85A\uDDA8， 益晶瑩。齒牙頂骨，錚然有聲。時改作豫章烏遮塔。江 西行省丞相幹赤命以舊藏世尊舍利奉於中，而遣 使分師之目睛舍利，貯之銀盒陪葬焉。餘骼舍利..."
+    },
+    {
+      "path": "B\\B17\\B17n0091.xml",
+      "mentions": 3,
+      "title": "Selections from the Standard Histories (Jin, Song, Liang, Wei, Sui, Old Tang, Yuan, Ming)",
+      "title_zh": "正史選輯（晉書、宋書、梁書、魏書、隋書、舊唐書、元史、明史）",
+      "snippet": "...王、西天佛子、大元帝師。至治間，特詔郡縣建廟通祀。泰定元年，又以繪像十一，頒各 行省，為之塑像云。 亦憐真嗣為帝師，凡六歲，至元十九年卒。答兒麻八剌（乞列）〔剌吉塔..."
+    },
+    {
+      "path": "X\\X86\\X86n1600.xml",
+      "mentions": 2,
+      "title": "Chronological Compilation of the Sectarian Lineage",
+      "title_zh": "宗統編年",
+      "snippet": "...追留 之，不可。十一月，更衣坐逝。舍利五色如菽，目睛頂 齒不壞。時新豫章烏遮塔，行省令以銀匣貯之，同 佛舍利置塔中。 癸丑二年 元長徹悟，祖付以法印。"
+    },
+    {
+      "path": "X\\X79\\X79n1562.xml",
+      "mentions": 2,
+      "title": "Chan Forest Sangha Treasures Biographies (Southern Song–Yuan–Ming)",
+      "title_zh": "南宋元明禪林僧寶傳",
+      "snippet": "...維，收五色舍利，大如菽，不 可計，目睛、齒牙、頂骨不壞。時改建豫章烏遮塔，江西 行省丞相幹赤命以舊藏釋尊舍利奉於中，遣使分 一山萬禪師目睛舍利，以寶匣秘之，陪塟焉。..."
+    },
+    {
+      "path": "T\\T49\\T49n2037.xml",
+      "mentions": 2,
+      "title": "Brief Investigation of Antiquity of the Shakya Lineage",
+      "title_zh": "釋氏稽古略",
+      "snippet": "...所攻。 求援於金。金不能救。夏人乃叛金。是時大 朝國勢益強。但居其故地。於燕雲置行省。命 其大臣領之。所謂太師國王也。韃靼之先與 女真同類。蓋皆靺鞨之後也。其國在元..."
+    },
+    {
+      "path": "GA\\GA058\\GA058n0062.xml",
+      "mentions": 2,
+      "title": "Gazetteer of Kaiyuan Monastery, Quanzhou",
+      "title_zh": "泉州開元寺志",
+      "snippet": "...五代十國而至宋，旁創支院一百廿區， 支離而不相屬。至元乙酉，僧錄劉鑑義白于福 建行省平章伯顏，奏請合支院為一寺，賜額大 開元萬壽禪寺。明年延僧玅恩住持，為第一世。 ..."
+    },
+    {
+      "path": "GA\\GA032\\GA032n0032.xml",
+      "mentions": 2,
+      "title": "Gazetteer of Jingshan (Vols. 6–14)",
+      "title_zh": "徑山志(第6卷-第14卷)",
+      "snippet": "...， 申令發號，聞者靡不畏服。乙酉，轉隣刹普慈，其激揚誘 掖，如隆教時。戊戌，江浙行省左丞相達識帖穆爾兼領 院事，延師主杭之淨慈。兵燹之餘，艱窘危厲，人所不能 堪。師..."
+    },
+    {
+      "path": "GA\\GA031\\GA031n0032.xml",
+      "mentions": 2,
+      "title": "Gazetteer of Jingshan (Vols. 1–5)",
+      "title_zh": "徑山志(第1卷-第5卷)",
+      "snippet": "頴豪作亂，師治妙明 庵於放生池上，以將歸老焉。元日祝\uD862\uDD32，行省現白光三 道。丞相康里公奉師所讃觀音像于紫薇閣，是夕，瑞光 煜然。苗䝤焚掠徑山，..."
+    },
+    {
+      "path": "GA\\GA024\\GA024n0022.xml",
+      "mentions": 2,
+      "title": "Expanded and Revised Gazetteer of Yunlin Monastery",
+      "title_zh": "增修雲林寺志",
+      "snippet": "...引年歸鄉人 表所居為曹公里天厤中拜陝西諸道行臺御史 中丞辭疾不起士論高之卒贈河南行省左丞追 封魯郡公諡文貞著漢泉漫稿有遊靈隱寺詩 傅若金字與礪新喻人家貧力學為同郡范..."
+    },
+    {
+      "path": "GA\\GA014\\GA014n0012.xml",
+      "mentions": 2,
+      "title": "Gazetteer of Tiantong Monastery (Vols. 5–10)",
+      "title_zh": "天童寺志(第5卷-第10卷)",
+      "snippet": "後得法于蒲菴 復。 大基丕禪師 師得法于左菴良公，掌天童內記。江浙行省丞相 康里公領宣政事，選師主佛隴，後遷洛伽、補陀。 呆菴莊禪師 師薙染天童，參侍..."
+    },
+    {
+      "path": "B\\B31\\B31n0170.xml",
+      "mentions": 2,
+      "title": "General History of Korean Buddhism",
+      "title_zh": "朝鮮佛教通史",
+      "snippet": "...春正月甲辰。王與元使。如興王寺。轉藏經。丙辰王率百官。幸妙蓮寺 為皇帝祝釐。諸路行省以下官。皆以正月朔望。行香祝釐。盖元朝之禮也。乙丑王率行 省官及羣臣。幸妙蓮寺。..."
+    },
+    {
+      "path": "B\\B30\\B30n0163.xml",
+      "mentions": 2,
+      "title": "Revised Comprehensive Gazetteer of Caoxi",
+      "title_zh": "重修曹溪通志",
+      "snippet": "廣東等處承宣布政使司徐炟 廣東等處提刑按察使司佟養鉅 通省民屯料價叅議徐養仁 分巡廣肇南部道副使趙廷標 提督通省學政僉事沈令式"
+    },
+    {
+      "path": "X\\X71\\X71n1414.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Liao’an Qingyu",
+      "title_zh": "了菴清欲禪師語錄",
+      "snippet": "...壓者新之，器物闕者補 之，侵疆之久者歸之，早夜孜孜，唯恐有不及。辛丑之 夏，江浙行省左丞相康里公遣使者起師，將使領大 伽藍。師堅臥不動，作三偈酬之，有軒蓋林中不得來..."
+    },
+    {
+      "path": "X\\X71\\X71n1410.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Tanfang Shouzhong",
+      "title_zh": "曇芳守忠禪師語錄",
+      "snippet": "...推禪師補其席。開堂說法，乃嗣玉山，盖本諸 源委也。由是道價日重。至治辛酉春，江浙行省左丞 相脫歡公領行宣政院事，素聞禪師高行，移住蔣山。 泰定乙丑正月廿四日， 太子..."
+    },
+    {
+      "path": "X\\X70\\X70n1403.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Tianru Weize",
+      "title_zh": "天如惟則禪師語錄",
+      "snippet": "... 華期懺事，迄于今翕然。至治改元，遷華亭超果。復捐 長資，募搆萬佛閣。泰定乙丑，行省丞相脫驩公兼視 宣政院事，舉住下天竺，上章以營搆未備辭。而疏幣 交至，強其行。諸..."
+    },
+    {
+      "path": "X\\X75\\X75n1515.xml",
+      "mentions": 2,
+      "title": "Continuation of the Chronicle of Buddhas and Patriarchs",
+      "title_zh": "續佛祖統紀",
+      "snippet": "...之道自師始。兩 浙學人奔湊，師罄大小部帙，晝夜弘演，多所啟發。明 年，鹽官洲崩，行省亟相脫驩。公憂之，禱于上竺，廣興 法事，命法師親履其地，仍令有司修水陸大會七日 ..."
+    },
+    {
+      "path": "X\\X87\\X87n1616.xml",
+      "mentions": 1,
+      "title": "Miscellaneous Records from the Mountain Hermitage",
+      "title_zh": "山菴雜錄",
+      "snippet": "... 即明之天童了堂也，二人同嗣其法。定藏主即大慈 天宇也，出竺西門。元至正間，江淛行省丞相達世鐵 穆示公兼行宣政院事，便宣行事，特兩度馳檄，欲起 師住天童、徑山，皆以..."
+    },
+    {
+      "path": "X\\X86\\X86n1605.xml",
+      "mentions": 1,
+      "title": "Record of Continuing the Lamp",
+      "title_zh": "繼燈錄",
+      "snippet": "...湘和尚之室。湘器之，至使分座。退居善見， 痛自韜晦。至元二十二年，僧錄劉鑑義言于行省，奏 合開元百二十院為一禪剎。明年秋，延師為開山第 一世，堅致不獲謝。至門曰：第..."
+    },
+    {
+      "path": "X\\X78\\X78n1551.xml",
+      "mentions": 1,
+      "title": "Collected Records of the Western Ark",
+      "title_zh": "西舫彙征",
+      "snippet": "...破 戒，不若畜生多矣，墮落何疑？僧皆涕泣懺謝曰：某等 從此發大誓願，誠實齋戒矣。通省聞風知儆，沙門為 之一變。公養此雞于署中，恒念佛不輟。後轉官，擕至 丹陽，送入海..."
+    },
+    {
+      "path": "TX\\TX31\\TX31n0019.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part Nineteen – Collected Writings (Vols. 137–321)",
+      "title_zh": "太虛大師全書．第十九編\u3000文叢(第137卷-第321卷)",
+      "snippet": "...若素、若蒙、藏、滿、漢喇嘛等一切佛教徒之 佛教統一會，而蒙、藏等各特別區與二十二行省，亦各各成立各該區省之佛教統一會 ，使民國之統一，從佛教之統一而實現。 六、各處..."
+    },
+    {
+      "path": "TX\\TX29\\TX29n0019.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part Nineteen – Collected Writings (Vols. 1–20)",
+      "title_zh": "太虛大師全書．第十九編\u3000文叢(第1卷-第20卷)",
+      "snippet": "...戰士祈禱禮，官吏及日本布教師到者頗 多。與天台宗布教師中澤慈愍，日蓮宗布教師堀部行省，曹洞宗台灣別院布教師富田 禪宏等相敘。 行祈禱禮時，善慧師要岐師與予各說一偈，..."
+    },
+    {
+      "path": "TX\\TX17\\TX17n0009.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part Nine – Institutional Proposals",
+      "title_zh": "太虛大師全書．第九編\u3000制議",
+      "snippet": "...振，日益式微；茲所存者，至多不過二十萬人（蒙藏喇嘛在外 ）。除去尼僧二萬，二十二行省每省平均僅八千餘人，且其產不足以養之，泰半藉應 赴經懺以餬口。然新疆、甘肅、廣西..."
+    },
+    {
+      "path": "T\\T51\\T51n2077.xml",
+      "mentions": 1,
+      "title": "Continued Record of the Transmission of the Lamp",
+      "title_zh": "續傳燈錄",
+      "snippet": "...菽 不可計。雙目睛不燼。鎔以烈焰益晶熒。齒牙 頂骨錚有聲。時改作豫章烏遮塔。江西行省 丞相斡赤命以舊藏釋尊舍利奉於中。而遣 使分一山之目睛舍利。貯之銀匣陪葬焉餘 骼..."
+    },
+    {
+      "path": "T\\T49\\T49n2035.xml",
+      "mentions": 1,
+      "title": "Comprehensive Chronicle of Buddhas and Patriarchs",
+      "title_zh": "佛祖統紀",
+      "snippet": "...勝會于鎮國寺。詔帝師命僧修佛 事於鹽官州。仍造浮屠三百十六所。以厭 海溢。時江浙行省丞相脫驩公憂之禱于 上天竺。廣興佛事。命天岸濟法師親履 其地。仍令有司修水陸大會..."
+    },
+    {
+      "path": "T\\T48\\T48n2025.xml",
+      "mentions": 1,
+      "title": "Imperially Commissioned Baizhang Monastic Regulations",
+      "title_zh": "勅修百丈清規",
+      "snippet": "...以 立一代典章。無何三翁先後皆化去。區區 竊欲繼其志而未能也。後偶承乏百丈。會 行省為祖師請加諡。未報。遂詣闕以聞。御 史中丞撒迪公引見聖上。得面奏清規所 以然。因..."
+    },
+    {
+      "path": "T\\T04\\T04n0205.xml",
+      "mentions": 1,
+      "title": "Miscellaneous Parables Sutra",
+      "title_zh": "雜譬喻經",
+      "snippet": "...在安息市乞。時門徒中但學五通不求斷 苦者五百餘人，師告之曰：「汝等速嚴，今當 共行省往日安息弟子。」弟子皆喜曰：「彼道德 必大茂盛。」師乃自屈往省，皆承神足須臾以 ..."
+    },
+    {
+      "path": "J\\J39\\J39nB447.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Meixi Du of Dongshan",
+      "title_zh": "東山梅溪度禪師語錄",
+      "snippet": "...，結祥雲而覆萬姓，爇向爐 中，奉為滿朝文武、闔國公卿並及重建本山都憲慕 大檀越暨通省當道勳貴，伏願當作皇圖柱石，恒為 佛國金湯。」再拈，云：「這瓣香，冤深河海，禍重..."
+    },
+    {
+      "path": "J\\J38\\J38nB425.xml",
+      "mentions": 1,
+      "title": "Complete Record of Chan Master Jifei",
+      "title_zh": "即非禪師全錄",
+      "snippet": "...能為東 道主，往來之煩不足供其匱乏；私心又自慊矣。遠惠 好音，盛情領悉。弟今秋京行省覲，會晤未卜何旦；惟 法兄于狂瀾震撼中力為砥柱，法門幸甚！ 復黃檗諸昆仲 劫燒蔓..."
+    },
+    {
+      "path": "J\\J37\\J37nB395.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Qizhencheng of Neihuguo Monastery, Jingnan",
+      "title_zh": "荊南內護國寺啟真誠禪師語錄",
+      "snippet": "...之所得而言也。 時 大清康熙二十有五年丙寅仲秋月穀旦， 賜進士出身、原任江西管理通省驛傳、鹽法道按察 使司參議、郡人胡在恪念蒿甫題於護國精舍。"
+    },
+    {
+      "path": "J\\J32\\J32nB273.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Monk Qianyan",
+      "title_zh": "千巖和尚語錄",
+      "snippet": "...，蛇矯首低昂，作拜勢而去。師自是聲光日 顯。笑隱訢公方主中竺法席，力薦起之。江浙行省丞 相脫歡公時領宣政院事，亦遣使迫師出世。師皆不 聽。居亡何，諸名山爭相勸請。師..."
+    },
+    {
+      "path": "J\\J29\\J29nB231.xml",
+      "mentions": 1,
+      "title": "Five-Session Record of Monk Shuijianhai of Tianwang",
+      "title_zh": "天王水鑑海和尚五會錄",
+      "snippet": "...而曰 水顓在是也，則庶幾矣。是為序。乙巳夏四月， 賜進士第、奉憲大夫、 欽差河南通省管河水利兵 備道、提刑按察司僉事兼參議、前工部都水清吏 司主政、提督通惠河道盛治..."
+    },
+    {
+      "path": "J\\J26\\J26nB183.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Shiqi of Xuedou",
+      "title_zh": "雪竇石奇禪師語錄",
+      "snippet": "...動鰲頭。 煙青雲碧四山頭，樹樹蒼松翠欲流，贏得老來無料 理，坐看終日冷雙眸。 送虛舟省上座 三十年來省道者，一朝得法徑山老，珍重行持莫浪 傳，此語分付得最好。 送體如..."
+    },
+    {
+      "path": "J\\J26\\J26nB182.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Wanru",
+      "title_zh": "萬如禪師語錄",
+      "snippet": "... 師之藏骨，石塔崢嶸，綿綿法嗣，同證圓成。 賜進士出身奉議大夫湖廣提刑按察司提督通省 學政僉事梁谿高世泰敬譔并書 校注 已"
+    },
+    {
+      "path": "J\\J26\\J26nB178.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Feiyin",
+      "title_zh": "費隱禪師語錄",
+      "snippet": "...呂本仁等請上堂，語存 錄中。為絳雪瑩作自真贊。時千峰立、逵夫明公衡 仁、正聞乾、虛舟省、靈機觀，俱來省覲，師款接甚歡。 三月，示微疾，古笠泰、天水廣來禮覲，勸進藥餌，..."
+    },
+    {
+      "path": "J\\J10\\J10nA158.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Miyun",
+      "title_zh": "密雲禪師語錄",
+      "snippet": "...鍾海槎、張元岵、方子凡、張弘一，居 士蔡子穀、管霞標、馮爾赤、祁驥超、徐型塘、姚通省、 胡行昭輩，則皆恪誠諦信，所謂弘護無斁者也。師 以海山容納之量誘掖方來，凡聖一..."
+    },
+    {
+      "path": "GA\\GA082\\GA082n0084.xml",
+      "mentions": 1,
+      "title": "Monastery Gazetteer of Jizu Mountain (Vols. 7–10)",
+      "title_zh": "雞足山寺志(第7卷-第10卷)",
+      "snippet": "...正項猶恐拖逋，難輸 其丁粮，差徭安得望其支應。\uD863\uDFFD經卑職於十八年 見此光景，准炤通省之例，將各里錢粮剔出，立一 僧戶，止納正項，豁免雜差，此猶可甦其困苦於萬 一也。..."
+    },
+    {
+      "path": "GA\\GA072\\GA072n0077.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Mount Jiuhua",
+      "title_zh": "九華山志",
+      "snippet": "...知識，至東巖而息焉。與禪侶修真、妙參、傳印，闢草鉏萊，相度陰陽。復 赤足走東南數行省，丐施金錢，積其所得，召匠鳩工，以同治九年冬落成。隨其岡巒 蜿蜒，坡陀曲折。窪者..."
+    },
+    {
+      "path": "GA\\GA045\\GA045n0049.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Mount Emei",
+      "title_zh": "峨眉山志",
+      "snippet": "...中佛像莊嚴細巧，最稱如 法。 臥雲庵，在藏經閣右，性天和尚建，後毀。清總制哈公及通省文武捐俸，命可聞禪師 重建。絕頂無水，唯此庵下有半月池，各庵寺仰汲，詳〈形勝〉。..."
+    },
+    {
+      "path": "GA\\GA044\\GA044n0048.xml",
+      "mentions": 1,
+      "title": "New Gazetteer of Hongci Guangji Monastery",
+      "title_zh": "弘慈廣濟寺新志",
+      "snippet": "江南江安等處督糧道布政使司右參政范 廷元 江南池太兵偹道按察使司副使張文光 江南通省驛傳鹽法屯田道按察使司副使 吳大壯 江南都使司掌印都司徐烶 蘇州府知府鄒蘊賢 蘇..."
+    },
+    {
+      "path": "GA\\GA029\\GA029n0028.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Longxing Xiangfu Ordination Platform Monastery",
+      "title_zh": "龍興祥符戒壇寺志",
+      "snippet": "...之領于內外宣政院曰禪曰教曰律則 固各守其業云 改貢院於寺之北 成化杭州府志元江浙行省置試院在城內祥符 寺北合試三十里一府兩州之士乾隆杭州府 志元貢院在祥符橋貢院即"
+    },
+    {
+      "path": "GA\\GA025\\GA025n0023.xml",
+      "mentions": 1,
+      "title": "Sequel Gazetteer of Yunlin Monastery",
+      "title_zh": "雲林寺續志",
+      "snippet": "...來會從遊男宗仁宗智 右在翻經臺石壁隸書字徑二寸按續宏簡錄伯 琦子宗仁字克復官山東行省郎中篆書宗家學 然不逮其父慧炬諸暨人住理公巖洪武初海潮 衝岸壞民居廬為潮神說三皈..."
+    },
+    {
+      "path": "GA\\GA023\\GA023n0021.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Lingyin Monastery, Wulin",
+      "title_zh": "武林靈隱寺志",
+      "snippet": "臨安府都會首沈瑜等，施送華嚴海會善知識功 德五十九軸。 元江浙行省平章事張閭助，修覺皇殿。 明刑部尚書潘季馴，前後捐貲裝大殿佛像。 吏部尚書張瀚，..."
+    },
+    {
+      "path": "GA\\GA020\\GA020n0017.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Huiyin Goryeo Huayan Teaching Monastery, Yucen Mountain",
+      "title_zh": "玉岑山慧因高麗華嚴教寺志",
+      "snippet": "...厲民以要福利者， 非佛意也。開府儀同三司上柱國別不華公，相繼為 江西、江浙、湖廣行省左丞相，惟曰：自富貴以訖有家， 予曷報于君親恩？欲風動于民，率之以忠孝，莫若善 ..."
+    },
+    {
+      "path": "GA\\GA013\\GA013n0012.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Tiantong Monastery (Vols. 1–4)",
+      "title_zh": "天童寺志(第1卷-第4卷)",
+      "snippet": "...德三年，禪師 淨日益加，聞於朝，賜額「朝元寶閣」。天曆間，又燬。至正十八年，江浙行省咨宣政院，奏，起台之瑞 嵓臣僧元良主寺事。良覷堂宇殘缺，產入寡薄，於是刻心殫力，..."
+    },
+    {
+      "path": "GA\\GA012\\GA012n0011.xml",
+      "mentions": 1,
+      "title": "Sequel Gazetteer of Ayuwang Mountain, Mingzhou",
+      "title_zh": "明州阿育王山續志",
+      "snippet": "... 唯崇裕一人。自受度以來，脅不沾席者三十年。」張 公深加獎嘆。朶兒只國王時以浙江行省右丞相 領宣政院事，遴選諸方住持。名既上，猶恐其未公 也，投鉤而定之，師始出世太..."
+    },
+    {
+      "path": "GA\\GA010\\GA010n0009.xml",
+      "mentions": 1,
+      "title": "New Gazetteer of Putuo Luojia",
+      "title_zh": "普陀洛迦新志",
+      "snippet": "...於左庵良公，掌天童內記。宗說兼通，行解相應，蔚為時之 名僧。元至正二十四年，江浙行省丞相康里公，領宣政院事，選丕主天童佛隴寺。 洪武初，由佛隴來主普陀，匡眾說法，恢..."
+    },
+    {
+      "path": "G\\G155\\G155n2590.xml",
+      "mentions": 1,
+      "title": "Annotated Notes on the Sixth Patriarch’s Platform Sūtra",
+      "title_zh": "六祖大師法寶壇經箋註",
+      "snippet": "...元二年，置十道按察採訪處。置使也。萬世統譜二十， 元雲從龍，文昌人，進士，仕元為行省參政，撫綏有功，兵民悅服。 一日過山房， 山房，隱者之書室也。"
+    },
+    {
+      "path": "G\\G118\\G118n2302.xml",
+      "mentions": 1,
+      "title": "Glossary of Buddhist Terms (Vols. 54–68)",
+      "title_zh": "佛學名相彙解(第54卷-第68卷)",
+      "snippet": "湖廣│ │武昌。 浙江│ │杭州。 江西│ │龍興。 陝西│ │京兆。 四川├行省┤成都。 雲南│ │中慶。 遼陽│ │遼陽。 鎮東│ │高麗。 甘肅│ │甘州。..."
+    },
+    {
+      "path": "D\\D57\\D57n9000.xml",
+      "mentions": 1,
+      "title": "Empty Valley Collection",
+      "title_zh": "空谷集",
+      "snippet": "...諸善 利。\uDB9E\uDF71可憫傷。夫漢唐已来。君臣逹士。\uD84C\uDD5C遵佛法。豈非高 眀賢徳乎。後人不行省察。古今言語之是非。故溺扵宋 人之詭計也。 ○宋人常以佛法立言。其理便善。悖扵佛..."
+    },
+    {
+      "path": "CC\\CC001\\CC001n0001.xml",
+      "mentions": 1,
+      "title": "Continued Biographies of Bhikṣuṇīs (Buddhist Nuns)",
+      "title_zh": "續比丘尼傳",
+      "snippet": "一一六、清杭州清涼庵尼超祖傳 超祖，字覺悟，杭州趙氏女。虛舟省嗣，住清涼庵。示眾，舉南 泉賣身因緣，祖曰：「南泉只知索價，不顧瞻前；者僧雖解瞻..."
+    },
+    {
+      "path": "B\\B35\\B35n0194.xml",
+      "mentions": 1,
+      "title": "General Catalogue of the Chinese Tripiṭaka",
+      "title_zh": "中華大藏經總目錄",
+      "snippet": "...302神鼎雲外澤禪師語錄十五卷 279303檀溪梓舟船禪師語錄三卷 280304虛舟省禪師語錄四卷 又續第十函 281305天台三聖詩集和韻一卷 282"
+    },
+    {
+      "path": "B\\B25\\B25n0145.xml",
+      "mentions": 1,
+      "title": "Extensive Record of Zhongfeng Mingben of Tianmu",
+      "title_zh": "天目中峰廣錄",
+      "snippet": "...時。亦嘗從師叅詰。翰林學士承旨趙公孟頫。每 受師書必焚香望拜。與師書必自稱弟子。行省丞相 別不花行宣政院使張閭諸達官尤加敬服。每徑山 靈隱虛席。必以待師。師固不受。..."
+    },
+    {
+      "path": "B\\B19\\B19n0103.xml",
+      "mentions": 1,
+      "title": "Annotated Glossary of Chan Monastic Terms and Implements",
+      "title_zh": "禪林象器箋",
+      "snippet": "...又設崇教所。擬行中 書省。理問官。以理僧民之事。 虞集撰笑隱訢和尚行道記云。江淛行省丞相脫 歡公。故荅剌罕順德王之子也。以世勛。名德靖重。 知大體。兼行宣政院事。領..."
+    },
+    {
+      "path": "B\\B14\\B14n0085.xml",
+      "mentions": 1,
+      "title": "Annotated Chronological Biography of Master Hanshan",
+      "title_zh": "憨山大師年譜疏註",
+      "snippet": "...齊供如生。一歲一沐浴．盥濯水．為鄉人取飲療病．立盡。每歲曹溪香客．於二八兩 月．通省人．羣入山拜謁．進香六祖畢．即云進香七祖．于是有曹溪七祖之稱。蓋粵 省香客之同聲..."
+    },
+    {
+      "path": "X\\X73\\X73n1456.xml",
+      "mentions": 1,
+      "title": "Elder Hanshan’s Dream-Travel Collection",
+      "title_zh": "憨山老人夢遊集",
+      "snippet": "...成。在臺慈一力，恐有所不 便。須眾心合成，但仗法力倡導足矣。於是議製疏十 通，分通省司道府各助之。不日，軍門二司道府各施 有千金，師親往西\uDB8F\uDC6E求大材，事事皆一肩荷擔..."
+    },
+    {
+      "path": "X\\X71\\X71n1421.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Yu’an Zhiji",
+      "title_zh": "愚菴智及禪師語錄",
+      "snippet": "...旗鼓，申令發號，聞者靡不畏服。乙酉， 轉隣剎普慈，其激揚誘掖如隆教時。戊戌，江淛行省 左丞相達識帖穆爾兼領院事，延師主杭之淨慈。兵 燹之餘，囏窘危厲，人所不能堪。師..."
+    },
+    {
+      "path": "X\\X71\\X71n1420.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Chushi Fanqi",
+      "title_zh": "楚石梵琦禪師語錄",
+      "snippet": "...下、一人之上，西天佛子、大元帝師、大寶法王，資培福 慧。復拈香云：此一瓣香，奉為行省大丞相、行宣政院 官、文武宷寮同增祿筭。斂衣就座，師云：寶印當空妙， 重重錦縫開..."
+    },
+    {
+      "path": "X\\X69\\X69n1367.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Xiaoyin Daxin",
+      "title_zh": "笑隱大訢禪師語錄",
+      "snippet": "...以請，既至，大作新之。寺田之在宜興者，連歲不 入，師為歸其侵，始有以食其眾。江淛行省丞相脫歡 公，故答剌罕順德王之子也，以世勛名德靖，重知大 體，兼行宣政院事，領東..."
+    },
+    {
+      "path": "X\\X67\\X67n1307.xml",
+      "mentions": 1,
+      "title": "Elder Wansong’s Commentary and Chanted Remarks on Master Tiantong Jue’s Picking Up Ancient Cases: Record of Requests for Instruction",
+      "title_zh": "萬松老人評唱天童覺和尚拈古請益錄",
+      "snippet": "...指畫之狀。本無玄和尚。丁亥歲，興平府設資 戒會，坐亡者三人。路行，而亡者二人達本行省，監壇 會首躬見其事，俯伏僧前，乞跨身而過。此皆宗門之 細故。萬松門人。吾捨元帥..."
+    },
+    {
+      "path": "X\\X62\\X62n1172.xml",
+      "mentions": 1,
+      "title": "Pure Land Morning Bell",
+      "title_zh": "淨土晨鐘",
+      "snippet": "...薙染破戒，不若畜生多矣，墮落何疑？僧涕泣懺 悔曰：僧等從此發大誓願，誠實齋戒矣。通省聞風知 儆者，沙門為之一變云。公養此雞于署中，恒念佛不 輟，後轉官携至丹陽，送入..."
+    },
+    {
+      "path": "X\\X88\\X88n1646.xml",
+      "mentions": 1,
+      "title": "Biographies of Laypeople",
+      "title_zh": "居士傳",
+      "snippet": "...我閉關 延壽寺街長洲舘。圓覺經一部。莊子一卷。或趺坐 之幽幽。或說空之侃侃。出關行省其兄汶上縣。於 汶上縣寄我書。書辭短短無他語要。我素貧賤。砥 礪其廉。隅我時得書..."
+    },
+    {
+      "path": "X\\X85\\X85n1594.xml",
+      "mentions": 1,
+      "title": "Outline of Buddhas and Patriarchs",
+      "title_zh": "佛祖綱目",
+      "snippet": "...擇木寮，聲譽日著。 元長禪師開法伏龍山 元長隱居。天龍中，天竺大訢力薦起之，江浙行省丞 相亦遣使迫長出世，皆不聽。泰定四年，諸名山爭相 勸請，長度不為時所容，乃杖錫..."
+    },
+    {
+      "path": "X\\X85\\X85n1592.xml",
+      "mentions": 1,
+      "title": "The Hidden Black Beans Collection",
+      "title_zh": "揞黑豆集",
+      "snippet": "...法，然後學做佛。寧可不做得佛，不可不 會說法。怪哉。 師不領院事，居恒隨機開導。行省平 章，咸稽顙執弟子禮。屢起浙江諸名山，堅却不赴。遁 跡吳淞間，弟子就吳中構地結..."
+    },
+    {
+      "path": "T\\T51\\T51n2097.xml",
+      "mentions": 1,
+      "title": "Collection of Overall Splendors of Nanyue",
+      "title_zh": "南嶽總勝集",
+      "snippet": "...後五十年 再得棲。此東有玉峯洞天福地。亦朱陵之憲 司。子宜處之。將有所遇。於是修通省親。而告 母曰。今值儉歲。時凶難於給用母。有所感宜 往玉笥洞天可以修其若何。母諾..."
+    },
+    {
+      "path": "T\\T48\\T48n2003.xml",
+      "mentions": 1,
+      "title": "Blue Cliff Record by Chan Master Yuanwu Foguo",
+      "title_zh": "佛果圜悟禪師碧巖錄",
+      "snippet": "...老人馮子振題。 碧巖集行于世者數版。卷套多多。到上學徒 盛笈非便也。故欲成小字縮行省紙冊。有 年所矣。安政丁巳秋。篤信檀士戮力捨財。喜 資上木。即命剞劂氏。事既竣焉..."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "master": "Dounan Wei",
+  "primary_count": 1,
+  "secondary_count": 2,
+  "total_mentions": 8,
+  "primary": [
+    {
+      "path": "J\\J40\\J40nB488.xml",
+      "mentions": 6,
+      "title": "Recorded Sayings of Chan Master Dounan Wei",
+      "title_zh": "斗南暐禪師語錄",
+      "snippet": "斗南暐禪師語錄序"
+    }
+  ],
+  "secondary": [
+    {
+      "path": "GA\\GA010\\GA010n0009.xml",
+      "mentions": 1,
+      "title": "New Gazetteer of Putuo Luojia",
+      "title_zh": "普陀洛迦新志",
+      "snippet": "...天寧祖堂，諸如此類，可謂法苑之功臣矣。嗣法小師，燕 京無際、信州玉峯、括蒼映文、東甌斗南，其最著者。至於翼養翎修，槌拂之下，林林 總總，未可殫紀。光被前人，範模後進；自..."
+    },
+    {
+      "path": "B\\B35\\B35n0194.xml",
+      "mentions": 1,
+      "title": "General Catalogue of the Chinese Tripiṭaka",
+      "title_zh": "中華大藏經總目錄",
+      "snippet": "484510鑑堂一禪師語錄一卷 485511翠崖必禪師語錄三卷 486512斗南暐禪師語錄二卷 又續駒目第四十六套 487513博山無異禪師廣錄三十五卷"
+    }
+  ]
+}

@@ -1,1 +1,969 @@
-{"primary_count":0,"secondary_count":7,"total_mentions":10,"primary":[],"secondary":[{"path":"GA\\GA079\\GA079n0081.xml","mentions":4,"title":"Gazetteer of Qingliang Mountain","title_zh":"清涼山志","snippet":"...萬曆丙戌，僧智光、淨立等約五 十三人，構屋結社。唯十方學道者共居，不許子孫承業。紫柏真可詩：狐兔成羣 白日嘷 天開此地育金毛翦除荊棘憑君相 培植栴檀在我曹靜藹刳心成大義"},{"path":"X\\X66\\X66n1297.xml","mentions":1,"title":"Dharma Grove of the Tradition’s Mirror","title_zh":"宗鑑法林","snippet":"普照道悟一則 省菴思一則 四川大癅一則 雲棲袾宏五則 紫柏真可一則 無念深有二則 儀峰方彖二則 養菴心二則 憨山德清二則 真寂廣印"},{"path":"Y\\Y22\\Y22n0022.xml","mentions":1,"title":"Studies in Buddhist History and Geography","title_zh":"佛教史地考論","snippet":"...事矣。其先，（臨濟）禪者有憨山德清，興南華祖庭，著述亦富（ 卒於明天啟三年）；有紫柏真可，刻方冊藏經，大有益於後代（卒於萬曆間）。 然憨山曾被流於嶺南，紫柏入京弘法受誣..."},{"path":"X\\X88\\X88n1667.xml","mentions":1,"title":"Religion, Vinaya, and the Development of Various Schools","title_zh":"宗教律諸宗演派","snippet":"頓覺性融，理契真宗，靈鷲正脈。 緜遠昌隆。 臨濟下三十三世突空下第九世，歸宗紫柏真可大師演派， 從真字起十六字： 真法元在，解契恒靈。慈門師子， 大吼雷音。"},{"path":"LC\\LC02\\LC02n0002.xml","mentions":1,"title":"Brief Lectures on the Origins and Development of Chinese Buddhism","title_zh":"中國佛學源流略講","snippet":"...到了明代，特別是明末，又有四大家，這就是雲棲袾宏（公元一五 三五～一六一五年），紫柏真可（公元一五四三～一六〇三年），憨山德清（公 元一五四六～一六二三年），以及較晚的..."},{"path":"GA\\GA032\\GA032n0032.xml","mentions":1,"title":"Gazetteer of Jingshan (Vols. 6–14)","title_zh":"徑山志(第6卷-第14卷)","snippet":"...救憨山與要求朝廷停止徵收礦稅，他不停奔走在京師各界，引起當權者的注目。維基百科：紫柏真可，2012.12.30編按：此處「王舍城」代指京師。 「弘正」：弘正指的是明朝弘..."},{"path":"X\\X80\\X80n1566.xml","mentions":1,"title":"Five Lamps Compendium: Continued Abridgment","title_zh":"五燈會元續略","snippet":"...台祖燈禪師 仙林雪庭禪師 少林匾囤禪師 永寧清禪師 伏牛明理禪師 雲棲袾宏大師 紫柏真可大師 黃檗深有禪師 白馬方彖禪師 鵞湖心禪師 卷第三上 臨濟宗 南嶽下十八世"}]}
+{
+  "master": "Zibo Zhenke",
+  "primary_count": 2,
+  "secondary_count": 135,
+  "total_mentions": 471,
+  "primary": [
+    {
+      "path": "X\\X73\\X73n1452.xml",
+      "mentions": 14,
+      "title": "Complete Works of Venerable Zibo",
+      "title_zh": "紫柏尊者全集",
+      "snippet": "...齋居士堅固子一顆。己亥 春，饒州阮司丞遣皖山馬祖庵主圓通齎沉香龕一 座供養紫栢，紫柏以授實齋居士貯大參所，授堅固 子鎮撫歸宗。居士曰：汪大參無心於沉香龕，阮司丞 亦..."
+    },
+    {
+      "path": "X\\X73\\X73n1453.xml",
+      "mentions": 1,
+      "title": "Collected Works of Venerable Zibo (Supplement)",
+      "title_zh": "紫柏尊者別集",
+      "snippet": "法本骨石，當作三分，俟吾安置處所，不得妄拆， 毋誤。餘不盡手字復。 紫柏尊者別集卷之三 紫栢尊者別集卷之四"
+    }
+  ],
+  "secondary": [
+    {
+      "path": "B\\B34\\B34n0193.xml",
+      "mentions": 43,
+      "title": "Dharma Vehicle of the Wu Capital",
+      "title_zh": "吳都法乘",
+      "snippet": "...畫出以示余喜見顏面不啻身 為之也家世奉佛王母薛夫人禪定脫安期稟承父叔刻藏飯僧誓終紫柏付囑窮老 盡氣若營其私蓋能以佛脩梵行稱其家風者也晚年撰吳都法乘百餘卷蠹簡齾翰 搜..."
+    },
+    {
+      "path": "J\\J36\\J36nB348.xml",
+      "mentions": 39,
+      "title": "Doctrinal Treatises of Master Ouyi of Lingfeng",
+      "title_zh": "靈峰蕅益大師宗論",
+      "snippet": "...執。執之既久，由狂入癡，故 永明大師大開教眼，以明宗鏡。至寂音師，且說文字 禪。紫柏大師，寂音再來，而憨山師，直顏其全書曰《紫 柏集》。憨集最富，未傳，紫竹林顓愚師..."
+    },
+    {
+      "path": "X\\X73\\X73n1456.xml",
+      "mentions": 29,
+      "title": "Elder Hanshan’s Dream-Travel Collection",
+      "title_zh": "憨山老人夢遊集",
+      "snippet": "...曜，凌紙怪發，善根眾生應機吸受如方侯者，歷河 沙劫猶未艾也。嗚呼，偉矣哉！大師與紫柏尊者皆以 英雄不世出之資，當獅絃絕響之候，捨身為法，一車 兩輪。紫柏之文雄健而斬..."
+    },
+    {
+      "path": "J\\J22\\J22nB116.xml",
+      "mentions": 24,
+      "title": "Complete Works of Elder Hanshan’s Dream Journeys",
+      "title_zh": "憨山老人夢遊全集",
+      "snippet": "毋忽！」 示半偈聞禪人 禪人少習舉子業，有出世志，四十棄妻子禮紫柏 老人之弟子果清湛公，祝髮于歸宗。歸宗乃昔諸 尊宿建法幢之禪窟，有如來舍利在焉！..."
+    },
+    {
+      "path": "J\\J28\\J28nB219.xml",
+      "mentions": 18,
+      "title": "Recorded Sayings of Monk Zhuanyuheng of Purple Bamboo Grove",
+      "title_zh": "紫竹林顓愚衡和尚語錄",
+      "snippet": "...廣略、大小部類為次；有取 經、律、論、疏為次；有取說時先後為次。 神廟初年，有 紫柏老人見南北二藏板印造艱難，遠方更難於持 行流布，立意轉梵莢為方冊，印造、流布二俱..."
+    },
+    {
+      "path": "GA\\GA042\\GA042n0042.xml",
+      "mentions": 13,
+      "title": "Gazetteer of Sheng’en Monastery, Dengwei Mountain",
+      "title_zh": "鄧尉山聖恩寺志",
+      "snippet": "沿門乞得萬觔鐘 次第靈文鑄七重一撞一 聲經一部 天寒莫怯五更風有紫柏老人集行世 憨山德清禪師于萬曆末至山後，與仲容徐孝廉書云： 山野夙慕，吳中多君子..."
+    },
+    {
+      "path": "J\\J34\\J34nB299.xml",
+      "mentions": 12,
+      "title": "Recorded Sayings of Monk Sanfeng Zang",
+      "title_zh": "三峰藏和尚語錄",
+      "snippet": "...。時禪風淪落，細素英宿絕口宗門，而平泉頗事參 究。師因閱大慧語錄，決志大事，奔禮紫柏大師，參竹 篦話，久無所入，儒冠執侍。柏門風高峻，每以灰鞭棘 棒，日加捶楚，缺眉..."
+    },
+    {
+      "path": "B\\B14\\B14n0085.xml",
+      "mentions": 12,
+      "title": "Annotated Chronological Biography of Master Hanshan",
+      "title_zh": "憨山大師年譜疏註",
+      "snippet": "...之太監。奸惡者．倚權以 作弊．愿謹者．無智以設法．故致民困國危．無可救藥。憨山．紫柏．蓮池．妙峯．同于此時 出興于世．其陰翼治道．冥庀民生也．大矣。憨山以弘法遭誣．..."
+    },
+    {
+      "path": "X\\X77\\X77n1524.xml",
+      "mentions": 11,
+      "title": "Supplement to the Continued Biographies of Eminent Monks",
+      "title_zh": "補續高僧傳",
+      "snippet": "...紀載之人立號，而從編纂之家受名， 亦循贊寧師之義例，不稱續而稱宋之意也。昔吾師 紫柏老人，甞以傳燈未續為慧命一大負，此乃專為 習禪一門言也。若不惟遞衍五燈，而又具載..."
+    },
+    {
+      "path": "J\\J23\\J23nB118.xml",
+      "mentions": 10,
+      "title": "Posthumous Writings of Chan Master Micang Kai",
+      "title_zh": "密藏開禪師遺稿",
+      "snippet": "...藏禪師遺稿序 密藏開禪師遺稿，法孫按指上人所收輯也。藏師英 偉雄駿，千仞璧立，為紫柏尊者上首，法筵海眾所至 雲涌，定中知本師將有王難，刺血上書，一夕隱去。師 資閟現..."
+    },
+    {
+      "path": "GA\\GA010\\GA010n0009.xml",
+      "mentions": 10,
+      "title": "New Gazetteer of Putuo Luojia",
+      "title_zh": "普陀洛迦新志",
+      "snippet": "...流。大曉以閃電明心，賢良能呪水愈疾。中贊感魚籃入夢，別庵有龍衛投 懷。半偈受持，紫柏得死生無礙；三年禪觀，妙峯知淨穢一如。見灴披法服而行， 相偕蓮侶；嗣銑脫臭囊而去..."
+    },
+    {
+      "path": "GA\\GA032\\GA032n0032.xml",
+      "mentions": 9,
+      "title": "Gazetteer of Jingshan (Vols. 6–14)",
+      "title_zh": "徑山志(第6卷-第14卷)",
+      "snippet": "月亭得法師塔銘 陸光祖 幻于上人塔銘 瞿汝稷 紫柏大師塔銘 釋德清 補遺"
+    },
+    {
+      "path": "X\\X13\\X13n0287.xml",
+      "mentions": 8,
+      "title": "Subcommentary Clarifying the Commentary on the Śūraṅgama Sutra",
+      "title_zh": "楞嚴經疏解蒙鈔",
+      "snippet": "大興隆寺魯山法師普泰楞嚴管見。 曹溪憨山海印大師德清懸鏡一卷，通議十卷。 紫柏達觀大師真可楞嚴解一卷，。 雪浪三懷法師洪恩經解科判一卷，。 雲棲蓮池和"
+    },
+    {
+      "path": "LC\\LC06\\LC06n0006.xml",
+      "mentions": 7,
+      "title": "Survey of Canon Editions Through the Dynasties and a New Catalog of the Chinese Canon",
+      "title_zh": "歷朝藏經略考及新編漢文大藏經目錄",
+      "snippet": "...朽，《北藏》請印不易，不如改刻方冊本，易印也易保存。幻餘贊 同其議而未實行。這時紫柏（真可）聽說其事，就力促幻餘發起刻藏。其後，紫柏的 侍者密藏（道開）一同參加，專..."
+    },
+    {
+      "path": "J\\J28\\J28nB221.xml",
+      "mentions": 6,
+      "title": "Recorded Sayings of Chan Master Faxiyin on the Śūraṅgama",
+      "title_zh": "楞嚴法璽印禪師語錄",
+      "snippet": "...之龜鑑，山僧辭不獲已，只得勉強應命。嗣後須賴諸 人各各同心鼓舞、共力匡持，方不辜紫柏老人刺血 書聯、長水大師刳心註疏、密藏大師規模後學之苦 心也。既然如是，山僧今日..."
+    },
+    {
+      "path": "J\\J26\\J26nB181.xml",
+      "mentions": 6,
+      "title": "Bushuitai Collection",
+      "title_zh": "布水臺集",
+      "snippet": "...門無人耳！」川卒毀版以謝。居無何，有為妖書 詆上者，詔捕弗獲，當事者藉口桑門，時紫柏可公逮 繫矣！一時名德引去馳師，師笑曰：「學道期了生死，生 死了，顧反畏禍邪？」..."
+    },
+    {
+      "path": "J\\J25\\J25nB166.xml",
+      "mentions": 6,
+      "title": "Dharma Sayings of Fushan",
+      "title_zh": "浮山法句",
+      "snippet": "...納師資禮所供，獨受一紫伽黎及水晶素珠為浮 渡之鎮，而 瀋邸不復南面朝釋子矣。師於紫柏老 人後而未往，挂錫薊門，而紫柏示受王難，譸張之徒 虎且域。招提大恐，師以空寂我..."
+    },
+    {
+      "path": "GA\\GA044\\GA044n0047.xml",
+      "mentions": 6,
+      "title": "Gazetteer of Xiuyun Monastery, Tanzhe Mountain",
+      "title_zh": "潭柘山岫雲寺志",
+      "snippet": "...八 年葛天麟記，至正某年危素記。明碑三：正統 某年胡濙記，弘治十年謝遷記，萬曆中紫柏 禪師送龍子歸潭文也。 明大學士謝遷記重修嘉福寺碑文曰：司禮"
+    },
+    {
+      "path": "GA\\GA021\\GA021n0019.xml",
+      "mentions": 6,
+      "title": "Gazetteer of Li’an Monastery, Wulin",
+      "title_zh": "武林理安寺志",
+      "snippet": "...石門之響。肇迹錢塘，徧參名宿。年纔髫齔，已悟空玄。始依雪浪之座，響答無 遺；繼登紫柏之壇，機緣遂契。親承密印、大闡幽微，得最上乘、開正法眼。遂乃振錫南旋，別開殊境，..."
+    },
+    {
+      "path": "X\\X88\\X88n1646.xml",
+      "mentions": 6,
+      "title": "Biographies of Laypeople",
+      "title_zh": "居士傳",
+      "snippet": "...遠近響應。終以集事。開之。名夢禎。秀水人。 萬歷中進士。官至國子祭酒。免歸。師事紫柏可公。發 宏護之願。刺血寫經律論各一卷。廷祼別有傳。與繩 晚歲亦從紫柏老人遊。研..."
+    },
+    {
+      "path": "J\\J40\\J40nB483.xml",
+      "mentions": 5,
+      "title": "Recorded Sayings of Chan Master Zhufeng Min",
+      "title_zh": "竺峰敏禪師語錄",
+      "snippet": "...悃壯皇圖。此瓣香，派發尼山，源匯鷲嶺，爇 向爐中，奉為闔郡請主縉紳檀護、中興本院紫柏大 師、洎闔院耆德，伏願隱顯無私，同瑩法海光佛日，真 俗不二，再芳蓮社續心燈。此..."
+    },
+    {
+      "path": "J\\J34\\J34nB311.xml",
+      "mentions": 5,
+      "title": "Complete Record of Chan Master Juelangsheng of Tianjie",
+      "title_zh": "天界覺浪盛禪師全錄",
+      "snippet": "...人了此分 別是非之心，則與此道相應，何有聖凡迷悟之異哉？ 近世此道寂寥，幸雲棲、紫柏、憨山、禹門、壽昌、雲門、博 山、天童、磬山、瓶匋諸大老遞相振起，今亦取次示滅，..."
+    },
+    {
+      "path": "B\\B24\\B24n0137.xml",
+      "mentions": 5,
+      "title": "Register of Correct Names",
+      "title_zh": "正名錄",
+      "snippet": "...曰．予閱圓悟禪師語錄．係宋平江府虎丘山門人紹隆等編．則知虎丘為圓悟首座也。又 閱紫柏大師集．其序應庵和尚語錄云．臨濟正宗大於楊岐會．盛於五祖演．至於圓悟嫡嗣曰虎丘．..."
+    },
+    {
+      "path": "B\\B16\\B16n0088.xml",
+      "mentions": 5,
+      "title": "Selected Extracts from the Complete Collection of Illustrations and Writings from Antiquity to the Present (Part 2)",
+      "title_zh": "古今圖書集成選輯（下）",
+      "snippet": "...居五年住錫曹溪大鑒之 道勃焉中興甲寅慈聖賓天詔至乃慟哭披剃返初 服於是東遊吳越赴紫柏之葬於雙徑弔蓮池於雲 棲結庵廬山五乳峰下效遠公六時刻漏專修淨業 居四年復往曹溪示..."
+    },
+    {
+      "path": "TX\\TX29\\TX29n0019.xml",
+      "mentions": 4,
+      "title": "Complete Works of Master Taixu: Part Nineteen – Collected Writings (Vols. 1–20)",
+      "title_zh": "太虛大師全書．第十九編\u3000文叢(第1卷-第20卷)",
+      "snippet": "...之世，儒者講學大盛，佛教亦並時興起，教有雪 浪、交光、雲棲、幽溪、明昱諸師，禪有紫柏、憨山、博山、永覺、三峰諸師，復有 周海門、袁中郎、曾鳳儀、錢牧齋諸居士，皆宗說..."
+    },
+    {
+      "path": "J\\J34\\J34nB295.xml",
+      "mentions": 4,
+      "title": "Study of Buddhism: Examinations and Admonitions",
+      "title_zh": "學佛考訓",
+      "snippet": "...說法。 笑巖禪師，嘗宴坐，見一沙門自空中持錫逼座而立， 須臾問荅畢，復凌空去。 紫柏大師，得旨於少室潤，及遊京師，宗說兼通，化感 宮掖，忽罹無妄，竟坐脫。有《紫柏集..."
+    },
+    {
+      "path": "J\\J28\\J28nB204.xml",
+      "mentions": 4,
+      "title": "Recorded Sayings of Chan Master Binya",
+      "title_zh": "斌雅禪師語錄",
+      "snippet": "...何提臺 臨行未得一敘，動在機先，恐落今時常套，惟高明諒 之。遙瞻弘護，泉石光輝，紫柏形勝，漢治名藍，當稱大 力，克建大功。惜乎，數經興廢，劫運使然。第所慮者，山 空..."
+    },
+    {
+      "path": "J\\J20\\J20nB097.xml",
+      "mentions": 4,
+      "title": "Heavenly Music Rings in Emptiness (Collection)",
+      "title_zh": "天樂鳴空集",
+      "snippet": "...士以鮑性泉所著《天樂鳴空集》見示。性泉，山陰人，鬻 楮於檇李，不過一市賈耳。初禮紫柏大師，師勗以背 讀《楞嚴》、《法華》，遂乞名筆，書細楷方冊，鏤板流通。嗣復 肆志..."
+    },
+    {
+      "path": "X\\X57\\X57n0975.xml",
+      "mentions": 4,
+      "title": "Collection on Following Conditions",
+      "title_zh": "隨緣集",
+      "snippet": "...大藏板朽蠧欲隳，爰命不肖耀修刻重新。多方弘 護，深知受囑靈山；莊語殷勤，喜見同心紫柏。顧耀藏 拙山邨，曾亦如蟲食字；拜瞻藏典，甞悲宿蠧侵文。鈞 命賷來，似符夙志；奉..."
+    },
+    {
+      "path": "TX\\TX02\\TX02n0001.xml",
+      "mentions": 4,
+      "title": "Complete Works of Master Taixu: Part One – Comprehensive Study of Buddhism (Vols. 27–34)",
+      "title_zh": "太虛大師全書．第一編\u3000佛法總學(第27卷-第34卷)",
+      "snippet": "...文 亦作法界三觀頌等。此諸德均或引教屬宗，或伸宗融教，極盡教禪配合之妙。迨明之 紫柏、憨山，皆精研教義，加以註釋，所發揮更多了。明季居士中，如曾鳳儀、錢謙 益等，亦..."
+    },
+    {
+      "path": "TX\\TX31\\TX31n0019.xml",
+      "mentions": 3,
+      "title": "Complete Works of Master Taixu: Part Nineteen – Collected Writings (Vols. 137–321)",
+      "title_zh": "太虛大師全書．第十九編\u3000文叢(第137卷-第321卷)",
+      "snippet": "...久矣！其大機而現大用者，臨濟、德山而外 ，前有馬祖、黃蘗、趙洲，後有雲門、大慧、紫柏。紫柏於己則得也，而以臨濟玄要 比天台時教：謂魏無忌椎殺壬齕，能代領其十萬之眾者..."
+    },
+    {
+      "path": "J\\J34\\J34nB312.xml",
+      "mentions": 3,
+      "title": "Jiahe Recorded Sayings of Chan Master Juelangsheng of Tianjie",
+      "title_zh": "天界覺浪盛禪師嘉禾語錄",
+      "snippet": "...用達大師韻 剎竿扶起意尤新，鷲嶺花開別有春，今日當機拈出 看，儼然能笑是何人？ 紫柏風高類不齊，一言曾豁古今迷。楞嚴統揭真聲 教，法藏全彰豈止啼。 紹述堪承三祖家，..."
+    },
+    {
+      "path": "J\\J27\\J27nB198.xml",
+      "mentions": 3,
+      "title": "Recorded Sayings of Chan Master Xueguan",
+      "title_zh": "雪關禪師語錄",
+      "snippet": "...法門，如歷諸掌；戒律中興，掃除穢壤。淨土禪關，分斤 擘兩；千古雲棲，叢林榜樣。 紫柏大師贊 師當末季運，吾宗何澹薄？獨起振臂呼，群雄爭逐角。 禪河壅復流，魚龍正瀺灂..."
+    },
+    {
+      "path": "J\\J27\\J27nB194.xml",
+      "mentions": 3,
+      "title": "Recorded Sayings of Chan Master Xuezui of Zhaojue",
+      "title_zh": "昭覺丈雪醉禪師語錄",
+      "snippet": "...像於福城，似受靈山之託。 等閒露頂坐巖厂，杖頭捏定，風生握斷海山川，活卓 卓。 紫柏院福林禪師像 碧落風前，科頭箕踞，青松白石，友煙弄雲，就裏些些 快活，從不輕示於..."
+    },
+    {
+      "path": "GA\\GA079\\GA079n0081.xml",
+      "mentions": 3,
+      "title": "Gazetteer of Qingliang Mountain",
+      "title_zh": "清涼山志",
+      "snippet": "...萬曆丙戌，僧智光、淨立等約五 十三人，構屋結社。唯十方學道者共居，不許子孫承業。紫柏真可詩：狐兔成羣 白日嘷 天開此地育金毛翦除荊棘憑君相 培植栴檀在我曹靜藹刳心成大義"
+    },
+    {
+      "path": "B\\B28\\B28n0157.xml",
+      "mentions": 3,
+      "title": "Posthumous Writings of Layman Yang Renshan",
+      "title_zh": "楊仁山居士遺著",
+      "snippet": "...希有。卓哉。然靜琬受付 屬於南岳思大師。馮王生五宗四家禪席風行之世。 密公有憨山紫柏陸五台馮開之相助激揚。獨居士 奮起於末法蒼茫宗風歇絕之會。以身任道。論師。法 將..."
+    },
+    {
+      "path": "X\\X40\\X40n0719.xml",
+      "mentions": 3,
+      "title": "Essential Collection on Matters and Meanings of Re-Establishing the Vinaya",
+      "title_zh": "重治毗尼事義集要",
+      "snippet": "...哲人。痛隙駒之莫挽，捨 慈母以披緇。思樂土之可歸，羨蓮師而私淑。綱宗 急辨，每懷紫柏之風；護法忘身，願續匡山之派。睹 時流以長歎，讀遺教以增哀。爰於甲子季冬，禮無 ..."
+    },
+    {
+      "path": "TX\\TX23\\TX23n0013.xml",
+      "mentions": 2,
+      "title": "Complete Works of Master Taixu: Part Thirteen – Treatise on Sectarian Function (Vols. 122–139)",
+      "title_zh": "太虛大師全書．第十三編\u3000宗用論(第122卷-第139卷)",
+      "snippet": "...法 ，是否？曰：然。時適天雨，乃問即今落雨，百法何法所攝？講師茫然，莫知所答。 紫柏師曰：性相俱通而未悟達摩之禪，如葉公畫龍，頭角望之非不宛然，欲其濟亢旱 、興雲雨..."
+    },
+    {
+      "path": "T\\T49\\T49n2038.xml",
+      "mentions": 2,
+      "title": "Continuation Collection of the Brief Investigation of Antiquity (Shijian)",
+      "title_zh": "釋鑑稽古略續集",
+      "snippet": "...修 念佛三昧。於育王獲覩如來丈六金身。因是 感激然身。頂間現化佛。靈化殊甚云。 紫柏大師 諱僧可。號達觀。吳江人。姓沈氏。 少負俠氣。遇虎丘慧輪出家。後往清涼燕京。..."
+    },
+    {
+      "path": "J\\J40\\J40nB479.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Zhufengxu of Zhaojue",
+      "title_zh": "昭覺竹峰續禪師語錄",
+      "snippet": "...齊 捉敗，雖然如是，瞿曇有甚長處丕讚如斯？」遂爇香，云： 「莫怪渠儂多意氣，旃檀紫柏一般馨。」 川北鎮劉護法誕辰，請上堂。「昭覺中興法戰場，知音 今日共敷揚，全身高..."
+    },
+    {
+      "path": "J\\J39\\J39nB454.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Pinjixiang",
+      "title_zh": "頻吉祥禪師語錄",
+      "snippet": "...」師曰：「者 老漢擬欲坐斷天下人舌頭，而不知也是李向赤邊 咬。」 舉：「雲門澄同紫柏、月川二大師，太史陶石簣、黃慎軒 諸公翫月次，軒問：『馬祖與南泉、西堂、百丈翫月..."
+    },
+    {
+      "path": "J\\J31\\J31nB267.xml",
+      "mentions": 2,
+      "title": "Lazy Studio Supplementary Collection of Monk Muyun",
+      "title_zh": "牧雲和尚嬾齋別集",
+      "snippet": "...孤峰，請佛法藏于 上國。以攝六根兮，而繫念於古佛青蓮；以一宴坐兮， 而投機於尊者紫柏。游大人之門，固難為言；觀滄海 之量，自難為水。古稀告寂，其儀不忒。貽厥孫謀，永..."
+    },
+    {
+      "path": "J\\J28\\J28nB205.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Jieweizhou",
+      "title_zh": "介為舟禪師語錄",
+      "snippet": "...，書贈。 去來賓主菊花秋，正此時當闡化猷，懸辨縱橫稱義 虎，顯揚曲屈繼禪稠。恢張紫柏門庭煥，句破楞嚴狂 見休，不吝廣長無壞舌，分身塵剎喻三周。 龍池和尚小祥塔前上供..."
+    },
+    {
+      "path": "J\\J26\\J26nB188.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Rujiu Ruibai",
+      "title_zh": "入就瑞白禪師語錄",
+      "snippet": "...見 知識。于是始有事南詢香積，取諸分衛，旦過取諸半 跏，漂梗栖苴，都無一向。邂逅紫柏之徒，授以毘舍浮 偈，頗受持之。歷幕山之門，惎之閱教，非其好也。慕雲 棲蓮公之為..."
+    },
+    {
+      "path": "J\\J26\\J26nB177.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Poshan",
+      "title_zh": "破山禪師語錄",
+      "snippet": "... 三年庚午。 師三十四歲，為\uD860\uDF4F轢嚴居士送大悲像入院上堂。 少司成埽菴譚居士請題紫柏大師像，通金粟悟 和尚法嗣書，悟和尚耑使送法衣至東塔。按：師上 堂云：「大庾嶺頭..."
+    },
+    {
+      "path": "B\\B35\\B35n0194.xml",
+      "mentions": 2,
+      "title": "General Catalogue of the Chinese Tripiṭaka",
+      "title_zh": "中華大藏經總目錄",
+      "snippet": "...31423慈受懷深禪師廣錄四卷 續甲第三十一套第四冊至第三十二套第一冊 1424紫柏尊者全集二十九卷、卷首一卷 嘉續52 1425紫柏尊者別集四卷 嘉續55 112..."
+    },
+    {
+      "path": "B\\B15\\B15n0088.xml",
+      "mentions": 2,
+      "title": "Selected Extracts from the Complete Collection of Illustrations and Writings from Antiquity to the Present (Part 1)",
+      "title_zh": "古今圖書集成選輯（上）",
+      "snippet": "...六百一十 餘年 明因寺 京師正陽門外三里河東之明因寺乃行僧樂居之 明萬曆二十九年紫柏大師自五臺來夜夢十六僧 請挂瓶鉢于寺亭午有負巨軸售者軸十六貫休所 畵羅漢也軸軸展..."
+    },
+    {
+      "path": "X\\X84\\X84n1579.xml",
+      "mentions": 2,
+      "title": "Continuation of the Record Pointing at the Moon",
+      "title_zh": "續指月錄",
+      "snippet": "...星禪師 徑山月林鏡禪師 金陵古淵清禪師 伏牛無礙明理禪師 雲棲蓮池袾宏禪師 紫柏達觀真可禪師 黃蘗無念深有禪師 夔州白馬方彖禪師 鵝湖養庵心禪師 真寂聞谷廣印禪師 破山..."
+    },
+    {
+      "path": "X\\X62\\X62n1181.xml",
+      "mentions": 2,
+      "title": "Admonitions for Buddha-Recitation",
+      "title_zh": "念佛警策",
+      "snippet": "警眾 卷下 紫柏老人集示念佛切要 示淨心居士淨土法語 西方合論"
+    },
+    {
+      "path": "Y\\Y28\\Y28n0028.xml",
+      "mentions": 1,
+      "title": "Flower Rain Collection (IV)",
+      "title_zh": "華雨集（四）",
+      "snippet": "...，還沒有見到記錄），顯然已雜亂不 堪了。憨山德清（西元一五四六——一六二三）在《紫柏尊者全集》中說：「然 明（朝）國初，尚存典型，此後則宗門法系蔑如也，以無明眼宗匠..."
+    },
+    {
+      "path": "Y\\Y24\\Y24n0024.xml",
+      "mentions": 1,
+      "title": "The Dharma as the Light that Saves the World",
+      "title_zh": "佛法是救世之光",
+      "snippet": "...有 特別推重地藏菩薩的，現在舉兩位大德來說。明末清初，佛教史上有名的四大師 ，即紫柏、蓮池、憨山、蕅益。蕅益大師是一位大通家，禪、律、天臺、淨土， 無一不弘揚。他特..."
+    },
+    {
+      "path": "Y\\Y22\\Y22n0022.xml",
+      "mentions": 1,
+      "title": "Studies in Buddhist History and Geography",
+      "title_zh": "佛教史地考論",
+      "snippet": "...事矣。其先，（臨濟）禪者有憨山德清，興南華祖庭，著述亦富（ 卒於明天啟三年）；有紫柏真可，刻方冊藏經，大有益於後代（卒於萬曆間）。 然憨山曾被流於嶺南，紫柏入京弘法受誣..."
+    },
+    {
+      "path": "Y\\Y19\\Y19n0019.xml",
+      "mentions": 1,
+      "title": "My View of Religion",
+      "title_zh": "我之宗教觀",
+      "snippet": "... 卑田院，其實是佛教慈濟事業的悲田院。但當時的佛教，衰落到連名稱都弄不清 了。如紫柏大師來京師弘法，當然會接觸到朝臣，因此被誣陷而死在獄中。有些 人，怪他不知道高蹈..."
+    },
+    {
+      "path": "X\\X88\\X88n1667.xml",
+      "mentions": 1,
+      "title": "Religion, Vinaya, and the Development of Various Schools",
+      "title_zh": "宗教律諸宗演派",
+      "snippet": "頓覺性融，理契真宗，靈鷲正脈。 緜遠昌隆。 臨濟下三十三世，歸宗紫柏真可大師演派， 從真字起十六字： 真法元在，解契恒靈。慈門師子， 大吼雷音。"
+    },
+    {
+      "path": "X\\X88\\X88n1657.xml",
+      "mentions": 1,
+      "title": "Biographies of Virtuous Women",
+      "title_zh": "善女人傳",
+      "snippet": "...更衣，晨起然香禮佛，還坐一榻，泊然而化。 子用先，官至薊遼總督，亦篤信佛法，師事紫柏老人， 葢母教使然也。 陶氏長水居士，張守約之繼室也。居士精修淨土，一 蔬一飯，..."
+    },
+    {
+      "path": "X\\X87\\X87n1618.xml",
+      "mentions": 1,
+      "title": "Guide to the Patriarchal Court",
+      "title_zh": "祖庭指南",
+      "snippet": "...凡 六剎。無準忌日，師拈香云：盡道先師今日死，誰知今 日是生朝？不知却有何憑據？紫柏黃檀一處燒。嗣法 六人。 第二十二世天目高峯原妙禪師雪巖，嗣吳江徐氏 子。十五出..."
+    },
+    {
+      "path": "X\\X78\\X78n1549.xml",
+      "mentions": 1,
+      "title": "Record of Pure Land Saints and Worthies",
+      "title_zh": "淨土聖賢錄",
+      "snippet": "...明師 剃染。十八，受戒於雲棲。歷遊講肆，習天台教觀，深入 一乘。萬歷二十二年，謁紫柏禪師於金陵，親承授記。 還武林，至十八㵎中，愛其林壑幽異，誅茅壘石，搆一 小舍。..."
+    },
+    {
+      "path": "X\\X74\\X74n1499.xml",
+      "mentions": 1,
+      "title": "Dharma-Wheel Precious Repentance for the Dharma-Realm Water-and-Land Great Feast",
+      "title_zh": "法界聖凡水陸大齋法輪寶懺",
+      "snippet": "一心奉請大佛頂首棱嚴經正脈 一心奉請佛說阿彌陀經疏鈔 一心奉請紫柏尊者全集 一心奉請憨山大師夢遊全集 一心奉請性相通說 一心奉請莊子內篇註"
+    },
+    {
+      "path": "X\\X72\\X72n1435.xml",
+      "mentions": 1,
+      "title": "Expanded Record of Chan Master Wuyi Yuanlai",
+      "title_zh": "無異元來禪師廣錄",
+      "snippet": "...歸宗之金輪峯，自晉歷今千有餘載，放光 輒彌山谷，屢現祥異，不可殫述。果清湛上座，紫柏老 人子也，以因緣力，積歲葺治，啟視得金銀瑠璃滿三 缾，其餘眷屬舍利不可稱計，分..."
+    },
+    {
+      "path": "TX\\TX32\\TX32n0020.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part Twenty – Collected Poetry",
+      "title_zh": "太虛大師全書．第二十編\u3000詩存",
+      "snippet": "漢陽峰下寺，獨露大雄身！ 鐵塔耶舍尊，墨池王右軍，嘉陵遺跡在，紫柏中興聞。曲澗流餘韻，空林慨夕曛； 今輪一重轉，雲氣觀絪氳。 自歸宗赴西林東林宿東..."
+    },
+    {
+      "path": "TX\\TX30\\TX30n0019.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part Nineteen – Collected Writings (Vols. 21–136)",
+      "title_zh": "太虛大師全書．第十九編\u3000文叢(第21卷-第136卷)",
+      "snippet": "...博聞篤學，藏有明刻八識規矩增鈔本，載唐三藏法師玄奘頌註 ，明魯菴法師普泰補註，明紫柏禪師達觀詳解，菩薩戒弟子李馭芳增鈔，同戒友謝璠 、林有樹參訂。補註、詳解，淆訛疊..."
+    },
+    {
+      "path": "TX\\TX25\\TX25n0016.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part Sixteen – Book Reviews",
+      "title_zh": "太虛大師全書．第十六編\u3000書評",
+      "snippet": "...奪於禪宗師之意旨 相傳流支與達磨交惡，當亦因此——，故而如此。如後代永明及憨山、紫柏等禪師之 說法相唯識，多以攝唯識歸禪宗為旨，而非悉由其時學級未窮之所致也。至於真..."
+    },
+    {
+      "path": "TX\\TX21\\TX21n0013.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part Thirteen – Treatise on Sectarian Function (Vols. 23–76)",
+      "title_zh": "太虛大師全書．第十三編\u3000宗用論(第23卷-第76卷)",
+      "snippet": "...要等。而參究話頭的悶葫蘆，仍掛在心上。 秋天去住藏經閣看藏經，那時喜歡看憨山集、紫柏集，及其他古德詩文集與經論 等。如此經過了幾個月，同看藏經的有一位老首座告訴我說..."
+    },
+    {
+      "path": "TX\\TX20\\TX20n0012.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part Twelve – Treatise on Sectarian Essence",
+      "title_zh": "太虛大師全書．第十二編\u3000宗體論",
+      "snippet": "... 行」。樂天說：『三歲孩童都曉得』。師曰：『三歲童孩都曉得，八十翁翁行不得』 。紫柏禪師常言：只持得毗舍浮佛半偈；若能持全偈，便參學事畢。所以能深思一偈 ，即可概括..."
+    },
+    {
+      "path": "TX\\TX17\\TX17n0009.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part Nine – Institutional Proposals",
+      "title_zh": "太虛大師全書．第九編\u3000制議",
+      "snippet": "...視之』？答云：『設使果有此人，當敬如佛，待以 師禮；我輩非不為也，實未能也』。又紫柏大師生平一粥一飯，別無雜物，脅 不著席四十餘年，猶以未能持微細戒，故終不敢為人授..."
+    },
+    {
+      "path": "TX\\TX01\\TX01n0001.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part One – Comprehensive Study of Buddhism (Vols. 1–26)",
+      "title_zh": "太虛大師全書．第一編\u3000佛法總學(第1卷-第26卷)",
+      "snippet": "...一。以故未可拘守沙門苾芻杜多苦行，唯幽閒清淨端居之是 安。古師聖天、圭峰、大慧、紫柏，近德松風、月照，斯堪法矣！異日人心晉善世道 康和，如來正教普被全球，多有在家菩..."
+    },
+    {
+      "path": "T\\T47\\T47n1973.xml",
+      "mentions": 1,
+      "title": "Precious Mirror of the Lushan Lotus School",
+      "title_zh": "廬山蓮宗寶鑑",
+      "snippet": "...集。標真正譌尋香討根。實淨土之指南 也。因屬楞嚴白法師。刻而傳之而僭為之 引。 紫柏弟子錢士升書於放下菴之更雨堂 廬山東林禪寺蓮宗善法祖堂勸修淨業 僧謹自編集 蓮宗..."
+    },
+    {
+      "path": "T\\T44\\T44n1850.xml",
+      "mentions": 1,
+      "title": "Critical Commentary on the Awakening of Faith in Mahāyāna",
+      "title_zh": "大乘起信論裂網疏",
+      "snippet": "...但當諦觀日影去來之相。便識 東西。眾生亦爾。若能諦觀生老病死之相。便 能覺悟。故紫柏大師云。最先一佛。以苦諦為 師也。 眾生亦爾。依於覺故。而有不覺。妄念迷 生。然..."
+    },
+    {
+      "path": "LC\\LC02\\LC02n0002.xml",
+      "mentions": 1,
+      "title": "Brief Lectures on the Origins and Development of Chinese Buddhism",
+      "title_zh": "中國佛學源流略講",
+      "snippet": "...到了明代，特別是明末，又有四大家，這就是雲棲袾宏（公元一五 三五～一六一五年），紫柏真可（公元一五四三～一六〇三年），憨山德清（公 元一五四六～一六二三年），以及較晚的..."
+    },
+    {
+      "path": "J\\J39\\J39nB463.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Gumeilie of Weishan",
+      "title_zh": "溈山古梅冽禪師語錄",
+      "snippet": "...是敲唱雙行句？」師顧浮 山和尚云：「我法兄在座。」進云：「雪淨青峰增意氣，雲旋 紫柏靄門庭。」師云：「扶桑湧出一輪紅。」進云：「當軒玅曲 人天聳，就裏玄機海嶽摧。」..."
+    },
+    {
+      "path": "J\\J38\\J38nB425.xml",
+      "mentions": 1,
+      "title": "Complete Record of Chan Master Jifei",
+      "title_zh": "即非禪師全錄",
+      "snippet": "...跨獅王，花開遍國，日涌榑桑。 達觀大師 道貌如月，禪心若雪，透氣吐詞，迅雷轟烈。紫柏參天， 業風頓折，法門孤忠，亞聖之傑。 雲棲大師 道包儒釋，學貫人天，身居物外，..."
+    },
+    {
+      "path": "J\\J38\\J38nB418.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Huiyue Xu",
+      "title_zh": "晦嶽旭禪師語錄",
+      "snippet": "...洞山麻三斤，雲門乾屎橛，檢點將來，著甚死急？」 二手齊拈香，云：「一炷黃檀，一炷紫柏。」合掌，云：「冤屈，冤 屈。」 伽藍祠。「法社干城，叢林蠱幹。神威肅肅，赤心片..."
+    },
+    {
+      "path": "J\\J38\\J38nB415.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Miaoyun of Dabei",
+      "title_zh": "大悲妙雲禪師語錄",
+      "snippet": "...難尋覓。大悲今日 無以表懷，一盞茶、一爐香聊申昔愛。」乃插香，云：「不是 黃檀并紫柏，寒香陣陣透西山。」 紫雲旭雲禪師塔前設供。「恭惟和尚數主名剎，兩住 紫雲，提南..."
+    },
+    {
+      "path": "J\\J38\\J38nB407.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Shengren of Qianshan",
+      "title_zh": "千山剩人禪師語錄",
+      "snippet": "...今之所患或甚于昔 之所患。嘉、隆以前，士大夫留心斯道者，其言行不大 顯著，雲棲、紫柏、憨山三老道法盛時，士大夫多與之 遊，令一時學者知我佛道淵廣，而宋儒迂拘未足盡 ..."
+    },
+    {
+      "path": "J\\J37\\J37nB399.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Tianshuzhi of Helin",
+      "title_zh": "鶴林天樹植禪師語錄",
+      "snippet": "...禪師、歷 代住持尊宿，燈燈相照，世世永傳。」次拈云：「此一瓣香， 奉為傳雙徑峰前紫柏尊者一脈破山堂上始開禪 宗雪柏老人直下第五代先邁菴大師，以報剃度之 恩。」正拈香..."
+    },
+    {
+      "path": "J\\J37\\J37nB384.xml",
+      "mentions": 1,
+      "title": "Leftover Echoes of ‘Knocking on Emptiness’ by Chan Master Hanxiu",
+      "title_zh": "憨休禪師敲空遺響",
+      "snippet": "...介菴見過 松門靜掩綠於苔，忽報風流學士來，促膝喜從今日 論，好懷都向此時開。光分紫柏寒生翠，座襲清香暖 放梅，茅舍欲留深共語，原頭暮色苦相催。 次介菴來韻 瑞雪初飄..."
+    },
+    {
+      "path": "J\\J37\\J37nB383.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Hanxiu",
+      "title_zh": "憨休禪師語錄",
+      "snippet": "...，雲門推門折足。這一 隊不唧溜漢，雖是醫得眼前瘡、剜卻心頭肉，殊不知 朔風凜冽、紫柏凝霜，翠舞晴軒，竹響千竿之玉；雲連 村墅，寒炊萬井之煙。一一天真、一一明妙，若作..."
+    },
+    {
+      "path": "J\\J37\\J37nB371.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Foyuan",
+      "title_zh": "佛冤禪師語錄",
+      "snippet": "...之悃，所積老僧日錄，不憚風波之險，合朋輩陟至嘉 禾，請匠災梨，三月工竣，板送楞嚴紫柏院，倩彼流通。 返棹西還，推三峽之磼礏，猶靈若之觀井，牽巫峰之 十二，泯雲夢之在..."
+    },
+    {
+      "path": "J\\J36\\J36nB369.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Zhe’an Fan",
+      "title_zh": "蔗菴範禪師語錄",
+      "snippet": "...流， 如風過耳。非從莊嚴劫內，混合主賓。爭向他光影中， 自倒自起。 古今尊宿贊 達觀真可大師 氣將烈火並炎，骨與金剛同壞。法王家裏功臣，癡愛 門中屠獪。脫空語瀉飛濤，嫚..."
+    },
+    {
+      "path": "J\\J36\\J36nB359.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Baiyu",
+      "title_zh": "百愚禪師語錄",
+      "snippet": "...水，不屬尋常律呂家；臨行贈爾鈯斧子，此去闕 蓁住紫霞。紫霞谷深多靈蹟，昔有尊宿號紫柏；壁上 猶存翰墨痕，留與後人作標格。君不見？洞源一派舊 來長，滔滔不斷入清涼；千..."
+    },
+    {
+      "path": "J\\J34\\J34nB313.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Yuzhe Zhi of Qingyuan",
+      "title_zh": "青原愚者智禪師語錄",
+      "snippet": "...將以無念為無念，無情為無情耶？」 一菴曰：「兩末三窮，遇緣即宗，用中猶不豁乎？」紫柏曰： 「以四大觀身而無身相，所謂無身有事之雙超也。」以 前境觀心，有心用而無我執..."
+    },
+    {
+      "path": "J\\J34\\J34nB298.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Shenfeng Xian",
+      "title_zh": "屾峰憲禪師語錄",
+      "snippet": "...卷 大樹垂蔭，祖風奕奕。有宋振典，璿公始闢。開演陀那， 天花降席。代有哲人，燈傳紫柏。密藏繼之，布通方冊。 紺殿嵯峨，光交金碧。法付王臣，道同今昔。斯卷斯人， 惟金..."
+    },
+    {
+      "path": "J\\J33\\J33nB284.xml",
+      "mentions": 1,
+      "title": "Later Record of Chan Master Yezhu of Mount Song in Yizhou",
+      "title_zh": "益州嵩山野竹禪師後錄",
+      "snippet": "...；巢衣， 襵之不驚，門前湖水，日照明生。宗鏡千門通一路，如 何更去外頭尋？ 達觀紫柏大師 處澆漓世，扇象季風，開人天徑，降毒海龍。宏法雖離 難，如處三禪宮，草木都來..."
+    },
+    {
+      "path": "J\\J33\\J33nB283.xml",
+      "mentions": 1,
+      "title": "Harmony Verses on the ‘Poems of the Three Sages of Tiantai’",
+      "title_zh": "天台三聖詩集和韻",
+      "snippet": "...達本空。現前不費纖毫力，日 出西方夜落東。 古來學道外形蹤，且不胸耽一色空。蒼松紫柏年年在，明 月清風西復東。 寒山頂上月輪孤，照見晴空一物無，可貴天然無價寶，薶 ..."
+    },
+    {
+      "path": "J\\J32\\J32nB271.xml",
+      "mentions": 1,
+      "title": "Reading the Canon: A Guide to the Essentials (Vols. 6–44)",
+      "title_zh": "閱藏知津(第6卷-第44卷)",
+      "snippet": "天如則禪師語錄 楚石琦禪師語錄 紫柏老人全集 方便語 壽昌經禪師語錄"
+    },
+    {
+      "path": "J\\J31\\J31nB271.xml",
+      "mentions": 1,
+      "title": "Reading the Canon: A Guide to the Essentials (Vols. 1–5)",
+      "title_zh": "閱藏知津(第1卷-第5卷)",
+      "snippet": "雪巖欽禪師語錄 高峰妙禪師語錄 天如則禪師語錄 楚石琦禪師語錄 紫柏老人全集 方便語 壽昌經禪師語錄 右禪宗"
+    },
+    {
+      "path": "J\\J29\\J29nB233.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Jie’an Jin",
+      "title_zh": "介菴進禪師語錄",
+      "snippet": "...浴 頓空諸有撈明月，誰灶無煙沒夜光？收得海中龍藏 寶，翻身索價有人償。 過楞嚴弔紫柏大師 阿師半偈理更殘，始得叢林復壯觀。此日往來發長 歎，抬眸又覺苦心寒。 示身雲..."
+    },
+    {
+      "path": "J\\J28\\J28nB216.xml",
+      "mentions": 1,
+      "title": "The Remaining Fragments (Collected)",
+      "title_zh": "絕餘編",
+      "snippet": "...之因， 不受過去之果。又然臂香一炷，供養五臺山妙峰老 師，及雲棲和尚，憨山師祖，紫柏大師，密藏尊者，一切 真善知識。願以福慧力，同加覆護，令我所願，速得滿 足。又為..."
+    },
+    {
+      "path": "J\\J28\\J28nB212.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Eryin Mi",
+      "title_zh": "二隱謐禪師語錄",
+      "snippet": "... 入海，今朝百鳥啼春，正恁麼時，如何慶讚？」師云：「瑞雪 滿長安。」進云：「庭前紫柏含雲翠，石畔梅花得令新。」師 云：「阿誰著眼？」進云：「恁麼則一堂風冷澹，千古意..."
+    },
+    {
+      "path": "J\\J26\\J26nB182.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Wanru",
+      "title_zh": "萬如禪師語錄",
+      "snippet": "...，復經鼎革，於順治丁酉示寂之後，法嗣介為重梓 如如、曹山、禹門三會語錄，送入楞嚴紫柏院經坊，附 藏流通，拮据將事，可謂法門幹子矣。奈因龍池原本 付囑，機緣輒多，更無..."
+    },
+    {
+      "path": "J\\J26\\J26nB180.xml",
+      "mentions": 1,
+      "title": "Northern Travels Collection of Chan Master Hongjue Min of Tiantong",
+      "title_zh": "天童弘覺忞禪師北遊集",
+      "snippet": "...底祖師心。 面皮鐵作石為肝，九載憨憨著壁觀，究竟心原無可 覓，何曾有法為人安？ 紫柏尊者達觀可禪師贊 秉慧劍、操智橦，金剛燄、般若鋒，開覺路，復禪叢，流藏 典，惠顓..."
+    },
+    {
+      "path": "J\\J25\\J25nB174.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Juelangsheng of Tianjie",
+      "title_zh": "天界覺浪盛禪師語錄",
+      "snippet": "...修， 漫向此中尋階覓級；千聖心眼，須從者裏八離出微。 噫！誰能於此親見我雲棲？ 紫柏達觀大師 有牙如利劍口似血盆之氣概，惜無吹滅紙燭者與 激揚；有肋下築拳面上揮掌之..."
+    },
+    {
+      "path": "J\\J25\\J25nB173.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Monk Wuming of Shouchang",
+      "title_zh": "壽昌無明和尚語錄",
+      "snippet": "...并引 久嚮和尚開法於壽昌，往來衲子傳者淆訛，要之 皆望剎竿影者也。頃，予自吳越弔紫柏、雲栖二大 老還歸匡山，作逸老計。適頑石禪人自壽昌來，述 和尚入室機緣，予合掌讚..."
+    },
+    {
+      "path": "J\\J10\\J10nA158.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Miyun",
+      "title_zh": "密雲禪師語錄",
+      "snippet": "...穎乎？」師 惻然為留之。岳大司馬元聲喜夸上與緇衣黃冠 者遊，輒以力生自命，以嘗見紫柏尊者，亦獵三教 遺言，遂目撰禪門口訣，詣師就正，藉一言以流通 焉。師展卷，見一「..."
+    },
+    {
+      "path": "GA\\GA056\\GA056n0059.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Yunmen Mountain",
+      "title_zh": "雲門山志",
+      "snippet": "...法師，岐山恒誌公，百歲公，寶悟和尚，寶華山聖心和尚，讀體律師， 金山觀心和尚，及紫柏尊者等。余合掌致敬，彼等指余坐東邊頭序第三空位。阿難 尊者當維那，與余座靠近。聽..."
+    },
+    {
+      "path": "GA\\GA031\\GA031n0032.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Jingshan (Vols. 1–5)",
+      "title_zh": "徑山志(第1卷-第5卷)",
+      "snippet": "...請， 不得已赴之。未幾脾疾作，歸車溪。囑後事，端坐而逝。闍 維奉靈骨塔于徑山。 達觀真可禪師吳江人，塔于文殊臺。詳塔銘。 雲栖蓮池宏禪師"
+    },
+    {
+      "path": "GA\\GA030\\GA030n0029.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Xixi Fanyin",
+      "title_zh": "西谿梵隱志",
+      "snippet": "...疾頓觸即起疑情時覺礙膺不能自釋數以出塵告 父母父母難之遂拔足南馳從別師剃度別師與紫柏 老人同時門庭冷峻居恆孑處一室自出分衞不畜徒 眾獨師至欣然即為落髮與偕處萬壽菴師..."
+    },
+    {
+      "path": "GA\\GA025\\GA025n0023.xml",
+      "mentions": 1,
+      "title": "Sequel Gazetteer of Yunlin Monastery",
+      "title_zh": "雲林寺續志",
+      "snippet": "...做人忒煞破傘下安居 沸湯裡刺潑婆婆 而和和 晝夜一百八甚麼喚作淨土 貲糧乾屎橛 紫柏尊者像贊顏俊彥 這阿師 嘮嘮叨叨 逢人便提句假借四大 火熖中下 把種子 塗毒鼓直..."
+    },
+    {
+      "path": "GA\\GA016\\GA016n0015.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Dazhaoqing Vinaya Monastery",
+      "title_zh": "大昭慶律寺志",
+      "snippet": "...此案，幸左右之。」魯問：「為 誰？」僧指庭柏及山示之。魯心識已久，及閱讞辭，見 紫柏、介山名，心感悟，竭力維持之，事得釋。丙午，因 經廠王太監奏請，得賜大藏經，賜金..."
+    },
+    {
+      "path": "D\\D59\\D59n9011.xml",
+      "mentions": 1,
+      "title": "Catalogue of Canon Valuations and Illustrations",
+      "title_zh": "藏經值畫一目錄",
+      "snippet": "十一函 歸元直指淨信堂初集 五十二函 紫柏大師全集 五十三至五十四函 憨山大師全集 五十五函"
+    },
+    {
+      "path": "B\\B34\\B34na034.xml",
+      "mentions": 1,
+      "title": "Introduction to the Dharma Vehicle of the Wu Capital",
+      "title_zh": "吳都法乘簡介",
+      "snippet": "...，忤奄拷死，賜諡忠毅。而安期 為老生自如，家世奉佛，安期稟承父叔，刻藏飯僧，誓終紫柏付囑，窮老盡氣，若營其私。 晚年撰吳都法乘百餘卷。弘光南渡，詒余書數萬言，條列東..."
+    },
+    {
+      "path": "B\\B31\\B31n0170.xml",
+      "mentions": 1,
+      "title": "General History of Korean Buddhism",
+      "title_zh": "朝鮮佛教通史",
+      "snippet": "...洞鄉居士莊廣還。著淨土資粮論。沙門 僧可號達觀。於燕京建大法幢。後遇讒而沒。著有紫柏老人集。師曾刊刻方冊大藏經 以便流通。是為明本大藏。即方冊藏經之權輿也。○雲棲沙..."
+    },
+    {
+      "path": "B\\B27\\B27n0151.xml",
+      "mentions": 1,
+      "title": "New Continued Biographies of Eminent Monks",
+      "title_zh": "新續高僧傳",
+      "snippet": "...具獄上所列惟賑饑三千金有內庫籍可考慈聖及上皆 大喜然猶坐私造寺院遣戍雷州非上意也達觀真可聞之將 走都門為之申救遇於江上清曰君命也其可違乎為作逐客 說而別清度五嶺入曹溪抵..."
+    },
+    {
+      "path": "B\\B26\\B26n0146.xml",
+      "mentions": 1,
+      "title": "Fangshan Yunju Temple Stone Canon: Selected Rubbings of Scriptures, Colophons, and Inscriptions",
+      "title_zh": "房山雲居寺石經──經文、題記、碑銘等拓片之選輯",
+      "snippet": "...㗭哩，以及附近的佛教信徒張普旺等，也曾對雲居寺和 石經的維護盡過力的。萬曆時名僧達觀真可和憨山德清曾到雲居寺訪問，當時雲居寺石經山又 趨衰落。真可在《示東西雲居寺僧眾》..."
+    },
+    {
+      "path": "B\\B24\\B24n0131.xml",
+      "mentions": 1,
+      "title": "Surveying the Waves of the Dharma Sea",
+      "title_zh": "法海觀瀾",
+      "snippet": "真心直說 修心訣 決疑集 楚石語錄 紫柏集 方便語 壽昌語錄 法海觀瀾卷第三"
+    },
+    {
+      "path": "B\\B23\\B23na022.xml",
+      "mentions": 1,
+      "title": "Supplement to the Tripiṭaka, Volume Twenty-Three: Editorial Notes",
+      "title_zh": "大藏經補編第二十三冊．編輯說明",
+      "snippet": "...，是蕅益大師智旭的大著：「靈峯宗論」。智旭（1599－1655） 與袾宏、真可（紫柏）、德清（憨山）、等四人，被後世推為明末四大師。其著述、行持， 對後世佛教，有相..."
+    },
+    {
+      "path": "B\\B22\\B22n0117.xml",
+      "mentions": 1,
+      "title": "Dharma Terms and Numerical Categories of the Tripiṭaka",
+      "title_zh": "三藏法數",
+      "snippet": "...多飽讀大藏、確守師說、不敢輕改古本。一如法師等之三藏法數、即其證也。其後有 蓮池紫柏憨山蕅益四大師出、皆能讀藏經數千卷、而發為著述。儒者素稱博洽、而枵腹著 書、嚮壁..."
+    },
+    {
+      "path": "B\\B14\\B14na013.xml",
+      "mentions": 1,
+      "title": "Supplement to the Tripiṭaka, Volume Fourteen: Editorial Notes",
+      "title_zh": "大藏經補編第十四冊．編輯說明",
+      "snippet": "...」版本者所取資。 「密藏道開禪師遺稿」一書是明末禪師密藏道開的著作集。密藏禪師與達觀真可同為明末嘉興版 大藏經（方冊藏）的倡印者，在我國大藏經編印史上有一定的地位。此處..."
+    },
+    {
+      "path": "B\\B00\\B00na002.xml",
+      "mentions": 1,
+      "title": "Supplement to the Tripiṭaka: General Description of the Complete Work",
+      "title_zh": "大藏經補編．全書內容簡介",
+      "snippet": "...」版本者所取資。 「密藏道開禪師遺稿」一書是明末禪師密藏道開的著作集。密藏禪師與達觀真可同為明末嘉興版大 藏經（方冊藏）的倡印者，在我國大藏經編印史上有一定的地位。此處..."
+    },
+    {
+      "path": "X\\X82\\X82n1571.xml",
+      "mentions": 1,
+      "title": "Complete Five Lamps (Vols. 34–120)",
+      "title_zh": "五燈全書(第34卷-第120卷)",
+      "snippet": "...時。預于半月前別眾 曰。吾將他往矣。人皆莫測。至期示微疾。面西端坐而 逝。 紫柏達觀真可大師句曲沈氏子。性慷慨激烈，弱不 好弄，不喜見婦人。年十七，剃髮遊方，聞誦張拙偈..."
+    },
+    {
+      "path": "X\\X81\\X81n1570.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Complete Five Lamps",
+      "title_zh": "五燈全書目錄",
+      "snippet": "...佛妙禪師 徑山傑峯英禪師 徑山敬菴莊禪師 待詔沈士榮居士 雲棲蓮池袾宏大師 紫拍達觀真可大師 黃蘗無念深有禪師 白馬寺儀峯方彖禪師 鵞湖養菴心禪師 曹溪憨山德清大師 真..."
+    },
+    {
+      "path": "X\\X81\\X81n1568.xml",
+      "mentions": 1,
+      "title": "Strict Lineage of the Five Lamps (Vols. 10–25)",
+      "title_zh": "五燈嚴統(第10卷-第25卷)",
+      "snippet": "...終南靜室，放大光明。方震威一喝， 曰：即今光明在何處？師向前一掌，方呵呵大笑。 達觀真可紫栢大師句曲沈氏子，性雄猛。十七剃髮 遊方，聞誦張拙偈至斷除妄想重增病，趨向真如..."
+    },
+    {
+      "path": "X\\X80\\X80n1566.xml",
+      "mentions": 1,
+      "title": "Five Lamps Compendium: Continued Abridgment",
+      "title_zh": "五燈會元續略",
+      "snippet": "...台祖燈禪師 仙林雪庭禪師 少林匾囤禪師 永寧清禪師 伏牛明理禪師 雲棲袾宏大師 紫柏真可大師 黃檗深有禪師 白馬方彖禪師 鵞湖心禪師 卷第三上 臨濟宗 南嶽下十八世"
+    },
+    {
+      "path": "X\\X69\\X69n1367.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Xiaoyin Daxin",
+      "title_zh": "笑隱大訢禪師語錄",
+      "snippet": "...，落在山翁和上 手中。山翁以重主天童，道經\uD876\uDF25李，值白法老人嗣孫 巨方法師主楞嚴紫柏院藏冊事，因念佛祖慧命攸 關，特曳拄杖同埽。道人過院相視料理，隨以瓣香送 入此錄..."
+    },
+    {
+      "path": "X\\X66\\X66n1297.xml",
+      "mentions": 1,
+      "title": "Dharma Grove of the Tradition’s Mirror",
+      "title_zh": "宗鑑法林",
+      "snippet": "尊宿 東山雲頂 高郵定 普照道悟 省菴思 四川大癅 雲棲袾宏 紫柏真可 無念深有 儀峰方彖 養菴心 憨山德清 真寂廣印 破山法乘 徧融真圓 潭柘福源 ..."
+    },
+    {
+      "path": "X\\X66\\X66n1296.xml",
+      "mentions": 1,
+      "title": "Compilation of the School Gate’s “Raising Old Cases”",
+      "title_zh": "宗門拈古彙集",
+      "snippet": "...中任 從伊。行即往，坐即隨，分付心王擬何為？無量劫來 原解脫，何須更問知不知？ 紫柏可云：鍛鍊自心，鉗錘猛密，須是洞山咳嗽掉 臂，戲笑譏呵，無非解脫三昧，還他神鼎。..."
+    },
+    {
+      "path": "X\\X65\\X65n1283.xml",
+      "mentions": 1,
+      "title": "Model of the Tradition",
+      "title_zh": "宗範",
+      "snippet": "...而化，衣皆順體；孚上座 之講涅槃經，揮尺一下而去；巖頭歲之預知，大喝一 聲而逝；紫柏老之臨刑，圜中自在而脫。如此等師，可 決其出三界否？又如龐公之枕膝脫灑，靈照之我..."
+    },
+    {
+      "path": "X\\X62\\X62n1204.xml",
+      "mentions": 1,
+      "title": "Lotus Cultivation: Record of Arousing Faith",
+      "title_zh": "蓮修起信錄",
+      "snippet": "...靜聲音嘹亮，直達內署。州 牧感悟，即日釋師。嗚呼！師真現地獄身而為說法者 也。昔紫柏大師以事繫詔獄，與犯官說佛，與師事同， 師真不愧古人。當師之在獄也，時仲夏，余往..."
+    },
+    {
+      "path": "X\\X62\\X62n1203.xml",
+      "mentions": 1,
+      "title": "Collected Essentials for Cultivating the Western (Pure Land) Path",
+      "title_zh": "修西輯要",
+      "snippet": "...然難熟。設或七日到一心不 亂境地，仍須保任行力，方不唐捐也。 睡醒警覺 僧海州參紫柏老人，師問曰：汝出家為甚麼？曰：為求 出苦。師曰：以何法出苦？曰：我資鈍，但念佛..."
+    },
+    {
+      "path": "X\\X62\\X62n1177.xml",
+      "mentions": 1,
+      "title": "Jiaohu Collection",
+      "title_zh": "角虎集",
+      "snippet": "...有居士夢師辭謝西行，忽寤，告家人曰：大方和 尚西歸矣。及入寺觀之，果吉祥而逝。 達觀真可紫栢禪師 師句曲沈氏子，性雄猛，慷慨激烈，不喜見婦人。年十 七，剃髮遊方，聞誦張..."
+    },
+    {
+      "path": "X\\X54\\X54n0873.xml",
+      "mentions": 1,
+      "title": "Abridged Notes on the *Zhao Treatise*",
+      "title_zh": "肇論略註",
+      "snippet": "...人言之，其友殊不許可，反以 肇公為一見外道，廣引教義以駁之。即法門老宿， 如雲棲紫柏諸大老皆力爭之，竟未迴其說。予閱 《正法眼藏》，佛鑑和尚示眾，舉僧問趙州：「如何..."
+    },
+    {
+      "path": "X\\X53\\X53n0857.xml",
+      "mentions": 1,
+      "title": "Collected Explanations of the *Nyāyapraveśa*",
+      "title_zh": "因明入正理論集解",
+      "snippet": "No. 857-A 因明入正理論集解自序 萬曆乙酉仲秋，余與董玄宰侍紫柏大師於金陵之 攝山中，日相與縱談無生，且謂枯坐默照為邪禪，非 深汎教海不可。一日..."
+    },
+    {
+      "path": "X\\X51\\X51n0823.xml",
+      "mentions": 1,
+      "title": "Self-Examination on the *Treatise on Consciousness-Only*",
+      "title_zh": "成唯識論自攷",
+      "snippet": "...傳，僅散現大 鈔、宗鏡諸書及開蒙二卷，稍存線索。國初以來，竟成 絕學。萬曆初年，紫柏大師接寂音之道，盛讚此宗，爰 有俗詮、證義、集解諸書，而紹法師音義為長，音義未 ..."
+    },
+    {
+      "path": "X\\X50\\X50n0820.xml",
+      "mentions": 1,
+      "title": "Popular Explanation of the *Treatise on Consciousness-Only*",
+      "title_zh": "成唯識論俗詮",
+      "snippet": "...典，漸以散失。然開蒙之作，出 於元人，爾時慈恩疏鈔，似猶在也。余始聞唯識宗旨 於紫柏大師，授以此論，命之熟究，茫無入處，求古疏 鈔，已不可得。後閱開蒙，及檢宗鏡、華..."
+    },
+    {
+      "path": "X\\X37\\X37n0671.xml",
+      "mentions": 1,
+      "title": "Subcommentary Notes on the Sutra in Forty-Two Sections",
+      "title_zh": "四十二章經疏鈔",
+      "snippet": "釋八大人覺經一卷 明 真可撰 收于紫柏尊者全集卷十二。 校注 已 已"
+    },
+    {
+      "path": "X\\X26\\X26n0561.xml",
+      "mentions": 1,
+      "title": "Main Idea of the Heart Sūtra",
+      "title_zh": "般若心經大意",
+      "snippet": "...法，總度一切心，一 任宗門教門，舌頭千丈，另有開口處乎。說是經之 雄偉者，近無如紫柏尊者之《三說心經》，李卓老之 《心經提綱》，靈峯素大師之《般若觀心釋》。余為大意..."
+    },
+    {
+      "path": "X\\X85\\X85n1592.xml",
+      "mentions": 1,
+      "title": "The Hidden Black Beans Collection",
+      "title_zh": "揞黑豆集",
+      "snippet": "...：轉見 不堪。師便禮拜。覺云：粥後來領棒。師云：劒去久矣。乙 未冬，游臺山，掩關紫柏洞，三閱寒暑。戊戌，重歸報恩。 一日，覺謂師曰：臺山婆子為汝勘破了也，這裏合下 ..."
+    },
+    {
+      "path": "X\\X85\\X85n1587.xml",
+      "mentions": 1,
+      "title": "Abridged Collection of the True Source",
+      "title_zh": "正源略集",
+      "snippet": "...，預於半月前別眾，曰：吾將 他往矣。人皆莫測。至期，示微疾，面西端坐而逝。 紫栢達觀真可大師句曲沈氏子。年十七，剃髮遊方。 聞誦張拙偈斷除妄想重增病，趨向真如亦是邪，大..."
+    },
+    {
+      "path": "X\\X85\\X85n1586.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Abridged Collection of the True Source",
+      "title_zh": "正源略集目錄",
+      "snippet": "大慈石公\uDB8E\uDFFE禪師 附諸尊宿 雲棲蓮池袾宏大師 紫栢達觀真可大師 黃檗無念深有禪師 白馬寺儀峯方彖禪師 鵞湖養菴心禪師 真寂聞谷廣印禪師 荊..."
+    },
+    {
+      "path": "X\\X84\\X84n1585.xml",
+      "mentions": 1,
+      "title": "Drafts for the Continuation of the Lamp",
+      "title_zh": "續燈存稿",
+      "snippet": "...，預於半月前別眾，曰：吾將他往矣。人皆 莫測。至期，示微疾，面西端坐而逝。 紫柏達觀真可大師句曲沈氏子。性忼慨激烈，弱不 好弄，不喜見婦人秊。十七剃髮遊方，聞誦張拙偈斷..."
+    },
+    {
+      "path": "X\\X84\\X84n1584.xml",
+      "mentions": 1,
+      "title": "Table of Contents of Drafts for the Continuation of the Lamp",
+      "title_zh": "續燈存稿目錄",
+      "snippet": "...翁可觀禪師 武功明星禪師 佛妙禪師 克新仲銘禪師 待詔沈士榮居士 雲棲袾宏大師 達觀真可大師 黃檗深有禪師 白馬方彖禪師 鵞湖心禪師 曹溪德清大師 續燈存稾目錄"
+    },
+    {
+      "path": "X\\X84\\X84n1583.xml",
+      "mentions": 1,
+      "title": "Orthodox Continuation of the Lamp",
+      "title_zh": "續燈正統",
+      "snippet": "十，萬里為參尋，世緣 今已畢。擲筆端坐而化。 紫栢達觀真可大師句曲沈氏子。性忼慨激烈，弱不 好弄，不喜見婦人。年十七，剃髮遊方，聞誦張拙偈..."
+    },
+    {
+      "path": "X\\X74\\X74n1482.xml",
+      "mentions": 1,
+      "title": "Esoteric Repentance Text for Cundi Fire-Offering Practice and Siddhi",
+      "title_zh": "准提焚修悉地懺悔玄文",
+      "snippet": "...如夢中事，無纖毫剝膚 之災，則余二十七歲時事也。適是冬憨山國師東遊 至徑山茶毗，紫柏尊者入塔於寂照菴後，余亟走皈 依，得示梁生偈語，因更字焉。聞子將嚴印持顏生，生 ..."
+    },
+    {
+      "path": "X\\X16\\X16n0307.xml",
+      "mentions": 1,
+      "title": "Introductory Exposition of the ‘Pointing to the Palm’ Commentary on the Śūraṅgama Sutra",
+      "title_zh": "楞嚴經指掌疏懸示",
+      "snippet": "曹溪憨 山海印大師德清懸鏡并通議。紫柏尊者達觀 大師真可解。雪浪三懷法師洪恩經解"
+    },
+    {
+      "path": "TX\\TX13\\TX13n0007.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part Seven – Dharma Realm and Perfect Enlightenment Studies (Vols. 10–15)",
+      "title_zh": "太虛大師全書．第七編\u3000法界圓覺學(第10卷-第15卷)",
+      "snippet": "...明智覺禪師，泐潭曉月禪師，石門圓明禪師，溫陵寶 勝禪師，中峰明本禪師，以及天如、紫柏等。賢家：則資中弘沉法師，長水子璿法師 ，魯山普泰法師，交光真鑑法師，慈雲續法法..."
+    }
+  ]
+}

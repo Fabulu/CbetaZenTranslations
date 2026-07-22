@@ -1,0 +1,31 @@
+{
+  "master": "Biemu Chun",
+  "primary_count": 1,
+  "secondary_count": 2,
+  "total_mentions": 4,
+  "primary": [
+    {
+      "path": "J\\J40\\J40nB476.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Bie Muchun",
+      "title_zh": "別牧純禪師語錄",
+      "snippet": "別牧純禪師語錄 門人福月等編 住全州南源洪聖寺 康熙"
+    }
+  ],
+  "secondary": [
+    {
+      "path": "J\\J40\\J40nB475.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Jingtingsong",
+      "title_zh": "逕庭宗禪師語錄",
+      "snippet": "...是也。烏乎！岠生也晚，而又在數里之外，常恨弗 獲登師之門以觀法化之盛。茲因師之孫別牧純公 從湖南來，出師狀索余為塔上銘，自愧襪才無所長， 曷敢為大尊宿作描真語？但岠與..."
+    },
+    {
+      "path": "B\\B35\\B35n0194.xml",
+      "mentions": 1,
+      "title": "General Catalogue of the Chinese Tripiṭaka",
+      "title_zh": "中華大藏經總目錄",
+      "snippet": "472498盤山了宗禪師語錄四卷 473499逕庭宗禪師語錄二卷 474500別牧純禪師語錄一卷 475501天翼翔禪師語錄二卷 476502雲山燕居申禪師語錄八卷..."
+    }
+  ]
+}

@@ -1,0 +1,695 @@
+{
+  "master": "Yuwang Tanzhen",
+  "primary_count": 0,
+  "secondary_count": 98,
+  "total_mentions": 135,
+  "primary": [],
+  "secondary": [
+    {
+      "path": "G\\G117\\G117n2302.xml",
+      "mentions": 9,
+      "title": "Glossary of Buddhist Terms (Vols. 39–53)",
+      "title_zh": "佛學名相彙解(第39卷-第53卷)",
+      "snippet": "明．沙門寂照編 脩真九戒 一者、敬讓——孝養父母，曰初真戒。 二者、克勤——忠於君主，曰念真戒。 三者、不殺——慈救眾生，曰持真戒。"
+    },
+    {
+      "path": "TX\\TX13\\TX13n0007.xml",
+      "mentions": 7,
+      "title": "Complete Works of Master Taixu: Part Seven – Dharma Realm and Perfect Enlightenment Studies (Vols. 10–15)",
+      "title_zh": "太虛大師全書．第七編\u3000法界圓覺學(第10卷-第15卷)",
+      "snippet": "...從逆流相入三摩地，即是因戒生定，因定生慧。戒為定、慧之基， 實則非定、慧究竟不得真戒也，非四根本戒清淨亦不得真定、慧也。四戒不淨，決定 難超欲界。且不能得欲界人天正..."
+    },
+    {
+      "path": "X\\X16\\X16n0318.xml",
+      "mentions": 3,
+      "title": "Doctrinal Integration of the Śūraṅgama Sutra",
+      "title_zh": "楞嚴經宗通",
+      "snippet": "...說法，不離自性。離體 說法，名為相說。自性常迷，須知一切萬法，皆從自 性起用，是真戒定慧法。聽吾偈曰：心地無非自性 戒，心地無癡自性慧，心地無亂自性定。不增不減 自..."
+    },
+    {
+      "path": "X\\X79\\X79n1558.xml",
+      "mentions": 2,
+      "title": "General Table of Contents of the Jiatai Universal Lamp Record",
+      "title_zh": "嘉泰普燈錄總目錄",
+      "snippet": "佛日智才禪師法嗣一人 澧州夾山自齡禪師 瑞巖子鴻禪師法嗣一人 慶元府育王真戒曇振禪師 資壽捷禪師法嗣二人 泉州慧空圓覺大智文宥禪師 淨眾"
+    },
+    {
+      "path": "T\\T51\\T51n2077.xml",
+      "mentions": 2,
+      "title": "Continued Record of the Transmission of the Lamp",
+      "title_zh": "續傳燈錄",
+      "snippet": "白鹿仲豫禪師 瑞巖子鴻禪師法嗣六人 佛窟可英禪師 岳林曇振禪師中竺禪慧禪師 景德嵩禪師資聖本禪師 壽聖文諒禪師"
+    },
+    {
+      "path": "T\\T38\\T38n1778.xml",
+      "mentions": 2,
+      "title": "Brief Commentary on the Vimalakīrti Sutra",
+      "title_zh": "維摩經略疏",
+      "snippet": "...修檀，不望世 間及緣修報。「持戒是道場」者，初發心住此尸 波羅蜜，破一切惡業、顯真戒法身，即是道場。 尸中具一切佛法，即是得願具足。「忍辱是道 場」，初發心住此羼提..."
+    },
+    {
+      "path": "T\\T36\\T36n1736.xml",
+      "mentions": 2,
+      "title": "Subcommentary Explaining the Meaning of the Commentary on the Great Avataṃsaka Sutra",
+      "title_zh": "大方廣佛華嚴經隨疏演義鈔",
+      "snippet": "...所言等者，等餘萬行。如施不得 戒，非是真施。破戒行檀，非真福故。戒不 得施，亦非真戒。慳貪不息，非真戒故。不 捨財法，正犯戒故。餘並可知。疏「又上來互 嚴」下，第二..."
+    },
+    {
+      "path": "T\\T01\\T01n0044.xml",
+      "mentions": 2,
+      "title": "Sutra on Times of Past Ages",
+      "title_zh": "古來世時經",
+      "snippet": "...。爾時，諸 比丘飯食已後，會於講堂而共講議：「設有長 者所行平等，有淨戒比丘奉行真戒，來入其 舍從受分衛，若復曰獲致百斤金，何所勝 乎？」或有比丘報之曰：「百斤千斤..."
+    },
+    {
+      "path": "J\\J36\\J36nB367.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Jiguan Huo",
+      "title_zh": "寂光豁禪師語錄",
+      "snippet": "...；心寶圓明，無淨無汙。 如日處空，不緣而照；似珠在盤，不撥自轉。如是之戒， 是名真戒。向者裏承當得去，何勞陸地強興波促？未 能頓曉，請受戒者出。」說戒畢，下座。 小..."
+    },
+    {
+      "path": "J\\J36\\J36nB348.xml",
+      "mentions": 2,
+      "title": "Doctrinal Treatises of Master Ouyi of Lingfeng",
+      "title_zh": "靈峰蕅益大師宗論",
+      "snippet": "...師妄遂 置禪，何因噎廢飯，甘守餓而死也。有戒無定慧，有 定無戒慧，有慧無戒定，非真戒定慧也。有戒無定慧， 墮欲天；有戒定無慧，墮色無色天；有定無戒慧，墮土 木金石，..."
+    },
+    {
+      "path": "J\\J23\\J23nB135.xml",
+      "mentions": 2,
+      "title": "Shimen’s Literary Chan",
+      "title_zh": "石門文字禪",
+      "snippet": "...澗畔，重開 枯木之華。迺知龍象之擁隨，定看山川之改觀。幸捐 謙柄，無事巽床。 請真戒住開福 湖南報慈寺，天下選佛場，萬指犀顱，千楹寶構，宜得 知見絕倫之士，重提佛祖..."
+    },
+    {
+      "path": "GA\\GA045\\GA045n0049.xml",
+      "mentions": 2,
+      "title": "Gazetteer of Mount Emei",
+      "title_zh": "峨眉山志",
+      "snippet": "...華嚴四剎，以山相火，易 二水三雲抑之。繼席祖庭，位列《傳燈》。承璟、義欽、黑水、曇振、洞溪、廣悟，前後七代，悉宗 風大振，故古今稱「峨眉祖堂」。黑水、洞溪俱以山彰名..."
+    },
+    {
+      "path": "GA\\GA015\\GA015n0014.xml",
+      "mentions": 2,
+      "title": "Gazetteer of Yuelin Monastery, Mingzhou",
+      "title_zh": "明州岳林寺志",
+      "snippet": "...面相逢，且道是誰錯者？」師云：「汝錯過了也。」僧喝，師 打，云：「錯過了也！」 曇振禪師 師嗣瑞巖鴻。崇寧三年，徽宗皇帝於福寧殿賜紫衣。 後建崇寧閣。越十年，示疾，..."
+    },
+    {
+      "path": "GA\\GA015\\GA015n0013.xml",
+      "mentions": 2,
+      "title": "Gazetteer of Qita (Seven Pagodas) Monastery",
+      "title_zh": "七塔寺志",
+      "snippet": "月潭戒浪 玉亮戒源 智明戒慧 念真戒詮 悟愷戒廣 碧巖戒松 妙德戒良"
+    },
+    {
+      "path": "GA\\GA012\\GA012n0010.xml",
+      "mentions": 2,
+      "title": "Gazetteer of Ayuwang Mountain, Mingzhou (Vols. 9–10)",
+      "title_zh": "明州阿育王山志(第9卷-第10卷)",
+      "snippet": "提唱宗乗 育王常坦禪師 育王大覺懷璉禪師 育王曇振真戒禪師 育王法逹寳鑒禪師 育王無竭淨曇禪師 育王野堂普崇禪師"
+    },
+    {
+      "path": "G\\G155\\G155n2590.xml",
+      "mentions": 2,
+      "title": "Annotated Notes on the Sixth Patriarch’s Platform Sūtra",
+      "title_zh": "六祖大師法寶壇經箋註",
+      "snippet": "...常迷。須知一切萬法，皆從自性起用。 萬法唯心。離自性外，無戒定慧。故云起用。 是真戒定慧法。聽吾偈曰： 心地無非自性戒， 心地觀經八，三界之中，以心為主。眾生之心，..."
+    },
+    {
+      "path": "B\\B34\\B34n0193.xml",
+      "mentions": 2,
+      "title": "Dharma Vehicle of the Wu Capital",
+      "title_zh": "吳都法乘",
+      "snippet": "...如秋毫之末若存若亡四不可 得無佛可成無生可度無行可修生死涅槃不知何物一踏倒 便得真戒矣上猶是戒體未能作用故印中有白色◇字放 放光普照有情戒始圓滿即證普賢行身於月輪中..."
+    },
+    {
+      "path": "X\\X60\\X60n1119.xml",
+      "mentions": 2,
+      "title": "Explanation of the Essential Summary of Novice Precepts and Deportment",
+      "title_zh": "沙彌律儀要略述義",
+      "snippet": "...是言詮，設使修證未純，不免迷惑。故楞 嚴云：雖有多聞，若不修行，與不聞等。所謂有真戒 者，必有真慧。此是如來大慈，有權有實。先以毗尼 收攝初心，後以一乘攝歸無作。先..."
+    },
+    {
+      "path": "X\\X38\\X38n0687.xml",
+      "mentions": 2,
+      "title": "Commentary on the Brahmā Net Bodhisattva Precepts Text",
+      "title_zh": "梵網經菩薩戒本疏",
+      "snippet": "...發 名字戒光；因名字戒光，發觀行戒光；由觀行戒光， 發相似戒光；以相似戒光，開分真戒光；以分真戒 光，發究竟戒光。如是始終，即無始終，離二邊故。無 始終而說始終，凡..."
+    },
+    {
+      "path": "X\\X38\\X38n0679.xml",
+      "mentions": 2,
+      "title": "Revealing the Hidden in the Commentary on the Brahmā Net Bodhisattva Precepts Sutra",
+      "title_zh": "梵網菩薩戒經義疏發隱",
+      "snippet": "...豈不能枯愛河之流注，乾苦 海之汪洋，而了證無生耶？至此則善惡雙亡，正本 來心地之真戒也。 ○二所被之廣。 聲聞小行，尚自珍敬木叉；大士兼懷，寧不精持戒品？"
+    },
+    {
+      "path": "X\\X33\\X33n0631.xml",
+      "mentions": 2,
+      "title": "Handbook Commentary on the Lotus Sutra",
+      "title_zh": "法華經指掌疏",
+      "snippet": "...嫌其穢，此由 見人讀誦，輕賤憎嫉所致。著我多癡，增恚多瞋，婬 盛多貪，葢以此經為真戒定慧，而輕賤憎嫉者，合 感此報。然此雖未形身口，而內心已萌，即同於謗， 故亦曰謗..."
+    },
+    {
+      "path": "X\\X18\\X18n0338.xml",
+      "mentions": 2,
+      "title": "Textual Commentary on the Vimalakīrti Sūtra",
+      "title_zh": "維摩經文疏",
+      "snippet": "... 場」者，持戒有五種，四權一實，以具如前。初發心住 此尸波羅蜜，能破一切惡業，顯真戒法身，即是場 義。尸中具一切佛法，即是得願具足也。經言「忍辱 是道場」，忍有五種..."
+    },
+    {
+      "path": "X\\X05\\X05n0232.xml",
+      "mentions": 2,
+      "title": "Profound Discourse in the Subcommentary on the Avatamsaka Sutra",
+      "title_zh": "華嚴經疏鈔玄談",
+      "snippet": "...。所言等者，等餘萬行。如施不得戒，非是真施， 破戒行施，非真福故；戒不得施，亦非真戒，慳貪不 息，非真戒故；不捨財法，正犯戒故。餘並可思。 ▲又上來互嚴皆有相資、相..."
+    },
+    {
+      "path": "X\\X03\\X03n0211.xml",
+      "mentions": 2,
+      "title": "Notes on the Textual Meaning of the Avatamsaka Sutra (Volume 6)",
+      "title_zh": "華嚴經文義記〔卷六〕",
+      "snippet": "...國普門城長者普眼妙香第十六 善現之土，徹窮本性，名實利根。緣無不攝，名普門城。 真戒以資慧眼，名普眼妙香。法名令一切眾生歡喜 普門法門也。就長者答中，初、寄除物病，..."
+    },
+    {
+      "path": "Y\\Y27\\Y27n0027.xml",
+      "mentions": 1,
+      "title": "Flower Rain Collection (III)",
+      "title_zh": "華雨集（三）",
+      "snippet": "...、「若失威儀一事者……疾成大願」， 是上品出家戒律事。二、「散侍法：問曰……會受真戒號」，是對下下品「散侍法」的再解說。這二則，是「四品學法」的解說。"
+    },
+    {
+      "path": "X\\X88\\X88n1667.xml",
+      "mentions": 1,
+      "title": "Religion, Vinaya, and the Development of Various Schools",
+      "title_zh": "宗教律諸宗演派",
+      "snippet": "...潭傳德山鑑，德山傳雪峰存，雪 峰傳雲門文偃禪師，後人遂立為雲門宗。 雲門下第八世育王曇振優鴻禪師演派二十字： 優曇從廣政，了性悟真如。德智圓通品。 方知紹祖燈。"
+    },
+    {
+      "path": "X\\X87\\X87n1626.xml",
+      "mentions": 1,
+      "title": "Abstracts of Eminent Monks",
+      "title_zh": "高僧摘要",
+      "snippet": "...居住。年二十，功名不就，因憩同安邑邸。夜夢有人 呼曰：時至矣，速前去。明晨，行遇真戒師，偕入長泰石 獅巖，禮求薙髮。大明崇禎甲戌春，往黃檗參費隱和 尚。凡有所問，被..."
+    },
+    {
+      "path": "X\\X86\\X86n1601.xml",
+      "mentions": 1,
+      "title": "Genealogy of the Chan Lamp",
+      "title_zh": "禪燈世譜",
+      "snippet": "景德嵩 資聖本 壽聖文諒 育王曇振 嶽林真 資壽㨗"
+    },
+    {
+      "path": "X\\X86\\X86n1597.xml",
+      "mentions": 1,
+      "title": "Biography of Master Dingying, the Cloth-Bag Monk (Budai)",
+      "title_zh": "定應大師布袋和尚傳",
+      "snippet": "...度奇古，觀者太 息。有司上其事，元符開元戊寅六月九日，敕賜今諡。 崇寧三年，住持曇振勸鄉人董氏建閣於寺之後，鄉 人任氏塑師像於閣上。既而董氏以為我建閣而置 任氏像，..."
+    },
+    {
+      "path": "X\\X80\\X80n1564.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Five Lamps Compendium",
+      "title_zh": "五燈會元目錄",
+      "snippet": "天鉢元禪師法嗣 元豐清滿禪師 定慧法本禪師 善勝真悟禪師 瑞巖鴻禪師法嗣 育王曇振禪師 棲賢遷禪師法嗣 崇福燈禪師 淨眾言首座法嗣 招提惟湛禪師"
+    },
+    {
+      "path": "X\\X79\\X79n1559.xml",
+      "mentions": 1,
+      "title": "Jiatai Universal Lamp Record",
+      "title_zh": "嘉泰普燈錄",
+      "snippet": "...百官劒？曰：四海煙塵淨，六合一家昌。云：如 何是和尚劒？曰：理長即就。 育王真戒曇振禪師法嗣 慶元府岳林真禪師上堂。曰：古人道：初秋夏末，合 有責情三十棒。岳林則不..."
+    },
+    {
+      "path": "X\\X78\\X78n1556.xml",
+      "mentions": 1,
+      "title": "Jianzhong Jingguo Continued Lamp Record",
+      "title_zh": "建中靖國續燈錄",
+      "snippet": "䗫 不舉頭。參。 明州岳林寺曇振禪師上堂，斂衣坐定，云：今日布袋 頭開，還有買賣者麼？"
+    },
+    {
+      "path": "X\\X78\\X78n1555.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Jianzhong Jingguo Continued Lamp Record",
+      "title_zh": "建中靖國續燈錄目錄",
+      "snippet": "...禪師法嗣二人 杭州臨安居潤禪師 台州瑞巖子鴻禪師法嗣六人 台州佛窟可英禪師 明州岳林曇振禪師 。 汀州開元智潭禪師法嗣二人"
+    },
+    {
+      "path": "X\\X20\\X20n0367.xml",
+      "mentions": 1,
+      "title": "Simple Notes on the Mahāyāna Mind-Ground Contemplation Sūtra (Vols. 1–3)",
+      "title_zh": "大乘本生心地觀經淺註(第1卷-第3卷)",
+      "snippet": "...以別別解脫，故為別解脫戒。成就者，謂得 之也。真善者，稱讚也。言其雖是凡夫，而心真戒善， 是為真善凡夫也。乃至二字，雖是超略之詞，亦為 總說之謂，故云具足一切正見。..."
+    },
+    {
+      "path": "X\\X13\\X13n0285.xml",
+      "mentions": 1,
+      "title": "Textual Phrases of the Śūraṅgama Sutra",
+      "title_zh": "楞嚴經文句",
+      "snippet": "...仍恐疎於戒者，縱有空解，不免沉墜，故借善 星寶蓮以為問端。遂復精研七趣，方知若無真戒， 決無真慧。葢無木叉戒，不免三惡。無禪戒，不免欲 有。無無漏戒，不免色無。色有..."
+    },
+    {
+      "path": "T\\T85\\T85n2819.xml",
+      "mentions": 1,
+      "title": "Essential Excerpts from Various Sūtras",
+      "title_zh": "諸經要抄",
+      "snippet": "... 變。此中何法名為梵行。從何處來。誰之所有 體。為是誰由誰而作。為是有為是無。 真戒。 不淨說法。 楞伽經云 未來世當有。身著於袈裟。妄說 於有無。毀壞我正法。佛告..."
+    },
+    {
+      "path": "T\\T85\\T85n2778.xml",
+      "mentions": 1,
+      "title": "Guanzhong Explanatory Extracts on the Vimalakīrti Sutra",
+      "title_zh": "淨名經關中釋抄",
+      "snippet": "也奉持行本 也。言律行者。實相真戒性淨尸羅也。故羅云 章云。是即出家是即具足。謂發菩提心出生 死涅槃家受萬行一心具..."
+    },
+    {
+      "path": "T\\T54\\T54n2123.xml",
+      "mentions": 1,
+      "title": "Essential Compilation of Various Sutras",
+      "title_zh": "諸經要集",
+      "snippet": "...上。今來在此。卿雖見我去我大遠。彼 雖喪命常在我所。卿今見我。正覩我肉形。豈 識真戒乎。以是經云。波羅提木叉是汝大師。 若能持戒展轉行之。即是如來法身常住而 不滅也..."
+    },
+    {
+      "path": "T\\T53\\T53n2122.xml",
+      "mentions": 1,
+      "title": "Pearl Grove of the Dharma Garden",
+      "title_zh": "法苑珠林",
+      "snippet": "...天上。今來在此。卿雖見我去我大 遠。彼雖喪命常在我所。卿今見我正覩我 肉形。豈識真戒乎。以是經云。波羅提木叉 是汝大師。若能持戒展轉行之。即是如來 法身常在而不滅也..."
+    },
+    {
+      "path": "T\\T49\\T49n2036.xml",
+      "mentions": 1,
+      "title": "General Record of Buddhas and Patriarchs Through the Ages",
+      "title_zh": "佛祖歷代通載",
+      "snippet": "...師充廨舍。仍行住 持。師諱永道。東頴沈丘毛氏子。弱歲厭世 相。往依承天寺南羅漢院真戒大師安恭。 學出世法。既納僧服趨京師業唯識百法 通之。政和三年選補右街香積院住持..."
+    },
+    {
+      "path": "T\\T48\\T48n2001.xml",
+      "mentions": 1,
+      "title": "Extensive Record of Chan Master Hongzhi",
+      "title_zh": "宏智禪師廣錄",
+      "snippet": "秋入眠床水一方。江湖風月坐來涼。浮浮爽 氣仙游去。身在蒼煙白鳥行。 真戒大師求頌 炷香坐羊氈。默默心住禪。仙桂萌兔窟。神珠 媚龍淵。湛照自家事。"
+    },
+    {
+      "path": "T\\T47\\T47n1964.xml",
+      "mentions": 1,
+      "title": "Essential Decisions on the Western Realm: Explaining Doubts and General Rules",
+      "title_zh": "西方要決釋疑通規",
+      "snippet": "...萬行斯著。即為真法也。冥 符理會。乖諍絕言。此真僧也。性潔澄嚴。體淨 無垢。即為真戒也。據斯勝義。故說真諦。涅槃 經云。若能觀三寶。常住同真諦。此即是諸佛 最上之誓..."
+    },
+    {
+      "path": "T\\T46\\T46n1925.xml",
+      "mentions": 1,
+      "title": "Initial Gate of the Gradual Stages of the Dharma Realm",
+      "title_zh": "法界次第初門",
+      "snippet": "...。謬以為戒。取以進行。 故曰戒取。若取雞狗牛戒。乃至九十五種外道 所行之戒。以為真戒。皆名戒取。若人雖持佛 戒。見有戒相。亦是戒取。見諦所斷三界二行。 有六種戒取是..."
+    },
+    {
+      "path": "T\\T44\\T44n1846.xml",
+      "mentions": 1,
+      "title": "Doctrinal Notes on the Awakening of Faith in Mahāyāna",
+      "title_zh": "大乘起信論義記",
+      "snippet": "...。大乘起信論等。總一十一部 合二十卷。此論乃是其年九月十日。與京邑 英賢慧顯智愷曇振慧旻等。并黃鉞大將軍 大保蕭公勃等。於衡州建興寺所譯。沙門 智愷筆授。月婆首那等..."
+    },
+    {
+      "path": "T\\T40\\T40n1813.xml",
+      "mentions": 1,
+      "title": "Commentary on the Brahmā’s Net Sutra Bodhisattva Precepts",
+      "title_zh": "梵網經菩薩戒本疏",
+      "snippet": "...此戒光因緣生故， 是故無性離相，故云「非青」等也。於中三句：初、 離色心者，謂此真戒性非質礙，又非緣慮，故 云「非色心」。又釋：戒於思種而建立故，用思種 為體，故云..."
+    },
+    {
+      "path": "T\\T40\\T40n1811.xml",
+      "mentions": 1,
+      "title": "Expository Commentary on the Bodhisattva Precepts",
+      "title_zh": "菩薩戒義疏",
+      "snippet": "...汁、 脚足、橋梁。若即心為戒，何假言無形色、無觸 對？故知別有無作能持戒心，以為真戒聖行。 與世王中不道觀析無作，直舉色心者，是 易觀者耳，亦不言無無作。小乘說四果..."
+    },
+    {
+      "path": "P\\P182\\P182n1615.xml",
+      "mentions": 1,
+      "title": "Great Ming Tripitaka Dharma-Number Glossary (Vols. 14–35)",
+      "title_zh": "大明三藏法數(第14卷-第35卷)",
+      "snippet": "...流轉不息故名為使。【五 戒取使】戒取者謂諸外道於非戒中謬以 為戒如鷄狗等邪戒以為真戒取以進行 也由此戒取驅役心神流轉不息故名為 使。 五鈍使五鈍者鈍即遲鈍也謂此 五..."
+    },
+    {
+      "path": "P\\P155\\P155n1519.xml",
+      "mentions": 1,
+      "title": "Essential Compendium of the Zen School: Main and Continued Collections (Vols. 13–20)",
+      "title_zh": "宗門統要正續集(第13卷-第20卷)",
+      "snippet": "...劄不入僧云只如眹兆 未生已前作麼生道師舉拂子僧云如何領 會師云斫額望扶桑。 明州育王曇振禪師示眾云今日布袋 頭開還有買賣者麼時有僧出云有師云不 作貴不作賤作麼生酬價僧無..."
+    },
+    {
+      "path": "J\\J39\\J39nB471.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Daodeng of Konggu",
+      "title_zh": "空谷道澄禪師語錄",
+      "snippet": "...流出。山僧要將百法門歸還於心。何以教之？ 參禪的，參自性中真禪；受戒的，受自心中真戒；念佛 的，念自心中真佛；持咒的，持自心中真咒；皈依三寶 的，皈依自心中真三寶；..."
+    },
+    {
+      "path": "J\\J34\\J34nB308.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Xiangya Ting",
+      "title_zh": "象崖珽禪師語錄",
+      "snippet": "...氣，從來舉唱要知音。」 傳戒，上堂。「今年臘八不尋常，大地山河盡放光。悟得 明星真戒體，不增不減等金剛。」 上堂。問：「如何是一喝如金剛王寶劍？」師云：「一刀兩段。..."
+    },
+    {
+      "path": "J\\J28\\J28nB214.xml",
+      "mentions": 1,
+      "title": "Ten Buddhist Works by Master Ouyi (Selections: ‘Intro to Nature Study’, ‘Casual Talks’)",
+      "title_zh": "蕅益大師佛學十種（選錄「性學開蒙」．「梵室偶談」兩種）",
+      "snippet": "...學。 見宗師之妄，遂置禪於不參。何異因噎廢飯，甘心守 餓而死也。 有戒無定慧，非真戒；有定無戒慧，非真定；有慧無戒 定，非真慧。有戒無定慧，墮在欲天；有戒定無慧，墮..."
+    },
+    {
+      "path": "J\\J28\\J28nB202.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Baichi",
+      "title_zh": "百癡禪師語錄",
+      "snippet": "...夜夢有人呼曰：『時至矣，速回去。』即晨 起身，未數里，雷雨大作，走向古廟躲避，遇真戒師同 念果翁亦來避雨，見其言行純篤，遂偕入長泰縣石 獅巖禮求薙髮。就今想之，此雨..."
+    },
+    {
+      "path": "J\\J26\\J26nB181.xml",
+      "mentions": 1,
+      "title": "Bushuitai Collection",
+      "title_zh": "布水臺集",
+      "snippet": "...禪師 俊骨天生渥窪同，追蹤直欲步天童；盲無慧目憐河 北，破有法壇肇祖風。銀碗雪盛真戒體，高空月上玅 靈衷；語言不著閒文彩，留得清光表海東。 緣幻法主 萬法皆如幻，身..."
+    },
+    {
+      "path": "J\\J25\\J25nB174.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Juelangsheng of Tianjie",
+      "title_zh": "天界覺浪盛禪師語錄",
+      "snippet": "...汝今殺生害仁，殺佛 害身，其生生自殺又誰能救哉？今所謂戒殺者，若非 喫長素，皆非真戒殺也。但自手不操刀以為戒殺，殊 不知假手殺人之罪更甚也？喫素戒殺不名善人，只 喚..."
+    },
+    {
+      "path": "GA\\GA056\\GA056n0059.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Yunmen Mountain",
+      "title_zh": "雲門山志",
+      "snippet": "善勝真悟禪師 瑞巖鴻禪師法嗣 育王曇振禪師 棲賢遷禪師法嗣 崇福燈禪師 淨眾言首座法嗣"
+    },
+    {
+      "path": "GA\\GA016\\GA016n0015.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Dazhaoqing Vinaya Monastery",
+      "title_zh": "大昭慶律寺志",
+      "snippet": "...蓋自 國初大慧、慧皎兩律師，奉上命而為之。登壇授戒，後 嗣其傳者，非出部劄，故有真戒壇、假宗師之說。假宗 師者，指住持也。然此寺之廢而興，衰而盛，所以閱數 百年而終..."
+    },
+    {
+      "path": "GA\\GA012\\GA012n0011.xml",
+      "mentions": 1,
+      "title": "Sequel Gazetteer of Ayuwang Mountain, Mingzhou",
+      "title_zh": "明州阿育王山續志",
+      "snippet": "第五代大覺璉禪師 第六代寶鑑達禪師 第七代覺禪師 第八代真戒振禪師 第九代寧禪師 第十代月堂昌禪師 第十一代無竭曇禪師"
+    },
+    {
+      "path": "GA\\GA011\\GA011n0010.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Ayuwang Mountain, Mingzhou (Vols. 1–8)",
+      "title_zh": "明州阿育王山志(第1卷-第8卷)",
+      "snippet": "...間興廢不可稽攷。慶厯六 年，住山常坦禪師更其舊制，始刻記銘。政和年間， 真戒大師曇振、紹興十二年無示禪師介諶、淳熈 七年佛照光禪師，皆嗣而葺之；獨於椽柱，時雨隂 漬..."
+    },
+    {
+      "path": "G\\G155\\G155n2589.xml",
+      "mentions": 1,
+      "title": "Explaining the Meaning of the Platform Sūtra",
+      "title_zh": "法寶壇經解義",
+      "snippet": "...說法，不離自性；離體說法，名為「相」 說，自性常迷。須知一切萬法皆從自性起用，是真戒定慧法。聽吾偈曰： 「心地無非自性戒，心地無痴自性慧，心地無亂自性定，不增不減自..."
+    },
+    {
+      "path": "G\\G116\\G116n2302.xml",
+      "mentions": 1,
+      "title": "Glossary of Buddhist Terms (Vols. 24–38)",
+      "title_zh": "佛學名相彙解(第24卷-第38卷)",
+      "snippet": "...轉不息，故名為使。 五、戒取者：謂諸外道，於非戒中，謬以為戒，如鷄狗等邪戒，以為真戒，取以進行 也。由此戒取，驅役心神，流轉不息，故名為使。 五鈍使 一、"
+    },
+    {
+      "path": "G\\G115\\G115n2302.xml",
+      "mentions": 1,
+      "title": "Glossary of Buddhist Terms (Vols. 9–23)",
+      "title_zh": "佛學名相彙解(第9卷-第23卷)",
+      "snippet": "...滅，寂滅現前，此是修能所盡。 三決定義 一、攝心為戒即聞門，攝心內觀聞性不動，即真戒體。 二、因戒生定即思門，一念不生三世平等，即真定體。 三、因定發慧即修門，念念..."
+    },
+    {
+      "path": "D\\D55\\D55n8954.xml",
+      "mentions": 1,
+      "title": "Concise Preparatory Notes on Ritual Procedures",
+      "title_zh": "儀註備簡",
+      "snippet": "... 中謬。以為戒。取以進行。故曰戒取。若取鷄狗牛戒。乃 至九十五種外道所行之戒以為真戒。皆名戒取。若 人雖持佛戒。見有戒相。亦是戒取。見諦所斷三界二 行有六種戒取是也..."
+    },
+    {
+      "path": "D\\D47\\D47n8936.xml",
+      "mentions": 1,
+      "title": "Private Notes on the Right Faith Buddha-Recitation Verses",
+      "title_zh": "正信念佛偈私見聞",
+      "snippet": "...云於非戒中謬 以為戒取以進行故曰我取若取鷄狗牛戒乃 至九十五種外道所行之戒取以為真戒皆名 戒取。名義集云戒取於非因計因。頌云非 因道妄謂。疏云非因謂因非道謂道名戒禁..."
+    },
+    {
+      "path": "D\\D27\\D27n8883.xml",
+      "mentions": 1,
+      "title": "Listening Notes on the One Hundred Dharmas Q&A",
+      "title_zh": "百法問答聞書抄",
+      "snippet": "...\uDB9D\uDC52樣見共戒禁取 道清淨\uD84F\uDD40槃㝡勝可心得也無利勤苦者佛界彼外 道\uD849\uDE63戒云前也真偽真戒者如來制戒也順正見者 此制戒順正理云意也偽戒者外道\uD849\uDE63戒也是\uD849\uDE63戒 云慈恩家南山..."
+    },
+    {
+      "path": "B\\B33\\B33n0192.xml",
+      "mentions": 1,
+      "title": "Record of Exegetical Notes (Shiwén Jì)",
+      "title_zh": "釋文紀",
+      "snippet": "...旬便值侯景侵擾法師秀採壅流含 珠未吐慧日暫停而欲還反遂囑值京邑英賢慧顯智 韶智愷曇振慧旻與假黃鉞大將軍太保蕭公勃以大 梁承聖三年歲次癸酉九月十日於衡州始興郡建興 寺..."
+    },
+    {
+      "path": "B\\B22\\B22n0117.xml",
+      "mentions": 1,
+      "title": "Dharma Terms and Numerical Categories of the Tripiṭaka",
+      "title_zh": "三藏法數",
+      "snippet": "...華言滅度。）五戒取使。戒取者。謂諸外 道。於非戒中謬以為戒。如鷄狗等邪戒。以為 真戒。取以進行也。由此戒取。驅役心神。流轉 不息。故名為使。（鷄狗戒者。謂外道自計前..."
+    },
+    {
+      "path": "X\\X83\\X83n1572.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Continued Transmission of the Lamp Record",
+      "title_zh": "續傳燈錄目錄",
+      "snippet": "... 福昌義端禪師 景德元泰禪師 白鹿仲豫禪師 瑞巖子鴻禪師法嗣六人 佛窟可英禪師 岳林曇振禪師 中竺禪慧禪師 景德嵩禪師 資聖本禪師 壽聖文諒禪師 天鉢重元禪師法嗣六人 ..."
+    },
+    {
+      "path": "X\\X82\\X82n1571.xml",
+      "mentions": 1,
+      "title": "Complete Five Lamps (Vols. 34–120)",
+      "title_zh": "五燈全書(第34卷-第120卷)",
+      "snippet": "...說。拈拄杖曰：也大奇，拄杖解說不思議。擊香臺， 下座。 瑞巖鴻禪師法嗣 明州育王曇振真戒禪師上堂。今日布袋頭開，還有 買賣者麼？時有僧出曰：有。師曰：不作貴，不作賤，作..."
+    },
+    {
+      "path": "X\\X81\\X81n1570.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Complete Five Lamps",
+      "title_zh": "五燈全書目錄",
+      "snippet": "師 善勝真悟禪師 祖印善丕禪師 義安慧深禪師 僊洞僊禪師 瑞巖鴻禪師法嗣 育王曇振禪師 佛窟可英禪師 中竺禪慧禪師 景德嵩禪師 資聖本禪師 聖壽文諒禪師 棲賢遷禪..."
+    },
+    {
+      "path": "X\\X81\\X81n1568.xml",
+      "mentions": 1,
+      "title": "Strict Lineage of the Five Lamps (Vols. 10–25)",
+      "title_zh": "五燈嚴統(第10卷-第25卷)",
+      "snippet": "...藤，盡使不著。何故？太平本是將軍致，不 許將軍見太平。 瑞巖鴻禪師法嗣 明州育王曇振真戒禪師上堂：今日布袋頭開，還有 買賣者麼？時有僧出曰：有。師曰：不作貴，不作賤，作..."
+    },
+    {
+      "path": "X\\X80\\X80n1567.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Strict Lineage of the Five Lamps",
+      "title_zh": "五燈嚴統目錄",
+      "snippet": "天鉢元禪師法嗣 元豐清滿禪師 定慧法本禪師 善勝真悟禪師 瑞巖鴻禪師法嗣 育王曇振禪師 棲賢遷禪師法嗣 崇福燈禪師 淨眾言首座法嗣 招提惟湛禪師 南嶽"
+    },
+    {
+      "path": "X\\X80\\X80n1565.xml",
+      "mentions": 1,
+      "title": "Five Lamps Compendium",
+      "title_zh": "五燈會元",
+      "snippet": "...葛藤盡使不著。何故。太平本是將軍致。不 許將軍見太平。 瑞巖鴻禪師法嗣 明州育王曇振真戒禪師上堂。今日布袋頭開。還有 買賣者麼。時有僧出曰。有。師曰。不作貴。不作賤。作..."
+    },
+    {
+      "path": "X\\X69\\X69n1362.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Pujue Zonggao",
+      "title_zh": "普覺宗杲禪師語錄",
+      "snippet": "...斥。投荒 萬里，黃茅絕域。身雖可抑，其道不忒。挈包來歸，了無 一物。 大君有命，育王振錫。學徒奔湊，亘于阡陌。旋 歸徑山，坦塗再闢。謂言住世，永紹正嫡。云胡不淑，西 ..."
+    },
+    {
+      "path": "X\\X66\\X66n1297.xml",
+      "mentions": 1,
+      "title": "Dharma Grove of the Tradition’s Mirror",
+      "title_zh": "宗鑑法林",
+      "snippet": "...。 玉人酣睡夜何長？古殿清風帀地霜，夢破寒鐘窗露 白，起看庭際落梅香。 明州育王曇振真戒禪師上堂：今日布 袋頭開，還有買得底麼？時有僧出曰：有。師曰：不作 貴，不作賤，..."
+    },
+    {
+      "path": "X\\X61\\X61n1162.xml",
+      "mentions": 1,
+      "title": "Complete Collection of Pure Land Provisions",
+      "title_zh": "淨土資糧全集",
+      "snippet": "...。 吾所說法不離自性，離體說法名為相法。自性 常迷，須知一切萬法皆從自性起用，是真戒定 慧法。偈曰：心地無非自性戒，心地無癡自性慧， 心地無亂自性定。不增不減自金剛..."
+    },
+    {
+      "path": "X\\X61\\X61n1145.xml",
+      "mentions": 1,
+      "title": "Notes on the Essential Determinations for the Western Paradise",
+      "title_zh": "西方要決科註",
+      "snippet": "...路絕，離於戲論，故名為乖諍絕 言也。斯乃實和合之相也。 性潔澄嚴，體淨無垢，即為真戒也。 諸漏永盡，性淨圓明，故曰潔嚴。雖有客塵，而本性 淨，故曰無垢。是戒珠之真實..."
+    },
+    {
+      "path": "X\\X60\\X60n1126.xml",
+      "mentions": 1,
+      "title": "Ritual Procedures for Promulgating the Precepts",
+      "title_zh": "弘戒法儀",
+      "snippet": "...歸便登佛位。嗟夫，自歸，禪也。禪非在戒外也，三歸 是正禪也。戒非在禪外也，參禪是真戒也。禪，正法也。 古來禪律相非，政為不知自歸即禪即律，所以正法 速滅也。汝等要知..."
+    },
+    {
+      "path": "X\\X59\\X59n1082.xml",
+      "mentions": 1,
+      "title": "Outline of the Esoteric Food-Offering Meaning",
+      "title_zh": "於密滲施食旨槩",
+      "snippet": "...，四不可得， 無佛可成，無生可度，無行可修，生死涅槃，不知何物， 一脚踏倒，便得真戒矣。上猶是戒體，未能作用，故印 中有白色\uDBF3\uDEAA"
+    },
+    {
+      "path": "X\\X45\\X45n0768.xml",
+      "mentions": 1,
+      "title": "Collected Reading of the Awakening of Faith Commentary & Notes",
+      "title_zh": "起信論疏記會閱",
+      "snippet": "...興寺譯成， 一卷二十四紙。月氏國婆首那王子譯語，沙門智 愷筆授，沙門慧顯、慧旻、曇振等，并黃鉞大將軍太 保蕭勃證義。然此三藏，梁陳二代，勅譯經論，總三 十四部，一百..."
+    },
+    {
+      "path": "X\\X45\\X45n0767.xml",
+      "mentions": 1,
+      "title": "Collected Reading of the Awakening of Faith Commentary & Notes (Front Matter)",
+      "title_zh": "起信論疏記會閱卷首",
+      "snippet": "...從，并貢蘇合佛 像。及至未旬，遇侯景侵擾，三藏欲返舶，偶值京邑英 賢慧顯、智韶、曇振、慧旻與黃鉞大將軍太保蕭勃敬 請，屬大梁承聖三年九月十日於衡州始興郡建興 寺翻譯..."
+    },
+    {
+      "path": "X\\X41\\X41n0730.xml",
+      "mentions": 1,
+      "title": "Continued Explanations of Vinaya Practice and Observance",
+      "title_zh": "毗尼作持續釋",
+      "snippet": "...於 邪見中生正故；五、戒禁取，謂諸外道，於非戒中，謬 計為戒，如持牛狗戒等，以為真戒，取以進修故。此 五種妄惑，動念即生，造次恒有，故名利使也。五鈍 者：一、貪，謂..."
+    },
+    {
+      "path": "X\\X40\\X40n0721.xml",
+      "mentions": 1,
+      "title": "Matters and Meanings of the Vinaya Essentials",
+      "title_zh": "毗尼關要事義",
+      "snippet": "...為 戒，無利勤苦所依為業，如牛狗鷄等邪戒，及投\uD87E\uDC35 拔髮、五熱炙身、斷絕飲食以為真戒，取以進行也。 乃至雖受佛戒，志求生天作輪王等，皆屬戒取所 攝。由此戒取驅役必神..."
+    },
+    {
+      "path": "X\\X38\\X38n0698.xml",
+      "mentions": 1,
+      "title": "Matters and Meanings in the Direct Explanation of the Brahmā Net Sutra",
+      "title_zh": "梵網經直解事義",
+      "snippet": "...於邪見中執為正見故。△五、戒禁 取。謂諸外道於非戒中謬計為戒，如雞狗等邪戒以 為真戒，取以進行故。 五鈍使 五鈍使者，即貪瞋癡慢疑也。鈍即遲鈍，使即役使。謂 此五種..."
+    },
+    {
+      "path": "X\\X38\\X38n0694.xml",
+      "mentions": 1,
+      "title": "Combined Annotations on the Brahmā Net Sutra",
+      "title_zh": "梵網經合註",
+      "snippet": "惟遮不開。 果報者，說則輕褻正法，不說則屏翰正教。 理解者，常住佛性名為真戒，未悟圓宗皆名惡人， 應以餘法示教利喜，不應但讚一乘反令眾生沒 生苦。"
+    },
+    {
+      "path": "X\\X38\\X38n0678.xml",
+      "mentions": 1,
+      "title": "Commentary Notes on the Brahmā Net Bodhisattva Precepts Sutra",
+      "title_zh": "梵網菩薩戒經疏註",
+      "snippet": "...汁，脚足橋梁。 若即心為戒，何假言無形色，無觸對？故知別有無 作，能持戒心，以為真戒聖行。與世王中，不道觀㭊 無作，直舉色心者，是易觀者耳。亦不言無無作。小 乘說四..."
+    },
+    {
+      "path": "X\\X38\\X38n0676.xml",
+      "mentions": 1,
+      "title": "Commentary on the Brahmā Net Bodhisattva Precepts Sutra",
+      "title_zh": "梵網菩薩戒經義疏",
+      "snippet": "...\uD87E\uDC35汁，脚足橋梁。若即心為戒，何假言無形色、無 觸對？故知別有無作能持戒心，以為真戒聖行，與 世王中不道觀析。無作直舉色心者，是撮舉易觀 者耳，亦不言無無作。小乘說..."
+    },
+    {
+      "path": "X\\X37\\X37n0662.xml",
+      "mentions": 1,
+      "title": "Pointing to the Source of the Three Virtues in the Nirvana Sutra Commentary",
+      "title_zh": "涅槃經疏三德指歸",
+      "snippet": "...、愧上位人。 七覺者，謂擇、進、喜，此三屬慧。除定、捨，屬定。念通兩處， 此即分真戒、定、慧也，故云宜取初地等。戒、定、慧是所 行之法，故向云聖人行聖法等。 開善釋..."
+    },
+    {
+      "path": "T\\T17\\T17n0771.xml",
+      "mentions": 1,
+      "title": "Sutra on the Four Grades of Training in the Dharma",
+      "title_zh": "四品學法經",
+      "snippet": "...。種業不廢，會 得好地，所種乃成，收歛有盈；斯亦然矣！行 之不休，福德扶持，會受真戒號。」 校注 經 宋天竺三藏求那跋陀羅譯"
+    },
+    {
+      "path": "T\\T15\\T15n0623.xml",
+      "mentions": 1,
+      "title": "The Buddha Speaks the Tathāgata’s Self-Vow Samādhi of Sole Realization",
+      "title_zh": "佛說如來獨證自誓三昧經",
+      "snippet": "...等 四恩，具無蓋哀明釋四禪，無瑕無穢無黠念，不 從他人法，於佛法中得泥洹道。是為真戒沙 門。」佛告：「正士禁戒無形不著三界，無識無 吾、無我無人、無命無意、無名無種..."
+    },
+    {
+      "path": "T\\T13\\T13n0403.xml",
+      "mentions": 1,
+      "title": "Sutra of the Bodhisattva Acalamati (Achamo)",
+      "title_zh": "阿差末菩薩經",
+      "snippet": "...？」阿差末曰：「其 戒盡者，斯皆非戒；所以菩薩戒不可盡，其心 不捨一切智故，是正真戒，為不斷種故不可 盡。何謂果實道果無盡？所言種者，謂菩薩心； 所云果實，則佛十力..."
+    },
+    {
+      "path": "T\\T12\\T12n0342.xml",
+      "mentions": 1,
+      "title": "The Buddha Speaks: Sutra on the Samādhi of Like an Illusion",
+      "title_zh": "佛說如幻三昧經",
+      "snippet": "...問文殊：「此言 何謂？」答曰：「於善住意，所趣云何？何謂具戒？ 具戒有二：一、正真戒，二、邪偽戒。何謂邪偽？若 墮顛倒。何謂顛倒？受吾我人倚於壽命，縛著 斷滅而計有..."
+    },
+    {
+      "path": "X\\X84\\X84n1582.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Orthodox Continuation of the Lamp",
+      "title_zh": "續燈正統目錄",
+      "snippet": "...博山能禪師 石門仁禪師 龍翔宗常禪師 蔣山恩禪師 蔣山等詮禪師 光孝圓禪師 墨水曇振禪師 秀峰南禪師 法濟僧鶚禪師 報恩行禪師 薦福普仁禪師 玉泉道成禪師 大溈如晦..."
+    },
+    {
+      "path": "X\\X13\\X13n0283.xml",
+      "mentions": 1,
+      "title": "Secret Record of the Śūraṅgama Sutra",
+      "title_zh": "楞嚴經秘錄",
+      "snippet": "...及夫攝心不起，亦須攝心，并 不可得，纔為清淨戒也。要當等者，若受禁戒，自非清 淨真戒之師，安能大小輕重，持犯開遮，一一分明，令 人成就，故云要當等也。誦持一百八遍，..."
+    },
+    {
+      "path": "T\\T85\\T85n2807.xml",
+      "mentions": 1,
+      "title": "Sections on the Mahāyāna-saṃgraha, Fascicle 1",
+      "title_zh": "攝大乘論章卷第一",
+      "snippet": "...因果者。□□□□□□ □□□異名為差別。第六依戒學相者。行託 法起名之為依。又託真戒起修名之為依。防 非止惡名之為戒。理中進求目之為學。簡大 異小名為差別勝相。七名..."
+    },
+    {
+      "path": "T\\T48\\T48n2008.xml",
+      "mentions": 1,
+      "title": "Platform Sutra of the Sixth Patriarch",
+      "title_zh": "六祖大師法寶壇經",
+      "snippet": "...說法，不離自性。離體說法， 名為相說，自性常迷。須知一切萬法，皆從自 性起用，是真戒定慧法。聽吾偈曰： 「心地無非自性戒，心地無癡自性慧， 心地無亂自性定，不增不減..."
+    },
+    {
+      "path": "T\\T43\\T43n1829.xml",
+      "mentions": 1,
+      "title": "Abridged Compilation of the Yogācārabhūmi",
+      "title_zh": "瑜伽師地論略纂",
+      "snippet": "...種聲聞， 世尊依真教有彼作如是說。有其外沙門等 教是邪教，乃至壞道亦無所有，要受真戒，方 生壞故。彼既邪戒，設壞，非壞道。 論解婆羅門中云「名想婆羅門」者，謂諸世間..."
+    },
+    {
+      "path": "T\\T42\\T42n1828.xml",
+      "mentions": 1,
+      "title": "Notes on the Yogācārabhūmi Treatise",
+      "title_zh": "瑜伽論記",
+      "snippet": "...種沙門， 世尊依真教有彼作如是說，有其外沙門等教 是邪教，乃至壞道亦無所有，要受真戒方生 壞故，彼既邪戒，設壞非壞道。第二解婆羅門 中，泰云：從婆羅門父母，而生名種..."
+    },
+    {
+      "path": "T\\T32\\T32n1666.xml",
+      "mentions": 1,
+      "title": "Awakening of Faith in the Mahayana (Treatise)",
+      "title_zh": "大乘起信論",
+      "snippet": "...擾，法師 秀採擁流含珠未吐，慧日暫停而欲還反，遂 囑值京邑英賢慧顯、智韶、智愷、曇振、慧旻，與 假黃鉞大將軍太保蕭公勃，以大梁承聖三 年歲次癸酉九月十日，於衡州始興..."
+    }
+  ]
+}

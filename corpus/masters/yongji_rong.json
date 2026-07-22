@@ -1,0 +1,24 @@
+{
+  "master": "Yongji Rong",
+  "primary_count": 1,
+  "secondary_count": 1,
+  "total_mentions": 4,
+  "primary": [
+    {
+      "path": "J\\J28\\J28nB209.xml",
+      "mentions": 3,
+      "title": "Recorded Sayings of Chan Master Yongji Rong",
+      "title_zh": "永濟融禪師語錄",
+      "snippet": "永濟融禪師語錄目次 卷上 上堂 小參"
+    }
+  ],
+  "secondary": [
+    {
+      "path": "B\\B35\\B35n0194.xml",
+      "mentions": 1,
+      "title": "General Catalogue of the Chinese Tripiṭaka",
+      "title_zh": "中華大藏經總目錄",
+      "snippet": "續第八十二函 207226古雪喆禪師語錄二十卷 208227永濟融禪師語錄二卷 209228伏獅祗園禪師語錄二卷 210229季總徹禪師語錄四卷"
+    }
+  ]
+}

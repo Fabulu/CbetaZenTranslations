@@ -1,1 +1,23 @@
-{"primary_count":0,"secondary_count":1,"total_mentions":1,"primary":[],"secondary":[{"path":"T\\T50\\T50n2060.xml","mentions":1,"title":"Continued Biographies of Eminent Monks","title_zh":"續高僧傳","snippet":"...信地魚龍故至。潤曰。斯實 大心開士也。因行至大興善寺。萬年令鄭 欽泰。於寺打人。沖止之曰。公勿於寺打人。 泰曰。打人罪我自當。沖曰。道不自當可遣 他受。然國家立寺。..."}]}
+{
+  "master": "Chungji",
+  "primary_count": 0,
+  "secondary_count": 2,
+  "total_mentions": 7,
+  "primary": [],
+  "secondary": [
+    {
+      "path": "B\\B31\\B31n0170.xml",
+      "mentions": 6,
+      "title": "General History of Korean Buddhism",
+      "title_zh": "朝鮮佛教通史",
+      "snippet": "...門拈頌集三十卷。又其弟子覺雲禪師。著拈頌說 話。朝鮮禪家。奉為圭臬。曹溪山第六世圓鑑國師法桓。第十世慧鑑國師萬 恒。第十三世覺真國師復丘。皆本宗之名僧。相繼闡法。由是宗..."
+    },
+    {
+      "path": "T\\T50\\T50n2060.xml",
+      "mentions": 1,
+      "title": "Continued Biographies of Eminent Monks",
+      "title_zh": "續高僧傳",
+      "snippet": "...信地魚龍故至。潤曰。斯實 大心開士也。因行至大興善寺。萬年令鄭 欽泰。於寺打人。沖止之曰。公勿於寺打人。 泰曰。打人罪我自當。沖曰。道不自當可遣 他受。然國家立寺。..."
+    }
+  ]
+}

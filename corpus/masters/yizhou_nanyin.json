@@ -1,1 +1,1773 @@
-{"primary_count":0,"secondary_count":6,"total_mentions":9,"primary":[],"secondary":[{"path":"B\\B35\\B35n0195.xml","mentions":2,"title":"Decisive Understanding of Sudden Awakening and Mahāyāna Right Principle","title_zh":"頓悟大乘政理決","snippet":"...於唯忠法師。《全唐文》678）驗以宗密 之《禪門師資圖》，神會傳磁州智如，智如傳益州南印，南印傳東京神照，大理國所尊崇之和尚 張唯忠，即益州南印是矣。 見於吐蕃記載之禪..."},{"path":"T\\T51\\T51n2078.xml","mentions":2,"title":"Record of the Orthodox Lineage of Dharma Transmission","title_zh":"傳法正宗記","snippet":"...玉者。一曰宣州志滿 者。一曰涪州朗禪師者。一曰廣陵靈坦者。一 曰寧州通隱者。一曰益州南印者。一曰河南 尹李常者大鑒之三世。曰南嶽石頭希遷禪 師。其所出法嗣凡二十一人。一..."},{"path":"T\\T51\\T51n2076.xml","mentions":2,"title":"Jingde Record of the Transmission of the Lamp","title_zh":"景德傳燈錄","snippet":"宣州志滿禪師涪州朗禪師 廣陵靈坦禪師寧州通隱禪師 益州南印禪師 河南尹李常已上一十六人無機緣語句不錄 曹谿別出第三世"},{"path":"X\\X86\\X86n1601.xml","mentions":1,"title":"Genealogy of the Chan Lamp","title_zh":"禪燈世譜","snippet":"東林雅廬山 西隱進平 益州南印 益州義俛 澧陽慧演"},{"path":"X\\X85\\X85n1589.xml","mentions":1,"title":"Table of Contents of the Jinjiang Chan Lamp","title_zh":"錦江禪燈目錄","snippet":"有錄 神會法嗣西隱進平禪師有錄 益州南印禪師 涪州朗禪師 大鑒下第三世 馬祖一法嗣西山亮座主有錄 則州和尚有錄"},{"path":"X\\X81\\X81n1570.xml","mentions":1,"title":"Table of Contents of the Complete Five Lamps","title_zh":"五燈全書目錄","snippet":"...會禪師法嗣 蒙山寶光禪師 大石福林禪師以下不列章次 磁州法如禪師 西隱進平禪師 益州南印禪師 澧陽慧演禪師 河南懷空禪師 宜春廣敷禪師 江寧行覺禪師 五臺無名禪師 南嶽..."}]}
+{
+  "master": "Yizhou Nanyin",
+  "primary_count": 0,
+  "secondary_count": 252,
+  "total_mentions": 842,
+  "primary": [],
+  "secondary": [
+    {
+      "path": "Y\\Y33\\Y33n0031.xml",
+      "mentions": 50,
+      "title": "Buddhism in India",
+      "title_zh": "印度之佛教",
+      "snippet": "...代」。 三、自佛元前二、三世紀以來，雅利安文明漸南達德干高原，且遍及於全印 。然南印民族，漸受梵化而非武力之征服。其恆河下流，富有黃種血統之民族， 受吠陀文化之誘發..."
+    },
+    {
+      "path": "LC\\LC01\\LC01n0001.xml",
+      "mentions": 41,
+      "title": "Brief Lectures on the Origins and Development of Indian Buddhism",
+      "title_zh": "印度佛學源流略講",
+      "snippet": "...阿育王時代，它表面上臣屬，實際是半獨立的。阿 育王死後，即擺脫孔雀王朝的羈絆，在南印大事發展。印度是何時進入封建制社會 的，異說紛紜，一般認為是在笈多王朝。不過封建..."
+    },
+    {
+      "path": "Y\\Y34\\Y34n0032.xml",
+      "mentions": 39,
+      "title": "History of Indian Buddhist Thought",
+      "title_zh": "印度佛教思想史",
+      "snippet": "...西北印度的軍隊。後來推翻難陀王朝，創立孔雀（Maurya）王 朝。王朝極盛時，除南印度以波那河（Penner）為界外，占有印度的全部；阿富汗與俾路支斯坦 ，也在其內..."
+    },
+    {
+      "path": "Y\\Y16\\Y16n0016.xml",
+      "mentions": 26,
+      "title": "Studying Buddhism through Buddhist Methods",
+      "title_zh": "以佛法研究佛法",
+      "snippet": "...海之主名優陀延」，優陀延王，就是南方優禪尼城的王。 《大唐西域記》（卷一一）中，南印度有鄔闍衍那國，這是以都城為國名，即是 阿槃提鄔闍衍那"
+    },
+    {
+      "path": "Y\\Y40\\Y40n0038.xml",
+      "mentions": 21,
+      "title": "History of Chinese Chan",
+      "title_zh": "中國禪宗史",
+      "snippet": "...是「如來藏」法門；「如來禪」就是「如來藏禪」。 如來藏法門，弘通於（由）東（而）南印度；阿賴耶緣起說，弘通於（由）西（而）北印度 。各別的發展，而又結合起來的，是（..."
+    },
+    {
+      "path": "Y\\Y43\\Y43n0041.xml",
+      "mentions": 19,
+      "title": "Yongguang Collection",
+      "title_zh": "永光集",
+      "snippet": "...（\uD879\uDD22勒）有關。上座分別說系的赤銅鍱部（Tāmraśāṭīya） ，原是從（西）南印度優禪尼（Ujjayinī）的分別說部（Vibhajyavādin） 所分出。傳..."
+    },
+    {
+      "path": "Y\\Y37\\Y37n0035.xml",
+      "mentions": 16,
+      "title": "Origins and Development of Early Mahāyāna Buddhism",
+      "title_zh": "初期大乘佛教之起源與開展",
+      "snippet": "...ūrvaśaila）、西山住 （Aparaśaila）——四部的總稱，是大眾部在南印度分出的部派。這四派，都以為：釋尊過去聽 迦葉佛（Kāśyapa）的教說而入「決..."
+    },
+    {
+      "path": "X\\X74\\X74n1499.xml",
+      "mentions": 15,
+      "title": "Dharma-Wheel Precious Repentance for the Dharma-Realm Water-and-Land Great Feast",
+      "title_zh": "法界聖凡水陸大齋法輪寶懺",
+      "snippet": "婆羅門瞿曇般若流支譯。亦同前 本。 文殊師利所說不思議佛境界經。 唐南印土沙門菩提流志初譯。即第三十五會 同本異譯。 善住意天子所問經。"
+    },
+    {
+      "path": "J\\J32\\J32nB271.xml",
+      "mentions": 15,
+      "title": "Reading the Canon: A Guide to the Essentials (Vols. 6–44)",
+      "title_zh": "閱藏知津(第6卷-第44卷)",
+      "snippet": "北天目沙門釋智旭彙集 大乘經藏 方等部第二之七 佛說寶雨經 唐南印度沙門達摩流支譯 佛於伽耶山，放頂光明，遍照十方，攝入面門。授月 光天子記，當於..."
+    },
+    {
+      "path": "Y\\Y22\\Y22n0022.xml",
+      "mentions": 14,
+      "title": "Studies in Buddhist History and Geography",
+      "title_zh": "佛教史地考論",
+      "snippet": "...一切有系素以禪學稱，罽賓尤為 淵藪。安世高籍安息，安息多聲聞學，其傳禪數也宜。中南印度，學承大眾、分 別說系，發為方等般若之大乘，與案達羅王朝並興。嗣以北方貴霜王朝..."
+    },
+    {
+      "path": "T\\T51\\T51n2087.xml",
+      "mentions": 14,
+      "title": "Great Tang Record of the Western Regions",
+      "title_zh": "大唐西域記",
+      "snippet": "...爪窣堵波側，有故伽藍，是提婆菩薩 作《廣百論》挫小乘、伏外道處。初，提婆菩薩 自南印度至此伽藍，城中有外道婆羅門， 高論有聞，辯才無礙，循名責實，反質窮辭。 雅知提..."
+    },
+    {
+      "path": "LC\\LC03\\LC03n0003.xml",
+      "mentions": 13,
+      "title": "Foundational Treatise on Tibetan Buddhism and Selected Studies",
+      "title_zh": "西藏佛學原論及佛學論著選集",
+      "snippet": "...，爾後傳承者通 稱四大家，俱各擅其一科而未備全體也。其一，傳毘曇之學者為安慧。生南印度檀陀迦侖 耶長者家，七歲即依世親受學上座三藏，聞持極廣，尤擅對法，多所著述，於..."
+    },
+    {
+      "path": "B\\B31\\B31n0170.xml",
+      "mentions": 12,
+      "title": "General History of Korean Buddhism",
+      "title_zh": "朝鮮佛教通史",
+      "snippet": "...所。剃染受戒。學大般若有得。問諸佛 眾生虛空三境界。師云。非有非無是真般若。可往南印度楞伽國。（今之錫蘭島也 ）吉祥山普明 所。研窮奧旨。時年十九。奮發獨行。禮吾師..."
+    },
+    {
+      "path": "B\\B15\\B15n0088.xml",
+      "mentions": 12,
+      "title": "Selected Extracts from the Complete Collection of Illustrations and Writings from Antiquity to the Present (Part 1)",
+      "title_zh": "古今圖書集成選輯（上）",
+      "snippet": "...號曰龍樹也 按景德傳燈錄十四祖龍樹尊者西天竺國人也亦 名龍勝始於毗羅尊者得法後至南印度彼國之人 多信福業聞尊者為說妙法遞相謂曰人有福業世 間第一徒言佛性誰能覩之尊者..."
+    },
+    {
+      "path": "B\\B13\\B13n0080.xml",
+      "mentions": 12,
+      "title": "Great Tang Records on the Western Regions (Collated Punctuated Edition)",
+      "title_zh": "大唐西域記（校點本）",
+      "snippet": "... 髮、爪窣堵波側，有故伽藍，是提婆菩薩作廣百論挫小乘、伏外道處。初，提 婆菩薩自南印度至此伽藍，城中有外道婆羅門，高論有聞，辯才無礙，循名責實，反質窮辭。 雅知提婆..."
+    },
+    {
+      "path": "B\\B13\\B13n0079.xml",
+      "mentions": 12,
+      "title": "Six Tablets of the Śākya Clan (Buddhist Encyclopedia)",
+      "title_zh": "釋氏六帖",
+      "snippet": "...伽論因是 疾愈等論師奪邑般若論云王舍城頻婆娑羅王有大論師名摩陀羅王以聰明封賞一邑南印土有一論師來索論義戴火葉腹王令摩陀羅敵論不如外來論師王奪封邑與之摩陀羅亦重其聰明..."
+    },
+    {
+      "path": "B\\B34\\B34n0193.xml",
+      "mentions": 10,
+      "title": "Dharma Vehicle of the Wu Capital",
+      "title_zh": "吳都法乘",
+      "snippet": "...而塔 則專託寺僧寶林加葺之宣德癸丑火復作於僧舍浮圖又及 於灾而加甚於昔焉住山定公南印慨然嘆曰是魔耶數乎不 有廢也則何以興人能興所廢無他在其志之所立\uD87A\uDE07何如耳 乃罄衣..."
+    },
+    {
+      "path": "B\\B14\\B14n0081.xml",
+      "mentions": 9,
+      "title": "Baolin Chronicle of Caoxi (Shuangfeng Mountain) (Fragment)",
+      "title_zh": "雙峰山曹侯溪寶林傳（殘卷）",
+      "snippet": "...詔而為說偈尒時龍樹得付法已心生 欣慶涌身虛空徧至佗國作神通已 却復履步至一國界名南印度彼國 人民多信福業而不會佛真如至理 唯行小辯不具大智及問佛性而但 布施云我求福..."
+    },
+    {
+      "path": "Y\\Y18\\Y18n0018.xml",
+      "mentions": 9,
+      "title": "Buddhism for Youth",
+      "title_zh": "青年的佛教",
+      "snippet": "...作一致而有效的普遍宣傳；一面覺得直隸祇園的印度，特別是南方， 工作還嫌不夠，而且南印度民族在興起，也正熱待青年佛教去教化他。結果，組 織了一個「南方巡迴宣教團」，由..."
+    },
+    {
+      "path": "T\\T55\\T55n2154.xml",
+      "mentions": 9,
+      "title": "Kaiyuan Era Buddhist Catalog",
+      "title_zh": "開元釋教錄",
+      "snippet": "金色王經一卷 右三部八卷。 沙門曇摩流支。魏云法希。亦云法樂。南印度 人。棄家入道偏以律藏傳名。弘道為務感物 而動。宣武帝世遊化洛陽。以景明二年辛..."
+    },
+    {
+      "path": "X\\X86\\X86n1600.xml",
+      "mentions": 8,
+      "title": "Chronological Compilation of the Sectarian Lineage",
+      "title_zh": "宗統編年",
+      "snippet": "庚子五十四年 辛丑五十五年 壬寅五十六年 祖至南印度化諸外道 祖行化至南印度，彼有外道五千，興大幻術，王與 國人靡然從之，不知向佛..."
+    },
+    {
+      "path": "TX\\TX18\\TX18n0010.xml",
+      "mentions": 8,
+      "title": "Complete Works of Master Taixu: Part Ten – Study and Practice",
+      "title_zh": "太虛大師全書．第十編\u3000學行",
+      "snippet": "...有小乘，是可斷言。 空宗的龍樹菩薩雖然是中印度人，而他的繼承者──提婆菩薩，卻是南印度的， 所以空宗比較盛行南印度。大乘密宗的咒典，據說就是龍樹菩薩在南印度的鐵塔中..."
+    },
+    {
+      "path": "T\\T55\\T55n2157.xml",
+      "mentions": 8,
+      "title": "Newly Compiled Zhenyuan Buddhist Catalog",
+      "title_zh": "貞元新定釋教目錄",
+      "snippet": "鹿王經一卷 右三部八卷。 沙門曇摩流支。魏云法希。亦曰法樂。南印度 人。棄家入道偏以律藏傳名。弘道為務感物 而動。宣武帝世遊化洛陽。以景明二年辛..."
+    },
+    {
+      "path": "X\\X85\\X85n1594.xml",
+      "mentions": 8,
+      "title": "Outline of Buddhas and Patriarchs",
+      "title_zh": "佛祖綱目",
+      "snippet": "十四祖龍樹傳法迦那提婆 龍樹既得法於摩羅已，後至南印度。彼國之人，多信 福業。樹為說法，\uDB8E\uDFDD相謂曰：人有福業，世間第一。徒言 佛性，..."
+    },
+    {
+      "path": "Y\\Y28\\Y28n0028.xml",
+      "mentions": 7,
+      "title": "Flower Rain Collection (IV)",
+      "title_zh": "華雨集（四）",
+      "snippet": "...常本有的「如來藏，我，自性清淨心」，與說一切法自性空的「初期大乘」， 都是起源於南印度而流傳北方的。西元三、四世紀間興起的「虛妄唯識論」，卻 是淵源於北方的。真常—..."
+    },
+    {
+      "path": "T\\T53\\T53n2122.xml",
+      "mentions": 7,
+      "title": "Pearl Grove of the Dharma Garden",
+      "title_zh": "法苑珠林",
+      "snippet": "又奘法師傳云。馱那羯\uD84E\uDE4A迦國屬南印度。都 城東西據山間各有大寺。其寺有婆毘吠伽 論師於觀自在菩薩絕粒而服水 三年。..."
+    },
+    {
+      "path": "T\\T49\\T49n2037.xml",
+      "mentions": 7,
+      "title": "Brief Investigation of Antiquity of the Shakya Lineage",
+      "title_zh": "釋氏稽古略",
+      "snippet": "...。襲位。九 月葬始皇驪山下。 十四祖龍樹大士 西天竺國人也。亦名龍 勝。得法後至南印度。彼國之人多信福業。祖 為說法。彼相謂曰。人有福業世間第一。徒言 佛性。誰能覩..."
+    },
+    {
+      "path": "T\\T49\\T49n2036.xml",
+      "mentions": 7,
+      "title": "General Record of Buddhas and Patriarchs Through the Ages",
+      "title_zh": "佛祖歷代通載",
+      "snippet": "...儒作阿房宮。 第十四祖龍樹尊者。西天竺國人也。亦 名龍勝。始於毘羅尊者得法。後至南印度。 彼國之人多信福業。聞尊者為說妙法。遞 相謂曰。人有福業世間第一。徒言佛性誰..."
+    },
+    {
+      "path": "B\\B16\\B16n0088.xml",
+      "mentions": 7,
+      "title": "Selected Extracts from the Complete Collection of Illustrations and Writings from Antiquity to the Present (Part 2)",
+      "title_zh": "古今圖書集成選輯（下）",
+      "snippet": "...佛牙塔上寶珠光明騰燄暉赫現 于天際又西南行具經諸國並有異迹可五千里至 憍薩羅國即南印度之正境也崇信佛法僧徒萬許 其土寬廣林野相次王都西南三百餘里有黑蜂山 昔古大王為..."
+    },
+    {
+      "path": "T\\T50\\T50n2053.xml",
+      "mentions": 7,
+      "title": "Biography of the Tripitaka Master of Great Ci’en Monastery (Tang)",
+      "title_zh": "大唐大慈恩寺三藏法師傳",
+      "snippet": "...。其後北印度健馱羅國婆羅門覩羅邑 波膩尼仙又略為八千頌，即今印度現行者 是。近又南印度婆羅門為南印度王復略為 二千五百頌，邊鄙諸國多盛流行，印度博學 之人所不遵習。..."
+    },
+    {
+      "path": "T\\T32\\T32n1660.xml",
+      "mentions": 7,
+      "title": "Treatise on the Provisions for Bodhi",
+      "title_zh": "菩提資糧論",
+      "snippet": "聖者龍樹本 比丘自在釋 大隋南印度三藏達磨笈多譯"
+    },
+    {
+      "path": "X\\X86\\X86n1596.xml",
+      "mentions": 6,
+      "title": "Single-Transmission Record of Nanyue",
+      "title_zh": "南嶽單傳記",
+      "snippet": "意知，但 辦出家，何慮吾之不聖。尊者聞已悔謝，摩羅即與度 脫及五百龍眾俱受具戒。南印度有五千外道興大 幻術，王與國人靡然從之，不知向佛。尊者感慨，易其 威儀，白衣持..."
+    },
+    {
+      "path": "X\\X77\\X77n1522.xml",
+      "mentions": 6,
+      "title": "Newly Compiled Classified Biographies of Monks of the Six Studies",
+      "title_zh": "新修科分六學僧傳",
+      "snippet": "...神湊 唐惟寬 唐靈默 唐智常 唐神暄 唐隱峯 唐智藏 唐道行 唐甄叔 唐自在 唐南印 唐慧涉 唐無業 唐天然 唐如會 唐道樹 唐大毓 唐道行 唐曇藏 唐惟儼 唐寧賁..."
+    },
+    {
+      "path": "X\\X78\\X78n1553.xml",
+      "mentions": 5,
+      "title": "Tiansheng Expanded Lamp Record",
+      "title_zh": "天聖廣燈錄",
+      "snippet": "...即赧 王朝也。 第十四祖龍樹尊者西天竺國人也，亦名龍勝。始於 毗羅尊者得法，後至南印土。彼國之人，多信福業，無 智慧性。龍樹為說教法，信受甚稀。聞尊者至，互相謂 曰..."
+    },
+    {
+      "path": "T\\T36\\T36n1739.xml",
+      "mentions": 5,
+      "title": "Treatise on the New Avataṃsaka Sutra",
+      "title_zh": "新華嚴經論",
+      "snippet": "...亦立四教。 第八唐朝吉藏法師立三種教。 第九梁朝光宅寺雲法師立四教。 第十唐朝江南印法師立二教。 第一後魏菩提留支立一音教者，謂一切聖 教唯是如來一圓音教，但隨根異..."
+    },
+    {
+      "path": "T\\T35\\T35n1735.xml",
+      "mentions": 5,
+      "title": "Commentary on the Great Avataṃsaka Sutra",
+      "title_zh": "大方廣佛華嚴經疏",
+      "snippet": "...別顯、後一總結。別中云或邊呪語 者，梵云達邏鼻茶曼達邏鉢底鞞。言達邏鼻 荼者，是南印度中邊國名也，此云消融。曼 達邏者，呪也。鉢底鞞者，句也。謂其國人稟性 純質，凡..."
+    },
+    {
+      "path": "T\\T35\\T35n1733.xml",
+      "mentions": 5,
+      "title": "Record of Probing the Profound of the Avataṃsaka Sutra",
+      "title_zh": "華嚴經探玄記",
+      "snippet": "...索耶？故知是權同羊鹿也。以 是大乘中權教方便說故。具釋如彼《法華疏》 中。十唐江南印法師、敏法師等立二教：一釋 迦經，名屈曲教，以逐機性隨計破著故， 如《涅槃》等。..."
+    },
+    {
+      "path": "X\\X83\\X83n1578.xml",
+      "mentions": 5,
+      "title": "Record Pointing at the Moon",
+      "title_zh": "指月錄",
+      "snippet": "... 而善知眾藝，才辯神明。出家入石窟，棲止龍樹，為龍 眾所歸，遇摩羅尊者付法。後至南印度，彼國之人多 信福業。祖為說法，\uD879\uDF8F相謂曰：人有福業，世間第一。徒 言佛性，誰..."
+    },
+    {
+      "path": "X\\X81\\X81n1571.xml",
+      "mentions": 5,
+      "title": "Complete Five Lamps (Vols. 1–33)",
+      "title_zh": "五燈全書(第1卷-第33卷)",
+      "snippet": "...十六年壬辰歲也。 十四祖龍樹尊者西天竺國人也，亦名龍勝。始於摩 羅尊者得法，後至南印度。彼國之人，多信福業。祖為 說法，遞相謂曰：人有福業，世間第一。徒言佛性，誰能..."
+    },
+    {
+      "path": "X\\X80\\X80n1568.xml",
+      "mentions": 5,
+      "title": "Strict Lineage of the Five Lamps (Vols. 1–9)",
+      "title_zh": "五燈嚴統(第1卷-第9卷)",
+      "snippet": "...十一年壬辰歲也。 十四祖龍樹尊者西天竺國人也，亦名龍勝。始於摩 羅尊者得法，後至南印度。彼國之人，多信福業。祖為 說法，\uD879\uDF8F相謂曰：人有福業，世間第一。徒言佛性，誰..."
+    },
+    {
+      "path": "X\\X80\\X80n1565.xml",
+      "mentions": 5,
+      "title": "Five Lamps Compendium",
+      "title_zh": "五燈會元",
+      "snippet": "...十一年壬辰歲也。 十四祖龍樹尊者西天竺國人也。亦名龍勝。始於摩 羅尊者得法。後至南印度。彼國之人。多信福業。祖為 說法。\uD879\uDF8F相謂曰。人有福業。世間第一。徒言佛性。誰..."
+    },
+    {
+      "path": "X\\X04\\X04n0223.xml",
+      "mentions": 5,
+      "title": "Combined Treatise on the Avatamsaka Sutra",
+      "title_zh": "華嚴經合論",
+      "snippet": "...四 教。第八、唐朝吉藏法師立三種教。第九、梁朝光宅 寺雲法師立四教。第十、唐朝江南印法師立二教。 第一、後魏菩提留支立一音教者，謂一切聖教唯 是如來一圓音教，但隨根..."
+    },
+    {
+      "path": "T\\T54\\T54n2131.xml",
+      "mentions": 5,
+      "title": "Collection of Translated Names and Meanings",
+      "title_zh": "翻譯名義集",
+      "snippet": "...，高數百尺，唱 言：『佛說因明論道，願請重弘。』菩薩乃放神光， 照燭機感。時，彼南印土按達羅國王，見放光 明，疑入金剛喻定，請證無學果。菩薩曰：『入定 觀察，將釋深..."
+    },
+    {
+      "path": "T\\T50\\T50n2061.xml",
+      "mentions": 5,
+      "title": "Song Dynasty Biographies of Eminent Monks",
+      "title_zh": "宋高僧傳",
+      "snippet": "...之才 智，可謂釋門之象胥也歟！ 唐洛陽廣福寺金剛智傳 釋跋日羅菩提，華言金剛智。南印度摩賴耶 國人也，華言「光明」，其國境近觀音宮殿補陀 落伽山。父婆羅門善五明論，..."
+    },
+    {
+      "path": "Y\\Y23\\Y23n0023.xml",
+      "mentions": 4,
+      "title": "Fragrant Clouds in a Flower Rain",
+      "title_zh": "華雨香雲",
+      "snippet": "...羅等一樣。這東方的大眾系，漸漸的東南移到央伽羅，傳說已有大乘經了 。又漸漸的傳到南印度的摩醯沙慢陀羅；後來大案達羅、小案達羅，永遠是大眾 系的化區，也就是大乘佛教盛..."
+    },
+    {
+      "path": "X\\X87\\X87n1618.xml",
+      "mentions": 4,
+      "title": "Guide to the Patriarchal Court",
+      "title_zh": "祖庭指南",
+      "snippet": "...而 善知眾藝，才辯神明。出家入石窟，棲止龍樹，為龍眾 所歸，遇摩羅尊者付法。後至南印度，彼國之人多信 福業。祖為說法，\uDB88\uDEFC相謂曰：人有福業，世間第一。徒言 佛性，誰..."
+    },
+    {
+      "path": "X\\X86\\X86n1608.xml",
+      "mentions": 4,
+      "title": "Eulogies on the Portrait Biographies of the Eighty-Eight Patriarchs",
+      "title_zh": "八十八祖道影傳贊",
+      "snippet": "十四祖龍樹尊者傳 十四祖龍樹尊者，西天竺國人也。始于摩羅尊者得 法，後至南印度。彼國之人多信福業，祖為說法，開示 佛性，聞者悉回初心。祖復座上現自在身，如滿..."
+    },
+    {
+      "path": "LC\\LC02\\LC02n0002.xml",
+      "mentions": 4,
+      "title": "Brief Lectures on the Origins and Development of Chinese Buddhism",
+      "title_zh": "中國佛學源流略講",
+      "snippet": "...達磨原來的禪法如何，也就弄不清楚了。現在從 比較原始的資料《續高僧傳》看，達磨為南印度人，劉宋末由海道經南越，輾轉而至 北魏「隨止海禪（所到之處都講禪法）」，但並不..."
+    },
+    {
+      "path": "GA\\GA010\\GA010n0009.xml",
+      "mentions": 4,
+      "title": "New Gazetteer of Putuo Luojia",
+      "title_zh": "普陀洛迦新志",
+      "snippet": "...士告善財言：「南方有山，名補怛洛迦，有菩薩名觀自在。」奘 師所記，為布呾洛迦。在南印度，秣羅矩吒國之南，秣剌邪山之東。道里明白如此。乃 今定海縣東海中，有普陀山，亦..."
+    },
+    {
+      "path": "B\\B25\\B25n0144.xml",
+      "mentions": 4,
+      "title": "Zutang Ji (Anthology from the Patriarchs’ Hall)",
+      "title_zh": "祖堂集",
+      "snippet": "...住而非住。身顯圓月， 法流膏雨。提婆投機，就諳旨趣。」 ○第十五祖迦那提婆尊者，南印土人，姓毗舍羅。 爾時提婆尊者告羅睺羅多曰：「我今將此 正法眼藏用付於汝，汝宜傳..."
+    },
+    {
+      "path": "B\\B17\\B17n0093.xml",
+      "mentions": 4,
+      "title": "Xiangjiao Pibian (Complete in Six Volumes)",
+      "title_zh": "象教皮編（六卷全）",
+      "snippet": "...行二十五日至囉囉國 又西行四十日至蘇囉茶國又西行十一日至西海 自中印度行六月程至南印度又西行九十日至供 迦拏國又西行一月至海自南印度南行六月程至 南海云雍熙中衛州僧..."
+    },
+    {
+      "path": "B\\B11\\B11n0076.xml",
+      "mentions": 4,
+      "title": "History of Buddhism in India",
+      "title_zh": "印度佛教史",
+      "snippet": "...即能持誦三藏。 此後，阿闍黎聖提婆，亦久住那爛陀寺，最後，更至南方，攝益有情。於南印度香至國附近之蘭 伽那達，傳密意於羅睺羅跋陀羅，而示寂焉。 二 龍猛 與聖提婆同..."
+    },
+    {
+      "path": "X\\X84\\X84n1580.xml",
+      "mentions": 4,
+      "title": "Separate Transmission Outside the Teachings",
+      "title_zh": "教外別傳",
+      "snippet": "十四祖龍樹尊者 十四祖龍樹尊者，西天竺國人也，亦名龍勝。始於摩 羅尊者得法，後至南印度。彼國之人，多信福業。祖為 說法，\uD879\uDF8F相謂曰：人有福業，世間第一。徒言佛性，誰..."
+    },
+    {
+      "path": "X\\X65\\X65n1280.xml",
+      "mentions": 4,
+      "title": "Brief Discourse on Dispelling Delusion and Providing Remedy",
+      "title_zh": "闢妄救略說",
+      "snippet": "... 而善知眾藝，才辯神明。出家入石窟，棲止龍樹，為龍 眾所歸。遇摩羅尊者付法，後至南印度。彼國之人多 信福業，祖為說法，\uDB8E\uDFDD相謂曰：人有福業，世間第一。徒 言佛性，誰..."
+    },
+    {
+      "path": "Y\\Y11\\Y11n0011.xml",
+      "mentions": 4,
+      "title": "Tracing the Sources of Emptiness Doctrine",
+      "title_zh": "性空學探源",
+      "snippet": "...論，側重在認識論的立場上，作理論的辨析，與一切有部同；這是西北印學 派的作風。中南印的大眾、分別說系，雖是假有義的闡發者，然多為直覺的說明， 少作嚴密的推理建立。 ..."
+    },
+    {
+      "path": "X\\X75\\X75n1512.xml",
+      "mentions": 4,
+      "title": "Comprehensive Annals of Longxing",
+      "title_zh": "隆興編年通論",
+      "snippet": "...尚止 平一爰居，矧風斯在下者耶。 普通八年，天竺初祖菩提達磨大師至金陵。師西域 南印度國香至王第三子也。王薨，師出家，遇二十七 祖般若多羅，付以大法。因問：我既得法..."
+    },
+    {
+      "path": "T\\T55\\T55n2152.xml",
+      "mentions": 4,
+      "title": "Continued Illustrated Record of Sutra Translations",
+      "title_zh": "續古今譯經圖紀",
+      "snippet": "...東都大內遍空寺譯。大方廣佛花嚴經一部 天后親臨法座煥發序文。自運仙毫首 題名品。南印度沙門菩提流志沙門義淨同 宣梵本。後付沙門復禮法藏等於佛授記寺 譯。至聖曆"
+    },
+    {
+      "path": "T\\T51\\T51n2084.xml",
+      "mentions": 4,
+      "title": "Essential Abridged Record of Responses Concerning the Three Jewels",
+      "title_zh": "三寶感應要略錄",
+      "snippet": "...於龍猛菩薩。又 數百歲之後。傳於龍智。龍智慎傳持之。如瓶 水移器。傳金剛智。智是南印度摩賴耶國人。 隨緣遊。隨處利生。聞大支那佛法崇盛。遂汎 船東遊。幸于海隅。開元..."
+    },
+    {
+      "path": "X\\X09\\X09n0240.xml",
+      "mentions": 3,
+      "title": "Outline Essentials of the Avatamsaka Sutra (Volumes 45–80)",
+      "title_zh": "華嚴綱要(第45卷-第80卷)",
+      "snippet": "已來，諸 菩薩眾於中止住。 四、清淨彼岸城，是南印土目真，此云解脫，即龍之 名。鄰陀，此云處，即龍所居處。 摩蘭陀國有一住處，名：..."
+    },
+    {
+      "path": "TX\\TX28\\TX28n0018.xml",
+      "mentions": 3,
+      "title": "Complete Works of Master Taixu: Part Eighteen – Lectures (Vols. 60–180)",
+      "title_zh": "太虛大師全書．第十八編\u3000講演(第60卷-第180卷)",
+      "snippet": "...美也。二、在歐、美南部的佛教，是從南洋輸入的，因為南洋 和歐、美的南部相接近，且南印度和仰光、緬甸等處又屬于英國，故佛教的輸入，更 屬意中事了。然此種佛教輸入，都屬..."
+    },
+    {
+      "path": "J\\J36\\J36nB369.xml",
+      "mentions": 3,
+      "title": "Recorded Sayings of Chan Master Zhe’an Fan",
+      "title_zh": "蔗菴範禪師語錄",
+      "snippet": "... 隱顯法既傳，芧檐坐秋月。回頭試間馬鳴老，大鵬 豈是尋常。 十四祖龍樹尊者，旺化南印度，彼國人多信福業，祖 為說法，遞相謂曰：「人有福業，世間第一，徒言佛性，誰 能..."
+    },
+    {
+      "path": "J\\J33\\J33nB286.xml",
+      "mentions": 3,
+      "title": "Recorded Sayings of Chan Master Yingningjing",
+      "title_zh": "攖寧靜禪師語錄",
+      "snippet": "...身擔負得來，應知利害去處。咄！如虎之 缺，如馬之馵。 二十六祖不如密多尊者 師系南印國王第二子也。婆舍斯多尊者化至師 國，師之長兄國王德勝欲屈尊者，曰：「師子尊者已..."
+    },
+    {
+      "path": "B\\B36\\B36n0198.xml",
+      "mentions": 3,
+      "title": "Bhagavad Gītā",
+      "title_zh": "博伽梵歌",
+      "snippet": "...書本內所談的不獨是詩一般情感的流露，而是一個達到宗教滿足感的特定 方法。除了來自南印度的長著博伽瓦達普蘭那 Bhāgavata-purāṇa 外，梵歌 （Bhaga..."
+    },
+    {
+      "path": "B\\B11\\B11n0069.xml",
+      "mentions": 3,
+      "title": "Transmission of the Dharma Lineage in Seven Systems",
+      "title_zh": "七系付法傳",
+      "snippet": "...瑟侘那，玄 奘法師大唐西域記卷十一，記此國事甚詳。 註二 䭾那羯磔迦古國名，在東南印。清辯菩薩於此國修金剛手法成就，現身入阿修 羅宮，待彌勒菩薩成佛。見大唐西域記卷..."
+    },
+    {
+      "path": "B\\B05\\B05n0002.xml",
+      "mentions": 3,
+      "title": "Essentials Compiled from Commentaries and Treatises on the Avataṃsaka Sūtra (Volumes 86–120)",
+      "title_zh": "華嚴經疏論纂要(第86卷-第120卷)",
+      "snippet": "...大悲菩薩。眾尊重故。偏加於頌。言海上有山者。大悲隨順。入生死海而住涅槃山故。 即南印度之南。 【論】經云。我開栴檀座如來塔門時得三昧名佛種無盡者。明一切眾生分別心。..."
+    },
+    {
+      "path": "B\\B04\\B04n0002.xml",
+      "mentions": 3,
+      "title": "Essentials Compiled from Commentaries and Treatises on the Avataṃsaka Sūtra (Volumes 47–85)",
+      "title_zh": "華嚴經疏論纂要(第47卷-第85卷)",
+      "snippet": "...。師子口中。 流出金剛沙。東入震旦國。便入東海。南面恆伽河。從象口流出銀沙。流入南印度。便入南海。西面信度河。 從牛口流出黃金沙。流入信度國。便入西海。北面縛蒭河。..."
+    },
+    {
+      "path": "Y\\Y42\\Y42n0040.xml",
+      "mentions": 3,
+      "title": "The Path to Buddhahood (Annotated Edition)",
+      "title_zh": "成佛之道（增注本）",
+      "snippet": "...相，以十六（或說五）心見道的，是漸見派——見四諦得道，是西北 印學派的主張。而中南印度的學派，是主張頓見的——見滅諦得道。當然，這 是千百年來的古老公案，優劣是難以..."
+    },
+    {
+      "path": "Y\\Y39\\Y39n0037.xml",
+      "mentions": 3,
+      "title": "A Study of Tathāgatagarbha",
+      "title_zh": "如來藏之研究",
+      "snippet": "...容易激發願求修持的精進。西藏多羅那他（Tāranātha） 的《印度佛教史》說：南印度毘土耶那竭羅（Vidyānagara）地方，《如來藏經》的偈頌，連童 女們都會"
+    },
+    {
+      "path": "Y\\Y38\\Y38n0036.xml",
+      "mentions": 3,
+      "title": "An Inquiry into Emptiness",
+      "title_zh": "空之探究",
+      "snippet": "...王的祠廟中得來的。後來龍叫七次入海的傳說，也只是這一傳說的誇張。烏荼， 在（東）南印度，當時屬於安達羅（Andhra）的娑多婆訶（Śātavāhana）王朝。龍樹在..."
+    },
+    {
+      "path": "T\\T20\\T20n1191.xml",
+      "mentions": 3,
+      "title": "Great Vaipulya Bodhisattva Piṭaka: Mañjuśrī Fundamental Ritual Sūtra",
+      "title_zh": "大方廣菩薩藏文殊師利根本儀軌經",
+      "snippet": "...佛所說應是 山川林野深淨之處，離諸雜穢眾惡之類，忻 樂誦持真言法行皆得成就。「若南印度或於 吉祥山、吉祥舍利塔等亦得成就法。若北印 度，迦濕彌羅國、儞波羅國"
+    },
+    {
+      "path": "Y\\Y12\\Y12n0012.xml",
+      "mentions": 3,
+      "title": "The Path to Buddhahood",
+      "title_zh": "成佛之道",
+      "snippet": "...相，以十六（或說五）心見道的，是漸見派——見四諦得道，是西北 印學派的主張。而中南印度的學派，是主張頓見的——見滅諦得道。當然，這 是千百年來的古老公案，優劣是難以..."
+    },
+    {
+      "path": "Y\\Y08\\Y08n0008.xml",
+      "mentions": 3,
+      "title": "Outline of the Buddha-Dharma",
+      "title_zh": "佛法概論",
+      "snippet": "...嚴經》的〈十地品〉、〈入法界品〉等大乘經的偈頌部分，也是用這種 語寫的。西藏傳說南印度大眾系的案達羅學派用方言記錄經文，其中有大乘經， 應該就是這種文字。如《法華經..."
+    },
+    {
+      "path": "X\\X85\\X85n1593.xml",
+      "mentions": 3,
+      "title": "Orthodox Line of the Chan School",
+      "title_zh": "禪宗正脉",
+      "snippet": "鳴豁然省悟。 十四祖龍樹尊者至南印度，彼國之人多信福業。祖 為說法，\uD879\uDF8F相謂曰：人有福業，世間第一。徒言佛性，誰 ..."
+    },
+    {
+      "path": "X\\X07\\X07n0234.xml",
+      "mentions": 3,
+      "title": "Annotated Commentary on the Avatamsaka Sutra",
+      "title_zh": "華嚴經疏注",
+      "snippet": "△四、清淨彼岸。 清淨彼岸城有一住處諸菩薩眾於中止住。 清淨彼岸城，是南印度目真，此云解脫，即龍之名。 隣陀云處，即龍所居處。△五、摩蘭陀國。 摩蘭陀國有..."
+    },
+    {
+      "path": "X\\X05\\X05n0229.xml",
+      "mentions": 3,
+      "title": "Subcommentary on the ‘Practices and Vows’ Chapter of the Avatamsaka Sutra",
+      "title_zh": "華嚴經行願品疏鈔",
+      "snippet": "...掩也。 △我皇御宇，德合乾坤。光宅萬方，重譯來貢。△東風 入律，西天輸越海之誠；南印御書，北關獻朝宗之敬。 △特回明詔再譯真經光闡大猷增輝新理。△澄觀。 顧多天幸，..."
+    },
+    {
+      "path": "X\\X03\\X03n0221.xml",
+      "mentions": 3,
+      "title": "Revised Notes on the Abridged Commentary to the Avatamsaka Sutra",
+      "title_zh": "續華嚴經略疏刊定記",
+      "snippet": "...藏立半滿二教，謂依《涅槃經》喻顯大小 乘教，如半滿字。隋遠法師亦同此立。四、唐初南印 法師亦立二教：一、屈曲教，謂釋迦經遂機性說，隨計 破著故，如《涅槃經》等；二、..."
+    },
+    {
+      "path": "T\\T48\\T48n2016.xml",
+      "mentions": 3,
+      "title": "Record of the Mirror of the School",
+      "title_zh": "宗鏡錄",
+      "snippet": "...絕。今幸福智攸邈。深 達聖旨。因明論道。願請重弘。菩薩乃放神光。 照燭機感。時彼南印土。按達羅國王。見放光 明。疑入金剛喻定。請證無學果。菩薩曰。入 定觀察。將釋深..."
+    },
+    {
+      "path": "T\\T43\\T43n1830.xml",
+      "mentions": 3,
+      "title": "Expository Notes on the Treatise on Consciousness-Only",
+      "title_zh": "成唯識論述記",
+      "snippet": "...也，其別神德具如別記。釋此本頌有 十論師：一、梵云達磨波羅，唐言護法。此大 論師南印度境達羅毘荼國建至城中帝"
+    },
+    {
+      "path": "ZW\\ZW12\\ZW12n0098.xml",
+      "mentions": 2,
+      "title": "Ritual for the Great Assembly of Perfect Penetration and Three Wisdoms",
+      "title_zh": "圓通三慧大齋道場儀",
+      "snippet": "南無觀世音菩薩 胡跪讚禮 一心皈命禮，正南印土補怛洛山，華則有拘 物頭華，鉢頭摩華，木則有寶娑羅木，躭摩羅木。 八功德水，是..."
+    },
+    {
+      "path": "X\\X79\\X79n1563.xml",
+      "mentions": 2,
+      "title": "Great Treasury of Light",
+      "title_zh": "大光明藏",
+      "snippet": "...。偈曰：非隱非顯法，說得真實際。悟此隱顯法，非愚 亦非智。 十四祖龍樹尊者 祖至南印度，彼國人多信福業，不信佛性，遂於座上 現自在身，如滿月輪。一眾唯聞法音，不覩師..."
+    },
+    {
+      "path": "X\\X10\\X10n0255.xml",
+      "mentions": 2,
+      "title": "Annotated Preface to the Sutra of Perfect Enlightenment",
+      "title_zh": "圓覺經序注",
+      "snippet": "圭峯禪師。 終南一峯，其形如圭，師遯其下，故以稱焉。 得法於荷澤嫡孫南印上足道圓和尚。 西京河南府有荷澤寺，因祈雨得驗，故名荷澤。神 會禪師居之，乃六祖..."
+    },
+    {
+      "path": "TX\\TX30\\TX30n0019.xml",
+      "mentions": 2,
+      "title": "Complete Works of Master Taixu: Part Nineteen – Collected Writings (Vols. 21–136)",
+      "title_zh": "太虛大師全書．第十九編\u3000文叢(第21卷-第136卷)",
+      "snippet": "...塔，現已修好。繼至郎卡鐵拉卡磚殿，牆壁尚完整。據說：這是錫蘭 古代最好的建築，為南印度人所破壞的。殿前有法堂，左面數十步有戒台，石柱尚存 ，彷彿可以辨識。再前金塔，..."
+    },
+    {
+      "path": "TX\\TX17\\TX17n0009.xml",
+      "mentions": 2,
+      "title": "Complete Works of Master Taixu: Part Nine – Institutional Proposals",
+      "title_zh": "太虛大師全書．第九編\u3000制議",
+      "snippet": "...， 滋邪欲念，故須避離。 第九是戒除飲食的無厭足。一是節約，二是定日中一食。這在南印度的佛教，今 仍然嚴守。沙彌飲食，隨同比丘行乞食制度。過早於俗家人不方便，晚行乞..."
+    },
+    {
+      "path": "T\\T51\\T51n2078.xml",
+      "mentions": 2,
+      "title": "Record of the Orthodox Lineage of Dharma Transmission",
+      "title_zh": "傳法正宗記",
+      "snippet": "...玉者。一曰宣州志滿 者。一曰涪州朗禪師者。一曰廣陵靈坦者。一 曰寧州通隱者。一曰益州南印者。一曰河南 尹李常者大鑒之三世。曰南嶽石頭希遷禪 師。其所出法嗣凡二十一人。一..."
+    },
+    {
+      "path": "T\\T51\\T51n2076.xml",
+      "mentions": 2,
+      "title": "Jingde Record of the Transmission of the Lamp",
+      "title_zh": "景德傳燈錄",
+      "snippet": "宣州志滿禪師涪州朗禪師 廣陵靈坦禪師寧州通隱禪師 益州南印禪師 河南尹李常 曹谿別出第三世"
+    },
+    {
+      "path": "T\\T51\\T51n2066.xml",
+      "mentions": 2,
+      "title": "Biographies of Eminent Monks Who Sought the Dharma in the Western Regions (Great Tang)",
+      "title_zh": "大唐西域求法高僧傳",
+      "snippet": "...乃潛形閣內密取佛牙。望歸 本國以興供養。既得入手翻被奪將。不遂所 懷頗見陵辱。向南印度傳聞師子洲人云。往 大覺中方寂無消息。應是在路而終。莫委年 幾。其師子洲防守佛..."
+    },
+    {
+      "path": "T\\T36\\T36n1741.xml",
+      "mentions": 2,
+      "title": "Brief Explanation of the New Avataṃsaka Practice Sequence: Treatise Resolving Doubts",
+      "title_zh": "略釋新華嚴經修行次第決疑論",
+      "snippet": "...。 第四生貴住，以精進波羅蜜為主，餘九為伴。 南方義如前。有國名達里鼻茶，其國在南印 度之境，名義未翻。城名自在者，為此善知 識以達出世之智，又通明俗諦，真俗二諦自..."
+    },
+    {
+      "path": "T\\T36\\T36n1736.xml",
+      "mentions": 2,
+      "title": "Subcommentary Explaining the Meaning of the Commentary on the Great Avataṃsaka Sutra",
+      "title_zh": "大方廣佛華嚴經隨疏演義鈔",
+      "snippet": "更受中陰身，自 顧歎息，猶願歷世不言以報厚德。遂見託 生南印度大婆羅門家，乃至受胎，備經苦 厄，"
+    },
+    {
+      "path": "YP\\YP02\\YP02n0004.xml",
+      "mentions": 2,
+      "title": "Lectures on the Heart Sutra",
+      "title_zh": "般若波羅密多心經講記",
+      "snippet": "...表。這一思想流，在西北印度，是有相當潛勢力的，發揚這一思想的學 者也很多。至以東南印為大本營的大眾分別說者，還有從有部分出而傾向於分別說 系的經部學者，卻是多分說空..."
+    },
+    {
+      "path": "LC\\LC04\\LC04n0004.xml",
+      "mentions": 2,
+      "title": "Lectures on Entering the Science of Logic and Related Treatises",
+      "title_zh": "因明入正理論講解及相關論著",
+      "snippet": "...些推想。他父母既相信自在天，他 一定是婆羅門種姓。相傳他是陳那的學生，陳那活動於南印度，商羯羅主也可能是南 印度人。關於商羯羅主的著作，現在只知道有《入論》這一部，..."
+    },
+    {
+      "path": "L\\L132\\L132n1557.xml",
+      "mentions": 2,
+      "title": "Collected Edition of the Commentary and Subcommentary on the Avatamsaka Sutra (Vols. 34–51)",
+      "title_zh": "大方廣佛華嚴經疏鈔會本(第34卷-第51卷)",
+      "snippet": "名目真鄰陀窟從昔 已來諸菩薩眾於中止住。 四清淨彼岸城是南印度目真此云解脫 即龍之名鄰陀云處即龍所居處。 摩蘭陀國有一住處名無礙龍王建立從昔..."
+    },
+    {
+      "path": "L\\L130\\L130n1557.xml",
+      "mentions": 2,
+      "title": "Collected Edition of the Commentary and Subcommentary on the Avatamsaka Sutra (Vols. 1–17)",
+      "title_zh": "大方廣佛華嚴經疏鈔會本(第1卷-第17卷)",
+      "snippet": "...言音為說四諦令解脫。 次別中云或邊呪語者梵云達邏鼻茶曼 達邏鉢底鞞言達邏鼻茶者是南印度中 邊國名也此云消融曼達邏者呪也鉢底 鞞者句也謂其國人稟性純質凡所出言 皆成神..."
+    },
+    {
+      "path": "J\\J33\\J33nB280.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Yunwaize of Shending",
+      "title_zh": "神鼎雲外澤禪師語錄",
+      "snippet": "...餘馨猶在。」師云：「守株待兔焉能識？」 僧禮拜，師便打。乃舉：「十四祖龍樹尊者至南印度行 化，彼國惟信福業，曰：『人有福業，世間第一。徒言佛性， 誰能見之？』祖曰：..."
+    },
+    {
+      "path": "J\\J31\\J31nB271.xml",
+      "mentions": 2,
+      "title": "Reading the Canon: A Guide to the Essentials (Vols. 1–5)",
+      "title_zh": "閱藏知津(第1卷-第5卷)",
+      "snippet": "...方等部收。非 同流俗訛傳，唯謂八年中所說也。」 大寶積經 龍師火帝至始制文字 唐南印土三藏沙門菩提流志譯 三律儀會第一 佛住耆闍崛山王，坐大蓮華。 與八千大比丘，八..."
+    },
+    {
+      "path": "J\\J31\\J31nB268.xml",
+      "mentions": 2,
+      "title": "Verses on Meeting the Moment by Monk Muyun",
+      "title_zh": "牧雲和尚宗本投機頌",
+      "snippet": "...來道眼同，不經一棒不成龍。片言打著心 頭事，大闡真乘蔭不窮。 十四祖龍樹尊者，至南印度導化，時有迦那提婆來 謁，將及門，祖先遣侍者以滿缽水置于座前，提婆見 之，即以..."
+    },
+    {
+      "path": "J\\J29\\J29nB233.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Jie’an Jin",
+      "title_zh": "介菴進禪師語錄",
+      "snippet": "...心語顯真乘，滄溟由來鯤化鵬。 但辦肯心承聖業，法中何慮冷如冰。 十四祖龍樹尊者至南印度導化時，有迦那提婆來 謁，將及門，祖先遣侍者以滿缽水置于座前。提婆見 之，即以..."
+    },
+    {
+      "path": "J\\J15\\J15nB005.xml",
+      "mentions": 2,
+      "title": "Commentary Notes on the Avataṃsaka ‘Samantabhadra Vows’ (Selected: Seven Huayan Patriarchs + Appendix)",
+      "title_zh": "大方廣佛華嚴經普賢行願品別行疏鈔（選錄「華嚴宗七祖行蹟」及「附錄」）",
+      "snippet": "...龍樹乃西土十四祖，西天竺國人也，申 明《起信》，亦名龍勝。始於毘羅尊者得法，後至南印度。彼 國之人多信福業，聞尊者為說妙法，遞相謂曰：「人有福 樂，世間第一。徒言佛..."
+    },
+    {
+      "path": "G\\G155\\G155n2590.xml",
+      "mentions": 2,
+      "title": "Annotated Notes on the Sixth Patriarch’s Platform Sūtra",
+      "title_zh": "六祖大師法寶壇經箋註",
+      "snippet": "...。見佛祖歷代通載七 。 二十六，不如蜜多尊者， 傳燈錄二，第二十六祖，不如蜜多，南印度得勝王之太子也。尊者既得法於二 十五祖，至東印度。彼外道師長爪梵志恐王遷善，尊..."
+    },
+    {
+      "path": "CC\\CC004\\CC004n0004.xml",
+      "mentions": 2,
+      "title": "Investigative Commentary on the Treatise on Establishing Consciousness-Only",
+      "title_zh": "成唯識論測疏",
+      "snippet": "... 唐西明寺沙門圓測撰 顯宗三藏解云：佛滅度後，至三百年，有大菩薩，名 曰龍猛，於南印度出現於世，廣造諸論，破小乘、顯 大乘宗無相之理，如《中論》等。時有菩薩，名曰提..."
+    },
+    {
+      "path": "B\\B35\\B35n0195.xml",
+      "mentions": 2,
+      "title": "Decisive Understanding of Sudden Awakening and Mahāyāna Right Principle",
+      "title_zh": "頓悟大乘政理決",
+      "snippet": "...於唯忠法師。《全唐文》678）驗以宗密 之《禪門師資圖》，神會傳磁州智如，智如傳益州南印，南印傳東京神照，大理國所尊崇之和尚 張唯忠，即益州南印是矣。 見於吐蕃記載之禪..."
+    },
+    {
+      "path": "B\\B32\\B32n0172.xml",
+      "mentions": 2,
+      "title": "Words After Emerging from Samādhi",
+      "title_zh": "出定後語",
+      "snippet": "...、是其相承次序、所經僅五六 世、而其年紀則千有餘年、蓋其說云、玄奘法師、見龍智於南印磔迦國菴羅林中、時年七百餘歲、弘 法大師入唐時猶現在、是甚奇怪、豈有所託乎、雖然..."
+    },
+    {
+      "path": "B\\B03\\B03n0002.xml",
+      "mentions": 2,
+      "title": "Essentials Compiled from Commentaries and Treatises on the Avataṃsaka Sūtra (Volumes 1–46)",
+      "title_zh": "華嚴經疏論纂要(第1卷-第46卷)",
+      "snippet": "...諦令解脫 【疏】次別中。云或邊呪語者。梵云達邏鼻荼曼達邏鉢底鞞。言達邏鼻荼者。是南印度中邊國名也。此云消 融。曼達邏者。呪也。鉢底鞞者。句也。謂其國人．稟性純質。凡..."
+    },
+    {
+      "path": "Y\\Y36\\Y36n0034.xml",
+      "mentions": 2,
+      "title": "Studies of Sarvāstivāda Treatises and Scholars",
+      "title_zh": "說一切有部為主的論書與論師之研究",
+      "snippet": "...親自訪問了，「昔佛地羅（唐言覺取） 論師，於此作大眾部集真論」的古跡。3.玄奘在南印度馱那羯磔迦國（Dhānyakaṭaka），「逢 二僧：一名蘇部底，二名蘇利耶，..."
+    },
+    {
+      "path": "X\\X50\\X50n0819.xml",
+      "mentions": 2,
+      "title": "Extracts from the Commentary on the *Treatise on Consciousness-Only*",
+      "title_zh": "成唯識論疏抄",
+      "snippet": "...國天子，為是此國天子？若 言此國天子者，三藏既別此國，何故下文言南讚即 說寶偈向南印度境？若言西國天子，其三藏未來此 土，何故前文即言言旋舊\uDB8E\uDF1B？應問如愚意者，未來..."
+    },
+    {
+      "path": "T\\T18\\T18n0901.xml",
+      "mentions": 2,
+      "title": "Dhāraṇī Collection Sutra",
+      "title_zh": "陀羅尼集經",
+      "snippet": "...內粉中，從北點向東印、從印頭向 北印、從印頭向東印、從南邊點還向東印、從 印頭向南印、從印頭向東印。「粉內出繩子，從 北印頭捺繩子，師向南印頭，捺繩子一拼"
+    },
+    {
+      "path": "Y\\Y10\\Y10n0010.xml",
+      "mentions": 2,
+      "title": "Tracing the Sources of Yogācāra (Consciousness-Only)",
+      "title_zh": "唯識學探源",
+      "snippet": "...師承有關。大天五事的諍論， 是阿育王時代的事，也與四大派分裂有關。大眾系發展在東南印，犢子系與分別 說系在中印及西南印，說一切有系在西北印。這是從它的教化中心區說的..."
+    },
+    {
+      "path": "Y\\Y05\\Y05n0005.xml",
+      "mentions": 2,
+      "title": "Lectures on Mādhyamaka Verses",
+      "title_zh": "中觀論頌講記",
+      "snippet": "一 中論作者釋者與譯者 一 作者 本論的作者，是龍樹菩薩。他本是南印度的學者，又到北印度的雪山去參學 。他正確的深入了（南方佛教所重的）一切法性空，..."
+    },
+    {
+      "path": "TX\\TX15\\TX15n0007.xml",
+      "mentions": 2,
+      "title": "Complete Works of Master Taixu: Part Seven – Dharma Realm and Perfect Enlightenment Studies (Vols. 19–51)",
+      "title_zh": "太虛大師全書．第七編\u3000法界圓覺學(第19卷-第51卷)",
+      "snippet": "...以為北印度之烏仗那國；然據近人所考，則為東印度邊之一國。但釋尊說此法之處 ，則在南印度之制底中。如時輪根本儀軌云： 『於靈鷲大峰為諸菩薩說無上大乘之般若波羅密道；次..."
+    },
+    {
+      "path": "T\\T55\\T55n2151.xml",
+      "mentions": 2,
+      "title": "Illustrated Record of Sutra Translations Past and Present",
+      "title_zh": "古今譯經圖紀",
+      "snippet": "以齊世譯益意經。 南魏元氏都洛陽 沙門曇摩流支。此云法希。亦曰法樂。南印度 人棄家入道偏以律藏傳名。弘道為務感物 而動。遊魏洛陽。以魏宣武帝景明二年歲次..."
+    },
+    {
+      "path": "T\\T51\\T51n2089.xml",
+      "mentions": 2,
+      "title": "Extracts from Travel Records",
+      "title_zh": "遊方記抄",
+      "snippet": "...經處。 又自金剛座東北十五里至正覺山。又東北 三十里至骨磨城。業館於鰕羅寺。謂之南印 土。諸國僧多居之。又東北四十里至王舍城。 東南五里有降醉象塔。又東北登大山。細..."
+    },
+    {
+      "path": "T\\T50\\T50n2060.xml",
+      "mentions": 2,
+      "title": "Continued Biographies of Eminent Monks",
+      "title_zh": "續高僧傳",
+      "snippet": "見於天際。 又西南行具經諸國。並有異迹。可五千里 至憍薩國。即南印度之正境也。崇信佛法 僧徒萬許。其土寬廣林野相次。王都西南三 百餘里有黑蜂山。昔..."
+    },
+    {
+      "path": "T\\T32\\T32n1652.xml",
+      "mentions": 2,
+      "title": "Treatise on Dependent Arising",
+      "title_zh": "緣生論",
+      "snippet": "聖者欝楞迦造 大隋南印度三藏達磨笈多譯 從一生於三，從三轉生六， 六二二更六，從六亦生六。 從六有於三..."
+    },
+    {
+      "path": "T\\T27\\T27n1545.xml",
+      "mentions": 2,
+      "title": "Mahāvibhāṣā Śāstra (Great Abhidharma Vibhāṣā)",
+      "title_zh": "阿毘達磨大毘婆沙論",
+      "snippet": "...尊有時為四天王先以聖語 說四聖諦四天王中二能領解二不領解。世 尊憐愍饒益彼故。以南印度邊國俗語說 四聖諦。謂瑿泥迷泥蹋"
+    },
+    {
+      "path": "T\\T25\\T25n1510a.xml",
+      "mentions": 2,
+      "title": "Treatise on the Vajracchedikā Prajñā (Diamond Wisdom)",
+      "title_zh": "金剛般若論",
+      "snippet": "金剛般若論卷上 無著菩薩造 隋南印度三藏達磨笈多譯 出生佛法無與等，顯了法界最第一， 金剛難壞句義聚，一切聖人不能..."
+    },
+    {
+      "path": "Y\\Y25\\Y25n0025.xml",
+      "mentions": 1,
+      "title": "Flower Rain Collection (I)",
+      "title_zh": "華雨集（一）",
+      "snippet": "...。島為海中山，而島 中復有山名摩羅耶者，以楞伽為國、為城、為山，無不可也。楞伽位南印度大海 中，隔保克海峽，與大陸相望。在昔航海乏術，為狂風、駭浪、暗礁、洄流所障 ..."
+    },
+    {
+      "path": "Y\\Y24\\Y24n0024.xml",
+      "mentions": 1,
+      "title": "The Dharma as the Light that Saves the World",
+      "title_zh": "佛法是救世之光",
+      "snippet": "...是「無剎不現身」的。他是阿彌陀的輔弼，他的道 場，便是極樂世界。但在這娑婆世界，南印度海邊的普陀落伽山，是觀世音菩薩 的古道場，這如《華嚴經》等都如此說。梁貞元年，..."
+    },
+    {
+      "path": "X\\X88\\X88n1651.xml",
+      "mentions": 1,
+      "title": "Series: Biographies of Xuanzang Tripitaka and His Teachers and Disciples",
+      "title_zh": "玄奘三藏師資傳叢書",
+      "snippet": "...不相違， 但學者之不通耳。因造會宗論三千頌，戒賢師已下 見咸稱善，彼具流行。先有南印度王灌頂師，名般若 毱多，明正量部義，造破大乘論七百頌。時戒日王因 討賊行次烏荼..."
+    },
+    {
+      "path": "X\\X87\\X87n1614.xml",
+      "mentions": 1,
+      "title": "Chan Grove Primer: Jade Grove",
+      "title_zh": "禪苑蒙求瑤林",
+      "snippet": "...，盖契昔因。尊者又謂王曰：此童子非他，即 大勢至菩薩是也。此聖之後出二人，一人化南印 度，一人緣在震旦，四五年內却返此方。遂以昔因， 故名般若多羅。○般若多羅，因東..."
+    },
+    {
+      "path": "X\\X86\\X86n1601.xml",
+      "mentions": 1,
+      "title": "Genealogy of the Chan Lamp",
+      "title_zh": "禪燈世譜",
+      "snippet": "東林雅 西隱進平 益州南印 益州義俛 澧陽慧演"
+    },
+    {
+      "path": "X\\X79\\X79n1557.xml",
+      "mentions": 1,
+      "title": "Essential Compendium of the United Lamp",
+      "title_zh": "聯燈會要",
+      "snippet": "物，方便呼為智。 二十七祖般若多羅尊者既得法已，適南印度 香志國王，崇奉佛乘，尊重供養，於祖施以無價寶珠。 王有三子，祖以所受珠問三王..."
+    },
+    {
+      "path": "X\\X78\\X78n1556.xml",
+      "mentions": 1,
+      "title": "Jianzhong Jingguo Continued Lamp Record",
+      "title_zh": "建中靖國續燈錄",
+      "snippet": "爾時，般若多羅尊者既得法已，行化南印，國玉太子 共所欽敬。因以寶珠為施。師復示問，各陳所見。唯菩 提多羅曰：此是世寶..."
+    },
+    {
+      "path": "X\\X78\\X78n1554.xml",
+      "mentions": 1,
+      "title": "Praise of the Orthodox Lineage of the Five Houses",
+      "title_zh": "五家正宗贊",
+      "snippet": "寶祐甲寅西蜀比丘紹曇百拜書于靈鷲放山室 初祖菩提達磨大師 師南印度香至王之子，姓剎帝利，本名菩提多羅。因 二十七祖般若多羅尊者行化至本國，其王施..."
+    },
+    {
+      "path": "X\\X21\\X21n0369.xml",
+      "mentions": 1,
+      "title": "Commentary on the Saṃdhinirmocana Sūtra",
+      "title_zh": "解深密經疏",
+      "snippet": "...時為四天王先以聖語說四聖 諦，四天王中二能領解，二不領解。世尊憐愍饒益 彼故，以南印度邊國俗語說四聖諦，二天王中一 能領解，一不領解。世尊憐愍饒益彼故，復以一種 篾..."
+    },
+    {
+      "path": "X\\X17\\X17n0330.xml",
+      "mentions": 1,
+      "title": "Essential Principles of the Laṅkāvatāra Sūtra",
+      "title_zh": "楞伽經宗通",
+      "snippet": "...，感日精月華而有成就，其實本無自性。既 無自性，寶即非寶。昔二十七祖般若多羅，以南印 土香至王所，施無價寶珠，問菩提達磨曰：此珠圓 明，有能及此否？磨曰：此是世寶，..."
+    },
+    {
+      "path": "X\\X14\\X14n0298.xml",
+      "mentions": 1,
+      "title": "Direct Explanation of the Śūraṅgama Sutra",
+      "title_zh": "楞嚴經直解",
+      "snippet": "... 斯國也，謂國人采香草笮其汁煎以成膏。薰陸，南 州異物志云：狀如桃膠。西域記云：南印度阿吒釐 國，有薰陸香樹，葉似棠梨。\uDB8E\uDF02金：周禮？春官：\uDB8E\uDF02人采"
+    },
+    {
+      "path": "X\\X10\\X10n0250.xml",
+      "mentions": 1,
+      "title": "Essential Explanations Following the Text in the Commentary and Subcommentary on the Sutra of Perfect Enlightenment",
+      "title_zh": "圓覺經疏鈔隨文要解",
+      "snippet": "也。〔唐初，印公判屈曲、平道二教。〕教章云：敏公立此 二教。若探玄云：江南印、敏二師立屈曲、平道二教。則 知二師建立是同，故互舉之耳。今鈔則云：一、釋迦屈 ..."
+    },
+    {
+      "path": "X\\X09\\X09n0248.xml",
+      "mentions": 1,
+      "title": "Subcommentary on the Abridged Commentary of the Sutra of Perfect Enlightenment",
+      "title_zh": "圓覺經略疏鈔",
+      "snippet": "...枝者。礠洲法觀寺智如和尚，俗姓 王。礠洲門下成都府聖壽寺唯忠和尚，俗姓張，亦号 南印。聖壽門下遂洲大雲寺道圓和尚，俗姓程。長慶 二年，成都道俗迎歸聖壽寺，紹繼先師，..."
+    },
+    {
+      "path": "X\\X09\\X09n0243.xml",
+      "mentions": 1,
+      "title": "Great Commentary on the Sutra of Perfect Enlightenment",
+      "title_zh": "圓覺經大疏",
+      "snippet": "...密說而顯 演，潛通而廣被，以印定其法，為一切經之宗也。圭峰 禪師，得法於荷澤嫡孫南印上足道圓和尚，一日隨 眾僧齋于州民任灌家，居下位，以次受經，遇圓覺了 義，卷未終..."
+    },
+    {
+      "path": "X\\X08\\X08n0237.xml",
+      "mentions": 1,
+      "title": "Essential Questions and Answers on the Textual Meaning of the Avatamsaka Sutra",
+      "title_zh": "華嚴經文義要決問答",
+      "snippet": "...法雨，如摩那斯；若 頓說大法，如莊嚴龍。△三西秦曇牟讖立半、滿二教 。△四唐初江南印法師等亦立二教：一 屈曲教、二平道教。又此二教略 有四異：一主異、二處異、三眾異..."
+    },
+    {
+      "path": "X\\X08\\X08n0236.xml",
+      "mentions": 1,
+      "title": "Record of Profound Discussions on the Avatamsaka Sutra",
+      "title_zh": "華嚴懸談會玄記",
+      "snippet": "...於東都 大內大徧空寺譯《華嚴經》。天后親臨法座，煥發序文， 自運仙毫，首題名品。南印土沙門菩提留志、沙門義 淨同宣梵本。後付沙門復禮、法藏等於佛授記寺譯， 至聖曆二..."
+    },
+    {
+      "path": "T\\T52\\T52n2116.xml",
+      "mentions": 1,
+      "title": "Record of Discriminating the Spurious",
+      "title_zh": "辯偽錄",
+      "snippet": "...生無感大聖歸真。 聖哲繼輝維持玄範。則有馬鳴龍樹恢教網 於西天。提婆愛賢建法幢於南印。世親擅鞭 屍之德。陳那騁吼石之奇。挫外道於一時。播 嘉聲於萬古。洎乎金容東夢玉..."
+    },
+    {
+      "path": "T\\T52\\T52n2115.xml",
+      "mentions": 1,
+      "title": "Writings Collection of Tanjin",
+      "title_zh": "鐔津文集",
+      "snippet": "...白猿之東曰燕脂嶺。白猿之西者曰 師子。又西者曰五峯。又西曰白雲。又西者曰 印西。南印西向前走迤邐於武林之中者曰 無礙。又前者曰善住。並善住而特起者曰稽 留其稽留之西..."
+    },
+    {
+      "path": "T\\T51\\T51n2073.xml",
+      "mentions": 1,
+      "title": "Records and Biographies Related to the Avatamsaka Sutra",
+      "title_zh": "華嚴經傳記",
+      "snippet": "...未。於東都大內遍空寺。譯華嚴 經。天后親臨法座。煥發序文。自運仙毫。首題 名品。南印度沙門菩提流志。沙門義淨。同宣 梵文。後付沙門復禮法藏等。於佛授記寺。譯 至聖曆..."
+    },
+    {
+      "path": "T\\T50\\T50n2064.xml",
+      "mentions": 1,
+      "title": "Biographies of Miraculous Monks",
+      "title_zh": "神僧傳",
+      "snippet": "...三宿而出。所載 梵夾不濕一字。其神異多類此。 金剛智 釋跋日羅菩提。華言金剛智。南印度摩賴耶 國人也。生數歲日誦萬言。目覽心傳終身不 忘。年十六開悟佛理。乃削染出家..."
+    },
+    {
+      "path": "T\\T49\\T49n2035.xml",
+      "mentions": 1,
+      "title": "Comprehensive Chronicle of Buddhas and Patriarchs",
+      "title_zh": "佛祖統紀",
+      "snippet": "...。天宮威禪師為左溪朗禪師說止觀法 門○北印度沙門寶思惟。譯文殊一字呪經 等七部。南印度沙門法希。譯寶雨經等十部 ○絳州二童女。依尼師出家。尼誦華嚴一 日坐亡。二女失..."
+    },
+    {
+      "path": "T\\T47\\T47n1998A.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Dahui Pujue",
+      "title_zh": "大慧普覺禪師語錄",
+      "snippet": "...法。是 有為法。非智慧法。非無為法。巖頭和尚有 言。若以實法繫綴人。土亦難消。昔南印土。 彼國之人多信福業。十四祖龍勝。特往化之。 彼曰。人有福業世間第一。徒言佛性..."
+    },
+    {
+      "path": "T\\T45\\T45n1874.xml",
+      "mentions": 1,
+      "title": "Chapter on Establishing the Three Jewels within the Huayan Sutra",
+      "title_zh": "華嚴經明法品內立三寶章",
+      "snippet": "...說。世尊有時為四天王。先 以聖語說四諦。二王領解二不能解。世尊憐 愍故饒益故。以南印度邊國俗語說四諦。二 天王中一解一不解。世尊憐愍。復一一種蔑 戾車語說四聖諦時。..."
+    },
+    {
+      "path": "T\\T44\\T44n1840.xml",
+      "mentions": 1,
+      "title": "Commentary on the Treatise Entering Correct Logic",
+      "title_zh": "因明入正理論疏",
+      "snippet": "...絕。今幸福 智悠邈。深達聖旨。因明論道。願請重弘。菩薩 乃放神光。照燭機感。時彼南印度。案達羅國 王。見放光明。疑入金剛定。請證無學果。菩薩 曰。入定觀察。將釋深經..."
+    },
+    {
+      "path": "T\\T40\\T40n1805.xml",
+      "mentions": 1,
+      "title": "Supporting Commentary on the Practical Digest of the Dharmaguptaka Vinaya",
+      "title_zh": "四分律行事鈔資持記",
+      "snippet": "...。上二懷恩， 如怙於父；下二致嚴，如事其君。敬下二句，總 顯四心。事父唯孝，事君唯忠，兼之者師也。《儒 禮》云：師者教人以道之稱。《楊子》云：師者人之 模範。今人無..."
+    },
+    {
+      "path": "T\\T33\\T33n1711.xml",
+      "mentions": 1,
+      "title": "Praise of the Heart Sutra",
+      "title_zh": "般若波羅蜜多心經贊",
+      "snippet": "...事智。親光釋曰，千年 已前，佛法一味；過千年後，空、有乖諍。佛滅沒 已一千年後，南印度界健至國中有二菩薩一 時出世，一者、清辨，二者、護法，為令有情悟入 佛法，立空..."
+    },
+    {
+      "path": "ZW\\ZW07\\ZW07n0061.xml",
+      "mentions": 1,
+      "title": "Notes on the Protector of the State Compass",
+      "title_zh": "護國司南抄",
+      "snippet": "...周 四十餘里，人戶殷稠，穀稼滋實，黑小急暴，此其俗也。 國本寶渚，多有珍奇。其後南印度有女聘鄰國，路逢師子王， 侍送之人怖畏逃散，唯女獨在車中。師子來見，負女而去，..."
+    },
+    {
+      "path": "ZW\\ZW04\\ZW04n0033.xml",
+      "mentions": 1,
+      "title": "Expanded Explanation of “Entering the Bodhisattva Path”",
+      "title_zh": "入菩薩行論廣解",
+      "snippet": "...、靜慮、 般若、迴向。註釋有梵、藏多家。 此論作者寂天論師，約公元六至七世紀人，南印蘇羅室蹉國 德鎧王之子，原名寂鎧。為不滿王族空虛享受奢靡生活，臨將接 位，出走東..."
+    },
+    {
+      "path": "YP\\YP03\\YP03n0009.xml",
+      "mentions": 1,
+      "title": "Lectures on the Ratnakūṭa Sutra: The Girl Miaohui",
+      "title_zh": "大寶積妙慧童女經講記",
+      "snippet": "...會，八十三卷，都是以前的大德法師譯的。這點，我們首要有個了解。 菩提流志三藏，是南印度人，譯成中國話叫做覺愛。在印度的四姓種族中，是屬 淨行婆羅門種。沒有出家前，從..."
+    },
+    {
+      "path": "YP\\YP03\\YP03n0007.xml",
+      "mentions": 1,
+      "title": "Lectures on the Sutra of the Ten Wholesome Karmic Paths",
+      "title_zh": "佛說十善業道經講記",
+      "snippet": "...恭敬尊重，同時請他先把《華嚴經》翻譯過來。於是三 藏就在東都大內大徧空寺翻譯，由南印度沙門菩提流志、沙門義淨同宣梵本，後來交 由沙門復禮、法藏等，於佛授記寺整理而成..."
+    },
+    {
+      "path": "N\\N38\\N38n0018.xml",
+      "mentions": 1,
+      "title": "Birth Stories (Jataka) (Vols. 17–18)",
+      "title_zh": "本生經(第17卷-第18卷)",
+      "snippet": "...蓋臥野天為乳育成運步行 身受野犬羣圍繞可謂今日之王尊 如此摩訶薩忠告王後云：「予唯忠告貴君而已，貴君出家與否，悉聽尊便，予從 予自身之業果而行。」於是昇入空中，足塵..."
+    },
+    {
+      "path": "LC\\LC07\\LC07n0007.xml",
+      "mentions": 1,
+      "title": "Essentials of Sutras and Treatises (Part 1) (Vols. 1–11)",
+      "title_zh": "經論講要（上）(第1卷-第11卷)",
+      "snippet": "...了《瑜伽論》三遍，同時聽 《中論》、《百論》也是三遍，可見其無所軒輊。後來他更於南印度婆羅門受學《經百論》和《廣百論》，以窮餘蘊。至於淨師依止那爛陀寺寶師子聽了 《..."
+    },
+    {
+      "path": "LC\\LC05\\LC05n0005.xml",
+      "mentions": 1,
+      "title": "Explanations of Key Buddhist Terms and Textual Studies",
+      "title_zh": "佛教重要名相釋義及經論攷證",
+      "snippet": "...，《出三藏記集》等誤認為摩訶僧祇部 也）。大眾一者，當於律學傳承東系之正支。居東南印度案達羅一帶，可稱為一說系。此中上座 三系，分別說與說一切有皆重律，惟分別說系折..."
+    },
+    {
+      "path": "L\\L164\\L164n1668.xml",
+      "mentions": 1,
+      "title": "Imperially Recorded: Outline of the Mirror of the Lineage",
+      "title_zh": "御錄宗鏡大綱",
+      "snippet": "。 御錄宗鏡大綱卷二十 疏十 第十四祖龍樹尊者行化到南印土彼國人 多修福業不會佛理眾問佛性大小師曰若 說大小即是大小非佛性也即為說法對大..."
+    },
+    {
+      "path": "L\\L153\\L153n1638.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Xueqiao Xin (Vols. 1–6)",
+      "title_zh": "雪嶠信禪師語錄(第1卷-第6卷)",
+      "snippet": "...然撞著李將軍石頭何用千鈞弩 龍\uD84D\uDDF3尊者西天竺國人也亦名龍勝始於摩 羅尊者得法後至南印土彼國之人多信福 業祖為說法遞相謂曰人有福業世間第一 徒言佛性誰能覩之祖曰汝欲見..."
+    },
+    {
+      "path": "L\\L143\\L143n1608.xml",
+      "mentions": 1,
+      "title": "Catalog of the Dharma Treasures of the Great Canon’s Sacred Teachings",
+      "title_zh": "大藏聖教法寶標目",
+      "snippet": "...右此經。新舊重單合譯。共四十九會。合成 一部。歷代譯者。摘會別翻而不終部帙。唐 南印度菩提流支翻譯。二十六會三十九 卷。並流支新譯。二十三會八十一卷。舊譯 者。止勘..."
+    },
+    {
+      "path": "L\\L133\\L133n1557.xml",
+      "mentions": 1,
+      "title": "Collected Edition of the Commentary and Subcommentary on the Avatamsaka Sutra (Vols. 51–80)",
+      "title_zh": "大方廣佛華嚴經疏鈔會本(第51卷-第80卷)",
+      "snippet": "...行後偈頌以大悲菩薩眾尊重故偏加 於頌言海上有山者大悲隨順入生死海 而住涅槃山故即南印度之南。 時善財童子頂禮其足繞無量帀已慇懃瞻 仰辭退而去。 爾時善財童子一心思惟..."
+    },
+    {
+      "path": "J\\J38\\J38nB425.xml",
+      "mentions": 1,
+      "title": "Complete Record of Chan Master Jifei",
+      "title_zh": "即非禪師全錄",
+      "snippet": "第二十六祖不如密多尊者 祖南印度天德王之次子也。斯多尊者問曰：「汝 欲出家，當為何事？」祖曰：「不為別事。」者..."
+    },
+    {
+      "path": "J\\J38\\J38nB419.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Bu’yanle (Huayan)",
+      "title_zh": "華嚴不厭樂禪師語錄",
+      "snippet": "手書。 行由 師字不厭，諱道樂，乃黔之思南印江人。父楊，母盧，生 于庚辰八月廿三子時。十三聘聚，廿七喪父，廿九齋 戒。喜看牧..."
+    },
+    {
+      "path": "J\\J37\\J37nB387.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Gusuzun",
+      "title_zh": "古宿尊禪師語錄",
+      "snippet": "... 藏之事。楊公聞知，亦皆輸誠布施，并募四眾共結良 緣，因命鼎玄、朗虛二禪德前往江南印造還菴，永遠 俾眾取便披閱，以進道業。朽住此間焂經七載，多般 事業始獲完成，簡點..."
+    },
+    {
+      "path": "J\\J34\\J34nB306.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Neishaozhong",
+      "title_zh": "內紹種禪師語錄",
+      "snippet": "...頭放個罾，金鱗纔觸便奔騰。漁翁空送隨流 眼，不覺風來舟自橫。 十四祖龍樹尊者，至南印度說法，於法座上現自 在身，如滿月輪。一切眾惟聞法音，不睹祖相。迦那 提婆云：「..."
+    },
+    {
+      "path": "J\\J34\\J34nB299.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Monk Sanfeng Zang",
+      "title_zh": "三峰藏和尚語錄",
+      "snippet": "...深修多 羅，今日之事蓋契昔因。」祖顧王曰：「此大勢至菩薩也。 繼後出二人，一人化南印土，一人緣在震旦九年卻 返此方，即以昔因故名為般若多羅。」勒曰：「長安道上 袞袞..."
+    },
+    {
+      "path": "J\\J33\\J33nB282.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Xuzhou Sheng",
+      "title_zh": "虛舟省禪師語錄",
+      "snippet": "...遮 那佛親授瑜珈五部，以手作印、心作觀，口誦真言，大 約悲願為體，拔苦為用，傳之南印土金剛智，智於唐 開元慈恩寺建立曼茶羅壇，法儀制時，不空三藏及 一行俱師事之。不..."
+    },
+    {
+      "path": "J\\J29\\J29nB239.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Chuiwan",
+      "title_zh": "吹萬禪師語錄",
+      "snippet": "...也。雖然，道不遠人，必假蹄而得兔；宗 不離性，當師蟻以求泉。禪人本北宗法器，復參南印， 於西蜀者裏會得，逮見其慕秀不必北，而識能不必 南也明矣。呼羊作馬，指馬為羊，..."
+    },
+    {
+      "path": "J\\J27\\J27nB189.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Sanyi Yu",
+      "title_zh": "三宜盂禪師語錄",
+      "snippet": "...姓。 誰知般若師，所履如來行。玉未出荊山，難與石相兢。 一遇豐城宰，愕然而起敬。南印香至王，奉珠以尊聘。 擎珠驗三子，菩提道光映。知是寧馨兒，授以先宗命。 金河作二..."
+    },
+    {
+      "path": "J\\J21\\J21nB110.xml",
+      "mentions": 1,
+      "title": "Record of Protecting the Dharma",
+      "title_zh": "護法錄",
+      "snippet": "...言其流轉而不息也。自時厥後，以《釋 迦經》為屈曲、《舍那經》為平道者，此二教乃江南印之 所建也。以四阿含為四諦、般若為無相、華嚴為觀行、 涅槃為安樂、大集為守護者，..."
+    },
+    {
+      "path": "GA\\GA088\\GA088n0089.xml",
+      "mentions": 1,
+      "title": "Tiantai Mountain Gazetteer of the Clergy Outside the Order (Vols. 1–7)",
+      "title_zh": "天台山方外志(第1卷-第7卷)",
+      "snippet": "...俟之日晡，果有僧七人，撫掌打拍，徐 徐行至其家。其父命坐：「大德何來？」僧曰：「南印土來，聞君有奇子，特來相賀。」其父曰：「何勞尊 重！」遂設齋。食罷，母抱兒出見，..."
+    },
+    {
+      "path": "GA\\GA079\\GA079n0081.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Qingliang Mountain",
+      "title_zh": "清涼山志",
+      "snippet": "...陞高座曰：「我皇御宇，德合乾坤。光宅 萬方，重譯來貢。東風入律，西天輸越海之誠；南印御書，北闕獻朝宗之敬。特回明詔， 再譯真詮。光闡大猷，增輝新理。澄觀顧多天幸，欽..."
+    },
+    {
+      "path": "GA\\GA036\\GA036n0037.xml",
+      "mentions": 1,
+      "title": "Brief Gazetteer of Jinshan Longyou Chan Monastery (Vols. 1–2)",
+      "title_zh": "金山龍游禪寺志略(第1卷-第2卷)",
+      "snippet": "...一花開五葉 結果自然 成祖又曰吾自到此凡五度中毒我嘗自出而試之 擲石石裂緣吾本離南印來此東土見赤縣神州有 大乘氣象遂踰海越漠為法求人際會未諧如愚若 訥今得汝傳授吾意..."
+    },
+    {
+      "path": "GA\\GA026\\GA026n0024.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Shangtianzhu Lecture Monastery, Hangzhou",
+      "title_zh": "杭州上天竺講寺志",
+      "snippet": "...桂。白猿之東曰臙脂 嶺，白猿之西者曰獅子；又西者曰五峯，又西曰白雲，又西曰中印、南印。西向前走，迤邐於武林 之中者曰無礙，又前者曰善住。並善住而特起者稽留，其稽留之..."
+    },
+    {
+      "path": "GA\\GA020\\GA020n0017.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Huiyin Goryeo Huayan Teaching Monastery, Yucen Mountain",
+      "title_zh": "玉岑山慧因高麗華嚴教寺志",
+      "snippet": "...高座曰： 「我皇御宇，德合乾坤，光宅萬方，重譯來貢。東風入律， 西天輸越海之誠；南印御書，北闕獻朝宗之敬。特回 明詔，再譯真詮。光闡大猷，增輝新理。澄觀顧多天幸， ..."
+    },
+    {
+      "path": "G\\G150\\G150n2550.xml",
+      "mentions": 1,
+      "title": "Verses of the Compendium on Valid Cognition",
+      "title_zh": "集量論頌",
+      "snippet": "...國藏文佛教史料說他是世親論師的門人； 漢文資料，如「大唐西域記」（卷十）等說他是南印度人，但沒有提到他與世親 的師承關係。傳說他早年立志專弘因明，後得文殊師利菩薩的..."
+    },
+    {
+      "path": "G\\G116\\G116n2302.xml",
+      "mentions": 1,
+      "title": "Glossary of Buddhist Terms (Vols. 24–38)",
+      "title_zh": "佛學名相彙解(第24卷-第38卷)",
+      "snippet": "五天竺 一、東印度。 二、南印度。 三、中印度。 四、西印度。"
+    },
+    {
+      "path": "D\\D56\\D56n8980.xml",
+      "mentions": 1,
+      "title": "Essential Compendium of the Dark Pivot",
+      "title_zh": "冥樞會要",
+      "snippet": "...至夜 昏然若夢。見昔所事主人躬來至傍。感厚恩而不語。 被打振怒而見致害。遂要託生南印土大婆羅門家。 受生乃至出胎苦厄。被受荷恩不語。洎乎受\uDB9D\uDFCB生子。 每念前恩而不語..."
+    },
+    {
+      "path": "D\\D52\\D52n8951.xml",
+      "mentions": 1,
+      "title": "Tathāgata Incense",
+      "title_zh": "如來香",
+      "snippet": "...密\uDB95\uDE38而顯 演。潛通而廣被。以印定其法。為一切經之宗也。圭峯 禪師得法於荷澤嫡孫南印上足道圓和尚。一日從 眾僧齋于州民任灌家。居下位以次受經。遇圓覺了 義卷未終軸。..."
+    },
+    {
+      "path": "D\\D28\\D28n8885.xml",
+      "mentions": 1,
+      "title": "Postscript to In Nyāya, Entering Correct Reasoning",
+      "title_zh": "因明入正理論後記",
+      "snippet": "...絕。今幸福智悠邈。\uD877\uDC39達聖㫖。因明論道。願請 重宏。菩\uDB90\uDD7D乃放神光照燭機。感時彼南印土 按逹羅國王。見放光明。疑入金剛喻定請證 無學果。菩\uDB90\uDD7D曰入定觀察。將\uD857\uDF36深\uFFFD..."
+    },
+    {
+      "path": "B\\B33\\B33n0192.xml",
+      "mentions": 1,
+      "title": "Record of Exegetical Notes (Shiwén Jì)",
+      "title_zh": "釋文紀",
+      "snippet": "...絕理致幽玄 輕以愚昧駮斥先進業報皎然滅身宜矣敢告學人厥 鑒斯在各慎尒志無得懷疑 南印度德慧菩薩 與摩揭陀國摩沓婆書 敬問摩沓婆善安樂也宜忘勞\uD845\uDE81積習舊學三年之"
+    },
+    {
+      "path": "B\\B32\\B32n0182.xml",
+      "mentions": 1,
+      "title": "Chapters of Dust and Dew from the Buddhist Canon",
+      "title_zh": "內典塵露章",
+      "snippet": "...會。門葉廣榮。後代流演。會下有無名并智如等。無名 之下有清涼澄觀大師等。智如下有唯忠。次遂州道圓。 次圭峰宗密。禪師等。南北二禪。震旦古來橫竪流通。不 可勝計。北宗..."
+    },
+    {
+      "path": "B\\B32\\B32n0173.xml",
+      "mentions": 1,
+      "title": "Genkō Shakusho (Buddhist History of the Genkō Era)",
+      "title_zh": "元亨釋書",
+      "snippet": "唐國鑑真延曆寺最澄 金剛峯空海 菩提達磨者。南印度香至王第三子也。蕭梁普通元年庚 子來支那。與武帝說第一義。帝不契。乃渡江入魏居..."
+    },
+    {
+      "path": "B\\B30\\B30n0163.xml",
+      "mentions": 1,
+      "title": "Revised Comprehensive Gazetteer of Caoxi",
+      "title_zh": "重修曹溪通志",
+      "snippet": "...曰外息諸緣內 心無喘心如墻壁可以入道吾自到此凡五度中毒 嘗出而試之置石石裂吾本離南印來此東土見赤 縣神州有大乘氣遂踰海越漠為法求人今得汝傳 授吾意已終然竟被毒藥以化..."
+    },
+    {
+      "path": "B\\B28\\B28n0156.xml",
+      "mentions": 1,
+      "title": "Buddha-Dharma: Fortress of Gold and Moat",
+      "title_zh": "佛法金湯",
+      "snippet": "...丹。紫陽化收舍利乎。 問。中印度烈士行法持一夕不語。夢人責以 不語遂為所殺。託生南印度大婆羅門家。追 惟禁戒。終以嘿然。忽生一子。其妻曰汝今不 語。即殺此兒舉刀向之..."
+    },
+    {
+      "path": "B\\B27\\B27n0153.xml",
+      "mentions": 1,
+      "title": "Fazang’s ‘Fragments of Gold’ Record",
+      "title_zh": "法藏碎金錄",
+      "snippet": "...形夫行尸走骨在世之見也人皆可知隨心變形出 世之見也人不能知 第十四祖龍樹尊者嘗至南印度為眾說法遂於坐上 現自在身如滿月輪大眾唯聞法音不覩師相眾中 有長者子名迦那提婆..."
+    },
+    {
+      "path": "B\\B13\\B13na012.xml",
+      "mentions": 1,
+      "title": "Study Notes on the Great Tang Records on the Western Regions",
+      "title_zh": "大唐西域記解題",
+      "snippet": "...德：「解說西域記」；足立喜六：「大唐西域記之研究」；高桑駒吉「大唐西域記 所載東南印度諸國之研究」等書，皆其著者。茲誌英、法文書名如次： 1. S. Beal \"S..."
+    },
+    {
+      "path": "B\\B10\\B10n0057.xml",
+      "mentions": 1,
+      "title": "Treatise on the Stages of the Vajrayāna Path",
+      "title_zh": "密宗道次第論",
+      "snippet": "...單頌單行頌行間雜之三種。隨造何種。皆須表示十種狀態之一種 出狀態法。又有東印度與南印度之兩派。莊嚴之中義理莊嚴。有三十五。聲音莊嚴。有三十二。秘句莊嚴。有十六。過失..."
+    },
+    {
+      "path": "B\\B09\\B09n0040.xml",
+      "mentions": 1,
+      "title": "Brief Explanation of the Pramāṇasamuccaya",
+      "title_zh": "集量論略解",
+      "snippet": "...的 創見，所以後之學者，把陳那以後的因明叫做新因明。 約於公元六世紀，陳那出生在南印度一婆羅門家庭，幼年先拜婆羅門老師學藝，繼拜佛教小乘犢 子部軌範師浪波晉為師，法..."
+    },
+    {
+      "path": "A\\A098\\A098n1267.xml",
+      "mentions": 1,
+      "title": "Comprehensive Register of Buddhist Teachings of the Kaiyuan Era of the Great Tang (Volumes 5–20)",
+      "title_zh": "大唐開元釋教廣品歷章(第5卷-第20卷)",
+      "snippet": "佛說寶雨經卷第八 佛說寶雨經卷第九 佛說寶雨經卷第十 右大周長壽二年南印度三藏達 摩流支於東都佛授記寺譯見大 周錄沙門處一筆受 寶雲經一部七卷 寶雲經卷..."
+    },
+    {
+      "path": "Y\\Y41\\Y41n0039.xml",
+      "mentions": 1,
+      "title": "An Ordinary Life (Revised Edition)",
+      "title_zh": "平凡的一生（重訂本）",
+      "snippet": "...分，加以校正。我以 先讀為快的心情，取得一讀。全書十二章，從「史料及古史」，到「南印度」， 我就擇要的記錄下來。對後來《印度之佛教》的寫作，才有了史的重要參考。而 ..."
+    },
+    {
+      "path": "X\\X81\\X81n1570.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Complete Five Lamps",
+      "title_zh": "五燈全書目錄",
+      "snippet": "...梅庭光 荷澤會禪師法嗣 蒙山寶光禪師 大石福林禪師 磁州法如禪師 西隱進平禪師 益州南印禪師 澧陽慧演禪師 河南懷空禪師 宜春廣敷禪師 江寧行覺禪師 五臺無名禪師 南嶽..."
+    },
+    {
+      "path": "X\\X73\\X73n1452.xml",
+      "mentions": 1,
+      "title": "Complete Works of Venerable Zibo",
+      "title_zh": "紫柏尊者全集",
+      "snippet": "...幾人 哉？於光露之時，一肩領過，積劫無明，當下冰消，如兵 不血刃，天下太平矣。 南印度香至國王施無價寶珠，供養般若多羅尊者。 時國王有三子，其季開士也。尊者欲試彼所..."
+    },
+    {
+      "path": "X\\X73\\X73n1451.xml",
+      "mentions": 1,
+      "title": "Expanded Record of Chan Master Cishou Huaishen",
+      "title_zh": "慈受懷深禪師廣錄",
+      "snippet": "...。然雖如是，且道：舉一明三一句作麼生道？良 久，云：東山水上行。師復云：昔日西天南印土香至王 生三子，一名月淨多羅，次曰功德多羅，三名菩提達 磨，即二十八祖也。王一..."
+    },
+    {
+      "path": "X\\X71\\X71n1420.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Chushi Fanqi",
+      "title_zh": "楚石梵琦禪師語錄",
+      "snippet": "...手。常住世間，太虗不朽。 達磨大師贊 初辯寶珠，半文不直。次破六宗，全無旨的。離南印來， 入震旦國。再對梁王，還云不識。一住少林，九年面壁。 堪笑神光，分明是賊。及..."
+    },
+    {
+      "path": "X\\X69\\X69n1368.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Yanxi Guangwen",
+      "title_zh": "偃溪廣聞禪師語錄",
+      "snippet": "...求 師之難。師家利生接物，以壽慧命之難，莫如求弟子 之難。授受之際，不苟如此。播南印維那，朅來南方孤 峯絕頂，與眾作息，根器重厚，造詣深穩，若不能言者。 歲晚，以其..."
+    },
+    {
+      "path": "X\\X67\\X67n1309.xml",
+      "mentions": 1,
+      "title": "Treasury of the True Dharma Eye",
+      "title_zh": "正法眼藏",
+      "snippet": "...妙喜不恁麼。忽有箇衲僧出來道：好與一 狀領過，也恠佗不得。 二十七祖般若多羅，以南印度香至王所施無價寶 珠，問菩提達磨曰：此珠圓明，有能及此否？磨曰：此是 世寶，未..."
+    },
+    {
+      "path": "X\\X67\\X67n1304.xml",
+      "mentions": 1,
+      "title": "Elder Linquan’s Commentary and Chanted Remarks on Chan Master Danxia Zichun’s Verses on Ancient Cases: Xutang Collection",
+      "title_zh": "林泉老人評唱丹霞淳禪師頌古虗堂集",
+      "snippet": "...虗渺邈月為隣。一 輪明月當軒照，玉殿蕭蕭不見人。 師云：十四祖龍樹尊者得法後，至南印土。彼國之人 多信福業，祖為說法，\uDB8E\uDFDD相謂曰：人有福業，世間第一。 徒言佛性，誰..."
+    },
+    {
+      "path": "X\\X63\\X63n1252.xml",
+      "mentions": 1,
+      "title": "Textual Verification of Chan Monastery Lettering Phrases",
+      "title_zh": "禪林疏語考證",
+      "snippet": "...， 華如黃米子。有人云：一多羅樹高七仞，七尺曰仞， 是則樹高四十九尺。西域記云：南印建那補羅國 北不遠，有多羅樹林三十餘里，其葉長廣，其色光 潤，諸國書寫，莫不采用..."
+    },
+    {
+      "path": "X\\X63\\X63n1242.xml",
+      "mentions": 1,
+      "title": "Commentary on Yongjia’s Chan Collection",
+      "title_zh": "永嘉禪宗集註",
+      "snippet": "...安，章安傳法華，法華傳天宮，天宮則真覺大師之所 承嗣者也。師從止觀悟入淨名，旁通南印、曹溪，師資 道合。則此集者，乃大師還甌江時之所譔所述，以明 授受之際心宗的旨。..."
+    },
+    {
+      "path": "X\\X63\\X63n1235.xml",
+      "mentions": 1,
+      "title": "Biography of Zhizheng",
+      "title_zh": "智證傳",
+      "snippet": "...然如夢。見昔所事主人。責 以不語。欲不利。我以受恩深厚。終不答。遂為所殺。 托生南印土大婆羅門家。追惟厚恩。自少及壯。終 以默然。俄生一子。其妻曰。汝若不語。即殺此..."
+    },
+    {
+      "path": "X\\X58\\X58n1031.xml",
+      "mentions": 1,
+      "title": "Record Uncovering Subtleties in the *Huayan Treatise on the Origin of Humanity*",
+      "title_zh": "華嚴原人論發微錄",
+      "snippet": "...充，通儒書於遂寧。業既就，將隨貢詣有司。會 有大德僧道圓，得法於成都荷澤大師嫡孫南印 ，開法於遂州大雲寺。禪師游座下，染 削為弟子，受心法。他日，隨眾僧齋于州民任灌..."
+    },
+    {
+      "path": "X\\X53\\X53n0862.xml",
+      "mentions": 1,
+      "title": "Brief Explanation of True Consciousness-Only Inference",
+      "title_zh": "真唯識量略解",
+      "snippet": "...絕。今幸 福智攸邈。深達聖旨。因明論道。願請重弘。菩薩乃放 神光。照燭機感。時彼南印土按達羅國王。見放光明。 疑入金剛喻定。請證無學果。菩薩曰。入定觀察。將釋 深經..."
+    },
+    {
+      "path": "X\\X53\\X53n0861.xml",
+      "mentions": 1,
+      "title": "Doctrinal Extracts on Three-Part Inference",
+      "title_zh": "三支比量義鈔",
+      "snippet": "...絕。今幸福智攸邈，深 達聖旨。因明論道，願請重弘。菩薩乃放神光，照燭機 感。時彼南印土按達羅國王，見放光明，疑入金剛喻 定，請證無學果。菩薩曰：入定觀察，將釋深經。..."
+    },
+    {
+      "path": "X\\X53\\X53n0841.xml",
+      "mentions": 1,
+      "title": "Notes on the Verses Commentary to the *Abhidharmakośa*",
+      "title_zh": "俱舍論頌疏記",
+      "snippet": "...，故漫心殺亦成無間。言父是羅漢得一逆罪 者，論云：若爾，譬喻經說當云何通？謂佛在南印度國， 有一國王以國委付太子始欠持，往室羅筏，歸 佛出家，得羅漢果。太子無道，專..."
+    },
+    {
+      "path": "X\\X53\\X53n0839.xml",
+      "mentions": 1,
+      "title": "Doctrinal Extracts from the Verses Commentary on the *Abhidharmakośa*",
+      "title_zh": "俱舍論頌疏義鈔",
+      "snippet": "... 故。父母在眾煞，簡與不簡皆成逆，以自識故也。辟喻 經說：始欠持，此云鬢髻結，是南印度國王付子位，出 家成無學，後為子煞。佛遣弟子告言成二逆者，顯此 一逆由二緣成，..."
+    },
+    {
+      "path": "X\\X50\\X50n0818.xml",
+      "mentions": 1,
+      "title": "Study Notes on the *Treatise on Consciousness-Only*",
+      "title_zh": "成唯識論學記",
+      "snippet": "...火辨二 大論師造此頌釋，千一百年後餘八師。其中勝者， 達摩婆羅，此云護法。基云：南印度達羅弭茶國建 至城中帝王之子，年二十九，菩提樹下禪禮 之時，造此論釋。年三十二..."
+    },
+    {
+      "path": "X\\X48\\X48n0806.xml",
+      "mentions": 1,
+      "title": "Selections and Clarifications on the *Treatise on Consciousness-Only*",
+      "title_zh": "成唯識論料簡",
+      "snippet": "...教，執法實有鬪 諍便興，一味真詮分成多部。有大菩薩名曰龍猛，佛 滅度後第二百年，南印度境出興於世，依般若等密 意教門，廣造中觀十二門等，破初凡愚實有法執，其 別神德..."
+    },
+    {
+      "path": "X\\X48\\X48n0799.xml",
+      "mentions": 1,
+      "title": "Extracts Illuminating the Subtle on the *Treatise on the Hundred Dharmas*",
+      "title_zh": "百法論顯幽鈔",
+      "snippet": "...掌珍論，同時有五个 論師，名五日出，即五天一時生。中印土是龍樹，東印 土是馬鳴，南印土是提婆，西印土是室利羅多，北印 土是鳩摩羅多，即五日出也。大弘空宗，即青辨掌珍..."
+    },
+    {
+      "path": "X\\X44\\X44n0744.xml",
+      "mentions": 1,
+      "title": "Glossary and Explanations of Terms in the Four-Part Vinaya",
+      "title_zh": "四分律名義標釋",
+      "snippet": "樹膠香 梵云杜嚕。此云熏陸。南洲異物志云。狀如桃膠。西 域記云。南印度阿吒釐國。有熏陸香樹。葉似棠梨。 本草云。出天竺。邯鄲。南方草物狀曰。出大秦國..."
+    },
+    {
+      "path": "X\\X41\\X41n0730.xml",
+      "mentions": 1,
+      "title": "Continued Explanations of Vinaya Practice and Observance",
+      "title_zh": "毗尼作持續釋",
+      "snippet": "...不復更生。故梵語貝多羅樹，此翻岸形。然此樹直 而且高，極高者長八九丈。西域記云：南印土國有 此樹林，其葉長廣，其色光潤。諸國書寫，莫不採取。 一切不得故斷眾生命，下..."
+    },
+    {
+      "path": "X\\X38\\X38n0691.xml",
+      "mentions": 1,
+      "title": "Annotations on the Brahmā Net Bodhisattva Precepts",
+      "title_zh": "梵網經菩薩戒注",
+      "snippet": "...像，建立經藏，飯僧數萬，種種功德，無限勝因。遂 感 皇帝聖旨，特賜田五千畝，至江南印造大藏經二十 藏，雕造 佛壇一十二堂，并諸經呪板，於中創刻善財五十 三參變相圖經..."
+    },
+    {
+      "path": "X\\X34\\X34n0638.xml",
+      "mentions": 1,
+      "title": "Essential Collection from the \"Profound Praise\" on the Lotus Sutra",
+      "title_zh": "法華經玄贊要集",
+      "snippet": "...事主人躬來在傍，感 荷厚恩，忍不共語，彼人震怒，遂見煞害。更受中陰身， 遂見託生南印度國大婆羅門家，乃至受胎，備經苦 厄，荷其恩德，忍不言之。洎乎受業冠婚，求親生子..."
+    },
+    {
+      "path": "X\\X34\\X34n0636.xml",
+      "mentions": 1,
+      "title": "Abridged Explanations of the \"Profound Praise\" on the Lotus Sutra",
+      "title_zh": "法華經玄贊攝釋",
+      "snippet": "...。彼人震怒，遂見殺害。更受中 陰身，自顧歎惜，猶願歷世不言，以報厚德，遂見託生 南印度大婆羅門家。乃至受胎出胎，備經苦厄，荷恩 荷德，忍而不言。洎乎受業冠婚，喪親生..."
+    },
+    {
+      "path": "X\\X33\\X33n0631.xml",
+      "mentions": 1,
+      "title": "Handbook Commentary on the Lotus Sutra",
+      "title_zh": "法華經指掌疏",
+      "snippet": "...眾僧分住三身，故書 寫是經者，則為以此現前供我及僧。文中多羅樹 者，準西域記云：南印土建那補羅國北不遠，有多 羅林三十餘里，其葉長廣，其色光潤，諸國書寫莫 不采用，..."
+    },
+    {
+      "path": "X\\X32\\X32n0623.xml",
+      "mentions": 1,
+      "title": "Handing-On the Lotus Sutra",
+      "title_zh": "法華經授手",
+      "snippet": "...如石榴， 人取食之。又有云：一多羅樹高七仞，七尺一仞，則 高四十九尺。西域記云：南印建那補羅國北不遠， 有多羅林三十餘里，其葉長廣，其色光潤，諸國書 寫，莫不採用。..."
+    },
+    {
+      "path": "X\\X32\\X32n0619.xml",
+      "mentions": 1,
+      "title": "Great Completion (Dacheng) on the Lotus Sutra",
+      "title_zh": "法華經大成",
+      "snippet": "...如石榴，人多食之。有云一多羅樹高七仞，七尺為 一仞，是則樹高四十九尺。西域記云：南印建那補 羅國北不遠，有多羅林三十餘里，其葉長廣，其色 光潤，諸國書寫莫不採用。八..."
+    },
+    {
+      "path": "X\\X31\\X31n0608.xml",
+      "mentions": 1,
+      "title": "The Lotus Sutra: A Kindred Understanding",
+      "title_zh": "法華經知音",
+      "snippet": "...，極高者八九十尺，華如黃米。有云：一多羅 樹高七仞。字學云：八尺曰仞。西域記云：南印土建 那國北有多羅樹林三十餘里，其葉長廣光潤，諸 國書寫莫不采用。一多羅樹高七仞..."
+    },
+    {
+      "path": "X\\X31\\X31n0607.xml",
+      "mentions": 1,
+      "title": "Outline Commentary on the Lotus Sutra",
+      "title_zh": "法華經科註",
+      "snippet": "...榴，人多食之。又有人云：一多羅樹高七 仞。七尺曰仞，是則樹高四十九尺。西域記云：南印 建那補羅國北不遠，有多羅林三十餘里，其葉長 廣，其色光潤，諸國書寫，莫不采用。..."
+    },
+    {
+      "path": "X\\X30\\X30n0603.xml",
+      "mentions": 1,
+      "title": "Combined Treatise on the Lotus Sutra",
+      "title_zh": "法華經合論",
+      "snippet": "... 讓曰：誡君勿語，何妄呌呼耶？對曰：自受命後，夢舊 主人責以不語，遂為所殺，託生南印度大婆羅門 家。追惟厚恩，終以默然。忽生一子，其妻曰：汝今不 語，即殺此兒。舉刃..."
+    },
+    {
+      "path": "X\\X28\\X28n0593.xml",
+      "mentions": 1,
+      "title": "Corrective Notes Assisting the \"Words and Phrases\" on the Lotus Sutra",
+      "title_zh": "法華經文句輔正記",
+      "snippet": "...栗糓。十二、那 伽犀那，此名多龍闡，與眷屬一千二百羅漢多分， 住於半度波山，此在南印度界。十三、因揭羅陀，此 云機點，與自眷屬一千三百羅漢多分，住於廣脇 山，舊名毗..."
+    },
+    {
+      "path": "X\\X28\\X28n0586.xml",
+      "mentions": 1,
+      "title": "Supplemental Notes to the Three Major Works on the Lotus Sutra",
+      "title_zh": "法華經三大部補注",
+      "snippet": "...華嚴經；二、枝末法輪 教，即三乘等於後所說；三、攝末歸本法輪教，即法 華經。唐江南印法師立二教：一、釋迦經，名屈曲教， 以逐根性隨計破執故；二、平道教，即舍那經，以..."
+    },
+    {
+      "path": "X\\X26\\X26n0519.xml",
+      "mentions": 1,
+      "title": "Faheng’s Extracts on the Renwang Sūtra Commentary",
+      "title_zh": "仁王經疏法衡鈔",
+      "snippet": "...乖諍；千載已後，乃與空、有兩宗異論。是故如來 正法，但經千載。清辯者，西域記云：南印度境，大案達 羅國城南不遠，有大山巖，婆毗吠伽論師住阿 蘇洛宮，待見慈氏菩薩成佛..."
+    },
+    {
+      "path": "X\\X25\\X25n0487.xml",
+      "mentions": 1,
+      "title": "Combined Explanation of Commentary and Verses for “New Eye” on the Diamond Sūtra",
+      "title_zh": "金剛新眼疏經偈合釋",
+      "snippet": "...脫也。 義淨三藏譯為名稱大城，亦聞物義。此城在中印 土憍薩羅國，今但言舍衛者，以南印土亦有憍薩 羅國，恐濫彼故。此總處也，下乃別處。祗園者，祗陀 太子所施樹也。祗陀..."
+    },
+    {
+      "path": "T\\T21\\T21n1295.xml",
+      "mentions": 1,
+      "title": "Offering Methods for the Eight Devas Who Protect the World",
+      "title_zh": "供養護世八天法",
+      "snippet": "...外或於宅□□方散施，或施長流水 中，施與無名□鬼神食之。真言曰： 曩莫三滿多母馱南印娜囉耶 仡哩 賀拏伊\uD851\uDEA5 遏鉗 巘淡 補澁鉗 度補甘麼臨 儞補甘布若 室哩 泥嚩..."
+    },
+    {
+      "path": "T\\T20\\T20n1185A.xml",
+      "mentions": 1,
+      "title": "The Buddha Speaks the Dhāraṇī Sūtra of Mañjuśrī’s Dharma Treasure Store",
+      "title_zh": "佛說文殊師利法寶藏陀羅尼經",
+      "snippet": "No. 1185A 佛說文殊師利法寶藏陀羅尼經 大唐南印度三藏菩提流志譯 如是我聞：一時婆伽梵在淨居天宮，與大菩 薩摩訶薩眾，及無量淨居..."
+    },
+    {
+      "path": "T\\T19\\T19n1027a.xml",
+      "mentions": 1,
+      "title": "Sutra of the Vajra Radiant Flame Dhāraṇī that Stops Wind and Rain",
+      "title_zh": "金剛光焰止風雨陀羅尼經",
+      "snippet": "No. 1027 金剛光焰止風雨陀羅尼經 大唐南印土三藏菩提流志譯 如是我聞：一時薄伽梵與其大眾前後圍遶 遊摩伽陀國，行在中路遇大..."
+    },
+    {
+      "path": "T\\T19\\T19n1025.xml",
+      "mentions": 1,
+      "title": "Sutra of the Buddha-Crown Emitting Immaculate Light, Entering Universal-Gate Contemplation: Heart Dhāraṇī of All Tathāgatas",
+      "title_zh": "佛頂放無垢光明入普門觀察一切如來心陀羅尼經",
+      "snippet": "...佛 言：「善哉善哉！善男子！快問斯義。汝當諦聽，為 汝宣說。金剛手！過去之世，彼南印度有城名 廣圓滿，有婆羅門名曰無垢，而住彼城為說 法師，性識聰敏善能分別諸法之相..."
+    },
+    {
+      "path": "T\\T18\\T18n0866.xml",
+      "mentions": 1,
+      "title": "Sutra of Abridged Extracts on Recitation from the Vajra Summit Yoga",
+      "title_zh": "金剛頂瑜伽中略出念誦經",
+      "snippet": "金剛頂瑜伽中略出念誦經卷第 二 大唐南印度三藏金剛智譯 「爾時，世尊復入文殊師利摩訶菩提薩埵 三摩"
+    },
+    {
+      "path": "Y\\Y15\\Y15n0015.xml",
+      "mentions": 1,
+      "title": "Three Essentials of Studying Buddhism",
+      "title_zh": "學佛三要",
+      "snippet": "...北印的佛教，如一切有部與瑜伽師，專約純善的信心說。其實，信不但是善 淨的，所以東南印的大眾與分別說系，分別信心為二：一、順信，同於一般所說 的信仰，這是有善的、惡的..."
+    },
+    {
+      "path": "Y\\Y14\\Y14n0014.xml",
+      "mentions": 1,
+      "title": "Buddhism for the Human World",
+      "title_zh": "佛在人間",
+      "snippet": "...迦未成佛前，是現菩薩身，行菩薩道的。彌勒菩薩發菩提心 ，現在尚未成佛。照經上說：南印度有十六個青年來見佛，發心從佛修學；其中 有名叫彌勒的，發願成佛，佛為他授當來下..."
+    },
+    {
+      "path": "Y\\Y04\\Y04n0004.xml",
+      "mentions": 1,
+      "title": "Lectures on the Medicine Buddha Sutra",
+      "title_zh": "藥師經講記",
+      "snippet": "...疾，這如某些危害人類的不良思想，一經蔓延開 去，置無數人於無可救藥的苦境。從前，南印度有一位法師，在講經席上，為 大眾開示飲酒得癲狂報。當時國王也在座，就起來問難說..."
+    },
+    {
+      "path": "X\\X88\\X88n1646.xml",
+      "mentions": 1,
+      "title": "Biographies of Laypeople",
+      "title_zh": "居士傳",
+      "snippet": "...士密說而顯演。潛通而廣被。 以印定其法。為一切經之宗也。圭峯禪師得法於荷 澤嫡孫南印上足道圓和尚。一日隨眾僧齋於州民。 任灌家。居下位。以次受經。遇圓覺了義。卷未終..."
+    },
+    {
+      "path": "X\\X86\\X86n1595.xml",
+      "mentions": 1,
+      "title": "Correct Transmission of Buddhas and Patriarchs: Quick Record, Past and Present",
+      "title_zh": "佛祖正傳古今捷錄",
+      "snippet": "佛祖正傳古今捷錄 西蜀比丘 果性 集 初祖菩提達磨大師姓剎帝利，南印土香至王季子 也。得法於二十七祖般若多羅。祖囑曰：俟吾滅後六 十秊，當往震旦國闡..."
+    },
+    {
+      "path": "X\\X85\\X85n1590.xml",
+      "mentions": 1,
+      "title": "Jinjiang Chan Lamp",
+      "title_zh": "錦江禪燈",
+      "snippet": "...授將來。時 南康王韋公臯歸心于師，得其禪要，為立\uDB8E\uDF34，自撰文 并書，禪宗榮之。 南印姓張氏。明寤之性，得曹溪深旨，無以為證。見淨 眾寺神會禪師，始契心焉。所謂落機之..."
+    },
+    {
+      "path": "X\\X85\\X85n1589.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Jinjiang Chan Lamp",
+      "title_zh": "錦江禪燈目錄",
+      "snippet": "西隱進平禪師 益州南印禪師 涪州朗禪師 大鑒下第三世 西山亮座主 則州和尚 章敬懷腪禪師"
+    },
+    {
+      "path": "X\\X76\\X76n1516.xml",
+      "mentions": 1,
+      "title": "Comprehensive Mirror of the Shakya Clan",
+      "title_zh": "釋氏通鑑",
+      "snippet": "...門而出之，帝懼，即厚 禮遣之出境。乙酉三十一年 丙戌 丁亥 戊子 己丑三十五年 南印土十四祖龍樹大士，以法付 迦那提婆尊者。偈曰：為明隱顯法，方說解脫理。於法 既無..."
+    },
+    {
+      "path": "X\\X75\\X75n1511.xml",
+      "mentions": 1,
+      "title": "Record of Shakyamuni’s Manifestations",
+      "title_zh": "釋迦如來應化錄",
+      "snippet": "...心服，俾之他國，機隨演化，受 教作禮而去。 達磨西來 佛祖通載云：初祖菩提達磨，南印度國香至王第三 子。王薨，師出家，遇二十七祖般若多羅，付以大法，因 問：我既得法..."
+    },
+    {
+      "path": "X\\X75\\X75n1509.xml",
+      "mentions": 1,
+      "title": "Annotated Record of Shakyamuni’s Enlightenment",
+      "title_zh": "釋迦如來成道記註",
+      "snippet": "...約斷二十七疑，造論三卷。 或待佛而窟寄修羅。 明辨論師欲求長生，待慈氏下生，乃往南印度修 羅窟前，誦金剛呪，呪白芥子擊其石門，石門遂開。 明辯攝衣奮入，相隨入者六人..."
+    },
+    {
+      "path": "X\\X20\\X20n0360.xml",
+      "mentions": 1,
+      "title": "New Notes on the Text and Phrases of the Golden Light Sūtra",
+      "title_zh": "金光明經文句新記",
+      "snippet": "...惑者不見，尤多妄 說。南山靈感傳天神謂南山律師云：印度諸師說鐵 圍山高下不同。若南印度并執師子國法師說四大 洲外是小鐵圍山，繞一日月，量等夜摩，此言其倍倍 增量。繞..."
+    },
+    {
+      "path": "X\\X16\\X16n0316.xml",
+      "mentions": 1,
+      "title": "‘Precious Mirror’ Commentary on the Śūraṅgama Sutra",
+      "title_zh": "楞嚴經寶鏡疏",
+      "snippet": "...，此云岸形。以此 樹形，狀如棕櫚，岸然矗立，高而且直，有八九十尺。 西域記云：出南印建那補羅國，北有多羅樹林，三 十餘里。其葉長廣光潤，諸國書寫，莫不采用。設以 刀..."
+    },
+    {
+      "path": "X\\X16\\X16n0308.xml",
+      "mentions": 1,
+      "title": "‘Pointing to the Palm’ Commentary on the Śūraṅgama Sutra",
+      "title_zh": "楞嚴經指掌疏",
+      "snippet": "...闡提，此翻斷 善根人也。善根既斷，成佛無分，故云銷滅佛種。○ 如人句，借喻以明。南印土建那補羅國，北有多羅 林三十餘里，樹葉長廣光潤，諸國書寫，莫不採用。 其樹若以..."
+    },
+    {
+      "path": "X\\X12\\X12n0281.xml",
+      "mentions": 1,
+      "title": "Commentary on Perfect Penetration in the Śūraṅgama Sutra",
+      "title_zh": "楞嚴經圓通疏",
+      "snippet": "...香煎為蘇合，非一物也。○梵云杜嚕，此 云熏陸。南洲異物志云：狀如桃膠。西域記云：南印 度阿吒釐國，熏陸香樹，葉似棠梨。南方草物狀曰： 出大秦國，樹生沙中，盛夏樹膠流..."
+    },
+    {
+      "path": "X\\X05\\X05n0232.xml",
+      "mentions": 1,
+      "title": "Profound Discourse in the Subcommentary on the Avatamsaka Sutra",
+      "title_zh": "華嚴經疏鈔玄談",
+      "snippet": "...語。彼人震 怒，遂見煞害。受中陰身，顧屍歎惜，猶願歷世不言， 以報厚德。遂見託生南印土大婆羅門家，乃至受 胎出胎，備經苦厄，荷恩負德，忍而不言。暨乎受業 冠婚，喪親..."
+    },
+    {
+      "path": "X\\X05\\X05n0227.xml",
+      "mentions": 1,
+      "title": "Commentary on the ‘Practices and Vows’ Chapter of the Avatamsaka Sutra",
+      "title_zh": "華嚴經行願品疏",
+      "snippet": "...方」下，詣示後友。文中二：先長行， 後偈頌。大悲尊重，故加此讚美。海上有山者，即南印 度之南，表大悲隨順入生死海，住涅槃山亦處大悲 海，不為愛見之所溺故。第六「時善..."
+    },
+    {
+      "path": "X\\X05\\X05n0226.xml",
+      "mentions": 1,
+      "title": "Essential Compilation of the Combined Treatise on the Avatamsaka Sutra",
+      "title_zh": "華嚴經合論纂要",
+      "snippet": "...熱惱池流出四河：東名私陀，入震旦達于 東海，即此方黃河之源；南名恒伽，即恒河，入南印度 達于南海；西信度河，達于西海；北縛芻河，達于北海」 者，池表菩提心；四河入海..."
+    },
+    {
+      "path": "X\\X04\\X04n0225.xml",
+      "mentions": 1,
+      "title": "Concise Essentials of the Combined Treatise on the Avatamsaka Sutra",
+      "title_zh": "華嚴經合論簡要",
+      "snippet": "...，亦立 四教；第八唐朝吉藏法師立三種教；第九梁朝光宅 寺雲法師立四教；第十唐朝江南印法師立二教。已 上十家所釋，並依今唐朝吉藏法師所集，同異各是 一家，並是當世英才..."
+    },
+    {
+      "path": "TX\\TX13\\TX13n0007.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part Seven – Dharma Realm and Perfect Enlightenment Studies (Vols. 10–15)",
+      "title_zh": "太虛大師全書．第七編\u3000法界圓覺學(第10卷-第15卷)",
+      "snippet": "...，唐實叉難陀與復 禮等譯。譯意雖各異，楞伽名則一。梵語楞伽，譯不可往或不可入，乃南印度鍚蘭島 中一山名。山上大而下瞰海，故不可往、不可入。亦云城名，以山頂有夜叉王城..."
+    },
+    {
+      "path": "TX\\TX09\\TX09n0006.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part Six – Yogācāra and Consciousness-Only Studies (Vols. 16–49)",
+      "title_zh": "太虛大師全書．第六編\u3000法相唯識學(第16卷-第49卷)",
+      "snippet": "... 類而分列為五類。然此仍依界、處來，所以先說到色法。無著、世親、他們雖然 接受東南印的大乘，傾向唯識，而本從西北印的學系出來。他們起初造論，大抵 沿用蘊、處、界的舊..."
+    },
+    {
+      "path": "TX\\TX04\\TX04n0004.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part Four – General Mahāyāna Studies (Vols. 1–5)",
+      "title_zh": "太虛大師全書．第四編\u3000大乘通學(第1卷-第5卷)",
+      "snippet": "...，非拘守一地一種文 字可以塞其責矣。論者多以巴利文為原始記載佛法之通俗文，流傳於南印度而漸及錫 蘭、暹、緬。梵文則為印度典雅之古文，流傳於中印度、北印度漸及於中國。..."
+    },
+    {
+      "path": "TX\\TX02\\TX02n0001.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part One – Comprehensive Study of Buddhism (Vols. 27–34)",
+      "title_zh": "太虛大師全書．第一編\u3000佛法總學(第27卷-第34卷)",
+      "snippet": "...地論、攘外道，抑小乘，俾佛學真理，皎 然無蔽。治者可式之而行。十三祖迦毗摩羅說法南印，慧化頗著。迨獲龍樹為嗣，克 紹馬鳴之洪緒，作大智度論、毗婆沙論、十二門論、中觀..."
+    },
+    {
+      "path": "T\\T55\\T55n2155.xml",
+      "mentions": 1,
+      "title": "Abridged Excerpts from the Kaiyuan Buddhist Catalog",
+      "title_zh": "開元釋教錄略出",
+      "snippet": "上三經十一卷同帙計一百五十 七紙 【被】。 寶雨經十卷唐南印度三藏達摩流支等譯 自一帙計一百六十一紙 【草】。 寶雲經七卷梁扶南三藏曼陀羅仙..."
+    },
+    {
+      "path": "T\\T52\\T52n2110.xml",
+      "mentions": 1,
+      "title": "Treatise on Discriminating the Correct",
+      "title_zh": "辯正論",
+      "snippet": "說規逆順異十 外論曰。老君作範唯孝唯忠。救世度人極慈 極愛。是以聲教永傳百王不改。玄風長被萬 古無差。所以治國治家常然..."
+    },
+    {
+      "path": "T\\T52\\T52n2108.xml",
+      "mentions": 1,
+      "title": "Collected Matters on Why Monastics Should Not Bow to Laypeople, etc.",
+      "title_zh": "集沙門不應拜俗等事",
+      "snippet": "...以。三辟之重。要君者無上五 刑之極。非孝者無親是以悖 德悖禮。為大亂之本源唯敬 唯忠。乃經邦之正軌至於老教虛靜。資柔弱以曲全。釋典沖 和。常不輕為普敬未聞傲慢君親矜..."
+    },
+    {
+      "path": "T\\T51\\T51n2088.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Shakyamuni",
+      "title_zh": "釋迦方志",
+      "snippet": "...大呼。士卒僵仆。 故城東南屈屈吒阿濫摩寺昔有論議屈 於外道。十二年來不擊犍搥。有南印度那伽 閼剌樹那菩薩來至伏諸外道始擊犍 搥。故塔名擊犍搥也。 次北有鬼辯塔馬鳴事..."
+    },
+    {
+      "path": "T\\T51\\T51n2079.xml",
+      "mentions": 1,
+      "title": "Patriarch-Establishing Chart of the Orthodox Dharma Transmission",
+      "title_zh": "傳法正宗定祖圖",
+      "snippet": "...遇師子。與辯 其夙緣。乃為其徒。師子知自有難。遂預以法 付之。斯多即去。歷中天竺南印土。所化多有 異事。遂得南天竺國王之子不知蜜多。為之 弟子。與之還其前所化境。將..."
+    },
+    {
+      "path": "T\\T50\\T50n2052.xml",
+      "mentions": 1,
+      "title": "Account of the Deceased Tripitaka Master Xuanzang of the Great Tang",
+      "title_zh": "大唐故三藏玄奘法師行狀",
+      "snippet": "...相違。但學 者之不通耳。因造會宗論三千頌。戒賢師已 下。見咸稱善。彼具流行。先有南印度王灌頂 師。名般若毱多。明正量部義。造破大乘論七 百頌。時。戒日王。因討賊行次..."
+    },
+    {
+      "path": "T\\T43\\T43n1833.xml",
+      "mentions": 1,
+      "title": "Elucidation of Hidden Meanings in the Consciousness-Only Treatise",
+      "title_zh": "成唯識論演祕",
+      "snippet": "...。彼人震怒，遂見殺害。更受中 陰身，自顧歎惜，猶願歷世不言，以報厚 德。遂見託生南印度大婆羅門家，乃至受 胎、出胎，修經苦厄，荷恩荷德，忍而不言。 洎乎受業冠婚、喪..."
+    },
+    {
+      "path": "T\\T41\\T41n1822.xml",
+      "mentions": 1,
+      "title": "Commentary on the Abhidharmakośa",
+      "title_zh": "俱舍論疏",
+      "snippet": "...一故成一逆罪。應說重逆。 論「若爾喻說至謂害父殺阿羅漢」，引譬喻 經難。佛在世，南印度國有一國王，以國委 付太子始欠持，往室羅筏歸佛出家，得阿 羅漢果。太子無道，專..."
+    },
+    {
+      "path": "T\\T41\\T41n1821.xml",
+      "mentions": 1,
+      "title": "Notes on the Abhidharmakośa",
+      "title_zh": "俱舍論記",
+      "snippet": "...喻經》說 當云何通？佛告始欠持：「汝已造二逆，所謂 害父、殺阿羅漢。」昔佛在世，南印度國有一國 王，以國委付太子始欠持，往室羅筏歸佛 出家，得阿羅漢果。太子無道，專..."
+    },
+    {
+      "path": "T\\T39\\T39n1795.xml",
+      "mentions": 1,
+      "title": "Brief Commentary on the Sutra of Perfect Enlightenment (Definitive Meaning)",
+      "title_zh": "大方廣圓覺修多羅了義經略疏",
+      "snippet": "...密說而顯演，潛通而廣被，以印定其 法，為一切經之宗也。圭峯禪師，得法於荷澤 嫡孫南印上足道圓和尚。一日隨眾僧，齋于 州民任灌家，居下位，以次受經。遇《圓覺了義》， ..."
+    },
+    {
+      "path": "T\\T32\\T32n1674.xml",
+      "mentions": 1,
+      "title": "Nāgārjuna’s Verses of Admonition to a King",
+      "title_zh": "龍樹菩薩勸誡王頌",
+      "snippet": "大唐三藏法師義淨譯 此頌是龍樹菩薩以詩代書，寄與南印度親 友乘土國王一首。此書已先譯神州處藏，人 多不見，遂令"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "master": "Pingshan Zhenben",
+  "primary_count": 1,
+  "secondary_count": 2,
+  "total_mentions": 8,
+  "primary": [
+    {
+      "path": "J\\J28\\J28nB207.xml",
+      "mentions": 6,
+      "title": "Heart-Inquiry Record of the Daoist Shepherd of Guping Mountain",
+      "title_zh": "古瓶山牧道者究心錄",
+      "snippet": "古瓶山牧道者小影"
+    }
+  ],
+  "secondary": [
+    {
+      "path": "J\\J29\\J29nB247.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Tan’an of Puguang",
+      "title_zh": "普光坦菴禪師語錄",
+      "snippet": "... 徑山沖祖，沖傳興善廣，廣傳普明 用。我金明介老和尚為普明嫡子， 傳法三十餘人，瓶山次菴法兄其 上首也。普光坦菴峻禪師丰標天 挺，遍歷諸方，在在推許，師未肯諾。 最後至..."
+    },
+    {
+      "path": "B\\B35\\B35n0194.xml",
+      "mentions": 1,
+      "title": "General Catalogue of the Chinese Tripiṭaka",
+      "title_zh": "中華大藏經總目錄",
+      "snippet": "204223介為舟禪師語錄十卷 205224笑堂和尚語錄一卷 206225古瓶山牧道者究心錄一卷 續第八十二函 207226古雪喆禪師語錄二十卷 208"
+    }
+  ]
+}

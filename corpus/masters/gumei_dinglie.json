@@ -1,0 +1,30 @@
+{
+  "master": "Gumei Dinglie",
+  "primary_count": 0,
+  "secondary_count": 3,
+  "total_mentions": 3,
+  "primary": [],
+  "secondary": [
+    {
+      "path": "B\\B35\\B35n0194.xml",
+      "mentions": 1,
+      "title": "General Catalogue of the Chinese Tripiṭaka",
+      "title_zh": "中華大藏經總目錄",
+      "snippet": "486何一自禪師語錄二卷 又續第四十三函 461487溈山古梅冽禪師語錄五卷 462488華嚴起宗真禪師語錄二卷 463489子雍如禪師語錄四卷..."
+    },
+    {
+      "path": "X\\X82\\X82n1571.xml",
+      "mentions": 1,
+      "title": "Complete Five Lamps (Vols. 34–120)",
+      "title_zh": "五燈全書(第34卷-第120卷)",
+      "snippet": "呈 臨濟宗 南嶽下第三十七世隨錄 潭州溈山古梅定冽禪師邵陵王氏子。少遊邑庠，便 念生死事大，乃薙染完具。依大溈海力參一十五年， 出..."
+    },
+    {
+      "path": "X\\X81\\X81n1570.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Complete Five Lamps",
+      "title_zh": "五燈全書目錄",
+      "snippet": "法界甄禪師 朝陽慈雲度禪師 衛生月暉光禪師 卷一百三 南嶽下第三十七世隨錄 溈山古梅定冽禪師 崇福與峯智禪師 萬松曇默聞禪師 石渚廣惠荷禪師 開化大歇定禪師 北山古藥智..."
+    }
+  ]
+}

@@ -1,1 +1,1591 @@
-{"primary_count":0,"secondary_count":3,"total_mentions":5,"primary":[],"secondary":[{"path":"X\\X79\\X79n1559.xml","mentions":2,"title":"Jiatai Universal Lamp Record","title_zh":"嘉泰普燈錄","snippet":"年五月旦，誡其徒曰：世緣易染，道業難辦，汝等勉之。 語卒而逝。 長蘆淨照崇信禪師法嗣長蘆淨照崇信禪師法嗣 東京慧林慈受懷深禪師東京慧林慈受懷深禪師壽春六安人..."},{"path":"X\\X79\\X79n1558.xml","mentions":2,"title":"General Table of Contents of the Jiatai Universal Lamp Record","title_zh":"嘉泰普燈錄總目錄","snippet":"...州投子證悟脩顒禪師語見續燈 常州無錫南禪寧禪師 揚州石塔慧禪師語見續燈 真州長蘆淨照崇信禪師語見續燈 紹興府石佛密印曉通禪師 平江府萬壽圓禪師語見續燈 福州地藏守恩禪師..."},{"path":"T\\T51\\T51n2077.xml","mentions":1,"title":"Continued Record of the Transmission of the Lamp","title_zh":"續傳燈錄","snippet":"...葛藤露布。與 諸人共相解摘看。驀拈拄杖擊香臺曰。參堂 去。 長蘆崇信禪師真州長蘆淨照崇信禪師。廬州人姓高氏。十 三依本州承天僧用成為師。二十受具。南遊 造杭州淨慈圓照禪..."}]}
+{
+  "master": "Jingzhao Chongxin",
+  "primary_count": 0,
+  "secondary_count": 226,
+  "total_mentions": 621,
+  "primary": [],
+  "secondary": [
+    {
+      "path": "B\\B24\\B24n0137.xml",
+      "mentions": 51,
+      "title": "Register of Correct Names",
+      "title_zh": "正名錄",
+      "snippet": "...道場．或分枝化導。時太 常協律符載著文頌德焉。世號天皇門風也。又唐澧州龍潭禪院釋崇信．未詳氏族。信在俗為渚宮胡餅 師之子。弱齡宛異．神府寬然。昔天皇寺悟禪師．隱耀藏..."
+    },
+    {
+      "path": "B\\B31\\B31n0170.xml",
+      "mentions": 29,
+      "title": "General History of Korean Buddhism",
+      "title_zh": "朝鮮佛教通史",
+      "snippet": "...帝因紀元 【道顯】〔本朝高僧傳〕 釋道顯。高麗人。蠹巢竺墳。漁獵魯誥。聞日本君臣崇信佛法。附 貢船而來。敕住大安寺。教授之暇。撰日本世記若干卷。天智元年（高句麗末年..."
+    },
+    {
+      "path": "ZS\\ZS01\\ZS01n0001.xml",
+      "mentions": 25,
+      "title": "Classified Compilation of Buddhist Materials from Official Histories",
+      "title_zh": "正史佛教資料類編",
+      "snippet": "皇太后幸伊闕石窟寺（424） 明帝奉南石窟寺（425） 拓跋愉崇信佛道（425） 靈太后曾幸邙山集僧尼齋會（425） 周武帝集百僚及沙門道士親講《..."
+    },
+    {
+      "path": "B\\B15\\B15n0088.xml",
+      "mentions": 25,
+      "title": "Selected Extracts from the Complete Collection of Illustrations and Writings from Antiquity to the Present (Part 1)",
+      "title_zh": "古今圖書集成選輯（上）",
+      "snippet": "...無遮大會因捨身公卿以下以錢一 億萬奉贖冬十月己酉輿駕還宮大赦改元 按魏書蕭衍傳衍崇信佛道於建業起同泰寺又於 故宅立光宅寺於鍾山立大愛敬寺兼營長干二寺 皆窮工極巧殫竭..."
+    },
+    {
+      "path": "B\\B16\\B16n0088.xml",
+      "mentions": 18,
+      "title": "Selected Extracts from the Complete Collection of Illustrations and Writings from Antiquity to the Present (Part 2)",
+      "title_zh": "古今圖書集成選輯（下）",
+      "snippet": "...通 六經及三藏律行清謹能匡振佛法姚萇姚興早挹 風名素所知重及僭有關中深相頂敬興既崇信三 寶盛弘大化建會設齋煙蓋重疊使夫慕道捨俗者 十室其半自童壽入關遠僧復集僧尼既多..."
+    },
+    {
+      "path": "J\\J29\\J29nB230.xml",
+      "mentions": 12,
+      "title": "Six-Session Record of Monk Shuijianhai of Tianwang",
+      "title_zh": "天王水鑑海和尚六會錄",
+      "snippet": "...來，復汝何咎？』福聞之，頓領玄旨，因投出家。 悟曰：『汝昔從福善，今信吾言，可名崇信。』後嗣法住龍 潭，高風遠振，遂出雲門、法眼二宗。」師曰：「茲者山僧親 履其地，..."
+    },
+    {
+      "path": "X\\X85\\X85n1594.xml",
+      "mentions": 12,
+      "title": "Outline of Buddhas and Patriarchs",
+      "title_zh": "佛祖綱目",
+      "snippet": "...，言下大悟，授記。返荊門，節使以天王 嗔責，造天王寺於府西供師。弟子一人：龍潭、崇信。 荊南節度使丘玄素撰\uDB8E\uDF34。據此，則龍潭嗣天王，天 王嗣馬祖無疑。傳燈乃誤列於石..."
+    },
+    {
+      "path": "X\\X88\\X88n1661.xml",
+      "mentions": 11,
+      "title": "(Complete Collection of Ancient and Modern Books) Spirits & Portents: Buddhist Section—Records of Events",
+      "title_zh": "(古今圖書集成)神異典釋教部紀事",
+      "snippet": "...，復徵眾為領軍，不起，服 闋乃就。是時充與武陵王不平，眾會通其間，遂得和 釋。充崇信佛教，眾議其糜費，每以為言。甞與充同載 經佛寺，充要眾入門，眾不下車。充以眾州里..."
+    },
+    {
+      "path": "T\\T50\\T50n2060.xml",
+      "mentions": 10,
+      "title": "Continued Biographies of Eminent Monks",
+      "title_zh": "續高僧傳",
+      "snippet": "見於天際。 又西南行具經諸國。並有異迹。可五千里 至憍薩國。即南印度之正境也。崇信佛法 僧徒萬許。其土寬廣林野相次。王都西南三 百餘里有黑蜂山。昔古大王為龍猛菩薩..."
+    },
+    {
+      "path": "T\\T53\\T53n2122.xml",
+      "mentions": 9,
+      "title": "Pearl Grove of the Dharma Garden",
+      "title_zh": "法苑珠林",
+      "snippet": "...望也。宜割始豐縣調以 充眾費。蠲兩戶民用供薪水。天台山縣名 為安樂。令陳郡袁子雄崇信正法。每夏常講 淨名。忽見三道寶階從空而降。有數十梵僧 乘階而下。入堂禮拜手擎香..."
+    },
+    {
+      "path": "B\\B11\\B11n0076.xml",
+      "mentions": 9,
+      "title": "History of Buddhism in India",
+      "title_zh": "印度佛教史",
+      "snippet": "...普王時代 一 末田提迦 此後，阿闍世王之子蘇婆普王（賢手），承繼大位，約十七年，崇信佛教。彼時，聖商那和修， 亦於教法，少事守護，而主要者，則為聖末田提迦，居於波羅..."
+    },
+    {
+      "path": "Y\\Y22\\Y22n0022.xml",
+      "mentions": 8,
+      "title": "Studies in Buddhist History and Geography",
+      "title_zh": "佛教史地考論",
+      "snippet": "...一，道一下分二支：一為百丈懷海流而為 溈仰、臨濟，已如上述。一為天皇道悟，經龍潭崇信、德山宣鑑而至雪峰義存， 居閩川（卒於九〇八）。文偃禪師得法於義存，南居龍州雲門..."
+    },
+    {
+      "path": "B\\B31\\B31n0169.xml",
+      "mentions": 8,
+      "title": "Historical Materials on Korean Temples and Monasteries",
+      "title_zh": "朝鮮寺剎史料",
+      "snippet": "...所加恩陽山楊根舍那是寺浮圖之傍所立是已作石塔以藏之 者迷源小雪也穡竊伏惟念 先王崇信釋教可謂極矣而讒說行乎其間太古扶持宗教亦可謂至矣 而患難及于其躬此所以因緣果報雖..."
+    },
+    {
+      "path": "B\\B13\\B13n0079.xml",
+      "mentions": 8,
+      "title": "Six Tablets of the Śākya Clan (Buddhist Encyclopedia)",
+      "title_zh": "釋氏六帖",
+      "snippet": "晉陽太守阮偘右五賢皆立寺造像歸命釋門弘護無退晉輔國將軍何無忌崇信克終造祇園寺符璽郎李通守法一心彭城王欣至信純厚"
+    },
+    {
+      "path": "T\\T49\\T49n2037.xml",
+      "mentions": 7,
+      "title": "Brief Investigation of Antiquity of the Shakya Lineage",
+      "title_zh": "釋氏稽古略",
+      "snippet": "...與。若是編之所記。往往皆英偉魁傑之才。 自重不屈。卓然有立。而使王公卿大夫向慕 崇信奔走之不暇。則其扶植之功為何如。此 師所以加之纂述表而出之之意也。傳之言 曰。道..."
+    },
+    {
+      "path": "J\\J29\\J29nB231.xml",
+      "mentions": 7,
+      "title": "Five-Session Record of Monk Shuijianhai of Tianwang",
+      "title_zh": "天王水鑑海和尚五會錄",
+      "snippet": "...來，復汝何咎？』福聞之，頓領玄旨，因投出家。 悟曰：『汝昔崇福善，今信吾言，可名崇信。』後得法，住龍 潭，高風遠振，乃出雲門、法眼兩宗。」師曰：「茲者山僧親 履其地..."
+    },
+    {
+      "path": "Y\\Y40\\Y40n0038.xml",
+      "mentions": 7,
+      "title": "History of Chinese Chan",
+      "title_zh": "中國禪宗史",
+      "snippet": "...造寺也」。鑒真和上在天寶九年（七五 〇），經過韶州，證實了法泉寺與唐室有關。則天崇信佛道，中宗、睿宗，都仰體母后的德意， 而信佛護法。賜額「法泉寺」，即使則天已經去..."
+    },
+    {
+      "path": "GA\\GA010\\GA010n0009.xml",
+      "mentions": 6,
+      "title": "New Gazetteer of Putuo Luojia",
+      "title_zh": "普陀洛迦新志",
+      "snippet": "...華南巡，遣使頒帑金千兩，特命重修。維時總戎黃公大來，繼以 藍公理，皆能奉上德意，崇信興創。遠近縉紳士民亦各視其力來助。而潮音禪師 宏闡宗風，仔肩厥事。於是殿堂樓閣，..."
+    },
+    {
+      "path": "X\\X77\\X77n1522.xml",
+      "mentions": 6,
+      "title": "Newly Compiled Classified Biographies of Monks of the Six Studies",
+      "title_zh": "新修科分六學僧傳",
+      "snippet": "...慧涉 唐無業 唐天然 唐如會 唐道樹 唐大毓 唐道行 唐曇藏 唐惟儼 唐寧賁 唐崇信 唐曇晟 唐甄公 唐靈彖 唐元觀 唐惟則 唐無等 唐明覺 唐圓脩 唐普願 唐智藏..."
+    },
+    {
+      "path": "T\\T52\\T52n2103.xml",
+      "mentions": 6,
+      "title": "Expanded Collection for the Promotion of Brightness",
+      "title_zh": "廣弘明集",
+      "snippet": "...安能濟物。聚合兇徒易衣削髮。設言虛詐不 足承稟。九十六道此道最貪。叶彼淫愚眾多 崇信。至如瑠璃誅釋。瞿曇路左視之。在生親 尚不存。既歿疎何能救。斯即不行忠孝。若天 ..."
+    },
+    {
+      "path": "Y\\Y33\\Y33n0031.xml",
+      "mentions": 5,
+      "title": "Buddhism in India",
+      "title_zh": "印度之佛教",
+      "snippet": "...佛教，可曰「聲聞為本之解脫同歸」。 釋尊入滅已，下迄佛元四百年，佛教以孔雀王朝之崇信，漸自恆河流域而分 化各方。東之大眾系，自毘舍離而央掘多羅、烏荼而遠化南印，後又..."
+    },
+    {
+      "path": "X\\X79\\X79n1557.xml",
+      "mentions": 5,
+      "title": "Essential Compendium of the United Lamp",
+      "title_zh": "聯燈會要",
+      "snippet": "潭州招提慧朗禪師 丁行者 青原下第四世 前荊州天皇道悟禪師法嗣一人 澧州龍潭崇信禪師 前澧州藥山惟儼禪師法嗣六人 澄州道吾宗智禪師 潭州雲巖曇晟禪師 秀州舡子德..."
+    },
+    {
+      "path": "T\\T51\\T51n2076.xml",
+      "mentions": 5,
+      "title": "Jingde Record of the Transmission of the Lamp",
+      "title_zh": "景德傳燈錄",
+      "snippet": "...聖子。年二十二出家。 三十遇摩拏羅尊者付法眼藏。行化至中印 度。彼國王名無畏海。崇信佛道。尊者為說正 法。次王忽見二人緋素服拜尊者。王問曰。此 何人也。師曰。此是日..."
+    },
+    {
+      "path": "B\\B34\\B34n0193.xml",
+      "mentions": 5,
+      "title": "Dharma Vehicle of the Wu Capital",
+      "title_zh": "吳都法乘",
+      "snippet": "...初藏 未受具戒遇誌於定林上寺遂推令居前垂示崇敬之迹識知 德望有歸告之先見矣時梁武崇信釋門宮闕恣其遊踐主者 以負扆南面域中一人議以御座之法唯天子所昇沙門一不 霑預藏聞..."
+    },
+    {
+      "path": "B\\B17\\B17n0094.xml",
+      "mentions": 5,
+      "title": "Selections from Cefu Yuangui (Outstanding Models from the Treasury of Books)",
+      "title_zh": "冊府元龜選輯",
+      "snippet": "...曰大道之行同合於異相王者至理總歸於 正法方化成之齊致何儒釋之殊塗故前代帝王罔 不崇信法教弘闡與時偕行特進試鴻臚卿大興善 寺三藏沙門大廣智不空我之宗師人之舟楫超詣 三..."
+    },
+    {
+      "path": "B\\B13\\B13n0080.xml",
+      "mentions": 5,
+      "title": "Great Tang Records on the Western Regions (Collated Punctuated Edition)",
+      "title_zh": "大唐西域記（校點本）",
+      "snippet": "...訖利多種屢以僧徒覆宗滅祀，世積其怨，嫉惡 佛法。歲月既遠，復自稱王。故今此國不甚崇信，外道天祠，特留意焉。 佛牙伽藍 新城東南十餘里，故城北，大山陽，有僧伽藍，僧徒..."
+    },
+    {
+      "path": "X\\X64\\X64n1276.xml",
+      "mentions": 5,
+      "title": "Record of the Chan Gate’s Treasure Store",
+      "title_zh": "禪門寶藏錄",
+      "snippet": "...對 辨門；毀謗者，諸講也，故中之卷立諸講歸伏門；流通 者，君臣也，故下之卷立君臣崇信門。此三門所引，皆 古重言也，非臆說也。非臆說，則人信之者儻有焉，目 之為禪門寶..."
+    },
+    {
+      "path": "X\\X76\\X76n1516.xml",
+      "mentions": 5,
+      "title": "Comprehensive Mirror of the Shakya Clan",
+      "title_zh": "釋氏通鑑",
+      "snippet": "甲子 佛䭾什於揚州譯五分律三十四卷。○魏太武 初即位，亦遵太祖太宗崇信之業，每引高德沙門，與 共談論，輿奉佛像，散華致敬。○凉曇無讖譯金光 明經四卷。..."
+    },
+    {
+      "path": "Y\\Y19\\Y19n0019.xml",
+      "mentions": 4,
+      "title": "My View of Religion",
+      "title_zh": "我之宗教觀",
+      "snippet": "...督教等稱之為罪惡。而自己希望開展的光明面，也明確地表達出來。高尚宗教 所歸依、所崇信的對象，不外是「永恆的存在」，「完滿的福樂」，「絕對的自 由」，「無瑕疵的純潔」..."
+    },
+    {
+      "path": "TX\\TX17\\TX17n0009.xml",
+      "mentions": 4,
+      "title": "Complete Works of Master Taixu: Part Nine – Institutional Proposals",
+      "title_zh": "太虛大師全書．第九編\u3000制議",
+      "snippet": "...時大乘佛教的教理，已成了 很精深而嚴密；同時在通俗教化上，已能普遍於民間，而一般崇信的人們，由崇信而 要求實行。佛法既然普遍民眾，又重於實踐修持的要求，於是就有龍智..."
+    },
+    {
+      "path": "J\\J36\\J36nB369.xml",
+      "mentions": 4,
+      "title": "Recorded Sayings of Chan Master Zhe’an Fan",
+      "title_zh": "蔗菴範禪師語錄",
+      "snippet": "...出無難，雲嵒固是大人作略。若 要高名導世，清白傳家，須是洞山始得。」 舉：「龍潭崇信禪師家為餅舖，日以十餅饋天皇，皇每 受畢，留一餅返之，曰：『吾惠汝以蔭子孫。』師..."
+    },
+    {
+      "path": "J\\J35\\J35nB325.xml",
+      "mentions": 4,
+      "title": "Resolving Doubts",
+      "title_zh": "解惑篇",
+      "snippet": "...為難得，因與 往來。及祭神至海上，遂造其廬，及來袁州，留衣與之別，乃 人之情，非崇信其法，求福田利益也。」噫！韓子雖強為之言， 務欲自掩，豈覺其言愈多，而其跡愈見？..."
+    },
+    {
+      "path": "J\\J33\\J33nB294.xml",
+      "mentions": 4,
+      "title": "Recorded Sayings of Chan Master Liangting Ting of Yunxi",
+      "title_zh": "雲溪俍亭挺禪師語錄",
+      "snippet": "...及兒孫，留下雲門、法眼兩宗，祗明得個回互法 門，到底石頭路滑，幾般瞎漢硬將他龍潭崇信割去 青原，扯入南嶽。須知江西、湖南摠只一宗，在彼在此 何勞分別？雪峰老漢嘗云：..."
+    },
+    {
+      "path": "GA\\GA079\\GA079n0081.xml",
+      "mentions": 4,
+      "title": "Gazetteer of Qingliang Mountain",
+      "title_zh": "清涼山志",
+      "snippet": "...，命主蒙古多倫泊彙宗寺。章嘉博貫宗教，梵行精純，諦義圓妙。西藏、蒙古諸王， 尤相崇信，多所歸依。世宗在藩邸時，傾心仰慕，歎為「真再來人，古今希有」。及總萬機， 為造..."
+    },
+    {
+      "path": "X\\X83\\X83n1578.xml",
+      "mentions": 4,
+      "title": "Record Pointing at the Moon",
+      "title_zh": "指月錄",
+      "snippet": "...仙天禪師 漳州三平義忠禪師 馬頰山本空禪師 本生禪師 潭州石室善道禪師 澧州龍潭崇信禪師 卷之十三 六祖下第五世 睦州陳尊宿 福州烏石靈觀禪師 益州大隨法真禪師"
+    },
+    {
+      "path": "X\\X81\\X81n1571.xml",
+      "mentions": 4,
+      "title": "Complete Five Lamps (Vols. 1–33)",
+      "title_zh": "五燈全書(第1卷-第33卷)",
+      "snippet": "...聖子。年二十二出家，三十遇摩拏羅尊者，付 法眼藏，行化至中印度。彼國王名無畏海，崇信佛道。 祖為說正法次，王忽見二人緋素服拜祖。王問曰：此 何人也？祖曰：此是日月天..."
+    },
+    {
+      "path": "X\\X80\\X80n1568.xml",
+      "mentions": 4,
+      "title": "Strict Lineage of the Five Lamps (Vols. 1–9)",
+      "title_zh": "五燈嚴統(第1卷-第9卷)",
+      "snippet": "...子。年二十二出家， 三十遇摩拏羅尊者，付法眼藏，行化至中印度。彼國 王名無畏海，崇信佛道。祖為說正法次，王忽見二人 緋素服拜祖，王問曰：此何人也？祖曰：此是日月天子..."
+    },
+    {
+      "path": "X\\X76\\X76n1517.xml",
+      "mentions": 4,
+      "title": "Reference Mirror of the Shakya Clan Through the Dynasties",
+      "title_zh": "歷朝釋氏資鑑",
+      "snippet": "...特 異恒倫。豈以別室見譏，頓忘玄教，殊不足沙言耳。 秦弘始十一年，主上自什入闕，崇信三寶，盛弘大化。 建會設齋，捨俗者十室其半。遠近僧尼，會集既多，或 有愆漏。興曰..."
+    },
+    {
+      "path": "T\\T51\\T51n2087.xml",
+      "mentions": 4,
+      "title": "Great Tang Record of the Western Regions",
+      "title_zh": "大唐西域記",
+      "snippet": "世積其怨，嫉惡佛法。歲月既 遠，復自稱王。故今此國不甚崇信，外道天 祠，特留意焉。新城東南十餘里，故城北，大山 陽，有僧伽藍，僧徒三百餘人..."
+    },
+    {
+      "path": "X\\X88\\X88n1649.xml",
+      "mentions": 3,
+      "title": "Record of Dharma Joy of Notable Gentlemen",
+      "title_zh": "名公法喜志",
+      "snippet": "...。甞著逍遙論，註禮中庸篇。永初嘉中， 累徵不就。 謝慶緒 謝敷，字慶緒，會稽人。崇信釋氏。初入太平山中十餘 年，以長齋供佛為業，招引同事，化導不倦。以母老，還 南山..."
+    },
+    {
+      "path": "X\\X87\\X87n1622.xml",
+      "mentions": 3,
+      "title": "Study of Korean Chan and Teachings",
+      "title_zh": "朝鮮禪教考",
+      "snippet": "...始剏肖門寺以置順道，又創 伊弗蘭寺以置阿道。○後十八年，至故國壤 王末年，又下教崇信佛法。○後二年癸巳， 廣開土王，創九寺於平壤。○案小 獸林王時，燕主慕容暐降于苻..."
+    },
+    {
+      "path": "TX\\TX30\\TX30n0019.xml",
+      "mentions": 3,
+      "title": "Complete Works of Master Taixu: Part Nineteen – Collected Writings (Vols. 21–136)",
+      "title_zh": "太虛大師全書．第十九編\u3000文叢(第21卷-第136卷)",
+      "snippet": "...通，還以其眾王滇。其阿育王三子，並神明四舅甥之遺眾，與蹻兵諸 夷雜處。蹻為滇王，崇信佛教，不忍殺生，遷居白崖、鶴拓、浪穹。後眾推仁果者張 姓新君之王滇，蹻傳世卒矣。..."
+    },
+    {
+      "path": "TX\\TX28\\TX28n0018.xml",
+      "mentions": 3,
+      "title": "Complete Works of Master Taixu: Part Eighteen – Lectures (Vols. 60–180)",
+      "title_zh": "太虛大師全書．第十八編\u3000講演(第60卷-第180卷)",
+      "snippet": "...這完全是以他的真理和大悲方便的精神，感動了許多人來認識 信仰。於是佈施供養，而有崇信三寶的寺院存在於世。凡佛教寺產，皆是教徒所公有 的，所以佛教因此大昌。可是、後來..."
+    },
+    {
+      "path": "TX\\TX01\\TX01n0001.xml",
+      "mentions": 3,
+      "title": "Complete Works of Master Taixu: Part One – Comprehensive Study of Buddhism (Vols. 1–26)",
+      "title_zh": "太虛大師全書．第一編\u3000佛法總學(第1卷-第26卷)",
+      "snippet": "...社會國家負責任的人皆不宜接近，尤 其不必去研究；但為一班退休的老年人及無知婦女的崇信物。因此，乃欲舉佛教而摧 毀消滅之。其實，這也非佛教的本質。佛教教理上所謂五乘—..."
+    },
+    {
+      "path": "T\\T49\\T49n2035.xml",
+      "mentions": 3,
+      "title": "Comprehensive Chronicle of Buddhas and Patriarchs",
+      "title_zh": "佛祖統紀",
+      "snippet": "...相貌。一一分別更無錯繆。於是舉國咸 皆信服。有長者子名闍夜多。來問師曰。我 父母崇信而縈疾失意。隣家屠殺而身健和 合。彼何幸而我何辜。師曰。以造業有先後 故論報有不..."
+    },
+    {
+      "path": "LC\\LC01\\LC01n0001.xml",
+      "mentions": 3,
+      "title": "Brief Lectures on the Origins and Development of Indian Buddhism",
+      "title_zh": "印度佛學源流略講",
+      "snippet": "...度和英國的博物館。此塔圖樣猶存。我們從這個塔上刻有各部的名字，可以 看出它們都是崇信制多的。另外，除此大塔外，各地（制多活動地區）也還有幾個與 此類似的大塔，不過結..."
+    },
+    {
+      "path": "J\\J38\\J38nB425.xml",
+      "mentions": 3,
+      "title": "Complete Record of Chan Master Jifei",
+      "title_zh": "即非禪師全錄",
+      "snippet": "... 薦男。師云：「兵部太輔源長安居士，天性良實，精練家 法。退公之暇，遵父祖庭訓，崇信三寶，以筆墨為佛事， 日書普門品一卷，兼以禪宴為程課，如此五十年若 一日耳。今春..."
+    },
+    {
+      "path": "GA\\GA026\\GA026n0024.xml",
+      "mentions": 3,
+      "title": "Gazetteer of Shangtianzhu Lecture Monastery, Hangzhou",
+      "title_zh": "杭州上天竺講寺志",
+      "snippet": "...現呈祥，二奇也。聖像既成，妙貌端嚴，白光煥發，夜亡列燭之光，晝掩太陽之影， 人民崇信，三奇也。後漢乾祐中，僧從勳自洛陽來，持古佛舍利一顆，曰：「吾寶之久矣，今願置菩..."
+    },
+    {
+      "path": "B\\B27\\B27n0151.xml",
+      "mentions": 3,
+      "title": "New Continued Biographies of Eminent Monks",
+      "title_zh": "新續高僧傳",
+      "snippet": "...普慧廣慈之號命 主蒙古多倫泊彙宗寺克圖博貫宗教梵行精純謕誼圓玅西 藏蒙古諸王尤相崇信多所歸依世宗在藩邸時傾心仰慕及 總萬機廣搜禪集取其語列入御選歎為真再來人古今希有..."
+    },
+    {
+      "path": "B\\B24\\B24n0140.xml",
+      "mentions": 3,
+      "title": "Gazetteer of Xuefeng",
+      "title_zh": "雪峰志",
+      "snippet": "青原行思 石頭希遷 天皇道悟 龍潭崇信 德山宣鑒 雪峰義存 雲門文偃（分派）"
+    },
+    {
+      "path": "X\\X80\\X80n1565.xml",
+      "mentions": 3,
+      "title": "Five Lamps Compendium",
+      "title_zh": "五燈會元",
+      "snippet": "...子。年二十二出家。 三十遇摩拏羅尊者。付法眼藏。行化至中印度。彼國 王名無畏海。崇信佛道。祖為說正法次。王忽見二人 緋素服拜祖。王問曰。此何人也。祖曰。此是日月天子..."
+    },
+    {
+      "path": "X\\X64\\X64n1261.xml",
+      "mentions": 3,
+      "title": "Matters and Sources of the Patriarchal Courtyard",
+      "title_zh": "祖庭事苑",
+      "snippet": "...寺慧雲法師 每嗟其早就，為之顏回。陵官至光祿大夫．太子少 傅，年七十七卒。陵少而崇信釋教，經論多所釋解。 陳後主在東宮，令陵講大品經，義學名僧，自遠雲 集，每講筵商..."
+    },
+    {
+      "path": "X\\X87\\X87n1635.xml",
+      "mentions": 3,
+      "title": "Record of Efficacy from Upholding the Diamond Sutra",
+      "title_zh": "金剛經持驗記",
+      "snippet": "紀事先善男子、善女人，次比丘、比丘尼，往刻多廣 列緇屬。空門弟子，崇信佛典，分固應爾。唯俗家學 道，真如青蓮出污泥而不染，尤嘆希有，故集中編 次為詳。"
+    },
+    {
+      "path": "X\\X77\\X77n1521.xml",
+      "mentions": 3,
+      "title": "(Complete Collection of Ancient and Modern Books) Buddhist Section: Collected Studies",
+      "title_zh": "(古今圖書集成)釋教部彙考",
+      "snippet": "...身，公卿以下以 錢一億萬奉贖。冬十月己酉，輿駕還宮，大赦改元。 按魏書蕭衍傳：衍崇信佛道，於建業起同泰寺，又於 故宅立光宅寺，於鍾山立大愛敬寺，兼營長干二寺， 皆窮..."
+    },
+    {
+      "path": "T\\T52\\T52n2108.xml",
+      "mentions": 3,
+      "title": "Collected Matters on Why Monastics Should Not Bow to Laypeople, etc.",
+      "title_zh": "集沙門不應拜俗等事",
+      "snippet": "...時軍國謀猷佛教。無 聞信毀。 晉司馬氏東西立政。一十二主一百五十六 年。中朝四帝崇信之極。不聞異議。唯東晉成 帝。咸康六年。丞相王導太尉庾亮薨。後庾氷 輔政帝在幼沖..."
+    },
+    {
+      "path": "T\\T50\\T50n2061.xml",
+      "mentions": 3,
+      "title": "Song Dynasty Biographies of Eminent Monks",
+      "title_zh": "宋高僧傳",
+      "snippet": "...場，或分枝化導。時太 常協律符載著文頌德焉。世號天皇門風 也。又唐澧州龍潭禪院釋崇信，未詳氏族。 信在俗為渚宮胡餅師之子，弱齡宛異，神府 寬然。昔天皇寺悟禪師隱耀藏..."
+    },
+    {
+      "path": "T\\T50\\T50n2059.xml",
+      "mentions": 3,
+      "title": "Biographies of Eminent Monks",
+      "title_zh": "高僧傳",
+      "snippet": "...行清謹，能 匡振佛法。姚萇、姚興早挹風名，素所知重， 及僭有關中，深相頂敬。興既崇信三寶， 盛弘大化，建會設齋，烟蓋重疊，使夫慕道 捨俗者，十室其半。自童壽入關，遠..."
+    },
+    {
+      "path": "Y\\Y26\\Y26n0026.xml",
+      "mentions": 2,
+      "title": "Flower Rain Collection (II)",
+      "title_zh": "華雨集（二）",
+      "snippet": "...達，是有重要影響力的。不過，佛像的出現發 達，在一般信眾心目中，似乎更類似神像的崇信了。另一方面，「大乘佛法」的 瑜伽行者，念佛見佛，念佛（進而念菩薩、念天）三昧更..."
+    },
+    {
+      "path": "X\\X86\\X86n1603.xml",
+      "mentions": 2,
+      "title": "Genealogy of the Monastic Gate",
+      "title_zh": "緇門世譜",
+      "snippet": "...禪師，晟下出洞山良价禪師，价下出曹山本 寂禪師，由是遂創立曹洞一宗。天皇下出龍潭崇信 禪師，信下出德山宣鑒禪師，鑒下出雪峯義存禪師， 存下復出二枝，其一曰玄沙師備禪..."
+    },
+    {
+      "path": "X\\X79\\X79n1563.xml",
+      "mentions": 2,
+      "title": "Great Treasury of Light",
+      "title_zh": "大光明藏",
+      "snippet": "...天皇道悟禪師 鄧州丹霞天然禪師 澧州藥山惟儼禪師 荊州天皇道悟禪師嗣法 澧州龍潭崇信禪師 澧州藥山惟儼禪師嗣法 華亭舡子德誠禪師 鄂州百顏明哲禪師 華亭舡子德誠禪師..."
+    },
+    {
+      "path": "X\\X79\\X79n1558.xml",
+      "mentions": 2,
+      "title": "General Table of Contents of the Jiatai Universal Lamp Record",
+      "title_zh": "嘉泰普燈錄總目錄",
+      "snippet": "...法真守一禪師 舒州投子證悟脩顒禪師 常州無錫南禪寧禪師 揚州石塔慧禪師 真州長蘆淨照崇信禪師 紹興府石佛密印曉通禪師 平江府萬壽圓禪師 福州地藏守恩禪師 筠州壽聖省聦禪..."
+    },
+    {
+      "path": "X\\X78\\X78n1556.xml",
+      "mentions": 2,
+      "title": "Jianzhong Jingguo Continued Lamp Record",
+      "title_zh": "建中靖國續燈錄",
+      "snippet": "喪我兒孫。百丈曰：如是，如是。後師資機感非一，住黃 蘗山，傳正法眼。 澧州龍潭崇信禪師一日，問天皇和尚曰：弟子久事 於師，未蒙指示。天皇曰：每日無不指示。師曰：什..."
+    },
+    {
+      "path": "X\\X78\\X78n1555.xml",
+      "mentions": 2,
+      "title": "Table of Contents of the Jianzhong Jingguo Continued Lamp Record",
+      "title_zh": "建中靖國續燈錄目錄",
+      "snippet": "...石頭希遷禪師 洪州百丈懷海大智禪師 澧州天皇道悟禪師 筠州黃蘗希運禪師 澧州龍潭崇信禪師 鎮州臨濟義玄禪師 鼎州德山宣鑑禪師 魏府興化存獎禪師 福州雪峰義存禪師 汝..."
+    },
+    {
+      "path": "X\\X72\\X72n1437.xml",
+      "mentions": 2,
+      "title": "Expanded Record of Chan Master Yongjue Yuanxian",
+      "title_zh": "永覺元賢禪師廣錄",
+      "snippet": "...持來，復汝何咎？ 信聞之，頗曉玄旨，因投出家。皇曰：汝昔崇福善，今信 吾言，可名崇信。由是服勤左右。據此，則知龍潭信所 嗣者，天皇悟，非天王悟，其證二也。又信一日問..."
+    },
+    {
+      "path": "TX\\TX18\\TX18n0010.xml",
+      "mentions": 2,
+      "title": "Complete Works of Master Taixu: Part Ten – Study and Practice",
+      "title_zh": "太虛大師全書．第十編\u3000學行",
+      "snippet": "...必需之佛法。復次、在以前中國之知識界，皆讀孔、 孟之書，而無知識的愚夫愚婦等，則崇信神道；佛教於此，亦分兩種施設：在知識 界方面，施與簡捷超妙的禪宗；其不讀書之多數..."
+    },
+    {
+      "path": "T\\T51\\T51n2078.xml",
+      "mentions": 2,
+      "title": "Record of the Orthodox Lineage of Dharma Transmission",
+      "title_zh": "傳法正宗記",
+      "snippet": "...宣州刺史陸亘 者。 大鑒之四世。曰荊州天皇道悟禪師。其所出 法嗣一人。曰澧州龍潭崇信者。 大鑒之五世。曰澧州龍潭崇信禪師。其所出 法嗣二人。一曰德山宣鑒者。一曰泐潭..."
+    },
+    {
+      "path": "J\\J39\\J39nB454.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Pinjixiang",
+      "title_zh": "頻吉祥禪師語錄",
+      "snippet": "...生花；現成句不用拈提，真實處的宜道取。」 上堂。舉：「龍潭信參天皇悟禪師，曰：『崇信自到來，不蒙 指示心要。』皇曰：『自汝到來，吾未嘗不指汝心要。』信曰： 『何處是..."
+    },
+    {
+      "path": "J\\J34\\J34nB299.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Monk Sanfeng Zang",
+      "title_zh": "三峰藏和尚語錄",
+      "snippet": "...」 一人提起一人拋，冷煖人情閱轉勞，挂在樹頭無用 處，幾人知此古風高？ 澧州龍潭崇信禪師，天皇嗣。一日問皇曰：「某自 到來，不蒙指示心要。」皇曰：「自汝到來，吾未嘗..."
+    },
+    {
+      "path": "J\\J34\\J34nB298.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Shenfeng Xian",
+      "title_zh": "屾峰憲禪師語錄",
+      "snippet": "...佛身住。金相巍巍，奇 特尊宿。有因緣，時節至，時節若至，其理自彰。水月主 人自來崇信三寶，不假獎勸、不屬思議，一遇見聞便 發無上菩提心，莊嚴一切殊勝功德事。者尊古佛..."
+    },
+    {
+      "path": "J\\J33\\J33nB277.xml",
+      "mentions": 2,
+      "title": "Yunqi Dharma Compendium (Selections), Vols. 12–25",
+      "title_zh": "雲棲法彙（選錄）(第12卷-第25卷)",
+      "snippet": "...人無可與語， 僧大顛頗聰明，識道理，故與之遊。其歸也，留衣服為 別。此人之情，非崇信其道，求福田利益也。觀此，則悍 然不信如故，安在其悟入也？雖然，若據示現影響，逆..."
+    },
+    {
+      "path": "J\\J29\\J29nB224.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Yezhu of Mount Song",
+      "title_zh": "嵩山野竹禪師語錄",
+      "snippet": "...佛照 二字字之。如知佛照之義，則玅道於斯悟矣。噫！只恐 不是玉，是玉也大奇。 示崇信趙居士 道在邇而求諸遠，日從東嶺出；事在易而求諸難，月 向咸池沒。嗟嗟！孰能於萬..."
+    },
+    {
+      "path": "J\\J21\\J21nB110.xml",
+      "mentions": 2,
+      "title": "Record of Protecting the Dharma",
+      "title_zh": "護法錄",
+      "snippet": "...。太史造銘，建于牛首。此山若移，斯文方朽。 時 上為吳國公甫定金陵，戎馬倥傯，乃崇信法 門，加禮于信公若此，此國初護法第一盛事，宜表 而出之。 天界善世禪寺第四代覺..."
+    },
+    {
+      "path": "GA\\GA011\\GA011n0010.xml",
+      "mentions": 2,
+      "title": "Gazetteer of Ayuwang Mountain, Mingzhou (Vols. 1–8)",
+      "title_zh": "明州阿育王山志(第1卷-第8卷)",
+      "snippet": "...冶寳成塔，植福\uD863\uDD92浮。夷考古今，的非偶然。若 夫\uD84C\uDE06、宋、梁、陳、唐及伍代帝王，崇信名賢，欽奉事跡 僃見於僧統贊寧所述敘傳。有宋累朝寵錫，載於 名臣蘇軾、樓鑰二記，..."
+    },
+    {
+      "path": "C\\C078\\C078n1720.xml",
+      "mentions": 2,
+      "title": "Chan School: Comprehensive Linked-Pearls Collection of Verse Commentaries on Old Cases",
+      "title_zh": "禪宗頌古聯珠通集",
+      "snippet": "...功德要圓 滿\uD84F\uDE2A去廚頭打破鍋行者失却眼南 泉破却鍋滿堂僧不厭一箇俗人多 澧州龍潭崇信禪師師未出家時為餅 鋪住在寺前每日常供餅十枚上天皇皇受 已却留一餅與之曰惠汝以蔭..."
+    },
+    {
+      "path": "B\\B33\\B33n0192.xml",
+      "mentions": 2,
+      "title": "Record of Exegetical Notes (Shiwén Jì)",
+      "title_zh": "釋文紀",
+      "snippet": "...漢垂法雲於大千如在之義重闡茲晨常住之明永 證來劫故以德冠百王聲高萬古弟子棲心法門崇信 大典舞蹈之誠獨深鳧藻王仲欣和南 建安王外兵叅軍沈績答 弟子績和南垂示勅答臣下神..."
+    },
+    {
+      "path": "B\\B32\\B32n0173.xml",
+      "mentions": 2,
+      "title": "Genkō Shakusho (Buddhist History of the Genkō Era)",
+      "title_zh": "元亨釋書",
+      "snippet": "...年奏於 東寺灌頂院修春秋結緣灌頂。初三年勑為東寺長者。 此任自慧始。弘仁天長二帝崇信過流軰。十四年十一月 十三日滅。年六十三。 釋明福。姓津氏。京兆人。師事賢憬法師..."
+    },
+    {
+      "path": "B\\B30\\B30n0163.xml",
+      "mentions": 2,
+      "title": "Revised Comprehensive Gazetteer of Caoxi",
+      "title_zh": "重修曹溪通志",
+      "snippet": "...三年方便說法東海彌離車地咸向三 寶而黃冠以侵占道院飛章誣奏有旨逮赴詔獄先 是慈聖崇信佛乘勑使四出中人讒搆動以煩費為 言上弗問也而其語頗聞於外廷所司遂以師為奇 貨欲因..."
+    },
+    {
+      "path": "B\\B29\\B29n0161.xml",
+      "mentions": 2,
+      "title": "Wulin Buddhist Gazetteer",
+      "title_zh": "武林梵志",
+      "snippet": "...刻畫觀音大士像後漢乾祐間有 僧從勳自洛陽持古佛舍利來置頂中妙相咸備晝 放白光士民崇信吳越主嘗夢白衣人求葺其居寤 而有感遂建天竺觀音看經院宋咸平中浙西久旱 郡守張去華..."
+    },
+    {
+      "path": "B\\B25\\B25n0144.xml",
+      "mentions": 2,
+      "title": "Zutang Ji (Anthology from the Patriarchs’ Hall)",
+      "title_zh": "祖堂集",
+      "snippet": "...便咄：「這多 口新戒，出去！」此是石室和尚也。 ○龍潭和尚嗣天皇，在澧朗州。師諱崇信，未詳姓 氏。在俗之時，世業作餅師，住在天皇巷陽。其天 皇和尚住寺內，獨居小院，..."
+    },
+    {
+      "path": "B\\B17\\B17n0089.xml",
+      "mentions": 2,
+      "title": "Selections from Taiping Guangji (Volumes 87–134)",
+      "title_zh": "太平廣記選輯（卷八十七～一三四）",
+      "snippet": "...妻及家人共起觀相。乃同所見無異。其背點朱。宛然補處。於是歎異。信知聖教不虛。遂加崇信 焉。 韋知十 唐右金吾衛曹京兆韋知十於永徽中煑一羊脚。半日猶生。知十怒。家人曰..."
+    },
+    {
+      "path": "Y\\Y43\\Y43n0041.xml",
+      "mentions": 2,
+      "title": "Yongguang Collection",
+      "title_zh": "永光集",
+      "snippet": "...秦，羅什這才被迎到長安， 那已是西元四〇一（弘始三年）十二月二十日。由於秦王姚興崇信三寶，禮遇羅 什，羅什這才大展弘才，譯出經律論約三百卷，使中國的佛法，進入更純正..."
+    },
+    {
+      "path": "Y\\Y37\\Y37n0035.xml",
+      "mentions": 2,
+      "title": "Origins and Development of Early Mahāyāna Buddhism",
+      "title_zh": "初期大乘佛教之起源與開展",
+      "snippet": "...。西域（《漢書》所謂北道）的阿耆尼、龜茲、跋祿迦、佉沙— —疏勒、烏鎩、朅盤陀，崇信說一切有部教法的，都由吐火羅（縛喝）一線而來。說一切有部的 西方師，還不能說是與..."
+    },
+    {
+      "path": "X\\X83\\X83n1572.xml",
+      "mentions": 2,
+      "title": "Table of Contents of the Continued Transmission of the Lamp Record",
+      "title_zh": "續傳燈錄目錄",
+      "snippet": "...巖禪師 隱靜守儼禪師 本覺守一禪師 甘露仲宣禪師 太平守恩禪師 靈耀\uD85E\uDDAC良禪師 長蘆崇信禪師 瑞光守琮禪師 水西山軻禪師 啟霞慧章禪師 石佛曉通禪師 南冥善通禪師 西湖..."
+    },
+    {
+      "path": "X\\X69\\X69n1335.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Great Adept Shanhui",
+      "title_zh": "善慧大士語錄",
+      "snippet": "...家敬奉，謂為神異。後淵 為尚書令，啟勅令法師於省中居住。時左僕射\uD84B\uDCB2揶 王儉，亦崇信佛法。及淵薨後，又啟法師依舊居省中。 至儉為丹陽尹，亦擕在郡廨，講通法華．大品，..."
+    },
+    {
+      "path": "X\\X66\\X66n1297.xml",
+      "mentions": 2,
+      "title": "Dharma Grove of the Tradition’s Mirror",
+      "title_zh": "宗鑑法林",
+      "snippet": "佛印了元 大鑒下十二世 蔣山法泉 佛日戒弼 慧林宗本 圓通法秀 大鑒下十三世 長蘆崇信 育王曇振 大鑒下十四世 東林慈受 智者法詮 大鑒下十五世 靈隱慧光 大鑒下十六"
+    },
+    {
+      "path": "X\\X66\\X66n1296.xml",
+      "mentions": 2,
+      "title": "Compilation of the School Gate’s “Raising Old Cases”",
+      "title_zh": "宗門拈古彙集",
+      "snippet": "船子德誠 \uDB8E\uDF30樹慧省 拍巖明哲 高沙彌 卷第十九 青三 龍潭崇信 翠微無學 孝義性空 僊天 三平義忠 本生 石室善道 南四 睦州"
+    },
+    {
+      "path": "X\\X65\\X65n1295.xml",
+      "mentions": 2,
+      "title": "Comprehensive Collection of Chan School Verse-on-Old-Cases Linked Pearls",
+      "title_zh": "禪宗頌古聯珠通集",
+      "snippet": "甘贄行者 六祖下第四世之四 龍潭崇信禪師道吾宗智禪師 雲巖曇晟禪師百巖明哲禪師 船子德誠禪師"
+    },
+    {
+      "path": "X\\X65\\X65n1279.xml",
+      "mentions": 2,
+      "title": "Origins of the Five Schools",
+      "title_zh": "五宗原",
+      "snippet": "...、六祖 傳來，一個鉢盂囫圇咬嚼不得。馬師之後，這箇眼目 淺草易為。長蘆天王惠餅、崇信檠茶，直下便見，擬思 即差。德山吹滅紙燭於龍潭，正是截流；雪峰胷襟流 出於巖頭，..."
+    },
+    {
+      "path": "X\\X64\\X64n1266.xml",
+      "mentions": 2,
+      "title": "Written Explanations of Precious Instructions of the Chan Grove",
+      "title_zh": "禪林寶訓筆說",
+      "snippet": "...華刑氏子，嗣黃 檗希運禪師。南嶽下四世。○鼎州德山宣鑑禪師。 簡州問氏子，嗣龍潭崇信禪師。青原下四世。△理 叢林者，守道藏德，乃公天下之大宗大本也。又能 選賢遠\uDB82\uDD87..."
+    },
+    {
+      "path": "X\\X64\\X64n1263.xml",
+      "mentions": 2,
+      "title": "Collected Commentary on Precious Instructions of the Chan Grove",
+      "title_zh": "禪林寶訓合註",
+      "snippet": "嗣黃檗希運禪師。南嶽下四世。 德山鼎州德山宣鑑禪師。簡州周氏子，嗣龍潭 崇信禪師，南嶽下四世也。 音首座曰：古之聖人，以無災為懼。乃曰：天豈弃不糓 乎？范文..."
+    },
+    {
+      "path": "X\\X87\\X87n1633.xml",
+      "mentions": 2,
+      "title": "New Strange Accounts of the Diamond Sutra",
+      "title_zh": "金剛經新異錄",
+      "snippet": "...宗道會元，宏道、中道進士。三人同胞，俱母 太夫人龔氏所生。袁世敬禮佛教，太夫人尤崇信金 剛經，雖貴年高，日誦有常課。一日，誦經將半，忽空梁 直墜黃絲，懸一巨蛛，下繞..."
+    },
+    {
+      "path": "X\\X85\\X85n1593.xml",
+      "mentions": 2,
+      "title": "Orthodox Line of the Chan School",
+      "title_zh": "禪宗正脉",
+      "snippet": "...奈學人疑滯何？師曰：何不問 老僧？曰：即今問了也。師曰：去！不是汝存泊處。 龍潭崇信禪師【頌】其家賣餅師少而英異，初悟和尚 為靈鑒潛請居天皇寺，人莫之測。師家于寺巷..."
+    },
+    {
+      "path": "X\\X75\\X75n1512.xml",
+      "mentions": 2,
+      "title": "Comprehensive Annals of Longxing",
+      "title_zh": "隆興編年通論",
+      "snippet": "...、庾亮之徒，戴逵、許詢之輩，置情天人 之際，抗迹煙霞之表，並稟教而歸依，皆厝心以崇信， 豈容尊妖奉魅，以自屈乎？良由覩妙知真，使之然耳。 又傅氏之先毅，字武仲，高才..."
+    },
+    {
+      "path": "TX\\TX14\\TX14n0007.xml",
+      "mentions": 2,
+      "title": "Complete Works of Master Taixu: Part Seven – Dharma Realm and Perfect Enlightenment Studies (Vols. 16–18)",
+      "title_zh": "太虛大師全書．第七編\u3000法界圓覺學(第16卷-第18卷)",
+      "snippet": "...成就；廣嚴城、為住處成就；至下與大苾芻眾等，為聽眾成就。佛經有此六 種成就，方可崇信。二、出親光佛地經論明五種證信，其言如是為指法之詞，乃通 指此經而言，如言如是之..."
+    },
+    {
+      "path": "TX\\TX02\\TX02n0001.xml",
+      "mentions": 2,
+      "title": "Complete Works of Master Taixu: Part One – Comprehensive Study of Buddhism (Vols. 27–34)",
+      "title_zh": "太虛大師全書．第一編\u3000佛法總學(第27卷-第34卷)",
+      "snippet": "...，混則知處」。後結 云：「潛行密用，如愚若魯，但能相續，名主中主」。 龍、即龍潭崇信禪師。他是荊州人，從天皇寺道悟禪師出家。好多年，道悟未向 他說法。一日、他問道悟..."
+    },
+    {
+      "path": "T\\T51\\T51n2082.xml",
+      "mentions": 2,
+      "title": "Record of Karmic Retribution in the Hidden Realm",
+      "title_zh": "冥報記",
+      "snippet": "落。至今見骨。 張亮為幽州都督府長吏。崇信佛。甞入寺。 見佛像"
+    },
+    {
+      "path": "T\\T48\\T48n2006.xml",
+      "mentions": 2,
+      "title": "Eyes of Humans and Devas",
+      "title_zh": "人天眼目",
+      "snippet": "... 汝持來復汝何咎。信聞之。頗曉玄旨。因投出 家。皇曰。汝昔崇福善。今信吾言。可名崇信。 繇是服勤左右。據此則知。龍潭信所嗣者。天 皇悟非天王悟。其證二也。又信一日問..."
+    },
+    {
+      "path": "ZW\\ZW07\\ZW07na039.xml",
+      "mentions": 1,
+      "title": "Non-Canonical Buddhist Texts, Series 7: Preface",
+      "title_zh": "藏外佛教文獻第七輯．卷首語",
+      "snippet": "...教典籍，可能可以給我們一些新的啟示。 西夏由黨項族所建，與北宋、遼國鼎立。西夏 崇信佛教，翻譯了大量經典。過去，我們對西夏的 佛教不甚了了，20世紀以來，隨著西夏故..."
+    },
+    {
+      "path": "ZW\\ZW09\\ZW09n0073h.xml",
+      "mentions": 1,
+      "title": "Interlinear Verses on the Diamond Sutra by Master Fu",
+      "title_zh": "梁朝傅大士夾頌金剛經",
+      "snippet": "...五頌，清涼大法眼禪師， 又制四頌，總成六十八頌，今略撮序文，廣傳靈 驗，將俟後來崇信，顯示玄通，興般若之教。 （此經並依音疏正定） 金剛經啟請 （為字平聲 為字去聲..."
+    },
+    {
+      "path": "Y\\Y34\\Y34n0032.xml",
+      "mentions": 1,
+      "title": "History of Indian Buddhist Thought",
+      "title_zh": "印度佛教思想史",
+      "snippet": "...子，弘揚《般若》與《現觀莊嚴論》。西元六六〇 年開創的東方波羅（Pāla）王朝，崇信佛法，寂護這一綜合學派，發展起來。但那時，印度教越來 越盛，「大乘佛法」在各處衰..."
+    },
+    {
+      "path": "Y\\Y29\\Y29n0029.xml",
+      "mentions": 1,
+      "title": "Flower Rain Collection (V)",
+      "title_zh": "華雨集（五）",
+      "snippet": "...外之說興而義解疏，專宗之習盛而 經論晦；佛為一切智人，佛法為一切智者之學，而今之崇信佛法者固何如？此應 治以正聞。深入經藏，非求為學問藝人，陳諸肆而待沽。誠以不精研..."
+    },
+    {
+      "path": "Y\\Y28\\Y28n0028.xml",
+      "mentions": 1,
+      "title": "Flower Rain Collection (IV)",
+      "title_zh": "華雨集（四）",
+      "snippet": "...人主張信佛也要信神） ，對佛、阿羅漢、菩薩，大多數是神秘仰信，以信神那樣的心情去崇信。一方面 ，信佛及（賢）僧的神力，祈求加被。一方面，多數信眾，為了現生與來世的世..."
+    },
+    {
+      "path": "Y\\Y24\\Y24n0024.xml",
+      "mentions": 1,
+      "title": "The Dharma as the Light that Saves the World",
+      "title_zh": "佛法是救世之光",
+      "snippet": "...盛的時代；唐武宗破壞佛教，也就是唐代衰落了 。唐以後，宋太祖、太宗、真宗、仁宗都崇信佛教，也就是宋朝興盛的時期；明 太祖本身是出過家的，太宗也非常信佛，不都是政治修..."
+    },
+    {
+      "path": "Y\\Y21\\Y21n0021.xml",
+      "mentions": 1,
+      "title": "Religious Institutions, Canons, and Teaching",
+      "title_zh": "教制教典與教學",
+      "snippet": "...這才能以佛法融通世學，批評世學，從相互比較中，顯出佛法 之精深與高妙，使人們易於崇信而接受。以其他宗教之牧師、神父們來說，他們 要作一個傳教師，都是在一般大學知識以..."
+    },
+    {
+      "path": "X\\X88\\X88n1657.xml",
+      "mentions": 1,
+      "title": "Biographies of Virtuous Women",
+      "title_zh": "善女人傳",
+      "snippet": "...聞而入山 訪之。聖姑曰：令郎君有大厄，方避讎丹陽道中。已而 使至，果然。時徐夫人崇信佛道，遂下令毀洞門，迎聖 姑。聖姑辭曰：罪謫未滿，不可出也。徐曰：何時當滿？曰：..."
+    },
+    {
+      "path": "X\\X87\\X87n1628.xml",
+      "mentions": 1,
+      "title": "Fortress Anthology of the Buddha-Dharma",
+      "title_zh": "佛法金湯編",
+      "snippet": "無忌 無忌，東海人。義熈中，遷江州刺史。與盧循戰，握節而 死。崇信佛法，造枳園寺。以安帝西還，皇運凱泰，勸帝 興起釋門，修營功德。 桓伊"
+    },
+    {
+      "path": "X\\X87\\X87n1626.xml",
+      "mentions": 1,
+      "title": "Abstracts of Eminent Monks",
+      "title_zh": "高僧摘要",
+      "snippet": "...割始豐縣調，以充眾費，蠲兩戶民，用 供薪水。天台山，縣名，為樂安令。陳郡袁子雄，崇信正 法，每夏常講淨名。忽見三道寶階，從空而降，有數十 梵僧，乘階而下，入堂禮拜，..."
+    },
+    {
+      "path": "X\\X87\\X87n1624.xml",
+      "mentions": 1,
+      "title": "Forest Notes",
+      "title_zh": "林間錄",
+      "snippet": "...疾，十三日歸寂，壽八十二，臘六十三。考其傳， 正如兩人。然玄素所載曰：有傳法一人崇信，住澧州 龍潭。南嶽讓禪師\uDB8E\uDF34，唐聞人歸登撰，列法孫數人于 後，有道悟名。圭峰答..."
+    },
+    {
+      "path": "X\\X87\\X87n1614.xml",
+      "mentions": 1,
+      "title": "Chan Grove Primer: Jade Grove",
+      "title_zh": "禪苑蒙求瑤林",
+      "snippet": "許。曰：如何是和尚佛法？師於身上拈起布毛吹之， 會通便悟。 龍潭滅燭德山因造龍潭崇信禪 師，即時辭去，龍潭留之。一夕於室外默坐，龍問：何 不歸來？山對曰：黑。龍潭乃..."
+    },
+    {
+      "path": "X\\X86\\X86n1604.xml",
+      "mentions": 1,
+      "title": "Weeding Out Evils in the Dharma Gate",
+      "title_zh": "法門鋤宄",
+      "snippet": "...可信乎？嗚呼，是真難掩，是偽不昌。苟偽而能昌，則吾 將以斯言亦為妄矣。 澧州龍潭崇信禪師，渚宮人，家賣餅為業，少而英異。 初悟和尚為靈鑒潛請居天皇寺，人莫之測。師居..."
+    },
+    {
+      "path": "X\\X86\\X86n1601.xml",
+      "mentions": 1,
+      "title": "Genealogy of the Chan Lamp",
+      "title_zh": "禪燈世譜",
+      "snippet": "福嚴智悅 大中子榮 感慈慧端 長蘆崇信 慧林懷深 萬壽如璝"
+    },
+    {
+      "path": "X\\X80\\X80n1564.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Five Lamps Compendium",
+      "title_zh": "五燈會元目錄",
+      "snippet": "...守恩禪師 甘露仲宣禪師 瑞巖有居禪師 廣靈希祖禪師 淨因惟岳禪師 乾明慧覺禪師 長蘆崇信禪師 金山法慧禪師 靈曜\uD85E\uDDAC良禪師 香山延泳禪師 道場慧印禪師 妙慧文義禪師"
+    },
+    {
+      "path": "X\\X79\\X79n1559.xml",
+      "mentions": 1,
+      "title": "Jiatai Universal Lamp Record",
+      "title_zh": "嘉泰普燈錄",
+      "snippet": "...人。紹興六 年五月旦，誡其徒曰：世緣易染，道業難辦，汝等勉之。 語卒而逝。 長蘆淨照崇信禪師法嗣 東京慧林慈受懷深禪師壽春六安人，族夏氏。生而 祥光現舍。文殊行堅禪師遙..."
+    },
+    {
+      "path": "X\\X78\\X78n1553.xml",
+      "mentions": 1,
+      "title": "Tiansheng Expanded Lamp Record",
+      "title_zh": "天聖廣燈錄",
+      "snippet": "...謂之聖子。年二十二出家受具， 三十遇摩拏羅尊者，行化至中印土。彼國王名無畏 海，崇信三寶，尊者為說正法。次王忽見二人緋素服 拜尊者，王問曰：此何人也？師曰：此是日月..."
+    },
+    {
+      "path": "X\\X16\\X16n0318.xml",
+      "mentions": 1,
+      "title": "Doctrinal Integration of the Śūraṅgama Sutra",
+      "title_zh": "楞嚴經宗通",
+      "snippet": "...福報雖殊，要不可語於大解脫也。二十三祖鶴勒 尊者，行化至中印土，彼國王名無畏海，崇信佛道。 祖為說正法次，忽見二人緋素服拜祖，王問曰：此 何人也？祖曰：此是日月天子..."
+    },
+    {
+      "path": "X\\X09\\X09n0245.xml",
+      "mentions": 1,
+      "title": "Subcommentary Explaining the Meaning of the Great Commentary on the Sutra of Perfect Enlightenment",
+      "title_zh": "圓覺經大疏釋義鈔",
+      "snippet": "寫本云： 兩浙平江府常熟縣楊澳里居住崇信弟子劉華 與家眷等，謹命工開茲祕誥，上祝 明良，下資動殖，庶乎聽受者忘生滅心行，..."
+    },
+    {
+      "path": "TX\\TX32\\TX32n0020.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part Twenty – Collected Poetry",
+      "title_zh": "太虛大師全書．第二十編\u3000詩存",
+      "snippet": "...富貴四時風，家宅田園過眼空；識得根塵皆幻化，大圓鏡智用無窮。 佛化神州及藏蒙，推崇信仰習相同；維藩歎失羈縻策，異族翻能禮大雄。 梵宮點綴好河山，風化潛維國運關；救度..."
+    },
+    {
+      "path": "TX\\TX31\\TX31n0019.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part Nineteen – Collected Writings (Vols. 137–321)",
+      "title_zh": "太虛大師全書．第十九編\u3000文叢(第137卷-第321卷)",
+      "snippet": "...，還以其眾王滇。其阿育王三子，並神明四甥舅之遺眾，與蹻兵、諸夷雜處 。蹻為滇王，崇信佛教，不忍殺生，遷居白崖鶴拓浪窮；後眾推仁果者張姓新君之王 須蹻傳世卒矣。仁果肇..."
+    },
+    {
+      "path": "TX\\TX29\\TX29n0019.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part Nineteen – Collected Writings (Vols. 1–20)",
+      "title_zh": "太虛大師全書．第十九編\u3000文叢(第1卷-第20卷)",
+      "snippet": "...出佛經，亦皆禪法居多，此其證也。然古 今皆稱震旦佛教始於漢明永平七年者，則以帝王崇信，三寶初具，既顯著乎一時，後 世因之流傳昌大，不復斷絕耳。但從漢平以暨唐武宗之世..."
+    },
+    {
+      "path": "TX\\TX27\\TX27n0018.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part Eighteen – Lectures (Vols. 1–59)",
+      "title_zh": "太虛大師全書．第十八編\u3000講演(第1卷-第59卷)",
+      "snippet": "...觀後，尚有科學上之佛教觀，倫理上之佛教觀，心 理上之佛教觀，政治上之佛教觀，吾人崇信佛教之必要七篇。今以時間短促，故建立 人心之三德性，顯示佛法大意，演繹十種三法門..."
+    },
+    {
+      "path": "TX\\TX23\\TX23n0013.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part Thirteen – Treatise on Sectarian Function (Vols. 122–139)",
+      "title_zh": "太虛大師全書．第十三編\u3000宗用論(第122卷-第139卷)",
+      "snippet": "...寓於健全之精神，二者互為因果，可以兩全，難以獨善。 四、健全之性生活：吾人雖不必崇信精神分析派之「性的一元論」，但性本能 之為人生最基本最強烈之一種衝動，則不能忽視..."
+    },
+    {
+      "path": "T\\T85\\T85n2785.xml",
+      "mentions": 1,
+      "title": "Extensive Explanation and Clarification of the Treatise on the Mahāyāna Four Dharma Sutra",
+      "title_zh": "大乘四法經論廣釋開決記",
+      "snippet": "...弟子。三天龍等。四神仙等。五 變化等。若不言薄伽梵。恐謂餘說。今言薄伽 梵說表可崇信。薄伽梵者。佛地論云。謂薄伽 聲依六義轉。一自在義。二熾盛義。三端嚴 義。四名稱..."
+    },
+    {
+      "path": "T\\T85\\T85n2741.xml",
+      "mentions": 1,
+      "title": "Commentary on the Diamond Prajñā Sutra",
+      "title_zh": "金剛般若經疏",
+      "snippet": "...成。智度論第二五種 能說。一佛。二聖弟果。三諸天。四神仙。五變 化。今明佛說表可崇信。魏本名婆伽婆。梁本 言佛婆伽。隋言世尊。貞觀名薄伽梵。周云 佛薄伽梵。此但言佛..."
+    },
+    {
+      "path": "T\\T85\\T85n2735.xml",
+      "mentions": 1,
+      "title": "Praise of the Meaning of the Diamond Prajñā Sutra",
+      "title_zh": "金剛般若經旨贊",
+      "snippet": "...。二聖弟子。三天龍等。四神仙等。五變 化等。若不言佛。恐謂餘說。今言佛說。表可 崇信。佛者梵語。應言勃陀。自覺覺他覺行 圓滿。具三覺人。故名覺者。謂從煩惱。而得開 ..."
+    },
+    {
+      "path": "T\\T85\\T85n2733.xml",
+      "mentions": 1,
+      "title": "Imperial Commentary and Exposition on the Diamond Prajñāpāramitā Sutra",
+      "title_zh": "御注金剛般若波羅蜜經宣演",
+      "snippet": "...智度論第二。五 種能說。一佛。二聖弟子。三諸天。四神仙。五 變化。今明佛說。表可崇信。魏本名婆伽婆。梁 本言佛。婆伽婆隋言世尊。貞觀名薄伽梵。周 云佛婆伽梵。此但言..."
+    },
+    {
+      "path": "T\\T54\\T54n2126.xml",
+      "mentions": 1,
+      "title": "Brief History of Buddhist Monks of the Great Song",
+      "title_zh": "大宋僧史略",
+      "snippet": "...始中。趙郡沙門法果戒行精至。 開演法籍。太祖徵為沙門統。言多允愜供施 甚厚。太宗崇信彌加於前。永興中。前後授輔 國宜城子忠信侯又安城公。皆固讓之。俗官 加僧。初聞於..."
+    },
+    {
+      "path": "T\\T54\\T54n2123.xml",
+      "mentions": 1,
+      "title": "Essential Compilation of Various Sutras",
+      "title_zh": "諸經要集",
+      "snippet": "...心諂曲。何故邪見墮於地獄。緣以邪見唯 向邪道。及以神俗謗佛法僧。不崇三寶。既不 崇信。斷人正路致令遭苦。所以命終入阿鼻 獄。何故邪見復為畜生。緣以邪見不識正理。 所..."
+    },
+    {
+      "path": "T\\T52\\T52n2118.xml",
+      "mentions": 1,
+      "title": "Treatise on Dispelling Doubts",
+      "title_zh": "折疑論",
+      "snippet": "...皇帝時。有梵僧室利 房等二十七人來秦。時帝方急其并吞七雄 爭勝。 甲兵相持。不遑崇信。 反為譎誕。 遂以房等。\uD863\uDEFC而執之。 夜有金甲神人。從空而下。以金鎚擊鎖援僧 ..."
+    },
+    {
+      "path": "T\\T52\\T52n2117.xml",
+      "mentions": 1,
+      "title": "Treatise on Impartial Mind toward the Three Teachings",
+      "title_zh": "三教平心論",
+      "snippet": "...其土民入魍魎之徒眾。況 宰輔冠蓋人倫羽儀。王道庾亮之徒。戴逵許 詢之輩。皆厝心而崇信。並稟教以歸依。是豈 尊妖干魅以自屈乎。良由觀妙知真使之然 耳。傅云。趙時梁時皆..."
+    },
+    {
+      "path": "T\\T52\\T52n2115.xml",
+      "mentions": 1,
+      "title": "Writings Collection of Tanjin",
+      "title_zh": "鐔津文集",
+      "snippet": "...以為難得。因與往 來。及祭神至海上。遂造其廬。及來袁州留衣 與之別。乃人之情。非崇信其法求福田利益 也。噫韓子雖強為之言務欲自掩。豈覺其言 愈多而其迹愈見。韓子謂大..."
+    },
+    {
+      "path": "T\\T52\\T52n2113.xml",
+      "mentions": 1,
+      "title": "Beishan Record",
+      "title_zh": "北山錄",
+      "snippet": "...或宰輔之 冠蓋。或人倫之羽儀。或置情天人之際。或抗 跡煙霞之表。並稟志歸依。措心崇信。其間比 對則蘭．護．開．潛．深．遁．崇．邃皆迹亞黃 中。咸不測之人也慧遠法師云..."
+    },
+    {
+      "path": "T\\T51\\T51n2077.xml",
+      "mentions": 1,
+      "title": "Continued Record of the Transmission of the Lamp",
+      "title_zh": "續傳燈錄",
+      "snippet": "...水獻花。有箇葛藤露布。與 諸人共相解摘看。驀拈拄杖擊香臺曰。參堂 去。 真州長蘆淨照崇信禪師。廬州人姓高氏。十 三依本州承天僧用成為師。二十受具。南遊 造杭州淨慈圓照禪..."
+    },
+    {
+      "path": "T\\T51\\T51n2073.xml",
+      "mentions": 1,
+      "title": "Records and Biographies Related to the Avatamsaka Sutra",
+      "title_zh": "華嚴經傳記",
+      "snippet": "...午。遺誡而卒於 鄴下東大覺寺。時春秋八十。即天保六年三 月二日也。初範背儒入釋。崇信日增。寂想空 門。永扗先習。言不及利。容無喜怒。每留意華 嚴。為來報之業。夜禮千..."
+    },
+    {
+      "path": "T\\T51\\T51n2067.xml",
+      "mentions": 1,
+      "title": "Accounts in Praise of the Lotus Sutra",
+      "title_zh": "弘贊法華傳",
+      "snippet": "...蘭陵人。梁帝之玄孫。梁王 巋之第五子也。梁滅入隋。姊為煬帝皇后。生 長貴盛。而家崇信佛法。大業中。自誦法花 經。乃依經文。作多寶塔。以檀香為之。塔高 三尺許。并為木..."
+    },
+    {
+      "path": "T\\T51\\T51n2066.xml",
+      "mentions": 1,
+      "title": "Biographies of Eminent Monks Who Sought the Dharma in the Western Regions (Great Tang)",
+      "title_zh": "大唐西域求法高僧傳",
+      "snippet": "...槃寺而歸 寂滅。于時年餘耳順矣。 僧伽跋摩者。康國人也。少出流沙遊步京輦。 稟素崇信戒行清嚴。檀捨是修慈悲在念。以 顯慶年內奉勅與使人相隨禮覲西國到大覺 寺。於金剛..."
+    },
+    {
+      "path": "T\\T49\\T49n2039.xml",
+      "mentions": 1,
+      "title": "Memorabilia of the Three Kingdoms",
+      "title_zh": "三國遺事",
+      "snippet": "...佛寺於新都漢山州。度僧十 人。此百濟佛法之始。又阿莘王即位大元十 七年二月。下教崇信佛法求福。摩羅難陀。譯 云童學。讚曰。 天造從來草昧間大都為伎也應難 翁翁自解呈..."
+    },
+    {
+      "path": "T\\T49\\T49n2036.xml",
+      "mentions": 1,
+      "title": "General Record of Buddhas and Patriarchs Through the Ages",
+      "title_zh": "佛祖歷代通載",
+      "snippet": "...九歲出家依縣之佛惠院。 又六歲削髮受具。又五歲而束包曳杖。飄 然有四方之志。首謁長蘆淨照禪師。參扣 之間景響有得。因閱圓悟勤禪師語。撫卷 歎曰。想酢生液。雖未能澆腸沃胃..."
+    },
+    {
+      "path": "ZW\\ZW10\\ZW10n0081.xml",
+      "mentions": 1,
+      "title": "Imperial Commentary on the Diamond Prajñāpāramitā Sūtra",
+      "title_zh": "御注金剛般若經",
+      "snippet": "人 輕賤乎？況此經，佛為大乘最上乘者說，皆真 實不誑。不應苟勸愚人，崇信而發菩提。取相 之言，將如來別有深意乎，為譯經之人失其 旨也？"
+    },
+    {
+      "path": "ZW\\ZW07\\ZW07n0061.xml",
+      "mentions": 1,
+      "title": "Notes on the Protector of the State Compass",
+      "title_zh": "護國司南抄",
+      "snippet": "...武帝姓蕭名衍，在位四十九年。雖億兆務繁而 卷不釋手，內外典籍皆為訓解。受佛得戒，崇信日增。自 與僧講《涅槃經》，制五時論，常供千僧。內並行六齋八戒。 三度捨身入常住..."
+    },
+    {
+      "path": "P\\P154\\P154n1519.xml",
+      "mentions": 1,
+      "title": "Essential Compendium of the Zen School: Main and Continued Collections (Vols. 1–12)",
+      "title_zh": "宗門統要正續集(第1卷-第12卷)",
+      "snippet": "...云或說非心非 佛李云總過這邊李却問西堂堂乃召李翱 翱應喏堂云鼓角動也。 澧州龍潭崇信禪師家為餅師逐日以 十餅饋天皇皇每受畢却留一餅云吾惠汝 以蔭子孫師一日自念云餅是..."
+    },
+    {
+      "path": "N\\N37\\N37n0018.xml",
+      "mentions": 1,
+      "title": "Birth Stories (Jataka) (Vols. 14–16)",
+      "title_zh": "本生經(第14卷-第16卷)",
+      "snippet": "尊貴應招待與彼食相應 五王之崇信者我問婆羅門 清淨覆肉食何故王與爾？ 六"
+    },
+    {
+      "path": "LC\\LC06\\LC06n0006.xml",
+      "mentions": 1,
+      "title": "Survey of Canon Editions Through the Dynasties and a New Catalog of the Chinese Canon",
+      "title_zh": "歷朝藏經略考及新編漢文大藏經目錄",
+      "snippet": "...》加以增減。 據雍正《重刊藏經序》說：「歷代名僧所制義疏，及機緣語錄，各就其時所崇信者陸 續入藏，未經明眼，辨別溜澠，今亦不無刪汰，俾歸嚴淨。」在這樣的企圖下就刪去..."
+    },
+    {
+      "path": "LC\\LC03\\LC03n0003.xml",
+      "mentions": 1,
+      "title": "Foundational Treatise on Tibetan Buddhism and Selected Studies",
+      "title_zh": "西藏佛學原論及佛學論著選集",
+      "snippet": "... 瞿波羅王崛起，踵旃陀羅族之後統一藩伽羅國，漸侵摩竭陀等地，於是建立波羅王 朝，崇信佛法，歷世不替。（上見多氏《印度佛教史》第二十八章，刊本一五六頁。）而 王朝十八..."
+    },
+    {
+      "path": "LC\\LC02\\LC02n0002.xml",
+      "mentions": 1,
+      "title": "Brief Lectures on the Origins and Development of Chinese Buddhism",
+      "title_zh": "中國佛學源流略講",
+      "snippet": "...教流傳，還值得研究；尤其是授經者 是國家的大使身份，說明佛教已成為當時統治階級所崇信才有可能，這就更需要研究 了。 以後，又有「明帝求法」說，得到人們的普遍相信，對..."
+    },
+    {
+      "path": "L\\L154\\L154n1638.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Xueqiao Xin (Vols. 7–10)",
+      "title_zh": "雪嶠信禪師語錄(第7卷-第10卷)",
+      "snippet": "...名大徹 者慕師道望到山皈依久之見大殿方丈主 僧不足為徑山重而潞藩以國亂適馭武林 崇信佛法監徹因奏請依大慧禪師被旨住 持例不由地方檀越敦請驟破規格大駭覩 聞八月屆期藩..."
+    },
+    {
+      "path": "J\\J40\\J40nB483.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Zhufeng Min",
+      "title_zh": "竺峰敏禪師語錄",
+      "snippet": "...之響應。夫如是， 則僧眾遵佛制祖規，竭力精修以報荅四恩；檀信秉 靈山之遺囑，慇勤崇信而護助三寶。常為祝 國保 境之福田，永作明心見性之淨土。倘或故違，伽藍昭 鑑。」..."
+    },
+    {
+      "path": "J\\J39\\J39nB453.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Yuanjie Ying",
+      "title_zh": "元潔瑩禪師語錄",
+      "snippet": "...，惠餅安名，師資道合，威音 有相，隱身滅燭，心燄猶存。恭惟青原下第四世龍潭 老祖崇信禪師大和尚，身等虛空，量周法界，兩宗法 脈，千古彌彰。不肖遠孫某，特過澧陽，展一..."
+    },
+    {
+      "path": "J\\J34\\J34nB295.xml",
+      "mentions": 1,
+      "title": "Study of Buddhism: Examinations and Admonitions",
+      "title_zh": "學佛考訓",
+      "snippet": "...」之句，盛傳都下。 宋濂嘗敘五宗始末云：「希遷之學，湖南主之。其傳為 道悟，悟傳崇信，信傳宣鑑，鑑傳義存，雲門、法眼皆出 其下。」 全室禪師，字季潭，諱宗泐。洪武初..."
+    },
+    {
+      "path": "J\\J31\\J31nB267.xml",
+      "mentions": 1,
+      "title": "Lazy Studio Supplementary Collection of Monk Muyun",
+      "title_zh": "牧雲和尚嬾齋別集",
+      "snippet": "... 與兄湖頭一別，又見秋風落木矣。聞于爾時，天龍啟 請開演《唯識》，名稱普聞，遠近崇信，流出無量如來，正 于兄謦欬間耳。中秋左右，擬過法會，一談契闊。 與鹽梅禪師 舊..."
+    },
+    {
+      "path": "J\\J29\\J29nB244.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Sanshanlai",
+      "title_zh": "三山來禪師語錄",
+      "snippet": "三山禪師語錄敘 於戲！宗風之盛，未有如今日者也。欽惟 世祖章皇帝崇信桑門，屈己徵訪，而江漢之東，緇流如 織，靡不走名山、敦實行。無論有種苾芻，略筌蹄..."
+    },
+    {
+      "path": "J\\J28\\J28nB202.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Baichi",
+      "title_zh": "百癡禪師語錄",
+      "snippet": "...莆祁奉印 祖印當中朱點窄，奉行夜璧自生輝，秋帆忽轉來時 路，回首鷗灘永不違。 本崇信童因病發願出家，乞題扇頭。 打開塵世繁華鎖，年幼已存老大心，自是靈根培處 好，故..."
+    },
+    {
+      "path": "J\\J26\\J26nB181.xml",
+      "mentions": 1,
+      "title": "Bushuitai Collection",
+      "title_zh": "布水臺集",
+      "snippet": "...，曷以臻是？ 故是菴之建，雖由勉初廣文與其室人孫氏，為子孝 廉諱長春者廣嗣胤，而崇信淵源，則自大中丞定宇 先生刱發也。先生廉仁徹骨，簡在帝心，生子北溟、見 素二公，..."
+    },
+    {
+      "path": "J\\J21\\J21nB109.xml",
+      "mentions": 1,
+      "title": "Survey of the Buddhist Canon",
+      "title_zh": "大藏一覽",
+      "snippet": "...見什麼道理便禮？」師 曰：「據某甲所見，如洪爐上一點雪。」 清原第三世 澧州龍潭崇信禪師，問：「某自到來，不蒙指 示心要。」皇曰：「汝擎茶來，吾為汝接；汝行食來，吾..."
+    },
+    {
+      "path": "GA\\GA081\\GA081n0084.xml",
+      "mentions": 1,
+      "title": "Monastery Gazetteer of Jizu Mountain (Vols. 1–6)",
+      "title_zh": "雞足山寺志(第1卷-第6卷)",
+      "snippet": "...有三千 蘭若。鷄山元旦，僧俗燒香散花，遠近至者萬計， 自漢迄今無虛歲。」可知滇南崇信佛教，殆先於 中國。今村野土民，多有不畏王法，而談及因果 報應則凜肰敬信者。肰則..."
+    },
+    {
+      "path": "GA\\GA056\\GA056n0059.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Yunmen Mountain",
+      "title_zh": "雲門山志",
+      "snippet": "甘露仲宣禪師瑞巖有居禪師 廣靈希祖禪師淨因惟岳禪師 乾明慧覺禪師長蘆崇信禪師 金山法慧禪師靈曜\uD85E\uDDAA良禪師 香山延泳禪師道場慧印禪師"
+    },
+    {
+      "path": "GA\\GA029\\GA029n0028.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Longxing Xiangfu Ordination Platform Monastery",
+      "title_zh": "龍興祥符戒壇寺志",
+      "snippet": "...欲一一創建以鍛鍊融化於後起之有志者也 即現佛身而為說法者也吾知四方之士與吾黨 之崇信佛法者將踴躍趨赴若將不及矣喜書其 事不第為祥符亦以錞於世之為佛法干城者 乾隆二十..."
+    },
+    {
+      "path": "GA\\GA022\\GA022n0020.xml",
+      "mentions": 1,
+      "title": "Records of Things Seen and Heard at Longjing",
+      "title_zh": "龍井見聞錄",
+      "snippet": "...國王，凡四十年；為元帥三 十五年。位極富貴，善始善終。好吟詠，有詩曰《政本集》。崇信釋氏，前後造寺無算。 見楊傑〈院記〉，詳卷一。 見鄧文原〈閣記〉，詳卷二。"
+    },
+    {
+      "path": "GA\\GA016\\GA016n0015.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Dazhaoqing Vinaya Monastery",
+      "title_zh": "大昭慶律寺志",
+      "snippet": "...民采捕。王文 惠公隨繼其任，撰〈放生池碑記〉，立石於昭慶寺前石 函橋之右。二公皆崇信二氏，量皆入社，預百二十三 人之數者。陳與二王，皆宰相也。第以無據，未敢繼列。 ..."
+    },
+    {
+      "path": "GA\\GA015\\GA015n0013.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Qita (Seven Pagodas) Monastery",
+      "title_zh": "七塔寺志",
+      "snippet": "...能禪師，其法特盛，分為兩支。其一青原行思，思傳石頭希遷，遷傳天皇道悟， 悟傳龍潭崇信，信傳德山宣鑑，鑑傳雪峯義存，存傳雲門匡真文偃禪師，為雲門 宗。玄沙師備（為偃同..."
+    },
+    {
+      "path": "GA\\GA009\\GA009n0008.xml",
+      "mentions": 1,
+      "title": "Revised Gazetteer of Mount Putuo",
+      "title_zh": "重修普陀山志",
+      "snippet": "...竒蹤勝槩也。至於三、四，則以歷代官民 祈籲靈異應感，與夫今朝之祝釐賚予 言，言所崇信莊嚴也。熙明自乃祖乃父， 主居西域，世與佛隣，善誦佛書，深逹梵 語。故於《楞伽》..."
+    },
+    {
+      "path": "G\\G155\\G155n2590.xml",
+      "mentions": 1,
+      "title": "Annotated Notes on the Sixth Patriarch’s Platform Sūtra",
+      "title_zh": "六祖大師法寶壇經箋註",
+      "snippet": "...稱居士。一，不求仕官。二，寡欲蘊德。三，居財大富 。四，守道自悟。案居士後為在家崇信佛道者之通稱。六祖慧能本姓羅。後投 五祖忍大師於黃梅，嘗腰石舂米，故云負舂居士。..."
+    },
+    {
+      "path": "F\\F03\\F03n0100.xml",
+      "mentions": 1,
+      "title": "Diamond Sūtra (Imperial Commentary and Preface)",
+      "title_zh": "金剛般若波羅蜜經（御注並序）",
+      "snippet": "為 況此經佛為 最上乘者說皆真實不誑不應苟勸愚人崇信而發菩提取相之言將如 無空過者 明我今日所證菩提亦由昔來功德所致也"
+    },
+    {
+      "path": "D\\D58\\D58n9010.xml",
+      "mentions": 1,
+      "title": "Notes While Reading the Canon",
+      "title_zh": "閱藏隨錄",
+      "snippet": "...見家二者其心諂曲何故邪見墮於地獄 緣以邪見惟向邪道及以神俗謗佛法僧不崇三寶 既不崇信斷人正路致令遭苦所以命終入阿鼻獄 何故邪見復為畜生緣以邪見不識正理所以出獄 受畜..."
+    },
+    {
+      "path": "D\\D52\\D52n8951.xml",
+      "mentions": 1,
+      "title": "Tathāgata Incense",
+      "title_zh": "如來香",
+      "snippet": "...來。則雙節庵陸 貞師是。貞師名大秩。仝受雲栖大師記莂。功行甚高。 平日所供養。最崇信者也。語畢。遂命具浴。是日眾猶 懷疑。孺人則刻指定時。須貞師至。謂眾曰。可盡稱佛..."
+    },
+    {
+      "path": "D\\D46\\D46n8930.xml",
+      "mentions": 1,
+      "title": "Essential Consultation Sayings of National Teacher Daitō (Imperial Gift)",
+      "title_zh": "特賜興禪大燈國師參詳語要",
+      "snippet": "...断北義去也師云舜却 殺象了也諸儒皆稽䫙而執弟子礼就中洗心子入 室參禪造詣不淺不勝崇信之至\uDB8A\uDCFF第宅而作大德 方丈今雲門庵是也師氣宇如王人少近傍数年罕 有為檀越外護者一..."
+    },
+    {
+      "path": "B\\B35\\B35n0194.xml",
+      "mentions": 1,
+      "title": "General Catalogue of the Chinese Tripiṭaka",
+      "title_zh": "中華大藏經總目錄",
+      "snippet": "...後 參考，悉俟詳慎決定籌行。其有關數項殊勝因緣，應特舉奉報告：（一）吳昆生居士為崇信屈映光居 士發願修藏，從四十四年七月起，每月供養台幣一千二百元，以後願按月繳至修..."
+    },
+    {
+      "path": "B\\B32\\B32n0182.xml",
+      "mentions": 1,
+      "title": "Chapters of Dust and Dew from the Buddhist Canon",
+      "title_zh": "內典塵露章",
+      "snippet": "...等。儼公授法曇晟。晟下有洞山良价。价下有曹山 本寂。自此已後。名曹洞宗。道悟下有崇信。次宣鑒。次 義存。次雲門文偃并玄沙宗一也。文偃所弘。名雲門宗。 宗一下有桂琮。..."
+    },
+    {
+      "path": "B\\B32\\B32n0177.xml",
+      "mentions": 1,
+      "title": "Essential Compilation of Various Schools of Our Realm",
+      "title_zh": "本朝諸宗要集",
+      "snippet": "曇晟 良价本寂 道悟崇信宣鑒義存 文偃玄沙桂探文益禪師 永嘉真覺"
+    },
+    {
+      "path": "B\\B29\\B29n0160.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Buddhist Monasteries in Jinling",
+      "title_zh": "金陵梵剎志",
+      "snippet": "...止六塵稟奉四儀方歸八正其本業寺者梁天監九 年有釋淨玉捨宅為寺累代廢興石像既存鄉人崇信凡 經亢燎眾聚祈求進奉國而事家實遵堯而慕舜其民戚 戚其化堂堂既偶上垂衣寰中舉首山..."
+    },
+    {
+      "path": "B\\B28\\B28n0157.xml",
+      "mentions": 1,
+      "title": "Posthumous Writings of Layman Yang Renshan",
+      "title_zh": "楊仁山居士遺著",
+      "snippet": "...羅密多會。鄙人應召前來。理宜演說支那佛教古今 流傳之相。溯自漢明帝時。慧光東照。崇信之人。乘願 而出。至姚秦時。廣譯經論。佛教大興。迨至有唐。禪教 律淨。皆臻元奧。..."
+    },
+    {
+      "path": "B\\B26\\B26n0148.xml",
+      "mentions": 1,
+      "title": "Dongpo’s Chan Joy Collection",
+      "title_zh": "東坡禪喜集",
+      "snippet": "...利。意將止於此耶。昔余先君文安主簿贈中大夫諱 洵。先夫人武昌大君程氏皆性仁行廉。崇信三寶。損舘之日。追述遺 意捨所愛作佛事。雖力有所止。而意則無盡。自頃憂患。廢而不..."
+    },
+    {
+      "path": "B\\B25\\B25n0145.xml",
+      "mentions": 1,
+      "title": "Extensive Record of Zhongfeng Mingben of Tianmu",
+      "title_zh": "天目中峰廣錄",
+      "snippet": "...曰智覺。塔曰法雲。今復際 遇皇帝陛下。聦明天從。聖智日新。道軼百王。皇建 有極。崇信佛學。垂護正宗。遂敢輙冒天誅。復有懇 請。蓋自達磨傳佛心宗。道盛東土。雖代有得法..."
+    },
+    {
+      "path": "B\\B19\\B19n0103.xml",
+      "mentions": 1,
+      "title": "Annotated Glossary of Chan Monastic Terms and Implements",
+      "title_zh": "禪林象器箋",
+      "snippet": "...晝夜而池鹽俱溢。遂賜 敕封嗣後屢顯神靈。至今日。則家祀戶奉。即兒童 蠻貊。無不知崇信者。乃知鬼神之顯晦。亦自有時 耶。 麈餘云。福清民。林某女。幼喜齋素。得香木數寸..."
+    },
+    {
+      "path": "B\\B17\\B17n0093.xml",
+      "mentions": 1,
+      "title": "Xiangjiao Pibian (Complete in Six Volumes)",
+      "title_zh": "象教皮編（六卷全）",
+      "snippet": "...說佐其高層累架騰直出其表以 無上不可加為勝妄相夸脇而倡其風其意不過述 當時士夫之崇信假飾太過而已非盡以其經為華 人之所改竄與某人之為某經歷歷可據也嘗讀楞 嚴出房融受..."
+    },
+    {
+      "path": "B\\B17\\B17n0092.xml",
+      "mentions": 1,
+      "title": "Selections from Tang Huiyao, Wudai Huiyao, Ming Shu, and Ming Huidian",
+      "title_zh": "唐會要、五代會要、明書、明會典選輯",
+      "snippet": "...琳非無才俊．宋文帝引之升殿．顏延之云．三台之位．豈可使刑餘之人居之． 今陛下縱欲崇信佛教．亦不須道人日到參議． 顯慶二年詔曰．釋典沖虛．有無兼謝．正覺凝寂．彼我俱忘..."
+    },
+    {
+      "path": "B\\B17\\B17n0091.xml",
+      "mentions": 1,
+      "title": "Selections from the Standard Histories (Jin, Song, Liang, Wei, Sui, Old Tang, Yuan, Ming)",
+      "title_zh": "正史選輯（晉書、宋書、梁書、魏書、隋書、舊唐書、元史、明史）",
+      "snippet": "...猶數入貢，迄神宗朝不絕。時有僧鎖南堅錯者，能知已往未來事，稱活 佛，順義王俺答亦崇信之。萬曆七年，以迎活佛為名，西侵瓦剌，為所敗。此僧戒以好殺， 勸之東還。俺答亦勸..."
+    },
+    {
+      "path": "B\\B14\\B14n0085.xml",
+      "mentions": 1,
+      "title": "Annotated Chronological Biography of Master Hanshan",
+      "title_zh": "憨山大師年譜疏註",
+      "snippet": "...陰為鄭貴妃祈嗣．祈之道士也。聖母遣內官 於五臺．陰為王才人祈嗣．祈之和尚也。各有崇信．各有禱求。內使窺伺帝意．懼有 不測．故以阿附為心．遂二心於聖母之命．不欲歸併向..."
+    },
+    {
+      "path": "B\\B11\\B11n0069.xml",
+      "mentions": 1,
+      "title": "Transmission of the Dharma Lineage in Seven Systems",
+      "title_zh": "七系付法傳",
+      "snippet": "...牟軍陀末底已修成眼化明咒，故于昔日能得大食訶迷呼 波遮波大王及其太子阿迦波囉等之崇信，此時阿闍黎以三摩地威力令其眼花法不能 化現，阿闍黎便以視法令其癲狂，口呼：「訶..."
+    },
+    {
+      "path": "Y\\Y35\\Y35n0033.xml",
+      "mentions": 1,
+      "title": "Compilation of Early Buddhist Scriptures",
+      "title_zh": "原始佛教聖典之集成",
+      "snippet": "...出的律典。經中說到「文殊師利」（Mañjuśrī），文殊師利確乎是摩 訶僧祇部所崇信的聖者。 Ｌ《佛說苾芻五法經》：一卷，宋法天（Dharmadeva）譯。所說具足..."
+    },
+    {
+      "path": "X\\X84\\X84n1580.xml",
+      "mentions": 1,
+      "title": "Separate Transmission Outside the Teachings",
+      "title_zh": "教外別傳",
+      "snippet": "...經臣居士 南嶽下十二世 清獻趙抃居士 法雲善本禪師 本覺守一禪師 投子修顆禪師 長蘆崇信禪師 保寧子英禪師 元豐清滿禪師 南嶽下十三世 寶林果昌禪師 天竺從諫講師"
+    },
+    {
+      "path": "X\\X84\\X84n1579.xml",
+      "mentions": 1,
+      "title": "Continuation of the Record Pointing at the Moon",
+      "title_zh": "續指月錄",
+      "snippet": "...， 則元豐八年乙丑也。又六歲受具，則哲宗元祐六 年辛未也。又五歲而行脚四方，首參長蘆淨照，次 參湛堂，次參死心，最後從圓悟於夾山，當機契悟。 參隨二十年，歸和州省親，四..."
+    },
+    {
+      "path": "X\\X82\\X82n1571.xml",
+      "mentions": 1,
+      "title": "Complete Five Lamps (Vols. 34–120)",
+      "title_zh": "五燈全書(第34卷-第120卷)",
+      "snippet": "...益陽石門信庵哲禪師江陵陳氏子。年三十三， 投天王海薙染。旋領院事，端重稱職。海景崇信削髮， 天王遂以信庵字之。住儀真地藏，晚遷石門。上堂：天 得一以清，地得一以寧。..."
+    },
+    {
+      "path": "X\\X81\\X81n1570.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Complete Five Lamps",
+      "title_zh": "五燈全書目錄",
+      "snippet": "甘露仲宣禪師 長蘆崇信禪師 瑞光守琮禪師"
+    },
+    {
+      "path": "X\\X80\\X80n1567.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Strict Lineage of the Five Lamps",
+      "title_zh": "五燈嚴統目錄",
+      "snippet": "...守恩禪師 甘露仲宣禪師 瑞巖有居禪師 廣靈希祖禪師 淨因惟岳禪師 乾明慧覺禪師 長蘆崇信禪師 金山法慧禪師 靈曜\uD879\uDDFF良禪師 香山延泳禪師 道場慧印禪師 妙慧文義禪師 靈..."
+    },
+    {
+      "path": "X\\X73\\X73n1456.xml",
+      "mentions": 1,
+      "title": "Elder Hanshan’s Dream-Travel Collection",
+      "title_zh": "憨山老人夢遊集",
+      "snippet": "...海，彌離車地，咸向三寶。而黃冠以侵占道院， 飛章誣奏，有旨逮赴詔獄。先是， 慈聖崇信佛乘，敕 使四出，中人讒搆，動以煩費為言， 上弗問也。而其 語頗聞於外庭，所司遂..."
+    },
+    {
+      "path": "X\\X70\\X70n1383.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of the Monk Wuzhun: Memorial Responses",
+      "title_zh": "無準和尚奏對語錄",
+      "snippet": "...、契聖契凡功德，恭為 恭聖仁烈皇太后上助 僊游。仰惟 皇太后始居中殿，至處東朝，崇信佛乘，深悟教理，神 機獨運，慧性圜明，來示母儀，去登果位。伏願仙樂凌 空，上升於..."
+    },
+    {
+      "path": "X\\X69\\X69n1358.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Huqiu Shaolong",
+      "title_zh": "虎丘紹隆禪師語錄",
+      "snippet": "...母去家， 依縣之佛慧院。又六歲削髮堂具，又五歲而束包曳 杖，飄然有四方之志。首遇長蘆淨照禪師，參扣之間， 景響有得。因閱圓悟勤禪師語錄，撫卷嘆曰：想酢生 液，雖未能澆膓..."
+    },
+    {
+      "path": "X\\X69\\X69n1351.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Baiyun Shouduan",
+      "title_zh": "白雲守端禪師語錄",
+      "snippet": "...相似。 天地同根自唯然，當時猶喜遇南泉。指言見此華如 夢，須信壺中別有天。 龍潭崇信禪師未出家時，為餅鋪在天皇寺前，每 日常供餅十枚上皇。皇受已，却留一餅與之，曰：..."
+    },
+    {
+      "path": "X\\X69\\X69n1333.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Xuefeng Yicun (Record of Chan Master Zhenjue)",
+      "title_zh": "雪峰義存禪師語錄（真覺禪師語錄）",
+      "snippet": "...以此定祖。 迄今按其圖記，嗣石頭者，不曰荊州天皇道悟乎？嗣 天皇者，不曰澧州龍潭崇信乎？以彼淵博大智，方將 于五百年前為達磨辨誣，何得于其十世祖不能自 認，而必煩後..."
+    },
+    {
+      "path": "X\\X68\\X68n1319.xml",
+      "mentions": 1,
+      "title": "Imperially Selected Recorded Sayings",
+      "title_zh": "御選語錄",
+      "snippet": "...尖時圓相甚麼處 去？圓時尖相又甚麼處去？ 師曰：尖時圓相隱，圓時尖 相在。 龍潭崇信禪師 初，悟和尚居天王寺，師家於寺巷。其家賣餅，師日以 十餅饋之。天王食畢，常留..."
+    },
+    {
+      "path": "X\\X64\\X64n1265.xml",
+      "mentions": 1,
+      "title": "Vermilion Notes Following Precious Instructions of the Chan Grove",
+      "title_zh": "禪林寶訓順硃",
+      "snippet": "...源 涸而復漲，覺樹凋而再春，實區區下懷之望。 慈受：名懷深。徑山妙空：名智訥。俱長蘆崇信之嗣 也。索：音色。宜瑟蕭瑟：陰令促急，風疾暴也。楚辭：蕭 瑟兮草木搖落。比況法..."
+    },
+    {
+      "path": "X\\X64\\X64n1262.xml",
+      "mentions": 1,
+      "title": "Phonetic Meanings for Precious Instructions of the Chan Grove",
+      "title_zh": "禪林寶訓音義",
+      "snippet": "貪販利養也。 ○慈受深東京慧林慈受懷深禪師。夏氏子，嗣長 蘆崇信禪師。 徑山訥臨安府徑山妙空智訥禪師嗣。長蘆信禪 師。"
+    },
+    {
+      "path": "X\\X63\\X63n1255.xml",
+      "mentions": 1,
+      "title": "Chan Household’s Tortoise Mirror",
+      "title_zh": "禪家龜鑑",
+      "snippet": "雲居道膺禪師等。 雲門宗 馬祖傍傳，曰天王道悟，曰龍潭崇信，曰德山宣 鑑，曰雪峰義存，曰雲門文偃，曰雪竇重顯，曰天 衣義懷禪師等。 溈仰宗"
+    },
+    {
+      "path": "X\\X63\\X63n1244.xml",
+      "mentions": 1,
+      "title": "Record Clarifying the Meaning of Baizhang’s Pure Regulations",
+      "title_zh": "百丈清規證義記",
+      "snippet": "...蘭州府臯蘭 金縣狄道州渭源靖遠河州。○平凉 府平涼靜寧州華亭降德固 原州。○涇州崇信靈臺鎮原。 ○ 鞏昌府隴甫安定會寧通渭 漳縣寧遠伏羌西和岷州洮州廳。○ 階州文縣..."
+    },
+    {
+      "path": "X\\X62\\X62n1173.xml",
+      "mentions": 1,
+      "title": "Direct Pointer for Returning West",
+      "title_zh": "西歸直指",
+      "snippet": "...淨法門。晚年繪丈六彌陀像， 隨行供養。感佛來迎，端坐而化。 文彥博潞公 宋文彥博崇信三寶，專修淨業。居京師時，與淨嚴法 師結社念佛，嘗勸至十萬人。當時士大夫曾有偈贈..."
+    },
+    {
+      "path": "X\\X62\\X62n1172.xml",
+      "mentions": 1,
+      "title": "Pure Land Morning Bell",
+      "title_zh": "淨土晨鐘",
+      "snippet": "... 自此極力事親，致愛致敬，註孝經數萬言。偶硯竭，欲 取水，水忽盈。冐宗起曰：六朝崇信孝經，高人名士，或 以殉葬，或以薦靈，病誦之愈，難誦之解。故皇偘日誦 孝經二十遍..."
+    },
+    {
+      "path": "X\\X61\\X61n1162.xml",
+      "mentions": 1,
+      "title": "Complete Collection of Pure Land Provisions",
+      "title_zh": "淨土資糧全集",
+      "snippet": "...句、天下老和尚露 布葛藤，盡使不着。何以故？太平本是將軍致，不許 將軍見太平。 崇信禪師居天皇寺，一日問師曰：某自到來，不\uD86C\uDF87 指示心要。皇曰：汝擎茶來，吾為汝受。..."
+    },
+    {
+      "path": "X\\X60\\X60n1128.xml",
+      "mentions": 1,
+      "title": "Correct Model for Transmitting the Precepts",
+      "title_zh": "傳戒正範",
+      "snippet": "已，名曰 菩薩式叉摩那、菩薩沙彌、菩薩沙彌尼也。 三者、若居家男女，崇信三寶，樂修十善，或受五支 學處，慎守多年，或持八關齋戒，嚴遵一日，今始更 發勝心..."
+    },
+    {
+      "path": "X\\X60\\X60n1119.xml",
+      "mentions": 1,
+      "title": "Explanation of the Essential Summary of Novice Precepts and Deportment",
+      "title_zh": "沙彌律儀要略述義",
+      "snippet": "...於山石之間，登樹捨身。夜叉以手接之，作 禮而去。 慈受諱懷深，壽春夏氏子。得法於長蘆崇信禪師。 青下十三世。 仙陀婆梵語也。具鹽、水、馬、器四義，惟"
+    },
+    {
+      "path": "X\\X46\\X46n0774.xml",
+      "mentions": 1,
+      "title": "Notes on the *Treatise Explaining the Mahāyāna*",
+      "title_zh": "釋摩訶衍論記",
+      "snippet": "...，即指馬鳴論師。以 望上位，故稱為中。此中難意，既無加顯，應涉希求，如 何決定尊崇信奉？由難盡了，重造理致，所以詰問。 二、決疑門二：初、正解此門二：初、根緣有異二..."
+    },
+    {
+      "path": "X\\X45\\X45n0772.xml",
+      "mentions": 1,
+      "title": "Profound Praises Commentary on the *Treatise Explaining the Mahāyāna*",
+      "title_zh": "釋摩訶衍論贊玄疏",
+      "snippet": "...利等事。畢竟尊信不盡理者，謂問 畢竟世尊言教堪信之經不盡理耶？或復畢竟誠 可尊重崇信之經不盡理耶？或復論主畢竟貴圖 世人尊重貴信，已能解於佛經不盡理處而作論 耶？如..."
+    },
+    {
+      "path": "X\\X44\\X44n0751.xml",
+      "mentions": 1,
+      "title": "Explanation of the Buddha's Sutra on Maudgalyāyana's 500 Questions on Light/Heavy Offenses in Vinaya",
+      "title_zh": "佛說目連五百問戒律中輕重事經釋",
+      "snippet": "...。 極位護斯成最勝，初心於是學猶偏。 目連五百慈悲問，愚輩三思採律箋。 仰願法門崇信者，脩因當列佛三千。 佛說目連問戒律中五百輕重事經釋卷下 校注"
+    },
+    {
+      "path": "X\\X38\\X38n0695.xml",
+      "mentions": 1,
+      "title": "Brief Commentary on the Brahmā Net Bodhisattva Precepts",
+      "title_zh": "梵網經菩薩戒略疏",
+      "snippet": "...不以 人為輕重。玄又致書遠法師，遠著沙門不敬王者 論五篇，其事因息。安帝復政，還崇信奉。魏太武七 年，道士寇謙、司徒崔皓讒於佛法，帝然之，遂滅佛 法，逃僧梟斬。後延..."
+    },
+    {
+      "path": "X\\X28\\X28n0586.xml",
+      "mentions": 1,
+      "title": "Supplemental Notes to the Three Major Works on the Lotus Sutra",
+      "title_zh": "法華經三大部補注",
+      "snippet": "...，召道士趙歸真 等八十一人入禁中，帝親受法籙。右捨遺王哲上 疏，言王業之初，不宜崇信過當。疏奏不省。六月，以 衡山道士劉玄靖為銀青光錄大夫，左補闕刘彥 謨上疏切諫，..."
+    },
+    {
+      "path": "X\\X27\\X27n0577.xml",
+      "mentions": 1,
+      "title": "Commentary on the Lotus Sūtra",
+      "title_zh": "法華經疏",
+      "snippet": "...乘居然不測，新發意菩薩、性解之徒、不退菩薩， 初住至七住豈曰不知？欲高美一乘使人崇信，故云 爾耳。語無異，理唯一極，言符乎理，故云語無異。 爾時大眾中至千二百人，佛..."
+    },
+    {
+      "path": "X\\X26\\X26n0520.xml",
+      "mentions": 1,
+      "title": "Commentary on the Renwang Sūtra",
+      "title_zh": "仁王經疏",
+      "snippet": "... 領緇徒。如後魏皇始中，趙郡沙門法果，戒行精至， 開演法籍，太祖徵為沙門統。太宗崇信，彌加於前。 永興中，前後授輔國、宜城子、中信俟、又安城公，皆 固讓之。俗官加僧..."
+    },
+    {
+      "path": "Y\\Y16\\Y16n0016.xml",
+      "mentions": 1,
+      "title": "Studying Buddhism through Buddhist Methods",
+      "title_zh": "以佛法研究佛法",
+      "snippet": "...王朝相承，凡十八世。夜叉波羅王為大臣羅婆斯那所篡， 王朝遂亡。此十八世五百年間，崇信佛法，歷世不替。其尤竭誠護持者，凡七世 ，稱「波羅七代」。七代中，第四世達摩波羅..."
+    },
+    {
+      "path": "Y\\Y14\\Y14n0014.xml",
+      "mentions": 1,
+      "title": "Buddhism for the Human World",
+      "title_zh": "佛在人間",
+      "snippet": "...於智的開發。《新約》 說：「你不要研究撒旦深奧之理。」在進向真理的過程中，這是推崇信仰而抹煞 知識價值的代表者。在他們認為：人類的自由知識，是死亡、苦痛一切不幸的根..."
+    },
+    {
+      "path": "X\\X87\\X87n1636.xml",
+      "mentions": 1,
+      "title": "Classified Abridged Collection of Diamond Sutra Response Accounts",
+      "title_zh": "金剛經感應分類輯要",
+      "snippet": "...。後果得子。五。 皇清順治間，浙江提督張公，名杰，年六十，尚未有嗣。 夫人陳氏，崇信三寶，日誦金剛。凡屬名山，咸往設齋。 康熙五年二月，就天童寺修華嚴懺法，山中現五..."
+    },
+    {
+      "path": "X\\X86\\X86n1596.xml",
+      "mentions": 1,
+      "title": "Single-Transmission Record of Nanyue",
+      "title_zh": "南嶽單傳記",
+      "snippet": "...母去家，依縣之佛慧院。又六歲削 髮受具，又五歲而束包曳杖，飄然有四方之志。首遇 長蘆淨照禪師，參扣之間，景響有得。因閱圓悟勤禪 師語錄，撫卷歎曰：想酢生液，雖未能澆膓沃..."
+    },
+    {
+      "path": "X\\X85\\X85n1590.xml",
+      "mentions": 1,
+      "title": "Jinjiang Chan Lamp",
+      "title_zh": "錦江禪燈",
+      "snippet": "...，三年不倒，春秋六十三矣。 惠寬緜竹孝水楊氏子，父名瑋，係三洞先生、五經博 士，崇信道法，無敦釋教。緜、梓、益三州之人，每歲率送 租米投于瑋家，令保一年安吉，皆與符..."
+    },
+    {
+      "path": "X\\X74\\X74n1469.xml",
+      "mentions": 1,
+      "title": "Avatamsaka Ocean-Seal Assembly: Nine Sessions Buddha-Inviting Rite",
+      "title_zh": "華嚴經海印道場九會請佛儀",
+      "snippet": "...在，諸天護持，不離紙帛，可使堅如金石，又何散 佚腐敗之足虞乎？ 聖天子聖輪御世，崇信大乘，方以華嚴法界含攝羣 生，而木君表章懺法，實維其時。時節因緣，如寶羅網， 交..."
+    },
+    {
+      "path": "X\\X22\\X22n0406.xml",
+      "mentions": 1,
+      "title": "Outline of Miaozong’s Extracts on the Contemplation Sūtra Commentary",
+      "title_zh": "觀無量壽經疏妙宗鈔科",
+      "snippet": "...極乎億 萬劫之後，同一慈悲之念，平等之施。故自西土以 入中國，千有體歲，中國之人崇信其說，遵奉其教， 盖大其能仁之功也。夫人生於血氣之中，長於聲 利之途，耳目口鼻四..."
+    },
+    {
+      "path": "X\\X08\\X08n0235.xml",
+      "mentions": 1,
+      "title": "Discourse on the Profound Principles of the Avatamsaka Sutra",
+      "title_zh": "華嚴經談玄抉擇",
+      "snippet": "...恐未詳， 借一喻明。如眾波浪，其水澄清，波水相 収，諸波互藉，無非濕性。是知借圓崇信，成頓教義，妙之至也。▲言謂 以心傳心等者，心即本覺一心也。心傳者，師資相 望也..."
+    },
+    {
+      "path": "TX\\TX05\\TX05n0004.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part Four – General Mahāyāna Studies (Vols. 6–22)",
+      "title_zh": "太虛大師全書．第四編\u3000大乘通學(第6卷-第22卷)",
+      "snippet": "...流行於他國者觀之，並不如此：英人韋爾斯作「世界史綱」，記 印度向不統一，自阿育王崇信佛教，因以統一全印度，建設許多事業，其成績至今為 西人崇拜為不可多得的聖王。至於..."
+    },
+    {
+      "path": "T\\T55\\T55n2149.xml",
+      "mentions": 1,
+      "title": "Great Tang Catalog of Inner Buddhist Texts",
+      "title_zh": "大唐內典錄",
+      "snippet": "。 後齊高氏傳譯佛經錄第十四 元魏將季其祚分崩。肅宗孝明崇信佛理。太 后胡氏親臨國政。一紀之內天下晏然。及帝 之崩。梟鏡相及。爾朱榮死於內殿..."
+    },
+    {
+      "path": "T\\T54\\T54n2131.xml",
+      "mentions": 1,
+      "title": "Collection of Translated Names and Meanings",
+      "title_zh": "翻譯名義集",
+      "snippet": "...者乎？」玄又 致書遠法師，遠著《沙門不敬王者論》五篇，其 事由息。及安帝返政，還崇信奉。有宋劉氏， 雖孝武大明六年，暫制拜君，尋依先政。中原 元魏太武真君七年，道士..."
+    },
+    {
+      "path": "T\\T52\\T52n2110.xml",
+      "mentions": 1,
+      "title": "Treatise on Discriminating the Correct",
+      "title_zh": "辯正論",
+      "snippet": "...戚總政本之要。當神 州之重。並感圓珠。慕勵已心。式光朝政敷 宣治道。而虛襟佛理。崇信法橋。造像書經興 立塔寺。寫一切經一十二藏。 魏彭城王勰 罄盡心力保護世宗。內外..."
+    },
+    {
+      "path": "T\\T52\\T52n2104.xml",
+      "mentions": 1,
+      "title": "Collected Treatises Weighing Buddhism and Daoism, Past and Present",
+      "title_zh": "集古今佛道論衡",
+      "snippet": "...至如佛教之興基於西域。逮於 後漢方被中土。神變之理多方。報應之緣匪 一。洎於近世崇信滋深。人冀當年之福。家 懼來生之禍。由是滯俗者聞玄宗而大笑。好 異者望真諦而爭歸..."
+    },
+    {
+      "path": "T\\T52\\T52n2102.xml",
+      "mentions": 1,
+      "title": "Collection for the Promotion of Brightness",
+      "title_zh": "弘明集",
+      "snippet": "...千。如在之義重闡茲晨。常住之明永證 來劫。故以德冠百王。聲高萬古。弟子棲心法 門崇信大典。舞蹈之誠獨深鳧藻。王仲欣和 南。 建安王外兵參軍沈績答"
+    },
+    {
+      "path": "T\\T51\\T51n2099.xml",
+      "mentions": 1,
+      "title": "Expanded Record of Mount Qingliang",
+      "title_zh": "廣清涼傳",
+      "snippet": "...一切。近侍吉祥。億生萬世。 續遺 前代州管內僧正勝行大德沙門明崇撰 安州人張氏。崇信三寶。純厚人也。元豐甲子。 來遊此山。以錢百萬。奉曼殊室利。每日三時。 必來開殿..."
+    },
+    {
+      "path": "T\\T51\\T51n2089.xml",
+      "mentions": 1,
+      "title": "Extracts from Travel Records",
+      "title_zh": "遊方記抄",
+      "snippet": "四神跡。長 三尺入地三寸。今造四神王像。扶持閣四 角。其神跡今尚存焉。昔梁武帝。崇信佛法。興 建伽藍。今有江寧寺。彌勒寺。長慶寺。延祚 寺等。其數甚多。莊嚴彫刻。已..."
+    },
+    {
+      "path": "T\\T51\\T51n2084.xml",
+      "mentions": 1,
+      "title": "Essential Abridged Record of Responses Concerning the Three Jewels",
+      "title_zh": "三寶感應要略錄",
+      "snippet": "...及家人。共起觀像。乃 同所見。無異其背點宛然補處。於是歎異。信 知聖教不虛。遂加崇信佛法。彌慇禮敬。益年 不死。自佛法東流已來。靈像感應者。述不能 盡。無如此像矣。..."
+    },
+    {
+      "path": "T\\T50\\T50n2053.xml",
+      "mentions": 1,
+      "title": "Biography of the Tripitaka Master of Great Ci’en Monastery (Tang)",
+      "title_zh": "大唐大慈恩寺三藏法師傳",
+      "snippet": "...間，涼州訪牒又至，云： 「有僧字玄奘，欲入西蕃，所在州縣宜嚴候 捉。」州吏李昌，崇信之士，心疑法師，遂密將 牒呈云：「師不是此耶？」法師遲疑未報。昌 曰：「師須實語..."
+    },
+    {
+      "path": "T\\T50\\T50n2051.xml",
+      "mentions": 1,
+      "title": "Separate Biography of the Dharma-Protector Monk Falin (Tang)",
+      "title_zh": "唐護法沙門法琳別傳",
+      "snippet": "...至如佛教之興基於西域。爰自 東漢方被中華。神變之理多方。報應之緣匪 一。暨乎近世崇信滋深。人冀當年之福。家懼 來生之禍。由是滯俗者。聞玄宗而大笑。好異 者望真諦而爭..."
+    },
+    {
+      "path": "T\\T23\\T23n1442.xml",
+      "mentions": 1,
+      "title": "Mūlasarvāstivāda Vinaya",
+      "title_zh": "根本說一切有部毘奈耶",
+      "snippet": "...，無慈愍心不 持禁戒，由斯惡行得苦異熟。受樂報者善業 所感，謂不殺盜乃至不邪見，崇信三寶、敬重 尊親，具慈愍心奉持禁戒，由斯善行得樂異 熟。」諸人聞已歎未曾有，悉皆..."
+    }
+  ]
+}

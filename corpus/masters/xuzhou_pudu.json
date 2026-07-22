@@ -1,0 +1,107 @@
+{
+  "master": "Xuzhou Pudu",
+  "primary_count": 0,
+  "secondary_count": 14,
+  "total_mentions": 18,
+  "primary": [],
+  "secondary": [
+    {
+      "path": "X\\X86\\X86n1601.xml",
+      "mentions": 2,
+      "title": "Genealogy of the Chan Lamp",
+      "title_zh": "禪燈世譜",
+      "snippet": "訥堂辨 華藏無礙通 虗舟度 天童竺西坦 玉山珍"
+    },
+    {
+      "path": "X\\X79\\X79n1562.xml",
+      "mentions": 2,
+      "title": "Chan Forest Sangha Treasures Biographies (Southern Song–Yuan–Ming)",
+      "title_zh": "南宋元明禪林僧寶傳",
+      "snippet": "卷十 元叟端禪師石屋珙禪師 徑山虗舟度禪師孚中信禪師 楚石愚菴夢堂三禪師古梅友禪師"
+    },
+    {
+      "path": "GA\\GA031\\GA031n0032.xml",
+      "mentions": 2,
+      "title": "Gazetteer of Jingshan (Vols. 1–5)",
+      "title_zh": "徑山志(第1卷-第5卷)",
+      "snippet": "列祖 藏叟禪師 虛舟普度禪師 雲峰妙高禪師 虎巖伏禪師"
+    },
+    {
+      "path": "X\\X83\\X83n1574.xml",
+      "mentions": 2,
+      "title": "Expanded Collection: Continued Transmission of the Lamp Record",
+      "title_zh": "增集續傳燈錄",
+      "snippet": "...業道源禪師 淨慈靈石如芝禪師 靈巖竹\uDB80\uDE27喜禪師 雪竇禹溪了禪師 葛廬覃禪師 徑山虗舟度禪師法嗣 徑山虎巖淨伏禪師 承天庸叟時中禪師 天童竺西妙坦禪師 靈隱玉山德珍禪師..."
+    },
+    {
+      "path": "T\\T49\\T49n2035.xml",
+      "mentions": 1,
+      "title": "Comprehensive Chronicle of Buddhas and Patriarchs",
+      "title_zh": "佛祖統紀",
+      "snippet": "...九月詔佛光照法師再住上天竺。法堂繪 事方新宜昭揭先帝白雲御書錄狀聞奏。 詔中天竺虛舟普度禪師住景德靈隱寺 咸淳癸酉八月十五日佛光照法師示寂。 勅賜天岩塔院。諡普通大師。..."
+    },
+    {
+      "path": "GB\\GB078\\GB078n0109.xml",
+      "mentions": 1,
+      "title": "Jingshan Collection",
+      "title_zh": "徑山集",
+      "snippet": "明州人。十月八日忌辰。 苐四十一代蔵叟珍禅師泉州人。五月廿一日忌。 苐四十二代虗舟度禅師楊州人。四月廿四日忌。 苐四十三代雲峰高禅師福之長谿人，諱妙高。"
+    },
+    {
+      "path": "GA\\GA036\\GA036n0037.xml",
+      "mentions": 1,
+      "title": "Brief Gazetteer of Jinshan Longyou Chan Monastery (Vols. 1–2)",
+      "title_zh": "金山龍游禪寺志略(第1卷-第2卷)",
+      "snippet": "宋虛舟普度禪師乃華藏通禪師法嗣南嶽下二十 世傳臨濟宗上堂邪人說正法正法悉皆邪正人說 邪法邪..."
+    },
+    {
+      "path": "GA\\GA023\\GA023n0021.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Lingyin Monastery, Wulin",
+      "title_zh": "武林靈隱寺志",
+      "snippet": "昨朝栽茄子 今日種冬瓜一聲河滿子 明月 落誰家 虛舟普度禪師臨濟宗，揚州人，姓史氏。稍長，絕無處 俗意，母識其志，俾依郡之天寧出家。會與..."
+    },
+    {
+      "path": "B\\B35\\B35n0194.xml",
+      "mentions": 1,
+      "title": "General Catalogue of the Chinese Tripiṭaka",
+      "title_zh": "中華大藏經總目錄",
+      "snippet": "...77石溪心月禪師語錄三卷 10921378石溪心月禪師雜錄一卷 10931379虛舟普度禪師語錄一卷 10941380即休契了禪師拾遺集一卷 續甲第二十八套第二冊"
+    },
+    {
+      "path": "B\\B19\\B19n0103.xml",
+      "mentions": 1,
+      "title": "Annotated Glossary of Chan Monastic Terms and Implements",
+      "title_zh": "禪林象器箋",
+      "snippet": "...真慧禪院。第十二代。演禪 師以酬法乳。 又次雲居真如禪院開堂。為演 禪師拈香。 虗舟度禪師。徑山錄云。拈香云。此一瓣香。三十 年。八回拈出。更看末後慇懃。奉為前住常州..."
+    },
+    {
+      "path": "X\\X77\\X77n1524.xml",
+      "mentions": 1,
+      "title": "Supplement to the Continued Biographies of Eminent Monks",
+      "title_zh": "補續高僧傳",
+      "snippet": "... 東林。總禪師見偈，大驚曰：衲子參究若此，善不可加。 令人跡其所往，竟無知者。 虗舟度傳 普度，字虗舟，維揚江都史氏子。稍長，雖習世書，絕無 處俗意。母識其志，俾依郡..."
+    },
+    {
+      "path": "X\\X71\\X71n1410.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Tanfang Shouzhong",
+      "title_zh": "曇芳守忠禪師語錄",
+      "snippet": "... 一見，付衣而寂。盖此宗之不苟於得人，有如此者，是 為松源一支。嶽得無得通，通得虗舟度，度得玉山珍。 今吾曇芳，則珍之弟子也。夫以心傳心，宗無別法。隨 法說法，法無定..."
+    },
+    {
+      "path": "X\\X64\\X64n1260.xml",
+      "mentions": 1,
+      "title": "Outline Record of the Successive Patriarchs",
+      "title_zh": "列祖提綱錄",
+      "snippet": "...心安 居，平等性智。喫官酒，臥官街；當處死，當處埋。本來無 位次，何用強安排？ 虗舟度禪師結夏上堂，舉雲門和尚示眾云：汝等諸 人在此過夏，山僧深不欲向你道，惜取眉毛好..."
+    },
+    {
+      "path": "X\\X84\\X84n1582.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Orthodox Continuation of the Lamp",
+      "title_zh": "續燈正統目錄",
+      "snippet": "徑山智愚禪師 天童衍禪師 金山開禪師法嗣 徑山心月禪師 華藏通禪師法嗣 徑山虗舟度禪師 瑞巖嵒禪師法嗣 萬壽辯禪師 虎丘義禪師 雪竇謙禪師法嗣 承天夢真禪師 慧巖..."
+    }
+  ]
+}

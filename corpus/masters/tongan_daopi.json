@@ -1,1 +1,408 @@
-{"primary_count":0,"secondary_count":2,"total_mentions":5,"primary":[],"secondary":[{"path":"J\\J36\\J36nB369.xml","mentions":4,"title":"Recorded Sayings of Chan Master Zhe’an Fan","title_zh":"蔗菴範禪師語錄","snippet":"... 頌曰：「聽得街頭楚些悲，生涯喪盡有誰知。靈魂去 住無消息，日日紅輪照兩眉。」 同安道丕禪師因僧問：「佛未出世時如何？」師曰：「藕絲 牽大象。」曰：「出世後如何？」師曰..."},{"path":"J\\J36\\J36nB359.xml","mentions":1,"title":"Recorded Sayings of Chan Master Baiyu","title_zh":"百愚禪師語錄","snippet":"...然之。 險處連推不倒，直須出手相扶，一枝別露春色，風 月猶殊帝都。 第十三祖鳳棲同安道丕大師，僧問：「如何是和尚家 風？」師曰：「金雞抱子歸霄漢，玉兔懷胎入紫微。」曰：..."}]}
+{
+  "master": "Tongan Daopi",
+  "primary_count": 0,
+  "secondary_count": 57,
+  "total_mentions": 96,
+  "primary": [],
+  "secondary": [
+    {
+      "path": "X\\X79\\X79n1557.xml",
+      "mentions": 4,
+      "title": "Essential Compendium of the United Lamp",
+      "title_zh": "聯燈會要",
+      "snippet": "... 撫州曹山惠霞禪師 洪州雲居道膺禪師法嗣八人 杭州佛日和尚 蘇州永光真禪師 洪州同安丕禪師 洪州雲居懷岳禪師 歙州朱溪謙禪師 池州嵆山章禪師 洪州雲居簡禪師 廬山歸宗..."
+    },
+    {
+      "path": "J\\J37\\J37nB392.xml",
+      "mentions": 4,
+      "title": "Recorded Sayings of Chan Master Hansong Cao",
+      "title_zh": "寒松操禪師語錄",
+      "snippet": "...正恁麼時如何？」 卓一卓，云：「手指空時天地轉，回頭石馬出紗籠。」 晚參。舉：「同安丕禪師因僧問：『如何是和尚家風？』安云： 『金雞抱子歸霄漢，玉兔懷胎入紫微。』曰：..."
+    },
+    {
+      "path": "J\\J33\\J33nB294.xml",
+      "mentions": 4,
+      "title": "Recorded Sayings of Chan Master Liangting Ting of Yunxi",
+      "title_zh": "雲溪俍亭挺禪師語錄",
+      "snippet": "...俱盡？」驀拈拄杖，喝一喝，云：「老僧令行也。顯禪師，顯禪 師，切須迴避。」 僧問同安丕：「如何是和尚家風？」安云：「金雞抱卵歸 霄漢，玉兔懷胎向紫微。」「忽遇客來，將..."
+    },
+    {
+      "path": "B\\B24\\B24n0137.xml",
+      "mentions": 4,
+      "title": "Register of Correct Names",
+      "title_zh": "正名錄",
+      "snippet": "...。其略曰．六祖下分五派。曹洞正傳青原思．石頭遷．藥山儼．雲巖晟．洞山价．雲居膺．同安丕．同 安志．梁山觀．大陽玄．投子青．芙蓉楷．鹿門覺．青州辯．磁州寶．王山體．雪巖..."
+    },
+    {
+      "path": "X\\X86\\X86n1600.xml",
+      "mentions": 3,
+      "title": "Chronological Compilation of the Sectarian Lineage",
+      "title_zh": "宗統編年",
+      "snippet": "...居膺祖師 卷之十七 臨濟宗第三世南院顒祖師 曹洞宗第二世雲居膺祖師 曹洞宗第三世同安丕祖師 雲門開宗第一世雲門偃祖師 卷之十八 臨濟宗第三世南院顒祖師 臨濟宗第四世風..."
+    },
+    {
+      "path": "X\\X78\\X78n1554.xml",
+      "mentions": 3,
+      "title": "Praise of the Orthodox Lineage of the Five Houses",
+      "title_zh": "五家正宗贊",
+      "snippet": "曹洞宗 洞山悟本禪師曹山元證禪師 雲居宏覺禪師同安丕禪師 同安志禪師梁山觀禪師 大陽玄禪師投子青禪師"
+    },
+    {
+      "path": "J\\J36\\J36nB369.xml",
+      "mentions": 3,
+      "title": "Recorded Sayings of Chan Master Zhe’an Fan",
+      "title_zh": "蔗菴範禪師語錄",
+      "snippet": "... 頌曰：「聽得街頭楚些悲，生涯喪盡有誰知。靈魂去 住無消息，日日紅輪照兩眉。」 同安道丕禪師因僧問：「佛未出世時如何？」師曰：「藕絲 牽大象。」曰：「出世後如何？」師曰..."
+    },
+    {
+      "path": "J\\J35\\J35nB336.xml",
+      "mentions": 3,
+      "title": "Recorded Sayings of Chan Master Huigongxiong of Baoxianglin, Nanhai",
+      "title_zh": "南海寶象林慧弓詗禪師語錄",
+      "snippet": "...頌云：「若是西來祖意，不妨問著難答。如今慚愧雲 居，罪過為渠先納。」 洪州鳳棲山同安丕禪師。僧問：「如何是同安一隻箭？」 師曰：「腦後看。」曰：「腦後事如何？」師曰：..."
+    },
+    {
+      "path": "X\\X65\\X65n1295.xml",
+      "mentions": 3,
+      "title": "Comprehensive Collection of Chan School Verse-on-Old-Cases Linked Pearls",
+      "title_zh": "禪宗頌古聯珠通集",
+      "snippet": "同安常察禪師新羅泊嚴和尚 新羅大嶺禪師 杭州佛日和尚同安丕禪師 朱谿謙禪師雲居道簡禪師 歸宗懷惲禪師"
+    },
+    {
+      "path": "X\\X80\\X80n1564.xml",
+      "mentions": 2,
+      "title": "Table of Contents of the Five Lamps Compendium",
+      "title_zh": "五燈會元目錄",
+      "snippet": "...利容禪師 小溪行傳禪師 布水巖和尚 蜀川西禪和尚 韶州華嚴和尚 雲居膺禪師法嗣 同安丕禪師 歸宗懷惲禪師 嵆山章禪師 雲居懷岳禪師 杭州佛日禪師 永光真禪師 歸宗澹權..."
+    },
+    {
+      "path": "T\\T51\\T51n2076.xml",
+      "mentions": 2,
+      "title": "Jingde Record of the Transmission of the Lamp",
+      "title_zh": "景德傳燈錄",
+      "snippet": "人 杭州佛日和尚蘇州永光院真禪師 洪州同安丕禪師廬山歸宗澹權禪師 池州廣濟和尚潭州水西南臺和尚 歙州朱谿謙禪師揚州豐化和尚"
+    },
+    {
+      "path": "J\\J39\\J39nB454.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Pinjixiang",
+      "title_zh": "頻吉祥禪師語錄",
+      "snippet": "...無佛性。」 官馬從來無所禁，南陌溪西任所馳，沿山百里皆 傳驛，處處輕花襯馬蹄。 同安丕禪師，僧問：「如何是和尚家風？」安曰：「金雞抱子 歸霄漢，玉兔懷胎出紫微。」 金..."
+    },
+    {
+      "path": "C\\C078\\C078n1720.xml",
+      "mentions": 2,
+      "title": "Chan School: Comprehensive Linked-Pearls Collection of Verse Commentaries on Old Cases",
+      "title_zh": "禪宗頌古聯珠通集",
+      "snippet": "...\uFFFD下徃徃事從閒話生莫將閑話為閑 話擔板漢沒拘束餓死首陽山 誓不食周粟 洪州鳳棲山同安丕禪師僧問如何 是和尚家風師曰金雞抱子歸霄漢玉兔懷 兒向紫微曰忽遇客來將何祗待師曰..."
+    },
+    {
+      "path": "X\\X83\\X83n1578.xml",
+      "mentions": 2,
+      "title": "Record Pointing at the Moon",
+      "title_zh": "指月錄",
+      "snippet": "太原孚上座 卷之二十 六祖下第七世 撫州金峰從志禪師 處州廣利容禪師 洪州同安丕禪師 杭州佛日本空禪師 池州嵆山章禪師 朱溪謙禪師 南康雲居道簡禪師 護國守澄禪..."
+    },
+    {
+      "path": "X\\X81\\X81n1571.xml",
+      "mentions": 2,
+      "title": "Complete Five Lamps (Vols. 1–33)",
+      "title_zh": "五燈全書(第1卷-第33卷)",
+      "snippet": "曹宗洞 青原下六世 雲居膺禪師法嗣 洪州鳳棲山同安丕禪師僧問：如何是無縫塔？師曰： 吽！吽！曰：如何是塔中人？師曰：今日大有人從建昌..."
+    },
+    {
+      "path": "X\\X81\\X81n1570.xml",
+      "mentions": 2,
+      "title": "Table of Contents of the Complete Five Lamps",
+      "title_zh": "五燈全書目錄",
+      "snippet": "韶州華嚴和尚 羅漢池隆禪師 卷二十八 青原下第六世 雲居膺禪師法嗣 同安丕禪師 歸宗懷惲禪師 稽山章禪師 雲居懷嶽禪師 佛日本空禪師 永光真禪師 歸宗澹權..."
+    },
+    {
+      "path": "X\\X81\\X81n1568.xml",
+      "mentions": 2,
+      "title": "Strict Lineage of the Five Lamps (Vols. 10–25)",
+      "title_zh": "五燈嚴統(第10卷-第25卷)",
+      "snippet": "今萬世傳。 雲居膺禪師法嗣 洪州鳳棲山同安丕禪師僧問：如何是無縫塔？師曰： 吽！吽！曰：如何是塔中人？師曰：今日大有人從建昌..."
+    },
+    {
+      "path": "X\\X80\\X80n1567.xml",
+      "mentions": 2,
+      "title": "Table of Contents of the Strict Lineage of the Five Lamps",
+      "title_zh": "五燈嚴統目錄",
+      "snippet": "...利容禪師 小溪行傳禪師 布水巖和尚 蜀川西禪和尚 韶州華嚴和尚 雲居膺禪師法嗣 同安丕禪師 歸宗懷惲禪師 嵆山章禪師 雲居懷岳禪師 杭州佛日禪師 永光真禪師 歸宗澹權..."
+    },
+    {
+      "path": "X\\X80\\X80n1565.xml",
+      "mentions": 2,
+      "title": "Five Lamps Compendium",
+      "title_zh": "五燈會元",
+      "snippet": "今萬世傳。 雲居膺禪師法嗣 洪州鳳棲山同安丕禪師僧問。如何是無縫塔。師曰。 吽。吽。曰。如何是塔中人。師曰。今日大有人從建昌..."
+    },
+    {
+      "path": "X\\X71\\X71n1425.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Danxia Zichun",
+      "title_zh": "丹霞子淳禪師語錄",
+      "snippet": "\uDB8E\uDF4B兒。 一念蕭蕭不記年，皮膚脫落自完全。長天夜夜清如 鏡，萬里無雲孤月圓。 同安丕禪師。僧問：如何是和尚家風？師曰：金鷄抱 子歸霄漢，玉兔懷胎入紫微。曰：忽遇客來..."
+    },
+    {
+      "path": "X\\X67\\X67n1310.xml",
+      "mentions": 2,
+      "title": "Picking Up Jewels from the Eight Directions Collection",
+      "title_zh": "拈八方珠玉集",
+      "snippet": "...鼻偷香，魚行水濁，家賊難防。 佛海云：雲居趙州，一狀領過，獨有長慶較些子。 舉：同安丕禪師看經次，有僧來參，丕以衫袖蓋却頭， 僧近前作吊慰勢，丕放下衫袖，提起經云：會..."
+    },
+    {
+      "path": "X\\X67\\X67n1304.xml",
+      "mentions": 2,
+      "title": "Elder Linquan’s Commentary and Chanted Remarks on Chan Master Danxia Zichun’s Verses on Ancient Cases: Xutang Collection",
+      "title_zh": "林泉老人評唱丹霞淳禪師頌古虗堂集",
+      "snippet": "示眾云：門庭施設，萬緒千端；入理深談，一了百當。且 道誰能具此三昧？ 舉：僧問同安丕禪師：如何是和尚家風？安云：金鷄抱子歸霄漢，玉兔懷胎入紫微。僧云：忽遇客來，如何..."
+    },
+    {
+      "path": "X\\X67\\X67n1299.xml",
+      "mentions": 2,
+      "title": "Classified Anthology of the Chan Grove",
+      "title_zh": "禪林類聚",
+      "snippet": "...佛慧泉云： 讀書人到切須看，無絃難遇知音者。端的家風說 與君，沒階趨進翼如也。 同安丕禪師。僧問：如何是和尚家風？師云：金雞抱子 歸霄漢，玉兔懷胎入紫微。云：忽遇客來..."
+    },
+    {
+      "path": "X\\X66\\X66n1297.xml",
+      "mentions": 2,
+      "title": "Dharma Grove of the Tradition’s Mirror",
+      "title_zh": "宗鑑法林",
+      "snippet": "天葢山幽 三角令珪 投子感溫 牛頭微 卷六十六 大鑒下七世 同安丕 歸宗懷惲 嵆山章 佛日本空 朱溪謙 雲居道簡 新羅雲住 金峯從志 曹山慧霞 荷..."
+    },
+    {
+      "path": "X\\X66\\X66n1296.xml",
+      "mentions": 2,
+      "title": "Compilation of the School Gate’s “Raising Old Cases”",
+      "title_zh": "宗門拈古彙集",
+      "snippet": "長生皎然 安國弘瑫 太原孚 卷第三十七 青六 金峰從志 曹山慧霞 同安丕 嵆山章 朱溪謙 佛日本空 報慈藏嶼 護國守澄 南七 風穴延沼 芭蕉繼徹"
+    },
+    {
+      "path": "X\\X85\\X85n1593.xml",
+      "mentions": 2,
+      "title": "Orthodox Line of the Chan School",
+      "title_zh": "禪宗正脉",
+      "snippet": "...州和山 天童啟 欽山邃 洞山延 金峰志 鹿門真 曹山霞 曹山慧 曹山炬 育王通 同安丕 歸宗惲 嵆山章 雲居嶽 佛日空 永光真 朱谿謙 雲居簡 新羅雲住 護國澄 靈泉..."
+    },
+    {
+      "path": "X\\X86\\X86n1603.xml",
+      "mentions": 1,
+      "title": "Genealogy of the Monastic Gate",
+      "title_zh": "緇門世譜",
+      "snippet": "山際魁禪師。\uDB8F\uDD77勝登 了然。 曹洞宗 雲居膺禪師\uDB8F\uDD77同安丕。\uDB8F\uDD77同安志。\uDB8F\uDD77梁山觀。\uDB8F\uDD77大陽 玄。\uDB8F\uDD77投子青。\uDB8F\uDD77芙蓉楷。\uDB8F\uDD77丹霞淳。\uDB8F\uDD77..."
+    },
+    {
+      "path": "X\\X86\\X86n1601.xml",
+      "mentions": 1,
+      "title": "Genealogy of the Chan Lamp",
+      "title_zh": "禪燈世譜",
+      "snippet": "諡弘 覺。 同安丕 同安志 梁山緣觀"
+    },
+    {
+      "path": "X\\X79\\X79n1560.xml",
+      "mentions": 1,
+      "title": "Biographies of Sangha Treasures of the Chan Forest",
+      "title_zh": "禪林僧寶傳",
+      "snippet": "...至於此。問我歸何處。頂相終難覩。停筆而化。 贊曰。延嗣梁山觀。觀嗣同安志。志嗣先同安丕。丕嗣 雲居膺。膺於洞山之門。為高弟也。余觀大陽盛時。有 承剖兩衲子。號稱奇傑。..."
+    },
+    {
+      "path": "X\\X79\\X79n1558.xml",
+      "mentions": 1,
+      "title": "General Table of Contents of the Jiatai Universal Lamp Record",
+      "title_zh": "嘉泰普燈錄總目錄",
+      "snippet": "...宗師 魏府興化廣濟存獎禪師 南康軍雲居弘覺道膺禪師 汝州南院慧顒禪師 隆興府鳳棲同安丕禪師 汝州風穴延昭禪師 益州香林澄遠禪師 隆興府同安第二代志禪師 汝州首山省念禪"
+    },
+    {
+      "path": "X\\X72\\X72n1444.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Zhanran Yuancheng",
+      "title_zh": "湛然圓澄禪師語錄",
+      "snippet": "...，當武宗會昌 年。而洞山价，當大中之末，至懿宗咸通年也。雲居膺， 當昭宗天復年。同安丕、同安志，至梁山觀、太陽玄，乃 當宋仁宗天聖年也。投子青，當神宗元豐年。芙蓉楷，..."
+    },
+    {
+      "path": "X\\X16\\X16n0318.xml",
+      "mentions": 1,
+      "title": "Doctrinal Integration of the Śūraṅgama Sutra",
+      "title_zh": "楞嚴經宗通",
+      "snippet": "...處有家傳。白 蘋風細秋江暮，古岸船歸一帶烟。此頌於不墮諸 數更切。同安志禪師嗣先同安丕。丕將示滅，上堂 曰：多子塔前宗子秀，五老峰前事若何？三舉未有 對者。末後志出曰..."
+    },
+    {
+      "path": "P\\P155\\P155n1519.xml",
+      "mentions": 1,
+      "title": "Essential Compendium of the Zen School: Main and Continued Collections (Vols. 13–20)",
+      "title_zh": "宗門統要正續集(第13卷-第20卷)",
+      "snippet": "... 打殺無底籃子盛將歸師云手執夜明符幾 箇知天曉山云大眾有人也歸去來歸去來。 洪州同安丕禪師看經次因僧來叅師以衫 袖蓋却頭僧近前作吊慰勢師放下衫袖提 起經云會麼僧亦將衫..."
+    },
+    {
+      "path": "L\\L158\\L158n1652.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Mingjue Cong",
+      "title_zh": "明覺聰禪師語錄",
+      "snippet": "...鞏箭不 畜子湖狗既然都用他不着或有出格底 衲僧來合作麼生接他但向伊道蕩溺器 復舉同安丕和尚因僧問如何是和尚家 風安云金鷄抱子離霄漢玉兔懷胎入紫 微僧云忽遇客來將何接待..."
+    },
+    {
+      "path": "J\\J39\\J39nB453.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Yuanjie Ying",
+      "title_zh": "元潔瑩禪師語錄",
+      "snippet": "...道。」 不行鳥道猶沉轍，縱步行來亦轉迂，踏斷石橋南岸 柳，自然寥廓出通塗。 僧問同安丕禪師：「如何是和尚家風？」安云：「金雞 抱子歸霄漢，玉兔懷胎出紫微。」曰：「忽遇..."
+    },
+    {
+      "path": "J\\J37\\J37nB388.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Yikui of Shending",
+      "title_zh": "神鼎一揆禪師語錄",
+      "snippet": "頌： 淡掃娥眉出繡幃，自言比並世間稀。狂風何處來輕 薄，獨抱琵琶掩面歸。 同安丕禪師因僧問：「依經解義，三世佛冤。離經一 字，即同魔說。此理如何？」師曰：「孤峰..."
+    },
+    {
+      "path": "J\\J36\\J36nB359.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Baiyu",
+      "title_zh": "百愚禪師語錄",
+      "snippet": "...然之。 險處連推不倒，直須出手相扶，一枝別露春色，風 月猶殊帝都。 第十三祖鳳棲同安道丕大師，僧問：「如何是和尚家 風？」師曰：「金雞抱子歸霄漢，玉兔懷胎入紫微。」曰：..."
+    },
+    {
+      "path": "J\\J34\\J34nB311.xml",
+      "mentions": 1,
+      "title": "Complete Record of Chan Master Juelangsheng of Tianjie",
+      "title_zh": "天界覺浪盛禪師全錄",
+      "snippet": "...切；尊貴迥異，金 鸞玉鳳沒分疏。价公末後獨憐兒，一棒撩出雲巖路。 第三代洪州鳳棲同安丕禪師 鳳棲山中無縫塔，白日吽吽人不襪，金雞玉兔展家 風，客來秪待曾不乏。短販夜行..."
+    },
+    {
+      "path": "J\\J27\\J27nB191.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Xiangtian Jinian",
+      "title_zh": "象田即念禪師語錄",
+      "snippet": "佛性誰有？誰無？自己原不糢糊，大人磊磊落落，嬰兒哆 哆啝啝。 同安丕禪師因僧問：「依經解義，三世佛冤；離經一 字，即同魔說，如何？」師曰：「孤峰迥秀..."
+    },
+    {
+      "path": "J\\J27\\J27nB189.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Sanyi Yu",
+      "title_zh": "三宜盂禪師語錄",
+      "snippet": "...衣錦琉璃殿上行，也須擊 碎珍綈瑑。鍾王尊禮世世師，那知世世尊吾屬。 四十洪州鳳山同安丕禪師 鳳山山上鳥無巢，無縫塔裏天涯路。日出鳴金雞，月 明昇玉兔。青猿偷果客投空，..."
+    },
+    {
+      "path": "J\\J26\\J26nB185.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Fushi",
+      "title_zh": "浮石禪師語錄",
+      "snippet": "...投老年來事易忘，任他 烏兔兩頭忙，飢餐渴飲隨時過，無力閒遊到別方。」舉： 「昔日同安丕禪師因僧問：『如何是和尚家風？』同云：『金 雞抱子離霄漢，玉兔懷胎入紫微。』僧云..."
+    },
+    {
+      "path": "J\\J25\\J25nB174.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Juelangsheng of Tianjie",
+      "title_zh": "天界覺浪盛禪師語錄",
+      "snippet": "...切？尊貴迥異，金 鸞玉鳳沒分疏。价公末後獨憐兒，一棒撩出雲巖路。 第三代洪州鳳棲同安丕禪師 鳳棲山中無縫塔，白日吽吽人不襪；金雞玉兔展家 風，客來秪待曾不乏。短販夜行..."
+    },
+    {
+      "path": "D\\D49\\D49n8942.xml",
+      "mentions": 1,
+      "title": "Record of the Four Houses",
+      "title_zh": "四家錄",
+      "snippet": "乾坤\uD854\uDC5E是黃金國萬有全彰淨妙身 玉女背風無巧拙靈苗花秀不知春 舉僧問同安丕禪師如何是和尚家風安云金 鷄抱子歸霄漢玉兔懷胎入紫\uDB8C\uDFE7僧云忽遇客 来如何秪待安云..."
+    },
+    {
+      "path": "B\\B14\\B14n0082.xml",
+      "mentions": 1,
+      "title": "Jade Flowers of the Transmission of the Lamp (Fragment)",
+      "title_zh": "傳燈玉英集（殘卷）",
+      "snippet": "...打殺無底籃子盛將歸師曰手 執夜明符幾箇知天曉夾山曰大眾有人歸去 歸去 洪州鳳棲山同安丕禪師僧問一見便休去時 如何師曰是也更來遮裏作麼問如何是點額魚 師曰不透波瀾僧曰慚..."
+    },
+    {
+      "path": "X\\X84\\X84n1580.xml",
+      "mentions": 1,
+      "title": "Separate Transmission Outside the Teachings",
+      "title_zh": "教外別傳",
+      "snippet": "...原下六世 洞山道延禪師 金峯從志禪師 曹山慧霞禪師 草菴法義禪師 曹山智炬禪師 同安丕禪師 嵆山章禪師 杭州佛日禪師 朱溪謙禪師 護國守澄禪師 靈泉歸仁禪師 疎山證禪..."
+    },
+    {
+      "path": "X\\X82\\X82n1571.xml",
+      "mentions": 1,
+      "title": "Complete Five Lamps (Vols. 34–120)",
+      "title_zh": "五燈全書(第34卷-第120卷)",
+      "snippet": "...即不點？師曰：鵝王擇乳， 素非鴨類。揆曰：伶俐禪客。師曰：是何言歟？ 示眾，舉 同安丕看經次，見僧來參，遂以衣袖葢却頭，僧近前 作弔慰勢，丕放下衣袖，提經曰：會麼？僧..."
+    },
+    {
+      "path": "X\\X77\\X77n1524.xml",
+      "mentions": 1,
+      "title": "Supplement to the Continued Biographies of Eminent Monks",
+      "title_zh": "補續高僧傳",
+      "snippet": "...物， 度越凡量，天下宗之。壽八十餘，無疾而化。廬州帥張 崇為建塔本山。 系曰：有同安丕禪師者，與師同為膺公嫡嗣，難兄弟 也。丕之嗣曰同安志，志之嗣曰梁山緣觀。自丕自觀..."
+    },
+    {
+      "path": "X\\X71\\X71n1420.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Chushi Fanqi",
+      "title_zh": "楚石梵琦禪師語錄",
+      "snippet": "...。師云：諸禪德！風動、幡動、心動，為你拈了也， 向什麼處見祖師？ 當晚小參，舉：同安丕和尚因僧問：如何是和尚家風？ 安云：金雞抱子離霄漢，玉兔懷胎入紫微。僧云：忽遇 ..."
+    },
+    {
+      "path": "X\\X70\\X70n1397.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Xueyan Zuqin",
+      "title_zh": "雪巖祖欽禪師語錄",
+      "snippet": "...上堂。石女高歌木人和，妙用縱橫無不可，三更初夜 月明前，開口幾人曾蹉過？試舉看。同安丕和尚，僧問： 如何是和尚家風？答云：金雞抱子歸霄漢，玉兔懷胎 下紫宸。又問：忽遇..."
+    },
+    {
+      "path": "X\\X68\\X68n1319.xml",
+      "mentions": 1,
+      "title": "Imperially Selected Recorded Sayings",
+      "title_zh": "御選語錄",
+      "snippet": "...里牌在郭門外。 師云：無故惑亂師僧。僧遂起謝 茶， 師曰：特謝闍黎相訪。 鳳棲山同安丕禪師 僧問：如何是和尚家風？ 師曰：金雞抱子歸霄漢，玉兔 懷胎入紫微。 曰：忽遇..."
+    },
+    {
+      "path": "X\\X66\\X66n1298.xml",
+      "mentions": 1,
+      "title": "Gāthās and Verses of the Chan Gate’s Patriarchs",
+      "title_zh": "禪門諸祖師偈頌",
+      "snippet": "...雪峯雲偃香林遠。北塔雪竇付天 衣，二本從茲門大顯。 曹洞宗 清石藥山雲洞祖，雲膺同安丕志附。梁山觀得大陽 玄，投子芙蓉淳獨步。 法眼宗 雪峯傍出玄沙備，地藏法眼益尊貴..."
+    },
+    {
+      "path": "X\\X65\\X65n1286.xml",
+      "mentions": 1,
+      "title": "Record of Tongs and Hammer in the Patriarchal Courtyard",
+      "title_zh": "祖庭鉗鎚錄",
+      "snippet": "...風籍甚。 通容曰：易曰：鼎折足，覆公餗。言其不勝任也。洞山 之道，傳雲居膺，膺傳同安丕，丕傳同安志，志傳梁 山觀，觀傳太陽玄。至玄無正傳，遂將衣鉢寄托與 浮山鑑。既久..."
+    },
+    {
+      "path": "X\\X64\\X64n1260.xml",
+      "mentions": 1,
+      "title": "Outline Record of the Successive Patriarchs",
+      "title_zh": "列祖提綱錄",
+      "snippet": "...地了時諸法空。南山昨夜日卓午，白額咬殺 焦尾蟲。 楚石琦禪師住天寧，當晚小參，舉同安丕和尚因僧 問：如何是和尚家風？安云：金鷄抱子離霄漢，玉兔懷 胎入紫微。僧云：忽遇..."
+    },
+    {
+      "path": "X\\X63\\X63n1244.xml",
+      "mentions": 1,
+      "title": "Record Clarifying the Meaning of Baizhang’s Pure Regulations",
+      "title_zh": "百丈清規證義記",
+      "snippet": "...遷傳藥山唯儼。儼傳 雲巖曇晟。晟傳洞山良价。為洞山宗第一世。价傳 雲居道膺。膺傳同安丕。丕傳同安志。志 傳梁山緣觀。觀傳太陽警玄。玄傳義青。 青傳芙蓉道楷。楷傳慧定自..."
+    },
+    {
+      "path": "X\\X86\\X86n1595.xml",
+      "mentions": 1,
+      "title": "Correct Transmission of Buddhas and Patriarchs: Quick Record, Past and Present",
+      "title_zh": "佛祖正傳古今捷錄",
+      "snippet": "...根，於是洞山宗始於斯矣。唐懿宗咸通己丑三月 七日示寂，諡曰悟本。下傳雲居膺，膺傳同安丕，丕傳 同安志，志傳梁山觀，觀傳大陽玄，玄傳投子青，青傳 芙蓉楷，楷傳丹霞淳，淳..."
+    },
+    {
+      "path": "TX\\TX02\\TX02n0001.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part One – Comprehensive Study of Buddhism (Vols. 27–34)",
+      "title_zh": "太虛大師全書．第一編\u3000佛法總學(第27卷-第34卷)",
+      "snippet": "... 宗風；又因曹山下無傳，傳宗者是洞山下的道膺。 曹洞下繼之者為洞山下雲居膺，膺傳同安丕，丕傳全峰志，志下粱山觀，觀下太 陽玄，皆甚孤寂。玄老恐失傳，乃將霞洞法統託浮山..."
+    },
+    {
+      "path": "T\\T48\\T48n2006.xml",
+      "mentions": 1,
+      "title": "Eyes of Humans and Devas",
+      "title_zh": "人天眼目",
+      "snippet": "南塔芭 蕉清續傳。兒孫未見繼其後。 曹洞 青石藥山雲洞祖。雲膺同安丕志附。梁山親 得大陽玄。投子芙蓉淳獨步。 雲門 青石天龍接德山。"
+    }
+  ]
+}

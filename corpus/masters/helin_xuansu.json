@@ -1,0 +1,961 @@
+{
+  "master": "Helin Xuansu",
+  "primary_count": 0,
+  "secondary_count": 136,
+  "total_mentions": 302,
+  "primary": [],
+  "secondary": [
+    {
+      "path": "T\\T50\\T50n2060.xml",
+      "mentions": 15,
+      "title": "Continued Biographies of Eminent Monks",
+      "title_zh": "續高僧傳",
+      "snippet": "...論文。佛法隆盛英俊蔚然。相從傳授孜孜 如也。帝又勅清信士李廓。撰眾經錄。廓學 通玄素條貫經論。雅有標擬。故其錄云。三 藏流支自洛及鄴。爰至天平二十餘年。凡 所出經。..."
+    },
+    {
+      "path": "B\\B24\\B24n0137.xml",
+      "mentions": 14,
+      "title": "Register of Correct Names",
+      "title_zh": "正名錄",
+      "snippet": "...人亦無天王道悟之名。其所有之者始於張無盡議論。洞山德山垂手不同遂見疑。 後突出丘玄素碑．謂天王之嗣馬祖龍潭之嗣天王。詳載辨中。 智朴道悟真偽辨曰世之所謂五燈者乃禪宗..."
+    },
+    {
+      "path": "GA\\GA043\\GA043n0046.xml",
+      "mentions": 13,
+      "title": "Gazetteer of Helin Monastery (Shi Mingxian Edition)",
+      "title_zh": "鶴林寺志（釋明賢本）",
+      "snippet": "...宋高祖微時嘗游焉，及即位，改今額， 稱「鶴林律院」。唐開元、天寶間（七四一），有玄素禪師法照者，得法於牛頭山，歸主其地，僧 徒日眾，始改為禪寺，又名古竹院。後薛朗、..."
+    },
+    {
+      "path": "X\\X86\\X86n1604.xml",
+      "mentions": 12,
+      "title": "Weeding Out Evils in the Dharma Gate",
+      "title_zh": "法門鋤宄",
+      "snippet": "...後人不敢更東扯西 拽，有惠後學，其亦至矣。茲特單梓，公諸天下，庶幾乎 非徒使知丘玄素之為烏有，而且得使知張無盡決 未及見金山頴公，必也討得二\uDB8E\uDF34之說，可立破之而 無..."
+    },
+    {
+      "path": "J\\J36\\J36nB359.xml",
+      "mentions": 8,
+      "title": "Recorded Sayings of Chan Master Baiyu",
+      "title_zh": "百愚禪師語錄",
+      "snippet": "...親到來，也須仔細看，諸禪德 見麼？」顧左右云：「遠則隔三千，近之在覿面。」 龍泉玄素大師請上堂。舉拂子云：「無偏無正，無主無 賓，門外剎竿一任踢倒，扶起匣中寶劍，何..."
+    },
+    {
+      "path": "X\\X85\\X85n1594.xml",
+      "mentions": 8,
+      "title": "Outline of Buddhas and Patriarchs",
+      "title_zh": "佛祖綱目",
+      "snippet": "...荊門，節使以天王 嗔責，造天王寺於府西供師。弟子一人：龍潭、崇信。 荊南節度使丘玄素撰\uDB8E\uDF34。據此，則龍潭嗣天王，天 王嗣馬祖無疑。傳燈乃誤列於石頭法派，而宋景 濂護..."
+    },
+    {
+      "path": "B\\B13\\B13n0079.xml",
+      "mentions": 7,
+      "title": "Six Tablets of the Śākya Clan (Buddhist Encyclopedia)",
+      "title_zh": "釋氏六帖",
+      "snippet": "...皇帝命章筆受然後方付沙門僧辨佛法隆盛英雋蔚然相從傳受又勑清信士李廓撰眾經錄廓學通玄素條貫經論雅有標擬故其錄云三藏流支自洛及鄴爰至天平二十餘年凡所出經二十九部一百二 ..."
+    },
+    {
+      "path": "GA\\GA012\\GA012n0010.xml",
+      "mentions": 6,
+      "title": "Gazetteer of Ayuwang Mountain, Mingzhou (Vols. 9–10)",
+      "title_zh": "明州阿育王山志(第9卷-第10卷)",
+      "snippet": "送秘藏入吳靜坐 贈景陽師雨霽同秘藏山行 雨中訪潘玄素居士不值 雨中夜坐寄懷歸台麓使君 聞鐘聲寄隱鱗居士喜季修至"
+    },
+    {
+      "path": "Y\\Y40\\Y40n0038.xml",
+      "mentions": 6,
+      "title": "History of Chinese Chan",
+      "title_zh": "中國禪宗史",
+      "snippet": "...付法與法融的事。在現存文記中，最早傳 說道信別傳法融的，是李華所撰〈潤州鶴林寺故徑山大師碑銘〉，如說： 「初達摩祖師傳法三世，至信大師。信門人達者，曰融大師，居牛頭山，..."
+    },
+    {
+      "path": "X\\X77\\X77n1522.xml",
+      "mentions": 5,
+      "title": "Newly Compiled Classified Biographies of Monks of the Six Studies",
+      "title_zh": "新修科分六學僧傳",
+      "snippet": "...羅菩提唐普寂 唐一行 唐戍婆揭羅僧訶 唐行思 唐圓寂 唐思睿 唐懷讓 唐靈着 唐玄素 唐香育 唐智封 唐玄朗 唐降魔藏 唐志賢 唐慧忠 唐進平 唐曇一 唐道堅 唐慧..."
+    },
+    {
+      "path": "T\\T48\\T48n2006.xml",
+      "mentions": 5,
+      "title": "Eyes of Humans and Devas",
+      "title_zh": "人天眼目",
+      "snippet": "...西天王寺道悟者渚宮人。崔 子玉之後。嗣馬祖。元和十三年四月十三日 化。正議大夫丘玄素。撰塔銘。文幾千言。其略 云。馬祖祝曰。他日莫離舊處。故還渚宮。一曰 江陵城東天..."
+    },
+    {
+      "path": "X\\X86\\X86n1601.xml",
+      "mentions": 4,
+      "title": "Genealogy of the Chan Lamp",
+      "title_zh": "禪燈世譜",
+      "snippet": "居士殷淨 安國玄挺 鶴林玄素 徑山道欽 金陵曇益"
+    },
+    {
+      "path": "X\\X79\\X79n1557.xml",
+      "mentions": 4,
+      "title": "Essential Compendium of the United Lamp",
+      "title_zh": "聯燈會要",
+      "snippet": "...智巖禪師 牛頭三世四世無機緣不載 牛頭第五世 金陵牛頭法威禪師法嗣三人 潤州鶴林玄素禪師 宣州安國玄挺禪師 舒州天柱崇慧禪師 牛頭第六世 金陵牛頭慧忠禪師法嗣一人 ..."
+    },
+    {
+      "path": "J\\J33\\J33nB294.xml",
+      "mentions": 4,
+      "title": "Recorded Sayings of Chan Master Liangting Ting of Yunxi",
+      "title_zh": "雲溪俍亭挺禪師語錄",
+      "snippet": "...《僧 寶傳》中自行改正，不宜與商英同條受罰也。又謂《林 間錄》出於大觀元年，誤引玄素碑文，以道悟嗣馬祖。 後十九年為宣和六年，覺範《僧寶傳》成，請侯延慶作 序，謂慶..."
+    },
+    {
+      "path": "J\\J29\\J29nB230.xml",
+      "mentions": 4,
+      "title": "Six-Session Record of Monk Shuijianhai of Tianwang",
+      "title_zh": "天王水鑑海和尚六會錄",
+      "snippet": "...於《傳燈》 也。張無盡公竊常疑之，雪峰迅捷，當出馬祖。後得達 觀穎公所獲節度使丘玄素所撰天王塔銘，始知雪 峰為馬祖五世孫。無盡眼目，擇法驗人，果不誤矣。諸 家辯論，..."
+    },
+    {
+      "path": "B\\B33\\B33n0192.xml",
+      "mentions": 4,
+      "title": "Record of Exegetical Notes (Shiwén Jì)",
+      "title_zh": "釋文紀",
+      "snippet": "...空之所 昬昧使夫懷德者自絕宗虛者靡託無異杜耳目於胎 殼掩玄象於霄外而責宮商之異辨玄素之殊者也子 徒知遠推至人於有無之表高韻絕唱於形名之外而 論㫖竟莫知所歸幽途故自蘊..."
+    },
+    {
+      "path": "B\\B17\\B17n0089.xml",
+      "mentions": 4,
+      "title": "Selections from Taiping Guangji (Volumes 87–134)",
+      "title_zh": "太平廣記選輯（卷八十七～一三四）",
+      "snippet": "李岡王陁王令望陳惠妻何澋 張玄素李丘一 司馬喬卿 唐大理司直河內司馬喬卿。天性純謹。有志行。永徽中。為揚州司戶曹..."
+    },
+    {
+      "path": "X\\X81\\X81n1570.xml",
+      "mentions": 4,
+      "title": "Table of Contents of the Complete Five Lamps",
+      "title_zh": "五燈全書目錄",
+      "snippet": "上元真禪師法嗣 上元如度禪師 四祖下第五世 牛頭持禪師法嗣 牛頭山智威禪師 金陵玄素禪師 天柱弘仁禪師 四祖下第六世 牛頭威禪師法嗣 牛頭慧忠禪師 安國玄挺禪師"
+    },
+    {
+      "path": "X\\X81\\X81n1569.xml",
+      "mentions": 4,
+      "title": "Strict Lineage of the Five Lamps: Resolving Doubts",
+      "title_zh": "五燈嚴統解惑編",
+      "snippet": "...遂 鼓予改易龍藏是無君之過，顧此可勝惜其昏且惑 也。殊不知予所宗者，有唐兩巨儒丘玄素及符載公， 為二大禪師所作之文，以記其出處顛末，可謂金石 之書，不刊之典，編於佛..."
+    },
+    {
+      "path": "T\\T51\\T51n2078.xml",
+      "mentions": 3,
+      "title": "Record of the Orthodox Lineage of Dharma Transmission",
+      "title_zh": "傳法正宗記",
+      "snippet": "...出法嗣 一人。曰如度者。 三十一祖之五世。曰法持禪師。其旁出法嗣 二人。一曰牛頭玄素者。一曰天柱弘仁者。 三十一祖之六世。曰智威禪師。其旁出法嗣 三人。一曰宣州安國..."
+    },
+    {
+      "path": "P\\P179\\P179n1612.xml",
+      "mentions": 3,
+      "title": "Songs of Names of Buddhas, World-Honored Ones, Tathagatas, Bodhisattvas, and Worthies (Vols. 1–18)",
+      "title_zh": "諸佛世尊如來菩薩尊者名稱歌曲(第1卷-第18卷)",
+      "snippet": "...無相尊者。南無。湛然如會 尊者。麼護那尊者。尾舍佉法海應天尊者。 又 敬禮。慧海玄素尊者。道信至尊者。迦智尊者。 無住尊者。神會黑眼尊者。敬禮志。真無業尊 者。弘思..."
+    },
+    {
+      "path": "P\\P178\\P178n1611.xml",
+      "mentions": 3,
+      "title": "Sutra of Names of Buddhas, World-Honored Ones, Tathagatas, Bodhisattvas, Worthies, and Holy Monks (Vols. 1–29)",
+      "title_zh": "諸佛世尊如來菩薩尊者神僧名經(第1卷-第29卷)",
+      "snippet": "...無相尊者南無湛然如會 尊者南無麼護那尊者南無尾舍佉尊者南 無法海應天尊者南無慧海玄素尊者南無 道信至尊尊者南無迦智尊者南無無住尊 者南無神會黑眼尊者南無至真無業尊者..."
+    },
+    {
+      "path": "LC\\LC02\\LC02n0002.xml",
+      "mentions": 3,
+      "title": "Brief Lectures on the Origins and Development of Chinese Buddhism",
+      "title_zh": "中國佛學源流略講",
+      "snippet": "...期 又分為洪州（江西南昌）馬祖的南岳一系和荷澤的神會一系，同時還有牛頭的慧忠、 玄素（也稱馬祖）一系，形成鼎足而三的局勢。各派在敘述傳承的時候，牛頭就把傳 承上溯到..."
+    },
+    {
+      "path": "J\\J39\\J39nB453.xml",
+      "mentions": 3,
+      "title": "Recorded Sayings of Chan Master Yuanjie Ying",
+      "title_zh": "元潔瑩禪師語錄",
+      "snippet": "...本寺開山中興百丈傳達磨 正宗第三十八世，入就先師大和尚，用酬法乳。」斂衣 就座。玄素和尚白椎竟，師曰：「若論第一義，六代開士、 三世聖人無啟口處，即使雷轟痛棒、猛奮..."
+    },
+    {
+      "path": "J\\J29\\J29nB231.xml",
+      "mentions": 3,
+      "title": "Five-Session Record of Monk Shuijianhai of Tianwang",
+      "title_zh": "天王水鑑海和尚五會錄",
+      "snippet": "...始於《傳燈》 也。張無盡公竊常疑之，雪峰迅捷，當出馬祖。後得達 觀穎公所獲節使丘玄素所撰天王塔銘，始知雪峰 為馬祖五世孫。無盡眼目，擇法驗人，果不誤矣。諸家 辯論，..."
+    },
+    {
+      "path": "J\\J10\\J10nA158.xml",
+      "mentions": 3,
+      "title": "Recorded Sayings of Chan Master Miyun",
+      "title_zh": "密雲禪師語錄",
+      "snippet": "...自得。初 無疆畔，豈間南北？雖然，我今更助把火，令汝獨步大 方，在處充塞。」 為玄素發龕，云：「玄素！玄素！不若自悟，任汝縱橫。」復擊 云：「莫行別路。」 為下院主..."
+    },
+    {
+      "path": "B\\B29\\B29n0160.xml",
+      "mentions": 3,
+      "title": "Gazetteer of Buddhist Monasteries in Jinling",
+      "title_zh": "金陵梵剎志",
+      "snippet": "智威慧忠玄素僧徵文曉【明】"
+    },
+    {
+      "path": "B\\B25\\B25n0144.xml",
+      "mentions": 3,
+      "title": "Zutang Ji (Anthology from the Patriarchs’ Hall)",
+      "title_zh": "祖堂集",
+      "snippet": "...下傍出：慧融第一，智嚴第二，慧方第三，法持第四，智威第五， 慧忠第六。前智威下出馬素和尚，馬素下出道欽和尚，道欽下出 鳥窠和尚。五祖下傍出神秀和尚、安國師、道明和尚..."
+    },
+    {
+      "path": "B\\B14\\B14n0082.xml",
+      "mentions": 3,
+      "title": "Jade Flowers of the Transmission of the Lamp (Fragment)",
+      "title_zh": "傳燈玉英集（殘卷）",
+      "snippet": "潤州法融禪師智巖禪師 智威禪師金陵曇璀禪師 宣州玄挺禪師潤州玄素禪師 舒州崇慧禪師杭州徑山道欽禪師 杭州鵲巢道林禪師天台雲居智禪師"
+    },
+    {
+      "path": "X\\X87\\X87n1634.xml",
+      "mentions": 3,
+      "title": "Miraculous Efficacy Accounts of the Diamond Sutra",
+      "title_zh": "金剛經靈驗傳",
+      "snippet": "鉗耳含光 王陀王令望何澋 張玄素田氏李惟燕 孫明三刀師宋參軍"
+    },
+    {
+      "path": "X\\X87\\X87n1631.xml",
+      "mentions": 3,
+      "title": "Record of Responses from Receiving and Upholding the Diamond Sutra",
+      "title_zh": "金剛經受持感應錄",
+      "snippet": "王令望陳惠妻 何澋張玄素 李丘一于昶 裴宣禮吳思玄"
+    },
+    {
+      "path": "X\\X87\\X87n1626.xml",
+      "mentions": 2,
+      "title": "Abstracts of Eminent Monks",
+      "title_zh": "高僧摘要",
+      "snippet": "道興 光儀志賢 圓觀玄素 無著豐干 遺則天然"
+    },
+    {
+      "path": "X\\X87\\X87n1624.xml",
+      "mentions": 2,
+      "title": "Forest Notes",
+      "title_zh": "林間錄",
+      "snippet": "...月示疾，壽六 十，臘三十五。及觀達觀禪師所集五家宗派，則曰：道 悟嗣馬祖。引唐丘玄素所譔\uDB8E\uDF34文幾千言，其略曰：師 號道悟，渚宮人，姓崔氏，即子玉後胤也。年十五，於長..."
+    },
+    {
+      "path": "X\\X72\\X72n1437.xml",
+      "mentions": 2,
+      "title": "Expanded Record of Chan Master Yongjue Yuanxian",
+      "title_zh": "永覺元賢禪師廣錄",
+      "snippet": "...撰南嶽讓\uDB8E\uDF34、圭峰答裴 相國宗趣狀、權德輿撰馬祖塔銘，皆可據。及後達觀 頴所引丘玄素、符載二塔銘，載之益詳，此無可疑者。 但丘銘中以龍潭信嗣天王悟，此則不能無疑焉。..."
+    },
+    {
+      "path": "T\\T53\\T53n2122.xml",
+      "mentions": 2,
+      "title": "Pearl Grove of the Dharma Garden",
+      "title_zh": "法苑珠林",
+      "snippet": "州告敬玄。視之。封題如 故而鎖自相離。敬玄素不信佛法。其妻讀經。 常謂曰。何為胡神所魅而讀此書耶。及見雄 此事。乃深悟不信之..."
+    },
+    {
+      "path": "T\\T51\\T51n2076.xml",
+      "mentions": 2,
+      "title": "Jingde Record of the Transmission of the Lamp",
+      "title_zh": "景德傳燈錄",
+      "snippet": "天柱弘仁禪師 智威禪師下四世旁出一十二人 宣州安國寺玄挺大師 潤州鶴林玄素禪師 舒州天柱山崇慧禪師 杭州徑山道欽禪師 杭州鳥窠道林禪師 杭州招賢寺會通禪師"
+    },
+    {
+      "path": "T\\T51\\T51n2072.xml",
+      "mentions": 2,
+      "title": "Collection on Rebirth",
+      "title_zh": "往生集",
+      "snippet": "...廣泰。錢塘人。性至孝。素積 善行。而深自鞱晦。不求人知。晚歲精誠奉佛。 與靈芝僧玄素。結春秋二社念佛。誦華嚴五 經。忽謂人曰。吾大限將至。當為西歸資糧。遂 自室課誦..."
+    },
+    {
+      "path": "L\\L153\\L153n1638.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Xueqiao Xin (Vols. 1–6)",
+      "title_zh": "雪嶠信禪師語錄(第1卷-第6卷)",
+      "snippet": "...就座石布衲出禮拜云今年春王 兩正月元下起元旦而復旦分明國運長新 佛運長新之兆恰值徑山大師七十初度行 化京都以希有之年遭希有之時說希有之 法從此壽國壽民兼壽世化日舒千古長..."
+    },
+    {
+      "path": "J\\J36\\J36nB348.xml",
+      "mentions": 2,
+      "title": "Doctrinal Treatises of Master Ouyi of Lingfeng",
+      "title_zh": "靈峰蕅益大師宗論",
+      "snippet": "... 人誰不有無量業？誰不欲與真實行人同入懺摩清 淨海中？隨喜一法，無俟他人勸也。 玄素開士結茅修止觀助緣疏 教觀之道不明，天下無真釋。如學思之致不講，天下 無真儒也。..."
+    },
+    {
+      "path": "J\\J34\\J34nB301.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Monk Jiqi of Nanyue",
+      "title_zh": "南嶽繼起和尚語錄",
+      "snippet": "...拈起拄杖曰：「這一個， 那一個，一一被你俱勘破。」卓一下曰：「而今誰肯放你 過。玄素不殊，官商同度。色色正觀，聲聲天鼓。截耳避 聰，閉眸佯瞽。依然混混沌沌帝江之舞。..."
+    },
+    {
+      "path": "J\\J34\\J34nB295.xml",
+      "mentions": 2,
+      "title": "Study of Buddhism: Examinations and Admonitions",
+      "title_zh": "學佛考訓",
+      "snippet": "...，老而出俗，修 《傳燈正宗》，一依《景德》之舊，作熄邪辯，有云天王道悟， 止據丘玄素一碑，攷之唐史，並無玄素其人，益徵訛 妄。 愚庵盂禪師，夙擅宗風，復弘講論，諸方..."
+    },
+    {
+      "path": "J\\J31\\J31nB267.xml",
+      "mentions": 2,
+      "title": "Lazy Studio Supplementary Collection of Monk Muyun",
+      "title_zh": "牧雲和尚嬾齋別集",
+      "snippet": "...于茲，巍巍祖庭，未能 振刷萬一，得門下一垂念之，則天龍為之鼓舞，魔外 必然辟易，玄素宏規，米公生面，自可重新江表矣。此 山野有望於門下所欲言者也。 柬興化吳鹿友相國..."
+    },
+    {
+      "path": "J\\J26\\J26nB188.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Rujiu Ruibai",
+      "title_zh": "入就瑞白禪師語錄",
+      "snippet": "是像即真，是真即像，不像不真，是何形狀？坐斷十方， 覿體坦蕩。 體非玄素，何有此像？此像非真，玄素不狀，假斯紙墨， 權為供養。 生在桐城，薙髮九子，操方..."
+    },
+    {
+      "path": "J\\J26\\J26nB181.xml",
+      "mentions": 2,
+      "title": "Bushuitai Collection",
+      "title_zh": "布水臺集",
+      "snippet": "...說，為訕師也。」皆同室之戈而非鄉鄰之鬥也。」曰： 「舟愚楫罪，則吾既得聞命矣！彼玄素與蕃光，外也非 內也，何譏嫌亦不少貸也？」曰：「為其有傷雅道而付授 濫觴也。」曰..."
+    },
+    {
+      "path": "GA\\GA029\\GA029n0028.xml",
+      "mentions": 2,
+      "title": "Gazetteer of Longxing Xiangfu Ordination Platform Monastery",
+      "title_zh": "龍興祥符戒壇寺志",
+      "snippet": "...指授後學後之學者始以南北為二宗又自 達摩三世傳法於信禪師信傳牛頭融禪師融傳 鶴林馬素禪師素傳於徑山山傳國一禪師二宗 之外又別門也於戲法不外來本同一性惟佛與 佛轉相證..."
+    },
+    {
+      "path": "D\\D52\\D52n8951.xml",
+      "mentions": 2,
+      "title": "Tathāgata Incense",
+      "title_zh": "如來香",
+      "snippet": "...燈會元。以惠後學。恩至渥也。國朝至元間于 越雲壑瑞禪師作心燈錄。最為詳盡。特援丘玄素所 製\uDB9D\uDE33銘。以龍潭信公出馬祖下。致或人沮抑。不大傳 于世。識者惜焉。法華經曰。..."
+    },
+    {
+      "path": "B\\B24\\B24n0141.xml",
+      "mentions": 2,
+      "title": "Compiled Gazetteer of Shaolin Monastery on Mount Song",
+      "title_zh": "嵩山少林寺輯志",
+      "snippet": "...二獸 解闘惠可割臂而三業息塵荃蘭藂植於緇林鸞鶴 連翔於法界則有惠光曇隱播芳烈於前玄素明遵 嗣徽音於後戾止者皆同一姓來儀者無復二乘蓋 釋氏之淹中西方之別館也况其土圭表..."
+    },
+    {
+      "path": "B\\B16\\B16n0088.xml",
+      "mentions": 2,
+      "title": "Selected Extracts from the Complete Collection of Illustrations and Writings from Antiquity to the Present (Part 2)",
+      "title_zh": "古今圖書集成選輯（下）",
+      "snippet": "...前人 潤州天鄉寺故大德雲禪師碑 前人 揚州龍興寺經律院和尚碑 前人 潤州鶴林寺故徑山大師碑銘 前人 神異典第一百九十七卷 僧部藝文三"
+    },
+    {
+      "path": "X\\X66\\X66n1297.xml",
+      "mentions": 2,
+      "title": "Dharma Grove of the Tradition’s Mirror",
+      "title_zh": "宗鑑法林",
+      "snippet": "五祖弘忍 六祖慧能 卷七 旁出諸祖 牛頭法融 安國玄挺 天柱慧崇 鶴林玄素 徑山道欽 鳥窠道林 蒙山道明 嵩山慧安 嵩嶽破竈 嵩山峻極 終南惟政 南陽慧忠"
+    },
+    {
+      "path": "X\\X66\\X66n1296.xml",
+      "mentions": 2,
+      "title": "Compilation of the School Gate’s “Raising Old Cases”",
+      "title_zh": "宗門拈古彙集",
+      "snippet": "可 僧璨 慧能 旁出祖師 四祖旁出 牛頭法融 安國玄挺 鶴林玄素 徑山道欽 鳥窠道林 五祖旁出 嵩山峻極 六祖旁出 荷澤神會"
+    },
+    {
+      "path": "X\\X65\\X65n1295.xml",
+      "mentions": 2,
+      "title": "Comprehensive Collection of Chan School Verse-on-Old-Cases Linked Pearls",
+      "title_zh": "禪宗頌古聯珠通集",
+      "snippet": "波羅提尊者 牛頭法融禪師鶴林玄素禪師 徑山國一禪師鳥窠道林禪師"
+    },
+    {
+      "path": "X\\X65\\X65n1286.xml",
+      "mentions": 2,
+      "title": "Record of Tongs and Hammer in the Patriarchal Courtyard",
+      "title_zh": "祖庭鉗鎚錄",
+      "snippet": "...西天王寺道悟，渚宮人，崔 子玉之後，嗣馬祖，元和十三年四月十三日化。正議 大夫丘玄素撰塔銘文幾千言，其略云：馬祖祝曰：它 日莫離舊處。故還渚宮。一曰江陵城東天皇寺道..."
+    },
+    {
+      "path": "X\\X64\\X64n1261.xml",
+      "mentions": 2,
+      "title": "Matters and Sources of the Patriarchal Courtyard",
+      "title_zh": "祖庭事苑",
+      "snippet": "烈派烈當依列，言行列也。 石頭洪注桉唐丘玄素作天王道悟禪師\uDB8E\uDF34，天王 嗣馬祖，而非石頭弟子。然考其\uDB8E\uDF34，悟生荊州，得法 於江..."
+    },
+    {
+      "path": "X\\X64\\X64n1260.xml",
+      "mentions": 2,
+      "title": "Outline Record of the Successive Patriarchs",
+      "title_zh": "列祖提綱錄",
+      "snippet": "... 堪與佛祖為師、有一棒堪與人天為師。若也不甘，自 救不了。卓拄杖，下座。 掃鶴林玄素禪師塔，請上堂。會即不會，疑即不疑，兩 重公案，土上加泥。佛來也不著，耆陀施妙藥..."
+    },
+    {
+      "path": "X\\X63\\X63n1252.xml",
+      "mentions": 2,
+      "title": "Textual Verification of Chan Monastery Lettering Phrases",
+      "title_zh": "禪林疏語考證",
+      "snippet": "...使河隴時，五原有冤獄久不決，天 且旱，真卿辯獄而雨，郡人呼御史雨。○回天功。 張玄素傳曰：玄素諫太宗修洛陽宮，魏徵嘆曰：張 公論事，遂有回天之力。○覆盆王充論衡云：..."
+    },
+    {
+      "path": "X\\X62\\X62n1176.xml",
+      "mentions": 2,
+      "title": "Complete Pure Land Collection",
+      "title_zh": "淨土全書",
+      "snippet": "...廣泰，錢塘人。性至孝，素積善行，而深 自韜晦，不求人知。晚歲精誠奉佛，與靈芝、僧玄素結 春秋二社，念佛誦華嚴五經。忽謂人曰：吾大限將至， 當為西歸資粮。遂自室課誦，..."
+    },
+    {
+      "path": "X\\X54\\X54n0873.xml",
+      "mentions": 2,
+      "title": "Abridged Notes on the *Zhao Treatise*",
+      "title_zh": "肇論略註",
+      "snippet": "...使夫懷德者自絕、宗虗者靡託，無異杜耳 目於胎殻、掩玄象於雲霄外，而責宮商之異、辯玄素 之殊者也。 此，指本論，責其乖理也。難者意謂，若有名可稱，使"
+    },
+    {
+      "path": "X\\X54\\X54n0870.xml",
+      "mentions": 2,
+      "title": "Annotated Commentary on the *Zhao Treatise*",
+      "title_zh": "注肇論疏",
+      "snippet": "虗寂者無歸託。△二、舉喻難。 無異杜耳目於胎殻、掩玄象於霄外，而責宮商之異、 辨玄素之殊者也。 杜耳目於胎殻，即前視聽不暨也。掩玄象於霄外， 即前四空之所昏昧。玄象..."
+    },
+    {
+      "path": "X\\X84\\X84n1583.xml",
+      "mentions": 2,
+      "title": "Orthodox Continuation of the Lamp",
+      "title_zh": "續燈正統",
+      "snippet": "...菲滿 袖，爛熳驚人；若也不見，却成當面蹉過。眾中有具眼 底，莫被山僧謾好。復舉：玄素禪師住山時，有僧敲門， 素曰：誰？僧應曰：是僧。素曰：莫道是僧，佛來亦不著。僧 ..."
+    },
+    {
+      "path": "T\\T55\\T55n2149.xml",
+      "mentions": 2,
+      "title": "Great Tang Catalog of Inner Buddhist Texts",
+      "title_zh": "大唐內典錄",
+      "snippet": "自教流東夏代涉帝朝。必假時君弘傳聲略。 然後玄素依繕方開基搆。明后重其義方情 存"
+    },
+    {
+      "path": "T\\T50\\T50n2061.xml",
+      "mentions": 2,
+      "title": "Song Dynasty Biographies of Eminent Monks",
+      "title_zh": "宋高僧傳",
+      "snippet": "...結塔營事， 皆出其家。塔因會昌中所毀，今存阯焉。碑 石漫沒，吁哉！ 唐潤州幽棲寺玄素傳 釋玄素，字道清，俗緣馬氏，潤州延陵人也。生 有異度，幼而深仁，乳育安靜。髫齓..."
+    },
+    {
+      "path": "X\\X86\\X86n1600.xml",
+      "mentions": 1,
+      "title": "Chronological Compilation of the Sectarian Lineage",
+      "title_zh": "宗統編年",
+      "snippet": "佛滅後一千七百年。 壬辰十一載 雙峯第四世禪師潤州鶴林徑山玄素寂。 侍者懷海悟道。 海侍祖經三載，一日侍祖行次，見一羣野鴨飛過， 祖曰：是甚麼..."
+    },
+    {
+      "path": "X\\X80\\X80n1564.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Five Lamps Compendium",
+      "title_zh": "五燈會元目錄",
+      "snippet": "...山智威禪師 四祖下六世 威禪師法嗣 牛頭山慧忠禪師 安國玄挺禪師 天柱崇慧禪師 鶴林玄素禪師 四祖下七世 忠禪師法嗣 佛窟惟則禪師 鶴林素禪師法嗣"
+    },
+    {
+      "path": "X\\X78\\X78n1551.xml",
+      "mentions": 1,
+      "title": "Collected Records of the Western Ark",
+      "title_zh": "西舫彙征",
+      "snippet": "...人，法名廣泰。性至孝，素積善行，而深自 韜晦，不求人知。晚年精誠奉佛，與靈芝、僧玄素結春 秋二社，念佛誦華嚴五經。忽謂人曰：吾大限將至，當 為西歸資糧。遂自室課誦，..."
+    },
+    {
+      "path": "X\\X72\\X72n1435.xml",
+      "mentions": 1,
+      "title": "Expanded Record of Chan Master Wuyi Yuanlai",
+      "title_zh": "無異元來禪師廣錄",
+      "snippet": "...說法。是日，金陵人皆見白玉 光映天界，寺處甚有見四天王現身雲端者。姑蘇劉 監軍錫玄素慕和尚，聞和尚在金陵，走謁焉。詢以台 教，辯如懸河，和尚為剖疑義，更示以別傳之道..."
+    },
+    {
+      "path": "X\\X10\\X10n0250.xml",
+      "mentions": 1,
+      "title": "Essential Explanations Following the Text in the Commentary and Subcommentary on the Sutra of Perfect Enlightenment",
+      "title_zh": "圓覺經疏鈔隨文要解",
+      "snippet": "...得故。 故但任心為修也。五、本 無事而忘情，即四祖下，旁出牛頭融大師之宗，鶴林 馬素、徑山道欽禪師所弘。融久精般若空宗，於一切 法已無計執。後遇四祖，顯出絕待靈心，..."
+    },
+    {
+      "path": "X\\X09\\X09n0245.xml",
+      "mentions": 1,
+      "title": "Subcommentary Explaining the Meaning of the Great Commentary on the Sutra of Perfect Enlightenment",
+      "title_zh": "圓覺經大疏釋義鈔",
+      "snippet": "...當第一祖智嚴、第二慧方、第三法持、第四智威、第 五慧忠、第六智威。弟子潤州鶴林寺馬素和上、素弟 子勁山道欽和上相襲，傳此宗旨。言本無事者，是所 悟理。謂心境本空，非..."
+    },
+    {
+      "path": "T\\T55\\T55n2157.xml",
+      "mentions": 1,
+      "title": "Newly Compiled Zhenyuan Buddhist Catalog",
+      "title_zh": "貞元新定釋教目錄",
+      "snippet": "...十年相繼翻譯出 金剛般若等經十地等論共三十部。帝又勅 清信士李廓撰眾經錄。廓學通玄素條貫經 論雅有標擬。故其錄云。三藏法師留支房內。 經論梵本可有萬夾。所翻新文筆受..."
+    },
+    {
+      "path": "T\\T51\\T51n2071.xml",
+      "mentions": 1,
+      "title": "Biographies of Rebirth in the Pure Land",
+      "title_zh": "淨土往生傳",
+      "snippet": "...曰以情繼 情。念奚不生。唯憑佛道可用銷焉。遂從道場 寺遇法師。受菩薩戒。晝則披陳玄素。夕則澄 寂理味。漸積歲時。神情朗贍。雖曰暮齒。有逾 壯年。每欲拔跡三界接武九品..."
+    },
+    {
+      "path": "T\\T50\\T50n2063.xml",
+      "mentions": 1,
+      "title": "Biographies of Bhikshunis",
+      "title_zh": "比丘尼傳",
+      "snippet": "遣憂忘老耳。遂從道場寺偶法師受菩薩戒， 晝則披陳玄素，夕則清言味理。漸染積年，神 情朗"
+    },
+    {
+      "path": "T\\T49\\T49n2037.xml",
+      "mentions": 1,
+      "title": "Brief Investigation of Antiquity of the Shakya Lineage",
+      "title_zh": "釋氏稽古略",
+      "snippet": "...氏子。嗣馬祖。 荊南城西天王寺 道悟禪師。唐正議大夫 戶部侍郎平章事荊南節度使丘玄素撰師碑 曰。道悟渚宮人。姓崔氏。子玉之後胤也。年 十五依長沙寺曇翥律師出家。二十..."
+    },
+    {
+      "path": "T\\T49\\T49n2036.xml",
+      "mentions": 1,
+      "title": "General Record of Buddhas and Patriarchs Through the Ages",
+      "title_zh": "佛祖歷代通載",
+      "snippet": "...造化之功可奪。朝野奉之如佛焉。是年 鳳凰現。 世尊示滅一千七百年矣。 潤州鶴林寺徑山大師玄素卒。左補闕 李華製碑。其略曰。嗚呼菩提位中六十一 夏。父母之生八十五年。赴哀..."
+    },
+    {
+      "path": "T\\T47\\T47n1996.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Mingjue",
+      "title_zh": "明覺禪師語錄",
+      "snippet": "...取者一喝。便下座。 師因事示眾云。杜耳目於胎殼。掩玄象於霄 外。而責宮商之異。辯玄素之殊底。是甚麼人。 還知落處麼。那一箇者一箇。兼本三人。放過 一著。便下座。 上..."
+    },
+    {
+      "path": "T\\T45\\T45n1859.xml",
+      "mentions": 1,
+      "title": "Commentary on Sengzhao’s Treatise",
+      "title_zh": "肇論疏",
+      "snippet": "...胎㲉下。杜塞耳目 於胎㲉之中。而責有辨。宮商不可得也。掩玄 象於雲霄之外。而令辨玄素不可得也。玄象 謂天象也。玄黑幽。幽然也。素白也。而論旨竟 莫知所歸。不知何所明..."
+    },
+    {
+      "path": "T\\T45\\T45n1858.xml",
+      "mentions": 1,
+      "title": "Treatise of Sengzhao",
+      "title_zh": "肇論",
+      "snippet": "...夫懷德 者自絕，宗虛者靡託。無異杜耳目於胎殼，掩 玄象於雲霄外，而責宮商之異，辯玄素之殊 者也。子徒知遠推至人於有無之表，高韻絕 唱於形名之外，而論旨竟莫知所歸，幽..."
+    },
+    {
+      "path": "ZS\\ZS01\\ZS01n0001.xml",
+      "mentions": 1,
+      "title": "Classified Compilation of Buddhist Materials from Official Histories",
+      "title_zh": "正史佛教資料類編",
+      "snippet": "又《僧尼行事》三卷 《尼眾竭磨》二卷 《菩薩戒義疏》四卷。字玄素，河東人。 空藏《大乘要句》三卷。姓王氏，新豐人。 道宗《續高僧傳》三十二卷"
+    },
+    {
+      "path": "T\\T04\\T04n0192.xml",
+      "mentions": 1,
+      "title": "Buddhacarita: Praise of the Buddha’s Deeds",
+      "title_zh": "佛所行讚",
+      "snippet": "先與太子俱，一宿之徑路， 今捨太子還，生奪天蔭故。 徘徊心顧戀，八日乃至城， 良馬素體駿，奮迅有威相。 躑躅顧瞻仰，不覩太子形，"
+    },
+    {
+      "path": "L\\L158\\L158n1652.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Mingjue Cong",
+      "title_zh": "明覺聰禪師語錄",
+      "snippet": "...眾楚人失弓漢人拾得讓之有餘 爭之不得若杜耳目於胎彀掩玄象於霄 外而責宮商之異以辨玄素之殊驀拈拄 杖一劃云向者裡透得過萬機頓赴而不 撓其神千難對殊而不干其慮動若行雲 ..."
+    },
+    {
+      "path": "J\\J39\\J39nB463.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Gumeilie of Weishan",
+      "title_zh": "溈山古梅冽禪師語錄",
+      "snippet": "他後莫受人瞞。』」師云：「閒常不教子，客來咬牙齒。想虞 軍容含笑有分。」 舉：「鶴林玄素禪師因僧敲門次，素問：『甚麼人？』云：『是僧。』 素云：『非但是僧，佛來亦不著。..."
+    },
+    {
+      "path": "J\\J39\\J39nB454.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Pinjixiang",
+      "title_zh": "頻吉祥禪師語錄",
+      "snippet": "...蘇臺畔明月光，繼起 華林園裏新豐曲。者一炷香，畢竟如是，為老法伯燒 出。」 獨園玄素和尚塔。「大方獨步，嘉聲久震寰區；鞭撻泥 牛，毒手從來最辣。繼華林之妙唱，春風拂..."
+    },
+    {
+      "path": "J\\J39\\J39nB452.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Lüyan He",
+      "title_zh": "侶巖荷禪師語錄",
+      "snippet": "...麼殊勝？」豎拂子，云：「天上有星皆拱北， 人間無水不朝東。」 請兩序上堂。舉：「鶴林玄素禪師住菴時，有僧敲門，素 云：『誰？』僧云：『是僧。』素云：『莫道是僧，佛來亦不..."
+    },
+    {
+      "path": "J\\J37\\J37nB399.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Tianshuzhi of Helin",
+      "title_zh": "鶴林天樹植禪師語錄",
+      "snippet": "...，逼到這裏，當仁不讓。」遂陞。 拈香祝 聖畢，次拈香云：「此一瓣香，奉為本寺開山玄素禪師、歷 代住持尊宿，燈燈相照，世世永傳。」次拈云：「此一瓣香， 奉為傳雙徑峰前..."
+    },
+    {
+      "path": "J\\J34\\J34nB304.xml",
+      "mentions": 1,
+      "title": "Cloud-Cliff Collection of Chan Master Lingshuyuan",
+      "title_zh": "靈樹遠禪師雲嵒集",
+      "snippet": "...救不了，參 取馬大師。』」師云：「杜耳目於胎殼，掩罔象於霄漢，而考 宮商之異，辨玄素之殊，勤祖殆庶幾乎！爭奈兩葉能 蔽明，雙豆能塞聰，日月麗天而莫睹，雷霆拔地而勿 ..."
+    },
+    {
+      "path": "J\\J34\\J34nB299.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Monk Sanfeng Zang",
+      "title_zh": "三峰藏和尚語錄",
+      "snippet": "...如貴里沈湛源、尚 寶錢梅谷、司農薛又損、方伯鄭太初、儀部父子、梁 溪何天玉、太僕馬素修、洗馬華鳳超、選部秦圓海、 觀察顧白於、孝廉令子子凝、子方、子克、鄒木石太 守..."
+    },
+    {
+      "path": "J\\J33\\J33nB286.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Yingningjing",
+      "title_zh": "攖寧靜禪師語錄",
+      "snippet": "...妄測江河耶？果能悟洞山之所悟，則知兩家鼓舞酬 唱如紅爐片雪，閱者自宜審諸。 席林玄素體道人書于麻溪之明慶寺 攖寧禪師語錄序 佛氏出離生死，誘人超劫，大指與儒本同。顧..."
+    },
+    {
+      "path": "J\\J33\\J33nB280.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Yunwaize of Shending",
+      "title_zh": "神鼎雲外澤禪師語錄",
+      "snippet": "...夢見有人 索飯錢又作麼生？』乃豎拂子，云：『依稀似曲纔堪聽，又 被風吹別調中。』徑山大師與麼道，美則美矣，只是忒 儉。山僧今日也有數語與諸大眾諳箇時節：老祖無 米又無鹽..."
+    },
+    {
+      "path": "J\\J28\\J28nB218.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Lanshi Ling",
+      "title_zh": "懶石聆禪師語錄",
+      "snippet": "...律師入山 處處青山堪駐錫，云何直指野雲巢？藤蘿月挂枝梢 上，只恐霜花笑寂寥。 寄玄素法侄 五龍瑞氣接天池，點滴藏鋒不露絲。只待風雲雷雨 作，乾坤黯黑用全施。 寄石龍..."
+    },
+    {
+      "path": "J\\J27\\J27nB194.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Xuezui of Zhaojue",
+      "title_zh": "昭覺丈雪醉禪師語錄",
+      "snippet": "...雨樹禪人 折腳鐺兒掉得回，逢山爛煮白雲堆，嘴邊莫教閒狼 籍，恐蟻尋香逐氣來。 示玄素禪人 鋤煙削石住山阿，一篾腰纏氣力多，鐵钁三斤鋒似 刺，白雲翻轉幾偏坡。"
+    },
+    {
+      "path": "J\\J27\\J27nB193.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Yinyuan",
+      "title_zh": "隱元禪師語錄",
+      "snippet": "...得？」 門裏出身繇來易，身裏出門真個難。打破大唐無覓 處，浮生穿鑿沒相干。 潤州鶴林玄素禪師，有僧敲門，師云：「誰？」僧云：「是僧。」 師云：「莫道是僧，佛來也不著。」..."
+    },
+    {
+      "path": "J\\J26\\J26nB187.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Tian’an Sheng",
+      "title_zh": "天岸昇禪師語錄",
+      "snippet": "...兄，好語不說，問西答東。君不見？一 斗粟尚可舂，一尺布尚可縫，兄弟二人不相容。 鶴林玄素禪師有僧敲門，師云：「誰？」僧云：「是僧。」師云： 「莫道是僧，佛來也不著。」僧..."
+    },
+    {
+      "path": "J\\J26\\J26nB184.xml",
+      "mentions": 1,
+      "title": "Seven-Session Recorded Sayings of Monk Muyun",
+      "title_zh": "牧雲和尚七會語錄",
+      "snippet": "一燈點起滿堂紅，衲子堆堆瞌睡濃，忽地醒來天大 曉，新羅原在海門東。 鶴林送知浴 玄素禪師古道場，鶴林兩字落諸方，只愁夏制雲來 集，知浴先思作主張。 又 祖庭寥落"
+    },
+    {
+      "path": "J\\J23\\J23nB122.xml",
+      "mentions": 1,
+      "title": "Record for Awakening the World",
+      "title_zh": "醒世錄",
+      "snippet": "...雄如常誦經，五更中，鎖又 解落有聲。雄又告李敬玄視之，封題如故，而鎖自相離。 敬玄素不信佛法，其妻誦經，常謂曰：「何為胡人所媚，而 讀此書耶？」及見雄此事，乃深悟不..."
+    },
+    {
+      "path": "J\\J23\\J23nB118.xml",
+      "mentions": 1,
+      "title": "Posthumous Writings of Chan Master Micang Kai",
+      "title_zh": "密藏開禪師遺稿",
+      "snippet": "...成。子晉病恙何如？便當報我。靜圓 師在金山，有無緩急，乞留念。 又 潤州鶴林寺為玄素禪師道場，有蓮池竹院，皆為人 所侵，陸太宰力復之。有田，亦為千兵人家所有。前丹 ..."
+    },
+    {
+      "path": "J\\J21\\J21nB109.xml",
+      "mentions": 1,
+      "title": "Survey of the Buddhist Canon",
+      "title_zh": "大藏一覽",
+      "snippet": "...貪榮冒寵，流轉生死，何由 得出？」二人感悟，歎息而去。師後謁融，發明大事。 潤州鶴林玄素禪師，有僧扣門，師 問：「什麼人？」曰：「是僧。」師曰：「非但是僧，佛來亦不著。..."
+    },
+    {
+      "path": "GA\\GA043\\GA043n0045.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Helin Monastery (Jingkou Three Mountains Complete Gazetteer)",
+      "title_zh": "鶴林寺志（京口三山全志）",
+      "snippet": "散大夫母贈丹陽縣太君。閻氏皆塟于此。中 書舍人蔡肇銘。 法語 玄素禪師 潤州鶴林玄素禪師者，延陵人也，姓馬氏。晚 \uD842\uDEF5威禪師，遂悟性宗，後居鶴林寺。一日，有屠 者禮..."
+    },
+    {
+      "path": "GA\\GA032\\GA032n0032.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Jingshan (Vols. 6–14)",
+      "title_zh": "徑山志(第6卷-第14卷)",
+      "snippet": "... 李華\uD843\uDE49謂：「聞道于徑山，猶樂正子春于大夫也。洗心瞻 仰，天漢彌高。」見〈潤州玄素師銘〉。 張商英字天覺，號無盡居士。徽宗朝拜相，大慧為洪州"
+    },
+    {
+      "path": "D\\D46\\D46n8930.xml",
+      "mentions": 1,
+      "title": "Essential Consultation Sayings of National Teacher Daitō (Imperial Gift)",
+      "title_zh": "特賜興禪大燈國師參詳語要",
+      "snippet": "而責宮商 之異。。辨玄素之殊底是甚麼人。。還知落處麼。"
+    },
+    {
+      "path": "C\\C078\\C078n1720.xml",
+      "mentions": 1,
+      "title": "Chan School: Comprehensive Linked-Pearls Collection of Verse Commentaries on Old Cases",
+      "title_zh": "禪宗頌古聯珠通集",
+      "snippet": "...前路\uD843\uDF91花鳥不飛學者疑 心尚未休飽柴飽水坐牛頭子期不用黃金 鑄末世知音有趙州潤州鶴林玄素 禪師有僧敲門師云誰僧云是僧 師云莫道是僧佛來也不着僧云為甚麼不 着師云無棲泊處..."
+    },
+    {
+      "path": "B\\B34\\B34n0193.xml",
+      "mentions": 1,
+      "title": "Dharma Vehicle of the Wu Capital",
+      "title_zh": "吳都法乘",
+      "snippet": "...徑山國一欽禪師釋 師名道欽吳郡崑山人姓朱氏世服儒業年二十八即貢於禮 部道由丹徒遇鶴林玄素禪師得指入道之要遂出家大悟宗 旨久之辭去素曰汝乘流而行遇徑即止師至臨安東北山下 ..."
+    },
+    {
+      "path": "B\\B31\\B31n0169.xml",
+      "mentions": 1,
+      "title": "Historical Materials on Korean Temples and Monasteries",
+      "title_zh": "朝鮮寺剎史料",
+      "snippet": "...首而臥身如白鶴色示滅故闍維後置寺 名鶴林為月域之首剎也屆在唐潤州有鶴林寺唐玄宗時玄素禪師所 居寺許渾詩云中秋詠月云輪綵漸移金殿外鏡光猶掛玉樓前此為中 國鶴林之來由也..."
+    },
+    {
+      "path": "B\\B27\\B27n0151.xml",
+      "mentions": 1,
+      "title": "New Continued Biographies of Eminent Monks",
+      "title_zh": "新續高僧傳",
+      "snippet": "... 賜額曰福河亮亦深蒙褒許自是厥後神宇櫛比堂殿相望彌 漫山阿縈迴河岸一時士大夫歸向玄素蒸蒸宏護之雄莫之 與京隆慶初有弘參深潤者重振家聲高大樓觀覆以琉璃法 席所宣直闡向..."
+    },
+    {
+      "path": "B\\B18\\B18n0095.xml",
+      "mentions": 1,
+      "title": "Record of a Pilgrimage to Tang China in Search of the Dharma",
+      "title_zh": "入唐求法巡禮行記",
+      "snippet": "...五臺山。去此二千餘 里計。南遠北近。又聞有天台宗和尚。法號志遠。文鑒座 主竝天台玄素座主之弟子。今在五臺山。修法花三昧。 傳天台教迹北臺在宋谷蘭若。先修法花三昧得道..."
+    },
+    {
+      "path": "B\\B17\\B17n0094.xml",
+      "mentions": 1,
+      "title": "Selections from Cefu Yuangui (Outstanding Models from the Treasury of Books)",
+      "title_zh": "冊府元龜選輯",
+      "snippet": "...諡大寂其塔未蒙賜額詔賜名圓證之塔 二年七月浙西道觀察使李德裕奏潤州鶴林寺故 禪師玄素傳牛頭山第五祖智威心法是徑山大覺 之師伏請依釋門例賜諡號大額勑宣賜諡"
+    },
+    {
+      "path": "B\\B14\\B14n0084.xml",
+      "mentions": 1,
+      "title": "Catalogue of Lost and Rediscovered Scriptures and Books",
+      "title_zh": "藏逸經書標目",
+      "snippet": "續傳燈錄南藏已收。 心燈錄\uD840\uDC09玄素撰序。此書世尠流行。宜購求之。 禪宗正脈嘉興真如寺蔤庵巹師採摘五燈會元中 文。成..."
+    },
+    {
+      "path": "X\\X84\\X84n1580.xml",
+      "mentions": 1,
+      "title": "Separate Transmission Outside the Teachings",
+      "title_zh": "教外別傳",
+      "snippet": "牛頭山法持禪師 四祖旁出五世 牛頭山智威禪師 四祖旁出六世 安國玄挺禪師 鶴林玄素禪師 四祖旁出七世 徑山道欽禪師 四祖旁出八世 鳥窠道林禪師 五祖"
+    },
+    {
+      "path": "X\\X83\\X83n1578.xml",
+      "mentions": 1,
+      "title": "Record Pointing at the Moon",
+      "title_zh": "指月錄",
+      "snippet": "...日也。年八十二，坐六十三夏。 嗣馬祖，住城西。弟子一人，龍潭崇信。荊南節度使 丘玄素撰\uDB8E\uDF34。又唐聞人歸登南嶽\uDB8E\uDF34、圭峯笒裴相 國宗趣狀、權德輿馬祖塔銘，皆以天王為馬..."
+    },
+    {
+      "path": "X\\X82\\X82n1571.xml",
+      "mentions": 1,
+      "title": "Complete Five Lamps (Vols. 34–120)",
+      "title_zh": "五燈全書(第34卷-第120卷)",
+      "snippet": "...紅爐 不鎔敗鐵。 康熈己酉臘月三十日示寂，世壽六十 三，墖全身於弁山。 湖州弁山玄素淨禮禪師錢塘單氏子。上堂：古釋迦 不先，新彌勒不後。正當今日，佛法委在弁山。會得..."
+    },
+    {
+      "path": "X\\X81\\X81n1571.xml",
+      "mentions": 1,
+      "title": "Complete Five Lamps (Vols. 1–33)",
+      "title_zh": "五燈全書(第1卷-第33卷)",
+      "snippet": "九曲泉。大曆己未七月二十二日歸寂，塔于山之北。 潤州鶴林玄素禪師延陵馬氏子。晚參威禪師，遂悟 性宗。後居鶴林。 一日，有屠者禮謁，願就所居辦..."
+    },
+    {
+      "path": "X\\X80\\X80n1568.xml",
+      "mentions": 1,
+      "title": "Strict Lineage of the Five Lamps (Vols. 1–9)",
+      "title_zh": "五燈嚴統(第1卷-第9卷)",
+      "snippet": "...來意？師曰：白猿抱子來青嶂，蜂蝶銜華綠 蘂間。大曆十四年歸寂，塔于山之北。 潤州鶴林玄素禪師者延陵人也，姓馬氏。晚參威禪 師，遂悟性宗。後居鶴林寺。一日，有屠者禮謁，願..."
+    },
+    {
+      "path": "X\\X80\\X80n1567.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Strict Lineage of the Five Lamps",
+      "title_zh": "五燈嚴統目錄",
+      "snippet": "...山智威禪師 四祖下六世 威禪師法嗣 牛頭山慧忠禪師 安國玄挺禪師 天柱崇慧禪師 鶴林玄素禪師 四祖下七世 忠禪師法嗣 佛窟惟則禪師 鶴林素禪師法嗣 徑山道欽"
+    },
+    {
+      "path": "X\\X80\\X80n1565.xml",
+      "mentions": 1,
+      "title": "Five Lamps Compendium",
+      "title_zh": "五燈會元",
+      "snippet": "...來意。師曰。白猿抱子來青嶂。蜂蝶銜華綠 蘂間。大曆十四年歸寂。塔于山之北。 潤州鶴林玄素禪師者延陵人也。姓馬氏。晚參威禪 師。遂悟性宗。後居鶴林寺。一日有屠者禮謁。願就..."
+    },
+    {
+      "path": "X\\X78\\X78n1546.xml",
+      "mentions": 1,
+      "title": "Newly Compiled Biographies of Rebirth (in the Pure Land)",
+      "title_zh": "新修往生傳",
+      "snippet": "...終，皆云：見佛來迎，同生淨土。 十四、左法盛清人，才識惠解， 敏若生知。晝則披陳玄素，夕則澄寂理味。漸積 歲時，神情朗謄。雖曰暮齒，有逾扗年。 每欲救跡三界，棲神九..."
+    },
+    {
+      "path": "X\\X78\\X78n1540.xml",
+      "mentions": 1,
+      "title": "Record of Manifest Responses to the Lotus Sutra",
+      "title_zh": "法華經顯應錄",
+      "snippet": "...於一夜，枷鎻自落。 獄吏驚怛，又重鎻封札而去。雄更諷誦，至五鼓時，鎻 仍脫落。敬玄素不信佛，及見雄此事，方知佛法之靈。 王欣亦念八菩薩尊號三萬徧，與雄等俱得免罪。 ..."
+    },
+    {
+      "path": "X\\X77\\X77n1534.xml",
+      "mentions": 1,
+      "title": "Record of Efficacy from Upholding the Avatamsaka Sutra",
+      "title_zh": "華嚴經持驗記",
+      "snippet": "...明戈以安法名廣泰，錢塘人。性至孝，素積善行，而深 自韜晦。晚歲精誠奉佛，與靈芝僧玄素結春秋二社， 念佛誦華嚴五經。繼忽謂人曰：吾大限將至，當為西 歸資糧。遂掩關課誦..."
+    },
+    {
+      "path": "X\\X77\\X77n1526.xml",
+      "mentions": 1,
+      "title": "Brief Accounts of Eminent Monks of West Lake in Wulin",
+      "title_zh": "武林西湖高僧事略",
+      "snippet": "...師名道欽。吳郡崑山人。姓朱氏。世服儒業。年二十八。 即貢於禮部。道由丹徒。遇鶴林玄素禪師。得指入道 之要。遂出家。大悟宗旨。久之辭去。素曰。汝乘流而行。 遇徑即止。..."
+    },
+    {
+      "path": "X\\X77\\X77n1524.xml",
+      "mentions": 1,
+      "title": "Supplement to the Continued Biographies of Eminent Monks",
+      "title_zh": "補續高僧傳",
+      "snippet": "...葉之華裔也。後念佛而逝，塔於本山。 元 慧明傳 慧明，蔚州靈丘人。其母夢異人乘白馬素衣，借宿而 娠，生異恒。童習詩書，傍通百家之言，棄之。謁海雲簡 禪師，言下知歸，..."
+    },
+    {
+      "path": "X\\X71\\X71n1412.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Gulin Qingmao",
+      "title_zh": "古林清茂禪師語錄",
+      "snippet": "...重？如今諸方往往作得失論却。噫！無師嚝之聰， 難以別宮商之異；有離朱之瞭，方能辨玄素之殊。 乃顧視左右云：者裏莫有天然氣槩底衲僧麼？ 舉：趙州問婆子：什麼處去？婆云..."
+    },
+    {
+      "path": "X\\X71\\X71n1409.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Yuejiang Zhengyin",
+      "title_zh": "月江正印禪師語錄",
+      "snippet": "...：曰指節，曰頂，曰齒，曰舌，曰數珠，曰右膝骨。靈瑞 二：曰設利羅，曰化佛像。其徒玄素法師曹士勤，以其 師甞從予遊，求予識之，以信後世。乃各為之贊曰： 指節 開則成掌..."
+    },
+    {
+      "path": "X\\X71\\X71n1408.xml",
+      "mentions": 1,
+      "title": "Supplementary Collection of Chan Master Jixiu Qiliao",
+      "title_zh": "即休契了禪師拾遺集",
+      "snippet": "...有興心人。論既共歸，進母固讓。某人法得北山北固， 道弘西竺西吳。面皮刮得霜，盍開馬素舊閉之門戶； 筆頭鑽破紙，宜翻龍華故祀之郊詞。句續半日閑，偈 聯五葉秀。黃鶴黃花..."
+    },
+    {
+      "path": "X\\X71\\X71n1404.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Wu’an Puning",
+      "title_zh": "兀菴普寧禪師語錄",
+      "snippet": "...舉古舉今， 特地無風起浪。豈不見道：杜耳目於胎殻，掩玄象於 霄外。貴宮商之異，辯玄素之殊。雖則盡力\uD860\uDC5D跳，要且 前不迭村，後不迭店。縱使據菩薩乘，修寂滅行，高步 毗..."
+    },
+    {
+      "path": "X\\X62\\X62n1172.xml",
+      "mentions": 1,
+      "title": "Pure Land Morning Bell",
+      "title_zh": "淨土晨鐘",
+      "snippet": "...廣泰，錢塘人。性至孝，素積善行，而深 自韜晦，不求人知。晚歲精誠奉佛，與靈芝、僧玄素結 春秋二社，念佛誦華嚴五經。忽謂人曰：吾大限將至， 當為西歸資糧。遂自室課誦，..."
+    },
+    {
+      "path": "X\\X60\\X60n1119.xml",
+      "mentions": 1,
+      "title": "Explanation of the Essential Summary of Novice Precepts and Deportment",
+      "title_zh": "沙彌律儀要略述義",
+      "snippet": "...法，華梵 了然。若隨眾諷誦，聲宜調和，不得自恃。若自習學， 聲須低小，勿動眾念。馬素禪師云：舉佛音聲漫水 流，諷經行道鴈行遊。瞻前顧後輕移步，左右迴旋 半展眸。叉手..."
+    },
+    {
+      "path": "X\\X58\\X58n1015.xml",
+      "mentions": 1,
+      "title": "Literary Categories of the Perfect School",
+      "title_zh": "圓宗文類",
+      "snippet": "...，皓鶴神清。 據彼靈剎，高開化城。刳香為像，墨血書經。 乃募時賢，乃招淨者。無論玄素，不限朝野。 以華嚴品，結蓮華社，龍必登門，鷰皆賀廈。 惟上良緣，惟茲福田。如豫..."
+    },
+    {
+      "path": "X\\X88\\X88n1644.xml",
+      "mentions": 1,
+      "title": "Guanyin Compassion Grove Collection",
+      "title_zh": "觀音慈林集",
+      "snippet": "... 更中。鎖又解落有聲。雄又告欣．玄等。至明告敬玄視 之。封題如故。而鎖自相離。敬玄素不信佛法。其妻讀 經。常謂曰。何為胡神所媚。而讀此書耶。及見雄此事。 乃深悟不信..."
+    },
+    {
+      "path": "X\\X88\\X88n1642.xml",
+      "mentions": 1,
+      "title": "Casual Record of Present Retribution",
+      "title_zh": "現果隨錄",
+      "snippet": "...興令，累遷至粵西司臬。申酉間，因經國 變，遁至周山，輙自念曰：吾門人李仲達、同窓馬素修 皆死節，今年垂八十，倘一旦病歿，不幾負二人乎？吾 當尋一死所，明白乾淨，以見..."
+    },
+    {
+      "path": "X\\X87\\X87n1629.xml",
+      "mentions": 1,
+      "title": "Collected Efficacy Records of the Diamond Prajnaparamita Sutra",
+      "title_zh": "金剛般若經集驗記",
+      "snippet": "右監門將軍，出為睦州刺史。坐以公事，降 授徐州別駕。 蘄州黃梅縣令張玄素，年二十，即受持金剛般若 經。每家有迍厄疾病，即至心祈請，即福助肸蠁， 皆得痊濟..."
+    },
+    {
+      "path": "X\\X85\\X85n1593.xml",
+      "mentions": 1,
+      "title": "Orthodox Line of the Chan School",
+      "title_zh": "禪宗正脉",
+      "snippet": "○問：如何是西來意？師曰：白猿抱子來青 嶂，蜂蝶銜花綠蕋間。 鶴林玄素禪師一日，有屠者禮謁，願就所居辦供。師 欣然而往，眾皆見訝。師曰：佛法平等，賢愚..."
+    },
+    {
+      "path": "X\\X85\\X85n1587.xml",
+      "mentions": 1,
+      "title": "Abridged Collection of the True Source",
+      "title_zh": "正源略集",
+      "snippet": "...光今古圓，坐斷生來與去後。偈畢，趺坐移頃 而逝。塔於荊紫龍岡之左。 湖州烏程獨園玄素體禪師錢塘單氏子。 上堂：日 出心光耀，天陰性地昏。不知天地者，剛道有乾坤。喝 ..."
+    },
+    {
+      "path": "X\\X85\\X85n1586.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Abridged Collection of the True Source",
+      "title_zh": "正源略集目錄",
+      "snippet": "...瑩禪師 善權百愚斯禪師 金僊蕃光璨禪師 大義山且拙訥禪師 荊紫峯萬仞壁禪師 獨園玄素體禪師 福善雲松品禪師 梅山歷然相禪師 西山邃谷源禪師 護國眠石蘊禪師 崆峒不溢..."
+    },
+    {
+      "path": "X\\X76\\X76n1516.xml",
+      "mentions": 1,
+      "title": "Comprehensive Mirror of the Shakya Clan",
+      "title_zh": "釋氏通鑑",
+      "snippet": "南嶽鬼 神多顯迹聽法，而師皆與受戒。○西域犍那至。 壬辰 潤州鶴林寺徑山大師元素示寂，左補闕李華製\uDB8E\uDF34， 略曰：師菩提位中六十一夏，父母之生八十五年，赴 哀..."
+    },
+    {
+      "path": "X\\X75\\X75n1512.xml",
+      "mentions": 1,
+      "title": "Comprehensive Annals of Longxing",
+      "title_zh": "隆興編年通論",
+      "snippet": "...見其 神目吻瞬動。所禱，雖造化之功可奪也。朝野奉之如 佛焉。 十一年，潤州鶴林寺徑山大師玄素卒，左補闕李華 製\uDB8E\uDF34，其略曰：嗚呼！菩提位中六十一夏，父母之生八 十五年，..."
+    },
+    {
+      "path": "X\\X74\\X74n1475.xml",
+      "mentions": 1,
+      "title": "Perfect Enlightenment Sutra Practice Assembly Rite",
+      "title_zh": "圓覺經道場修證儀",
+      "snippet": "...祝，祝便殺\uD862\uDE86，\uD862\uDE86謝 之，錡又為人訴，復殺祝，祝又為人訴，後王遊團由，伯 乘白馬素車，\uD862\uDE86左祝右，起於道，以朱弓矢射宣王，中 心折脊而死。 公孫勝者，夫差之臣，王..."
+    },
+    {
+      "path": "T\\T55\\T55n2154.xml",
+      "mentions": 1,
+      "title": "Kaiyuan Era Buddhist Catalog",
+      "title_zh": "開元釋教錄",
+      "snippet": "...年相繼翻譯。出金剛般若等經十地等 論共三十部。帝又勅清信士李廓撰眾經錄。 廓學通玄素條貫經論雅有標擬。故其錄云。 三藏法師留支房內。經論梵本可有萬甲。所 翻新文筆受..."
+    },
+    {
+      "path": "T\\T55\\T55n2150.xml",
+      "mentions": 1,
+      "title": "Continued Great Tang Catalog of Inner Buddhist Texts",
+      "title_zh": "續大唐內典錄",
+      "snippet": "自教流東夏代涉帝朝。必假時君弘 傳聲略。然後玄素依繕方開基構。明后重其 義方。情在監護。闇君順其倫軌。相從而已。故 始自後漢爰洎..."
+    },
+    {
+      "path": "T\\T52\\T52n2106.xml",
+      "mentions": 1,
+      "title": "Collected Record of Responses Concerning the Three Jewels in Shenzhou (China)",
+      "title_zh": "集神州三寶感通錄",
+      "snippet": "...鎖又解落有聲。雄又告忻玄等。至 明告守一。守一來視之。封題如故。而鎖自相 離。敬玄素不信佛法。其妻讀經。常謂曰。何為 胡神所媚而讀此書耶及見雄此事。乃深悟 不信之咎..."
+    },
+    {
+      "path": "T\\T52\\T52n2103.xml",
+      "mentions": 1,
+      "title": "Expanded Collection for the Promotion of Brightness",
+      "title_zh": "廣弘明集",
+      "snippet": "者老子百八十戒 重律云。吾戒大重。向樹說之則枯。向畜說之 則死。又靈寶經云。玄素之道。古人修之延年 益壽。今人修之消年損命。 又道士受三五將軍禁厭之法。有怨憎者"
+    }
+  ]
+}

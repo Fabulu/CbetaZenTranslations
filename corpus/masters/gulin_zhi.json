@@ -1,0 +1,45 @@
+{
+  "master": "Gulin Zhi",
+  "primary_count": 1,
+  "secondary_count": 4,
+  "total_mentions": 20,
+  "primary": [
+    {
+      "path": "J\\J38\\J38nB429.xml",
+      "mentions": 16,
+      "title": "Recorded Sayings of Chan Master Gulin (Prajñā) of Fengtian, Shengjing",
+      "title_zh": "盛京奉天般若古林禪師語錄",
+      "snippet": "古林智禪師語錄序 古公得法語公，語公得法雪公，雪公得法破山和尚， 破和尚得法密雲老人，..."
+    }
+  ],
+  "secondary": [
+    {
+      "path": "LC\\LC06\\LC06n0006.xml",
+      "mentions": 1,
+      "title": "Survey of Canon Editions Through the Dynasties and a New Catalog of the Chinese Canon",
+      "title_zh": "歷朝藏經略考及新編漢文大藏經目錄",
+      "snippet": "...了又續藏，大部分在楞嚴寺經坊編刻，但其中也 包含有各處捐贈的經版（如第三十七函《古林智禪師語錄》是康熙三十六年即一六九 七年在別處所刻而捐入楞嚴大藏流通的）。這些版片..."
+    },
+    {
+      "path": "B\\B35\\B35n0194.xml",
+      "mentions": 1,
+      "title": "General Catalogue of the Chinese Tripiṭaka",
+      "title_zh": "中華大藏經總目錄",
+      "snippet": "426452密行忍禪師語錄附嗣燈錄四卷 又續第三十七函 427453盛京奉天般若古林禪師語錄六卷 428454玉泉其白富禪師語錄三卷附融徹錄一卷 429455雲峯體宗寧..."
+    },
+    {
+      "path": "X\\X82\\X82n1571.xml",
+      "mentions": 1,
+      "title": "Complete Five Lamps (Vols. 34–120)",
+      "title_zh": "五燈全書(第34卷-第120卷)",
+      "snippet": "...然，特為指 出去也。以拂子畫○，曰：徧界不藏高著眼，大家休在 闇中行。 奉天般若古林智禪師湖廣長沙李氏子。幼失怙恃， 顛沛萬狀。六歲至峨嵋脫白，侍雙桂十數年，屢遭毒 ..."
+    },
+    {
+      "path": "X\\X81\\X81n1570.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Complete Five Lamps",
+      "title_zh": "五燈全書目錄",
+      "snippet": "...濟德正禪師 開元素如佩禪師 獅峯乾御源禪師 興國隱南廣禪師 準提洞然舜禪師 般若古林智禪師 普濟渤輪旭禪師 慈化醒閒智禪師 清溪載華哲禪師 集賢坤亭道禪師 寶華向若嵩..."
+    }
+  ]
+}

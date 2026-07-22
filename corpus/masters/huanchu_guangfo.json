@@ -1,0 +1,31 @@
+{
+  "master": "Huanchu Guangfo",
+  "primary_count": 1,
+  "secondary_count": 2,
+  "total_mentions": 7,
+  "primary": [
+    {
+      "path": "J\\J37\\J37nB393.xml",
+      "mentions": 5,
+      "title": "Recorded Sayings of Chan Master Huayan Huanchufo",
+      "title_zh": "華巖還初佛禪師語錄",
+      "snippet": "華巖還初佛禪師語錄目次 敘 卷上 上堂"
+    }
+  ],
+  "secondary": [
+    {
+      "path": "X\\X82\\X82n1571.xml",
+      "mentions": 1,
+      "title": "Complete Five Lamps (Vols. 34–120)",
+      "title_zh": "五燈全書(第34卷-第120卷)",
+      "snippet": "...上堂：發元結制此心良， 三七長連九定香；坐到晨朝並午夜，等閒無事可商 量。 重慶華巖還初佛禪師佛誕，上堂。世尊鑿開混沌，雲 門鍊石補天，雖無毫髮滲漏，猶有經緯機權。彼此..."
+    },
+    {
+      "path": "X\\X81\\X81n1570.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Complete Five Lamps",
+      "title_zh": "五燈全書目錄",
+      "snippet": "...衡嶽畫先一禪師 輔德石琴聞禪師 龍驟破峰重禪師 香國佛語御禪師 三峰半水元禪師 華巖還初佛禪師 華巖南芝靜禪師 龍興子鐘洪禪師 來鳳法空證禪師 慈雲价南僊禪師 孝泉不惑..."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "master": "Meixi Fudu",
+  "primary_count": 1,
+  "secondary_count": 4,
+  "total_mentions": 28,
+  "primary": [
+    {
+      "path": "J\\J39\\J39nB447.xml",
+      "mentions": 22,
+      "title": "Recorded Sayings of Chan Master Meixi Du of Dongshan",
+      "title_zh": "東山梅溪度禪師語錄",
+      "snippet": "大清康熙辛未歲春三月，紫泉天閒老 人吳中蕃大身氏和南書。 東山梅溪禪師語錄目次 卷一 序 上堂"
+    }
+  ],
+  "secondary": [
+    {
+      "path": "X\\X85\\X85n1591.xml",
+      "mentions": 3,
+      "title": "Qiannan Assembly Lamp Record",
+      "title_zh": "黔南會燈錄",
+      "snippet": "...喝散大眾，山僧又只得飲氣吞聲。還有麼？如 無，據款結案去也。卓一卓，下座。 貴陽東山梅溪度禪師西蜀永川張氏子，母吳氏。父 擕入黔，禮本山知如薙髮，依濶浪受沙彌戒。後親靈..."
+    },
+    {
+      "path": "J\\J39\\J39nB451.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Chisongling",
+      "title_zh": "赤松領禪師語錄",
+      "snippet": "...逢陶令家。南國知心昭日月，故園回首暮 雲霞，杖頭久乏邀賓費，賴有茗鐺當酒賒。 訪東山梅溪法兄 扶笻底事步林泉？為訪知音興偶然，山境晴嵐生石 谷，會城燈火續寒煙。牧樵歌遠..."
+    },
+    {
+      "path": "J\\J39\\J39nB446.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Lingyin Wen",
+      "title_zh": "靈隱文禪師語錄",
+      "snippet": "...慈悟度禪人 開口驚人舌底長，幾回默契普門堂，老僧始識峨眉 客，踞地威獰白象王。 梅溪福度禪人 師兒哮吼震乾坤，一喝鋒鋩海水渾，今日老僧親囑 付，栴檀林裏報吾恩。 用晦如..."
+    },
+    {
+      "path": "B\\B35\\B35n0194.xml",
+      "mentions": 1,
+      "title": "General Catalogue of the Chinese Tripiṭaka",
+      "title_zh": "中華大藏經總目錄",
+      "snippet": "又續第四十函 444470靈隱文禪師語錄三卷 445471東山梅溪度禪師語錄十卷 446472靈機禪師語錄六卷 447473祖亮啟禪師語錄二卷 4..."
+    }
+  ]
+}

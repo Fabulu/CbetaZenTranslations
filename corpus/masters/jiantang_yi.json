@@ -1,0 +1,24 @@
+{
+  "master": "Jiantang Yi",
+  "primary_count": 1,
+  "secondary_count": 1,
+  "total_mentions": 4,
+  "primary": [
+    {
+      "path": "J\\J40\\J40nB486.xml",
+      "mentions": 3,
+      "title": "Recorded Sayings of Chan Master Yizhen of Jiantang",
+      "title_zh": "鑑堂一禪師語錄",
+      "snippet": "康熙戊子閏三月，屏山杜允貞子醇氏撰。 鑑堂一禪師語錄目次 序 上堂 秉拂 示眾"
+    }
+  ],
+  "secondary": [
+    {
+      "path": "B\\B35\\B35n0194.xml",
+      "mentions": 1,
+      "title": "General Catalogue of the Chinese Tripiṭaka",
+      "title_zh": "中華大藏經總目錄",
+      "snippet": "482508野雲映禪師宗統頌一卷 483509普門顯禪師語錄二卷 484510鑑堂一禪師語錄一卷 485511翠崖必禪師語錄三卷 486512斗南暐禪師語錄二卷"
+    }
+  ]
+}

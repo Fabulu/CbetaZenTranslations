@@ -1,0 +1,24 @@
+{
+  "master": "Xianglin Benzhen",
+  "primary_count": 1,
+  "secondary_count": 1,
+  "total_mentions": 2,
+  "primary": [
+    {
+      "path": "J\\J39\\J39nB457.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Benzhen of Xianglin, Baiyun",
+      "title_zh": "白雲象林本真禪師語錄",
+      "snippet": "象林本真禪師語錄卷一 門人照永重梓 順治甲午年師住蘄州紫雲山白雲禪寺，於仲冬初 九日入院..."
+    }
+  ],
+  "secondary": [
+    {
+      "path": "B\\B35\\B35n0194.xml",
+      "mentions": 1,
+      "title": "General Catalogue of the Chinese Tripiṭaka",
+      "title_zh": "中華大藏經總目錄",
+      "snippet": "...3479通天逸叟高禪師語錄一卷 454480通天澹崖原禪師語錄二卷 455481白雲象林本真禪師語錄一卷 456482正覺潤光澤禪師澡雪集一卷 457483香巖洗心水禪師語..."
+    }
+  ]
+}

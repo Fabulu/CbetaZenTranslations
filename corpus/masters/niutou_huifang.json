@@ -1,1 +1,37 @@
-{"primary_count":0,"secondary_count":1,"total_mentions":1,"primary":[],"secondary":[{"path":"X\\X81\\X81n1570.xml","mentions":1,"title":"Table of Contents of the Complete Five Lamps","title_zh":"五燈全書目錄","snippet":"湖州智爽禪師 新州杜默禪師 上元智誠禪師 四祖下第三世 金陵巖禪師法嗣 牛頭慧方禪師 東都鏡潭禪師以下不列章次 襄州志長禪師 湖州義真禪師 益州端"}]}
+{
+  "master": "Niutou Huifang",
+  "primary_count": 0,
+  "secondary_count": 4,
+  "total_mentions": 4,
+  "primary": [],
+  "secondary": [
+    {
+      "path": "X\\X80\\X80n1564.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Five Lamps Compendium",
+      "title_zh": "五燈會元目錄",
+      "snippet": "融禪師法嗣 牛頭山智巖禪師 鍾山曇璀禪師 四祖下三世 巖禪師法嗣 牛頭山慧方禪師 四祖下四世 方禪師法嗣 牛頭山法持禪師 四祖下五世 持禪師法嗣"
+    },
+    {
+      "path": "X\\X84\\X84n1580.xml",
+      "mentions": 1,
+      "title": "Separate Transmission Outside the Teachings",
+      "title_zh": "教外別傳",
+      "snippet": "牛頭山法融禪師 四祖旁出二世 牛頭山智巖禪師 四祖旁出三世 牛頭山慧方禪師 四祖旁出四世 牛頭山法持禪師 四祖旁出五世 牛頭山智威禪師"
+    },
+    {
+      "path": "X\\X81\\X81n1570.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Complete Five Lamps",
+      "title_zh": "五燈全書目錄",
+      "snippet": "湖州智爽禪師 新州杜默禪師 上元智誠禪師 四祖下第三世 金陵巖禪師法嗣 牛頭慧方禪師 東都鏡潭禪師 襄州志長禪師 湖州義真禪師 益州端伏禪師 龍光歸仁禪師"
+    },
+    {
+      "path": "X\\X80\\X80n1567.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Strict Lineage of the Five Lamps",
+      "title_zh": "五燈嚴統目錄",
+      "snippet": "融禪師法嗣 牛頭山智巖禪師 鍾山曇璀禪師 四祖下三世 巖禪師法嗣 牛頭山慧方禪師 四祖下四世 方禪師法嗣 牛頭山法持禪師 四祖下五世 持禪師法嗣"
+    }
+  ]
+}

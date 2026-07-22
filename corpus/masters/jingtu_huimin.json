@@ -1,0 +1,30 @@
+{
+  "master": "Jingtu Huimin",
+  "primary_count": 0,
+  "secondary_count": 3,
+  "total_mentions": 3,
+  "primary": [],
+  "secondary": [
+    {
+      "path": "X\\X86\\X86n1601.xml",
+      "mentions": 1,
+      "title": "Genealogy of the Chan Lamp",
+      "title_zh": "禪燈世譜",
+      "snippet": "嶽林元亨 澄慧善珂 寶華悟本 淨土慧旻 澄慧師冕 石霜能 逍遙聰"
+    },
+    {
+      "path": "T\\T51\\T51n2077.xml",
+      "mentions": 1,
+      "title": "Continued Record of the Transmission of the Lamp",
+      "title_zh": "續傳燈錄",
+      "snippet": "...物轉法逐時遷。若是格外上根。不干文墨直 見自心。大用繁興無非佛事。良久曰。參。 饒州密巖淨土慧旻禪師示眾曰。道無動靜 法本隨緣。立處皆真隨方作主。在天地則覆 載。在日月則照臨。..."
+    },
+    {
+      "path": "X\\X83\\X83n1572.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Continued Transmission of the Lamp Record",
+      "title_zh": "續傳燈錄目錄",
+      "snippet": "...慧燈禪師 米山崇僊禪師 寶花願禪師 嶽林元亨禪師 澄慧善珂禪師 寶華悟本慶禪師 淨土慧旻禪師 澄慧師冕禪師 石霜能禪師 逍遙聰禪師 投子普聰禪師 普照處輝禪師 南禪寧禪..."
+    }
+  ]
+}

@@ -1,0 +1,856 @@
+{
+  "master": "Cuiyan Shouzhi",
+  "primary_count": 0,
+  "secondary_count": 121,
+  "total_mentions": 221,
+  "primary": [],
+  "secondary": [
+    {
+      "path": "P\\P154\\P154n1519.xml",
+      "mentions": 40,
+      "title": "Essential Compendium of the Zen School: Main and Continued Collections (Vols. 1–12)",
+      "title_zh": "宗門統要正續集(第1卷-第12卷)",
+      "snippet": "...明大士從 地涌出作禮世尊世尊勑罔明出罔明却至 女人前鳴指一下女子於是從定而出。 翠巖芝云僧投寺裏宿賊打不防家。五 雲逢云不唯文殊不能出此定但恐如來 也出此定不得秪如教..."
+    },
+    {
+      "path": "P\\P155\\P155n1519.xml",
+      "mentions": 9,
+      "title": "Essential Compendium of the Zen School: Main and Continued Collections (Vols. 13–20)",
+      "title_zh": "宗門統要正續集(第13卷-第20卷)",
+      "snippet": "...後去坐云和尚若不道 須打和尚去霜云得在師乃禮拜不住霜云 無人識渠師於言下有省。 翠巖芝云先行不到末後太過。 續天童覺云穩密田地忌墮功勳貼肉衣 裳會須脫去寰中辨的量外之..."
+    },
+    {
+      "path": "D\\D48\\D48n8939.xml",
+      "mentions": 6,
+      "title": "Recorded Sayings of Ancient Venerable Masters",
+      "title_zh": "古尊宿語錄",
+      "snippet": "...尚 臨濟第七\uD840\uDC0D 仁宗嘉祐中示寂。 雲峰和尚名文恱南昌人姓徐氏龍 興寺受業得法於大愚芝和尚壽六 十六臘五十九臨濟第八\uD840\uDC0D嘉祐中 示寂。 楊\uD876\uDF5B和尚名文會袁州人姓冷氏筠..."
+    },
+    {
+      "path": "X\\X67\\X67n1309.xml",
+      "mentions": 6,
+      "title": "Treasury of the True Dharma Eye",
+      "title_zh": "正法眼藏",
+      "snippet": "...，李僕射。僧 云：不會。曰：牛頭南，馬頭北。 妙喜曰：前頭答得著，後頭答不著。 大愚芝和尚示眾云：大愚相接大雄孫，五湖雲水競 頭奔。競頭奔，有何門？擊箭寧知枯木存。枯..."
+    },
+    {
+      "path": "X\\X79\\X79n1557.xml",
+      "mentions": 4,
+      "title": "Essential Compendium of the United Lamp",
+      "title_zh": "聯燈會要",
+      "snippet": "...襄州鹿門慧昭山主 南嶽下第十一世 汾陽善昭禪師法嗣上三人 潭州興化楚圓禪師 筠州大愚守芝禪師 滁州瑯瑘慧覺禪師 卷第十三 南嶽下第十一世 汾陽善昭禪師法嗣下四人"
+    },
+    {
+      "path": "X\\X67\\X67n1307.xml",
+      "mentions": 4,
+      "title": "Elder Wansong’s Commentary and Chanted Remarks on Master Tiantong Jue’s Picking Up Ancient Cases: Record of Requests for Instruction",
+      "title_zh": "萬松老人評唱天童覺和尚拈古請益錄",
+      "snippet": "...犯不容。法燈自合盡令而行，更道：過在我，殃及你。如 來禪即不無，祖師禪未夢見在。翠巖芝道：為眾竭力， 禍出私門。可謂切中其病。雲峰悅道：這老漢一期與 奪，也似絕後光前..."
+    },
+    {
+      "path": "X\\X67\\X67n1299.xml",
+      "mentions": 4,
+      "title": "Classified Anthology of the Chan Grove",
+      "title_zh": "禪林類聚",
+      "snippet": "... 地藏恩云：高源水出曉晴天，對答臨機 豈偶然？衲子不知流落處，一尋寒木破溪煙。 大愚芝禪師。僧問：如何是佛？師云：鋸解秤槌。 白雲端頌云：鋸解秤槌無縫罅，風吹日炎朝復..."
+    },
+    {
+      "path": "X\\X87\\X87n1624.xml",
+      "mentions": 3,
+      "title": "Forest Notes",
+      "title_zh": "林間錄",
+      "snippet": "...能知也。 教中有女子出定因緣，叢林商略甚眾，自非道眼明 白，親見作家，莫能明也。大愚芝禪師每問僧曰：文殊 是七佛之師，為什麼出此女子定不得？罔明菩薩下 方而至，但彈指..."
+    },
+    {
+      "path": "J\\J38\\J38nB410.xml",
+      "mentions": 3,
+      "title": "Recorded Sayings of Chan Master Lianfeng",
+      "title_zh": "蓮峰禪師語錄",
+      "snippet": "...，縱奪驚人。若是山僧見他恁麼道，便與推 出禪堂，免見遞相錮鏴。」 舉：「雲峰悅聞大愚芝云：『大家相聚喫莖齏，若喚作一 莖齏，墮地獄如箭射。』悅後大悟。」 拈云：「大愚..."
+    },
+    {
+      "path": "B\\B27\\B27n0152.xml",
+      "mentions": 3,
+      "title": "Recorded Sayings of National Master Puji Yulin",
+      "title_zh": "普濟玉琳國師語錄",
+      "snippet": "...學 遇境界艱難一時打不過故爾苦口叮嚀殊不知清 苦僧家本分不獨今時如此自古皆然昔日大愚芝 和尚常住澹薄想與報恩差不多而芝老和尚窮酸 直是窮酸到底幾株宿菜也不令人好喫嘗上..."
+    },
+    {
+      "path": "X\\X77\\X77n1524.xml",
+      "mentions": 3,
+      "title": "Supplement to the Continued Biographies of Eminent Monks",
+      "title_zh": "補續高僧傳",
+      "snippet": "...陽昭葉縣省神鼎諲三禪師 谷隱聰廣慧璉二禪師 卷第七 大陽警玄禪師 慈明楚圓禪師 大愚芝法華舉瑯琊覺三禪師 黃牛惟政禪師 圓通懷賢禪師 善覺法寶禪師 浮山法遠禪師 法華..."
+    },
+    {
+      "path": "X\\X68\\X68n1316.xml",
+      "mentions": 3,
+      "title": "Catalog of Essentials from the Sayings of Ancient Worthies",
+      "title_zh": "古尊宿語要目錄",
+      "snippet": "石門聰 卷三 法華舉大愚芝 雲峰悅楊岐會 道吾真"
+    },
+    {
+      "path": "X\\X68\\X68n1315.xml",
+      "mentions": 3,
+      "title": "Recorded Sayings of Ancient Worthies",
+      "title_zh": "古尊宿語錄",
+      "snippet": "古尊宿語錄卷之二十五 筠州大愚芝和尚語錄 師，太原王氏子。陞座，僧問：如何是和尚家風？ 師云：一 言已"
+    },
+    {
+      "path": "X\\X64\\X64n1260.xml",
+      "mentions": 3,
+      "title": "Outline Record of the Successive Patriarchs",
+      "title_zh": "列祖提綱錄",
+      "snippet": "武林十八㵎理安禪寺住持婁東行悅集 五參提綱 大愚芝禪師。上堂：大愚相接大雄孫，五湖雲水競頭 奔。競頭奔，有何門？擊箭寧知枯木存？枯..."
+    },
+    {
+      "path": "X\\X79\\X79n1563.xml",
+      "mentions": 2,
+      "title": "Great Treasury of Light",
+      "title_zh": "大光明藏",
+      "snippet": "...師 福州雪峰義存禪師嗣法 福州長生山皎然禪師 汾州太子善昭禪師嗣法 南昌西山翠嵓守芝禪師 汝州葉縣歸省禪師嗣法 舒州浮山法遠禪師 潭州石霜楚圓禪師嗣法 袁州楊岐山方..."
+    },
+    {
+      "path": "X\\X79\\X79n1559.xml",
+      "mentions": 2,
+      "title": "Jiatai Universal Lamp Record",
+      "title_zh": "嘉泰普燈錄",
+      "snippet": "...也。曰：脚踢 不動。以寶元二年正月五日沐浴加趺而逝，壽五十 四，夏三十二。 筠州大愚守芝禪師族王氏，太原人也。幼棄家依潞 州承天寺，試法華得度。從賢首諸師嘗講金剛般若，..."
+    },
+    {
+      "path": "X\\X79\\X79n1558.xml",
+      "mentions": 2,
+      "title": "General Table of Contents of the Jiatai Universal Lamp Record",
+      "title_zh": "嘉泰普燈錄總目錄",
+      "snippet": "...祖師卷後云 二之卷 南嶽第十世 汾陽善照禪師法嗣六人 袁州南源慈明楚圓禪師 筠州大愚守芝禪師 滁州瑯瑘廣照慧覺禪師 舒州法華全舉禪師 蘄州龍華曉愚禪師 撫州疎山曉珠禪師..."
+    },
+    {
+      "path": "X\\X78\\X78n1556.xml",
+      "mentions": 2,
+      "title": "Jianzhong Jingguo Continued Lamp Record",
+      "title_zh": "建中靖國續燈錄",
+      "snippet": "...，即云：看！看！有至劒邊擬議者，師云：嶮喪身失 命了也。便喝出。 筠州太愚山興教守芝禪師問：如何是祖師西來意？ 師云：天寒日短。問：馬師未見讓師時如何？師云：緊。"
+    },
+    {
+      "path": "X\\X78\\X78n1555.xml",
+      "mentions": 2,
+      "title": "Table of Contents of the Jianzhong Jingguo Continued Lamp Record",
+      "title_zh": "建中靖國續燈錄目錄",
+      "snippet": "...南嶽懷讓禪師第十一世 汾州太子禪院善昭禪師法嗣九人 潭州興化慈明禪師 筠州大愚山守芝禪師 滁州瑯瑘廣照禪師 舒州法華齊舉禪師 潭州石霜法永禪師 湖州天聖皓太禪師 舒..."
+    },
+    {
+      "path": "X\\X78\\X78n1553.xml",
+      "mentions": 2,
+      "title": "Tiansheng Expanded Lamp Record",
+      "title_zh": "天聖廣燈錄",
+      "snippet": "...禪師 唐州大乘山惠果禪師 汾州太子院善昭禪師法嗣 汾州太子院道一禪師 筠州東禪院守芝禪師 天聖廣燈錄卷第十八 南岳山懷讓禪師第九世 汾州太子院善昭禪師法嗣 袁州南園..."
+    },
+    {
+      "path": "T\\T49\\T49n2036.xml",
+      "mentions": 2,
+      "title": "General Record of Buddhas and Patriarchs Through the Ages",
+      "title_zh": "佛祖歷代通載",
+      "snippet": "...空而去。昭密記以偈曰。胡僧金 錫光。請法到汾陽。六人成大器。勸請為敷 揚。時楚圓守芝號上首。叢林知名。龍德府 尹。李侯與昭有舊。虛承天致之。使三反不 赴。使者受罰。..."
+    },
+    {
+      "path": "M\\M59\\M59n1540.xml",
+      "mentions": 2,
+      "title": "General Discourses of Chan Master Dahui Pujue",
+      "title_zh": "大慧普覺禪師普說",
+      "snippet": "...道云世尊大慈大悲開我迷雲令我得入未審見箇甚 麼道理便恁麼道師云豁開千聖路進云只如翠巖芝和 尚云外道恁麼道要且未夢見在既未夢見因甚麼却悟 去師云灼然灼然進云楊岐和尚云世..."
+    },
+    {
+      "path": "L\\L154\\L154n1641.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of National Teacher Xiu of Dajue Puji Nengren",
+      "title_zh": "大覺普濟能仁琇國師語錄",
+      "snippet": "... 遇境界艱難一時打不過故爾苦口叮嚀 殊不知清苦僧家本分不獨今時如此自 古皆然昔日大愚芝和尚常住澹薄想與 報恩差不多而芝老和尚窮酸直是窮酸 到底幾株宿菜也不令人好喫嘗上..."
+    },
+    {
+      "path": "J\\J27\\J27nB189.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Sanyi Yu",
+      "title_zh": "三宜盂禪師語錄",
+      "snippet": "...出不得，是定非 真定，罔明與文殊，喪卻窮性命。』你看透關人，出語自 有來由。又如大愚芝禪師，每舉此問僧，莫有對者。乃 自代云：『僧投寺裏宿，賊打不防家。』石門禪師特愛..."
+    },
+    {
+      "path": "B\\B19\\B19n0103.xml",
+      "mentions": 2,
+      "title": "Annotated Glossary of Chan Monastic Terms and Implements",
+      "title_zh": "禪林象器箋",
+      "snippet": "...人。為 堂司。 敕修清規聖節差單式云。堂司某具。 僧寶傳雲峯悅禪師傳云。悅至筠州大愚芝陞 座曰。大家相聚喫莖齏。若喚作一莖齏。入地獄如 箭射。下座。無他語。悅大駭。夜..."
+    },
+    {
+      "path": "X\\X82\\X82n1571.xml",
+      "mentions": 2,
+      "title": "Complete Five Lamps (Vols. 34–120)",
+      "title_zh": "五燈全書(第34卷-第120卷)",
+      "snippet": "...不動。把四大海水傾向諸人 脚跟底，涓滴不流。會醫還少病，知分不多愁。 上堂， 舉大愚芝示眾：大家相聚喫莖虀，若喚作一莖虀，入 地獄如箭射。師曰：宗師為人如蠱毒之家，置..."
+    },
+    {
+      "path": "X\\X70\\X70n1376.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Chijue Daochong",
+      "title_zh": "痴絕道冲禪師語錄",
+      "snippet": "...，低擲不到地，南北東西無處避。帶 累雪峯老人，喚作南山鱉鼻。 上堂，舉：善侍者在大愚芝入室次，大愚趯出一隻履， 善侍者退身而立，大愚俯取履，善侍者一踏踏倒，大 愚便面..."
+    },
+    {
+      "path": "X\\X69\\X69n1362.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Pujue Zonggao",
+      "title_zh": "普覺宗杲禪師語錄",
+      "snippet": "...謝，謂其真佛 子也。嘗作達磨祖師贊，大播叢林，琅瑘覺和尚和之， 今載正法眼藏。 大愚芝和尚會中有僧，日誦金剛經二百遍。芝聞得， 令侍者請至，問云：聞汝日誦金剛經二百遍..."
+    },
+    {
+      "path": "X\\X67\\X67n1303.xml",
+      "mentions": 2,
+      "title": "Elder Linquan’s Commentary and Chanted Remarks on Master Touzi Qing’s Verses on Ancient Cases: Empty Valley Collection",
+      "title_zh": "林泉老人評唱投子青和尚頌古空谷集",
+      "snippet": "...石霜道， 霜不與道。師云：若不道，打和尚去也。霜曰：無人識得 渠。師於言下有省。翠巖芝云：先行不到，末後太過。林 泉道：走的走殺，坐的坐殺。祖燈錄中本僧問石霜，非 雲..."
+    },
+    {
+      "path": "X\\X66\\X66n1297.xml",
+      "mentions": 2,
+      "title": "Dharma Grove of the Tradition’s Mirror",
+      "title_zh": "宗鑑法林",
+      "snippet": "廣慧元璉 三交智嵩 大鑒下十一世 石霜楚圓 卷三十 瑯琊慧覺 大愚守芝 法華全舉 芭蕉谷泉 天聖皓泰 浮山法遠 金山曇潁 都尉李遵勗 內翰楊億"
+    },
+    {
+      "path": "X\\X66\\X66n1296.xml",
+      "mentions": 2,
+      "title": "Compilation of the School Gate’s “Raising Old Cases”",
+      "title_zh": "宗門拈古彙集",
+      "snippet": "北禪智賢 天平從\uDB8E\uDF22 卷第四十一 南十 石霜楚圓 瑯瑘慧覺 大愚守芝 法華全舉 芭蕉谷泉 天聖皓泰 青十 投子義青 興陽清剖 天衣義懷 雲居曉舜"
+    },
+    {
+      "path": "X\\X65\\X65n1283.xml",
+      "mentions": 2,
+      "title": "Model of the Tradition",
+      "title_zh": "宗範",
+      "snippet": "...曰：北俱盧州長粳米， 食者無瞋亦無喜。昭又曰：總將此四轉語，勘驗天下 衲僧了也。大愚芝曰：先師將此驗衲僧仔細思量，將 此四句總被天下衲僧一時勘破。妙喜曰：諸人要識 大..."
+    },
+    {
+      "path": "X\\X65\\X65n1280.xml",
+      "mentions": 2,
+      "title": "Brief Discourse on Dispelling Delusion and Providing Remedy",
+      "title_zh": "闢妄救略說",
+      "snippet": "...信 此等說話為究竟，謂有道理可以憑仗，而縱其才 辯抹殺真宗。吁！可悲也。余讀傳燈大愚芝禪師會 中有僧誦金剛經，至應如是知、如是見、如是信解， 不生法相，驀然有省，遂白..."
+    },
+    {
+      "path": "X\\X64\\X64n1266.xml",
+      "mentions": 2,
+      "title": "Written Explanations of Precious Instructions of the Chan Grove",
+      "title_zh": "禪林寶訓筆說",
+      "snippet": "...在此習善知 識量度耶？先師稽首謝之，閱經如故。 南嶽雲峯文悅禪師。南昌徐氏子，嗣大愚守芝禪 師。南嶽下十一世，謂昔同先師行脚時，休夏于荊 州鳳林寺。悅和尚每好辯論，一日..."
+    },
+    {
+      "path": "X\\X87\\X87n1618.xml",
+      "mentions": 1,
+      "title": "Guide to the Patriarchal Court",
+      "title_zh": "祖庭指南",
+      "snippet": "...側。閱世七 十有八，坐五十六夏，嗣法一十一人，同時得證者六 人：石霜圓、瑯琊覺、大愚芝、谷泉道、法華舉、天聖泰。闍維，收舍利起塔。 第十一世潭州石霜楚圓慈明禪師汾陽，..."
+    },
+    {
+      "path": "X\\X87\\X87n1615.xml",
+      "mentions": 1,
+      "title": "Chan Grove Primer: Collected Omissions",
+      "title_zh": "禪苑蒙求拾遺",
+      "snippet": "已。 雲頂三教 法泉萬卷 普燈錄曰：福州東山雲頂禪師謁大愚芝、神鼎諲諸 名衲，後見羅漢下尊宿，始徹己事，道學有聞，叢林稱 為頂三教。出住東山..."
+    },
+    {
+      "path": "X\\X87\\X87n1614.xml",
+      "mentions": 1,
+      "title": "Chan Grove Primer: Jade Grove",
+      "title_zh": "禪苑蒙求瑤林",
+      "snippet": "登子曰：識得登子，周匝有餘。雲門云：識得登子，天 地懸殊。 守芝石幢瑞州大愚山守芝禪師。陞 座，僧問：如何是城裡佛？師曰：十字街頭石幢子。 羅山\uDB80\uDE53飯明招到招慶，有度..."
+    },
+    {
+      "path": "X\\X86\\X86n1601.xml",
+      "mentions": 1,
+      "title": "Genealogy of the Chan Lamp",
+      "title_zh": "禪燈世譜",
+      "snippet": "投子圓修 踈山曉珠 大愚守芝 雲峯文悅 壽寧齊曉"
+    },
+    {
+      "path": "X\\X86\\X86n1600.xml",
+      "mentions": 1,
+      "title": "Chronological Compilation of the Sectarian Lineage",
+      "title_zh": "宗統編年",
+      "snippet": "...纏枯松上。甞以杖荷大酒瓢往來 山中，人問：瓢中何物？曰：大道漿也。 禪師汾陽支下大愚守芝寂。 芝住大愚、翠巖兩山，眾未甞登。三十輩屋老，以木 拄將傾處，過者疑將壓焉。提..."
+    },
+    {
+      "path": "X\\X80\\X80n1564.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Five Lamps Compendium",
+      "title_zh": "五燈會元目錄",
+      "snippet": "居士 卷十二 南嶽下十世 汾陽昭禪師法嗣 石霜楚圓禪師 琅邪慧覺禪師 大愚守芝禪師 石霜法永禪師 法華全舉禪師 芭蕉谷泉禪師 龍華曉愚禪師 天聖皓泰禪師 龍潭..."
+    },
+    {
+      "path": "X\\X79\\X79n1560.xml",
+      "mentions": 1,
+      "title": "Biographies of Sangha Treasures of the Chan Forest",
+      "title_zh": "禪林僧寶傳",
+      "snippet": "...作什麼。曰將 謂是收番猛將。元來是行間小卒。對曰。雅淡呈秋色。 馨香噴月華。又謁大愚芝禪師。芝問。古人見桃花。意 作麼生。對曰。曲不藏直。曰那箇且從。這箇作麼生。對 ..."
+    },
+    {
+      "path": "X\\X73\\X73n1446.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Xuansha Shibei",
+      "title_zh": "玄沙師備禪師語錄",
+      "snippet": "...下，却回向侍者道：我今 日作得一解，險入地獄如箭射。者曰：喜得和尚再復 人身。 翠巖芝云：大小玄沙，前不搆村，後不至店，且作麼 生道得出身之路？ 道吾真云：大小芝老，..."
+    },
+    {
+      "path": "T\\T51\\T51n2077.xml",
+      "mentions": 1,
+      "title": "Continued Record of the Transmission of the Lamp",
+      "title_zh": "續傳燈錄",
+      "snippet": "... 千仞嶮。臨濟道石火電光鈍。琅邪有定乾坤 底句。各各高著眼高著眼。卓拄杖下座。 瑞州大愚山守芝禪師。太原王氏子。纔陞座。 僧問。如何是和尚家風。師曰。一言出口駟馬 難追。問如何是..."
+    },
+    {
+      "path": "T\\T49\\T49n2037.xml",
+      "mentions": 1,
+      "title": "Brief Investigation of Antiquity of the Shakya Lineage",
+      "title_zh": "釋氏稽古略",
+      "snippet": "...禪流若問旨歸。鼻孔大頭向下。遂泊然而逝。 闍維五色舍利塔於禹溪北。師嗣大愚禪師 守芝。芝嗣汾陽善昭。昭嗣首山念禪師。 癸卯 嘉祐八年三月帝崩大契丹 清寧九年西夏 英..."
+    },
+    {
+      "path": "T\\T48\\T48n2025.xml",
+      "mentions": 1,
+      "title": "Imperially Commissioned Baizhang Monastic Regulations",
+      "title_zh": "勅修百丈清規",
+      "snippet": "...空而去。師密記以偈曰。胡僧金錫光。為法 到汾陽。六人成大器。勸請為敷揚。時楚圓 守芝號上首。楚圓即慈明也。後住石霜。飯 罷常山行。時楊岐會公為監寺。闞其出撾 鼓集眾..."
+    },
+    {
+      "path": "T\\T47\\T47n1999.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Monk Mi’an",
+      "title_zh": "密菴和尚語錄",
+      "snippet": "...見善 知識。輕輕撥著。便見魂飛膽喪。若無定龍蛇 眼目。如何辨別。豈不見。雲峯悅見大愚芝。首 聞大家相聚喫莖韲之語。便乃倒戈卸甲。然 後歷試諸難。初無玄妙語與之商確。只..."
+    },
+    {
+      "path": "T\\T47\\T47n1998B.xml",
+      "mentions": 1,
+      "title": "Dahui Pujue’s Armory of the Chan School",
+      "title_zh": "大慧普覺禪師宗門武庫",
+      "snippet": "...見賊馬。便知那箇定是我 底。近前一鏘殺了賊。跳上馬背便殺人去。須 是恁麼始得。 大愚芝和尚會中有僧。日誦金剛經一百遍。 芝聞得令侍者請至。問曰。聞汝日誦金剛經 一百遍..."
+    },
+    {
+      "path": "L\\L157\\L157n1649.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Shanciji",
+      "title_zh": "山茨際禪師語錄",
+      "snippet": "頌云。 彩雲影裏仙人現手把紅羅扇遮靣急須 着眼看仙人莫看仙人手中扇 舉大愚芝和尚示眾曰大家相聚喫莖虀若 喚作一莖虀入地獄如箭。頌云。 大家相聚首共喫這莖虀滋..."
+    },
+    {
+      "path": "L\\L154\\L154n1640.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Miyun Wu",
+      "title_zh": "密雲悟禪師語錄",
+      "snippet": "瑯琊畣長水話。 長水如是問瑯琊如是畣清淨本然云何忽 生山河大地 大愚芝禪師因僧問如何是佛曰鋸解秤 錘。 鋸解秤錘直截單提若人不會別喚沙彌 楊岐問僧金"
+    },
+    {
+      "path": "L\\L154\\L154n1639.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Tianyin Xiu",
+      "title_zh": "天隱修禪師語錄",
+      "snippet": "...眾將拄杖一時趁 下卻回向侍者云我今日作得一解險入地 獄如箭射者云喜得和尚再復人身翠巖芝 云大小玄沙前不搆邨後不迭店且作麼生 道得出身之路道吾真云大小芝老只是偏 枯若是..."
+    },
+    {
+      "path": "L\\L153\\L153n1637.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Huanyouchuan",
+      "title_zh": "幻有傳禪師語錄",
+      "snippet": "...師獨遊五都朱扉間且以為蓬戶 也者業遊燕矣而門\uDB88\uDEB7蕭寂眾未嘗登十輩 意泊如也石門誦翠巖芝云廬山殿閣如生 成食堂處處禪床折我此三門如冷\uD87E\uDC35盡日 長廊捲風葉禪師庶幾近之此其..."
+    },
+    {
+      "path": "J\\J40\\J40nB490.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Suruhan of Boshan",
+      "title_zh": "博山粟如瀚禪師語錄",
+      "snippet": "...時，且如何是龍吟霧起、虎嘯風生一 句？妙舞自應誇遍拍，三臺元是大家摧。」復舉：「大愚芝 示眾云：『三世諸佛不知有，黧奴白牯卻知有。』」語訖，師 云：「大愚老漢東扯西拽..."
+    },
+    {
+      "path": "J\\J39\\J39nB454.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Pinjixiang",
+      "title_zh": "頻吉祥禪師語錄",
+      "snippet": "...落波心。」 故國山河跡儼然，華宮舊院總含煙，承恩賜發今 朝馬，無限新機鼓角邊。 大愚守芝禪師，因僧問：「如何是佛？」愚曰：「鋸\uD862\uDF82秤錘。」 春山一帶悉花叢，岸上花飛楊柳..."
+    },
+    {
+      "path": "J\\J39\\J39nB441.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Tongzhen of Wanfeng",
+      "title_zh": "萬峰童真禪師語錄",
+      "snippet": "...林。師崖柴而笑曰：「龍象蹴踏，非 驢所堪。」嘗橐骨董箱，以竹杖荷之。遊襄沔間，與守芝 谷泉俱結伴入洛中。聞汾陽昭禪師道望，決志親依。 時朝廷方問罪河東，潞澤皆屯重兵..."
+    },
+    {
+      "path": "J\\J39\\J39nB440.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Qiaosongyi of Gaofeng",
+      "title_zh": "高峰喬松億禪師語錄",
+      "snippet": "...林。師崖柴而笑曰：「龍象蹴踏，非 驢所堪。」常橐骨董箱，以竹杖荷之。遊裏沔閒，與守芝 谷泉俱結伴入洛中。聞汾陽昭禪師道望，決志親依。 時朝廷方問罪河東，潞澤皆屯重兵..."
+    },
+    {
+      "path": "J\\J38\\J38nB430.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Qibaifu of Yuquan",
+      "title_zh": "玉泉其白富禪師語錄",
+      "snippet": "...萬里。玉泉待伊現身，云：『汝爭奈我何？』呸 一聲，饒伊手口齊動，只道得八成。」 大愚芝示眾云：「大家相聚喫莖虀，若喚作一莖虀，入 地獄如箭射。」 拈云：「大小大愚，莫..."
+    },
+    {
+      "path": "J\\J38\\J38nB412.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Zhufeng of Santa",
+      "title_zh": "三塔主峰禪師語錄",
+      "snippet": "... 充暘，驀然打失烏珠，方契眾生具有如來智慧德相， 此是古佛應跡因緣。更有雲峰悅在大愚芝座下，芝 一日示眾云：『大家相聚喫莖虀，喚作一莖虀，入地獄 如箭。』悅聞之駭然，..."
+    },
+    {
+      "path": "J\\J38\\J38nB409.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Dangui of Danxia",
+      "title_zh": "丹霞澹歸禪師語錄",
+      "snippet": "...看翠巖眉毛 在麼？」長慶曰：「生也。」雲門曰：「關。」保福曰：「作賊人心 虛。」翠巖芝曰：「為眾竭力，禍出私門。」師云：「翠巖 與你們有甚冤讎？」復云：「過街老鼠齊叫..."
+    },
+    {
+      "path": "J\\J38\\J38nB408.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Aziwa of Haichuang",
+      "title_zh": "海幢阿字無禪師語錄",
+      "snippet": "...！佛眼覷不著處作麼生？到者裏秪要你伶俐。」良久， 云：「料掉沒交涉。昔雲峰悅初參大愚芝和尚，纔請益， 芝云：『法輪未轉，食輪先轉，今一眾無食，可為抄化。』悅 如命而往..."
+    },
+    {
+      "path": "J\\J38\\J38nB406.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Tianran of Mount Lu",
+      "title_zh": "廬山天然禪師語錄",
+      "snippet": "...旨 腳跟處處絕追尋，又向白雲深處行，把住要津無路 著，全身已到月華心。 雲峰悅參大愚芝 乞化堂司僧本務，實無佛法與人論，于今末世難分 辨，瞎眼阿師卻認真。 黃龍三關"
+    },
+    {
+      "path": "J\\J37\\J37nB390.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Chulin of Beijing",
+      "title_zh": "北京楚林禪師語錄",
+      "snippet": "...惠超。」僧即悟入。 岸上蹄踏蹄，水中嘴對嘴，就地自還家，千花生碓嘴。 端州大愚山守芝禪師，因僧問：「如何是佛？」師曰： 「鋸解秤鎚。」 鋸解秤鎚，生鐵鑄就。特與安名..."
+    },
+    {
+      "path": "J\\J36\\J36nB365.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Shipuzhi",
+      "title_zh": "石璞質禪師語錄",
+      "snippet": "...和尚既許為大眾說法，因甚一言不施？』山 云：『經有經師、論有論師，爭怪得老僧？』翠巖芝云：『藥山 下座，院主當初怪不為說法，可謂誤他三軍。』天童傑 云：『翠巖只具一隻..."
+    },
+    {
+      "path": "J\\J36\\J36nB363.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Wenmunian",
+      "title_zh": "文穆念禪師語錄",
+      "snippet": "...如是……」豎拂子，云：「石筍抽 條枝葉茂，冰河發燄亙天紅。」下座。 上堂。舉：「大愚守芝禪師問侍者曰：『問訊了一邊立地， 是甚麼道理？』曰：『不會。』愚曰：『過這邊立。..."
+    },
+    {
+      "path": "J\\J36\\J36nB359.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Baiyu",
+      "title_zh": "百愚禪師語錄",
+      "snippet": "...云：『胡僧金錫光，為法到汾陽，六人成 大器，勸請為敷揚。』六人者，即慈明、瑯琊、大愚芝等是 也。青龍昨夜亦有土地神稽首謂曰：『承和尚連日晚 參，為眾說法，雖則誨人無倦..."
+    },
+    {
+      "path": "J\\J34\\J34nB311.xml",
+      "mentions": 1,
+      "title": "Complete Record of Chan Master Juelangsheng of Tianjie",
+      "title_zh": "天界覺浪盛禪師全錄",
+      "snippet": "...置於烈燄猛鎚之中，直要煆盡他無 始習氣命根，然後始知臨濟之道迥出常流也。所以， 大愚芝密激雲峰悅、葉縣省煆煉浮山遠，皆非常手 眼。近世學處不玄、師宗不玅，類以死語、死..."
+    },
+    {
+      "path": "J\\J34\\J34nB306.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Neishaozhong",
+      "title_zh": "內紹種禪師語錄",
+      "snippet": "...僧問趙州：「大耳三藏第三度覓國師不見，未審在 什麼處？」州云：「在三藏鼻孔裏。」大愚芝云：「只如三藏 還得國師鼻孔麼？」 國師鼻孔等虛空，大耳他心處處通。若道這回看不..."
+    },
+    {
+      "path": "J\\J33\\J33nB294.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Liangting Ting of Yunxi",
+      "title_zh": "雲溪俍亭挺禪師語錄",
+      "snippet": "...，上堂：「長連床上佛陀耶。」 人閒桂花落，夜靜深山空。月出驚啼鳥，時聞寒澗中。 大愚芝，上堂：「大洋波底排斑立，從頭第二鬢毛斑。 為甚麼不道第一鬢毛斑？要會麼？金蕊銀..."
+    },
+    {
+      "path": "J\\J33\\J33nB287.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Zixianjue",
+      "title_zh": "自閒覺禪師語錄",
+      "snippet": "...擎頭， 人生大國，方知貴祖宗下事，七縱八橫，步步登高、頭 頭合轍。所以，兜率悅為大愚芝乞炭，萬世流芳；舜老 夫與洞山聰募緣，古今牓樣。秪貴當人不起二念，管 教海集山堆..."
+    },
+    {
+      "path": "J\\J33\\J33nB281.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Zizhouchuan of Tanxi",
+      "title_zh": "壇溪梓舟船禪師語錄",
+      "snippet": "...居士捨子出家，以 報佛恩，帶累宗親，得生長安。長安且置。」復舉：「文悅禪 師親近大愚芝，芝曰：『有何所求？』悅曰：『求心地法。』芝曰： 『若道心地法，不怕爛卻，且為眾..."
+    },
+    {
+      "path": "J\\J33\\J33nB280.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Yunwaize of Shending",
+      "title_zh": "神鼎雲外澤禪師語錄",
+      "snippet": "...布施諸人。」驀卓拄杖，云：「風 來群木響，雨過萬山青。」 小參。舉：「雲峰悅初參大愚芝，芝上堂云：『大家相聚喫 莖虀，若喚作一莖虀，入地獄如箭射。』便下座。悅詣方 丈..."
+    },
+    {
+      "path": "J\\J29\\J29nB231.xml",
+      "mentions": 1,
+      "title": "Five-Session Record of Monk Shuijianhai of Tianwang",
+      "title_zh": "天王水鑑海和尚五會錄",
+      "snippet": "...，特與諸人露箇消息。」良久，曰：「全身脫落 無他事，眼裏耳裏不是塵。」 復舉：「大愚芝和尚曰：『大家聚首喫一莖虀，若喚作一 莖虀，入地獄如箭射。』」師曰：「全提向上，..."
+    },
+    {
+      "path": "J\\J29\\J29nB230.xml",
+      "mentions": 1,
+      "title": "Six-Session Record of Monk Shuijianhai of Tianwang",
+      "title_zh": "天王水鑑海和尚六會錄",
+      "snippet": "...者裏眼眼相觀，坐對空庭？何故？明年此會知誰 健？好把茱萸子細看。」 上堂。舉：「大愚芝和尚曰：『大家聚首喫一莖虀，若喚作 一莖虀，入地獄如箭射。』」師曰：「全提向上，..."
+    },
+    {
+      "path": "J\\J28\\J28nB212.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Eryin Mi",
+      "title_zh": "二隱謐禪師語錄",
+      "snippet": "...未免辜他舒州。頌曰：平地 起骨堆，分明莫更猜；若能直下會，頑石吼如雷。」 舉：「大愚守芝禪師因僧問：『如何是佛？』師云：『鋸解秤錘。』」 師云：「大愚調高韻古，這僧拍手..."
+    },
+    {
+      "path": "J\\J28\\J28nB208.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Guxue Zhe",
+      "title_zh": "古雪哲禪師語錄",
+      "snippet": "...嶺玄真禪師 足跡難尋是此翁，無神通處現神通，渾身儼在雙峰 上，祇是諸人見不同。 翠巖守芝禪師 十字街頭石幢子，千峰頂上老眠牛，鼻繩摰斷無蹤 跡，唯見洪崖水自流。 翠巖可..."
+    },
+    {
+      "path": "J\\J28\\J28nB203.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Yune Xi",
+      "title_zh": "雲峨喜禪師語錄",
+      "snippet": "...回向侍者 道：『我今作得一解，險入地獄如箭射。』侍者云：『喜得和 尚再復人身。』翠巖芝云：『大小玄沙，前不搆村，後不迭 店，且作麼生道得出身之路？』」 拈云：「鉤在不..."
+    },
+    {
+      "path": "J\\J28\\J28nB202.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Baichi",
+      "title_zh": "百癡禪師語錄",
+      "snippet": "...然，兩 不相傷，未免二俱弄險，畢竟如何？雪後始知松柏 操，事難方見丈夫心。」 舉大愚芝示眾云：「大家相聚喫莖虀，若喚作一莖虀， 入地獄如箭射。」 拈云：「大小大愚，當..."
+    },
+    {
+      "path": "J\\J25\\J25nB171.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Monk Tianyin",
+      "title_zh": "天隱和尚語錄",
+      "snippet": "...回 向侍者道：『我今日作得一解，險入地獄如箭射。』者曰： 『喜得和尚再復人身。』翠巖芝云：『大小玄沙，前不搆村， 後不至店。且作麼生道得出身之路？』道吾真云：『大小 ..."
+    },
+    {
+      "path": "J\\J10\\J10nA158.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Miyun",
+      "title_zh": "密雲禪師語錄",
+      "snippet": "瑯琊答長水話 長水如是問，瑯琊如是答，清淨本然，云何忽生山河 大地？ 大愚芝因僧問：「如何是佛？」云：「鋸解秤鎚。」 鋸解秤鎚，直截單提，若人不會，別喚沙彌..."
+    },
+    {
+      "path": "J\\J01\\J01nA042.xml",
+      "mentions": 1,
+      "title": "Chronological Biography of Chan Master Dahui Pujue",
+      "title_zh": "大慧普覺禪師年譜",
+      "snippet": "...聻？』你作麼生會？」師對曰：「狗子。」 潛菴大稱賞之，謂其不生法相也。師後曰：「大愚芝 禪師方便善巧，如珠走盤，不留影跡。今以實法與 人，豈不孤佛祖之心乎？」時請海會..."
+    },
+    {
+      "path": "GA\\GA031\\GA031n0032.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Jingshan (Vols. 1–5)",
+      "title_zh": "徑山志(第1卷-第5卷)",
+      "snippet": "...不動；將四大海水，傾向諸人脚跟底，涓滴不流。會醫 還少病，知分不多愁。」上堂，舉大愚芝和尚示眾云：「大家 相聚喫莖虀，若喚作一莖虀，入地獄如箭射。」師云：「宗師 為人..."
+    },
+    {
+      "path": "GA\\GA021\\GA021n0019.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Li’an Monastery, Wulin",
+      "title_zh": "武林理安寺志",
+      "snippet": "...。顯甫擬開口，智門又打，於時豁 然開悟，留止五年。復徧參洞山聰、大龍洪、羅漢林、大愚芝， 乃出世翠峰，遷於雪竇山。顯既宏博多聞、詞旨妙絕，平生 頌古最多，叢林競傳，刊..."
+    },
+    {
+      "path": "D\\D51\\D51n8948.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Foguo",
+      "title_zh": "佛國禪師語錄",
+      "snippet": "...法身主君視臣子就父必竟阿那箇毘盧 師法身主蝦\uDB85\uDCC4蚯蚓泥猪疥狗。 開爐謝維那上堂舉大愚芝禪師住翠巖雲峯詣丈室 求指示巖云佛法未到爛却山中苦寒冝為眾營炭峯 奉命能事罷復造..."
+    },
+    {
+      "path": "C\\C078\\C078n1720.xml",
+      "mentions": 1,
+      "title": "Chan School: Comprehensive Linked-Pearls Collection of Verse Commentaries on Old Cases",
+      "title_zh": "禪宗頌古聯珠通集",
+      "snippet": "爭教人少年不設\uD863\uDEBB穽不揮雪刃一 箭穿楊神目不瞬反思昔日李將軍射虎之 機猶是鈍瑞州大愚山守芝禪師僧問如何是佛師曰鋸解秤鎚。頌曰。 鋸解秤鎚無縫鑪風吹日\uD870\uDE79朝復夜雖然不 許亂"
+    },
+    {
+      "path": "C\\C077\\C077n1710.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Ancient Venerable Masters",
+      "title_zh": "古尊宿語錄",
+      "snippet": "大愚芝禪師 汾陽昭禪師法嗣。 翠巖禪寺語錄 大愚守芝禪師太原王氏子師陞座僧問如 何是和尚家風師云一言已出駟馬難追問 如何是城\uD86D\uDFDA佛師..."
+    },
+    {
+      "path": "B\\B35\\B35n0194.xml",
+      "mentions": 1,
+      "title": "General Catalogue of the Chinese Tripiṭaka",
+      "title_zh": "中華大藏經總目錄",
+      "snippet": "瑯琊慧覺禪師語錄一卷 法華全擧禪師語要一卷 大愚守芝禪師語錄一卷 雲峰文悅禪師語錄二卷 道吾悟真禪師語要一卷 翠巖可真"
+    },
+    {
+      "path": "X\\X84\\X84n1580.xml",
+      "mentions": 1,
+      "title": "Separate Transmission Outside the Teachings",
+      "title_zh": "教外別傳",
+      "snippet": "...王處評禪師 智門逈罕禪師 鹿門慧昭山主 南嶽下十世 石霜楚圓禪師 瑯琊慧覺禪師 大愚守芝禪師 法華全舉禪師 芭蕉谷泉禪師 龍華曉愚禪師 天聖皓泰禪師 龍潭智圓禪師 浮山..."
+    },
+    {
+      "path": "X\\X83\\X83n1578.xml",
+      "mentions": 1,
+      "title": "Record Pointing at the Moon",
+      "title_zh": "指月錄",
+      "snippet": "...貴得祖風不墜。若 是常徒，即便寢息。何故？躶形國裏誇服飾，想君太煞 不知時。 ▲瑞州大愚山守芝禪師僧問：昔日靈山分半座，二 師相見事如何？師曰：記得麼？僧良久，師打禪牀一下， 曰..."
+    },
+    {
+      "path": "X\\X83\\X83n1574.xml",
+      "mentions": 1,
+      "title": "Expanded Collection: Continued Transmission of the Lamp Record",
+      "title_zh": "增集續傳燈錄",
+      "snippet": "...毫 不動；將四大海水傾向諸人脚跟底，涓滴不流。會醫 還少病，知分不多愁。上堂，舉大愚芝和尚示眾云：大 家相聚喫莖虀，若喚作一莖虀，入地獄如箭射。師云： 宗師為人如蠱毒..."
+    },
+    {
+      "path": "X\\X83\\X83n1572.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Continued Transmission of the Lamp Record",
+      "title_zh": "續傳燈錄目錄",
+      "snippet": "卷第三 大鑑下第十一世 汾陽昭禪師法嗣十六人 石霜楚圓禪師 琅邪慧覺禪師 大愚守芝禪師 石霜法永禪師 法華全舉禪師 芭蕉谷泉禪師 龍華曉愚禪師 天聖皓泰禪師 龍潭..."
+    },
+    {
+      "path": "X\\X81\\X81n1571.xml",
+      "mentions": 1,
+      "title": "Complete Five Lamps (Vols. 1–33)",
+      "title_zh": "五燈全書(第1卷-第33卷)",
+      "snippet": "...滅空。我喚者個作拄杖子，你等諸人 喚作什麼？卓拄杖曰：欲知瀚海路，須是去來人。 瑞州大愚山守芝禪師太原王氏子。上堂，僧問：如何 是道？師曰：八斛四斗。曰：如何是道中人？師曰：煑粥..."
+    },
+    {
+      "path": "X\\X81\\X81n1570.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Complete Five Lamps",
+      "title_zh": "五燈全書目錄",
+      "snippet": "卷二十三 南嶽下第十世 汾陽昭禪師法嗣 石霜楚圓禪師 瑯琊慧覺禪師 大愚守芝禪師 石霜法永禪師 法華全舉禪師 芭蕉谷泉禪師 黃梅曉愚禪師 天聖皓泰禪師 龍潭..."
+    },
+    {
+      "path": "X\\X81\\X81n1568.xml",
+      "mentions": 1,
+      "title": "Strict Lineage of the Five Lamps (Vols. 10–25)",
+      "title_zh": "五燈嚴統(第10卷-第25卷)",
+      "snippet": "...嶮。臨濟道：石火電光鈍。琅邪有定 乾坤底句，各各高著眼，高著眼。卓拄杖，下座。 瑞州大愚山守芝禪師纔陞座，僧問：如何是和尚家 風？師曰：一言出口，駟馬難追。問：如何是城裏佛？師曰..."
+    },
+    {
+      "path": "X\\X80\\X80n1567.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Strict Lineage of the Five Lamps",
+      "title_zh": "五燈嚴統目錄",
+      "snippet": "卷十二 南嶽下十世 汾陽昭禪師法嗣 石霜楚圓禪師 琅邪慧覺禪師 大愚守芝禪師 石霜法永禪師 法華全舉禪師 芭蕉谷泉禪師 龍華曉愚禪師 天聖皓泰禪師 龍潭..."
+    },
+    {
+      "path": "X\\X80\\X80n1565.xml",
+      "mentions": 1,
+      "title": "Five Lamps Compendium",
+      "title_zh": "五燈會元",
+      "snippet": "...千仞嶮。臨濟道石火電光鈍。琅邪有定 乾坤底句。各各高著眼。高著眼。卓拄杖下座。 瑞州大愚山守芝禪師纔陞座。僧問。如何是和尚家 風。師曰。一言出口。駟馬難追。問。如何是城裏佛。師曰..."
+    },
+    {
+      "path": "X\\X71\\X71n1422.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Nanshi Wenxiu",
+      "title_zh": "南石文琇禪師語錄",
+      "snippet": "... 西話，看翠巖眉毛在也無？長慶稜云：生也。雲門偃云： 關。保福展云：作賊人心虗。翠巖芝云：為眾竭力，禍出 私門。師云：一隊無孔鐵槌。 舉：撫州曹山章禪師一日聞鐘聲，乃..."
+    },
+    {
+      "path": "X\\X71\\X71n1421.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Yu’an Zhiji",
+      "title_zh": "愚菴智及禪師語錄",
+      "snippet": "...。喝！五陵公子遊花慣，未第貧儒感慨多，冷地看 他人富貴，等閒無柰幞頭何。 復舉：大愚芝和尚示 眾云：大家相聚喫莖虀，若喚作一莖虀，入地獄如箭 射。大眾！還知大愚為人處..."
+    },
+    {
+      "path": "X\\X71\\X71n1420.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Chushi Fanqi",
+      "title_zh": "楚石梵琦禪師語錄",
+      "snippet": "...，正是增上慢人，別造地獄著你在。總不恁 麼時如何？大眾！歸堂喫茶去。 上堂，舉：大愚芝和尚一日問侍者云：你問訊了，一邊 立地，是什麼道理？答云：不會。愚云：過這邊立。..."
+    },
+    {
+      "path": "X\\X70\\X70n1398.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Haiyin Zhaoru",
+      "title_zh": "海印昭如禪師語錄",
+      "snippet": "...一問，直 得分踈不下。後來汾陽和尚道：不問那知且莫詐。明 頭五祖戒和尚云：露錯。翠巖芝和尚云：千年無影樹， 今時沒底靴。看孔著楔，有甚用處？泐潭清和尚云：剎 竿未倒，..."
+    },
+    {
+      "path": "X\\X70\\X70n1390.xml",
+      "mentions": 1,
+      "title": "Expanded Record of Chan Master Xisou Shaotan",
+      "title_zh": "希叟紹曇禪師廣錄",
+      "snippet": "...宗委地，力要匡扶。大廈傾頹，直須撑拄。不學老楊 岐，破屋雪真珠，縮項暗嗟吁。不學大愚芝，脫粟淡黃 \uD850\uDD48，不喫從君去。千聖頭邊露一機。靈蹤 不在猨啼處。 上堂：合水和泥..."
+    },
+    {
+      "path": "X\\X70\\X70n1377.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Songyuan Chongyue",
+      "title_zh": "松源崇嶽禪師語錄",
+      "snippet": "...時勤拂拭，莫使惹塵埃，因甚不 得他衣鉢？山云：直道本來無一物，也不得他衣鉢。後 大愚芝和尚云：總不得他衣鉢，與古佛同參。且道參 阿誰？師云：到江吳地盡，隔岸越山多。 ..."
+    },
+    {
+      "path": "X\\X69\\X69n1366.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Wuchu Daguan",
+      "title_zh": "物初大觀禪師語錄",
+      "snippet": "...與青龍不解騎。 舉：仰山因僧來辭，山以手畫一畫，僧不去；仰山又 畫一畫，僧便去。大愚芝和尚云：前一畫為什麼不 去？後一畫為什麼却去？要會麼？前一畫、後一畫總 成兩畫。..."
+    },
+    {
+      "path": "X\\X69\\X69n1359.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Ying’an Tanhua",
+      "title_zh": "應菴曇華禪師語錄",
+      "snippet": "...底謀略，雲 門具殺活手段。雖然，若在報恩門下，更須勘過始得。 下座。 上堂，舉：大愚芝和尚示眾：大家相聚喫莖虀，若喚作 一莖虀，入地獄如箭射。師云：好語要且無來處，有..."
+    },
+    {
+      "path": "X\\X69\\X69n1352.xml",
+      "mentions": 1,
+      "title": "Expanded Record of Chan Master Baiyun Shouduan",
+      "title_zh": "白雲守端禪師廣錄",
+      "snippet": "...盂去。 梅花落盡杏花披，未免春風著出褫。一氣不言含有 象，萬靈何處謝無私。 僧問大愚芝和尚：如何是佛？大愚云：鋸解秤 槌。 鋸解秤槌無縫罅，風吹日炙朝復夜，雖然不許亂..."
+    },
+    {
+      "path": "X\\X69\\X69n1351.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Baiyun Shouduan",
+      "title_zh": "白雲守端禪師語錄",
+      "snippet": "混混玲瓏無背面，拈起有時成兩片。且從依舊却相 當，免被傍人來\uDB8E\uDF07見。 大愚芝禪師因僧問：如何是佛？師曰：鋸解秤鎚。 鋸解秤鎚無縫罅，風吹日炙朝復夜，雖然不許..."
+    },
+    {
+      "path": "X\\X69\\X69n1346.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Xuefeng Huikong",
+      "title_zh": "雪峰慧空禪師語錄",
+      "snippet": "...立乾坤句？北俱盧 洲長粳米，食者無貪亦無嗔。汾陽自謂：將此四轉語， 驗天下衲僧。大愚芝云：將此四轉語，被天下衲僧勘 破。大眾！有是父，必有是子。山僧今夜亦有四轉語：如..."
+    },
+    {
+      "path": "X\\X68\\X68n1319.xml",
+      "mentions": 1,
+      "title": "Imperially Selected Recorded Sayings",
+      "title_zh": "御選語錄",
+      "snippet": "...誇服飾，想君 太煞不知時。 示眾云：有句無句，如藤倚樹，樹倒藤枯，好一堆爛柴。 大愚守芝禪師 僧問：昔日靈山分半座，二師相見事如何？ 師曰：記得 麼？僧良久， 師打禪牀..."
+    },
+    {
+      "path": "X\\X68\\X68n1318.xml",
+      "mentions": 1,
+      "title": "Continued Essentials from the Sayings of Ancient Worthies",
+      "title_zh": "續古尊宿語要",
+      "snippet": "...大眾：青蜓許是 好青蜓，飛來飛去不曾停。捉來摘却兩邊翼，便是一 枚大鐵釘。 舉：大愚芝和尚云：大家相聚喫莖虀。若喚作一莖虀， 入地獄如箭射。師云：大愚好語，要且無來處..."
+    },
+    {
+      "path": "X\\X68\\X68n1314.xml",
+      "mentions": 1,
+      "title": "Catalog of the Recorded Sayings of Ancient Worthies",
+      "title_zh": "古尊宿語錄目錄",
+      "snippet": "神鼎諲語錄 第二十五卷 大愚芝語錄 第二十六卷 法華舉語要"
+    },
+    {
+      "path": "X\\X67\\X67n1304.xml",
+      "mentions": 1,
+      "title": "Elder Linquan’s Commentary and Chanted Remarks on Chan Master Danxia Zichun’s Verses on Ancient Cases: Xutang Collection",
+      "title_zh": "林泉老人評唱丹霞淳禪師頌古虗堂集",
+      "snippet": "...汾陽昭云：不問那知？ 林泉道：用知作麼？五祖戒云：露。林泉道：漏泄雲門一 字禪。翠巖芝云：千年無影樹，今時沒底靴。林泉道：這 些消息少人知。相傳的意，慳富緣由，靈利衲..."
+    },
+    {
+      "path": "X\\X67\\X67n1301.xml",
+      "mentions": 1,
+      "title": "Record of Fogu’s Beat-the-Rhythm Sections",
+      "title_zh": "佛果擊節錄",
+      "snippet": "...師云：山花開似錦，㵎水湛如 藍。我誦此因緣，報他恩了也。後到洞山聰和尚處，又 參大愚芝，芝嗣汾陽昭，雲峰悅承嗣芝。悅與雪竇游 從最久，久參臨濟正法眼藏宗旨。雪竇最得芝..."
+    },
+    {
+      "path": "X\\X65\\X65n1295.xml",
+      "mentions": 1,
+      "title": "Comprehensive Collection of Chan School Verse-on-Old-Cases Linked Pearls",
+      "title_zh": "禪宗頌古聯珠通集",
+      "snippet": "不設陷穽，不揮雪刃。一箭穿楊，神目不瞬。反思昔日 李將軍，射虎之機猶是鈍。 瑞州大愚山守芝禪師，僧問：如何是佛？ 師曰：鋸解秤鎚。 頌曰： 鋸解秤鎚無縫鏬，風吹日炙朝復夜，雖..."
+    },
+    {
+      "path": "X\\X64\\X64n1265.xml",
+      "mentions": 1,
+      "title": "Vermilion Notes Following Precious Instructions of the Chan Grove",
+      "title_zh": "禪林寶訓順硃",
+      "snippet": "...案頭，瞋目責之曰：爾在此習善知 識量度耶？先師稽首謝之，閱經如故。 雲峯名文悅，大愚守芝之嗣也。晦堂表南和尚量 度以為人法式，說黃龍先師往昔同雲峯悅和尚 休夏安居于荊州..."
+    },
+    {
+      "path": "X\\X64\\X64n1263.xml",
+      "mentions": 1,
+      "title": "Collected Commentary on Precious Instructions of the Chan Grove",
+      "title_zh": "禪林寶訓合註",
+      "snippet": "南嶽芭蕉菴大道谷泉禪師。泉州人，嗣汾 陽善昭禪師，南嶽下十世也。 大愚瑞州大愚山守芝禪師嗣汾陽 汾陽汾州太子院善昭禪師。太原俞氏子，嗣首"
+    },
+    {
+      "path": "X\\X64\\X64n1262.xml",
+      "mentions": 1,
+      "title": "Phonetic Meanings for Precious Instructions of the Chan Grove",
+      "title_zh": "禪林寶訓音義",
+      "snippet": "○苟簡苟求聲利，簡去仁義。 六人慈明圓。大愚芝。瑯琊覺。谷泉道。法華峯。天勝 泰。 ○投子舒州投子山義清禪師嗣水庵一禪師，南"
+    },
+    {
+      "path": "X\\X63\\X63n1244.xml",
+      "mentions": 1,
+      "title": "Record Clarifying the Meaning of Baizhang’s Pure Regulations",
+      "title_zh": "百丈清規證義記",
+      "snippet": "...而去。師密記 以偈云。胡僧金錫光。為法到汾陽。六人成大器。勸 請為敷揚。時楚圓。守芝。號上首。楚圓。即慈明也。後 住石霜時。揚岐會公為監寺。勸請夜說法。慈明曰。 暮..."
+    },
+    {
+      "path": "X\\X86\\X86n1596.xml",
+      "mentions": 1,
+      "title": "Single-Transmission Record of Nanyue",
+      "title_zh": "南嶽單傳記",
+      "snippet": "...陞空而去。師密記以偈曰。胡僧金錫光。 請法到汾陽。六人成大器。勸請為敷揚。時楚圓守芝。 號上首。○上堂。謂眾曰。夫說法者。須具十智同真。若 不具十智同真。邪正不辨。..."
+    },
+    {
+      "path": "X\\X85\\X85n1594.xml",
+      "mentions": 1,
+      "title": "Outline of Buddhas and Patriarchs",
+      "title_zh": "佛祖綱目",
+      "snippet": "...何是 堅固法身？先師曰：山花開似錦，㵎水湛如藍。我頌此 因緣，報他恩了也。又甞參大愚守芝，與文悅遊最久。 悅知顯不嗣芝，特過勘顯。一日與遊山次，驀曰：入荒 田不揀，信手..."
+    },
+    {
+      "path": "X\\X85\\X85n1593.xml",
+      "mentions": 1,
+      "title": "Orthodox Line of the Chan School",
+      "title_zh": "禪宗正脉",
+      "snippet": "...立萬仞險。臨濟道，石火 電光鈍。瑯琊有定乾坤底句，各各高著眼。卓拄杖，下 座。 大愚守芝禪師上堂：大愚相接大雄孫，五湖雲水兢 頭奔。兢頭奔，有何門，擊箭寧知枯木存。枯木..."
+    },
+    {
+      "path": "X\\X84\\X84n1583.xml",
+      "mentions": 1,
+      "title": "Orthodox Continuation of the Lamp",
+      "title_zh": "續燈正統",
+      "snippet": "...，豁然大悟。 福州府東山雲頂禪師泉州人。以再下春闈，往雲臺 大吼寺剃染具戒。即謁大愚芝、神鼎諲。後見羅漢下 尊宿，始徹己事。道學有聞，叢林稱為頂三教。僧問：如 何是和..."
+    },
+    {
+      "path": "T\\T48\\T48n2004.xml",
+      "mentions": 1,
+      "title": "Wansong’s Commentary and Chanting on Tiantong Jue’s Verse-Comments on the Ancients: Record of the Congrong Hermitage",
+      "title_zh": "萬松老人評唱天童覺和尚頌古從容庵錄",
+      "snippet": "...。道廕人天。陽明日上堂云。胡僧金錫 光。為法到汾陽。六人成大器。勸請為敷揚。時 大愚芝。慈明圓。瑯琊覺。法華舉。天勝泰。石 霜永等。皆在席下。滁州瑯琊山。開化廣照禪 ..."
+    },
+    {
+      "path": "T\\T48\\T48n2003.xml",
+      "mentions": 1,
+      "title": "Blue Cliff Record by Chan Master Yuanwu Foguo",
+      "title_zh": "佛果圜悟禪師碧巖錄",
+      "snippet": "...云。與我過蒲團來牙取蒲團過與臨濟濟接得便打牙云。打即 任打。要且無祖師西來意。 翠巖芝和尚云。當時如是。今時衲子。皮下還 有血麼。溈山喆云。翠微臨濟。可謂本分宗師。 ..."
+    }
+  ]
+}

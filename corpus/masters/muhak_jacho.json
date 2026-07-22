@@ -1,1 +1,695 @@
-{"primary_count":0,"secondary_count":1,"total_mentions":7,"primary":[],"secondary":[{"path":"B\\B31\\B31n0170.xml","mentions":7,"title":"General History of Korean Buddhism","title_zh":"朝鮮佛教通史","snippet":"...二六八景宜二九四萬恒三〇三粲英三二九 任濡二七〇李承休二九六蔡洪哲三〇三。三〇七無學自超三三八 至謙二七〇廉承益二九七指空三〇六。三五三。五七〇。 朝鮮前韓"}]}
+{
+  "master": "Muhak Jacho",
+  "primary_count": 0,
+  "secondary_count": 98,
+  "total_mentions": 134,
+  "primary": [],
+  "secondary": [
+    {
+      "path": "J\\J28\\J28nB202.xml",
+      "mentions": 8,
+      "title": "Recorded Sayings of Chan Master Baichi",
+      "title_zh": "百癡禪師語錄",
+      "snippet": "...鈴勢，云：「南無佛，南無法，南 無爛冬瓜，南無乾矢橛，以此振鈴伸召請，黃金殿上 自超越，回向檀那福壽康，一聲長嘯乾坤闊。乾坤闊， 活鱍鱍，是則名為真如來，諸尊菩薩摩..."
+    },
+    {
+      "path": "B\\B31\\B31n0170.xml",
+      "mentions": 6,
+      "title": "General History of Korean Buddhism",
+      "title_zh": "朝鮮佛教通史",
+      "snippet": "...二六八景宜二九四萬恒三〇三粲英三二九 任濡二七〇李承休二九六蔡洪哲三〇三。三〇七無學自超三三八 至謙二七〇廉承益二九七指空三〇六。三五三。五七〇。 朝鮮 幻庵"
+    },
+    {
+      "path": "J\\J36\\J36nB348.xml",
+      "mentions": 3,
+      "title": "Doctrinal Treatises of Master Ouyi of Lingfeng",
+      "title_zh": "靈峰蕅益大師宗論",
+      "snippet": "...無不可學至之理矣。 學道別無實法，變化氣質，剋除習氣而已。氣質 變，品格不期超而自超。習氣除，佛法不求透而自透。 金以鍊而精，鏡以磨而淨也。今之學者，吾惑焉，任鹵 ..."
+    },
+    {
+      "path": "J\\J28\\J28nB208.xml",
+      "mentions": 3,
+      "title": "Recorded Sayings of Chan Master Guxue Zhe",
+      "title_zh": "古雪哲禪師語錄",
+      "snippet": "...如法鼓豎如鐘，知音豈在頻敲 擊？自有希聲達九重。 磬石 頑石何因遠近聞？祇緣清韻自超群，隨敲隨應無高 下，幾度和風奏夕曛。 迎笑堂 金師生得主麒麟，一笑相迎眼倍親，..."
+    },
+    {
+      "path": "B\\B34\\B34n0193.xml",
+      "mentions": 3,
+      "title": "Dharma Vehicle of the Wu Capital",
+      "title_zh": "吳都法乘",
+      "snippet": "...未之 数也他日賁曰我之與卿誰相優劣超曰若論年臘請以相寄 胸臆之量未論先後時為直言自超處獨房屏絕賔伴內外墳 典常擁膝前而手不釋卷加以塵埃滿屋蟋蟀鳴壁中書郎吳 郡張率謂..."
+    },
+    {
+      "path": "B\\B16\\B16n0088.xml",
+      "mentions": 3,
+      "title": "Selected Extracts from the Complete Collection of Illustrations and Writings from Antiquity to the Present (Part 2)",
+      "title_zh": "古今圖書集成選輯（下）",
+      "snippet": "...未之較也他日 賁曰我之與卿誰相優劣超曰若論年臘請以相寄 胷臆之量未論先後時為直言自超處獨房屏絕賓 伴內外墳典常擁膝前而手不釋卷加以塵埃滿屋 蟋蟀鳴壁中書郎吳郡張率謂..."
+    },
+    {
+      "path": "TX\\TX32\\TX32n0020.xml",
+      "mentions": 2,
+      "title": "Complete Works of Master Taixu: Part Twenty – Collected Poetry",
+      "title_zh": "太虛大師全書．第二十編\u3000詩存",
+      "snippet": "盼駐遊蹤。 前身應是李青蓮，曾學崑崙太乙仙；一抹斜陽秋樹影，詩人居處自超然。 東方民族式微多，古物凋殘半逝波，卻藉西人廣收檢，碎金斷石供摩挲"
+    },
+    {
+      "path": "T\\T48\\T48n2001.xml",
+      "mentions": 2,
+      "title": "Extensive Record of Chan Master Hongzhi",
+      "title_zh": "宏智禪師廣錄",
+      "snippet": "...正之往來。得離微 之出沒。間間霽雨之雲。爛爛濯波之月。相隨 來也入諸塵。妙觸門門自超越。 遠山之雪兮髮毛衰白。大壑之秋兮眼稜寒 碧。水雲肝膽兮佛世之燈。叢林事業兮祖..."
+    },
+    {
+      "path": "L\\L158\\L158n1652.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Mingjue Cong",
+      "title_zh": "明覺聰禪師語錄",
+      "snippet": "...安心病更深臨 濟正眼瞎驢滅玉斧慣將祖道平金雞 啄破琉璃殼猛虎插翅出山林克家之 子自超卓別有生涯立祖庭 麻谷持錫到章敬遶禪牀三匝振錫一下 叉手而立敬云是是谷便去次到南..."
+    },
+    {
+      "path": "J\\J38\\J38nB410.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Lianfeng",
+      "title_zh": "蓮峰禪師語錄",
+      "snippet": "...鐵？茲因化主請上堂，覿面為君重漏洩。」遂 吹拂子，云：「這點火星拶出來，輝煌今古自超越。」復舉： 「溈山侍百丈次，丈命溈山取火，溈撥爐，云：『無。』丈躬自 深撥，見..."
+    },
+    {
+      "path": "J\\J33\\J33nB277.xml",
+      "mentions": 2,
+      "title": "Yunqi Dharma Compendium (Selections), Vols. 12–25",
+      "title_zh": "雲棲法彙（選錄）(第12卷-第25卷)",
+      "snippet": "己不與也。更詳之。 答常熟嚴天池郡守 小兒嚴楞，鈍根漢也，沈溺世樂，殊無自超意。天幸 近罹家難，稍稍動心，澂因令之親近有道，尚灑以 甘露，醒其塵勞乎？仍希留..."
+    },
+    {
+      "path": "J\\J28\\J28nB219.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Monk Zhuanyuheng of Purple Bamboo Grove",
+      "title_zh": "紫竹林顓愚衡和尚語錄",
+      "snippet": "...，蒼黃誰先覺？懸崖偶自崩，石落如雷暴。 毛羽都驚慴，巨木輒摧剝，自覺山作惡，冥心自超擢。 西巖有隱士，草烏為日用，自羨味清奇，好事與人共。 侵早持一缽，進門兩手奉，..."
+    },
+    {
+      "path": "J\\J27\\J27nB198.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Xueguan",
+      "title_zh": "雪關禪師語錄",
+      "snippet": "...未嘗將脅到床眠；雖然現出宰官相，長老之名 四海傳。」 拈曰：公遊妙喜之門，所見固自超皁，其像贊乃一 首行狀，亦可窺古人居官參究如此用心，真示現 於簪紱者也。且道他公..."
+    },
+    {
+      "path": "J\\J27\\J27nB190.xml",
+      "mentions": 2,
+      "title": "Dharma Platform of Chan Master Shiyu",
+      "title_zh": "石雨禪師法檀",
+      "snippet": "...我擔水。好在 無心唱一歌，舉起钁頭齊和取，翻出春雲鳥亂鳴，飛 花不向水流輕。本色自超諸隱逸，肯使華歆笑管寧， 靈雲悟桃香嚴竹，遺臭累人空碌碌。何似衡山芋子 香？千秋..."
+    },
+    {
+      "path": "B\\B28\\B28n0157.xml",
+      "mentions": 2,
+      "title": "Posthumous Writings of Layman Yang Renshan",
+      "title_zh": "楊仁山居士遺著",
+      "snippet": "... 各若干卷待梓。居士卒年七十有五。配蘇夫人。先居 士十八年卒。子三人。長自新。次自超。次福嚴。孫七人。 庭芬。桂芬。穎芬。智生。緣生。雨生。祥生。曾孫。時逢。時中。"
+    },
+    {
+      "path": "X\\X82\\X82n1571.xml",
+      "mentions": 2,
+      "title": "Complete Five Lamps (Vols. 34–120)",
+      "title_zh": "五燈全書(第34卷-第120卷)",
+      "snippet": "...徵辨，大豁疑礙。曰：荷擔大法，盡在子躬。遂付以衣法， 有五乳峰頭獅子子，光前耀後自超羣之句。時南陽 府萬安虗席，延師主之，將三載。明高帝洪武己酉，主 少林力田，給眾..."
+    },
+    {
+      "path": "X\\X73\\X73n1452.xml",
+      "mentions": 2,
+      "title": "Complete Works of Venerable Zibo",
+      "title_zh": "紫柏尊者全集",
+      "snippet": "...昂藏。 冬日上歌風臺 峨嵋應拄萬重天，歷盡氷霜到絕巔，憎愛當頭風過 樹，象王行處自超然。 難勝泉 修羅愛酒海為器，釀乃不成遂大怒。豈若此泉清且 甘，一歃令人忘眾苦。"
+    },
+    {
+      "path": "X\\X71\\X71n1416.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Shuzhong Wuyun",
+      "title_zh": "恕中無慍禪師語錄",
+      "snippet": "...，五柳先生元姓陶。 獨孤標，獨孤標，一瓶一鉢何寂寥。騰騰任運絕修證， 聖凡不超還自超。懸崖峭壁紫金聚，蒼煙翠霧白玉 毫。擘破太虗成兩片，石女補綴紉龜毛。 贈法姪莊藏..."
+    },
+    {
+      "path": "X\\X71\\X71n1413.xml",
+      "mentions": 2,
+      "title": "Supplementary Gathas and Verses of Chan Master Gulin Qingmao",
+      "title_zh": "古林清茂禪師拾遺偈頌",
+      "snippet": "...，便好當面截。更待呈神通，未免繫驢橛。何如 足峯頭，臨機看施設。言行既相應，著著自超越。峯頭 白浪飜空出，井底蓬塵遮白日。時來忽到澹津湖，窮 教到底無涓滴。話別欲何..."
+    },
+    {
+      "path": "T\\T20\\T20n1190.xml",
+      "mentions": 2,
+      "title": "Sūtra of the Noble Mañjuśrī’s True Name",
+      "title_zh": "聖妙吉祥真實名經",
+      "snippet": "...， 亦大記句達真性，了知根心殊勝者。 彼出有壞之智身，是大頂旋言詞主， 亦是智身自超出，妙吉祥智勇識者。 誦彼殊勝真實名，是甚深義廣大義， 無比大義勝柔軟，初善中善..."
+    },
+    {
+      "path": "X\\X05\\X05n0227.xml",
+      "mentions": 2,
+      "title": "Commentary on the ‘Practices and Vows’ Chapter of the Avatamsaka Sutra",
+      "title_zh": "華嚴經行願品疏",
+      "snippet": "... 云何湛然不遷？云：過生死。用性云何？隨流性常，故不 變壞。第五對，體有何德？本自超言，能令言離。用有何 德？善觀性相，而本自空。此十亦名十身無㝵。然五重 之體，但..."
+    },
+    {
+      "path": "T\\T50\\T50n2060.xml",
+      "mentions": 2,
+      "title": "Continued Biographies of Eminent Monks",
+      "title_zh": "續高僧傳",
+      "snippet": "...賁曰。我之與 卿誰相優劣。超曰。若論年臘請以相寄。胸 臆之量未論先後。時為直言。自超處獨房 屏絕賓倖。內外墳典常擁膝前而手不釋 卷。加以塵埃滿屋蟋蟀鳴壁。中書郎吳郡..."
+    },
+    {
+      "path": "Y\\Y31\\Y31n0030.xml",
+      "mentions": 1,
+      "title": "Collected Studies on Saṃyukta Āgama (II)",
+      "title_zh": "雜阿含經論會編（中）",
+      "snippet": "...有。 「超」：復次、往惡趣行，往善趣行，超度差別，當知略有五門不同。由此五門，於自超 度如實了知，於他超度亦正遍知，所謂諸佛及佛弟子。云何名為往惡趣行？謂諸外道，所..."
+    },
+    {
+      "path": "X\\X86\\X86n1605.xml",
+      "mentions": 1,
+      "title": "Record of Continuing the Lamp",
+      "title_zh": "繼燈錄",
+      "snippet": "...，大豁疑礙。拙曰：荷擔大 法，盡在子躬。遂付以衣法，有五乳峯頭獅子子，光前 耀後自超群之句。時南陽府萬安虗席，延師主之。明 洪武二年己酉，主少林力田。給眾偈曰：亂後..."
+    },
+    {
+      "path": "X\\X14\\X14n0291.xml",
+      "mentions": 1,
+      "title": "Direct Pointing to the Śūraṅgama Sutra",
+      "title_zh": "楞嚴經直指",
+      "snippet": "...語言，但伊名句味，一非含一切，云何獲圓通？ 雜猶云兼也。以音聲不止語言，又語言亦自超脫。 名句一即含多，此憍陳那所證，以易依語，故在所 揀。瑜伽云：佛菩薩是能說者，..."
+    },
+    {
+      "path": "X\\X13\\X13n0287.xml",
+      "mentions": 1,
+      "title": "Subcommentary Clarifying the Commentary on the Śūraṅgama Sutra",
+      "title_zh": "楞嚴經疏解蒙鈔",
+      "snippet": "...不肯痛自歇心，一念狂情馳逐諸妄，與生死根種念 念交接，復不知更待何時有自休自歇、自超自越、自 照自了之日也？於乎！惜哉！ 紫柏和尚云：楞嚴云：妙觸宣明。此語開剖，本..."
+    },
+    {
+      "path": "X\\X13\\X13n0285.xml",
+      "mentions": 1,
+      "title": "Textual Phrases of the Śūraṅgama Sutra",
+      "title_zh": "楞嚴經文句",
+      "snippet": "...， 有漏雜業為偽。變易果酬無漏因，分段果酬有漏 因。故惟以出世道感出世滅，背於本自超越世出 世間之清淨道。所謂見三界是實苦，斷見思之實 集，為證偏真寂滅，乃修無漏真..."
+    },
+    {
+      "path": "T\\T51\\T51n2068.xml",
+      "mentions": 1,
+      "title": "Records and Biographies Related to the Lotus Sutra",
+      "title_zh": "法華傳記",
+      "snippet": "...月六日也。露骸松石一月餘日。顏色不 變。天策上將聞稱希有。遣人就視。端拱如生。 自超九歲入道。即誦法華五十餘年。萬有餘 遍。感靈獲瑞不可勝言。弟子法成等。為建白 塔..."
+    },
+    {
+      "path": "T\\T51\\T51n2067.xml",
+      "mentions": 1,
+      "title": "Accounts in Praise of the Lotus Sutra",
+      "title_zh": "弘贊法華傳",
+      "snippet": "...西而坐 云。第一義空。清淨智觀。奄然長往。年七十有 七。即武德五年十二月六日也。自超九歲入 道。即誦法華經。凡五十餘年。向二十千遍。有 門人善思者。亦誦法華。萬有餘..."
+    },
+    {
+      "path": "T\\T47\\T47n1969A.xml",
+      "mentions": 1,
+      "title": "Writings from the Land of Bliss",
+      "title_zh": "樂邦文類",
+      "snippet": "...利益。通方達士。隨 願知歸。淺見狐疑。強生胡越。 問天宮壽長足得修行。人中積善亦自超越。 至於脩羅龍鬼三塗惡趣。正好拔苦利生。何 必專務極樂。答欲天耽著妙樂。醉於欲..."
+    },
+    {
+      "path": "T\\T40\\T40n1814.xml",
+      "mentions": 1,
+      "title": "Commentary on the Bodhisattva Precepts Text",
+      "title_zh": "菩薩戒本疏",
+      "snippet": "...緣此事故發 菩提心。又復思惟三世諸佛發大明慧，於 無明穀建立勝心，積集苦行，皆能自超拔出 三界。我亦如是當自拔濟。緣此事故發菩提 心。又復思惟：一切諸佛為人中雄，皆..."
+    },
+    {
+      "path": "T\\T34\\T34n1721.xml",
+      "mentions": 1,
+      "title": "Commentary on the Meaning of the Lotus Sutra",
+      "title_zh": "法華義疏",
+      "snippet": "...壽量， 故舉以釋止也。前文標於他方菩薩，意在於 此也。而言「六萬」者，明所化菩薩自超六趣之 中，得顯釋迦成道久也。「菩薩眷屬亦六萬」者， 明所化眷屬亦超六趣之中、今..."
+    },
+    {
+      "path": "P\\P180\\P180n1612.xml",
+      "mentions": 1,
+      "title": "Songs of Names of Buddhas, World-Honored Ones, Tathagatas, Bodhisattvas, and Worthies (Vols. 19–50)",
+      "title_zh": "諸佛世尊如來菩薩尊者名稱歌曲(第19卷-第50卷)",
+      "snippet": "...來。休言以罪懺罪將錯就錯。莫道一陣 清風劈面來罪華業果俱凋落。靈\uD87A\uDFF1只一粒 神功自超卓。佛如來。管取病瘥不須多藥也。 諸佛如來。這佛法。天地間永流通。如來。諸 佛如..."
+    },
+    {
+      "path": "P\\P179\\P179n1611.xml",
+      "mentions": 1,
+      "title": "Sutra of Names of Buddhas, World-Honored Ones, Tathagatas, Bodhisattvas, Worthies, and Holy Monks (Vols. 30–40)",
+      "title_zh": "諸佛世尊如來菩薩尊者神僧名經(第30卷-第40卷)",
+      "snippet": "...來○佛如來休言以罪懺 罪將錯就錯莫道一陣清風劈面來罪華業 果俱凋落靈丹只一粒神功自超卓佛如來 管取病瘥不須多藥也諸佛如來這佛法 天地間永流通如來諸佛如來○佛如來好 ..."
+    },
+    {
+      "path": "N\\N03\\N03n0002.xml",
+      "mentions": 1,
+      "title": "Khandhaka (Vols. 1–10)",
+      "title_zh": "犍度(第1卷-第10卷)",
+      "snippet": "恰如壁立山頂峰 普見低處諸眾生 汝乃勝慧普眼者 昇登法所就高樓 自超憂苦望鑑臨 沈憂生老惱眾生 躍起雄者．戰勝者 商主債無遊世間 願請世尊為說法"
+    },
+    {
+      "path": "L\\L154\\L154n1641.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of National Teacher Xiu of Dajue Puji Nengren",
+      "title_zh": "大覺普濟能仁琇國師語錄",
+      "snippet": "...驀卓杖喝一喝云果向山僧棒下瞥 爾知羞得個大休大歇頂後光圓面前路 闢方知本自瀟灑本自超越本自清淨本 自解脫逆順卷舒縱橫無礙佛祖不能親 鬼神焉可測等閒哮吼似震雷音如撾毒..."
+    },
+    {
+      "path": "L\\L154\\L154n1640.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Miyun Wu",
+      "title_zh": "密雲悟禪師語錄",
+      "snippet": "...琢寄長慶安禪 師安曰本色住山人且無刀斧痕。 本無名與狀雕琢便成文直下猛提取用去 自超羣 雲門日日是好日。 日日是好日何處辨端的曝得老韶陽是甚 乾屎橛"
+    },
+    {
+      "path": "J\\J39\\J39nB471.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Daodeng of Konggu",
+      "title_zh": "空谷道澄禪師語錄",
+      "snippet": "...煩護法威。醮達龍宮漢汝至，經迎佛上唐 朝齎，而今幾箇效先輩，德廣形藏略似規。 示自超 腳跟立定任風煙，把著話頭密密參，絕是絕非如瓦 石，離凡離聖似釘磚。色身拘執人情..."
+    },
+    {
+      "path": "J\\J39\\J39nB448.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Lingji",
+      "title_zh": "靈機禪師語錄",
+      "snippet": "...。何故？千說萬說原是一說，千 聞萬聞秪是一聞。若也見得，則昨日說、今日說，說說 自超越；昨日聞、今日聞，聞聞絕比倫。方信本來一著 子，迥超天地獨為尊。忽有箇衲僧出來..."
+    },
+    {
+      "path": "J\\J38\\J38nB433.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Chunbeide",
+      "title_zh": "純備德禪師語錄",
+      "snippet": "...鎔千衲，法轉三玄雨 四花，若問慈雲老甲子，河沙人數數河沙。 弔玉陽道人 玉陽行徑自超然，不待丹成返洞天，藥臼罷春香有 淚，鼎爐終煖汞無煙。蓬萊易近三千道，弱水難親一..."
+    },
+    {
+      "path": "J\\J38\\J38nB425.xml",
+      "mentions": 1,
+      "title": "Complete Record of Chan Master Jifei",
+      "title_zh": "即非禪師全錄",
+      "snippet": "...不識眼前事，木石那知身後名，天惜漢冠無著 處，山中留取七松榮。 贈醫生 知君作用自超倫，況復時逢德化淳，國脈調和活手 眼，杏林花發董園春。 一言能愈維摩詰，便是文殊..."
+    },
+    {
+      "path": "J\\J38\\J38nB415.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Miaoyun of Dabei",
+      "title_zh": "大悲妙雲禪師語錄",
+      "snippet": "...石頭馳書南嶽，且囑曰：「回時吾有箇鈯 斧子與汝住山。」 調古臨風絕世音，清標凜凜自超群。不施寸指絃 歌細，回首高山韻轉新。 俱胝和尚一指禪。 蠅頭小利衝天富，蝸角虛..."
+    },
+    {
+      "path": "J\\J38\\J38nB411.xml",
+      "mentions": 1,
+      "title": "Prajñā Sayings of Chan Master Defeng",
+      "title_zh": "德風禪師般若語錄",
+      "snippet": "...言，雪壓新篁欲折。諸子出手相扶，觸著眉毛折裂， 折裂舌頭無骨，吐露真機一句，明明自超越。」僧問：「如 何是超越底句？」師云：「風車子。」進云：「還別有麼？」師云：「..."
+    },
+    {
+      "path": "J\\J36\\J36nB369.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Zhe’an Fan",
+      "title_zh": "蔗菴範禪師語錄",
+      "snippet": "...未在。」更以 淆訛徵辨，大豁疑礙，遂付以洞上宗旨，有「五乳峰頭 師子子，光前耀後自超群」之句。住後，上堂曰：「我不學 諸方說禪，浩浩魔魅人家男女。」僧問：「達磨面壁..."
+    },
+    {
+      "path": "J\\J36\\J36nB366.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Dafang",
+      "title_zh": "大方禪師語錄",
+      "snippet": "...梁。月 下鷺鷥方展趐，庭前柏子乍芬芳，生來不染風塵色， 歸去來兮般若香。露迥迥，自超倫，屋梁漏月見吾孫， 且道還知老漢落處麼？還鄉盡是兒孫事，祖父從來 不出門。」 ..."
+    },
+    {
+      "path": "J\\J34\\J34nB311.xml",
+      "mentions": 1,
+      "title": "Complete Record of Chan Master Juelangsheng of Tianjie",
+      "title_zh": "天界覺浪盛禪師全錄",
+      "snippet": "...即活人劍， 有時活人劍即殺人刀，若不如此，佛祖何以超出眾 生之生死，而眾生又何能自超於生死哉？且道殺刀 活劍，只今在那箇所在？諸公快須拔出始得，莫教失 落，待人救拔..."
+    },
+    {
+      "path": "J\\J34\\J34nB301.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Monk Jiqi of Nanyue",
+      "title_zh": "南嶽繼起和尚語錄",
+      "snippet": "...兄弟類如此消繳。」師曰：「七年八年去也， 漸成家活。」曰：「還得瞻聽離聞見，承攬自超絕麼？」師喝 一喝，曰：「與你個樣子。」乃就座，大咳一聲，曰：「錯怪人者 有什麼..."
+    },
+    {
+      "path": "J\\J33\\J33nB286.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Yingningjing",
+      "title_zh": "攖寧靜禪師語錄",
+      "snippet": "...機前墮毫沫。 鶖子目迷沉，毘耶口囊括，八臂絕神威，虛空求解脫。 人境俱不奪，披襟自超越，稚竹解新衣，老梅施勁骨。 野老醉當途，流鶯聲未歇，兀坐幾忘機，舒拳笑薇蕨。 ..."
+    },
+    {
+      "path": "J\\J32\\J32nB272.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Hongzhi Jue of Tiantong Jingde Monastery, Mingzhou",
+      "title_zh": "明州天童景德禪寺宏智覺禪師語錄",
+      "snippet": "...出處溪山各異，歸來雲月同途。 雪壓蘆花： 動轉平常坦坦，橫斜本分如如。 施為動轉自超群，不與尋常有比倫，月下風前但明 白，任從搖動拂埃塵。 天童宏智覺禪師語錄卷三"
+    },
+    {
+      "path": "J\\J29\\J29nB248.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Dabianquan",
+      "title_zh": "達變權禪師語錄",
+      "snippet": "...師曰：「擔銕枷者。」 生死海，第二月，迷真認影何時歇？不用別處求出 離，當下翻身自超越。頓超越，得自繇，更嫌何處不 風流？ 曹山因僧問：「魯祖面壁，意旨如何？」山掩..."
+    },
+    {
+      "path": "J\\J29\\J29nB241.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Tiebiji of Qingzhong",
+      "title_zh": "慶忠鐵壁機禪師語錄",
+      "snippet": "...定，一息萬有，萬有一 息勝陰陽顛倒也；因定發慧，則治世語言、資生業等 悉順正法，自超玄入妙也。從此三學圓明、十年運轉， 打破疑關，妙心自見，那時拈土成藥、呵氣皆靈，..."
+    },
+    {
+      "path": "J\\J29\\J29nB230.xml",
+      "mentions": 1,
+      "title": "Six-Session Record of Monk Shuijianhai of Tianwang",
+      "title_zh": "天王水鑑海和尚六會錄",
+      "snippet": "...三遭痛棒、高峰六年 墮枕，所謂佛法無多子，久長難得人。山僧苦口無餘 祝，養成頭角自超群。」 上堂。「山前一片閒田地，叉手叮嚀問祖翁。幾度賣來 還自買，唯憐松竹引清風..."
+    },
+    {
+      "path": "J\\J29\\J29nB223.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Shanhui",
+      "title_zh": "山暉禪師語錄",
+      "snippet": "...。種種皆可應，成佛此為因。 如此何為愚，自然道易成。若能依信受，此生可出塵。 示自超熊婆子 道無男女相，亦非聖凡情。若能當下會，不用論疏親。 但只隨情遣，何須問假真..."
+    },
+    {
+      "path": "J\\J28\\J28nB212.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Eryin Mi",
+      "title_zh": "二隱謐禪師語錄",
+      "snippet": "...，適當君五旬。英賢偕賀壽，拙衲獨親仁。 德潤顏如玉，富華室似春。宛然仙侶下，風格自超倫。 佛手柑 垂接何拘地，卷舒遍界彰。指迷勤破暗，掃障力開荒。 綿軟膚鮮潔，淨明..."
+    },
+    {
+      "path": "J\\J28\\J28nB211.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Ji Zongche",
+      "title_zh": "季總徹禪師語錄",
+      "snippet": "...道：具甚麼 神通得恁麼穩便？」驀拈拄杖，卓一下，云：「竿木隨身行 宇宙，逢場作戲自超群。」 解制，上堂。問：「古人云：『東去西去，直須向萬里無寸草 處去。』祗如萬里..."
+    },
+    {
+      "path": "J\\J27\\J27nB194.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Xuezui of Zhaojue",
+      "title_zh": "昭覺丈雪醉禪師語錄",
+      "snippet": "...家一貧貧徹骨，一窮窮到底，眼漆鼻藍巉，敲冰 解取髓，不隨物所遷，常年秖如此，意氣自超然，靈明 絕捨取，松聲竹色滿東籬，吐露春心啼杜宇。」 萬峰書至，上堂。拈起書云：..."
+    },
+    {
+      "path": "J\\J26\\J26nB181.xml",
+      "mentions": 1,
+      "title": "Bushuitai Collection",
+      "title_zh": "布水臺集",
+      "snippet": "...中，而塵緣自不能為之纇也。門下曠心達識，固 有芥于此乎！若夫貧道求全之毀，敢謂能自超然幻 眎？抑深知薄福所召，日惟反躬是省，乃不意動高明 激烈之懷，則罪過正復不淺矣..."
+    },
+    {
+      "path": "J\\J26\\J26nB178.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Feiyin",
+      "title_zh": "費隱禪師語錄",
+      "snippet": "...「莫將眼見。」乃云：「冷雲忽爾歸無際，枯骨連宵 凍欲遷，就向髑髏開隻眼，去來遠近自超然，轉身一 路如能到，石虎平空抱子眠。」卓拄杖，下座。 為釋迦彌勒兩佛開光，上堂..."
+    },
+    {
+      "path": "J\\J23\\J23nB118.xml",
+      "mentions": 1,
+      "title": "Posthumous Writings of Chan Master Micang Kai",
+      "title_zh": "密藏開禪師遺稿",
+      "snippet": "...種種善道。睹諸眾生現溺苦海，不 願生天獨受樂趣；睹諸眾生昏迷顛倒，不願聲聞緣 覺自超三界；睹諸眾生未成佛，不願先取泥洹。但願 諸佛憐我、賢聖助我，即賜神丹或逢仙艸，..."
+    },
+    {
+      "path": "J\\J10\\J10nA158.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Miyun",
+      "title_zh": "密雲禪師語錄",
+      "snippet": "...，安云：「本色住山人， 且無刀斧痕。」 本無名與狀，雕琢便成文，直下猛提取，用去自超群。 百丈惟政禪師，有老宿見日影透窗，問：「窗就日？日 就窗？」政云：「長老房中..."
+    },
+    {
+      "path": "GA\\GA037\\GA037n0037.xml",
+      "mentions": 1,
+      "title": "Brief Gazetteer of Jinshan Longyou Chan Monastery (Vols. 2–4)",
+      "title_zh": "金山龍游禪寺志略(第2卷-第4卷)",
+      "snippet": "送鐵舟和尚住金山清行謙 全提一句振三玄 坐斷江流啟法筵活路通時誰凑 泊 生機用處自超然須彌影裏香雲繞 拄杖頭邊杲 日懸翻盡由來舊公案 從教寰海永流傳 贈金山鐵舟和尚..."
+    },
+    {
+      "path": "GA\\GA023\\GA023n0021.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Lingyin Monastery, Wulin",
+      "title_zh": "武林靈隱寺志",
+      "snippet": "千峰凌紫煙 中有\uD84D\uDC7D王闕靈盻樹幽棲 塵心自超越 松篁發春靄 桂實墜秋月爭得謝人世 茲焉老華髮 古竇鳴幽泉 蒼崖結虛宇"
+    },
+    {
+      "path": "B\\B32\\B32n0174.xml",
+      "mentions": 1,
+      "title": "Record of a Pilgrimage to Tiantai and Mount Wutai",
+      "title_zh": "參天台五台山記",
+      "snippet": "...堂。謁通判推官二人。有點㭟。登時來會管 內僧正宣教大師日華。管內副僧正延慶寺賜紫自超。 管內僧正宣教大師 日華 右 謹祗候。 起居 國師。伏取 慈旨。"
+    },
+    {
+      "path": "B\\B28\\B28n0156.xml",
+      "mentions": 1,
+      "title": "Buddha-Dharma: Fortress of Gold and Moat",
+      "title_zh": "佛法金湯",
+      "snippet": "...。答。\uD840\uDFA3煉精化炁 煉氣化神。煉神還虛。雖說還虛。到底猶有形神 在。佛單了一性便自超然。問。仙人成佛。不如 入道。然否。答。是不必然。世人穢濁淨行難成。 仙道清虛佛..."
+    },
+    {
+      "path": "B\\B25\\B25n0145.xml",
+      "mentions": 1,
+      "title": "Extensive Record of Zhongfeng Mingben of Tianmu",
+      "title_zh": "天目中峰廣錄",
+      "snippet": "...肯痛自歇心。一念狂情馳 逐諸妄。與生死根種念念交接。復不知更待何時。有 自休自歇自超自越自證之理也。於戲惜哉。 將心來與汝安。將罪來與汝懺。依俙相似彷彿不同。 龐公..."
+    },
+    {
+      "path": "B\\B17\\B17n0093.xml",
+      "mentions": 1,
+      "title": "Xiangjiao Pibian (Complete in Six Volumes)",
+      "title_zh": "象教皮編（六卷全）",
+      "snippet": "...聖 恩或許歸田當畢此意○又書云雲歸事迹已領冠 世絕境大士所廬已難下筆而龍居筆勢已自超然 老拙何以加之幸少寬假使得欵曲抒思也世人一 涉世事便為山靈勒回俗駕今僕蒙犯塵垢..."
+    },
+    {
+      "path": "B\\B14\\B14n0087.xml",
+      "mentions": 1,
+      "title": "Combined Collection of Harmonized Poems: Tiantai Three Sages and Two ‘He’",
+      "title_zh": "合訂天台三聖二和詩集",
+      "snippet": "...望處轉岧嶤。江水流三浙。雲門路一條。臨 厓看瀑布。踏雪過溪橋。偶記寒山草。高吟性自超。 盤陀石上坐。谿澗冷淒淒。靜翫偏嘉麗。虛巖蒙霧迷。怡 然憩歇處。日斜樹影低。我..."
+    },
+    {
+      "path": "B\\B10\\B10n0058.xml",
+      "mentions": 1,
+      "title": "Explanation of Essential Instructions for Mahāmudrā Yoga on the Path to Nirvāṇa",
+      "title_zh": "涅般道大手印瑜伽法要釋",
+      "snippet": "...得度密 法編者原敘）今就禱文所攝之觀點，解釋如下。（甲）周編之身，即一切形相（上自超 生死佛身之妙相下至最低類生物體相）同一本原之象徵。（乙）周徧之語，即一切音 聲..."
+    },
+    {
+      "path": "X\\X84\\X84n1579.xml",
+      "mentions": 1,
+      "title": "Continuation of the Record Pointing at the Moon",
+      "title_zh": "續指月錄",
+      "snippet": "...辨，大 豁疑礙。才曰：荷擔大法盡在子躬。遂付以衣法，有五 乳峯頭獅子子，光前耀後自超羣之句。時南陽萬安 虗席，延師主之。○洪武二年主少林力田，給眾偈曰： 亂後歸來自..."
+    },
+    {
+      "path": "X\\X80\\X80n1566.xml",
+      "mentions": 1,
+      "title": "Five Lamps Compendium: Continued Abridgment",
+      "title_zh": "五燈會元續略",
+      "snippet": "...，大豁疑礙。拙 曰：荷擔大法，盡在子躬。遂付以衣法，有五乳峰頭獅 子子，光前耀後自超羣之句。時南陽府萬安虗席，延 師主之。入 皇明洪武二年己酉，主少林力田。給眾 偈..."
+    },
+    {
+      "path": "X\\X71\\X71n1417.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Liaotang Weiyi",
+      "title_zh": "了堂惟一禪師語錄",
+      "snippet": "...己，炎炎六月氷霜寒。道人氣岸 天然別，驪頷明珠手親抉，祖翁一箇破沙盆，倒用橫 拈自超越。 次韻送振侍者參方 只是無師，不是無禪。斬釘截鐵，謬解悞傳。若謂超今 邁古，..."
+    },
+    {
+      "path": "X\\X71\\X71n1414.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Liao’an Qingyu",
+      "title_zh": "了菴清欲禪師語錄",
+      "snippet": "...八灘，密雲彌布陰凉樹。 送昂維那之江湘 開窻畏嚴寒，閉戶礙觀雪。跏趺萬慮寂，一性自超越。 道人蹈雪來扣門，鐵石骨氣氷霜魂。笑我蒙頭紙衾 重，軟語解使生春溫。明朝蹈雪..."
+    },
+    {
+      "path": "X\\X71\\X71n1412.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Gulin Qingmao",
+      "title_zh": "古林清茂禪師語錄",
+      "snippet": "...平將驪頷擇。 炎炎六月天，處處飄霜雪。洞山麻三斤，雲門乾屎橛。 法法本無差，頭頭自超越。更問如何是古靈，不出于 今者時節。 贈芳藏主 一句合頭語，萬劫擊驢橛。舉步踏..."
+    },
+    {
+      "path": "X\\X70\\X70n1396.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Wujian Xiandu",
+      "title_zh": "無見先覩禪師語錄",
+      "snippet": "...議。溪邊白鷺鷥，飛上長松樹。 示文禪人 秋露滴禪衣，秋風翻木葉。拈起鐵蒺藜，舉步自超越。 為言西峯來，披雲扣岩穴。問訊了喫茶，一一皆明徹。 胡為更覔語，對面成途轍。..."
+    },
+    {
+      "path": "X\\X69\\X69n1367.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Xiaoyin Daxin",
+      "title_zh": "笑隱大訢禪師語錄",
+      "snippet": "...栽無景樹。潦倒龍河，無本可據。帶雪烏雞， 重遭指注。分付長寧，但與麼去。西河師子自超羣，天 岸麒麟看獨步。 番易月長老請贊 字不"
+    },
+    {
+      "path": "X\\X66\\X66n1297.xml",
+      "mentions": 1,
+      "title": "Dharma Grove of the Tradition’s Mirror",
+      "title_zh": "宗鑑法林",
+      "snippet": "... 度，呪心須大智傳持。紅爐那許留春雪，黑沼空悲染 素絲；會得它山皆故里，縱橫有路自超岐。 楞嚴佛謂阿難：若能轉物，即同如來。 若能轉物即如來，春暖山花處處開，自有一..."
+    },
+    {
+      "path": "X\\X62\\X62n1214.xml",
+      "mentions": 1,
+      "title": "Must-Reads for Lotus (Pure Land) Practice",
+      "title_zh": "蓮修必讀",
+      "snippet": "...，只要生死切。諦觀百年身，露電同生滅。 千古大聖賢，皆從一念決。一念識重輕，羣妄自超越。 事不益真修，何能強屑屑。心逸乃日休，心勞乃日拙。 六字大經王，勤誦無休歇。..."
+    },
+    {
+      "path": "X\\X62\\X62n1202.xml",
+      "mentions": 1,
+      "title": "Blue Pearls of the Pure Land",
+      "title_zh": "淨土紺珠",
+      "snippet": "一片矣。 一生現前能念之心，本自離過絕非，不消 作意離絕。即現前所念之佛，本自超情離計，何勞 說妙談玄。祇貴信得及，守得穩，直下念去。或晝夜 十萬，或五萬三萬，..."
+    },
+    {
+      "path": "X\\X62\\X62n1192.xml",
+      "mentions": 1,
+      "title": "Clear Pearls Collection",
+      "title_zh": "清珠集",
+      "snippet": "...佛真境。 張三李四 現前能念之心，本自離過絕非，不消作意離絕。現前 所念之佛，本自超情離計，何勞說妙談玄。祇貴信得 及，守得穩，直下念去，或晝夜十萬，或五萬三萬，以..."
+    },
+    {
+      "path": "X\\X62\\X62n1181.xml",
+      "mentions": 1,
+      "title": "Admonitions for Buddha-Recitation",
+      "title_zh": "念佛警策",
+      "snippet": "...。殊不知現前一念能念之心。本 自離過絕非。不消作意離絕。即現前一句所念之佛。 本自超情離計。何勞。說妙談玄。祗貴信得及。守得穩。 直下念去。或晝夜十萬。或五萬三萬。..."
+    },
+    {
+      "path": "X\\X62\\X62n1180.xml",
+      "mentions": 1,
+      "title": "Revised Cases of the Western Paradise",
+      "title_zh": "重訂西方公據",
+      "snippet": "... 字為向上。殊不知現前能念之心，本自離過絕非，不 消作意離絕。即現前所念之佛，本自超情離計，何勞 說妙談玄。祇貴信得及，守得穩，直下念去，或晝夜十 萬，或五萬三萬，..."
+    },
+    {
+      "path": "X\\X60\\X60n1123.xml",
+      "mentions": 1,
+      "title": "Expanded Collection of Essential Lay Precepts",
+      "title_zh": "在家律要廣集",
+      "snippet": "...非有無，不墮執斷執常偏見之果也。 非因果，不墮有修有證權乘之果也。此心地戒， 本自超情境，離斷常，絕修證，故其得果如是。問： 既曰有因，曰得果，又曰非因果法，何也？..."
+    },
+    {
+      "path": "X\\X57\\X57n0966.xml",
+      "mentions": 1,
+      "title": "Tiantai School Essentials Collection",
+      "title_zh": "台宗精英集",
+      "snippet": "...可得論家家之義。遂總結云：若超若次，進斷三四。若 爾，且次斷人自斷三四，小超之人自超五品，如何會 同？當知小超雖斷五品，緣第五品與第六品共潤一 生。荊溪得此之意，遂..."
+    },
+    {
+      "path": "X\\X38\\X38n0679.xml",
+      "mentions": 1,
+      "title": "Revealing the Hidden in the Commentary on the Brahmā Net Bodhisattva Precepts Sutra",
+      "title_zh": "梵網菩薩戒經義疏發隱",
+      "snippet": "...。非有無，不墮執斷執常偏見之果也。非因果， 不墮有修有證權乘之果也。此心地戒，本自超情 境，離斷常，絕修證，故其得果如是。問：既曰有因，曰 得果，又曰非因果法，何也..."
+    },
+    {
+      "path": "X\\X32\\X32n0616.xml",
+      "mentions": 1,
+      "title": "Collected Meanings of the Lotus Sutra",
+      "title_zh": "法華經會義",
+      "snippet": "...。有能受持 是經典者亦復如是，於一切眾生中亦為第一。 辟支出無佛世，不藉聞法，獨自超悟，故其福田，能 勝四果。餘經所說，並涉方便，如四果人，因聞思修， 方乃得悟。此..."
+    },
+    {
+      "path": "T\\T14\\T14n0545.xml",
+      "mentions": 1,
+      "title": "The Buddha Speaks the Sūtra of the Householder Dharmapāla (Virtue Protector)",
+      "title_zh": "佛說德護長者經",
+      "snippet": "...見諸外道。 譬如大力士，能壞諸怨敵， 貢高諸煩惱，慈悲能散滅。 此來難破壞，摧彼自超勝， 智慧大導師，能救濟一切。 此來不可殺，諸火所不燒，"
+    },
+    {
+      "path": "X\\X88\\X88n1646.xml",
+      "mentions": 1,
+      "title": "Biographies of Laypeople",
+      "title_zh": "居士傳",
+      "snippet": "...種善道。覩 諸眾生現溺苦海。不願生天獨受樂趣。覩諸眾生昏 迷顛倒。不願證聲聞緣覺自超三界。但願諸佛憐我。 賢聖助我。即賜神丹或逢仙草。證五通仙果。住五濁 惡世。救度..."
+    },
+    {
+      "path": "X\\X85\\X85n1590.xml",
+      "mentions": 1,
+      "title": "Jinjiang Chan Lamp",
+      "title_zh": "錦江禪燈",
+      "snippet": "...兒渾不 見，行人得去邑人災。石霜橫刀水盆上，傍置艸鞋。 空把瑤琴月下彈，無生曲調自超然。子期不諳何處 去，孤負渠儂意一翻。十八女子不繫裙。衲僧鼻孔， 活活鱍鱍。不繫..."
+    },
+    {
+      "path": "X\\X84\\X84n1585.xml",
+      "mentions": 1,
+      "title": "Drafts for the Continuation of the Lamp",
+      "title_zh": "續燈存稿",
+      "snippet": "...覆詰辨，師大豁疑 礙。拙曰：荷擔大法，盡在子躳。付偈有五乳峯頭獅子 子，光前耀後自超羣之句。時萬安虗席，四眾請師主 之。洪武二年己酉，遷少室，力田給眾。有偈曰：亂後..."
+    },
+    {
+      "path": "X\\X84\\X84n1583.xml",
+      "mentions": 1,
+      "title": "Orthodox Continuation of the Lamp",
+      "title_zh": "續燈正統",
+      "snippet": "...。復以寶鏡三昧反 覆徵辯，豁然無疑。䂐遂以大事囑之，有五乳峰前獅 子子，光前耀後自超群之句。適萬安虗席，延師開法， 瓣香為香嚴拈出也。次遷鄭州普照，又遷大都天寧， ..."
+    },
+    {
+      "path": "X\\X15\\X15n0303.xml",
+      "mentions": 1,
+      "title": "Comprehensive Integration of the Śūraṅgama Sutra",
+      "title_zh": "楞嚴經貫攝",
+      "snippet": "...見暗非暗，見空 非空，見塞非塞，明乎能見之性，非即所見之境，皆 是離緣第一義，已自超乎因緣宗矣。明暗空塞之 四義既成就，能例之法如此。汝復應知，此見精中， 真妄和合..."
+    },
+    {
+      "path": "X\\X13\\X13n0283.xml",
+      "mentions": 1,
+      "title": "Secret Record of the Śūraṅgama Sutra",
+      "title_zh": "楞嚴經秘錄",
+      "snippet": "...， 結顯色陰盡也。色以質礙為義，即以四大身為色，有 是身則為劫濁。色陰既盡，劫濁自超，所以前云色為 劫濁體也。次中觀其等者，其真之理既顯，其妄之 由亦見。云堅固等者..."
+    },
+    {
+      "path": "X\\X12\\X12n0275.xml",
+      "mentions": 1,
+      "title": "Orthodox Lineage Commentary on the Śūraṅgama Sutra",
+      "title_zh": "楞嚴經正脉疏",
+      "snippet": "...非緣，文中屢有此義。今重顯疊定 者，以起下文耳。又顯從前所說，皆離緣第一義，已 自超乎因緣宗矣。其曰見明之時，見非是明者，言 能見之性，非即所見之境。能所判然，不難..."
+    },
+    {
+      "path": "TX\\TX14\\TX14n0007.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part Seven – Dharma Realm and Perfect Enlightenment Studies (Vols. 16–18)",
+      "title_zh": "太虛大師全書．第七編\u3000法界圓覺學(第16卷-第18卷)",
+      "snippet": "...經以阿難墮婬室、承佛救為發起 因緣，阿難因之欲從有力能救人之大乘，求一方便門先速自超脫：一、證於說戒不 先戒殺而戒婬；二、證於圓通門不單取菩薩而兼收二乘無學。餘若『..."
+    },
+    {
+      "path": "TX\\TX13\\TX13n0007.xml",
+      "mentions": 1,
+      "title": "Complete Works of Master Taixu: Part Seven – Dharma Realm and Perfect Enlightenment Studies (Vols. 10–15)",
+      "title_zh": "太虛大師全書．第七編\u3000法界圓覺學(第10卷-第15卷)",
+      "snippet": "...慧，決成佛道。宿習難淨，故須 誦咒耳。須知修佛乘者，若能究竟持前三戒，則七趣生報自超，受、想陰魔自無矣。 若能究竟持第四戒，則色、行、識陰魔，亦必永離而直超矣。先佛..."
+    },
+    {
+      "path": "T\\T48\\T48n2009.xml",
+      "mentions": 1,
+      "title": "Six Gates of Shaoshi",
+      "title_zh": "少室六門",
+      "snippet": "行深不離身。智慧心解脫。達彼 岸頭人。聖道空寂寂。如是我今聞。佛行平等 意。時到自超群。 照見五蘊皆空。 貪愛成五蘊。假合得為身。血肉連筋骨。"
+    },
+    {
+      "path": "T\\T48\\T48n2006.xml",
+      "mentions": 1,
+      "title": "Eyes of Humans and Devas",
+      "title_zh": "人天眼目",
+      "snippet": "...傳。收羅萬法未渾崙。擎來應 供非干手。飽去馳求不點唇。餿飯餞羹誰肯 著。騰今耀古自超倫。趙州老漢何施設。分付 叢林知幾春。 無絃琴 不勞斤斧雕鐫"
+    },
+    {
+      "path": "T\\T30\\T30n1579.xml",
+      "mentions": 1,
+      "title": "Yogācārabhūmi Śāstra",
+      "title_zh": "瑜伽師地論",
+      "snippet": "...甚奇希 有。 復次，往惡趣行、往善趣行超度差別，當知 略有五門不同。由此五門，於自超度如實 了知，於他超度亦正遍知，所謂諸佛及佛弟 子。云何名為往惡趣行？謂諸外道，..."
+    }
+  ]
+}

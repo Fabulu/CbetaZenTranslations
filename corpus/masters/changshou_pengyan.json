@@ -1,0 +1,37 @@
+{
+  "master": "Changshou Pengyan",
+  "primary_count": 0,
+  "secondary_count": 4,
+  "total_mentions": 4,
+  "primary": [],
+  "secondary": [
+    {
+      "path": "X\\X86\\X86n1601.xml",
+      "mentions": 1,
+      "title": "Genealogy of the Chan Lamp",
+      "title_zh": "禪燈世譜",
+      "snippet": "富陽子\uD86C\uDF87 乾明津 長壽朋彥 長壽法齊 大寧可弘"
+    },
+    {
+      "path": "X\\X80\\X80n1564.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Five Lamps Compendium",
+      "title_zh": "五燈會元目錄",
+      "snippet": "...上泉和尚 大林僧遁禪師 仁王緣勝禪師 青原下十世 天台韶國師法嗣 永明延壽禪師 長壽朋彥禪師 天寧可弘禪師 五雲志逢禪師 報恩法端禪師 報恩紹安禪師 廣平守威禪師 報恩..."
+    },
+    {
+      "path": "T\\T51\\T51n2076.xml",
+      "mentions": 1,
+      "title": "Jingde Record of the Transmission of the Lamp",
+      "title_zh": "景德傳燈錄",
+      "snippet": "人 杭州永明寺延壽禪師 溫州大寧可弘禪師 蘇州長壽朋彥大師 杭州五雲山志逢大師 杭州報恩法端禪師杭州報恩紹安禪師 福州廣平守威禪師"
+    },
+    {
+      "path": "X\\X80\\X80n1567.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Strict Lineage of the Five Lamps",
+      "title_zh": "五燈嚴統目錄",
+      "snippet": "...上泉和尚 大林僧遁禪師 仁王緣勝禪師 南嶽下十世 天台韶國師法嗣 永明延壽禪師 長壽朋彥禪師 天寧可弘禪師 五雲志逢禪師 報恩法端禪師 報恩紹安禪師 廣平守威禪師 報恩..."
+    }
+  ]
+}

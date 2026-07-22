@@ -1,1 +1,562 @@
-{"primary_count":0,"secondary_count":10,"total_mentions":241,"primary":[],"secondary":[{"path":"B\\B31\\B31n0170.xml","mentions":146,"title":"General History of Korean Buddhism","title_zh":"朝鮮佛教通史","snippet":"李純九八廉居一二三 智詵一二四璨幽元宗國師一七五智洗爾二〇六駕洛王七子二〇四 道詵一四七曇諦一八二慧資二〇六長遊和尚二〇五 兢讓一五一洪慶一八五智鳳二〇七"},{"path":"B\\B31\\B31n0169.xml","mentions":87,"title":"Historical Materials on Korean Temples and Monasteries","title_zh":"朝鮮寺剎史料","snippet":"...元曉庵重建記 一八七 智異山雙谿寺真鑒禪師碑 一九〇 中峯山竹林寺事蹟 一九八 道詵國師實錄 二〇二 母岳山佛甲寺古蹟 二一三 靈鷲山興國寺事蹟 二二八 佛護寺創建..."},{"path":"X\\X88\\X88n1671.xml","mentions":1,"title":"Register of Monks and Nuns of the Eastern Land","title_zh":"東國僧尼錄","snippet":"...璘、上護軍尹承順密議曰：辛旽邪侫陰狡，好讒毀 人，斥逐勳舊，殺戮無辜，黨與日盛。道詵記有非僧 非俗，亂政亡國之語，必是此人將為國家大患，宜 白王早除之！判書辛貴聞，..."},{"path":"X\\X87\\X87n1622.xml","mentions":1,"title":"Study of Korean Chan and Teachings","title_zh":"朝鮮禪教考","snippet":"冲撰。 朗空禪師󳬴在昌原鳳林寺，新羅兵部侍郎崔仁衷撰。 道詵國師󳬴在光陽玉龍寺，高麗崔惟清撰。 洞真大師名度甫，姓金氏，靈岩人。󳬴在光陽..."},{"path":"B\\B35\\B35n0194.xml","mentions":1,"title":"General Catalogue of the Chinese Tripiṭaka","title_zh":"中華大藏經總目錄","snippet":"...黃汝亨序，王漢跋，前有通景圖三頁。 11761509往生西方淨土瑞應刪傳一卷 唐道詵撰并序，日本佚名題記，日真題記。 11771510淨土往生傳三卷 宋戒珠撰并序，..."},{"path":"X\\X86\\X86n1601.xml","mentions":1,"title":"Genealogy of the Chan Lamp","title_zh":"禪燈世譜","snippet":"水空和尚 海陵大辯 渚涇禪師 衡州道詵 漢州常清 長髭曠"},{"path":"X\\X81\\X81n1570.xml","mentions":1,"title":"Table of Contents of the Complete Five Lamps","title_zh":"五燈全書目錄","snippet":"寶通禪師 海陵大辯禪師 渚涇禪師 衡州道詵和尚 漢州常清禪師 福州碎石和尚 商州商嶺和尚 常州義興和尚 青原下第三世 藥"},{"path":"T\\T51\\T51n2078.xml","mentions":1,"title":"Record of the Orthodox Lineage of Dharma Transmission","title_zh":"傳法正宗記","snippet":"...禪師者。一 曰水空和尚者。一曰寶通者。一曰海陵大辯 者。一曰渚涇和尚者。一曰衡州道詵者。一曰 漢州常清者。一曰福州碎石和尚者。一曰商 州商嶺和尚者。一曰常州義興和尚..."},{"path":"T\\T51\\T51n2076.xml","mentions":1,"title":"Jingde Record of the Transmission of the Lamp","title_zh":"景德傳燈錄","snippet":"海陵大辯禪師 渚涇和尚衡州道詵禪師 漢州常清禪師福州碎石和尚"},{"path":"T\\T51\\T51n2070.xml","mentions":1,"title":"Accounts of Auspicious Responses for Rebirth in the Western Pure Land","title_zh":"往生西方淨土瑞應傳","snippet":"...甲】【乙】 殺＝然【甲】【乙】 傳字次乙本有吳越國水心禪院住持主興福資利大師賜紫道詵敬造撰二十三字 〔天德…焉〕五十字－【甲】 〔年來…房〕六十八字－【甲】【乙】"}]}
+{
+  "master": "Doseon",
+  "primary_count": 0,
+  "secondary_count": 79,
+  "total_mentions": 96,
+  "primary": [],
+  "secondary": [
+    {
+      "path": "T\\T02\\T02n0099.xml",
+      "mentions": 6,
+      "title": "Samyukta Agama (Connected Discourses)",
+      "title_zh": "雜阿含經",
+      "snippet": "...」諸比丘白 佛：「唯然，已見，世尊！」佛告比丘：「汝等見瞿低 迦比丘周匝遶身黑闇烟起，充滿四方不？」比 丘白佛：「已見，世尊！」佛告比丘：「此是惡魔波 旬於瞿低迦善..."
+    },
+    {
+      "path": "Y\\Y32\\Y32n0030.xml",
+      "mentions": 3,
+      "title": "Collected Studies on Saṃyukta Āgama (III)",
+      "title_zh": "雜阿含經論會編（下）",
+      "snippet": "...」？諸比丘白佛：「唯然已見，世尊」！佛告比丘：「汝等見瞿低迦比丘， 周匝繞身黑闇烟起，充滿四方不」？比丘白佛：「已見，世尊」！佛告比丘：「此是惡魔波旬， 於瞿低迦善..."
+    },
+    {
+      "path": "T\\T01\\T01n0026.xml",
+      "mentions": 3,
+      "title": "Middle-Length Discourses (Madhyama Agama)",
+      "title_zh": "中阿含經",
+      "snippet": "...之，當求捨離，當求解脫。「復次，有時 六日出世，六日出時，一切大地須彌山王皆 悉烟起，合為一烟，譬如陶師始爨竈時，皆悉 烟起，合為一烟。如是六日出時，一切大地須 彌..."
+    },
+    {
+      "path": "X\\X72\\X72n1444.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Zhanran Yuancheng",
+      "title_zh": "湛然圓澄禪師語錄",
+      "snippet": "...道明甚麼邊事？座云：明一色邊事。峰 云：恁麼又爭得？座云：若老僧不會先師意，則香烟起 處去不得。繇是脫然坐去。峰撫其背云：坐脫立亡則 不無，先師意未夢見在。繇是諸方..."
+    },
+    {
+      "path": "T\\T01\\T01n0024.xml",
+      "mentions": 2,
+      "title": "Sutra on the Rise of the World",
+      "title_zh": "起世經",
+      "snippet": "...如前，乃至六日出現世 時，彼四大洲，及八萬四千小洲，一切大山 乃至須彌山王，並皆烟起，起已復起，猶如 瓦師燒器物時，器上火焰一時俱起，起已復 起，其火遂盛，充塞遍滿..."
+    },
+    {
+      "path": "GA\\GA027\\GA027n0025.xml",
+      "mentions": 2,
+      "title": "Gazetteer of Shengshui Monastery, Yunju",
+      "title_zh": "雲居聖水寺志",
+      "snippet": "前題追和實懿寺界湖山道祖開 一層樓閣一層臺蘸波鷗影拖烟起 滴翠山 光擁塔來舍利香雲畱淨域 牟尼花雨護青苔紅稀綠暗春將老 自煮林間陸羽杯平..."
+    },
+    {
+      "path": "B\\B31\\B31n0170.xml",
+      "mentions": 2,
+      "title": "General History of Korean Buddhism",
+      "title_zh": "朝鮮佛教通史",
+      "snippet": "...一。乃天授元年）四眾啼泣。如慕如疑 遂遷坐立塔于寺之北岡。遵遺命也。孝恭王贈諡曰了空禪師。塔曰證聖慧燈。門人珙 寂等。懼先師之景行不傳。䘖涕奉表。乞為紀述。王迺命瑞書學..."
+    },
+    {
+      "path": "B\\B22\\B22n0117.xml",
+      "mentions": 2,
+      "title": "Dharma Terms and Numerical Categories of the Tripiṭaka",
+      "title_zh": "三藏法數",
+      "snippet": "...見。故名究竟無見。 【二見】（出涅槃經）一相貌見。謂因彼 形相狀貌而見。如人遠見烟起。便言見火。雖 不見火。亦非虛妄。是名相貌見。二了了見。謂 人眼根清淨不壞。自觀..."
+    },
+    {
+      "path": "X\\X67\\X67n1304.xml",
+      "mentions": 2,
+      "title": "Elder Linquan’s Commentary and Chanted Remarks on Chan Master Danxia Zichun’s Verses on Ancient Cases: Xutang Collection",
+      "title_zh": "林泉老人評唱丹霞淳禪師頌古虗堂集",
+      "snippet": "...：恁麼則未會先師意在。座云：你不肯我那？裝香 來。座乃焚香云：我若不會先師意，香烟起處脫去不 得。言訖便坐脫。峰乃撫其背云：坐脫立亡則不無，先 師意未會在。惹得天童..."
+    },
+    {
+      "path": "X\\X42\\X42n0736.xml",
+      "mentions": 2,
+      "title": "Critique on the Four-Part Vinaya \"Practice Notes\"",
+      "title_zh": "四分律行事鈔批",
+      "snippet": "...雲起，須臾增長，遍 覆虗空，障日月輪，俱令不現。烟者，如林野中，焚燒草 木，率爾烟起，遍䨱虗空，障日月輪，俱令不現。塵者，如 亢旱時，大風旋擊，囂塵起，遍䨱虗空，障..."
+    },
+    {
+      "path": "X\\X23\\X23n0438.xml",
+      "mentions": 2,
+      "title": "Exposition of the Meaning of the Mahāvairocana Sūtra",
+      "title_zh": "大日經義釋",
+      "snippet": "...句也。 餘如上釋。 凡護摩時，當有種種相現，或時燒火不然，然或速滅 不甚熾盛，或烟起無\uD85A\uDDA8，或烟甚濁，或出聲猶如驢畜 等音人不樂聞，或言不成就等，當知障礙不成之相。..."
+    },
+    {
+      "path": "X\\X88\\X88n1671.xml",
+      "mentions": 1,
+      "title": "Register of Monks and Nuns of the Eastern Land",
+      "title_zh": "東國僧尼錄",
+      "snippet": "...璘、上護軍尹承順密議曰：辛旽邪侫陰狡，好讒毀 人，斥逐勳舊，殺戮無辜，黨與日盛。道詵記有非僧 非俗，亂政亡國之語，必是此人將為國家大患，宜 白王早除之！判書辛貴聞，..."
+    },
+    {
+      "path": "X\\X87\\X87n1622.xml",
+      "mentions": 1,
+      "title": "Study of Korean Chan and Teachings",
+      "title_zh": "朝鮮禪教考",
+      "snippet": "智宗國師 朗空禪師 道詵國師 洞真大師 表訓禪師惠丘法"
+    },
+    {
+      "path": "X\\X86\\X86n1601.xml",
+      "mentions": 1,
+      "title": "Genealogy of the Chan Lamp",
+      "title_zh": "禪燈世譜",
+      "snippet": "水空和尚 海陵大辯 渚涇禪師 衡州道詵 漢州常清 長髭曠"
+    },
+    {
+      "path": "X\\X86\\X86n1600.xml",
+      "mentions": 1,
+      "title": "Chronological Compilation of the Sectarian Lineage",
+      "title_zh": "宗統編年",
+      "snippet": "...：平生訶佛罵祖，今何為乃爾？真熟視，訶曰： 汝亦作此見解耶？即趺坐，呼侍者燒香，烟起入寂。 乙巳二年 禪師法演，自瑞光抵浮山，遂參祖，領悟分座。"
+    },
+    {
+      "path": "X\\X79\\X79n1563.xml",
+      "mentions": 1,
+      "title": "Great Treasury of Light",
+      "title_zh": "大光明藏",
+      "snippet": "...畢 奏，是無鴻漸中之鴻漸也。雪峰自鹽官處得入，是 始有暖氣也。洞山處省發，是中有烟起也。德山徹 去，是終於火然也。鰲山成道，是卒烹餁之功也。方 其三上投子，九到洞山..."
+    },
+    {
+      "path": "X\\X78\\X78n1556.xml",
+      "mentions": 1,
+      "title": "Jianzhong Jingguo Continued Lamp Record",
+      "title_zh": "建中靖國續燈錄",
+      "snippet": "...釋鏡中親得旨，靈山法會 宛然存。師云：龍華三會，猶是後時。僧曰：可謂龍樓鳳 閣祥烟起，玉殿金階瑞氣生。師云：逢人不得錯舉。僧 曰：四海盡霑天子澤，師將何法報 皇恩？..."
+    },
+    {
+      "path": "X\\X78\\X78n1549.xml",
+      "mentions": 1,
+      "title": "Record of Pure Land Saints and Worthies",
+      "title_zh": "淨土聖賢錄",
+      "snippet": "...，作轉 輪，暫時快樂未為真。勸君念佛求西去，永作逍遙自 在人。禺中巳，食時處處炊烟起。自餐飽飯自充飢，自 己修持了生死。子憶娘，母憶子，到底工夫全在"
+    },
+    {
+      "path": "X\\X74\\X74n1494.xml",
+      "mentions": 1,
+      "title": "Ritual Procedures for the Diamond Sutra",
+      "title_zh": "金剛經科儀",
+      "snippet": "...囑，三千里外定聲訛。 戒香、定香、解脫明香、解脫知見香、一辨信香，爇在鑪 上，香烟起處，遍滿十方，請諸佛菩薩赴壇中受供養。 拈起金剛正令，一句殞超千聖。 揭開般若法..."
+    },
+    {
+      "path": "X\\X20\\X20n0367.xml",
+      "mentions": 1,
+      "title": "Simple Notes on the Mahāyāna Mind-Ground Contemplation Sūtra (Vols. 1–3)",
+      "title_zh": "大乘本生心地觀經淺註(第1卷-第3卷)",
+      "snippet": "...山邊置日道中，徧照世間， 草木凋落。如是一日乃至七日，次第而出，消竭海 水，大地烟起，乾坤洞然，直至梵天，悉皆蕩盡等。梵語劫波，此云分別時節。然今所用者，不取 壞劫..."
+    },
+    {
+      "path": "X\\X17\\X17n0330.xml",
+      "mentions": 1,
+      "title": "Essential Principles of the Laṅkāvatāra Sūtra",
+      "title_zh": "楞伽經宗通",
+      "snippet": "...：恁麼則未會先師意在。座云：你不肯我 那？裝香來。座乃焚香云：我若不會先師意，香烟起 處脫去不得。言訖，便坐脫。峰乃撫其背曰：坐脫立 亡則不無，先師意未夢見在。天童..."
+    },
+    {
+      "path": "T\\T51\\T51n2078.xml",
+      "mentions": 1,
+      "title": "Record of the Orthodox Lineage of Dharma Transmission",
+      "title_zh": "傳法正宗記",
+      "snippet": "...禪師者。一 曰水空和尚者。一曰寶通者。一曰海陵大辯 者。一曰渚涇和尚者。一曰衡州道詵者。一曰 漢州常清者。一曰福州碎石和尚者。一曰商 州商嶺和尚者。一曰常州義興和尚..."
+    },
+    {
+      "path": "T\\T51\\T51n2076.xml",
+      "mentions": 1,
+      "title": "Jingde Record of the Transmission of the Lamp",
+      "title_zh": "景德傳燈錄",
+      "snippet": "海陵大辯禪師 渚涇和尚衡州道詵禪師 漢州常清禪師福州碎石和尚"
+    },
+    {
+      "path": "T\\T49\\T49n2039.xml",
+      "mentions": 1,
+      "title": "Memorabilia of the Three Kingdoms",
+      "title_zh": "三國遺事",
+      "snippet": "...而有娠。何也。 乃宣言於國中。欲焚其妹。一日侯善德王遊 幸南山。積薪於庭中。焚火烟起。王望之問何 烟。左右奏曰。殆庾信之焚妹也。王問其故。曰 為其妹無夫有娠。王曰。..."
+    },
+    {
+      "path": "T\\T04\\T04n0194.xml",
+      "mentions": 1,
+      "title": "Sutra Collection Compiled by Sangharaksa",
+      "title_zh": "僧伽羅剎所集經",
+      "snippet": "磨，磨便有火出，火漸熾盛，遂及山巖。諸生青 青樹木火悉焚燒，有欝烟起，色極自熾，亦不 時滅，猶如日光。塵烟俱起，大小樹木皆悉被 燒，無有遺餘，猶如天..."
+    },
+    {
+      "path": "T\\T04\\T04n0192.xml",
+      "mentions": 1,
+      "title": "Buddhacarita: Praise of the Buddha’s Deeds",
+      "title_zh": "佛所行讚",
+      "snippet": "...道， 我等亦當隨。」彼兄弟三人， 及弟子眷屬，世尊為說法， 即以事火譬：「愚癡黑烟起， 亂想鑽燧生，貪欲瞋恚火， 焚燒於眾生。如是煩惱火， 熾然不休息，彌"
+    },
+    {
+      "path": "T\\T03\\T03n0189.xml",
+      "mentions": 1,
+      "title": "Sutra on Past and Present Causes and Effects",
+      "title_zh": "過去現在因果經",
+      "snippet": "...轉；或馳步吼 嚇；有如是等諸惡類形不可稱數，圍繞 菩薩。或復有欲裂菩薩身；或四方烟起，焱 焰衝天或狂音奮發，震動山谷，風火烟塵， 暗無所見；四大海水，一時涌沸。"
+    },
+    {
+      "path": "T\\T01\\T01n0025.xml",
+      "mentions": 1,
+      "title": "Sutra on the Causes and Origins of the World’s Arising",
+      "title_zh": "起世因本經",
+      "snippet": "...欲燒器時，器上火焰一時俱起。其火 大盛，充塞遍滿。如是如是，其四大洲及諸 山等，烟起猛壯，亦復如是，略說乃至，諸行 無常，應求免脫。復次，諸比丘！略說如前，七 日出..."
+    },
+    {
+      "path": "T\\T01\\T01n0001.xml",
+      "mentions": 1,
+      "title": "Long Discourses Sutra (Dirgha Agama)",
+      "title_zh": "長阿含經",
+      "snippet": "...日道中， 緣此世間有六日出。六日出已，其四天下及 八萬天下諸山、大山、須彌山王皆烟起燋燃， 猶如陶家初然陶時，六日出時亦復如是。」 佛告比丘：「以是當知，一切行無常..."
+    },
+    {
+      "path": "P\\P182\\P182n1615.xml",
+      "mentions": 1,
+      "title": "Great Ming Tripitaka Dharma-Number Glossary (Vols. 14–35)",
+      "title_zh": "大明三藏法數(第14卷-第35卷)",
+      "snippet": "...日宮殿於須彌山邊置日道中遍 照世間草木凋落如是一日乃至七日次 第而出消竭海水大地烟起乾坤洞然直 至梵天悉皆蕩盡故有七日出現之說也 。【一日出】一日出時百草\uD84D\uDDF3木一時..."
+    },
+    {
+      "path": "P\\P181\\P181n1615.xml",
+      "mentions": 1,
+      "title": "Great Ming Tripitaka Dharma-Number Glossary (Vols. 1–13)",
+      "title_zh": "大明三藏法數(第1卷-第13卷)",
+      "snippet": "... 時究竟顯現更無所見故名究竟無見。 二見【一相貌見】謂因彼形相狀貌而見 如人遠見烟起便言見火雖不見火亦非 虛妄是名相貌見。【二了了見】謂人眼根清 淨不壞自觀掌中阿摩..."
+    },
+    {
+      "path": "P\\P155\\P155n1519.xml",
+      "mentions": 1,
+      "title": "Essential Compendium of the Zen School: Main and Continued Collections (Vols. 13–20)",
+      "title_zh": "宗門統要正續集(第13卷-第20卷)",
+      "snippet": "...去首座作麼生會座云明一色 邊事師云未會先師意在不得住座云裝香 來我若不會先師意香烟起時脫去不得及 至香烟纔起首座脫去師乃於背上撫云坐 脫立亡即不無首座先師意未夢見在..."
+    },
+    {
+      "path": "L\\L154\\L154n1639.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Tianyin Xiu",
+      "title_zh": "天隱修禪師語錄",
+      "snippet": "...一脚分明蹋到底四壁蕭然綠竹陰草榻 從容揮麈尾閒適興漫登巔一目千峰掌握 間遙望翠微烟起處不知人住幾多番自揣 看吾何為不學盤山打觔斗且喜\uD87E\uDCB1瓚之風 規詔到龕前煨紫芋\uD87E\uDCB1..."
+    },
+    {
+      "path": "L\\L153\\L153n1637.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Huanyouchuan",
+      "title_zh": "幻有傳禪師語錄",
+      "snippet": "...恰被個九峰傍不肯撥却是可忍 耶幸自往日畜得個脫身計子乃曰裝香來 我若不會先師意香烟起處脫去不得若將 一幅布遮却走開去了不然即百眾人前甘 自忍饑將臉孔着在何處可奈九峰..."
+    },
+    {
+      "path": "J\\J27\\J27nB198.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Xueguan",
+      "title_zh": "雪關禪師語錄",
+      "snippet": "...：東禪破落舊家風，虛實其中妙莫窮；雨至普 天轟霹靂，秋來滿院落梧桐。 福州東禪院了空禪師上堂：「大好省要，自不 仙陀，若是聽響之流，不如歸堂向火。珍重。」 拈云：丹青易..."
+    },
+    {
+      "path": "GA\\GA084\\GA084n0086.xml",
+      "mentions": 1,
+      "title": "Monastery Gazetteer of Huangbo Mountain",
+      "title_zh": "黃檗山寺志",
+      "snippet": "一輪月作金球戲 怒吼濤聲欲 震天 香爐峰 檗嶠依然作博山 天工鑄就一爐圜雲烟起處疑香篆 鼎峙珠林佛 座間 佛座峰 天地"
+    },
+    {
+      "path": "GA\\GA043\\GA043n0046.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Helin Monastery (Shi Mingxian Edition)",
+      "title_zh": "鶴林寺志（釋明賢本）",
+      "snippet": "遊鶴林寺方干 得路到深寺 幽虗曾識名蘇濃陰砌古 烟起暮香生 曙月落松翠 石泉流梵聲聞僧說真理 煩惱自然輕 鶴林寺中秋夜翫月許渾"
+    },
+    {
+      "path": "GA\\GA040\\GA040n0040.xml",
+      "mentions": 1,
+      "title": "Illustrated Gazetteer of Pingshan Hall",
+      "title_zh": "平山堂圖志",
+      "snippet": "...鴈爭 南翔充懷托遠寄 歷覽何洸洋引勝發遙咏 不覺 頺夕陽輿人促歸騎 落日遙相望寒烟起隴戍 古 道歸牛羊揮手各分去 通懷安可忘 至日同梁藥亭暨同社諸子讌集登平山堂 卓..."
+    },
+    {
+      "path": "GA\\GA030\\GA030n0029.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Xixi Fanyin",
+      "title_zh": "西谿梵隱志",
+      "snippet": "松筠幾千頃 捧卻一山尊不是炊烟起 悠悠何處村 竹浪居 遶楹千个竹 緣暗一簾雨長風復簸之 湘江翠蛟舞"
+    },
+    {
+      "path": "GA\\GA026\\GA026n0024.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Shangtianzhu Lecture Monastery, Hangzhou",
+      "title_zh": "杭州上天竺講寺志",
+      "snippet": "...我歸投彌勒咦 九蓮朶內見當人 金剛般若波羅密嘉禾 沈星吳名其廬曰「兩峯草堂」。 了空禪師山陰人，姓王氏。少貧，手供藝事，口誦彌陀。後禮蓮大師，法名廣似。甲午。朝天台， ..."
+    },
+    {
+      "path": "GA\\GA021\\GA021n0019.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Li’an Monastery, Wulin",
+      "title_zh": "武林理安寺志",
+      "snippet": "理安寺 導客來遊此 寧辭道路賒沿溪峰歷亂 近寺樹交加烟起 知炊飯 泉甘欲試茶層巔嗟未到 陣陣落歸鴉 理安寺前亭子"
+    },
+    {
+      "path": "GA\\GA014\\GA014n0012.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Tiantong Monastery (Vols. 5–10)",
+      "title_zh": "天童寺志(第5卷-第10卷)",
+      "snippet": "...卜倉箱盈日午亭亭雙足健 枝頭啞啞羣烏驚複閣層廊原舊識 蘭芽梅萼相遙迎芒鞋卸却 暮烟起 魚鼓擊罷宵鐘鳴廬山主人長促膝 麾麈接席談無生燈分佛火十笏地 龍團馥郁斟茶鐺 信..."
+    },
+    {
+      "path": "GA\\GA013\\GA013n0012.xml",
+      "mentions": 1,
+      "title": "Gazetteer of Tiantong Monastery (Vols. 1–4)",
+      "title_zh": "天童寺志(第1卷-第4卷)",
+      "snippet": "...山椒 須臾壓山趾已息望晴心 忽乃得晴 喜出巷蜂繞衣 循籬袂決雉路因歸似近 溪店午烟起 若夫石為氣核，金之甲根，名山硱磳，所在皆有，舉其 稍異者，曰響石。下太白峰西百..."
+    },
+    {
+      "path": "GA\\GA009\\GA009n0008.xml",
+      "mentions": 1,
+      "title": "Revised Gazetteer of Mount Putuo",
+      "title_zh": "重修普陀山志",
+      "snippet": "香爐翠靄 大冶何年鑄\uDB8D\uDC46鑪 馮夷端捧向浮屠天香 化作青烟起 昧火看來水不濡 鉢盂鴻灝 釋種家風惟一鉢 那從雲外空生活食殘 香飯洗波中 囬首"
+    },
+    {
+      "path": "C\\C078\\C078n1720.xml",
+      "mentions": 1,
+      "title": "Chan School: Comprehensive Linked-Pearls Collection of Verse Commentaries on Old Cases",
+      "title_zh": "禪宗頌古聯珠通集",
+      "snippet": "... 去椘山無限謾崢嶸一刀兩叚南泉令當 頭高著趙州閾劈面若無宗正眼又隨流水 落人間狼烟起處看兵機不是將軍 孰辨伊兩叚一刀垓下令威風千古覇雄基 當機不薦眼如癡豈辨鋒鋩未露..."
+    },
+    {
+      "path": "B\\B34\\B34n0193.xml",
+      "mentions": 1,
+      "title": "Dharma Vehicle of the Wu Capital",
+      "title_zh": "吳都法乘",
+      "snippet": "... 礙舊游休說更傷心 與杜進士寅登白蓮閣對雨 遠愁高樹共離離風逆潮聲上浦遲海客市中烟起處江僧閣 外雨來時船歸杳靄唯聞艣店隱蒼茫不見旗回首南朝今幾 寺可堪重詠牧之詩 白..."
+    },
+    {
+      "path": "B\\B31\\B31n0169.xml",
+      "mentions": 1,
+      "title": "Historical Materials on Korean Temples and Monasteries",
+      "title_zh": "朝鮮寺剎史料",
+      "snippet": "諡洞 真大師塔號寶雲命學士金廷彥撰碑 孝恭大王贈諡曰了空禪師塔 曰諡聖慧燈命上柱國崔惟清撰碑後又以先覺國師之"
+    },
+    {
+      "path": "B\\B14\\B14n0087.xml",
+      "mentions": 1,
+      "title": "Combined Collection of Harmonized Poems: Tiantai Three Sages and Two ‘He’",
+      "title_zh": "合訂天台三聖二和詩集",
+      "snippet": "... 遠兮難致。神勞兮何成。太虛兮寥廓。金石兮堅貞。 子游兮野陘。蘭芷兮為纓。眾鳥兮烟起。孤鶴兮雲征。佳 人兮不至。好夢兮難成。于心兮玉潔。于志兮石貞。 猪喫死人肉。人..."
+    },
+    {
+      "path": "X\\X82\\X82n1571.xml",
+      "mentions": 1,
+      "title": "Complete Five Lamps (Vols. 34–120)",
+      "title_zh": "五燈全書(第34卷-第120卷)",
+      "snippet": "...夜則坐禪。因 入方丈請益，師纔跨門，被來喝出，師愈猛烈。是冬稟 具，偶坐次，覩香烟起處，有省。辛未結伴，誓不語戒。適 堂外打破碗，爭曰：你輩只知喫常住飯，不管常住事..."
+    },
+    {
+      "path": "X\\X81\\X81n1571.xml",
+      "mentions": 1,
+      "title": "Complete Five Lamps (Vols. 1–33)",
+      "title_zh": "五燈全書(第1卷-第33卷)",
+      "snippet": "...師曰：這箇是方便門。曰：恁麼則大眾側聆去也。師 曰：空側聆作麼？ 福州東禪院可隆了空禪師僧問：如何是道？師曰：正 是道。曰：如何是道中人？師曰：分明向汝道。 上堂：大 ..."
+    },
+    {
+      "path": "X\\X81\\X81n1570.xml",
+      "mentions": 1,
+      "title": "Table of Contents of the Complete Five Lamps",
+      "title_zh": "五燈全書目錄",
+      "snippet": "...禪師 長慶常慧禪師 石佛院靜禪師 枕峰清換禪師 東禪契訥禪師 長慶弘辯禪師 東禪了空禪師 僊宗守玼禪師 永安淨悟禪師 閩山令含禪師 新羅龜山禪師 資國道殷禪師 祥光澄靜..."
+    },
+    {
+      "path": "X\\X80\\X80n1568.xml",
+      "mentions": 1,
+      "title": "Strict Lineage of the Five Lamps (Vols. 1–9)",
+      "title_zh": "五燈嚴統(第1卷-第9卷)",
+      "snippet": "...師曰：這箇是方便門。曰：恁麼則大眾側聆去也。師 曰：空側聆作麼？ 福州東禪院可隆了空禪師僧問：如何是道？師曰：正 是道。曰：如何是道中人？師曰：分明向汝道。上堂：大好 ..."
+    },
+    {
+      "path": "X\\X80\\X80n1565.xml",
+      "mentions": 1,
+      "title": "Five Lamps Compendium",
+      "title_zh": "五燈會元",
+      "snippet": "...師曰。這箇是方便門。曰。恁麼則大眾側聆去也。師 曰。空側聆作麼。 福州東禪院可隆了空禪師僧問。如何是道。師曰。正 是道。曰。如何是道中人。師曰。分明向汝道。上堂。大好 ..."
+    },
+    {
+      "path": "X\\X71\\X71n1425.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Danxia Zichun",
+      "title_zh": "丹霞子淳禪師語錄",
+      "snippet": "...色邊事。師曰：與麼則不會 先師意在。座曰：但裝香來。乃焚香曰：我不會先師 意，香烟起處，脫去不得。者言訖，便坐脫。師拊其背 曰：坐脫立亡即不無，先師意未夢見在。 帶..."
+    },
+    {
+      "path": "X\\X71\\X71n1421.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Yu’an Zhiji",
+      "title_zh": "愚菴智及禪師語錄",
+      "snippet": "...得，無一處不睹慈容，無一時不聞說法。苟或未 然，少間下座。普請諷經，莊嚴品位。香烟起處，一任觀 瞻。 師到千\uD855\uDDFD莊，眾請觀海次，師問：大海不宿死尸，魚以 水為命，因..."
+    },
+    {
+      "path": "X\\X71\\X71n1418.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Dai’an Puzhuang",
+      "title_zh": "呆菴普莊禪師語錄",
+      "snippet": "...等諸人於中出入，須知有向 上關棙子始得。喝一喝。 佛殿燒香，云：三世諸佛即今向香烟起處放光現瑞， 轉大法輪，狸奴白牯呵呵大笑，露柱燈籠呵呵大笑。 據室，拈拄杖云：明..."
+    },
+    {
+      "path": "X\\X70\\X70n1391.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Xiyan Liaohui",
+      "title_zh": "西巖了慧禪師語錄",
+      "snippet": "...器，全殺活機，負不平氣。沒提撕處 急提撕，大用現前無小試。大用去也，清平世界 狼烟起。 德元街坊入塔 德之元，道之始。十字街頭，三家村裏。直下搆得，平地 上陷人；離..."
+    },
+    {
+      "path": "X\\X70\\X70n1386.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Shitian Faxun",
+      "title_zh": "石田法薰禪師語錄",
+      "snippet": "...了，白州，州云：戒香、定香、惠香、解脫香。 師拈云：趙老應機，如風吹水，第一座香烟起，驢年夢 見汗臭氣。 冬節，晝明夜暗，日往月來，一氣不然而然，萬化無作 而作，便..."
+    },
+    {
+      "path": "X\\X70\\X70n1385.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Qiaoyin Wuyi",
+      "title_zh": "樵隱悟逸禪師語錄",
+      "snippet": "...淚如雨。 法眷孚首座火 言孚而信，行確而端。形諸外見之則易，虗其中識之 則難。香烟起處，坐脫立亡則不無。先師意作麼生會？ 啞，寧可吞炭。 宸藏主火來自開先 未離青玉..."
+    },
+    {
+      "path": "X\\X69\\X69n1356.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Pu’an Yinsu",
+      "title_zh": "普菴印肅禪師語錄",
+      "snippet": "...在。 拈云：九峰恁麼擔板，第一座鐵打肝心，檢點將來，九 峰有過。且道過在甚處？香烟起處。普菴若許，云：蒼天！ 蒼天！逼人至死。 立亡坐脫不為奇，石霜遷化少人知，九峰..."
+    },
+    {
+      "path": "X\\X67\\X67n1306.xml",
+      "mentions": 1,
+      "title": "The Solitary Elder Qiongjue’s Direct Notes by Tianqi on Master Tiantong Jue’s Verses on Ancient Cases",
+      "title_zh": "焭絕老人天奇直註天童覺和尚頌古",
+      "snippet": "...：恁麼則未會先 師意在。座云：你不肯我那？裝香來。座乃燒香云：我若不會先師意，香烟起處，脫 去不得。言訖便坐脫。峰乃撫背云：坐 脫立亡則不無，先師意未會在。 ○總結..."
+    },
+    {
+      "path": "X\\X64\\X64n1261.xml",
+      "mentions": 1,
+      "title": "Matters and Sources of the Patriarchal Courtyard",
+      "title_zh": "祖庭事苑",
+      "snippet": "隟正作隙，乞逆切，壁際孔也。 㶿蒲沒切。烟起㒵。 紆憶俱切。縈紆，曲也。"
+    },
+    {
+      "path": "X\\X62\\X62n1214.xml",
+      "mentions": 1,
+      "title": "Must-Reads for Lotus (Pure Land) Practice",
+      "title_zh": "蓮修必讀",
+      "snippet": "...，作轉輪，暫時快活未為真。勸君念 佛求西去，永作逍遙自在人。 禺中巳，食時處處炊烟起。自餐飽飯自充饑，自己修 持了生死。子憶母，母憶子，到底工夫全在己。\uDB8F\uDC5A捨身"
+    },
+    {
+      "path": "X\\X62\\X62n1185.xml",
+      "mentions": 1,
+      "title": "A Shortcut within a Shortcut within a Shortcut",
+      "title_zh": "徑中徑又徑",
+      "snippet": "...，作轉輪，暫時快活未為真。勸 君念佛求西去，永作逍遙自在人。禺中巳，食時處處 炊烟起。自餐飽飯自充饑，自己修持了生死。子憶母， 母憶子，到底工夫全在"
+    },
+    {
+      "path": "X\\X57\\X57n0970.xml",
+      "mentions": 1,
+      "title": "Treatise on the Good and Evil of Nature",
+      "title_zh": "性善惡論",
+      "snippet": "...脇。時諸軍眾 忽然來至，充滿虗空，執戈操劍，多頭多目，諸惡類形， 圍遶菩薩。四面烟起，四海涌沸。是諸魔眾各盡威力， 角目切齒，橫飛竪擲。菩薩觀之，如童子戲。空中有神..."
+    },
+    {
+      "path": "X\\X42\\X42n0733.xml",
+      "mentions": 1,
+      "title": "Adorning-the-Tradition Meaning Record on the Four-Part Vinaya Commentary",
+      "title_zh": "四分律疏飾宗義記",
+      "snippet": "...雲起，須臾增長， 遍覆虗空，障日月輪，俱令不現。烟者，如林野中，焚燒 草木，率爾烟起，遍覆虗空，障日月輪，俱令不現。塵者， 如抗旱時，大風旋擊，囂塵卒起，遍覆虗空，..."
+    },
+    {
+      "path": "X\\X41\\X41n0731.xml",
+      "mentions": 1,
+      "title": "Commentary on the Four-Part Vinaya",
+      "title_zh": "四分律疏",
+      "snippet": "...阿難白佛，佛開房內結淨，外道 謗言：禿居士亦有庫厨，與俗無別。佛即令僧坊外作 食烟起，多人索食使僧食少，白佛，佛言：從今不聽作 淨地羯磨，作者吉羅。又瓶沙王死，佛言..."
+    },
+    {
+      "path": "X\\X30\\X30n0605.xml",
+      "mentions": 1,
+      "title": "Outline Commentary on the Lotus Sutra",
+      "title_zh": "法華經科註",
+      "snippet": "...乎地獄， 上至初禪，皆悉有之，如阿鼻鬲子八萬四千，內外 洞徹，上下交炎，餓鬼支節烟起，舉體焦然，畜生燠 煑湯炭。修羅亦有火難，人中焚燒現見事也。若至 劫盡須彌洞然，..."
+    },
+    {
+      "path": "X\\X29\\X29n0594.xml",
+      "mentions": 1,
+      "title": "Compilation of Meanings from Commentaries on the Lotus Sutra",
+      "title_zh": "法華經疏義纘",
+      "snippet": "...禪，皆有火難。如火 災，至初禪下阿鼻獄，八萬四千，內外洞徹，上下交炎， 餓鬼支節烟起，舉體燋然，畜生燠煑湯炭；脩羅亦有 火難，人中焚燒。現見若至劫盡，須彌洞然，諸天..."
+    },
+    {
+      "path": "X\\X28\\X28n0593.xml",
+      "mentions": 1,
+      "title": "Corrective Notes Assisting the \"Words and Phrases\" on the Lotus Sutra",
+      "title_zh": "法華經文句輔正記",
+      "snippet": "...地獄有，上至初禪，皆有火難。如何？鼻隔子 八萬四千，內外洞徹，上下夾炎；餓鬼支節烟起，舉 體燋熱；畜生燠煑湯炭；脩羅亦有火難，人中焚燒 現見故。若至劫盡須彌洞燋，諸..."
+    },
+    {
+      "path": "T\\T23\\T23n1435.xml",
+      "mentions": 1,
+      "title": "Ten-Recitation Vinaya",
+      "title_zh": "十誦律",
+      "snippet": "...各相謂言：「汝取是煮，我入 城乞食。」有煮者、有乞食者。時失猪人入祇洹 求猪，見烟起至比丘邊問言：「大德！此中何所 作？」答言：「煮猪腸。」是人言：「我今失猪，汝等..."
+    },
+    {
+      "path": "T\\T22\\T22n1421.xml",
+      "mentions": 1,
+      "title": "Mahīśāsaka School: Five-Part Vinaya",
+      "title_zh": "彌沙塞部和醯五分律",
+      "snippet": "...與誰？」佛 言：「汝可持著無生草地，若無虫水中。」即受教 著無虫水中，水即大沸，烟起作聲，如燒鐵投 水。長者恐怖，還以白佛。佛為說種種妙法，示 教利喜，所謂：施論、..."
+    },
+    {
+      "path": "T\\T17\\T17n0721.xml",
+      "mentions": 1,
+      "title": "Sutra on Mindfulness of the True Dharma",
+      "title_zh": "正法念處經",
+      "snippet": "...里知識、兄弟火燒最為尤甚。無福德故，得 此十苦遍燒其身。大惡怖畏以燒乾身，氣如 烟起。諸天子！應生知足，勿於人中而生欣樂， 人中少樂，甚大苦惱，衰惱短壽，輕毀垢污。..."
+    },
+    {
+      "path": "X\\X85\\X85n1594.xml",
+      "mentions": 1,
+      "title": "Outline of Buddhas and Patriarchs",
+      "title_zh": "佛祖綱目",
+      "snippet": "... 平生訶佛罵祖，今何為乃爾？真熟視呵曰：汝亦作此 見解耶？即起趺坐，呼侍者燒香，烟起入寂。 守端禪師傳法法演 法演，綿州鄧氏子。年三十五祝髮受具，在受業寺逐"
+    },
+    {
+      "path": "T\\T50\\T50n2059.xml",
+      "mentions": 1,
+      "title": "Biographies of Eminent Monks",
+      "title_zh": "高僧傳",
+      "snippet": "黑，死更潔 白。於是依得道法闍維之。薪\uD85C\uDC90始然，便有 五色烟起，殊香芬馥。州將王玄載乃為之讚 曰：「大覺眇無像，懸應貴忘靖。一念會道場， 空過..."
+    },
+    {
+      "path": "T\\T32\\T32n1648.xml",
+      "mentions": 1,
+      "title": "Treatise on the Path of Liberation",
+      "title_zh": "解脫道論",
+      "snippet": "...去來不見生， 諸法不生如虛空，猶如電起須臾滅。 彼坐禪人如是見滅無盡入定，如鑽火烟起， 菩提品剎那剎那起、光明智起、喜猗樂取解 脫念處起，捨出離於是不明了。坐禪人於..."
+    },
+    {
+      "path": "T\\T29\\T29n1562.xml",
+      "mentions": 1,
+      "title": "Abhidharma Treatise: Accord with Correct Reasoning (Nyāyānusāra)",
+      "title_zh": "阿毘達磨順正理論",
+      "snippet": "...纔相順煩惱便起。由此道理，或有先 起染污意識，或有先起染污餘識。如燃火時， 或先烟起，漸次生焰，後方洞然。或遇卒風，猛 焰頓發，俄成灰燼。如人身中，病本若少，飲食 ..."
+    },
+    {
+      "path": "T\\T27\\T27n1545.xml",
+      "mentions": 1,
+      "title": "Mahāvibhāṣā Śāstra (Great Abhidharma Vibhāṣā)",
+      "title_zh": "阿毘達磨大毘婆沙論",
+      "snippet": "...如盛夏時有少雲起須臾增 長遍覆虛空。障日月輪俱令不現。烟者 如林野中焚燒草木率爾烟起遍覆虛空。 障日月輪俱令不現。塵者。如亢旱時大風 旋擊囂塵卒起遍覆虛空。障日月輪..."
+    },
+    {
+      "path": "T\\T24\\T24n1452.xml",
+      "mentions": 1,
+      "title": "Mūlasarvāstivāda Nidāna Muktaka",
+      "title_zh": "根本說一切有部尼陀那目得迦",
+      "snippet": "...禽獸之類咸悉 持歸。時六眾苾芻為性好樂多食久眠，晨朝 起已瞻視四方，若於人家有火烟起，或於田 野見鳥群翔，即往其處而求飲食。時見鷲鳥 從空飛下，因即相報俱往其處，收..."
+    }
+  ]
+}

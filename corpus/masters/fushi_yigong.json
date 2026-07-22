@@ -1,0 +1,31 @@
+{
+  "master": "Fushi Yigong",
+  "primary_count": 1,
+  "secondary_count": 2,
+  "total_mentions": 4,
+  "primary": [
+    {
+      "path": "J\\J39\\J39nB435.xml",
+      "mentions": 2,
+      "title": "Recorded Sayings of Chan Master Yigong of Fushi",
+      "title_zh": "伏獅義公禪師語錄",
+      "snippet": "伏獅義公禪師語錄序 從來棄榮趨寂，超乎塵世之外，而不為塵世所囿者， 幸皆慷慨英偉之士，賦..."
+    }
+  ],
+  "secondary": [
+    {
+      "path": "J\\J28\\J28nB210.xml",
+      "mentions": 1,
+      "title": "Recorded Sayings of Chan Master Fushi Qiyuan",
+      "title_zh": "伏獅祇園禪師語錄",
+      "snippet": "...院之右。世壽五十 有八，法臘二十有三。嗣法門人：普聞授遠、怡然超宿、 義川超朗、義公超珂、一音超見、古鼎超振、一揆超。 奉教緇白弟子不能悉數，惟寶持、超湛、朗月、明內、..."
+    },
+    {
+      "path": "B\\B35\\B35n0194.xml",
+      "mentions": 1,
+      "title": "General Catalogue of the Chinese Tripiṭaka",
+      "title_zh": "中華大藏經總目錄",
+      "snippet": "431457純備德禪師語錄二卷 432458法幢遠禪師語錄一卷 433459伏獅義公禪師語錄一卷 434460參同一揆禪師語錄一卷 又續第三十八函 435"
+    }
+  ]
+}

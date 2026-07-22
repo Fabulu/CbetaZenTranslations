@@ -1,0 +1,30 @@
+{
+  "master": "Yeomgeo",
+  "primary_count": 0,
+  "secondary_count": 3,
+  "total_mentions": 9,
+  "primary": [],
+  "secondary": [
+    {
+      "path": "B\\B31\\B31n0170.xml",
+      "mentions": 7,
+      "title": "General History of Korean Buddhism",
+      "title_zh": "朝鮮佛教通史",
+      "snippet": "元曉五八義安八〇月明九八朗空一一八。一三四。一六九 安弘六三廣學大緣八六李純九八廉居一二三 智詵一二四璨幽一七五智洗爾二〇六駕洛王七子二〇四 道詵一四七曇諦一八二慧..."
+    },
+    {
+      "path": "X\\X87\\X87n1622.xml",
+      "mentions": 1,
+      "title": "Study of Korean Chan and Teachings",
+      "title_zh": "朝鮮禪教考",
+      "snippet": "源委。 勝佺禪師 和淨國師廉居禪師 迦智山普照禪師 玄光法師"
+    },
+    {
+      "path": "B\\B14\\B14n0085.xml",
+      "mentions": 1,
+      "title": "Annotated Chronological Biography of Master Hanshan",
+      "title_zh": "憨山大師年譜疏註",
+      "snippet": "...也。愚因憨祖譜中．有即泰昌改元五 字．感而識之。○是歲有札示徵往曹溪意．預題譚孝廉居士。 天啟元年辛酉●予七十六歲．夏．為眾請．說楞伽筆記。冬十月．弟子孝廉劉起相．..."
+    }
+  ]
+}
