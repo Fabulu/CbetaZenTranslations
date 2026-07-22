@@ -54,6 +54,20 @@
     "WrittenUtc": "2026-07-19T12:00:00Z"
   },
   {
+    "SourceTerm": "一任牛搏馬踏",
+    "PreferredTarget": "leave him to be butted by oxen and trampled by horses",
+    "AlternateTargets": [
+      "let oxen butt him and horses tread him down"
+    ],
+    "SearchAliases": [
+      "let oxen butt him and horses tread him down"
+    ],
+    "Status": "preferred",
+    "Note": "The violent image is Xutang’s direct answer in one exchange, not a general prescription.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T06:00:00Z"
+  },
+  {
     "SourceTerm": "一任𨁝跳",
     "PreferredTarget": "leave you free to leap about",
     "AlternateTargets": [
@@ -190,7 +204,7 @@
   },
   {
     "SourceTerm": "一切聲是佛聲、一切色是佛色",
-    "PreferredTarget": "all sounds and colors as buddha sound and color",
+    "PreferredTarget": "every sound is buddha-sound and every color is buddha-color",
     "AlternateTargets": [
       "every sound is buddha-sound and every color is buddha-color"
     ],
@@ -293,7 +307,7 @@
   },
   {
     "SourceTerm": "一句合頭語",
-    "PreferredTarget": "one phrase that fits the head",
+    "PreferredTarget": "one perfectly matching phrase",
     "AlternateTargets": [
       "one perfectly matching phrase",
       "a phrase that fits"
@@ -874,6 +888,22 @@
     "Note": "Complete paired handling: one hand raises while the other presses or seizes. Commentators use it for coordinated Chan activity that combines the two sides of responsive action, including killing and giving life.",
     "CreatedBy": "Codex cohort-002 lane-B B071-B080 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
+  },
+  {
+    "SourceTerm": "一把骨頭挑去後。不知明月落誰家",
+    "PreferredTarget": "after this bag of bones is carried away, who knows whose house the moon will fall on?",
+    "AlternateTargets": [
+      "once these bones are borne off, who knows where the moon will alight?"
+    ],
+    "SearchAliases": [
+      "bag of bones carried away",
+      "where will the moon fall",
+      "moon after death"
+    ],
+    "Status": "preferred",
+    "Note": "This single exact occurrence belongs to Xutang's appraisal of the moon-viewing case and remains provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T10:30:00Z"
   },
   {
     "SourceTerm": "一拳拳倒黃鶴樓，一踢踢翻鸚鵡洲",
@@ -1458,6 +1488,21 @@
     "WrittenUtc": "2026-07-19T05:03:44.708020Z"
   },
   {
+    "SourceTerm": "一等家風",
+    "PreferredTarget": "one and the same house style",
+    "AlternateTargets": [
+      "the same household manner"
+    ],
+    "SearchAliases": [
+      "same house style",
+      "one family style"
+    ],
+    "Status": "preferred",
+    "Note": "The exact phrase is retained from one address and is not generalized beyond Beijian's stated pairing.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T06:05:00Z"
+  },
+  {
     "SourceTerm": "一箇半箇",
     "PreferredTarget": "one or half a person",
     "AlternateTargets": [
@@ -1670,7 +1715,7 @@
     "SourceTerm": "一翳在眼、空華亂墜",
     "PreferredTarget": "one film over the eye, empty flowers falling everywhere",
     "AlternateTargets": [
-      "one eye-film; awild fall of empty flowers"
+      "one eye-film; a wild fall of empty flowers"
     ],
     "SearchAliases": [
       "film over the eye",
@@ -2099,9 +2144,7 @@
   {
     "SourceTerm": "丁一卓二",
     "PreferredTarget": "stating one as one and two as two",
-    "AlternateTargets": [
-      "stating one as one and two as two"
-    ],
+    "AlternateTargets": [],
     "SearchAliases": [
       "one as one",
       "two as two"
@@ -2212,7 +2255,7 @@
   },
   {
     "SourceTerm": "七穿八穴",
-    "PreferredTarget": "piercing seven times and eight holes",
+    "PreferredTarget": "seven piercings and eight holes",
     "AlternateTargets": [
       "seven penetrations eight openings",
       "through everywhere"
@@ -2297,6 +2340,20 @@
     "Note": "Wave-plan frequency: 373. Searches covered the grass reversal, refuse-heap placement, direct interview question, verse deployment, and the family terms a single blade of grass (一莖草), golden body (金身), buddha-body (佛身), and buddha (佛). One referent—the monumental golden buddha-body—appears in all deployments; comparisons do not create senses.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
+  },
+  {
+    "SourceTerm": "丈夫自有衝天氣，不向如來行處行",
+    "PreferredTarget": "a true man has energy that surges to the sky and does not walk where the Tathagata walked",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "spirit surging to heaven",
+      "not walk in the Tathagata’s tracks",
+      "a true man’s sky-piercing force"
+    ],
+    "Status": "preferred",
+    "Note": "The line refuses borrowed tracks in Changlu’s address; it does not deny that the Tathagata appears elsewhere in the record.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T21:40:07.942668Z"
   },
   {
     "SourceTerm": "丈室",
@@ -2392,6 +2449,20 @@
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
   {
+    "SourceTerm": "三十年弄馬伎。今日却被驢撲",
+    "PreferredTarget": "thirty years showing horse tricks, today thrown by a donkey",
+    "AlternateTargets": [
+      "thirty years playing horseman, only to be thrown by a donkey today"
+    ],
+    "SearchAliases": [
+      "thirty years playing horseman, only to be thrown by a donkey today"
+    ],
+    "Status": "preferred",
+    "Note": "The animals mark the reversal in this exchange, not a general hierarchy of mounts.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T12:00:00Z"
+  },
+  {
     "SourceTerm": "三十年後",
     "PreferredTarget": "thirty years later",
     "AlternateTargets": [
@@ -2442,6 +2513,20 @@
     "WrittenUtc": "2026-07-20T19:00:00Z"
   },
   {
+    "SourceTerm": "三叉路口少人知",
+    "PreferredTarget": "few people know the three-way crossroads",
+    "AlternateTargets": [
+      "at the three-forked road, few know"
+    ],
+    "SearchAliases": [
+      "at the three-forked road, few know"
+    ],
+    "Status": "preferred",
+    "Note": "The saying is one direct answer in Xutang’s record and remains provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T06:00:00Z"
+  },
+  {
     "SourceTerm": "三句",
     "PreferredTarget": "three phrases (an unspecified triad)",
     "AlternateTargets": [
@@ -2471,6 +2556,20 @@
     "Note": "Four selected witnesses transmit Yunmen's food-and-self exchange; Changqing's rock-owner answer is independent and prevents treating every use as Yunmen's epithet.",
     "CreatedBy": "Codex cohort-002 lane-B B141-B150 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
+  },
+  {
+    "SourceTerm": "三家村裏省事漢",
+    "PreferredTarget": "an untroubled fellow from a three-house village",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "village fellow with fewer troubles",
+      "simple village man",
+      "three-house-village fellow"
+    ],
+    "Status": "preferred",
+    "Note": "The two texts use the village figure as a contrast for needless complication; they do not identify a particular villager.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T21:38:02.199055Z"
   },
   {
     "SourceTerm": "三寸",
@@ -3056,6 +3155,36 @@
     "WrittenUtc": "2026-07-19T02:45:00Z"
   },
   {
+    "SourceTerm": "上無片瓦蓋頭。下無寸土立足",
+    "PreferredTarget": "above, not a single roof tile covers the head, while below not an inch of earth supports the feet",
+    "AlternateTargets": [
+      "no roof tile overhead and no inch of ground underfoot"
+    ],
+    "SearchAliases": [
+      "no roof over the head",
+      "no ground underfoot",
+      "without a place to stand"
+    ],
+    "Status": "preferred",
+    "Note": "The two records preserve the same Jiaoshan address, so the entry is provisional despite two textual witnesses.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T22:20:00Z"
+  },
+  {
+    "SourceTerm": "上通霄漢",
+    "PreferredTarget": "reaching upward to the River of Heaven",
+    "AlternateTargets": [
+      "it reaches upward through the Milky Way"
+    ],
+    "SearchAliases": [
+      "it reaches upward through the Milky Way"
+    ],
+    "Status": "preferred",
+    "Note": "This attested upward-reach component has an understood subject supplied by its sentence. The paired downward clause is outside the registered identity.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T07:15:00Z"
+  },
+  {
     "SourceTerm": "下喬木、入幽谷",
     "PreferredTarget": "to descend from a tall tree and enter a secluded valley",
     "AlternateTargets": [],
@@ -3310,6 +3439,22 @@
     "WrittenUtc": "2026-07-18T20:17:47Z"
   },
   {
+    "SourceTerm": "不受信心人衣",
+    "PreferredTarget": "do not accept clothing from people of faith",
+    "AlternateTargets": [
+      "rather refuse a faithful donor’s clothing"
+    ],
+    "SearchAliases": [
+      "refuse donor clothing",
+      "faithful people’s robes",
+      "hot iron rather than undeserved clothes"
+    ],
+    "Status": "preferred",
+    "Note": "Xutang Zhiyu, Wu’an Puning, and Gulin Qingmao give the inherited warning three distinct public uses.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T01:00:00Z"
+  },
+  {
     "SourceTerm": "不可向虚空裏釘橛",
     "PreferredTarget": "do not drive a peg into empty space",
     "AlternateTargets": [
@@ -3375,7 +3520,7 @@
   },
   {
     "SourceTerm": "不因一事、不長一智",
-    "PreferredTarget": "without undergoing one affair, one wisdom does not grow",
+    "PreferredTarget": "without undergoing one affair, one's wisdom does not grow",
     "AlternateTargets": [],
     "SearchAliases": [
       "without undergoing one affair, one wisdom does not grow"
@@ -3412,6 +3557,35 @@
     "Note": "The records preserve the conditional couplet as a concluding question after a preceding case, challenge, or appraisal; they do not separately gloss the purple road or the oriole.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T22:25:00Z"
+  },
+  {
+    "SourceTerm": "不在河南。正在河北",
+    "PreferredTarget": "not in Henan, but right in Hebei",
+    "AlternateTargets": [
+      "not south of the Yellow River, but directly north of it"
+    ],
+    "SearchAliases": [
+      "not in Henan but in Hebei",
+      "south and north of the Yellow River"
+    ],
+    "Status": "preferred",
+    "Note": "The complete geographical contrast is preserved as Yuanwu Keqin's wording in one work.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T10:45:00Z"
+  },
+  {
+    "SourceTerm": "不堪持贈君",
+    "PreferredTarget": "cannot be taken and given to you",
+    "AlternateTargets": [
+      "cannot be presented to another"
+    ],
+    "SearchAliases": [
+      "cannot be presented to another"
+    ],
+    "Status": "preferred",
+    "Note": "The component often closes an inherited couplet, but the governed entry does not expand its identity to include that first line.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:20:00Z"
   },
   {
     "SourceTerm": "不壞",
@@ -3490,7 +3664,7 @@
   },
   {
     "SourceTerm": "不存軌則",
-    "PreferredTarget": "not preserve rules",
+    "PreferredTarget": "keep no fixed rules",
     "AlternateTargets": [
       "keep no fixed rule",
       "retain no established pattern"
@@ -4049,6 +4223,20 @@
     "WrittenUtc": "2026-07-21T20:54:37.138033Z"
   },
   {
+    "SourceTerm": "不逢出世明師、枉服大乘法藥",
+    "PreferredTarget": "without meeting a discerning teacher who has appeared in the world, one takes the Great Vehicle’s medicine in vain",
+    "AlternateTargets": [
+      "if one does not meet a clear teacher in the world, the Great Vehicle medicine is swallowed for nothing"
+    ],
+    "SearchAliases": [
+      "if one does not meet a clear teacher in the world, the Great Vehicle medicine is swallowed for nothing"
+    ],
+    "Status": "preferred",
+    "Note": "The medicine is Baozhi’s comparison for the teaching in this quoted line; the entry does not turn it into a physical remedy.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T07:15:00Z"
+  },
+  {
     "SourceTerm": "不風流處也風流",
     "PreferredTarget": "elegant even where there is no elegance",
     "AlternateTargets": [
@@ -4119,7 +4307,7 @@
     "PreferredTarget": "now say!",
     "AlternateTargets": [
       "tell me then",
-      "you say, then",
+      "you say",
       "just say",
       "say it"
     ],
@@ -4427,6 +4615,20 @@
     "WrittenUtc": "2026-07-15T15:15:00Z"
   },
   {
+    "SourceTerm": "久旱逢初雨、他郷遇舊知",
+    "PreferredTarget": "after long drought, the first rain; in a foreign place, an old acquaintance",
+    "AlternateTargets": [
+      "rain after drought, an old friend far from home"
+    ],
+    "SearchAliases": [
+      "rain after drought, an old friend far from home"
+    ],
+    "Status": "preferred",
+    "Note": "The lamp parallel is retained as a distinct attributed formulation, while the duplicated Yangqi recension is excluded.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:00:00Z"
+  },
+  {
     "SourceTerm": "久貧乍富",
     "PreferredTarget": "long poor, suddenly rich",
     "AlternateTargets": [],
@@ -4623,7 +4825,7 @@
   },
   {
     "SourceTerm": "亂呈懞袋",
-    "PreferredTarget": "confusedly display a muddle-bag",
+    "PreferredTarget": "spill out a muddle-bag",
     "AlternateTargets": [
       "spill out a sack of confusion"
     ],
@@ -4972,6 +5174,18 @@
     "WrittenUtc": "2026-07-15T16:55:00Z"
   },
   {
+    "SourceTerm": "五臺山上雲蒸飯。古佛堂前狗尿天",
+    "PreferredTarget": "on Mount Wutai clouds steam rice, while before the old-buddha hall a dog urinates at heaven",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "clouds steam rice on Mount Wutai; a dog pisses at the sky before the old-buddha hall"
+    ],
+    "Status": "preferred",
+    "Note": "The retained evidence is Dongshan Shouchu’s verse as Yuanwu Keqin quotes it in his mud-buddha discussion.",
+    "CreatedBy": "Codex regular-vetted Iriya release005 lane C",
+    "WrittenUtc": "2026-07-22T00:00:00Z"
+  },
+  {
     "SourceTerm": "五逆聞雷",
     "PreferredTarget": "the five heinous offenders hearing thunder",
     "AlternateTargets": [],
@@ -5185,6 +5399,22 @@
     "WrittenUtc": "2026-07-18T15:05:00+02:00"
   },
   {
+    "SourceTerm": "人從陳州來。却往許州去",
+    "PreferredTarget": "someone comes from Chenzhou, yet goes off toward Xuzhou",
+    "AlternateTargets": [
+      "a person arriving from Chenzhou heads instead for Xuzhou"
+    ],
+    "SearchAliases": [
+      "Chenzhou to Xuzhou",
+      "coming from one prefecture going to another",
+      "Yuanwu’s crossed directions"
+    ],
+    "Status": "preferred",
+    "Note": "The geographical line is retained as one verse turn; it is not evidence about ordinary travel between the two prefectures.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T01:00:00Z"
+  },
+  {
     "SourceTerm": "人心",
     "PreferredTarget": "the human mind",
     "AlternateTargets": [
@@ -5219,9 +5449,7 @@
   {
     "SourceTerm": "人無遠慮、必有近憂",
     "PreferredTarget": "without long foresight, near trouble follows",
-    "AlternateTargets": [
-      "without long foresight, near trouble follows"
-    ],
+    "AlternateTargets": [],
     "SearchAliases": [
       "long foresight",
       "near trouble"
@@ -5230,6 +5458,20 @@
     "Note": "The proverb makes delayed consequences the point: failure to look far ahead leaves trouble already close. Zhenru turns it against fixation on Xuedou; Shouzhuo and Zuzhen use it as dialogue answers; Chushi Fanqi sends refined gold back to the furnace.",
     "CreatedBy": "Codex A31-40 strict author",
     "WrittenUtc": "2026-07-19T09:00:00Z"
+  },
+  {
+    "SourceTerm": "人生不滿百、常懷千載憂",
+    "PreferredTarget": "human life does not fill a hundred years, yet it constantly harbors a thousand years of worry",
+    "AlternateTargets": [
+      "a person lives less than a hundred years but carries anxieties for a thousand"
+    ],
+    "SearchAliases": [
+      "a person lives less than a hundred years but carries anxieties for a thousand"
+    ],
+    "Status": "preferred",
+    "Note": "The verse lists several objects of worry; the headword itself does not say that every long concern is mistaken.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T07:15:00Z"
   },
   {
     "SourceTerm": "人面不知何處去、桃花依舊笑春風",
@@ -5382,6 +5624,22 @@
     "Note": "Yuanwu, Lingrui Kuifu, and Yuejiang each raise Lang’s spilled-kettle case; the later comments test whether his proverb recovered the encounter.",
     "CreatedBy": "Codex regular vetted Iriya release 002 lane A author",
     "WrittenUtc": "2026-07-21T19:52:49.361468+00:00"
+  },
+  {
+    "SourceTerm": "他弓莫挽他馬莫騎",
+    "PreferredTarget": "do not draw another's bow or ride another's horse",
+    "AlternateTargets": [
+      "do not pull another's bow; do not mount another's horse"
+    ],
+    "SearchAliases": [
+      "another person's bow",
+      "another person's horse",
+      "do not ride another's horse"
+    ],
+    "Status": "preferred",
+    "Note": "The same verse circulates in two works; the named Wumen witness does not establish a second independent use.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T22:20:00Z"
   },
   {
     "SourceTerm": "他是阿誰",
@@ -5601,6 +5859,22 @@
     "WrittenUtc": "2026-07-20T12:00:00Z"
   },
   {
+    "SourceTerm": "以百億日月為一筵燈燭",
+    "PreferredTarget": "make a hundred billion suns and moons the lamps and candles for one feast",
+    "AlternateTargets": [
+      "a hundred billion suns and moons as one banquet’s lights"
+    ],
+    "SearchAliases": [
+      "suns and moons as banquet lamps",
+      "cosmic memorial offering",
+      "hundred billion lamps"
+    ],
+    "Status": "preferred",
+    "Note": "The two records preserve Xuefeng Huikong’s same memorial address, so the entry is provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T22:20:00Z"
+  },
+  {
     "SourceTerm": "以鰕爲目",
     "PreferredTarget": "use the shrimp as one’s eyes",
     "AlternateTargets": [],
@@ -5809,7 +6083,7 @@
   },
   {
     "SourceTerm": "低低處平之有餘，高高處觀之不足",
-    "PreferredTarget": "at the lowest point it is more than level, and at the highest point it is still insufficient to view",
+    "PreferredTarget": "at its lowest it is more than level, and at its highest it is still not high enough to see over",
     "AlternateTargets": [],
     "SearchAliases": [
       "at the lowest point it is more than level, and at the highest point it is still insufficient to view"
@@ -6652,6 +6926,20 @@
     "WrittenUtc": "2026-07-18T20:50:52Z"
   },
   {
+    "SourceTerm": "來風可鑑",
+    "PreferredTarget": "the approaching wind can be discerned",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "recognize the incoming wind",
+      "the wind that comes can be judged",
+      "discern what is approaching"
+    ],
+    "Status": "preferred",
+    "Note": "The two exchanges support recognition from what approaches. They do not turn wind into a separate teaching or substance.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T21:49:23.397715Z"
+  },
+  {
     "SourceTerm": "來風深辨",
     "PreferredTarget": "discern deeply from the way it comes",
     "AlternateTargets": [
@@ -6959,7 +7247,7 @@
   },
   {
     "SourceTerm": "信手拈來",
-    "PreferredTarget": "pick it up readily to hand",
+    "PreferredTarget": "comes readily to hand",
     "AlternateTargets": [],
     "SearchAliases": [
       "draw on it effortlessly"
@@ -7279,6 +7567,20 @@
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
   },
   {
+    "SourceTerm": "偏正未曽離本位、無生豈渉語因縁",
+    "PreferredTarget": "relative and absolute have never left the root position, and the unborn has nothing to do with verbal conditions",
+    "AlternateTargets": [
+      "partial and complete never depart from the original position; the unborn does not enter verbal relations"
+    ],
+    "SearchAliases": [
+      "partial and complete never depart from the original position; the unborn does not enter verbal relations"
+    ],
+    "Status": "preferred",
+    "Note": "The couplet is Lingyin Xing’s answer inside Huihui’s travel record; Huihui is the questioner and later narrator, not its utterer.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T06:00:00Z"
+  },
+  {
     "SourceTerm": "偏空",
     "PreferredTarget": "one-sided emptiness",
     "AlternateTargets": [],
@@ -7321,6 +7623,20 @@
     "Note": "Dahui Zonggao, Xuedou Chongxian, and other speakers use it as a verdict after an explanation, answer, or delayed response has continued past the point at issue. Exact-turn review keeps quotations and record headings separate.",
     "CreatedBy": "iriya-construction-001 lane B",
     "WrittenUtc": "2026-07-18T08:15:50.916673Z"
+  },
+  {
+    "SourceTerm": "偸佛錢、買佛香",
+    "PreferredTarget": "steal the Buddha's money to buy incense for the Buddha",
+    "AlternateTargets": [
+      "steal temple funds to purchase temple incense"
+    ],
+    "SearchAliases": [
+      "steal temple funds to purchase temple incense"
+    ],
+    "Status": "preferred",
+    "Note": "The four records preserve one inherited exchange, so only one recension is retained.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:00:00Z"
   },
   {
     "SourceTerm": "傅大士",
@@ -8110,6 +8426,18 @@
     "WrittenUtc": "2026-07-19T13:41:07.848387+00:00"
   },
   {
+    "SourceTerm": "入水不溺",
+    "PreferredTarget": "enter water without drowning",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "go into water without drowning"
+    ],
+    "Status": "preferred",
+    "Note": "Parallel recensions were collapsed; the retained passages preserve distinct questions, assertions, and reversals without promoting the authority verdict.",
+    "CreatedBy": "Codex regular-vetted Iriya release005 lane C",
+    "WrittenUtc": "2026-07-22T00:00:00Z"
+  },
+  {
     "SourceTerm": "入水入泥",
     "PreferredTarget": "enter water and enter mud",
     "AlternateTargets": [
@@ -8199,6 +8527,20 @@
     "Note": "Hongzhi Zhengjue twice contrasts the category with Muzhou’s house arrangements; Wumen Huikai and Jiangshan Huiqin criticize it in addresses; Jiashan Shanhui ranks his own deep discussion behind Shishuang.",
     "CreatedBy": "Codex Iriya Lane B B081-B084 full-case author",
     "WrittenUtc": "2026-07-19T03:32:59.683682+00:00"
+  },
+  {
+    "SourceTerm": "入石三分",
+    "PreferredTarget": "three-tenths deep into the stone",
+    "AlternateTargets": [
+      "three fen into the stone"
+    ],
+    "SearchAliases": [
+      "three fen into the stone"
+    ],
+    "Status": "preferred",
+    "Note": "Because masters apply the idiom in several settings, the gloss preserves depth and force without assigning one fixed referent.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T02:30:00Z"
   },
   {
     "SourceTerm": "入鄽垂手",
@@ -9072,6 +9414,36 @@
     "WrittenUtc": "2026-07-18T23:55:00Z"
   },
   {
+    "SourceTerm": "冰凌上行",
+    "PreferredTarget": "walk on sheet ice",
+    "AlternateTargets": [
+      "going across ice"
+    ],
+    "SearchAliases": [
+      "walking on ice",
+      "tread sheet ice",
+      "ice underfoot"
+    ],
+    "Status": "preferred",
+    "Note": "The image marks precarious footing; its uses differ in appraisal, but they do not name different objects.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T10:30:00Z"
+  },
+  {
+    "SourceTerm": "冷侵侵地",
+    "PreferredTarget": "piercingly cold",
+    "AlternateTargets": [
+      "cold through and through"
+    ],
+    "SearchAliases": [
+      "cold through and through"
+    ],
+    "Status": "preferred",
+    "Note": "The expression is a single predicative answer in Baofu’s recorded exchange and remains provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T06:00:00Z"
+  },
+  {
     "SourceTerm": "冷噤噤地",
     "PreferredTarget": "shivering into fearful silence",
     "AlternateTargets": [
@@ -9328,9 +9700,9 @@
     "SourceTerm": "函蓋乾坤",
     "PreferredTarget": "a box and lid fitting, covering heaven and earth",
     "AlternateTargets": [
-      "box and lid, heaven and earth",
-      "lid matching box — heaven and earth",
-      "the case-and-cover, heaven-and-earth"
+      "box and lid covering heaven and earth",
+      "lid fitting the box across heaven and earth",
+      "case and cover encompassing the cosmos"
     ],
     "SearchAliases": [
       "box and lid, heaven and earth",
@@ -9372,6 +9744,20 @@
     "Note": "The words describe resistance to cutting, but the corpus bends that image in opposite evaluative directions; hardness alone is therefore not a verdict of attainment.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T18:45:00Z"
+  },
+  {
+    "SourceTerm": "刀瘡易沒、惡語難消",
+    "PreferredTarget": "a knife wound easily closes, but hurtful words are hard to erase",
+    "AlternateTargets": [
+      "a blade wound readily heals; cruel words are hard to dispel"
+    ],
+    "SearchAliases": [
+      "a blade wound readily heals; cruel words are hard to dispel"
+    ],
+    "Status": "preferred",
+    "Note": "The paired proverb functions as Xutang’s answer about the force of a final word, not as medical advice.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T06:00:00Z"
   },
   {
     "SourceTerm": "刁刀相似、魚魯參差",
@@ -9623,6 +10009,22 @@
     "WrittenUtc": "2026-07-20T19:00:00Z"
   },
   {
+    "SourceTerm": "刮皮見骨",
+    "PreferredTarget": "scrape away the skin and expose the bone",
+    "AlternateTargets": [
+      "scrape off the skin to see the bone"
+    ],
+    "SearchAliases": [
+      "strip skin to bone",
+      "expose the bone",
+      "scraping away the surface"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase is retained from one direct exchange and is provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T00:15:00Z"
+  },
+  {
     "SourceTerm": "到家",
     "PreferredTarget": "to reach home or mastery",
     "AlternateTargets": [
@@ -9693,6 +10095,20 @@
     "WrittenUtc": "2026-07-19T16:28:32.558028Z"
   },
   {
+    "SourceTerm": "刺破你眼睛",
+    "PreferredTarget": "it pierces your eyes",
+    "AlternateTargets": [
+      "the raised whisk pierces your eyes"
+    ],
+    "SearchAliases": [
+      "the raised whisk pierces your eyes"
+    ],
+    "Status": "preferred",
+    "Note": "Zhikongyun is the utterer and performs the displayed action by raising the whisk; the whisk supplies the implied subject of 刺破, so the reply is declarative rather than an imperative to the questioner.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T13:30:00Z"
+  },
+  {
     "SourceTerm": "刺腦入膠盆",
     "PreferredTarget": "plunge head-first into a glue pot",
     "AlternateTargets": [
@@ -9740,6 +10156,36 @@
     "WrittenUtc": "2026-07-15T05:09:02.950859+00:00"
   },
   {
+    "SourceTerm": "削圓方竹杖。鞔却紫茸氈",
+    "PreferredTarget": "shave a round bamboo staff square and cover it with purple felt",
+    "AlternateTargets": [
+      "square a round bamboo staff and cover it with purple felt"
+    ],
+    "SearchAliases": [
+      "square bamboo staff",
+      "purple felt on a staff",
+      "shave round bamboo square"
+    ],
+    "Status": "preferred",
+    "Note": "Dahui’s portrait verse and Xutang’s hall address are independent uses.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T22:20:00Z"
+  },
+  {
+    "SourceTerm": "剋尤叵耐",
+    "PreferredTarget": "especially intolerable",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "quite unbearable",
+      "really insufferable",
+      "particularly hard to abide"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase is an encounter verdict in this case, not a neutral measure of physical endurance.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T21:38:19.706714Z"
+  },
+  {
     "SourceTerm": "前三三、後三三",
     "PreferredTarget": "three before, three after",
     "AlternateTargets": [],
@@ -9783,7 +10229,7 @@
   },
   {
     "SourceTerm": "前箭猶輕後箭深",
-    "PreferredTarget": "the deeper later arrow",
+    "PreferredTarget": "the first arrow was light, the later arrow goes deep",
     "AlternateTargets": [
       "the first arrow is still light; the later arrow goes deep"
     ],
@@ -10536,7 +10982,7 @@
   },
   {
     "SourceTerm": "十方薄伽梵、一路涅槃門",
-    "PreferredTarget": "the honored ones of the ten directions enter by the single road of the nirvana gate",
+    "PreferredTarget": "the honored ones of the ten directions; the single road of the nirvana gate",
     "AlternateTargets": [],
     "SearchAliases": [
       "the honored ones of the ten directions; the single road of the nirvana gate"
@@ -10756,9 +11202,7 @@
   {
     "SourceTerm": "千年田、八百主",
     "PreferredTarget": "a thousand-year field with eight hundred owners",
-    "AlternateTargets": [
-      "a thousand-year field with eight hundred owners"
-    ],
+    "AlternateTargets": [],
     "SearchAliases": [
       "ancient field",
       "many owners"
@@ -10796,6 +11240,35 @@
     "Note": "The Zen deviation is the invoked figure's deployment as a recurring public-interview question and as a designation applied to a raised teaching-seat implement. “The thousand hands and eyes” (千手眼), “Great Compassion’s thousand hands and eyes” (大悲千手眼), and “the hundred-thousand hands and eyes” (百千手眼) retain one figure/image across noun phrase, question, verse, and demonstration, so no split is warranted.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
+  },
+  {
+    "SourceTerm": "千江同一月",
+    "PreferredTarget": "the same moon in a thousand rivers",
+    "AlternateTargets": [
+      "one moon reflected in a thousand rivers"
+    ],
+    "SearchAliases": [
+      "one moon reflected in a thousand rivers"
+    ],
+    "Status": "preferred",
+    "Note": "The image can mark shared illumination or undivided identity; the retained cases do not make every reflected appearance identical in circumstance.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T02:30:00Z"
+  },
+  {
+    "SourceTerm": "千江同一月，萬戶盡逢春",
+    "PreferredTarget": "one moon in a thousand rivers, with every household meeting spring",
+    "AlternateTargets": [
+      "a thousand rivers share one moon, and every household encounters spring"
+    ],
+    "SearchAliases": [
+      "one moon across a thousand rivers",
+      "spring reaches every household"
+    ],
+    "Status": "preferred",
+    "Note": "Three independent uses are retained; later lamp records repeat Longguang's same answer.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T12:00:00Z"
   },
   {
     "SourceTerm": "千江有水千江月、萬里無雲萬里天",
@@ -10906,6 +11379,22 @@
     "WrittenUtc": "2026-07-19T17:13:59.466297Z"
   },
   {
+    "SourceTerm": "半夜日頭明",
+    "PreferredTarget": "at midnight the sun shines",
+    "AlternateTargets": [
+      "the sun is bright at midnight"
+    ],
+    "SearchAliases": [
+      "midnight sun shines",
+      "sunlight at midnight",
+      "daylight in the night"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase is an impossible-time image in answers and hall verses; the evidence does not turn it into a general theory of light.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T10:30:00Z"
+  },
+  {
     "SourceTerm": "半開半合",
     "PreferredTarget": "half open and half closed",
     "AlternateTargets": [],
@@ -10920,9 +11409,7 @@
   {
     "SourceTerm": "半隻眼",
     "PreferredTarget": "half an eye",
-    "AlternateTargets": [
-      "half an eye"
-    ],
+    "AlternateTargets": [],
     "SearchAliases": [
       "half an eye"
     ],
@@ -11448,7 +11935,7 @@
     "SourceTerm": "參禪",
     "PreferredTarget": "investigate Chan",
     "AlternateTargets": [
-      "pursuit Chan inquiry",
+      "pursue Chan inquiry",
       "engage in Chan investigation"
     ],
     "SearchAliases": [
@@ -11539,6 +12026,20 @@
     "Note": "All stored witnesses were read as complete units; storage files were collapsed to independent work identities.",
     "CreatedBy": "Codex f004 lane C early-sample author",
     "WrittenUtc": "2026-07-15T11:30:22.365371+00:00"
+  },
+  {
+    "SourceTerm": "取箇眼兮耳必聾、捨箇耳兮目雙瞽",
+    "PreferredTarget": "take the eye and the ear must go deaf, while giving up the ear leaves both eyes blind",
+    "AlternateTargets": [
+      "choose the eye and lose hearing; abandon the ear and lose both eyes"
+    ],
+    "SearchAliases": [
+      "choose the eye and lose hearing; abandon the ear and lose both eyes"
+    ],
+    "Status": "preferred",
+    "Note": "Eye and ear remain the verse’s concrete alternatives; Yuanwu’s comment supports the no-choice contrast without licensing an external sensory theory.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T07:15:00Z"
   },
   {
     "SourceTerm": "受人處分",
@@ -11684,6 +12185,34 @@
     "WrittenUtc": "2026-07-18T17:27:34Z"
   },
   {
+    "SourceTerm": "口欲談而辭喪",
+    "PreferredTarget": "the mouth would speak, but words are lost",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "wanting to speak, one loses the words",
+      "the mouth tries to speak and speech fails",
+      "words fail when the mouth would speak"
+    ],
+    "Status": "preferred",
+    "Note": "The headword is Chen’s answer, not Yunmen’s conclusion. Yunmen’s follow-up makes the pair itself an object of public examination rather than leaving it as an unquestioned maxim.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T22:24:22.176127Z"
+  },
+  {
+    "SourceTerm": "古今無二路，達者共同途",
+    "PreferredTarget": "ancient and present have no second road, and those who arrive share one course",
+    "AlternateTargets": [
+      "there are not two roads in past and present, for those who reach it travel together"
+    ],
+    "SearchAliases": [
+      "ancient present one road"
+    ],
+    "Status": "preferred",
+    "Note": "The couplet occurs in this one hall verse and remains provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T01:30:00Z"
+  },
+  {
     "SourceTerm": "古佛",
     "PreferredTarget": "an ancient buddha",
     "AlternateTargets": [
@@ -11810,6 +12339,22 @@
     "WrittenUtc": "2026-07-21T00:30:00Z"
   },
   {
+    "SourceTerm": "句中有眼。言外有意",
+    "PreferredTarget": "an eye within the phrase, an intent beyond the words",
+    "AlternateTargets": [
+      "the phrase has an eye; the intent lies beyond its words"
+    ],
+    "SearchAliases": [
+      "eye in the phrase",
+      "meaning beyond words",
+      "intent outside the words"
+    ],
+    "Status": "preferred",
+    "Note": "The surviving exact occurrence is Yuanwu's instruction about how to meet a saying, so the entry remains provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T10:30:00Z"
+  },
+  {
     "SourceTerm": "句作麼生道",
     "PreferredTarget": "how would you state the line?",
     "AlternateTargets": [],
@@ -11928,6 +12473,18 @@
     "WrittenUtc": "2026-07-19T18:45:00Z"
   },
   {
+    "SourceTerm": "只緣步驟太過。不覺通身泥水",
+    "PreferredTarget": "only because his pace was too hasty, he did not notice his whole body in mud and water",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "only because his pace was too hasty, he did not notice his whole body in mud and water"
+    ],
+    "Status": "preferred",
+    "Note": "Xutang’s record supplies the sole exact use of this complete judgment.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T00:00:00Z"
+  },
+  {
     "SourceTerm": "只見一邊",
     "PreferredTarget": "see only one side",
     "AlternateTargets": [],
@@ -11967,6 +12524,22 @@
     "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
+  },
+  {
+    "SourceTerm": "可憐無限傷春意，盡在停針不語時",
+    "PreferredTarget": "all the sorrow for spring lies in stopping the needle without a word",
+    "AlternateTargets": [
+      "endless spring sorrow in the silent, halted needle"
+    ],
+    "SearchAliases": [
+      "stopping the embroidery needle",
+      "silent spring sorrow",
+      "needle stopped without words"
+    ],
+    "Status": "preferred",
+    "Note": "Three lamp collections preserve the same Tang Zhongren address; they are textual witnesses to one deployment.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T22:20:00Z"
   },
   {
     "SourceTerm": "可憐無限弄潮人、畢竟還落潮中死",
@@ -12269,7 +12842,7 @@
   },
   {
     "SourceTerm": "向上",
-    "PreferredTarget": "the further-up register",
+    "PreferredTarget": "the further-up sense",
     "AlternateTargets": [
       "up beyond",
       "the upward",
@@ -12421,6 +12994,34 @@
     "WrittenUtc": "2026-07-19T01:40:00Z"
   },
   {
+    "SourceTerm": "向下文長赴在來日",
+    "PreferredTarget": "what follows is lengthy and will be taken up tomorrow",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the rest is long, continue tomorrow",
+      "further text awaits tomorrow",
+      "take up the long remainder tomorrow"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase is a postponement formula in Muzhou’s exchanges. The source does not preserve the promised continuation as a separate next-day discourse.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T21:49:41.877821Z"
+  },
+  {
+    "SourceTerm": "向南看北斗",
+    "PreferredTarget": "face south and look at the Northern Dipper",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "look south for the Northern Dipper",
+      "turn south to see the Big Dipper",
+      "southward view of the Northern Dipper"
+    ],
+    "Status": "preferred",
+    "Note": "Both records preserve the same reversed orientation. The entry reports that reversal and does not supply an unstated solution to it.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T21:49:25.786881Z"
+  },
+  {
     "SourceTerm": "君向瀟湘我向秦",
     "PreferredTarget": "you head toward Xiaoxiang, while I head toward Qin",
     "AlternateTargets": [],
@@ -12508,6 +13109,20 @@
     "Note": "Ten exact appearances survive in eight works; the retained answer, cap, list item, and reply all preserve the palace-capital mismatch.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T12:00:00Z"
+  },
+  {
+    "SourceTerm": "含血噴人",
+    "PreferredTarget": "to spit blood at someone",
+    "AlternateTargets": [
+      "to spray another person with blood"
+    ],
+    "SearchAliases": [
+      "spit blood at another"
+    ],
+    "Status": "preferred",
+    "Note": "Three independent records retain the same reflexive consequence, not merely the two-character act of spitting.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:00:00Z"
   },
   {
     "SourceTerm": "吹網欲滿",
@@ -12636,7 +13251,6 @@
     "SourceTerm": "命根",
     "PreferredTarget": "the life-root",
     "AlternateTargets": [
-      "the life-root",
       "the root of one's life"
     ],
     "SearchAliases": [
@@ -12734,7 +13348,7 @@
   },
   {
     "SourceTerm": "和尚家風",
-    "PreferredTarget": "the person named in the retained encounter's house style",
+    "PreferredTarget": "the named abbot's house style",
     "AlternateTargets": [],
     "SearchAliases": [
       "the person named in the retained encounter's characteristic style"
@@ -12743,6 +13357,20 @@
     "Note": "A stable encounter question whose answers are deployments.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T00:00:00Z"
+  },
+  {
+    "SourceTerm": "和氣兆豐年",
+    "PreferredTarget": "harmonious weather foretells a plentiful year",
+    "AlternateTargets": [
+      "seasonal harmony promises an abundant year"
+    ],
+    "SearchAliases": [
+      "seasonal harmony promises an abundant year"
+    ],
+    "Status": "preferred",
+    "Note": "This limit follows the case itself: Asked for a response to the emperor’s prayer for auspicious snow, Xutang Zhiyu says harmonious weather foretells a plentiful year.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T13:30:00Z"
   },
   {
     "SourceTerm": "和泥合水",
@@ -13167,6 +13795,20 @@
     "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
   },
   {
+    "SourceTerm": "善因招善果，種穀不生豆",
+    "PreferredTarget": "a good cause brings a good result, and sowing grain does not produce beans",
+    "AlternateTargets": [
+      "good causes summon good results; plant grain and beans do not grow"
+    ],
+    "SearchAliases": [
+      "good cause good result grain beans"
+    ],
+    "Status": "preferred",
+    "Note": "The complete couplet occurs in this one recorded court sermon and remains provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:00:00Z"
+  },
+  {
     "SourceTerm": "善為道路",
     "PreferredTarget": "take good care on the road",
     "AlternateTargets": [],
@@ -13177,6 +13819,22 @@
     "Note": "A conventional farewell is repeatedly made the exact answer or disputed saying in a Chan encounter.",
     "CreatedBy": "Codex cohort-002 lane-A 101-110 full-case author",
     "WrittenUtc": "2026-07-19T04:37:25.426691Z"
+  },
+  {
+    "SourceTerm": "善獅子吼",
+    "PreferredTarget": "well able to roar the lion's roar",
+    "AlternateTargets": [
+      "a true lion cub roars well"
+    ],
+    "SearchAliases": [
+      "lion's roar",
+      "true lion cub",
+      "roar like a lion"
+    ],
+    "Status": "preferred",
+    "Note": "The roar is an appraisal of an answer or response; volume alone is not the point.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T10:30:00Z"
   },
   {
     "SourceTerm": "善知識",
@@ -13599,7 +14257,7 @@
   },
   {
     "SourceTerm": "嘉州打大象",
-    "PreferredTarget": "Jiāzhou strikes a great elephant",
+    "PreferredTarget": "Jiazhou strikes a great elephant",
     "AlternateTargets": [
       "at Jiāzhou, strike the great elephant"
     ],
@@ -14013,6 +14671,20 @@
     "WrittenUtc": "2026-07-18T13:00:00Z"
   },
   {
+    "SourceTerm": "因齋慶讃",
+    "PreferredTarget": "using the meal to offer congratulations",
+    "AlternateTargets": [
+      "turn the meal into a congratulatory occasion"
+    ],
+    "SearchAliases": [
+      "turn the meal into a congratulatory occasion"
+    ],
+    "Status": "preferred",
+    "Note": "This limit follows the case itself: An unnamed monk says his visit is becoming an occasion to congratulate Shoushan Xingnian over the meal.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T13:30:00Z"
+  },
+  {
     "SourceTerm": "困來即眠",
     "PreferredTarget": "when tired, sleep",
     "AlternateTargets": [
@@ -14228,6 +14900,20 @@
     "WrittenUtc": "2026-07-18T17:00:00Z"
   },
   {
+    "SourceTerm": "地獄門前鬼脱卯",
+    "PreferredTarget": "before the hell gate, a ghost slips its catch",
+    "AlternateTargets": [
+      "a ghost escapes the latch at hell’s gate"
+    ],
+    "SearchAliases": [
+      "a ghost escapes the latch at hell’s gate"
+    ],
+    "Status": "preferred",
+    "Note": "This limit follows the case itself: Xutang Zhiyu answers the question about Guanyin’s fish basket and Panshan’s butcher’s counter with a ghost slipping its catch before hell’s gate.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T13:30:00Z"
+  },
+  {
     "SourceTerm": "地藏",
     "PreferredTarget": "Ksitigarbha",
     "AlternateTargets": [
@@ -14323,7 +15009,7 @@
   },
   {
     "SourceTerm": "坐夏",
-    "PreferredTarget": "to spend the summer residence",
+    "PreferredTarget": "to spend the summer retreat",
     "AlternateTargets": [],
     "SearchAliases": [
       "to remain for the summer retreat"
@@ -15499,6 +16185,20 @@
     "WrittenUtc": "2026-07-16T18:01:59.208626+00:00"
   },
   {
+    "SourceTerm": "大悟不拘小節",
+    "PreferredTarget": "great awakening does not stick to minor observances",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "great awakening is not bound by small observances",
+      "great awakening disregards minor rules",
+      "not fastening great awakening to small details"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase appears inside Jiefeng’s criticism, not as Hansong’s license to ignore every small rule. Its local target is the old verse he is judging.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T22:24:30.244183Z"
+  },
+  {
     "SourceTerm": "大悟底人",
     "PreferredTarget": "a person who has undergone great awakening",
     "AlternateTargets": [],
@@ -15550,6 +16250,20 @@
     "Note": "The great expanse has no outside: the phrase names an all-containing field beyond which the cases posit nothing further. Mingjue's poem fills the field completely; Yuanwu joins it to formlessness; Hongzhi pairs it with unbounded true perspective; Junshan says it contains the ten directions.",
     "CreatedBy": "Codex A26-30 strict author",
     "WrittenUtc": "2026-07-19T06:00:00Z"
+  },
+  {
+    "SourceTerm": "大智慧人面前有三尺暗",
+    "PreferredTarget": "before a person of great wisdom there are three feet of darkness",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "three feet of darkness before great wisdom",
+      "a wise person’s near blind spot",
+      "darkness directly before great wisdom"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase names a nearby blind spot beside acknowledged learning. The witnesses apply it to Chen Guan; they do not establish that every wise person has a fixed three-foot darkness.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T21:49:28.267300Z"
   },
   {
     "SourceTerm": "大有事在",
@@ -15907,6 +16621,21 @@
     "WrittenUtc": "2026-07-17T10:46:10.540319+00:00"
   },
   {
+    "SourceTerm": "大鵬展翅蓋十洲",
+    "PreferredTarget": "the great roc spreads its wings and covers the ten isles",
+    "AlternateTargets": [
+      "the great roc's spread wings cover the ten isles"
+    ],
+    "SearchAliases": [
+      "great roc covering ten isles",
+      "roc spreads its wings"
+    ],
+    "Status": "preferred",
+    "Note": "The exact canonical spelling appears in twelve independent works. Two recorded graphic variants support the same saying rather than separate senses, and recension repeats do not add independent depth.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T08:40:00Z"
+  },
+  {
     "SourceTerm": "天上人間唯我知",
     "PreferredTarget": "in heaven and among humankind, I alone know",
     "AlternateTargets": [
@@ -16162,6 +16891,20 @@
     "WrittenUtc": "2026-07-15T05:39:15.793393+00:00"
   },
   {
+    "SourceTerm": "太多事生",
+    "PreferredTarget": "far too much fuss",
+    "AlternateTargets": [
+      "what needless trouble"
+    ],
+    "SearchAliases": [
+      "what needless trouble"
+    ],
+    "Status": "preferred",
+    "Note": "This limit follows the case itself: In Tian’an Sheng’s story, Chen Tuan remains asleep through Deshan’s blows and Linji’s shouts, but wakes when his nostril is probed and complains that it is far too much fuss.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T13:30:00Z"
+  },
+  {
     "SourceTerm": "太湖三萬六千頃、月在波心説向誰",
     "PreferredTarget": "Lake Tai spreads thirty-six thousand qing, and to whom can the moon at the heart of its waves be told?",
     "AlternateTargets": [],
@@ -16172,6 +16915,37 @@
     "Note": "Lake Tai spreads thirty-six thousand qing; to whom can one speak of the moon at the heart of its waves? Shangfeng Foxin Bencai, Lingfeng Huigu, Dahui Zonggao and Lingrui preserve the whole lake-and-moon question as a capping verse and as a direct test demanding an answer.",
     "CreatedBy": "Codex cohort-002 lane-B B071-B080 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
+  },
+  {
+    "SourceTerm": "太行山下賊。南嶽嶺頭雲",
+    "PreferredTarget": "a bandit below Mount Taihang, a cloud on the ridge of Nanyue",
+    "AlternateTargets": [
+      "the thief under Taihang and the cloud over Nanyue"
+    ],
+    "SearchAliases": [
+      "Taihang bandit Nanyue cloud",
+      "Shoushan first use then illumination",
+      "bandit below mountain cloud on ridge"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase survives here as one attributed answer in a comparative list and is provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T01:30:00Z"
+  },
+  {
+    "SourceTerm": "失却掌中珠",
+    "PreferredTarget": "lose the pearl in one’s palm",
+    "AlternateTargets": [
+      "let the pearl in one’s hand slip away"
+    ],
+    "SearchAliases": [
+      "losing the pearl in hand",
+      "lose what is already in the palm"
+    ],
+    "Status": "preferred",
+    "Note": "Nine works preserve the exact phrase; five independently framed uses are retained.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T15:00:00Z"
   },
   {
     "SourceTerm": "失却鼻孔",
@@ -16788,6 +17562,20 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "如天之高。似地之厚",
+    "PreferredTarget": "as high as heaven and as thick as earth",
+    "AlternateTargets": [
+      "high like heaven, deep and substantial like earth"
+    ],
+    "SearchAliases": [
+      "high as the sky thick as the earth"
+    ],
+    "Status": "preferred",
+    "Note": "The exact pair occurs once in Yuanwu Keqin’s Blue Cliff commentary.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T15:00:00Z"
+  },
+  {
     "SourceTerm": "如意",
     "PreferredTarget": "ceremonial scepter",
     "AlternateTargets": [
@@ -16830,6 +17618,20 @@
     "WrittenUtc": "2026-07-19T19:34:03.462304Z"
   },
   {
+    "SourceTerm": "如牛無角",
+    "PreferredTarget": "like an ox without horns",
+    "AlternateTargets": [
+      "as hornless as an ox"
+    ],
+    "SearchAliases": [
+      "as hornless as an ox"
+    ],
+    "Status": "preferred",
+    "Note": "One major stream repeats Luoshan’s inherited exchange; only one recension is retained beside two independent deployments.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T02:30:00Z"
+  },
+  {
     "SourceTerm": "如虎戴角",
     "PreferredTarget": "like a tiger wearing horns",
     "AlternateTargets": [],
@@ -16852,6 +17654,35 @@
     "Note": "All uses retain accidental pattern-making; different criticized people do not create different senses.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T15:56:54.832542Z"
+  },
+  {
+    "SourceTerm": "如鐘在扣。如谷受響",
+    "PreferredTarget": "like a bell answering a strike, like a valley receiving a sound",
+    "AlternateTargets": [
+      "as a bell responds when struck and a valley receives an echo"
+    ],
+    "SearchAliases": [
+      "bell struck and valley echo",
+      "respond like a bell or valley"
+    ],
+    "Status": "preferred",
+    "Note": "Yuanwu Keqin preserves the complete pair in one Blue Cliff discussion.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T10:45:00Z"
+  },
+  {
+    "SourceTerm": "如鐘在虡",
+    "PreferredTarget": "like a bell on its stand",
+    "AlternateTargets": [
+      "like a suspended bell on its frame"
+    ],
+    "SearchAliases": [
+      "bell on its stand"
+    ],
+    "Status": "preferred",
+    "Note": "The retained records independently use the bell’s response to a strike as the stated comparison.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:00:00Z"
   },
   {
     "SourceTerm": "如鴨聞雷",
@@ -17301,6 +18132,20 @@
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
   {
+    "SourceTerm": "學廣語聲低",
+    "PreferredTarget": "the broadly learned speak softly",
+    "AlternateTargets": [
+      "one of broad learning speaks in a low voice"
+    ],
+    "SearchAliases": [
+      "one of broad learning speaks in a low voice"
+    ],
+    "Status": "preferred",
+    "Note": "The registered component is attested across three independent uses. Its recurring first clause is 潭深波浪靜, while the queue supplied a different, unattested wording; that first clause is not part of this identity.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T07:15:00Z"
+  },
+  {
     "SourceTerm": "學道須是鐵漢、著手心頭便判",
     "PreferredTarget": "studying the Way requires an iron person who puts a hand to the heart and decides at once",
     "AlternateTargets": [],
@@ -17601,7 +18446,7 @@
   },
   {
     "SourceTerm": "官不容針、私通車馬",
-    "PreferredTarget": "official needle exclusion versus private passage for carts and horses",
+    "PreferredTarget": "officially not even a needle gets through, but privately carts and horses pass",
     "AlternateTargets": [],
     "SearchAliases": [
       "official needle exclusion versus private passage for carts and horses"
@@ -17903,6 +18748,18 @@
     "WrittenUtc": "2026-07-18T04:29:02.430973+00:00"
   },
   {
+    "SourceTerm": "家有白澤圖",
+    "PreferredTarget": "when the household has a White Marsh diagram",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "house has a White Marsh diagram"
+    ],
+    "Status": "preferred",
+    "Note": "Two records preserve different uses: Gusu Zun’s paired before-and-after answers and Danya Chaoyuan’s later monster-chart comment.",
+    "CreatedBy": "Codex regular-vetted Iriya release005 lane C",
+    "WrittenUtc": "2026-07-22T00:00:00Z"
+  },
+  {
     "SourceTerm": "家無滯貨不富",
     "PreferredTarget": "a household with no unsold stock is not rich",
     "AlternateTargets": [],
@@ -17969,6 +18826,22 @@
     "Note": "The contrast licenses blocked passage as the sharper poverty; it does not make every mention of poverty a judgment on insight.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T19:34:30.034718Z"
+  },
+  {
+    "SourceTerm": "家貧難辨素食。事忙不及草書",
+    "PreferredTarget": "a poor household cannot arrange plain fare while pressing business leaves no time for fair copy",
+    "AlternateTargets": [
+      "poverty cannot furnish a simple meal, and urgency allows no neat handwriting"
+    ],
+    "SearchAliases": [
+      "poor house plain meal",
+      "no time for fair copy",
+      "Wumen on Yunmen's shit stick"
+    ],
+    "Status": "preferred",
+    "Note": "The couplet is Wumen's appraisal of this one case, not a free-standing rule that poverty or haste produces good answers.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T10:30:00Z"
   },
   {
     "SourceTerm": "家賊難防",
@@ -18263,6 +19136,20 @@
     "WrittenUtc": "2026-07-19T18:45:00Z"
   },
   {
+    "SourceTerm": "寶山到也須開眼，勿使茫茫空手回",
+    "PreferredTarget": "when you reach the treasure mountain, open your eyes, and do not return empty-handed in a daze",
+    "AlternateTargets": [
+      "reach the treasure mountain with open eyes"
+    ],
+    "SearchAliases": [
+      "reach the treasure mountain with open eyes"
+    ],
+    "Status": "preferred",
+    "Note": "The line is a pointed admonition within one direct address, not a general travel maxim.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T02:30:00Z"
+  },
+  {
     "SourceTerm": "寶鏡三昧",
     "PreferredTarget": "Complete Command of the Precious Mirror",
     "AlternateTargets": [
@@ -18343,6 +19230,20 @@
     "WrittenUtc": "2026-07-15T04:51:40.664019+00:00"
   },
   {
+    "SourceTerm": "尀耐深山百舌，也學江南杜宇",
+    "PreferredTarget": "how intolerable—the mountain’s hundred-tongued bird also imitates Jiangnan’s cuckoo",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "mountain bird imitates the Jiangnan cuckoo",
+      "hundred-tongued bird and cuckoo",
+      "the mountain mimic bird"
+    ],
+    "Status": "preferred",
+    "Note": "The first bird is kept as the concrete ‘hundred-tongued bird’ and the second as the cuckoo. The text itself supplies the guest-and-host test but no separate hidden identity for either bird.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T21:49:30.736123Z"
+  },
+  {
     "SourceTerm": "將勤補拙",
     "PreferredTarget": "use diligence to make up for clumsiness",
     "AlternateTargets": [
@@ -18385,6 +19286,20 @@
     "Note": "The imperative occurs 137 times in 94 works. Eight anchors preserve the full Bodhidharma–Huike turn across distinct records, later critical raisings, and Miyun’s fresh address to his own student.",
     "CreatedBy": "Codex investigation-next300 Lane B explicit author",
     "WrittenUtc": "2026-07-17T09:52:25.956053+00:00"
+  },
+  {
+    "SourceTerm": "將謂侯白",
+    "PreferredTarget": "I took you for Hou Bai",
+    "AlternateTargets": [
+      "I thought it was Hou Bai—there is also Hou Hei"
+    ],
+    "SearchAliases": [
+      "I thought it was Hou Bai—there is also Hou Hei"
+    ],
+    "Status": "preferred",
+    "Note": "The shortened comeback and the full paired formula are the same stock allusion.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T12:00:00Z"
   },
   {
     "SourceTerm": "將謂得便宜",
@@ -18431,6 +19346,22 @@
     "Note": "One action/verdict. Deliberate continuation, reluctant continuation, criticism, warning, case commentary, and public answer are stances and grammatical deployments of the same following of error with error.",
     "CreatedBy": "Codex f002 Lane C worksheet-first author",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "將魚目作明珠",
+    "PreferredTarget": "mistake a fish-eye for a bright pearl",
+    "AlternateTargets": [
+      "pass off a fish-eye as a bright pearl"
+    ],
+    "SearchAliases": [
+      "fish eye for a pearl",
+      "false pearl",
+      "mistake the fake for the real"
+    ],
+    "Status": "preferred",
+    "Note": "The image concerns mistaken recognition, not the monetary value of pearls.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T10:30:00Z"
   },
   {
     "SourceTerm": "尊宿",
@@ -18514,9 +19445,7 @@
   {
     "SourceTerm": "對面千里",
     "PreferredTarget": "a thousand miles apart face-to-face",
-    "AlternateTargets": [
-      "a thousand miles apart face-to-face"
-    ],
+    "AlternateTargets": [],
     "SearchAliases": [
       "face to face",
       "thousand miles apart"
@@ -18845,6 +19774,20 @@
     "WrittenUtc": "2026-07-19T18:31:56.658952Z"
   },
   {
+    "SourceTerm": "山深雪未消",
+    "PreferredTarget": "deep in the mountains, the snow has not yet melted",
+    "AlternateTargets": [
+      "the mountain is deep and its snow remains"
+    ],
+    "SearchAliases": [
+      "the mountain is deep and its snow remains"
+    ],
+    "Status": "preferred",
+    "Note": "This limit follows the case itself: Asked what auspicious sign attends the old foreigner’s awakening, Xutang Zhiyu answers that deep in the mountains the snow has not yet melted.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T13:30:00Z"
+  },
+  {
     "SourceTerm": "山花開似錦、澗水湛如藍",
     "PreferredTarget": "mountain flowers open like brocade and ravine water is deep blue like indigo",
     "AlternateTargets": [],
@@ -18857,6 +19800,21 @@
     "Note": "The records keep the landscape literal even when speakers deploy it as answer, question, or opening line; they do not make flower, brocade, water, or indigo into fixed symbols.",
     "CreatedBy": "Codex Lane C C146-150 full-case construction",
     "WrittenUtc": "2026-07-19T05:49:26.266688+00:00"
+  },
+  {
+    "SourceTerm": "山長水遠。人面獸心",
+    "PreferredTarget": "mountains stretch far and waters run distant — a human face, an animal heart",
+    "AlternateTargets": [
+      "long mountains and distant waters; a human face with an animal heart"
+    ],
+    "SearchAliases": [
+      "human face animal heart",
+      "mountains long and waters far"
+    ],
+    "Status": "preferred",
+    "Note": "The exact paired verdict occurs once in Xutang Zhiyu’s record.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T15:00:00Z"
   },
   {
     "SourceTerm": "山門",
@@ -18891,6 +19849,22 @@
     "WrittenUtc": "2026-07-17T00:00:00Z"
   },
   {
+    "SourceTerm": "崑崙嚼生鐵",
+    "PreferredTarget": "a Kunlun man chewing raw iron",
+    "AlternateTargets": [
+      "Kunlun chews unworked iron"
+    ],
+    "SearchAliases": [
+      "Kunlun chewing iron",
+      "chew raw iron",
+      "iron-chewing Kunlun"
+    ],
+    "Status": "preferred",
+    "Note": "The source gives the image without a further gloss; the retained exchange is provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T00:15:00Z"
+  },
+  {
     "SourceTerm": "崑崙奴著鐵袴",
     "PreferredTarget": "a Kunlun man wears iron trousers",
     "AlternateTargets": [],
@@ -18903,6 +19877,20 @@
     "Note": "The sources use a compact human image and its blow-by-blow movement; they neither explain Kunlun as a technical teaching nor identify a particular historical person.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T21:14:36.868980Z"
+  },
+  {
+    "SourceTerm": "巖下風生虎弄兒",
+    "PreferredTarget": "beneath the cliff the wind rises, and the tiger plays with its cub",
+    "AlternateTargets": [
+      "wind rises under the cliff as the tiger sports with its young"
+    ],
+    "SearchAliases": [
+      "wind rises under the cliff as the tiger sports with its young"
+    ],
+    "Status": "preferred",
+    "Note": "This limit follows the case itself: Xutang Zhiyu gives this for Mazu’s judgment that Nanquan alone went beyond things in the moon-viewing exchange.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T13:30:00Z"
   },
   {
     "SourceTerm": "巢父",
@@ -18997,6 +19985,20 @@
     "Note": "The first three witnesses are recensions of one verse; Baiyu’s sermon is the packet’s independent reuse.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T12:00:00Z"
+  },
+  {
+    "SourceTerm": "巧匠運斤斧、斫木不抨繩",
+    "PreferredTarget": "a skilled craftsman wields axe and adze, hewing wood without snapping a chalk line",
+    "AlternateTargets": [
+      "the skilled carpenter cuts without using a marking cord"
+    ],
+    "SearchAliases": [
+      "the skilled carpenter cuts without using a marking cord"
+    ],
+    "Status": "preferred",
+    "Note": "Three sources repeat one inherited exchange; the later partial reuse is not counted as an independent full-phrase deployment.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:00:00Z"
   },
   {
     "SourceTerm": "巨靈擡手無多子，分破華山千萬重",
@@ -19101,6 +20103,22 @@
     "Note": "One person/title sense. The bag itself (布袋) is a related concrete headword, not a second sense of the full title. The corpus identifies the figure through the bag and the Maitreya verse; this entry adds no outside life story.",
     "CreatedBy": "Codex f002 Lane C author",
     "WrittenUtc": "2026-07-15T02:23:02.861481+00:00"
+  },
+  {
+    "SourceTerm": "布袋盛錐。快者先出",
+    "PreferredTarget": "put awls in a cloth bag and the sharp one comes out first",
+    "AlternateTargets": [
+      "in a bag of awls, the sharp one emerges first"
+    ],
+    "SearchAliases": [
+      "sharp awl leaves the bag",
+      "awl in a cloth sack",
+      "the quickest point comes out"
+    ],
+    "Status": "preferred",
+    "Note": "The proverb is retained from one direct exchange and is provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T00:15:00Z"
   },
   {
     "SourceTerm": "帝釋",
@@ -19631,6 +20649,20 @@
     "WrittenUtc": "2026-07-18T18:19:10Z"
   },
   {
+    "SourceTerm": "幽州猶自可，最苦是江南",
+    "PreferredTarget": "Youzhou is still bearable, but Jiangnan is the bitterest",
+    "AlternateTargets": [
+      "Youzhou would still do—the hardest is Jiangnan"
+    ],
+    "SearchAliases": [
+      "Youzhou Jiangnan hardest"
+    ],
+    "Status": "preferred",
+    "Note": "The geographical saying is one case-specific verdict, not a general ranking of the regions.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T01:30:00Z"
+  },
+  {
     "SourceTerm": "幽州猶自可、最苦是新羅",
     "PreferredTarget": "Youzhou is still bearable, Xinluo is the bitterest",
     "AlternateTargets": [
@@ -19745,6 +20777,20 @@
     "Note": "Seven exact witnesses in seven independent works support one fixed case-answer; later denials and rejected explanations prevent a symbolic tree-gloss or a simple object-pointing account.",
     "CreatedBy": "Codex fresh f001 lane A evidence-first",
     "WrittenUtc": "2026-07-15T13:20:00Z"
+  },
+  {
+    "SourceTerm": "庵中閑打坐、白雲起峯頭",
+    "PreferredTarget": "sitting at ease in the hermitage while white clouds rise over the peak",
+    "AlternateTargets": [
+      "quietly sitting in the hut as white clouds rise on the summit"
+    ],
+    "SearchAliases": [
+      "quietly sitting in the hut as white clouds rise on the summit"
+    ],
+    "Status": "preferred",
+    "Note": "The second corpus witness copies the same fourfold set, so the entry remains provisional rather than counting the repetition as an independent deployment.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T06:00:00Z"
   },
   {
     "SourceTerm": "庵主",
@@ -20014,6 +21060,20 @@
     "WrittenUtc": "2026-07-18T14:05:00+02:00"
   },
   {
+    "SourceTerm": "弔民伐罪",
+    "PreferredTarget": "relieve the people and punish the guilty",
+    "AlternateTargets": [
+      "bring relief to the people and campaign against wrongdoing"
+    ],
+    "SearchAliases": [
+      "bring relief to the people and campaign against wrongdoing"
+    ],
+    "Status": "preferred",
+    "Note": "This is a single attested Chan deployment of a classical political idiom, so validation remains provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:20:00Z"
+  },
+  {
     "SourceTerm": "引得黄鶯下柳條",
     "PreferredTarget": "drawing the yellow oriole down to the willow branch",
     "AlternateTargets": [
@@ -20200,6 +21260,20 @@
     "Note": "The phrase does not make shadows or echoes into hidden substances; its retained uses criticize indistinct approximation.",
     "CreatedBy": "Codex regular vetted Iriya release002 lane C",
     "WrittenUtc": "2026-07-21T19:46:49.379277+00:00"
+  },
+  {
+    "SourceTerm": "待斬不平人",
+    "PreferredTarget": "waiting to cut down the unjust",
+    "AlternateTargets": [
+      "awaiting the person who is not level"
+    ],
+    "SearchAliases": [
+      "awaiting the person who is not level"
+    ],
+    "Status": "preferred",
+    "Note": "The governed component is the awaited act against injustice; the sword-preparation clauses vary across otherwise independent deployments and are not part of this identity.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T07:15:00Z"
   },
   {
     "SourceTerm": "律",
@@ -20554,6 +21628,22 @@
     "WrittenUtc": "2026-07-18T21:03:28Z"
   },
   {
+    "SourceTerm": "復是何物",
+    "PreferredTarget": "what then is it?",
+    "AlternateTargets": [
+      "what thing is it then?"
+    ],
+    "SearchAliases": [
+      "what is it then",
+      "what remains when both are gone",
+      "then what is this"
+    ],
+    "Status": "preferred",
+    "Note": "The retained passages contain three direct uses and three later records of Panshan Baoji’s one saying; the latter deepen the textual record but count as one deployment.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T00:15:00Z"
+  },
+  {
     "SourceTerm": "復舉",
     "PreferredTarget": "raised again",
     "AlternateTargets": [],
@@ -20819,7 +21909,7 @@
   },
   {
     "SourceTerm": "心地開通",
-    "PreferredTarget": "the mind-ground opens through",
+    "PreferredTarget": "the mind-ground opens up",
     "AlternateTargets": [
       "the ground of mind becomes open"
     ],
@@ -20877,6 +21967,18 @@
     "Note": "The graph translated as \"thing\" or \"what is established\" (法) is resolved from the syntax of each quoted line. Its singular form is rendered \"thing\" or \"what is established,\" while the plural compound \"the myriad things\" (萬法) is rendered according to its local syntax. The evidence does not warrant a separate sense merely because later speakers approve, question, quote, or criticize the same proposition.",
     "CreatedBy": "Codex f002 Lane C author",
     "WrittenUtc": "2026-07-15T01:46:59.729455+00:00"
+  },
+  {
+    "SourceTerm": "心如工伎兒。意似和伎者",
+    "PreferredTarget": "mind is like the performer, while intent is like the accompanist",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "mind resembles a performer; intent resembles the one accompanying the performance"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase is preserved inside the unnamed questioner’s exchange with Xutang Zhiyu and remains limited to that turn.",
+    "CreatedBy": "Codex regular-vetted Iriya release005 lane C",
+    "WrittenUtc": "2026-07-22T00:00:00Z"
   },
   {
     "SourceTerm": "心如牆壁",
@@ -21698,7 +22800,7 @@
   },
   {
     "SourceTerm": "意根下卜度",
-    "PreferredTarget": "reckoning beneath the faculty of thought",
+    "PreferredTarget": "reckoning by means of the thinking faculty",
     "AlternateTargets": [
       "calculating under the thinking faculty"
     ],
@@ -21750,6 +22852,18 @@
     "Note": "A battle-tested accomplished hand is a Chan appraisal for someone proven in encounters; the surrounding verdict can praise that capability, challenge it, or show it failing.",
     "CreatedBy": "Codex Iriya cohort001 Lane B positions11-20 evidence-first",
     "WrittenUtc": "2026-07-18T06:10:41.301422+00:00"
+  },
+  {
+    "SourceTerm": "慣釣鯨鯢澄巨浸，却嗟蛙步蹍泥沙",
+    "PreferredTarget": "accustomed to fishing for whales in the vast deep, yet lamenting a frog-step trampling mud and sand",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "used to angling for leviathans in the great deep, yet deploring a frog treading mud"
+    ],
+    "Status": "preferred",
+    "Note": "Fengxue Yanzhao’s answer to Lupei and the blows that follow are the sole retained setting for the complete couplet.",
+    "CreatedBy": "Codex regular-vetted Iriya release005 lane C",
+    "WrittenUtc": "2026-07-22T00:00:00Z"
   },
   {
     "SourceTerm": "慧",
@@ -21838,7 +22952,7 @@
   },
   {
     "SourceTerm": "應機接物",
-    "PreferredTarget": "respond to the occasion and receive people",
+    "PreferredTarget": "respond to the occasion and meet people",
     "AlternateTargets": [],
     "SearchAliases": [
       "respond to the occasion and receive people"
@@ -22008,6 +23122,20 @@
     "WrittenUtc": "2026-07-20T01:02:13.625012+00:00"
   },
   {
+    "SourceTerm": "我之東魯",
+    "PreferredTarget": "I go east to Lu",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "I head east to Lu",
+      "you toward Qin, I toward Lu",
+      "east to Lu"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase names opposed destinations in the cited judgments. Its force comes from the masters’ explicit contrasts; the entry does not turn Qin or Lu into secret regions.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T21:49:38.455015Z"
+  },
+  {
     "SourceTerm": "我今不是渠",
     "PreferredTarget": "I am not it now",
     "AlternateTargets": [
@@ -22062,6 +23190,18 @@
     "WrittenUtc": "2026-07-19T02:00:28.857745+00:00"
   },
   {
+    "SourceTerm": "我行荒草裏，汝又入深林",
+    "PreferredTarget": "I walk in the wild grass, and you enter the deep forest",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "I go through wild grass; you go deeper into the forest"
+    ],
+    "Status": "preferred",
+    "Note": "The retained evidence is the old Yangqi–Ciming exchange as raised and judged by Ying'an Tanhua.",
+    "CreatedBy": "Codex regular-vetted Iriya release005 lane C",
+    "WrittenUtc": "2026-07-22T00:00:00Z"
+  },
+  {
     "SourceTerm": "我見",
     "PreferredTarget": "view of self",
     "AlternateTargets": [
@@ -22073,7 +23213,7 @@
       "self-view"
     ],
     "Status": "preferred",
-    "Note": "The expression denotes the cognitive stance that apprehends or asserts a self. The phrase names a view or attachment, not every first-person statement.",
+    "Note": "A lexical view that takes an ‘I’ or owner as real; ordinary first-person phrases such as ‘I see’ are excluded.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
@@ -23474,6 +24614,20 @@
     "WrittenUtc": "2026-07-20T01:14:47.671792+00:00"
   },
   {
+    "SourceTerm": "拈起死柴頭，且向無烟火",
+    "PreferredTarget": "picking up a dead stick, tending a smokeless fire",
+    "AlternateTargets": [
+      "raise a dead firebrand toward a fire without smoke"
+    ],
+    "SearchAliases": [
+      "raise a dead firebrand toward a fire without smoke"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase belongs to Yangqi’s quoted verse; the outer master explicitly raises it before composing a different house verse.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T02:30:00Z"
+  },
+  {
     "SourceTerm": "拈香",
     "PreferredTarget": "take up incense",
     "AlternateTargets": [],
@@ -23521,6 +24675,20 @@
     "WrittenUtc": "2026-07-15T04:06:26.730577+00:00"
   },
   {
+    "SourceTerm": "拋釣釣鯤鯨、釣得箇蝦蟇",
+    "PreferredTarget": "cast the line for a leviathan and catch a frog",
+    "AlternateTargets": [
+      "fish for a giant kun and land a toad"
+    ],
+    "SearchAliases": [
+      "fish for a giant kun and land a toad"
+    ],
+    "Status": "preferred",
+    "Note": "Three retained records separate Yunmen’s original use, Xuedou’s later use, and Gulin’s explicit raising of Yunmen.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:00:00Z"
+  },
+  {
     "SourceTerm": "拍拍是令",
     "PreferredTarget": "every beat is the command",
     "AlternateTargets": [],
@@ -23534,7 +24702,7 @@
   },
   {
     "SourceTerm": "拍禪床",
-    "PreferredTarget": "to strike the Chan seat",
+    "PreferredTarget": "to slap the Chan seat",
     "AlternateTargets": [],
     "SearchAliases": [
       "to strike the Chan seat"
@@ -23618,9 +24786,7 @@
   {
     "SourceTerm": "拗曲作直",
     "PreferredTarget": "bending the crooked and calling it straight",
-    "AlternateTargets": [
-      "bending the crooked and calling it straight"
-    ],
+    "AlternateTargets": [],
     "SearchAliases": [
       "crooked called straight",
       "distorted judgment"
@@ -23644,6 +24810,18 @@
     "Note": "The three files repeat Xutang’s same appraisal, so one occurrence is retained.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T22:00:00Z"
+  },
+  {
+    "SourceTerm": "拳踢相應。心眼相照",
+    "PreferredTarget": "fist and kick answer each other, while mind and eye illuminate each other",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "punch and kick correspond; mind and eye shine on each other"
+    ],
+    "Status": "preferred",
+    "Note": "Yuanwu Keqin’s appraisal of Jingqing Daofu’s pecking-and-hatching exchange is the retained use of this complete couplet.",
+    "CreatedBy": "Codex regular-vetted Iriya release005 lane C",
+    "WrittenUtc": "2026-07-22T00:00:00Z"
   },
   {
     "SourceTerm": "拳頭",
@@ -23818,6 +24996,21 @@
     "Note": "The phrase presents an illusory display produced by distorting one’s own seeing.",
     "CreatedBy": "Codex Iriya lane C101-110 full-case author",
     "WrittenUtc": "2026-07-18T21:30:00Z"
+  },
+  {
+    "SourceTerm": "𢬵身入虎穴",
+    "PreferredTarget": "throw oneself into the tiger's den",
+    "AlternateTargets": [
+      "risk one's body by entering the tiger's lair"
+    ],
+    "SearchAliases": [
+      "enter the tiger's den",
+      "risk oneself in the tiger's lair"
+    ],
+    "Status": "preferred",
+    "Note": "One exact work supports this wording, so the entry remains provisional and does not generalize the danger image beyond that exchange.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T06:05:00Z"
   },
   {
     "SourceTerm": "捧上不成龍",
@@ -24384,6 +25577,21 @@
     "WrittenUtc": "2026-07-18T23:21:12.373381Z"
   },
   {
+    "SourceTerm": "握土成金猶可易，變金為土却還難",
+    "PreferredTarget": "turning earth into gold may still be easy, while turning gold back into earth is harder",
+    "AlternateTargets": [
+      "making gold from earth may be easy; making earth from gold is harder"
+    ],
+    "SearchAliases": [
+      "earth into gold",
+      "gold back into earth"
+    ],
+    "Status": "preferred",
+    "Note": "The exact couplet occurs once in Songyuan Chongyue's own record.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T05:32:12.171Z"
+  },
+  {
     "SourceTerm": "摩尼珠",
     "PreferredTarget": "the wish-fulfilling jewel",
     "AlternateTargets": [],
@@ -24532,6 +25740,20 @@
     "Note": "The collision image becomes a warning or verdict for someone who misses while moving in the dark or following words.",
     "CreatedBy": "Codex Iriya cohort001 Lane B explicit full-case author",
     "WrittenUtc": "2026-07-18T04:29:03.059349+00:00"
+  },
+  {
+    "SourceTerm": "撥亂乾坤致太平",
+    "PreferredTarget": "set the disordered world right and bring about great peace",
+    "AlternateTargets": [
+      "restore order to the realm and establish peace"
+    ],
+    "SearchAliases": [
+      "restore order to the realm and establish peace"
+    ],
+    "Status": "preferred",
+    "Note": "Only one complete deployment is attested in the packet, so validation remains provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:20:00Z"
   },
   {
     "SourceTerm": "撥波求水",
@@ -25749,6 +26971,20 @@
     "WrittenUtc": "2026-07-19T04:20:00Z"
   },
   {
+    "SourceTerm": "數片白雲籠古寺",
+    "PreferredTarget": "several patches of white cloud shroud the old temple",
+    "AlternateTargets": [
+      "white clouds veil an old temple"
+    ],
+    "SearchAliases": [
+      "white clouds veil an old temple"
+    ],
+    "Status": "preferred",
+    "Note": "The temple scene remains distinct from other white-cloud sayings.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T12:00:00Z"
+  },
+  {
     "SourceTerm": "文彩已彰",
     "PreferredTarget": "the pattern is already manifest",
     "AlternateTargets": [
@@ -25847,6 +27083,20 @@
     "Note": "The former action/result targets were not independently distinguishable from their glosses. The standalone word remains compatible with the separate named Four Selections article and its four formulations. The Chan deviation is public appraisal of sayings, encounters, and speakers, plus its use in Linji classificatory vocabulary.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
+  },
+  {
+    "SourceTerm": "斬得匈奴首、還歸細柳營",
+    "PreferredTarget": "behead the Xiongnu, then return to the camp at Xiliu",
+    "AlternateTargets": [
+      "take the Xiongnu leader's head and return to Xiliu camp"
+    ],
+    "SearchAliases": [
+      "take the Xiongnu leader's head and return to Xiliu camp"
+    ],
+    "Status": "preferred",
+    "Note": "The packet preserves a single attributed answer, and the named master is absent from the current roster; validation remains provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:20:00Z"
   },
   {
     "SourceTerm": "斬斷葛藤",
@@ -26379,6 +27629,36 @@
     "WrittenUtc": "2026-07-17T13:08:19.415648+00:00"
   },
   {
+    "SourceTerm": "明月夜光。多逢按劍",
+    "PreferredTarget": "Bright-Moon and Night-Shining jewels often meet a drawn sword",
+    "AlternateTargets": [
+      "the Bright-Moon pearl and Night-Shining jade often bring a sword from its sheath"
+    ],
+    "SearchAliases": [
+      "night-shining pearl and sword",
+      "bright moon drawn sword",
+      "luminous pearl met by a sword"
+    ],
+    "Status": "preferred",
+    "Note": "Xutang uses the phrase three times in one record; Yuejiang Zhengyin supplies an independent hall-address use.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T22:20:00Z"
+  },
+  {
+    "SourceTerm": "明月清風共一家",
+    "PreferredTarget": "moon and pure breeze share one household",
+    "AlternateTargets": [
+      "mountains, waters, moon, and breeze are one household"
+    ],
+    "SearchAliases": [
+      "mountains, waters, moon, and breeze are one household"
+    ],
+    "Status": "preferred",
+    "Note": "Several other witnesses repeat one inherited release verse; the retained anchors represent distinct deployments.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:00:00Z"
+  },
+  {
     "SourceTerm": "明月蘆花",
     "PreferredTarget": "moonlight and reed flowers",
     "AlternateTargets": [
@@ -26414,15 +27694,13 @@
   {
     "SourceTerm": "明珠在掌",
     "PreferredTarget": "a bright pearl held in the palm",
-    "AlternateTargets": [
-      "a bright pearl held in the palm"
-    ],
+    "AlternateTargets": [],
     "SearchAliases": [
       "bright pearl",
       "pearl in hand"
     ],
     "Status": "preferred",
-    "Note": "A pearl already lying in the palm is something immediately available and responsive to what appears. Xuedou links possession with earned reward; Yuanwu compares encounter to mirror and pearl; Shuzhong lets the pearl distribute the colors before it.",
+    "Note": "A pearl already lying in the palm is something immediately available and responsive to what appears. Xuedou links possession with earned reward; Yuanwu compares encounter to mirror and pearl; Shuzhong has the pearl cast its colors on whatever appears before it.",
     "CreatedBy": "Codex A31-40 strict author",
     "WrittenUtc": "2026-07-19T09:00:00Z"
   },
@@ -26733,6 +28011,22 @@
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
   {
+    "SourceTerm": "是牛誰敢喚為驢",
+    "PreferredTarget": "this is an ox—who would dare call it a donkey?",
+    "AlternateTargets": [
+      "it is an ox; who dares call it a donkey?"
+    ],
+    "SearchAliases": [
+      "calling an ox a donkey",
+      "ox or donkey",
+      "who calls the ox a donkey"
+    ],
+    "Status": "preferred",
+    "Note": "The two textual witnesses preserve the same Zhongfeng verse, so they count as one deployment and the entry remains provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T00:15:00Z"
+  },
+  {
     "SourceTerm": "是精識精",
     "PreferredTarget": "an adept recognizes an adept",
     "AlternateTargets": [
@@ -26853,6 +28147,34 @@
     "WrittenUtc": "2026-07-19T03:44:39.755866+00:00"
   },
   {
+    "SourceTerm": "晴乾不肯去須待雨霖頭",
+    "PreferredTarget": "unwilling to leave in clear dry weather, waiting until rain pours down",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "wait for pouring rain before leaving",
+      "will not go while it is dry",
+      "clear weather refused, downpour awaited"
+    ],
+    "Status": "preferred",
+    "Note": "Zhimen explicitly presents it as an older saying, so its original author remains unidentified and Zhimen is its later raiser.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T21:38:14.646254Z"
+  },
+  {
+    "SourceTerm": "晴乾開雨路。無事設曹司",
+    "PreferredTarget": "in clear weather, open a road for rain, and with no business, establish an office",
+    "AlternateTargets": [
+      "open a rainy road in dry weather and set up an office when nothing is happening"
+    ],
+    "SearchAliases": [
+      "dry weather rain road office"
+    ],
+    "Status": "preferred",
+    "Note": "The pair occurs once as Xutang Zhiyu’s verdict and remains provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T02:00:00Z"
+  },
+  {
     "SourceTerm": "智",
     "PreferredTarget": "discernment",
     "AlternateTargets": [
@@ -26879,6 +28201,20 @@
     "Note": "It appears as a quoted old saying, an unnamed participant’s question, a raised case, and a line followed by the warning that speaking produces horns. Six independent works anchor this range.",
     "CreatedBy": "Codex cohort-002 lane-A positions 83-100 explicit full-case adjudication",
     "WrittenUtc": "2026-07-19T00:55:52.888405Z"
+  },
+  {
+    "SourceTerm": "智人之明鑑。佛法之至論",
+    "PreferredTarget": "a bright mirror for the wise, the utmost statement of the Buddha-teaching",
+    "AlternateTargets": [
+      "the wise person’s clear mirror, the Buddha-teaching’s utmost statement"
+    ],
+    "SearchAliases": [
+      "the wise person’s clear mirror, the Buddha-teaching’s utmost statement"
+    ],
+    "Status": "preferred",
+    "Note": "The praise belongs to the old saying he introduces, not to every formal statement.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T12:00:00Z"
   },
   {
     "SourceTerm": "暗中明",
@@ -27141,6 +28477,20 @@
     "WrittenUtc": "2026-07-19T14:14:02.714082Z"
   },
   {
+    "SourceTerm": "月落不離天",
+    "PreferredTarget": "the moon sets without leaving the sky",
+    "AlternateTargets": [
+      "the moon descends but never leaves heaven"
+    ],
+    "SearchAliases": [
+      "the moon descends but never leaves heaven"
+    ],
+    "Status": "preferred",
+    "Note": "This limit follows the case itself: Songlai Quan pairs the line with 'mind is buddha'; Feiyin Tongrong answers a memorial question with it; Jingyin Daozhen uses it for the empress’s destination after death.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T13:30:00Z"
+  },
+  {
     "SourceTerm": "有什麼交涉",
     "PreferredTarget": "what connection does that have?",
     "AlternateTargets": [
@@ -27321,6 +28671,20 @@
     "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
+  },
+  {
+    "SourceTerm": "有錢使得鬼走",
+    "PreferredTarget": "with money, you can make ghosts run errands",
+    "AlternateTargets": [
+      "money can make even ghosts do your bidding"
+    ],
+    "SearchAliases": [
+      "money can make even ghosts do your bidding"
+    ],
+    "Status": "preferred",
+    "Note": "The packet contains one complete deployment, so validation remains provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:20:00Z"
   },
   {
     "SourceTerm": "有錢千里通、無錢隔壁聾",
@@ -27988,7 +29352,7 @@
   },
   {
     "SourceTerm": "本分機",
-    "PreferredTarget": "the fundamental-function mechanism",
+    "PreferredTarget": "the fundamental-function pivot",
     "AlternateTargets": [],
     "SearchAliases": [
       "the fundamental-function mechanism"
@@ -28415,6 +29779,20 @@
     "Note": "A fabricated elder is an elder rebuked for improvising words that fail public scrutiny. Dahui contrasts such a figure with a proper source teacher and Chaozong Tongren imagines one prematurely certifying a flashy response.",
     "CreatedBy": "Codex Lane B explicit canary",
     "WrittenUtc": "2026-07-17T10:58:39.870332+00:00"
+  },
+  {
+    "SourceTerm": "杜鵑啼處花狼藉",
+    "PreferredTarget": "where the cuckoo cries, flowers lie scattered",
+    "AlternateTargets": [
+      "flowers are strewn where the cuckoo calls"
+    ],
+    "SearchAliases": [
+      "flowers are strewn where the cuckoo calls"
+    ],
+    "Status": "preferred",
+    "Note": "The packet contains one complete deployment, so validation remains provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:20:00Z"
   },
   {
     "SourceTerm": "東司",
@@ -30045,7 +31423,7 @@
     "SourceTerm": "死人",
     "PreferredTarget": "a living person judged dead",
     "AlternateTargets": [
-      "an unresponsive dead person"
+      "a living person treated as if dead"
     ],
     "SearchAliases": [
       "living person called dead",
@@ -30404,6 +31782,20 @@
     "WrittenUtc": "2026-07-17T05:47:08.167553+00:00"
   },
   {
+    "SourceTerm": "殿閣生微涼",
+    "PreferredTarget": "the palace halls become faintly cool",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a slight coolness rises in the halls",
+      "the halls grow gently cool",
+      "palace halls give rise to a light coolness"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase is the cool second half of Yuanwu’s answer and the line at which Dahui’s break occurs. The record does not reduce that encounter to pleasant weather.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T22:24:14.617776Z"
+  },
+  {
     "SourceTerm": "毒藥",
     "PreferredTarget": "poison",
     "AlternateTargets": [
@@ -30582,6 +31974,18 @@
     "WrittenUtc": "2026-07-18T10:01:17.296362Z"
   },
   {
+    "SourceTerm": "水底金烏天上日",
+    "PreferredTarget": "the golden crow beneath the water is the sun in heaven",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the golden crow beneath the water is the sun in heaven"
+    ],
+    "Status": "preferred",
+    "Note": "Feiyin Tongrong, Jifei Ruyi, and Wenmu Nian use the line in distinct hall addresses and comments. Later lamp collections repeating Chongfu Deji’s wording are treated as one inherited case.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T00:00:00Z"
+  },
+  {
     "SourceTerm": "水月",
     "PreferredTarget": "the moon in water",
     "AlternateTargets": [],
@@ -30700,6 +32104,18 @@
     "WrittenUtc": "2026-07-17T17:28:05.442634+00:00"
   },
   {
+    "SourceTerm": "水自竹邊流出冷，風從花裏過來香",
+    "PreferredTarget": "water flowing past bamboo comes out cool, while wind passing through flowers comes fragrant",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "water by bamboo flows out cool; wind through flowers comes fragrant"
+    ],
+    "Status": "preferred",
+    "Note": "Only Tuian Daoqi’s answer to the Ehu-and-Baofu question currently supports this complete couplet.",
+    "CreatedBy": "Codex regular-vetted Iriya release005 lane C",
+    "WrittenUtc": "2026-07-22T00:00:00Z"
+  },
+  {
     "SourceTerm": "水頭",
     "PreferredTarget": "water steward",
     "AlternateTargets": [
@@ -30762,6 +32178,20 @@
     "Note": "Fixed image that seeking a pearl does not leave the mud. The cases pair it with testing jade in fire to insist that the sought treasure is reached through direct engagement with difficult conditions.",
     "CreatedBy": "Codex cohort-002 lane-B B091-B100 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
+  },
+  {
+    "SourceTerm": "汝箇自己",
+    "PreferredTarget": "your own self",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "your very own self",
+      "your own person",
+      "all of it is your own self"
+    ],
+    "Status": "preferred",
+    "Note": "The entry follows Huangbo’s explicit sentence and does not replace ‘self’ with ‘ego’ or import a theory of personal identity.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T21:49:33.189281Z"
   },
   {
     "SourceTerm": "江國春風吹不起，鷓鴣啼在深花裏",
@@ -31038,6 +32468,20 @@
     "Note": "4 curated occurrences from 4 canonical works.",
     "CreatedBy": "Codex f004 C1186-1195 sourceGroups author",
     "WrittenUtc": "2026-07-15T15:59:21.415513+00:00"
+  },
+  {
+    "SourceTerm": "泉聲中夜後。山色夕陽時",
+    "PreferredTarget": "the sound of the spring after midnight, the mountain colors at sunset",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "midnight spring sound and sunset mountain color",
+      "spring after midnight, mountain at sunset",
+      "sound and color at their late hours"
+    ],
+    "Status": "preferred",
+    "Note": "The first occurrence belongs to an unnamed questioner and is rejected by Xutang; later in the same record Xutang himself uses the line to cap a raised case.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T21:38:17.292308Z"
   },
   {
     "SourceTerm": "法不相饒",
@@ -31919,6 +33363,22 @@
     "WrittenUtc": "2026-07-15T04:30:59.686577+00:00"
   },
   {
+    "SourceTerm": "活人何必劍",
+    "PreferredTarget": "to bring someone to life, why need a sword?",
+    "AlternateTargets": [
+      "why use a sword to give life?"
+    ],
+    "SearchAliases": [
+      "giving life without a sword",
+      "Dahui’s life-giving answer",
+      "kill without knife give life without sword"
+    ],
+    "Status": "preferred",
+    "Note": "The line is one direct answer in Dahui’s opening address and is provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T01:00:00Z"
+  },
+  {
     "SourceTerm": "活人劍",
     "PreferredTarget": "the sword that gives life",
     "AlternateTargets": [
@@ -32176,6 +33636,20 @@
     "WrittenUtc": "2026-07-19T19:46:34.880702Z"
   },
   {
+    "SourceTerm": "海濶百川朝",
+    "PreferredTarget": "the sea is broad, and the hundred rivers pay court",
+    "AlternateTargets": [
+      "the sea is broad and all rivers flow toward it"
+    ],
+    "SearchAliases": [
+      "broad sea hundred rivers"
+    ],
+    "Status": "preferred",
+    "Note": "The recurrence is a stable paired verse line, but its release authority preserves the provisional judgment because only one semantic deployment was pre-vetted.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T01:30:00Z"
+  },
+  {
     "SourceTerm": "海神知貴不知價",
     "PreferredTarget": "the sea god knows its preciousness but not its price",
     "AlternateTargets": [
@@ -32375,7 +33849,7 @@
   },
   {
     "SourceTerm": "深沙努眼睛",
-    "PreferredTarget": "the deep-sand spirit strains his eyes",
+    "PreferredTarget": "the deep-sand spirit glares",
     "AlternateTargets": [],
     "SearchAliases": [
       "the deep-sand spirit strains his eyes",
@@ -32391,7 +33865,7 @@
     "SourceTerm": "深深海底行",
     "PreferredTarget": "walk on the deepest ocean floor",
     "AlternateTargets": [
-      "go at the very bottom of the sea"
+      "travel along the very bottom of the sea"
     ],
     "SearchAliases": [
       "walk on the deepest ocean floor",
@@ -32414,6 +33888,20 @@
     "Note": "The scene remains rain, curtains, sunset, towers, and a flute; the records supply no single symbolic key.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T16:33:15.358606Z"
+  },
+  {
+    "SourceTerm": "深辨來風",
+    "PreferredTarget": "discern deeply what is coming",
+    "AlternateTargets": [
+      "keenly discern the approach"
+    ],
+    "SearchAliases": [
+      "discern the coming wind"
+    ],
+    "Status": "preferred",
+    "Note": "These cases retain the same action of discerning the approach while placing it in comment, appraisal, and direct answer.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T01:30:00Z"
   },
   {
     "SourceTerm": "淺水無魚、徒勞下釣",
@@ -32668,6 +34156,22 @@
     "Note": "The witnesses distinguish transmission of Su Shi’s verse from later masters’ quotation and appraisal.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T00:00:00Z"
+  },
+  {
+    "SourceTerm": "滅滅挈挈",
+    "PreferredTarget": "a faltering, fragmentary understanding",
+    "AlternateTargets": [
+      "a broken and discontinuous understanding"
+    ],
+    "SearchAliases": [
+      "fragmentary understanding",
+      "broken continuity",
+      "Yuanwu’s contrast with Deshan"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase survives in one comment; the adjacent text contrasts being broken into pieces with continuity and being complete.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T01:00:00Z"
   },
   {
     "SourceTerm": "滅胡種族",
@@ -33098,6 +34602,18 @@
     "Note": "Three witnesses transmit Xuedou’s verse; Juelang supplies an independent direct-answer use.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T09:00:00Z"
+  },
+  {
+    "SourceTerm": "為賊過梯",
+    "PreferredTarget": "setting up a ladder for a thief",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "setting up a ladder for a thief"
+    ],
+    "Status": "preferred",
+    "Note": "Foguo Weibai’s exchange supplies the sole exact use of the ladder-for-a-thief phrase.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T00:00:00Z"
   },
   {
     "SourceTerm": "烏龜鑽破壁",
@@ -33739,6 +35255,20 @@
     "WrittenUtc": "2026-07-17T07:52:28.612802+00:00"
   },
   {
+    "SourceTerm": "無病著艾，不是好心",
+    "PreferredTarget": "applying moxa where there is no illness is not a good intention",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "moxa without illness",
+      "treating one who is not sick",
+      "needless moxibustion"
+    ],
+    "Status": "preferred",
+    "Note": "The medical act is a criticism of needless intervention in this raised case; it does not prescribe or condemn moxibustion generally.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T21:40:05.021228Z"
+  },
+  {
     "SourceTerm": "無相",
     "PreferredTarget": "without marks",
     "AlternateTargets": [
@@ -34187,6 +35717,21 @@
     "WrittenUtc": "2026-07-15T15:28:02.993665+00:00"
   },
   {
+    "SourceTerm": "蒸沙成飯",
+    "PreferredTarget": "steam sand into rice",
+    "AlternateTargets": [
+      "make rice by steaming sand"
+    ],
+    "SearchAliases": [
+      "steaming sand into rice",
+      "sand cooked as rice"
+    ],
+    "Status": "preferred",
+    "Note": "The single exact occurrence belongs to a verse explicitly attributed to Shide.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T12:00:00Z"
+  },
+  {
     "SourceTerm": "蒸砂作飯",
     "PreferredTarget": "steam sand to make rice",
     "AlternateTargets": [
@@ -34473,6 +36018,22 @@
     "WrittenUtc": "2026-07-18T21:03:28Z"
   },
   {
+    "SourceTerm": "爭人負我",
+    "PreferredTarget": "contending that others have wronged me",
+    "AlternateTargets": [
+      "vying with others over their failure toward me"
+    ],
+    "SearchAliases": [
+      "others have wronged me",
+      "contending over injury",
+      "Huangbo not self-asserting"
+    ],
+    "Status": "preferred",
+    "Note": "Yuanwu pairs the denial with “self-display and self-praise”; the line does not support a general account of the mind.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T01:00:00Z"
+  },
+  {
     "SourceTerm": "爲君幾下蒼龍窟",
     "PreferredTarget": "for you, how many descents into the blue dragon’s cave?",
     "AlternateTargets": [],
@@ -34599,6 +36160,32 @@
     "Note": "The list denotes physical debris in its literal wording. Claims such as “is buddha-mind” or “emits light” are reported only where the cited speaker states them.",
     "CreatedBy": "Codex Iriya lane C161-166 full-case author",
     "WrittenUtc": "2026-07-19T06:30:00Z"
+  },
+  {
+    "SourceTerm": "片言可折",
+    "PreferredTarget": "a single phrase can decide it",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a single phrase can decide it"
+    ],
+    "Status": "preferred",
+    "Note": "Yuanwu’s pointer supplies the sole exact use of the complete phrase in the frozen corpus.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T00:00:00Z"
+  },
+  {
+    "SourceTerm": "牙上生牙。爪上生爪",
+    "PreferredTarget": "teeth growing on teeth, claws growing on claws",
+    "AlternateTargets": [
+      "teeth upon teeth, claws upon claws"
+    ],
+    "SearchAliases": [
+      "teeth upon teeth, claws upon claws"
+    ],
+    "Status": "preferred",
+    "Note": "The doubled anatomy appraises one answer and does not name separate senses.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T12:00:00Z"
   },
   {
     "SourceTerm": "牙如劍樹、口似血盆",
@@ -34871,6 +36458,32 @@
     "WrittenUtc": "2026-07-21T15:35:00Z"
   },
   {
+    "SourceTerm": "狂狗逐塊",
+    "PreferredTarget": "a mad dog chases the clod",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "mad dog pursues the thrown clod",
+      "the crazed dog runs after the lump",
+      "chasing the clod like a mad dog"
+    ],
+    "Status": "preferred",
+    "Note": "The paired image contrasts going for the person with chasing what was thrown. Yuanwu applies the latter to following verbal formulations; the entry does not make dogs or clods symbols outside these explicit uses.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T22:24:27.599422Z"
+  },
+  {
+    "SourceTerm": "狗不擇家貧",
+    "PreferredTarget": "a dog does not reject a household for being poor",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a dog does not reject a household for being poor"
+    ],
+    "Status": "preferred",
+    "Note": "Xutang’s record supplies the sole exact occurrence of this household proverb.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T00:00:00Z"
+  },
+  {
     "SourceTerm": "狗咬枯骨",
     "PreferredTarget": "a dog gnawing a dry bone",
     "AlternateTargets": [
@@ -34918,6 +36531,34 @@
     "WrittenUtc": "2026-07-15T05:30:00Z"
   },
   {
+    "SourceTerm": "狗銜赦書，諸侯避路",
+    "PreferredTarget": "a dog carries the pardon document, and the lords clear the road",
+    "AlternateTargets": [
+      "when a dog bears the writ of pardon, the feudal lords stand aside"
+    ],
+    "SearchAliases": [
+      "dog pardon document lords clear road"
+    ],
+    "Status": "preferred",
+    "Note": "The proverb occurs once in Tianran Hanshi’s record and remains provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:00:00Z"
+  },
+  {
+    "SourceTerm": "狡兔三穴",
+    "PreferredTarget": "a crafty rabbit has three burrows",
+    "AlternateTargets": [
+      "a cunning hare keeps three holes"
+    ],
+    "SearchAliases": [
+      "crafty rabbit three burrows"
+    ],
+    "Status": "preferred",
+    "Note": "The expression occurs once in the frozen corpus and remains tied to Wansong’s introduction of this case.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T02:00:00Z"
+  },
+  {
     "SourceTerm": "狸奴白牯",
     "PreferredTarget": "cats and white oxen",
     "AlternateTargets": [
@@ -34945,6 +36586,22 @@
     "Note": "7 distinct work IDs selected after complete-context review.",
     "CreatedBy": "Codex f004 lane A 926-950 full-case repair author",
     "WrittenUtc": "2026-07-15T16:45:00Z"
+  },
+  {
+    "SourceTerm": "猛虎不顧几上肉，洪爐豈鑄囊中錐",
+    "PreferredTarget": "a fierce tiger ignores meat on the table, and a roaring furnace does not cast an awl inside a bag",
+    "AlternateTargets": [
+      "the tiger passes table meat; the great furnace does not cast a bagged awl"
+    ],
+    "SearchAliases": [
+      "tiger ignores meat",
+      "furnace and bagged awl",
+      "awl inside a bag"
+    ],
+    "Status": "preferred",
+    "Note": "Four compilations preserve the same Jinshan Ruixin address, so the entry remains provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T22:20:00Z"
   },
   {
     "SourceTerm": "猛虎不食伏肉",
@@ -35063,6 +36720,32 @@
     "WrittenUtc": "2026-07-18T07:00:47.320557+00:00"
   },
   {
+    "SourceTerm": "猶較半月程",
+    "PreferredTarget": "still half a month’s journey short",
+    "AlternateTargets": [
+      "still half a month away"
+    ],
+    "SearchAliases": [
+      "half month journey short"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase is one direct answer in Foyuan Chegang’s record and remains provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T01:30:00Z"
+  },
+  {
+    "SourceTerm": "猿抱子歸青嶂後，鳥啣花落碧巖前",
+    "PreferredTarget": "an ape carrying its young returns behind the green peaks, while a bird bearing a flower drops it before the blue cliff",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "an ape with its young goes behind the green ridges; a bird holding a flower lets it fall before the blue crag"
+    ],
+    "Status": "preferred",
+    "Note": "Jiashan Shanhui’s answer and Fayan Wenyi’s later warning against hearing it merely as scenery form the retained case.",
+    "CreatedBy": "Codex regular-vetted Iriya release005 lane C",
+    "WrittenUtc": "2026-07-22T00:00:00Z"
+  },
+  {
     "SourceTerm": "獅子教兒迷子訣",
     "PreferredTarget": "the lion’s way of teaching its cub is to bewilder it",
     "AlternateTargets": [],
@@ -35152,6 +36835,20 @@
     "Note": "The line concerns fitness rather than the literal quantity of incense.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T19:34:59.109696Z"
+  },
+  {
+    "SourceTerm": "獼猴探水月",
+    "PreferredTarget": "a macaque reaches for the moon in the water",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "monkey reaches for the water moon",
+      "macaque grasps at a reflected moon",
+      "macaque and the moon in water"
+    ],
+    "Status": "preferred",
+    "Note": "The shared image is an animal reaching for a reflected moon. The two masters place it in different sentences, so the entry preserves both settings without claiming that every water-moon occurrence carries this judgment.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T21:49:35.757682Z"
   },
   {
     "SourceTerm": "玄妙",
@@ -35265,7 +36962,7 @@
       "law of the realm"
     ],
     "Status": "preferred",
-    "Note": "The expression denotes the normative authority and law of the ruler or polity. Context distinguishes state law from broader metaphors of sovereign order.",
+    "Note": "The ruler’s law or public law of the realm; 法王法 (‘the Dharma King’s dharma’) is a different expression and is excluded.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
@@ -35491,6 +37188,35 @@
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
   {
+    "SourceTerm": "甜蜜蜜地",
+    "PreferredTarget": "sweet, sweet",
+    "AlternateTargets": [
+      "made cloyingly sweet"
+    ],
+    "SearchAliases": [
+      "sweetened teaching"
+    ],
+    "Status": "preferred",
+    "Note": "The reduplicated adverb describes the added sentence in this one comment and remains provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T01:30:00Z"
+  },
+  {
+    "SourceTerm": "生如著衫",
+    "PreferredTarget": "birth is like putting on a shirt",
+    "AlternateTargets": [
+      "to be born is like putting on a garment"
+    ],
+    "SearchAliases": [
+      "birth like putting on clothes",
+      "putting on the body like clothing"
+    ],
+    "Status": "preferred",
+    "Note": "The records ask who wears the garment; this entry does not supply an answer they do not give.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T06:05:00Z"
+  },
+  {
     "SourceTerm": "生心",
     "PreferredTarget": "to give rise to thought",
     "AlternateTargets": [
@@ -35614,6 +37340,21 @@
     "Note": "The earlier draft split Huanglong's checkpoint from biographical 'native place.' Item 8 requires their merger: both ask the person's origin circumstance, and the named chamber setting changes deployment rather than referent. The generative condition applied to the myriad things remains separate below.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
+  },
+  {
+    "SourceTerm": "生薑終不改辣",
+    "PreferredTarget": "ginger never loses its pungency",
+    "AlternateTargets": [
+      "ginger never changes its bite",
+      "ginger never stops being spicy"
+    ],
+    "SearchAliases": [
+      "ginger stays pungent"
+    ],
+    "Status": "preferred",
+    "Note": "The saying is one direct answer in Xutang Zhiyu’s record and remains provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T01:30:00Z"
   },
   {
     "SourceTerm": "生鐵鑄就",
@@ -35900,7 +37641,7 @@
   },
   {
     "SourceTerm": "當初只道茅長短、燒了方知地不平",
-    "PreferredTarget": "at first blaming the uneven thatch, then burning it and finding uneven ground",
+    "PreferredTarget": "at first blaming only the thatch's length, then burning it and learning the ground was uneven",
     "AlternateTargets": [
       "burning the thatch reveals uneven ground",
       "the grass was not the real unevenness"
@@ -36200,6 +37941,22 @@
     "Note": "The killing graph intensifies doubt; the retained cases do not narrate literal killing.",
     "CreatedBy": "Codex Iriya lane A111-120 full-case author",
     "WrittenUtc": "2026-07-18T18:20:00Z"
+  },
+  {
+    "SourceTerm": "疥狗不願生天。却笑雲中白鶴",
+    "PreferredTarget": "a mange-ridden dog does not wish for heaven, but laughs at the white crane in the clouds",
+    "AlternateTargets": [
+      "the mangy dog refuses heaven and laughs at the cloud-borne crane"
+    ],
+    "SearchAliases": [
+      "mangy dog laughs at crane",
+      "white crane in the clouds",
+      "dog refuses heaven"
+    ],
+    "Status": "preferred",
+    "Note": "Huanglong Huinan and Tiantong Rujing each speak the complete dog-and-crane line in their own records.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T22:20:00Z"
   },
   {
     "SourceTerm": "癡人面前、不得説夢",
@@ -36643,7 +38400,7 @@
       "how do you advance from the top of a hundred-foot pole?"
     ],
     "Status": "preferred",
-    "Note": "This question asks how practice proceeds when one has reached the limit symbolized by a hundred-foot pole.",
+    "Note": "The question asks how one advances from the pole-top; the records preserve several different answers.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T00:30:00Z"
   },
@@ -36691,6 +38448,22 @@
     "Note": "Because speakers both commend and depreciate perfect hitting, the idiom alone records accuracy and does not guarantee approval.",
     "CreatedBy": "Codex Iriya lane C151-160 full-case author",
     "WrittenUtc": "2026-07-19T04:20:00Z"
+  },
+  {
+    "SourceTerm": "百花春到為誰開",
+    "PreferredTarget": "when spring arrives, for whom do the hundred flowers open?",
+    "AlternateTargets": [
+      "for whom do all the flowers bloom when spring comes?"
+    ],
+    "SearchAliases": [
+      "flowers open for whom",
+      "hundred flowers in spring",
+      "Xuedou flower question"
+    ],
+    "Status": "preferred",
+    "Note": "The retained lamp witness attributes the verse to Xuedou; the question remains open rather than being converted into a fixed answer about the flowers.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T01:30:00Z"
   },
   {
     "SourceTerm": "百草頭",
@@ -36753,7 +38526,7 @@
   },
   {
     "SourceTerm": "皂白",
-    "PreferredTarget": "black from white",
+    "PreferredTarget": "distinguish black from white",
     "AlternateTargets": [],
     "SearchAliases": [
       "black from white",
@@ -36796,6 +38569,48 @@
     "Note": "The literal anatomy and the idiomatic qualification do not require separate senses here: the records explicitly connect blood under skin to knowing pain and itch, preserving the bodily predicate inside the transferred use. “A person who can feel pain” is therefore an alternate contextual rendering, not an interpretive second sense.",
     "CreatedBy": "Codex f002 Lane C author",
     "WrittenUtc": "2026-07-15T01:57:19.816132+00:00"
+  },
+  {
+    "SourceTerm": "皮栲栳禪",
+    "PreferredTarget": "leather-basket Chan",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Chan like a leather basket",
+      "the leather basket style of Chan",
+      "resilient leather-basket Chan"
+    ],
+    "Status": "preferred",
+    "Note": "The corpus itself makes resilience under impact the point of the leather basket and brittleness the contrast with glass. It does not define a separate lineage or a formal school called leather-basket Chan.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T22:19:34.506577Z"
+  },
+  {
+    "SourceTerm": "皮膚脫落盡",
+    "PreferredTarget": "skin has fallen away completely",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the skin has entirely dropped off",
+      "all skin falls away",
+      "skin completely shed"
+    ],
+    "Status": "preferred",
+    "Note": "The skin is what Yaoshan says has dropped away in the cited answer. The entry does not turn it into anatomy or claim that Tianyin treats the quoted arrival as final.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T22:24:19.617095Z"
+  },
+  {
+    "SourceTerm": "皮衣土食",
+    "PreferredTarget": "wearing hides and eating from the earth",
+    "AlternateTargets": [
+      "clothed in skins and feeding from the ground"
+    ],
+    "SearchAliases": [
+      "clothed in skins and feeding from the ground"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase is part of Dongshan’s admonition about human conduct and sustenance; it is not an endorsement of an ascetic costume or diet.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T07:15:00Z"
   },
   {
     "SourceTerm": "皮袋",
@@ -37147,6 +38962,20 @@
     "WrittenUtc": "2026-07-15T04:51:44.701666+00:00"
   },
   {
+    "SourceTerm": "直透萬重關",
+    "PreferredTarget": "pass straight through ten thousand barriers",
+    "AlternateTargets": [
+      "pierce all barriers directly"
+    ],
+    "SearchAliases": [
+      "pierce all barriers directly"
+    ],
+    "Status": "preferred",
+    "Note": "The component can introduce several continuations; the governed entry does not promote any one continuation into its identity.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:20:00Z"
+  },
+  {
     "SourceTerm": "相似語",
     "PreferredTarget": "look-alike words",
     "AlternateTargets": [
@@ -37197,6 +39026,32 @@
     "Note": "Seven witnesses show reciprocal misleading as accusation, warning, and negated assurance; none requires intentional commercial fraud.",
     "CreatedBy": "Codex construction Lane C evidence-first",
     "WrittenUtc": "2026-07-17T08:54:56.339802+00:00"
+  },
+  {
+    "SourceTerm": "相罵饒你接觜",
+    "PreferredTarget": "when insults are exchanged, you may answer back",
+    "AlternateTargets": [
+      "in trading insults, you are allowed to answer back"
+    ],
+    "SearchAliases": [
+      "answer back to insults"
+    ],
+    "Status": "preferred",
+    "Note": "Several texts repeat the fixed pair; the three retained witnesses show direct reuse and an explicitly attributed quotation without turning copied recensions into separate senses.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T01:30:00Z"
+  },
+  {
+    "SourceTerm": "相罵饒你接觜，相唾饒你潑水",
+    "PreferredTarget": "when trading insults, answer back, and when spitting at each other, splash water back",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "answering insults and returning spit"
+    ],
+    "Status": "preferred",
+    "Note": "Seven works preserve the exact saying; three distinct direct uses are retained.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T15:00:00Z"
   },
   {
     "SourceTerm": "相見",
@@ -37545,15 +39400,16 @@
     "SourceTerm": "真禪",
     "PreferredTarget": "genuine Chan",
     "AlternateTargets": [
-      "authentic Chan",
-      "true contemplative teaching"
+      "true Chan",
+      "authentic Chan"
     ],
     "SearchAliases": [
       "genuine Chan",
+      "true Chan",
       "authentic Chan"
     ],
     "Status": "preferred",
-    "Note": "The expression marks Chan judged authentic rather than merely verbal or imitative. The approving adjective is contextual and does not create a separate institution.",
+    "Note": "真 modifies 禪 in these passages: the masters contrast or ask after Chan that is genuine. Personal names ending in 真 before 禪師 are excluded as segmentation collisions.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
@@ -37682,7 +39538,7 @@
   },
   {
     "SourceTerm": "眼睛突出",
-    "PreferredTarget": "with the eyes bulging out",
+    "PreferredTarget": "eyes bulging out",
     "AlternateTargets": [],
     "SearchAliases": [
       "with the eyes bulging out"
@@ -37775,7 +39631,7 @@
   },
   {
     "SourceTerm": "眾盲摸象",
-    "PreferredTarget": "the many blind people feel the elephant",
+    "PreferredTarget": "many blind people groping an elephant",
     "AlternateTargets": [
       "blind people examining an elephant",
       "each blind person touches one part of the elephant"
@@ -37894,6 +39750,37 @@
     "WrittenUtc": "2026-07-19T03:32:59.683682+00:00"
   },
   {
+    "SourceTerm": "矢在弦上",
+    "PreferredTarget": "the arrow is on the string",
+    "AlternateTargets": [
+      "an arrow already set to the bowstring"
+    ],
+    "SearchAliases": [
+      "arrow ready to fire",
+      "on the bowstring",
+      "cannot hold back the shot"
+    ],
+    "Status": "preferred",
+    "Note": "Across the retained records, being on the string is distinguished from actually releasing the arrow.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T01:30:00Z"
+  },
+  {
+    "SourceTerm": "矢在弦上，不得不發",
+    "PreferredTarget": "the arrow is on the string and has to be released",
+    "AlternateTargets": [
+      "with the arrow already nocked, it cannot remain unshot"
+    ],
+    "SearchAliases": [
+      "arrow on the bowstring",
+      "cannot but release the arrow"
+    ],
+    "Status": "preferred",
+    "Note": "Three independent works preserve three direct uses of the saying.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T15:00:00Z"
+  },
+  {
     "SourceTerm": "知事",
     "PreferredTarget": "a monastery administrator",
     "AlternateTargets": [
@@ -37979,7 +39866,7 @@
   },
   {
     "SourceTerm": "知有底人",
-    "PreferredTarget": "a person who knows there is this",
+    "PreferredTarget": "a person who recognizes the matter at issue",
     "AlternateTargets": [
       "a person who knows what is there"
     ],
@@ -38152,6 +40039,22 @@
     "WrittenUtc": "2026-07-20T20:00:00Z"
   },
   {
+    "SourceTerm": "石壓笋斜出。岸懸花倒生",
+    "PreferredTarget": "pressed by a rock, the bamboo shoot emerges sideways, while hanging from the bank, the flower grows downward",
+    "AlternateTargets": [
+      "a stone weighs on the shoot, so it comes out slantwise; a cliff-hung flower blooms upside down"
+    ],
+    "SearchAliases": [
+      "rock-pressed shoot hanging flower",
+      "bamboo emerging sideways",
+      "flower growing downward from bank"
+    ],
+    "Status": "preferred",
+    "Note": "The line is Juebao Qing’s addition to the raised Yunmen case; it is one direct deployment and remains provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T01:30:00Z"
+  },
+  {
     "SourceTerm": "石女",
     "PreferredTarget": "stone woman",
     "AlternateTargets": [],
@@ -38182,7 +40085,7 @@
   },
   {
     "SourceTerm": "石從空裏立，火向水中焚",
-    "PreferredTarget": "stone stands up from within empty space, and fire burns toward the middle of water",
+    "PreferredTarget": "a stone rises up in empty space, and fire burns in the midst of water",
     "AlternateTargets": [
       "a stone rises in empty space while fire burns in water"
     ],
@@ -38379,6 +40282,20 @@
     "Note": "Six exact headword-bearing retellings from six independent works are stored; later masters disagree in appraisal without changing the action denoted.",
     "CreatedBy": "Codex construction Lane C evidence-first",
     "WrittenUtc": "2026-07-19T03:23:22.023942+00:00"
+  },
+  {
+    "SourceTerm": "碁逢敵手難藏行，詩到重吟始見功",
+    "PreferredTarget": "when a chess player meets an equal, his moves are hard to hide; only on reciting a poem again does its craft appear",
+    "AlternateTargets": [
+      "an equal opponent exposes the chess play, repeated recitation reveals the poem’s skill"
+    ],
+    "SearchAliases": [
+      "an equal opponent exposes the chess play, repeated recitation reveals the poem’s skill"
+    ],
+    "Status": "preferred",
+    "Note": "Chess play and poetic craft form the two halves of one transmitted comparison.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T12:00:00Z"
   },
   {
     "SourceTerm": "碓嘴生花",
@@ -38856,6 +40773,21 @@
     "WrittenUtc": "2026-07-15T15:03:50.947927+00:00"
   },
   {
+    "SourceTerm": "神駒千里驟",
+    "PreferredTarget": "a divine steed gallops a thousand li",
+    "AlternateTargets": [
+      "the fine steed charges a thousand li"
+    ],
+    "SearchAliases": [
+      "a divine horse runs a thousand miles",
+      "a swift steed over a thousand li"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase occurs once in Zhuanyu Guanheng's own verse.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T12:00:00Z"
+  },
+  {
     "SourceTerm": "禍不單行",
     "PreferredTarget": "misfortune does not travel alone",
     "AlternateTargets": [
@@ -38898,6 +40830,20 @@
     "Note": "The phrase identifies incurred consequence but does not by itself specify moral guilt.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T16:00:00Z"
+  },
+  {
+    "SourceTerm": "禍福無門唯人自召",
+    "PreferredTarget": "fortune and disaster have no gate because people summon them themselves",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "fortune and disaster are self-summoned",
+      "no gate for fortune or disaster",
+      "people call down fortune and disaster"
+    ],
+    "Status": "preferred",
+    "Note": "The single retained deployment is Shexian’s encounter verdict, not a general promise that every event is deserved.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T21:38:00.033918Z"
   },
   {
     "SourceTerm": "禪人",
@@ -39192,6 +41138,20 @@
     "WrittenUtc": "2026-07-15T00:00:00Z"
   },
   {
+    "SourceTerm": "禮非玉帛而不表。樂非鐘鼓而不傳",
+    "PreferredTarget": "ritual is displayed through jade and silk, and music is transmitted through bells and drums",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "ritual needs jade and silk",
+      "music needs bells and drums",
+      "jade and silk, bells and drums"
+    ],
+    "Status": "preferred",
+    "Note": "The records use the concrete ceremonial objects to state that something becomes manifest or transmissible through an outward means; they do not identify jade, silk, bells, or drums as hidden substances.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T21:49:21.036174Z"
+  },
+  {
     "SourceTerm": "禹力不到處，河聲流向西",
     "PreferredTarget": "where Yu’s power does not reach, the river’s sound flows west",
     "AlternateTargets": [],
@@ -39202,6 +41162,20 @@
     "Note": "The landscape couplet becomes a hall-ending line, a response after a challenge, and a direct answer to a requested saying.",
     "CreatedBy": "Codex cohort-002 lane-A positions 134-145 full-case author",
     "WrittenUtc": "2026-07-19T06:55:34.580165Z"
+  },
+  {
+    "SourceTerm": "萬人作一塚、時人盡帶愁",
+    "PreferredTarget": "ten thousand people make one grave, and everyone of the time bears sorrow",
+    "AlternateTargets": [
+      "a myriad people become one mound; all their contemporaries carry grief"
+    ],
+    "SearchAliases": [
+      "a myriad people become one mound; all their contemporaries carry grief"
+    ],
+    "Status": "preferred",
+    "Note": "The other witness reproduces the same fourfold set, so the one deployment remains provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T06:00:00Z"
   },
   {
     "SourceTerm": "萬別千差",
@@ -39844,7 +41818,7 @@
   },
   {
     "SourceTerm": "立定腳跟",
-    "PreferredTarget": "figurative firm footing",
+    "PreferredTarget": "establish firm footing",
     "AlternateTargets": [
       "stand one’s ground",
       "plant one’s feet firmly"
@@ -39983,6 +41957,21 @@
     "Note": "Seven independent works retain usable biographical or encounter evidence; one unrelated hall-image case was excluded rather than used to pad depth.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T01:20:13.974145+00:00"
+  },
+  {
+    "SourceTerm": "端居寰海定龍蛇",
+    "PreferredTarget": "seated upright in the realm, he distinguishes dragons from snakes",
+    "AlternateTargets": [
+      "dwelling settled over the world, he determines dragon from snake"
+    ],
+    "SearchAliases": [
+      "determine dragon and snake",
+      "distinguish dragons from snakes"
+    ],
+    "Status": "preferred",
+    "Note": "The exact component is widely transmitted; four differently framed uses are retained rather than counting every recension of Xuedou’s verse.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T15:00:00Z"
   },
   {
     "SourceTerm": "端的",
@@ -40160,7 +42149,7 @@
     "SourceTerm": "笑殺天下人",
     "PreferredTarget": "make everyone under heaven laugh",
     "AlternateTargets": [
-      "be laughed at by the whole world"
+      "set the whole world laughing"
     ],
     "SearchAliases": [
       "everyone laughs",
@@ -40418,9 +42407,7 @@
   {
     "SourceTerm": "箭過新羅",
     "PreferredTarget": "the arrow has already passed Silla",
-    "AlternateTargets": [
-      "the arrow has already passed Silla"
-    ],
+    "AlternateTargets": [],
     "SearchAliases": [
       "arrow past Silla",
       "too late arrow"
@@ -40612,6 +42599,20 @@
     "Note": "紅塵 is the conventional image for worldly life and its bustle, also used in impossible or overturning Chan images.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T00:30:00Z"
+  },
+  {
+    "SourceTerm": "紅日到天心",
+    "PreferredTarget": "the red sun reaches the center of the sky",
+    "AlternateTargets": [
+      "the red sun comes to the heart of heaven"
+    ],
+    "SearchAliases": [
+      "red sun at heaven’s center"
+    ],
+    "Status": "preferred",
+    "Note": "The same image is independently used as a direct answer in three masters’ records.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:00:00Z"
   },
   {
     "SourceTerm": "紅爐上一點雪",
@@ -41579,6 +43580,22 @@
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
   {
+    "SourceTerm": "老鴉啄蠣",
+    "PreferredTarget": "an old crow pecking an oyster",
+    "AlternateTargets": [
+      "the old crow pecks at the oyster"
+    ],
+    "SearchAliases": [
+      "crow pecking oyster",
+      "old crow and oyster",
+      "crow pecks shellfish"
+    ],
+    "Status": "preferred",
+    "Note": "No surviving parallel explains why this animal scene was chosen, so the entry states its exact conversational work without assigning a symbolism.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T10:30:00Z"
+  },
+  {
     "SourceTerm": "老鼠入牛角",
     "PreferredTarget": "a rat entering an ox horn",
     "AlternateTargets": [
@@ -41805,6 +43822,20 @@
     "WrittenUtc": "2026-07-17T10:32:54.643271+00:00"
   },
   {
+    "SourceTerm": "聽事不眞、喚鐘作甕",
+    "PreferredTarget": "hearing the matter wrongly and calling a bell a jar",
+    "AlternateTargets": [
+      "mishearing the matter and mistaking a bell for a jar"
+    ],
+    "SearchAliases": [
+      "mishearing the matter and mistaking a bell for a jar"
+    ],
+    "Status": "preferred",
+    "Note": "The complete pair is retained from Yongyuan’s direct reply; later uses of the second clause alone are not treated as this whole saying.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T06:00:00Z"
+  },
+  {
     "SourceTerm": "聽吾偈",
     "PreferredTarget": "listen to my verse",
     "AlternateTargets": [
@@ -41829,6 +43860,21 @@
     "Note": "聽法 describes attending to a spoken Buddhist or Chan teaching.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T00:30:00Z"
+  },
+  {
+    "SourceTerm": "聾人也唱胡家曲。好惡高低總不聞",
+    "PreferredTarget": "even a deaf person sings a Hu tune, yet hears neither its quality nor its pitch",
+    "AlternateTargets": [
+      "a deaf person too sings the Hu tune but cannot hear good or bad, high or low"
+    ],
+    "SearchAliases": [
+      "the deaf singer and the Hu tune",
+      "unable to hear the tune one sings"
+    ],
+    "Status": "preferred",
+    "Note": "The complete couplet is preserved in one work; its speaker is introduced only as an earlier person and is not named.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T10:45:00Z"
   },
   {
     "SourceTerm": "肉上剜瘡",
@@ -41857,6 +43903,20 @@
     "Note": "Seven witnesses preserve Linji’s formulation and later quotations and transformations.",
     "CreatedBy": "Codex independent Lane C semantic repair",
     "WrittenUtc": "2026-07-20T00:00:00Z"
+  },
+  {
+    "SourceTerm": "肐膊不向外",
+    "PreferredTarget": "an elbow does not bend outward",
+    "AlternateTargets": [
+      "one's arm bends inward"
+    ],
+    "SearchAliases": [
+      "one's arm bends inward"
+    ],
+    "Status": "preferred",
+    "Note": "The source preserves a longer form ending with ‘bend’; the queued headword is its searchable core.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T02:30:00Z"
   },
   {
     "SourceTerm": "肘後有符",
@@ -41916,6 +43976,20 @@
     "WrittenUtc": "2026-07-21T15:20:00Z"
   },
   {
+    "SourceTerm": "胡張三、黒李四",
+    "PreferredTarget": "Hu Zhangsan and black Li Si",
+    "AlternateTargets": [
+      "Zhang the third from Hu and black Li the fourth"
+    ],
+    "SearchAliases": [
+      "Zhang the third from Hu and black Li the fourth"
+    ],
+    "Status": "preferred",
+    "Note": "The paired names do not identify two historical persons; Huqiu uses them for whoever stands outside the gate in the exchange.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T06:00:00Z"
+  },
+  {
     "SourceTerm": "胡盧胡盧",
     "PreferredTarget": "hulu, hulu—the sound of a banner in the wind",
     "AlternateTargets": [],
@@ -41928,6 +44002,20 @@
     "WrittenUtc": "2026-07-19T19:35:05.262886Z"
   },
   {
+    "SourceTerm": "胡蜂不戀舊時窠。猛將不在家中死",
+    "PreferredTarget": "a hornet does not cling to its old nest, and a fierce general does not die at home",
+    "AlternateTargets": [
+      "the hornet leaves its former nest; the valiant commander dies away from home"
+    ],
+    "SearchAliases": [
+      "the hornet leaves its former nest; the valiant commander dies away from home"
+    ],
+    "Status": "preferred",
+    "Note": "The two clauses form one exhortative couplet in a direct hall address.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T02:30:00Z"
+  },
+  {
     "SourceTerm": "胡言漢語",
     "PreferredTarget": "Hu words and Han speech",
     "AlternateTargets": [],
@@ -41938,6 +44026,20 @@
     "Note": "The pair names mixed or unruly talk in these records; it is not expanded into a claim about ethnic languages beyond the wording.",
     "CreatedBy": "Codex Iriya lane C81-90 full-case author",
     "WrittenUtc": "2026-07-18T19:30:00Z"
+  },
+  {
+    "SourceTerm": "胡餅裏覓汁",
+    "PreferredTarget": "looking for sauce inside a flatbread",
+    "AlternateTargets": [
+      "seeking juice in a flatbread"
+    ],
+    "SearchAliases": [
+      "seeking juice in a flatbread"
+    ],
+    "Status": "preferred",
+    "Note": "The compact phrase is one item in a deliberately disjunctive list, so the gloss stays close to its literal futility.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T02:30:00Z"
   },
   {
     "SourceTerm": "能為萬象主，不逐四時凋",
@@ -42078,6 +44180,18 @@
     "WrittenUtc": "2026-07-21T19:48:00Z"
   },
   {
+    "SourceTerm": "脫籠頭",
+    "PreferredTarget": "to shed the bridle",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to shed the bridle"
+    ],
+    "Status": "preferred",
+    "Note": "Distinct uses occur in Yongjue Yuanxian’s criticism of stopping at released views, Xutang Zhiyu’s hall address, and Gulin Qingmao’s summer-end address. Repeated editions of the Yong’an Jingwu exchange are treated as one inherited case and do not inflate support.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T00:00:00Z"
+  },
+  {
     "SourceTerm": "脫體",
     "PreferredTarget": "through-and-through",
     "AlternateTargets": [
@@ -42175,6 +44289,20 @@
     "WrittenUtc": "2026-07-19T04:20:00Z"
   },
   {
+    "SourceTerm": "腦門上播紅旗。耳背後輪雙劍",
+    "PreferredTarget": "plant a red banner atop the forehead and wheel twin swords behind the ears",
+    "AlternateTargets": [
+      "a red flag on the brow, twin swords behind the ears"
+    ],
+    "SearchAliases": [
+      "a red flag on the brow, twin swords behind the ears"
+    ],
+    "Status": "preferred",
+    "Note": "The martial images function together inside the pointer to case thirty-seven.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T02:30:00Z"
+  },
+  {
     "SourceTerm": "腦門著地",
     "PreferredTarget": "with the forehead against the ground",
     "AlternateTargets": [],
@@ -42262,6 +44390,20 @@
     "Note": "The entry infers only from the verbs ‘put on’ and ‘remove.’ The retained witness reads ‘a foul-smelling robe’; no identity with the separately indexed alternate-graph form is asserted without a graphic-variant study.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T12:00:00Z"
+  },
+  {
+    "SourceTerm": "臂長衫袖短",
+    "PreferredTarget": "long arms, short sleeves",
+    "AlternateTargets": [
+      "arms too long for the sleeves"
+    ],
+    "SearchAliases": [
+      "arms too long for the sleeves"
+    ],
+    "Status": "preferred",
+    "Note": "The component often appears as the first half of a larger couplet, but the governed entry does not claim that unstable expansion; one direct, fully identified deployment is retained.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:20:00Z"
   },
   {
     "SourceTerm": "臆說",
@@ -42485,7 +44627,7 @@
     "SourceTerm": "自受用三昧",
     "PreferredTarget": "complete command in one’s own use",
     "AlternateTargets": [
-      "one’s own-use complete command"
+      "complete command over one's own enjoyment (of the dharma)"
     ],
     "SearchAliases": [
       "complete command in one’s own use",
@@ -43098,7 +45240,7 @@
   },
   {
     "SourceTerm": "若不安禪靜慮、到這裏總須茫然",
-    "PreferredTarget": "without settling into dhyana and quiet reflection, one will be completely at a loss here",
+    "PreferredTarget": "without settling into composure and quiet reflection, one will be completely at a loss here",
     "AlternateTargets": [],
     "SearchAliases": [
       "without settling into dhyana and quiet reflection, one will be completely at a loss here"
@@ -43183,6 +45325,20 @@
     "Note": "The phrase names a person of outstanding capacity. Its battlefield use and its use for someone able to shoulder, answer, or carry through a demand retain the same person-word.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T20:30:00Z"
+  },
+  {
+    "SourceTerm": "茅屋上安鴟吻、佛殿裏掘東司",
+    "PreferredTarget": "set a roof ornament on a thatched hut; dig a latrine inside the Buddha hall",
+    "AlternateTargets": [
+      "a chiwen on a hut, a privy in the Buddha hall"
+    ],
+    "SearchAliases": [
+      "a chiwen on a hut, a privy in the Buddha hall"
+    ],
+    "Status": "preferred",
+    "Note": "The three sources preserve Dahui’s same two substitute answers, so one recension is retained.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:00:00Z"
   },
   {
     "SourceTerm": "茫然",
@@ -43382,6 +45538,63 @@
     "WrittenUtc": "2026-07-15T04:30:57.027055+00:00"
   },
   {
+    "SourceTerm": "莫嫌冷淡無滋味",
+    "PreferredTarget": "do not disdain its blandness as flavorless",
+    "AlternateTargets": [
+      "do not reject the plain fare for lacking flavor"
+    ],
+    "SearchAliases": [
+      "bland but sustaining",
+      "plain Chan fare",
+      "do not despise the bland taste"
+    ],
+    "Status": "preferred",
+    "Note": "The line does not claim that flavorlessness is intrinsically superior; it challenges the guest's demand for conspicuous flavor.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T10:30:00Z"
+  },
+  {
+    "SourceTerm": "莫將有事為無事",
+    "PreferredTarget": "do not take having a matter for having no matter",
+    "AlternateTargets": [
+      "do not treat a matter as no matter"
+    ],
+    "SearchAliases": [
+      "do not make something into nothing",
+      "do not treat a live matter as nothing"
+    ],
+    "Status": "preferred",
+    "Note": "The punctuation-free joined couplet has no exact occurrence. The punctuated full saying is attested once in the Blue Cliff Record and has its own provisional entry; this article retains the first clause because Yu'an independently uses it with a different continuation.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T08:40:00Z"
+  },
+  {
+    "SourceTerm": "莫將有事為無事。往往事從無事生",
+    "PreferredTarget": "do not take having business for having none, for again and again business arises from having none",
+    "AlternateTargets": [
+      "do not treat something going on as nothing going on; matters often arise from “nothing going on”"
+    ],
+    "SearchAliases": [
+      "business arises from no business"
+    ],
+    "Status": "preferred",
+    "Note": "The complete warning occurs once in the retained commentary and remains attributed to Wuzu Fayan, not to Yuanwu.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:00:00Z"
+  },
+  {
+    "SourceTerm": "莫把金針度與人",
+    "PreferredTarget": "do not hand the golden needle to anyone",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "do not hand the golden needle to anyone"
+    ],
+    "Status": "preferred",
+    "Note": "Huanglong Huinan, Wuzu Fayan, and Baojue Zuxin use the embroidered-ducks and golden-needle line in distinct public addresses. Parallel editions of Wuzu’s address are treated as one inherited case.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T00:00:00Z"
+  },
+  {
     "SourceTerm": "莫瞞人好",
     "PreferredTarget": "best not deceive people",
     "AlternateTargets": [],
@@ -43511,7 +45724,7 @@
   },
   {
     "SourceTerm": "著什麼死急",
-    "PreferredTarget": "what mortal urgency are you displaying?",
+    "PreferredTarget": "why such deadly urgency?",
     "AlternateTargets": [],
     "SearchAliases": [
       "what mortal urgency are you displaying?"
@@ -43520,6 +45733,20 @@
     "Note": "It rebukes forced urgency in these exchanges, not every form of prompt action.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T17:09:47.409864Z"
+  },
+  {
+    "SourceTerm": "著力今生須了却、誰能累劫受餘殃",
+    "PreferredTarget": "exert yourself and settle it in this life, for who can endure residual calamity through successive eons?",
+    "AlternateTargets": [
+      "finish it with effort in this lifetime—who could bear the remaining harm for age after age?"
+    ],
+    "SearchAliases": [
+      "finish it with effort in this lifetime—who could bear the remaining harm for age after age?"
+    ],
+    "Status": "preferred",
+    "Note": "Huangbo quotes this urgent couplet with 故云; its original source is unnamed, and the line gives no timetable or staged regimen.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T07:15:00Z"
   },
   {
     "SourceTerm": "著甚來由",
@@ -43636,6 +45863,22 @@
     "WrittenUtc": "2026-07-19T04:20:00Z"
   },
   {
+    "SourceTerm": "落湯螃蟹手脚忙亂",
+    "PreferredTarget": "like a scalded crab, hands and feet in frantic confusion",
+    "AlternateTargets": [
+      "a crab dropped in hot water, limbs flailing"
+    ],
+    "SearchAliases": [
+      "scalded crab",
+      "frantic hands and feet",
+      "crab in hot water"
+    ],
+    "Status": "preferred",
+    "Note": "The witnesses are recensions of Yunmen Wenyan’s same address rather than independent deployments.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T22:20:00Z"
+  },
+  {
     "SourceTerm": "落空",
     "PreferredTarget": "fall into blankness",
     "AlternateTargets": [
@@ -43684,6 +45927,36 @@
     "Note": "Masters use the phrase to mark an answer, cognition, or claimed awakening as already secondary rather than the first move.",
     "CreatedBy": "Codex Iriya cohort001 Lane B explicit full-case author",
     "WrittenUtc": "2026-07-18T04:29:03.807193+00:00"
+  },
+  {
+    "SourceTerm": "落花三月睡初醒。碧眼黃頭皆作夢",
+    "PreferredTarget": "in the third month the falling blossoms wake from sleep, while blue-eyed and yellow-headed ones are all dreaming",
+    "AlternateTargets": [
+      "falling blossoms in the third month wake from sleep; blue-eyed and yellow-headed ones all dream"
+    ],
+    "SearchAliases": [
+      "falling blossoms third month dream"
+    ],
+    "Status": "preferred",
+    "Note": "The complete couplet occurs once in the frozen corpus and remains provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:00:00Z"
+  },
+  {
+    "SourceTerm": "落花有意隨流水，流水無心送落花",
+    "PreferredTarget": "fallen flowers intentionally follow the flowing water, while the flowing water has no intention of carrying off the fallen flowers",
+    "AlternateTargets": [
+      "the flowers mean to follow the stream, but the stream does not mean to carry the flowers"
+    ],
+    "SearchAliases": [
+      "flowers follow water without return",
+      "intentional flowers unintentional stream",
+      "fallen blossoms and flowing water"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase has one retained direct deployment and is provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T00:15:00Z"
   },
   {
     "SourceTerm": "落草之談",
@@ -44081,6 +46354,20 @@
     "Note": "The phrase's reciprocal wording is essential: the records do not present a permanent remedy standing apart from an illness, and the retained passages explicitly limit the relevant sayings to a temporary counter-treatment.",
     "CreatedBy": "Codex Iriya lane C61-160 exact-turn author",
     "WrittenUtc": "2026-07-18T14:05:00+02:00"
+  },
+  {
+    "SourceTerm": "蘇武持漢節而歸",
+    "PreferredTarget": "Su Wu returns bearing the Han insignia",
+    "AlternateTargets": [
+      "return still bearing the emblem of fidelity"
+    ],
+    "SearchAliases": [
+      "return still bearing the emblem of fidelity"
+    ],
+    "Status": "preferred",
+    "Note": "The historical allusion marks an uncompromised return; the single deployment remains provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:00:00Z"
   },
   {
     "SourceTerm": "虎口裏横身",
@@ -45494,6 +47781,22 @@
     "WrittenUtc": "2026-07-18T21:03:28Z"
   },
   {
+    "SourceTerm": "解使不由家富貴，風流豈在著衣多",
+    "PreferredTarget": "skill does not depend on family wealth, while elegance is not in wearing many clothes",
+    "AlternateTargets": [
+      "resourcefulness needs no rich household, and style needs no wardrobe"
+    ],
+    "SearchAliases": [
+      "skill without family wealth",
+      "elegance without fine clothes",
+      "not dependent on wealth"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase serves two independent addresses and keeps the same contrast between effective use and supplied abundance.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T22:20:00Z"
+  },
+  {
     "SourceTerm": "解制",
     "PreferredTarget": "end the monastic restriction period",
     "AlternateTargets": [
@@ -45787,6 +48090,20 @@
     "WrittenUtc": "2026-07-17T10:58:39.870332+00:00"
   },
   {
+    "SourceTerm": "言不關典",
+    "PreferredTarget": "words not grounded in canonical texts",
+    "AlternateTargets": [
+      "speech unrelated to canonical texts"
+    ],
+    "SearchAliases": [
+      "speech unrelated to canonical texts"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase keeps one meaning across two opposed turns in the same exchange.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T12:00:00Z"
+  },
+  {
     "SourceTerm": "言中有響",
     "PreferredTarget": "an echo within the words",
     "AlternateTargets": [],
@@ -45908,6 +48225,20 @@
     "WrittenUtc": "2026-07-15T05:30:00Z"
   },
   {
+    "SourceTerm": "言鋒若差",
+    "PreferredTarget": "if the edge of your words is off",
+    "AlternateTargets": [
+      "if the verbal edge misses"
+    ],
+    "SearchAliases": [
+      "word edge misses"
+    ],
+    "Status": "preferred",
+    "Note": "The retained witnesses distinguish Yongguang’s attributed saying from later direct quotation and reuse; copied wording is not counted as a new sense.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:00:00Z"
+  },
+  {
     "SourceTerm": "討什麼碗",
     "PreferredTarget": "what bowl are you looking for?",
     "AlternateTargets": [],
@@ -46000,6 +48331,20 @@
     "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
+  },
+  {
+    "SourceTerm": "詩向會人吟",
+    "PreferredTarget": "poetry is recited to one who understands",
+    "AlternateTargets": [
+      "recite poetry for someone who comprehends"
+    ],
+    "SearchAliases": [
+      "recite poetry for someone who comprehends"
+    ],
+    "Status": "preferred",
+    "Note": "The component often follows a line about drinking with a kindred spirit, but that continuation is not part of the governed identity.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:20:00Z"
   },
   {
     "SourceTerm": "詩客",
@@ -46200,6 +48545,20 @@
     "Note": "The family image is reported only in its anchored deployments; the entry adds no theory identifying a single hidden referent for the thief.",
     "CreatedBy": "iriya-construction-001 lane A manual speech-marker recovery",
     "WrittenUtc": "2026-07-18T16:50:00Z"
+  },
+  {
+    "SourceTerm": "認驢作馬",
+    "PreferredTarget": "to mistake a donkey for a horse",
+    "AlternateTargets": [
+      "to take a donkey to be a horse"
+    ],
+    "SearchAliases": [
+      "mistake donkey for horse"
+    ],
+    "Status": "preferred",
+    "Note": "The expression occurs once in Xutang Zhiyu’s retained hall address and remains provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:00:00Z"
   },
   {
     "SourceTerm": "誓願",
@@ -46635,6 +48994,37 @@
     "Note": "7 distinct work IDs selected after complete-context review.",
     "CreatedBy": "Codex f004 lane A rereview repair author",
     "WrittenUtc": "2026-07-15T15:15:00Z"
+  },
+  {
+    "SourceTerm": "諸天捧花無路",
+    "PreferredTarget": "the devas have no way to offer flowers",
+    "AlternateTargets": [
+      "heavenly beings find no path for presenting flowers"
+    ],
+    "SearchAliases": [
+      "devas cannot offer flowers",
+      "no path for heavenly flowers",
+      "flowers cannot reach the adept"
+    ],
+    "Status": "preferred",
+    "Note": "The records repeatedly pair the closed flower-route with outsiders unable to spy; the image concerns praise finding no point of entry, not a shortage of flowers.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T01:30:00Z"
+  },
+  {
+    "SourceTerm": "諸天捧花無路，魔外潛覰",
+    "PreferredTarget": "heavenly beings have no path for offering flowers, while demons and outsiders secretly peer",
+    "AlternateTargets": [
+      "gods find no way to offer flowers; demons and outsiders peer in secret"
+    ],
+    "SearchAliases": [
+      "no path for heavenly flowers",
+      "demons cannot spy upon it"
+    ],
+    "Status": "preferred",
+    "Note": "Two works preserve the Yuanwu wording, and three distinct instructions in Yuanwu’s own work are retained; these are not promoted into independent-source validation.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T15:00:00Z"
   },
   {
     "SourceTerm": "諸法",
@@ -47089,6 +49479,20 @@
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
   {
+    "SourceTerm": "貪多嚼不細",
+    "PreferredTarget": "greedy for much, one does not chew it fine",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "take too much and chew poorly",
+      "greed for quantity spoils chewing",
+      "too much to chew finely"
+    ],
+    "Status": "preferred",
+    "Note": "The line appraises one crowded sequence of questioning; it is not dietary instruction.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T21:38:04.368028Z"
+  },
+  {
     "SourceTerm": "貴人多忘",
     "PreferredTarget": "an eminent person is apt to forget",
     "AlternateTargets": [
@@ -47139,6 +49543,20 @@
     "Note": "The market idiom characterizes a deliberately disadvantageous exchange or costly transmission.",
     "CreatedBy": "Codex Iriya lane C91-100 full-case author",
     "WrittenUtc": "2026-07-18T20:30:00Z"
+  },
+  {
+    "SourceTerm": "買佛香",
+    "PreferredTarget": "buy incense for Buddha",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "use Buddha’s money to buy Buddha-incense",
+      "steal Buddha’s money to buy incense for Buddha",
+      "Buddha’s money and Buddha’s incense"
+    ],
+    "Status": "preferred",
+    "Note": "The headword is the second half of Jiufeng’s larger answer and should be read with the stolen Buddha-money clause. The record itself joins it to incense offered to one’s own parents; it does not describe ordinary temple purchasing.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T22:24:33.389939Z"
   },
   {
     "SourceTerm": "買帽相頭",
@@ -47998,9 +50416,7 @@
   {
     "SourceTerm": "蹉過也不知",
     "PreferredTarget": "missing it without knowing",
-    "AlternateTargets": [
-      "missing it without knowing"
-    ],
+    "AlternateTargets": [],
     "SearchAliases": [
       "missed without knowing",
       "unnoticed miss"
@@ -48422,9 +50838,7 @@
   {
     "SourceTerm": "返照回光",
     "PreferredTarget": "turn the light around",
-    "AlternateTargets": [
-      "turn the light around"
-    ],
+    "AlternateTargets": [],
     "SearchAliases": [
       "turn illumination back; turn the light around",
       "turn the light around"
@@ -48526,6 +50940,20 @@
     "WrittenUtc": "2026-07-19T03:23:22.023942+00:00"
   },
   {
+    "SourceTerm": "迷黎麻羅",
+    "PreferredTarget": "bleary and confused",
+    "AlternateTargets": [
+      "eyes muddled and blurred"
+    ],
+    "SearchAliases": [
+      "bleary confused eyes"
+    ],
+    "Status": "preferred",
+    "Note": "The expression occurs once in Yuanwu Keqin’s commentary and remains provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:00:00Z"
+  },
+  {
     "SourceTerm": "退院",
     "PreferredTarget": "retire from the abbacy",
     "AlternateTargets": [
@@ -48576,6 +51004,20 @@
     "WrittenUtc": "2026-07-19T08:00:00Z"
   },
   {
+    "SourceTerm": "逆風張帆",
+    "PreferredTarget": "hoist the sail against the wind",
+    "AlternateTargets": [
+      "set sail into the wind"
+    ],
+    "SearchAliases": [
+      "set sail into the wind"
+    ],
+    "Status": "preferred",
+    "Note": "The retained case contrasts favorable drift with deliberate movement into resistance.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T12:00:00Z"
+  },
+  {
     "SourceTerm": "逍遙",
     "PreferredTarget": "roam at ease",
     "AlternateTargets": [
@@ -48607,6 +51049,20 @@
     "Note": "The Zen deviation is the fish-and-net image functioning as a public question and Yuanwu Keqin’s appraisal of an unnamed monastic, with the Blue Cliff Record's explicit crown-eye formula. The fish, the case question, and later appraisals refer to the same corpus image; they are deployment shapes rather than separate senses. In the family check, “golden-scaled fish” (金鱗) is broader, while “through the net” (透網) supplies the defining escaped-net morphology.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-19T03:23:22.023942+00:00"
+  },
+  {
+    "SourceTerm": "透過是非關，不住羅籠表",
+    "PreferredTarget": "pass through the checkpoint of right and wrong and do not remain beyond the net and cage",
+    "AlternateTargets": [
+      "pass the barrier of right and wrong without lodging outside the snare"
+    ],
+    "SearchAliases": [
+      "pass the barrier of right and wrong without lodging outside the snare"
+    ],
+    "Status": "preferred",
+    "Note": "The second clause says outside or beyond; it does not say ‘within the net and cage.’",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T02:30:00Z"
   },
   {
     "SourceTerm": "透重關",
@@ -48689,7 +51145,7 @@
     "SourceTerm": "途中受用",
     "PreferredTarget": "put it to use on the way",
     "AlternateTargets": [
-      "use it in the course of ongoing course"
+      "use it in the midst of ongoing practice"
     ],
     "SearchAliases": [
       "put it to use on the way",
@@ -49969,6 +52425,20 @@
     "WrittenUtc": "2026-07-18T15:20:00Z"
   },
   {
+    "SourceTerm": "金以石試。人以言試",
+    "PreferredTarget": "gold is tested by stone and a person is tested by words",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "test gold with a stone and people with words",
+      "words test a person",
+      "gold and speech test"
+    ],
+    "Status": "preferred",
+    "Note": "The line supplies Xutang’s explicit test-image in one address. The source does not equate gold with awakening here.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T21:38:11.946675Z"
+  },
+  {
     "SourceTerm": "金佛不度爐",
     "PreferredTarget": "a gold buddha does not pass through the furnace",
     "AlternateTargets": [
@@ -49982,6 +52452,21 @@
     "Note": "The Zen deviation is the case-formula's treatment of buddha images by their material limits, followed by a 'true buddha' indoors. The recorded formula gives the final member no predicate beyond 'sits within,' and this entry adds none. 'Gold buddha' remains the same referent throughout; affirmative counter-verses are different statements about that image, not a second thing named by this headword. Frozen-corpus concordance: 137 exact hits in 87 storage files representing 86 independent works.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "金佛不渡爐",
+    "PreferredTarget": "a gold buddha does not cross the furnace",
+    "AlternateTargets": [
+      "a gold buddha cannot pass through a furnace"
+    ],
+    "SearchAliases": [
+      "gold buddha and the furnace",
+      "golden buddha cannot cross the furnace"
+    ],
+    "Status": "preferred",
+    "Note": "This spelling occurs in one later quotation; the installed graphic variant is the broad corpus form.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T12:00:00Z"
   },
   {
     "SourceTerm": "金剛圈、栗棘蓬",
@@ -50119,6 +52604,18 @@
     "Note": "Xuedou’s answer and later raisings keep the vajra, casting, and iron tally together in encounter speech.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T18:00:23.112188Z"
+  },
+  {
+    "SourceTerm": "金地遙招手。江陵暗點頭",
+    "PreferredTarget": "Golden Ground beckons from afar, while Jiangling nods in secret",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the Golden Ground waves from afar; Jiangling secretly nods"
+    ],
+    "Status": "preferred",
+    "Note": "The source’s Five Eyes sequence preserves this answer but does not name its speaker in the recoverable attribution ladder.",
+    "CreatedBy": "Codex regular-vetted Iriya release005 lane C",
+    "WrittenUtc": "2026-07-22T00:00:00Z"
   },
   {
     "SourceTerm": "金屑眼中翳，衣珠法上塵",
@@ -50371,6 +52868,20 @@
     "WrittenUtc": "2026-07-15T19:20:19.434804+00:00"
   },
   {
+    "SourceTerm": "釘釘東東",
+    "PreferredTarget": "ding-ding, dong-dong",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "ding ding dong dong",
+      "a clanging ding-dong",
+      "nailing eastward"
+    ],
+    "Status": "preferred",
+    "Note": "The exchange preserves a sound-patterned utterance; the evidence does not license turning its repeated graphs into a technical scheme.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T21:38:22.286680Z"
+  },
+  {
     "SourceTerm": "針劄不入",
     "PreferredTarget": "a needle cannot pierce it",
     "AlternateTargets": [
@@ -50416,6 +52927,21 @@
     "Note": "The image names exact affinity: teacher, student, word, and circumstance meet as precisely as a needle and mustard seed.",
     "CreatedBy": "Codex Iriya construction cohort 001 lane C positions 44-50",
     "WrittenUtc": "2026-07-18T09:07:50.144655Z"
+  },
+  {
+    "SourceTerm": "針鋒影裏騎大鵬",
+    "PreferredTarget": "ride the great roc within a needle-point's shadow",
+    "AlternateTargets": [
+      "within the shadow of a needle point, ride the great roc"
+    ],
+    "SearchAliases": [
+      "great roc in a needle-point shadow",
+      "ride the roc within a needle point"
+    ],
+    "Status": "preferred",
+    "Note": "Mingjue Cong and Songyuan Chongyue use the exact first clause with different second clauses; two later lamp records repeat Songyuan's exchange.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T10:45:00Z"
   },
   {
     "SourceTerm": "針鋒頭上飜筋斗",
@@ -50524,6 +53050,20 @@
     "WrittenUtc": "2026-07-18T22:31:39.533910Z"
   },
   {
+    "SourceTerm": "鉸釘膠粘",
+    "PreferredTarget": "riveting nails and gluing seams",
+    "AlternateTargets": [
+      "fastening with rivets and glue"
+    ],
+    "SearchAliases": [
+      "fastening with rivets and glue"
+    ],
+    "Status": "preferred",
+    "Note": "The fastening image concerns joining words that the case leaves unjoined.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T12:00:00Z"
+  },
+  {
     "SourceTerm": "銀山鐵壁",
     "PreferredTarget": "an impassable mountain-and-wall barrier",
     "AlternateTargets": [
@@ -50543,7 +53083,7 @@
   },
   {
     "SourceTerm": "銀椀裏盛雪",
-    "PreferredTarget": "snow filling the ‘silver bowl’ image",
+    "PreferredTarget": "snow heaped in a silver bowl",
     "AlternateTargets": [],
     "SearchAliases": [
       "snow in the silver bowl",
@@ -50636,6 +53176,20 @@
     "WrittenUtc": "2026-07-19T00:02:14.691454Z"
   },
   {
+    "SourceTerm": "錢出急家門",
+    "PreferredTarget": "money goes out through the urgent household’s gate",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "money leaves the gate of a household in need",
+      "an urgent household brings out the money",
+      "money comes out when the household is pressed"
+    ],
+    "Status": "preferred",
+    "Note": "In both turns the proverb supplies Xutang’s immediate response to a pressed question. The single record does not state a general theory of money, poverty, or household management.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T21:59:44.652824Z"
+  },
+  {
     "SourceTerm": "錦上添花",
     "PreferredTarget": "to add flowers on top of brocade",
     "AlternateTargets": [],
@@ -50646,6 +53200,21 @@
     "Note": "4 exact full-case witnesses from 4 independent works support the corpus-bounded gloss.",
     "CreatedBy": "Codex sayings100 literal full-unit read repair",
     "WrittenUtc": "2026-07-15T12:35:37.484662+00:00"
+  },
+  {
+    "SourceTerm": "錦上舖花",
+    "PreferredTarget": "spread flowers over brocade",
+    "AlternateTargets": [
+      "lay flowers upon brocade"
+    ],
+    "SearchAliases": [
+      "flowers added to brocade",
+      "brocade covered with flowers"
+    ],
+    "Status": "preferred",
+    "Note": "This exact verb occurs once in Tui'an's record.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T12:00:00Z"
   },
   {
     "SourceTerm": "錦鱗",
@@ -51070,6 +53639,32 @@
     "WrittenUtc": "2026-07-18T07:37:11.408073Z"
   },
   {
+    "SourceTerm": "鑊湯爐炭吹教滅。劍樹刀山喝便摧",
+    "PreferredTarget": "a breath extinguishes cauldrons and furnaces, and a shout fells sword-trees and knife-mountains",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a breath extinguishes cauldrons and furnaces, and a shout fells sword-trees and knife-mountains"
+    ],
+    "Status": "preferred",
+    "Note": "Yuanwu’s record supplies the sole exact occurrence of the complete two-clause verse.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T00:00:00Z"
+  },
+  {
+    "SourceTerm": "鑑在機前",
+    "PreferredTarget": "the mirror is already before the moment of action",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the mirror precedes the occasion",
+      "discernment is before the trigger",
+      "mirror before the mechanism"
+    ],
+    "Status": "preferred",
+    "Note": "The exchange places the mirror before the incipient occasion or mechanism. It does not identify a physical mirror kept in front of a device.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T22:24:12.103147Z"
+  },
+  {
     "SourceTerm": "鑽龜打瓦",
     "PreferredTarget": "to drill a tortoise shell and strike tiles",
     "AlternateTargets": [
@@ -51085,6 +53680,20 @@
     "Note": "One idiomatic image with multiple attested stances; grammatical form and differing evaluations do not create extra senses.",
     "CreatedBy": "Codex f002 Lane C fresh corpus build",
     "WrittenUtc": "2026-07-15T04:06:26.730577+00:00"
+  },
+  {
+    "SourceTerm": "鑿竇引賊",
+    "PreferredTarget": "dig a hole and invite a thief",
+    "AlternateTargets": [
+      "bore an opening and draw in a thief"
+    ],
+    "SearchAliases": [
+      "bore an opening and draw in a thief"
+    ],
+    "Status": "preferred",
+    "Note": "Xutang applies the image specifically to Foyan’s invitation to answer.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T12:00:00Z"
   },
   {
     "SourceTerm": "長因送客處，憶得別家時",
@@ -51755,6 +54364,22 @@
     "WrittenUtc": "2026-07-19T06:00:00Z"
   },
   {
+    "SourceTerm": "閙市裏天子，百草頭老僧",
+    "PreferredTarget": "an emperor in the busy market, an old monk at the tips of the hundred grasses",
+    "AlternateTargets": [
+      "the emperor amid the market and the old monk on every grass-tip"
+    ],
+    "SearchAliases": [
+      "emperor in the marketplace",
+      "old monk on the grass tips",
+      "market emperor and grass-tip monk"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase is retained from one direct hall address and is therefore provisional.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T00:15:00Z"
+  },
+  {
     "SourceTerm": "閻浮樹下笑呵呵",
     "PreferredTarget": "to laugh beneath the Jambu tree",
     "AlternateTargets": [],
@@ -52038,6 +54663,21 @@
     "WrittenUtc": "2026-07-15T16:55:00Z"
   },
   {
+    "SourceTerm": "陽氣未回吹律琯。野梅先發向南枝",
+    "PreferredTarget": "before the warm breath returns to sound the pitch pipe, the wild plum blossoms first on the south-facing branch",
+    "AlternateTargets": [
+      "before the yang breath returns and sounds the pitch pipe, the wild plum opens first toward the south"
+    ],
+    "SearchAliases": [
+      "wild plum on the south branch",
+      "warm breath and the pitch pipe"
+    ],
+    "Status": "preferred",
+    "Note": "The complete couplet occurs once in Xutang Zhiyu’s record.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T15:00:00Z"
+  },
+  {
     "SourceTerm": "陽焰",
     "PreferredTarget": "a shimmering mirage",
     "AlternateTargets": [],
@@ -52049,6 +54689,37 @@
     "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
     "CreatedBy": "Codex f003 Lane A full-case author",
     "WrittenUtc": "2026-07-15T05:09:02.950859+00:00"
+  },
+  {
+    "SourceTerm": "隔墻見角便知是牛",
+    "PreferredTarget": "see a horn beyond the wall and know it is an ox",
+    "AlternateTargets": [
+      "a horn seen over the wall is enough to recognize the ox"
+    ],
+    "SearchAliases": [
+      "know the ox by its horn",
+      "see one part and know the whole",
+      "horn beyond the wall"
+    ],
+    "Status": "preferred",
+    "Note": "The comparison licenses inference from a diagnostic part, not a claim that partial understanding is always sufficient.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T10:30:00Z"
+  },
+  {
+    "SourceTerm": "隔山見烟便知是火，隔墻見角便知是牛",
+    "PreferredTarget": "smoke beyond a mountain signals fire, and a horn beyond a wall signals an ox",
+    "AlternateTargets": [
+      "smoke across the mountain tells of fire; a horn across the wall tells of an ox"
+    ],
+    "SearchAliases": [
+      "smoke means fire horn means ox",
+      "seeing a horn beyond the wall"
+    ],
+    "Status": "preferred",
+    "Note": "Two independent works preserve two direct hall uses of the exact pair.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T15:00:00Z"
   },
   {
     "SourceTerm": "隔靴抓癢",
@@ -52259,6 +54930,20 @@
     "WrittenUtc": "2026-07-18T12:01:00+00:00"
   },
   {
+    "SourceTerm": "隻手遮日",
+    "PreferredTarget": "cover the sun with one hand",
+    "AlternateTargets": [
+      "try to blot out the sun single-handed"
+    ],
+    "SearchAliases": [
+      "try to blot out the sun single-handed"
+    ],
+    "Status": "preferred",
+    "Note": "The image indicates an impossible concealment, not literal shade.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:00:00Z"
+  },
+  {
     "SourceTerm": "隻眼",
     "PreferredTarget": "the discerning single eye",
     "AlternateTargets": [
@@ -52300,6 +54985,20 @@
     "Note": "The line does not claim literal revival or make every inherited saying effective.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T17:51:35.502639Z"
+  },
+  {
+    "SourceTerm": "雖有蓋膽毛。且無驗人眼",
+    "PreferredTarget": "though he has hairs covering his gall, he has no eye for testing people",
+    "AlternateTargets": [
+      "though he has gall-covering hair, he lacks an eye for testing people"
+    ],
+    "SearchAliases": [
+      "hair covering the gall but no discerning eye"
+    ],
+    "Status": "preferred",
+    "Note": "The exact two-clause portrait line occurs in one work.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T15:00:00Z"
   },
   {
     "SourceTerm": "雖與我同條生，不與我同條死",
@@ -52400,6 +55099,20 @@
     "WrittenUtc": "2026-07-19T03:23:22.023942+00:00"
   },
   {
+    "SourceTerm": "雨落堦頭濕",
+    "PreferredTarget": "when rain falls, the steps get wet",
+    "AlternateTargets": [
+      "rain comes down and wets the front steps"
+    ],
+    "SearchAliases": [
+      "rain comes down and wets the front steps"
+    ],
+    "Status": "preferred",
+    "Note": "The wet steps are Dachuan’s observable weather line in this address, not a hidden instruction about rain.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T07:15:00Z"
+  },
+  {
     "SourceTerm": "雪上加霜",
     "PreferredTarget": "to add frost on top of snow",
     "AlternateTargets": [],
@@ -52410,6 +55123,36 @@
     "Note": "6 exact full-case witnesses from 6 independent works support the corpus-bounded gloss.",
     "CreatedBy": "Codex sayings100 literal full-unit read repair",
     "WrittenUtc": "2026-07-15T12:35:37.484662+00:00"
+  },
+  {
+    "SourceTerm": "雪上加霜又一重",
+    "PreferredTarget": "another layer of frost added over snow",
+    "AlternateTargets": [
+      "frost piled once more upon snow"
+    ],
+    "SearchAliases": [
+      "frost on snow, another layer",
+      "adding more frost over snow"
+    ],
+    "Status": "preferred",
+    "Note": "The expanded line occurs once in Lingshu Yuan's verse; its shorter base form is widely attested.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T12:00:00Z"
+  },
+  {
+    "SourceTerm": "雪埋庭柏",
+    "PreferredTarget": "snow buries the courtyard cypress",
+    "AlternateTargets": [
+      "the courtyard cypress lies buried in snow"
+    ],
+    "SearchAliases": [
+      "snow-covered courtyard cypress",
+      "cypress buried by snow"
+    ],
+    "Status": "preferred",
+    "Note": "Three records preserve Foyan Qingyuan's same hall address; they do not supply three independent uses.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T10:45:00Z"
   },
   {
     "SourceTerm": "雪山童子",
@@ -52477,6 +55220,22 @@
     "Note": "Both packet witnesses are recensions of one verse, so only one deployment is claimed.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T16:00:00Z"
+  },
+  {
+    "SourceTerm": "雲在天水在缾",
+    "PreferredTarget": "clouds are in the sky and water is in the jar",
+    "AlternateTargets": [
+      "cloud in the sky, water in the bottle"
+    ],
+    "SearchAliases": [
+      "clouds in heaven water in a jar",
+      "cloud and water in their places",
+      "Yaoshan cloud water jar"
+    ],
+    "Status": "preferred",
+    "Note": "The retained case is Yaoshan’s single direct answer; Li Ao’s following verse is a repetition within the same encounter.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T00:15:00Z"
   },
   {
     "SourceTerm": "雲巖掃地",
@@ -52669,6 +55428,18 @@
     "WrittenUtc": "2026-07-19T19:45:35.916168Z"
   },
   {
+    "SourceTerm": "霧豹澤毛",
+    "PreferredTarget": "the mist-hidden leopard enriches its coat",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the mist-hidden leopard enriches its coat"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase appears in distinct direct uses by Jue'an Kexiang and Binya Jian and in Cuiyan Kezhen’s appraisal of the Huangbo case. Parallel collections repeating Cuiyan’s appraisal are treated as one inherited case.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T00:00:00Z"
+  },
+  {
     "SourceTerm": "露地白牛",
     "PreferredTarget": "the white ox in the open ground",
     "AlternateTargets": [
@@ -52749,6 +55520,20 @@
     "WrittenUtc": "2026-07-18T10:01:17.190137Z"
   },
   {
+    "SourceTerm": "露濕草鞋重",
+    "PreferredTarget": "dew makes the straw sandals heavy",
+    "AlternateTargets": [
+      "straw sandals weighted with dew"
+    ],
+    "SearchAliases": [
+      "straw sandals weighted with dew"
+    ],
+    "Status": "preferred",
+    "Note": "The line checks romanticized departure with the weight of the actual road.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:00:00Z"
+  },
+  {
     "SourceTerm": "靈山一會",
     "PreferredTarget": "the Vulture Peak assembly",
     "AlternateTargets": [],
@@ -52791,7 +55576,7 @@
   },
   {
     "SourceTerm": "靈山話月、曹溪指月",
-    "PreferredTarget": "Lingjiu speaks while Caoxi points to the moon",
+    "PreferredTarget": "Vulture Peak speaks of the moon while Caoxi points to it",
     "AlternateTargets": [],
     "SearchAliases": [
       "Lingjiu speaks while Caoxi points to the moon"
@@ -52895,6 +55680,20 @@
     "Note": "Thunderclap in a clear sky is a sudden, violent sound-image used in verse, hall speech, and an answer naming the Linji house.",
     "CreatedBy": "Codex cohort-002 lane-B author",
     "WrittenUtc": "2026-07-19T08:00:00Z"
+  },
+  {
+    "SourceTerm": "青山元不動",
+    "PreferredTarget": "the green mountains never move",
+    "AlternateTargets": [
+      "green mountains remain unmoving"
+    ],
+    "SearchAliases": [
+      "green mountains remain unmoving"
+    ],
+    "Status": "preferred",
+    "Note": "Packet witnesses attach different continuations to this component; no unstable cloud-line expansion is included in the governed identity.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:20:00Z"
   },
   {
     "SourceTerm": "青州布衫",
@@ -53176,6 +55975,21 @@
     "WrittenUtc": "2026-07-19T18:00:25.963345Z"
   },
   {
+    "SourceTerm": "鞭胸打脊",
+    "PreferredTarget": "lash the chest and beat the back",
+    "AlternateTargets": [
+      "whip the chest and strike the back"
+    ],
+    "SearchAliases": [
+      "beating chest and back",
+      "lash across chest and back"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase occurs once inside Heshan Wuyin's raised case.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T12:00:00Z"
+  },
+  {
     "SourceTerm": "韓信臨朝底",
     "PreferredTarget": "what Han Xin did when he attended court",
     "AlternateTargets": [],
@@ -53186,6 +56000,20 @@
     "Note": "The phrase asks for or names Han Xin’s bearing when he appeared at court.",
     "CreatedBy": "Codex cohort-002 lane-B B131-B140 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
+  },
+  {
+    "SourceTerm": "韓幹馬嘶芳草渡、戴嵩牛臥緑楊陰",
+    "PreferredTarget": "Han Gan's horse neighs at the fragrant-grass ford; Dai Song's ox lies in green willow shade",
+    "AlternateTargets": [
+      "a painted horse at the ford, a painted ox beneath willows"
+    ],
+    "SearchAliases": [
+      "a painted horse at the ford, a painted ox beneath willows"
+    ],
+    "Status": "preferred",
+    "Note": "Some witnesses transmit Zhantang’s verse; the retained anchors instead represent three independent direct deployments.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T04:00:00Z"
   },
   {
     "SourceTerm": "韓愈",
@@ -53728,7 +56556,7 @@
     "SourceTerm": "顏回",
     "PreferredTarget": "Yan Hui",
     "AlternateTargets": [
-      "Master Yan"
+      "Yan Yuan"
     ],
     "SearchAliases": [
       "Yan Hui",
@@ -53834,7 +56662,7 @@
     "PreferredTarget": "Yunmen's look-and-discern procedure",
     "AlternateTargets": [
       "looking and discerning",
-      "the look-and-jian procedure"
+      "the procedure of looking and discerning"
     ],
     "SearchAliases": [
       "Yunmen looking discerning",
@@ -54503,6 +57331,20 @@
     "WrittenUtc": "2026-07-19T00:40:37.009445Z"
   },
   {
+    "SourceTerm": "馬瘦毛長",
+    "PreferredTarget": "a lean horse's coat grows long",
+    "AlternateTargets": [
+      "when a horse is thin, its coat grows long"
+    ],
+    "SearchAliases": [
+      "when a horse is thin, its coat grows long"
+    ],
+    "Status": "preferred",
+    "Note": "The component is stable across all ten governed cases. Most pair it with 人貧智短, while one has 人貧志短 and assigns the two clauses separately to the Buddha and Kāśyapa; the variable first clause is therefore not part of this identity.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T13:30:00Z"
+  },
+  {
     "SourceTerm": "馬腳",
     "PreferredTarget": "a horse's foot",
     "AlternateTargets": [
@@ -54546,6 +57388,20 @@
     "Note": "The records use the supplied mount and failed riding as an observable contrast between possession and competent use.",
     "CreatedBy": "Codex Iriya remaining lane B positions 168-334 governed structured author",
     "WrittenUtc": "2026-07-19T14:20:47.696851Z"
+  },
+  {
+    "SourceTerm": "駟馬難追",
+    "PreferredTarget": "even four horses cannot catch it",
+    "AlternateTargets": [
+      "once spoken, even a four-horse team cannot catch it"
+    ],
+    "SearchAliases": [
+      "once spoken, even a four-horse team cannot catch it"
+    ],
+    "Status": "preferred",
+    "Note": "The omitted object is the word once uttered; the component is retained without folding the variable opening clause into its identity.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T13:30:00Z"
   },
   {
     "SourceTerm": "騎佛殿出山門",
@@ -54642,7 +57498,7 @@
   },
   {
     "SourceTerm": "驀口",
-    "PreferredTarget": "squarely across the mouth",
+    "PreferredTarget": "strike squarely across the mouth",
     "AlternateTargets": [
       "strike across the mouth"
     ],
@@ -54865,6 +57721,21 @@
     "WrittenUtc": "2026-07-15T19:20:19.434804+00:00"
   },
   {
+    "SourceTerm": "驢屎比麝香",
+    "PreferredTarget": "compare donkey dung with musk",
+    "AlternateTargets": [
+      "set donkey dung beside musk"
+    ],
+    "SearchAliases": [
+      "donkey dung compared to musk",
+      "dung and musk comparison"
+    ],
+    "Status": "preferred",
+    "Note": "The exact phrase occurs once in Yuanwu's quotation of Wuzu.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T12:00:00Z"
+  },
+  {
     "SourceTerm": "驢年未夢見在",
     "PreferredTarget": "not even dreamed of in the donkey year",
     "AlternateTargets": [],
@@ -54890,7 +57761,7 @@
   },
   {
     "SourceTerm": "驢牛肚裏生",
-    "PreferredTarget": "to be born in an ass's or ox's belly",
+    "PreferredTarget": "to be born in a donkey's or an ox's belly",
     "AlternateTargets": [],
     "SearchAliases": [
       "to be born in an ass's or ox's belly"
@@ -55224,6 +58095,22 @@
     "WrittenUtc": "2026-07-19T12:00:00Z"
   },
   {
+    "SourceTerm": "高步毘盧頂",
+    "PreferredTarget": "stride high on Vairocana’s crown",
+    "AlternateTargets": [
+      "walk high atop Vairocana’s crown"
+    ],
+    "SearchAliases": [
+      "walking atop Vairocana",
+      "high step on Vairocana's crown",
+      "above Vairocana's head"
+    ],
+    "Status": "preferred",
+    "Note": "The first occurrence belongs to an unnamed monastic questioner, not Feiyin Tongrong; Yuanwu Keqin and Huoqiu Guicai utter the phrase in their own addresses.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T00:15:00Z"
+  },
+  {
     "SourceTerm": "高著眼",
     "PreferredTarget": "raise your eye higher",
     "AlternateTargets": [
@@ -55286,6 +58173,20 @@
     "Note": "The fixed pair with green bamboo is lexicographically central. Other hits use the flowers literally in autumn poems; those ordinary deployments do not establish an additional Chan sense.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-16T12:01:40.818589+00:00"
+  },
+  {
+    "SourceTerm": "鬱鬱黃花無非般若",
+    "PreferredTarget": "luxuriant yellow flowers are nothing other than prajna",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "yellow flowers are all prajna",
+      "flourishing yellow flowers are none other than prajna",
+      "yellow flowers and prajna"
+    ],
+    "Status": "preferred",
+    "Note": "The corpus presents the sentence as a contested saying, not a settled equation. The entry therefore retains both Huizhong’s affirmation and Dazhu’s explicit qualification.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T22:24:24.894868Z"
   },
   {
     "SourceTerm": "鬼爭漆桶",
@@ -55363,6 +58264,21 @@
     "Note": "The supernatural noise is an appraisal of the encounter, not evidence that literal ghosts attended it.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T19:46:14.518118Z"
+  },
+  {
+    "SourceTerm": "魚目比況明珠",
+    "PreferredTarget": "compare a fish eye to a bright pearl",
+    "AlternateTargets": [
+      "liken a fish eye to a luminous pearl"
+    ],
+    "SearchAliases": [
+      "fish eye compared with pearl",
+      "fish eye mistaken for a pearl"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase occurs once in Yuanwu's Blue Cliff commentary.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T12:00:00Z"
   },
   {
     "SourceTerm": "魚行水濁",
@@ -55532,10 +58448,24 @@
     "WrittenUtc": "2026-07-19T15:57:04.466696Z"
   },
   {
-    "SourceTerm": "鴨類",
-    "PreferredTarget": "not the common duck kind",
+    "SourceTerm": "鴆羽落水魚鼈死",
+    "PreferredTarget": "when a poison-bird feather falls into the water, fish and turtles die",
     "AlternateTargets": [
-      "a goose king, not a duck"
+      "a zhen-bird feather drops into water and kills fish and turtles"
+    ],
+    "SearchAliases": [
+      "a zhen-bird feather drops into water and kills fish and turtles"
+    ],
+    "Status": "preferred",
+    "Note": "The zhen is the poisonous bird whose feather carries the image’s lethal force; the occurrence is proverbial, not a zoological claim about an ordinary bird.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T07:15:00Z"
+  },
+  {
+    "SourceTerm": "鴨類",
+    "PreferredTarget": "the ordinary duck kind",
+    "AlternateTargets": [
+      "an undiscriminating duck"
     ],
     "SearchAliases": [
       "not the common duck kind",
@@ -55698,6 +58628,18 @@
     "WrittenUtc": "2026-07-20T12:00:00Z"
   },
   {
+    "SourceTerm": "麁飡易飽。細嚼難飢",
+    "PreferredTarget": "coarse eating fills one easily, while careful chewing keeps hunger away",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "coarse eating fills one easily, while careful chewing keeps hunger away"
+    ],
+    "Status": "preferred",
+    "Note": "Wumen’s case collection supplies the sole exact occurrence of this eating-and-chewing couplet.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T00:00:00Z"
+  },
+  {
     "SourceTerm": "麤言細語",
     "PreferredTarget": "coarse words and fine speech",
     "AlternateTargets": [],
@@ -55815,6 +58757,22 @@
     "Note": "Exact allowlist count for the graph pair: 49 hits in 39 texts; the fixed yellow-millet dream form occurs 13 times in 12 texts. The dream is related to the Handan and Southern-Bough dream families but is not merged with them.",
     "CreatedBy": "Codex f002 Lane C worksheet-first author",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "黃金為地、白銀為屋",
+    "PreferredTarget": "gold as the ground and silver as the house",
+    "AlternateTargets": [
+      "a ground of gold and a house of silver"
+    ],
+    "SearchAliases": [
+      "golden ground and silver house",
+      "gold ground silver dwelling",
+      "who lives in the gold and silver house"
+    ],
+    "Status": "preferred",
+    "Note": "The image occurs in one retained hall address; the source does not identify the gold or silver as ordinary building material.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T00:15:00Z"
   },
   {
     "SourceTerm": "黃面老子",
@@ -56136,6 +59094,20 @@
     "WrittenUtc": "2026-07-15T04:46:29.393398+00:00"
   },
   {
+    "SourceTerm": "龍得水時添意氣、虎靠山處長威獰",
+    "PreferredTarget": "when a dragon gets water its spirit grows, and when a tiger meets the mountains its ferocity increases",
+    "AlternateTargets": [
+      "a dragon gains vigor in water; a tiger gains power in the mountains"
+    ],
+    "SearchAliases": [
+      "a dragon gains vigor in water; a tiger gains power in the mountains"
+    ],
+    "Status": "preferred",
+    "Note": "The utterer of the headword is the questioning monk, while Qixian Zhiqian is the named master who prompts and tests it.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-22T06:00:00Z"
+  },
+  {
     "SourceTerm": "龍王",
     "PreferredTarget": "a dragon king",
     "AlternateTargets": [
@@ -56169,6 +59141,20 @@
     "Note": "Exact count: 660 hits in 233 allowlisted texts; “dragons and snakes intermixed” (龍蛇混雜) occurs 99 times in 72 texts and “distinguish dragons and snakes” (辨龍蛇) 87 times in 58.",
     "CreatedBy": "Codex f002 Lane C worksheet-first author",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "龍蛇易辨",
+    "PreferredTarget": "dragons and snakes are easy to distinguish",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "easy to tell dragons from snakes",
+      "dragons and snakes can readily be told apart",
+      "distinguishing dragons and snakes"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase supplies the first half of an explicit contrast: ordinary kinds may be distinguished, while a patch-robed person is difficult to fool. It does not classify particular people as dragons or snakes.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-21T22:24:17.098548Z"
   },
   {
     "SourceTerm": "龍袖拂開全體現",
