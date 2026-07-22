@@ -4007,7 +4007,7 @@
       "not worth half a cash coin"
     ],
     "Status": "preferred",
-    "Note": "Records apply it to treasure, robes, teachers, sayings, and accomplishments whose stated value is reversed or dismissed. Six independent works anchor this range.",
+    "Note": "A blunt dismissal of value. The thing dismissed changes from case to case; that does not create a new lexical sense.",
     "CreatedBy": "Codex cohort-002 lane-A positions 83-100 explicit full-case adjudication",
     "WrittenUtc": "2026-07-19T00:02:15.050488Z"
   },
@@ -5018,20 +5018,19 @@
   },
   {
     "SourceTerm": "五家",
-    "PreferredTarget": "the five Chan houses",
+    "PreferredTarget": "the five Zen houses",
     "AlternateTargets": [
       "the five houses",
       "five-house grouping"
     ],
     "SearchAliases": [
       "five Zen schools",
-      "five Chan schools",
       "five houses of Zen",
-      "five Chan lineages",
+      "five Zen lineages",
       "Guiyang Linji Caodong Yunmen Fayan"
     ],
     "Status": "preferred",
-    "Note": "The formula search found three occurrences of ‘the five houses are’ (五家者) in two texts; Zhongfeng’s two distinct definitions are both included. The selected evidence also covers an exact five-name enumeration, the two-branch genealogy, the five-versus-one relation drawn within the corpus, and the five-houses/seven-lineages extension. ‘House’ is used as the corpus’s organizational label without importing an external classification.",
+    "Note": "Zhongfeng Mingben supplies two complementary definitions: the five are five in their people rather than five in their Way, and they descend from the two streams of Nanyue and Qingyuan. ‘House’ follows the records' own organizational use.",
     "CreatedBy": "Codex legacy full rebuild Lane B",
     "WrittenUtc": "2026-07-16T18:11:14.793447+00:00"
   },
@@ -5634,7 +5633,7 @@
       "do not ride another's horse"
     ],
     "Status": "preferred",
-    "Note": "The same verse circulates in two works; the named Wumen witness does not establish a second independent use.",
+    "Note": "A verse forbidding the use of another person's bow or horse and continuing with refusal of another person's wrongs and affairs.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T22:20:00Z"
   },
@@ -8015,14 +8014,16 @@
   },
   {
     "SourceTerm": "優曇華",
-    "PreferredTarget": "the udumbara flower",
-    "AlternateTargets": [],
+    "PreferredTarget": "the flower said to appear only rarely",
+    "AlternateTargets": [
+      "the rarely appearing udumbara flower"
+    ],
     "SearchAliases": [
       "the udumbara flower",
       "優曇華"
     ],
     "Status": "preferred",
-    "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
+    "Note": "Dahui Zonggao directly supplies the defining feature: it is rare in the world and appears once at its time. The other passages use the flower without repeating that explanation.",
     "CreatedBy": "Codex f003 Lane A full-case author",
     "WrittenUtc": "2026-07-15T05:09:02.950859+00:00"
   },
@@ -8154,7 +8155,7 @@
       "to outshine all before and after"
     ],
     "Status": "preferred",
-    "Note": "To outshine all before and after praises a saying, exchange, house style, or final act as without predecessor or successor.",
+    "Note": "Praise that places a saying, exchange, house style, or final act beyond comparison with anything before or after it.",
     "CreatedBy": "Codex Lane B B111-B120 full-case author",
     "WrittenUtc": "2026-07-19T00:00:00Z"
   },
@@ -9154,7 +9155,7 @@
       "at the six faculty-gates"
     ],
     "Status": "preferred",
-    "Note": "Counted collocations: \"shine light and shake the earth at the gates of the six faculties\" (六根門頭放光動地), 14; \"clean-naked at the gates\" (六根門頭淨裸裸), 1; \"scrape clean at the gates\" (六根門頭刮削), 4; \"recognize at the gates of the six faculties\" (向六根門頭薦得), 1. No direct dictionary-style self-definition was found; the stable locative construction and its predicates define the deployment.",
+    "Note": "A locative construction for activity at the six sensory gateways, defined in the records by what speakers say happens there.",
     "CreatedBy": "Codex fresh f001 lane B evidence-first",
     "WrittenUtc": "2026-07-15T05:30:00Z"
   },
@@ -9166,7 +9167,7 @@
       "six ears do not share a plot"
     ],
     "Status": "preferred",
-    "Note": "Six ears do not share a plot rebukes turning transmission into a private scheme involving a third party.",
+    "Note": "A proverb rejecting a private scheme involving a third listener, repeatedly transmitted with Mazu Daoyi's slap and later reused in direct answers.",
     "CreatedBy": "Codex B095-B096 author",
     "WrittenUtc": "2026-07-18T14:15:00+00:00"
   },
@@ -11649,7 +11650,7 @@
       "seal of approval"
     ],
     "Status": "preferred",
-    "Note": "Approval is not always the end of examination. In the Zhang Shangying case, after Donglin has approved the commissioner, Doushuai asks whether he still has any doubt about the words and teachings of buddhas and ancestral teachers. Historical notices also distinguish a person's approving teacher from the lineage teacher ultimately named in succession: Fushan Fayuan is reported to receive approval from both Fenyang Shanzhao and Yexian Guixing, while a later record may name a particular succession relation. The headword records the approval event; lineage assignment remains a separate structural claim.",
+    "Note": "Approval certifies a person in a particular encounter, but it does not by itself settle every later question or establish the particular teacher named in a succession record.",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": null
   },
@@ -12833,7 +12834,7 @@
       "stick out the tongue"
     ],
     "Status": "preferred",
-    "Note": "The allowlisted concordance has 548 matches in 194 texts. The retained evidence covers involuntary reaction, spoken appraisal, answer to a one-word question, answer concerning an abbot's public function, and an adversarial interview. Formula searches yielded no corpus-wide verbal definition. Family revalidation against “tongue; capacity to speak” (舌頭) and the “broad, long tongue-mark” (廣長舌相) supports one action sense: reaction and deliberate answer are different deployments of the same bodily act, not different things under depth-gate item 8.",
+    "Note": "The same bodily action can be an unplanned reaction or a deliberate answer. Its force belongs to the surrounding exchange, not to the gesture alone.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
   },
@@ -13401,7 +13402,7 @@
       "exclamation"
     ],
     "Status": "preferred",
-    "Note": "Surprise, challenge, interruption, and emphasis would be readings of the same vocal act, not different things; the corpus does not warrant separate senses for inferred motives.",
+    "Note": "A sharp voiced exclamation. Surprise, challenge, interruption, and emphasis are possible local effects of the same sound, not separate lexical things; the surrounding turn decides its force.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-15T16:00:00Z"
   },
@@ -14337,7 +14338,7 @@
       "the twenty-eight Indian and six Chinese patriarchs"
     ],
     "Status": "preferred",
-    "Note": "The arithmetic is a compact lineage count; unrelated numerical fours, sevens, twos, and threes are excluded.",
+    "Note": "Compact lineage arithmetic: four times seven Indian patriarchs and twice three Chinese patriarchs.",
     "CreatedBy": "Codex Iriya lane A131-150 full-case author",
     "WrittenUtc": "2026-07-18T17:28:08Z"
   },
@@ -14602,7 +14603,7 @@
       "gain one piece of wisdom from one event"
     ],
     "Status": "preferred",
-    "Note": "The proverb’s ordinary causal sequence remains intact; its speakers do not define a separate technical faculty.",
+    "Note": "Yunmen and Fenyang utter the proverb directly; Hongshan Yuzhaoyun Fen uses it in his fiftieth-birthday address but remains a named, roster-unlinked speaker.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T15:56:54.776606Z"
   },
@@ -15603,7 +15604,7 @@
       "cliff-like and sheer"
     ],
     "Status": "preferred",
-    "Note": "The scale varies without changing the image: the ten-thousand-fathom-wall variant 166 files, and the thousand-xun-wall variant 11 files. No ten-thousand-zhang-wall variant was found. The entry retains the contrasts and Langya Huijue's one-word appraisal because the named speakers themselves draw them; it adds no further force.",
+    "Note": "The scale varies without changing the image: 壁立萬仞 enlarges the same sheer wall, while 壁立千尋 changes the unit but retains the height. The entry preserves the contrasts and Langye Huijue's one-word appraisal because the named speakers themselves draw them.",
     "CreatedBy": "Codex fresh f001 lane B evidence-first",
     "WrittenUtc": "2026-07-15T05:30:00Z"
   },
@@ -17432,7 +17433,7 @@
       "who is the one within the environment?"
     ],
     "Status": "preferred",
-    "Note": "The paired interview turns scenery into a public test: after the place is named, the question presses for the person who is not separable from it. The sense has 8 exact occurrences in 8 independent works.",
+    "Note": "The question follows a monastery-scene question and asks for the person within that scene. Its answers remain attached to their own respondents; two witnesses preserve one Wufeng Changguan exchange.",
     "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
     "WrittenUtc": "2026-07-19T13:41:06.489510+00:00"
   },
@@ -18470,7 +18471,7 @@
       "horses of the post crowd together"
     ],
     "Status": "preferred",
-    "Note": "The corpus uses the line for parties meeting in reciprocal pressure; the official horses remain a concrete comparison, not named abstract categories.",
+    "Note": "The two Nanquan records preserve the same judgment in different recensions; Yingshan supplies a separate comparison.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T19:57:16.627305Z"
   },
@@ -19968,7 +19969,7 @@
       "turn left and turn right"
     ],
     "Status": "preferred",
-    "Note": "To turn left and turn right. Yuanwu Foguo, Liu Tiemo, the unnamed compiler-narrator, Liao’an Qingyu, and Hongzhi Zhengjue use the paired motions in direct testing—asking which way an opponent turns—and in verses where repeated turning names movement that remains caught in the case.",
+    "Note": "The doubled motion appears as Zihu Lizong's question to Liu Tiemo and in later comments and verses that preserve turning in both directions.",
     "CreatedBy": "Codex cohort-002 lane-B B061-B070 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
   },
@@ -20069,7 +20070,7 @@
       "something to grasp"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
+    "Note": "Daowu Wuzhen's line ‘hand on the handle, foot on the tail’ survives in duplicate recensions and is counted as one use of the concrete image.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
   },
@@ -20355,7 +20356,7 @@
       "recorded sayings"
     ],
     "Status": "preferred",
-    "Note": "recorded sayings is a textual or possessive label for recorded sayings, especially inside titles and notices about compiling a discourse record.",
+    "Note": "The label appears in titles, tables of contents, prefaces, and notices about compiling or printing a named master's recorded sayings.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T23:45:00Z"
   },
@@ -20799,7 +20800,7 @@
       "quietly sitting in the hut as white clouds rise on the summit"
     ],
     "Status": "preferred",
-    "Note": "The second corpus witness copies the same fourfold set, so the entry remains provisional rather than counting the repetition as an independent deployment.",
+    "Note": "Daowu Wuzhen gives the line for taking the person but not the surroundings within his fourfold set.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-22T06:00:00Z"
   },
@@ -21935,17 +21936,17 @@
   },
   {
     "SourceTerm": "心境",
-    "PreferredTarget": "mind and its objects",
+    "PreferredTarget": "mind and its objects or circumstances",
     "AlternateTargets": [
-      "mental field",
-      "mind-world relation"
+      "mind and what it encounters",
+      "mind and its field"
     ],
     "SearchAliases": [
       "mind and its objects",
       "mental field"
     ],
     "Status": "preferred",
-    "Note": "The expression joins or contrasts mind with the field it encounters. Some passages coordinate two terms while others use a compact compound; neither automatically asserts identity.",
+    "Note": "心 and 境 may be coordinated, contrasted, or compressed into one compound. The phrase itself does not say that they are identical.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
@@ -25440,7 +25441,7 @@
       "maintain the authoritative command"
     ],
     "Status": "preferred",
-    "Note": "No second sense is warranted: different objects and approving or critical appraisals are different deployments of the same public sustaining act. False substring joins, including personal names ending in the first graph followed by an independent verb beginning with the second, were excluded from semantic conclusions.",
+    "Note": "Different objects and approving or critical appraisals retain the same public act of taking something up and sustaining it before others.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": null
   },
@@ -25818,7 +25819,7 @@
       "part the grass and watch the wind"
     ],
     "Status": "preferred",
-    "Note": "All eight complete candidate cases were reviewed for the part the grass and watch the wind reading; the six retained works cover one visitor-inspection idiom; the particular question asked after arrival does not split the sense.",
+    "Note": "The literal travel image—parting grass while watching the wind—becomes a formula for going out to inspect a named teacher or the ancestral matter. The particular question or appraisal after arrival does not create another sense.",
     "CreatedBy": "Codex fresh semantic author A051-060 2026-07-18",
     "WrittenUtc": "2026-07-18T10:01:17.015450Z"
   },
@@ -25900,7 +25901,7 @@
       "goose king selects milk"
     ],
     "Status": "preferred",
-    "Note": "Fresh concordance: 162 exact hits in 95 files representing 93 works. Six read deployments across four works preserve verdict, contrast, case discrimination, and the explicit water-and-milk image.",
+    "Note": "The goose king's ability to select milk from water becomes a verdict on discrimination within a concrete exchange.",
     "CreatedBy": "Codex investigation-next300 Lane B explicit author",
     "WrittenUtc": "2026-07-17T09:24:46.333249+00:00"
   },
@@ -26644,7 +26645,7 @@
       "to emit light and shake the earth"
     ],
     "Status": "preferred",
-    "Note": "Emitting light and shaking the earth is the old cosmic display, but masters also bring the formula down onto ordinary activity and test whether such display proves anything.",
+    "Note": "The old cosmic display of emitting light and shaking the earth is repeatedly brought onto a staff, whisk, fan, lamp, animals, and ordinary activity. Three witnesses preserve one address by Cuiyan Shouzhi and count as one use.",
     "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
     "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
   },
@@ -29125,7 +29126,7 @@
       "last word"
     ],
     "Status": "preferred",
-    "Note": "6 independent witnesses delimit this sense.",
+    "Note": "The phrase can be demanded in an exchange or named as the closing turn of a career. The records supply different answers rather than one universal “final phrase.”",
     "CreatedBy": "Codex f003 Lane B evidence-first",
     "WrittenUtc": "2026-07-15T05:17:36.484554+00:00"
   },
@@ -29200,7 +29201,7 @@
       "final barrier"
     ],
     "Status": "preferred",
-    "Note": "The headword clusters with \"pass through the final locked barrier\" (透末後牢關, 9 occurrences), \"break free through the final locked barrier\" (透脫末後牢關), and the shorter \"final checkpoint\" (末後一關, 8). The related line \"only with the final sentence does one first reach the locked barrier\" (末後一句始到牢關, 54) explains the compound's final-position force without itself containing the exact four-graph headword.",
+    "Note": "The phrases 透末後牢關 and 透脫末後牢關 describe passing through or breaking free through the barrier. The related line 末後一句始到牢關 explains its final-position force without containing the complete headword.",
     "CreatedBy": "Codex fresh f001 lane B evidence-first",
     "WrittenUtc": "2026-07-15T05:30:00Z"
   },
@@ -30198,8 +30199,11 @@
   },
   {
     "SourceTerm": "枯木禪",
-    "PreferredTarget": "dead-tree teaching",
-    "AlternateTargets": [],
+    "PreferredTarget": "dead-tree Zen",
+    "AlternateTargets": [
+      "dead-tree teaching",
+      "withered-tree Zen"
+    ],
     "SearchAliases": [
       "dead-tree teaching"
     ],
@@ -30794,18 +30798,17 @@
   },
   {
     "SourceTerm": "業識茫茫",
-    "PreferredTarget": "karmic consciousness adrift",
+    "PreferredTarget": "consciousness driven by one’s deeds, boundless and unmoored",
     "AlternateTargets": [
-      "lost in karmic consciousness"
+      "deed-shaped consciousness adrift",
+      "consequence-bearing consciousness without bearings"
     ],
     "SearchAliases": [
-      "karmic consciousness confused",
-      "adrift in karma consciousness",
-      "lost without footing",
-      "karmic awareness"
+      "action consciousness adrift",
+      "consciousness without bearings"
     ],
     "Status": "preferred",
-    "Note": "The diagnosis names a person whose karmic consciousness is boundless and without footing; masters contrast it with knowing the matter directly, while some deliberately choose that exposed condition over a deadened ideal.",
+    "Note": "茫茫 gives the breadth and loss of bearings; several speakers immediately add 無本可據, “with no basis to rely on.”",
     "CreatedBy": "Codex Iriya construction lane C evidence-first",
     "WrittenUtc": "2026-07-18T07:28:22.005720Z"
   },
@@ -33093,7 +33096,7 @@
       "Pasenadi"
     ],
     "Status": "preferred",
-    "Note": "5 exact occurrences from 5 independent works are stored.",
+    "Note": "Later Zen speakers raise King Prasenajit’s questions about truth and bodily change as inherited public cases.",
     "CreatedBy": "Codex fresh construction Lane C",
     "WrittenUtc": "2026-07-17T00:00:00Z"
   },
@@ -33504,7 +33507,7 @@
       "a living snake"
     ],
     "Status": "preferred",
-    "Note": "The entry does not make every snake a code for one abstract quality.",
+    "Note": "The animal remains concrete. Some passages contrast handling a live snake with handling a dead one; two verses place a live snake in an impossible bottomless basket. The entry does not make every snake a code for motion, danger, or one abstract quality.",
     "CreatedBy": "Codex investigation-next300 Lane A",
     "WrittenUtc": "2026-07-17T16:00:00Z"
   },
@@ -39054,7 +39057,7 @@
       "answer back to insults"
     ],
     "Status": "preferred",
-    "Note": "Several texts repeat the fixed pair; the three retained witnesses show direct reuse and an explicitly attributed quotation without turning copied recensions into separate senses.",
+    "Note": "A fixed pair: permission to answer back when insulted and to splash water back when spat upon.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-22T01:30:00Z"
   },
@@ -39438,7 +39441,7 @@
       "the true face"
     ],
     "Status": "preferred",
-    "Note": "The true face is the actual countenance demanded by identity questions, opposed to borrowed descriptions or concealment.",
+    "Note": "The expression asks for or discloses an actual countenance or identity, often against concealment, borrowed descriptions, names, or outward clothing.",
     "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
     "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
   },
@@ -39838,7 +39841,7 @@
       "monastery guest master"
     ],
     "Status": "preferred",
-    "Note": "Six curated witnesses across independent works delimit the monastery-office sense.",
+    "Note": "The office title is a compound: the monastery official responsible for receiving guests. It is distinct from cases where 知 is a verb and 客 is its object.",
     "CreatedBy": "Codex f003 Lane B evidence-first",
     "WrittenUtc": "2026-07-16T12:01:39.532559+00:00"
   },
@@ -39997,7 +40000,7 @@
       "plant flowers on stone"
     ],
     "Status": "preferred",
-    "Note": "Yaoshan Weiyan answers Shitou Xiqian, ‘here it is like planting flowers on stone’ (我這裏如石上栽華). Tianyin Yuanxiu raises that exchange; Songyuan Chongyue and Sanyi Mingyu preserve the image in verse and address, while Jingyan Shousui places it beside ‘hanging a sword in empty space’ (空中挂劒).",
+    "Note": "Yaoshan Weiyan's image for his own place: like planting flowers on stone.",
     "CreatedBy": "Codex cohort002 lane C C71-100 full-case packet author",
     "WrittenUtc": "2026-07-19T02:00:28.208619+00:00"
   },
@@ -41276,7 +41279,7 @@
       "all phenomena return to one"
     ],
     "Status": "preferred",
-    "Note": "The exact four-character string occurs 955 times in 236 allowlisted storage files. The unpunctuated full question occurs 56 times in 22 files, while its second clause occurs 838 times in 216. Standard self-definition searches yielded no direct definition; their zero results are recorded in WORK rather than printed as unattested Chinese evidence. The attested question, the label for Zhaozhou's case, and later verse headings share one referent. Answers remain attached to their respective speakers and do not become additional senses of the headword.",
+    "Note": "This is usually the opening half of the question, “The myriad things return to one; where does the one return?” Each answer remains attached to its own speaker.",
     "CreatedBy": "Codex GPT-5.6",
     "WrittenUtc": null
   },
@@ -41292,7 +41295,7 @@
       "alone manifest among phenomena"
     ],
     "Status": "preferred",
-    "Note": "Alone exposed among the myriad forms says that the body sought elsewhere is already unmistakably displayed amid every appearance.",
+    "Note": "Changqing Huileng's verse joins the line to self-acceptance: ‘only when a person accepts it for himself is it intimate’ (唯人自肯乃方親).",
     "CreatedBy": "Codex Iriya construction lane C evidence-first",
     "WrittenUtc": "2026-07-18T07:13:49.801777Z"
   },
@@ -41360,7 +41363,7 @@
       "秤錘"
     ],
     "Status": "preferred",
-    "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
+    "Note": "The seven-cattie answer, the iron-hard comparison, and the impossible extraction of golden juice or oil all retain the same heavy, resistant weighing implement.",
     "CreatedBy": "Codex f003 Lane A full-case author",
     "WrittenUtc": "2026-07-15T04:46:29.393398+00:00"
   },
@@ -44822,7 +44825,7 @@
       "pass a ladder to a thief"
     ],
     "Status": "preferred",
-    "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one aid-to-a-thief verdict across comments, warnings, and rebuttal.",
+    "Note": "A verdict that someone has furnished the means by which a thief, imitator, opponent, or disputed reading advances.",
     "CreatedBy": "Codex cohort-002 lane-A 71-80 full-case author",
     "WrittenUtc": "2026-07-18T23:33:51.647746Z"
   },
@@ -45438,7 +45441,7 @@
       "the raider loses"
     ],
     "Status": "preferred",
-    "Note": "The phrase is a taunting verdict that declares the other party’s move defeated in the encounter.",
+    "Note": "A taunting verdict aimed at the person whose move has just been tested. Four witnesses preserve one Zhaozhou-hermit encounter and count as one use; Chongfan Yu and Renwang Chuping supply two independent uses.",
     "CreatedBy": "Codex Iriya construction lane A positions 43–50",
     "WrittenUtc": "2026-07-18T08:01:12.742786Z"
   },
@@ -47437,7 +47440,7 @@
       "four perceptual functions"
     ],
     "Status": "preferred",
-    "Note": "The corpus has 787 matches in 162 files. Sixty-six matches in forty-six files occur in constructions about leaving or being apart from seeing, hearing, sensing, and knowing. Five passages in five files use the explicit nominal form 'as for seeing, hearing, sensing, and knowing,' and three in three use 'the so-called seeing, hearing, sensing, and knowing.' The corrective passages show that the compound names the four functions themselves, not a separate faculty.",
+    "Note": "The corrective passages name four ordinary functions themselves—seeing, hearing, sensing, and knowing—rather than a separate faculty standing behind them.",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": null
   },
@@ -48083,7 +48086,7 @@
       "awakened by the reply"
     ],
     "Status": "preferred",
-    "Note": "The frozen allowlisted corpus has 676 exact hits in 186 files representing 181 works. Seven anchors across five works preserve seven distinct speaker-recipient pairs and a range of following actions. Related formulas such as awakening, penetration, or having an insight at the words are neighboring constructions, not alternate spellings or extra senses.",
+    "Note": "Related formulas report awakening, penetration, or an insight at someone's words; they are neighboring constructions rather than alternate spellings of this exact narrative formula.",
     "CreatedBy": "Codex legacy full rebuild Lane B",
     "WrittenUtc": "2026-07-16T18:11:11.068505+00:00"
   },
@@ -52936,7 +52939,7 @@
       "conceal oneself in a needle’s eye"
     ],
     "Status": "preferred",
-    "Note": "The retained evidence contrasts the needle eye with an ocean and later contrasts concealment with roaming, preserving both spatial reversals.",
+    "Note": "Three witnesses preserve one address by Kaiyuan Zhizi. Xuedou Chongxian later sets needle-eye concealment aside in a separate question, giving two distinct uses.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T15:56:43.337666Z"
   },
@@ -55025,7 +55028,7 @@
       "hair covering the gall but no discerning eye"
     ],
     "Status": "preferred",
-    "Note": "The exact two-clause portrait line occurs in one work.",
+    "Note": "Xutang Zhiyu's portrait line grants intimidating courage while denying the eye that can test people.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-22T15:00:00Z"
   },
@@ -55246,7 +55249,7 @@
       "cloud water moon reeds"
     ],
     "Status": "preferred",
-    "Note": "Both packet witnesses are recensions of one verse, so only one deployment is claimed.",
+    "Note": "Xuedou Chongxian's verse opens a waterscape of drifting cloud, boundless water, moonlight, and reeds.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T16:00:00Z"
   },
@@ -55413,7 +55416,7 @@
       "the thunder is tremendous but there is no rain at all"
     ],
     "Status": "preferred",
-    "Note": "Tremendous thunder with no rain appraises a loud display that produces no corresponding result; Muan Anyong applies it immediately after the unnamed questioner’s shout. The records preserve both later quotation of Haiyin Xin's appraisal and a fresh answer following a shout. Thunder and absent raindrops remain the explicit contrast in every retained turn.",
+    "Note": "Five witnesses retell one moment in which Jiaozhong Huian Miguang remembers Haiyin Xin’s verdict; the sixth is Muan Anyong’s independent use after an unnamed interlocutor shouts. Two independent uses preserve the phrase, so the entry remains provisional.",
     "CreatedBy": "Codex cohort-002 lane-B B141-B150 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
   },
@@ -57148,7 +57151,7 @@
       "bamboo staff of Shoushan"
     ],
     "Status": "preferred",
-    "Note": "The stored rows were checked for case-family and paratext duplication.",
+    "Note": "The headword names Shoushan Xingnian’s bamboo-staff case. The later verses and biographies inherit that case; they do not make every bamboo staff “Shoushan’s bamboo staff.”",
     "CreatedBy": "Codex f004 lane C author",
     "WrittenUtc": "2026-07-15T10:47:37.387461+00:00"
   },
@@ -58108,7 +58111,7 @@
       "hang the bowl-bag high and snap the staff"
     ],
     "Status": "preferred",
-    "Note": "The implements remain concrete monastic travel gear; breaking and hanging them mark the stopping of aimless travel here.",
+    "Note": "The bowl-bag and staff are concrete travel gear; hanging and breaking them mark the end of aimless travel.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T19:25:31.189448Z"
   },
@@ -58321,7 +58324,7 @@
       "fish leave turbid water"
     ],
     "Status": "preferred",
-    "Note": "6 exact full-case witnesses from 6 independent works support this corpus-bounded sense.",
+    "Note": "The examples preserve direct answers, later comments, and an unattributed verse; each is identified at the level supported by its full case.",
     "CreatedBy": "Codex f004 lane C1166-C1175 exact-actor recovery author",
     "WrittenUtc": "2026-07-15T15:28:02.993665+00:00"
   },
@@ -58948,7 +58951,7 @@
       "silence and illumination"
     ],
     "Status": "preferred",
-    "Note": "Corpus collocations: \"silent-illumination Chan\" (默照禪), 5; \"followers of silent illumination\" (默照之徒), 12; \"silent illumination is not permitted\" (不許默照), 2; \"withered Chan and silent illumination\" (枯禪默照), 6; \"oppose silent illumination\" (排默照), 14; \"at the place of silently illuminating\" (默默照處), 1. These counts show both self-description and sustained criticism in the Chinese record.",
+    "Note": "Related wording includes ‘silent-illumination Zen’ (默照禪), ‘followers of silent illumination’ (默照之徒), ‘silent illumination is not permitted’ (不許默照), ‘withered Zen and silent illumination’ (枯禪默照), ‘oppose silent illumination’ (排默照), and ‘at the place of silently illuminating’ (默默照處). The wording appears in both affirmative description and sustained criticism.",
     "CreatedBy": "Codex fresh f001 lane B evidence-first",
     "WrittenUtc": "2026-07-15T05:30:00Z"
   },
@@ -59289,7 +59292,7 @@
       "whisk made from turtle fur"
     ],
     "Status": "preferred",
-    "Note": "6 exact witnesses from 6 distinct canonical works.",
+    "Note": "An impossible teaching-seat whisk, since a turtle has no hair.",
     "CreatedBy": "Codex construction Lane B fresh author",
     "WrittenUtc": "2026-07-19T03:30:11.598377+00:00"
   },
