@@ -499,7 +499,7 @@
       "a circle-sign"
     ],
     "Status": "preferred",
-    "Note": "The circle is not passive decoration: its making and alteration become moves in the public case, with authority residing in what is done with the figure. The sense has 8 exact occurrences in 8 independent works.",
+    "Note": "The circle is not decoration: making, marking, erasing, or answering it becomes a move in the recorded encounter.",
     "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
     "WrittenUtc": "2026-07-19T13:41:09.731852+00:00"
   },
@@ -511,7 +511,7 @@
       "one sitting-cloth's patch of ground"
     ],
     "Status": "preferred",
-    "Note": "Ordinary land measures without the sitting cloth do not establish this lexical unit.",
+    "Note": "The headword is the cloth-based land measure; ordinary references to land without the sitting cloth do not establish this unit.",
     "CreatedBy": "Codex Iriya lane B121-130 full-case author",
     "WrittenUtc": "2026-07-18T17:00:00Z"
   },
@@ -1836,7 +1836,7 @@
       "one play"
     ],
     "Status": "preferred",
-    "Note": "The headword retains the concrete move vocabulary rather than being inflated into an unstated realization. The texts themselves qualify moves as final, upward, prior, or passed over. Apparent \"one-move is...\" formula hits were mostly grammatical \"one who singles out the upward move\" and are not self-definitions.",
+    "Note": "The headword keeps its concrete move vocabulary. The records qualify moves as final, upward, prior, passed over, or personally taken up; none of these qualifications creates a second referent.",
     "CreatedBy": "Codex fresh f001 lane B evidence-first",
     "WrittenUtc": "2026-07-15T05:30:00Z"
   },
@@ -4049,7 +4049,7 @@
       "not established in texts"
     ],
     "Status": "preferred",
-    "Note": "Seven exact witnesses in seven independent works support the direct-pointing formula and its internal qualifications; the target avoids the unsupported absolute “without words.”",
+    "Note": "The stored examples support both the direct-pointing formula and its internal qualifications; the target avoids the unsupported absolute ‘without words.’",
     "CreatedBy": "Codex fresh f001 lane A evidence-first",
     "WrittenUtc": "2026-07-15T10:30:00Z"
   },
@@ -4284,7 +4284,7 @@
       "tea for now"
     ],
     "Status": "preferred",
-    "Note": "For now, sit and drink tea is the named headword utterer’s controlled close: it can receive a visitor, suspend an unresolved exchange, or dismiss an over-high answer without explaining it.",
+    "Note": "The opening particle marks a provisional pause: the invitation closes the present exchange without necessarily settling the question that preceded it.",
     "CreatedBy": "Codex Iriya construction lane C evidence-first",
     "WrittenUtc": "2026-07-18T07:13:49.620497Z"
   },
@@ -8778,7 +8778,7 @@
       "the complete body"
     ],
     "Status": "preferred",
-    "Note": "The different grammatical placements do not warrant a split: noun, modifier, and extent readings all designate completeness of the same referent. The deviation lies in the recurring public formulas 'the whole body appears' (全體現) and 'the whole body is exposed' (全體露), not in an imported claim about a metaphysical 'total reality.' Frozen-corpus concordance: 1593 exact hits in 323 storage files representing 318 independent works.",
+    "Note": "Noun, modifier, and extent readings all designate completeness of the same referent. The recurring Zen turn is ‘the whole body appears’ or ‘the whole body is exposed,’ not an imported claim about a metaphysical total reality.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": null
   },
@@ -9369,19 +9369,19 @@
   },
   {
     "SourceTerm": "冬瓜印子",
-    "PreferredTarget": "a winter-melon seal",
+    "PreferredTarget": "a bogus seal of approval",
     "AlternateTargets": [
-      "a certification stamped with a winter-melon seal",
-      "the crude winter-melon stamp"
+      "a winter-melon seal",
+      "a crude certification stamp"
     ],
     "SearchAliases": [
+      "bogus seal of approval",
       "winter melon seal",
       "crude certification stamp",
-      "indiscriminate seal of approval",
-      "winter-melon imprint"
+      "false authorization"
     ],
     "Status": "preferred",
-    "Note": "Four critical deployments span four independent masters and works.",
+    "Note": "The four passages use the seal-name as criticism of false, forced, or showy authorization; they do not show that every seal or recognition is false.",
     "CreatedBy": "Codex Iriya construction lane C evidence-first",
     "WrittenUtc": "2026-07-18T07:32:00.202421Z"
   },
@@ -10324,7 +10324,7 @@
       "raise your eyebrows and look"
     ],
     "Status": "preferred",
-    "Note": "“Raise your eyebrows and look closely” is an imperative to inspect the present case rather than pass over it.",
+    "Note": "The examples include both direct commands and descriptions of someone taking notice.",
     "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
     "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
   },
@@ -10743,9 +10743,9 @@
   },
   {
     "SourceTerm": "勢至",
-    "PreferredTarget": "Mahasthamaprapta",
+    "PreferredTarget": "Great Strength",
     "AlternateTargets": [
-      "Bodhisattva Great Strength"
+      "the figure Great Strength"
     ],
     "SearchAliases": [
       "Mahasthamaprapta",
@@ -10754,7 +10754,7 @@
       "Bodhisattva of power"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
+    "Note": "The two Kaiyuan rows preserve one address in two works; they do not count as two independent deployments by different speakers.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:30:59.686577+00:00"
   },
@@ -11884,17 +11884,20 @@
   },
   {
     "SourceTerm": "參學",
-    "PreferredTarget": "to study under Chan teachers",
+    "PreferredTarget": "to undertake Zen study",
     "AlternateTargets": [
-      "to undertake Chan study",
-      "to study with teachers"
+      "Zen study",
+      "to study with Zen teachers",
+      "to study under teachers"
     ],
     "SearchAliases": [
-      "Chan study",
+      "undertake Zen study",
+      "Zen study",
+      "study with teachers",
       "study under teachers"
     ],
     "Status": "preferred",
-    "Note": "8 retained full cases show journeys, teacher encounters, and retrospective accounts of study; parallel editions are counted as one work.",
+    "Note": "The shared sense is undertaking Zen study. Travel to teachers, public testing, urgent application, and study by oneself are attested settings, not separate senses.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T02:45:14.895478+00:00"
   },
@@ -13090,7 +13093,7 @@
       "Caodong positions"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
+    "Note": "The examples preserve both the image of coordinated roles and the further questions masters ask after that coordination is reached.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:51:45.454326+00:00"
   },
@@ -13344,7 +13347,7 @@
   },
   {
     "SourceTerm": "和尚家風",
-    "PreferredTarget": "the named abbot's house style",
+    "PreferredTarget": "the abbot's house style",
     "AlternateTargets": [],
     "SearchAliases": [
       "the person named in the retained encounter's characteristic style"
@@ -13812,7 +13815,7 @@
       "take good care on the road"
     ],
     "Status": "preferred",
-    "Note": "A conventional farewell is repeatedly made the exact answer or disputed saying in a Chan encounter.",
+    "Note": "A conventional farewell is repeatedly made the exact answer or disputed saying in a Zen encounter.",
     "CreatedBy": "Codex cohort-002 lane-A 101-110 full-case author",
     "WrittenUtc": "2026-07-19T04:37:25.426691Z"
   },
@@ -13926,19 +13929,19 @@
   },
   {
     "SourceTerm": "喝一喝",
-    "PreferredTarget": "gave a shout",
+    "PreferredTarget": "to give a shout",
     "AlternateTargets": [
-      "shouted once",
-      "let out a shout"
+      "to shout once",
+      "to let out a shout"
     ],
     "SearchAliases": [
-      "gave a shout",
-      "shouted once",
+      "give a shout",
+      "shout once",
       "let out a shout",
-      "give one shout"
+      "one shout"
     ],
     "Status": "preferred",
-    "Note": "Frozen-corpus concordance: 7822 exact hits in 344 storage files representing 339 independent works. In the word family, “shout” can be a noun or verb, “one shout” counts it, and “gave a shout” is the finite narrative action. Speaker, addressee, and sequence position are different deployments of the same action, not different things. Comparison frames include leaving the seat, ascending the seat, planting the staff, and returning to the abbot's quarters.",
+    "Note": "The formula marks one performed shout. Repeated shouts remain one action type; their position in an exchange or teaching-seat event supplies the local job.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": "2026-07-19T03:23:22.023942+00:00"
   },
@@ -13956,7 +13959,7 @@
       "shout encounter"
     ],
     "Status": "preferred",
-    "Note": "The exhaustive frozen-corpus ledger classifies 803 exact character spans: 484 usable lexical candidates across 175 independent works and 319 segmentation joins. Eleven curated witnesses were selected for distinct questions, judgments, verses, instructions, and later comments rather than as a numerical cap.",
+    "Note": "The stored examples distinguish the lexical phrase from adjacent sequences in which a shout is followed by leaving the seat.",
     "CreatedBy": "Codex 喝下 exhaustive-ledger depth rebuild author",
     "WrittenUtc": "2026-07-16T04:16:33Z"
   },
@@ -15744,7 +15747,7 @@
       "retreat close"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
+    "Note": "The exact uses name late summer or the close of the summer assembly; longer compounds and quoted formulas do not establish another meaning for the headword itself.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
   },
@@ -19758,7 +19761,7 @@
       "visible world"
     ],
     "Status": "preferred",
-    "Note": "The frozen corpus has 2,487 exact hits in 333 files representing 329 works. Eight anchors span direct replies, questions, sermon statements, cited cases, and later commentary across independent works.",
+    "Note": "The expression appears in replies, questions, hall statements, raised cases, and commentary; in each, the local predicate determines what the landscape is said to do.",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": null
   },
@@ -20889,7 +20892,7 @@
       "price of rice"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
+    "Note": "The phrase remains the concrete market answer about rice in Luling even when later teachers quote, price, or appraise it as a named case.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:31:08.939246+00:00"
   },
@@ -21741,7 +21744,7 @@
       "Deshan's stick"
     ],
     "Status": "preferred",
-    "Note": "The former object/action split was merged under item 8: the lone 'under Deshan's staff' construction describes use of the same named implement, not an independently established second referent.",
+    "Note": "In these constructions the compound names the staff as an implement, paired with Linji's shout or treated as a device a Chan practitioner can take up or rely on.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
   },
@@ -22014,7 +22017,7 @@
       "each thought-moment"
     ],
     "Status": "preferred",
-    "Note": "The expression uses repetition distributively or relationally across successive minds. Succession and mutual correspondence must be distinguished from accidental duplication.",
+    "Note": "Two stored sources preserve the same Baozhi verse and count as one use; the other examples show distinct uses of the repeated form.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
@@ -22142,7 +22145,7 @@
       "emptiness of mind"
     ],
     "Status": "preferred",
-    "Note": "The expression predicates or names the mind's freedom from fixed contents. Some cases form a subject-predicate clause and others a compact nominal expression; neither licenses mere blankness.",
+    "Note": "The expression appears both as a clause saying that the mind is empty and in the inherited examination image ‘pass with an empty mind’; these grammatical settings do not make different things.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
@@ -27249,7 +27252,7 @@
       "New Year Dharma"
     ],
     "Status": "preferred",
-    "Note": "The phrase literally marks the beginning of the new year. It repeatedly enters New Year hall questions; duplicate transmissions of Jingqing’s one exchange are counted once.",
+    "Note": "The phrase literally marks the beginning of the new year. It repeatedly enters New Year hall questions, including parallel transmissions of Jingqing's exchange.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T09:30:00Z"
   },
@@ -27623,7 +27626,7 @@
       "light and darkness"
     ],
     "Status": "preferred",
-    "Note": "Question forms distinguish \"light within dark\" and \"dark within light,\" then ask about \"light and dark together\" (明暗雙雙). Ruibai says, \"I do not ask about light and dark together; what about the affair facing us right now?\" (明暗雙雙即不問，即今覿面事如何). Elsewhere a raised staff is said to contain mountains, rivers, earth, light, dark, form, and emptiness on its tip. The corpus supplies several relations—distinct, intermingling, unconcerned, and together—without reducing them to one abstract theory.",
+    "Note": "The records keep several relations visible—distinct, intermingling, reciprocal, and paired—rather than reducing light and dark to one theory.",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": null
   },
@@ -29532,7 +29535,7 @@
       "native mind"
     ],
     "Status": "preferred",
-    "Note": "Primary corpus-wide original-mind sense. Cross-check original nature (本性), true mind, and no-mind as neighboring entries with their own predicates. No single imported metaphysical definition is imposed.",
+    "Note": "These witnesses give different predicates for original mind; none supplies a single definition that overrides the others.",
     "CreatedBy": "Codex legacy full rebuild Lane A",
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
@@ -29631,8 +29634,7 @@
     "SearchAliases": [
       "complete from the start",
       "inherently complete",
-      "complete in itself from the origin",
-      "Zen complete from the start"
+      "complete in itself from the origin"
     ],
     "Status": "preferred",
     "Note": "The subjects vary—the nature, unconditioned knowing, living beings, and the matter under discussion—but the predicate remains the same: already complete rather than acquired. These are applications of one predicate, not different things denoted by the phrase itself. The related shorter form \"complete\" (具足) is broader and may carry ordinary quantitative uses outside this entry.",
@@ -30614,13 +30616,17 @@
   },
   {
     "SourceTerm": "棒打",
-    "PreferredTarget": "struck with a staff",
-    "AlternateTargets": [],
+    "PreferredTarget": "to strike with a staff",
+    "AlternateTargets": [
+      "to beat with a staff"
+    ],
     "SearchAliases": [
-      "struck with a staff"
+      "strike with a staff",
+      "staff strike",
+      "beat with a staff"
     ],
     "Status": "preferred",
-    "Note": "The phrase describes striking someone with the Chan staff.",
+    "Note": "The headword is the verbal unit ‘strike with a staff.’ In the frequent longer construction, the preceding numeral ‘one’ counts the blow; it is not part of the headword.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T00:30:00Z"
   },
@@ -31358,7 +31364,7 @@
       "patriarchs of every generation"
     ],
     "Status": "preferred",
-    "Note": "The collective is not background history: masters summon it into the hall as a benchmark that the current question can affirm, exceed, or leave speechless. The sense has 8 exact occurrences in 8 independent works.",
+    "Note": "Masters summon this collective into public addresses as a benchmark that a present speaker can invoke, exceed, criticize, or leave behind.",
     "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
     "WrittenUtc": "2026-07-19T13:41:06.489510+00:00"
   },
@@ -32529,13 +32535,15 @@
   },
   {
     "SourceTerm": "法兄",
-    "PreferredTarget": "elder Dharma brother",
-    "AlternateTargets": [],
+    "PreferredTarget": "elder brother in the teaching",
+    "AlternateTargets": [
+      "senior fellow in the teaching"
+    ],
     "SearchAliases": [
       "elder Dharma brother"
     ],
     "Status": "preferred",
-    "Note": "法兄 is a respectful kinship title for a senior fellow practitioner in the Dharma.",
+    "Note": "A respectful kinship title for a senior fellow within a shared teaching line or community.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T00:30:00Z"
   },
@@ -33117,15 +33125,21 @@
   },
   {
     "SourceTerm": "波羅蜜",
-    "PreferredTarget": "perfection",
-    "AlternateTargets": [],
+    "PreferredTarget": "reaching the other shore",
+    "AlternateTargets": [
+      "arrival at the other shore",
+      "perfection"
+    ],
     "SearchAliases": [
-      "arrival at the other shore"
+      "reaching the other shore",
+      "arrival at the other shore",
+      "perfection",
+      "paramita"
     ],
     "Status": "preferred",
-    "Note": "The inherited technical term; named perfections and compounds specify it contextually.",
+    "Note": "A verse in the stored corpus directly glosses the word as reaching the other shore. Other witnesses retain it in compounds and numbered sets, where ‘perfection’ remains a useful alternate rendering.",
     "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T00:00:00Z"
+    "WrittenUtc": "2026-07-23T12:00:00Z"
   },
   {
     "SourceTerm": "泣露千般草，吟風一樣松",
@@ -33378,7 +33392,7 @@
       "kill and enliven"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
+    "Note": "Here the expression names the transitive act of bringing someone to life rather than a person who is alive.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:30:59.686577+00:00"
   },
@@ -34268,9 +34282,9 @@
       "full view of green mountains"
     ],
     "Status": "preferred",
-    "Note": "154 exact hits in 98 independent works; 7 selected exact witnesses are stored.",
+    "Note": "Tiantai Deshao's verse supplies the recurring line; other speakers quote it, turn it into a question, or place it in new verses and answers.",
     "CreatedBy": "Codex Lane A evidence-first calibration",
-    "WrittenUtc": "2026-07-17T08:59:43.576992+00:00"
+    "WrittenUtc": "2026-07-17T16:06:20.637195+00:00"
   },
   {
     "SourceTerm": "滿面慚惶",
@@ -34559,7 +34573,7 @@
       "fire steward"
     ],
     "Status": "preferred",
-    "Note": "6 exact witnesses from 6 distinct canonical works.",
+    "Note": "The examples include headings and narration as well as spoken exchanges; the actor fields distinguish who says the headword from the masters who conduct the encounter.",
     "CreatedBy": "Codex construction Lane B fresh author",
     "WrittenUtc": "2026-07-17T05:48:00.115946+00:00"
   },
@@ -36107,7 +36121,7 @@
       "original face before birth"
     ],
     "Status": "preferred",
-    "Note": "8 exact evidence rows from 7 independent works are stored for this sense.",
+    "Note": "The temporal phrase is a recurring public-interview location; the stored answers remain different and none is promoted into the definition.",
     "CreatedBy": "Codex fresh f001 lane A evidence-first",
     "WrittenUtc": "2026-07-15T03:20:00Z"
   },
@@ -36248,7 +36262,7 @@
       "before Oxhead saw the Fourth Patriarch"
     ],
     "Status": "preferred",
-    "Note": "The biographical meeting is bent into a before-and-after interview trap: both sides must be answered without reducing the case to a story of simple improvement. The sense has 8 exact occurrences in 8 independent works.",
+    "Note": "The question belongs to a paired before-and-after case and does not by itself imply that the earlier state was simply deficient.",
     "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
     "WrittenUtc": "2026-07-19T13:41:07.848387+00:00"
   },
@@ -37476,7 +37490,7 @@
       "other creatures"
     ],
     "Status": "preferred",
-    "Note": "Cross-checking the longer “move among other kinds” formula found the same referent, not a second thing. Frozen-corpus concordance: 851 exact hits in 216 storage files representing 212 independent works.",
+    "Note": "The longer ‘move among other kinds’ formula uses the same referent rather than naming a second thing.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": null
   },
@@ -38928,7 +38942,7 @@
   },
   {
     "SourceTerm": "直指人心",
-    "PreferredTarget": "point directly at the human mind",
+    "PreferredTarget": "point directly to the human mind",
     "AlternateTargets": [
       "directly pointing to a person’s mind",
       "direct pointing at mind"
@@ -38940,7 +38954,7 @@
       "point at human mind"
     ],
     "Status": "preferred",
-    "Note": "Exact frozen-corpus count: 705 hits in 237 files and 233 independent works. Seven witnesses across six independent works meet the evidence floor.",
+    "Note": "The verbal phrase can stand alone or form the first half of the longer formula ‘point directly to the human mind, see one's nature, and become a Buddha.’",
     "CreatedBy": "Codex fresh f001 lane A evidence-first",
     "WrittenUtc": "2026-07-15T05:30:00Z"
   },
@@ -39865,7 +39879,7 @@
       "few recognize kindness"
     ],
     "Status": "preferred",
-    "Note": "Few recognize kindness appraises how rarely a benefit or instruction is truly acknowledged.",
+    "Note": "The line most often stands beside the counter-line that many repay kindness badly.",
     "CreatedBy": "Codex Lane B B101-B105 full-case author",
     "WrittenUtc": "2026-07-18T15:00:00+00:00"
   },
@@ -40259,6 +40273,18 @@
   },
   {
     "SourceTerm": "破鏡不重照，落花難上枝",
+    "PreferredTarget": "a broken mirror does not shine again and a fallen flower can hardly return to its branch",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a broken mirror does not shine again and a fallen flower can hardly return to its branch"
+    ],
+    "Status": "preferred",
+    "Note": "Huayan Xiujing's answer is transmitted both in the Patriarchs' Hall collection and in Tianyin Yuanxiu's later quotation; the repeated exchange is one inherited case.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-19T17:51:35.889754Z"
+  },
+  {
+    "SourceTerm": "破鏡不重照，落花難上枝",
     "PreferredTarget": "a broken mirror does not reflect again, and a fallen flower cannot return to the branch",
     "AlternateTargets": [],
     "SearchAliases": [
@@ -40268,18 +40294,6 @@
     "Note": "The two images answer this recorded question about awakening and renewed confusion. They do not establish a general claim that every human change is irreversible.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T09:00:00Z"
-  },
-  {
-    "SourceTerm": "破鏡不重照，落花難上枝",
-    "PreferredTarget": "a broken mirror does not shine again and a fallen flower can hardly return to its branch",
-    "AlternateTargets": [],
-    "SearchAliases": [
-      "a broken mirror does not shine again and a fallen flower can hardly return to its branch"
-    ],
-    "Status": "preferred",
-    "Note": "The imagery does not establish a universal claim that recovery is impossible.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-19T17:51:35.889754Z"
   },
   {
     "SourceTerm": "破顏微笑",
@@ -40435,7 +40449,7 @@
       "hand chime"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
+    "Note": "The plain instrument appears as a sound, a struck object, a hand signal in monastic procedure, and the sound heard in two accounts of Fazhou Daoji.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:31:08.939246+00:00"
   },
@@ -40601,15 +40615,24 @@
   },
   {
     "SourceTerm": "祖師門",
-    "PreferredTarget": "patriarchal gate",
-    "AlternateTargets": [],
+    "PreferredTarget": "the patriarchs’ school",
+    "AlternateTargets": [
+      "the school of the patriarchs",
+      "the patriarchs’ teaching gate",
+      "the patriarchs’ teaching house"
+    ],
     "SearchAliases": [
-      "patriarchal gate"
+      "the patriarchs’ school",
+      "patriarchs school",
+      "school of the patriarchs",
+      "the patriarchs’ gate",
+      "the patriarchs’ teaching gate",
+      "the patriarchs’ teaching house"
     ],
     "Status": "preferred",
-    "Note": "The phrase denotes the teaching gate or school of the Chan patriarchs.",
+    "Note": "The phrase means the patriarchs’ school or teaching house. Its literal gate image remains useful in passages that speak of being under it, entering its discipline, or receiving people there.",
     "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-21T00:30:00Z"
+    "WrittenUtc": "2026-07-23T12:00:00Z"
   },
   {
     "SourceTerm": "祖師門下",
@@ -41257,7 +41280,7 @@
       "mind only"
     ],
     "Status": "preferred",
-    "Note": "Fresh concordance: 193 exact, apparatus-clean hits in 90 files representing 86 independent works; the punctuation-bridged count is also 193.",
+    "Note": "The formula is retained because the records both state it and turn it into material for direct testing; no outside system is imported as its Zen definition.",
     "CreatedBy": "Codex investigation-next300 Lane B explicit author",
     "WrittenUtc": "2026-07-17T08:15:49.983722+00:00"
   },
@@ -43302,7 +43325,7 @@
       "a minute trace"
     ],
     "Status": "preferred",
-    "Note": "The expression uses a tiny dust mote for the least remainder, obstruction, or contamination. The image may be literal in comparison but most retained Chan cases use it as a minimal-limit metaphor.",
+    "Note": "The finest speck marks the least imaginable remainder or obstruction; each stored case fixes the local claim rather than turning dust into a free-standing symbolic code.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
@@ -45289,11 +45312,10 @@
       "climb the tower",
       "look from the tower",
       "know the ocean is deep",
-      "know the sea's depth",
-      "non-path path"
+      "know the sea's depth"
     ],
     "Status": "preferred",
-    "Note": "An unnamed monk twice advances the tower-and-ocean line in public questioning of Zhenjing Kewen: once after asking about the ancestral import and once after Kewen answers what does not leave the present place. The line claims that knowledge of depth requires climbing to look, but the retained corpus supplies only this one record.",
+    "Note": "The wording circulates across independent records. Two witnesses reproduce the Langya–Ju encounter family; Tianyi Yihuai's hall address and later questioners are separate deployments.",
     "CreatedBy": "Codex Iriya cohort001 Lane B position21 direct author",
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
@@ -46038,7 +46060,7 @@
       "the evening glow and lone wild duck fly level, while autumn water and the long sky share one color"
     ],
     "Status": "preferred",
-    "Note": "A famous landscape couplet is repeatedly lifted into the teaching seat as an answer, replacement, gesture-caption, and closing line.",
+    "Note": "The inherited landscape couplet becomes a teaching-seat answer, replacement answer, gesture-caption, and closing line; those observable jobs, not its literary fame, put it in this dictionary.",
     "CreatedBy": "Codex cohort-002 lane-A 121-130 full-case author",
     "WrittenUtc": "2026-07-19T05:03:45.052974Z"
   },
@@ -46744,7 +46766,7 @@
       "where one treads"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
+    "Note": "The word points to conduct carried out in movement and daily life, and the records repeatedly use it to test whether a claimed understanding has a visible course.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
   },
@@ -47708,9 +47730,9 @@
       "present it before one’s eyes"
     ],
     "Status": "preferred",
-    "Note": "The face-to-face presentation belongs to the public encounter: what is claimed must stand in the meeting rather than behind an explanation. The sense has 8 exact occurrences in 8 independent works.",
+    "Note": "A face-to-face presentation is something brought directly into the encounter, where it must be met without shelter in explanation or distance.",
     "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
-    "WrittenUtc": "2026-07-19T13:41:09.731852+00:00"
+    "WrittenUtc": "2026-07-23T12:00:00Z"
   },
   {
     "SourceTerm": "覿面錯過",
@@ -49229,7 +49251,7 @@
       "protector deity"
     ],
     "Status": "preferred",
-    "Note": "Two independent works identify Weituo as a protective deity, once in a ritual question and once in temple-building narration.",
+    "Note": "This sense names a represented guardian deity, especially Weituo; it does not include the living patrons who invite teachers or support monasteries.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T01:25:15.708740+00:00"
   },
@@ -49958,7 +49980,7 @@
       "a red lump of flesh"
     ],
     "Status": "preferred",
-    "Note": "7 distinct work IDs selected after complete-case actor review.",
+    "Note": "The cases distinguish the visible fleshly body from the ‘true person of no rank’ whom Linji tells his hearers to see.",
     "CreatedBy": "Codex f004 lane B complete-case author",
     "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
   },
@@ -54204,7 +54226,7 @@
       "open the teaching seat"
     ],
     "Status": "preferred",
-    "Note": "7 retained full cases show appointments, inaugural assemblies, and first public addresses; parallel editions are counted as one work.",
+    "Note": "The stored biographies use the phrase for appointments, a first public teaching seat, and the gathering of students; it does not mean merely explaining a point in conversation.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T02:45:14.895478+00:00"
   },
@@ -54798,7 +54820,7 @@
       "go with it"
     ],
     "Status": "preferred",
-    "Note": "209 occurrences in 87 allowlisted texts. Dasui Fazhen's name has two written forms, \"Dasui\" (大隋) and the homophonous \"Dasui\" (大隨); the answer varies between \"go along with it\" (隨他去) and \"go along with it, go along with it\" (隨他隨他去). These are transmission variants, not separate senses. Frozen-corpus concordance: 244 exact hits in 101 storage files representing 98 independent works. Frozen-corpus concordance: 244 exact hits in 101 storage files representing 98 independent works. Frozen-corpus concordance: 244 exact hits in 101 storage files representing 98 independent works. Frozen-corpus concordance: 244 exact hits in 101 storage files representing 98 independent works.",
+    "Note": "The Dasui answer appears in a short form and in an emphatically repeated form. These are transmission variants of one answer, not separate senses. Other records use the same ordinary expression outside the world-fire case.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": null
   },
@@ -55067,17 +55089,17 @@
   },
   {
     "SourceTerm": "離微",
-    "PreferredTarget": "separation and subtlety",
+    "PreferredTarget": "the paired limits of speech and silence",
     "AlternateTargets": [
-      "the separated and the subtle"
+      "the limits into which speech and silence can fall"
     ],
     "SearchAliases": [
-      "separation and subtlety",
-      "speech silence distinction",
+      "limits of speech and silence",
+      "speech and silence",
       "Li and Wei"
     ],
     "Status": "preferred",
-    "Note": "The corpus preserves separation (離) and subtlety (微) as a fixed pair rather than a single verb meaning ‘transgress.’ It does not support turning the pair into Blyth's one-word action; the recurring syntax is ‘involve’ (涉), ‘not fall into’ (不落), and ‘not violate’ (不犯).",
+    "Note": "The records repeatedly pair the term with speech and silence, and describe a phrase as involving, falling into, or violating it. They do not separately define the two graphs, so the English rendering remains provisional.",
     "CreatedBy": "Codex Blyth resume lane B evidence-first",
     "WrittenUtc": "2026-07-21T13:00:00Z"
   },
@@ -57196,7 +57218,7 @@
       "sandalwood incense box"
     ],
     "Status": "preferred",
-    "Note": "Five witnesses include institutional rules, parallel imperial narratives, and one public exchange.",
+    "Note": "The box appears in monastic equipment lists, parallel accounts of an imperial episode, and a public exchange in which one is lifted before the assembly.",
     "CreatedBy": "Codex f004 lane B bulk evidence-first author",
     "WrittenUtc": "2026-07-15T10:28:15.689574+00:00"
   },
@@ -58964,7 +58986,7 @@
       "to inspect"
     ],
     "Status": "preferred",
-    "Note": "7 retained full-case witnesses after lexical-boundary and deployment review.",
+    "Note": "The selected cases use the headword transitively for inspecting a person, answer, or handling and, by extension, calling it to account.",
     "CreatedBy": "Codex f004 lane B complete-case author",
     "WrittenUtc": "2026-07-19T03:23:22.023942+00:00"
   },
