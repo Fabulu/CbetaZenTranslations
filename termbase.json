@@ -30019,6 +30019,22 @@
     "WrittenUtc": "2026-07-19T05:03:44.848496Z"
   },
   {
+    "SourceTerm": "東頭買賤，西頭賣貴",
+    "PreferredTarget": "buy cheap at the east end, sell dear at the west end",
+    "AlternateTargets": [
+      "buy low in the east and sell high in the west"
+    ],
+    "SearchAliases": [
+      "東頭買賤西頭賣貴",
+      "buy cheap east sell dear west",
+      "buy low east sell high west"
+    ],
+    "Status": "preferred",
+    "Note": "The comma is editorially variable and does not limit search. The reversed formula describes buying dear and selling cheap and is not another sense of this entry.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": "2026-07-23T00:00:00Z"
+  },
+  {
     "SourceTerm": "杲日當空",
     "PreferredTarget": "the blazing sun in the open sky",
     "AlternateTargets": [
