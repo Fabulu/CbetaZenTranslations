@@ -288,10 +288,10 @@
   },
   {
     "SourceTerm": "一句作麼生道",
-    "PreferredTarget": "how would you state the one phrase?",
+    "PreferredTarget": "how would you state it in one phrase?",
     "AlternateTargets": [
-      "how do you say the single phrase?",
-      "what is the one decisive saying?"
+      "how do you state the one phrase?",
+      "what is the decisive phrase?"
     ],
     "SearchAliases": [
       "how would you state the one phrase?",
@@ -4714,7 +4714,7 @@
     "SourceTerm": "乞兒席袋",
     "PreferredTarget": "a beggar’s woven sack",
     "AlternateTargets": [
-      "the mat-bag carried by a beggar"
+      "a beggar’s mat-bag"
     ],
     "SearchAliases": [
       "beggar mat bag",
@@ -4722,7 +4722,7 @@
       "Xutang ragged bag insult"
     ],
     "Status": "preferred",
-    "Note": "The packet supports Yangqi’s verse and Xutang’s separate judgment as two deployments.",
+    "Note": "Yangqi uses the bag in self-caricature; Xutang uses the same image as a spoken judgment in an exchange.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T14:00:00Z"
   },
@@ -5031,9 +5031,9 @@
       "Guiyang Linji Caodong Yunmen Fayan"
     ],
     "Status": "preferred",
-    "Note": "Zhongfeng Mingben supplies two complementary definitions: the five are five in their people rather than five in their Way, and they descend from the two streams of Nanyue and Qingyuan. ‘House’ follows the records' own organizational use.",
+    "Note": "The expanded label ‘five houses and seven lineages’ belongs to the same institutional classification. Documentary headings remain distinct from masters’ direct explanations.",
     "CreatedBy": "Codex legacy full rebuild Lane B",
-    "WrittenUtc": "2026-07-16T18:11:14.793447+00:00"
+    "WrittenUtc": "2026-07-23T18:00:00Z"
   },
   {
     "SourceTerm": "五家七宗",
@@ -5123,17 +5123,17 @@
   },
   {
     "SourceTerm": "五湖衲子",
-    "PreferredTarget": "patch-robed monks of the five lakes",
+    "PreferredTarget": "Zen monks from across the realm",
     "AlternateTargets": [
-      "wandering monks from everywhere"
+      "wandering Zen monks from everywhere"
     ],
     "SearchAliases": [
       "five lakes monks",
-      "wandering patch robes",
+      "wandering patch-robed monks",
       "monks from everywhere"
     ],
     "Status": "preferred",
-    "Note": "Six works preserve collective address, arrival exchange, verse, and itinerant-community description.",
+    "Note": "The five lakes stand for the breadth of the realm; the phrase collectively addresses roving Zen monks rather than naming a literal birthplace.",
     "CreatedBy": "Codex construction Lane C positions31-40 explicit full-case author",
     "WrittenUtc": "2026-07-17T12:26:34.483585+00:00"
   },
@@ -6620,8 +6620,10 @@
   },
   {
     "SourceTerm": "作女人拜",
-    "PreferredTarget": "make a woman's bow",
-    "AlternateTargets": [],
+    "PreferredTarget": "to make a woman's bow",
+    "AlternateTargets": [
+      "to perform a woman's salutation"
+    ],
     "SearchAliases": [
       "perform a woman's bow"
     ],
@@ -9915,16 +9917,16 @@
   },
   {
     "SourceTerm": "初祖",
-    "PreferredTarget": "the First Patriarch",
+    "PreferredTarget": "the First Patriarch in the Indian succession",
     "AlternateTargets": [
-      "first ancestor of a lineage"
+      "the first Indian patriarch"
     ],
     "SearchAliases": [
-      "the First Patriarch",
-      "first ancestor of a lineage"
+      "First Patriarch in India",
+      "Kashyapa as First Patriarch"
     ],
     "Status": "preferred",
-    "Note": "The expression is an ordinal lineage title whose referent depends on the named succession. In East Asian Chan frames it commonly names Bodhidharma, while Indian succession lists can apply it to Mahākāśyapa; the title must follow the local lineage frame.",
+    "Note": "One explicit succession list fixes the referent as Kashyapa; this sense remains provisional rather than borrowing support from passages about Bodhidharma.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
@@ -12130,7 +12132,7 @@
       "gaping bloody mouth"
     ],
     "Status": "preferred",
-    "Note": "One hundred forty-five exact hits occur in eighty-nine frozen works. The stored witnesses preserve both formidable and explicitly limited deployments.",
+    "Note": "The image can praise formidable speech or expose verbal force that still falls short in an encounter.",
     "CreatedBy": "Codex f005 lane A author",
     "WrittenUtc": "2026-07-15T18:59:02.906491+00:00"
   },
@@ -12925,12 +12927,10 @@
   },
   {
     "SourceTerm": "向上事",
-    "PreferredTarget": "the further matter beyond what has been reached",
+    "PreferredTarget": "the matter beyond what has been reached",
     "AlternateTargets": [
-      "the upward matter",
       "the further matter",
-      "the matter that lies beyond",
-      "the matter of going up"
+      "the matter beyond buddha"
     ],
     "SearchAliases": [
       "further matter",
@@ -14804,11 +14804,10 @@
   },
   {
     "SourceTerm": "圓陀陀",
-    "PreferredTarget": "perfectly round, with no corners",
+    "PreferredTarget": "round on every side, without corners",
     "AlternateTargets": [
       "perfectly round",
-      "rounded all over",
-      "smoothly rounded"
+      "round and seamless"
     ],
     "SearchAliases": [
       "perfectly round",
@@ -15605,9 +15604,9 @@
       "cliff-like and sheer"
     ],
     "Status": "preferred",
-    "Note": "The scale varies without changing the image: 壁立萬仞 enlarges the same sheer wall, while 壁立千尋 changes the unit but retains the height. The entry preserves the contrasts and Langye Huijue's one-word appraisal because the named speakers themselves draw them.",
+    "Note": "Related forms change the scale to ten thousand fathoms or the unit to spans while retaining the same sheer-wall image.",
     "CreatedBy": "Codex fresh f001 lane B evidence-first",
-    "WrittenUtc": "2026-07-15T05:30:00Z"
+    "WrittenUtc": "2026-07-23T18:00:00Z"
   },
   {
     "SourceTerm": "壁立萬仞",
@@ -18320,10 +18319,15 @@
   },
   {
     "SourceTerm": "宗乘中事",
-    "PreferredTarget": "the matter within the lineage vehicle",
-    "AlternateTargets": [],
+    "PreferredTarget": "the business of the Zen lineage",
+    "AlternateTargets": [
+      "the matter transmitted in the Zen lineage",
+      "the lineage's own business"
+    ],
     "SearchAliases": [
-      "the matter within the lineage vehicle"
+      "Zen lineage business",
+      "lineage matter",
+      "what the lineage transmits"
     ],
     "Status": "preferred",
     "Note": "The matter is the lineage vehicle’s business in these cases, not every ordinary affair conducted by members of a lineage.",
@@ -19970,9 +19974,9 @@
       "turn left and turn right"
     ],
     "Status": "preferred",
-    "Note": "The doubled motion appears as Zihu Lizong's question to Liu Tiemo and in later comments and verses that preserve turning in both directions.",
+    "Note": "The retained cases distinguish Zihu Lizong’s question, Liu Tiemo’s quoted reply, later commentary, and an unattributed collected verse.",
     "CreatedBy": "Codex cohort-002 lane-B B061-B070 author",
-    "WrittenUtc": "2026-07-19T12:00:00Z"
+    "WrittenUtc": "2026-07-23T18:00:00Z"
   },
   {
     "SourceTerm": "左轉右轉隨後來",
@@ -20357,9 +20361,9 @@
       "recorded sayings"
     ],
     "Status": "preferred",
-    "Note": "The label appears in titles, tables of contents, prefaces, and notices about compiling or printing a named master's recorded sayings.",
+    "Note": "The label occurs in titles, contents lists, prefaces, and notices about compiling or printing a named master’s record; it is documentary wording rather than a quotation from that master.",
     "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T23:45:00Z"
+    "WrittenUtc": "2026-07-23T18:00:00Z"
   },
   {
     "SourceTerm": "師道",
@@ -20442,7 +20446,7 @@
       "on level ground the dead are countless"
     ],
     "Status": "preferred",
-    "Note": "Later raisers remain distinct from Yunmen, who owns the quoted original in both raised cases.",
+    "Note": "Later raisers remain distinct from Yunmen Wenyan, who owns the quoted original; Liao’an Qingyu, Hongzhi Zhengjue, and Tian’an Sheng also make the wording part of their own addresses.",
     "CreatedBy": "Codex Iriya lane A121-130 full-case author",
     "WrittenUtc": "2026-07-18T17:27:34Z"
   },
@@ -21606,9 +21610,9 @@
       "crossing the hall"
     ],
     "Status": "preferred",
-    "Note": "The paired motion records a person traversing the hall in both directions: Deshan and Zhaozhou do it in raised cases, an unnamed monk does it before Yuantong, and Daowu does it carrying a hoe.",
+    "Note": "The doubled direction belongs to the narrated performers—Deshan Xuanjian, an unnamed monk, Daowu Yuanzhi, and Zhaozhou Congshen—while later raisers remain separate from the action.",
     "CreatedBy": "Codex cohort-002 lane-B author",
-    "WrittenUtc": "2026-07-18T20:20:00Z"
+    "WrittenUtc": "2026-07-23T18:00:00Z"
   },
   {
     "SourceTerm": "從苗辨地、因語識人",
@@ -24145,10 +24149,9 @@
   },
   {
     "SourceTerm": "抱璞",
-    "PreferredTarget": "carry uncut jade",
+    "PreferredTarget": "to carry uncut jade",
     "AlternateTargets": [
-      "bring the uncarved jade",
-      "hold the jade in the rough"
+      "to bring uncarved jade"
     ],
     "SearchAliases": [
       "carry uncut jade",
@@ -24197,7 +24200,7 @@
       "pull out nails and draw wedges"
     ],
     "Status": "preferred",
-    "Note": "The evidence limits this entry to removing obstructive nails and wedges.",
+    "Note": "The phrase is paired with loosening what adheres and removing what binds; some speakers reverse it by adding nails, wedges, ropes, and bindings.",
     "CreatedBy": "iriya-construction-001 lane A",
     "WrittenUtc": "2026-07-18T12:00:00Z"
   },
@@ -24995,9 +24998,9 @@
       "caught and exposed"
     ],
     "Status": "preferred",
-    "Note": "The verdict announces that someone’s move, contrivance, or concealed position has been caught and exposed.",
+    "Note": "The stored speakers include named commentators, identified but unlinked speakers, and unnamed questioners. A named target may answer the verdict in the following turn.",
     "CreatedBy": "Codex Iriya lane C131-140 full-case author",
-    "WrittenUtc": "2026-07-18T23:59:00Z"
+    "WrittenUtc": "2026-07-23T18:00:00Z"
   },
   {
     "SourceTerm": "捏目生花",
@@ -25190,11 +25193,10 @@
   },
   {
     "SourceTerm": "掛搭",
-    "PreferredTarget": "register for monastic residence",
+    "PreferredTarget": "to register for residence at a monastery",
     "AlternateTargets": [
-      "register and take a monastic place",
-      "be admitted to monastic residence",
-      "take an assigned place in the monks’ hall"
+      "to register for a monastic place",
+      "to request residence"
     ],
     "SearchAliases": [
       "register at a monastery",
@@ -25342,8 +25344,10 @@
   },
   {
     "SourceTerm": "接物利生",
-    "PreferredTarget": "to receive people and benefit living beings",
-    "AlternateTargets": [],
+    "PreferredTarget": "to meet people and benefit living beings",
+    "AlternateTargets": [
+      "to receive people and bring them benefit"
+    ],
     "SearchAliases": [
       "receive people and benefit beings"
     ],
@@ -25443,9 +25447,9 @@
       "maintain the authoritative command"
     ],
     "Status": "preferred",
-    "Note": "Different objects and approving or critical appraisals retain the same public act of taking something up and sustaining it before others.",
+    "Note": "The verb’s object is explicit in each passage: this matter, the ancestral seal, the school’s essentials, collected cases, one move, or the authoritative command.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
-    "WrittenUtc": null
+    "WrittenUtc": "2026-07-23T18:00:00Z"
   },
   {
     "SourceTerm": "提撕",
@@ -28723,7 +28727,7 @@
       "having a head but no tail"
     ],
     "Status": "preferred",
-    "Note": "The entry follows evaluative uses of an incomplete beginning-and-end pattern.",
+    "Note": "A verdict that something has begun but has not been carried through to its end.",
     "CreatedBy": "iriya-construction-001 lane A",
     "WrittenUtc": "2026-07-18T13:00:00Z"
   },
@@ -29203,9 +29207,9 @@
       "final barrier"
     ],
     "Status": "preferred",
-    "Note": "The phrases 透末後牢關 and 透脫末後牢關 describe passing through or breaking free through the barrier. The related line 末後一句始到牢關 explains its final-position force without containing the complete headword.",
+    "Note": "To pass the final locked barrier (透末後牢關) and to break free through it (透脫末後牢關) describe passing it. The related line ‘only with the final phrase does one reach the locked barrier’ explains its final position without containing the complete headword.",
     "CreatedBy": "Codex fresh f001 lane B evidence-first",
-    "WrittenUtc": "2026-07-15T05:30:00Z"
+    "WrittenUtc": "2026-07-23T18:00:00Z"
   },
   {
     "SourceTerm": "末後關",
@@ -29762,7 +29766,7 @@
       "spurious"
     ],
     "Status": "preferred",
-    "Note": "A verdict that a person, answer, explanation, or speech is fabricated or unfounded; personal epithets may be rendered bogus.",
+    "Note": "A verdict that a person, answer, explanation, or speech is fabricated or unfounded; in a personal epithet it may be rendered ‘bogus.’",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
@@ -30593,7 +30597,7 @@
       "encounter actions"
     ],
     "Status": "preferred",
-    "Note": "The frozen corpus has 1,087 exact hits in 252 files function asing 249 works. Ten standalone anchors span direct use, instruction, retrospective description, stylistic appraisal, and criticism across independent works; a legacy witness lacking the exact headword was rejected.",
+    "Note": "The compound names the paired encounter actions of staff-blows and shouts. Several masters also attack merely copying the style or recognizing the action only by this label.",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": null
   },
@@ -30926,7 +30930,7 @@
       "how the identified master responds"
     ],
     "Status": "preferred",
-    "Note": "The graph pair behaves as one nominal compound across biographies, portrait praises, appraisals, and prose. Predicative differences do not create separate referents. Related 'great pivot and great operation' (大機大用) is an intensified family form, not a second referent within this headword. Frozen-corpus concordance: 652 exact hits in 220 storage files representing 217 independent works.",
+    "Note": "The compound names responsive operation; the intensified phrase ‘great capacity and great operation’ belongs to its family, not to a second referent.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": null
   },
@@ -31755,9 +31759,9 @@
       "killing sword life-giving sword"
     ],
     "Status": "preferred",
-    "Note": "Corpus-wide vocabulary used especially in Linji-house descriptions, not an individual coinage. The curated passages are formula lists, a raised exchange, a proclamation, and preface prose; exact actor attribution follows the responsible person for each stored turn. Compare the killing sword (殺人刀), the life-giving sword (活人劍), and the parallel pair 'illuminating and functioning' (照用).",
+    "Note": "The retained passages pair killing with giving life, and relate the pair to granting and taking, provisional and actual, illuminating and functioning, and the fixed expression killing and giving life together (殺活同時).",
     "CreatedBy": "Fabulu",
-    "WrittenUtc": null
+    "WrittenUtc": "2026-07-23T18:00:00Z"
   },
   {
     "SourceTerm": "殺活同時",
@@ -32313,10 +32317,10 @@
   },
   {
     "SourceTerm": "沒可把",
-    "PreferredTarget": "nothing to get hold of",
+    "PreferredTarget": "nothing to take hold of",
     "AlternateTargets": [
       "nothing graspable",
-      "with no handle to seize"
+      "no handle to seize"
     ],
     "SearchAliases": [
       "nothing to get hold of",
@@ -32877,8 +32881,10 @@
   },
   {
     "SourceTerm": "法筵",
-    "PreferredTarget": "the public teaching assembly",
-    "AlternateTargets": [],
+    "PreferredTarget": "a public teaching assembly",
+    "AlternateTargets": [
+      "the gathered teaching assembly"
+    ],
     "SearchAliases": [
       "the public teaching assembly",
       "法筵 literal lookup"
@@ -32896,9 +32902,9 @@
       "the eminent members of the teaching assembly"
     ],
     "Status": "preferred",
-    "Note": "A liturgical mallet formula addressing the gathered monastics.",
+    "Note": "The fixed line belongs to the white-mallet speaker, not automatically to the presiding abbot. Its paired continuation is ‘they should observe the first meaning’ (當觀第一義).",
     "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T00:00:00Z"
+    "WrittenUtc": "2026-07-23T18:00:00Z"
   },
   {
     "SourceTerm": "法網",
@@ -32958,6 +32964,7 @@
     "SourceTerm": "法語",
     "PreferredTarget": "teaching words",
     "AlternateTargets": [
+      "written or spoken instruction",
       "instructional address"
     ],
     "SearchAliases": [
@@ -32967,7 +32974,7 @@
       "instructional discourse"
     ],
     "Status": "preferred",
-    "Note": "7 selected witnesses delimit this sense.",
+    "Note": "The documentary witnesses show both a genre heading and instructions delivered for a particular occasion; both refer to the instructional words, not to a hidden teaching behind them.",
     "CreatedBy": "Codex f003 Lane B evidence-first",
     "WrittenUtc": "2026-07-15T04:57:56.976293+00:00"
   },
@@ -36658,9 +36665,9 @@
       "tiger not eating its own child"
     ],
     "Status": "preferred",
-    "Note": "The occurrences tie the proverb to Mazu's treatment of Danyuan and to later appraisal of that case; they do not establish that every master-disciple exchange is parental indulgence.",
+    "Note": "The proverb’s parent-and-cub image belongs specifically to Xuedou Chongxian’s appraisal of the Mazu–Danyuan case in these witnesses.",
     "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-19T18:45:00Z"
+    "WrittenUtc": "2026-07-23T18:00:00Z"
   },
   {
     "SourceTerm": "猛虎當路坐",
@@ -39693,8 +39700,7 @@
     "SourceTerm": "睹明星",
     "PreferredTarget": "to see the morning star",
     "AlternateTargets": [
-      "behold the morning star",
-      "seeing the bright star"
+      "to behold the morning star"
     ],
     "SearchAliases": [
       "to see the morning star",
@@ -40017,8 +40023,10 @@
   },
   {
     "SourceTerm": "石人",
-    "PreferredTarget": "stone person",
-    "AlternateTargets": [],
+    "PreferredTarget": "a stone person",
+    "AlternateTargets": [
+      "a stone figure behaving as if alive"
+    ],
     "SearchAliases": [
       "a stone person"
     ],
@@ -40916,10 +40924,10 @@
   },
   {
     "SourceTerm": "禪和子",
-    "PreferredTarget": "a Chan fellow",
+    "PreferredTarget": "a Zen fellow",
     "AlternateTargets": [
-      "Chan practitioner",
-      "fellow of the Chan community"
+      "Zen practitioner",
+      "fellow of the Zen community"
     ],
     "SearchAliases": [
       "a Chan fellow",
@@ -41315,9 +41323,9 @@
       "alone manifest among phenomena"
     ],
     "Status": "preferred",
-    "Note": "Changqing Huileng's verse joins the line to self-acceptance: ‘only when a person accepts it for himself is it intimate’ (唯人自肯乃方親).",
+    "Note": "Changqing Huileng’s next line says that only personal acceptance makes it intimate. The retained recensions keep that verse attribution separate from later quotation and surrounding case figures.",
     "CreatedBy": "Codex Iriya construction lane C evidence-first",
-    "WrittenUtc": "2026-07-18T07:13:49.801777Z"
+    "WrittenUtc": "2026-07-23T18:00:00Z"
   },
   {
     "SourceTerm": "萬里一條鐵",
@@ -41383,9 +41391,9 @@
       "秤錘"
     ],
     "Status": "preferred",
-    "Note": "The seven-cattie answer, the iron-hard comparison, and the impossible extraction of golden juice or oil all retain the same heavy, resistant weighing implement.",
+    "Note": "The seven-cattie answer, iron hardness, golden juice, and oil belong to distinct named speakers and are not one combined case.",
     "CreatedBy": "Codex f003 Lane A full-case author",
-    "WrittenUtc": "2026-07-15T04:46:29.393398+00:00"
+    "WrittenUtc": "2026-07-23T18:00:00Z"
   },
   {
     "SourceTerm": "秤錘硬似鐵",
@@ -43843,10 +43851,10 @@
   },
   {
     "SourceTerm": "聲色",
-    "PreferredTarget": "sound and visible form",
+    "PreferredTarget": "sounds and visible forms",
     "AlternateTargets": [
-      "sounds and forms",
-      "the heard and the seen"
+      "what is heard and seen",
+      "sound and visible form"
     ],
     "SearchAliases": [
       "sound and visible form",
@@ -47046,18 +47054,18 @@
   },
   {
     "SourceTerm": "袖裏金鎚",
-    "PreferredTarget": "a golden hammer kept in the sleeve",
+    "PreferredTarget": "a golden hammer hidden in one's sleeve",
     "AlternateTargets": [
       "the hidden golden hammer",
-      "a reserved hammer in one’s sleeve"
+      "a golden hammer held in reserve"
     ],
     "SearchAliases": [
       "golden hammer in sleeve",
-      "hidden hammer",
-      "reserved striking tool"
+      "hidden golden hammer",
+      "hammer held in reserve"
     ],
     "Status": "preferred",
-    "Note": "The sleeve is its place of concealment, while the recorded verbs supply its use.",
+    "Note": "Four independent works preserve the same concealed-implement image in distinct direct uses.",
     "CreatedBy": "Codex cohort-002 lane-A 151-160 strict full-case author",
     "WrittenUtc": "2026-07-19T09:18:00Z"
   },
@@ -47153,9 +47161,10 @@
   },
   {
     "SourceTerm": "西堂",
-    "PreferredTarget": "west-hall senior",
+    "PreferredTarget": "a west-hall senior",
     "AlternateTargets": [
-      "western-hall elder"
+      "the western-hall elder",
+      "a senior lodged in the west hall"
     ],
     "SearchAliases": [
       "west hall senior",
@@ -47343,7 +47352,7 @@
       "see nature and become a buddha"
     ],
     "Status": "preferred",
-    "Note": "Frozen-corpus concordance: 2,451 exact apparatus-clean hits in 331 files and 326 independent works in the canonical f001 preflight. This action sense is separate from the attested noun phrase meaning the faculty or nature of seeing.",
+    "Note": "The action sense is distinct from the attested noun phrase for the faculty or nature of seeing.",
     "CreatedBy": "Codex fresh-build f001 lane B",
     "WrittenUtc": "2026-07-19T03:23:22.023942+00:00"
   },
@@ -47384,9 +47393,9 @@
       "a case already complete before you"
     ],
     "Status": "preferred",
-    "Note": "“Complete” does not mean mechanically settled by an annotator; the records still stage questions and tests around the case.",
+    "Note": "The wording is a close relative of ‘public case’ and ‘case already present and complete.’ The before-birth, before-sailing, and handling phrases are predicates in the stored cases, not alternate headwords.",
     "CreatedBy": "Codex Iriya lane A111-120 full-case author",
-    "WrittenUtc": "2026-07-18T18:20:00Z"
+    "WrittenUtc": "2026-07-23T18:00:00Z"
   },
   {
     "SourceTerm": "見月休觀指、歸家罷問程",
@@ -47505,10 +47514,10 @@
   },
   {
     "SourceTerm": "見處",
-    "PreferredTarget": "point of seeing",
+    "PreferredTarget": "one’s point of understanding",
     "AlternateTargets": [
-      "view",
-      "what one sees"
+      "one’s view",
+      "where one’s understanding stands"
     ],
     "SearchAliases": [
       "point of view",
@@ -47518,7 +47527,7 @@
       "what someone sees"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
+    "Note": "Surrounding predicates mark the understanding as present, confirmed, usable, or mistaken.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-16T12:01:39.532559+00:00"
   },
@@ -48091,7 +48100,7 @@
       "on hearing it"
     ],
     "Status": "preferred",
-    "Note": "8 independent witnesses delimit this sense.",
+    "Note": "The phrase belongs to the recorder’s consequence clause: someone understands or awakens at another person’s words.",
     "CreatedBy": "Codex f003 Lane B evidence-first",
     "WrittenUtc": "2026-07-15T05:17:39.142223+00:00"
   },
@@ -48110,9 +48119,9 @@
       "awakened by the reply"
     ],
     "Status": "preferred",
-    "Note": "Related formulas report awakening, penetration, or an insight at someone's words; they are neighboring constructions rather than alternate spellings of this exact narrative formula.",
+    "Note": "Related formulas report great awakening, sudden awakening, or insight at someone’s words. They are neighboring narrative constructions rather than alternate spellings of this exact phrase.",
     "CreatedBy": "Codex legacy full rebuild Lane B",
-    "WrittenUtc": "2026-07-16T18:11:11.068505+00:00"
+    "WrittenUtc": "2026-07-23T18:00:00Z"
   },
   {
     "SourceTerm": "言下有省",
@@ -49021,9 +49030,9 @@
       "teaching is just so"
     ],
     "Status": "preferred",
-    "Note": "The formula is chiefly a ceremonial closing proclamation spoken by the white-hammer officer or senior seat, not an anonymous teaching by the presiding teacher on the seat.",
+    "Note": "The formula’s recurring frame is senior seat or rector + white or closing hammer + ‘said.’ Its neighboring terms are white hammer (白椎), closing hammer (結椎), and senior seat (上首).",
     "CreatedBy": "Codex Iriya construction lane C evidence-first",
-    "WrittenUtc": "2026-07-18T07:28:22.216190Z"
+    "WrittenUtc": "2026-07-23T18:00:00Z"
   },
   {
     "SourceTerm": "諸佛",
@@ -49566,8 +49575,10 @@
   },
   {
     "SourceTerm": "貴圖天下太平",
-    "PreferredTarget": "for the precious aim of peace under heaven",
-    "AlternateTargets": [],
+    "PreferredTarget": "for the sake of peace under heaven",
+    "AlternateTargets": [
+      "to secure peace under heaven"
+    ],
     "SearchAliases": [
       "for peace throughout the realm"
     ],
@@ -53921,9 +53932,9 @@
       "recording disciple"
     ],
     "Status": "preferred",
-    "Note": "gate disciple literally identifies people of a named gate. The records use it for disciples who receive final instructions, manage a funeral, preserve or print a record, and sign themselves as students in that following.",
+    "Note": "The literal ‘gate person’ marks membership in a named following. The records use it both in named teacher–student narratives and in documentary credits.",
     "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T01:02:13.625012+00:00"
+    "WrittenUtc": "2026-07-23T18:00:00Z"
   },
   {
     "SourceTerm": "門外",
@@ -53933,7 +53944,7 @@
       "outside the gate"
     ],
     "Status": "preferred",
-    "Note": "This is a locative expression; the cited cases retain the physical gate or doorway in their immediate wording.",
+    "Note": "A physical threshold used in encounter narration, descriptions of a monastery’s surroundings, and masters’ verses and addresses.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T23:55:00Z"
   },
@@ -54192,7 +54203,7 @@
       "open a monastic seat"
     ],
     "Status": "preferred",
-    "Note": "Five stored witnesses delimit this verbal sense; two further witnesses below delimit the different person-title sense.",
+    "Note": "In the verbal sense a patron or ruler invites a named master to establish a new monastic seat; the narration describes the founding rather than quoting the founder.",
     "CreatedBy": "Codex f003 Lane B evidence-first",
     "WrittenUtc": "2026-07-15T05:25:13.412805+00:00"
   },
@@ -57829,8 +57840,10 @@
   },
   {
     "SourceTerm": "驢胎馬腹",
-    "PreferredTarget": "a donkey's womb or a horse's belly",
-    "AlternateTargets": [],
+    "PreferredTarget": "a donkey's womb or horse's belly",
+    "AlternateTargets": [
+      "an animal womb"
+    ],
     "SearchAliases": [
       "animal rebirth"
     ],
@@ -58347,9 +58360,9 @@
       "fish leave turbid water"
     ],
     "Status": "preferred",
-    "Note": "The examples preserve direct answers, later comments, and an unattributed verse; each is identified at the level supported by its full case.",
+    "Note": "The stored uses are a direct answer, later comments, and an unattributed verse. Their surrounding acts differ, so the entry does not turn the line into a universal theory of traces.",
     "CreatedBy": "Codex f004 lane C1166-C1175 exact-actor recovery author",
-    "WrittenUtc": "2026-07-15T15:28:02.993665+00:00"
+    "WrittenUtc": "2026-07-23T18:00:00Z"
   },
   {
     "SourceTerm": "魚魯參差",
@@ -58929,7 +58942,7 @@
   },
   {
     "SourceTerm": "黑漆桶",
-    "PreferredTarget": "a black bucket",
+    "PreferredTarget": "a black-lacquer bucket",
     "AlternateTargets": [
       "a pitch-black bucket",
       "a black-lacquer bucket"
@@ -58941,9 +58954,9 @@
       "black lacquered bucket"
     ],
     "Status": "preferred",
-    "Note": "No required direct-definition formula was found. The texts themselves supply the bucket's morphology—bottom and hoop—and its verbs—enter, break, and leap. The entry preserves those concrete relations and the attested applications 'one gang of black lacquer buckets' (一隊黑漆桶) and 'like a black lacquer bucket' (如黑漆桶一樣), without assigning one unstated referent to every occurrence.",
+    "Note": "The sources supply the bucket’s own morphology—hoop and bottom—and the verbs break, enter, and leap. They do not identify one unstated referent shared by every occurrence.",
     "CreatedBy": "Codex fresh f001 lane B evidence-first",
-    "WrittenUtc": "2026-07-15T05:30:00Z"
+    "WrittenUtc": "2026-07-23T18:00:00Z"
   },
   {
     "SourceTerm": "默然良久",
@@ -58974,9 +58987,9 @@
       "silence and illumination"
     ],
     "Status": "preferred",
-    "Note": "Related wording includes ‘silent-illumination Zen’ (默照禪), ‘followers of silent illumination’ (默照之徒), ‘silent illumination is not permitted’ (不許默照), ‘withered Zen and silent illumination’ (枯禪默照), ‘oppose silent illumination’ (排默照), and ‘at the place of silently illuminating’ (默默照處). The wording appears in both affirmative description and sustained criticism.",
+    "Note": "The same compound appears in Hongzhi Zhengjue’s affirmative descriptions and in sustained criticism by Dahui Zonggao, Hanyue Fazang, and Shanhui Huan; one neutral gloss cannot erase that dispute.",
     "CreatedBy": "Codex fresh f001 lane B evidence-first",
-    "WrittenUtc": "2026-07-15T05:30:00Z"
+    "WrittenUtc": "2026-07-23T18:00:00Z"
   },
   {
     "SourceTerm": "點檢",
