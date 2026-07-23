@@ -37025,6 +37025,23 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "珊瑚枕上兩行淚，半是思君半恨君",
+    "PreferredTarget": "on the coral pillow, two tracks of tears—half from missing you, half from resenting you",
+    "AlternateTargets": [
+      "on a coral pillow, two trails of tears: half longing for you, half resenting you"
+    ],
+    "SearchAliases": [
+      "coral pillow two tears",
+      "two trails of tears",
+      "half missing you half resenting you",
+      "half longing for you half resenting you"
+    ],
+    "Status": "preferred",
+    "Note": "The complete recurring lament is retained as the headword because the records repeatedly use the whole couplet as a capping phrase; the shorter noun phrase has broader uses.",
+    "CreatedBy": "Codex full-audit lane C",
+    "WrittenUtc": "2026-07-23T00:00:00Z"
+  },
+  {
     "SourceTerm": "珊瑚枝枝撐著月",
     "PreferredTarget": "each coral branch props up the moon",
     "AlternateTargets": [],
