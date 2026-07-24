@@ -8862,7 +8862,10 @@
     "PreferredTarget": "the two halls disputing over the cat",
     "AlternateTargets": [],
     "SearchAliases": [
-      "the two halls dispute over the cat"
+      "the two halls dispute over the cat",
+      "the eastern and western halls dispute over the cat",
+      "鄰床損腳",
+      "a neighboring monk's foot was injured"
     ],
     "Status": "preferred",
     "Note": "The historical cat dispute remains distinct from the later narrator or case-raiser.",
@@ -30035,6 +30038,25 @@
     "Note": "Ordinary disorientation becomes both an answer and a critical diagnosis inside public questioning.",
     "CreatedBy": "Codex cohort-002 lane-A 121-130 full-case author",
     "WrittenUtc": "2026-07-19T05:03:44.848496Z"
+  },
+  {
+    "SourceTerm": "東西兩堂",
+    "PreferredTarget": "the eastern and western halls",
+    "AlternateTargets": [
+      "the monks of the eastern and western halls",
+      "the two halls"
+    ],
+    "SearchAliases": [
+      "eastern and western halls",
+      "east and west halls",
+      "the two halls in Nanquan's cat case",
+      "東西二堂",
+      "東西堂"
+    ],
+    "Status": "preferred",
+    "Note": "All 43 exact occurrences in 39 works concern or comment upon Nanquan's cat case. Closely worded institutional variants, using 'two' or omitting it, also occur in monastic records and regulations.",
+    "CreatedBy": "Codex evidence-first cat-case investigation",
+    "WrittenUtc": "2026-07-24T00:00:00Z"
   },
   {
     "SourceTerm": "東頭買賤，西頭賣貴",
