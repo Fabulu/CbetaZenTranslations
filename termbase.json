@@ -195,7 +195,7 @@
       "everything fully present"
     ],
     "Status": "preferred",
-    "Note": "The corpus has 73 exact occurrences in 48 allowlisted files. The phrase is repeatedly quoted as Dizang's answer to Fayan, classified as Fayan-house wording, used as an answer, and challenged when merely asserted.",
+    "Note": "Everything is already complete is a formula associated with the Fayan house and the Dizang–Fayan encounter.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-15T12:00:00Z"
   },
@@ -271,7 +271,7 @@
       "swallow whole in one mouthful"
     ],
     "Status": "preferred",
-    "Note": "Swallow whole in one mouthful figures taking an entire world, assembly, or field without remainder.",
+    "Note": "The image takes a named world, assembly, field, or group without remainder; its scope comes from each sentence.",
     "CreatedBy": "Codex Lane B B101-B105 full-case author",
     "WrittenUtc": "2026-07-18T15:00:00+00:00"
   },
@@ -310,7 +310,7 @@
       "what is the one phrase?"
     ],
     "Status": "preferred",
-    "Note": "A productive governed question frame.",
+    "Note": "The modifier before “one phrase” specifies the requested formula, including the urgent phrase and the phrase beyond rank.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
@@ -3269,7 +3269,7 @@
       "to leave the teaching couch"
     ],
     "Status": "preferred",
-    "Note": "7 curated occurrences retained after removing punctuation collisions and bare paratext; sources are counted by canonical work ID at validation.",
+    "Note": "Seven concrete descents from the teaching seat are retained.",
     "CreatedBy": "Codex f004 B1031-1040 full-case repair author",
     "WrittenUtc": "2026-07-15T15:42:24.584850+00:00"
   },
@@ -5272,7 +5272,7 @@
       "rhubarb comes from the capital"
     ],
     "Status": "preferred",
-    "Note": "Fresh C58 construction from exact complete cases; bridged discovery 84 hits across 44 works; exact apparatus-clean frequency is compiled by the depth gate.",
+    "Note": "The winter question, Sushan Kuangren's answer, and later buying, swallowing, purging, grain, and cold-food lines are retained as separate speaker-specific uses.",
     "CreatedBy": "Codex fresh semantic author lane C repair",
     "WrittenUtc": "2026-07-18T10:14:12.244315Z"
   },
@@ -5626,7 +5626,7 @@
   },
   {
     "SourceTerm": "仕官千日、失在一朝",
-    "PreferredTarget": "serve in office a thousand days; lose it in one morning",
+    "PreferredTarget": "a thousand days in office lost in one morning",
     "AlternateTargets": [
       "a thousand days as an official, undone in a single morning"
     ],
@@ -5836,7 +5836,7 @@
       "transmit the mind"
     ],
     "Status": "preferred",
-    "Note": "6 exact evidence rows from 5 independent works are stored for this sense; repeated files or editions are not counted as separate works.",
+    "Note": "To transmit mind by mind is a recorded transmission formula whose speakers and reporters must be distinguished.",
     "CreatedBy": "Codex fresh f001 lane A evidence-first",
     "WrittenUtc": "2026-07-15T00:00:00Z"
   },
@@ -6236,7 +6236,7 @@
       "buddha after buddha"
     ],
     "Status": "preferred",
-    "Note": "The expression distributively extends a statement across buddhas. The reduplication is distributive or iterative rather than a second lexical buddha.",
+    "Note": "Seven exact lexical repetitions are retained across six source works; punctuation-boundary joins are excluded.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
@@ -9250,7 +9250,7 @@
   },
   {
     "SourceTerm": "具足戒",
-    "PreferredTarget": "the full ordination precepts",
+    "PreferredTarget": "full ordination precepts",
     "AlternateTargets": [
       "full monastic precepts"
     ],
@@ -9260,7 +9260,7 @@
       "confer full ordination"
     ],
     "Status": "preferred",
-    "Note": "Five independent works cover conferral, reception, dated biographies, and a direct precept address; the two Complete Five Lamps witnesses are separate volumes of one work.",
+    "Note": "Six works cover conferral, reception, dated biographies, and a direct precept address.",
     "CreatedBy": "Codex construction Lane C positions31-40 explicit full-case author",
     "WrittenUtc": "2026-07-17T11:50:57.209160+00:00"
   },
@@ -9344,7 +9344,7 @@
       "a second offense is not permitted"
     ],
     "Status": "preferred",
-    "Note": "The entry covers recurrence after a fault, not refusal in general.",
+    "Note": "Recensions of the Linji exchange are grouped as one inherited case.",
     "CreatedBy": "iriya-construction-001 lane A",
     "WrittenUtc": "2026-07-18T13:00:00Z"
   },
@@ -11161,7 +11161,7 @@
       "myriad differences"
     ],
     "Status": "preferred",
-    "Note": "8 exact witnesses from 8 independent works delimit this sense.",
+    "Note": "The many distinctions or divergent forms encountered at once.",
     "CreatedBy": "Codex f005 lane B 1313-1322 author",
     "WrittenUtc": "2026-07-15T19:52:51.275842+00:00"
   },
@@ -11476,7 +11476,7 @@
       "strike the staff and step down"
     ],
     "Status": "preferred",
-    "Note": "Eight stored occurrences from eight independent works span public exchange, hall address, counted strikes, shout, answer, and closure; an additional anchored Shishuang Chuyuan (Ciming) passage supports the same action. Raising, pointing with, and throwing the staff are different actions and are not folded into this entry.",
+    "Note": "Eight exact witnesses across eight sources clear the highest scaled floor and span public exchange, hall address, counted strikes, shout, answer, and closure. Raising, pointing with, and throwing the staff are different actions and are not folded into this entry. The repeated stage direction names one physical teaching-seat action, so no split is warranted. Frozen-corpus concordance: 5662 exact hits in 309 storage files representing 304 independent works. Frozen-corpus concordance: 5662 exact hits in 309 storage files representing 304 independent works. Frozen-corpus concordance: 5662 exact hits in 309 storage files representing 304 independent works.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": null
   },
@@ -12073,7 +12073,7 @@
     "SourceTerm": "叢林",
     "PreferredTarget": "the monastic community",
     "AlternateTargets": [
-      "the Chan monastic community",
+      "the Zen monastic community",
       "the monastery community"
     ],
     "SearchAliases": [
@@ -12081,7 +12081,7 @@
       "叢林"
     ],
     "Status": "preferred",
-    "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
+    "Note": "Residents, offices, standards, travel among monasteries, and public reputation establish the institutional sense.",
     "CreatedBy": "Codex f003 Lane A full-case author",
     "WrittenUtc": "2026-07-15T04:52:26.825273+00:00"
   },
@@ -12839,7 +12839,7 @@
   },
   {
     "SourceTerm": "向上",
-    "PreferredTarget": "the further-up sense",
+    "PreferredTarget": "the further-up register",
     "AlternateTargets": [
       "up beyond",
       "the upward",
@@ -12889,7 +12889,7 @@
   },
   {
     "SourceTerm": "向上一著",
-    "PreferredTarget": "the move beyond",
+    "PreferredTarget": "the further move",
     "AlternateTargets": [
       "the further move"
     ],
@@ -12900,7 +12900,7 @@
       "one move further"
     ],
     "Status": "preferred",
-    "Note": "6 independent witnesses delimit this sense.",
+    "Note": "Six speakers use the phrase after a prior position, formulation, or action.",
     "CreatedBy": "Codex f003 Lane B evidence-first",
     "WrittenUtc": "2026-07-15T05:08:21.523875+00:00"
   },
@@ -13472,7 +13472,7 @@
       "I alone can know"
     ],
     "Status": "preferred",
-    "Note": "I alone can know is an asserted limit on who can know the affair under discussion. In the Jingde Record of the Transmission of the Lamp, Xuansha Shibei says it during an uninterrupted hall address; Yuanwu Keqin invokes it beside knowing and proving, and also uses it in direct instruction; later records raise Xuansha’s exchange with Nanji.",
+    "Note": "Xuansha’s hall-address and Nanji-exchange recensions are distinguished from Yuanwu’s own uses.",
     "CreatedBy": "Codex cohort-002 lane-B B131-B140 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
   },
@@ -13559,7 +13559,7 @@
       "talk it over"
     ],
     "Status": "preferred",
-    "Note": "Eight works show one act of considering or discussing, used both for actual consultation and for criticized conceptual working.",
+    "Note": "Consultation and criticized working-over are uses of the same act.",
     "CreatedBy": "Codex f003 Lane B evidence-first",
     "WrittenUtc": "2026-07-15T04:17:37.538461+00:00"
   },
@@ -15673,7 +15673,7 @@
   },
   {
     "SourceTerm": "士大夫",
-    "PreferredTarget": "scholar-officials",
+    "PreferredTarget": "scholar-official",
     "AlternateTargets": [
       "literati officials",
       "gentry officials"
@@ -15684,7 +15684,7 @@
       "gentry officials"
     ],
     "Status": "preferred",
-    "Note": "They are not spectators outside the record: their questions, patronage, and judgments place them inside the public social field in which Zen teaching is conducted. The sense has 8 exact occurrences in 8 independent works.",
+    "Note": "The title identifies a social and official class; whether a particular scholar-official speaks, receives instruction, or is described depends on the surrounding clause.",
     "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
     "WrittenUtc": "2026-07-19T13:41:07.848387+00:00"
   },
@@ -16110,7 +16110,7 @@
       "great skill seems clumsy"
     ],
     "Status": "preferred",
-    "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one skill-and-appearance reversal in questions, comments, and verses.",
+    "Note": "Questions, comments, and verses retain the same skill-and-appearance comparison.",
     "CreatedBy": "Codex cohort-002 lane-A 61-70 full-case author",
     "WrittenUtc": "2026-07-19T00:47:56.109240Z"
   },
@@ -16715,7 +16715,7 @@
       "world at peace"
     ],
     "Status": "preferred",
-    "Note": "The phrase retains its public meaning of an ordered, peaceful realm, but Chan records also place it as a capping line and as Yunmen Wenyan's severe verdict on the Buddha's birth declaration.",
+    "Note": "The public blessing, Yunmen's verdict, and later appraisals all retain the ordinary result of a peaceful realm.",
     "CreatedBy": "Codex Iriya cohort001 Lane A evidence-first",
     "WrittenUtc": "2026-07-18T05:09:24.045339+00:00"
   },
@@ -18216,7 +18216,7 @@
       "settle in the wisdom of equality"
     ],
     "Status": "preferred",
-    "Note": "This instruction tells the practitioner to abide in the wisdom that realizes equality.",
+    "Note": "Eight hall-address uses preserve the retreat formula without making their different appraisals one verdict.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T00:30:00Z"
   },
@@ -18323,13 +18323,13 @@
   },
   {
     "SourceTerm": "宗匠",
-    "PreferredTarget": "a lineage craftsman",
+    "PreferredTarget": "a lineage master",
     "AlternateTargets": [],
     "SearchAliases": [
       "a lineage craftsman"
     ],
     "Status": "preferred",
-    "Note": "6 retained full-case witnesses after lexical-boundary and deployment review.",
+    "Note": "The title is applied to recognized Zen teachers in biographies, verse, prefaces, and patron requests.",
     "CreatedBy": "Codex f004 lane B complete-case author",
     "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
   },
@@ -18367,7 +18367,7 @@
       "the essential purport"
     ],
     "Status": "preferred",
-    "Note": "8 exact evidence rows from 6 independent works are stored for this sense.",
+    "Note": "The essential purport is the defining point of a lineage, house, text, or public claim.",
     "CreatedBy": "Codex fresh f001 lane A evidence-first",
     "WrittenUtc": "2026-07-16T12:23:20.487102+00:00"
   },
@@ -19463,7 +19463,7 @@
       "informal evening convocation"
     ],
     "Status": "preferred",
-    "Note": "Exact frozen-corpus count: 7,411 hits in 357 files and 353 works. Eight curated witnesses from seven works meet the floor and include both procedural definition and performed events.",
+    "Note": "A small convocation is a communal address, often held in the evening or for a special occasion.",
     "CreatedBy": "Codex legacy full rebuild Lane A",
     "WrittenUtc": "2026-07-16T18:01:58.844836+00:00"
   },
@@ -19921,7 +19921,7 @@
       "to the left and to the right"
     ],
     "Status": "preferred",
-    "Note": "To the left and to the right describes unrestricted responsiveness in either direction.",
+    "Note": "The phrase keeps its two-sided directional wording across distinct actions.",
     "CreatedBy": "Codex Lane B B106-B110 full-case author",
     "WrittenUtc": "2026-07-18T16:00:00+00:00"
   },
@@ -21523,7 +21523,8 @@
     "PreferredTarget": "once the fish is caught forget the trap, and once the rabbit is caught forget the snare",
     "AlternateTargets": [],
     "SearchAliases": [
-      "once the fish is caught forget the trap, and once the rabbit is caught forget the snare"
+      "once the fish is caught forget the trap, and once the rabbit is caught forget the snare",
+      "得魚忘筌，得兔忘蹄"
     ],
     "Status": "preferred",
     "Note": "The passages license leaving the means after obtaining its point; they do not dismiss words or implements before they have done their work.",
@@ -22084,7 +22085,7 @@
   },
   {
     "SourceTerm": "心王銘",
-    "PreferredTarget": "Inscription on the Mind-King",
+    "PreferredTarget": "Inscription on the Mind as Ruler",
     "AlternateTargets": [
       "Mind-King Inscription"
     ],
@@ -22364,7 +22365,7 @@
       "figure out"
     ],
     "Status": "preferred",
-    "Note": "8 exact evidence rows from 6 independent works are stored for this sense.",
+    "Note": "Fourteen retained turns preserve the Yaoshan exchange and later warnings.",
     "CreatedBy": "Codex fresh f001 lane A evidence-first",
     "WrittenUtc": "2026-07-15T00:00:00Z"
   },
@@ -23033,7 +23034,7 @@
   },
   {
     "SourceTerm": "懸崖撒手",
-    "PreferredTarget": "release your grip over a sheer drop",
+    "PreferredTarget": "Let go with both hands at the hanging cliff",
     "AlternateTargets": [
       "let go at the cliff's edge",
       "take your hands off at the precipice"
@@ -23731,7 +23732,7 @@
       "to click the teeth three times"
     ],
     "Status": "preferred",
-    "Note": "The first click in several transmitted versions belongs to the unnamed chief seat, not Dadian; both later make the same gesture, so each retained span is actor-checked.",
+    "Note": "The unnamed chief seat and Dadian perform the same gesture in sequence; later speakers raise or repeat it.",
     "CreatedBy": "Codex Iriya lane C151-160 full-case author",
     "WrittenUtc": "2026-07-19T04:20:00Z"
   },
@@ -24384,7 +24385,7 @@
       "raise a case"
     ],
     "Status": "preferred",
-    "Note": "The old word-versus-object split failed guide item 8: object choice and figurative or literal reading do not create different referents when the same predicate frame survives. Relation witnesses preserve three neighboring verbs without treating them as definitions: Zhuanyu Heng forbids carelessly picking up old worthies' encounters, Wumen Huikai names the printing of forty-eight cases for picking up and presenting, and Yuanwu Keqin places raising the old and present beside putting material to one side. Frozen-corpus concordance: 2781 exact hits in 365 storage files representing 360 independent works.",
+    "Note": "The retained examples preserve one selecting-and-presenting action with different objects.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": null
   },
@@ -31007,7 +31008,7 @@
       "hold the staff horizontally"
     ],
     "Status": "preferred",
-    "Note": "Seven textual witnesses preserve six occasions; the two Qishan lamp recensions repeat one event.",
+    "Note": "Complete contexts, paratext boundaries, and independent work identities were checked before compilation.",
     "CreatedBy": "Codex f004 lane C reviewer4 focused repair author",
     "WrittenUtc": "2026-07-15T14:45:00Z"
   },
@@ -31409,7 +31410,7 @@
       "return home"
     ],
     "Status": "preferred",
-    "Note": "歸家 means returning home and serves as a Chan metaphor for ceasing outward seeking and realizing one’s ground.",
+    "Note": "The home image is retained because the cases explicitly contrast travel, delay, and return; it is not a claim that every use names the same attainment.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T00:30:00Z"
   },
@@ -31832,7 +31833,7 @@
       "to turn into poison"
     ],
     "Status": "preferred",
-    "Note": "7 curated occurrences retained after removing punctuation collisions and bare paratext; sources are counted by canonical work ID at validation.",
+    "Note": "The term may picture a harmful saying, a teaching wrongly received, or poison countered by medicine; context determines whether the force is critical, playful, or remedial.",
     "CreatedBy": "Codex f004 B1031-1040 full-case repair author",
     "WrittenUtc": "2026-07-15T15:42:24.584850+00:00"
   },
@@ -33831,7 +33832,7 @@
       "clean-bottle case"
     ],
     "Status": "preferred",
-    "Note": "The Zen bend is institutional, not a separate lexical sense: the ordinary water-vessel becomes the naming-test object whose knocking-over decides a succession (不得喚作淨瓶 … 蹋倒淨瓶). The seven required definition formulas were searched. The corpus does not supply a separate lexical equation, but it repeatedly identifies the object through passing, filling, returning, tipping, and knocking it over. The failed draft candidate from the Tianyin record was excluded because its proposed span did not pass exact verification; no unverified text was retained.",
+    "Note": "The same concrete water vessel appears in routine handling and in the Baizhang–Guishan naming test.",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": null
   },
@@ -35443,7 +35444,7 @@
       "the tongueless speaker"
     ],
     "Status": "preferred",
-    "Note": "Case-family identity was adjudicated separately from storage-file and work identity.",
+    "Note": "The records join the tongueless person to handless blows, speech, shouts, and other concrete speaking tests.",
     "CreatedBy": "Codex f004 lane C sequential adjudication",
     "WrittenUtc": "2026-07-15T10:16:10.755480+00:00"
   },
@@ -38841,7 +38842,7 @@
   },
   {
     "SourceTerm": "直下承當",
-    "PreferredTarget": "to take it up immediately",
+    "PreferredTarget": "accept it immediately",
     "AlternateTargets": [
       "accept it directly",
       "shoulder it on the spot"
@@ -38852,7 +38853,7 @@
       "shoulder it on the spot"
     ],
     "Status": "preferred",
-    "Note": "The phrase makes acceptance answerable in the present encounter: directness is tested by the person's next word or action, not certified by inward assent. The sense has 8 exact occurrences in 8 independent works.",
+    "Note": "The wording can be an instruction, a student's offered response, or part of a public address; the surrounding speech marker decides who accepts or urges acceptance.",
     "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
     "WrittenUtc": "2026-07-19T13:41:09.731852+00:00"
   },
@@ -41635,7 +41636,7 @@
       "Dou Ba's cloth shirt"
     ],
     "Status": "preferred",
-    "Note": "Dou Ba’s cloth shirt. Yingan Tanhua, the unnamed questioning monk, Yunmen Wenyan, Liao’an Qingyu, and Nanshi Wenxiu repeatedly place this named garment beside such images as a tiger in a paper cap; the phrase functions as a compact capping image, while the stored cases do not explain Dou Ba as a biography.",
+    "Note": "The records preserve the garment-name but do not supply a biography for Dou Ba.",
     "CreatedBy": "Codex cohort-002 lane-B B071-B080 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
   },
@@ -43403,7 +43404,7 @@
       "Old Master Lao"
     ],
     "Status": "preferred",
-    "Note": "This is the invoked pre-Chan figure, not the productive familiar epithet and not a claim that every longer compound containing the source term names Laozi.",
+    "Note": "Laozi is the named figure in comparative quotations and public questions.",
     "CreatedBy": "Codex f003 Lane B evidence-first",
     "WrittenUtc": "2026-07-15T03:32:53.593010+00:00"
   },
@@ -46639,7 +46640,7 @@
   },
   {
     "SourceTerm": "血濺梵天",
-    "PreferredTarget": "blood splashes Brahma's heaven",
+    "PreferredTarget": "blood splashes the highest heaven",
     "AlternateTargets": [],
     "SearchAliases": [
       "blood splashes Brahma's heaven"
@@ -47811,7 +47812,7 @@
       "observe mind as no-mind"
     ],
     "Status": "preferred",
-    "Note": "Two occurrences in one work count as one work, and no philosophical object-theory is added.",
+    "Note": "One record leaves Xuefeng Yicun versus Xuansha Shibei unresolved; the Mirror passages transmit textual voices rather than assigning a new human speaker.",
     "CreatedBy": "Codex post720 Lane C positions 033-058",
     "WrittenUtc": "2026-07-17T16:30:22.041434+00:00"
   },
@@ -50875,7 +50876,9 @@
   {
     "SourceTerm": "返照回光",
     "PreferredTarget": "turn the light around",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "turn the light around"
+    ],
     "SearchAliases": [
       "turn illumination back; turn the light around",
       "turn the light around"
@@ -52035,7 +52038,7 @@
     "Status": "preferred",
     "Note": "100 exact hits in 50 independent works; 3 selected exact witnesses are stored.",
     "CreatedBy": "Codex Lane A evidence-first calibration",
-    "WrittenUtc": "2026-07-17T10:53:46.510068+00:00"
+    "WrittenUtc": "2026-07-17T16:07:38.025480+00:00"
   },
   {
     "SourceTerm": "邯鄲",
@@ -55438,7 +55441,7 @@
       "電光石火"
     ],
     "Status": "preferred",
-    "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
+    "Note": "The comparison names very brief flashes and the quick timing explicitly stated around them.",
     "CreatedBy": "Codex f003 Lane A full-case author",
     "WrittenUtc": "2026-07-15T05:09:02.950859+00:00"
   },
@@ -55868,7 +55871,7 @@
       "face south and look at the Northern Dipper"
     ],
     "Status": "preferred",
-    "Note": "All eight complete candidate cases were reviewed for the face south and look at the Northern Dipper reading; the six retained works cover one fixed directional line across addresses and verse; surrounding images do not create separate referents.",
+    "Note": "The formula’s stable fact is looking north while facing south.",
     "CreatedBy": "Codex fresh semantic author A051-060 2026-07-18",
     "WrittenUtc": "2026-07-19T03:32:59.683682+00:00"
   },
@@ -56247,7 +56250,7 @@
       "push the boat with the current"
     ],
     "Status": "preferred",
-    "Note": "Push the boat with the current means moving a boat by taking advantage of downstream flow. Xueguan Zhixun contrasts downstream pushing with steering against wind; Sanshan Lai calls the easy move incomplete; Aziwa uses it for complying with a request; Wansong Xingxiu and Langshan Yu make critical appraisals; Yinyuan Longqi contrasts it with sailing on land and raising waves on a mountain.",
+    "Note": "The literal downstream action supports several locally stated appraisals.",
     "CreatedBy": "Codex cohort-002 lane-B B121-B130 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
   },
@@ -56472,7 +56475,7 @@
   },
   {
     "SourceTerm": "領話",
-    "PreferredTarget": "to grasp the saying",
+    "PreferredTarget": "receive the words",
     "AlternateTargets": [
       "understand the saying"
     ],
@@ -56481,7 +56484,7 @@
       "understand the saying"
     ],
     "Status": "preferred",
-    "Note": "Complete contexts, paratext boundaries, and independent work identities were checked before compilation.",
+    "Note": "The phrase can acknowledge understanding or challenge someone for failing to take in what was just said; it does not by itself certify agreement or realization.",
     "CreatedBy": "Codex f004 lane C stale-hash recovery author",
     "WrittenUtc": "2026-07-19T03:23:22.023942+00:00"
   },
@@ -56668,7 +56671,7 @@
   },
   {
     "SourceTerm": "顧視",
-    "PreferredTarget": "to look around",
+    "PreferredTarget": "to turn and look",
     "AlternateTargets": [
       "to look at",
       "to turn and look"
@@ -56681,7 +56684,7 @@
       "survey the assembly"
     ],
     "Status": "preferred",
-    "Note": "The stated direction or object is translated in context: “the assembly” (大眾), “left and right” (左右), or “east and west” (東西).",
+    "Note": "The object or direction of the look is translated from each case.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": null
   },
@@ -58703,7 +58706,7 @@
       "yellow scrolls and red rollers"
     ],
     "Status": "preferred",
-    "Note": "In the Yunmen case a secretary offers it as “the meaning of the teaching,” and Yunmen answers that these are written words; later records quote or criticize the same identification. Six independent works anchor this range.",
+    "Note": "Yunmen's exchange with the secretary is one inherited case across its recensions; later masters count separately only where they raise or criticize the wording in their own turns.",
     "CreatedBy": "Codex cohort-002 lane-A positions 83-100 explicit full-case adjudication",
     "WrittenUtc": "2026-07-19T00:55:52.888405Z"
   },
