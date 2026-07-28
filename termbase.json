@@ -48599,17 +48599,17 @@
   },
   {
     "SourceTerm": "要行即行、要坐即坐",
-    "PreferredTarget": "walk when walking is called for and sit when sitting is called for",
-    "AlternateTargets": [],
+    "PreferredTarget": "walk when you want to walk, and sit when you want to sit",
+    "AlternateTargets": [
+      "walk when you want to walk and sit when you want to sit"
+    ],
     "SearchAliases": [
-      "walk when walking is called for",
-      "sit when sitting is called for",
-      "walk or sit as needed"
+      "when you want to walk, walk; when you want to sit, sit"
     ],
     "Status": "preferred",
-    "Note": "The paired imperatives join action to the occasion without adding a hidden procedure.",
-    "CreatedBy": "Codex Lane C C153-160 full-case construction",
-    "WrittenUtc": "2026-07-19T06:56:14.502545+00:00"
+    "Note": "The paired instruction describes uncontrived freedom in ordinary walking and sitting. Both speakers place it against striving, fixed positions, or dependence on verbal formulations; the phrase is not a posture manual.",
+    "CreatedBy": "Codex canary001 lane C",
+    "WrittenUtc": "2026-07-29T01:20:00Z"
   },
   {
     "SourceTerm": "覆水難收",
