@@ -6655,7 +6655,7 @@
       "perform a woman's bow"
     ],
     "Status": "preferred",
-    "Note": "A specified bodily gesture. In narrated cases the action performer is recorded in the actor evidence and is not promoted automatically to MasterName.",
+    "Note": "A specified bodily gesture. The Yangshan encounter is the stronger family; Wuzu’s distinct direct instruction is retained as lamp fallback. Parallel Magu recensions and extra ceremonial references are not counted.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
@@ -8014,19 +8014,19 @@
       "years ordained"
     ],
     "Status": "preferred",
-    "Note": "8 reviewed witnesses delimit this sense.",
+    "Note": "The term counts years since full monastic ordination. Chushi Fanqi’s biography is the stronger family; Mazu’s independent reckoning is retained from a lamp compilation as provisional fallback.",
     "CreatedBy": "Codex f003 Lane B evidence-first",
     "WrittenUtc": "2026-07-15T05:48:21.265875+00:00"
   },
   {
     "SourceTerm": "僧舉",
-    "PreferredTarget": "a monastic raised",
+    "PreferredTarget": "an unnamed monastic brought it up",
     "AlternateTargets": [],
     "SearchAliases": [
       "a monastic raised"
     ],
     "Status": "preferred",
-    "Note": "The phrase narrates a monastic citing a verse or case, including reports made back to a respondent.",
+    "Note": "This narrative formula introduces material cited by an unnamed monastic. Both retained deployments are lamp-preserved, so validation remains provisional.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T23:55:00Z"
   },
@@ -8616,21 +8616,23 @@
       "on entry"
     ],
     "Status": "preferred",
-    "Note": "Eight independent works show literal doorway language, the Shakyamuni–Manjusri gate case, and the fixed contrasts of Deshan's blow and Linji's shout on entry.",
+    "Note": "The phrase retains its ordinary gate-entry value. The Ancient Masters' Sayings supplies the higher-tier family and Jingci's independent hall address is lamp-preserved fallback.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T01:12:30.483246+00:00"
   },
   {
     "SourceTerm": "入門便喝",
-    "PreferredTarget": "to shout upon entering",
-    "AlternateTargets": [],
+    "PreferredTarget": "to shout as soon as one enters",
+    "AlternateTargets": [
+      "shout immediately upon entering"
+    ],
     "SearchAliases": [
-      "to shout upon entering"
+      "to shout as soon as one enters"
     ],
     "Status": "preferred",
-    "Note": "6 retained full-case witnesses after lexical-boundary and deployment review.",
-    "CreatedBy": "Codex f004 lane B complete-case author",
-    "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
+    "Note": "To shout as soon as one enters describes an immediate encounter move conventionally associated with Linji.",
+    "CreatedBy": "Codex canary008 lane C",
+    "WrittenUtc": "2026-07-28T20:29:00Z"
   },
   {
     "SourceTerm": "入門便棒",
@@ -8981,18 +8983,15 @@
     "SourceTerm": "兩重公案",
     "PreferredTarget": "a double case",
     "AlternateTargets": [
-      "twofold case",
-      "case upon case"
+      "a twofold case"
     ],
     "SearchAliases": [
-      "twofold case",
-      "case upon case",
-      "second charge"
+      "a double case"
     ],
     "Status": "preferred",
-    "Note": "A double case is a second liability added by the attempted answer or escape: the response does not clear the first encounter but supplies another count against the utterer.",
-    "CreatedBy": "Codex Iriya cohort001 Lane B position33 packet author",
-    "WrittenUtc": "2026-07-18T07:41:38.276991+00:00"
+    "Note": "A double case marks a second layer of judgment, liability or complication added to an exchange already under examination.",
+    "CreatedBy": "Codex canary008 lane C",
+    "WrittenUtc": "2026-07-28T20:29:00Z"
   },
   {
     "SourceTerm": "兩鏡相照",
