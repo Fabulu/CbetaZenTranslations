@@ -17384,17 +17384,17 @@
     "PreferredTarget": "to realize",
     "AlternateTargets": [
       "to come to realization",
-      "to tally and realize"
+      "to accord and awaken"
     ],
     "SearchAliases": [
       "to realize",
       "to come to realization",
-      "to tally and realize"
+      "to accord and awaken"
     ],
     "Status": "preferred",
-    "Note": "Cross-checked \"realize the way\" (悟道) and related realization vocabulary. The graph \"to tally\" (契) contributes the literal idea of tallying, but the corpus uses the compound as one realization event verb; no independent \"contract\" referent was found. Triggers vary without creating senses.",
-    "CreatedBy": "Codex f002 Lane B evidence-first refresh",
-    "WrittenUtc": null
+    "Note": "The compound reports or evaluates coming to realization. Its first graph contributes accord or fit, but the corpus deploys the compound as one realization event or attainment predicate, not as a separate act of contracting. Triggers differ without creating lexical senses.",
+    "CreatedBy": "Codex lamp-repair cohort003 lane-C",
+    "WrittenUtc": "2026-07-28T22:20:00Z"
   },
   {
     "SourceTerm": "契理",
@@ -18790,16 +18790,14 @@
       "the essentials of the lineage"
     ],
     "SearchAliases": [
-      "essential point of the school",
-      "school essentials",
-      "lineage essentials",
-      "grasp the school essentials",
-      "raise the essential point"
+      "the essential point of the school",
+      "the school's essential point",
+      "the essentials of the lineage"
     ],
     "Status": "preferred",
-    "Note": "129 exact hits in 62 independent works; 7 selected exact witnesses are stored.",
-    "CreatedBy": "Codex Lane A evidence-first calibration",
-    "WrittenUtc": "2026-07-17T10:06:46.913873+00:00"
+    "Note": "The expression names what is central and defining in the Chan school: something borne, upheld, raised in teaching, or said to resist verbal transmission. Singular and collective English vary with syntax, not with separate senses.",
+    "CreatedBy": "Codex lamp-repair cohort003 lane-C",
+    "WrittenUtc": "2026-07-28T22:20:00Z"
   },
   {
     "SourceTerm": "宗門",
@@ -30461,15 +30459,17 @@
     "PreferredTarget": "Li Ao",
     "AlternateTargets": [
       "Li Ao the official",
-      "Layman Li Ao"
+      "Governor Li Ao"
     ],
     "SearchAliases": [
       "Li Ao",
       "Li Ao the official",
-      "Layman Li Ao"
+      "Governor Li Ao",
+      "李尚書翱",
+      "李翱太守"
     ],
     "Status": "preferred",
-    "Note": "6 exact witnesses from 6 distinct canonical works.",
+    "Note": "Li Ao (李翱) is the named Tang official and writer who appears in encounters with Yaoshan and Xitang. Titles such as governor, minister, and grand defender describe the same person; the graph is not treated as a common noun.",
     "CreatedBy": "Codex construction Lane B fresh author",
     "WrittenUtc": "2026-07-17T05:47:08.167553+00:00"
   },
@@ -55729,17 +55729,21 @@
     "SourceTerm": "開法",
     "PreferredTarget": "to begin teaching publicly",
     "AlternateTargets": [
-      "to open a teaching seat",
-      "to commence public teaching"
+      "to open a public teaching seat",
+      "to inaugurate public teaching"
     ],
     "SearchAliases": [
-      "begin teaching",
-      "open the teaching seat"
+      "to begin teaching publicly",
+      "to open a public teaching seat",
+      "to inaugurate public teaching",
+      "begin public teaching",
+      "open a teaching seat",
+      "commence public teaching"
     ],
     "Status": "preferred",
-    "Note": "The stored biographies use the phrase for appointments, a first public teaching seat, and the gathering of students; it does not mean merely explaining a point in conversation.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T02:45:14.895478+00:00"
+    "Note": "Seven independent Tier 1/2 works establish the inauguration of public teaching. One useful early lamp biography is supplemental only and excluded from depth and validation.",
+    "CreatedBy": "Codex cohort003 lane A combined source repair",
+    "WrittenUtc": "2026-07-28T18:10:00Z"
   },
   {
     "SourceTerm": "開爐",
@@ -56149,20 +56153,23 @@
   },
   {
     "SourceTerm": "陞堂",
-    "PreferredTarget": "ascend the teaching hall",
+    "PreferredTarget": "to ascend the teaching hall",
     "AlternateTargets": [
-      "mount the hall seat"
+      "to mount the hall for public teaching",
+      "to take the public teaching position"
     ],
     "SearchAliases": [
-      "ascend hall",
-      "formal address",
-      "take teaching seat",
-      "enter dharma hall"
+      "to ascend the teaching hall",
+      "to mount the hall for public teaching",
+      "to take the public teaching position",
+      "ascend the teaching hall",
+      "mount the hall seat",
+      "publicly take the hall"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
-    "CreatedBy": "Codex f003 Lane C evidence-first",
-    "WrittenUtc": "2026-07-15T04:31:02.627217+00:00"
+    "Note": "Seven independent Tier 1/2 works establish the public hall-teaching action. One useful early lamp witness is retained as supplemental evidence only and is excluded from depth and validation.",
+    "CreatedBy": "Codex cohort003 lane A combined source repair",
+    "WrittenUtc": "2026-07-28T18:10:00Z"
   },
   {
     "SourceTerm": "陞座",
