@@ -10966,9 +10966,9 @@
       "the twelvefold teaching"
     ],
     "Status": "preferred",
-    "Note": "A conventional scripture classification.",
+    "Note": "The phrase names the conventional twelvefold body of teachings. The retained masters classify it, preach it, claim knowledge of it, or set it aside without changing its referent.",
     "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T00:00:00Z"
+    "WrittenUtc": "2026-07-28T00:00:00Z"
   },
   {
     "SourceTerm": "十二時",
@@ -13595,9 +13595,9 @@
       "the person named in the retained encounter's characteristic style"
     ],
     "Status": "preferred",
-    "Note": "A stable encounter question whose answers are deployments.",
+    "Note": "A stock encounter question asks an addressed abbot to demonstrate his house style. Different answers remain different deployments of the same question.",
     "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T00:00:00Z"
+    "WrittenUtc": "2026-07-28T00:00:00Z"
   },
   {
     "SourceTerm": "和氣兆豐年",
@@ -15307,7 +15307,7 @@
       "to remain for the summer retreat"
     ],
     "Status": "preferred",
-    "Note": "The term functions both as an institutional summer stay and as a chronological marker in biographies.",
+    "Note": "The current 490-file corpus has 169 exact hits across 72 files and 70 works. The six curated witnesses belong to six deployment families: one Tier 1 authored regulation, four Tier 2 recorded deployments, and one Tier 3 lamp-preserved active hall address. Passive lamp biography and parallel recensions are excluded because the depth floor is met.",
     "CreatedBy": "Codex f004 lane A rereview repair author",
     "WrittenUtc": "2026-07-15T15:15:00Z"
   },
@@ -17790,9 +17790,9 @@
       "what is your family style?"
     ],
     "Status": "preferred",
-    "Note": "Addressed to a Chan addressee, the full question asks about that person’s characteristic house style; the many recorded answers do not create new senses of the question.",
+    "Note": "A stock encounter question asks an addressed abbot to demonstrate his house style. Different answers remain different deployments of the same question.",
     "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T00:00:00Z"
+    "WrittenUtc": "2026-07-28T00:00:00Z"
   },
   {
     "SourceTerm": "如何是境中人",
@@ -37971,7 +37971,7 @@
       "underlying gist"
     ],
     "Status": "preferred",
-    "Note": "Questions, replies, a reciprocal formulation, a verse warning, and a narrated awakening all concern one sought purport rather than master-specific senses.",
+    "Note": "The current 490-file corpus has 661 exact hits across 180 files and 177 works. Seven curated witnesses now comprise six Tier 1/2 authored or recorded deployments and one distinct supplementary lamp formulation; copied lamp recensions do not contribute to validation.",
     "CreatedBy": "Codex fresh-build lane B",
     "WrittenUtc": null
   },
@@ -43133,7 +43133,7 @@
     "PreferredTarget": "to sit upright",
     "AlternateTargets": [
       "to sit erect",
-      "seated upright"
+      "to remain seated upright"
     ],
     "SearchAliases": [
       "sit upright",
@@ -43141,9 +43141,9 @@
       "upright seated posture"
     ],
     "Status": "preferred",
-    "Note": "The upright posture alone does not establish a prescribed sitting activity.",
+    "Note": "The phrase names an upright seated posture. The surrounding action determines whether the person receives someone, answers by posture, speaks, investigates, or dies.",
     "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T01:20:13.974145+00:00"
+    "WrittenUtc": "2026-07-28T18:58:00Z"
   },
   {
     "SourceTerm": "端居寰海定龍蛇",
@@ -51619,19 +51619,18 @@
   },
   {
     "SourceTerm": "趺坐",
-    "PreferredTarget": "to sit cross-legged",
+    "PreferredTarget": "to take a seated posture",
     "AlternateTargets": [
-      "to assume the formal seated posture",
-      "cross-legged sitting"
+      "to take one’s seat"
     ],
     "SearchAliases": [
-      "to sit cross-legged",
-      "to assume the formal seated posture"
+      "take a seated posture",
+      "take one’s seat"
     ],
     "Status": "preferred",
-    "Note": "The expression names the formal cross-legged seated posture. The posture may occur in ritual, death, or cultivation settings; the verb alone does not specify the occasion.",
+    "Note": "The bare expression identifies deliberate sitting or taking the seat. It does not by itself specify the fuller folded-leg wording carried by “to sit with the legs crossed and folded” (結跏趺坐) and “cross-legged sitting” (跏趺坐).",
     "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T10:20:00Z"
+    "WrittenUtc": "2026-07-28T18:55:00Z"
   },
   {
     "SourceTerm": "跛跛挈挈",
