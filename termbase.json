@@ -3146,7 +3146,7 @@
       "without a place to stand"
     ],
     "Status": "preferred",
-    "Note": "The two records preserve the same Jiaoshan address, so the entry is provisional despite two textual witnesses.",
+    "Note": "Only one transmitted Jiaoshan address is retained. The Five Lamps row is a parallel recension of the same address, not a second family.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T22:20:00Z"
   },
@@ -5383,7 +5383,7 @@
   },
   {
     "SourceTerm": "人從橋上過、橋流水不流",
-    "PreferredTarget": "the bridge-and-still-water reversal",
+    "PreferredTarget": "a person crosses the bridge; the bridge flows, but the water does not",
     "AlternateTargets": [
       "the person passes over; the bridge flows and the water stands still"
     ],
@@ -5392,7 +5392,7 @@
       "bridge flows but water does not"
     ],
     "Status": "preferred",
-    "Note": "The queue display uses a list comma, while the retained corpus form uses the ordinary comma. The punctuation difference is governed and does not create a separate phrase.",
+    "Note": "The two clauses form one paradoxical reversal. Dahui's answer and Xiaoyin Xin's later twenty-years contrast are independent lamp-preserved deployments; Fu Dashi verse recensions are not counted.",
     "CreatedBy": "Codex Iriya lane C61-160 exact-turn author",
     "WrittenUtc": "2026-07-18T15:05:00+02:00"
   },
