@@ -32229,13 +32229,16 @@
   },
   {
     "SourceTerm": "此夜一爐火、渾家身上衣",
-    "PreferredTarget": "tonight there is one brazier of fire and clothing on the whole household",
-    "AlternateTargets": [],
-    "SearchAliases": [
+    "PreferredTarget": "tonight, one brazier of fire; the whole household clothed",
+    "AlternateTargets": [
       "tonight there is one brazier of fire and clothing on the whole household"
     ],
+    "SearchAliases": [
+      "one brazier of fire whole household clothed",
+      "tonight one fire clothing for the household"
+    ],
     "Status": "preferred",
-    "Note": "The passages state the household scene and do not assign the fire or clothing a hidden referent.",
+    "Note": "All exact witnesses transmit Zhengjue Yi's same hall verse. One lamp witness represents the exhausted family.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T16:50:15.005068Z"
   },
@@ -34191,7 +34194,7 @@
       "the case of the mud ox entering the sea"
     ],
     "Status": "preferred",
-    "Note": "The headword itself does not claim that presentation caused the reported breakthrough.",
+    "Note": "All exact witnesses narrate the same occasion on which Zhutian Ruli raised the case. One lamp witness represents that exhausted family.",
     "CreatedBy": "Codex post720 Lane C positions 033-058",
     "WrittenUtc": "2026-07-17T16:30:22.041434+00:00"
   },
@@ -34586,15 +34589,15 @@
     "SourceTerm": "海晏河清",
     "PreferredTarget": "the sea is calm and the river clear",
     "AlternateTargets": [
-      "calm seas and clear rivers"
+      "peace throughout the realm"
     ],
     "SearchAliases": [
-      "the sea is calm and the river clear"
+      "peace throughout the realm"
     ],
     "Status": "preferred",
-    "Note": "The peace-and-order formula is explicit in four independent uses; the two clipped Shishuang witnesses are governed as parallel recensions of one appraisal, and Zishou Yuancheng Yan remains source-identified but unlinked.",
-    "CreatedBy": "Codex fresh semantic author A051-060 2026-07-18",
-    "WrittenUtc": "2026-07-18T10:01:16.920165Z"
+    "Note": "Sea calm and river clear names unobstructed peace or settled conditions.",
+    "CreatedBy": "Canary021 Lane C",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "海枯終見底、人死不知心",
@@ -36500,16 +36503,15 @@
     "SourceTerm": "無角鐵牛",
     "PreferredTarget": "a hornless iron ox",
     "AlternateTargets": [
-      "the iron ox without horns"
+      "the hornless iron ox"
     ],
     "SearchAliases": [
-      "a hornless iron ox",
-      "the iron ox without horns"
+      "the hornless iron ox"
     ],
     "Status": "preferred",
-    "Note": "The entry describes the recurring impossible animal without assigning it one invariant fixed explanation.",
-    "CreatedBy": "Codex investigation-next300 Lane A",
-    "WrittenUtc": "2026-07-17T14:10:00Z"
+    "Note": "A hornless iron ox is an impossible, immovable animal image used in compact Chan verse and reply.",
+    "CreatedBy": "Canary021 Lane C",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "無角鐵牛眠少室",
