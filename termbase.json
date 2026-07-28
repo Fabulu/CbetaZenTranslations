@@ -28114,7 +28114,7 @@
       "clear sky and clear eye"
     ],
     "Status": "preferred",
-    "Note": "Linji joins a cloudless sun and an unobstructed eye: nothing covers the sky, and no defect in the eye produces flowers in empty space.",
+    "Note": "The exact witnesses are parallel lamp recensions of one Linji address. One witness represents the exhausted family.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T21:14:44.582866Z"
   },
@@ -28845,7 +28845,7 @@
       "plain as sun and stars"
     ],
     "Status": "preferred",
-    "Note": "The paired observation names what is plainly visible in its proper time. Chan speakers use that obviousness as an answer, an awakening-day challenge, or a contrast with claims of special attainment.",
+    "Note": "The paired observation names what is plainly visible at its ordinary time. Two independent low-tier deployments are retained without recension padding.",
     "CreatedBy": "Codex cohort-002 lane-B author",
     "WrittenUtc": "2026-07-18T20:50:52Z"
   },
@@ -29438,19 +29438,17 @@
     "SourceTerm": "有甚麼交涉",
     "PreferredTarget": "what connection does that have?",
     "AlternateTargets": [
-      "what has that to do with it?"
+      "what has that got to do with it?",
+      "what relevance is there?"
     ],
     "SearchAliases": [
       "what connection",
-      "what does that have to do",
-      "how is that relevant",
-      "no relation",
-      "what involvement"
+      "what relevance"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
-    "CreatedBy": "Codex f003 Lane C evidence-first",
-    "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
+    "Note": "What connection does that have? rejects a proposed answer, interpretation, or claimed relevance as missing the matter at hand.",
+    "CreatedBy": "Codex lamp-only canary015 lane C",
+    "WrittenUtc": "2026-07-28T22:00:00Z"
   },
   {
     "SourceTerm": "有錢使得鬼走",
