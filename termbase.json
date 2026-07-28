@@ -20614,7 +20614,7 @@
       "senior brother in training"
     ],
     "Status": "preferred",
-    "Note": "The expression addresses a senior peer within the same instructional lineage or community. The kinship is institutional rather than biological unless the passage says otherwise.",
+    "Note": "The retained evidence represents three distinct lamp-preserved deployments. Five Ananda–Mahakasyapa witnesses are parallel recensions and count as one family.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
@@ -22052,15 +22052,17 @@
     "SourceTerm": "從上宗乘",
     "PreferredTarget": "the ancestral vehicle from before",
     "AlternateTargets": [
-      "the lineage vehicle handed down from above"
+      "the inherited Chan vehicle",
+      "the ancestral tradition"
     ],
     "SearchAliases": [
-      "the ancestral vehicle from before"
+      "ancestral vehicle",
+      "inherited tradition"
     ],
     "Status": "preferred",
-    "Note": "All eight complete candidate cases were reviewed for the the ancestral vehicle from before reading; the six retained works cover one inherited-lineage referent; recension differences between “pointed out” and “indicated” are readings, not senses.",
-    "CreatedBy": "Codex fresh semantic author A051-060 2026-07-18",
-    "WrittenUtc": "2026-07-18T10:01:16.675386Z"
+    "Note": "The ancestral vehicle from before names the inherited Chan tradition or its governing matter.",
+    "CreatedBy": "Codex lamp-only canary013 lane C",
+    "WrittenUtc": "2026-07-28T21:30:00Z"
   },
   {
     "SourceTerm": "從前汗馬無人識、只要重論蓋代功",
@@ -27135,7 +27137,7 @@
       "cut into another seller’s business"
     ],
     "Status": "preferred",
-    "Note": "The market scene is explicit in the wording; the entry does not generalize it into every form of rivalry.",
+    "Note": "Two independent Tier 2 records preserve distinct deployments: Yangqi Fanghui proclaims the market prohibition in a hall address, while Xuansha Shibei uses it in exchange with Xuefeng.",
     "CreatedBy": "Codex lane C rev2 C111-120 author",
     "WrittenUtc": "2026-07-19T15:00:00Z"
   },
@@ -27814,15 +27816,15 @@
   },
   {
     "SourceTerm": "斬得匈奴首、還歸細柳營",
-    "PreferredTarget": "behead the Xiongnu, then return to the camp at Xiliu",
+    "PreferredTarget": "take a Xiongnu head, then return to the camp at Xiliu",
     "AlternateTargets": [
-      "take the Xiongnu leader's head and return to Xiliu camp"
+      "take a Xiongnu head and return to Xiliu camp"
     ],
     "SearchAliases": [
-      "take the Xiongnu leader's head and return to Xiliu camp"
+      "take a Xiongnu head and return to Xiliu camp"
     ],
     "Status": "preferred",
-    "Note": "The packet preserves a single attributed answer, and the named master is absent from the current roster; validation remains provisional.",
+    "Note": "The packet preserves a single attributed answer, and Fotuosun is absent from the current roster; validation remains provisional.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-22T04:20:00Z"
   },
