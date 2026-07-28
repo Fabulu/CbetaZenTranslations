@@ -5167,7 +5167,7 @@
       "Compendium of Five Lamps"
     ],
     "Status": "preferred",
-    "Note": "7 full-case witnesses distinguish speech, quotation, narration, and documentary uses.",
+    "Note": "The work’s own title is the primary bibliographic witness; Yongjue Yuanxian’s recorded recollection independently confirms the book name and its use. The lamp-title row is retained as necessary documentary evidence, not as equal doctrinal authority.",
     "CreatedBy": "Codex f004 A916-925 safe full-case author",
     "WrittenUtc": "2026-07-15T16:55:00Z"
   },
@@ -5346,7 +5346,7 @@
       "person and surroundings both taken away"
     ],
     "Status": "preferred",
-    "Note": "The exact phrase recurs in Linji's small address and in later question-and-answer deployments; recensions of Linji's address are one deployment class. Repeated witnesses of one source are counted once.",
+    "Note": "The phrase is one member of Linji’s fourfold formula. One lamp recension preserves Linji’s address, and one genuinely separate later question-and-answer use is retained; parallel recensions are not counted.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
@@ -6241,7 +6241,7 @@
       "a buddha comes into the world"
     ],
     "Status": "preferred",
-    "Note": "The expression names the event of a buddha manifesting in the world. The phrase can provide a temporal or interpretive frame rather than narrate a specific birth.",
+    "Note": "The phrase names a buddha's appearance in the world. Both retained families are lamp-preserved, so validation remains provisional.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
@@ -6421,7 +6421,7 @@
   },
   {
     "SourceTerm": "佛法大意",
-    "PreferredTarget": "the essential point of Buddha’s teaching",
+    "PreferredTarget": "the essential point of the Buddha Dharma",
     "AlternateTargets": [
       "main point of Buddha’s teaching"
     ],
@@ -6431,7 +6431,7 @@
       "what is the Buddha teaching about"
     ],
     "Status": "preferred",
-    "Note": "Questions addressed to Budai, Daolin, Linji, Qingliang, and Xuedou establish a recurring demand for the teaching's main point.",
+    "Note": "The question asks for the central import of the Buddha Dharma. Linji's sayings supply the higher-tier family; Baofu's independent Budai exchange is lamp-preserved fallback.",
     "CreatedBy": "Codex f004 lane A evidence-first full-context author",
     "WrittenUtc": "2026-07-15T10:43:23.565768+00:00"
   },
@@ -6483,15 +6483,17 @@
   },
   {
     "SourceTerm": "佛滅二千年，比丘少慚愧",
-    "PreferredTarget": "two thousand years after the Buddha’s extinction, monks have little shame",
-    "AlternateTargets": [],
+    "PreferredTarget": "two thousand years after the Buddha's extinction, monks have little shame",
+    "AlternateTargets": [
+      "two thousand years after the Buddha passed away, monks are short on shame"
+    ],
     "SearchAliases": [
-      "two thousand years after the Buddha’s extinction, monks have little shame"
+      "two thousand years after the Buddha's extinction, monks have little shame"
     ],
     "Status": "preferred",
-    "Note": "The paired verdict is preserved in two recensions of the same exchange and remains provisional as one deployment.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-21T08:00:00Z"
+    "Note": "Two thousand years after the Buddha's extinction, monks have little shame is a reproach aimed at the conduct or understanding displayed in the immediate setting.",
+    "CreatedBy": "Codex canary007 lane C",
+    "WrittenUtc": "2026-07-28T20:17:00Z"
   },
   {
     "SourceTerm": "佛滅二千年、比丘少慚愧",
@@ -6630,16 +6632,18 @@
   },
   {
     "SourceTerm": "作務",
-    "PreferredTarget": "communal work",
-    "AlternateTargets": [],
-    "SearchAliases": [
+    "PreferredTarget": "monastic work duty",
+    "AlternateTargets": [
       "communal work",
-      "作務"
+      "manual work duty"
+    ],
+    "SearchAliases": [
+      "monastic work duty"
     ],
     "Status": "preferred",
-    "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
-    "CreatedBy": "Codex f003 Lane A full-case author",
-    "WrittenUtc": "2026-07-15T04:52:26.825273+00:00"
+    "Note": "Monastic work duty names practical labor performed by an individual practitioner or the resident community.",
+    "CreatedBy": "Codex canary007 lane C",
+    "WrittenUtc": "2026-07-28T20:17:00Z"
   },
   {
     "SourceTerm": "作女人拜",
