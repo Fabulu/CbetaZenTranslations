@@ -9968,15 +9968,20 @@
   },
   {
     "SourceTerm": "初參",
-    "PreferredTarget": "first consultation",
-    "AlternateTargets": [],
+    "PreferredTarget": "to first visit",
+    "AlternateTargets": [
+      "to make one's first call on",
+      "to first consult"
+    ],
     "SearchAliases": [
-      "first consultation"
+      "first visit",
+      "first call on",
+      "first consult"
     ],
     "Status": "preferred",
-    "Note": "The phrase denotes an initial visit or first period of consulting a guide.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-21T00:30:00Z"
+    "Note": "Before a named teacher or place, the term narratively introduces a person's first visit or first encounter. A consultation may follow, but it is not required by the compound.",
+    "CreatedBy": "Codex lamp-repair cohort002 lane-C implementation",
+    "WrittenUtc": "2026-07-28T20:30:00Z"
   },
   {
     "SourceTerm": "初機",
@@ -13763,19 +13768,22 @@
   },
   {
     "SourceTerm": "唱誰家曲",
-    "PreferredTarget": "whose house’s song do you sing?",
-    "AlternateTargets": [],
+    "PreferredTarget": "whose house’s tune do you sing?",
+    "AlternateTargets": [
+      "whose lineage house’s song do you sing?"
+    ],
     "SearchAliases": [
+      "whose house’s tune do you sing?",
+      "whose lineage house’s song do you sing?",
       "whose house’s song do you sing?",
       "師唱誰家曲",
-      "whose house’s tune do you sing?",
       "whose lineage tune is this?",
       "whose teaching-house song is being sung?"
     ],
     "Status": "preferred",
-    "Note": "Thirteen exact question rows are grouped by encounter rather than compilation: the Yuelu, Shoushan, and Baoyue exchanges each recur in parallel records.",
-    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
-    "WrittenUtc": "2026-07-20T00:00:00Z"
+    "Note": "The recurring paired question joins a sung tune to lineage style and inheritance. “House” therefore means a lineage or teaching house, while “tune” preserves the musical metaphor. The varied replies prevent treating the formula as a fixed answer.",
+    "CreatedBy": "Codex lamp-repair cohort002 lane A",
+    "WrittenUtc": "2026-07-28T12:00:00+02:00"
   },
   {
     "SourceTerm": "商山四皓",
@@ -17796,20 +17804,20 @@
   },
   {
     "SourceTerm": "如何是境中人",
-    "PreferredTarget": "who is the person within the scene?",
+    "PreferredTarget": "what is the person within the scene?",
     "AlternateTargets": [
-      "what is the person in the scene?",
-      "who is the one within the environment?"
+      "who is the person within these surroundings?",
+      "what is the person amid the surroundings?"
     ],
     "SearchAliases": [
-      "who is the person within the scene?",
-      "what is the person in the scene?",
-      "who is the one within the environment?"
+      "what is the person within the scene?",
+      "who is the person within these surroundings?",
+      "what is the person amid the surroundings?"
     ],
     "Status": "preferred",
-    "Note": "The question follows a monastery-scene question and asks for the person within that scene. Its answers remain attached to their own respondents; two witnesses preserve one Wufeng Changguan exchange.",
-    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
-    "WrittenUtc": "2026-07-19T13:41:06.489510+00:00"
+    "Note": "A stock encounter question follows a paired question that first asks for a monastery's or occasion's scene. The follow-up asks for the person within that scene. The exact speaker is the unnamed questioner, not the named respondent.",
+    "CreatedBy": "Codex lamp-repair cohort002 lane-C implementation",
+    "WrittenUtc": "2026-07-28T20:30:00Z"
   },
   {
     "SourceTerm": "如何是奇特事",
@@ -18838,7 +18846,7 @@
       "whose house style do you inherit?"
     ],
     "Status": "preferred",
-    "Note": "“Whose house style do you inherit?” is the paired succession question that presses the same lineage claim from the side of inheritance.",
+    "Note": "The current 490-file corpus has 397 exact hits across 86 files and 83 independent works. Eight curated witnesses from eight deployment families meet the depth floor: one Tier 1 master-authored witness and seven Tier 2 sayings-record witnesses; no lamp is retained.",
     "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
     "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
   },
@@ -37300,7 +37308,7 @@
       "before Oxhead saw the Fourth Patriarch"
     ],
     "Status": "preferred",
-    "Note": "The question belongs to a paired before-and-after case and does not by itself imply that the earlier state was simply deficient.",
+    "Note": "The current 490-file corpus has 446 exact hits across 98 files and 93 independent works. Eight curated witnesses from eight independent families meet the depth floor: one Tier 1 master-authored witness and seven Tier 2 sayings or active-commentary witnesses; no lamp is retained.",
     "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
     "WrittenUtc": "2026-07-19T13:41:07.848387+00:00"
   },
@@ -43366,15 +43374,21 @@
   },
   {
     "SourceTerm": "第一座",
-    "PreferredTarget": "the chief seat",
-    "AlternateTargets": [],
+    "PreferredTarget": "the head seat",
+    "AlternateTargets": [
+      "the head-seat officeholder",
+      "the first seat"
+    ],
     "SearchAliases": [
+      "the head seat",
+      "the head-seat officeholder",
+      "the monk holding the head-seat office",
       "the first seat"
     ],
     "Status": "preferred",
-    "Note": "The office and the speech actor are resolved separately in each encounter.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T00:00:00Z"
+    "Note": "In Chan institutional language this expression names the senior head-seat office or, by metonymy, its officeholder. Appointment, succession, preaching, and comparison with the second seat establish that sense. A literal ordinal reading remains possible where the context describes only ordered seating.",
+    "CreatedBy": "Codex lamp-repair cohort002 lane A",
+    "WrittenUtc": "2026-07-28T12:00:00+02:00"
   },
   {
     "SourceTerm": "第一要",
