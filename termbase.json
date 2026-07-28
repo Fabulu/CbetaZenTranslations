@@ -41437,7 +41437,7 @@
   },
   {
     "SourceTerm": "碁逢敵手難藏行，詩到重吟始見功",
-    "PreferredTarget": "when a chess player meets an equal, his moves are hard to hide; only on reciting a poem again does its craft appear",
+    "PreferredTarget": "when a chess player meets an equal his play is hard to hide, while repeated recitation reveals a poem’s craft",
     "AlternateTargets": [
       "an equal opponent exposes the chess play, repeated recitation reveals the poem’s skill"
     ],
@@ -41445,7 +41445,7 @@
       "an equal opponent exposes the chess play, repeated recitation reveals the poem’s skill"
     ],
     "Status": "preferred",
-    "Note": "Chess play and poetic craft form the two halves of one transmitted comparison.",
+    "Note": "The complete couplet is retained from one lineage-anthology family because the bounded exact search found no stronger complete witness. Related chess-and-music lines are different expressions, not extra support.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-22T12:00:00Z"
   },
@@ -41667,9 +41667,9 @@
       "ancestral seal"
     ],
     "Status": "preferred",
-    "Note": "the ancestral teachers’ mind-seal; The imagery does not establish a material object or a single secret formula.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T00:19:57.512303+00:00"
+    "Note": "The expression names the ancestral teachers’ mind-seal. Its uses do not establish a material stamp or one fixed secret formula: different masters deploy the seal image differently.",
+    "CreatedBy": "canary025_source_hierarchy_repair",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "祖師意",
@@ -44610,7 +44610,7 @@
       "fine food does not suit a person who is already full"
     ],
     "Status": "preferred",
-    "Note": "The meal proverb becomes a hall-ending verdict, an interview reply, and an objection saying that further provision is superfluous.",
+    "Note": "Two distinct Tier-3 deployments are retained: Jiufeng Qin closes a hall address with the proverb, and Dayang Jingxuan gives it as an interview reply. A parallel Jiufeng recension and a later hypothetical reuse are omitted.",
     "CreatedBy": "Codex cohort-002 lane-A positions 134-145 full-case author",
     "WrittenUtc": "2026-07-19T06:55:35.050952Z"
   },
@@ -45113,9 +45113,9 @@
       "hear my verse"
     ],
     "Status": "preferred",
-    "Note": "“Listen to my verse” (聽吾偈) is an imperative introducing a verse spoken by the first-person teacher. Several candidates repeat Kasyapa’s transmission to Ananda; others introduce verses by Bodhidharma, Baozhang, and Mengtang Tan'e.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T22:00:00Z"
+    "Note": "The first-person speaker directs the hearer to attend to the verse that immediately follows. Jieweizhou Xingzhou and Juyun Chuiwan Guangzhen preserve this wording in separate addresses.",
+    "CreatedBy": "canary025_source_hierarchy_repair",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "聽法",
@@ -45264,15 +45264,15 @@
     "SourceTerm": "胡張三、黒李四",
     "PreferredTarget": "Hu Zhangsan and black Li Si",
     "AlternateTargets": [
-      "Zhang the third from Hu and black Li the fourth"
+      "Zhangsan from Hu and black Li Si"
     ],
     "SearchAliases": [
-      "Zhang the third from Hu and black Li the fourth"
+      "Hu Zhangsan black Li Si"
     ],
     "Status": "preferred",
-    "Note": "The paired names do not identify two historical persons; Huqiu uses them for whoever stands outside the gate in the exchange.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-22T06:00:00Z"
+    "Note": "Huqiu gives the pair as his answer to “what person?”, while Dahui’s questioner uses the same pair as a topic he sets aside before asking about the Jiazhou image.",
+    "CreatedBy": "canary025_source_hierarchy_repair",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "胡盧胡盧",
