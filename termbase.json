@@ -29505,9 +29505,9 @@
       "facing south while looking for the Northern Dipper"
     ],
     "Status": "preferred",
-    "Note": "Two independent deployments survive: Bajiao Huiqing answers a question about oneself, and Junshan Pujing answers a question about the person within the scene.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-21T12:00:00Z"
+    "Note": "Two distinct lamp-preserved deployments survive: Bajiao Huiqing answers a question about oneself, and Junshan Pujing answers a question about the person within the scene. No stronger direct witness was established.",
+    "CreatedBy": "Codex lamp-only canary021 lane A",
+    "WrittenUtc": "2026-07-28T23:05:00Z"
   },
   {
     "SourceTerm": "望州亭",
@@ -31158,15 +31158,15 @@
   },
   {
     "SourceTerm": "柳色黄金嫩、梨花白雪香",
-    "PreferredTarget": "willow color is tender gold and pear blossom is fragrant white snow",
+    "PreferredTarget": "the willows are tender gold; the pear blossoms are snow-white and fragrant",
     "AlternateTargets": [],
     "SearchAliases": [
-      "willow color is tender gold and pear blossom is fragrant white snow"
+      "the willows are tender gold; the pear blossoms are snow-white and fragrant"
     ],
     "Status": "preferred",
-    "Note": "Gold and snow are comparisons for color and appearance here, not claims that the plants are made of metal or ice.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-19T19:41:24.688570Z"
+    "Note": "Two distinct compiled-source deployments survive: Tiansheng Shoudao answers a request for a statement beyond light and darkness, while Yang Wuwei uses the line as an answer about the teaching body. Parallel copies of Tiansheng's address are excluded.",
+    "CreatedBy": "Codex lamp-only canary021 lane A",
+    "WrittenUtc": "2026-07-28T23:05:00Z"
   },
   {
     "SourceTerm": "栗棘蓬",
