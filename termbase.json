@@ -9687,18 +9687,20 @@
   },
   {
     "SourceTerm": "出身一路",
-    "PreferredTarget": "the one road of getting out",
-    "AlternateTargets": [],
+    "PreferredTarget": "a way to step free",
+    "AlternateTargets": [
+      "a way out",
+      "a route beyond the position"
+    ],
     "SearchAliases": [
-      "road of getting out",
-      "one route of emergence",
-      "way out after everything is smashed",
-      "exit road"
+      "a way to step free",
+      "a way out",
+      "a route beyond the position"
     ],
     "Status": "preferred",
-    "Note": "Yuwang Duanyu asks for this road after even a complete answer has been smashed, then drops the whisk and says, ‘Investigate.’ Chongsheng Yi independently says that one must have such a road when the school’s command has exhausted speech.",
-    "CreatedBy": "Codex Lane B explicit canary",
-    "WrittenUtc": "2026-07-22T23:19:18.236362+00:00"
+    "Note": "A way to step free is required beyond an attained entry, a fixed understanding, a polished exchange, or a position where neither advance nor retreat works. The phrase does not name escape from a physical place.",
+    "CreatedBy": "Codex lamp-repair cohort004 lane-A",
+    "WrittenUtc": "2026-07-29T00:10:00Z"
   },
   {
     "SourceTerm": "出身之路",
@@ -17038,18 +17040,18 @@
   },
   {
     "SourceTerm": "天上天下、唯我獨尊",
-    "PreferredTarget": "Above heaven and beneath heaven, I alone am honored",
-    "AlternateTargets": [],
+    "PreferredTarget": "throughout heaven and earth, I alone am honored",
+    "AlternateTargets": [
+      "above heaven and below heaven, I alone am honored"
+    ],
     "SearchAliases": [
-      "Above heaven and beneath heaven, I alone am honored",
-      "above",
-      "heaven",
-      "beneath"
+      "throughout heaven and earth, I alone am honored",
+      "above heaven and below heaven, I alone am honored"
     ],
     "Status": "preferred",
-    "Note": "The retained cases distinguish Shakyamuni’s quoted birth declaration from later masters and contemporary monks who raise, copy, or appraise it; Yangqi Fanghui’s hall address explicitly depicts contemporary monks copying it.",
-    "CreatedBy": "Codex Iriya Lane B B071-B080 full-case author",
-    "WrittenUtc": "2026-07-18T11:16:52.053234+00:00"
+    "Note": "Shakyamuni's birth declaration becomes a working line in Chan discourse: it answers questions, receives an explicit non-ego gloss, and is tested against the claim that all beings share what it announces.",
+    "CreatedBy": "Codex lamp-repair cohort004 lane-A",
+    "WrittenUtc": "2026-07-29T00:10:00Z"
   },
   {
     "SourceTerm": "天上星、地下水",
@@ -41229,13 +41231,13 @@
       "the child of a barren woman"
     ],
     "SearchAliases": [
-      "barren woman's child",
-      "impossible child"
+      "a barren woman's child",
+      "the child of a barren woman"
     ],
     "Status": "preferred",
-    "Note": "Four stored witnesses contain two principal Chan deployments: three recensions of the Shizhu exchange plus one separate question-answer case; the contained-only Zongjing lu analogy was removed.",
-    "CreatedBy": "Codex f004 C1156-1165 fresh author",
-    "WrittenUtc": "2026-07-15T14:54:06.495578+00:00"
+    "Note": "The stock figure is impossible offspring: a child born to the barren woman. Speakers make it wear restraints, nurse it, demand that it give birth, or compare it with other impossibilities. One statue catalogue can resegment the graphs as a stone girl, but that isolated material use does not control the recurring Chan image.",
+    "CreatedBy": "Codex cohort004 lane C",
+    "WrittenUtc": "2026-07-29T00:20:00Z"
   },
   {
     "SourceTerm": "石從空裏立，火向水中焚",
@@ -46501,18 +46503,18 @@
   },
   {
     "SourceTerm": "芥子納須彌",
-    "PreferredTarget": "the central world-mountain fits inside a mustard seed",
+    "PreferredTarget": "a mustard seed contains Mount Sumeru",
     "AlternateTargets": [
-      "Mount Sumeru enters a mustard seed"
+      "Mount Sumeru fits inside a mustard seed"
     ],
     "SearchAliases": [
-      "Mount Sumeru enters a mustard seed",
-      "芥子納須彌"
+      "a mustard seed contains Mount Sumeru",
+      "Mount Sumeru fits inside a mustard seed"
     ],
     "Status": "preferred",
-    "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
-    "CreatedBy": "Codex f003 Lane A full-case author",
-    "WrittenUtc": "2026-07-15T05:09:02.950859+00:00"
+    "Note": "The phrase names the scriptural scale reversal of the enormous world-mountain being contained by a mustard seed. The records use it as a question, answer, inherited case, and direct challenge; they resist reducing it to a symbolic equation.",
+    "CreatedBy": "Codex cohort004 lane C",
+    "WrittenUtc": "2026-07-29T00:20:00Z"
   },
   {
     "SourceTerm": "芥子許",
@@ -48942,7 +48944,7 @@
       "face to face"
     ],
     "Status": "preferred",
-    "Note": "The idiom delivers a pointed appraisal: the actual encounter falls short of the reputation heard beforehand. Mituo Zhengyan says it while leaving an encounter; Shishuang applies it in a visit; Cheya turns it into a hall appraisal; Li Ao voices the familiar complaint when meeting Yaoshan.",
+    "Note": "The saying judges face-to-face acquaintance inferior to the reputation carried by a name. Chan masters repeatedly pair it with the reversed formula, making the comparison depend on the encounter being appraised. Wuzu Fayan uses both orders at a funeral address; Baichi Xingyuan says each order fits its occasion; Xueyan Zuqin places the saying beside its reversal in his hall address; Yanxi Guangwen places the two orders before and after thirty years.",
     "CreatedBy": "Codex cohort-002 lane-A 41-50 strict author",
     "WrittenUtc": "2026-07-18T21:03:28Z"
   },
