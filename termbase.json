@@ -41185,18 +41185,18 @@
   },
   {
     "SourceTerm": "石人點頭、露柱拍手",
-    "PreferredTarget": "the stone man nods as the exposed pillar claps its hands",
+    "PreferredTarget": "a stone man nods and the exposed pillar claps its hands",
     "AlternateTargets": [
-      "a stone figure nods and a bare pillar applauds"
+      "the stone figure nods and the bare pillar applauds"
     ],
     "SearchAliases": [
       "stone man nods pillar claps",
       "stone figure and exposed pillar"
     ],
     "Status": "preferred",
-    "Note": "The two files are recensions of the same exchange, so they preserve one use.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T20:00:00Z"
+    "Note": "Bounded exact and component searches found no Tier 1 or Tier 2 witness for the complete pair. This entry therefore retains one early lamp family as last-resort evidence; later lamp recensions of the same exchange are omitted.",
+    "CreatedBy": "canary022_source_hierarchy_repair",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "石壓笋斜出。岸懸花倒生",
@@ -41387,8 +41387,9 @@
   },
   {
     "SourceTerm": "破虗空",
-    "PreferredTarget": "break open empty space",
+    "PreferredTarget": "break empty space",
     "AlternateTargets": [
+      "break open empty space",
       "shatter empty space"
     ],
     "SearchAliases": [
@@ -41396,9 +41397,9 @@
       "smash empty space"
     ],
     "Status": "preferred",
-    "Note": "The object is empty space itself. Different preceding verbs specify how it is struck or pressed, but the retained phrase consistently treats empty space as something that can be broken open.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T19:00:00Z"
+    "Note": "The phrase takes empty space as the direct object of breaking; the preceding verbs specify a hammer-blow or a forceful press. Two independent recorded-sayings families establish the sense without lamp support.",
+    "CreatedBy": "canary022_source_hierarchy_repair",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "破鏡不重照，落花難上枝",
