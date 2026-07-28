@@ -37691,7 +37691,7 @@
   },
   {
     "SourceTerm": "猛虎不顧几上肉，洪爐豈鑄囊中錐",
-    "PreferredTarget": "a fierce tiger ignores meat on the table, and a roaring furnace does not cast an awl inside a bag",
+    "PreferredTarget": "a fierce tiger ignores meat on the table; how could a roaring furnace cast an awl still inside its bag?",
     "AlternateTargets": [
       "the tiger passes table meat; the great furnace does not cast a bagged awl"
     ],
@@ -37701,9 +37701,9 @@
       "awl inside a bag"
     ],
     "Status": "preferred",
-    "Note": "Four compilations preserve the same Jinshan Ruixin address, so the entry remains provisional.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-21T22:20:00Z"
+    "Note": "Four compilations transmit one Jinshan Ruixin address. One complete witness is retained for that single family; no stronger independent deployment was established.",
+    "CreatedBy": "Codex lamp-only canary022 lane A",
+    "WrittenUtc": "2026-07-28T23:15:00Z"
   },
   {
     "SourceTerm": "猛虎不食伏肉",
@@ -37787,9 +37787,9 @@
       "still verbalizing"
     ],
     "Status": "preferred",
-    "Note": "Both files transmit the same Yaoshan–Gao Shami exchange; one complete version is retained.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T23:30:00Z"
+    "Note": "Both exact witnesses transmit the same Yaoshan–Gao Shami exchange. The stronger recorded-sayings witness is retained as the sole family representative.",
+    "CreatedBy": "Codex lamp-only canary022 lane A",
+    "WrittenUtc": "2026-07-28T23:15:00Z"
   },
   {
     "SourceTerm": "猶有這箇在",
@@ -41164,7 +41164,7 @@
       "if a stone person had your capacity, it too could sing a Ba song"
     ],
     "Status": "preferred",
-    "Note": "The saying tells its addressee that if a stone person's capacity resembled his, the stone person too could sing a Ba song; its paired reversal describes impossible snow and fire.",
+    "Note": "A Tier-3 lineage anthology preserves the saying in a Shizhu address. Other located lamp rows are either parallel recensions or later quotations of an unnamed ancient, so they are omitted rather than used as padding.",
     "CreatedBy": "Codex cohort002 lane C clean full-case author",
     "WrittenUtc": "2026-07-19T00:40:37.009445Z"
   },
