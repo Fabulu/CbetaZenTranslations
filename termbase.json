@@ -4827,17 +4827,16 @@
   {
     "SourceTerm": "事無一向",
     "PreferredTarget": "the matter has no single fixed direction",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "affairs do not run in only one direction"
+    ],
     "SearchAliases": [
-      "the matter has no single fixed direction",
-      "matter",
-      "single",
-      "fixed"
+      "the matter has no single fixed direction"
     ],
     "Status": "preferred",
-    "Note": "The matter has no single fixed direction is a formal pivot in Chan addresses: after denying that fixed talk, questions, or verbal display can contain the matter, the cited hall speaker opens another line for questioning or provisional speech. No passage says that every direction is interchangeable; each speaker opens a particular provisional line after the denial.",
-    "CreatedBy": "Codex Iriya Lane B B071-B080 full-case author",
-    "WrittenUtc": "2026-07-18T11:16:52.053234+00:00"
+    "Note": "The matter has no single fixed direction marks a turn away from treating one response or stance as universally binding.",
+    "CreatedBy": "Codex canary005 lane C",
+    "WrittenUtc": "2026-07-28T19:58:00Z"
   },
   {
     "SourceTerm": "二六時",
@@ -4958,14 +4957,16 @@
   {
     "SourceTerm": "二龍爭珠",
     "PreferredTarget": "two dragons contest a pearl",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "two dragons struggle over a pearl"
+    ],
     "SearchAliases": [
       "two dragons contest a pearl"
     ],
     "Status": "preferred",
-    "Note": "Two dragons contest a pearl is an encounter test asking who can possess or obtain what is being contested.",
-    "CreatedBy": "Codex Iriya Lane B B091-B092 canary author",
-    "WrittenUtc": "2026-07-18T13:45:00+00:00"
+    "Note": "Two dragons contest a pearl frames a struggle in which identifying the winner already misses the pearl.",
+    "CreatedBy": "Codex canary005 lane C",
+    "WrittenUtc": "2026-07-28T19:58:00Z"
   },
   {
     "SourceTerm": "云何忽生山河大地",
