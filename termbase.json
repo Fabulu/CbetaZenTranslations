@@ -8021,14 +8021,18 @@
   {
     "SourceTerm": "僧舉",
     "PreferredTarget": "an unnamed monastic brought it up",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "the unnamed monastic raised it",
+      "the unnamed monastic cited the case"
+    ],
     "SearchAliases": [
-      "a monastic raised"
+      "monastic raised",
+      "monastic cited"
     ],
     "Status": "preferred",
-    "Note": "This narrative formula introduces material cited by an unnamed monastic. Both retained deployments are lamp-preserved, so validation remains provisional.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T23:55:00Z"
+    "Note": "In the retained hall-address sequence, an unnamed monastic raises the sitting cloth.",
+    "CreatedBy": "Canary018 Lane C",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "僧錄",
