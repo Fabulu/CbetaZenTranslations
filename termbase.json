@@ -10556,7 +10556,7 @@
       "sword gone mark boat"
     ],
     "Status": "preferred",
-    "Note": "Dongsi Ruhui's warning against marking a fixed place for something already gone.",
+    "Note": "Dongsi Ruhui's warning against marking a fixed place for something already gone; Sanyi Mingyu later quotes the warning and answers it with his own verse.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T18:00:00Z"
   },
@@ -11815,19 +11815,16 @@
     "SourceTerm": "印可",
     "PreferredTarget": "approve and certify",
     "AlternateTargets": [
-      "certify",
+      "confirm as valid",
       "give approval"
     ],
     "SearchAliases": [
-      "approve understanding",
-      "certify understanding",
-      "teacher approval",
-      "seal of approval"
+      "approve and certify"
     ],
     "Status": "preferred",
-    "Note": "Approval certifies a person in a particular encounter, but it does not by itself settle every later question or establish the particular teacher named in a succession record.",
-    "CreatedBy": "Codex fresh-build lane C",
-    "WrittenUtc": null
+    "Note": "Approve and certify names authoritative confirmation that a person's understanding or realization is valid.",
+    "CreatedBy": "Codex lamp-only canary010 lane C",
+    "WrittenUtc": "2026-07-28T21:00:00Z"
   },
   {
     "SourceTerm": "印板",
@@ -12009,18 +12006,18 @@
   },
   {
     "SourceTerm": "參問",
-    "PreferredTarget": "to visit and ask questions in person",
+    "PreferredTarget": "visit and question for instruction",
     "AlternateTargets": [
-      "to consult in person"
+      "visit for inquiry",
+      "consult through questioning"
     ],
     "SearchAliases": [
-      "to visit and ask questions in person",
-      "to consult in person"
+      "visit and question for instruction"
     ],
     "Status": "preferred",
-    "Note": "The phrase names going in person to consult and put questions, including biographies that record whom a student visited or that he questioned nobody.",
-    "CreatedBy": "Codex f004 B1031-1040 full-case repair author",
-    "WrittenUtc": "2026-07-15T15:42:24.584850+00:00"
+    "Note": "Visit and question for instruction names inquiry carried out by approaching someone and asking about the matter.",
+    "CreatedBy": "Codex lamp-only canary010 lane C",
+    "WrittenUtc": "2026-07-28T21:00:00Z"
   },
   {
     "SourceTerm": "參善知識",
