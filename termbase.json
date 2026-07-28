@@ -415,14 +415,12 @@
     ],
     "SearchAliases": [
       "question answer",
-      "one exchange",
-      "public interview",
-      "question and response"
+      "one exchange"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
-    "CreatedBy": "Codex f003 Lane C evidence-first",
-    "WrittenUtc": "2026-07-15T04:31:08.939246+00:00"
+    "Note": "The phrase names the paired structure itself; the records then judge its continuity, appraisal, or limitations.",
+    "CreatedBy": "Codex lamp-repair canary003 lane A",
+    "WrittenUtc": "2026-07-28T20:00:00Z"
   },
   {
     "SourceTerm": "一喝",
