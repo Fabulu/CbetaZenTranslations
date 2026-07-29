@@ -4190,21 +4190,16 @@
   },
   {
     "SourceTerm": "不與萬法為侶",
-    "PreferredTarget": "not be a companion to the myriad things",
-    "AlternateTargets": [
-      "the one who is not a companion to the myriad things"
-    ],
+    "PreferredTarget": "keeps no company with the myriad things",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "not companion to the ten thousand things",
-      "who is not companion to all things",
-      "not partner with the myriad things",
-      "Pang's myriad things question",
-      "swallow the West River"
+      "not companion to the myriad things",
+      "who keeps no company with all things"
     ],
     "Status": "preferred",
-    "Note": "Guanyin is Letan Huaicheng’s recorded answer, not the dictionary definition of the expression.",
-    "CreatedBy": "Codex fresh-build lane C",
-    "WrittenUtc": null
+    "Note": "The wording belongs to Pang's inherited question when quoted, while each later speaker's instruction or comment remains separately attributed.",
+    "CreatedBy": "R18 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-30T02:00:00Z"
   },
   {
     "SourceTerm": "不落因果",
@@ -21947,15 +21942,16 @@
   },
   {
     "SourceTerm": "屈曲垂帶",
-    "PreferredTarget": "bend down and lower a guiding line",
+    "PreferredTarget": "the bent-down accommodating belt",
     "AlternateTargets": [],
     "SearchAliases": [
-      "bend down and lower a guiding line"
+      "accommodating bent belt",
+      "lowering oneself to respond"
     ],
     "Status": "preferred",
-    "Note": "Keep this named 帶 category distinct from the coordinated technical modes. No lamp is retained.",
-    "CreatedBy": "V7 batch68 admitted11 constructor C",
-    "WrittenUtc": "2026-07-29T15:05:00Z"
+    "Note": "The retained passages make this a named member of the Nine Belts, not an ordinary mention of a bent sash.",
+    "CreatedBy": "R18 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-30T02:00:00Z"
   },
   {
     "SourceTerm": "屋北鹿獨宿",
@@ -23425,18 +23421,16 @@
   },
   {
     "SourceTerm": "廓清五蘊",
-    "PreferredTarget": "sweep the five aggregates clear",
-    "AlternateTargets": [
-      "clear away the five aggregates"
-    ],
+    "PreferredTarget": "clear out the five aggregates",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "sweep the five aggregates clear",
-      "clear away the five aggregates"
+      "clear the five aggregates completely",
+      "sweep the five aggregates clear"
     ],
     "Status": "preferred",
-    "Note": "One speaker criticizes the formula's explanatory use while another endorses it; preserve that disagreement.",
-    "CreatedBy": "Codex Batch40 construction C",
-    "WrittenUtc": "2026-07-29T06:01:13.766080Z"
+    "Note": "The phrase is a stated result or appraisal in these passages; the later raisers remain distinct from the quoted speakers.",
+    "CreatedBy": "R18 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-30T02:00:00Z"
   },
   {
     "SourceTerm": "廓然無聖",
@@ -39982,15 +39976,16 @@
   },
   {
     "SourceTerm": "潘閬倒騎驢",
-    "PreferredTarget": "Pan Lang rides a donkey backward",
+    "PreferredTarget": "Pan Lang riding a donkey backward",
     "AlternateTargets": [],
     "SearchAliases": [
-      "Pan Lang rides a donkey backward"
+      "Pan Lang backward on a donkey",
+      "Pan Lang's backward donkey ride"
     ],
     "Status": "preferred",
-    "Note": "潘閬 is the named poet and 倒騎 describes his reversed seat or orientation; retain local warnings about looking back rather than assigning one universal symbolism. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The texts leave the image as a compact allusion; this entry does not turn it into a doctrine of reversal.",
+    "CreatedBy": "R18 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-30T02:00:00Z"
   },
   {
     "SourceTerm": "澄潭不許蒼龍蟠",
@@ -68479,12 +68474,12 @@
     "AlternateTargets": [],
     "SearchAliases": [
       "phoenix caught in a golden net",
-      "splendid restraint"
+      "golden-netted phoenix"
     ],
     "Status": "preferred",
-    "Note": "Preserve both the noble bird and the precious restraint. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The surrounding passages supply entanglement and frustrated flight; no separate symbolic doctrine is added.",
+    "CreatedBy": "R18 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-30T02:00:00Z"
   },
   {
     "SourceTerm": "鳶飛魚躍",
