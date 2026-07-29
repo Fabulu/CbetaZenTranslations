@@ -24667,6 +24667,19 @@
     "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
   },
   {
+    "SourceTerm": "懸羊賣狗",
+    "PreferredTarget": "hang up mutton while selling dog meat",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "hang mutton sell dog meat",
+      "false display"
+    ],
+    "Status": "preferred",
+    "Note": "Govern the longer wording as the same false-display idiom. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "懸羊頭、賣狗肉",
     "PreferredTarget": "hang up a sheep's head and sell dog meat",
     "AlternateTargets": [
