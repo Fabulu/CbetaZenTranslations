@@ -19852,6 +19852,18 @@
     "WrittenUtc": "2026-07-18T09:10:01.363005Z"
   },
   {
+    "SourceTerm": "孤峯獨宿",
+    "PreferredTarget": "lodge alone on a solitary peak",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "lodge alone on a solitary peak"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the four-graph image; 孤峯 is the place and 獨宿 the action, but neither alone carries the complete deployment. The Tier-3 lineage witness is supplementary corroboration behind the controlling Tier-2 recorded saying and does not upgrade validation.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "孤峰頂上",
     "PreferredTarget": "on the summit of a solitary peak",
     "AlternateTargets": [],
@@ -41422,6 +41434,18 @@
     "WrittenUtc": "2026-07-18T17:35:02Z"
   },
   {
+    "SourceTerm": "特地隔天涯",
+    "PreferredTarget": "places it worlds apart",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "places it worlds apart"
+    ],
+    "Status": "preferred",
+    "Note": "Yongjue Yuanxian's Tier-2 verse places the phrase after 底事明明無向背; the Tier-3 witness preserves Gushan Shenyan's distinct 若論佛與祖 deployment only as corroboration.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "牽枝引蔓",
     "PreferredTarget": "dragging in branches and vines",
     "AlternateTargets": [
@@ -60590,6 +60614,18 @@
     "Note": "Two independent Tier-2 recorded-sayings deployments preserve the normalized 翻 form; the headword's 飜 is an orthographic variant and lamp rows are omitted.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T12:00:00Z"
+  },
+  {
+    "SourceTerm": "釣竿斫盡重栽竹",
+    "PreferredTarget": "when the fishing rods are all cut down, plant bamboo again",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "when the fishing rods are all cut down, plant bamboo again"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 不計功程得便休 as the recurrent second half; 釣竿 and 栽竹 separately do not carry the renewal image. Two independent Tier-2 direct records control the sense; no lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "釣魚船上謝三郎",
