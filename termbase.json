@@ -7767,15 +7767,15 @@
   },
   {
     "SourceTerm": "倒腹傾腸",
-    "PreferredTarget": "turn out the belly and pour out the bowels",
+    "PreferredTarget": "turn out belly and bowels",
     "AlternateTargets": [],
     "SearchAliases": [
-      "pour out everything one has to say"
+      "pour out belly and bowels"
     ],
     "Status": "preferred",
-    "Note": "傾腸 and 傾心 are related but non-identical; one best low-tier verse family is retained.",
-    "CreatedBy": "V7 batch71 admitted20 constructor B",
-    "WrittenUtc": "2026-07-29T17:20:00Z"
+    "Note": "The records apply the phrase both approvingly and critically; it describes exhaustive disclosure, not whether the hearer understands or accepts it.",
+    "CreatedBy": "R05 fresh depth regeneration B",
+    "WrittenUtc": "2026-07-29T19:15:00Z"
   },
   {
     "SourceTerm": "倒退三千",
@@ -60068,15 +60068,15 @@
   },
   {
     "SourceTerm": "遇貴即賤",
-    "PreferredTarget": "meeting what is precious, make it cheap",
+    "PreferredTarget": "meeting the noble, become lowly",
     "AlternateTargets": [],
     "SearchAliases": [
-      "when meeting the precious make it cheap"
+      "when meeting the precious become cheap"
     ],
     "Status": "preferred",
-    "Note": "遇賤即貴 and 變金成土 form its explicit self-explanation; parallel lamps are one family.",
-    "CreatedBy": "V7 batch71 admitted20 constructor B",
-    "WrittenUtc": "2026-07-29T17:20:00Z"
+    "Note": "貴 and 賤 can concern social standing, value, or the rank assigned to what appears; preserve the local contrast instead of fixing one domain.",
+    "CreatedBy": "R05 fresh depth regeneration B",
+    "WrittenUtc": "2026-07-29T19:15:00Z"
   },
   {
     "SourceTerm": "遇賤即貴",
