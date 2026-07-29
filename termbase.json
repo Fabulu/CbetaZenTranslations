@@ -29992,6 +29992,18 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "收虎尾",
+    "PreferredTarget": "seize the tiger's tail",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "seize the tiger's tail"
+    ],
+    "Status": "preferred",
+    "Note": "The Tier-2 use controls; the lamp application is passive corroboration only.",
+    "CreatedBy": "V7 batch67 admitted14 constructor C",
+    "WrittenUtc": "2026-07-29T14:50:00Z"
+  },
+  {
     "SourceTerm": "收虎尾兮捋虎鬚",
     "PreferredTarget": "gather in the tiger’s tail and stroke its whiskers",
     "AlternateTargets": [
@@ -44890,6 +44902,18 @@
     "Note": "Brows spread outward like the two strokes of the graph for eight, used in answers about Zen, illumination, the first line, and buddha.",
     "CreatedBy": "Codex cohort002 lane C clean full-case author",
     "WrittenUtc": "2026-07-19T00:40:37.009445Z"
+  },
+  {
+    "SourceTerm": "眉毛上透乾坤",
+    "PreferredTarget": "the eyebrows penetrate heaven and earth above",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "eyebrows penetrate heaven and earth above"
+    ],
+    "Status": "preferred",
+    "Note": "Parallel editions preserve one Yunmen discourse, not independent events.",
+    "CreatedBy": "V7 batch67 admitted14 constructor C",
+    "WrittenUtc": "2026-07-29T14:50:00Z"
   },
   {
     "SourceTerm": "眉毛在麼",
