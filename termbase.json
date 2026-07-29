@@ -718,6 +718,36 @@
     "WrittenUtc": "2026-07-19T03:37:28.430726+00:00"
   },
   {
+    "SourceTerm": "一大藏教是箇切脚",
+    "PreferredTarget": "the entire canon is a lower phonetic speller",
+    "AlternateTargets": [
+      "the entire canon is the lower half of a fanqie spelling"
+    ],
+    "SearchAliases": [
+      "the entire canon is a lower phonetic speller",
+      "the entire canon is the lower half of a fanqie spelling"
+    ],
+    "Status": "preferred",
+    "Note": "One canon-as-lower-speller question family; all recorded answer variants count once. 切脚 is fanqie terminology, not an anatomical foot.",
+    "CreatedBy": "source_tiers_a_batch26",
+    "WrittenUtc": "2026-07-29T07:00:00Z"
+  },
+  {
+    "SourceTerm": "一大藏教詮註不及",
+    "PreferredTarget": "the entire Buddhist canon cannot explain it",
+    "AlternateTargets": [
+      "the whole canon cannot annotate it"
+    ],
+    "SearchAliases": [
+      "entire canon cannot explain",
+      "whole Buddhist canon cannot annotate"
+    ],
+    "Status": "preferred",
+    "Note": "This is not a neutral definition of the canon; collapse Yuanwu recensions of the same address into one family.",
+    "CreatedBy": "source_tiers_c_batch26",
+    "WrittenUtc": null
+  },
+  {
     "SourceTerm": "一子親得",
     "PreferredTarget": "one son personally obtained it",
     "AlternateTargets": [],
@@ -9702,6 +9732,21 @@
     "Note": "This is the appearance of a buddha or sage in an age, not appointment to a monastery.",
     "CreatedBy": "Codex f003 Lane A full-case author",
     "WrittenUtc": "2026-07-15T08:07:54.381562+00:00"
+  },
+  {
+    "SourceTerm": "出家乃大丈夫事",
+    "PreferredTarget": "leaving home is the undertaking of a great person",
+    "AlternateTargets": [
+      "going forth is the affair of a great person"
+    ],
+    "SearchAliases": [
+      "leaving home is the undertaking of a great person",
+      "going forth is the affair of a great person"
+    ],
+    "Status": "preferred",
+    "Note": "One inherited paired-maxim family: 出家乃大丈夫事，非將相之所能為. Preserve the full paired continuation when attested.",
+    "CreatedBy": "source_tiers_a_batch26",
+    "WrittenUtc": "2026-07-29T07:00:00Z"
   },
   {
     "SourceTerm": "出息不保入息",
@@ -20322,6 +20367,21 @@
     "Status": "preferred",
     "Note": "The expression appears in replies, questions, hall statements, raised cases, and commentary; in each, the local predicate determines what the landscape is said to do.",
     "CreatedBy": "Codex fresh-build lane C",
+    "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "山河大地甚處得來",
+    "PreferredTarget": "where could the mountains, rivers, and great earth come from?",
+    "AlternateTargets": [
+      "where could the mountains, rivers, and earth have come from?"
+    ],
+    "SearchAliases": [
+      "Yunmen's staff becomes a dragon",
+      "staff-dragon swallows heaven and earth"
+    ],
+    "Status": "preferred",
+    "Note": "Do not generalize the line into an arbitrary landscape question; collapse all retellings of this staff-dragon case.",
+    "CreatedBy": "source_tiers_c_batch26",
     "WrittenUtc": null
   },
   {
@@ -41078,6 +41138,21 @@
     "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
   },
   {
+    "SourceTerm": "睡夢中作得主麼",
+    "PreferredTarget": "can you remain master while dreaming?",
+    "AlternateTargets": [
+      "can you be in command in your dreams?"
+    ],
+    "SearchAliases": [
+      "master in dreams",
+      "Gaofeng three-state examination"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the full three-state progression and collapse later retellings into one examination family.",
+    "CreatedBy": "source_tiers_c_batch26",
+    "WrittenUtc": null
+  },
+  {
     "SourceTerm": "睹明星",
     "PreferredTarget": "to see the morning star",
     "AlternateTargets": [
@@ -58300,6 +58375,21 @@
     "Note": "Mount Sumeru is glossed as the world-centre mountain. Wuzu remains the quoted answerer, distinct from the later raiser or verse author.",
     "CreatedBy": "u2_261_270_author_v1",
     "WrittenUtc": "2026-07-20T12:00:00Z"
+  },
+  {
+    "SourceTerm": "須彌頂上浪滔天",
+    "PreferredTarget": "waves surge to the sky on Mount Sumeru's summit",
+    "AlternateTargets": [
+      "sky-high waves on Sumeru's summit"
+    ],
+    "SearchAliases": [
+      "waves surge to the sky on Mount Sumeru's summit",
+      "sky-high waves on Sumeru's summit"
+    ],
+    "Status": "preferred",
+    "Note": "One Sumeru-waves impossible-image family, including paired 大洋海底 fire or dust recensions. Ocean-fire and ocean-dust pairings are recensions, not separate senses.",
+    "CreatedBy": "source_tiers_a_batch26",
+    "WrittenUtc": "2026-07-29T07:00:00Z"
   },
   {
     "SourceTerm": "須菩提",
