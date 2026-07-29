@@ -747,18 +747,16 @@
   },
   {
     "SourceTerm": "一大藏教詮註不及",
-    "PreferredTarget": "the entire Buddhist canon cannot explain it",
-    "AlternateTargets": [
-      "the whole canon cannot annotate it"
-    ],
+    "PreferredTarget": "the entire canon cannot explicate it",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "entire canon cannot explain",
-      "whole Buddhist canon cannot annotate"
+      "the whole canon cannot annotate it",
+      "all scripture cannot explain it"
     ],
     "Status": "preferred",
-    "Note": "This is not a neutral definition of the canon; collapse Yuanwu recensions of the same address into one family.",
-    "CreatedBy": "source_tiers_c_batch26",
-    "WrittenUtc": null
+    "Note": "The formula does not say the canon contains no explanations. It says those explanations fail to reach the specific matter being pressed in the address.",
+    "CreatedBy": "R29 bounded clean constructor",
+    "WrittenUtc": "2026-07-30T13:25:00Z"
   },
   {
     "SourceTerm": "一子親得",
@@ -14935,16 +14933,15 @@
   },
   {
     "SourceTerm": "哭聲師已曉",
-    "PreferredTarget": "Master, you have already understood the crying",
+    "PreferredTarget": "the teacher has already understood the crying",
     "AlternateTargets": [],
     "SearchAliases": [
-      "Master, you have already understood the crying",
-      "the teacher already knows the crying"
+      "the master already understands the cry"
     ],
     "Status": "preferred",
-    "Note": "Bind 已曉復誰知 and the Magadha/current-opportunity continuation; 師 addresses Zhaozhou and is not the verse's narrator. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "All exact corpus hits belong to this one inherited exchange. Four useful Tier-2 reception witnesses satisfy the display-depth requirement, but they remain one deployment family and therefore do not manufacture multi-source validation.",
+    "CreatedBy": "R29 bounded clean constructor",
+    "WrittenUtc": "2026-07-30T13:25:00Z"
   },
   {
     "SourceTerm": "唐喪光陰",
@@ -39936,18 +39933,16 @@
   },
   {
     "SourceTerm": "潑天門戶",
-    "PreferredTarget": "a vast, sky-filling gateway",
-    "AlternateTargets": [
-      "an immense gateway"
-    ],
+    "PreferredTarget": "immense gateway",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "a vast, sky-filling gateway",
-      "an immense gateway"
+      "vast establishment",
+      "immense monastic house"
     ],
     "Status": "preferred",
-    "Note": "潑天 marks immense extent, not literal splashing; 門戶 may retain both gateway and house or lineage associations.",
-    "CreatedBy": "Codex Batch42 lane-B construction",
-    "WrittenUtc": "2026-07-29T06:21:15.309208Z"
+    "Note": "The four retained uses show the institutional image through supporting, claiming, entering, and opening the gateway.",
+    "CreatedBy": "R29 bounded clean constructor",
+    "WrittenUtc": "2026-07-30T13:25:00Z"
   },
   {
     "SourceTerm": "潘閬倒騎驢",
