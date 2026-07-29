@@ -7458,6 +7458,18 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "俗氣也不除",
+    "PreferredTarget": "the vulgar air still has not been cleared away",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the vulgar air still has not been cleared away"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase judges a residual manner exposed by the local answer or history; it is not a class label for laypeople and 俗氣 should not be flattened into literal breath. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "保任",
     "PreferredTarget": "to guard and maintain",
     "AlternateTargets": [
@@ -11041,6 +11053,18 @@
     "WrittenUtc": "2026-07-18T15:20:00Z"
   },
   {
+    "SourceTerm": "劍為不平離寶匣",
+    "PreferredTarget": "for injustice, the sword leaves its precious scabbard",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "for injustice, the sword leaves its precious scabbard"
+    ],
+    "Status": "preferred",
+    "Note": "Govern 藥因救病出金瓶 as the recurrent second half and preserve the sword's departure from the scabbard as responsive action, not a general endorsement of violence. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "劍爲不平離寶匣、藥因救病出金瓶",
     "PreferredTarget": "a sword leaving its jeweled box for injustice and medicine leaving its golden bottle for illness",
     "AlternateTargets": [
@@ -12768,6 +12792,19 @@
     "Note": "The procedure and encounter records support one office sense; only reciprocal installed office relations are admitted.",
     "CreatedBy": "Codex f004 lane C early-sample author",
     "WrittenUtc": "2026-07-15T11:30:22.365371+00:00"
+  },
+  {
+    "SourceTerm": "叉手叮嚀問祖翁",
+    "PreferredTarget": "hands folded, earnestly question the ancestral elder",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "hands folded, earnestly question the ancestral elder",
+      "The second line of Wuzu Fayan's land-and-deed realization verse, presenting deferential but insistent questioning of the ancestral elder about an unclear title deed"
+    ],
+    "Status": "preferred",
+    "Note": "Gesture, repeated urgency, and ancestral addressee form one dramatic action. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "叉手當胸",
@@ -29895,6 +29932,18 @@
     "WrittenUtc": "2026-07-27T22:15:00Z"
   },
   {
+    "SourceTerm": "旋斫生柴帶葉燒",
+    "PreferredTarget": "freshly chop green firewood and burn it with the leaves still on",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "freshly chop green firewood and burn it with the leaves still on"
+    ],
+    "Status": "preferred",
+    "Note": "旋 means done on the spot or as needed, 生柴 is unseasoned green firewood, and 帶葉 means with leaves still attached; do not normalize the line into efficient firewood preparation. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "日上無雲，麗天普照，眼中無翳，空裏無花",
     "PreferredTarget": "sun risen without clouds and shining throughout the sky, with no film in the eye and no flowers in empty space",
     "AlternateTargets": [],
@@ -37622,6 +37671,18 @@
     "WrittenUtc": "2026-07-17T16:30:22.041434+00:00"
   },
   {
+    "SourceTerm": "漿水錢且置",
+    "PreferredTarget": "set aside the money for the gruel-water",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "set aside the money for the gruel-water"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the continuation 草鞋錢教什麼人還; 漿水 is the provided drink or thin gruel-water, while 且置 means bracket that smaller debt for the moment. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "潑天門戶",
     "PreferredTarget": "a vast, sky-filling gateway",
     "AlternateTargets": [
@@ -39396,6 +39457,18 @@
     "Note": "Sense and actor decisions were made from complete stored contexts before prose compilation.",
     "CreatedBy": "Codex f004 lane C evidence-first full-context canary",
     "WrittenUtc": "2026-07-15T09:49:09.804467+00:00"
+  },
+  {
+    "SourceTerm": "燒鼎洞中樵",
+    "PreferredTarget": "for firing the cauldron, cave-country firewood",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "for firing the cauldron, cave-country firewood"
+    ],
+    "Status": "preferred",
+    "Note": "Read 樵 here as gathered firewood or fuel wood, not automatically as the woodcutter; preserve the parallel with 煮茶山下水. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "燕語鶯啼",
@@ -45275,6 +45348,18 @@
     "Note": "The retained uses preserve the seasonal scene and test whether it fits an actual turn or time; they do not give autumn wind, Wei River, leaves, or Chang'an one invariant symbolic value.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T18:45:00Z"
+  },
+  {
+    "SourceTerm": "秤尾無星",
+    "PreferredTarget": "no graduation mark on the end of the steelyard",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "no graduation mark on the end of the steelyard"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the steelyard and its missing calibration mark. It is not a generic statement that a scale is broken, and local hook-and-bait imagery remains a companion rather than part of the headword. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "秤錘",
@@ -58581,6 +58666,18 @@
     "Note": "The direct Zhaozhou exchange is preserved as a claim anchor because its longer formula 鎮州出大蘿蔔頭 is not an exact occurrence of this shorter headword. The Five Lamps Compendium and Strict Lineage of the Five Lamps repeat one Shoushan Xingnian answer and count as one deployment; later addresses and verses are distinct uses.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:30:59.686577+00:00"
+  },
+  {
+    "SourceTerm": "鎮海明珠",
+    "PreferredTarget": "the luminous pearl that calms the sea",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the luminous pearl that calms the sea"
+    ],
+    "Status": "preferred",
+    "Note": "Bind Guangnan, the bright/dark lunar phases, and the request to present the pearl as the case family; this is not ordinary jewelry description. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "鏡水圖山",
