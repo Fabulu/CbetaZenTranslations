@@ -14269,6 +14269,18 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "吹折門前一株松",
+    "PreferredTarget": "the wind snapped a pine before the gate",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the wind snapped a pine before the gate"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 夜來好風 and the concluding 一得一失 when explaining the case; an ordinary storm-damage report is not the lexical job. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "吹毛劍",
     "PreferredTarget": "a sword that cuts a blown hair",
     "AlternateTargets": [
@@ -49618,7 +49630,7 @@
       "instead, it makes attainment come late"
     ],
     "Status": "preferred",
-    "Note": "Provisional lamp-only sense supported by two independent Tier-3 deployments; no Tier 1/2 controller was found and no padding is permitted. Keep it governed by 祇為分明極; do not generalize it into a rule that clarity always obstructs.",
+    "Note": "Two independent Tier-2 deployments control this entry; no lower-tier fallback is retained. Keep it governed by 只為分明極; do not generalize it into a rule that clarity always obstructs.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
@@ -57516,7 +57528,7 @@
       "to leap for joy, bow, and give thanks"
     ],
     "Status": "preferred",
-    "Note": "Provisional lamp-only sense; two independent deployments, no doctrinal padding. No lamp is retained.",
+    "Note": "Two independent Tier-2 deployments control this entry; no lower-tier fallback is retained. Keep all three actions together; 禮謝 alone is a broader act of thanks.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
