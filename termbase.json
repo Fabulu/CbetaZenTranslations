@@ -8432,6 +8432,22 @@
     "WrittenUtc": "2026-07-19T12:00:00Z"
   },
   {
+    "SourceTerm": "克由叵耐",
+    "PreferredTarget": "an exasperated rebuke",
+    "AlternateTargets": [
+      "an outburst of sharp disapproval"
+    ],
+    "SearchAliases": [
+      "克由尀耐",
+      "sharp exasperation",
+      "rebuking exclamation"
+    ],
+    "Status": "preferred",
+    "Note": "The English force is contextual and provisional. 克由尀耐 is a graphic alias of this one identity; the excluded Japanese D46 witness supplies no evidence.",
+    "CreatedBy": "Codex Batch38 lane-A construction",
+    "WrittenUtc": "2026-07-29T05:37:11.487597Z"
+  },
+  {
     "SourceTerm": "兒孫",
     "PreferredTarget": "sons and descendants of the lineage",
     "AlternateTargets": [],
@@ -10210,6 +10226,21 @@
     "Note": "Take great care not to say it warns that verbalizing the point would immediately betray it.",
     "CreatedBy": "Codex Lane B B101-B105 full-case author",
     "WrittenUtc": "2026-07-18T15:00:00+00:00"
+  },
+  {
+    "SourceTerm": "列列挈挈",
+    "PreferredTarget": "unencumbered and at ease",
+    "AlternateTargets": [
+      "loose and untroubled"
+    ],
+    "SearchAliases": [
+      "unencumbered and at ease",
+      "loose and untroubled"
+    ],
+    "Status": "preferred",
+    "Note": "The rendering is provisional because the form is opaque; retain its contextual partners and do not derive it graph by graph.",
+    "CreatedBy": "Codex Batch38 construction C",
+    "WrittenUtc": "2026-07-29T05:38:28.446439Z"
   },
   {
     "SourceTerm": "初參",
@@ -26100,6 +26131,21 @@
     "WrittenUtc": "2026-07-15T05:30:00Z"
   },
   {
+    "SourceTerm": "拖犁拽耙",
+    "PreferredTarget": "dragging a plow and pulling a harrow",
+    "AlternateTargets": [
+      "doing draft labor with plow and harrow"
+    ],
+    "SearchAliases": [
+      "drag plow pull harrow",
+      "draft-animal labor"
+    ],
+    "Status": "preferred",
+    "Note": "The physical labor is the semantic floor. Repayment of monastic support belongs to Lingji Xingguan's context and is not a second lexical meaning.",
+    "CreatedBy": "Codex Batch38 lane-A construction",
+    "WrittenUtc": "2026-07-29T05:37:11.487597Z"
+  },
+  {
     "SourceTerm": "拗折拄杖、高掛鉢嚢",
     "PreferredTarget": "break the staff and hang the bowl-bag high",
     "AlternateTargets": [
@@ -26541,6 +26587,21 @@
     "Note": "The corpus has 50 exact occurrences in 28 allowlisted files. Direct definition and contrast evidence is multi-source. It commonly occurs in the fixed pair “dull sinking and agitation” ; spelling of the first member varies, while the written form for “agitation” is stable.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-15T13:00:00Z"
+  },
+  {
+    "SourceTerm": "掘地深埋",
+    "PreferredTarget": "dig into the ground and bury it deep",
+    "AlternateTargets": [
+      "bury it deep"
+    ],
+    "SearchAliases": [
+      "dig into the ground and bury it deep",
+      "bury it deep"
+    ],
+    "Status": "preferred",
+    "Note": "One direct Tier-2 active-commentary family controls; preserve the burial image and do not add lamp padding.",
+    "CreatedBy": "Codex Batch38 construction C",
+    "WrittenUtc": "2026-07-29T05:38:28.446439Z"
   },
   {
     "SourceTerm": "掛搭",
@@ -27903,6 +27964,21 @@
     "Note": "In the Extended Record of Yongjue Yuanxian, Yongjue quotes \"gathering the mind is called restraint\" (攝心名戒), then challenges it point by point: \"what thing is mind that it can be gathered? What thing is gathering that it can gather mind? Water does not wash water\" (心是何物而可攝？攝又是何物而可攝心？水不洗水). Yongming Yanshou's Source-Mirror Record states that before reaching its stated gate, \"saying right makes wrong; gathering the mind is still an error\" (說是成非，攝心猶錯). Shiwu Qinggong's community verse retains the ordinary finite action by listing chanting and \"gathering the mind to drive off sleep\" (攝心除睡). Counted forms include \"gathering the mind is called restraint\" (攝心名戒, two occurrences in two texts), \"gather the mind to drive off sleep\" (攝心除睡, two in two), \"the way of gathering the mind\" (攝心之法, one), \"place of gathering the mind\" (攝心處, one), and \"gather the mind and illuminate within\" (攝心內照, three in three). The entry records the action and the texts' own challenges without resolving those challenges into an external system.",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": "2026-07-19T03:35:56.679037+00:00"
+  },
+  {
+    "SourceTerm": "攢花簇錦",
+    "PreferredTarget": "cluster flowers and mass brocade",
+    "AlternateTargets": [
+      "pile on ornate embellishment"
+    ],
+    "SearchAliases": [
+      "cluster flowers and mass brocade",
+      "pile on ornate embellishment"
+    ],
+    "Status": "preferred",
+    "Note": "The Tier-2 contrast permits criticism or ceremonial use; do not make ornament automatically blameworthy.",
+    "CreatedBy": "Codex Batch38 construction C",
+    "WrittenUtc": "2026-07-29T05:38:28.446439Z"
   },
   {
     "SourceTerm": "攧殺黃番綽",
@@ -42179,6 +42255,21 @@
     "WrittenUtc": "2026-07-19T03:44:39.755866+00:00"
   },
   {
+    "SourceTerm": "矮子看戲",
+    "PreferredTarget": "a short person watching a play",
+    "AlternateTargets": [
+      "an obstructed spectator"
+    ],
+    "SearchAliases": [
+      "a short person watching a play",
+      "an obstructed spectator"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the obstructed-spectator image without turning short stature into a moral defect.",
+    "CreatedBy": "Codex Batch38 construction C",
+    "WrittenUtc": "2026-07-29T05:38:28.446439Z"
+  },
+  {
     "SourceTerm": "矮子看戲、隨人上下",
     "PreferredTarget": "a short man watching a play, rising and falling with everyone else",
     "AlternateTargets": [],
@@ -45032,6 +45123,21 @@
     "WrittenUtc": "2026-07-17T10:25:51.482032+00:00"
   },
   {
+    "SourceTerm": "紙撚無油",
+    "PreferredTarget": "a paper spill with no oil",
+    "AlternateTargets": [
+      "a paper wick with no oil"
+    ],
+    "SearchAliases": [
+      "paper spill without oil",
+      "paper wick without oil"
+    ],
+    "Status": "preferred",
+    "Note": "One Tier-2 active-commentary family controls. Preserve the paper-spill and absent-oil image and keep Dongshan’s answer distinct from Fayan’s appraisal and verse.",
+    "CreatedBy": "Codex Batch38 construction A",
+    "WrittenUtc": "2026-07-29T05:37:39.360015Z"
+  },
+  {
     "SourceTerm": "索短不搆深泉",
     "PreferredTarget": "a short rope does not reach a deep well",
     "AlternateTargets": [
@@ -46295,6 +46401,21 @@
     "Note": "“A command tally held behind the elbow” names authority kept ready but not displayed in front. The records pair it with an eye in the crown when judging whether someone can distinguish, command, and cut off before events unfold.",
     "CreatedBy": "Codex cohort002 lane C clean full-case author",
     "WrittenUtc": "2026-07-19T00:23:04.699060Z"
+  },
+  {
+    "SourceTerm": "肝膽向人傾",
+    "PreferredTarget": "pour out one's heart to another",
+    "AlternateTargets": [
+      "expose one's inmost intent"
+    ],
+    "SearchAliases": [
+      "pour out one's heart to another",
+      "expose one's inmost intent"
+    ],
+    "Status": "preferred",
+    "Note": "The organs form an idiom of candor, not a literal anatomical action.",
+    "CreatedBy": "Codex Batch38 construction C",
+    "WrittenUtc": "2026-07-29T05:38:28.446439Z"
   },
   {
     "SourceTerm": "肯心",
@@ -61790,6 +61911,21 @@
     "Note": "Two witnesses reproduce the same Dahui exchange, so they count as one deployment; Dabian supplies the independent second use.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T12:00:00Z"
+  },
+  {
+    "SourceTerm": "鹽貴米賤",
+    "PreferredTarget": "salt is dear and rice is cheap",
+    "AlternateTargets": [
+      "salt is expensive, rice is cheap"
+    ],
+    "SearchAliases": [
+      "salt is dear and rice is cheap",
+      "salt is expensive, rice is cheap"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase literally reports prices. Its case job comes from the surrounding refusal to manufacture something remarkable.",
+    "CreatedBy": "Codex Batch38 construction C",
+    "WrittenUtc": "2026-07-29T05:38:28.446439Z"
   },
   {
     "SourceTerm": "麁飡易飽。細嚼難飢",
