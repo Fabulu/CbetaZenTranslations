@@ -5021,6 +5021,20 @@
     "WrittenUtc": "2026-07-16T18:02:03.790361+00:00"
   },
   {
+    "SourceTerm": "亂世英雄",
+    "PreferredTarget": "a hero in chaotic times",
+    "AlternateTargets": [
+      "a hero of troubled times"
+    ],
+    "SearchAliases": [
+      "a hero of troubled times"
+    ],
+    "Status": "preferred",
+    "Note": "The expression is often ironic or double-edged, not simple praise. Its force comes from judging conduct against its conditions: what looks heroic amid disorder may itself be violent or out of place.",
+    "CreatedBy": "R10 clean-regeneration through canonical worksheet promotion B",
+    "WrittenUtc": "2026-07-30T10:30:00Z"
+  },
+  {
     "SourceTerm": "亂呈懞袋",
     "PreferredTarget": "spill out a muddle-bag",
     "AlternateTargets": [
@@ -25499,6 +25513,20 @@
     "WrittenUtc": "2026-07-20T14:30:00Z"
   },
   {
+    "SourceTerm": "恩逾父母",
+    "PreferredTarget": "kindness surpassing that of parents",
+    "AlternateTargets": [
+      "grace exceeding that of one's parents"
+    ],
+    "SearchAliases": [
+      "grace exceeding that of one's parents"
+    ],
+    "Status": "preferred",
+    "Note": "The comparison magnifies a teacher's benefit; it does not depreciate parents. In the Xiangyan story, the surpassing kindness is the refusal to supply a second-hand answer.",
+    "CreatedBy": "R10 clean-regeneration through canonical worksheet promotion B",
+    "WrittenUtc": "2026-07-30T10:30:00Z"
+  },
+  {
     "SourceTerm": "悉唎悉唎",
     "PreferredTarget": "sili, sili",
     "AlternateTargets": [],
@@ -39540,6 +39568,20 @@
     "WrittenUtc": "2026-07-21T00:00:00Z"
   },
   {
+    "SourceTerm": "滄海也須乾",
+    "PreferredTarget": "even the blue sea would have to dry up",
+    "AlternateTargets": [
+      "even the ocean would run dry"
+    ],
+    "SearchAliases": [
+      "even the ocean would run dry"
+    ],
+    "Status": "preferred",
+    "Note": "The sea dries because of the imagined quantity of tears. The expression can carry real memorial grief or work as an exaggerated critical punchline; context decides the tone.",
+    "CreatedBy": "R10 clean-regeneration through canonical worksheet promotion B",
+    "WrittenUtc": "2026-07-30T10:30:00Z"
+  },
+  {
     "SourceTerm": "滅滅挈挈",
     "PreferredTarget": "a faltering, fragmentary understanding",
     "AlternateTargets": [
@@ -46180,6 +46222,20 @@
     "WrittenUtc": "2026-07-15T16:55:00Z"
   },
   {
+    "SourceTerm": "瞎驢邊滅",
+    "PreferredTarget": "perish beside a blind donkey",
+    "AlternateTargets": [
+      "die out with this blind donkey"
+    ],
+    "SearchAliases": [
+      "die out with this blind donkey"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase is a personal rebuke embedded in a succession scene, not a general label for decline in a teaching. Later uses can quote, criticize, or repurpose Linji's words. The fuller clause commonly adds a resultative complement after the final verb; that complement completes the verbal phrase but does not change the headword's lexical job.",
+    "CreatedBy": "R10 clean-regeneration through canonical worksheet promotion B",
+    "WrittenUtc": "2026-07-30T10:30:00Z"
+  },
+  {
     "SourceTerm": "瞞人",
     "PreferredTarget": "deceive people",
     "AlternateTargets": [
@@ -46931,6 +46987,20 @@
     "Note": "The blue-eyed foreign monk is Bodhidharma as a pointed Chan persona: the foreign founder who faces the wall, smiles or opens his eyes, and is invoked to expose the utterer's claim rather than merely identified historically.",
     "CreatedBy": "Codex Iriya cohort001 Lane B position36 packet author",
     "WrittenUtc": "2026-07-18T07:41:38.276991+00:00"
+  },
+  {
+    "SourceTerm": "磨推西北",
+    "PreferredTarget": "the mill pushes northwest",
+    "AlternateTargets": [
+      "the mill turns toward the northwest"
+    ],
+    "SearchAliases": [
+      "the mill turns toward the northwest"
+    ],
+    "Status": "preferred",
+    "Note": "The mill and mortar move in opposed directions inside one balanced saying. Translate the concrete machinery and direction; do not turn the phrase into a theory of cosmic motion.",
+    "CreatedBy": "R10 clean-regeneration through canonical worksheet promotion B",
+    "WrittenUtc": "2026-07-30T10:30:00Z"
   },
   {
     "SourceTerm": "磨甎作鏡",
