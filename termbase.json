@@ -48707,15 +48707,15 @@
   },
   {
     "SourceTerm": "端坐受供養",
-    "PreferredTarget": "sit upright and receive the offering",
+    "PreferredTarget": "sit upright and receive offerings",
     "AlternateTargets": [],
     "SearchAliases": [
-      "sit upright receiving offerings"
+      "sit straight and receive offerings"
     ],
     "Status": "preferred",
-    "Note": "施主長安樂 is the recurrent completion; generic 受供養 is broader. No lamp is retained.",
-    "CreatedBy": "V7 batch71 admitted20 constructor B",
-    "WrittenUtc": "2026-07-29T17:20:00Z"
+    "Note": "The phrase identifies receipt of offerings while seated upright; it does not by itself identify a mental procedure or guarantee that the support is deserved.",
+    "CreatedBy": "R04 fresh depth regeneration B",
+    "WrittenUtc": "2026-07-29T23:55:00Z"
   },
   {
     "SourceTerm": "端居寰海定龍蛇",
@@ -57381,15 +57381,18 @@
   },
   {
     "SourceTerm": "變生為熟者不易",
-    "PreferredTarget": "the one who turns raw into cooked is not easy",
-    "AlternateTargets": [],
+    "PreferredTarget": "turning raw into cooked is not easy",
+    "AlternateTargets": [
+      "making raw food cooked is not easy"
+    ],
     "SearchAliases": [
-      "turn the raw into cooked"
+      "turning raw into cooked is not easy",
+      "making raw food cooked is not easy"
     ],
     "Status": "preferred",
-    "Note": "Keep the other four list items as governed companions; both witnesses actively work the same inherited Huanglong five-difficulties family.",
-    "CreatedBy": "V7 batch71 admitted20 constructor B",
-    "WrittenUtc": "2026-07-29T17:20:00Z"
+    "Note": "Huanglong places the line between the donor and seated-eater difficulties in a communal-meal sequence. Guxue's answer—one breath cooks enough for a full meal—makes the food operation explicit; the retained evidence does not establish an unfamiliar-to-familiar abstraction.",
+    "CreatedBy": "R04 fresh depth regeneration B",
+    "WrittenUtc": "2026-07-29T23:55:00Z"
   },
   {
     "SourceTerm": "豁然",
