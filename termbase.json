@@ -14341,6 +14341,18 @@
     "WrittenUtc": "2026-07-17T16:30:22.041434+00:00"
   },
   {
+    "SourceTerm": "周匝有餘",
+    "PreferredTarget": "there is more than enough all around",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "there is more than enough all around"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the Fayan/Yunmen contrast as governing context; generic 周匝 and 有餘 are not equivalent entries. 1 Tier-3 lamp/lineage-compilation witness(es) are retained only as corroborative evidence and do not upgrade validation.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "呵佛叱祖",
     "PreferredTarget": "scold the Buddha and berate the patriarchs",
     "AlternateTargets": [],
@@ -39130,6 +39142,18 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "焉能出蓋纏",
+    "PreferredTarget": "how could that escape the coverings and entanglements?",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "how could that escape the coverings and entanglements?"
+    ],
+    "Status": "preferred",
+    "Note": "Bind the question to its recurrent 語不離窠臼 or 語不離巢道 premise; 蓋纏 alone is broader Buddhist vocabulary. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "焚香",
     "PreferredTarget": "burn incense",
     "AlternateTargets": [
@@ -45289,6 +45313,18 @@
     "WrittenUtc": "2026-07-19T03:44:39.755866+00:00"
   },
   {
+    "SourceTerm": "短棹孤舟",
+    "PreferredTarget": "a short oar and solitary boat",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a short oar and solitary boat"
+    ],
+    "Status": "preferred",
+    "Note": "Keep both the short oar and solitary boat; neither 短棹 nor 孤舟 alone establishes this deployment. 1 Tier-3 lamp/lineage-compilation witness(es) are retained only as corroborative evidence and do not upgrade validation.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "矮子看戲",
     "PreferredTarget": "a short person watching a play",
     "AlternateTargets": [
@@ -49071,6 +49107,18 @@
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
   {
+    "SourceTerm": "缺齒老胡",
+    "PreferredTarget": "the gap-toothed old barbarian",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the gap-toothed old barbarian"
+    ],
+    "Status": "preferred",
+    "Note": "Treat it as a Bodhidharma epithet, not a generic description of any old foreigner with missing teeth. 1 Tier-3 lamp/lineage-compilation witness(es) are retained only as corroborative evidence and do not upgrade validation.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "缽盂安柄",
     "PreferredTarget": "put a handle on a begging bowl",
     "AlternateTargets": [
@@ -49283,6 +49331,18 @@
     ],
     "Status": "preferred",
     "Note": "Provisional lamp-only sense supported by two independent Tier-3 deployments; no Tier 1/2 controller was found and no padding is permitted. Keep it governed by 祇為分明極; do not generalize it into a rule that clarity always obstructs.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "翻轉面皮",
+    "PreferredTarget": "turn the face around",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "turn the face around"
+    ],
+    "Status": "preferred",
+    "Note": "Do not equate it with every physical turn of the head or with the separate idiom 本來面目; the active reversal is essential. 1 Tier-3 lamp/lineage-compilation witness(es) are retained only as corroborative evidence and do not upgrade validation.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
@@ -59555,6 +59615,30 @@
     "WrittenUtc": "2026-07-15T10:28:15.689574+00:00"
   },
   {
+    "SourceTerm": "野老安貼",
+    "PreferredTarget": "the country elders are at ease",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the country elders are at ease"
+    ],
+    "Status": "preferred",
+    "Note": "Keep it distinct from Batch58 野老顰蹙, the opposed half governed by 家國興盛; neither should swallow the other. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "野老謳謌",
+    "PreferredTarget": "the country elders sing",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the country elders sing"
+    ],
+    "Status": "preferred",
+    "Note": "Keep 漁樵鼓舞 or its close variant as governing companion; ordinary references to old villagers singing are not automatically this deployment. 2 Tier-3 lamp/lineage-compilation witness(es) are retained only as corroborative evidence and do not upgrade validation.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "野老顰蹙",
     "PreferredTarget": "the country elders knit their brows",
     "AlternateTargets": [],
@@ -62543,6 +62627,18 @@
     "Note": "Later speakers use the measured distance to return listeners to Chuanzi’s demand and the oar-blow that follows an answer at the hook.",
     "CreatedBy": "Codex Lane B explicit canary",
     "WrittenUtc": "2026-07-17T11:26:02.898529+00:00"
+  },
+  {
+    "SourceTerm": "雨似盆傾",
+    "PreferredTarget": "rain pours as if tipped from a basin",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "rain pours as if tipped from a basin"
+    ],
+    "Status": "preferred",
+    "Note": "Treat ordinary descriptions of torrential rain separately; this entry is controlled by the complete Yunmen case formula. 1 Tier-3 lamp/lineage-compilation witness(es) are retained only as corroborative evidence and do not upgrade validation.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "雨打梨花蛺蝶飛",
