@@ -49512,7 +49512,7 @@
       "hearing breakthrough"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
+    "Note": "Two distinct biographical deployments preserve the same narrated event formula. Additional lamp witnesses were omitted because more compiler retellings do not strengthen the lexical sense; the retained lamp is useful fallback evidence, not governing authority.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:30:57.027055+00:00"
   },
@@ -49526,7 +49526,7 @@
       "immediate recognition at a saying"
     ],
     "Status": "preferred",
-    "Note": "Suddenly understood at the words is a biographical event formula marking the precise turn in an encounter when a named participant recognizes something upon hearing the preceding words.",
+    "Note": "Two distinct lamp biographies preserve the formula in different encounters. They are retained provisionally as separate deployments, not as parallel-recension padding; no stronger witness was established inside this frozen adjudication.",
     "CreatedBy": "Codex Lane B explicit canary",
     "WrittenUtc": "2026-07-17T10:58:39.870332+00:00"
   },
@@ -49540,7 +49540,7 @@
       "speech unrelated to canonical texts"
     ],
     "Status": "preferred",
-    "Note": "The phrase keeps one meaning across two opposed turns in the same exchange.",
+    "Note": "One Tier-3 Zutang Ji exchange preserves two opposed turns: Haoyue objects that Cen's words lack canonical grounding, and Cen repeats the formula before answering with a citation. The turns are not independent families.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-22T12:00:00Z"
   },
@@ -50022,7 +50022,7 @@
       "if one's words do not startle the assembly, one sinks into convention"
     ],
     "Status": "preferred",
-    "Note": "All three witnesses preserve Guting Shanjian's address; the phrase judges speech in that setting, not novelty for its own sake.",
+    "Note": "One Tier-3 lamp witness represents Guting Shanjian's address. Two later lamp recensions repeat the same deployment and are omitted rather than counted as independent evidence.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T19:51:47.545470Z"
   },
@@ -50119,13 +50119,13 @@
   },
   {
     "SourceTerm": "語逆言順",
-    "PreferredTarget": "the phrasing runs contrary, the meaning runs smoothly",
+    "PreferredTarget": "speech runs contrary, words run smoothly",
     "AlternateTargets": [],
     "SearchAliases": [
-      "the phrasing runs contrary, the meaning runs smoothly"
+      "contrary speech, smooth words"
     ],
     "Status": "preferred",
-    "Note": "Every retained witness is a copy of the one Luopu-Jingqing exchange; no independent use was found in this packet.",
+    "Note": "The earliest retained lamp witness preserves the one Luopu–Jingqing exchange. Later parallel lamp recensions are omitted rather than counted as independent deployments; no stronger independent family is claimed.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T18:37:00.236234Z"
   },
@@ -50243,7 +50243,7 @@
       "leaves mistaken for gold"
     ],
     "Status": "preferred",
-    "Note": "All files transmit the same Xuedou verse; one explicit verse attribution is retained.",
+    "Note": "One Tier-3 lineage compilation explicitly attributes the complete verse to Xuedou Chongxian. Parallel copies of that verse are not counted as independent deployments; no stronger independent family is claimed.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T00:20:00Z"
   },
