@@ -14870,15 +14870,17 @@
   },
   {
     "SourceTerm": "咬定牙關",
-    "PreferredTarget": "clench your teeth and hold fast",
-    "AlternateTargets": [],
+    "PreferredTarget": "clench the teeth tight",
+    "AlternateTargets": [
+      "set the jaw firmly"
+    ],
     "SearchAliases": [
-      "clench the teeth and hold fast"
+      "set the jaw firmly"
     ],
     "Status": "preferred",
-    "Note": "Do not flatten the idiom to bite the teeth. No lamp is retained.",
-    "CreatedBy": "V7 batch72 admitted constructor C",
-    "WrittenUtc": "2026-07-29T16:52:00Z"
+    "Note": "The bodily image supports both resolve and speechless strain. Do not make determination its single positive meaning.",
+    "CreatedBy": "R09 clean-regeneration through canonical worksheet promotion B",
+    "WrittenUtc": "2026-07-30T04:35:00Z"
   },
   {
     "SourceTerm": "咳唾掉臂",
@@ -21455,15 +21457,17 @@
   },
   {
     "SourceTerm": "寸步不移",
-    "PreferredTarget": "not move a single step",
-    "AlternateTargets": [],
+    "PreferredTarget": "not moving a single step",
+    "AlternateTargets": [
+      "without shifting an inch"
+    ],
     "SearchAliases": [
-      "not move an inch"
+      "without shifting an inch"
     ],
     "Status": "preferred",
-    "Note": "Keep 走盡天下 and 孤峰坐住 as contrasts. No lamp is retained.",
-    "CreatedBy": "V7 batch72 admitted constructor C",
-    "WrittenUtc": "2026-07-29T16:52:00Z"
+    "Note": "The phrase may criticize fixation or express nonspatial travel. Its force depends on the surrounding contrast; it is not automatically praise of stillness.",
+    "CreatedBy": "R09 clean-regeneration through canonical worksheet promotion B",
+    "WrittenUtc": "2026-07-30T04:35:00Z"
   },
   {
     "SourceTerm": "寸絲不挂",
@@ -28068,15 +28072,17 @@
   },
   {
     "SourceTerm": "拋沙撒土",
-    "PreferredTarget": "throw sand and scatter dirt",
-    "AlternateTargets": [],
+    "PreferredTarget": "throwing sand and scattering dirt",
+    "AlternateTargets": [
+      "flinging sand and tossing soil"
+    ],
     "SearchAliases": [
-      "throw sand and scatter dirt"
+      "flinging sand and tossing soil"
     ],
     "Status": "preferred",
-    "Note": "Keep the paired image intact. No lamp is retained.",
-    "CreatedBy": "V7 batch72 admitted constructor C",
-    "WrittenUtc": "2026-07-29T16:52:00Z"
+    "Note": "The image is figurative: words and demonstrations can fill the air with grit. Context decides whether the speaker condemns it or deliberately performs it.",
+    "CreatedBy": "R09 clean-regeneration through canonical worksheet promotion B",
+    "WrittenUtc": "2026-07-30T04:35:00Z"
   },
   {
     "SourceTerm": "拋磚引玉",
@@ -30200,15 +30206,17 @@
   },
   {
     "SourceTerm": "擬思即差",
-    "PreferredTarget": "the moment you deliberate, you miss",
-    "AlternateTargets": [],
+    "PreferredTarget": "attempt to deliberate and you miss",
+    "AlternateTargets": [
+      "the moment you think it over, you go wrong"
+    ],
     "SearchAliases": [
-      "deliberate and you miss"
+      "the moment you think it over, you go wrong"
     ],
     "Status": "preferred",
-    "Note": "Keep the complete verdict rather than generic 擬思.",
-    "CreatedBy": "V7 batch72 admitted constructor C",
-    "WrittenUtc": "2026-07-29T16:52:00Z"
+    "Note": "The opening verb marks an attempt to think something out, and the closing words say the miss occurs immediately. Do not expand this into a general ban on all thought.",
+    "CreatedBy": "R09 clean-regeneration through canonical worksheet promotion B",
+    "WrittenUtc": "2026-07-30T04:35:00Z"
   },
   {
     "SourceTerm": "擬議",
@@ -35842,9 +35850,9 @@
       "expediently opened the five positions"
     ],
     "Status": "preferred",
-    "Note": "權 marks the presentation as provisional or expedient; it should not be flattened into a claim that Dongshan established five absolute stages.",
-    "CreatedBy": "R07 clean source-first C",
-    "WrittenUtc": "2026-07-30T00:20:00Z"
+    "Note": "The opening graph marks the presentation as provisional or expedient; it should not be flattened into a claim that Dongshan established five absolute stages.",
+    "CreatedBy": "R07 regenerated through corrected worksheet-first promotion B",
+    "WrittenUtc": "2026-07-30T05:05:00Z"
   },
   {
     "SourceTerm": "欲窮千里目、更上一層樓",
@@ -38465,21 +38473,23 @@
       "I almost did not lose myself"
     ],
     "Status": "preferred",
-    "Note": "洎 means “nearly” or “almost”; the line turns the monk’s contrast back on Jingqing. Do not regularize it into the simpler assertion “I do not lose myself.”",
-    "CreatedBy": "R07 clean source-first C",
-    "WrittenUtc": "2026-07-30T00:20:00Z"
+    "Note": "The opening graph means “nearly” or “almost”; the line turns the monk’s contrast back on Jingqing. Do not regularize it into the simpler assertion “I do not lose myself.”",
+    "CreatedBy": "R07 regenerated through corrected worksheet-first promotion B",
+    "WrittenUtc": "2026-07-30T05:05:00Z"
   },
   {
     "SourceTerm": "洗脚上船",
     "PreferredTarget": "wash your feet and board the boat",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "wash the feet, then get aboard"
+    ],
     "SearchAliases": [
-      "wash your feet and board"
+      "wash the feet, then get aboard"
     ],
     "Status": "preferred",
-    "Note": "Keep the full departure phrase.",
-    "CreatedBy": "V7 batch72 admitted constructor C",
-    "WrittenUtc": "2026-07-29T16:52:00Z"
+    "Note": "The phrase signals prompt onward movement, but later questioning can show that claiming to embark is not yet arrival.",
+    "CreatedBy": "R09 clean-regeneration through canonical worksheet promotion B",
+    "WrittenUtc": "2026-07-30T04:35:00Z"
   },
   {
     "SourceTerm": "洗鉢",
@@ -50611,9 +50621,9 @@
       "becomes poison instead"
     ],
     "Status": "preferred",
-    "Note": "The subject is supplied by context—often 醍醐, the finest clarified butter. The phrase names a reversal in reception, not literal poisoning.",
-    "CreatedBy": "R07 clean source-first C",
-    "WrittenUtc": "2026-07-30T00:20:00Z"
+    "Note": "Context often supplies the subject as the finest clarified butter. The phrase names a reversal in reception, not literal poisoning.",
+    "CreatedBy": "R07 regenerated through corrected worksheet-first promotion B",
+    "WrittenUtc": "2026-07-30T05:05:00Z"
   },
   {
     "SourceTerm": "翻轉面皮",
@@ -58509,8 +58519,8 @@
     ],
     "Status": "preferred",
     "Note": "The label covers variant recensions of the encounter. Preserve which version each source deploys instead of merging the arrow exchange with the water-testing exchange.",
-    "CreatedBy": "R07 clean source-first C",
-    "WrittenUtc": "2026-07-30T00:20:00Z"
+    "CreatedBy": "R07 regenerated through corrected worksheet-first promotion B",
+    "WrittenUtc": "2026-07-30T05:05:00Z"
   },
   {
     "SourceTerm": "趨向真如亦是邪",
@@ -61050,8 +61060,8 @@
     ],
     "Status": "preferred",
     "Note": "Every retained occurrence pairs the clause with “Maitreya is Maitreya.” Yuanwu extends the same each-in-its-place construction to liberation and Sudhana; those additions do not replace Maitreya as the immediate partner.",
-    "CreatedBy": "R04 fresh depth regeneration B",
-    "WrittenUtc": "2026-07-29T23:55:00Z"
+    "CreatedBy": "R06 Shakyamuni correction regenerated through worksheet-first promotion B",
+    "WrittenUtc": "2026-07-30T05:25:00Z"
   },
   {
     "SourceTerm": "重疊關山路",
@@ -66017,8 +66027,8 @@
     ],
     "Status": "preferred",
     "Note": "In this corpus phrase, the repeated glances belong to Jiashan’s departure from Chuanzi. Ordinary repeated looking back is not automatically a reference to the case.",
-    "CreatedBy": "R07 clean source-first C",
-    "WrittenUtc": "2026-07-30T00:20:00Z"
+    "CreatedBy": "R07 regenerated through corrected worksheet-first promotion B",
+    "WrittenUtc": "2026-07-30T05:05:00Z"
   },
   {
     "SourceTerm": "顏回",
