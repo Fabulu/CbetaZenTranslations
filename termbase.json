@@ -6339,6 +6339,18 @@
     "WrittenUtc": "2026-07-19T12:00:00Z"
   },
   {
+    "SourceTerm": "低低處平之有餘",
+    "PreferredTarget": "at the very lowest place, there is more than enough level ground",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "at the very lowest place, there is more than enough level ground"
+    ],
+    "Status": "preferred",
+    "Note": "Retain 高高處觀之不足 as its counterpart; this is not literal topographic measurement. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "低低處平之有餘，高高處觀之不足",
     "PreferredTarget": "at the lowest point it is more than level, and at the highest point it is still insufficient to view",
     "AlternateTargets": [],
@@ -11113,6 +11125,18 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "剛道有乾坤",
+    "PreferredTarget": "still insists there is a heaven and earth",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "still insists there is a heaven and earth"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 不知天地者; 乾坤 remains heaven-and-earth/the cosmos, while 剛 marks stubborn insistence rather than physical hardness. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "剜肉作瘡",
     "PreferredTarget": "to gouge healthy flesh and make a wound",
     "AlternateTargets": [],
@@ -11664,6 +11688,18 @@
     "Note": "8 reviewed witnesses delimit this sense.",
     "CreatedBy": "Codex f003 laneB exact8 priority repair author",
     "WrittenUtc": "2026-07-15T17:30:00Z"
+  },
+  {
+    "SourceTerm": "北山下雨",
+    "PreferredTarget": "rain falls on the northern mountain",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "rain falls on the northern mountain"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 南山起雲; an ordinary report of rain north of a mountain is not this formula. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "北斗裏藏身",
@@ -20736,6 +20772,18 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "密移一步",
+    "PreferredTarget": "secretly shift one step",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "secretly shift one step"
+    ],
+    "Status": "preferred",
+    "Note": "Do not reduce it to covert physical movement. Preserve the contrast with 坐斷十方 or another completed stance where context supplies it. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "富嫌千口少、貧恨一身多",
     "PreferredTarget": "the rich resent a thousand mouths as too few, the poor resent one body as too many",
     "AlternateTargets": [],
@@ -22774,6 +22822,18 @@
     "WrittenUtc": "2026-07-16T18:11:07.999651+00:00"
   },
   {
+    "SourceTerm": "度人已畢",
+    "PreferredTarget": "the work of liberating people was already complete",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the work of liberating people was already complete"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 未出母胎 as the governing first half; generic claims that teaching work is finished are not this birth formula. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "座主",
     "PreferredTarget": "scripture lecturer",
     "AlternateTargets": [
@@ -23627,6 +23687,18 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "徒勞念靜",
+    "PreferredTarget": "thinking about stillness is wasted effort",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "thinking about stillness is wasted effort"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 不識玄旨; 念靜 is thinking about or intending stillness here, not a neutral name for every quiet activity. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "徒勞激浪",
     "PreferredTarget": "thrash the waves to no avail",
     "AlternateTargets": [],
@@ -23903,6 +23975,18 @@
     "Note": "The saying contrasts what arrives from outside with treasure arising as one's own usable possession. A Tiantong evening address rejects imported understanding; Zhimen warns against recognizing shadows; Gulin contrasts entry from outside with one's own flow; Shiyu speaks it at the monastery gate.",
     "CreatedBy": "Codex cohort-002 lane-A 41-50 strict author",
     "WrittenUtc": "2026-07-18T21:03:28Z"
+  },
+  {
+    "SourceTerm": "徧身紅爛",
+    "PreferredTarget": "red and ulcerated all over the body",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "red and ulcerated all over the body"
+    ],
+    "Status": "preferred",
+    "Note": "Do not make it a badge for only one case. 徧 is the transmitted graph for 遍; retain the specific red-and-ulcerated condition rather than flattening it to generic illness. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "復是何物",
@@ -28782,6 +28866,18 @@
     "Note": "Do not sanitize the vulgar register; context determines what is being fouled.",
     "CreatedBy": "Codex Batch40 construction C",
     "WrittenUtc": "2026-07-29T06:01:13.766080Z"
+  },
+  {
+    "SourceTerm": "撒手懸崖",
+    "PreferredTarget": "let go at the cliff edge",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "let go at the cliff edge"
+    ],
+    "Status": "preferred",
+    "Note": "Figurative danger image only; never construe it as advice for physical self-harm. Distinguish the related 竿頭進步 formula. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "撒沙撒土",
@@ -42066,6 +42162,18 @@
     "WrittenUtc": "2026-07-19T03:32:59.683682+00:00"
   },
   {
+    "SourceTerm": "珠不自珠",
+    "PreferredTarget": "a pearl is not a pearl by itself",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a pearl is not a pearl by itself"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 要假智珠而辨世珠 and the parallel 寶不自寶; do not universalize the clause into a denial that physical pearls exist. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "珠回玉轉",
     "PreferredTarget": "pearls revolve and jade turns",
     "AlternateTargets": [
@@ -47381,6 +47489,18 @@
     "WrittenUtc": "2026-07-19T14:14:02.765472Z"
   },
   {
+    "SourceTerm": "窮廝煎",
+    "PreferredTarget": "the poor torment one another",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the poor torment one another"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the colloquial reciprocal 廝 and its 餓廝吵/炒 partner; do not flatten 煎 into literal cooking. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "窮諸玄辯",
     "PreferredTarget": "exhaust every abstruse argument",
     "AlternateTargets": [],
@@ -51431,6 +51551,18 @@
     "Note": "The measure phrase uses the tiny mustard seed as a conventional minimum of extent or quantity.",
     "CreatedBy": "packet3 exact5 owner construction",
     "WrittenUtc": "2026-07-27T22:15:00Z"
+  },
+  {
+    "SourceTerm": "芥納須彌",
+    "PreferredTarget": "a mustard seed contains Mount Sumeru",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a mustard seed contains Mount Sumeru"
+    ],
+    "Status": "preferred",
+    "Note": "Distinguish the more familiar 須彌納芥 and retain the reversal of container and contained. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "花簇簇、錦簇簇",
@@ -56078,6 +56210,18 @@
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
   {
+    "SourceTerm": "豎窮三際",
+    "PreferredTarget": "vertically exhaust the three times",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "vertically exhaust the three times"
+    ],
+    "Status": "preferred",
+    "Note": "三際 are past, present, and future; retain the vertical/horizontal paired geometry and do not reduce 豎窮 to generic thoroughness. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "豎起",
     "PreferredTarget": "to raise upright",
     "AlternateTargets": [
@@ -58600,6 +58744,18 @@
     "Note": "The reversal changes the value assigned to honored and low positions; it does not prescribe a social program or an abstract account of equality.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T16:28:22.607596Z"
+  },
+  {
+    "SourceTerm": "遇賤即貴",
+    "PreferredTarget": "on meeting the lowly, it is immediately precious",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "on meeting the lowly, it is immediately precious"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 藥病相治、盡大地是藥、那箇是自己 and the staff action; do not generalize it into a social ranking rule. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "遊山翫水",
@@ -61962,6 +62118,18 @@
     "WrittenUtc": "2026-07-27T18:53:07.744971+00:00"
   },
   {
+    "SourceTerm": "阿剌剌",
+    "PreferredTarget": "a-la-la!",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a-la-la!"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve it as an exclamation rather than assigning a propositional doctrine; distinguish graphic and phonetic variants case by case. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "阿呵呵",
     "PreferredTarget": "ha, ha!",
     "AlternateTargets": [
@@ -62052,6 +62220,18 @@
     "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
     "CreatedBy": "Codex f003 Lane A full-case author",
     "WrittenUtc": "2026-07-15T04:52:26.825273+00:00"
+  },
+  {
+    "SourceTerm": "阿難問迦葉",
+    "PreferredTarget": "Ananda asks Kasyapa",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Ananda asks Kasyapa"
+    ],
+    "Status": "preferred",
+    "Note": "Retain both named actors and bind 金襴外別傳何物／倒卻門前剎竿著 as context; not every question by Ananda to Kasyapa is this case. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "降將不斬",
@@ -64875,6 +65055,18 @@
     "WrittenUtc": "2026-07-29T06:01:16.564275Z"
   },
   {
+    "SourceTerm": "養子不及父",
+    "PreferredTarget": "if the raised son does not measure up to the father",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "if the raised son does not measure up to the father"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 家門一世衰 as the consequence. 子 is a raised successor in the house/lineage image, not a biological claim that children must imitate parents. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "養子不及父、家門一世衰",
     "PreferredTarget": "if a son does not measure up to his father, the family gate declines for a generation",
     "AlternateTargets": [],
@@ -66187,6 +66379,18 @@
     "Note": "The retained witnesses include four direct interview uses plus appraisal and verse.",
     "CreatedBy": "Codex cohort002 lane C C71-100 full-case packet author",
     "WrittenUtc": "2026-07-19T02:00:28.600401+00:00"
+  },
+  {
+    "SourceTerm": "鬼神茶飯",
+    "PreferredTarget": "tea and rice for ghosts and spirits",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "tea and rice for ghosts and spirits"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the offering/food image; it is not ordinary hospitality to unseen beings, and 茶飯 alone is broader. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "鬼窟",
