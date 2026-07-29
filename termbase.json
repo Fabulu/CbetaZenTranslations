@@ -7715,6 +7715,18 @@
     "WrittenUtc": "2026-07-18T05:25:37.781627Z"
   },
   {
+    "SourceTerm": "倚墻靠壁",
+    "PreferredTarget": "lean against walls",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "lean against walls"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the coordinated four-graph expression; 倚墻 or 靠壁 alone are ordinary posture descriptions. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "倚天長劍",
     "PreferredTarget": "a long sword reaching the sky",
     "AlternateTargets": [],
@@ -15556,6 +15568,18 @@
     ],
     "Status": "preferred",
     "Note": "Preserve the comic minuteness of thread and ant. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "囑令加護",
+    "PreferredTarget": "charge him to guard it carefully",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "charge him to guard it carefully"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the four-graph narrative formula; 加護 alone is broader Buddhist vocabulary and is not the same lexical unit. No lamp is retained.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
@@ -23435,6 +23459,18 @@
     "WrittenUtc": "2026-07-17T17:17:31.918157+00:00"
   },
   {
+    "SourceTerm": "徒勞激浪",
+    "PreferredTarget": "thrash the waves to no avail",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "thrash the waves to no avail"
+    ],
+    "Status": "preferred",
+    "Note": "Keep it paired with 止濼困魚 where context requires; 徒勞 or 激浪 separately are not equivalents. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "得人一牛、還人一馬",
     "PreferredTarget": "receive a cow from someone and return a horse",
     "AlternateTargets": [],
@@ -25786,6 +25822,18 @@
     "Note": "4 exact occurrences from 3 independent works are stored; J27nB198 and J27nB199 are parallel editions of one work.",
     "CreatedBy": "Codex fresh construction Lane C",
     "WrittenUtc": "2026-07-17T00:00:00Z"
+  },
+  {
+    "SourceTerm": "戴角披毛",
+    "PreferredTarget": "wear horns and fur",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "wear horns and fur"
+    ],
+    "Status": "preferred",
+    "Note": "Keep it distinct from 牽犁拽耙: one names assuming the animal body, the other the labor performed in it. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "所參話",
@@ -34674,6 +34722,18 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "止動歸止",
+    "PreferredTarget": "stop movement by returning to stillness",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "stop movement by returning to stillness"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 止更彌動 as the indispensable consequence; do not reduce the entry to generic 止 or 動. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "止濼困魚",
     "PreferredTarget": "a stopped pool traps the fish",
     "AlternateTargets": [],
@@ -36202,6 +36262,18 @@
     "Note": "The records disagree over whether the original answer belongs to Lingyun Zhiqin or Yunmen Wenyan. The entry preserves that conflict instead of manufacturing a decision or counting the two attributions as two independently originated sayings.",
     "CreatedBy": "Codex f004 C1186-1195 sourceGroups author",
     "WrittenUtc": "2026-07-15T15:59:21.415513+00:00"
+  },
+  {
+    "SourceTerm": "沿流不止",
+    "PreferredTarget": "following the current without stopping",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "following the current without stopping"
+    ],
+    "Status": "preferred",
+    "Note": "A stable clause from Linji's four-line exchange, also redeployed independently as an allusion to ceaselessly following the stream. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "泉聲中夜後。山色夕陽時",
@@ -47689,6 +47761,18 @@
     "WrittenUtc": "2026-07-17T08:21:23.347394+00:00"
   },
   {
+    "SourceTerm": "精進無有涯",
+    "PreferredTarget": "diligence has no limit",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "diligence has no limit"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the five-graph predicate and its 若能心不妄 condition; do not collapse it into generic 精進. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "精魂",
     "PreferredTarget": "spectral consciousness",
     "AlternateTargets": [
@@ -47945,6 +48029,18 @@
     "Note": "Two Linji anchors are recensions of one utterance and count as one deployment class.",
     "CreatedBy": "Codex lane C rev2 C111-120 author",
     "WrittenUtc": "2026-07-19T15:00:00Z"
+  },
+  {
+    "SourceTerm": "紫羅帳裏撒真珠",
+    "PreferredTarget": "scatter pearls inside a purple gauze curtain",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "scatter pearls inside a purple gauze curtain"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the whole seven-graph image; 紫羅帳 and 真珠 are constituents, not substitute entries. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "紫芝",
@@ -52353,6 +52449,18 @@
     "Note": "One creature referent. The preferred target follows the corpus's generic word for insect (蟲) without assigning a modern zoological class; the descriptive alternate records the attested nesting-on-a-mosquito-eyelash phrase.",
     "CreatedBy": "Codex f002 Lane C worksheet-first author",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "蠱毒之家水莫嘗",
+    "PreferredTarget": "do not taste even the water in a house of poison",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "do not taste even the water in a house of poison"
+    ],
+    "Status": "preferred",
+    "Note": "A stable warning proverb whose house, poison, water, and tasting imagery remain integral. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "血濺梵天",
@@ -58859,6 +58967,18 @@
     "WrittenUtc": "2026-07-15T10:28:15.689574+00:00"
   },
   {
+    "SourceTerm": "野老顰蹙",
+    "PreferredTarget": "the country elders knit their brows",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the country elders knit their brows"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 家國興盛 as its recurrent first half; 野老 or 顰蹙 alone are ordinary constituents. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "量才補職",
     "PreferredTarget": "assign offices according to ability",
     "AlternateTargets": [],
@@ -62181,6 +62301,18 @@
     "Note": "All four witnesses transmit Prajñātāra’s prophecy. Wuyi Yuanlai cites the inherited line in a later argument about tested heirs.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T19:45:35.916168Z"
+  },
+  {
+    "SourceTerm": "震法雷",
+    "PreferredTarget": "to thunder the Dharma thunder",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to thunder the Dharma thunder"
+    ],
+    "Status": "preferred",
+    "Note": "A compact Buddhist preaching image used as a verbal unit; it is not merely the accidental adjacency of 震 and 法雷. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "霧豹澤毛",
