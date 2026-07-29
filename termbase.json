@@ -12098,18 +12098,18 @@
   },
   {
     "SourceTerm": "十字街頭石敢當",
-    "PreferredTarget": "the stone guardian at the crossroads",
+    "PreferredTarget": "the stone ward at the crossroads",
     "AlternateTargets": [
-      "the Shigandang stone at the crossroads"
+      "the crossroads stone guardian"
     ],
     "SearchAliases": [
-      "crossroads stone guardian",
-      "Shigandang at the crossroads"
+      "crossroads stone ward",
+      "stone guardian at the crossroads"
     ],
     "Status": "preferred",
-    "Note": "石敢當 names an apotropaic stone marker; the retained answer does not impose one symbolism on every occurrence.",
-    "CreatedBy": "Codex Batch23 construction lane A",
-    "WrittenUtc": null
+    "Note": "The expression names a familiar roadside object while its job changes with the exchange. It is not a universal symbolic code, and the separate components do not by themselves define the full phrase.",
+    "CreatedBy": "R17 clean-regeneration constructor B",
+    "WrittenUtc": "2026-07-30T02:30:00Z"
   },
   {
     "SourceTerm": "十年歸不得，忘却來時道",
@@ -22622,15 +22622,18 @@
   },
   {
     "SourceTerm": "帝道遐昌",
-    "PreferredTarget": "may the imperial way flourish far and wide",
-    "AlternateTargets": [],
+    "PreferredTarget": "may imperial rule flourish far and wide",
+    "AlternateTargets": [
+      "may the imperial way flourish afar"
+    ],
     "SearchAliases": [
-      "may the imperial way flourish far and wide"
+      "imperial rule flourish",
+      "imperial way flourish"
     ],
     "Status": "preferred",
-    "Note": "Institutional-liturgical rather than a realization formula; retain that usage boundary explicitly. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The phrase is ceremonial political language, not a description of realization. Its surrounding formulas distinguish the emperor, officials, donors, and the Buddhist teaching.",
+    "CreatedBy": "R17 clean-regeneration constructor B",
+    "WrittenUtc": "2026-07-30T02:30:00Z"
   },
   {
     "SourceTerm": "帝釋",
@@ -42678,15 +42681,18 @@
   {
     "SourceTerm": "猛著精彩",
     "PreferredTarget": "rouse your full vigor",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "summon all your vigor"
+    ],
     "SearchAliases": [
       "rouse your full vigor",
+      "summon all your spirit",
       "bring concentrated alertness"
     ],
     "Status": "preferred",
-    "Note": "精彩 here is vigor and alertness, not the modern adjective wonderful. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The final pair names spirited alertness in these imperatives, not the modern evaluative adjective “wonderful.”",
+    "CreatedBy": "R17 clean-regeneration constructor A",
+    "WrittenUtc": "2026-07-30T04:00:00Z"
   },
   {
     "SourceTerm": "猛虎不顧几上肉，洪爐豈鑄囊中錐",
@@ -55016,15 +55022,13 @@
     ],
     "SearchAliases": [
       "patch-robed monk",
-      "patch robe monk",
       "monk in patched robes",
-      "patched-robed monk",
       "Chan monk"
     ],
     "Status": "preferred",
-    "Note": "The case-specific Shanhui answer is evidence of use, not a universal definition of “patch-robed monk.”",
-    "CreatedBy": "Codex fresh f001 lane B evidence-first",
-    "WrittenUtc": "2026-07-15T05:30:00Z"
+    "Note": "The word identifies a kind of person, not a rank or a guaranteed attainment. Narratives can describe patch-robed monks collectively, while dialogue can address or appraise one individual.",
+    "CreatedBy": "R17 clean-regeneration constructor B",
+    "WrittenUtc": "2026-07-30T02:00:00Z"
   },
   {
     "SourceTerm": "衲子難瞞",
@@ -66282,15 +66286,19 @@
   },
   {
     "SourceTerm": "顛拈倒弄",
-    "PreferredTarget": "to pick up and manipulate things upside down",
-    "AlternateTargets": [],
+    "PreferredTarget": "to turn and handle things every which way",
+    "AlternateTargets": [
+      "to pick up and manipulate upside down"
+    ],
     "SearchAliases": [
-      "to pick up and manipulate things upside down"
+      "turn things every which way",
+      "manipulate upside down",
+      "topsy-turvy handling"
     ],
     "Status": "preferred",
-    "Note": "Do not reduce it to literal hand motion in contexts judging a teacher's methods. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The expression concerns active reversal and rearrangement; the cited passages do not limit it to literal hand motion.",
+    "CreatedBy": "R17 clean-regeneration constructor A",
+    "WrittenUtc": "2026-07-30T04:00:00Z"
   },
   {
     "SourceTerm": "顛言倒語",
