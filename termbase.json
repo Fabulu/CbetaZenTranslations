@@ -17856,6 +17856,21 @@
     "WrittenUtc": "2026-07-21T09:00:00Z"
   },
   {
+    "SourceTerm": "奔流度刃",
+    "PreferredTarget": "crossing a blade in a rushing current",
+    "AlternateTargets": [
+      "negotiating a blade amid a rushing current"
+    ],
+    "SearchAliases": [
+      "crossing a blade in a rushing current",
+      "negotiating a blade amid a rushing current"
+    ],
+    "Status": "preferred",
+    "Note": "疾燄過風 is a frequent partner, not part of this headword. The image should not be reduced to generic speed.",
+    "CreatedBy": "Codex Batch36 lane-A construction",
+    "WrittenUtc": "2026-07-29T05:06:03.543596Z"
+  },
+  {
     "SourceTerm": "契悟",
     "PreferredTarget": "to realize",
     "AlternateTargets": [
@@ -28489,6 +28504,22 @@
     "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
   },
   {
+    "SourceTerm": "斫額望扶桑",
+    "PreferredTarget": "shade one’s brow and look toward Fusang",
+    "AlternateTargets": [
+      "look toward the far eastern horizon"
+    ],
+    "SearchAliases": [
+      "shade brow look east",
+      "look toward Fusang",
+      "dawn eastern horizon"
+    ],
+    "Status": "preferred",
+    "Note": "One exact actor-resolved Tier-2 deployment family controls this provisional entry. Lamps and passive copies are excluded.",
+    "CreatedBy": "Codex Batch36 lane-B Tier2 construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "斬得匈奴首、還歸細柳營",
     "PreferredTarget": "take a Xiongnu head, then return to the camp at Xiliu",
     "AlternateTargets": [
@@ -29554,6 +29585,21 @@
     "Note": "The paired observation names what is plainly visible at its ordinary time. Two independent low-tier deployments are retained without recension padding.",
     "CreatedBy": "Codex cohort-002 lane-B author",
     "WrittenUtc": "2026-07-18T20:50:52Z"
+  },
+  {
+    "SourceTerm": "晡時申",
+    "PreferredTarget": "late afternoon, the shen period",
+    "AlternateTargets": [
+      "late-afternoon shen hour"
+    ],
+    "SearchAliases": [
+      "late afternoon, the shen period",
+      "late-afternoon shen hour"
+    ],
+    "Status": "preferred",
+    "Note": "The heading is stable; the verse attached to it changes from song to song.",
+    "CreatedBy": "Codex Batch36 lane-A construction",
+    "WrittenUtc": "2026-07-29T05:06:03.543596Z"
   },
   {
     "SourceTerm": "普天匝地",
@@ -35536,6 +35582,21 @@
     "WrittenUtc": "2026-07-19T15:56:54.319979Z"
   },
   {
+    "SourceTerm": "淚出痛腸",
+    "PreferredTarget": "tears issuing from an aching heart",
+    "AlternateTargets": [
+      "words wrung from a pained heart"
+    ],
+    "SearchAliases": [
+      "tears issuing from an aching heart",
+      "words wrung from a pained heart"
+    ],
+    "Status": "preferred",
+    "Note": "The bodily image licenses painful sincerity in this turn; it does not make literal crying the meaning of every occurrence.",
+    "CreatedBy": "Codex Batch36 lane-A construction",
+    "WrittenUtc": "2026-07-29T05:06:03.543596Z"
+  },
+  {
     "SourceTerm": "淨灑灑",
     "PreferredTarget": "clean and utterly bare",
     "AlternateTargets": [],
@@ -37449,6 +37510,21 @@
     "Note": "The tiger remains present, but its teeth are absent. Xuedou Chongxian calls Deshan a toothless tiger in his verdict on the last-word case; Gulin Qingmao and Liao’an Qingyu raise that same verdict, while Yuejiang Zhengyin and Zhanran Yuancheng use the animal directly in interviews and comments.",
     "CreatedBy": "Codex cohort002 lane C C71-100 full-case packet author",
     "WrittenUtc": "2026-07-19T02:00:31.083907+00:00"
+  },
+  {
+    "SourceTerm": "焦甎打著連底凍",
+    "PreferredTarget": "a fired brick strikes what is frozen through to the bottom",
+    "AlternateTargets": [
+      "fired brick against something frozen solid"
+    ],
+    "SearchAliases": [
+      "a fired brick strikes what is frozen through to the bottom",
+      "fired brick against something frozen solid"
+    ],
+    "Status": "preferred",
+    "Note": "The source leaves the struck object unstated. Preserve the unusual 甎 graph and do not invent a single doctrinal solution to the comparison.",
+    "CreatedBy": "Codex Batch36 lane-A construction",
+    "WrittenUtc": "2026-07-29T05:06:03.543596Z"
   },
   {
     "SourceTerm": "焦磚打著連底凍",
@@ -40854,6 +40930,21 @@
     "Note": "Frozen-corpus concordance: 25 exact hits in 19 storage files representing 19 independent works. The literal comparison and the named case still point to people described by the same disabilities, so item 8 does not warrant a split. Different readings of why Yuanwu warns against a merely literal handling are not separate things and are not supplied here.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "盲聾瘖瘂",
+    "PreferredTarget": "blind, deaf, speech-impaired, and mute",
+    "AlternateTargets": [
+      "the blind-deaf-speechless-mute designation"
+    ],
+    "SearchAliases": [
+      "blind, deaf, speech-impaired, and mute",
+      "the blind-deaf-speechless-mute designation"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase names physical disabilities in the case vocabulary. It must not be turned into a moral defect, and not every occurrence belongs to this one case.",
+    "CreatedBy": "Codex Batch36 lane-A construction",
+    "WrittenUtc": "2026-07-29T05:06:03.543596Z"
   },
   {
     "SourceTerm": "盲龜值木",
@@ -47064,6 +47155,21 @@
     "WrittenUtc": "2026-07-19T03:23:22.023942+00:00"
   },
   {
+    "SourceTerm": "臭肉來蠅",
+    "PreferredTarget": "flies come to stinking meat",
+    "AlternateTargets": [
+      "rotten meat draws flies"
+    ],
+    "SearchAliases": [
+      "stinking meat attracts flies",
+      "corruption draws flies"
+    ],
+    "Status": "preferred",
+    "Note": "One exact actor-resolved Tier-2 deployment family controls this provisional entry. Lamps and passive copies are excluded.",
+    "CreatedBy": "Codex Batch36 lane-B Tier2 construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "至道無難",
     "PreferredTarget": "the utmost way is not difficult",
     "AlternateTargets": [
@@ -47974,6 +48080,21 @@
     "Status": "preferred",
     "Note": "The physical steelyard image is secure; the warning does not license one universal doctrinal replacement for the mistaken marker.",
     "CreatedBy": "Codex Batch27 source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
+    "SourceTerm": "莽莽蕩蕩招殃禍",
+    "PreferredTarget": "reckless and unrestrained, one invites disaster",
+    "AlternateTargets": [
+      "wildly heedless conduct brings calamity"
+    ],
+    "SearchAliases": [
+      "reckless unrestrained disaster",
+      "heedlessness brings calamity"
+    ],
+    "Status": "preferred",
+    "Note": "One exact actor-resolved Tier-2 deployment family controls this provisional entry. Lamps and passive copies are excluded.",
+    "CreatedBy": "Codex Batch36 lane-B Tier2 construction",
     "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
@@ -51050,6 +51171,21 @@
     "WrittenUtc": "2026-07-22T04:00:00Z"
   },
   {
+    "SourceTerm": "誑謼閭閻",
+    "PreferredTarget": "deceive and clamor through the neighborhoods",
+    "AlternateTargets": [
+      "mislead the populace with loud claims"
+    ],
+    "SearchAliases": [
+      "deceive neighborhoods",
+      "public clamor misleading people"
+    ],
+    "Status": "preferred",
+    "Note": "One exact actor-resolved Tier-2 deployment family controls this provisional entry. Lamps and passive copies are excluded.",
+    "CreatedBy": "Codex Batch36 lane-B Tier2 construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "誓願",
     "PreferredTarget": "a solemn vow",
     "AlternateTargets": [],
@@ -52324,6 +52460,21 @@
     "Note": "Three exchanges and one recension use the gold-buyer proverb to test recognition.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T18:00:20.129570Z"
+  },
+  {
+    "SourceTerm": "質直無偽",
+    "PreferredTarget": "straightforward and without falseness",
+    "AlternateTargets": [
+      "upright, with nothing false"
+    ],
+    "SearchAliases": [
+      "without duplicity",
+      "straightforward mind"
+    ],
+    "Status": "preferred",
+    "Note": "One direct Tier-2 Guishan instruction controls. Parallel lamp recensions belong to the same discourse family and are excluded.",
+    "CreatedBy": "Codex Batch36 lane-C construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "賺殺一船人",
@@ -61373,6 +61524,21 @@
     "Note": "The bird and milk-water image are explicit; no additional hidden object is required.",
     "CreatedBy": "Codex f002 Lane C author",
     "WrittenUtc": "2026-07-15T02:23:02.044058+00:00"
+  },
+  {
+    "SourceTerm": "鵝王擇乳",
+    "PreferredTarget": "the goose king selects the milk",
+    "AlternateTargets": [
+      "like the goose king separating milk"
+    ],
+    "SearchAliases": [
+      "select the essential from a mixture",
+      "goose king and ducks"
+    ],
+    "Status": "preferred",
+    "Note": "One controlling Tier-2 Dahui deployment family is retained. Parallel containers and later copies do not manufacture independent depth.",
+    "CreatedBy": "Codex Batch36 lane-C construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "鵝王擇乳素非鴨類",
