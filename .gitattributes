@@ -1,4 +1,3 @@
-community/termbases/*.jsonl merge=union
 community/collections/*.jsonl merge=union
 community/reviews/*.jsonl merge=union
 community/master-dates/*.jsonl merge=union
