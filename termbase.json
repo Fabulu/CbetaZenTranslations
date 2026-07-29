@@ -9785,6 +9785,21 @@
     "WrittenUtc": "2026-07-22T10:30:00Z"
   },
   {
+    "SourceTerm": "冰河發燄",
+    "PreferredTarget": "a frozen river bursts into flame",
+    "AlternateTargets": [
+      "the frozen river gives off flames"
+    ],
+    "SearchAliases": [
+      "a frozen river bursts into flame",
+      "the frozen river gives off flames"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the impossible reversal. The two records do not impose one universal doctrinal decoding.",
+    "CreatedBy": "Codex Batch40 lane-B construction",
+    "WrittenUtc": "2026-07-29T06:03:47.029946Z"
+  },
+  {
     "SourceTerm": "冷侵侵地",
     "PreferredTarget": "piercingly cold",
     "AlternateTargets": [
@@ -10521,6 +10536,21 @@
     "WrittenUtc": "2026-07-18T08:16:18.592897Z"
   },
   {
+    "SourceTerm": "刻刻提撕",
+    "PreferredTarget": "bring it up and scrutinize it every moment",
+    "AlternateTargets": [
+      "attend to it moment after moment"
+    ],
+    "SearchAliases": [
+      "bring it up and scrutinize it every moment",
+      "attend to it moment after moment"
+    ],
+    "Status": "preferred",
+    "Note": "提撕 combines bringing up, attending to, and examining; the object is supplied by each instruction.",
+    "CreatedBy": "Codex Batch40 construction C",
+    "WrittenUtc": "2026-07-29T06:01:16.564275Z"
+  },
+  {
     "SourceTerm": "刻舟尋劍",
     "PreferredTarget": "marking the boat to search for the lost sword",
     "AlternateTargets": [
@@ -11235,6 +11265,21 @@
     "Note": "Four distinct appraisals span four independent works.",
     "CreatedBy": "Codex Iriya construction cohort 001 lane C clean packet",
     "WrittenUtc": "2026-07-18T08:15:53.599188Z"
+  },
+  {
+    "SourceTerm": "勿自立規矩",
+    "PreferredTarget": "do not set up rules of your own",
+    "AlternateTargets": [
+      "do not establish your own standards"
+    ],
+    "SearchAliases": [
+      "do not set up rules of your own",
+      "do not establish your own standards"
+    ],
+    "Status": "preferred",
+    "Note": "One Tier-2 active-commentary family controls. This does not prohibit communal standards generally.",
+    "CreatedBy": "Codex Batch40 construction C",
+    "WrittenUtc": "2026-07-29T06:01:16.564275Z"
   },
   {
     "SourceTerm": "化主",
@@ -20882,6 +20927,21 @@
     "WrittenUtc": "2026-07-17T00:00:00Z"
   },
   {
+    "SourceTerm": "峭巍巍",
+    "PreferredTarget": "steeply towering",
+    "AlternateTargets": [
+      "steep and imposing"
+    ],
+    "SearchAliases": [
+      "steeply towering",
+      "steep and imposing"
+    ],
+    "Status": "preferred",
+    "Note": "The word describes an imposing spatial quality; the nearby iron wall and silver mountain are consequences in this passage, not its fixed referent.",
+    "CreatedBy": "Codex Batch40 lane-B construction",
+    "WrittenUtc": "2026-07-29T06:03:47.081673Z"
+  },
+  {
     "SourceTerm": "崑崙嚼生鐵",
     "PreferredTarget": "a Kunlun man chewing raw iron",
     "AlternateTargets": [
@@ -21899,6 +21959,21 @@
     "WrittenUtc": "2026-07-15T04:57:56.788204+00:00"
   },
   {
+    "SourceTerm": "廓清五蘊",
+    "PreferredTarget": "sweep the five aggregates clear",
+    "AlternateTargets": [
+      "clear away the five aggregates"
+    ],
+    "SearchAliases": [
+      "sweep the five aggregates clear",
+      "clear away the five aggregates"
+    ],
+    "Status": "preferred",
+    "Note": "One speaker criticizes the formula's explanatory use while another endorses it; preserve that disagreement.",
+    "CreatedBy": "Codex Batch40 construction C",
+    "WrittenUtc": "2026-07-29T06:01:13.766080Z"
+  },
+  {
     "SourceTerm": "廓然無聖",
     "PreferredTarget": "vast emptiness, nothing sacred",
     "AlternateTargets": [
@@ -21967,6 +22042,21 @@
     "Note": "The proper name is governed by the butcher, discarded knife, and disputed result; it is distinct from the body-part description.",
     "CreatedBy": "Codex f002 Lane C author",
     "WrittenUtc": "2026-07-19T03:23:22.023942+00:00"
+  },
+  {
+    "SourceTerm": "廬陵米作麼價",
+    "PreferredTarget": "What is the price of rice in Luling?",
+    "AlternateTargets": [
+      "How much does Luling rice cost?"
+    ],
+    "SearchAliases": [
+      "What is the price of rice in Luling?",
+      "How much does Luling rice cost?"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the literal market question; do not replace it with a hidden doctrinal answer.",
+    "CreatedBy": "Codex Batch40 construction C",
+    "WrittenUtc": "2026-07-29T06:01:13.766080Z"
   },
   {
     "SourceTerm": "廬陵米價",
@@ -27214,6 +27304,21 @@
     "WrittenUtc": "2026-07-19T12:00:00Z"
   },
   {
+    "SourceTerm": "撒屎撒尿",
+    "PreferredTarget": "shit and piss",
+    "AlternateTargets": [
+      "foul a clean place"
+    ],
+    "SearchAliases": [
+      "shit and piss",
+      "foul a clean place"
+    ],
+    "Status": "preferred",
+    "Note": "Do not sanitize the vulgar register; context determines what is being fouled.",
+    "CreatedBy": "Codex Batch40 construction C",
+    "WrittenUtc": "2026-07-29T06:01:13.766080Z"
+  },
+  {
     "SourceTerm": "撒沙撒土",
     "PreferredTarget": "scattering sand and soil",
     "AlternateTargets": [
@@ -31451,6 +31556,21 @@
     "WrittenUtc": "2026-07-15T10:47:37.387461+00:00"
   },
   {
+    "SourceTerm": "村歌社舞",
+    "PreferredTarget": "village songs and community dances",
+    "AlternateTargets": [
+      "rustic songs and communal dancing"
+    ],
+    "SearchAliases": [
+      "village songs and community dances",
+      "rustic songs and communal dancing"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase is not inherently contemptuous: preserve both festive and disparaging contexts.",
+    "CreatedBy": "Codex Batch40 construction C",
+    "WrittenUtc": "2026-07-29T06:01:13.766080Z"
+  },
+  {
     "SourceTerm": "杓卜聽虚聲",
     "PreferredTarget": "to divine with a ladle and listen to an empty sound",
     "AlternateTargets": [],
@@ -33752,6 +33872,21 @@
     "Note": "The term may picture a harmful saying, a teaching wrongly received, or poison countered by medicine; context determines whether the force is critical, playful, or remedial.",
     "CreatedBy": "Codex f004 B1031-1040 full-case repair author",
     "WrittenUtc": "2026-07-15T15:42:24.584850+00:00"
+  },
+  {
+    "SourceTerm": "毗耶杜詞",
+    "PreferredTarget": "at Vaisali, words were cut off",
+    "AlternateTargets": [
+      "Vimalakirti stopped speaking at Vaisali"
+    ],
+    "SearchAliases": [
+      "at Vaisali, words were cut off",
+      "Vimalakirti stopped speaking at Vaisali"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase is a historical allusion, not a generic instruction to keep silent.",
+    "CreatedBy": "Codex Batch40 construction C",
+    "WrittenUtc": "2026-07-29T06:01:13.766080Z"
   },
   {
     "SourceTerm": "毘婆尸佛早留心，直至而今不得妙",
@@ -49492,6 +49627,22 @@
     "WrittenUtc": "2026-07-15T19:20:19.434804+00:00"
   },
   {
+    "SourceTerm": "蝦蟆蚯蚓",
+    "PreferredTarget": "frogs and earthworms",
+    "AlternateTargets": [
+      "toads and earthworms"
+    ],
+    "SearchAliases": [
+      "frogs and earthworms",
+      "toads and earthworms",
+      "蝦蟇蚯蚓"
+    ],
+    "Status": "preferred",
+    "Note": "The graphic form 蝦蟇蚯蚓 is a lookup alias only and contributes no separate witness or evidence depth.",
+    "CreatedBy": "Codex Batch40 lane-B construction",
+    "WrittenUtc": "2026-07-29T06:03:47.061690Z"
+  },
+  {
     "SourceTerm": "蝸角",
     "PreferredTarget": "a snail's horn",
     "AlternateTargets": [
@@ -53498,6 +53649,21 @@
     "WrittenUtc": "2026-07-19T00:40:37.009445Z"
   },
   {
+    "SourceTerm": "踢倒淨瓶",
+    "PreferredTarget": "kick over the water pitcher",
+    "AlternateTargets": [
+      "kicking over the water pitcher"
+    ],
+    "SearchAliases": [
+      "kick over the water pitcher",
+      "kicking over the water pitcher"
+    ],
+    "Status": "preferred",
+    "Note": "This is the identity of a particular case action, not a generic instruction to overturn ritual vessels.",
+    "CreatedBy": "Codex Batch40 lane-B construction",
+    "WrittenUtc": "2026-07-29T06:03:47.044766Z"
+  },
+  {
     "SourceTerm": "踢起便行",
     "PreferredTarget": "kick up and go at once",
     "AlternateTargets": [],
@@ -53833,6 +53999,21 @@
     "WrittenUtc": "2026-07-18T09:10:50.968463Z"
   },
   {
+    "SourceTerm": "轟雷掣電",
+    "PreferredTarget": "thunder crashes and lightning flashes",
+    "AlternateTargets": [
+      "with thunderous force and lightning speed"
+    ],
+    "SearchAliases": [
+      "thunder crashes and lightning flashes",
+      "with thunderous force and lightning speed"
+    ],
+    "Status": "preferred",
+    "Note": "Prefatory praise is excluded from direct-master depth; retain both force and speed.",
+    "CreatedBy": "Codex Batch40 construction C",
+    "WrittenUtc": "2026-07-29T06:01:13.766080Z"
+  },
+  {
     "SourceTerm": "辜負",
     "PreferredTarget": "to let down",
     "AlternateTargets": [
@@ -54129,6 +54310,21 @@
     "Note": "The image is repeatedly contrasted with following the water's direction.",
     "CreatedBy": "Codex cohort-002 lane-B author",
     "WrittenUtc": "2026-07-18T23:50:00Z"
+  },
+  {
+    "SourceTerm": "逆行順行天莫測",
+    "PreferredTarget": "whether moving contrary or moving with it, even heaven cannot fathom it",
+    "AlternateTargets": [
+      "contrary or compliant, beyond heaven's reckoning"
+    ],
+    "SearchAliases": [
+      "whether moving contrary or moving with it, even heaven cannot fathom it",
+      "contrary or compliant, beyond heaven's reckoning"
+    ],
+    "Status": "preferred",
+    "Note": "Contrary and compliant movement are not fixed moral categories, and heaven's inability to fathom is hyperbole.",
+    "CreatedBy": "Codex Batch40 construction C",
+    "WrittenUtc": "2026-07-29T06:01:16.564275Z"
   },
   {
     "SourceTerm": "逆順縱横",
@@ -58316,6 +58512,21 @@
     "WrittenUtc": "2026-07-15T18:59:02.906491+00:00"
   },
   {
+    "SourceTerm": "雞棲鳳巢",
+    "PreferredTarget": "a chicken roosts in a phoenix nest",
+    "AlternateTargets": [
+      "the wrong kind in an exalted nest"
+    ],
+    "SearchAliases": [
+      "a chicken roosts in a phoenix nest",
+      "the wrong kind in an exalted nest"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the chicken-and-phoenix mismatch rather than replacing it with generic inferiority.",
+    "CreatedBy": "Codex Batch40 construction C",
+    "WrittenUtc": "2026-07-29T06:01:13.766080Z"
+  },
+  {
     "SourceTerm": "雞鳴丑",
     "PreferredTarget": "cockcrow, the chou period",
     "AlternateTargets": [
@@ -60416,6 +60627,21 @@
     "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
     "CreatedBy": "Codex independent Lane C semantic repair",
     "WrittenUtc": "2026-07-17T00:58:51.358475+00:00"
+  },
+  {
+    "SourceTerm": "飲酒食肉",
+    "PreferredTarget": "drink wine and eat meat",
+    "AlternateTargets": [
+      "drinking wine and eating meat"
+    ],
+    "SearchAliases": [
+      "drink wine and eat meat",
+      "drinking wine and eating meat"
+    ],
+    "Status": "preferred",
+    "Note": "The paired actions remain concrete; approval, condemnation, indulgence, and nonattachment come from context.",
+    "CreatedBy": "Codex Batch40 construction C",
+    "WrittenUtc": "2026-07-29T06:01:16.564275Z"
   },
   {
     "SourceTerm": "養子不及父、家門一世衰",
