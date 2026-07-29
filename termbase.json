@@ -27162,6 +27162,18 @@
     "WrittenUtc": "2026-07-18T17:03:34Z"
   },
   {
+    "SourceTerm": "把纜放船",
+    "PreferredTarget": "hold the cable while letting the boat go",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "hold the cable and release the boat"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 抱橋柱澡洗 as the paired criticism.",
+    "CreatedBy": "V7 batch72 admitted constructor C",
+    "WrittenUtc": "2026-07-29T16:52:00Z"
+  },
+  {
     "SourceTerm": "把關",
     "PreferredTarget": "to guard the barrier",
     "AlternateTargets": [
@@ -49554,6 +49566,18 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "終成敗壞",
+    "PreferredTarget": "will ultimately fall into ruin",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "ultimately fall into ruin"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the longer 有相修行多劫終成敗壞 distinct. No lamp is retained.",
+    "CreatedBy": "V7 batch72 admitted constructor C",
+    "WrittenUtc": "2026-07-29T16:52:00Z"
+  },
+  {
     "SourceTerm": "結冬",
     "PreferredTarget": "open the winter assembly",
     "AlternateTargets": [
@@ -58219,6 +58243,18 @@
     "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
+  },
+  {
+    "SourceTerm": "趙州訪茱萸",
+    "PreferredTarget": "Zhaozhou visits Zhuyu",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Zhaozhou visits Zhuyu"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 探水, 一滴也無, and 靠壁而出 to the case.",
+    "CreatedBy": "V7 batch72 admitted constructor C",
+    "WrittenUtc": "2026-07-29T16:52:00Z"
   },
   {
     "SourceTerm": "趨向真如亦是邪",
