@@ -4661,9 +4661,9 @@
       "stride alone through the crimson sky"
     ],
     "Status": "preferred",
-    "Note": "Keep the cohesive four-graph image; do not collapse it into generic 獨步 or 丹霄. One higher-tier deployment controls this provisional entry; no lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The skyward stride is an image of unimpeded activity, not a claim that a person literally walks in the sky.",
+    "CreatedBy": "R25 repaired-workflow constructor C",
+    "WrittenUtc": "2026-07-29T22:56:14.436451Z"
   },
   {
     "SourceTerm": "丹霞燒佛",
@@ -25493,15 +25493,15 @@
   },
   {
     "SourceTerm": "恐上紙筆",
-    "PreferredTarget": "I could speak, but I fear it would go onto paper",
+    "PreferredTarget": "I fear it would go onto paper",
     "AlternateTargets": [],
     "SearchAliases": [
-      "I could speak, but I fear it would go onto paper"
+      "I fear it would go onto paper"
     ],
     "Status": "preferred",
-    "Note": "恐 governs 上紙筆: the concern is that the saying will be committed to writing, not inability to speak. Keep 道即不辭 and Liangshan's response in view. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The speaker does not say that writing is impossible; he declines because a spoken line could become fixed in writing.",
+    "CreatedBy": "R25 repaired-workflow constructor C",
+    "WrittenUtc": "2026-07-29T22:56:14.436451Z"
   },
   {
     "SourceTerm": "恩大難酬",
@@ -32247,22 +32247,18 @@
   },
   {
     "SourceTerm": "是什麼",
-    "PreferredTarget": "what is it?",
-    "AlternateTargets": [
-      "what is this?",
-      "what is ...?"
-    ],
+    "PreferredTarget": "what ...?",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "what is it",
-      "what is this",
-      "what is that",
-      "what is the thing",
-      "what person is it"
+      "what ...?",
+      "what is it?",
+      "what person?",
+      "what meaning?"
     ],
     "Status": "preferred",
-    "Note": "What is this? functions as a direct public question about the indicated object, person, place, or phrase; the expression itself does not supply a hidden referent.",
-    "CreatedBy": "Codex f002 Lane B evidence-first refresh",
-    "WrittenUtc": "2026-07-16T12:01:39.532559+00:00"
+    "Note": "Do not force an English pronoun into every occurrence: 什麼 may be independent or attributive before a noun. The surrounding exchange supplies the object, person, kind, or meaning being questioned.",
+    "CreatedBy": "R25 repaired-workflow constructor C",
+    "WrittenUtc": "2026-07-29T22:56:14.436451Z"
   },
   {
     "SourceTerm": "是什麼語話",
