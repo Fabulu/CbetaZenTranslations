@@ -16232,6 +16232,18 @@
     "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
   },
   {
+    "SourceTerm": "土曠人稀",
+    "PreferredTarget": "the land is broad and people are few",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the land is broad and people are few"
+    ],
+    "Status": "preferred",
+    "Note": "Provisional lamp-only sense supported by two independent Tier-3 deployments; no Tier 1/2 controller was found and no padding is permitted.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "土曠人稀、相逢者少",
     "PreferredTarget": "broad land, scarce people, and rare encounters",
     "AlternateTargets": [],
@@ -30816,6 +30828,18 @@
     "Note": "Six independent rulebooks and biographies attest the transient-guest quarters through supplies, arrival rules, and lodging events.",
     "CreatedBy": "Codex construction Lane C positions31-40 explicit full-case author",
     "WrittenUtc": "2026-07-17T11:30:40.463541+00:00"
+  },
+  {
+    "SourceTerm": "早曾落却天魔膽",
+    "PreferredTarget": "long ago it struck terror into the heavenly demons",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "long ago it struck terror into the heavenly demons"
+    ],
+    "Status": "preferred",
+    "Note": "A stable complete line in the 大丈夫秉慧劍 verse; preserve its perfective force and demon-subduing image. The Tier-3 witness is later corroboration only; the Tier-2 saying controls the sense.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "明中暗",
@@ -46073,6 +46097,18 @@
     "Note": "The phrase occurs once in Zhuanyu Guanheng's own verse.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-22T12:00:00Z"
+  },
+  {
+    "SourceTerm": "祥麟只有一隻角",
+    "PreferredTarget": "the auspicious qilin has only one horn",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the auspicious qilin has only one horn"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the full seven-graph line; 祥麟 and 一隻角 alone do not carry its case-specific closure. The Tier-3 witness is later corroboration only; the Tier-2 saying controls the sense.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "禍不單行",
@@ -61718,6 +61754,18 @@
     "WrittenUtc": "2026-07-15T04:52:26.825273+00:00"
   },
   {
+    "SourceTerm": "降將不斬",
+    "PreferredTarget": "a surrendered general is not executed",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a surrendered general is not executed"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the complete four-graph maxim; do not reduce it to 降將 or inflate it into a general doctrine of nonviolence. The Tier-3 witness is later corroboration only; the Tier-2 case controls the sense.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "陝府灌鐵牛",
     "PreferredTarget": "the Shaanfu cast-iron ox",
     "AlternateTargets": [
@@ -65389,6 +65437,18 @@
     "Note": "The donkey-carries and horse-bears pairing remains one image of ordinary transport applied to what is being carried.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T15:15:43.102352Z"
+  },
+  {
+    "SourceTerm": "驢鳴犬吠",
+    "PreferredTarget": "donkeys braying and dogs barking",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "donkeys braying and dogs barking"
+    ],
+    "Status": "preferred",
+    "Note": "A conventional paired sound-image used both as an answer and as ordinary street noise implicated in the teaching. The Tier-3 witness is later corroboration only; the Tier-2 saying controls the sense.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "驢鳴狗吠",
