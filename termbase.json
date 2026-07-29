@@ -46751,7 +46751,7 @@
       "the raider loses"
     ],
     "Status": "preferred",
-    "Note": "A taunting verdict aimed at the person whose move has just been tested. Four witnesses preserve one Zhaozhou-hermit encounter and count as one use; Chongfan Yu and Renwang Chuping supply two independent uses.",
+    "Note": "One early sayings record and one distinct lamp deployment preserve two independent uses. Parallel Zhaozhou lamp recensions and duplicate occurrences from the same work are omitted rather than counted as additional depth.",
     "CreatedBy": "Codex Iriya construction lane A positions 43–50",
     "WrittenUtc": "2026-07-18T08:01:12.742786Z"
   },
@@ -47012,7 +47012,7 @@
       "Hua peak joins heaven"
     ],
     "Status": "preferred",
-    "Note": "All retained witnesses reproduce one Shantang verse; they are not counted as independent deployments.",
+    "Note": "A single lamp family preserves Shantang Dechun's verse. Parallel lamp recensions are omitted rather than counted as independent deployments; stronger-source exhaustion remains independently reviewable.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T12:00:00Z"
   },
@@ -47294,7 +47294,7 @@
       "falling blossoms third month dream"
     ],
     "Status": "preferred",
-    "Note": "The complete couplet occurs once in the frozen corpus and remains provisional.",
+    "Note": "One Tier-3 lineage handbook preserves the complete couplet in Zhihai Purong's verse on the shout that is not used as a shout; no second family is claimed.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-22T04:00:00Z"
   },
@@ -48658,9 +48658,9 @@
       "behold Buddha"
     ],
     "Status": "preferred",
-    "Note": "Only grammatical instances of 見 followed by 佛 are retained. 見佛性 belongs to 見 + 佛性, while 見佛所行道 means to see the path the Buddha walked; neither validates this headword.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T23:55:00Z"
+    "Note": "The compound means to see the Buddha. Two independent named-master discourse records show different predicates around that act without relying on lamp compilations.",
+    "CreatedBy": "canary028_source_hierarchy_repair",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "見兎放鷹",
@@ -48992,9 +48992,9 @@
       "fetch fire and water couplet"
     ],
     "Status": "preferred",
-    "Note": "The witnesses do not state a fixed equation for fire, smoke, water, or moon; the entry keeps the observable accompaniment relation.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T12:00:00Z"
+    "Note": "The complete couplet survives here in two different Tier-3 deployments. The bounded exact search found no Tier-1 or Tier-2 complete witness; the two lamps remain because they preserve distinct uses, not parallel recensions.",
+    "CreatedBy": "canary028_source_hierarchy_repair",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "親見",
