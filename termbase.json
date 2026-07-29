@@ -4894,6 +4894,18 @@
     "WrittenUtc": "2026-07-20T14:00:00Z"
   },
   {
+    "SourceTerm": "乞我一文錢",
+    "PreferredTarget": "give me a single cash coin",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "give me a single cash coin"
+    ],
+    "Status": "preferred",
+    "Note": "Bind the outstretched hand, put-down bag, or person-being-awaited scene when supplied by context; 一文錢 is one cash coin and not an abstract price. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "也好一拶",
     "PreferredTarget": "that too deserves one sharp press",
     "AlternateTargets": [
@@ -20063,6 +20075,18 @@
     "WrittenUtc": "2026-07-17T00:00:00Z"
   },
   {
+    "SourceTerm": "宜作舟航",
+    "PreferredTarget": "you should serve as a boat and ferry",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "you should serve as a boat and ferry"
+    ],
+    "Status": "preferred",
+    "Note": "舟航 is a conveyance image for carrying others across; bind the recurrent 欲益無所益，欲為無所為 lead-in and do not reduce it to literal travel advice. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "客來須看，賊來須打",
     "PreferredTarget": "when a guest comes, inspect and when a thief comes, strike",
     "AlternateTargets": [],
@@ -27892,6 +27916,18 @@
     "WrittenUtc": "2026-07-18T07:00:46.837781+00:00"
   },
   {
+    "SourceTerm": "揚聲止響",
+    "PreferredTarget": "raise a sound to stop its echo",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "raise a sound to stop its echo"
+    ],
+    "Status": "preferred",
+    "Note": "Bind the failure to recognize sound as the root of the echo and govern playing with the shadow while fleeing the form as the recurrent parallel; the phrase criticizes counterproductive causal handling, not sound itself. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "換却你眼睛",
     "PreferredTarget": "replace your eyes",
     "AlternateTargets": [],
@@ -30005,6 +30041,18 @@
     ],
     "Status": "preferred",
     "Note": "旋 means done on the spot or as needed, 生柴 is unseasoned green firewood, and 帶葉 means with leaves still attached; do not normalize the line into efficient firewood preparation. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "旋風打散",
+    "PreferredTarget": "scatter them like a whirlwind",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "scatter them like a whirlwind"
+    ],
+    "Status": "preferred",
+    "Note": "旋風 modifies the manner or force of 打散; bind the people or competing responders supplied by context and do not turn the formula into meteorological description. No lamp is retained.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
@@ -43790,6 +43838,18 @@
     "WrittenUtc": "2026-07-29T06:12:13.698079Z"
   },
   {
+    "SourceTerm": "瞬目揚眉",
+    "PreferredTarget": "blink the eyes and raise the eyebrows",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "blink the eyes and raise the eyebrows"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the two coordinated gestures together. Context decides whether they demonstrate ready functioning or are criticized as an accommodated display; do not reduce the phrase to ordinary facial movement. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "瞻前顧後",
     "PreferredTarget": "looking ahead and glancing behind",
     "AlternateTargets": [],
@@ -54634,6 +54694,18 @@
     "WrittenUtc": "2026-07-15T05:09:02.950859+00:00"
   },
   {
+    "SourceTerm": "買石得雲饒",
+    "PreferredTarget": "buy a rock and get clouds thrown in for free",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "buy a rock and get clouds thrown in for free"
+    ],
+    "Status": "preferred",
+    "Note": "饒 is the extra amount included gratis, not merely abundance; retain the transactional contrast between the purchased rock and the accompanying clouds. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "買鐵得金",
     "PreferredTarget": "buy iron and obtain gold",
     "AlternateTargets": [],
@@ -60571,6 +60643,18 @@
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
   },
   {
+    "SourceTerm": "集雲峰下四藤條",
+    "PreferredTarget": "the four cane blows below Jiyun Peak",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the four cane blows below Jiyun Peak"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the Jiyun location and exactly four cane blows. The longer boast 天下大禪佛 is Jingtong's attached self-title, while generic instances of four blows are not this case-name. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "雖是死蛇，解弄也活",
     "PreferredTarget": "though it is a dead snake, skillful handling brings it alive",
     "AlternateTargets": [
@@ -61784,6 +61868,18 @@
     "WrittenUtc": "2026-07-17T11:41:32.964076+00:00"
   },
   {
+    "SourceTerm": "韻出青霄",
+    "PreferredTarget": "its resonance issues into the blue heavens",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "its resonance issues into the blue heavens"
+    ],
+    "Status": "preferred",
+    "Note": "Govern the “beyond the pitch-pipes” or “not falling within the five tones” continuations and the knowing-hearer continuation where present; 韻 is resonance or musical quality, not merely spoken rhyme. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "頂天立地",
     "PreferredTarget": "to stand with one’s head against heaven and feet on earth",
     "AlternateTargets": [
@@ -62909,6 +63005,18 @@
     "Note": "The ordinary-life formula presents eating as the direct response to hunger, often paired with sleeping when tired.",
     "CreatedBy": "packet3 exact5 owner construction",
     "WrittenUtc": "2026-07-27T22:15:00Z"
+  },
+  {
+    "SourceTerm": "饑來喫飯困來眠",
+    "PreferredTarget": "when hungry, eat; when tired, sleep",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "when hungry, eat; when tired, sleep"
+    ],
+    "Status": "preferred",
+    "Note": "Keep both need-and-response clauses and govern the alternate and headword hunger graphs as graphic variants; the expression does not by itself prescribe a lifestyle or sleep technique. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "饑餐渴飲",
@@ -64279,6 +64387,18 @@
     "WrittenUtc": "2026-07-18T20:30:00Z"
   },
   {
+    "SourceTerm": "鱉鼻蛇",
+    "PreferredTarget": "a turtle-nosed snake",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a turtle-nosed snake"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the fixed snake name and treat South Mountain as its recurrent case location; do not replace the textual creature with a speculative modern species identification. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "鳥嘴魚顋",
     "PreferredTarget": "bird-beaked and fish-gilled",
     "AlternateTargets": [
@@ -64921,6 +65041,18 @@
     "Note": "The sources supply the bucket’s own morphology—hoop and bottom—and the verbs break, enter, and leap. They do not identify one unstated referent shared by every occurrence.",
     "CreatedBy": "Codex fresh f001 lane B evidence-first",
     "WrittenUtc": "2026-07-23T18:00:00Z"
+  },
+  {
+    "SourceTerm": "黑漫漫",
+    "PreferredTarget": "boundlessly dark",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "boundlessly dark"
+    ],
+    "Status": "preferred",
+    "Note": "The reduplicated 漫漫 supplies engulfing extent beyond bare 黑; retain concrete darkness where the passage is concrete and do not automatically doctrinalize it as ignorance. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "黑豆未生芽",
