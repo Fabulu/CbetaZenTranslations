@@ -32430,9 +32430,9 @@
       "plain as sun and stars"
     ],
     "Status": "preferred",
-    "Note": "Two independent Tier-2 recorded-sayings deployments retain the paired ordinary visibility of sun by day and stars by night. Both former lamp rows are omitted.",
-    "CreatedBy": "Codex lamp-only repair cohort008 lane A",
-    "WrittenUtc": "2026-07-18T20:50:52Z"
+    "Note": "Three independent deployments meet floor 3: direct uses by Zhe'an Fan and Yuan'an Feng, plus Yunmen Wenyan's inherited eye-answer. Parallel Old Recorded Sayings and lamp recensions count only with Yunmen's family.",
+    "CreatedBy": "Codex R14 three-family repair",
+    "WrittenUtc": "2026-07-29T21:10:00Z"
   },
   {
     "SourceTerm": "晡時申",
@@ -36396,7 +36396,7 @@
   },
   {
     "SourceTerm": "歷歷",
-    "PreferredTarget": "distinctly clear",
+    "PreferredTarget": "plainly distinct",
     "AlternateTargets": [
       "clearly distinct",
       "vividly evident"
@@ -36408,9 +36408,9 @@
       "clear and distinct"
     ],
     "Status": "preferred",
-    "Note": "Distinctly clear describes a person, sound, scene, or statement presented as individually evident rather than blurred; the surrounding noun identifies what is clear.",
-    "CreatedBy": "Codex legacy full rebuild Lane A",
-    "WrittenUtc": "2026-07-16T18:01:55.957580+00:00"
+    "Note": "Exact corpus count: 1663 hits in 337 files representing 330 independent works. Evidence floor: 7. Lamps do not control this sense.",
+    "CreatedBy": "Codex R14 source-tier repair",
+    "WrittenUtc": "2026-07-29T20:40:00Z"
   },
   {
     "SourceTerm": "歷歷直言歷歷",
@@ -52046,7 +52046,7 @@
   },
   {
     "SourceTerm": "臘月三十日到來",
-    "PreferredTarget": "when the last day of the twelfth month arrives",
+    "PreferredTarget": "when the thirtieth day of the twelfth month arrives",
     "AlternateTargets": [
       "when year's end arrives"
     ],
@@ -52055,9 +52055,9 @@
       "year-end deadline"
     ],
     "Status": "preferred",
-    "Note": "The retained witness is literal year-end. A death-reckoning reading belongs to the wider expression family but is not assigned to this occurrence.",
-    "CreatedBy": "source_tiers_c_batch23",
-    "WrittenUtc": null
+    "Note": "Exact corpus count: 114 hits in 72 files representing 72 independent works. Evidence floor: 6. Lamps do not control this sense.",
+    "CreatedBy": "Codex R14 source-tier repair",
+    "WrittenUtc": "2026-07-29T20:40:00Z"
   },
   {
     "SourceTerm": "臘月火燒山",
@@ -60966,7 +60966,7 @@
   },
   {
     "SourceTerm": "邪解",
-    "PreferredTarget": "deviant understanding",
+    "PreferredTarget": "erroneous interpretation",
     "AlternateTargets": [
       "a crooked interpretation",
       "misdirected understanding"
@@ -60978,9 +60978,9 @@
       "rebuked interpretation"
     ],
     "Status": "preferred",
-    "Note": "Direct verdicts, quoted exposition, and biography remain separately attributed while sharing the same evaluative sense.",
-    "CreatedBy": "Codex Lane A evidence-first calibration",
-    "WrittenUtc": "2026-07-17T16:07:38.025480+00:00"
+    "Note": "Exact corpus count: 100 hits in 51 files representing 50 independent works. Evidence floor: 6. Lamps do not control this sense.",
+    "CreatedBy": "Codex R14 source-tier repair",
+    "WrittenUtc": "2026-07-29T20:40:00Z"
   },
   {
     "SourceTerm": "邯鄲",
@@ -62623,16 +62623,16 @@
   },
   {
     "SourceTerm": "鐘作鐘鳴",
-    "PreferredTarget": "the bell sounds as a bell",
+    "PreferredTarget": "the bell rings as a bell",
     "AlternateTargets": [],
     "SearchAliases": [
       "the bell sounds as a bell",
       "a bell sounds as a bell"
     ],
     "Status": "preferred",
-    "Note": "Govern 鼓作鼓響 as the recurrent second half and preserve each instrument's own sounding; this is not an acoustic definition. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "Exact corpus count: 22 hits in 18 files representing 18 independent works. Evidence floor: 4. Lamps do not control this sense.",
+    "CreatedBy": "Codex R14 source-tier repair",
+    "WrittenUtc": "2026-07-29T20:40:00Z"
   },
   {
     "SourceTerm": "鐘板",
