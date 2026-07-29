@@ -7646,6 +7646,19 @@
     "WrittenUtc": "2026-07-18T06:50:51.935330Z"
   },
   {
+    "SourceTerm": "倚門傍戶",
+    "PreferredTarget": "lean on gates and cling to doorways",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "lean on gates cling to doorways",
+      "depend on another household"
+    ],
+    "Status": "preferred",
+    "Note": "Exclude literal descriptions of standing near buildings. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "倚陰博陽",
     "PreferredTarget": "to lean on the dark and trade in the bright",
     "AlternateTargets": [],
@@ -10175,6 +10188,19 @@
     "Note": "The common alternate graph for the first character is registered as a search variant of the same phrase. One witness quotes Shishuang; the other is an independent interview question.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T20:00:00Z"
+  },
+  {
+    "SourceTerm": "刀不自割",
+    "PreferredTarget": "a knife does not cut itself",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "knife does not cut itself",
+      "blade cannot cut itself"
+    ],
+    "Status": "preferred",
+    "Note": "Do not infer a universal theory of self-reference from every local use. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "刀斫不入",
@@ -16506,6 +16532,19 @@
     "Note": "The compound joins dust, the traditional image for sensory defilement, with the objects or field encountered through the faculties.",
     "CreatedBy": "packet3 exact5 owner construction",
     "WrittenUtc": "2026-07-27T22:15:00Z"
+  },
+  {
+    "SourceTerm": "墮坑落塹",
+    "PreferredTarget": "fall into pits and ditches",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "fall into pits and ditches",
+      "land in error"
+    ],
+    "Status": "preferred",
+    "Note": "Exclude literal accidents involving pits or ditches. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "墮坑落壍",
@@ -23736,6 +23775,19 @@
     "WrittenUtc": "2026-07-19T12:00:00Z"
   },
   {
+    "SourceTerm": "快馬一鞭",
+    "PreferredTarget": "a swift horse needs one stroke of the whip",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "swift horse one whip",
+      "one prompt for a quick horse"
+    ],
+    "Status": "preferred",
+    "Note": "Keep 智者一言 and 快人一言 as paired openings, not silent equivalents. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "快馬一鞭、快人一言",
     "PreferredTarget": "one lash for a swift horse; one word for a quick person",
     "AlternateTargets": [
@@ -28860,6 +28912,19 @@
     "WrittenUtc": "2026-07-21T19:52:49.361468+00:00"
   },
   {
+    "SourceTerm": "敗將不斬",
+    "PreferredTarget": "a defeated general is not executed",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "defeated general is not executed",
+      "do not behead a beaten general"
+    ],
+    "Status": "preferred",
+    "Note": "Its tone may be merciful, mocking, or procedurally final according to the exchange. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "敗缺不少",
     "PreferredTarget": "no small amount of failure has been exposed",
     "AlternateTargets": [],
@@ -29003,6 +29068,19 @@
     "Note": "The criticism belongs to this appraisal; literal tapping or building work is not thereby defined as error.",
     "CreatedBy": "Codex Batch41 construction C",
     "WrittenUtc": "2026-07-29T06:12:13.698079Z"
+  },
+  {
+    "SourceTerm": "敲空有響",
+    "PreferredTarget": "strike empty space and it resounds",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "strike empty space and it resounds",
+      "empty space answers a strike"
+    ],
+    "Status": "preferred",
+    "Note": "Keep 擊木無聲 and the complete balanced line as family context. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "敲骨取髓",
@@ -34275,6 +34353,19 @@
     "WrittenUtc": "2026-07-15T15:42:24.584850+00:00"
   },
   {
+    "SourceTerm": "比丘少慚愧",
+    "PreferredTarget": "monks have little sense of shame",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "monks lack shame",
+      "little integrity among monks"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 佛滅二千年 and keep the charge on its stated target. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "毗耶杜詞",
     "PreferredTarget": "at Vaisali, words were cut off",
     "AlternateTargets": [
@@ -34328,6 +34419,19 @@
     "Note": "Vinaya names the disciplinary code and its field of study; masters invoke it as an institutional authority and test what attention to it accomplishes.",
     "CreatedBy": "Codex precept next-wave author",
     "WrittenUtc": "2026-07-21T16:40:00Z"
+  },
+  {
+    "SourceTerm": "毫釐有差",
+    "PreferredTarget": "off by the slightest hairbreadth",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "off by a hairbreadth",
+      "slightest deviation"
+    ],
+    "Status": "preferred",
+    "Note": "Govern 天地懸隔 and the complete paired formula as family evidence. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "氣急殺人",
@@ -38567,6 +38671,19 @@
     "Note": "Ordinary memory language lacking the familiar-place construction is outside this article. Tanyan is source-identified as an exact speaker but remains unlinked because the roster has no resolved match.",
     "CreatedBy": "Codex Iriya lane A151-167 full-case author",
     "WrittenUtc": "2026-07-18T18:39:23Z"
+  },
+  {
+    "SourceTerm": "熱則乘凉",
+    "PreferredTarget": "when hot, take the cool",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "when hot take the cool",
+      "seek coolness in heat"
+    ],
+    "Status": "preferred",
+    "Note": "Do not inflate ordinary adaptation into a universal doctrine. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "熱則普天普地熱",
@@ -50177,6 +50294,19 @@
     "WrittenUtc": "2026-07-22T04:00:00Z"
   },
   {
+    "SourceTerm": "蘇盧蘇盧",
+    "PreferredTarget": "sulu, sulu",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "sulu sulu",
+      "su-lu su-lu"
+    ],
+    "Status": "preferred",
+    "Note": "Leave the syllables transliterated unless a source-specific derivation is proved. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "虎口裏横身",
     "PreferredTarget": "place one's body across the tiger's mouth",
     "AlternateTargets": [],
@@ -59401,6 +59531,19 @@
     "WrittenUtc": "2026-07-19T01:22:12.570781Z"
   },
   {
+    "SourceTerm": "雞向五更啼",
+    "PreferredTarget": "the cock crows at the fifth watch",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "cock crows at fifth watch",
+      "fifth-watch cockcrow"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the temporal event concrete; do not make the cock a fixed doctrinal symbol. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "雞寒上樹鴨寒下水",
     "PreferredTarget": "when cold, chickens climb trees and ducks enter the water",
     "AlternateTargets": [
@@ -63144,6 +63287,19 @@
     "Note": "The scope is the fixed goose-and-duck comparison, not zoological classification.",
     "CreatedBy": "Codex post720 Lane A canary",
     "WrittenUtc": "2026-07-17T13:32:15.971693+00:00"
+  },
+  {
+    "SourceTerm": "鵓鳩樹上啼",
+    "PreferredTarget": "the turtledove cries in the tree",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "turtledove cries in the tree",
+      "tree-top turtledove call"
+    ],
+    "Status": "preferred",
+    "Note": "Do not assign a universal symbolic value to the bird or its cry. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "鵝王",
