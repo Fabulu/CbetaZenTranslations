@@ -56674,6 +56674,19 @@
     "WrittenUtc": "2026-07-15T19:30:38.094829+00:00"
   },
   {
+    "SourceTerm": "豎起脊梁",
+    "PreferredTarget": "straighten the spine",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "straighten the spine",
+      "raise the backbone"
+    ],
+    "Status": "preferred",
+    "Note": "The retained passages attest an erect spinal action while seated; the phrase does not by itself define a contemplative procedure. No lamp is retained.",
+    "CreatedBy": "V7 batch66 admitted19 constructor C",
+    "WrittenUtc": "2026-07-29T14:30:00Z"
+  },
+  {
     "SourceTerm": "豐干",
     "PreferredTarget": "Fenggan",
     "AlternateTargets": [
@@ -68034,6 +68047,18 @@
     "Note": "The corpus returns 10 exact-form hits in 8 works; the retained witnesses run from Changlu Miaojue Huiwu's use to Changlu Miaojue Huiwu's independently preserved handling.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T15:15:46.891396Z"
+  },
+  {
+    "SourceTerm": "鼻孔大頭垂",
+    "PreferredTarget": "the nostrils hang down, broad end first",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "nostrils hang down"
+    ],
+    "Status": "preferred",
+    "Note": "Do not convert the physical line into mystical symbolism. No lamp is retained.",
+    "CreatedBy": "V7 batch66 admitted19 constructor C",
+    "WrittenUtc": "2026-07-29T14:30:00Z"
   },
   {
     "SourceTerm": "鼻孔遼天",
