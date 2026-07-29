@@ -9863,6 +9863,19 @@
     "WrittenUtc": "2026-07-18T07:32:00.202421Z"
   },
   {
+    "SourceTerm": "冬瓜直儱侗",
+    "PreferredTarget": "the winter melon is bluntly straight",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the winter melon is bluntly straight",
+      "a winter melon, bluntly muddled"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 瓠子曲彎彎 as the second half; 儱侗 conveys blunt, undifferentiated straightness here, not a botanical classification. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "冬至寒食一百五",
     "PreferredTarget": "one hundred and five days from the winter solstice to Cold Food",
     "AlternateTargets": [
@@ -10434,6 +10447,19 @@
     "Note": "The rendering is provisional because the form is opaque; retain its contextual partners and do not derive it graph by graph.",
     "CreatedBy": "Codex Batch38 construction C",
     "WrittenUtc": "2026-07-29T05:38:28.446439Z"
+  },
+  {
+    "SourceTerm": "列剎相望",
+    "PreferredTarget": "monasteries stand in sight of one another",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "monasteries stand in sight of one another",
+      "temples facing one another"
+    ],
+    "Status": "preferred",
+    "Note": "剎 denotes monasteries or temple establishments here, not Buddha-fields; context determines whether their proliferation is praised or criticized. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "初參",
@@ -16337,6 +16363,19 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "垂絲千尺",
+    "PreferredTarget": "let the line hang a thousand feet",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "let the line hang a thousand feet",
+      "lower the line a thousand feet"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 意在深潭 as the recurrent completion and distinguish the dangling line from the hook, fish, and successful catch; do not flatten it to generic patience. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "垂絲千尺、意在深潭",
     "PreferredTarget": "to hang a line a thousand feet, intent on the deep pool",
     "AlternateTargets": [],
@@ -19261,6 +19300,19 @@
     ],
     "Status": "preferred",
     "Note": "Do not generalize the line into rejection of every use of Buddha. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "嬰兒垂髮白如絲",
+    "PreferredTarget": "an infant's hanging hair is white as silk",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "an infant's hanging hair is white as silk",
+      "an infant's hanging hair white as silk"
+    ],
+    "Status": "preferred",
+    "Note": "The paired line about the warming sun spreading brocade across the ground remains a neighboring verse line. No lamp is retained.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
@@ -22821,6 +22873,19 @@
     "Note": "The witnesses distinguish Zhang Shangying’s own quoted request from narration, later commentary, indirect quotation, and documentary headings.",
     "CreatedBy": "Codex f004 A916-925 safe full-case author",
     "WrittenUtc": "2026-07-15T14:05:00Z"
+  },
+  {
+    "SourceTerm": "強作主宰",
+    "PreferredTarget": "force oneself into being in command",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "force oneself into being in command",
+      "force oneself into command"
+    ],
+    "Status": "preferred",
+    "Note": "The compound targets affected mastery, not every decisive act and not political rule. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "強將下無弱兵",
@@ -36374,6 +36439,19 @@
     "WrittenUtc": "2026-07-19T12:00:00Z"
   },
   {
+    "SourceTerm": "泥裏有刺",
+    "PreferredTarget": "there is a thorn in the mud",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "there is a thorn in the mud",
+      "a thorn hidden in mud"
+    ],
+    "Status": "preferred",
+    "Note": "The expanded forms with rotten or mire-like mud are governed phrase-family forms; the concealed thorn remains essential. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "泥裏洗土塊",
     "PreferredTarget": "to wash a clod of earth in mud",
     "AlternateTargets": [
@@ -41251,6 +41329,19 @@
     "WrittenUtc": "2026-07-19T13:41:07.848387+00:00"
   },
   {
+    "SourceTerm": "略露風規",
+    "PreferredTarget": "briefly reveal the house style",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "briefly reveal the house style",
+      "briefly disclose the house style"
+    ],
+    "Status": "preferred",
+    "Note": "風規 denotes the disclosed style here; this entry does not denote a monastic regulations code. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "異類",
     "PreferredTarget": "other kinds",
     "AlternateTargets": [
@@ -43338,6 +43429,19 @@
     "Note": "The expression asks for or discloses what the person or thing at issue really is, often against concealment, borrowed descriptions, names, or outward clothing. Context can activate visible appearance, but the compound does not ordinarily ask for a physical face.",
     "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
     "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+  },
+  {
+    "SourceTerm": "眨上眉毛",
+    "PreferredTarget": "flick up the eyebrows",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "flick up the eyebrows",
+      "blink above the brows"
+    ],
+    "Status": "preferred",
+    "Note": "Context decides whether the eyebrow movement marks recognition or delay; do not silently normalize it to ordinary blinking or facial description. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "眼不自見、刀不自割",
@@ -45840,6 +45944,19 @@
     "Note": "The pit is defined by not being filled; the witnesses do not identify a literal named location.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T14:14:02.765472Z"
+  },
+  {
+    "SourceTerm": "窮諸玄辯",
+    "PreferredTarget": "exhaust every abstruse argument",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "exhaust every abstruse argument",
+      "exhaust every subtle argument"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 若一毫置于太虛 and the parallel 竭世樞機 line as the declaration's comparison; this is not praise for argumentative mastery. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "竇八布衫",
@@ -51761,6 +51878,19 @@
     "WrittenUtc": "2026-07-19T09:18:00Z"
   },
   {
+    "SourceTerm": "袖頭打領",
+    "PreferredTarget": "join the collar at the sleeve end",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "join the collar at the sleeve end",
+      "strike the collar from the sleeve"
+    ],
+    "Status": "preferred",
+    "Note": "The companion underarm operation belongs to the expanded tailoring formula; the phrase is not general sewing advice. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "袖頭打領、腋下剜襟",
     "PreferredTarget": "to strike the collar from the sleeve and cut the lapel from under the arm",
     "AlternateTargets": [],
@@ -55164,6 +55294,19 @@
     "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
+  },
+  {
+    "SourceTerm": "趨向真如亦是邪",
+    "PreferredTarget": "heading toward true suchness is also astray",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "heading toward true suchness is also astray",
+      "pursuing suchness is still deviant"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the paired line about trying to eliminate affliction as a neighboring verse line, not part of this headword. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "足下雲生",
@@ -58725,6 +58868,19 @@
     "Note": "The two Xiushan rows count as one authored use; the other public occasions remain separate.",
     "CreatedBy": "Codex fresh construction Lane A",
     "WrittenUtc": "2026-07-17T00:00:00Z"
+  },
+  {
+    "SourceTerm": "鐘作鐘鳴",
+    "PreferredTarget": "the bell sounds as a bell",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the bell sounds as a bell",
+      "a bell sounds as a bell"
+    ],
+    "Status": "preferred",
+    "Note": "Govern 鼓作鼓響 as the recurrent second half and preserve each instrument's own sounding; this is not an acoustic definition. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "鐘板",
