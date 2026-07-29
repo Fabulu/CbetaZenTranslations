@@ -16616,6 +16616,18 @@
     "WrittenUtc": "2026-07-20T22:00:00Z"
   },
   {
+    "SourceTerm": "堪笑堪悲",
+    "PreferredTarget": "worthy of laughter, worthy of grief",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "worthy of laughter, worthy of grief"
+    ],
+    "Status": "preferred",
+    "Note": "堪 governs both coordinated reactions; preserve the simultaneous two-sided appraisal rather than choosing either comic or tragic tone alone. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "堯舜",
     "PreferredTarget": "Yao and Shun",
     "AlternateTargets": [
@@ -18479,6 +18491,19 @@
     "WrittenUtc": "2026-07-16T12:23:20.487102+00:00"
   },
   {
+    "SourceTerm": "奪食驅耕",
+    "PreferredTarget": "snatch away the food and drive off the ploughman",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "snatch away the food and drive off the ploughman",
+      "take food and drive off the ploughing ox"
+    ],
+    "Status": "preferred",
+    "Note": "The expanded hungry-person and ploughman wording and the reordered short form are governed family members, not additional senses. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "奪飢人之食",
     "PreferredTarget": "snatch food from a hungry person",
     "AlternateTargets": [],
@@ -19270,6 +19295,18 @@
     "Note": "7 independent works anchor the headword and delimit the gloss.",
     "CreatedBy": "Codex f003 Lane B evidence-first",
     "WrittenUtc": "2026-07-15T04:45:37.715308+00:00"
+  },
+  {
+    "SourceTerm": "威音前一箭",
+    "PreferredTarget": "an arrow from before King of Majestic Sound",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "an arrow from before King of Majestic Sound"
+    ],
+    "Status": "preferred",
+    "Note": "威音 abbreviates Buddha King of Majestic Sound and 前 is temporal; retain the arrow image and do not flatten it into merely 'ancient teaching.' No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "威音王",
@@ -20664,6 +20701,18 @@
     "Note": "The phrase does not guarantee spiritual attainment; its immediate object is candor without ornamental maneuver.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T12:00:00Z"
+  },
+  {
+    "SourceTerm": "寧可截舌",
+    "PreferredTarget": "better to cut out the tongue",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "better to cut out the tongue"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 不犯國諱 as the fixed second half; this is emphatic refusal to utter, not evidence of an actual mutilation. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "寮元",
@@ -22061,6 +22110,18 @@
     "Note": "The idiom depicts movement burdened by water and mud, then applies it to involved, accommodating, or insufficiently clean action.",
     "CreatedBy": "packet3 exact5 owner construction",
     "WrittenUtc": "2026-07-27T22:15:00Z"
+  },
+  {
+    "SourceTerm": "帶累三軍",
+    "PreferredTarget": "drag the whole army into trouble",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "drag the whole army into trouble"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 將頭不猛 or the local command failure where supplied; 三軍 is the entire army and 帶累 means implicate or cause trouble for others. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "帶累別人",
@@ -24531,6 +24592,18 @@
     "WrittenUtc": "2026-07-20T14:30:00Z"
   },
   {
+    "SourceTerm": "悉唎悉唎",
+    "PreferredTarget": "sili, sili",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "sili, sili"
+    ],
+    "Status": "preferred",
+    "Note": "Transliterate rather than inventing a lexical definition; govern 娑囉娑囉 when paired, and record the immediate question or verse frame that gives the syllables their local job. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "悟",
     "PreferredTarget": "awakening",
     "AlternateTargets": [
@@ -24843,6 +24916,18 @@
     ],
     "Status": "preferred",
     "Note": "Bind 智者無為 as the contrasting first half and preserve self-binding; do not import a generalized theory of stupidity. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "感應道交",
+    "PreferredTarget": "stimulus and response meet in mutual accord",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "stimulus and response meet in mutual accord"
+    ],
+    "Status": "preferred",
+    "Note": "Do not automatically turn 感應 into a supernatural miracle. The governing context may involve teacher and student, sentient and nonsentient response, or ritual and devotional correspondence. No lamp is retained.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
@@ -26307,6 +26392,18 @@
     "Note": "The records preserve selection from a mixed mass: Muchen contrasts fish-eyes mixed with pearls with his own sifting, Yuanwu applies the phrase to two elders examining a case, and Guantao praises Yunmen's quick eye and hand.",
     "CreatedBy": "Codex lane C151-166 explicit keyed full-case author",
     "WrittenUtc": "2026-07-19T09:00:00+02:00"
+  },
+  {
+    "SourceTerm": "抱子弄孫",
+    "PreferredTarget": "hold one's children and play with one's grandchildren",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "hold one's children and play with one's grandchildren"
+    ],
+    "Status": "preferred",
+    "Note": "This is shared household vocabulary, not a technical practice. Its dictionary value comes from repeated Zen deployment as unchanged daily activity; do not make parenthood or grandparenthood itself evidence of realization. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "抱橋柱",
@@ -28139,6 +28236,18 @@
     "Note": "Preserve the delegated-command and threshold image; it is not the name of a realization state.",
     "CreatedBy": "Codex Batch41 construction C",
     "WrittenUtc": "2026-07-29T06:11:19.922713Z"
+  },
+  {
+    "SourceTerm": "搖唇鼓舌",
+    "PreferredTarget": "wag the lips and drum the tongue",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "wag the lips and drum the tongue"
+    ],
+    "Status": "preferred",
+    "Note": "鼓 is the tongue's drumming or vigorous working, not a separate musical instrument; context determines whether the speech is false, excessive, or simply unable to reach the matter. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "摩尼珠",
@@ -31159,6 +31268,30 @@
     "WrittenUtc": "2026-07-17T16:00:19.168168+00:00"
   },
   {
+    "SourceTerm": "暗嗟吁",
+    "PreferredTarget": "sigh inwardly",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "sigh inwardly"
+    ],
+    "Status": "preferred",
+    "Note": "暗 marks the sigh as inward, hidden, or under one's breath; 嗟吁 is the sigh itself. Do not assign one doctrinal emotion across its different poetic subjects. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "曙色未分人盡望",
+    "PreferredTarget": "before dawn's light has broken, everyone watches for it",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "before dawn's light has broken, everyone watches for it"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 及乎天曉也尋常 as the recurrent second half; 未分 describes dawn light not yet distinguishable, not disagreement among the people. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "曲彔木",
     "PreferredTarget": "crooked wooden teaching chair",
     "AlternateTargets": [
@@ -31283,6 +31416,18 @@
     "Note": "Direct speech, office lists, authorship notices, and narrated title mentions remain distinct.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:30:57.027055+00:00"
+  },
+  {
+    "SourceTerm": "曹山好顛酒",
+    "PreferredTarget": "Caoshan's fine madcap wine",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Caoshan's fine madcap wine"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the wine and intoxication wordplay concrete; 好 can commend the wine while 顛 characterizes its wild or overturning effect, and context may exploit the phrase rather than parse it as ordinary biography. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "曹洞",
@@ -33124,6 +33269,18 @@
     "WrittenUtc": "2026-07-18T17:03:34Z"
   },
   {
+    "SourceTerm": "析肉還母",
+    "PreferredTarget": "separate his flesh and return it to his mother",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "separate his flesh and return it to his mother"
+    ],
+    "Status": "preferred",
+    "Note": "Bind the companion 析骨還父 and the ensuing question about Nezha's present body. 析 is cutting or dividing up, not merely giving back an intact body. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "果位",
     "PreferredTarget": "the attained fruit-stage",
     "AlternateTargets": [
@@ -34325,6 +34482,18 @@
     "WrittenUtc": "2026-07-15T02:21:36.133754+00:00"
   },
   {
+    "SourceTerm": "歡喜踊躍",
+    "PreferredTarget": "rejoice and leap for joy",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "rejoice and leap for joy"
+    ],
+    "Status": "preferred",
+    "Note": "This is shared Buddhist and literary vocabulary, but the Zen records give it a concrete narrative job. Do not make the emotion itself proof of awakening or doctrinal attainment. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "正中來",
     "PreferredTarget": "coming from within the absolute",
     "AlternateTargets": [
@@ -35060,6 +35229,19 @@
     "Note": "6 exact witnesses from 6 distinct canonical works.",
     "CreatedBy": "Codex construction Lane B fresh author",
     "WrittenUtc": "2026-07-17T05:47:08.167553+00:00"
+  },
+  {
+    "SourceTerm": "殿閣生微凉",
+    "PreferredTarget": "a slight coolness arises in the palace halls",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a slight coolness arises in the palace halls",
+      "a faint coolness rises in the halls"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 薰風自南來 as the first half and retain the received poetic scene; its Chan use does not make every description of a cool hall a realization formula. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "殿閣生微涼",
@@ -37914,6 +38096,18 @@
     "WrittenUtc": "2026-07-21T19:46:49.379277+00:00"
   },
   {
+    "SourceTerm": "漳泉福建",
+    "PreferredTarget": "Zhangzhou, Quanzhou—Fujian",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Zhangzhou, Quanzhou—Fujian"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the place-name sequence as the case formula; do not turn later mockery of Fujian speech or appearance into neutral geography or a general claim about Fujian people. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "漸修",
     "PreferredTarget": "gradual cultivation",
     "AlternateTargets": [
@@ -37971,6 +38165,18 @@
     "Note": "潑天 marks immense extent, not literal splashing; 門戶 may retain both gateway and house or lineage associations.",
     "CreatedBy": "Codex Batch42 lane-B construction",
     "WrittenUtc": "2026-07-29T06:21:15.309208Z"
+  },
+  {
+    "SourceTerm": "潘閬倒騎驢",
+    "PreferredTarget": "Pan Lang rides a donkey backward",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Pan Lang rides a donkey backward"
+    ],
+    "Status": "preferred",
+    "Note": "潘閬 is the named poet and 倒騎 describes his reversed seat or orientation; retain local warnings about looking back rather than assigning one universal symbolism. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "澄潭不許蒼龍蟠",
@@ -38209,6 +38415,18 @@
     "Note": "Foguo Weibai’s exchange supplies the sole exact use of the ladder-for-a-thief phrase.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-22T00:00:00Z"
+  },
+  {
+    "SourceTerm": "烏石嶺",
+    "PreferredTarget": "Blackstone Ridge",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Blackstone Ridge"
+    ],
+    "Status": "preferred",
+    "Note": "Treat this as a proper place name and bind 望州亭 and 僧堂前 as its recurrent case coordinates; avoid inventing symbolic meanings for the stones or ridge. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "烏龜鑽破壁",
@@ -54721,6 +54939,18 @@
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
   {
+    "SourceTerm": "財法二施",
+    "PreferredTarget": "the two gifts: material support and Dharma",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the two gifts: material support and Dharma"
+    ],
+    "Status": "preferred",
+    "Note": "material giving is material giving and giving the teaching is giving teaching; bind equal without distinction where present but do not assert equality in passages that are questioning or exposing the formula. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "貧兒思舊債",
     "PreferredTarget": "a poor child remembers old debts",
     "AlternateTargets": [
@@ -55123,6 +55353,19 @@
     "WrittenUtc": "2026-07-15T04:51:19.010346+00:00"
   },
   {
+    "SourceTerm": "賓則始終賓",
+    "PreferredTarget": "as guest, remain guest from beginning to end",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "as guest, remain guest from beginning to end",
+      "the guest remains guest throughout"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 主則始終主 and the one-guest/one-host continuation; the line marks functional positions, not permanent social identities. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "賣金須是買金人",
     "PreferredTarget": "to sell gold requires a buyer of gold",
     "AlternateTargets": [],
@@ -55258,6 +55501,18 @@
     "Note": "Huiyue Xu, Juelang Daosheng, and Guishan Hui'an Guang use the phrase in three different public settings.",
     "CreatedBy": "Codex regular vetted Iriya release 001 lane A author",
     "WrittenUtc": "2026-07-21T19:02:40.377506+00:00"
+  },
+  {
+    "SourceTerm": "赤洒洒",
+    "PreferredTarget": "starkly bare and unencumbered",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "starkly bare and unencumbered"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the bodily force of bare exposure without making every occurrence literal nudity; govern the alternate graphic form as a graphic variant when attested and preserve paired 淨躶躶 where present. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "赤灑灑",
@@ -56310,6 +56565,18 @@
     "Note": "Six complete witnesses use sudden thunder for an answer or move arriving before deliberation or defense can intervene.",
     "CreatedBy": "Codex cohort002 lane A positions 131-160",
     "WrittenUtc": "2026-07-19T06:31:55.212928Z"
+  },
+  {
+    "SourceTerm": "迎賓待客",
+    "PreferredTarget": "welcome guests and attend to visitors",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "welcome guests and attend to visitors"
+    ],
+    "Status": "preferred",
+    "Note": "迎 is active welcoming and 待 ongoing reception or attendance; retain literal institutional hospitality where that is what the passage describes. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "近山無柴燒，近水無水喫",
@@ -65232,6 +65499,18 @@
     "Note": "The cave image denotes enclosed dark stagnation, not a geographical destination.",
     "CreatedBy": "Codex post720 Lane A positions 007-032",
     "WrittenUtc": "2026-07-17T17:48:39.440462+00:00"
+  },
+  {
+    "SourceTerm": "黑山鬼窟",
+    "PreferredTarget": "the ghost cave in the Black Mountain",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the ghost cave in the Black Mountain"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the compound location rather than translating 黑山 and 鬼窟 as two unrelated dangers; the local passage must determine the particular error being criticized. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "黑漆桶",
