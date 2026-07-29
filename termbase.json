@@ -5021,6 +5021,19 @@
     "WrittenUtc": "2026-07-16T18:02:03.790361+00:00"
   },
   {
+    "SourceTerm": "乾闥婆王奏樂",
+    "PreferredTarget": "the gandharva king plays music",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the gandharva king performs music",
+      "the king of the gandharvas plays"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase names the case action, not four independent original utterances. Later masters own their commentary or raising; the unnamed monk owns the headword-bearing question in Linye's record, and the inherited case remains one deployment family.",
+    "CreatedBy": "R13 clean-regeneration constructor B",
+    "WrittenUtc": "2026-07-29T23:25:00Z"
+  },
+  {
     "SourceTerm": "亂世英雄",
     "PreferredTarget": "a hero in chaotic times",
     "AlternateTargets": [
@@ -25344,6 +25357,19 @@
     "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one inherited rapid-water ball image with an explicit old gloss.",
     "CreatedBy": "Codex cohort-002 lane-A 71-80 full-case author",
     "WrittenUtc": "2026-07-18T23:33:51.566279Z"
+  },
+  {
+    "SourceTerm": "急著眼覷",
+    "PreferredTarget": "quickly fix your eyes and look",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "look quickly and see",
+      "hurry and look closely"
+    ],
+    "Status": "preferred",
+    "Note": "The command is literal and immediate, but what the listener is to notice is supplied by each encounter. Nothing in these passages turns looking into a formal contemplative exercise.",
+    "CreatedBy": "R13 clean-regeneration constructor B",
+    "WrittenUtc": "2026-07-29T23:25:00Z"
   },
   {
     "SourceTerm": "性命",
