@@ -11070,6 +11070,18 @@
     "WrittenUtc": "2026-07-28T00:00:00Z"
   },
   {
+    "SourceTerm": "十二分教是鬼神簿",
+    "PreferredTarget": "the twelve-part teaching is a register of ghosts and spirits",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the twelve-part teaching is a register of ghosts and spirits"
+    ],
+    "Status": "preferred",
+    "Note": "Deshan is the nested quoted speaker and Baiyu the active quoter. Repeated copies of this longer saying form one quotation family.",
+    "CreatedBy": "source_tiers_b_batch25",
+    "WrittenUtc": "2026-07-29T03:07:58.794355Z"
+  },
+  {
     "SourceTerm": "十二時",
     "PreferredTarget": "through all twelve hours",
     "AlternateTargets": [
@@ -16631,6 +16643,21 @@
     "Note": "Dayu Ridge is the physical pass reached in travel and pursuit narratives.",
     "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
     "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+  },
+  {
+    "SourceTerm": "大庾嶺頭提不起",
+    "PreferredTarget": "could not lift it at Dayu Ridge",
+    "AlternateTargets": [
+      "at Dayu Ridge it could not be lifted"
+    ],
+    "SearchAliases": [
+      "could not lift it at Dayu Ridge",
+      "at Dayu Ridge it could not be lifted"
+    ],
+    "Status": "preferred",
+    "Note": "All robe-and-bowl retellings and later presentation allusions belong to one case family; their repetition does not establish independent history.",
+    "CreatedBy": "source_tiers_b_batch25",
+    "WrittenUtc": "2026-07-29T03:07:58.794355Z"
   },
   {
     "SourceTerm": "大徹大悟",
@@ -29281,6 +29308,21 @@
     "Note": "The phrase may press an interlocutor for another answer or report that a commentator adds further words.",
     "CreatedBy": "Codex construction lane C evidence-first",
     "WrittenUtc": "2026-07-17T00:00:00Z"
+  },
+  {
+    "SourceTerm": "書中作一圓相",
+    "PreferredTarget": "drew a circle in the letter",
+    "AlternateTargets": [
+      "made a circle in the letter"
+    ],
+    "SearchAliases": [
+      "drew a circle in the letter",
+      "made a circle in the letter"
+    ],
+    "Status": "preferred",
+    "Note": "The compiler narrates the clause; Mazu performs it but does not utter it. Collapse all retellings into one family.",
+    "CreatedBy": "source_tiers_a_batch25",
+    "WrittenUtc": "2026-07-29T06:00:00Z"
   },
   {
     "SourceTerm": "書記",
@@ -46174,6 +46216,21 @@
     "Note": "Counted constructions: “free and at ease,” 185; “free and unobstructed,” 50; “obtain great freedom,” 258; and “not at ease,” 134. The 278 occurrences of the larger title-name translated “Contemplating Freely,” and personal names such as Yun Zizai, are proper-name uses and are not merged into this adjectival sense.",
     "CreatedBy": "Codex fresh f001 lane B evidence-first",
     "WrittenUtc": "2026-07-15T05:30:00Z"
+  },
+  {
+    "SourceTerm": "自小養一頭水牯牛",
+    "PreferredTarget": "since I was young, I have raised a water buffalo",
+    "AlternateTargets": [
+      "from childhood I have raised a water buffalo"
+    ],
+    "SearchAliases": [
+      "since I was young, I have raised a water buffalo",
+      "from childhood I have raised a water buffalo"
+    ],
+    "Status": "preferred",
+    "Note": "This labels one case, not generic livestock advice. Collapse 放／牧 and other recensional wording into one family.",
+    "CreatedBy": "source_tiers_a_batch25",
+    "WrittenUtc": "2026-07-29T06:00:00Z"
   },
   {
     "SourceTerm": "自屎不覺臭",
