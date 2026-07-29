@@ -8068,6 +8068,21 @@
     "WrittenUtc": "2026-07-18T15:40:00Z"
   },
   {
+    "SourceTerm": "傾國不換",
+    "PreferredTarget": "not exchanged even for a whole kingdom",
+    "AlternateTargets": [
+      "not traded for an entire realm"
+    ],
+    "SearchAliases": [
+      "not exchanged even for a whole kingdom",
+      "not traded for an entire realm"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the exchange and kingdom image, together with the records' reversal; do not flatten it to merely “valuable.”",
+    "CreatedBy": "Codex Batch42 lane-A construction",
+    "WrittenUtc": "2026-07-29T06:26:29.243078Z"
+  },
+  {
     "SourceTerm": "傾湫倒嶽",
     "PreferredTarget": "tip pools and overturn mountains",
     "AlternateTargets": [],
@@ -16109,6 +16124,21 @@
     "Note": "The expression introduces a verbal cue posed for response or commentary. The phrase names the act or its prompt, not every utterance in the record.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T10:20:00Z"
+  },
+  {
+    "SourceTerm": "垛生招箭",
+    "PreferredTarget": "set up a target and invite arrows",
+    "AlternateTargets": [
+      "erect a target and draw arrows"
+    ],
+    "SearchAliases": [
+      "set up a target and invite arrows",
+      "erect a target and draw arrows"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the target-and-arrow image; this appraisal is not a universal doctrine about every statement or action.",
+    "CreatedBy": "Codex Batch42 lane-B construction",
+    "WrittenUtc": "2026-07-29T06:21:15.299016Z"
   },
   {
     "SourceTerm": "垜生招箭",
@@ -26203,6 +26233,21 @@
     "WrittenUtc": "2026-07-15T04:06:26.730577+00:00"
   },
   {
+    "SourceTerm": "拋綸擲釣",
+    "PreferredTarget": "cast the line and throw the hook",
+    "AlternateTargets": [
+      "cast fishing line and hook"
+    ],
+    "SearchAliases": [
+      "cast the line and throw the hook",
+      "cast fishing line and hook"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the fishing activity; context supplies the encounter, lure, and catch.",
+    "CreatedBy": "Codex Batch42 lane-A construction",
+    "WrittenUtc": "2026-07-29T06:26:29.288148Z"
+  },
+  {
     "SourceTerm": "拋釣釣鯤鯨、釣得箇蝦蟇",
     "PreferredTarget": "cast the line for a leviathan and catch a frog",
     "AlternateTargets": [
@@ -35570,6 +35615,21 @@
     "WrittenUtc": "2026-07-17T00:00:00Z"
   },
   {
+    "SourceTerm": "洪波浩渺",
+    "PreferredTarget": "vast, boundless surging waves",
+    "AlternateTargets": [
+      "immense turbulent waters"
+    ],
+    "SearchAliases": [
+      "vast, boundless surging waves",
+      "immense turbulent waters"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the water and scale; context determines what crosses or occupies the waves.",
+    "CreatedBy": "Codex Batch42 lane-A construction",
+    "WrittenUtc": "2026-07-29T06:26:29.196311Z"
+  },
+  {
     "SourceTerm": "活中得死",
     "PreferredTarget": "to obtain death within life",
     "AlternateTargets": [],
@@ -35780,6 +35840,21 @@
     "Note": "Its reduplication intensifies lively movement and turning; the concrete comparisons, rather than an abstract framework, establish the range.",
     "CreatedBy": "Codex Iriya lane C121-130 full-case author",
     "WrittenUtc": "2026-07-18T23:55:00Z"
+  },
+  {
+    "SourceTerm": "浩然大均",
+    "PreferredTarget": "vastly and fully equal",
+    "AlternateTargets": [
+      "vastly even throughout"
+    ],
+    "SearchAliases": [
+      "vastly and fully equal",
+      "vastly even throughout"
+    ],
+    "Status": "preferred",
+    "Note": "Do not import a metaphysical substance or make the phrase forcibly erase contextual distinctions.",
+    "CreatedBy": "Codex Batch42 lane-A construction",
+    "WrittenUtc": "2026-07-29T06:26:29.223412Z"
   },
   {
     "SourceTerm": "浪起船高",
@@ -36735,6 +36810,21 @@
     "Note": "The category is translated without the generalized cultivation frame or a test invented by the editor.",
     "CreatedBy": "Codex post720 Lane C positions 033-058",
     "WrittenUtc": "2026-07-17T16:30:22.041434+00:00"
+  },
+  {
+    "SourceTerm": "潑天門戶",
+    "PreferredTarget": "a vast, sky-filling gateway",
+    "AlternateTargets": [
+      "an immense gateway"
+    ],
+    "SearchAliases": [
+      "a vast, sky-filling gateway",
+      "an immense gateway"
+    ],
+    "Status": "preferred",
+    "Note": "潑天 marks immense extent, not literal splashing; 門戶 may retain both gateway and house or lineage associations.",
+    "CreatedBy": "Codex Batch42 lane-B construction",
+    "WrittenUtc": "2026-07-29T06:21:15.309208Z"
   },
   {
     "SourceTerm": "澄潭不許蒼龍蟠",
@@ -38252,6 +38342,21 @@
     "WrittenUtc": "2026-07-19T02:00:28.079761+00:00"
   },
   {
+    "SourceTerm": "熾然說無間歇",
+    "PreferredTarget": "speaking intensely without pause",
+    "AlternateTargets": [
+      "expounding vividly without interruption"
+    ],
+    "SearchAliases": [
+      "speaking intensely without pause",
+      "expounding vividly without interruption"
+    ],
+    "Status": "preferred",
+    "Note": "Context supplies who or what speaks; the phrase itself asserts intensity and absence of interruption.",
+    "CreatedBy": "Codex Batch42 lane-B construction",
+    "WrittenUtc": "2026-07-29T06:21:15.330950Z"
+  },
+  {
     "SourceTerm": "燃燈佛",
     "PreferredTarget": "Dipankara Buddha",
     "AlternateTargets": [],
@@ -38416,6 +38521,21 @@
     "Note": "Sense and actor decisions were made from complete stored contexts before prose compilation.",
     "CreatedBy": "Codex f004 lane C evidence-first full-context canary",
     "WrittenUtc": "2026-07-15T09:49:09.804467+00:00"
+  },
+  {
+    "SourceTerm": "燕語鶯啼",
+    "PreferredTarget": "swallows chatter and orioles sing",
+    "AlternateTargets": [
+      "swallow talk and oriole song"
+    ],
+    "SearchAliases": [
+      "swallows chatter and orioles sing",
+      "swallow talk and oriole song"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the ordinary bird calls; do not convert them into a doctrinal category.",
+    "CreatedBy": "Codex Batch42 construction B",
+    "WrittenUtc": "2026-07-29T06:25:12.127558Z"
   },
   {
     "SourceTerm": "爐鞴",
@@ -38877,6 +38997,21 @@
     "Note": "The plant image conveys both proliferation and entanglement; it is broader than mere verbosity.",
     "CreatedBy": "Codex Batch37 lane-C construction",
     "WrittenUtc": "2026-07-29T05:19:11.396181Z"
+  },
+  {
+    "SourceTerm": "牽犁拽杷",
+    "PreferredTarget": "pull the plow and drag the harrow",
+    "AlternateTargets": [
+      "haul the plow and drag the harrow"
+    ],
+    "SearchAliases": [
+      "pull the plow and drag the harrow",
+      "haul the plow and drag the harrow"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the agricultural labor image; do not turn this single answer into a prescription that all worthies farm.",
+    "CreatedBy": "Codex Batch42 construction B",
+    "WrittenUtc": "2026-07-29T06:25:12.127558Z"
   },
   {
     "SourceTerm": "犀因翫月紋生角、象被雷驚花入牙",
@@ -46190,6 +46325,21 @@
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
   {
+    "SourceTerm": "缽盂安柄",
+    "PreferredTarget": "put a handle on a begging bowl",
+    "AlternateTargets": [
+      "fit a begging bowl with a handle"
+    ],
+    "SearchAliases": [
+      "put a handle on a begging bowl",
+      "fit a begging bowl with a handle"
+    ],
+    "Status": "preferred",
+    "Note": "The criticism targets a needless addition in these contexts, not every explanation without distinction.",
+    "CreatedBy": "Codex Batch42 lane-B construction",
+    "WrittenUtc": "2026-07-29T06:21:15.364787Z"
+  },
+  {
     "SourceTerm": "罔措",
     "PreferredTarget": "at a loss",
     "AlternateTargets": [
@@ -51615,6 +51765,21 @@
     "WrittenUtc": "2026-07-19T15:56:54.525260Z"
   },
   {
+    "SourceTerm": "討甚麼碗",
+    "PreferredTarget": "what bowl are you still asking for?",
+    "AlternateTargets": [
+      "what bowl do you want?"
+    ],
+    "SearchAliases": [
+      "what bowl are you still asking for?",
+      "what bowl do you want?"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve both the bowl and the question; context does not establish one universal thing for which the bowl stands.",
+    "CreatedBy": "Codex Batch42 construction B",
+    "WrittenUtc": "2026-07-29T06:25:12.127558Z"
+  },
+  {
     "SourceTerm": "許由",
     "PreferredTarget": "Xu You",
     "AlternateTargets": [
@@ -52066,6 +52231,21 @@
     "Note": "The earliest retained lamp witness preserves the one Luopu–Jingqing exchange. Later parallel lamp recensions are omitted rather than counted as independent deployments; no stronger independent family is claimed.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T18:37:00.236234Z"
+  },
+  {
+    "SourceTerm": "誣人之罪",
+    "PreferredTarget": "the offense of falsely accusing someone",
+    "AlternateTargets": [
+      "the crime of making a false accusation"
+    ],
+    "SearchAliases": [
+      "the offense of falsely accusing someone",
+      "the crime of making a false accusation"
+    ],
+    "Status": "preferred",
+    "Note": "The two anthology containers preserve one named comment and contribute only one evidence family.",
+    "CreatedBy": "Codex Batch42 lane-A construction",
+    "WrittenUtc": "2026-07-29T06:26:29.312398Z"
   },
   {
     "SourceTerm": "誣人之罪、以罪加之",
@@ -52887,6 +53067,21 @@
     "Note": "The line appraises one crowded sequence of questioning; it is not dietary instruction.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T21:38:04.368028Z"
+  },
+  {
+    "SourceTerm": "貪程太速",
+    "PreferredTarget": "too eager to hurry along the road",
+    "AlternateTargets": [
+      "pressing ahead too quickly"
+    ],
+    "SearchAliases": [
+      "too eager to hurry along the road",
+      "pressing ahead too quickly"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the journey and excess-speed image; do not impose one universal error behind every use.",
+    "CreatedBy": "Codex Batch42 lane-A construction",
+    "WrittenUtc": "2026-07-29T06:26:29.265336Z"
   },
   {
     "SourceTerm": "貴人多忘",
@@ -55718,6 +55913,21 @@
     "Note": "The cup-after-drunkenness image appraises a further statement or maneuver as an excess added after enough has already occurred.",
     "CreatedBy": "Codex cohort002 lane C full-case author",
     "WrittenUtc": "2026-07-18T19:59:36Z"
+  },
+  {
+    "SourceTerm": "醍醐上味",
+    "PreferredTarget": "ghee's finest flavor",
+    "AlternateTargets": [
+      "the finest flavor of ghee"
+    ],
+    "SearchAliases": [
+      "ghee's finest flavor",
+      "the finest flavor of ghee"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the prized food and flavor comparison; do not turn ghee into a universal substance or doctrinal rank.",
+    "CreatedBy": "Codex Batch42 construction B",
+    "WrittenUtc": "2026-07-29T06:25:12.127558Z"
   },
   {
     "SourceTerm": "醯雞",
@@ -62804,6 +63014,21 @@
     "Note": "Parrot Isle lies before Yellow Crane Tower, a Wuhan landmark line used as a location-answer; traditional and simplified spellings name the same place.",
     "CreatedBy": "Codex cohort-002 lane-B B131-B140 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
+  },
+  {
+    "SourceTerm": "黑似漆",
+    "PreferredTarget": "black as lacquer",
+    "AlternateTargets": [
+      "lacquer-black"
+    ],
+    "SearchAliases": [
+      "black as lacquer",
+      "lacquer-black"
+    ],
+    "Status": "preferred",
+    "Note": "The simile is literal and recurrent; do not assign lacquer-blackness one universal symbolic meaning.",
+    "CreatedBy": "Codex Batch42 lane-B construction",
+    "WrittenUtc": "2026-07-29T06:21:15.345257Z"
   },
   {
     "SourceTerm": "黑山",
