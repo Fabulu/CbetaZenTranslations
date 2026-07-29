@@ -11208,6 +11208,23 @@
     "WrittenUtc": "2026-07-20T09:00:00Z"
   },
   {
+    "SourceTerm": "匹馬單鎗",
+    "PreferredTarget": "single-handed, with one horse and a lone spear",
+    "AlternateTargets": [
+      "one horse and a lone spear",
+      "come forward single-handed"
+    ],
+    "SearchAliases": [
+      "single-handed",
+      "one horse and one spear",
+      "lone spear"
+    ],
+    "Status": "preferred",
+    "Note": "A direct declaration and an independently active encounter family survive in Tier-2 records; no lamps are used.",
+    "CreatedBy": "Codex Batch34 lane-B construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "十二分教",
     "PreferredTarget": "the twelve divisions of the teachings",
     "AlternateTargets": [],
@@ -14356,6 +14373,21 @@
     "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
   },
   {
+    "SourceTerm": "啾啾唧唧",
+    "PreferredTarget": "chirping and muttering",
+    "AlternateTargets": [
+      "petty, subdued chatter"
+    ],
+    "SearchAliases": [
+      "chirping muttering",
+      "fussy chatter"
+    ],
+    "Status": "preferred",
+    "Note": "Two independent Tier-2 deployment families support this sense; lamp and lineage-compilation copies are excluded.",
+    "CreatedBy": "Codex Batch34 lane-C source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "善因招善果，種穀不生豆",
     "PreferredTarget": "a good cause brings a good result, and sowing grain does not produce beans",
     "AlternateTargets": [
@@ -14862,6 +14894,21 @@
     "Note": "The sound functions as reply, rebuke, or closing gesture. Two rows preserve one Shishuang exchange.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T22:00:00Z"
+  },
+  {
+    "SourceTerm": "㗭唎㗭唎",
+    "PreferredTarget": "xili xili",
+    "AlternateTargets": [
+      "a repeated incantatory response"
+    ],
+    "SearchAliases": [
+      "xili xili",
+      "incantatory response syllables"
+    ],
+    "Status": "preferred",
+    "Note": "One controlling exact Tier-2 family supports this provisional sense. Lamps are excluded.",
+    "CreatedBy": "Codex Batch34 lane-A source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "嘯",
@@ -18673,6 +18720,21 @@
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
   {
+    "SourceTerm": "婬坊酒肆",
+    "PreferredTarget": "brothels and wine shops",
+    "AlternateTargets": [
+      "brothels and taverns"
+    ],
+    "SearchAliases": [
+      "brothels taverns",
+      "disreputable worldly venues"
+    ],
+    "Status": "preferred",
+    "Note": "Two independent Tier-2 deployment families support this sense; lamp and lineage-compilation copies are excluded.",
+    "CreatedBy": "Codex Batch34 lane-C source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "子承父業",
     "PreferredTarget": "the son carries on the father's trade",
     "AlternateTargets": [
@@ -18748,6 +18810,22 @@
     "Note": "The fixed saying uses graphic confusion in repeated copying as an image for accumulated corruption in transmission. The corpus applies it to misreported cases and interpretations; it does not claim that every textual variant is corrupt.",
     "CreatedBy": "Codex Iriya lane C61-160 exact-turn author",
     "WrittenUtc": "2026-07-18T15:05:00Z"
+  },
+  {
+    "SourceTerm": "孜孜矻矻",
+    "PreferredTarget": "tirelessly and without letting up",
+    "AlternateTargets": [
+      "with unremitting application"
+    ],
+    "SearchAliases": [
+      "tirelessly",
+      "without letting up",
+      "unremittingly"
+    ],
+    "Status": "preferred",
+    "Note": "Two direct Tier-2 deployments support the continuous adverbial sense.",
+    "CreatedBy": "Codex Batch34 lane-B construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "孟冬薄寒",
@@ -22136,6 +22214,21 @@
     "WrittenUtc": "2026-07-21T19:46:49.379277+00:00"
   },
   {
+    "SourceTerm": "彷彷彿彿",
+    "PreferredTarget": "vaguely; approximately",
+    "AlternateTargets": [
+      "only faintly discerned"
+    ],
+    "SearchAliases": [
+      "vaguely approximately",
+      "faintly discerned"
+    ],
+    "Status": "preferred",
+    "Note": "Two independent exact Tier-2 deployment families support this sense. Lamps are excluded.",
+    "CreatedBy": "Codex Batch34 lane-A source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "待斬不平人",
     "PreferredTarget": "waiting to cut down the unjust",
     "AlternateTargets": [
@@ -23452,6 +23545,21 @@
     "Note": "The phrase points back to a particular utterance; its speaker and content come from the surrounding turn.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T00:00:00Z"
+  },
+  {
+    "SourceTerm": "恍恍惚惚",
+    "PreferredTarget": "hazy and dazed",
+    "AlternateTargets": [
+      "indistinctly aware"
+    ],
+    "SearchAliases": [
+      "hazy dazed",
+      "indistinct awareness"
+    ],
+    "Status": "preferred",
+    "Note": "Two independent exact Tier-2 deployment families support this sense. Lamps are excluded.",
+    "CreatedBy": "Codex Batch34 lane-A source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "恩大難酬",
@@ -27672,6 +27780,21 @@
     "Note": "In the Extended Record of Yongjue Yuanxian, Yongjue quotes \"gathering the mind is called restraint\" (攝心名戒), then challenges it point by point: \"what thing is mind that it can be gathered? What thing is gathering that it can gather mind? Water does not wash water\" (心是何物而可攝？攝又是何物而可攝心？水不洗水). Yongming Yanshou's Source-Mirror Record states that before reaching its stated gate, \"saying right makes wrong; gathering the mind is still an error\" (說是成非，攝心猶錯). Shiwu Qinggong's community verse retains the ordinary finite action by listing chanting and \"gathering the mind to drive off sleep\" (攝心除睡). Counted forms include \"gathering the mind is called restraint\" (攝心名戒, two occurrences in two texts), \"gather the mind to drive off sleep\" (攝心除睡, two in two), \"the way of gathering the mind\" (攝心之法, one), \"place of gathering the mind\" (攝心處, one), and \"gather the mind and illuminate within\" (攝心內照, three in three). The entry records the action and the texts' own challenges without resolving those challenges into an external system.",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": "2026-07-19T03:35:56.679037+00:00"
+  },
+  {
+    "SourceTerm": "攧殺黃番綽",
+    "PreferredTarget": "topple Huang Fanchuo to death",
+    "AlternateTargets": [
+      "throw Huang Fanchuo down dead"
+    ],
+    "SearchAliases": [
+      "Huang Fanchuo",
+      "Pan Lang rides the donkey backwards"
+    ],
+    "Status": "preferred",
+    "Note": "One direct Tier-2 redeployment controls the entry. Passive copies and lamp recensions of the verse are excluded.",
+    "CreatedBy": "Codex Batch34 source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "攪長河爲酥酪、變大地作黄金",
@@ -37278,6 +37401,21 @@
     "WrittenUtc": "2026-07-15T05:11:46.708296+00:00"
   },
   {
+    "SourceTerm": "煒煒煌煌",
+    "PreferredTarget": "brilliantly radiant",
+    "AlternateTargets": [
+      "splendid and luminous"
+    ],
+    "SearchAliases": [
+      "brilliantly radiant",
+      "splendid luminous"
+    ],
+    "Status": "preferred",
+    "Note": "One controlling exact Tier-2 family supports this provisional sense. Lamps are excluded.",
+    "CreatedBy": "Codex Batch34 lane-A source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "照天照地",
     "PreferredTarget": "shine through heaven and earth",
     "AlternateTargets": [],
@@ -38901,6 +39039,21 @@
     "WrittenUtc": "2026-07-18T17:57:35Z"
   },
   {
+    "SourceTerm": "甕裏何曾走卻鱉",
+    "PreferredTarget": "when has the turtle ever escaped the jar?",
+    "AlternateTargets": [
+      "the turtle never escaped the jar"
+    ],
+    "SearchAliases": [
+      "turtle in the jar",
+      "cannot escape the jar"
+    ],
+    "Status": "preferred",
+    "Note": "Two independent Tier-2 deployment families support this sense; lamp and lineage-compilation copies are excluded.",
+    "CreatedBy": "Codex Batch34 lane-C source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "甚處來",
     "PreferredTarget": "where have you come from?",
     "AlternateTargets": [],
@@ -39712,6 +39865,21 @@
     "Note": "Its targets vary, but each use stresses extending one party’s fault or confusion to another.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T14:00:00Z"
+  },
+  {
+    "SourceTerm": "癩馬繫枯樁",
+    "PreferredTarget": "a mangy horse tethered to a dead stake",
+    "AlternateTargets": [
+      "tied fast like a mangy horse at a dead stake"
+    ],
+    "SearchAliases": [
+      "mangy horse tied to a dead stake",
+      "rigidly tethered"
+    ],
+    "Status": "preferred",
+    "Note": "Two independent Tier-2 deployments support the fixed figurative sense; no lamp evidence is used.",
+    "CreatedBy": "Codex Batch34 lane-B construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "登座",
@@ -42945,6 +43113,21 @@
     "Note": "The landscape couplet becomes a hall-ending line, a response after a challenge, and a direct answer to a requested saying.",
     "CreatedBy": "Codex cohort-002 lane-A positions 134-145 full-case author",
     "WrittenUtc": "2026-07-19T06:55:34.580165Z"
+  },
+  {
+    "SourceTerm": "禺中巳",
+    "PreferredTarget": "late morning—the si hour",
+    "AlternateTargets": [
+      "late morning, si hour"
+    ],
+    "SearchAliases": [
+      "si hour",
+      "late morning"
+    ],
+    "Status": "preferred",
+    "Note": "Two independent Tier-2 deployment families support this sense; lamp and lineage-compilation copies are excluded.",
+    "CreatedBy": "Codex Batch34 lane-C source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "萬人作一塚、時人盡帶愁",
@@ -47638,6 +47821,22 @@
     "Status": "preferred",
     "Note": "The physical steelyard image is secure; the warning does not license one universal doctrinal replacement for the mistaken marker.",
     "CreatedBy": "Codex Batch27 source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
+    "SourceTerm": "莽莽鹵鹵",
+    "PreferredTarget": "rough and heedless",
+    "AlternateTargets": [
+      "coarse and indiscriminate",
+      "slapdash and unexamined"
+    ],
+    "SearchAliases": [
+      "rough heedless",
+      "coarse indiscriminate"
+    ],
+    "Status": "preferred",
+    "Note": "Two independent Tier-2 deployment families support this sense; lamp and lineage-compilation copies are excluded.",
+    "CreatedBy": "Codex Batch34 lane-C source-tier construction",
     "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
@@ -59037,6 +59236,22 @@
     "WrittenUtc": "2026-07-17T11:30:40.463541+00:00"
   },
   {
+    "SourceTerm": "顢顢頇頇",
+    "PreferredTarget": "muddleheaded and heedless",
+    "AlternateTargets": [
+      "blundering and muddled"
+    ],
+    "SearchAliases": [
+      "muddleheaded",
+      "heedless",
+      "blundering"
+    ],
+    "Status": "preferred",
+    "Note": "One controlling Tier-2 direct appraisal establishes the idiom; anthology and parallel copies are excluded.",
+    "CreatedBy": "Codex Batch34 lane-B construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "顧視",
     "PreferredTarget": "to turn and look",
     "AlternateTargets": [
@@ -60910,6 +61125,21 @@
     "Note": "The zhen is the poisonous bird whose feather carries the image’s lethal force; the occurrence is proverbial, not a zoological claim about an ordinary bird.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-22T07:15:00Z"
+  },
+  {
+    "SourceTerm": "鴉鳴鵲噪",
+    "PreferredTarget": "crows call, magpies clamor",
+    "AlternateTargets": [
+      "crows calling and magpies clamoring"
+    ],
+    "SearchAliases": [
+      "crow calls magpie clamor",
+      "ordinary natural sounds"
+    ],
+    "Status": "preferred",
+    "Note": "Two independent Tier-2 deployment families support this sense; lamp and lineage-compilation copies are excluded.",
+    "CreatedBy": "Codex Batch34 lane-C source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "鴨類",
