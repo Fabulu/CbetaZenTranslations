@@ -35546,15 +35546,15 @@
   },
   {
     "SourceTerm": "樂則同歡",
-    "PreferredTarget": "in joy, rejoice together",
+    "PreferredTarget": "when joyful, rejoice together",
     "AlternateTargets": [],
     "SearchAliases": [
       "in joy rejoice together"
     ],
     "Status": "preferred",
-    "Note": "憂則共慼 is an attested contrast where present, but not required by every deployment. No lamp is retained.",
-    "CreatedBy": "V7 batch69 admitted constructor C",
-    "WrittenUtc": "2026-07-29T15:25:00Z"
+    "Note": "The phrase can answer directly or close an appraisal; 憂則共慼 is its recurrent counterpart, not part of every occurrence.",
+    "CreatedBy": "R01a fresh depth regeneration B",
+    "WrittenUtc": "2026-07-29T19:15:00Z"
   },
   {
     "SourceTerm": "模子",
@@ -44145,15 +44145,15 @@
   },
   {
     "SourceTerm": "病與不病",
-    "PreferredTarget": "sickness and not-sickness",
+    "PreferredTarget": "sick and not sick",
     "AlternateTargets": [],
     "SearchAliases": [
-      "sickness and not-sickness"
+      "illness and no illness"
     ],
     "Status": "preferred",
-    "Note": "知與不知 is a parallel contrast, not a synonym; do not reduce the phrase to 病. No lamp is retained.",
-    "CreatedBy": "V7 batch69 admitted constructor C",
-    "WrittenUtc": "2026-07-29T15:25:00Z"
+    "Note": "Medical condition remains literal in some frames, but the pair's recorded work is the refusal of either fixed side.",
+    "CreatedBy": "R01a fresh depth regeneration B",
+    "WrittenUtc": "2026-07-29T19:15:00Z"
   },
   {
     "SourceTerm": "痛下針錐",
@@ -54090,9 +54090,9 @@
       "tiger bites tiger"
     ],
     "Status": "preferred",
-    "Note": "Never translate 大蟲 here as a generic large insect. No lamp is retained.",
-    "CreatedBy": "V7 batch69 admitted constructor C",
-    "WrittenUtc": "2026-07-29T15:25:00Z"
+    "Note": "Do not read 大蟲 as a large insect; 猛虎咬大蟲 is a longer governed variant and does not supply exact-headword depth.",
+    "CreatedBy": "R01a fresh depth regeneration B",
+    "WrittenUtc": "2026-07-29T19:15:00Z"
   },
   {
     "SourceTerm": "虎穴魔宮",
