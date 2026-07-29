@@ -26404,6 +26404,21 @@
     "WrittenUtc": "2026-07-19T09:00:00Z"
   },
   {
+    "SourceTerm": "拭瘡疣紙",
+    "PreferredTarget": "paper for wiping sores and warts",
+    "AlternateTargets": [
+      "sore-wiping wastepaper"
+    ],
+    "SearchAliases": [
+      "paper for wiping sores",
+      "scriptures as wastepaper"
+    ],
+    "Status": "preferred",
+    "Note": "This is a deliberately degrading metaphor for texts, not a neutral name for paper. Yuanxian preserves an important counteruse: he criticizes students who dismiss scriptures with it while idolizing lineage sayings.",
+    "CreatedBy": "V6 batch43 lane B",
+    "WrittenUtc": "2026-07-29T08:00:00Z"
+  },
+  {
     "SourceTerm": "拳來踢報",
     "PreferredTarget": "when a fist comes, answer with a kick",
     "AlternateTargets": [
@@ -41366,6 +41381,21 @@
     "WrittenUtc": "2026-07-15T01:57:19.816132+00:00"
   },
   {
+    "SourceTerm": "皮下無血",
+    "PreferredTarget": "no blood beneath the skin",
+    "AlternateTargets": [
+      "bloodless beneath the skin"
+    ],
+    "SearchAliases": [
+      "no blood under the skin",
+      "bloodless response"
+    ],
+    "Status": "preferred",
+    "Note": "The bodily image is an appraisal of absent responsiveness or vitality, not normally a medical diagnosis. Two independent recorded-sayings deployments control the sense; no lamp is retained.",
+    "CreatedBy": "V6 batch43 lane B",
+    "WrittenUtc": "2026-07-29T08:00:00Z"
+  },
+  {
     "SourceTerm": "皮栲栳禪",
     "PreferredTarget": "leather-basket Chan",
     "AlternateTargets": [],
@@ -45432,6 +45462,21 @@
     "Note": "The evidence limits this entry to pulverizing bones and breaking the body in total requital.",
     "CreatedBy": "iriya-construction-001 lane A",
     "WrittenUtc": "2026-07-18T12:00:00Z"
+  },
+  {
+    "SourceTerm": "粉骨碎身未足酬",
+    "PreferredTarget": "even grinding my bones and crushing my body would not suffice to repay it",
+    "AlternateTargets": [
+      "bones ground and body shattered would still not repay it"
+    ],
+    "SearchAliases": [
+      "cannot repay even with crushed body",
+      "grind bones crush body"
+    ],
+    "Status": "preferred",
+    "Note": "The line is repayment hyperbole. The retained evidence includes a Tier-1 master-authored instruction and a separate recorded-sayings deployment; no lamp is retained.",
+    "CreatedBy": "V6 batch43 lane B",
+    "WrittenUtc": "2026-07-29T08:00:00Z"
   },
   {
     "SourceTerm": "粘皮著骨",
