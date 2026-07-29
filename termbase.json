@@ -11179,6 +11179,18 @@
     "WrittenUtc": "2026-07-19T00:47:56.109240Z"
   },
   {
+    "SourceTerm": "劈開華嶽連天秀",
+    "PreferredTarget": "split Mount Hua open, its peaks joining heaven in splendor",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "split Mount Hua open, its peaks joining heaven in splendor"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the seven-graph first line while recording its distinct recurrent second halves; do not reduce it to 華嶽 or generic 劈開. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "劈面",
     "PreferredTarget": "straight in the face",
     "AlternateTargets": [
@@ -19849,6 +19861,18 @@
     "Note": "The Qingshui-Caoshan exchange is one inherited case despite its many recensions. Independent poems by named masters support the same paired description without turning it into another sense.",
     "CreatedBy": "Codex Blyth priority lane A",
     "WrittenUtc": "2026-07-21T15:48:00Z"
+  },
+  {
+    "SourceTerm": "孤迥迥",
+    "PreferredTarget": "utterly solitary and aloof",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "utterly solitary and aloof"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the emphatic reduplication; 孤 and 孤迥 are weaker forms, while 峭巍巍 is the recurrent companion rather than a synonym. A Tier-3 lamp witness is retained as corroborative evidence only (1 lamp row); it does not upgrade validation.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "孫臏",
@@ -40795,6 +40819,18 @@
     "WrittenUtc": "2026-07-18T19:30:00Z"
   },
   {
+    "SourceTerm": "父母俱喪",
+    "PreferredTarget": "both parents have died",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "both parents have died"
+    ],
+    "Status": "preferred",
+    "Note": "Limit the entry to its use as these case openings; the same four graphs in ordinary obituary prose do not automatically carry the Zen case. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "父母所生鼻孔",
     "PreferredTarget": "the nostrils one was born with",
     "AlternateTargets": [
@@ -52751,6 +52787,18 @@
     "WrittenUtc": "2026-07-19T12:00:00Z"
   },
   {
+    "SourceTerm": "虎穴魔宮",
+    "PreferredTarget": "tiger caves and demon palaces",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "tiger caves and demon palaces"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the coordinated four-graph pair; 虎穴 and 魔宮 individually are ordinary danger images. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "虎逢山勢長威獰",
     "PreferredTarget": "a tiger meeting the mountain grows fiercer in its power",
     "AlternateTargets": [],
@@ -59405,6 +59453,18 @@
     "WrittenUtc": "2026-07-19T16:10:25.311741Z"
   },
   {
+    "SourceTerm": "釋迦掩室於摩竭",
+    "PreferredTarget": "Shakyamuni shut himself in his room at Magadha",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Shakyamuni shut himself in his room at Magadha"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the complete seven-graph first member while binding the following Vimalakirti, Subhuti, and gods clauses as its recurrent formula context. A Tier-3 lamp witness is retained as corroborative evidence only (1 lamp row); it does not upgrade validation.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "重疊關山路",
     "PreferredTarget": "a road through overlapping mountain passes",
     "AlternateTargets": [
@@ -64624,6 +64684,18 @@
     "Note": "The retained uses establish conjunction and its rain or dragon-and-snake settings; they do not establish a fixed teaching.",
     "CreatedBy": "Codex cohort-002 lane-B B081-B090 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
+  },
+  {
+    "SourceTerm": "飜成毒藥",
+    "PreferredTarget": "turn instead into poison",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "turn instead into poison"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 醍醐上味為世所珍 as the recurrent first half; 毒藥 alone is too broad. A Tier-3 lamp witness is retained as corroborative evidence only (1 lamp row); it does not upgrade validation.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "食不消",
