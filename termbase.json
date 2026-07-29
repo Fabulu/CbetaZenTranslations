@@ -8255,6 +8255,21 @@
     "WrittenUtc": "2026-07-15T16:45:00Z"
   },
   {
+    "SourceTerm": "價增十倍",
+    "PreferredTarget": "its value increases tenfold",
+    "AlternateTargets": [
+      "become ten times more valuable"
+    ],
+    "SearchAliases": [
+      "its value increases tenfold",
+      "become ten times more valuable"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the price metaphor; neither occurrence turns it into a doctrinal category.",
+    "CreatedBy": "Codex Batch39 construction B",
+    "WrittenUtc": "2026-07-29T05:48:01.273878Z"
+  },
+  {
     "SourceTerm": "優曇華",
     "PreferredTarget": "the flower said to appear only rarely",
     "AlternateTargets": [
@@ -8459,6 +8474,21 @@
     "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
     "CreatedBy": "Codex f003 Lane A full-case author",
     "WrittenUtc": "2026-07-15T04:53:36.766800+00:00"
+  },
+  {
+    "SourceTerm": "兔子喫牛嬭",
+    "PreferredTarget": "a rabbit drinks cow’s milk",
+    "AlternateTargets": [
+      "a rabbit drinking cow's milk"
+    ],
+    "SearchAliases": [
+      "a rabbit drinks cow’s milk",
+      "a rabbit drinking cow's milk"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the animal-and-milk incongruity; the records do not give it one universal doctrinal paraphrase.",
+    "CreatedBy": "Codex Batch39 lane-C construction",
+    "WrittenUtc": "2026-07-29T05:48:36.475116Z"
   },
   {
     "SourceTerm": "兔子懷胎",
@@ -16185,6 +16215,21 @@
     "Note": "The poison-smeared drum is said to kill whoever hears it; masters turn that lethal sound into an image for a word, shout, or address whose effect admits no safe listener.",
     "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
     "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+  },
+  {
+    "SourceTerm": "塞壑填溝",
+    "PreferredTarget": "block ravines and fill ditches",
+    "AlternateTargets": [
+      "fill every hollow"
+    ],
+    "SearchAliases": [
+      "block ravines and fill ditches",
+      "fill every hollow"
+    ],
+    "Status": "preferred",
+    "Note": "The landscape image can mark abundance or excess; context decides its evaluation.",
+    "CreatedBy": "Codex Batch39 construction B",
+    "WrittenUtc": "2026-07-29T05:48:01.273878Z"
   },
   {
     "SourceTerm": "填溝塞壑",
@@ -25457,6 +25502,21 @@
     "Note": "6 exact full-case witnesses from 6 independent works support this corpus-bounded sense.",
     "CreatedBy": "Codex f004 C1156-1165 fresh author",
     "WrittenUtc": "2026-07-15T14:54:06.495578+00:00"
+  },
+  {
+    "SourceTerm": "抱贓呌屈",
+    "PreferredTarget": "clutching the stolen goods while crying injustice",
+    "AlternateTargets": [
+      "caught with the goods while protesting innocence"
+    ],
+    "SearchAliases": [
+      "clutching the stolen goods while crying injustice",
+      "caught with the goods while protesting innocence"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the caught-with-the-goods image; it is sharper and more specific than generic hypocrisy.",
+    "CreatedBy": "Codex Batch39 lane-C construction",
+    "WrittenUtc": "2026-07-29T05:48:36.475116Z"
   },
   {
     "SourceTerm": "抽釘拔楔",
@@ -36210,6 +36270,21 @@
     "WrittenUtc": "2026-07-18T17:25:00Z"
   },
   {
+    "SourceTerm": "滯殻迷封",
+    "PreferredTarget": "stuck in the shell and lost inside its seal",
+    "AlternateTargets": [
+      "trapped within an achieved understanding"
+    ],
+    "SearchAliases": [
+      "stuck in the shell and lost inside its seal",
+      "trapped within an achieved understanding"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the shell-and-enclosure image; the phrase does not define one universal mental state.",
+    "CreatedBy": "Codex Batch39 construction B",
+    "WrittenUtc": "2026-07-29T05:48:01.273878Z"
+  },
+  {
     "SourceTerm": "滴水滴凍",
     "PreferredTarget": "dripping water freezes as it falls",
     "AlternateTargets": [],
@@ -36468,6 +36543,23 @@
     "Note": "Most raw matches are only the ending of the full school name and do not count as standalone occurrences. Personal names that happen to contain the graphs are excluded entirely.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T05:30:10.890586+00:00"
+  },
+  {
+    "SourceTerm": "瀟瀟灑灑",
+    "PreferredTarget": "free and easy",
+    "AlternateTargets": [
+      "naturally unrestrained",
+      "easy and poised"
+    ],
+    "SearchAliases": [
+      "free and easy",
+      "naturally unrestrained",
+      "easy and poised"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the manner and bearing value; it is not the name of a technical realization state.",
+    "CreatedBy": "Codex Batch39 lane-C construction",
+    "WrittenUtc": "2026-07-29T05:48:36.475116Z"
   },
   {
     "SourceTerm": "灑灑落落",
@@ -38594,6 +38686,21 @@
     "WrittenUtc": "2026-07-27T22:15:00Z"
   },
   {
+    "SourceTerm": "狂狗趂塊",
+    "PreferredTarget": "a mad dog chases the clod",
+    "AlternateTargets": [
+      "chase the thrown clod instead of the thrower"
+    ],
+    "SearchAliases": [
+      "a mad dog chases the clod",
+      "chase the thrown clod instead of the thrower"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve 趂 and the dog-and-clod contrast; do not silently normalize the graph or reduce the line to generic error.",
+    "CreatedBy": "Codex Batch39 construction B",
+    "WrittenUtc": "2026-07-29T05:48:01.273878Z"
+  },
+  {
     "SourceTerm": "狂狗逐塊",
     "PreferredTarget": "a mad dog chases the clod",
     "AlternateTargets": [],
@@ -38793,6 +38900,21 @@
     "Note": "Exact count: 476 hits in 135 allowlisted texts. The ordinary animal and its staged actions are distinguished from the separately anchored human epithet. The diminutive 'little monkey' form, 40 hits in 25 texts, belongs to the animal family and does not establish another referent.",
     "CreatedBy": "Codex f002 Lane C worksheet-first author",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "猢猻入布袋",
+    "PreferredTarget": "a macaque gets into a cloth sack",
+    "AlternateTargets": [
+      "a restless monkey trapped in a sack"
+    ],
+    "SearchAliases": [
+      "a macaque gets into a cloth sack",
+      "a restless monkey trapped in a sack"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the capping image; do not replace it with one universal doctrinal explanation.",
+    "CreatedBy": "Codex Batch39 construction B",
+    "WrittenUtc": "2026-07-29T05:48:01.273878Z"
   },
   {
     "SourceTerm": "猢猻喫毛蟲",
@@ -44502,6 +44624,21 @@
     "WrittenUtc": "2026-07-16T12:26:37.856302+00:00"
   },
   {
+    "SourceTerm": "笊籬木杓",
+    "PreferredTarget": "a bamboo strainer and a wooden ladle",
+    "AlternateTargets": [
+      "strainer and wooden ladle"
+    ],
+    "SearchAliases": [
+      "a bamboo strainer and a wooden ladle",
+      "strainer and wooden ladle"
+    ],
+    "Status": "preferred",
+    "Note": "One Tier-2 inherited-case/commentary family controls. Do not turn the objects into fixed doctrinal definitions.",
+    "CreatedBy": "Codex Batch39 construction C",
+    "WrittenUtc": "2026-07-29T05:49:53.343181Z"
+  },
+  {
     "SourceTerm": "笑中有刀",
     "PreferredTarget": "there is a knife in the laughter",
     "AlternateTargets": [
@@ -45123,6 +45260,21 @@
     "WrittenUtc": "2026-07-17T10:25:51.482032+00:00"
   },
   {
+    "SourceTerm": "純一無雜",
+    "PreferredTarget": "purely one, without admixture",
+    "AlternateTargets": [
+      "unmixed throughout"
+    ],
+    "SearchAliases": [
+      "purely one, without admixture",
+      "unmixed throughout"
+    ],
+    "Status": "preferred",
+    "Note": "Do not replace this descriptive quality with concentration, a purity doctrine, or a named state.",
+    "CreatedBy": "Codex Batch39 construction C",
+    "WrittenUtc": "2026-07-29T05:49:53.343181Z"
+  },
+  {
     "SourceTerm": "紙撚無油",
     "PreferredTarget": "a paper spill with no oil",
     "AlternateTargets": [
@@ -45540,6 +45692,21 @@
     "WrittenUtc": "2026-07-17T10:14:02.761691+00:00"
   },
   {
+    "SourceTerm": "緊峭草鞋",
+    "PreferredTarget": "snug, sharply fitted straw sandals",
+    "AlternateTargets": [
+      "tight and trim straw sandals"
+    ],
+    "SearchAliases": [
+      "snug, sharply fitted straw sandals",
+      "tight and trim straw sandals"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the footwear image; one direct family does not justify a single doctrinal decoding.",
+    "CreatedBy": "Codex Batch39 lane-C construction",
+    "WrittenUtc": "2026-07-29T05:48:36.475116Z"
+  },
+  {
     "SourceTerm": "緣木求魚",
     "PreferredTarget": "to climb a tree seeking fish",
     "AlternateTargets": [
@@ -45567,6 +45734,21 @@
     "Note": "The idiom marks pursuing an object by means incapable of attaining it.",
     "CreatedBy": "Codex Iriya lane C101-110 full-case author",
     "WrittenUtc": "2026-07-18T21:30:00Z"
+  },
+  {
+    "SourceTerm": "縛作一束",
+    "PreferredTarget": "tie them into one bundle",
+    "AlternateTargets": [
+      "bind them together in one bundle"
+    ],
+    "SearchAliases": [
+      "tie them into one bundle",
+      "bind them together in one bundle"
+    ],
+    "Status": "preferred",
+    "Note": "The bundling is literal imagery; rejection and disposal are supplied by each surrounding judgment.",
+    "CreatedBy": "Codex Batch39 construction C",
+    "WrittenUtc": "2026-07-29T05:49:53.343181Z"
   },
   {
     "SourceTerm": "縮却舌頭",
@@ -45812,6 +45994,21 @@
     "Note": "Two distinct Tier-3 deployments are retained: Jiufeng Qin closes a hall address with the proverb, and Dayang Jingxuan gives it as an interview reply. A parallel Jiufeng recension and a later hypothetical reuse are omitted.",
     "CreatedBy": "Codex cohort-002 lane-A positions 134-145 full-case author",
     "WrittenUtc": "2026-07-19T06:55:35.050952Z"
+  },
+  {
+    "SourceTerm": "美食不中飽人餐",
+    "PreferredTarget": "fine food does not suit one who is already full",
+    "AlternateTargets": [
+      "good food is wasted on a full diner"
+    ],
+    "SearchAliases": [
+      "fine food does not suit one who is already full",
+      "good food is wasted on a full diner"
+    ],
+    "Status": "preferred",
+    "Note": "Retain both the fine food and the already-full diner; do not turn the comparison into a general anti-teaching doctrine.",
+    "CreatedBy": "Codex Batch39 lane-C construction",
+    "WrittenUtc": "2026-07-29T05:48:36.475116Z"
   },
   {
     "SourceTerm": "羚羊掛角",
@@ -48277,6 +48474,21 @@
     "Note": "The physical steelyard image is secure; the warning does not license one universal doctrinal replacement for the mistaken marker.",
     "CreatedBy": "Codex Batch27 source-tier construction",
     "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
+    "SourceTerm": "莽莽蕩蕩",
+    "PreferredTarget": "heedless and unrestrained",
+    "AlternateTargets": [
+      "vaguely adrift"
+    ],
+    "SearchAliases": [
+      "heedless and unrestrained",
+      "vaguely adrift"
+    ],
+    "Status": "preferred",
+    "Note": "One direct Tier-2 family controls. The related longer warning adds the consequence of inviting disaster and supplies no independent depth here.",
+    "CreatedBy": "Codex Batch39 construction C",
+    "WrittenUtc": "2026-07-29T05:49:53.343181Z"
   },
   {
     "SourceTerm": "莽莽蕩蕩招殃禍",
@@ -54805,6 +55017,21 @@
     "WrittenUtc": "2026-07-19T13:47:01.673195Z"
   },
   {
+    "SourceTerm": "遲了八刻",
+    "PreferredTarget": "eight quarters too late",
+    "AlternateTargets": [
+      "far too late"
+    ],
+    "SearchAliases": [
+      "eight quarters too late",
+      "far too late"
+    ],
+    "Status": "preferred",
+    "Note": "The number intensifies lateness in these exchanges; it does not require a literal clock calculation.",
+    "CreatedBy": "Codex Batch39 lane-C construction",
+    "WrittenUtc": "2026-07-29T05:48:36.475116Z"
+  },
+  {
     "SourceTerm": "選佛",
     "PreferredTarget": "to select a buddha",
     "AlternateTargets": [
@@ -58087,6 +58314,21 @@
     "Note": "The frozen corpus has two exact hits in two independent works. Both preserve the whole saying; one gives the original answer and one its later public raising.",
     "CreatedBy": "Codex f005 lane A author",
     "WrittenUtc": "2026-07-15T18:59:02.906491+00:00"
+  },
+  {
+    "SourceTerm": "雞鳴丑",
+    "PreferredTarget": "cockcrow, the chou period",
+    "AlternateTargets": [
+      "cockcrow in the double-hour of chou"
+    ],
+    "SearchAliases": [
+      "cockcrow, the chou period",
+      "cockcrow in the double-hour of chou"
+    ],
+    "Status": "preferred",
+    "Note": "The heading names a time; 丑 is the terrestrial branch here, not the adjective “ugly.”",
+    "CreatedBy": "Codex Batch39 construction C",
+    "WrittenUtc": "2026-07-29T05:49:53.343181Z"
   },
   {
     "SourceTerm": "離微",
