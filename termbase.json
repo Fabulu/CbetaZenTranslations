@@ -4237,6 +4237,22 @@
     "WrittenUtc": "2026-07-18T07:28:21.869567Z"
   },
   {
+    "SourceTerm": "且喜天下太平",
+    "PreferredTarget": "gladly, peace reigns throughout the realm",
+    "AlternateTargets": [
+      "fortunately, all under heaven is at peace"
+    ],
+    "SearchAliases": [
+      "peace after killing",
+      "all under heaven at peace",
+      "glad peace reigns"
+    ],
+    "Status": "preferred",
+    "Note": "The opening words can mark sincere relief or a pointed capping turn; local context controls the tone.",
+    "CreatedBy": "Codex Batch22 correction lane A",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "且喜沒交涉",
     "PreferredTarget": "fortunately, that has nothing to do with it",
     "AlternateTargets": [
@@ -10712,6 +10728,21 @@
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
   {
+    "SourceTerm": "劫火洞然毫末盡",
+    "PreferredTarget": "when the kalpa fire blazes, even the smallest tip is consumed",
+    "AlternateTargets": [
+      "the blazing kalpa fire leaves not the finest tip"
+    ],
+    "SearchAliases": [
+      "kalpa fire consumes everything",
+      "not the smallest tip remains"
+    ],
+    "Status": "preferred",
+    "Note": "The retained Tier-2 deployment preserves the line as the first half of a contrastive couplet.",
+    "CreatedBy": "Codex Batch22 construction lane A",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "劫火洞然毫末盡，青山依舊白雲中",
     "PreferredTarget": "when the world-ending fire blazes, every hair-tip is gone and amid the white clouds the green mountains remain as before",
     "AlternateTargets": [],
@@ -16199,6 +16230,20 @@
     "Note": "The line pictures attendants standing in ordered ranks outside a night-bright curtain; in the cited verses it closes appraisals of an inaccessible inner position. Recension parallels do not create an additional sense.",
     "CreatedBy": "u2_253_260_explicit_v1",
     "WrittenUtc": "2026-07-20T12:00:00Z"
+  },
+  {
+    "SourceTerm": "夜明簾外轉身難",
+    "PreferredTarget": "beyond the bright curtain, turning oneself is difficult",
+    "AlternateTargets": [
+      "outside the luminous curtain, it is hard to turn freely"
+    ],
+    "SearchAliases": [
+      "bright curtain difficult turning"
+    ],
+    "Status": "preferred",
+    "Note": "One Tier-2 transmitted-verse family is retained; parallel recensions do not add depth.",
+    "CreatedBy": "Codex Batch22 construction Lane C",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "夜靜水寒魚不食、滿船空載月明歸",
@@ -38183,6 +38228,21 @@
     "WrittenUtc": "2026-07-18T10:04:35.145298Z"
   },
   {
+    "SourceTerm": "現宰官身",
+    "PreferredTarget": "to appear in the embodied role of a government official",
+    "AlternateTargets": [
+      "to manifest as a government official"
+    ],
+    "SearchAliases": [
+      "manifest as an official",
+      "official-role manifestation"
+    ],
+    "Status": "preferred",
+    "Note": "Two Tier-1 master-written applications govern; Dahui's Tier-2 discourse supplies the actively applied inherited formula.",
+    "CreatedBy": "Codex Batch22 hierarchy correction lane A",
+    "WrittenUtc": null
+  },
+  {
     "SourceTerm": "現寶王剎",
     "PreferredTarget": "manifest the jewel-king realm",
     "AlternateTargets": [
@@ -46946,6 +47006,21 @@
     "WrittenUtc": "2026-07-18T19:30:00Z"
   },
   {
+    "SourceTerm": "莫認定盤星",
+    "PreferredTarget": "do not mistake the fixed balance marker",
+    "AlternateTargets": [
+      "do not fix on the balance mark"
+    ],
+    "SearchAliases": [
+      "do not mistake the balance marker",
+      "take the hook's point"
+    ],
+    "Status": "preferred",
+    "Note": "盤星 is the fixed reference mark on a steelyard beam; the hook/marker contrast does the work in this formula.",
+    "CreatedBy": "Codex Batch22 construction lane A",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "莫錯會",
     "PreferredTarget": "do not get it wrong",
     "AlternateTargets": [
@@ -51933,6 +52008,21 @@
     "Note": "Huizhong opposes a body that perishes while a separate nature survives by asserting one body-mind with no remainder outside; later speakers cite, test, and redeploy the formula.",
     "CreatedBy": "Codex cohort-002 lane-B author",
     "WrittenUtc": "2026-07-18T20:25:00Z"
+  },
+  {
+    "SourceTerm": "身心安居平等性智",
+    "PreferredTarget": "body and mind dwell at ease in equality wisdom",
+    "AlternateTargets": [
+      "bodily and mentally abiding at ease in the wisdom of equality"
+    ],
+    "SearchAliases": [
+      "retreat equality wisdom",
+      "body and mind at ease"
+    ],
+    "Status": "preferred",
+    "Note": "One Yuanwu-controlled Tier-2 quotation family is retained; scriptural and later recensions do not add depth.",
+    "CreatedBy": "Codex Batch22 construction Lane C",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "身心客塵",
