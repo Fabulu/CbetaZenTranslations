@@ -8287,6 +8287,21 @@
     "WrittenUtc": "2026-07-29T05:48:01.273878Z"
   },
   {
+    "SourceTerm": "儉生不孝",
+    "PreferredTarget": "scarcity breeds unfilial conduct",
+    "AlternateTargets": [
+      "lean conditions breed unfilial conduct"
+    ],
+    "SearchAliases": [
+      "scarcity breeds unfilial conduct",
+      "lean conditions and unfiliality"
+    ],
+    "Status": "preferred",
+    "Note": "儉生不孝 is secured by the Jie’an and Yuan’an records, independently of lamp repetition.",
+    "CreatedBy": "V6 batch43 lane C",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "優曇華",
     "PreferredTarget": "the flower said to appear only rarely",
     "AlternateTargets": [
@@ -12649,6 +12664,21 @@
     "Note": "The procedure and encounter records support one office sense; only reciprocal installed office relations are admitted.",
     "CreatedBy": "Codex f004 lane C early-sample author",
     "WrittenUtc": "2026-07-15T11:30:22.365371+00:00"
+  },
+  {
+    "SourceTerm": "叉手當胸",
+    "PreferredTarget": "stand with hands clasped before the chest",
+    "AlternateTargets": [
+      "clasp the hands at the chest"
+    ],
+    "SearchAliases": [
+      "hands clasped at chest",
+      "formal clasped-hands posture"
+    ],
+    "Status": "preferred",
+    "Note": "The Wuqu and Yi’an deployments independently show the hands held before the chest.",
+    "CreatedBy": "V6 batch43 lane C",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "取箇眼兮耳必聾、捨箇耳兮目雙瞽",
@@ -21874,6 +21904,21 @@
     "WrittenUtc": "2026-07-19T19:56:28.234552Z"
   },
   {
+    "SourceTerm": "幽鳥語喃喃",
+    "PreferredTarget": "secluded birds murmur softly",
+    "AlternateTargets": [
+      "hidden birds chatter quietly"
+    ],
+    "SearchAliases": [
+      "secluded birds murmur",
+      "hidden birds softly speaking"
+    ],
+    "Status": "preferred",
+    "Note": "Feiyin and Eryin reopen the same exchange in independent records, so no lamp is counted for depth.",
+    "CreatedBy": "V6 batch43 lane C",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "幽鳥語喃喃、辭雲入亂峰",
     "PreferredTarget": "a secluded bird murmuring as departing clouds enter tangled peaks",
     "AlternateTargets": [
@@ -24828,6 +24873,21 @@
     "Note": "Six exact closures from six works cover tea-arrival, shout, staff gesture, letter ending, exhortation, and hall question.",
     "CreatedBy": "Codex construction Lane C positions31-40 explicit full-case author",
     "WrittenUtc": "2026-07-17T11:30:40.463541+00:00"
+  },
+  {
+    "SourceTerm": "截鐵斬釘",
+    "PreferredTarget": "cutting iron and chopping nails",
+    "AlternateTargets": [
+      "decisive as cutting iron and chopping nails"
+    ],
+    "SearchAliases": [
+      "cut iron chop nails",
+      "decisive and uncompromising"
+    ],
+    "Status": "preferred",
+    "Note": "Baichi and Zhangxue each deploy this reversed iron-and-nails form without relying on a lamp witness.",
+    "CreatedBy": "V6 batch43 lane C",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "截鶴續鳧",
@@ -57274,6 +57334,21 @@
     "WrittenUtc": "2026-07-15T04:31:08.939246+00:00"
   },
   {
+    "SourceTerm": "鐘樓上念讚",
+    "PreferredTarget": "chanting praises atop the bell tower",
+    "AlternateTargets": [
+      "reciting a praise from the bell tower"
+    ],
+    "SearchAliases": [
+      "bell tower praise",
+      "chant praise on the bell tower"
+    ],
+    "Status": "preferred",
+    "Note": "Two direct records preserve the bell-tower line; the lamp tradition contributes no necessary witness.",
+    "CreatedBy": "V6 batch43 lane C",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "鐘鼓",
     "PreferredTarget": "bells and drums",
     "AlternateTargets": [
@@ -63124,6 +63199,21 @@
     "Note": "The sources supply the bucket’s own morphology—hoop and bottom—and the verbs break, enter, and leap. They do not identify one unstated referent shared by every occurrence.",
     "CreatedBy": "Codex fresh f001 lane B evidence-first",
     "WrittenUtc": "2026-07-23T18:00:00Z"
+  },
+  {
+    "SourceTerm": "黑豆未生芽",
+    "PreferredTarget": "before the black bean has sprouted",
+    "AlternateTargets": [
+      "when the black bean has not yet sprouted"
+    ],
+    "SearchAliases": [
+      "before black beans sprout",
+      "unsprouted black bean"
+    ],
+    "Status": "preferred",
+    "Note": "Lianfeng and Juelang supply separate recorded-sayings witnesses for the unsprouted-bean phrase.",
+    "CreatedBy": "V6 batch43 lane C",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "默然良久",
