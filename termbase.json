@@ -2359,6 +2359,18 @@
     "WrittenUtc": "2026-07-15T05:37:10.961056+00:00"
   },
   {
+    "SourceTerm": "三世佛冤",
+    "PreferredTarget": "an enemy of the buddhas of the three times",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "an enemy of the buddhas of the three times"
+    ],
+    "Status": "preferred",
+    "Note": "三世佛 means the buddhas of past, present, and future; 冤 marks enmity or grievance, not an innocent victim.",
+    "CreatedBy": "source_tiers_b_batch23",
+    "WrittenUtc": "2026-07-29T02:45:20.751872Z"
+  },
+  {
     "SourceTerm": "三世諸佛、口掛壁上",
     "PreferredTarget": "the buddhas of the three times hang their mouths on the wall",
     "AlternateTargets": [],
@@ -2497,6 +2509,21 @@
     "Note": "The two retained sermons are independent uses.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T19:00:00Z"
+  },
+  {
+    "SourceTerm": "三千大千世界",
+    "PreferredTarget": "three-thousand-great-thousand world-system",
+    "AlternateTargets": [
+      "great chiliocosm"
+    ],
+    "SearchAliases": [
+      "great chiliocosm",
+      "nested world-system"
+    ],
+    "Status": "preferred",
+    "Note": "This is a conventional nested cosmological unit, not merely a count of three thousand separate worlds.",
+    "CreatedBy": "Codex Batch23 construction lane A",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "三叉路口少人知",
@@ -4955,6 +4982,18 @@
     "Note": "The headword names the case, not every later mention of pacifying mind.",
     "CreatedBy": "Codex investigation-next300 Lane A",
     "WrittenUtc": "2026-07-17T16:00:00Z"
+  },
+  {
+    "SourceTerm": "二祖禮三拜",
+    "PreferredTarget": "the Second Patriarch bowed three times",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the Second Patriarch bowed three times"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase narrates Huike’s action inside the marrow-transmission case; it is not an instruction to bow.",
+    "CreatedBy": "source_tiers_b_batch23",
+    "WrittenUtc": "2026-07-29T02:45:20.751872Z"
   },
   {
     "SourceTerm": "二門",
@@ -11081,6 +11120,21 @@
     "WrittenUtc": "2026-07-18T06:30:00Z"
   },
   {
+    "SourceTerm": "十字街頭石敢當",
+    "PreferredTarget": "the stone guardian at the crossroads",
+    "AlternateTargets": [
+      "the Shigandang stone at the crossroads"
+    ],
+    "SearchAliases": [
+      "crossroads stone guardian",
+      "Shigandang at the crossroads"
+    ],
+    "Status": "preferred",
+    "Note": "石敢當 names an apotropaic stone marker; the retained answer does not impose one symbolism on every occurrence.",
+    "CreatedBy": "Codex Batch23 construction lane A",
+    "WrittenUtc": null
+  },
+  {
     "SourceTerm": "十年歸不得，忘却來時道",
     "PreferredTarget": "ten years unable to return, having forgotten the road by which one came",
     "AlternateTargets": [],
@@ -15097,6 +15151,18 @@
     "Note": "Shorthand for Nanyang Huizhong's inherited attendant case, not generic calls by any national teacher.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T00:00:00Z"
+  },
+  {
+    "SourceTerm": "國師三喚侍者",
+    "PreferredTarget": "the National Teacher called his attendant three times",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the National Teacher called his attendant three times"
+    ],
+    "Status": "preferred",
+    "Note": "The label names the entire exchange rather than merely counting three calls.",
+    "CreatedBy": "source_tiers_b_batch23",
+    "WrittenUtc": "2026-07-29T02:45:20.751872Z"
   },
   {
     "SourceTerm": "國有憲章，三千條罪",
@@ -23962,6 +24028,21 @@
     "WrittenUtc": "2026-07-15T19:30:38.094829+00:00"
   },
   {
+    "SourceTerm": "截斷天下人舌頭",
+    "PreferredTarget": "to cut off the tongues of everyone under heaven",
+    "AlternateTargets": [
+      "to silence every possible reply"
+    ],
+    "SearchAliases": [
+      "silence everyone under heaven",
+      "leave no reply possible"
+    ],
+    "Status": "preferred",
+    "Note": "Jiashan recensions belong to one appraisal family and are counted once.",
+    "CreatedBy": "source_tiers_c_batch23",
+    "WrittenUtc": null
+  },
+  {
     "SourceTerm": "截斷眾流",
     "PreferredTarget": "cut off all streams",
     "AlternateTargets": [
@@ -28683,6 +28764,21 @@
     "WrittenUtc": "2026-07-19T00:23:04.699060Z"
   },
   {
+    "SourceTerm": "昔日世尊拈花",
+    "PreferredTarget": "formerly, the World-Honored One held up a flower",
+    "AlternateTargets": [
+      "when the World-Honored One once presented a flower"
+    ],
+    "SearchAliases": [
+      "World-Honored One held up a flower",
+      "flower sermon case"
+    ],
+    "Status": "preferred",
+    "Note": "One inherited flower-sermon case family is retained; repetition does not establish the story's historical antiquity.",
+    "CreatedBy": "Codex Batch23 construction lane A",
+    "WrittenUtc": null
+  },
+  {
     "SourceTerm": "春來草自生",
     "PreferredTarget": "when spring comes, grass grows by itself",
     "AlternateTargets": [],
@@ -29413,6 +29509,21 @@
     "Note": "The two uses are exhortative and do not establish a broader descriptive sense.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T16:00:00Z"
+  },
+  {
+    "SourceTerm": "有時人境兩俱奪",
+    "PreferredTarget": "at times both person and environment are taken away",
+    "AlternateTargets": [
+      "sometimes both subject and circumstances are removed"
+    ],
+    "SearchAliases": [
+      "take away both person and environment",
+      "Linji's four selections"
+    ],
+    "Status": "preferred",
+    "Note": "Parallel Linji recensions are one Four Selections family and count once.",
+    "CreatedBy": "source_tiers_c_batch23",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "有條攀條，無條攀例",
@@ -39486,6 +39597,21 @@
     "WrittenUtc": "2026-07-17T16:00:00Z"
   },
   {
+    "SourceTerm": "百丈直得三日耳聾",
+    "PreferredTarget": "Baizhang was left deaf for three days",
+    "AlternateTargets": [
+      "Baizhang was deafened for three days"
+    ],
+    "SearchAliases": [
+      "Baizhang three days deaf",
+      "Mazu shout deafened Baizhang"
+    ],
+    "Status": "preferred",
+    "Note": "One Mazu–Baizhang shout family is retained; the rhetorical case line is not a medical diagnosis.",
+    "CreatedBy": "Codex Batch23 construction lane A",
+    "WrittenUtc": null
+  },
+  {
     "SourceTerm": "百丈野狐",
     "PreferredTarget": "Baizhang's wild fox",
     "AlternateTargets": [
@@ -45801,6 +45927,21 @@
     "Note": "The literal year-end date becomes a deadline image: masters ask what remains usable when accounts, circumstances, and birth-and-death can no longer be postponed.",
     "CreatedBy": "Codex Iriya cohort001 Lane A evidence-first",
     "WrittenUtc": "2026-07-18T07:00:46.616021+00:00"
+  },
+  {
+    "SourceTerm": "臘月三十日到來",
+    "PreferredTarget": "when the last day of the twelfth month arrives",
+    "AlternateTargets": [
+      "when year's end arrives"
+    ],
+    "SearchAliases": [
+      "last day of the twelfth month",
+      "year-end deadline"
+    ],
+    "Status": "preferred",
+    "Note": "The retained witness is literal year-end. A death-reckoning reading belongs to the wider expression family but is not assigned to this occurrence.",
+    "CreatedBy": "source_tiers_c_batch23",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "臘月火燒山",
@@ -57000,6 +57141,18 @@
     "Note": "The opaque six remain unresolved where the records do not enumerate them.",
     "CreatedBy": "Codex investigation-next300 Lane A",
     "WrittenUtc": "2026-07-17T16:00:00Z"
+  },
+  {
+    "SourceTerm": "雲門放洞山三頓棒",
+    "PreferredTarget": "Yunmen let Dongshan off with three blows",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Yunmen let Dongshan off with three blows"
+    ],
+    "Status": "preferred",
+    "Note": "放 means that Yunmen spared or let Dongshan off; it does not say that Yunmen administered the blows.",
+    "CreatedBy": "source_tiers_b_batch23",
+    "WrittenUtc": "2026-07-29T02:45:20.751872Z"
   },
   {
     "SourceTerm": "雲門胡餅",
