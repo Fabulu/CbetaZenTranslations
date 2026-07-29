@@ -8488,6 +8488,18 @@
     "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
+    "SourceTerm": "優婆塞",
+    "PreferredTarget": "male lay Buddhist",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "male lay Buddhist"
+    ],
+    "Status": "preferred",
+    "Note": "Distinguish 優婆夷, a female lay Buddhist. Do not flatten the title into the generic 居士 where the formal fourfold-community category matters. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "優曇華",
     "PreferredTarget": "the flower said to appear only rarely",
     "AlternateTargets": [
@@ -21003,6 +21015,18 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "寧說阿羅漢有三毒",
+    "PreferredTarget": "rather say that an arhat has the three poisons",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "rather say that an arhat has the three poisons"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 不說如來有二種語 or its shortened variant 不說如來有二語. The selected first half is rhetorical, not a doctrinal assertion that arhats possess the three poisons. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "寮元",
     "PreferredTarget": "the quarters supervisor",
     "AlternateTargets": [
@@ -26549,6 +26573,18 @@
     "WrittenUtc": "2026-07-15T00:00:00Z"
   },
   {
+    "SourceTerm": "承虗接響",
+    "PreferredTarget": "take up an emptiness and answer an echo",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "take up an emptiness and answer an echo"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the paired emptiness/echo image. It criticizes groundless responsive imitation, not literal acoustic echo. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "承虚接響",
     "PreferredTarget": "receive empty talk and answer an echo",
     "AlternateTargets": [
@@ -29078,6 +29114,18 @@
     "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
   },
   {
+    "SourceTerm": "撫掌笑呵呵",
+    "PreferredTarget": "clap one’s hands and laugh aloud",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "clap one’s hands and laugh aloud"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the combined gesture and laugh. 撫掌 and 笑呵呵 separately remain ordinary expressions; 木人 or 石人 may vary by deployment. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "撫沒絃琴",
     "PreferredTarget": "stroke the stringless zither",
     "AlternateTargets": [],
@@ -29135,6 +29183,18 @@
     "Note": "The compound names an eye capable of discriminating genuine teaching and adequate responses. The two Jianfu Huai witnesses are parallel recensions of one appraisal.",
     "CreatedBy": "packet3 exact5 owner construction",
     "WrittenUtc": "2026-07-27T22:15:00Z"
+  },
+  {
+    "SourceTerm": "擊大法鼓",
+    "PreferredTarget": "beat the great Dharma drum",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "beat the great Dharma drum"
+    ],
+    "Status": "preferred",
+    "Note": "Relate 吹大法螺 and 演大法義 without forcing them into the headword. Literal striking of an ordinary drum is outside this proclamation image. One Tier-3 lamp witness is retained only as passive corroboration; Tier 2 controls the sense.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "擊拂子",
@@ -30765,6 +30825,18 @@
     "Note": "The word names the supporting person rather than the donated object.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T00:30:00Z"
+  },
+  {
+    "SourceTerm": "施主常安樂",
+    "PreferredTarget": "may the donors always be at ease",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "may the donors always be at ease"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 端坐受供養 as the recurrent first half. Generic well-wishes to a donor are broader than this meal-offering formula. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "施為",
@@ -33893,6 +33965,18 @@
     "WrittenUtc": "2026-07-18T17:03:34Z"
   },
   {
+    "SourceTerm": "板齒生毛",
+    "PreferredTarget": "hair grows on the front teeth",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "hair grows on the front teeth"
+    ],
+    "Status": "preferred",
+    "Note": "Keep 板齒 as the front teeth or incisors and 生毛 as sprouting hair. Do not normalize it into an anatomical claim or merge unrelated 齒/毛 imagery. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "析肉還母",
     "PreferredTarget": "separate his flesh and return it to his mother",
     "AlternateTargets": [],
@@ -34832,6 +34916,18 @@
     "Note": "The phrase conveys breadth, confusion, and loss of bearings; several speakers immediately add that there is no basis on which to rely.",
     "CreatedBy": "Codex Iriya construction lane C evidence-first",
     "WrittenUtc": "2026-07-18T07:28:22.005720Z"
+  },
+  {
+    "SourceTerm": "極微細所知愚",
+    "PreferredTarget": "extremely subtle cognitive delusion",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "extremely subtle cognitive delusion"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the full six-graph doctrinal label and explicitly distinguish 微細所知愚. Do not reduce 所知愚 to ordinary ignorance of facts. One Tier-3 lamp witness is retained only as passive corroboration; Tier 2 controls the sense.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "槨示雙趺",
@@ -54445,6 +54541,18 @@
     "WrittenUtc": "2026-07-15T04:45:36.907142+00:00"
   },
   {
+    "SourceTerm": "覿面當機疾",
+    "PreferredTarget": "face to face, the response is swift",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "face to face, the response is swift"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 當機覿面提 as the recurrent first half and distinguish the graph-order reversal. 覿面 alone remains the ordinary adverb 'face to face.' One Tier-3 compilation witness is retained only as passive corroboration; Tier 2 controls the sense.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "覿面相呈",
     "PreferredTarget": "to present it face-to-face",
     "AlternateTargets": [
@@ -60666,6 +60774,18 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "銀臺不變",
+    "PreferredTarget": "the silver terrace does not change",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the silver terrace does not change"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 白鼠推遷 as the recurrent first half. Do not treat 銀臺 as an independently fixed Zen object outside this pair. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "銅頭鐵額",
     "PreferredTarget": "bronze-headed and iron-browed",
     "AlternateTargets": [
@@ -66535,6 +66655,18 @@
     "Note": "The stored uses are a direct answer, later comments, and an unattributed verse. Their surrounding acts differ, so the entry does not turn the line into a universal theory of traces.",
     "CreatedBy": "Codex f004 lane C1166-C1175 exact-actor recovery author",
     "WrittenUtc": "2026-07-23T18:00:00Z"
+  },
+  {
+    "SourceTerm": "魚躍鳶飛",
+    "PreferredTarget": "fish leap and hawks fly",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "fish leap and hawks fly"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the reciprocal sky-and-water image intact; literal reports of fish or birds are outside this idiomatic deployment. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "魚魯參差",
