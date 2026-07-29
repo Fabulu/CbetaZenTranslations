@@ -21954,6 +21954,18 @@
     "WrittenUtc": "2026-07-22T00:15:00Z"
   },
   {
+    "SourceTerm": "布袋裏老鴉",
+    "PreferredTarget": "an old crow inside a cloth bag",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "an old crow inside a cloth bag"
+    ],
+    "Status": "preferred",
+    "Note": "Provisional lamp-only sense supported by two independent Tier-3 deployments; no Tier 1/2 controller was found and no padding is permitted.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "布髮掩泥",
     "PreferredTarget": "spread his hair to cover the mud",
     "AlternateTargets": [],
@@ -23122,6 +23134,18 @@
     "Note": "Five witnesses distinguish verse, signed preface, recorded exposition, literary preface, and letter.",
     "CreatedBy": "Codex f004 lane B bulk evidence-first author",
     "WrittenUtc": "2026-07-15T10:28:15.689574+00:00"
+  },
+  {
+    "SourceTerm": "弟應兄呼",
+    "PreferredTarget": "the younger brother answers the elder brother's call",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the younger brother answers the elder brother's call"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the complete four-graph reciprocal action; 弟, 兄, 呼, and 應 alone do not carry the case image. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "張三李四",
@@ -31516,6 +31540,18 @@
     ],
     "Status": "preferred",
     "Note": "Bind 及乎天曉也尋常 as the recurrent second half; 未分 describes dawn light not yet distinguishable, not disagreement among the people. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "曠劫精勤",
+    "PreferredTarget": "strive diligently through vast aeons",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "strive diligently through vast aeons"
+    ],
+    "Status": "preferred",
+    "Note": "Keep 曠劫 as the duration governing 精勤; generic 精勤 and the full following rebuke are separate boundaries. No lamp is retained.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
@@ -48519,6 +48555,18 @@
     "WrittenUtc": "2026-07-15T15:42:24.584850+00:00"
   },
   {
+    "SourceTerm": "縱觀寫出飛禽跡",
+    "PreferredTarget": "look freely and trace the tracks of flying birds",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "look freely and trace the tracks of flying birds"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 徐行踏斷水流聲 as the recurrent first half; 飛禽跡 alone lacks the impossible act expressed by the full line. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "織錦於西舍",
     "PreferredTarget": "weave brocade in the western house",
     "AlternateTargets": [],
@@ -52081,6 +52129,18 @@
     ],
     "Status": "preferred",
     "Note": "Bind the sword half and retain occasion-responsive force rather than a literal pharmacy claim. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "藥因救病出金缾",
+    "PreferredTarget": "medicine leaves the golden bottle to cure illness",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "medicine leaves the golden bottle to cure illness"
+    ],
+    "Status": "preferred",
+    "Note": "A stable complete verse-line pairing remedial medicine with its emergence from the precious container. No lamp is retained.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
@@ -57479,6 +57539,18 @@
     "Note": "The Zen deviation is the fish-and-net image functioning as a public question and Yuanwu Keqin’s appraisal of an unnamed monastic, with the Blue Cliff Record's explicit crown-eye formula. The fish, the case question, and later appraisals refer to the same corpus image; they are deployment shapes rather than separate senses. In the family check, “golden-scaled fish” (金鱗) is broader, while “through the net” (透網) supplies the defining escaped-net morphology.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-19T03:23:22.023942+00:00"
+  },
+  {
+    "SourceTerm": "透網金鱗以何為食",
+    "PreferredTarget": "what does the golden-scaled fish that has passed through the net feed on?",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "what does the golden-scaled fish that has passed through the net feed on?"
+    ],
+    "Status": "preferred",
+    "Note": "The complete fixed question from Sansheng's exchange with Xuefeng; neither the fish image nor 以何為食 should be detached from the case-token. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "透過是非關，不住羅籠表",
@@ -63657,6 +63729,18 @@
     "Note": "Topsy-turvy talk is an adverse label for speech judged disordered, misplaced, or merely performative.",
     "CreatedBy": "Codex cohort-002 lane-B author",
     "WrittenUtc": "2026-07-19T08:00:00Z"
+  },
+  {
+    "SourceTerm": "類之弗齊",
+    "PreferredTarget": "their kinds are not the same",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "their kinds are not the same"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the four-graph predicate with 混而不雜 as its governing contrast; 類 and 弗齊 separately are not the lexical unit. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "類墮",
