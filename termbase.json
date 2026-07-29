@@ -1032,19 +1032,16 @@
   },
   {
     "SourceTerm": "一擊百雜碎",
-    "PreferredTarget": "smash it utterly with one blow",
-    "AlternateTargets": [
-      "shatter it completely in one strike"
-    ],
+    "PreferredTarget": "smash it into a hundred fragments with one strike",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "one blow to pieces",
-      "shatter utterly",
-      "smash completely"
+      "shatter it completely in one blow",
+      "one strike, a hundred fragments"
     ],
     "Status": "preferred",
-    "Note": "百 is hyperbolic rather than an exact count; repeated copies of Xisou's Yaoshan appraisal are a separate quotation family.",
-    "CreatedBy": "Codex Batch32 source-tier construction",
-    "WrittenUtc": "2026-07-29T00:00:00Z"
+    "Note": "Three witnesses actively reuse one inherited comment and therefore do not count as three reports of its origin. Dahui's direct deployment supplies a distinct family.",
+    "CreatedBy": "R21 clean-regeneration constructor B",
+    "WrittenUtc": "2026-07-30T12:00:00Z"
   },
   {
     "SourceTerm": "一放一收",
@@ -7489,22 +7486,16 @@
   },
   {
     "SourceTerm": "依草附木",
-    "PreferredTarget": "to depend on borrowed supports",
-    "AlternateTargets": [
-      "to cling to grass and attach to trees",
-      "to lean on external supports"
-    ],
+    "PreferredTarget": "cling to grass and attach to trees",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "cling to words and gestures",
-      "depend on circumstances",
-      "lean on external things",
-      "borrowed support",
-      "plant-clinging dependence"
+      "depend on borrowed supports",
+      "cling to others' footing"
     ],
     "Status": "preferred",
-    "Note": "One corpus-wide sense. No plain botanical deployment appeared in the surveyed defining contexts. Different bearers and different grammatical surroundings do not create another referent. The Zen-specific bend is the regular use of the plant-clinging image as a teaching-seat rebuke for dependence on words, gestures, objects, or circumstances.",
-    "CreatedBy": "Codex f002 Lane C author",
-    "WrittenUtc": "2026-07-15T01:57:20.103444+00:00"
+    "Note": "The image concerns derivative dependence, not literal vegetation. Its object varies, but the retained passages repeatedly oppose borrowed support to direct or independent standing.",
+    "CreatedBy": "R21 clean-regeneration constructor B",
+    "WrittenUtc": "2026-07-30T12:00:00Z"
   },
   {
     "SourceTerm": "依草附葉",
@@ -43843,13 +43834,13 @@
     "PreferredTarget": "draw a prison on the ground",
     "AlternateTargets": [],
     "SearchAliases": [
-      "draw a prison on the ground",
-      "A criticism of creating one's own confinement by drawing a boundary and then treating it as an impassable prison"
+      "make a prison by drawing its boundary",
+      "confine yourself within a drawn boundary"
     ],
     "Status": "preferred",
-    "Note": "The image turns conceptual restriction into a visible enclosure. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The drawn line has no physical bars; confinement comes from accepting a fixed period, conceptual limit, or self-made enclosure as binding.",
+    "CreatedBy": "R21 bounded remainder emitter",
+    "WrittenUtc": "2026-07-30T12:20:00Z"
   },
   {
     "SourceTerm": "畫虎成狸",
@@ -49074,18 +49065,16 @@
   },
   {
     "SourceTerm": "笊籬木杓",
-    "PreferredTarget": "a bamboo strainer and a wooden ladle",
-    "AlternateTargets": [
-      "strainer and wooden ladle"
-    ],
+    "PreferredTarget": "bamboo strainer and wooden ladle",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "a bamboo strainer and a wooden ladle",
-      "strainer and wooden ladle"
+      "strainer and ladle",
+      "the leaky strainer and unleaking ladle"
     ],
     "Status": "preferred",
-    "Note": "One Tier-2 inherited-case/commentary family controls. Do not turn the objects into fixed doctrinal definitions.",
-    "CreatedBy": "Codex Batch39 construction C",
-    "WrittenUtc": "2026-07-29T05:49:53.343181Z"
+    "Note": "The pair begins as a concrete answer distinguishing leaky from unleaking, then becomes a compact capping expression for ordinary implements whose use is already available.",
+    "CreatedBy": "R21 clean-regeneration constructor B",
+    "WrittenUtc": "2026-07-30T12:00:00Z"
   },
   {
     "SourceTerm": "笑中有刀",
@@ -55836,15 +55825,16 @@
   },
   {
     "SourceTerm": "覿面當機疾",
-    "PreferredTarget": "face to face, the response is swift",
+    "PreferredTarget": "face to face, meeting the occasion is swift",
     "AlternateTargets": [],
     "SearchAliases": [
-      "face to face, the response is swift"
+      "face to face, the response is swift",
+      "meeting the occasion directly is swift"
     ],
     "Status": "preferred",
-    "Note": "Bind 當機覿面提 as the recurrent first half and distinguish the graph-order reversal. 覿面 alone remains the ordinary adverb 'face to face.' One Tier-3 compilation witness is retained only as passive corroboration; Tier 2 controls the sense.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The four witnesses share one inherited Zhaozhou verse; they are retained because three later masters actively comment and one monk redeploys it as a challenge, not as four independent origins.",
+    "CreatedBy": "R21 bounded remainder emitter",
+    "WrittenUtc": "2026-07-30T12:20:00Z"
   },
   {
     "SourceTerm": "覿面相呈",
