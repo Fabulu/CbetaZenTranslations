@@ -30408,23 +30408,16 @@
   },
   {
     "SourceTerm": "攝心",
-    "PreferredTarget": "gather the mind",
-    "AlternateTargets": [
-      "draw in the mind",
-      "collect the mind",
-      "hold the mind in"
-    ],
+    "PreferredTarget": "collect the mind",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "gather the mind",
-      "collect the mind",
-      "draw in the mind",
-      "hold the mind in",
-      "gathering mind"
+      "hold the mind collected",
+      "restrain the mind"
     ],
     "Status": "preferred",
-    "Note": "In the Extended Record of Yongjue Yuanxian, Yongjue quotes \"gathering the mind is called restraint\" (攝心名戒), then challenges it point by point: \"what thing is mind that it can be gathered? What thing is gathering that it can gather mind? Water does not wash water\" (心是何物而可攝？攝又是何物而可攝心？水不洗水). Yongming Yanshou's Source-Mirror Record states that before reaching its stated gate, \"saying right makes wrong; gathering the mind is still an error\" (說是成非，攝心猶錯). Shiwu Qinggong's community verse retains the ordinary finite action by listing chanting and \"gathering the mind to drive off sleep\" (攝心除睡). Counted forms include \"gathering the mind is called restraint\" (攝心名戒, two occurrences in two texts), \"gather the mind to drive off sleep\" (攝心除睡, two in two), \"the way of gathering the mind\" (攝心之法, one), \"place of gathering the mind\" (攝心處, one), and \"gather the mind and illuminate within\" (攝心內照, three in three). The entry records the action and the texts' own challenges without resolving those challenges into an external system.",
-    "CreatedBy": "Codex fresh-build lane C",
-    "WrittenUtc": "2026-07-19T03:35:56.679037+00:00"
+    "Note": "The verb does not by itself specify posture or a particular contemplative system. Its object and purpose are supplied locally, and one retained authored passage explicitly criticizes mere collection of mind.",
+    "CreatedBy": "R19 clean-regeneration constructor B",
+    "WrittenUtc": "2026-07-30T04:00:00Z"
   },
   {
     "SourceTerm": "攢花簇錦",
@@ -32140,18 +32133,18 @@
   },
   {
     "SourceTerm": "昔日世尊拈花",
-    "PreferredTarget": "formerly, the World-Honored One held up a flower",
+    "PreferredTarget": "once, the World-Honored One held up a flower",
     "AlternateTargets": [
-      "when the World-Honored One once presented a flower"
+      "when the World-Honored One once held up a flower"
     ],
     "SearchAliases": [
       "World-Honored One held up a flower",
-      "flower sermon case"
+      "flower case"
     ],
     "Status": "preferred",
-    "Note": "One inherited flower-sermon case family is retained; repetition does not establish the story's historical antiquity.",
-    "CreatedBy": "Codex Batch23 construction lane A",
-    "WrittenUtc": null
+    "Note": "The source hierarchy supplies four Tier-2 active deployments and no lamps; their common inherited origin remains explicitly marked.",
+    "CreatedBy": "R19 clean-regeneration constructor A",
+    "WrittenUtc": "2026-07-30T00:30:00Z"
   },
   {
     "SourceTerm": "春來草自生",
@@ -36393,15 +36386,16 @@
   },
   {
     "SourceTerm": "歷歷直言歷歷",
-    "PreferredTarget": "when it is perfectly distinct, simply say it is perfectly distinct",
+    "PreferredTarget": "if it is distinct, say simply ‘distinct’",
     "AlternateTargets": [],
     "SearchAliases": [
-      "when it is perfectly distinct, simply say it is perfectly distinct"
+      "when it is distinct, call it distinct",
+      "distinct—say only distinct"
     ],
     "Status": "preferred",
-    "Note": "Retain the repeated clause; generic 歷歷 is not this instruction. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "Here, the repeated word is the predicate itself, not a claim that words create distinctness. The four witnesses are retained for their active later deployments, not as four independent reports of the original exchange.",
+    "CreatedBy": "R19 clean-regeneration constructor B",
+    "WrittenUtc": "2026-07-30T04:00:00Z"
   },
   {
     "SourceTerm": "歸依佛法僧",
@@ -56016,21 +56010,19 @@
   },
   {
     "SourceTerm": "解制",
-    "PreferredTarget": "end the monastic restriction period",
+    "PreferredTarget": "release the restriction",
     "AlternateTargets": [
-      "release the seasonal restriction",
-      "close the restriction period"
+      "end the restriction period"
     ],
     "SearchAliases": [
-      "end restriction period",
-      "release seasonal retreat",
-      "close restriction period",
-      "release-day address"
+      "retreat release",
+      "release-day address",
+      "end a restriction"
     ],
     "Status": "preferred",
-    "Note": "The frozen corpus has 1,814 exact hits in 256 files representing 254 works. Seven anchors cover dated release, occasion headings, dispersal, and direct public questions across independent works.",
-    "CreatedBy": "Codex fresh-build lane C",
-    "WrittenUtc": "2026-07-16T12:26:37.856302+00:00"
+    "Note": "Institutional and personal passages preserve the same action of releasing a restriction; headings remain typed as impersonal metadata.",
+    "CreatedBy": "R19 clean-regeneration constructor A",
+    "WrittenUtc": "2026-07-30T00:30:00Z"
   },
   {
     "SourceTerm": "解夏",
@@ -66128,23 +66120,16 @@
   },
   {
     "SourceTerm": "頭上安頭",
-    "PreferredTarget": "put another head atop one's head",
-    "AlternateTargets": [
-      "add a head on top of the head",
-      "set a head upon one's head",
-      "head-on-head addition"
-    ],
+    "PreferredTarget": "put another head on top of your head",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "put a head atop the head",
-      "add another head",
-      "head upon head",
-      "unnecessary addition",
-      "put another head atop one's head"
+      "add a head atop your head",
+      "a needless extra head"
     ],
     "Status": "preferred",
-    "Note": "The phrase is productive in binary naming tests: calling an object a staff may be \"putting another head atop one's head,\" while denying it is a staff may be \"cutting off the head to seek life\" (斬頭覓活). Saying \"mind itself is Buddha\" (即心是佛) is likewise compared to putting another head atop one's head, while saying \"neither mind nor Buddha\" (非心非佛) is compared to losing the head and recognizing its shadow (迷頭認影). One community address explicitly lists \"do not put another head atop your head\" (不得頭上安頭) as the fourth of four ailments, after seeking another's spittle along the road, driving a stake while rocking an oar, and cutting off the head to seek life. The term names none of those other expressions; their value here is the corpus's own contrast set.",
-    "CreatedBy": "Codex legacy full rebuild Lane B",
-    "WrittenUtc": "2026-07-16T18:11:05.069981+00:00"
+    "Note": "The concrete impossibility carries the lexical force: an unnecessary addition to what is already present. The phrase does not license every generic use of ‘redundant.’",
+    "CreatedBy": "R19 clean-regeneration constructor B",
+    "WrittenUtc": "2026-07-30T04:00:00Z"
   },
   {
     "SourceTerm": "頭上漫漫、脚下漫漫",
