@@ -31546,15 +31546,15 @@
   },
   {
     "SourceTerm": "旋斫生柴帶葉燒",
-    "PreferredTarget": "freshly chop green firewood and burn it with the leaves still on",
+    "PreferredTarget": "quickly chop green firewood and burn it leaves and all",
     "AlternateTargets": [],
     "SearchAliases": [
-      "freshly chop green firewood and burn it with the leaves still on"
+      "quickly chop green firewood and burn it leaves and all"
     ],
     "Status": "preferred",
-    "Note": "旋 means done on the spot or as needed, 生柴 is unseasoned green firewood, and 帶葉 means with leaves still attached; do not normalize the line into efficient firewood preparation. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The first word marks doing it promptly or on the spot, while the firewood is unseasoned and keeps its attached leaves.",
+    "CreatedBy": "R20 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-29T22:24:57.614399Z"
   },
   {
     "SourceTerm": "旋風打散",
@@ -35872,15 +35872,15 @@
   },
   {
     "SourceTerm": "橫按莫邪",
-    "PreferredTarget": "hold Moye crosswise",
+    "PreferredTarget": "hold the Moye sword crosswise",
     "AlternateTargets": [],
     "SearchAliases": [
-      "hold Moye crosswise"
+      "hold the Moye sword crosswise"
     ],
     "Status": "preferred",
-    "Note": "無佛祖 and 傳正令 remain alternative continuations, not part of the headword. No lamp is retained.",
-    "CreatedBy": "V7 batch68 admitted11 constructor C",
-    "WrittenUtc": "2026-07-29T15:05:00Z"
+    "Note": "Moye is the named sword in the image. The recurring following line about a peaceful realm is context, not part of this headword.",
+    "CreatedBy": "R20 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-29T22:24:57.614399Z"
   },
   {
     "SourceTerm": "橫說竪說",
@@ -56418,21 +56418,15 @@
   },
   {
     "SourceTerm": "言語道斷",
-    "PreferredTarget": "language has no road onward",
-    "AlternateTargets": [
-      "the path of words is cut off",
-      "where language stops"
-    ],
+    "PreferredTarget": "the path of words is cut off",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "language has no road onward",
-      "language stops",
-      "words fail",
       "the path of words is cut off"
     ],
     "Status": "preferred",
-    "Note": "One corpus-wide sense. The paired and counter-paired lines are different statements about the same fixed phrase, not different referents. The Zen-specific bend lies in masters placing a phrase about language's limit inside spoken hall addresses and public questions, including an explicit warning against equating it with shutting the eyes.",
-    "CreatedBy": "Codex fresh f001 lane B evidence-first",
-    "WrittenUtc": "2026-07-15T05:30:00Z"
+    "Note": "The phrase does not define silence as mere inability to speak. Its frequent pairing with the ending of mental activity is retained as context, not silently merged into this headword.",
+    "CreatedBy": "R20 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-29T22:24:57.614399Z"
   },
   {
     "SourceTerm": "言鋒若差",
@@ -59428,15 +59422,15 @@
   },
   {
     "SourceTerm": "辭親割愛",
-    "PreferredTarget": "leave one's kin and cut off attachments",
+    "PreferredTarget": "leave one's kin and cut attachment",
     "AlternateTargets": [],
     "SearchAliases": [
-      "leave one's kin and cut off attachments"
+      "leave one's kin and cut attachment"
     ],
     "Status": "preferred",
-    "Note": "愛 is binding attachment in the renunciation formula, not a blanket instruction to become incapable of care. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The final word is binding attachment within this renunciation formula; the expression does not require translating all care or affection as something to destroy.",
+    "CreatedBy": "R20 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-29T22:24:57.614399Z"
   },
   {
     "SourceTerm": "巡人犯夜",
@@ -61204,15 +61198,15 @@
   },
   {
     "SourceTerm": "釋迦掩室於摩竭",
-    "PreferredTarget": "Shakyamuni shut himself in his room at Magadha",
+    "PreferredTarget": "Shakyamuni shut himself in his room in Magadha",
     "AlternateTargets": [],
     "SearchAliases": [
-      "Shakyamuni shut himself in his room at Magadha"
+      "Shakyamuni shut himself in his room in Magadha"
     ],
     "Status": "preferred",
-    "Note": "Retain the complete seven-graph first member while binding the following Vimalakirti, Subhuti, and gods clauses as its recurrent formula context. A Tier-3 lamp witness is retained as corroborative evidence only (1 lamp row); it does not upgrade validation.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The paired Vimalakirti clause and the rest of Sengzhao's fourfold formula remain context rather than part of the headword. Later speakers can praise, criticize, or reverse the emblem without changing its referent.",
+    "CreatedBy": "R20 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-29T22:24:57.614399Z"
   },
   {
     "SourceTerm": "釋迦自釋迦",
