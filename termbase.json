@@ -13835,6 +13835,19 @@
     "WrittenUtc": "2026-07-22T04:00:00Z"
   },
   {
+    "SourceTerm": "含齒戴髮",
+    "PreferredTarget": "bearing teeth and wearing hair",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "bearing teeth and wearing hair",
+      "people with teeth and hair"
+    ],
+    "Status": "preferred",
+    "Note": "Yuanwu and Ying'an invoke the paired bodily marks while addressing what human beings receive or owe.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "吹毛劍",
     "PreferredTarget": "a sword that cuts a blown hair",
     "AlternateTargets": [
