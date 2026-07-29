@@ -30005,8 +30005,8 @@
       "plain as sun and stars"
     ],
     "Status": "preferred",
-    "Note": "The paired observation names what is plainly visible at its ordinary time. Two independent low-tier deployments are retained without recension padding.",
-    "CreatedBy": "Codex cohort-002 lane-B author",
+    "Note": "Two independent Tier-2 recorded-sayings deployments retain the paired ordinary visibility of sun by day and stars by night. Both former lamp rows are omitted.",
+    "CreatedBy": "Codex lamp-only repair cohort008 lane A",
     "WrittenUtc": "2026-07-18T20:50:52Z"
   },
   {
@@ -30158,17 +30158,18 @@
   },
   {
     "SourceTerm": "智人之明鑑。佛法之至論",
-    "PreferredTarget": "a bright mirror for the wise, the utmost statement of the Buddha-teaching",
+    "PreferredTarget": "a bright mirror for the wise; the utmost statement of the Buddha-teaching",
     "AlternateTargets": [
-      "the wise person’s clear mirror, the Buddha-teaching’s utmost statement"
+      "the wise person's clear mirror; the Buddha-teaching's utmost statement"
     ],
     "SearchAliases": [
-      "the wise person’s clear mirror, the Buddha-teaching’s utmost statement"
+      "a bright mirror for the wise; the utmost statement of the Buddha-teaching",
+      "the wise person's clear mirror; the Buddha-teaching's utmost statement"
     ],
     "Status": "preferred",
-    "Note": "The praise belongs to the old saying he introduces, not to every formal statement.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-22T12:00:00Z"
+    "Note": "The praise applies to the immediately preceding source-quenching maxims in this one lamp-preserved hall address.",
+    "CreatedBy": "Codex lamp repair cohort008 lane B",
+    "WrittenUtc": "2026-07-29T07:16:35.231751Z"
   },
   {
     "SourceTerm": "暗中明",
@@ -30698,15 +30699,15 @@
   },
   {
     "SourceTerm": "望南看北斗",
-    "PreferredTarget": "facing south while looking for the Northern Dipper",
+    "PreferredTarget": "face south and look at the Northern Dipper",
     "AlternateTargets": [],
     "SearchAliases": [
-      "facing south while looking for the Northern Dipper"
+      "face south and look at the Northern Dipper"
     ],
     "Status": "preferred",
-    "Note": "Two distinct lamp-preserved deployments survive: Bajiao Huiqing answers a question about oneself, and Junshan Pujing answers a question about the person within the scene. No stronger direct witness was established.",
-    "CreatedBy": "Codex lamp-only canary021 lane A",
-    "WrittenUtc": "2026-07-28T23:05:00Z"
+    "Note": "Seven lamp recensions preserve two case families; the earlier Bajiao Huiqing case alone is retained as the strongest fallback.",
+    "CreatedBy": "Codex lamp repair cohort008 lane B",
+    "WrittenUtc": "2026-07-29T07:16:35.231751Z"
   },
   {
     "SourceTerm": "望州亭",
@@ -32028,15 +32029,19 @@
   {
     "SourceTerm": "東西不辨，南北不分",
     "PreferredTarget": "unable to distinguish east from west or north from south",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "unable to tell one direction from another",
+      "completely disoriented"
+    ],
     "SearchAliases": [
+      "unable to distinguish east from west or north from south",
       "unable to tell one direction from another",
       "completely disoriented"
     ],
     "Status": "preferred",
-    "Note": "Three distinct Tier-3 deployments support a reusable expression for complete disorientation. The lamp-only evidence remains provisional; a later fourth witness is omitted as unnecessary padding.",
-    "CreatedBy": "Codex migration038 lane B",
-    "WrittenUtc": "2026-07-29T00:00:00Z"
+    "Note": "The phrase can mark rhetorical directionlessness or severe lived disorientation; these applications do not require separate dictionary senses.",
+    "CreatedBy": "Codex lamp repair cohort008 lane B",
+    "WrittenUtc": "2026-07-29T07:16:35.231751Z"
   },
   {
     "SourceTerm": "東西兩堂",
@@ -32409,9 +32414,9 @@
       "the willows are tender gold; the pear blossoms are snow-white and fragrant"
     ],
     "Status": "preferred",
-    "Note": "Two distinct compiled-source deployments survive: Tiansheng Shoudao answers a request for a statement beyond light and darkness, while Yang Wuwei uses the line as an answer about the teaching body. Parallel copies of Tiansheng's address are excluded.",
-    "CreatedBy": "Codex lamp-only canary021 lane A",
-    "WrittenUtc": "2026-07-28T23:05:00Z"
+    "Note": "The headword's simplified 黃 and punctuation are editorial variants; one exact-order Tier-2 quotation is retained without importing reversed or separated near variants.",
+    "CreatedBy": "Codex lamp repair cohort008 lane B",
+    "WrittenUtc": "2026-07-29T07:16:35.231751Z"
   },
   {
     "SourceTerm": "栗棘蓬",
@@ -33513,8 +33518,8 @@
       "tonight one fire clothing for the household"
     ],
     "Status": "preferred",
-    "Note": "All exact witnesses transmit Zhengjue Yi's same hall verse. One lamp witness represents the exhausted family.",
-    "CreatedBy": "author_from_packet",
+    "Note": "All governed punctuation witnesses transmit Zhengjue Yi's same hall verse. The earlier complete Continued Lamp recension alone represents the exhausted family.",
+    "CreatedBy": "Codex lamp-only repair cohort008 lane C",
     "WrittenUtc": "2026-07-19T16:50:15.005068Z"
   },
   {
@@ -35485,7 +35490,7 @@
     ],
     "Status": "preferred",
     "Note": "All exact witnesses narrate the same occasion on which Zhutian Ruli raised the case. One lamp witness represents that exhausted family.",
-    "CreatedBy": "Codex post720 Lane C positions 033-058",
+    "CreatedBy": "Codex lamp-only repair cohort008 lane C",
     "WrittenUtc": "2026-07-17T16:30:22.041434+00:00"
   },
   {
