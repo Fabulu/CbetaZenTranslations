@@ -25,7 +25,7 @@
       "one fails, two is wrong"
     ],
     "Status": "preferred",
-    "Note": "Fresh C52 construction from exact complete cases; bridged discovery 64 hits across 36 works; exact apparatus-clean frequency is compiled by the depth gate.",
+    "Note": "Two distinct Tier-3 deployments are retained: Yunmen uses the pair as an answer and Baiyun uses it in a hall address. Four additional lamp deployments are omitted as unnecessary depth.",
     "CreatedBy": "Codex fresh semantic author lane C repair",
     "WrittenUtc": "2026-07-18T10:04:34.216581Z"
   },
@@ -2337,7 +2337,7 @@
       "a true man’s sky-piercing force"
     ],
     "Status": "preferred",
-    "Note": "The line refuses borrowed tracks in Changlu’s address; it does not deny that the Tathagata appears elsewhere in the record.",
+    "Note": "One Tier-3 lamp family preserves Changlu Timing's hall-address line; no second family is claimed.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T21:40:07.942668Z"
   },
@@ -4121,16 +4121,17 @@
   },
   {
     "SourceTerm": "不許夜行，投明須到",
-    "PreferredTarget": "the night-travel and dawn-arrival rule",
+    "PreferredTarget": "night travel is forbidden and arrival is required at daybreak",
     "AlternateTargets": [
-      "night travel is not permitted, with arrival required at daybreak"
+      "night travel is not permitted; you must arrive at daybreak"
     ],
     "SearchAliases": [
       "no night travel",
-      "arrive by dawn"
+      "arrival required at daybreak",
+      "night travel forbidden"
     ],
     "Status": "preferred",
-    "Note": "Fengxue Yanzhao gives the pair as a direct answer; Touzi Datong’s answer is raised in later records; other masters and questioners quote the complete pair as a fixed rule. Exact-turn review keeps quotations and record headings separate.",
+    "Note": "Two distinct Tier-3 families are retained: Fengxue gives the pair directly and a later record raises Touzi's answer. A duplicate Touzi recension, duplicate Zhaojue recensions, and a quoted question are omitted.",
     "CreatedBy": "iriya-construction-001 lane B",
     "WrittenUtc": "2026-07-18T08:15:50.699929Z"
   },
@@ -17302,7 +17303,7 @@
       "bandit below mountain cloud on ridge"
     ],
     "Status": "preferred",
-    "Note": "The phrase survives here as one attributed answer in a comparative list and is provisional.",
+    "Note": "One attributed source family preserves Shoushan Xingnian's paired answer in a comparative list; no second family is claimed.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-22T01:30:00Z"
   },
@@ -30798,15 +30799,16 @@
   },
   {
     "SourceTerm": "東西不辨，南北不分",
-    "PreferredTarget": "unable to distinguish east from west or divide north from south",
+    "PreferredTarget": "unable to distinguish east from west or north from south",
     "AlternateTargets": [],
     "SearchAliases": [
-      "unable to distinguish east from west or divide north from south"
+      "unable to tell one direction from another",
+      "completely disoriented"
     ],
     "Status": "preferred",
-    "Note": "Ordinary disorientation becomes both an answer and a critical diagnosis inside public questioning.",
-    "CreatedBy": "Codex cohort-002 lane-A 121-130 full-case author",
-    "WrittenUtc": "2026-07-19T05:03:44.848496Z"
+    "Note": "Three distinct Tier-3 deployments support a reusable expression for complete disorientation. The lamp-only evidence remains provisional; a later fourth witness is omitted as unnecessary padding.",
+    "CreatedBy": "Codex migration038 lane B",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "東西兩堂",
@@ -33049,9 +33051,9 @@
       "water by bamboo flows out cool; wind through flowers comes fragrant"
     ],
     "Status": "preferred",
-    "Note": "Only Tuian Daoqi’s answer to the Ehu-and-Baofu question currently supports this complete couplet.",
-    "CreatedBy": "Codex regular-vetted Iriya release005 lane C",
-    "WrittenUtc": "2026-07-22T00:00:00Z"
+    "Note": "One Tier-3 family preserves Tuian Daoqi's complete encounter answer; no second family is claimed.",
+    "CreatedBy": "Codex Migration039 Lane B",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "水頭",
@@ -39598,9 +39600,9 @@
       "Xuedou flower question"
     ],
     "Status": "preferred",
-    "Note": "Xuedou's verse leaves seasonal blossoming as an open public question: for whom do the flowers open?",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-22T01:30:00Z"
+    "Note": "One Tier-3 family preserves Xuedou's closing verse question; no second family is claimed.",
+    "CreatedBy": "Codex Migration039 Lane B",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "百草頭",
@@ -41200,7 +41202,7 @@
   },
   {
     "SourceTerm": "石壓笋斜出。岸懸花倒生",
-    "PreferredTarget": "pressed by a rock, the bamboo shoot emerges sideways, while hanging from the bank, the flower grows downward",
+    "PreferredTarget": "a bamboo shoot pressed by rock emerges sideways, while a flower hanging from the bank grows downward",
     "AlternateTargets": [
       "a stone weighs on the shoot, so it comes out slantwise; a cliff-hung flower blooms upside down"
     ],
@@ -41210,9 +41212,9 @@
       "flower growing downward from bank"
     ],
     "Status": "preferred",
-    "Note": "The line is Juebao Qing’s addition to the raised Yunmen case; it is one direct deployment and remains provisional.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-22T01:30:00Z"
+    "Note": "One Tier-3 family preserves Juebao Qing's paired addition to the raised Yunmen case; no second family is claimed.",
+    "CreatedBy": "Codex Migration039 Lane B",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "石女",
