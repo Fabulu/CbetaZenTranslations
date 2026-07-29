@@ -24849,6 +24849,18 @@
     "WrittenUtc": "2026-07-19T00:00:00Z"
   },
   {
+    "SourceTerm": "惠汝以蔭子孫",
+    "PreferredTarget": "I bestow it on you to shelter your descendants",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "I bestow it on you to shelter your descendants"
+    ],
+    "Status": "preferred",
+    "Note": "惠 is the emperor's claimed bestowal and 蔭 protective benefit extending to descendants; keep the returned-cake setup because it supplies the exchange's challenge. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "惡水驀頭澆",
     "PreferredTarget": "to pour foul water straight over the head",
     "AlternateTargets": [],
@@ -36815,6 +36827,18 @@
     "WrittenUtc": "2026-07-19T18:50:22.573011Z"
   },
   {
+    "SourceTerm": "泥團土塊",
+    "PreferredTarget": "mud lumps and clods of earth",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "mud lumps and clods of earth"
+    ],
+    "Status": "preferred",
+    "Note": "The compound names worthless or inert-looking earthen lumps; context decides whether it is simple depreciation or a reversal in which those very clods display functioning. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "泥多佛大、水長船高",
     "PreferredTarget": "more mud makes a bigger buddha, as rising water lifts the boat",
     "AlternateTargets": [
@@ -46047,6 +46071,18 @@
     "WrittenUtc": "2026-07-18T04:29:04.879929+00:00"
   },
   {
+    "SourceTerm": "禾山打皷",
+    "PreferredTarget": "Heshan beats the drum",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Heshan beats the drum"
+    ],
+    "Status": "preferred",
+    "Note": "The headword uses a transmitted drum graph; bind the fuller “knows how to beat the drum” answer where the fuller answer is present and do not turn the drum into an abstract doctrine. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "禾山打鼓",
     "PreferredTarget": "Heshan beats the drum",
     "AlternateTargets": [],
@@ -50616,6 +50652,18 @@
     "Note": "The exclamation is preserved as a complete refrain, but the surrounding judgments differ and must not be collapsed into one conceptual explanation.",
     "CreatedBy": "Codex cohort002 lane C author",
     "WrittenUtc": "2026-07-18T22:31:39.423221Z"
+  },
+  {
+    "SourceTerm": "苦瓠連根苦",
+    "PreferredTarget": "a bitter gourd is bitter down to the root",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a bitter gourd is bitter down to the root"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 甜瓜徹蒂甜 as the recurrent first half; 連根 emphasizes bitterness extending to the root, not merely a bitter-tasting fruit. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "苦瓠連根苦、甜瓜徹蒂甜",
