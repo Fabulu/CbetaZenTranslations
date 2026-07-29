@@ -9362,6 +9362,20 @@
     "WrittenUtc": "2026-07-15T05:30:00Z"
   },
   {
+    "SourceTerm": "六波羅蜜",
+    "PreferredTarget": "the six perfections",
+    "AlternateTargets": [
+      "the six pāramitās"
+    ],
+    "SearchAliases": [
+      "six paramitas"
+    ],
+    "Status": "preferred",
+    "Note": "The retained Tier-1 clause classifies the collective without enumerating all six members; no enumeration is supplied here.",
+    "CreatedBy": "Codex Batch28 source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "六耳不同謀",
     "PreferredTarget": "six ears do not share a plot",
     "AlternateTargets": [],
@@ -13005,6 +13019,21 @@
     "WrittenUtc": "2026-07-15T00:00:00Z"
   },
   {
+    "SourceTerm": "各信自心是佛",
+    "PreferredTarget": "each of you, trust that your own mind is Buddha",
+    "AlternateTargets": [
+      "each person should trust that their own mind is Buddha"
+    ],
+    "SearchAliases": [
+      "trust that your own mind is Buddha",
+      "each person's own mind is Buddha"
+    ],
+    "Status": "preferred",
+    "Note": "The surviving repetitions transmit one Mazu address and do not constitute independent deployments.",
+    "CreatedBy": "Codex Batch28 source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "各自守疆界",
     "PreferredTarget": "each keeps to his own boundary",
     "AlternateTargets": [
@@ -16511,6 +16540,21 @@
     "Note": "An emphatic historical address for decisive conduct; demanded actions do not create additional lexical senses.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T00:00:00Z"
+  },
+  {
+    "SourceTerm": "大丈夫膝下有黃金",
+    "PreferredTarget": "a great man has gold beneath his knees",
+    "AlternateTargets": [
+      "there is gold beneath a great man's knees"
+    ],
+    "SearchAliases": [
+      "great man does not kneel lightly",
+      "gold beneath the knees"
+    ],
+    "Status": "preferred",
+    "Note": "Tianyin raises and comments on the case; Shengzong remains the speaker of the maxim.",
+    "CreatedBy": "Codex Batch28 source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "大事了畢",
@@ -22356,6 +22400,21 @@
     "WrittenUtc": "2026-07-23T18:00:00Z"
   },
   {
+    "SourceTerm": "從無住本立一切法",
+    "PreferredTarget": "from the root of non-abiding, establish all dharmas",
+    "AlternateTargets": [
+      "all dharmas are established from the root of non-abiding"
+    ],
+    "SearchAliases": [
+      "root of non-abiding",
+      "establish all dharmas from non-abiding"
+    ],
+    "Status": "preferred",
+    "Note": "Later Chan questions and recitations remain uses of one inherited formula rather than new origins.",
+    "CreatedBy": "Codex Batch28 source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "從苗辨地、因語識人",
     "PreferredTarget": "discern the ground from the sprout and recognize the person from the speech",
     "AlternateTargets": [
@@ -24284,6 +24343,21 @@
     "Note": "7 full-case witnesses distinguish speech, quotation, narration, and documentary uses.",
     "CreatedBy": "Codex f004 A918-925 reviewer6 author repair",
     "WrittenUtc": "2026-07-16T06:15:47.894621+00:00"
+  },
+  {
+    "SourceTerm": "打一圓相",
+    "PreferredTarget": "make a circle",
+    "AlternateTargets": [
+      "trace a circular figure"
+    ],
+    "SearchAliases": [
+      "draw a circle",
+      "make a circular sign"
+    ],
+    "Status": "preferred",
+    "Note": "Actor, instrument, and repeated-circle expansions belong to this action family; 一圓相 remains the noun for the figure.",
+    "CreatedBy": "Codex Batch28 source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "打一拂子",
@@ -49628,6 +49702,21 @@
     "Note": "Muzhou, Yunmen, Baiyu, Weilin, and Jiqi invoke Guanyin in answers, sayings, and public addresses.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T10:00:00Z"
+  },
+  {
+    "SourceTerm": "觀世音菩薩來也",
+    "PreferredTarget": "Avalokitesvara has arrived!",
+    "AlternateTargets": [
+      "Avalokitesvara is here!"
+    ],
+    "SearchAliases": [
+      "Avalokitesvara appears",
+      "Guanyin has arrived"
+    ],
+    "Status": "preferred",
+    "Note": "The two occasions establish a reusable proclamation job; their different continuations do not establish one universal doctrine of manifestation.",
+    "CreatedBy": "Codex Batch28 source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "觀心",
