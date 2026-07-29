@@ -31059,6 +31059,19 @@
     "WrittenUtc": "2026-07-19T04:20:00Z"
   },
   {
+    "SourceTerm": "敵勝還他獅子兒",
+    "PreferredTarget": "to overcome an opponent, it takes a lion cub",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a lion cub overcomes the opponent",
+      "it takes a lion cub to defeat a rival"
+    ],
+    "Status": "preferred",
+    "Note": "The repeated couplet is not five reports of one event: the retained passages are five later masters' own uses. Hits that place the line inside a question are excluded from the retained Feiyin and Yinyuan turns.",
+    "CreatedBy": "R11 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-29T21:10:00Z"
+  },
+  {
     "SourceTerm": "數片白雲籠古寺",
     "PreferredTarget": "several patches of white cloud shroud the old temple",
     "AlternateTargets": [
@@ -41846,6 +41859,19 @@
     "WrittenUtc": "2026-07-22T01:00:00Z"
   },
   {
+    "SourceTerm": "爭解彎弓射尉遲",
+    "PreferredTarget": "how could you know how to draw a bow and shoot Yuchi?",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "how could you draw a bow against Yuchi?",
+      "who knows how to shoot Yuchi?"
+    ],
+    "Status": "preferred",
+    "Note": "The Yuchi line remains the stable challenge while the preceding Jinya clause varies. Lamp recensions and passive repetitions of the old Shaoshan exchange are excluded because direct recorded-sayings uses meet the evidence floor.",
+    "CreatedBy": "R11 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-29T21:10:00Z"
+  },
+  {
     "SourceTerm": "爲君幾下蒼龍窟",
     "PreferredTarget": "for you, how many descents into the blue dragon’s cave?",
     "AlternateTargets": [],
@@ -50668,6 +50694,19 @@
     "Note": "The proverb contrasts abundant generosity with stinginess born of scarcity; the entry reports only its attested appraisals.",
     "CreatedBy": "Codex Iriya lane C81-90 full-case author",
     "WrittenUtc": "2026-07-18T19:30:00Z"
+  },
+  {
+    "SourceTerm": "習氣不除",
+    "PreferredTarget": "ingrained habits remain",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "habitual patterns remain",
+      "ingrained habits have not been removed"
+    ],
+    "Status": "preferred",
+    "Note": "The object of the habit varies with the passage, but every retained use says that an established pattern has not disappeared. The parallel Hongzhi containers and the duplicate C077/D48 work are not counted twice.",
+    "CreatedBy": "R11 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-29T21:10:00Z"
   },
   {
     "SourceTerm": "翻令所得遲",
@@ -62054,6 +62093,19 @@
     "WrittenUtc": "2026-07-15T04:49:07.954968+00:00"
   },
   {
+    "SourceTerm": "鉢裏飯",
+    "PreferredTarget": "rice in the bowl",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "bowlful of rice",
+      "rice inside the bowl"
+    ],
+    "Status": "preferred",
+    "Note": "The entry covers the bowl-rice expression, not generic mentions of food. Later quotations remain attributed to Yunmen, while Baiyun's and Gulin's new verse lines belong to their respective authors.",
+    "CreatedBy": "R11 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-29T21:10:00Z"
+  },
+  {
     "SourceTerm": "鉢裏飯、桶裏水",
     "PreferredTarget": "rice in the bowl and water in the bucket",
     "AlternateTargets": [],
@@ -64229,6 +64281,19 @@
     "Note": "正中偏 and the preceding verse lines govern the image; the lamp reuse is not independent.",
     "CreatedBy": "V7 batch71 admitted20 constructor B",
     "WrittenUtc": "2026-07-29T17:20:00Z"
+  },
+  {
+    "SourceTerm": "隱顯全該",
+    "PreferredTarget": "concealment and manifestation are wholly included",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "hidden and manifest are fully included",
+      "concealed and apparent are all encompassed"
+    ],
+    "Status": "preferred",
+    "Note": "The formula belongs to several independently framed uses rather than one inherited quotation. Memorial prose, verse, a public question, and case commentary all preserve the same concealment-and-appearance pair.",
+    "CreatedBy": "R11 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-29T21:10:00Z"
   },
   {
     "SourceTerm": "隻手遮日",
