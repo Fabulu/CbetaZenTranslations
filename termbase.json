@@ -171,18 +171,16 @@
   },
   {
     "SourceTerm": "一切法皆是佛法",
-    "PreferredTarget": "all dharmas are Buddha-dharma",
-    "AlternateTargets": [
-      "all phenomena are Buddha-dharma"
-    ],
+    "PreferredTarget": "all phenomena are Buddha-dharma",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "all things are Buddhist teaching",
-      "every dharma is Buddha-dharma"
+      "all teachings are Buddha-dharma",
+      "all dharmas are Buddha-dharma"
     ],
     "Status": "preferred",
-    "Note": "The formula's copies form one scriptural family; Yanshou's exposition and Fayan's corrective deployment are independent uses.",
-    "CreatedBy": "Codex Batch30 source-tier construction",
-    "WrittenUtc": "2026-07-29T00:00:00Z"
+    "Note": "The sentence may be quoted, questioned, or explained; the later answerer is distinct from the inherited proposition. Parallel Yunmen and Old Recorded Sayings containers are not multiplied as families.",
+    "CreatedBy": "R16 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-30T01:00:00Z"
   },
   {
     "SourceTerm": "一切現成",
@@ -18396,18 +18394,16 @@
   },
   {
     "SourceTerm": "大涅槃經",
-    "PreferredTarget": "Mahāparinirvāṇa Sūtra",
-    "AlternateTargets": [
-      "Great Nirvana Sutra"
-    ],
+    "PreferredTarget": "the Great Nirvana Sutra",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "Mahaparinirvana Sutra",
-      "Great Nirvana scripture"
+      "Mahāparinirvāṇa Sūtra",
+      "Great Final Nirvana Scripture"
     ],
     "Status": "preferred",
-    "Note": "Only explicit title citations count; occurrences of 大涅槃 without 經 belong to the doctrinal phrase.",
-    "CreatedBy": "Codex Batch32 source-tier construction",
-    "WrittenUtc": "2026-07-29T00:00:00Z"
+    "Note": "The title identifies the scripture, not a Zen-master coinage. Each retained use is a citation, discussion, or raised quotation; repeated passages remain separate from the later commentator's own words.",
+    "CreatedBy": "R16 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-30T01:00:00Z"
   },
   {
     "SourceTerm": "大用",
@@ -54356,15 +54352,16 @@
   },
   {
     "SourceTerm": "虎穴魔宮",
-    "PreferredTarget": "tiger caves and demon palaces",
+    "PreferredTarget": "tiger's den and demon's palace",
     "AlternateTargets": [],
     "SearchAliases": [
-      "tiger caves and demon palaces"
+      "tiger lair and demon palace",
+      "dangerous and defiled places"
     ],
     "Status": "preferred",
-    "Note": "Keep the coordinated four-graph pair; 虎穴 and 魔宮 individually are ordinary danger images. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The settings vary from danger to moral defilement, but the paired metaphor consistently marks places ordinarily treated as forbidding.",
+    "CreatedBy": "R16 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-30T01:00:00Z"
   },
   {
     "SourceTerm": "虎逢山勢長威獰",
@@ -59891,19 +59888,15 @@
   {
     "SourceTerm": "透關",
     "PreferredTarget": "pass through the barrier",
-    "AlternateTargets": [
-      "get through the barrier",
-      "clear the barrier"
-    ],
+    "AlternateTargets": [],
     "SearchAliases": [
-      "pass through the barrier",
-      "get through the barrier",
-      "clear the barrier"
+      "penetrate the checkpoint",
+      "barrier-penetrating"
     ],
     "Status": "preferred",
-    "Note": "The attributive forms 'one already through the barrier' and 'one not through the barrier' recur across the corpus. Broader verbs meaning 'get through' or 'pass through' are not counted as headword occurrences unless they are followed by the graph for barrier. Zhongfeng explicitly distinguishes loose passing-through language from passing the tight barrier underfoot; that text-drawn distinction is retained.",
-    "CreatedBy": "Codex fresh f001 lane B evidence-first",
-    "WrittenUtc": "2026-07-15T05:30:00Z"
+    "Note": "The object called a barrier differs, but the lexical action remains penetration or passage. Parallel recensions of the oxherding verse count as one family.",
+    "CreatedBy": "R16 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-30T01:00:00Z"
   },
   {
     "SourceTerm": "透關眼",
