@@ -7830,6 +7830,18 @@
     "WrittenUtc": "2026-07-21T20:54:39.996154Z"
   },
   {
+    "SourceTerm": "借位明功",
+    "PreferredTarget": "borrow the position to reveal the work",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "borrow the position to reveal the work"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 借功明位 as the reciprocal formula, not a synonym. No lamp is retained.",
+    "CreatedBy": "V7 batch67 admitted14 constructor C",
+    "WrittenUtc": "2026-07-29T14:50:00Z"
+  },
+  {
     "SourceTerm": "借婆裙子拜婆年",
     "PreferredTarget": "borrow the old woman’s skirt to pay the old woman New Year respects",
     "AlternateTargets": [],
@@ -11358,6 +11370,18 @@
     "Note": "Sword Pass remains the dangerous route named by the proverb; the records license persistence through peril, not a literal traffic report.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T19:37:01.420984Z"
+  },
+  {
+    "SourceTerm": "劒甲未施",
+    "PreferredTarget": "before sword or armor is deployed",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "before sword or armor is deployed"
+    ],
+    "Status": "preferred",
+    "Note": "Keep 賊身已露 as the governing complement; one direct work controls.",
+    "CreatedBy": "V7 batch67 admitted14 constructor C",
+    "WrittenUtc": "2026-07-29T14:50:00Z"
   },
   {
     "SourceTerm": "功不浪施",
@@ -20880,6 +20904,18 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "寂滅為樂",
+    "PreferredTarget": "quiescent extinction is joy",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "quiescent extinction is joy"
+    ],
+    "Status": "preferred",
+    "Note": "Distinguish the quoted verse claim from the later speakers' direct commentary. No lamp is retained.",
+    "CreatedBy": "V7 batch67 admitted14 constructor C",
+    "WrittenUtc": "2026-07-29T14:50:00Z"
+  },
+  {
     "SourceTerm": "密移一步",
     "PreferredTarget": "secretly shift one step",
     "AlternateTargets": [],
@@ -28854,6 +28890,18 @@
     "Note": "Bind the failure to recognize sound as the root of the echo and govern playing with the shadow while fleeing the form as the recurrent parallel; the phrase criticizes counterproductive causal handling, not sound itself. No lamp is retained.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "換人眼睛",
+    "PreferredTarget": "change people's eyes",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "change people's eyes"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the corrective or disorienting operation attached to its local action. No lamp is retained.",
+    "CreatedBy": "V7 batch67 admitted14 constructor C",
+    "WrittenUtc": "2026-07-29T14:50:00Z"
   },
   {
     "SourceTerm": "換却你眼睛",
@@ -52118,6 +52166,18 @@
     "WrittenUtc": "2026-07-18T22:31:39.423221Z"
   },
   {
+    "SourceTerm": "苦樂逆順",
+    "PreferredTarget": "suffering and pleasure, adversity and favor",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "suffering pleasure adversity favor"
+    ],
+    "Status": "preferred",
+    "Note": "Zhongfeng's direct use controls; the unresolved Longmen quotation is supplementary. No lamp is retained.",
+    "CreatedBy": "V7 batch67 admitted14 constructor C",
+    "WrittenUtc": "2026-07-29T14:50:00Z"
+  },
+  {
     "SourceTerm": "苦瓠連根苦",
     "PreferredTarget": "a bitter gourd is bitter down to the root",
     "AlternateTargets": [],
@@ -56458,6 +56518,18 @@
     "WrittenUtc": "2026-07-17T10:32:54.643271+00:00"
   },
   {
+    "SourceTerm": "證龜成鱉",
+    "PreferredTarget": "prove a turtle into a soft-shelled turtle",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "prove a turtle into a soft-shelled turtle"
+    ],
+    "Status": "preferred",
+    "Note": "Treat 三人 as a productive subject, not part of this headword. No lamp is retained.",
+    "CreatedBy": "V7 batch67 admitted14 constructor C",
+    "WrittenUtc": "2026-07-29T14:50:00Z"
+  },
+  {
     "SourceTerm": "識取鉤頭意、莫認定盤星",
     "PreferredTarget": "recognize the hook's intent without mistaking the fixed scale mark",
     "AlternateTargets": [],
@@ -59259,6 +59331,18 @@
     "Note": "6 retained full-case witnesses after lexical-boundary and deployment review.",
     "CreatedBy": "Codex f004 lane B complete-case author",
     "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
+  },
+  {
+    "SourceTerm": "遇茶喫茶",
+    "PreferredTarget": "when tea comes, drink tea",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "when tea comes drink tea"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 遇飯喫飯 as the recurrent companion, not a synonym. No lamp is retained.",
+    "CreatedBy": "V7 batch67 admitted14 constructor C",
+    "WrittenUtc": "2026-07-29T14:50:00Z"
   },
   {
     "SourceTerm": "遇貴則賤、遇賤則貴",
