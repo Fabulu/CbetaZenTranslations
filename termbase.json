@@ -9877,6 +9877,19 @@
     "WrittenUtc": "2026-07-15T13:00:00Z"
   },
   {
+    "SourceTerm": "冷湫湫",
+    "PreferredTarget": "bleak and cold",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "bleak and cold",
+      "cold and lifeless"
+    ],
+    "Status": "preferred",
+    "Note": "Do not reduce every literal description of cold weather or water to this evaluative use. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "冷灰豆爆",
     "PreferredTarget": "a bean pops in cold ashes",
     "AlternateTargets": [
@@ -18192,6 +18205,19 @@
     "Note": "The household image remains a servant-and-maid comparison; it does not identify a fixed social rank outside the recorded appraisals.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T14:14:02.665296Z"
+  },
+  {
+    "SourceTerm": "奴見婢殷勤",
+    "PreferredTarget": "a servant sees a maid and becomes solicitous",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "servant sees maid and fusses",
+      "same-level mutual fussing"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase criticizes same-level mutual attentiveness or entanglement; it is not neutral household description. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "奴郎不辨",
@@ -40026,6 +40052,19 @@
     "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
+    "SourceTerm": "甘草甜",
+    "PreferredTarget": "licorice is sweet",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "licorice is sweet",
+      "sweet licorice"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase is independently deployable, but its coptis and full-pair relatives must not become duplicate articles without separate review. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "甚處來",
     "PreferredTarget": "where have you come from?",
     "AlternateTargets": [],
@@ -53956,6 +53995,19 @@
     "WrittenUtc": "2026-07-18T08:26:07.196766Z"
   },
   {
+    "SourceTerm": "跛鼈盲龜",
+    "PreferredTarget": "a lame turtle and a blind tortoise",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "lame turtle and blind tortoise",
+      "incapable participant"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the paired animal image rather than turning it into a doctrinal class. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "路不拾遺",
     "PreferredTarget": "lost property is not picked up on the road",
     "AlternateTargets": [
@@ -61112,6 +61164,19 @@
     "WrittenUtc": "2026-07-17T17:09:08.823288+00:00"
   },
   {
+    "SourceTerm": "飢餐渴飲",
+    "PreferredTarget": "eat when hungry, drink when thirsty",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "eat when hungry drink when thirsty",
+      "hungry eat thirsty drink"
+    ],
+    "Status": "preferred",
+    "Note": "Do not expand it into lifestyle advice or a doctrine of spontaneity beyond the local contrast. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "飯籮邊餓死",
     "PreferredTarget": "starving beside the rice basket",
     "AlternateTargets": [
@@ -63165,6 +63230,19 @@
     "Note": "The simile is literal and recurrent; do not assign lacquer-blackness one universal symbolic meaning.",
     "CreatedBy": "Codex Batch42 lane-B construction",
     "WrittenUtc": "2026-07-29T06:21:15.345257Z"
+  },
+  {
+    "SourceTerm": "黑如漆",
+    "PreferredTarget": "black as lacquer",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "pitch-black",
+      "black as lacquer"
+    ],
+    "Status": "preferred",
+    "Note": "The simile does not by itself establish a doctrine of ignorance; retain the local target. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "黑山",
