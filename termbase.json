@@ -14027,6 +14027,21 @@
     "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
   },
   {
+    "SourceTerm": "咳唾掉臂",
+    "PreferredTarget": "coughing, spitting, and swinging the arms",
+    "AlternateTargets": [
+      "ordinary coughing, spitting, and arm-swinging"
+    ],
+    "SearchAliases": [
+      "coughing, spitting, and swinging the arms",
+      "ordinary coughing, spitting, and arm-swinging"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the concrete actions visible. The claims made about them in each discourse are context, not lexical synonyms.",
+    "CreatedBy": "Codex Batch37 lane-C construction",
+    "WrittenUtc": "2026-07-29T05:19:11.396181Z"
+  },
+  {
     "SourceTerm": "哆哆和和",
     "PreferredTarget": "babbling and easygoing",
     "AlternateTargets": [
@@ -26032,6 +26047,21 @@
     "WrittenUtc": "2026-07-21T00:00:00Z"
   },
   {
+    "SourceTerm": "拔楔抽釘",
+    "PreferredTarget": "pulling wedges and drawing nails",
+    "AlternateTargets": [
+      "removing wedges and nails"
+    ],
+    "SearchAliases": [
+      "pulling wedges and drawing nails",
+      "removing wedges and nails"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the physical removal image; it is neither a lexical synonym for enlightenment nor the name of one formal technique.",
+    "CreatedBy": "Codex Batch37 lane-C construction",
+    "WrittenUtc": "2026-07-29T05:19:11.396181Z"
+  },
+  {
     "SourceTerm": "拖死屍",
     "PreferredTarget": "drag a dead corpse",
     "AlternateTargets": [
@@ -27110,6 +27140,21 @@
     "Note": "The collision image becomes a warning or verdict for someone who misses while moving in the dark or following words.",
     "CreatedBy": "Codex Iriya cohort001 Lane B explicit full-case author",
     "WrittenUtc": "2026-07-18T04:29:03.059349+00:00"
+  },
+  {
+    "SourceTerm": "撞頭磕額",
+    "PreferredTarget": "bumping head and knocking forehead",
+    "AlternateTargets": [
+      "blundering and forcing one’s way about"
+    ],
+    "SearchAliases": [
+      "bumping head and knocking forehead",
+      "blundering and forcing one’s way about"
+    ],
+    "Status": "preferred",
+    "Note": "Its positive or negative force comes from context; a later lamp family must not control the sense.",
+    "CreatedBy": "Codex Batch37 lane-C construction",
+    "WrittenUtc": "2026-07-29T05:19:11.396181Z"
   },
   {
     "SourceTerm": "撥亂乾坤致太平",
@@ -32787,6 +32832,21 @@
     "WrittenUtc": "2026-07-19T00:02:15.187472Z"
   },
   {
+    "SourceTerm": "欽師猶被馬師惑",
+    "PreferredTarget": "Master Qin was still confused by Master Ma",
+    "AlternateTargets": [
+      "Master Qin was still misled by Master Ma"
+    ],
+    "SearchAliases": [
+      "Master Qin was still confused by Master Ma",
+      "Master Qin was still misled by Master Ma"
+    ],
+    "Status": "preferred",
+    "Note": "Keep Daoqin, Mazu, Nanyang Huizhong, and later quotation layers distinct.",
+    "CreatedBy": "Codex Batch37 lane-C construction",
+    "WrittenUtc": "2026-07-29T05:19:11.396181Z"
+  },
+  {
     "SourceTerm": "歇即菩提",
     "PreferredTarget": "when the crazed mind stops, that is awakening",
     "AlternateTargets": [
@@ -38364,6 +38424,21 @@
     "Note": "The line can be quoted with differing objects of sorrow; those contexts do not create different lexical referents.",
     "CreatedBy": "Codex Iriya lane A131-150 full-case author",
     "WrittenUtc": "2026-07-18T17:35:02Z"
+  },
+  {
+    "SourceTerm": "牽枝引蔓",
+    "PreferredTarget": "dragging in branches and vines",
+    "AlternateTargets": [
+      "rambling into needless connections"
+    ],
+    "SearchAliases": [
+      "dragging in branches and vines",
+      "rambling into needless connections"
+    ],
+    "Status": "preferred",
+    "Note": "The plant image conveys both proliferation and entanglement; it is broader than mere verbosity.",
+    "CreatedBy": "Codex Batch37 lane-C construction",
+    "WrittenUtc": "2026-07-29T05:19:11.396181Z"
   },
   {
     "SourceTerm": "犀因翫月紋生角、象被雷驚花入牙",
@@ -48868,6 +48943,21 @@
     "WrittenUtc": "2026-07-18T14:05:00+02:00"
   },
   {
+    "SourceTerm": "蘇嚕蘇嚕",
+    "PreferredTarget": "suru, suru",
+    "AlternateTargets": [
+      "repeated phonetic reply"
+    ],
+    "SearchAliases": [
+      "suru suru",
+      "incantatory reply"
+    ],
+    "Status": "preferred",
+    "Note": "Treat the graphs as phonetic syllables. Do not assign graph-by-graph meanings or collapse distinct following endings into the headword.",
+    "CreatedBy": "Codex Batch37 construction lane C",
+    "WrittenUtc": "2026-07-29T05:19:02.659997Z"
+  },
+  {
     "SourceTerm": "蘇武持漢節而歸",
     "PreferredTarget": "Su Wu returns bearing the Han insignia",
     "AlternateTargets": [
@@ -55766,6 +55856,21 @@
     "WrittenUtc": "2026-07-19T19:19:32.418102Z"
   },
   {
+    "SourceTerm": "鈎頭有餌",
+    "PreferredTarget": "there is bait on the hook",
+    "AlternateTargets": [
+      "a baited hook"
+    ],
+    "SearchAliases": [
+      "bait on the hook",
+      "baited setup"
+    ],
+    "Status": "preferred",
+    "Note": "One direct Tier-2 active-appraisal family controls. Do not generalize the image beyond a deliberately baited setup.",
+    "CreatedBy": "Codex Batch37 construction lane C",
+    "WrittenUtc": "2026-07-29T05:19:02.659997Z"
+  },
+  {
     "SourceTerm": "鉗鎚",
     "PreferredTarget": "hammer and tongs",
     "AlternateTargets": [],
@@ -60056,6 +60161,21 @@
     "Note": "The ordinary-life formula presents eating as the direct response to hunger, often paired with sleeping when tired.",
     "CreatedBy": "packet3 exact5 owner construction",
     "WrittenUtc": "2026-07-27T22:15:00Z"
+  },
+  {
+    "SourceTerm": "饑餐渴飲",
+    "PreferredTarget": "eat when hungry, drink when thirsty",
+    "AlternateTargets": [
+      "eating when hungry and drinking when thirsty"
+    ],
+    "SearchAliases": [
+      "eat when hungry, drink when thirsty",
+      "eating when hungry and drinking when thirsty"
+    ],
+    "Status": "preferred",
+    "Note": "Do not replace the concrete formula with “naturalness,” “spontaneity,” or a doctrinal state.",
+    "CreatedBy": "Codex Batch37 lane-C construction",
+    "WrittenUtc": "2026-07-29T05:19:11.396181Z"
   },
   {
     "SourceTerm": "饒人不是癡",
