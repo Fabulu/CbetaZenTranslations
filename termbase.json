@@ -6140,6 +6140,18 @@
     "WrittenUtc": "2026-07-19T17:01:02.464585Z"
   },
   {
+    "SourceTerm": "仰山傾出一栲栳",
+    "PreferredTarget": "Yangshan poured out a whole basketful",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Yangshan pours out a basketful"
+    ],
+    "Status": "preferred",
+    "Note": "東寺只索一顆 is the antithetical first half; the parallel witness transmits the same event.",
+    "CreatedBy": "V7 batch71 admitted20 constructor B",
+    "WrittenUtc": "2026-07-29T17:20:00Z"
+  },
+  {
     "SourceTerm": "仰山問中邑",
     "PreferredTarget": "Yangshan questions Zhongyi",
     "AlternateTargets": [],
@@ -8766,6 +8778,18 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "免作屋中愚",
+    "PreferredTarget": "avoid becoming a fool inside the house",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "not become a fool in the house"
+    ],
+    "Status": "preferred",
+    "Note": "到來家蕩盡 is the preceding line; the anthology parallel is the same verse family.",
+    "CreatedBy": "V7 batch71 admitted20 constructor B",
+    "WrittenUtc": "2026-07-29T17:20:00Z"
+  },
+  {
     "SourceTerm": "兒孫",
     "PreferredTarget": "sons and descendants of the lineage",
     "AlternateTargets": [],
@@ -8777,6 +8801,18 @@
     "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
     "CreatedBy": "Codex f003 Lane A full-case author",
     "WrittenUtc": "2026-07-15T04:53:36.766800+00:00"
+  },
+  {
+    "SourceTerm": "兔亦不遇",
+    "PreferredTarget": "one would not even meet a rabbit",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "not even meet a rabbit"
+    ],
+    "Status": "preferred",
+    "Note": "麟 and 一麟足矣 supply the comparison; generic 不遇 is not equivalent. No lamp is retained.",
+    "CreatedBy": "V7 batch71 admitted20 constructor B",
+    "WrittenUtc": "2026-07-29T17:20:00Z"
   },
   {
     "SourceTerm": "兔子喫牛嬭",
@@ -11823,6 +11859,18 @@
     "Note": "Yunmen Wenyan gives it as the direct answer to a question about penetrating the body; later records raise that answer, question its import, or place it among stock answers. Exact-turn review keeps quotations and record headings separate.",
     "CreatedBy": "iriya-construction-001 lane B",
     "WrittenUtc": "2026-07-18T09:06:17.270299Z"
+  },
+  {
+    "SourceTerm": "北禪分歲",
+    "PreferredTarget": "Beichan's year-end feast",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Beichans year end feast"
+    ],
+    "Status": "preferred",
+    "Note": "分歲 is the general feast; 烹露地白牛 is the distinctive action. No lamp is retained.",
+    "CreatedBy": "V7 batch71 admitted20 constructor B",
+    "WrittenUtc": "2026-07-29T17:20:00Z"
   },
   {
     "SourceTerm": "匹上不足、匹下有餘",
@@ -18800,6 +18848,18 @@
     "Note": "One comparative lamp compilation preserves Shoushan Xingnian's answer; no second exact family survives.",
     "CreatedBy": "Codex lamp repair cohort007 lane B",
     "WrittenUtc": "2026-07-29T07:05:03.206989Z"
+  },
+  {
+    "SourceTerm": "失却手橈",
+    "PreferredTarget": "lost the oar from his hand",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "lose the hand oar"
+    ],
+    "Status": "preferred",
+    "Note": "貪觀天上 and 食到口邊被人奪却 govern the appraisal; the anthology parallel is the same family.",
+    "CreatedBy": "V7 batch71 admitted20 constructor B",
+    "WrittenUtc": "2026-07-29T17:20:00Z"
   },
   {
     "SourceTerm": "失却掌中珠",
@@ -25854,6 +25914,18 @@
     "WrittenUtc": "2026-07-15T16:45:00Z"
   },
   {
+    "SourceTerm": "慶無不宜",
+    "PreferredTarget": "in celebration, nothing is inauspicious",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "nothing is inauspicious in celebration"
+    ],
+    "Status": "preferred",
+    "Note": "應時納祐 is its companion formula; the lamp-preserved critique does not raise validation.",
+    "CreatedBy": "V7 batch71 admitted20 constructor B",
+    "WrittenUtc": "2026-07-29T17:20:00Z"
+  },
+  {
     "SourceTerm": "憍陳如",
     "PreferredTarget": "Ajnata Kaundinya",
     "AlternateTargets": [
@@ -26986,6 +27058,18 @@
     "Note": "承言 is taking up or depending on the words; retain the paired warning without turning it into a ban on language. No lamp is retained.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "承誰恩力",
+    "PreferredTarget": "whose sustaining power do you rely on?",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "through whose power"
+    ],
+    "Status": "preferred",
+    "Note": "承甚麼人恩力 and 承何恩力 are variants; the lamp occurrence is not validation padding.",
+    "CreatedBy": "V7 batch71 admitted20 constructor B",
+    "WrittenUtc": "2026-07-29T17:20:00Z"
   },
   {
     "SourceTerm": "把住",
@@ -28863,6 +28947,18 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "掩室摩竭",
+    "PreferredTarget": "shut himself in at Magadha",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "secluded himself at Magadha"
+    ],
+    "Status": "preferred",
+    "Note": "摩竭掩室 is an order variant; 杜口毘耶 is a parallel allusion, not a synonym. No lamp is retained.",
+    "CreatedBy": "V7 batch71 admitted20 constructor B",
+    "WrittenUtc": "2026-07-29T17:20:00Z"
+  },
+  {
     "SourceTerm": "掩耳偷鈴",
     "PreferredTarget": "to cover one's ears while stealing a bell",
     "AlternateTargets": [
@@ -29984,6 +30080,18 @@
     "Note": "The article renders the source location term as “the site of the Way” and adds no broader pedagogical claim.",
     "CreatedBy": "Codex Iriya lane A121-130 full-case author",
     "WrittenUtc": "2026-07-18T17:27:34Z"
+  },
+  {
+    "SourceTerm": "擬向溪東牧",
+    "PreferredTarget": "if I mean to pasture it east of the stream",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "mean to pasture it east of the stream"
+    ],
+    "Status": "preferred",
+    "Note": "擬向溪西牧 and 未免食他國王水草 are companion clauses; the lamp recension is not independent.",
+    "CreatedBy": "V7 batch71 admitted20 constructor B",
+    "WrittenUtc": "2026-07-29T17:20:00Z"
   },
   {
     "SourceTerm": "擬對",
@@ -36083,6 +36191,18 @@
     "Note": "The examination ground and mind-empty passing line form one assembly couplet.",
     "CreatedBy": "iriya-construction-001 lane A",
     "WrittenUtc": "2026-07-18T13:00:00Z"
+  },
+  {
+    "SourceTerm": "步行騎水牛",
+    "PreferredTarget": "walking on foot while riding a water buffalo",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "walk while riding a water buffalo"
+    ],
+    "Status": "preferred",
+    "Note": "空手把鋤頭 is the paired first line; the lamp reuse is the same inherited verse family.",
+    "CreatedBy": "V7 batch71 admitted20 constructor B",
+    "WrittenUtc": "2026-07-29T17:20:00Z"
   },
   {
     "SourceTerm": "武帝問達磨",
@@ -48515,6 +48635,18 @@
     "WrittenUtc": "2026-07-28T18:58:00Z"
   },
   {
+    "SourceTerm": "端坐受供養",
+    "PreferredTarget": "sit upright and receive the offering",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "sit upright receiving offerings"
+    ],
+    "Status": "preferred",
+    "Note": "施主長安樂 is the recurrent completion; generic 受供養 is broader. No lamp is retained.",
+    "CreatedBy": "V7 batch71 admitted20 constructor B",
+    "WrittenUtc": "2026-07-29T17:20:00Z"
+  },
+  {
     "SourceTerm": "端居寰海定龍蛇",
     "PreferredTarget": "seated upright in the realm, he distinguishes dragons from snakes",
     "AlternateTargets": [
@@ -51046,6 +51178,18 @@
     "Note": "The arrow-extraction image must retain bodily direction and weaponry. No lamp is retained.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "背負須彌",
+    "PreferredTarget": "carry Mount Sumeru on one's back",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "bear Mount Sumeru on the back"
+    ],
+    "Status": "preferred",
+    "Note": "手擎日月 is the paired action; the lamp deployment does not raise validation.",
+    "CreatedBy": "V7 batch71 admitted20 constructor B",
+    "WrittenUtc": "2026-07-29T17:20:00Z"
   },
   {
     "SourceTerm": "胡來胡現、漢來漢現",
@@ -59875,6 +60019,18 @@
     "WrittenUtc": "2026-07-19T16:28:22.607596Z"
   },
   {
+    "SourceTerm": "遇貴即賤",
+    "PreferredTarget": "meeting what is precious, make it cheap",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "when meeting the precious make it cheap"
+    ],
+    "Status": "preferred",
+    "Note": "遇賤即貴 and 變金成土 form its explicit self-explanation; parallel lamps are one family.",
+    "CreatedBy": "V7 batch71 admitted20 constructor B",
+    "WrittenUtc": "2026-07-29T17:20:00Z"
+  },
+  {
     "SourceTerm": "遇賤即貴",
     "PreferredTarget": "on meeting the lowly, it is immediately precious",
     "AlternateTargets": [],
@@ -59885,6 +60041,18 @@
     "Note": "Bind 藥病相治、盡大地是藥、那箇是自己 and the staff action; do not generalize it into a social ranking rule. No lamp is retained.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "遇飯喫飯",
+    "PreferredTarget": "when food comes, eat",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "when a meal comes eat"
+    ],
+    "Status": "preferred",
+    "Note": "遇茶喫茶 is the companion clause; 喫飯 is broader. No lamp is retained.",
+    "CreatedBy": "V7 batch71 admitted20 constructor B",
+    "WrittenUtc": "2026-07-29T17:20:00Z"
   },
   {
     "SourceTerm": "遊山翫水",
@@ -63859,6 +64027,18 @@
     "WrittenUtc": "2026-07-18T12:01:00+00:00"
   },
   {
+    "SourceTerm": "隱隱猶懷舊日嫌",
+    "PreferredTarget": "dimly, one still harbors the old aversion",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "still harbor the old aversion"
+    ],
+    "Status": "preferred",
+    "Note": "正中偏 and the preceding verse lines govern the image; the lamp reuse is not independent.",
+    "CreatedBy": "V7 batch71 admitted20 constructor B",
+    "WrittenUtc": "2026-07-29T17:20:00Z"
+  },
+  {
     "SourceTerm": "隻手遮日",
     "PreferredTarget": "cover the sun with one hand",
     "AlternateTargets": [
@@ -66946,6 +67126,18 @@
     "Note": "A recorder narrates the sudden ritual gesture before the following address.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T00:00:00Z"
+  },
+  {
+    "SourceTerm": "驅耕夫之牛",
+    "PreferredTarget": "drive away the plowman's ox",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "drive off the plowmans ox"
+    ],
+    "Status": "preferred",
+    "Note": "奪飢人之食 is the paired operation; the lamp parallel is not independent support.",
+    "CreatedBy": "V7 batch71 admitted20 constructor B",
+    "WrittenUtc": "2026-07-29T17:20:00Z"
   },
   {
     "SourceTerm": "驅耕夫牛，奪飢人食",
