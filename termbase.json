@@ -65983,15 +65983,17 @@
   },
   {
     "SourceTerm": "頻頻回顧",
-    "PreferredTarget": "kept looking back",
-    "AlternateTargets": [],
+    "PreferredTarget": "looking back again and again",
+    "AlternateTargets": [
+      "repeatedly looking back"
+    ],
     "SearchAliases": [
-      "kept looking back"
+      "repeatedly looking back"
     ],
     "Status": "preferred",
-    "Note": "Bind 汝將謂別有 and 覆舟入水 to the event.",
-    "CreatedBy": "V7 batch72 admitted constructor C",
-    "WrittenUtc": "2026-07-29T16:52:00Z"
+    "Note": "In this corpus phrase, the repeated glances belong to Jiashan’s departure from Chuanzi. Ordinary repeated looking back is not automatically a reference to the case.",
+    "CreatedBy": "R07 clean source-first C",
+    "WrittenUtc": "2026-07-30T00:20:00Z"
   },
   {
     "SourceTerm": "顏回",
