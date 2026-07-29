@@ -6251,6 +6251,19 @@
     "WrittenUtc": "2026-07-19T03:35:56.679037+00:00"
   },
   {
+    "SourceTerm": "伯牙與子期",
+    "PreferredTarget": "Boya and Ziqi",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Boya and Ziqi",
+      "intimate recognition"
+    ],
+    "Status": "preferred",
+    "Note": "The names do not denote generic friendship. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "似則似，是則未是",
     "PreferredTarget": "it resembles it, but it is not yet it",
     "AlternateTargets": [],
@@ -55214,6 +55227,19 @@
     "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
   },
   {
+    "SourceTerm": "輥作一團",
+    "PreferredTarget": "roll together into one lump",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "roll together into one lump",
+      "make an undifferentiated mass"
+    ],
+    "Status": "preferred",
+    "Note": "Name locally what is rolled together; this need not praise unity. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "轉凡成聖",
     "PreferredTarget": "turning the ordinary into the sage",
     "AlternateTargets": [
@@ -55920,6 +55946,19 @@
     "Note": "The hound and mad-dog variants share one literal image and one corpus deployment; they are not separate senses.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": "2026-07-13T12:00:00Z"
+  },
+  {
+    "SourceTerm": "逐物意移",
+    "PreferredTarget": "following things, attention shifts",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "following things attention shifts",
+      "attention follows objects"
+    ],
+    "Status": "preferred",
+    "Note": "Bind the answer to Yunmen's physical transposition, not an abstract psychology. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "途中受用",
