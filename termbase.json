@@ -23778,6 +23778,19 @@
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
   {
+    "SourceTerm": "怎得見波濤",
+    "PreferredTarget": "how could one see the waves?",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "how could one see the waves",
+      "how see the waves"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 不因漁父引 as the governed first half; do not universalize the detached question. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "思量",
     "PreferredTarget": "to ponder",
     "AlternateTargets": [
@@ -24580,6 +24593,19 @@
     "WrittenUtc": "2026-07-19T08:55:00Z"
   },
   {
+    "SourceTerm": "懸羊頭賣狗肉",
+    "PreferredTarget": "hang out a sheep's head and sell dog meat",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "hang sheep head sell dog meat",
+      "false sign wrong goods"
+    ],
+    "Status": "preferred",
+    "Note": "Translate the sign-and-merchandise mismatch; do not assume every difficult saying is fraudulent. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "成佛作祖",
     "PreferredTarget": "to become a buddha and become a patriarch",
     "AlternateTargets": [],
@@ -25331,6 +25357,19 @@
     "Note": "Literal contact with fences and walls supplies the scene; the retained cases use that scene for dependent, unseeing movement.",
     "CreatedBy": "Codex Iriya lane B141-150 full-case author",
     "WrittenUtc": "2026-07-18T15:53:06Z"
+  },
+  {
+    "SourceTerm": "扶起破砂盆",
+    "PreferredTarget": "prop up the broken earthenware basin",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "prop up broken basin",
+      "raise the cracked earthenware bowl"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the damaged vessel and collective-support setting; exclude ordinary pottery repair. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "扶過斷橋水，伴歸無月村",
@@ -26708,6 +26747,19 @@
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
   {
+    "SourceTerm": "挑囊負鉢",
+    "PreferredTarget": "shoulder the travel-bag and carry the bowl",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "shoulder bag carry bowl",
+      "travel with bag and bowl"
+    ],
+    "Status": "preferred",
+    "Note": "This identifies equipment and itinerancy; do not recategorize it as a spiritual technique. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "捉敗了也",
     "PreferredTarget": "caught and exposed",
     "AlternateTargets": [],
@@ -27333,6 +27385,19 @@
     "Note": "The bodily gesture remains literal, but records use it as a test case for whether visible responsiveness is apt, insufficient, mechanically imitated, or falsely certified as awakening.",
     "CreatedBy": "Codex Iriya cohort001 Lane A evidence-first",
     "WrittenUtc": "2026-07-18T07:00:46.837781+00:00"
+  },
+  {
+    "SourceTerm": "換却你眼睛",
+    "PreferredTarget": "replace your eyes",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "replace your eyes",
+      "exchange your eyeballs"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the bodily replacement language rather than importing a doctrine or psychological perspective. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "換却眼睛",
@@ -38478,6 +38543,19 @@
     "WrittenUtc": "2026-07-18T18:39:23Z"
   },
   {
+    "SourceTerm": "熱則普天普地熱",
+    "PreferredTarget": "when it is hot, the whole heaven and earth are hot",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "whole heaven and earth are hot",
+      "when hot everywhere is hot"
+    ],
+    "Status": "preferred",
+    "Note": "Review the cold counterpart and full pair; do not create duplicate articles from one saying. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "熱大不緊",
     "PreferredTarget": "urgently beside the point",
     "AlternateTargets": [],
@@ -39245,6 +39323,19 @@
     "Note": "Intention, explicit rule-breaking, and testing formulas all concern violating the precepts; the masters’ criteria and consequences differ, but the act is not a different lexical thing.",
     "CreatedBy": "Codex precept next-wave B",
     "WrittenUtc": "2026-07-21T15:35:00Z"
+  },
+  {
+    "SourceTerm": "犯手傷鋒",
+    "PreferredTarget": "endanger the hand and damage the blade",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "endanger hand damage blade",
+      "hurt the hand offend the edge"
+    ],
+    "Status": "preferred",
+    "Note": "Retain both sides of the hand-and-blade image; it does not define metaphysical danger. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "狂心",
@@ -45568,6 +45659,19 @@
     "WrittenUtc": "2026-07-21T09:00:00Z"
   },
   {
+    "SourceTerm": "箭既離弦",
+    "PreferredTarget": "once the arrow has left the bowstring",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "arrow left the bowstring",
+      "once the arrow is loosed"
+    ],
+    "Status": "preferred",
+    "Note": "The image supplies speed and irreversibility, not a universal doctrine of causation. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "箭既離弦、無返囘勢",
     "PreferredTarget": "once the arrow has left the bowstring, there is no turning it back",
     "AlternateTargets": [],
@@ -47258,6 +47362,19 @@
     "Note": "The source preserves a longer form ending with ‘bend’; the queued headword is its searchable core.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-22T02:30:00Z"
+  },
+  {
+    "SourceTerm": "肘後懸符",
+    "PreferredTarget": "a command tally hanging behind the elbow",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "tally behind the elbow",
+      "hidden command tally"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the concrete concealed tally; do not flatten it into mystical power. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "肘後有符",
@@ -55813,6 +55930,19 @@
     "WrittenUtc": "2026-07-19T08:00:00Z"
   },
   {
+    "SourceTerm": "遞相鈍置",
+    "PreferredTarget": "keep making fools of one another",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "make fools of one another",
+      "successively impose on each other"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the successive reciprocal force and do not weaken 鈍置 to generic misunderstanding. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "遠問近對",
     "PreferredTarget": "asked from afar, answer nearby",
     "AlternateTargets": [],
@@ -57490,6 +57620,19 @@
     "Note": "Two direct records preserve the bell-tower line; the lamp tradition contributes no necessary witness.",
     "CreatedBy": "V6 batch43 lane C",
     "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
+    "SourceTerm": "鐘鳴鼓響",
+    "PreferredTarget": "bells ring and drums sound",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "bells ring drums sound",
+      "bell and drum sounds"
+    ],
+    "Status": "preferred",
+    "Note": "Translate the sound event before any claim; do not make all institutional sounds preach. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "鐘鼓",
