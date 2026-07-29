@@ -21381,6 +21381,19 @@
     "WrittenUtc": "2026-07-21T21:05:08.921845Z"
   },
   {
+    "SourceTerm": "左眼半斤",
+    "PreferredTarget": "the left eye weighs half a jin",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "left eye half a jin",
+      "left eye half a catty"
+    ],
+    "Status": "preferred",
+    "Note": "Bind the right-eye completion and equal-weight judgment; this is not anatomical diagnosis. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "左眼半斤、右眼八兩",
     "PreferredTarget": "the left eye weighs half a catty and the right eye eight ounces",
     "AlternateTargets": [],
