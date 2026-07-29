@@ -22364,6 +22364,19 @@
     "WrittenUtc": "2026-07-18T07:13:48.764410Z"
   },
   {
+    "SourceTerm": "弄巧翻成拙",
+    "PreferredTarget": "showing off skill turns into clumsiness",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "showing off skill turns into clumsiness",
+      "A reversal verdict"
+    ],
+    "Status": "preferred",
+    "Note": "The verdict requires an attempted clever maneuver that backfires; do not apply it to every ordinary mistake. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "弄死蛇",
     "PreferredTarget": "to toy with a dead snake",
     "AlternateTargets": [],
@@ -24386,6 +24399,19 @@
     "Note": "The phrase names calculation carried out under the mind faculty.",
     "CreatedBy": "Codex cohort-002 lane A author",
     "WrittenUtc": "2026-07-18T23:10:00Z"
+  },
+  {
+    "SourceTerm": "愚人自縛",
+    "PreferredTarget": "foolish people bind themselves",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "foolish people bind themselves",
+      "The self-binding half of the Trust in Mind contrast"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 智者無為 as the contrasting first half and preserve self-binding; do not import a generalized theory of stupidity. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "慣得其便",
@@ -46883,6 +46909,19 @@
     "WrittenUtc": "2026-07-15T15:42:24.584850+00:00"
   },
   {
+    "SourceTerm": "織錦於西舍",
+    "PreferredTarget": "weave brocade in the western house",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "weave brocade in the western house",
+      "The completion of the jade-maiden image"
+    ],
+    "Status": "preferred",
+    "Note": "Govern 玉女夜拋梭 as the first half; retain shuttle, brocade, and western house rather than naming an abstract state. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "繫驢橛",
     "PreferredTarget": "a donkey-tethering stake",
     "AlternateTargets": [],
@@ -54325,6 +54364,19 @@
     "Note": "Complete exposure with nothing concealed or added, reinforced by ‘clean and bare’ and ‘not a thread hung.’",
     "CreatedBy": "Codex post-current-investigation720 Lane A positions 33-59",
     "WrittenUtc": "2026-07-17T17:28:05.442634+00:00"
+  },
+  {
+    "SourceTerm": "赤骨律",
+    "PreferredTarget": "stark bare",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "stark bare",
+      "A vivid exposure verdict"
+    ],
+    "Status": "preferred",
+    "Note": "Treat the three graphs as a fixed colloquial expression; do not parse 律 as monastic regulation. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "赴在來日",
@@ -63423,6 +63475,19 @@
     "Note": "Xuedou’s answer and Baoning’s two hall formulations preserve the same trace image, with muddy water as its explicit paired expression.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T15:57:04.466696Z"
+  },
+  {
+    "SourceTerm": "鳳生鳳",
+    "PreferredTarget": "phoenixes give birth to phoenixes",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "phoenixes give birth to phoenixes",
+      "A lineage-and-kind image"
+    ],
+    "Status": "preferred",
+    "Note": "Govern 龍生龍 or 龍生龍子 as the first half; this is an inheritance image, not zoological reproduction. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "鳶飛魚躍",
