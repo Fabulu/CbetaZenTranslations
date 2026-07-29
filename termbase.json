@@ -6205,6 +6205,18 @@
     "WrittenUtc": "2026-07-16T18:11:08.296408+00:00"
   },
   {
+    "SourceTerm": "任運落前溪",
+    "PreferredTarget": "naturally settling into the stream ahead",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "naturally settling into the stream ahead"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 到頭霜夜月 as the paired first half; do not turn 任運 into a doctrine. No lamp is retained.",
+    "CreatedBy": "V7 batch68 admitted11 constructor C",
+    "WrittenUtc": "2026-07-29T15:05:00Z"
+  },
+  {
     "SourceTerm": "任運騰騰",
     "PreferredTarget": "freely following the course",
     "AlternateTargets": [
@@ -15632,6 +15644,18 @@
     "WrittenUtc": "2026-07-21T14:40:00Z"
   },
   {
+    "SourceTerm": "嘉州打大像",
+    "PreferredTarget": "in Jiazhou, they make the great image",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "in Jiazhou they make the great image"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 陝府灌鐵牛 and 西河弄師子 as distinct companion answers; the lamp remains passive.",
+    "CreatedBy": "V7 batch68 admitted11 constructor C",
+    "WrittenUtc": "2026-07-29T15:05:00Z"
+  },
+  {
     "SourceTerm": "嘉州打大象",
     "PreferredTarget": "Jiāzhou strikes a great elephant",
     "AlternateTargets": [
@@ -21147,6 +21171,18 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "寧可永劫受沉淪",
+    "PreferredTarget": "I would rather sink forever through endless kalpas",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "rather sink forever through endless kalpas"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 不從諸聖求解脫 as the answering half; repeated raisings remain one case family.",
+    "CreatedBy": "V7 batch67 admitted14 constructor C",
+    "WrittenUtc": "2026-07-29T14:50:00Z"
+  },
+  {
     "SourceTerm": "寧說阿羅漢有三毒",
     "PreferredTarget": "rather say that an arhat has the three poisons",
     "AlternateTargets": [],
@@ -21618,6 +21654,18 @@
     "WrittenUtc": "2026-07-20T22:00:00Z"
   },
   {
+    "SourceTerm": "就窠打劫",
+    "PreferredTarget": "raid the lair on the spot",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "raid the lair on the spot"
+    ],
+    "Status": "preferred",
+    "Note": "The Tier-2 commentary controls; the lamp deployment remains passive.",
+    "CreatedBy": "V7 batch67 admitted14 constructor C",
+    "WrittenUtc": "2026-07-29T14:50:00Z"
+  },
+  {
     "SourceTerm": "就路還家",
     "PreferredTarget": "take the road home (Chan appraisal)",
     "AlternateTargets": [
@@ -21661,6 +21709,18 @@
     "Note": "This is an insult in the records, not a diagnosis or an entry about childhood.",
     "CreatedBy": "Codex Iriya lane B161-167 full-case author",
     "WrittenUtc": "2026-07-18T17:46:22Z"
+  },
+  {
+    "SourceTerm": "屈曲垂帶",
+    "PreferredTarget": "bend down and lower a guiding line",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "bend down and lower a guiding line"
+    ],
+    "Status": "preferred",
+    "Note": "Keep this named 帶 category distinct from the coordinated technical modes. No lamp is retained.",
+    "CreatedBy": "V7 batch68 admitted11 constructor C",
+    "WrittenUtc": "2026-07-29T15:05:00Z"
   },
   {
     "SourceTerm": "屋北鹿獨宿",
@@ -34642,6 +34702,18 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "栽田博飯",
+    "PreferredTarget": "plant fields to earn one's food",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "plant fields to earn food"
+    ],
+    "Status": "preferred",
+    "Note": "The witnesses repeat one inherited case; 栽田博飯喫 is its governed longer form.",
+    "CreatedBy": "V7 batch67 admitted14 constructor C",
+    "WrittenUtc": "2026-07-29T14:50:00Z"
+  },
+  {
     "SourceTerm": "桃李火中開、黄昏候日出",
     "PreferredTarget": "peach and plum trees bloom in fire; at dusk await sunrise",
     "AlternateTargets": [
@@ -35392,6 +35464,18 @@
     "Note": "The two Qinshan witnesses are recensions of one occasion; every row keeps the action performer separate from the narrator.",
     "CreatedBy": "Codex f004 lane C reviewer4 focused repair author",
     "WrittenUtc": "2026-07-15T14:45:00Z"
+  },
+  {
+    "SourceTerm": "橫按莫邪",
+    "PreferredTarget": "hold Moye crosswise",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "hold Moye crosswise"
+    ],
+    "Status": "preferred",
+    "Note": "無佛祖 and 傳正令 remain alternative continuations, not part of the headword. No lamp is retained.",
+    "CreatedBy": "V7 batch68 admitted11 constructor C",
+    "WrittenUtc": "2026-07-29T15:05:00Z"
   },
   {
     "SourceTerm": "橫說竪說",
@@ -37770,6 +37854,18 @@
     "Note": "Later Zen speakers raise King Prasenajit’s questions about truth and bodily change as inherited public cases.",
     "CreatedBy": "Codex fresh construction Lane C",
     "WrittenUtc": "2026-07-17T00:00:00Z"
+  },
+  {
+    "SourceTerm": "波波挈挈",
+    "PreferredTarget": "bustling and hauling without rest",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "bustling and hauling without rest"
+    ],
+    "Status": "preferred",
+    "Note": "The reduplicated form carries the continuing restless force; do not flatten it to generic busyness. No lamp is retained.",
+    "CreatedBy": "V7 batch68 admitted11 constructor C",
+    "WrittenUtc": "2026-07-29T15:05:00Z"
   },
   {
     "SourceTerm": "波羅提木叉",
@@ -43758,6 +43854,18 @@
     "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
+    "SourceTerm": "登山須到頂",
+    "PreferredTarget": "climb a mountain all the way to its summit",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "climb a mountain to its summit"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 入海須到底 as the paired half; parallel witnesses remain one discourse.",
+    "CreatedBy": "V7 batch67 admitted14 constructor C",
+    "WrittenUtc": "2026-07-29T14:50:00Z"
+  },
+  {
     "SourceTerm": "登座",
     "PreferredTarget": "mount the formal seat",
     "AlternateTargets": [],
@@ -47391,6 +47499,18 @@
     "WrittenUtc": "2026-07-15T16:45:00Z"
   },
   {
+    "SourceTerm": "禾山解打鼓",
+    "PreferredTarget": "Heshan knows how to beat the drum",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Heshan knows how to beat the drum"
+    ],
+    "Status": "preferred",
+    "Note": "The Tier-2 case controls; the lamp is a passive recension of that same case.",
+    "CreatedBy": "V7 batch67 admitted14 constructor C",
+    "WrittenUtc": "2026-07-29T14:50:00Z"
+  },
+  {
     "SourceTerm": "禾熟不臨場",
     "PreferredTarget": "when the grain ripens, do not approach the threshing ground",
     "AlternateTargets": [],
@@ -48665,6 +48785,18 @@
     "WrittenUtc": "2026-07-19T18:45:00Z"
   },
   {
+    "SourceTerm": "箭穿紅日影",
+    "PreferredTarget": "the arrow pierces the red sun's image",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "arrow pierces the red sun's image"
+    ],
+    "Status": "preferred",
+    "Note": "Marksman and tide continuations explain local images but are not synonyms. No lamp is retained.",
+    "CreatedBy": "V7 batch68 admitted11 constructor C",
+    "WrittenUtc": "2026-07-29T15:05:00Z"
+  },
+  {
     "SourceTerm": "箭過新羅",
     "PreferredTarget": "the arrow has already passed Silla",
     "AlternateTargets": [
@@ -49801,6 +49933,18 @@
     "Note": "Receptive listener is the smallest corpus-grounded inference from the repeated opposition; pierced-ear guest remains the literal image, not a claim that physical ear piercing confers understanding. The marked-boat half explicitly supplies fixation on a lost position.",
     "CreatedBy": "Codex Lane C C126-130 full-case construction",
     "WrittenUtc": "2026-07-19T09:45:00+02:00"
+  },
+  {
+    "SourceTerm": "罕遇知音",
+    "PreferredTarget": "rarely does one meet someone who knows the tune",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "rarely meet someone who knows the tune"
+    ],
+    "Status": "preferred",
+    "Note": "知音 is the constituent image; 沒絃琴韻 is recurrent context, not a synonym. No lamp is retained.",
+    "CreatedBy": "V7 batch68 admitted11 constructor C",
+    "WrittenUtc": "2026-07-29T15:05:00Z"
   },
   {
     "SourceTerm": "罪不重科",
@@ -54132,6 +54276,18 @@
     "Note": "The case-specific Shanhui answer is evidence of use, not a universal definition of “patch-robed monk.”",
     "CreatedBy": "Codex fresh f001 lane B evidence-first",
     "WrittenUtc": "2026-07-15T05:30:00Z"
+  },
+  {
+    "SourceTerm": "衲子難瞞",
+    "PreferredTarget": "patch-robed monks are hard to fool",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "patch-robed monks are hard to fool"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 龍蛇易辨 as the established first half; the absent sealed-review path cannot supply independent control.",
+    "CreatedBy": "V7 batch68 admitted11 constructor C",
+    "WrittenUtc": "2026-07-29T15:05:00Z"
   },
   {
     "SourceTerm": "衲衣下事",
@@ -58528,6 +58684,18 @@
     "Note": "The compact reversal makes the official charged with enforcing the night ban its violator; it circulates as Wuzu Fayan’s school answer and as a later independent response.",
     "CreatedBy": "Codex cohort-002 lane-B author",
     "WrittenUtc": "2026-07-18T20:25:00Z"
+  },
+  {
+    "SourceTerm": "巡堂喫茶",
+    "PreferredTarget": "make the circuit of the hall and drink tea",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "circuit the hall and drink tea"
+    ],
+    "Status": "preferred",
+    "Note": "Keep 巡堂 as the physical circuit; distinguish the action from the event heading 巡堂茶 and generic 喫茶. No lamp is retained.",
+    "CreatedBy": "V7 batch68 admitted11 constructor C",
+    "WrittenUtc": "2026-07-29T15:05:00Z"
   },
   {
     "SourceTerm": "迅雷不及掩耳",
@@ -62977,6 +63145,18 @@
     "Note": "The steward remains a non-master institutional actor; named teachers and officials belong to the surrounding encounters.",
     "CreatedBy": "Codex f003 Lane B evidence-first",
     "WrittenUtc": "2026-07-15T03:58:38.398338+00:00"
+  },
+  {
+    "SourceTerm": "陳爛葛藤",
+    "PreferredTarget": "stale, rotten vines",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "stale rotten vines"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 新鮮葛藤 as its deliberate contrast; generic 葛藤 has wider uses. No lamp is retained.",
+    "CreatedBy": "V7 batch68 admitted11 constructor C",
+    "WrittenUtc": "2026-07-29T15:05:00Z"
   },
   {
     "SourceTerm": "陶淵明",
@@ -68236,6 +68416,18 @@
     "Note": "Six body witnesses show providing a meal for the monastic assembly in invitations, public occasions, and verse; the regulations contents row is excluded.",
     "CreatedBy": "Codex Lane C independent-review repair",
     "WrittenUtc": "2026-07-17T03:30:00Z"
+  },
+  {
+    "SourceTerm": "齋時有飯",
+    "PreferredTarget": "at mealtime there is rice",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "at mealtime there is rice"
+    ],
+    "Status": "preferred",
+    "Note": "Keep 晨時有粥 or 晨朝有粥 as the paired breakfast clause, not a synonym. No lamp is retained.",
+    "CreatedBy": "V7 batch68 admitted11 constructor C",
+    "WrittenUtc": "2026-07-29T15:05:00Z"
   },
   {
     "SourceTerm": "龍吟雲起、虎嘯風生",
