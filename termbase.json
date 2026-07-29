@@ -61045,15 +61045,15 @@
   },
   {
     "SourceTerm": "釋迦自釋迦",
-    "PreferredTarget": "Shakyamuni is simply Shakyamuni",
+    "PreferredTarget": "Shakyamuni is Shakyamuni",
     "AlternateTargets": [],
     "SearchAliases": [
-      "Shakyamuni is Shakyamuni"
+      "Shakyamuni remains Shakyamuni"
     ],
     "Status": "preferred",
-    "Note": "Bind 彌勒自彌勒 as the paired clause. No lamp is retained.",
-    "CreatedBy": "V7 batch72 admitted constructor C",
-    "WrittenUtc": "2026-07-29T16:52:00Z"
+    "Note": "Every retained occurrence pairs the clause with “Maitreya is Maitreya.” Yuanwu extends the same each-in-its-place construction to liberation and Sudhana; those additions do not replace Maitreya as the immediate partner.",
+    "CreatedBy": "R04 fresh depth regeneration B",
+    "WrittenUtc": "2026-07-29T23:55:00Z"
   },
   {
     "SourceTerm": "重疊關山路",
