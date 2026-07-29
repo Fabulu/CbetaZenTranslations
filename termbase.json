@@ -14476,18 +14476,6 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
-    "SourceTerm": "吹折門前一枝松",
-    "PreferredTarget": "it snapped a pine branch before the gate",
-    "AlternateTargets": [],
-    "SearchAliases": [
-      "snapped a pine branch before the gate"
-    ],
-    "Status": "preferred",
-    "Note": "Bind 夜來好風 and 一得一失 to the case.",
-    "CreatedBy": "V7 batch72 admitted constructor C",
-    "WrittenUtc": "2026-07-29T16:52:00Z"
-  },
-  {
     "SourceTerm": "吹折門前一株松",
     "PreferredTarget": "the wind snapped a pine before the gate",
     "AlternateTargets": [],
