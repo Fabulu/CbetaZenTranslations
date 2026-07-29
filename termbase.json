@@ -25,8 +25,8 @@
       "one fails, two is wrong"
     ],
     "Status": "preferred",
-    "Note": "Two distinct Tier-3 deployments are retained: Yunmen uses the pair as an answer and Baiyun uses it in a hall address. Four additional lamp deployments are omitted as unnecessary depth.",
-    "CreatedBy": "Codex fresh semantic author lane C repair",
+    "Note": "Two independent Tier-2 recorded-sayings witnesses are retained: Yunmen uses the pair to answer a question about the transmission outside the three vehicles, and Jinsu Zhi deploys it in a verse. Lamp recensions are omitted because the higher-tier witnesses provide sufficient depth.",
+    "CreatedBy": "Codex lamp-only repair cohort006 lane A",
     "WrittenUtc": "2026-07-18T10:04:34.216581Z"
   },
   {
@@ -4254,19 +4254,18 @@
   },
   {
     "SourceTerm": "不許夜行，投明須到",
-    "PreferredTarget": "night travel is forbidden and arrival is required at daybreak",
+    "PreferredTarget": "night travel is forbidden; you must arrive at daybreak",
     "AlternateTargets": [
-      "night travel is not permitted; you must arrive at daybreak"
+      "do not travel by night; arrive when day breaks"
     ],
     "SearchAliases": [
-      "no night travel",
-      "arrival required at daybreak",
-      "night travel forbidden"
+      "night travel is forbidden; you must arrive at daybreak",
+      "do not travel by night; arrive when day breaks"
     ],
     "Status": "preferred",
-    "Note": "Two distinct Tier-3 families are retained: Fengxue gives the pair directly and a later record raises Touzi's answer. A duplicate Touzi recension, duplicate Zhaojue recensions, and a quoted question are omitted.",
-    "CreatedBy": "iriya-construction-001 lane B",
-    "WrittenUtc": "2026-07-18T08:15:50.699929Z"
+    "Note": "The records apply the travel rule in different settings; do not turn daybreak into one fixed doctrinal referent.",
+    "CreatedBy": "Codex lamp repair cohort006 lane B",
+    "WrittenUtc": "2026-07-29T06:57:14.088669Z"
   },
   {
     "SourceTerm": "不識",
@@ -5054,9 +5053,9 @@
       "two honored ones do not teach side by side"
     ],
     "Status": "preferred",
-    "Note": "The records preserve one inherited hall act and do not explain which two figures the line has in view.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-19T17:13:23.349894Z"
+    "Note": "Only one inherited Yongfu Congyan Chaozheng family survives; parallel lamp recensions are omitted.",
+    "CreatedBy": "Codex lamp repair cohort006 lane B",
+    "WrittenUtc": "2026-07-29T06:57:14.088669Z"
   },
   {
     "SourceTerm": "二時粥飯",
@@ -5518,14 +5517,17 @@
   {
     "SourceTerm": "人境兩俱奪",
     "PreferredTarget": "both person and surroundings are taken away",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "person and environment are both removed"
+    ],
     "SearchAliases": [
-      "person and surroundings both taken away"
+      "both person and surroundings are taken away",
+      "person and environment are both removed"
     ],
     "Status": "preferred",
-    "Note": "The phrase is one member of Linji’s fourfold formula. One lamp recension preserves Linji’s address, and one genuinely separate later question-and-answer use is retained; parallel recensions are not counted.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T00:00:00Z"
+    "Note": "This is one member of Linji's fourfold formula; differing answers and explanations do not create separate senses.",
+    "CreatedBy": "Codex lamp repair cohort006 lane B",
+    "WrittenUtc": "2026-07-29T06:57:14.088669Z"
   },
   {
     "SourceTerm": "人天眼目",
@@ -5565,13 +5567,13 @@
       "the person passes over; the bridge flows and the water stands still"
     ],
     "SearchAliases": [
-      "person crosses the bridge",
-      "bridge flows but water does not"
+      "a person crosses the bridge; the bridge flows, but the water does not",
+      "the person passes over; the bridge flows and the water stands still"
     ],
     "Status": "preferred",
-    "Note": "The two clauses form one paradoxical reversal. Dahui's answer and Xiaoyin Xin's later twenty-years contrast are independent lamp-preserved deployments; Fu Dashi verse recensions are not counted.",
-    "CreatedBy": "Codex Iriya lane C61-160 exact-turn author",
-    "WrittenUtc": "2026-07-18T15:05:00+02:00"
+    "Note": "The paired reversal is inherited from Fu Dashi's verse; retained later uses actively redeploy it rather than multiplying passive recensions.",
+    "CreatedBy": "Codex lamp repair cohort006 lane B",
+    "WrittenUtc": "2026-07-29T06:57:14.088669Z"
   },
   {
     "SourceTerm": "人從陳州來。却往許州去",
@@ -6418,7 +6420,7 @@
       "a buddha comes into the world"
     ],
     "Status": "preferred",
-    "Note": "The phrase names a buddha's appearance in the world. Both retained families are lamp-preserved, so validation remains provisional.",
+    "Note": "A direct Tier-2 Dahui address controls the entry; the former lamp and embedded scriptural rows are not retained.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
@@ -7868,7 +7870,7 @@
       "steal temple funds to purchase temple incense"
     ],
     "Status": "preferred",
-    "Note": "The four records preserve one inherited exchange, so only one recension is retained.",
+    "Note": "The exact compact search found only parallel lamp recensions of Jiufeng's exchange; the clearest early complete recension is retained as last-resort evidence.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-22T04:00:00Z"
   },
@@ -8548,7 +8550,7 @@
       "iron mountain before face"
     ],
     "Status": "preferred",
-    "Note": "Both witnesses transmit Dahui Zonggao's same verse and count as one use.",
+    "Note": "Dahui's own recorded-sayings sequence controls the verse; derivative compilations are not retained.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T19:00:00Z"
   },
@@ -9824,7 +9826,7 @@
       "cold through and through"
     ],
     "Status": "preferred",
-    "Note": "The expression is a single predicative answer in Baofu’s recorded exchange and remains provisional.",
+    "Note": "The exact corpus search found only this Baofu exchange in the Patriarchs' Hall lamp; it remains provisional last-resort evidence.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-22T06:00:00Z"
   },
