@@ -6164,6 +6164,18 @@
     "WrittenUtc": "2026-07-29T16:52:00Z"
   },
   {
+    "SourceTerm": "仰山插鍬",
+    "PreferredTarget": "Yangshan plants the shovel",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Yangshan sets the shovel"
+    ],
+    "Status": "preferred",
+    "Note": "Wansong Xingxiu and Linquan Conglun supply two retained Tier-2 case-commentary deployment families; contents labels alone do not count.",
+    "CreatedBy": "V7 batch71 admitted20 constructor B",
+    "WrittenUtc": "2026-07-29T17:20:00Z"
+  },
+  {
     "SourceTerm": "仲夏毒熱",
     "PreferredTarget": "midsummer's punishing heat",
     "AlternateTargets": [],
@@ -7752,6 +7764,18 @@
     "Note": "The pole is the banner-pole at a monastery gate. The entry preserves the architectural command and its later use as a quoted encounter and test; it supplies no hidden symbolic equation.",
     "CreatedBy": "Codex fresh construction Lane A",
     "WrittenUtc": "2026-07-17T00:00:00Z"
+  },
+  {
+    "SourceTerm": "倒腹傾腸",
+    "PreferredTarget": "turn out the belly and pour out the bowels",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "pour out everything one has to say"
+    ],
+    "Status": "preferred",
+    "Note": "傾腸 and 傾心 are related but non-identical; one best low-tier verse family is retained.",
+    "CreatedBy": "V7 batch71 admitted20 constructor B",
+    "WrittenUtc": "2026-07-29T17:20:00Z"
   },
   {
     "SourceTerm": "倒退三千",
@@ -38580,6 +38604,18 @@
     "WrittenUtc": "2026-07-15T00:00:00Z"
   },
   {
+    "SourceTerm": "活人路上死人無數",
+    "PreferredTarget": "on the living person's road, dead people are countless",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "countless dead on the living road"
+    ],
+    "Status": "preferred",
+    "Note": "死人路上有活人出身處 is the paired first half; both witnesses actively work the same inherited Tianyi Huai saying family.",
+    "CreatedBy": "V7 batch71 admitted20 constructor B",
+    "WrittenUtc": "2026-07-29T17:20:00Z"
+  },
+  {
     "SourceTerm": "活句",
     "PreferredTarget": "a living phrase",
     "AlternateTargets": [
@@ -57305,6 +57341,18 @@
     "Note": "Turn the raw into the cooked names changing raw material into something cooked or prepared. Poshan Haiming and Fenyang Shanzhao use it of kitchen work; Yingning Zhijing applies it to people ‘born from the teaching’; Linquan Conglun says Yunmen prepares the case for slow chewing; an unnamed official uses household cooking in a question answered by Zhaozhou Congshen.",
     "CreatedBy": "Codex cohort-002 lane-B B111-B120 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
+  },
+  {
+    "SourceTerm": "變生為熟者不易",
+    "PreferredTarget": "the one who turns raw into cooked is not easy",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "turn the raw into cooked"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the other four list items as governed companions; both witnesses actively work the same inherited Huanglong five-difficulties family.",
+    "CreatedBy": "V7 batch71 admitted20 constructor B",
+    "WrittenUtc": "2026-07-29T17:20:00Z"
   },
   {
     "SourceTerm": "豁然",
