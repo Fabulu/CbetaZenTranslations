@@ -18806,6 +18806,21 @@
     "WrittenUtc": "2026-07-19T18:45:00Z"
   },
   {
+    "SourceTerm": "姓張名拙",
+    "PreferredTarget": "my surname is Zhang and my given name is Zhuo",
+    "AlternateTargets": [
+      "surnamed Zhang, named Clumsy"
+    ],
+    "SearchAliases": [
+      "my surname is Zhang and my given name is Zhuo",
+      "surnamed Zhang, named Clumsy"
+    ],
+    "Status": "preferred",
+    "Note": "Translate the personal-name answer plainly and explain the 巧/拙 pun; do not turn the name into an abstract doctrine.",
+    "CreatedBy": "Codex Batch41 construction C",
+    "WrittenUtc": "2026-07-29T06:11:19.922713Z"
+  },
+  {
     "SourceTerm": "威儀",
     "PreferredTarget": "deportment",
     "AlternateTargets": [
@@ -21989,6 +22004,21 @@
     "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
+  },
+  {
+    "SourceTerm": "廓然蕩豁",
+    "PreferredTarget": "vastly open and unobstructed",
+    "AlternateTargets": [
+      "broadly open and free of obstruction"
+    ],
+    "SearchAliases": [
+      "vastly open and unobstructed",
+      "broadly open and free of obstruction"
+    ],
+    "Status": "preferred",
+    "Note": "Treat this as a spatial quality, not the name of a metaphysical state.",
+    "CreatedBy": "Codex Batch41 lane-A construction",
+    "WrittenUtc": "2026-07-29T06:13:30.750772Z"
   },
   {
     "SourceTerm": "廢寢忘餐",
@@ -27205,6 +27235,21 @@
     "WrittenUtc": "2026-07-22T05:32:12.171Z"
   },
   {
+    "SourceTerm": "握閫外威權",
+    "PreferredTarget": "wield authority beyond the gates",
+    "AlternateTargets": [
+      "hold command outside the threshold"
+    ],
+    "SearchAliases": [
+      "wield authority beyond the gates",
+      "hold command outside the threshold"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the delegated-command and threshold image; it is not the name of a realization state.",
+    "CreatedBy": "Codex Batch41 construction C",
+    "WrittenUtc": "2026-07-29T06:11:19.922713Z"
+  },
+  {
     "SourceTerm": "摩尼珠",
     "PreferredTarget": "the wish-fulfilling jewel",
     "AlternateTargets": [],
@@ -28640,6 +28685,21 @@
     "WrittenUtc": "2026-07-17T16:30:22.041434+00:00"
   },
   {
+    "SourceTerm": "敲出鳳凰五色髓",
+    "PreferredTarget": "hammer out the phoenix's five-colored marrow",
+    "AlternateTargets": [
+      "strike out the phoenix's five-colored marrow"
+    ],
+    "SearchAliases": [
+      "hammer out the phoenix's five-colored marrow",
+      "strike out the phoenix's five-colored marrow"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the impossible phoenix-marrow image and the force of 敲出; do not turn the marrow into a fixed doctrinal essence.",
+    "CreatedBy": "Codex Batch41 lane-A construction",
+    "WrittenUtc": "2026-07-29T06:13:30.768162Z"
+  },
+  {
     "SourceTerm": "敲枷打鎖",
     "PreferredTarget": "to break open cangues and smash locks",
     "AlternateTargets": [],
@@ -28650,6 +28710,21 @@
     "Note": "The prison-work image can praise releasing bonds, but Mi’an explicitly denies that this skill alone amounts to the Buddha teaching.",
     "CreatedBy": "Codex Iriya lane C121-130 full-case author",
     "WrittenUtc": "2026-07-18T23:55:00Z"
+  },
+  {
+    "SourceTerm": "敲甎打瓦",
+    "PreferredTarget": "knock bricks and beat tiles",
+    "AlternateTargets": [
+      "clatter at bricks and tiles"
+    ],
+    "SearchAliases": [
+      "knock bricks and beat tiles",
+      "clatter at bricks and tiles"
+    ],
+    "Status": "preferred",
+    "Note": "The criticism belongs to this appraisal; literal tapping or building work is not thereby defined as error.",
+    "CreatedBy": "Codex Batch41 construction C",
+    "WrittenUtc": "2026-07-29T06:12:13.698079Z"
   },
   {
     "SourceTerm": "敲骨取髓",
@@ -29079,6 +29154,21 @@
     "Note": "7 full-case witnesses distinguish speech, quotation, narration, and documentary uses.",
     "CreatedBy": "Codex f004 A918-925 reviewer6 author repair",
     "WrittenUtc": "2026-07-15T18:08:00Z"
+  },
+  {
+    "SourceTerm": "旁觀者哂",
+    "PreferredTarget": "onlookers sneer",
+    "AlternateTargets": [
+      "outside observers scoff"
+    ],
+    "SearchAliases": [
+      "onlookers sneer",
+      "outside observers scoff"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the external-observer contrast; neither use supplies a universal verdict on every cited case.",
+    "CreatedBy": "Codex Batch41 construction C",
+    "WrittenUtc": "2026-07-29T06:11:19.922713Z"
   },
   {
     "SourceTerm": "旃陀羅",
@@ -31665,6 +31755,21 @@
     "Note": "Xutang Zhiyu gives the complete spring image as one answer, so the sense remains provisional.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-22T04:20:00Z"
+  },
+  {
+    "SourceTerm": "束之高閣",
+    "PreferredTarget": "bundle it away on a high shelf",
+    "AlternateTargets": [
+      "put it away on a high shelf"
+    ],
+    "SearchAliases": [
+      "bundle it away on a high shelf",
+      "put it away on a high shelf"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the physical bundle-and-shelf image; context supplies what is being shelved.",
+    "CreatedBy": "Codex Batch41 lane-A construction",
+    "WrittenUtc": "2026-07-29T06:13:30.735758Z"
   },
   {
     "SourceTerm": "東司",
@@ -36649,6 +36754,21 @@
     "WrittenUtc": "2026-07-19T08:00:00Z"
   },
   {
+    "SourceTerm": "澄澄湛湛",
+    "PreferredTarget": "limpid and utterly still",
+    "AlternateTargets": [
+      "clear and settled"
+    ],
+    "SearchAliases": [
+      "limpid and utterly still",
+      "clear and settled"
+    ],
+    "Status": "preferred",
+    "Note": "The warnings criticize attachment to the condition; they do not turn the descriptive words into a forbidden doctrine.",
+    "CreatedBy": "Codex Batch41 construction C",
+    "WrittenUtc": "2026-07-29T06:11:19.922713Z"
+  },
+  {
     "SourceTerm": "澤廣藏山、狸能伏豹",
     "PreferredTarget": "a broad marsh hides a mountain and a wildcat subdues a leopard",
     "AlternateTargets": [
@@ -38334,6 +38454,21 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "爛泥有刺",
+    "PreferredTarget": "there are thorns in the mud",
+    "AlternateTargets": [
+      "mud with thorns in it"
+    ],
+    "SearchAliases": [
+      "there are thorns in the mud",
+      "mud with thorns in it"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the soft-mud and sharp-thorn contrast; do not flatten the image to generic difficulty.",
+    "CreatedBy": "Codex Batch41 construction C",
+    "WrittenUtc": "2026-07-29T06:12:13.698079Z"
+  },
+  {
     "SourceTerm": "爛泥裏有刺",
     "PreferredTarget": "there is a thorn in the mud",
     "AlternateTargets": [
@@ -38964,6 +39099,21 @@
     "Note": "Here the expression identifies the teaching seat, not a separate teacher or teaching.",
     "CreatedBy": "Codex f004 lane A 926-950 full-case repair author",
     "WrittenUtc": "2026-07-15T16:45:00Z"
+  },
+  {
+    "SourceTerm": "猛火著油煎",
+    "PreferredTarget": "fry in oil over a fierce fire",
+    "AlternateTargets": [
+      "fierce fire, add oil and fry"
+    ],
+    "SearchAliases": [
+      "fry in oil over a fierce fire",
+      "fierce fire, add oil and fry"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the fierce-fire and oil-frying image; do not make this one answer a universal definition of Chan.",
+    "CreatedBy": "Codex Batch41 lane-A construction",
+    "WrittenUtc": "2026-07-29T06:13:30.721026Z"
   },
   {
     "SourceTerm": "猛虎不顧几上肉，洪爐豈鑄囊中錐",
@@ -42278,6 +42428,21 @@
     "Note": "A recurring adverse judgment on words, conduct, or inherited interpretations; the records also distinguish deceiving others from deceiving oneself and can deny deceptive intent.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
+  },
+  {
+    "SourceTerm": "瞞人自瞞",
+    "PreferredTarget": "deceive others and deceive oneself",
+    "AlternateTargets": [
+      "fool others and oneself"
+    ],
+    "SearchAliases": [
+      "deceive others and deceive oneself",
+      "fool others and oneself"
+    ],
+    "Status": "preferred",
+    "Note": "Wuzhun poses a rhetorical alternative; do not turn it into the claim that every report is deceptive.",
+    "CreatedBy": "Codex Batch41 construction C",
+    "WrittenUtc": "2026-07-29T06:12:13.698079Z"
   },
   {
     "SourceTerm": "瞻前顧後",
@@ -49643,6 +49808,21 @@
     "WrittenUtc": "2026-07-29T06:03:47.061690Z"
   },
   {
+    "SourceTerm": "蝦跳不出斗",
+    "PreferredTarget": "the shrimp cannot jump out of the measure",
+    "AlternateTargets": [
+      "a shrimp cannot leap out of the measure"
+    ],
+    "SearchAliases": [
+      "the shrimp cannot jump out of the measure",
+      "a shrimp cannot leap out of the measure"
+    ],
+    "Status": "preferred",
+    "Note": "斗 is the containing measure, not a battle; preserve the jumping and failure to escape.",
+    "CreatedBy": "Codex Batch41 construction C",
+    "WrittenUtc": "2026-07-29T06:12:13.698079Z"
+  },
+  {
     "SourceTerm": "蝸角",
     "PreferredTarget": "a snail's horn",
     "AlternateTargets": [
@@ -55490,6 +55670,21 @@
     "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
     "CreatedBy": "Codex f003 Lane A full-case author",
     "WrittenUtc": "2026-07-15T04:46:29.393398+00:00"
+  },
+  {
+    "SourceTerm": "酒逢知己飲",
+    "PreferredTarget": "wine is drunk when one meets a kindred spirit",
+    "AlternateTargets": [
+      "drink wine with one who understands"
+    ],
+    "SearchAliases": [
+      "wine is drunk when one meets a kindred spirit",
+      "drink wine with one who understands"
+    ],
+    "Status": "preferred",
+    "Note": "The expanded proverb corroborates the standalone clause but does not create a second sense.",
+    "CreatedBy": "Codex Batch41 construction C",
+    "WrittenUtc": "2026-07-29T06:11:19.922713Z"
   },
   {
     "SourceTerm": "酬法乳",
