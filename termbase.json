@@ -21495,6 +21495,18 @@
     "WrittenUtc": "2026-07-18T17:46:22Z"
   },
   {
+    "SourceTerm": "屋北鹿獨宿",
+    "PreferredTarget": "north of the house, a deer sleeps alone",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "north of the house, a deer sleeps alone"
+    ],
+    "Status": "preferred",
+    "Note": "This complete line answers the first question before the exchange continues with a second landscape line. Poshan's Tier-2 recorded sayings control the sense; the Tier-3 lineage compilation 宗鑑法林 is retained only as supplementary corroboration, does not upgrade authority, and is not padding.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "屋裏販揚州",
     "PreferredTarget": "peddling Yangzhou inside the house",
     "AlternateTargets": [
@@ -25219,6 +25231,18 @@
     "Note": "The foul-water wording is an insult or adverse appraisal in these cases; it is not a sanitation description.",
     "CreatedBy": "Codex Iriya lane C151-160 full-case author",
     "WrittenUtc": "2026-07-19T04:20:00Z"
+  },
+  {
+    "SourceTerm": "惱亂春風卒未休",
+    "PreferredTarget": "troubling the spring wind, it has never yet ceased",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "troubling the spring wind, it has never yet ceased"
+    ],
+    "Status": "preferred",
+    "Note": "Provisional lamp-only sense supported by two independent Tier-3 verse/lineage-compilation deployments; no Tier-1/2 controller was found and no padding is permitted. Keep the six-graph line within its verse deployment; 惱亂春風 alone is a weaker poetic constituent.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "惺惺",
