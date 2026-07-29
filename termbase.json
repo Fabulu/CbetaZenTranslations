@@ -7541,6 +7541,18 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "保福問鵝湖",
+    "PreferredTarget": "Baofu asks Ehu",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Baofu asks Ehu"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the five-graph case badge; do not confuse it with the larger Xuefeng three-meetings saying or treat the personal names separately. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "信得及",
     "PreferredTarget": "to trust it fully",
     "AlternateTargets": [
@@ -9160,6 +9172,18 @@
     "Note": "Six witnesses use formal entry into the monastery for formal entry into a monastery as its incoming abbot, in ritual schedules, dates, invitations, and inaugural addresses.",
     "CreatedBy": "Codex Lane C independent-review repair",
     "WrittenUtc": "2026-07-17T03:30:00Z"
+  },
+  {
+    "SourceTerm": "內心無喘",
+    "PreferredTarget": "inwardly, the mind does not pant",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "inwardly, the mind does not pant"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 外息諸緣 and 心如墻壁 as governing context. 喘 is predicated of mind here; do not convert the clause into breath-regulation instruction. It does not prescribe managing respiration or counting breaths. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "內紹",
@@ -14202,6 +14226,18 @@
     "WrittenUtc": "2026-07-27T22:15:00Z"
   },
   {
+    "SourceTerm": "吹毛用了急須磨",
+    "PreferredTarget": "once the hair-splitting sword is used, it must quickly be honed",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "once the hair-splitting sword is used, it must quickly be honed"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the whole seven-graph verse line; 吹毛 names the sword and is not by itself the same instruction. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "吹網欲滿",
     "PreferredTarget": "trying to fill a net by blowing into it",
     "AlternateTargets": [],
@@ -14679,6 +14715,18 @@
     "Note": "Musical coordination becomes a technical appraisal of paired speech and responsive action in public cases.",
     "CreatedBy": "Codex cohort-002 lane-A positions 134-145 full-case author",
     "WrittenUtc": "2026-07-19T06:55:34.668645Z"
+  },
+  {
+    "SourceTerm": "唱村田樂",
+    "PreferredTarget": "sing village field songs",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "sing village field songs"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the complete verb-object expression; 村田樂 is the song type, while 唱 supplies the enacted Zen image. A Tier-3 lamp witness is retained as corroborative evidence only (1 lamp row); it does not upgrade validation.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "唱誰家曲",
@@ -16525,6 +16573,18 @@
     "Note": "This sense concerns the narrated awakening ground, not a monastery appointment.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T07:29:27.204800+00:00"
+  },
+  {
+    "SourceTerm": "垂手入廛",
+    "PreferredTarget": "lower one's hands and enter the marketplace",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "lower one's hands and enter the marketplace"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the marketplace image; do not flatten it into generic compassion or any literal trip to market. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "垂示",
@@ -26328,6 +26388,18 @@
     "WrittenUtc": "2026-07-27T18:24:02.587760+00:00"
   },
   {
+    "SourceTerm": "承言者喪",
+    "PreferredTarget": "those who take up the words lose it",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "those who take up the words lose it"
+    ],
+    "Status": "preferred",
+    "Note": "承言 is taking up or depending on the words; retain the paired warning without turning it into a ban on language. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "把住",
     "PreferredTarget": "hold fast",
     "AlternateTargets": [
@@ -28434,6 +28506,18 @@
     "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one repeated chest-beating lament image across answers and verses.",
     "CreatedBy": "Codex cohort-002 lane-A 61-70 full-case author",
     "WrittenUtc": "2026-07-18T23:21:12.373381Z"
+  },
+  {
+    "SourceTerm": "換骨洗腸重整頓",
+    "PreferredTarget": "replace the bones, wash the guts, and set everything in order anew",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "replace the bones, wash the guts, and set everything in order anew"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the entire seven-graph line and its paired 通身手眼更須參; 換骨 or 洗腸 alone are broader images. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "握土成金猶可易，變金為土却還難",
@@ -33575,6 +33659,18 @@
     "WrittenUtc": "2026-07-17T10:53:09.073984+00:00"
   },
   {
+    "SourceTerm": "枝派暗流注",
+    "PreferredTarget": "the branching streams flow secretly",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the branching streams flow secretly"
+    ],
+    "Status": "preferred",
+    "Note": "Bind it to 靈源明皎潔 when present; 枝派 are divided streams or branches, not merely sectarian factions. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "枯木",
     "PreferredTarget": "a withered tree",
     "AlternateTargets": [
@@ -34370,6 +34466,18 @@
     "WrittenUtc": "2026-07-20T22:00:00Z"
   },
   {
+    "SourceTerm": "楪子成七片",
+    "PreferredTarget": "the saucer breaks into seven pieces",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the saucer breaks into seven pieces"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 盞子落地 as the recurrent first half; 楪子 and 七片 independently are ordinary constituents. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "業",
     "PreferredTarget": "karma: action and its carried effects",
     "AlternateTargets": [],
@@ -35065,6 +35173,18 @@
     "WrittenUtc": "2026-07-18T13:00:00Z"
   },
   {
+    "SourceTerm": "武帝問達磨",
+    "PreferredTarget": "Emperor Wu asks Bodhidharma",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Emperor Wu asks Bodhidharma"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the five-graph case badge while binding the merit dialogue as context; neither personal name is a substitute. Lamp or compilation evidence is retained only within this explicit provisional boundary.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "歷代祖師",
     "PreferredTarget": "the patriarchs through the generations",
     "AlternateTargets": [
@@ -35098,6 +35218,18 @@
     "Note": "Distinctly clear describes a person, sound, scene, or statement presented as individually evident rather than blurred; the surrounding noun identifies what is clear.",
     "CreatedBy": "Codex legacy full rebuild Lane A",
     "WrittenUtc": "2026-07-16T18:01:55.957580+00:00"
+  },
+  {
+    "SourceTerm": "歷歷直言歷歷",
+    "PreferredTarget": "when it is perfectly distinct, simply say it is perfectly distinct",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "when it is perfectly distinct, simply say it is perfectly distinct"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the repeated clause; generic 歷歷 is not this instruction. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "歸依佛法僧",
@@ -35654,6 +35786,18 @@
     "Note": "Vinaya names the disciplinary code and its field of study; masters invoke it as an institutional authority and test what attention to it accomplishes.",
     "CreatedBy": "Codex precept next-wave author",
     "WrittenUtc": "2026-07-21T16:40:00Z"
+  },
+  {
+    "SourceTerm": "毫氂有差",
+    "PreferredTarget": "be off by a hair's breadth",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "be off by a hair's breadth"
+    ],
+    "Status": "preferred",
+    "Note": "氂 is a transmitted variant in the hairbreadth expression; retain the consequence clause where supplied and relate, but do not silently collapse, 毫釐 variants. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "毫釐有差",
@@ -42159,6 +42303,18 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "田庫奴",
+    "PreferredTarget": "field-and-storehouse servant",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "field-and-storehouse servant"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the three-graph office insult; 田庫 and 奴 separately are ordinary constituents. Lamp or compilation evidence is retained only within this explicit provisional boundary.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "畢竟作麼生",
     "PreferredTarget": "ultimately, how is it?",
     "AlternateTargets": [
@@ -42748,6 +42904,18 @@
     ],
     "Status": "preferred",
     "Note": "頓 counts or bounds the bout; do not automatically turn every occurrence into metaphorical criticism when the narrative describes physical blows. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "癡人夜走",
+    "PreferredTarget": "a fool walking at night",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a fool walking at night"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the four-graph line and its numerical lead-in; it is not a label for every nocturnal traveler. Lamp or compilation evidence is retained only within this explicit provisional boundary.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
@@ -48719,6 +48887,18 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "罔明是初地菩薩",
+    "PreferredTarget": "Wangming is a first-stage bodhisattva",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Wangming is a first-stage bodhisattva"
+    ],
+    "Status": "preferred",
+    "Note": "Retain 罔明, the first-stage status, and the governed 出定 question; it is not a general definition of first-stage bodhisattvas. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "罕逢穿耳客、多遇刻舟人",
     "PreferredTarget": "the rare receptive listener versus common seekers fixed on a mark",
     "AlternateTargets": [
@@ -52271,6 +52451,18 @@
     "WrittenUtc": "2026-07-19T12:00:00Z"
   },
   {
+    "SourceTerm": "虎逢山勢長威獰",
+    "PreferredTarget": "a tiger meeting the mountain grows fiercer in its power",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a tiger meeting the mountain grows fiercer in its power"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 龍得水時添意氣 as its recurrent first half; 虎, 山勢, and 威獰 are constituents rather than substitutes. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "虎頭虎尾一時收",
     "PreferredTarget": "tiger head and tiger tail gathered at once",
     "AlternateTargets": [],
@@ -52281,6 +52473,18 @@
     "Note": "It marks comprehensive command of a turn, not literal capture or violence.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T17:09:47.466563Z"
+  },
+  {
+    "SourceTerm": "虎驟龍驤",
+    "PreferredTarget": "tigers charge and dragons rear",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "tigers charge and dragons rear"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the distinct tiger and dragon motions; context decides whether they praise power or expose competitive display. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "虚空釘橛",
@@ -57191,6 +57395,18 @@
     "Note": "Six works preserve Linji's self-definition, later quotation, historical appraisal, hall question, and verse.",
     "CreatedBy": "Codex construction Lane C positions31-40 explicit full-case author",
     "WrittenUtc": "2026-07-17T12:26:38.257007+00:00"
+  },
+  {
+    "SourceTerm": "辭親割愛",
+    "PreferredTarget": "leave one's kin and cut off attachments",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "leave one's kin and cut off attachments"
+    ],
+    "Status": "preferred",
+    "Note": "愛 is binding attachment in the renunciation formula, not a blanket instruction to become incapable of care. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "巡人犯夜",
@@ -65706,6 +65922,18 @@
     "WrittenUtc": "2026-07-20T14:00:00Z"
   },
   {
+    "SourceTerm": "鳥窠吹布毛",
+    "PreferredTarget": "Niaoke blew a thread from his cloth",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Niaoke blew a thread from his cloth"
+    ],
+    "Status": "preferred",
+    "Note": "Do not reduce it to 布毛 or treat every act of blowing lint as this case. Lamp or compilation evidence is retained only within this explicit provisional boundary.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "鳥道",
     "PreferredTarget": "a bird's trackless flight-course",
     "AlternateTargets": [
@@ -65847,6 +66075,18 @@
     ],
     "Status": "preferred",
     "Note": "Do not assign a universal symbolic value to the bird or its cry. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "鵓鳩樹頭鳴",
+    "PreferredTarget": "a cuckoo calls in the treetop",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a cuckoo calls in the treetop"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the complete five-graph answer; 鵓鳩 and 樹頭鳴 are ordinary constituents. No lamp is retained.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
