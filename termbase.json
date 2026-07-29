@@ -5161,6 +5161,19 @@
     "WrittenUtc": "2026-07-21T18:00:00Z"
   },
   {
+    "SourceTerm": "互為主伴",
+    "PreferredTarget": "mutually serve as principal and companion",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "mutual principal and companion",
+      "mutually host and attendant"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the alternating principal/companion relation; do not flatten 主伴 into ordinary friendship. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "五位",
     "PreferredTarget": "the Caodong Five Ranks",
     "AlternateTargets": [
@@ -33961,6 +33974,19 @@
     "WrittenUtc": "2026-07-15T01:57:20.846575+00:00"
   },
   {
+    "SourceTerm": "殃及兒孫",
+    "PreferredTarget": "the calamity reaches the descendants",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "calamity reaches the descendants",
+      "harm falls on later heirs"
+    ],
+    "Status": "preferred",
+    "Note": "Do not treat ordinary family misfortune as lineage criticism without a predecessor-and-heirs frame. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "殘羹餿飯",
     "PreferredTarget": "leftover broth and soured rice",
     "AlternateTargets": [],
@@ -39324,6 +39350,19 @@
     "Note": "No direct definition formula of the forms 'X is,' 'what is called X,' or 'what is X' was found, except one later question, 'What is “a dog has no buddha-nature”?' (如何是狗子無佛性), answered 'fishing' (釣). The term's stable corpus function is instead visible in headings, raised-case labels, verses, questions, and later reports about Zhaozhou's recorded case. The full earlier exchange and the later compound title are related evidence, not two meanings.",
     "CreatedBy": "Codex fresh f001 lane B evidence-first",
     "WrittenUtc": "2026-07-15T05:30:00Z"
+  },
+  {
+    "SourceTerm": "狗䑛熱油鐺",
+    "PreferredTarget": "a dog licking a cauldron of hot oil",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "dog licking hot oil",
+      "no place to put the tongue"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the attraction-with-no-safe-entry image; do not generalize it into animal or cooking lore. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "狗銜赦書，諸侯避路",
