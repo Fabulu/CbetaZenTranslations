@@ -11910,6 +11910,19 @@
     "WrittenUtc": "2026-07-15T17:30:00Z"
   },
   {
+    "SourceTerm": "北俱盧洲長粳米",
+    "PreferredTarget": "the long-grain rice of Uttarakuru",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Uttarakuru's long-grain rice",
+      "long-grain rice in northern Uttarakuru"
+    ],
+    "Status": "preferred",
+    "Note": "The rice image is not ordinary food vocabulary. Inherited quotations remain Fenyang's answer; later criticism and Wanru's altered consequence belong to their respective speakers.",
+    "CreatedBy": "R12 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-29T22:10:00Z"
+  },
+  {
     "SourceTerm": "北山下雨",
     "PreferredTarget": "rain falls on the northern mountain",
     "AlternateTargets": [],
@@ -30363,6 +30376,19 @@
     "WrittenUtc": "2026-07-20T23:30:00Z"
   },
   {
+    "SourceTerm": "攔腮一掌",
+    "PreferredTarget": "a slap across the cheek",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "slap squarely across the cheek",
+      "a cheek-side slap"
+    ],
+    "Status": "preferred",
+    "Note": "The physical action stays constant while its status changes: proposed correction, counterfactual response, verse description, or rueful retrospective. These are not reports of one slap.",
+    "CreatedBy": "R12 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-29T22:10:00Z"
+  },
+  {
     "SourceTerm": "攙奪行市",
     "PreferredTarget": "to cut in and seize the market trade",
     "AlternateTargets": [],
@@ -32608,6 +32634,19 @@
     "Note": "Retain the four-graph clause as one half of the recurrent 明中坐舌頭／暗裏抽橫骨 contrast; the pair should be related, not fused where either half is independently deployed. No lamp is retained.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "暮歸唐土",
+    "PreferredTarget": "return to China by evening",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "be back in China by evening",
+      "return to Tang lands at dusk"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase depicts impossible speed and unrestricted range; its rhetorical force depends on the full morning-to-India/evening-to-China pair. Parallel Yunmen recensions are one family, not extra independent evidence.",
+    "CreatedBy": "R12 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-29T22:10:00Z"
   },
   {
     "SourceTerm": "曙色未分人盡望",
@@ -36649,6 +36688,19 @@
     "Note": "Do not treat ordinary family misfortune as lineage criticism without a predecessor-and-heirs frame. No lamp is retained.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "殊相劣形",
+    "PreferredTarget": "distinctive marks and inferior forms",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "special appearances and inferior forms",
+      "distinguished marks and lesser shapes"
+    ],
+    "Status": "preferred",
+    "Note": "The pair does not establish a hierarchy of bodies. It dismisses both privileged marks and debased forms as unstable appearance; later commentators remain distinct from Deshan as inherited speaker.",
+    "CreatedBy": "R12 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-29T22:10:00Z"
   },
   {
     "SourceTerm": "殘羹餿飯",
@@ -48315,6 +48367,19 @@
     "Note": "Settled, closely secured ground attributed to a predecessor, an addressee's share, or an inherited house style, while speakers warn against treating it as an achievement.",
     "CreatedBy": "Codex cohort-002 lane-B author",
     "WrittenUtc": "2026-07-18T20:20:00Z"
+  },
+  {
+    "SourceTerm": "究竟窮極",
+    "PreferredTarget": "to reach the ultimate limit",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to carry it through to the utmost",
+      "at the ultimate limit"
+    ],
+    "Status": "preferred",
+    "Note": "The headword names exhaustive arrival at the limit, not a claim that any particular doctrine or behavior is ultimate. Later authors quote Sengcan before supplying their own criticism or application.",
+    "CreatedBy": "R12 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-29T22:10:00Z"
   },
   {
     "SourceTerm": "空劫",
