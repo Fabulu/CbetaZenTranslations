@@ -14277,6 +14277,19 @@
     "WrittenUtc": "2026-07-18T09:07:49.691793Z"
   },
   {
+    "SourceTerm": "唐喪光陰",
+    "PreferredTarget": "waste your time for nothing",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "waste time for nothing",
+      "squander one's time"
+    ],
+    "Status": "preferred",
+    "Note": "唐 is adverbial 'vainly', not the Tang dynasty. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "唯嫌揀擇",
     "PreferredTarget": "only avoid choosing",
     "AlternateTargets": [
@@ -23856,6 +23869,19 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "怕見斷井索",
+    "PreferredTarget": "fear even a broken well-rope",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "fear a broken well rope",
+      "snakebitten fear"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 一度被蛇傷 as the causal first half. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "思量",
     "PreferredTarget": "to ponder",
     "AlternateTargets": [
@@ -25016,6 +25042,19 @@
     "Note": "Six exact closures from six works cover tea-arrival, shout, staff gesture, letter ending, exhortation, and hall question.",
     "CreatedBy": "Codex construction Lane C positions31-40 explicit full-case author",
     "WrittenUtc": "2026-07-17T11:30:40.463541+00:00"
+  },
+  {
+    "SourceTerm": "截耳臥街",
+    "PreferredTarget": "cut off the ears and lie in the street",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "cut off ears lie in street",
+      "mutilated yet exposed"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the concrete violence and public exposure; do not turn it into a doctrine of secrecy. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "截鐵斬釘",
@@ -26994,6 +27033,19 @@
     "Note": "The verb retains forceful clearing imagery across military, spatial, and Chan-object uses.",
     "CreatedBy": "packet3 exact5 owner construction",
     "WrittenUtc": "2026-07-27T22:15:00Z"
+  },
+  {
+    "SourceTerm": "掃蹤滅跡",
+    "PreferredTarget": "sweep away the tracks and erase the traces",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "sweep tracks erase traces",
+      "leave no trail"
+    ],
+    "Status": "preferred",
+    "Note": "Keep both acts and the local object of erasure. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "授戒",
@@ -32853,6 +32905,19 @@
     "WrittenUtc": "2026-07-19T18:45:00Z"
   },
   {
+    "SourceTerm": "桑樹上著箭",
+    "PreferredTarget": "an arrow lodges in the mulberry tree",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "arrow in mulberry tree",
+      "mulberry struck by arrow"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the changing second-tree wording without symbolic decoding. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "桶底脫",
     "PreferredTarget": "the bucket-bottom falls out",
     "AlternateTargets": [
@@ -37448,6 +37513,19 @@
     "WrittenUtc": "2026-07-19T00:02:15.872527Z"
   },
   {
+    "SourceTerm": "焉知被底穿",
+    "PreferredTarget": "how would you know the quilt is worn through underneath?",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "how know quilt worn underneath",
+      "shared-bed knowledge"
+    ],
+    "Status": "preferred",
+    "Note": "Bind the 若不同床睡 variant first half; 穿 is not an abstract breakthrough. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "焚香",
     "PreferredTarget": "burn incense",
     "AlternateTargets": [
@@ -38857,6 +38935,19 @@
     "Note": "The entry is limited to the named Danxia case and the cited later verses and address.",
     "CreatedBy": "Codex construction worker B; manifestLane=B",
     "WrittenUtc": "2026-07-17T13:08:20.904647+00:00"
+  },
+  {
+    "SourceTerm": "燒出古人墳",
+    "PreferredTarget": "it burned open an ancient's grave",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "burned open an ancient grave",
+      "last night's fire"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 夜來何處火 and do not invent a symbolic identity for the grave. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "燒指",
@@ -41898,6 +41989,19 @@
     "Note": "Speakers use the skin-bag image for the living human body and press what acts within or carries it.",
     "CreatedBy": "Codex f004 lane B complete-case author",
     "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
+  },
+  {
+    "SourceTerm": "盌脫丘",
+    "PreferredTarget": "a bowl-molded mound",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "bowl-molded mound",
+      "bowl-shaped lump"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the low shaped-lump image rather than an abstract unity. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "盡令而行",
@@ -45926,6 +46030,19 @@
     "Note": "The phrase says that people keep colliding with what is present even while failing to recognize it.",
     "CreatedBy": "Codex Iriya construction lane A positions 43–50",
     "WrittenUtc": "2026-07-18T08:01:12.557293Z"
+  },
+  {
+    "SourceTerm": "米裏有蟲",
+    "PreferredTarget": "there are insects in the rice",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "insects in the rice",
+      "rice contains bugs"
+    ],
+    "Status": "preferred",
+    "Note": "Do not force literal food-storage occurrences into an abstract warning. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "粉骨碎身",
@@ -51693,6 +51810,19 @@
     "WrittenUtc": "2026-07-21T09:00:00Z"
   },
   {
+    "SourceTerm": "覿露機鋒",
+    "PreferredTarget": "expose the pivotal action outright",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "expose pivotal action",
+      "show the edge outright"
+    ],
+    "Status": "preferred",
+    "Note": "機鋒 is decisive encounter action here, not mystical energy. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "覿面",
     "PreferredTarget": "face-to-face",
     "AlternateTargets": [
@@ -53617,6 +53747,19 @@
     "Note": "The line appraises one crowded sequence of questioning; it is not dietary instruction.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T21:38:04.368028Z"
+  },
+  {
+    "SourceTerm": "貪瞋癡",
+    "PreferredTarget": "greed, anger, and delusion",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "greed anger delusion",
+      "three poisons"
+    ],
+    "Status": "preferred",
+    "Note": "Describe each source's treatment without importing a doctrinal system. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "貪程太速",
@@ -59983,6 +60126,19 @@
     "Note": "The comparison names very brief flashes and the quick timing explicitly stated around them.",
     "CreatedBy": "Codex f003 Lane A full-case author",
     "WrittenUtc": "2026-07-15T05:09:02.950859+00:00"
+  },
+  {
+    "SourceTerm": "電影還連後夜雷",
+    "PreferredTarget": "the lightning's gleam is still joined by thunder later in the night",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "lightning followed by later thunder",
+      "night lightning and thunder"
+    ],
+    "Status": "preferred",
+    "Note": "Bind the eaves-rain first half; do not impose a universal lightning metaphor. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "震旦雖濶無別路、要假兒孫脚下行",
