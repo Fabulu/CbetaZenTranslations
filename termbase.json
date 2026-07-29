@@ -4872,6 +4872,18 @@
     "WrittenUtc": "2026-07-18T12:00:00Z"
   },
   {
+    "SourceTerm": "九年面壁",
+    "PreferredTarget": "nine years facing a wall",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "nine years facing a wall"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase records the allusion; it is not itself a posture instruction. No lamp is retained.",
+    "CreatedBy": "V7 batch66 admitted19 constructor C",
+    "WrittenUtc": "2026-07-29T14:30:00Z"
+  },
+  {
     "SourceTerm": "乞兒伎倆",
     "PreferredTarget": "a beggar's trick",
     "AlternateTargets": [],
@@ -17162,6 +17174,18 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "壁上挂葫蘆",
+    "PreferredTarget": "a gourd hanging on the wall",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "gourd hanging on the wall"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the concrete image and its fuller source wording without inventing a symbolic referent. No lamp is retained.",
+    "CreatedBy": "V7 batch66 admitted19 constructor C",
+    "WrittenUtc": "2026-07-29T14:30:00Z"
+  },
+  {
     "SourceTerm": "壁立",
     "PreferredTarget": "to stand like a sheer wall",
     "AlternateTargets": [
@@ -25353,6 +25377,18 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "想變體殊",
+    "PreferredTarget": "conceptions change, and forms differ",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "conceptions change forms differ"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the observed paired clause without importing an outside doctrinal system. No lamp is retained.",
+    "CreatedBy": "V7 batch66 admitted19 constructor C",
+    "WrittenUtc": "2026-07-29T14:30:00Z"
+  },
+  {
     "SourceTerm": "惺惺",
     "PreferredTarget": "alert / wide-awake",
     "AlternateTargets": [
@@ -32196,6 +32232,18 @@
     "Note": "Direct speech, office lists, authorship notices, and narrated title mentions remain distinct.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:30:57.027055+00:00"
+  },
+  {
+    "SourceTerm": "曹家女",
+    "PreferredTarget": "the Cao family's daughter",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Cao family's daughter"
+    ],
+    "Status": "preferred",
+    "Note": "Begin with the named wooden snake and report later predicates rather than inventing symbolism. No lamp is retained.",
+    "CreatedBy": "V7 batch66 admitted19 constructor C",
+    "WrittenUtc": "2026-07-29T14:30:00Z"
   },
   {
     "SourceTerm": "曹山好顛酒",
@@ -42058,6 +42106,18 @@
     "WrittenUtc": "2026-07-22T00:00:00Z"
   },
   {
+    "SourceTerm": "獅子一滴乳",
+    "PreferredTarget": "one drop of lion's milk",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "one drop of lion's milk"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the lion-milk and donkey-milk contrast without supplying symbolic doctrine. No lamp is retained.",
+    "CreatedBy": "V7 batch66 admitted19 constructor C",
+    "WrittenUtc": "2026-07-29T14:30:00Z"
+  },
+  {
     "SourceTerm": "獅子吼時芳草綠",
     "PreferredTarget": "when the lion roars, fragrant grass grows green",
     "AlternateTargets": [],
@@ -42662,6 +42722,18 @@
     "Note": "A routine encounter question owned by its literal questioner.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T00:00:00Z"
+  },
+  {
+    "SourceTerm": "甜者甜兮苦者苦",
+    "PreferredTarget": "the sweet is sweet; the bitter is bitter",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "sweet is sweet bitter is bitter"
+    ],
+    "Status": "preferred",
+    "Note": "No symbolic gloss is warranted beyond the stated taste distinction. No lamp is retained.",
+    "CreatedBy": "V7 batch66 admitted19 constructor C",
+    "WrittenUtc": "2026-07-29T14:30:00Z"
   },
   {
     "SourceTerm": "甜蜜蜜地",
@@ -44895,6 +44967,18 @@
     "Note": "The phrase appears in instruction, verse, self-reference, and question-and-answer. Baichi's contrast with the still-upright nostrils prevents reducing it to a physical report.",
     "CreatedBy": "Codex construction worker B; manifestLane=B",
     "WrittenUtc": "2026-07-17T12:34:53.744306+00:00"
+  },
+  {
+    "SourceTerm": "眉間挂劍",
+    "PreferredTarget": "a sword hung between the eyebrows",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "sword between the eyebrows"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the sword image and its attested companion lines rather than assigning it symbolic doctrine. No lamp is retained.",
+    "CreatedBy": "V7 batch66 admitted19 constructor C",
+    "WrittenUtc": "2026-07-29T14:30:00Z"
   },
   {
     "SourceTerm": "眉鬚墮落",
@@ -49672,6 +49756,18 @@
     "WrittenUtc": "2026-07-19T08:00:00Z"
   },
   {
+    "SourceTerm": "美則美矣",
+    "PreferredTarget": "beautiful, certainly—but...",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "beautiful certainly but"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the qualification structure; do not translate it as unqualified praise. No lamp is retained.",
+    "CreatedBy": "V7 batch66 admitted19 constructor C",
+    "WrittenUtc": "2026-07-29T14:30:00Z"
+  },
+  {
     "SourceTerm": "美食不中飽人喫",
     "PreferredTarget": "fine food does not suit someone already full",
     "AlternateTargets": [
@@ -49983,6 +50079,18 @@
     "Note": "One simile. The rat, ox horn, narrowing passage, ending of the stealing mind, appearance of a living road, and critical uses all belong to the same image; the texts' differing appraisals are not separate things.",
     "CreatedBy": "Codex f002 Lane C worksheet-first author",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "考鐘伐鼓",
+    "PreferredTarget": "strike the bell and beat the drum",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "strike bells and beat drums"
+    ],
+    "Status": "preferred",
+    "Note": "Do not inflate the observable bell-and-drum action into a doctrine. No lamp is retained.",
+    "CreatedBy": "V7 batch66 admitted19 constructor C",
+    "WrittenUtc": "2026-07-29T14:30:00Z"
   },
   {
     "SourceTerm": "耳根",
@@ -51386,6 +51494,18 @@
     "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one aid-to-a-thief verdict across comments, warnings, and rebuttal.",
     "CreatedBy": "Codex cohort-002 lane-A 71-80 full-case author",
     "WrittenUtc": "2026-07-18T23:33:51.647746Z"
+  },
+  {
+    "SourceTerm": "興化打克賓",
+    "PreferredTarget": "Xinghua strikes Keben",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Xinghua strikes Keben"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the case label distinct from isolated references to either participant. No lamp is retained.",
+    "CreatedBy": "V7 batch66 admitted19 constructor C",
+    "WrittenUtc": "2026-07-29T14:30:00Z"
   },
   {
     "SourceTerm": "舉似",
@@ -54740,6 +54860,18 @@
     "Note": "The expression marks an immediate encounter with the whole matter. Its force is adverbial or predicative according to the local frame, not merely visual.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T10:20:00Z"
+  },
+  {
+    "SourceTerm": "覿體全彰",
+    "PreferredTarget": "manifest in full, face to face",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "fully manifest face to face"
+    ],
+    "Status": "preferred",
+    "Note": "Do not detach the full verdict from the local sounds, forms, movements, or answers it describes. No lamp is retained.",
+    "CreatedBy": "V7 batch66 admitted19 constructor C",
+    "WrittenUtc": "2026-07-29T14:30:00Z"
   },
   {
     "SourceTerm": "觀世音菩薩",
@@ -58307,6 +58439,18 @@
     "WrittenUtc": "2026-07-19T12:00:00Z"
   },
   {
+    "SourceTerm": "返本還源",
+    "PreferredTarget": "return to the root and go back to the source",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "return to the root and source"
+    ],
+    "Status": "preferred",
+    "Note": "Report the attested return predicates without turning the phrase into a doctrinal destination. No lamp is retained.",
+    "CreatedBy": "V7 batch66 admitted19 constructor C",
+    "WrittenUtc": "2026-07-29T14:30:00Z"
+  },
+  {
     "SourceTerm": "返照回光",
     "PreferredTarget": "turn the light around",
     "AlternateTargets": [
@@ -58380,6 +58524,18 @@
     "Note": "The records also correct bare negation of the pair. A quoted line says, \"originally there is no person of confusion or awakening; only understand today\" (本無迷悟人，祇要今日了); the named record subject immediately asks, \"if there is no confusion or awakening, what do you understand?\" (既無迷悟，了箇甚麼). Zhe'an likewise says that claiming confusion and awakening no longer exist is still halfway, then asks for confusion not to obstruct awakening and awakening not to obstruct confusion. These are explicit textual relations, not separate senses.",
     "CreatedBy": "Codex legacy full rebuild Lane B",
     "WrittenUtc": "2026-07-16T18:11:07.678233+00:00"
+  },
+  {
+    "SourceTerm": "迷生寂亂",
+    "PreferredTarget": "delusion produces stillness and disorder",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "delusion produces stillness and disorder"
+    ],
+    "Status": "preferred",
+    "Note": "The exact wording has one inherited source family; later commentary does not manufacture a second origin. No lamp is retained; later sources do not manufacture another origin family.",
+    "CreatedBy": "V7 batch66 admitted19 constructor C",
+    "WrittenUtc": "2026-07-29T14:30:00Z"
   },
   {
     "SourceTerm": "迷逢達磨",
