@@ -6167,15 +6167,17 @@
   },
   {
     "SourceTerm": "仰山插鍬",
-    "PreferredTarget": "Yangshan plants the shovel",
-    "AlternateTargets": [],
+    "PreferredTarget": "Yangshan plants the hoe",
+    "AlternateTargets": [
+      "Yangshan planted his hoe"
+    ],
     "SearchAliases": [
-      "Yangshan sets the shovel"
+      "Yangshan planted his hoe"
     ],
     "Status": "preferred",
-    "Note": "Wansong Xingxiu and Linquan Conglun supply two retained Tier-2 case-commentary deployment families; contents labels alone do not count.",
-    "CreatedBy": "V7 batch71 admitted20 constructor B",
-    "WrittenUtc": "2026-07-29T17:20:00Z"
+    "Note": "Bind the label to Guishan’s field question, Yangshan’s folded-hands stance, and his later lifting the hoe and leaving. It is not generic farm work.",
+    "CreatedBy": "R02 clean-redo source-first C",
+    "WrittenUtc": "2026-07-29T22:45:00Z"
   },
   {
     "SourceTerm": "仲夏毒熱",
@@ -8832,15 +8834,17 @@
   },
   {
     "SourceTerm": "兔亦不遇",
-    "PreferredTarget": "one would not even meet a rabbit",
-    "AlternateTargets": [],
+    "PreferredTarget": "you would not meet even a rabbit",
+    "AlternateTargets": [
+      "not even a rabbit would be encountered"
+    ],
     "SearchAliases": [
-      "not even meet a rabbit"
+      "not even a rabbit would be encountered"
     ],
     "Status": "preferred",
-    "Note": "麟 and 一麟足矣 supply the comparison; generic 不遇 is not equivalent. No lamp is retained.",
-    "CreatedBy": "V7 batch71 admitted20 constructor B",
-    "WrittenUtc": "2026-07-29T17:20:00Z"
+    "Note": "Translate the supported closing clause as “you would not meet even a rabbit.” Do not supply an aiming-high, lesser-game, or named-person theory for the unresolved preceding expression without primary evidence.",
+    "CreatedBy": "R02 clean-redo source-first C",
+    "WrittenUtc": "2026-07-29T22:45:00Z"
   },
   {
     "SourceTerm": "兔子喫牛嬭",
@@ -11237,15 +11241,17 @@
   },
   {
     "SourceTerm": "剎那滅却三祇劫",
-    "PreferredTarget": "in an instant, extinguish three incalculable eons",
-    "AlternateTargets": [],
+    "PreferredTarget": "in an instant, extinguish three incalculable ages",
+    "AlternateTargets": [
+      "an instant wipes out three incalculable ages"
+    ],
     "SearchAliases": [
-      "in an instant extinguish three eons"
+      "an instant wipes out three incalculable ages"
     ],
     "Status": "preferred",
-    "Note": "Bind 彈指圓成八萬門 as the paired first line; 三祇劫 is the constituent duration, not a synonym.",
-    "CreatedBy": "V7 batch70 admitted constructor B",
-    "WrittenUtc": "2026-07-29T16:30:00Z"
+    "Note": "Keep the instant-versus-three-ages contrast with its recurring companion line about completing eighty thousand gates in a finger snap.",
+    "CreatedBy": "R02 clean-redo source-first C",
+    "WrittenUtc": "2026-07-29T22:45:00Z"
   },
   {
     "SourceTerm": "剔起眉毛",
@@ -11409,10 +11415,11 @@
     "PreferredTarget": "the sword has long since gone",
     "AlternateTargets": [],
     "SearchAliases": [
-      "the sword has long since gone"
+      "the sword has long since gone",
+      "劒去久矣"
     ],
     "Status": "preferred",
-    "Note": "The two Dongshan Jue recensions preserve one hall address and count as one use. Independent later addresses retain the verdict and its boat-marking continuation.",
+    "Note": "The archaic sword graph supplies a graphic variant of this same verdict, not a second lexical identity. Literal missing-weapon reports are excluded; the retained uses concern a response, mark, or imitation arriving after the effective occasion has passed.",
     "CreatedBy": "iriya-construction-001 lane A manual recovery after quarantined bulk-actor failure",
     "WrittenUtc": "2026-07-18T15:40:00Z"
   },
@@ -39623,6 +39630,20 @@
     "WrittenUtc": "2026-07-17T16:06:20.637195+00:00"
   },
   {
+    "SourceTerm": "滿眼滿耳",
+    "PreferredTarget": "filling the eyes and ears",
+    "AlternateTargets": [
+      "all through eye and ear"
+    ],
+    "SearchAliases": [
+      "all through eye and ear"
+    ],
+    "Status": "preferred",
+    "Note": "Keep eye and ear together. Ordinary claims that sights or sounds are plentiful do not by themselves carry this coordinated Chan use.",
+    "CreatedBy": "R02 clean-redo source-first C",
+    "WrittenUtc": "2026-07-29T22:45:00Z"
+  },
+  {
     "SourceTerm": "滿面慚惶",
     "PreferredTarget": "shamefaced and alarmed",
     "AlternateTargets": [
@@ -46801,15 +46822,17 @@
   },
   {
     "SourceTerm": "碓搗磨磨",
-    "PreferredTarget": "pounded in the mortar and ground in the mill",
-    "AlternateTargets": [],
+    "PreferredTarget": "the mortar pounds, the mill grinds",
+    "AlternateTargets": [
+      "mortar pounding and mill grinding"
+    ],
     "SearchAliases": [
-      "pounded and ground"
+      "mortar pounding and mill grinding"
     ],
     "Status": "preferred",
-    "Note": "Keep 碓搗磨磨 as the paired unit; 碓搗 and 磨磨 are only constituents.",
-    "CreatedBy": "V7 batch70 admitted constructor B",
-    "WrittenUtc": "2026-07-29T16:30:00Z"
+    "Note": "Keep the two work actions together. The directional expansions “the mortar pounds southeast” and “the mill pushes northwest” are fuller phrases, not substitutes for this headword.",
+    "CreatedBy": "R02 clean-redo source-first C",
+    "WrittenUtc": "2026-07-29T22:45:00Z"
   },
   {
     "SourceTerm": "碓觜生花",
@@ -68130,15 +68153,17 @@
   },
   {
     "SourceTerm": "鳥窠吹起布毛",
-    "PreferredTarget": "Bird's Nest blows up the cloth fibers",
-    "AlternateTargets": [],
+    "PreferredTarget": "Bird’s Nest blew up a cloth fiber",
+    "AlternateTargets": [
+      "Bird’s Nest blows a cloth fiber"
+    ],
     "SearchAliases": [
-      "Birds Nest blows the cloth fibers"
+      "Bird’s Nest blows a cloth fiber"
     ],
     "Status": "preferred",
-    "Note": "鳥窠拈起布毛吹 is fuller event wording; 布毛 and 吹布毛 alone are not equivalent case names.",
-    "CreatedBy": "V7 batch70 admitted constructor B",
-    "WrittenUtc": "2026-07-29T16:30:00Z"
+    "Note": "The fuller wording “Bird’s Nest picked up a cloth fiber and blew it” names the same event. Bare “cloth fiber” or “blow a cloth fiber” is broader and is not automatically this case label.",
+    "CreatedBy": "R02 clean-redo source-first C",
+    "WrittenUtc": "2026-07-29T22:45:00Z"
   },
   {
     "SourceTerm": "鳥道",
