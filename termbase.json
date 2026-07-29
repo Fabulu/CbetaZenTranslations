@@ -6288,6 +6288,18 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "伸手不見掌",
+    "PreferredTarget": "stretch out your hand and not see your palm",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "stretch out your hand and not see your palm"
+    ],
+    "Status": "preferred",
+    "Note": "掌 is the visible palm of the extended hand; retain literal darkness where the context is concrete and do not automatically relabel every occurrence as ignorance. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "似則似，是則未是",
     "PreferredTarget": "it resembles it, but it is not yet it",
     "AlternateTargets": [],
@@ -7819,6 +7831,18 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "假使鐵輪頂上旋",
+    "PreferredTarget": "even if an iron wheel turns on your head",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "even if an iron wheel turns on your head"
+    ],
+    "Status": "preferred",
+    "Note": "Treat it as a quoted inherited vow formula and retain 假使 as the hypothetical opening. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "偈頌",
     "PreferredTarget": "verse and eulogy",
     "AlternateTargets": [
@@ -8695,6 +8719,18 @@
     "Note": "Dahui's own recorded-sayings sequence controls the verse; derivative compilations are not retained.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T19:00:00Z"
+  },
+  {
+    "SourceTerm": "兔馬有角",
+    "PreferredTarget": "rabbits and horses have horns",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "rabbits and horses have horns"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 牛羊無角 as the recurrent counter-half; the zoological impossibility is deliberate and must not be corrected or explained as an animal species. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "兔馬有角、牛羊無角",
@@ -10813,6 +10849,18 @@
     "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
     "CreatedBy": "Codex f003 Lane A full-case author",
     "WrittenUtc": "2026-07-15T05:09:02.950859+00:00"
+  },
+  {
+    "SourceTerm": "刻舟求劒",
+    "PreferredTarget": "notch the boat to look for the sword",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "notch the boat to look for the sword"
+    ],
+    "Status": "preferred",
+    "Note": "This is an inherited allusion, not a distinctively Chan doctrine; explain the moving-boat error rather than flattening it to mere foolishness. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "削圓方竹杖。鞔却紫茸氈",
@@ -29736,6 +29784,18 @@
     "WrittenUtc": "2026-07-17T17:03:10.274015+00:00"
   },
   {
+    "SourceTerm": "敢保老兄未徹",
+    "PreferredTarget": "I dare guarantee, brother, that you have not broken through",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "I dare guarantee, brother, that you have not broken through"
+    ],
+    "Status": "preferred",
+    "Note": "未徹 is failure to penetrate thoroughly, not a claim that the person lacks all understanding; retain the force of 敢保. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "敲冰覓火",
     "PreferredTarget": "strike ice seeking fire",
     "AlternateTargets": [],
@@ -40504,6 +40564,18 @@
     "WrittenUtc": "2026-07-29T06:25:12.127558Z"
   },
   {
+    "SourceTerm": "犀因翫月紋生角",
+    "PreferredTarget": "the rhinoceros gazes at the moon, and markings grow in its horn",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the rhinoceros gazes at the moon, and markings grow in its horn"
+    ],
+    "Status": "preferred",
+    "Note": "翫月 is gazing at or sporting with the moon; 紋生角 says markings arise in the horn. Treat it as a received image, not a zoological claim, and retain its companion line where present. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "犀因翫月紋生角、象被雷驚花入牙",
     "PreferredTarget": "the rhinoceros gazes at the moon and a pattern enters its horn, the elephant is startled by thunder and a flower enters its tusk",
     "AlternateTargets": [
@@ -40738,6 +40810,18 @@
     "Note": "The paired animals are not incidental livestock: records repeatedly place them in the reversal that cats and white oxen know what the buddhas do not.",
     "CreatedBy": "Codex Iriya cohort001 Lane A evidence-first",
     "WrittenUtc": "2026-07-18T07:05:47.405771+00:00"
+  },
+  {
+    "SourceTerm": "狹路相逢",
+    "PreferredTarget": "meet head-on in a narrow road",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "meet head-on in a narrow road"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the spatial constraint of 狹路 and mutuality of 相逢; context determines whether the meeting becomes recognition, victory, embarrassment, or deadlock. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "猊座",
@@ -40989,6 +41073,18 @@
     "Note": "Four records connect the lion-cub secret with a forced turn rather than imitation.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T18:00:09.627795Z"
+  },
+  {
+    "SourceTerm": "獅子窟中無異獸",
+    "PreferredTarget": "in the lion's den there is no different beast",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "in the lion's den there is no different beast"
+    ],
+    "Status": "preferred",
+    "Note": "異獸 is a beast of another kind, not merely an unusual animal; the saying can voice a claim that the responding master then rejects, so do not present every occurrence as endorsed. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "獅子窟中無異獸、象王行處絶狐蹤",
@@ -44277,6 +44373,18 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "瞬目視伊",
+    "PreferredTarget": "blink and look at it",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "blink and look at it"
+    ],
+    "Status": "preferred",
+    "Note": "Read 瞬目 as an eye gesture and 伊 as the displayed device/it; retain the surrounding verse rather than turning the line into generic looking. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "瞻前顧後",
     "PreferredTarget": "looking ahead and glancing behind",
     "AlternateTargets": [],
@@ -45951,6 +46059,18 @@
     "WrittenUtc": "2026-07-15T16:45:00Z"
   },
   {
+    "SourceTerm": "秉慧劍",
+    "PreferredTarget": "grasp the sword of wisdom",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "grasp the sword of wisdom"
+    ],
+    "Status": "preferred",
+    "Note": "秉 is active grasping or wielding and 慧劍 a wisdom sword; govern 般若鋒 and 金剛燄 where present without turning the weapon into literal violence. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "秋風吹渭水、落葉滿長安",
     "PreferredTarget": "autumn wind blows over the Wei River as fallen leaves fill Chang'an",
     "AlternateTargets": [],
@@ -47066,6 +47186,18 @@
     "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
+  },
+  {
+    "SourceTerm": "節外生枝",
+    "PreferredTarget": "grow another branch beyond the joint",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "grow another branch beyond the joint"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the organic image and the judgment of surplus; context determines whether the extra branch is speech, instruction, or conceptual machinery. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "節角聱訛",
@@ -50665,6 +50797,18 @@
     "WrittenUtc": "2026-07-20T16:00:00Z"
   },
   {
+    "SourceTerm": "荷葉團團團似鏡",
+    "PreferredTarget": "round lotus leaves, round like mirrors",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "round lotus leaves, round like mirrors"
+    ],
+    "Status": "preferred",
+    "Note": "團團 supplies repeated visual roundness and the second 團 begins the comparison; preserve the mirror image and govern the three recurrent companion lines where present. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "荷葉團團團似鏡、菱角尖尖尖似錐",
     "PreferredTarget": "round lotus leaves like mirrors and sharp caltrop horns like awls",
     "AlternateTargets": [],
@@ -52993,6 +53137,18 @@
     "Note": "The Zen deviation is the promotion of one first-person reply into the fixed hinge of the lineage's mind-settling case. Six exact-headword witnesses span original-case transmission, public examination, criticism, later first-person reuse, and commentary. The shortened supporting quotation lacks the headword and is marked contrast. The critical appraisal is preserved rather than harmonized away. Huike and Bodhidharma remain on the lineage roster. Frozen-corpus concordance: 136 exact hits in 88 storage files representing 88 independent works.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": "2026-07-20T00:00:00Z"
+  },
+  {
+    "SourceTerm": "覓甚舊時仁",
+    "PreferredTarget": "what old kernel are you looking for?",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "what old kernel are you looking for?"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 千年桃核裏 as the first half and retain the fruit-kernel force of 仁; context may also hear the human or benevolence senses, but they should not erase the peach image. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "覔火和烟得、擔泉帶月歸",
@@ -58149,6 +58305,18 @@
     "WrittenUtc": "2026-07-29T06:25:12.127558Z"
   },
   {
+    "SourceTerm": "醍醐上味為世所珍",
+    "PreferredTarget": "the finest flavor of ghee, treasured by the world",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the finest flavor of ghee, treasured by the world"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the following poison clause attached when explaining the phrase. 醍醐 is refined dairy or ghee and 上味 its finest flavor; no imported doctrinal symbolism is required. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "醍醐毒藥",
     "PreferredTarget": "ghee and poison",
     "AlternateTargets": [],
@@ -60907,6 +61075,18 @@
     "WrittenUtc": "2026-07-15T05:09:02.950859+00:00"
   },
   {
+    "SourceTerm": "隔墻見角",
+    "PreferredTarget": "see the horns over the wall",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "see the horns over the wall"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 便知是牛 and the recurrent smoke-and-fire parallel; distinguish successful inference from passages saying such secondhand recognition is still inadequate. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "隔墻見角便知是牛",
     "PreferredTarget": "see a horn beyond the wall and know it is an ox",
     "AlternateTargets": [
@@ -61234,6 +61414,18 @@
     "Note": "Ten complete cases were read; six witnesses were retained across five distinct works and five deployment classes, with the two Yantou recensions counted once.",
     "CreatedBy": "Codex Iriya A80 backfill author",
     "WrittenUtc": "2026-07-19T01:22:12.570781Z"
+  },
+  {
+    "SourceTerm": "雙放雙收",
+    "PreferredTarget": "release both and gather both in",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "release both and gather both in"
+    ],
+    "Status": "preferred",
+    "Note": "雙 governs both verbs: both are released and both are gathered; the passage must identify the local pair and should not be reduced to generic flexibility. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "雞向五更啼",
