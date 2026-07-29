@@ -5738,6 +5738,19 @@
     "WrittenUtc": "2026-07-18T14:36:00+02:00"
   },
   {
+    "SourceTerm": "仁者見之謂之仁",
+    "PreferredTarget": "the humane see it and call it humane",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "humane observers call it humane",
+      "observer supplies the label"
+    ],
+    "Status": "preferred",
+    "Note": "Govern the wise-observer counterpart and do not claim Chan coinage. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "仁者見之謂之仁、智者見之謂之智",
     "PreferredTarget": "the humane see it and call it humane, and the wise see it and call it wise",
     "AlternateTargets": [],
@@ -14334,6 +14347,19 @@
     "WrittenUtc": "2026-07-19T12:00:00Z"
   },
   {
+    "SourceTerm": "唱太平歌",
+    "PreferredTarget": "sing a song of peace",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "sing a song of peace",
+      "proclaim easy peace"
+    ],
+    "Status": "preferred",
+    "Note": "Local context decides whether the peace-song is earned. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "唱彌高、和彌寡",
     "PreferredTarget": "the higher the song, the fewer who harmonize",
     "AlternateTargets": [],
@@ -15234,6 +15260,19 @@
     "Note": "A Tier-2 active quotation controls; no derivation or lamp evidence is asserted.",
     "CreatedBy": "Codex Batch35 lane-A construction",
     "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
+    "SourceTerm": "囊無繫蟻之絲",
+    "PreferredTarget": "the bag lacks even a thread to tether an ant",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "not a thread to tether an ant",
+      "utter poverty"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the comic minuteness of thread and ant. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "四七二三",
@@ -16416,6 +16455,19 @@
     "Note": "The landscape image can mark abundance or excess; context decides its evaluation.",
     "CreatedBy": "Codex Batch39 construction B",
     "WrittenUtc": "2026-07-29T05:48:01.273878Z"
+  },
+  {
+    "SourceTerm": "塞斷咽喉",
+    "PreferredTarget": "block the throat shut",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "block the throat shut",
+      "leave no verbal outlet"
+    ],
+    "Status": "preferred",
+    "Note": "Do not weaken the bodily obstruction to generic disagreement. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "填溝塞壑",
@@ -19098,6 +19150,19 @@
     "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
+    "SourceTerm": "嫌佛不肯做",
+    "PreferredTarget": "disdain becoming a Buddha and refuse to do it",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "refuse to become a Buddha",
+      "disdain Buddhahood"
+    ],
+    "Status": "preferred",
+    "Note": "Do not generalize the line into rejection of every use of Buddha. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "子承父業",
     "PreferredTarget": "the son carries on the father's trade",
     "AlternateTargets": [
@@ -19698,6 +19763,19 @@
     "Note": "The official needle clause and private cart-and-horse clause are preserved as one balanced saying.",
     "CreatedBy": "Codex Iriya lane A121-130 full-case author",
     "WrittenUtc": "2026-07-18T17:27:34Z"
+  },
+  {
+    "SourceTerm": "官不容鍼",
+    "PreferredTarget": "officially, not even a needle is admitted",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "officially no needle admitted",
+      "strict public rule"
+    ],
+    "Status": "preferred",
+    "Note": "官 marks public rule, not a magistrate. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "官馬相踏",
@@ -23929,6 +24007,19 @@
     "WrittenUtc": "2026-07-19T00:00:00Z"
   },
   {
+    "SourceTerm": "急急如律令敕",
+    "PreferredTarget": "urgently, urgently—by command of the ordinance",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "urgently by command of the ordinance",
+      "command formula"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the borrowed register without claiming prescribed ritual. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "急水上打毬子",
     "PreferredTarget": "play a ball on swift water",
     "AlternateTargets": [
@@ -27037,6 +27128,19 @@
     "Note": "A concrete action or forceful hypothetical appraisal involving the presiding teaching seat.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T00:00:00Z"
+  },
+  {
+    "SourceTerm": "掀翻地軸",
+    "PreferredTarget": "heave up and overturn the earth's axis",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "overturn the earth's axis",
+      "world-upending action"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the earth-axis image and its paired heaven-gate wording. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "掃帚",
@@ -30157,6 +30261,19 @@
     "WrittenUtc": "2026-07-15T13:00:00Z"
   },
   {
+    "SourceTerm": "昏沉散亂",
+    "PreferredTarget": "dullness and distraction",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "dullness and distraction",
+      "torpor and scattering"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the paired contrast and do not imply that deadened suppression is its cure. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "易開終始口、難保歳寒心",
     "PreferredTarget": "easy to promise through the end, hard to keep a winter-fast heart",
     "AlternateTargets": [
@@ -30264,6 +30381,19 @@
     "Note": "Last night at the third watch the moon reached the window reports moonlight arriving at the window in the middle of the night. Nanquan Puyuan gives it as the closing answer after Zhaozhou thanks him for the buffalo response; that original answer is retained in two later case presentations. Minshu and Xuetang Daoxing reuse the line in their own hall addresses.",
     "CreatedBy": "Codex cohort-002 lane-B B121-B130 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
+  },
+  {
+    "SourceTerm": "昨日赴箇村齋",
+    "PreferredTarget": "yesterday I went to a village meal",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "yesterday I went to a village meal",
+      "Xinghua's village-meal opening"
+    ],
+    "Status": "preferred",
+    "Note": "Bind the storm and old-temple continuation. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "昭昭靈靈",
@@ -30405,6 +30535,19 @@
     "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
     "CreatedBy": "Codex f003 Lane A full-case author",
     "WrittenUtc": "2026-07-15T04:50:30.422923+00:00"
+  },
+  {
+    "SourceTerm": "晝明夜暗",
+    "PreferredTarget": "day is bright; night is dark",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "day bright night dark",
+      "daylight and night darkness"
+    ],
+    "Status": "preferred",
+    "Note": "Exclude incidental narrative descriptions of lighting. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "晝見日、夜見星",
@@ -31147,6 +31290,19 @@
     "Note": "The allusion marks an ineffective imagined substitute, not an instruction to seek fruit.",
     "CreatedBy": "Codex post-current-investigation720 Lane B positions 6-59",
     "WrittenUtc": "2026-07-17T17:09:08.823288+00:00"
+  },
+  {
+    "SourceTerm": "望空啟告",
+    "PreferredTarget": "face empty space and make a proclamation",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "proclaim toward empty space",
+      "unsupported proclamation"
+    ],
+    "Status": "preferred",
+    "Note": "Merely looking upward while speaking is insufficient. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "朝三千、暮八百",
@@ -33281,6 +33437,19 @@
     "Note": "5 distinct work IDs selected after complete-case actor review.",
     "CreatedBy": "Codex f004 lane B complete-case author",
     "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
+  },
+  {
+    "SourceTerm": "楖栗橫擔",
+    "PreferredTarget": "shoulder the chestnut staff crosswise",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "shoulder the chestnut staff crosswise",
+      "itinerant departure"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the staff as physical travel gear. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "楚鷄不是丹山鳳",
@@ -39827,6 +39996,19 @@
     "WrittenUtc": "2026-07-29T06:13:30.721026Z"
   },
   {
+    "SourceTerm": "猛著精彩",
+    "PreferredTarget": "rouse your full vigor",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "rouse your full vigor",
+      "bring concentrated alertness"
+    ],
+    "Status": "preferred",
+    "Note": "精彩 here is vigor and alertness, not the modern adjective wonderful. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "猛虎不顧几上肉，洪爐豈鑄囊中錐",
     "PreferredTarget": "a fierce tiger ignores meat on the table; how could a roaring furnace cast an awl still inside its bag?",
     "AlternateTargets": [
@@ -42137,6 +42319,19 @@
     "Note": "8 exact hits occur in 8 works; evidence ranges from Baizhao Tonghui Gui to Jianguan Ziyi.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T16:19:57.908503Z"
+  },
+  {
+    "SourceTerm": "盤走珠兮珠走盤",
+    "PreferredTarget": "the tray rolls the pearl, and the pearl rolls around the tray",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "tray rolls pearl and pearl rolls tray",
+      "free reciprocal movement"
+    ],
+    "Status": "preferred",
+    "Note": "Both reciprocal clauses are part of the image. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "盧舍那",
@@ -47168,6 +47363,19 @@
     "WrittenUtc": "2026-07-29T05:48:36.475116Z"
   },
   {
+    "SourceTerm": "羚羊挂角",
+    "PreferredTarget": "an antelope hangs by its horns",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "antelope hangs by its horns",
+      "leave no trace"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the animal action and no-trace continuation. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "羚羊掛角",
     "PreferredTarget": "an antelope hanging by its horns",
     "AlternateTargets": [
@@ -47801,6 +48009,19 @@
     "Note": "The compound names the willingness that commits a person to undertake and persist in the matter.",
     "CreatedBy": "packet3 exact5 owner construction",
     "WrittenUtc": "2026-07-27T22:15:00Z"
+  },
+  {
+    "SourceTerm": "背後底聻",
+    "PreferredTarget": "what about the one behind?",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "what about the one behind",
+      "behind-the-back follow-up"
+    ],
+    "Status": "preferred",
+    "Note": "Context must identify whose behind is being tested. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "胡來胡現、漢來漢現",
@@ -52525,6 +52746,19 @@
     "WrittenUtc": "2026-07-29T06:25:12.127558Z"
   },
   {
+    "SourceTerm": "討箇分曉",
+    "PreferredTarget": "get the matter clearly settled",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "get the matter clearly settled",
+      "press to a clear settlement"
+    ],
+    "Status": "preferred",
+    "Note": "It does not promise a conceptual explanation. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "許由",
     "PreferredTarget": "Xu You",
     "AlternateTargets": [
@@ -56459,6 +56693,19 @@
     "WrittenUtc": "2026-07-17T05:48:00.115946+00:00"
   },
   {
+    "SourceTerm": "遺我徑寸璧",
+    "PreferredTarget": "he presented me with a one-inch jade disk",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "one-inch jade disk presented to me",
+      "Xuedou's jade-disk line"
+    ],
+    "Status": "preferred",
+    "Note": "Do not assign symbolic content to the disk. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "還丹一粒，點鐵成金",
     "PreferredTarget": "one return-elixir pellet, touching iron and making gold",
     "AlternateTargets": [],
@@ -57653,6 +57900,19 @@
     "Note": "7 distinct work IDs selected after complete-context review.",
     "CreatedBy": "Codex f004 lane A 926-950 full-case repair author",
     "WrittenUtc": "2026-07-15T16:45:00Z"
+  },
+  {
+    "SourceTerm": "鉢囉娘",
+    "PreferredTarget": "boluoniang",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "boluoniang",
+      "bo-luo-niang"
+    ],
+    "Status": "preferred",
+    "Note": "Retain phonetic transliteration unless a referent is proved. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "鉢盂",
@@ -63486,6 +63746,19 @@
     ],
     "Status": "preferred",
     "Note": "Govern 龍生龍 or 龍生龍子 as the first half; this is an inheritance image, not zoological reproduction. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "鳳縈金網",
+    "PreferredTarget": "a phoenix entangled in a golden net",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "phoenix caught in a golden net",
+      "splendid restraint"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve both the noble bird and the precious restraint. No lamp is retained.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
