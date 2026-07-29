@@ -25508,18 +25508,16 @@
   },
   {
     "SourceTerm": "恍恍惚惚",
-    "PreferredTarget": "hazy and dazed",
-    "AlternateTargets": [
-      "indistinctly aware"
-    ],
+    "PreferredTarget": "hazy and indistinct",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "hazy dazed",
-      "indistinct awareness"
+      "dim and indistinct",
+      "in a vague half-grasped state"
     ],
     "Status": "preferred",
-    "Note": "Two independent exact Tier-2 deployment families support this sense. Lamps are excluded.",
-    "CreatedBy": "Codex Batch34 lane-A source-tier construction",
-    "WrittenUtc": "2026-07-29T00:00:00Z"
+    "Note": "The phrase describes a condition rather than prescribing one. Praise, criticism, recollection, and inherited parallel wording can change the evaluation without changing the lexical sense.",
+    "CreatedBy": "R15 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-30T00:10:00Z"
   },
   {
     "SourceTerm": "恐上紙筆",
@@ -36993,17 +36991,20 @@
   },
   {
     "SourceTerm": "毘尼",
-    "PreferredTarget": "Vinaya",
+    "PreferredTarget": "monastic discipline",
     "AlternateTargets": [
-      "disciplinary code"
+      "Vinaya",
+      "the monastic disciplinary code"
     ],
     "SearchAliases": [
-      "monastic discipline"
+      "Vinaya",
+      "the monastic disciplinary code",
+      "monastic rules"
     ],
     "Status": "preferred",
-    "Note": "Vinaya names the disciplinary code and its field of study; masters invoke it as an institutional authority and test what attention to it accomplishes.",
-    "CreatedBy": "Codex precept next-wave author",
-    "WrittenUtc": "2026-07-21T16:40:00Z"
+    "Note": "Substring matches inside 嵐毘尼 mean Lumbini and are excluded, as are title-only compounds such as 毘尼母經. The retained occurrences use 毘尼 itself for discipline or the disciplinary code.",
+    "CreatedBy": "R15 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-30T00:10:00Z"
   },
   {
     "SourceTerm": "毫氂有差",
@@ -42147,12 +42148,13 @@
     "PreferredTarget": "the teeth are one set of bones",
     "AlternateTargets": [],
     "SearchAliases": [
-      "the teeth are one set of bones"
+      "a set of teeth is one set of bones",
+      "teeth: one set of bones"
     ],
     "Status": "preferred",
-    "Note": "Retain the full five-graph answer; 牙齒 or 骨 alone do not identify the saying. 1 Tier-3 lamp/lineage-compilation witness(es) are retained only as corroborative evidence and do not upgrade validation.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The image remains literal even when it answers different questions. The frequent companion about the ears is useful context but is not part of this headword.",
+    "CreatedBy": "R15 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-30T00:10:00Z"
   },
   {
     "SourceTerm": "牛皮也須穿",
@@ -43962,28 +43964,17 @@
   },
   {
     "SourceTerm": "當下",
-    "PreferredTarget": "right then and there",
-    "AlternateTargets": [
-      "immediately",
-      "on the spot",
-      "at that very moment"
-    ],
+    "PreferredTarget": "at that very moment",
+    "AlternateTargets": [],
     "SearchAliases": [
       "right then",
-      "then and there",
       "immediately",
-      "on the spot",
-      "at once",
-      "straightaway",
-      "at that moment",
-      "that very moment",
-      "right there",
-      "right now"
+      "on the spot"
     ],
     "Status": "preferred",
-    "Note": "Right then and there marks immediate timing in awakenings, judgments, and narrated events; it modifies what occurs rather than naming a separate temporal object.",
-    "CreatedBy": "Codex fresh-build f001 lane B",
-    "WrittenUtc": "2026-07-14T20:30:00Z"
+    "Note": "The phrase is productive ordinary grammar, not a Zen doctrine or a name for one special experience. Its meaning comes from time relation; the surrounding predicate states what happens then.",
+    "CreatedBy": "R15 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-30T00:10:00Z"
   },
   {
     "SourceTerm": "當仁不讓",
@@ -66368,18 +66359,15 @@
   {
     "SourceTerm": "顢顢頇頇",
     "PreferredTarget": "muddleheaded and heedless",
-    "AlternateTargets": [
-      "blundering and muddled"
-    ],
+    "AlternateTargets": [],
     "SearchAliases": [
-      "muddleheaded",
-      "heedless",
-      "blundering"
+      "muddled and heedless",
+      "heedlessly unconcerned"
     ],
     "Status": "preferred",
-    "Note": "One controlling Tier-2 direct appraisal establishes the idiom; anthology and parallel copies are excluded.",
-    "CreatedBy": "Codex Batch34 lane-B construction",
-    "WrittenUtc": "2026-07-29T00:00:00Z"
+    "Note": "The polarity varies, but the lexical picture does not: an unpolished, lumbering lack of calculated discrimination. Context decides whether that is freedom or failure.",
+    "CreatedBy": "R15 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-30T00:10:00Z"
   },
   {
     "SourceTerm": "顧視",
