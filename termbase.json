@@ -1033,6 +1033,22 @@
     "WrittenUtc": "2026-07-19T16:50:22.630191Z"
   },
   {
+    "SourceTerm": "一擊百雜碎",
+    "PreferredTarget": "smash it utterly with one blow",
+    "AlternateTargets": [
+      "shatter it completely in one strike"
+    ],
+    "SearchAliases": [
+      "one blow to pieces",
+      "shatter utterly",
+      "smash completely"
+    ],
+    "Status": "preferred",
+    "Note": "百 is hyperbolic rather than an exact count; repeated copies of Xisou's Yaoshan appraisal are a separate quotation family.",
+    "CreatedBy": "Codex Batch32 source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "一放一收",
     "PreferredTarget": "one release, one gathering-in",
     "AlternateTargets": [
@@ -16686,6 +16702,21 @@
     "WrittenUtc": "2026-07-21T09:30:00Z"
   },
   {
+    "SourceTerm": "大光明藏",
+    "PreferredTarget": "great treasury of light",
+    "AlternateTargets": [
+      "great repository of illumination"
+    ],
+    "SearchAliases": [
+      "great light treasury",
+      "treasury of illumination"
+    ],
+    "Status": "preferred",
+    "Note": "Collection-title, title-page, running-title, catalogue, metadata, and passive duplicate hits are excluded from doctrinal support.",
+    "CreatedBy": "Codex Batch32 source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "大千世界",
     "PreferredTarget": "a great thousandfold world-system",
     "AlternateTargets": [],
@@ -17131,6 +17162,21 @@
     "Note": "The sources use the impossibility as a reply or close; they do not say that actual rivers reverse.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T15:24:36.395412Z"
+  },
+  {
+    "SourceTerm": "大涅槃經",
+    "PreferredTarget": "Mahāparinirvāṇa Sūtra",
+    "AlternateTargets": [
+      "Great Nirvana Sutra"
+    ],
+    "SearchAliases": [
+      "Mahaparinirvana Sutra",
+      "Great Nirvana scripture"
+    ],
+    "Status": "preferred",
+    "Note": "Only explicit title citations count; occurrences of 大涅槃 without 經 belong to the doctrinal phrase.",
+    "CreatedBy": "Codex Batch32 source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "大用",
@@ -60497,6 +60543,23 @@
     "Note": "The command turns seeing into an immediate public correction: the listener must alter where the discerning eye is set. The sense has 8 exact occurrences in 8 independent works.",
     "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
     "WrittenUtc": "2026-07-19T13:41:09.731852+00:00"
+  },
+  {
+    "SourceTerm": "高著眼看",
+    "PreferredTarget": "raise your eyes and look sharply",
+    "AlternateTargets": [
+      "look closely",
+      "pay close attention"
+    ],
+    "SearchAliases": [
+      "look sharply",
+      "raise your eyes",
+      "pay close attention"
+    ],
+    "Status": "preferred",
+    "Note": "Two distinct Tier-2 exchanges support the idiomatic attention sense.",
+    "CreatedBy": "Codex Batch32 source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "高高峰頂立",
