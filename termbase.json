@@ -6141,15 +6141,17 @@
   },
   {
     "SourceTerm": "仰山傾出一栲栳",
-    "PreferredTarget": "Yangshan poured out a whole basketful",
-    "AlternateTargets": [],
+    "PreferredTarget": "Yangshan tipped out a whole basketful",
+    "AlternateTargets": [
+      "Yangshan poured out an entire basket"
+    ],
     "SearchAliases": [
-      "Yangshan pours out a basketful"
+      "Yangshan poured out an entire basket"
     ],
     "Status": "preferred",
-    "Note": "東寺只索一顆 is the antithetical first half; the parallel witness transmits the same event.",
-    "CreatedBy": "V7 batch71 admitted20 constructor B",
-    "WrittenUtc": "2026-07-29T17:20:00Z"
+    "Note": "Bind the basketful to the East Temple’s request for the sea-calming pearl. A generic basket or act of pouring is not this case label.",
+    "CreatedBy": "R03 clean source-first C",
+    "WrittenUtc": "2026-07-29T23:30:00Z"
   },
   {
     "SourceTerm": "仰山問中邑",
@@ -8804,14 +8806,16 @@
   {
     "SourceTerm": "免作屋中愚",
     "PreferredTarget": "avoid becoming a fool inside the house",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "do not remain the fool within the house"
+    ],
     "SearchAliases": [
-      "not become a fool in the house"
+      "do not remain the fool within the house"
     ],
     "Status": "preferred",
-    "Note": "到來家蕩盡 is the preceding line; the anthology parallel is the same verse family.",
-    "CreatedBy": "V7 batch71 admitted20 constructor B",
-    "WrittenUtc": "2026-07-29T17:20:00Z"
+    "Note": "Keep the house image with the immediately preceding line “on arriving, the household is completely emptied.”",
+    "CreatedBy": "R03 clean source-first C",
+    "WrittenUtc": "2026-07-29T23:30:00Z"
   },
   {
     "SourceTerm": "兒孫",
@@ -30107,15 +30111,17 @@
   },
   {
     "SourceTerm": "擬向溪東牧",
-    "PreferredTarget": "if I mean to pasture it east of the stream",
-    "AlternateTargets": [],
+    "PreferredTarget": "planning to pasture it east of the stream",
+    "AlternateTargets": [
+      "intending to herd it east of the stream"
+    ],
     "SearchAliases": [
-      "mean to pasture it east of the stream"
+      "intending to herd it east of the stream"
     ],
     "Status": "preferred",
-    "Note": "擬向溪西牧 and 未免食他國王水草 are companion clauses; the lamp recension is not independent.",
-    "CreatedBy": "V7 batch71 admitted20 constructor B",
-    "WrittenUtc": "2026-07-29T17:20:00Z"
+    "Note": "Bind this clause to Nanquan’s water-buffalo case. The west-of-the-stream proposal is its paired alternative, not a second meaning.",
+    "CreatedBy": "R03 clean source-first C",
+    "WrittenUtc": "2026-07-29T23:30:00Z"
   },
   {
     "SourceTerm": "擬對",
@@ -67177,15 +67183,17 @@
   },
   {
     "SourceTerm": "驅耕夫之牛",
-    "PreferredTarget": "drive away the plowman's ox",
-    "AlternateTargets": [],
+    "PreferredTarget": "drive away the ploughman’s ox",
+    "AlternateTargets": [
+      "take away the farmer’s ox"
+    ],
     "SearchAliases": [
-      "drive off the plowmans ox"
+      "take away the farmer’s ox"
     ],
     "Status": "preferred",
-    "Note": "奪飢人之食 is the paired operation; the lamp parallel is not independent support.",
-    "CreatedBy": "V7 batch71 admitted20 constructor B",
-    "WrittenUtc": "2026-07-29T17:20:00Z"
+    "Note": "The recurring companion clause is “take away the hungry person’s food.” Keep the two actions distinct while recording their fixed pairing.",
+    "CreatedBy": "R03 clean source-first C",
+    "WrittenUtc": "2026-07-29T23:30:00Z"
   },
   {
     "SourceTerm": "驅耕夫牛，奪飢人食",
