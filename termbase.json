@@ -155,6 +155,21 @@
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
   {
+    "SourceTerm": "一切法不生",
+    "PreferredTarget": "all dharmas are unborn",
+    "AlternateTargets": [
+      "all dharmas do not arise"
+    ],
+    "SearchAliases": [
+      "all dharmas are unborn",
+      "all dharmas do not arise"
+    ],
+    "Status": "preferred",
+    "Note": "The formula often appears inside a paired scriptural quotation with “all dharmas do not perish”; those copies are one quotation family, not independent semantic depth.",
+    "CreatedBy": "source_tiers_b_batch24",
+    "WrittenUtc": "2026-07-29T02:55:42.113001Z"
+  },
+  {
     "SourceTerm": "一切現成",
     "PreferredTarget": "everything is already complete",
     "AlternateTargets": [
@@ -26328,6 +26343,21 @@
     "Note": "A discrete gesture; the narrative voice is distinct from the performer.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T00:00:00Z"
+  },
+  {
+    "SourceTerm": "提起拄杖",
+    "PreferredTarget": "lift up the staff",
+    "AlternateTargets": [
+      "hold up the staff"
+    ],
+    "SearchAliases": [
+      "lift up the staff",
+      "hold up the staff"
+    ],
+    "Status": "preferred",
+    "Note": "Incidental handling while travelling, leaning, retrieving, or describing an object does not establish this sense; each token still requires its complete action and speech frame.",
+    "CreatedBy": "source_tiers_b_batch24",
+    "WrittenUtc": "2026-07-29T02:55:42.113001Z"
   },
   {
     "SourceTerm": "揚眉瞬目",
