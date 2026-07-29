@@ -28057,6 +28057,19 @@
     "WrittenUtc": "2026-07-18T09:10:01.429021Z"
   },
   {
+    "SourceTerm": "據欵結案",
+    "PreferredTarget": "settle the case according to the charge",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "settle the case according to the charge",
+      "close the case on the particulars"
+    ],
+    "Status": "preferred",
+    "Note": "Mingjue and Dahui use the legal formula while rendering judgment on recorded cases.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "據款結案",
     "PreferredTarget": "close the case on the admitted facts",
     "AlternateTargets": [
@@ -38693,6 +38706,19 @@
     "Note": "Exact count: 47 hits in 33 allowlisted texts. Family research covered the woodcutter, rotted axe/handle, chess game, lost road, Lanke person, and the separate Mount Lanke place-name. The allusion and the mountain are different referents and are split.",
     "CreatedBy": "Codex f002 Lane C worksheet-first author",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "爛泥中有刺",
+    "PreferredTarget": "there is a thorn in the rotten mud",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "thorn in rotten mud",
+      "rotten mud has a thorn"
+    ],
+    "Status": "preferred",
+    "Note": "Guxue turns the phrase into an answer and then tests its repeated return; Guantao independently uses it as an appraisal.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "爛泥有刺",
@@ -55416,6 +55442,19 @@
     "WrittenUtc": "2026-07-19T00:30:00Z"
   },
   {
+    "SourceTerm": "運水及搬柴",
+    "PreferredTarget": "carrying water and hauling firewood",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "carrying water and hauling firewood",
+      "carry water haul firewood"
+    ],
+    "Status": "preferred",
+    "Note": "Dahui and Huanyou actively redeploy Pang Yun's closing line while discussing the ordinary tasks it names.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "運水搬柴",
     "PreferredTarget": "carry water and move firewood",
     "AlternateTargets": [],
@@ -62503,6 +62542,19 @@
     "WrittenUtc": "2026-07-21T22:24:24.894868Z"
   },
   {
+    "SourceTerm": "鬼家活計",
+    "PreferredTarget": "a ghost-house livelihood",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "ghost-house livelihood",
+      "livelihood of a ghost household"
+    ],
+    "Status": "preferred",
+    "Note": "Guting and Jiqi use the ghost household's livelihood to reject settling into dead vacancy.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "鬼爭漆桶",
     "PreferredTarget": "ghosts fighting over a lacquer bucket",
     "AlternateTargets": [],
@@ -62870,6 +62922,19 @@
     "Note": "Six works preserve Dahui's caps, Yangshan's case verdict, Fenyang's question, and later discernment tests. The queue's comma-bearing form is an editorial surface of the punctuationless canonical SourceTerm.",
     "CreatedBy": "Codex construction Lane C positions31-40 explicit full-case author",
     "WrittenUtc": "2026-07-17T12:52:12.855189+00:00"
+  },
+  {
+    "SourceTerm": "鵲噪鴉鳴",
+    "PreferredTarget": "magpies chatter and crows call",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "magpies chatter and crows call",
+      "magpie chatter and crow calls"
+    ],
+    "Status": "preferred",
+    "Note": "Zhongfeng preserves the cries inside Ciming's demand that Huanglong account for who deserves the staff; Tianyin later refuses to let belief alter the bell, drum, magpie, and crow sounds that remain audible.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "鶴飛千尺雪、龍起一潭冰",
