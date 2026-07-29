@@ -16335,7 +16335,7 @@
       "the land is broad and people are few"
     ],
     "Status": "preferred",
-    "Note": "Provisional lamp-only sense supported by two independent Tier-3 deployments; no Tier 1/2 controller was found and no padding is permitted.",
+    "Note": "Two independent Tier-2 deployments control this entry; no lower-tier fallback is retained. Keep the full four-graph expression; 土曠 alone is only its setting.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
@@ -22225,7 +22225,7 @@
       "an old crow inside a cloth bag"
     ],
     "Status": "preferred",
-    "Note": "Provisional lamp-only sense supported by two independent Tier-3 deployments; no Tier 1/2 controller was found and no padding is permitted.",
+    "Note": "Two independent Tier-2 deployments control this entry; no lower-tier fallback is retained. Keep 布袋裏老鴉 intact; 老鴉 alone is ordinary and broader.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
@@ -23790,7 +23790,7 @@
       "lowering the hook is wasted effort"
     ],
     "Status": "preferred",
-    "Note": "Provisional lamp-only sense supported by two independent Tier-3 deployments; no Tier 1/2 controller was found and no padding is permitted. Preserve the hook-and-fish context; generic 徒勞 is not this image.",
+    "Note": "Two independent Tier-2 deployments control this entry; no lower-tier fallback is retained. Keep 水淺無魚 as the governing condition; generic fishing language is broader.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
@@ -60138,7 +60138,7 @@
       "the country elders sing"
     ],
     "Status": "preferred",
-    "Note": "Keep 漁樵鼓舞 or its close variant as governing companion; ordinary references to old villagers singing are not automatically this deployment. 2 Tier-3 lamp/lineage-compilation witness(es) are retained only as corroborative evidence and do not upgrade validation.",
+    "Note": "Two independent Tier-2 deployments control this entry; no lower-tier fallback is retained. Keep the public-response image; ordinary references to old villagers singing are broader.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
@@ -61148,6 +61148,18 @@
     "Note": "The grotesque family misidentification becomes a fixed rebuke for taking a familiar verbal or ceremonial form as the thing under examination.",
     "CreatedBy": "Codex cohort-002 lane-A 161-167 current-packet full-case author",
     "WrittenUtc": "2026-07-19T07:07:45.127267Z"
+  },
+  {
+    "SourceTerm": "鍼芥相投",
+    "PreferredTarget": "needle and mustard seed meet exactly",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "needle and mustard seed meet exactly"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the four-graph reciprocal idiom. 鍼芥 alone names the inherited needle-and-mustard allusion, while 相投 supplies the mutual fit. One Tier-3 compilation witness is retained only as passive corroboration; Tier 2 controls the sense.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "鍾馗",
