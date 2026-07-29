@@ -42882,8 +42882,8 @@
       "if a stone person had your capacity, it too could sing a Ba song"
     ],
     "Status": "preferred",
-    "Note": "A Tier-3 lineage anthology preserves the saying in a Shizhu address. Other located lamp rows are either parallel recensions or later quotations of an unnamed ancient, so they are omitted rather than used as padding.",
-    "CreatedBy": "Codex cohort002 lane C clean full-case author",
+    "Note": "A Tier-1 master-authored collection explicitly introduces the saying inside Luopu Yuan'an's quoted instruction. Tier-2 and lamp witnesses transmit the same Luopu family and are omitted as depth padding.",
+    "CreatedBy": "Codex lamp-only repair cohort009 lane A",
     "WrittenUtc": "2026-07-19T00:40:37.009445Z"
   },
   {
@@ -42918,19 +42918,15 @@
   },
   {
     "SourceTerm": "石壓笋斜出。岸懸花倒生",
-    "PreferredTarget": "a bamboo shoot pressed by rock emerges sideways, while a flower hanging from the bank grows downward",
-    "AlternateTargets": [
-      "a stone weighs on the shoot, so it comes out slantwise; a cliff-hung flower blooms upside down"
-    ],
+    "PreferredTarget": "pressed by a rock, the bamboo shoot grows out slantwise; hanging from the bank, the flower grows downward",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "rock-pressed shoot hanging flower",
-      "bamboo emerging sideways",
-      "flower growing downward from bank"
+      "pressed by a rock, the bamboo shoot grows out slantwise; hanging from the bank, the flower grows downward"
     ],
     "Status": "preferred",
-    "Note": "One Tier-3 family preserves Juebao Qing's paired addition to the raised Yunmen case; no second family is claimed.",
-    "CreatedBy": "Codex Migration039 Lane B",
-    "WrittenUtc": "2026-07-29T00:00:00Z"
+    "Note": "The complete pair survives in one lamp-preserved Juebao Qing address and remains provisional.",
+    "CreatedBy": "Codex lamp repair cohort009 lane B",
+    "WrittenUtc": "2026-07-29T07:28:16.866716Z"
   },
   {
     "SourceTerm": "石女",
@@ -43170,17 +43166,15 @@
   },
   {
     "SourceTerm": "碁逢敵手難藏行，詩到重吟始見功",
-    "PreferredTarget": "when a chess player meets an equal his play is hard to hide, while repeated recitation reveals a poem’s craft",
-    "AlternateTargets": [
-      "an equal opponent exposes the chess play, repeated recitation reveals the poem’s skill"
-    ],
+    "PreferredTarget": "when a chess player meets an equal, moves are hard to conceal; only on repeated recitation does a poem reveal its craft",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "an equal opponent exposes the chess play, repeated recitation reveals the poem’s skill"
+      "when a chess player meets an equal, moves are hard to conceal; only on repeated recitation does a poem reveal its craft"
     ],
     "Status": "preferred",
-    "Note": "The complete couplet is retained from one lineage-anthology family because the bounded exact search found no stronger complete witness. Related chess-and-music lines are different expressions, not extra support.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-22T12:00:00Z"
+    "Note": "The complete couplet survives in one lamp compilation and remains provisional.",
+    "CreatedBy": "Codex lamp repair cohort009 lane B",
+    "WrittenUtc": "2026-07-29T07:28:16.866716Z"
   },
   {
     "SourceTerm": "碓嘴生花",
@@ -46442,15 +46436,18 @@
   },
   {
     "SourceTerm": "美食不中飽人喫",
-    "PreferredTarget": "fine food does not suit a person who is already full",
-    "AlternateTargets": [],
+    "PreferredTarget": "fine food does not suit someone already full",
+    "AlternateTargets": [
+      "delicacies are wasted on a satiated person"
+    ],
     "SearchAliases": [
-      "fine food does not suit a person who is already full"
+      "fine food does not suit someone already full",
+      "delicacies are wasted on a satiated person"
     ],
     "Status": "preferred",
-    "Note": "Two distinct Tier-3 deployments are retained: Jiufeng Qin closes a hall address with the proverb, and Dayang Jingxuan gives it as an interview reply. A parallel Jiufeng recension and a later hypothetical reuse are omitted.",
-    "CreatedBy": "Codex cohort-002 lane-A positions 134-145 full-case author",
-    "WrittenUtc": "2026-07-19T06:55:35.050952Z"
+    "Note": "The saying is applied in different cases; it does not by itself identify one fixed doctrinal target.",
+    "CreatedBy": "Codex lamp repair cohort009 lane B",
+    "WrittenUtc": "2026-07-29T07:28:16.866716Z"
   },
   {
     "SourceTerm": "美食不中飽人餐",
@@ -46944,17 +46941,18 @@
   },
   {
     "SourceTerm": "聽事不眞、喚鐘作甕",
-    "PreferredTarget": "hearing the matter wrongly and calling a bell a jar",
+    "PreferredTarget": "hearing the matter inaccurately and calling a bell a jar",
     "AlternateTargets": [
-      "mishearing the matter and mistaking a bell for a jar"
+      "mishearing the matter and calling the bell a crock"
     ],
     "SearchAliases": [
-      "mishearing the matter and mistaking a bell for a jar"
+      "hearing the matter inaccurately and calling a bell a jar",
+      "mishearing the matter and calling the bell a crock"
     ],
     "Status": "preferred",
-    "Note": "The complete pair is retained from Yongyuan’s direct reply; later uses of the second clause alone are not treated as this whole saying.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-22T06:00:00Z"
+    "Note": "The headword's 眞 and punctuation are orthographic/editorial variants; one direct Tier-2 use is sufficient without padding.",
+    "CreatedBy": "Codex lamp repair cohort009 lane B",
+    "WrittenUtc": "2026-07-29T07:28:16.866716Z"
   },
   {
     "SourceTerm": "聽吾偈",
@@ -49031,7 +49029,7 @@
       "Hua peak joins heaven"
     ],
     "Status": "preferred",
-    "Note": "A single lamp family preserves Shantang Dechun's verse. Parallel lamp recensions are omitted rather than counted as independent deployments; stronger-source exhaustion remains independently reviewable.",
+    "Note": "Seven Tier-3 recensions preserve Shantang Dechun's same verse; one complete witness represents the family.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T12:00:00Z"
   },
@@ -50523,10 +50521,10 @@
   },
   {
     "SourceTerm": "裴休",
-    "PreferredTarget": "Pei Xiu, the lay official and Chan interlocutor",
+    "PreferredTarget": "Pei Xiu",
     "AlternateTargets": [
-      "Pei Xiu",
-      "Minister Pei Xiu"
+      "Minister Pei Xiu",
+      "Surveillance Commissioner Pei Xiu"
     ],
     "SearchAliases": [
       "Pei Xiu",
@@ -50534,7 +50532,7 @@
       "裴相國"
     ],
     "Status": "preferred",
-    "Note": "A Tang official preserved in Chan records as a questioner of masters and as the named preface writer who frames a lineage collection against sectarian inheritance and textual combat.",
+    "Note": "Two Tier-2 records actively use Pei Xiu's name: Huangbo calls him in the inherited encounter, and Liang Sheng later invokes that call in a new exchange with Miyun Yuanwu. Lamp biographies are omitted.",
     "CreatedBy": "Codex f004 lane A rereview repair author",
     "WrittenUtc": "2026-07-15T15:15:00Z"
   },
@@ -51050,14 +51048,14 @@
   },
   {
     "SourceTerm": "覔火和烟得、擔泉帶月歸",
-    "PreferredTarget": "the paired errand of finding fire with smoke and carrying spring water home with the moon",
+    "PreferredTarget": "find fire together with smoke; carry spring water home with the moon",
     "AlternateTargets": [],
     "SearchAliases": [
       "fire with smoke and water with moonlight",
       "fetch fire and water couplet"
     ],
     "Status": "preferred",
-    "Note": "The complete couplet survives here in two different Tier-3 deployments. The bounded exact search found no Tier-1 or Tier-2 complete witness; the two lamps remain because they preserve distinct uses, not parallel recensions.",
+    "Note": "One Tier-2 recorded-sayings witness preserves the complete traditional-graph couplet; no lamp fallback is needed.",
     "CreatedBy": "canary028_source_hierarchy_repair",
     "WrittenUtc": "2026-07-29T00:00:00Z"
   },
