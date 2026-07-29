@@ -14225,6 +14225,18 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "呈漆器",
+    "PreferredTarget": "to present lacquerware",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to present lacquerware"
+    ],
+    "Status": "preferred",
+    "Note": "No broader installed identity is asserted; retain the exact three-graph answer. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "呈見解",
     "PreferredTarget": "to present one's understanding",
     "AlternateTargets": [
@@ -16920,6 +16932,18 @@
     "Note": "Three independent passages use the phrase for the party judged unable to sustain an answer or position.",
     "CreatedBy": "Codex post-current-investigation720 Lane A positions 33-59",
     "WrittenUtc": "2026-07-17T17:28:05.442634+00:00"
+  },
+  {
+    "SourceTerm": "墮阬落塹",
+    "PreferredTarget": "fall into pits and tumble into ditches",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "fall into pits and tumble into ditches"
+    ],
+    "Status": "preferred",
+    "Note": "Retain both terrain hazards; context identifies the behavior that causes the fall. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "壁立",
@@ -21902,6 +21926,18 @@
     ],
     "Status": "preferred",
     "Note": "布 is the act of spreading out and 掩 the covering function; bind the Dipamkara and flower-offering story rather than treating the phrase as ordinary grooming. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "帝道遐昌",
+    "PreferredTarget": "may the imperial way flourish far and wide",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "may the imperial way flourish far and wide"
+    ],
+    "Status": "preferred",
+    "Note": "Institutional-liturgical rather than a realization formula; retain that usage boundary explicitly. No lamp is retained.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
@@ -29344,6 +29380,18 @@
     "WrittenUtc": "2026-07-19T16:33:15.277193Z"
   },
   {
+    "SourceTerm": "收歸上科",
+    "PreferredTarget": "gather it into the highest category",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "gather it into the highest category"
+    ],
+    "Status": "preferred",
+    "Note": "上科 is the top evaluative class, not an examination subject; retain what is being gathered and classified from context. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "收虎尾兮捋虎鬚",
     "PreferredTarget": "gather in the tiger’s tail and stroke its whiskers",
     "AlternateTargets": [
@@ -34590,6 +34638,18 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "止濼困魚",
+    "PreferredTarget": "a stopped pool traps the fish",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a stopped pool traps the fish"
+    ],
+    "Status": "preferred",
+    "Note": "止濼 is a still or arrested pool and 困 the fish's confinement; retain the ice-bound environmental context where present. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "正中來",
     "PreferredTarget": "coming from within the absolute",
     "AlternateTargets": [
@@ -35760,6 +35820,18 @@
     "Note": "The line is a named answer in the Fenggan–Hanshan case, and later records keep its speaker layer distinct from their commentary.",
     "CreatedBy": "Codex Iriya remaining lane B positions 168-334 governed structured author",
     "WrittenUtc": "2026-07-19T14:20:47.421595Z"
+  },
+  {
+    "SourceTerm": "永劫受沉淪",
+    "PreferredTarget": "undergo sinking and wandering for endless aeons",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "undergo sinking and wandering for endless aeons"
+    ],
+    "Status": "preferred",
+    "Note": "Keep separate from generic 沉淪 and from the longer 石頭 sentence; the clause recurs independently in Longji-related verse. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "求火",
@@ -36952,6 +37024,18 @@
     "Note": "6 exact full-case witnesses from 6 independent works support this corpus-bounded sense.",
     "CreatedBy": "Codex f004 C1156-1165 fresh author",
     "WrittenUtc": "2026-07-15T14:54:06.495578+00:00"
+  },
+  {
+    "SourceTerm": "泥豬癩狗",
+    "PreferredTarget": "mud pigs and mangy dogs",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "mud pigs and mangy dogs"
+    ],
+    "Status": "preferred",
+    "Note": "Do not reduce it to either animal separately or universalize it as a doctrinal category. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "泯默",
@@ -41579,6 +41663,18 @@
     "WrittenUtc": "2026-07-15T15:15:00Z"
   },
   {
+    "SourceTerm": "瓦解冰消",
+    "PreferredTarget": "break apart like tiles and melt like ice",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "break apart like tiles and melt like ice"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the two different modes—breaking and melting—while context supplies what disappears. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "瓦解氷消",
     "PreferredTarget": "tiles break apart and ice melts away",
     "AlternateTargets": [],
@@ -42460,6 +42556,18 @@
     ],
     "Status": "preferred",
     "Note": "Bind 我寧不說法 as the recurrent first half; 疾 is swiftly or promptly, not illness, and the clause is quoted deliberation rather than a death notice. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "痛打一頓",
+    "PreferredTarget": "give him one severe beating",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "give him one severe beating"
+    ],
+    "Status": "preferred",
+    "Note": "頓 counts or bounds the bout; do not automatically turn every occurrence into metaphorical criticism when the narrative describes physical blows. No lamp is retained.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
