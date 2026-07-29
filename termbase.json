@@ -6155,15 +6155,17 @@
   },
   {
     "SourceTerm": "仰山問中邑",
-    "PreferredTarget": "Yangshan questions Zhongyi",
-    "AlternateTargets": [],
+    "PreferredTarget": "Yangshan asks Zhongyi",
+    "AlternateTargets": [
+      "Yangshan questions Zhongyi"
+    ],
     "SearchAliases": [
-      "Yangshan asks Zhongyi"
+      "Yangshan questions Zhongyi"
     ],
     "Status": "preferred",
-    "Note": "Bind 六窗 and the inner and outer monkeys to the case.",
-    "CreatedBy": "V7 batch72 admitted constructor C",
-    "WrittenUtc": "2026-07-29T16:52:00Z"
+    "Note": "Treat this as a case label. The six-window monkey is Zhongyi’s analogy; Yangshan’s sleeping-monkey question turns the encounter.",
+    "CreatedBy": "R08 clean source-first C",
+    "WrittenUtc": "2026-07-30T03:20:00Z"
   },
   {
     "SourceTerm": "仰山插鍬",
@@ -13869,15 +13871,17 @@
   },
   {
     "SourceTerm": "各自奔前程",
-    "PreferredTarget": "each hurries on along his own road",
-    "AlternateTargets": [],
+    "PreferredTarget": "each goes on along their own road",
+    "AlternateTargets": [
+      "each hurries on their own way"
+    ],
     "SearchAliases": [
-      "each goes his own way"
+      "each hurries on their own way"
     ],
     "Status": "preferred",
-    "Note": "Bind 相逢不下馬 as the first half.",
-    "CreatedBy": "V7 batch72 admitted constructor C",
-    "WrittenUtc": "2026-07-29T16:52:00Z"
+    "Note": "The road or course ahead is not necessarily a career. The fixed companion line is “meeting without dismounting.”",
+    "CreatedBy": "R08 clean source-first C",
+    "WrittenUtc": "2026-07-30T03:20:00Z"
   },
   {
     "SourceTerm": "各自守疆界",
@@ -27294,15 +27298,17 @@
   },
   {
     "SourceTerm": "把纜放船",
-    "PreferredTarget": "hold the cable while letting the boat go",
-    "AlternateTargets": [],
+    "PreferredTarget": "holding the mooring line while launching the boat",
+    "AlternateTargets": [
+      "letting the boat go while holding its cable"
+    ],
     "SearchAliases": [
-      "hold the cable and release the boat"
+      "letting the boat go while holding its cable"
     ],
     "Status": "preferred",
-    "Note": "Bind 抱橋柱澡洗 as the paired criticism.",
-    "CreatedBy": "V7 batch72 admitted constructor C",
-    "WrittenUtc": "2026-07-29T16:52:00Z"
+    "Note": "The first verb is “hold” and the second is “release.” The point lies in performing the opposed actions at once, not in ordinary seamanship.",
+    "CreatedBy": "R08 clean source-first C",
+    "WrittenUtc": "2026-07-30T03:20:00Z"
   },
   {
     "SourceTerm": "把關",
@@ -49794,15 +49800,17 @@
   },
   {
     "SourceTerm": "終成敗壞",
-    "PreferredTarget": "will ultimately fall into ruin",
-    "AlternateTargets": [],
+    "PreferredTarget": "will ultimately fall apart",
+    "AlternateTargets": [
+      "ultimately ends in decay"
+    ],
     "SearchAliases": [
-      "ultimately fall into ruin"
+      "ultimately ends in decay"
     ],
     "Status": "preferred",
-    "Note": "Keep the longer 有相修行多劫終成敗壞 distinct. No lamp is retained.",
-    "CreatedBy": "V7 batch72 admitted constructor C",
-    "WrittenUtc": "2026-07-29T16:52:00Z"
+    "Note": "The line does not condemn all activity. In the Magu case it diagnoses a display as wind-driven and therefore conditioned.",
+    "CreatedBy": "R08 clean source-first C",
+    "WrittenUtc": "2026-07-30T03:20:00Z"
   },
   {
     "SourceTerm": "結冬",
@@ -52825,14 +52833,16 @@
   {
     "SourceTerm": "苦哉佛陀",
     "PreferredTarget": "alas, Buddha!",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "what suffering, Buddha!"
+    ],
     "SearchAliases": [
-      "alas Buddha"
+      "what suffering, Buddha!"
     ],
     "Status": "preferred",
-    "Note": "Keep 苦哉佛陀耶 as a witnessed variant.",
-    "CreatedBy": "V7 batch72 admitted constructor C",
-    "WrittenUtc": "2026-07-29T16:52:00Z"
+    "Note": "The opening words exclaim distress or pity, and the final word directly addresses the Buddha. Preserve the abrupt vocative force.",
+    "CreatedBy": "R08 clean source-first C",
+    "WrittenUtc": "2026-07-30T03:20:00Z"
   },
   {
     "SourceTerm": "苦哉佛陀耶",
