@@ -56465,6 +56465,18 @@
     "WrittenUtc": "2026-07-19T15:56:54.617815Z"
   },
   {
+    "SourceTerm": "踊躍禮謝",
+    "PreferredTarget": "to leap for joy, bow, and give thanks",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to leap for joy, bow, and give thanks"
+    ],
+    "Status": "preferred",
+    "Note": "Provisional lamp-only sense; two independent deployments, no doctrinal padding. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "踏破澄潭月、穿開碧落天",
     "PreferredTarget": "tread through the moon in the clear pool and pierce open the blue sky",
     "AlternateTargets": [],
@@ -59549,6 +59561,18 @@
     "Note": "The fastening image concerns joining words that the case leaves unjoined.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-22T12:00:00Z"
+  },
+  {
+    "SourceTerm": "銀山銕壁",
+    "PreferredTarget": "a silver mountain and iron wall",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a silver mountain and iron wall"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the paired image; do not flatten it into generic difficulty. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "銀山鐵壁",
@@ -63448,6 +63472,18 @@
     "Note": "The target describes the attested lexical unit; surrounding cases determine the particular judgment made with it.",
     "CreatedBy": "Codex fresh construction Lane A",
     "WrittenUtc": "2026-07-17T00:00:00Z"
+  },
+  {
+    "SourceTerm": "顛拈倒弄",
+    "PreferredTarget": "to pick up and manipulate things upside down",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "to pick up and manipulate things upside down"
+    ],
+    "Status": "preferred",
+    "Note": "Do not reduce it to literal hand motion in contexts judging a teacher's methods. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "顛言倒語",
