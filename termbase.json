@@ -27333,6 +27333,19 @@
     "WrittenUtc": "2026-07-19T17:39:44.453401Z"
   },
   {
+    "SourceTerm": "推門落臼",
+    "PreferredTarget": "push open the door and drop into the mortar",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "push the door and drop into the mortar",
+      "arrival with an immediate drop"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the door-and-mortar collision visible. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "掩耳偷鈴",
     "PreferredTarget": "to cover one's ears while stealing a bell",
     "AlternateTargets": [
