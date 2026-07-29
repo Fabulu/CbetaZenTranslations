@@ -7072,6 +7072,22 @@
     "WrittenUtc": "2026-07-21T00:15:00Z"
   },
   {
+    "SourceTerm": "併却咽喉唇吻",
+    "PreferredTarget": "shut off throat and lips",
+    "AlternateTargets": [
+      "put aside throat and lips"
+    ],
+    "SearchAliases": [
+      "併却咽喉脣吻",
+      "併卻咽喉唇吻",
+      "without throat or lips"
+    ],
+    "Status": "preferred",
+    "Note": "The lower-support 脣 and 卻 graphic forms are aliases and evidence variants of this one article.",
+    "CreatedBy": "Codex Batch35 variant-controlled construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "來參",
     "PreferredTarget": "came to consult",
     "AlternateTargets": [],
@@ -14958,6 +14974,21 @@
     "WrittenUtc": "2026-07-19T19:22:40.614940Z"
   },
   {
+    "SourceTerm": "囉囉哩",
+    "PreferredTarget": "luo-luo-li!",
+    "AlternateTargets": [
+      "lo-lo-li!"
+    ],
+    "SearchAliases": [
+      "song refrain",
+      "capping cry"
+    ],
+    "Status": "preferred",
+    "Note": "A Tier-2 active quotation controls; no derivation or lamp evidence is asserted.",
+    "CreatedBy": "Codex Batch35 lane-A construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "四七二三",
     "PreferredTarget": "the twenty-eight Indian and six Chinese patriarchs",
     "AlternateTargets": [],
@@ -21779,6 +21810,21 @@
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
   },
   {
+    "SourceTerm": "廢寢忘餐",
+    "PreferredTarget": "neglect sleep and forget meals",
+    "AlternateTargets": [
+      "go without sleep and forget to eat"
+    ],
+    "SearchAliases": [
+      "neglect sleep forget meals",
+      "urgent absorption"
+    ],
+    "Status": "preferred",
+    "Note": "One exact Tier-2 deployment family controls this provisional entry. Lamps and duplicate containers are excluded.",
+    "CreatedBy": "Codex Batch35 lane-B Tier2 construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "廣長舌相",
     "PreferredTarget": "the broad, long tongue-mark",
     "AlternateTargets": [
@@ -26227,6 +26273,23 @@
     "Note": "The stored speakers include named commentators, identified but unlinked speakers, and unnamed questioners. A named target may answer the verdict in the following turn.",
     "CreatedBy": "Codex Iriya lane C131-140 full-case author",
     "WrittenUtc": "2026-07-23T18:00:00Z"
+  },
+  {
+    "SourceTerm": "捋虎鬚",
+    "PreferredTarget": "stroke the tiger's whiskers",
+    "AlternateTargets": [
+      "provoke a formidable person",
+      "court danger"
+    ],
+    "SearchAliases": [
+      "逆捋虎鬚",
+      "tiger whiskers",
+      "provoke danger"
+    ],
+    "Status": "preferred",
+    "Note": "One controlling Tier-2 complete exchange; later case copies and lamps are excluded.",
+    "CreatedBy": "Codex Batch35 lane-A construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "捏目生花",
@@ -31545,6 +31608,21 @@
     "WrittenUtc": "2026-07-21T00:00:00Z"
   },
   {
+    "SourceTerm": "杳杳冥冥",
+    "PreferredTarget": "profoundly dim and obscure",
+    "AlternateTargets": [
+      "deeply indistinct"
+    ],
+    "SearchAliases": [
+      "dim and obscure",
+      "deeply indistinct"
+    ],
+    "Status": "preferred",
+    "Note": "Two independent Tier-2 deployments control; no lamp is retained.",
+    "CreatedBy": "Codex Batch35 lane-C construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "松直棘曲",
     "PreferredTarget": "pines are straight, thorns are crooked",
     "AlternateTargets": [],
@@ -32348,6 +32426,21 @@
     "Note": "The phrase conveys breadth, confusion, and loss of bearings; several speakers immediately add that there is no basis on which to rely.",
     "CreatedBy": "Codex Iriya construction lane C evidence-first",
     "WrittenUtc": "2026-07-18T07:28:22.005720Z"
+  },
+  {
+    "SourceTerm": "槨示雙趺",
+    "PreferredTarget": "showing both feet from the coffin",
+    "AlternateTargets": [
+      "the coffin displayed both feet"
+    ],
+    "SearchAliases": [
+      "金槨示雙趺",
+      "both feet from the coffin"
+    ],
+    "Status": "preferred",
+    "Note": "One Tier-2 direct question controls; service and lamp repetitions remain one allusion family.",
+    "CreatedBy": "Codex Batch35 lane-A construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "模子",
@@ -35751,6 +35844,21 @@
     "Note": "Six works cover Dongshan's verse, Five-Ranks analysis, reciprocal-position warning, and oxherding use.",
     "CreatedBy": "Codex construction Lane C positions31-40 explicit full-case author",
     "WrittenUtc": "2026-07-17T12:25:34.525823+00:00"
+  },
+  {
+    "SourceTerm": "渴飲饑餐",
+    "PreferredTarget": "drink when thirsty and eat when hungry",
+    "AlternateTargets": [
+      "when thirsty, drink; when hungry, eat"
+    ],
+    "SearchAliases": [
+      "drink when thirsty eat when hungry",
+      "ordinary responsive activity"
+    ],
+    "Status": "preferred",
+    "Note": "One exact Tier-2 deployment family controls this provisional entry. Lamps and duplicate containers are excluded.",
+    "CreatedBy": "Codex Batch35 lane-B Tier2 construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "渾崙擘不破",
@@ -42225,6 +42333,21 @@
     "WrittenUtc": "2026-07-19T03:23:22.023942+00:00"
   },
   {
+    "SourceTerm": "硬糾糾",
+    "PreferredTarget": "stiffly hard and unyielding",
+    "AlternateTargets": [
+      "firmly compact"
+    ],
+    "SearchAliases": [
+      "stiffly hard",
+      "unyielding"
+    ],
+    "Status": "preferred",
+    "Note": "One controlling Tier-1 master-authored witness; no lamp evidence.",
+    "CreatedBy": "Codex Batch35 lane-A construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "碁逢敵手難藏行，詩到重吟始見功",
     "PreferredTarget": "when a chess player meets an equal his play is hard to hide, while repeated recitation reveals a poem’s craft",
     "AlternateTargets": [
@@ -46312,6 +46435,21 @@
     "WrittenUtc": "2026-07-19T16:19:58.350202Z"
   },
   {
+    "SourceTerm": "腋下剜襟",
+    "PreferredTarget": "cutting a lapel from beneath the armpit",
+    "AlternateTargets": [
+      "an ill-fitted tailoring job"
+    ],
+    "SearchAliases": [
+      "cut lapel under the armpit",
+      "ill-fitted handling"
+    ],
+    "Status": "preferred",
+    "Note": "One controlling Tier-2 direct deployment; no lamp evidence.",
+    "CreatedBy": "Codex Batch35 lane-A construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "腦後一槌",
     "PreferredTarget": "a hammer-blow behind the head",
     "AlternateTargets": [],
@@ -46466,6 +46604,21 @@
     "Note": "The literal location does not authorize an abstract substitute.",
     "CreatedBy": "Codex investigation-next300 Lane A",
     "WrittenUtc": "2026-07-17T16:00:00Z"
+  },
+  {
+    "SourceTerm": "膠柱調絃",
+    "PreferredTarget": "glue the tuning pegs and tune the strings",
+    "AlternateTargets": [
+      "tune strings with the pegs glued fast"
+    ],
+    "SearchAliases": [
+      "rigid interpretation",
+      "fixed tuning pegs"
+    ],
+    "Status": "preferred",
+    "Note": "Two independent Tier-2 critical deployments control; no lamps are retained.",
+    "CreatedBy": "Codex Batch35 lane-C construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "膩脂帽子",
@@ -51941,6 +52094,21 @@
     "WrittenUtc": "2026-07-22T23:19:18.236362+00:00"
   },
   {
+    "SourceTerm": "貼肉汗衫",
+    "PreferredTarget": "an undershirt clinging to the skin",
+    "AlternateTargets": [
+      "a skin-clinging undershirt"
+    ],
+    "SearchAliases": [
+      "close-fitting undershirt",
+      "clinging to the skin"
+    ],
+    "Status": "preferred",
+    "Note": "One controlling Tier-1 master-authored case family is retained; the lamp commentary copy is excluded.",
+    "CreatedBy": "Codex Batch35 lane-C construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "賊不打貧兒家",
     "PreferredTarget": "a thief does not strike a poor household",
     "AlternateTargets": [
@@ -55579,6 +55747,21 @@
     "Note": "Adjectival and substantivized uses refer to the same kind of formidable person and do not require separate senses.",
     "CreatedBy": "Codex f002 Lane C author",
     "WrittenUtc": "2026-07-15T01:46:58.710289+00:00"
+  },
+  {
+    "SourceTerm": "銜鐵負鞍",
+    "PreferredTarget": "bear the bit and carry the saddle",
+    "AlternateTargets": [
+      "hold the bit and bear the saddle"
+    ],
+    "SearchAliases": [
+      "bear bit and saddle",
+      "horse servitude burden"
+    ],
+    "Status": "preferred",
+    "Note": "One exact Tier-2 deployment family controls this provisional entry. Lamps and duplicate containers are excluded.",
+    "CreatedBy": "Codex Batch35 lane-B Tier2 construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "鋒鋩",
@@ -61111,6 +61294,21 @@
     "Note": "Xuedou’s answer and Baoning’s two hall formulations preserve the same trace image, with muddy water as its explicit paired expression.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T15:57:04.466696Z"
+  },
+  {
+    "SourceTerm": "鳶飛魚躍",
+    "PreferredTarget": "kites fly and fish leap",
+    "AlternateTargets": [
+      "kites flying, fish leaping"
+    ],
+    "SearchAliases": [
+      "free lively activity",
+      "birds fly and fish leap"
+    ],
+    "Status": "preferred",
+    "Note": "One direct Tier-2 deployment controls; the lamp verse is excluded.",
+    "CreatedBy": "Codex Batch35 lane-C construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "鴆羽落水魚鼈死",
