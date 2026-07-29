@@ -5306,16 +5306,14 @@
   {
     "SourceTerm": "五戒",
     "PreferredTarget": "five precepts",
-    "AlternateTargets": [
-      "five rules"
-    ],
+    "AlternateTargets": [],
     "SearchAliases": [
-      "five commandments"
+      "five prohibitions"
     ],
     "Status": "preferred",
-    "Note": "The five precepts are an enumerated set of prohibitions; the records define the set, call it a root, and test who receives and keeps it.",
-    "CreatedBy": "Codex precept next-wave author",
-    "WrittenUtc": "2026-07-21T16:40:00Z"
+    "Note": "Yuanwu Keqin places keeping the five precepts after recognizing mind; Weilin Daopei calls them the root of four discipline sets; Wuyi Yuanlai identifies them as a lay entrant's rule.",
+    "CreatedBy": "R27 bounded clean constructor",
+    "WrittenUtc": "2026-07-30T13:00:00Z"
   },
   {
     "SourceTerm": "五戒不持",
@@ -12069,18 +12067,15 @@
   },
   {
     "SourceTerm": "十字街頭石幢子",
-    "PreferredTarget": "the stone banner-pillar at the crossroads",
-    "AlternateTargets": [
-      "a stone banner pillar at the crossroads"
-    ],
+    "PreferredTarget": "stone banner-post at the crossroads",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "crossroads stone banner",
-      "stone dharani pillar at the crossroads"
+      "crossroads stone post"
     ],
     "Status": "preferred",
-    "Note": "The many retellings belong to one Dayu exchange and do not create independent validation.",
-    "CreatedBy": "Codex Batch27 source-tier construction",
-    "WrittenUtc": "2026-07-29T00:00:00Z"
+    "Note": "The retained sources use the literal crossroads object in four frames: an answer about the true command, no place for shelter, Chang'an's host, and value increased tenfold.",
+    "CreatedBy": "R27 bounded clean constructor",
+    "WrittenUtc": "2026-07-30T13:00:00Z"
   },
   {
     "SourceTerm": "十字街頭石敢當",
@@ -19994,16 +19989,15 @@
   },
   {
     "SourceTerm": "嫌佛不肯做",
-    "PreferredTarget": "disdain becoming a Buddha and refuse to do it",
+    "PreferredTarget": "disdain becoming a buddha",
     "AlternateTargets": [],
     "SearchAliases": [
-      "refuse to become a Buddha",
-      "disdain Buddhahood"
+      "refuse even to become a buddha"
     ],
     "Status": "preferred",
-    "Note": "Do not generalize the line into rejection of every use of Buddha. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "Xuzhou Pudu uses the phrase to praise a deceased person; Xisou Shaotan applies it to carefree conduct and immediately says that formulation is unfit for conversation.",
+    "CreatedBy": "R27 bounded clean constructor",
+    "WrittenUtc": "2026-07-30T13:00:00Z"
   },
   {
     "SourceTerm": "嬰兒垂髮白如絲",
