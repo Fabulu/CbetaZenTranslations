@@ -21927,6 +21927,19 @@
     "WrittenUtc": "2026-07-18T18:19:10Z"
   },
   {
+    "SourceTerm": "幽州江口石人蹲",
+    "PreferredTarget": "at the mouth of the river in Youzhou, a stone man crouches",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Youzhou river mouth stone man crouches",
+      "stone man at Youzhou"
+    ],
+    "Status": "preferred",
+    "Note": "Do not assign symbolic meanings to Youzhou, the river mouth, or the stone man. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "幽州猶自可，最苦是江南",
     "PreferredTarget": "Youzhou is still bearable, but Jiangnan is the bitterest",
     "AlternateTargets": [
@@ -26840,6 +26853,19 @@
     "Note": "Abandon the heavy and follow the light states a choice of the lighter over the heavier.",
     "CreatedBy": "Codex cohort-002 lane-B B131-B140 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
+  },
+  {
+    "SourceTerm": "捫空追響",
+    "PreferredTarget": "feel after empty space and chase echoes",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "grope empty space chase echoes",
+      "feel space pursue echoes"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve both coordinated actions without turning their objects into doctrinal symbols. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "捺著便轉",
@@ -38568,6 +38594,19 @@
     "WrittenUtc": "2026-07-19T19:34:56.125303Z"
   },
   {
+    "SourceTerm": "熱時熱殺闍黎",
+    "PreferredTarget": "when it is hot, the heat kills you",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "heat kills you",
+      "when hot killed by heat"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the cold counterpart and complete case family; this is not an instruction in concentration practice. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "熱盌鳴聲",
     "PreferredTarget": "a hot bowl gives off a ringing sound",
     "AlternateTargets": [],
@@ -39599,6 +39638,19 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "猢猻上樹尾連顛",
+    "PreferredTarget": "a macaque climbs a tree, its tail tumbling after",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "macaque climbs a tree tail tumbling",
+      "monkey up the tree"
+    ],
+    "Status": "preferred",
+    "Note": "Active raisings remain one inherited Shoushan answer; lamp copies do not add families. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "猢猻入布袋",
     "PreferredTarget": "a macaque gets into a cloth sack",
     "AlternateTargets": [
@@ -40217,6 +40269,19 @@
     ],
     "Status": "preferred",
     "Note": "The phrase is independently deployable, but its coptis and full-pair relatives must not become duplicate articles without separate review. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "甘露乃蒺䔧之園",
+    "PreferredTarget": "sweet dew becomes a garden of thorns",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "sweet dew becomes a thorn garden",
+      "nectar becomes thorns"
+    ],
+    "Status": "preferred",
+    "Note": "Bind the gain/loss maxim and preserve the attested thorn-garden wording; do not detach the image from its contrast. No lamp is retained.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
@@ -45319,6 +45384,19 @@
     "Note": "The queue display form uses a list comma, while the retained corpus witnesses use the ordinary comma in the immutable search form. This governed punctuation difference does not create another lexical unit.",
     "CreatedBy": "Codex Iriya lane C61-160 exact-turn author",
     "WrittenUtc": "2026-07-18T13:42:00+02:00"
+  },
+  {
+    "SourceTerm": "竿頭絲線從君弄",
+    "PreferredTarget": "the line at the rod-tip is yours to handle",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "line at rod tip yours to handle",
+      "handle the fishing line"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 不犯清波意自殊 as its second half and deduplicate passive recensions. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "竿頭絲線從君弄，不犯清波意自殊",
@@ -58269,6 +58347,19 @@
     "Note": "The entry retains the recorded physical gesture and its local appraisal.",
     "CreatedBy": "Codex investigation-next300 Lane A",
     "WrittenUtc": "2026-07-17T16:00:00Z"
+  },
+  {
+    "SourceTerm": "閉門打睡",
+    "PreferredTarget": "shut the door and sleep",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "shut the door and sleep",
+      "close up and sleep"
+    ],
+    "Status": "preferred",
+    "Note": "Distinguish the recurrent closed-door action from incidental sleeping narration. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "閉門造車、出門合轍",
