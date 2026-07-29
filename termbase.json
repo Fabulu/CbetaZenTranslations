@@ -11160,6 +11160,18 @@
     "WrittenUtc": "2026-07-13T08:00:00Z"
   },
   {
+    "SourceTerm": "剎那滅却三祇劫",
+    "PreferredTarget": "in an instant, extinguish three incalculable eons",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "in an instant extinguish three eons"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 彈指圓成八萬門 as the paired first line; 三祇劫 is the constituent duration, not a synonym.",
+    "CreatedBy": "V7 batch70 admitted constructor B",
+    "WrittenUtc": "2026-07-29T16:30:00Z"
+  },
+  {
     "SourceTerm": "剔起眉毛",
     "PreferredTarget": "raise your eyebrows and look closely",
     "AlternateTargets": [],
@@ -46480,6 +46492,18 @@
     "WrittenUtc": "2026-07-15T15:59:21.415513+00:00"
   },
   {
+    "SourceTerm": "碓搗磨磨",
+    "PreferredTarget": "pounded in the mortar and ground in the mill",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "pounded and ground"
+    ],
+    "Status": "preferred",
+    "Note": "Keep 碓搗磨磨 as the paired unit; 碓搗 and 磨磨 are only constituents.",
+    "CreatedBy": "V7 batch70 admitted constructor B",
+    "WrittenUtc": "2026-07-29T16:30:00Z"
+  },
+  {
     "SourceTerm": "碓觜生花",
     "PreferredTarget": "flowers bloom on the pestle’s beak",
     "AlternateTargets": [],
@@ -67601,6 +67625,18 @@
     "Note": "Do not reduce it to 布毛 or treat every act of blowing lint as this case. Lamp or compilation evidence is retained only within this explicit provisional boundary.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "鳥窠吹起布毛",
+    "PreferredTarget": "Bird's Nest blows up the cloth fibers",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Birds Nest blows the cloth fibers"
+    ],
+    "Status": "preferred",
+    "Note": "鳥窠拈起布毛吹 is fuller event wording; 布毛 and 吹布毛 alone are not equivalent case names.",
+    "CreatedBy": "V7 batch70 admitted constructor B",
+    "WrittenUtc": "2026-07-29T16:30:00Z"
   },
   {
     "SourceTerm": "鳥道",
