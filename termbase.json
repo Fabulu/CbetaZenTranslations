@@ -51581,46 +51581,46 @@
     "SourceTerm": "言下有省",
     "PreferredTarget": "gain insight at the words",
     "AlternateTargets": [
-      "awaken upon hearing the words"
+      "have an insight upon hearing the words"
     ],
     "SearchAliases": [
-      "insight at the words",
-      "awaken on hearing",
-      "understand at his words",
-      "hearing breakthrough"
+      "gain insight at the words",
+      "have an insight upon hearing the words"
     ],
     "Status": "preferred",
-    "Note": "Two distinct biographical deployments preserve the same narrated event formula. Additional lamp witnesses were omitted because more compiler retellings do not strengthen the lexical sense; the retained lamp is useful fallback evidence, not governing authority.",
-    "CreatedBy": "Codex f003 Lane C evidence-first",
-    "WrittenUtc": "2026-07-15T04:30:57.027055+00:00"
+    "Note": "This is narrator-owned event language: Zhang Zhuo is the person described, not the utterer of the formula.",
+    "CreatedBy": "Codex lamp repair cohort010 lane A",
+    "WrittenUtc": "2026-07-29T07:36:24.289468Z"
   },
   {
     "SourceTerm": "言下頓悟",
-    "PreferredTarget": "suddenly understood at the words",
-    "AlternateTargets": [],
+    "PreferredTarget": "suddenly awaken at the words",
+    "AlternateTargets": [
+      "suddenly understand upon hearing the words"
+    ],
     "SearchAliases": [
-      "suddenly awakened at the words",
-      "understood on hearing the words",
-      "immediate recognition at a saying"
+      "suddenly awaken at the words",
+      "suddenly understand upon hearing the words"
     ],
     "Status": "preferred",
-    "Note": "Two distinct lamp biographies preserve the formula in different encounters. They are retained provisionally as separate deployments, not as parallel-recension padding; no stronger witness was established inside this frozen adjudication.",
-    "CreatedBy": "Codex Lane B explicit canary",
-    "WrittenUtc": "2026-07-17T10:58:39.870332+00:00"
+    "Note": "The phrase occurs inside Gulin Qingmao's authored verse and reports Damei's awakening at Mazu's words.",
+    "CreatedBy": "Codex lamp repair cohort010 lane A",
+    "WrittenUtc": "2026-07-29T07:36:24.289468Z"
   },
   {
     "SourceTerm": "言不關典",
-    "PreferredTarget": "words not grounded in canonical texts",
+    "PreferredTarget": "words not grounded in scripture",
     "AlternateTargets": [
-      "speech unrelated to canonical texts"
+      "speech unrelated to the canon"
     ],
     "SearchAliases": [
-      "speech unrelated to canonical texts"
+      "words not grounded in scripture",
+      "speech unrelated to the canon"
     ],
     "Status": "preferred",
-    "Note": "One Tier-3 Zutang Ji exchange preserves two opposed turns: Haoyue objects that Cen's words lack canonical grounding, and Cen repeats the formula before answering with a citation. The turns are not independent families.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-22T12:00:00Z"
+    "Note": "The phrase is asserted twice in one Dongshan exchange; one direct Dongshan occurrence represents the single lamp family.",
+    "CreatedBy": "Codex lamp repair cohort010 lane A",
+    "WrittenUtc": "2026-07-29T07:36:24.289468Z"
   },
   {
     "SourceTerm": "言中有響",
@@ -51641,15 +51641,13 @@
       "pick out the mark in speech and hide the turn inside a sentence"
     ],
     "SearchAliases": [
-      "target in words pivot in phrase",
-      "discern the mark in speech",
-      "conceal the pivot in a sentence",
-      "verbal skill is still drifting"
+      "discern the target in words and conceal the pivot in a phrase",
+      "pick out the mark in speech and hide the turn inside a sentence"
     ],
     "Status": "preferred",
-    "Note": "The complete paired wording has one exact occurrence in one work; the entry therefore preserves a single, explicitly bounded use.",
-    "CreatedBy": "Codex priority Iriya evidence-first author",
-    "WrittenUtc": "2026-07-21T15:56:09.476797+00:00"
+    "Note": "Bailushan Shenyu grants this verbal accomplishment only hypothetically, then says it remains drifting.",
+    "CreatedBy": "Codex lamp repair cohort010 lane A",
+    "WrittenUtc": "2026-07-29T07:36:24.289468Z"
   },
   {
     "SourceTerm": "言前",
@@ -52130,7 +52128,7 @@
       "if one's words do not startle the assembly, one sinks into convention"
     ],
     "Status": "preferred",
-    "Note": "One Tier-3 lamp witness represents Guting Shanjian's address. Two later lamp recensions repeat the same deployment and are omitted rather than counted as independent evidence.",
+    "Note": "Three Tier-3 recensions preserve one inherited warning quoted under 古人道; one complete witness represents the family, and the original speaker remains unnamed.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T19:51:47.545470Z"
   },
@@ -52233,7 +52231,7 @@
       "contrary speech, smooth words"
     ],
     "Status": "preferred",
-    "Note": "The earliest retained lamp witness preserves the one Luopu–Jingqing exchange. Later parallel lamp recensions are omitted rather than counted as independent deployments; no stronger independent family is claimed.",
+    "Note": "Five Tier-3 recensions preserve one Luopu Yuanan exchange; the earliest complete Jingde witness represents the family.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T18:37:00.236234Z"
   },
@@ -52366,7 +52364,7 @@
       "leaves mistaken for gold"
     ],
     "Status": "preferred",
-    "Note": "One Tier-3 lineage compilation explicitly attributes the complete verse to Xuedou Chongxian. Parallel copies of that verse are not counted as independent deployments; no stronger independent family is claimed.",
+    "Note": "The Blue Cliff Record preserves the exact traditional-graph line in Xuedou Chongxian's verse, with Yuanwu Keqin's following commentary; lamp recensions are omitted.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T00:20:00Z"
   },
@@ -53154,7 +53152,7 @@
       "Buddha’s money and Buddha’s incense"
     ],
     "Status": "preferred",
-    "Note": "One lamp family preserves Jiufeng's answer; three parallel lamp recensions are omitted rather than counted as independent depth. The phrase is the second half of the larger money-and-incense saying, not an ordinary purchasing instruction.",
+    "Note": "Four Tier-3 recensions preserve one Jiufeng Daoqian exchange; the earliest complete Jingde witness represents the family.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T22:24:33.389939Z"
   },
@@ -56385,7 +56383,7 @@
       "iron Kunlun beneath the diamond guardian"
     ],
     "Status": "preferred",
-    "Note": "One representative preserves Changlu Daohe's answer and a second lamp preserves Dawei Fabao's distinct hall-address use. Three parallel recensions of Changlu's exchange are omitted rather than counted as independent depth.",
+    "Note": "Thirteen exact hits in eight Tier-3 works preserve two deployments; the earlier complete Changlu Daohe exchange is retained as the single best lamp fallback.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T18:45:00Z"
   },
@@ -56426,7 +56424,7 @@
       "the Golden Ground waves from afar; Jiangling secretly nods"
     ],
     "Status": "preferred",
-    "Note": "The source’s Five Eyes sequence preserves this answer but does not name its speaker in the recoverable attribution ladder.",
+    "Note": "The sole exact witness is the impersonal wisdom-eye answer formula in the Tier-3 Eyes of Humans and Devas.",
     "CreatedBy": "Codex regular-vetted Iriya release005 lane C",
     "WrittenUtc": "2026-07-22T00:00:00Z"
   },
@@ -56438,7 +56436,7 @@
       "gold dust clouds the eye; the jewel in the robe is dust upon the teaching"
     ],
     "Status": "preferred",
-    "Note": "One Tier-3 lamp family preserves Longquan Kui's direct hall-address use. Parallel retellings and anonymous quotations of the inherited four-line saying are omitted rather than used as independent depth.",
+    "Note": "A Tier-2 recorded-sayings witness actively raises the inherited four-line saying; its earlier speaker is not named, so validation remains provisional and lamps are omitted.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T08:00:00Z"
   },
@@ -56765,7 +56763,7 @@
       "acrobatics on a needle tip"
     ],
     "Status": "preferred",
-    "Note": "Two distinct Tier-3 deployments are retained: Jingde Weifang gives the image as his house style, while a later compilation quotes it as an old capping saying. No stronger witness is claimed.",
+    "Note": "Two independent Tier-2 recorded-sayings deployments preserve the normalized 翻 form; the headword's 飜 is an orthographic variant and lamp rows are omitted.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T12:00:00Z"
   },
