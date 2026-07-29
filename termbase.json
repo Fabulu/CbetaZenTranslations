@@ -4636,6 +4636,18 @@
     "WrittenUtc": "2026-07-18T04:51:16.711494+00:00"
   },
   {
+    "SourceTerm": "丫角女子白頭絲",
+    "PreferredTarget": "a young girl with forked hair-knots, her hair white as silk",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a young girl with forked hair-knots, her hair white as silk"
+    ],
+    "Status": "preferred",
+    "Note": "丫角 indicates a girl's forked or horn-like hair arrangement, not literal horns. Preserve the whole young-and-old image rather than resolving its contradiction. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "中道",
     "PreferredTarget": "the Middle Way",
     "AlternateTargets": [
@@ -14053,6 +14065,18 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "吹大法螺",
+    "PreferredTarget": "blow the great Dharma conch",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "blow the great Dharma conch"
+    ],
+    "Status": "preferred",
+    "Note": "法螺 is the Buddhist conch of proclamation rather than an ordinary shell; context determines whether the sounding is endorsed or mocked. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "吹毛劍",
     "PreferredTarget": "a sword that cuts a blown hair",
     "AlternateTargets": [
@@ -21737,6 +21761,18 @@
     "WrittenUtc": "2026-07-22T00:15:00Z"
   },
   {
+    "SourceTerm": "布髮掩泥",
+    "PreferredTarget": "spread his hair to cover the mud",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "spread his hair to cover the mud"
+    ],
+    "Status": "preferred",
+    "Note": "布 is the act of spreading out and 掩 the covering function; bind the Dipamkara and flower-offering story rather than treating the phrase as ordinary grooming. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "帝釋",
     "PreferredTarget": "Indra",
     "AlternateTargets": [
@@ -24438,6 +24474,18 @@
     "Note": "Two independent exact Tier-2 deployment families support this sense. Lamps are excluded.",
     "CreatedBy": "Codex Batch34 lane-A source-tier construction",
     "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
+    "SourceTerm": "恐上紙筆",
+    "PreferredTarget": "I could speak, but I fear it would go onto paper",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "I could speak, but I fear it would go onto paper"
+    ],
+    "Status": "preferred",
+    "Note": "恐 governs 上紙筆: the concern is that the saying will be committed to writing, not inability to speak. Keep 道即不辭 and Liangshan's response in view. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "恩大難酬",
@@ -27408,6 +27456,18 @@
     ],
     "Status": "preferred",
     "Note": "Keep the earth-axis image and its paired heaven-gate wording. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "掀翻海嶽",
+    "PreferredTarget": "overturn seas and mountains",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "overturn seas and mountains"
+    ],
+    "Status": "preferred",
+    "Note": "海嶽 joins seas and great mountains as a totalizing object; preserve the hyperbolic physical force without automatically turning it into a doctrinal claim. No lamp is retained.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
@@ -33455,6 +33515,18 @@
     "Note": "The sources display differentiated flowers and an unknowing spring wind; they do not state that any flower or color is a fixed code for enlightenment.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T18:45:00Z"
+  },
+  {
+    "SourceTerm": "桃紅柳綠",
+    "PreferredTarget": "peach blossoms red, willows green",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "peach blossoms red, willows green"
+    ],
+    "Status": "preferred",
+    "Note": "桃 supplies blossom by conventional compression; keep the parallel colors concrete unless the local passage explicitly develops another contrast. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "桑樹上著箭",
@@ -41969,6 +42041,18 @@
     "WrittenUtc": "2026-07-21T22:20:00Z"
   },
   {
+    "SourceTerm": "疾入於涅槃",
+    "PreferredTarget": "quickly enter nirvana",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "quickly enter nirvana"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 我寧不說法 as the recurrent first half; 疾 is swiftly or promptly, not illness, and the clause is quoted deliberation rather than a death notice. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "癡人面前、不得説夢",
     "PreferredTarget": "do not tell dreams in front of a fool",
     "AlternateTargets": [
@@ -44519,6 +44603,30 @@
     "Note": "Fu'an, Xiatang, Baichi, Baiyun, and Miyin retain the impossible image of flowers blooming from a pestle's beak.",
     "CreatedBy": "Codex cohort002 lane C C71-100 full-case packet author",
     "WrittenUtc": "2026-07-19T02:00:29.359573+00:00"
+  },
+  {
+    "SourceTerm": "碟子成七片",
+    "PreferredTarget": "the saucer breaks into seven pieces",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the saucer breaks into seven pieces"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 盞子撲落地 as the recurrent first half; 七片 is the fixed comic count and should not be normalized to an unspecific 'shattered.' No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "碧潭光皎潔",
+    "PreferredTarget": "a blue-green pool, its light pure and bright",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a blue-green pool, its light pure and bright"
+    ],
+    "Status": "preferred",
+    "Note": "Keep 碧潭 as the pool and 光皎潔 as its luminous clarity; govern 吾心似秋月 and 無物堪比倫 as the recurrent surrounding verse. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "碧潭清皎潔",
@@ -55309,6 +55417,18 @@
     "WrittenUtc": "2026-07-27T22:15:00Z"
   },
   {
+    "SourceTerm": "超宗越格",
+    "PreferredTarget": "surpass the lineage and overstep the standard",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "surpass the lineage and overstep the standard"
+    ],
+    "Status": "preferred",
+    "Note": "宗 can name lineage or school principle and 格 a standard or frame. Do not inflate the phrase into a general rejection of Zen lineage. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "趕人不得趕上",
     "PreferredTarget": "when chasing someone, do not catch up",
     "AlternateTargets": [
@@ -57675,6 +57795,18 @@
     "Note": "Keep the prized food and flavor comparison; do not turn ghee into a universal substance or doctrinal rank.",
     "CreatedBy": "Codex Batch42 construction B",
     "WrittenUtc": "2026-07-29T06:25:12.127558Z"
+  },
+  {
+    "SourceTerm": "醍醐毒藥",
+    "PreferredTarget": "ghee and poison",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "ghee and poison"
+    ],
+    "Status": "preferred",
+    "Note": "Do not silently make 醍醐 medicinal: it is refined ghee and the favorable pole of the contrast, while context determines whether the pair is divided, reversed, or sent out together. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "醯雞",
