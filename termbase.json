@@ -4664,6 +4664,18 @@
     "WrittenUtc": "2026-07-20T01:02:13.625012+00:00"
   },
   {
+    "SourceTerm": "丹霄獨步",
+    "PreferredTarget": "stride alone through the crimson sky",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "stride alone through the crimson sky"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the cohesive four-graph image; do not collapse it into generic 獨步 or 丹霄. One higher-tier deployment controls this provisional entry; no lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "丹霞燒佛",
     "PreferredTarget": "Danxia burns the wooden buddha",
     "AlternateTargets": [
@@ -16785,6 +16797,18 @@
     "WrittenUtc": "2026-07-20T12:00:00Z"
   },
   {
+    "SourceTerm": "城東老母",
+    "PreferredTarget": "the old woman east of the city",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the old woman east of the city"
+    ],
+    "Status": "preferred",
+    "Note": "Bind the avoidance-and-appearance story; do not treat it as generic geography. One higher-tier deployment controls this provisional entry; no lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "堂堂",
     "PreferredTarget": "stately and imposing",
     "AlternateTargets": [
@@ -21115,6 +21139,18 @@
     "WrittenUtc": "2026-07-16T12:23:20.487102+00:00"
   },
   {
+    "SourceTerm": "寸刃不施",
+    "PreferredTarget": "without wielding even an inch of blade",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "without wielding even an inch of blade"
+    ],
+    "Status": "preferred",
+    "Note": "Treat 不施寸刃 as a word-order variant, while the Tier-2 selected form controls. One higher-tier deployment controls this provisional entry; no lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "寸絲不挂",
     "PreferredTarget": "not a single thread hanging",
     "AlternateTargets": [
@@ -22853,6 +22889,18 @@
     "WrittenUtc": "2026-07-19T08:00:00Z"
   },
   {
+    "SourceTerm": "床脚下種菜",
+    "PreferredTarget": "plant vegetables beneath the bed legs",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "plant vegetables beneath the bed legs"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 鐘樓上念讚 as the companion half, not a synonym. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "床腳下種菜",
     "PreferredTarget": "plant vegetables beneath the bed-leg",
     "AlternateTargets": [],
@@ -24090,6 +24138,18 @@
     "Note": "The mote remains a minute physical comparison even when a source uses it to measure innumerability or to place an entire world of teaching within the smallest particle.",
     "CreatedBy": "Codex f004 lane C early-sample author",
     "WrittenUtc": "2026-07-15T11:30:22.365371+00:00"
+  },
+  {
+    "SourceTerm": "微細流注",
+    "PreferredTarget": "a subtle continuous flow",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a subtle continuous flow"
+    ],
+    "Status": "preferred",
+    "Note": "心識微細流注 is a governed longer phrase; distinguish generic 流注 and 極微細所知愚. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "徵古",
@@ -38682,6 +38742,18 @@
     "WrittenUtc": "2026-07-17T12:25:34.525823+00:00"
   },
   {
+    "SourceTerm": "渠無國土",
+    "PreferredTarget": "he has no country",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "he has no country"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 何處逢渠 as the recurrent second half without merging it; do not doctrinally resolve 渠 beyond each passage. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "渴飲饑餐",
     "PreferredTarget": "drink when thirsty and eat when hungry",
     "AlternateTargets": [
@@ -39306,6 +39378,18 @@
     "Note": "Ash-covered head and dirt-covered face describes the exposed, soiled side of engagement. Yexian Guixing answers that the pure body of the teaching looks exactly so, and Yuanwu Keqin contrasts it with gazing from the high peak.",
     "CreatedBy": "Codex Lane B transported full-case author",
     "WrittenUtc": "2026-07-17T10:40:31.881591+00:00"
+  },
+  {
+    "SourceTerm": "炊無米飯",
+    "PreferredTarget": "cook rice without rice",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "cook rice without rice"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the complete verb-object phrase apart from 無米 and 無米飯. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "炙脂帽子、鶻臭布衫",
@@ -49521,6 +49605,18 @@
     "WrittenUtc": "2026-07-18T06:23:46.258592Z"
   },
   {
+    "SourceTerm": "罷拈三尺劍",
+    "PreferredTarget": "cease wielding the three-foot sword",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "cease wielding the three-foot sword"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 休弄一張弓 as the following line without merging it; preserve this as one inherited verse family. One higher-tier deployment controls this provisional entry; no lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "羅漢",
     "PreferredTarget": "worthy one, an attained rank",
     "AlternateTargets": [
@@ -57553,6 +57649,18 @@
     ],
     "Status": "preferred",
     "Note": "Two independent Tier-2 deployments control this entry; no lower-tier fallback is retained. Keep all three actions together; 禮謝 alone is a broader act of thanks.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "踏破多少草鞋",
+    "PreferredTarget": "how many straw sandals have you worn through?",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "how many straw sandals have you worn through?"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the complete 多少 interrogative apart from 草鞋 and 踏破草鞋. One higher-tier deployment controls this provisional entry; no lamp is retained.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
@@ -65797,6 +65905,18 @@
     "WrittenUtc": "2026-07-16T12:01:39.532559+00:00"
   },
   {
+    "SourceTerm": "驀劄相逢",
+    "PreferredTarget": "suddenly meet face to face",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "suddenly meet face to face"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the four-graph encounter frame apart from bare 相逢 and 驀劄. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "驀卓拄杖",
     "PreferredTarget": "suddenly planting the staff",
     "AlternateTargets": [
@@ -67497,6 +67617,18 @@
     "Note": "The sources supply the bucket’s own morphology—hoop and bottom—and the verbs break, enter, and leap. They do not identify one unstated referent shared by every occurrence.",
     "CreatedBy": "Codex fresh f001 lane B evidence-first",
     "WrittenUtc": "2026-07-23T18:00:00Z"
+  },
+  {
+    "SourceTerm": "黑漆漆",
+    "PreferredTarget": "pitch-black",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "pitch-black"
+    ],
+    "Status": "preferred",
+    "Note": "Keep distinct from 黑漆桶 and 明歷歷; they are separate lexical units. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "黑漫漫",
