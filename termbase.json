@@ -8597,6 +8597,19 @@
     "WrittenUtc": "2026-07-29T05:37:11.487597Z"
   },
   {
+    "SourceTerm": "克賓維那法戰不勝",
+    "PreferredTarget": "Head Verger Kebin has lost the Dharma contest",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Head Verger Kebin has lost the Dharma contest",
+      "Kebin lost the Dharma contest"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve Kebin as the judged head verger and 法戰 as the encounter contest; do not turn the verdict into a generic claim that debate determines truth. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "兒孫",
     "PreferredTarget": "sons and descendants of the lineage",
     "AlternateTargets": [],
@@ -14415,6 +14428,19 @@
     "Note": "The reduplicated phrase marks an uncontrived, socially engaged manner whose looseness can be either free functioning or an object of testing.",
     "CreatedBy": "Codex Iriya construction cohort 001 lane C positions 44-50",
     "WrittenUtc": "2026-07-18T09:07:49.691793Z"
+  },
+  {
+    "SourceTerm": "哭聲師已曉",
+    "PreferredTarget": "Master, you have already understood the crying",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Master, you have already understood the crying",
+      "the teacher already knows the crying"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 已曉復誰知 and the Magadha/current-opportunity continuation; 師 addresses Zhaozhou and is not the verse's narrator. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "唐喪光陰",
@@ -33757,6 +33783,19 @@
     "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
   },
   {
+    "SourceTerm": "楊岐乍住屋壁疎",
+    "PreferredTarget": "when Yangqi first took residence, the hut walls were full of gaps",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "when Yangqi first took residence, the hut walls were full of gaps",
+      "Yangqi's newly occupied hut has gapped walls"
+    ],
+    "Status": "preferred",
+    "Note": "The snow-covered bed and the recollection of dwelling beneath trees belong to the surrounding verse but are not alternate headwords. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "楖栗橫擔",
     "PreferredTarget": "shoulder the chestnut staff crosswise",
     "AlternateTargets": [],
@@ -36282,6 +36321,19 @@
     "Note": "6 genuine full-case witnesses retained after enrichment.",
     "CreatedBy": "Codex f004 lane B complete-case author",
     "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
+  },
+  {
+    "SourceTerm": "泡幻同無礙",
+    "PreferredTarget": "bubbles and illusions are alike unobstructed",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "bubbles and illusions are alike unobstructed",
+      "bubbles and illusions are equally unobstructed"
+    ],
+    "Status": "preferred",
+    "Note": "Govern 如何不了悟 and the continuation 達法在其中、非今亦非古; do not reduce 泡幻 to a claim that appearances are nonexistent. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "波斯入閙市",
