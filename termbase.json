@@ -54264,6 +54264,19 @@
     "WrittenUtc": "2026-07-15T05:30:00Z"
   },
   {
+    "SourceTerm": "赤肉團上壁立千仞",
+    "PreferredTarget": "on the lump of red flesh, a thousand-fathom cliff stands",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "red flesh sheer cliff",
+      "thousand-fathom cliff on the body"
+    ],
+    "Status": "preferred",
+    "Note": "Keep 赤肉團 concrete and the cliff image intact. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "赤肉團邊",
     "PreferredTarget": "at the lump of red flesh",
     "AlternateTargets": [],
