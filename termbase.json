@@ -12002,8 +12002,8 @@
       "daylight in the night"
     ],
     "Status": "preferred",
-    "Note": "The impossible daylight-at-midnight image occurs in two independent lamp-preserved deployments, so validation remains provisional.",
-    "CreatedBy": "author_from_packet",
+    "Note": "A Tier-1 master-authored collection preserves the exact line while explicitly introducing it as Fu Dashi's verse. The single retained family keeps validation provisional.",
+    "CreatedBy": "Codex lamp-only repair cohort007 lane A",
     "WrittenUtc": "2026-07-22T10:30:00Z"
   },
   {
@@ -12185,8 +12185,8 @@
       "Nanchan"
     ],
     "Status": "preferred",
-    "Note": "The retained complete contexts use 南禪 as a proper place name, not as the general category 'Southern Chan.' Both witnesses are lamp-preserved, so validation remains provisional.",
-    "CreatedBy": "author_from_packet",
+    "Note": "Two independent Tier-2 recorded-sayings records use 南禪 as the proper name of a monastery: Wuan Puning speaks for Nanchan in his Nanchan record, and Wanru's record narrates his arrival at the Nanchan monastery in Liangxi. Lamp rows are omitted.",
+    "CreatedBy": "Codex lamp-only repair cohort007 lane A",
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
   {
@@ -13682,8 +13682,8 @@
       "southward view of the Northern Dipper"
     ],
     "Status": "preferred",
-    "Note": "Two independent lamp-preserved deployments retain the same reversed orientation. The entry reports that reversal without supplying an unstated solution, and remains provisional because neither source outranks the lamp tier.",
-    "CreatedBy": "author_from_packet",
+    "Note": "No exact Tier-1 or Tier-2 witness survives in the frozen corpus. The earlier Jingde lamp exchange is retained as the single strongest provisional witness; the later lamp deployment is omitted.",
+    "CreatedBy": "Codex lamp-only repair cohort007 lane A",
     "WrittenUtc": "2026-07-21T21:49:25.786881Z"
   },
   {
@@ -14543,17 +14543,18 @@
   },
   {
     "SourceTerm": "善因招善果，種穀不生豆",
-    "PreferredTarget": "a good cause brings a good result, and sowing grain does not produce beans",
+    "PreferredTarget": "a good cause brings a good result; sowing grain does not produce beans",
     "AlternateTargets": [
-      "good causes summon good results; plant grain and beans do not grow"
+      "good causes bring good results; plant grain and beans do not grow"
     ],
     "SearchAliases": [
-      "good cause good result grain beans"
+      "a good cause brings a good result; sowing grain does not produce beans",
+      "good causes bring good results; plant grain and beans do not grow"
     ],
     "Status": "preferred",
-    "Note": "The complete couplet occurs in this one recorded court sermon and remains provisional.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-22T04:00:00Z"
+    "Note": "The complete couplet survives only in one lamp-preserved court sermon and remains provisional.",
+    "CreatedBy": "Codex lamp repair cohort007 lane B",
+    "WrittenUtc": "2026-07-29T07:05:03.206989Z"
   },
   {
     "SourceTerm": "善為道路",
@@ -14924,13 +14925,13 @@
       "make a straight single-blade entry"
     ],
     "SearchAliases": [
-      "single blade direct entry",
-      "enter straight with one blade"
+      "enter directly with a single blade",
+      "make a straight single-blade entry"
     ],
     "Status": "preferred",
-    "Note": "The two records transmit the same Guishan address, so one occurrence is retained.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T22:00:00Z"
+    "Note": "The two exact records preserve the same Guishan address; one strongest recension is retained provisionally.",
+    "CreatedBy": "Codex lamp repair cohort007 lane B",
+    "WrittenUtc": "2026-07-29T07:05:03.206989Z"
   },
   {
     "SourceTerm": "單單提起",
@@ -15550,16 +15551,16 @@
     "SourceTerm": "困魚止箔",
     "PreferredTarget": "a trapped fish stops at the fish-weir",
     "AlternateTargets": [
-      "a weary fish comes to rest at the trap"
+      "a weary fish comes to rest at the weir"
     ],
     "SearchAliases": [
-      "trapped fish at the weir",
-      "weary fish stops at trap"
+      "a trapped fish stops at the fish-weir",
+      "a weary fish comes to rest at the weir"
     ],
     "Status": "preferred",
-    "Note": "One use answers a visitor and the other warns an assembly, so the deployments are distinct; both are lamp-preserved, and validation therefore remains provisional.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T22:00:00Z"
+    "Note": "The direct Chaoshan case is retained as the strongest lamp family; Langye's later lamp redeployment is omitted rather than used as padding.",
+    "CreatedBy": "Codex lamp repair cohort007 lane B",
+    "WrittenUtc": "2026-07-29T07:05:03.206989Z"
   },
   {
     "SourceTerm": "國師",
@@ -17932,19 +17933,18 @@
   },
   {
     "SourceTerm": "太行山下賊。南嶽嶺頭雲",
-    "PreferredTarget": "a bandit below Mount Taihang, a cloud on the ridge of Nanyue",
+    "PreferredTarget": "a bandit below Mount Taihang; a cloud on Nanyue's ridge",
     "AlternateTargets": [
-      "the thief under Taihang and the cloud over Nanyue"
+      "the thief under Taihang; the cloud over Nanyue"
     ],
     "SearchAliases": [
-      "Taihang bandit Nanyue cloud",
-      "Shoushan first use then illumination",
-      "bandit below mountain cloud on ridge"
+      "a bandit below Mount Taihang; a cloud on Nanyue's ridge",
+      "the thief under Taihang; the cloud over Nanyue"
     ],
     "Status": "preferred",
-    "Note": "One attributed source family preserves Shoushan Xingnian's paired answer in a comparative list; no second family is claimed.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-22T01:30:00Z"
+    "Note": "One comparative lamp compilation preserves Shoushan Xingnian's answer; no second exact family survives.",
+    "CreatedBy": "Codex lamp repair cohort007 lane B",
+    "WrittenUtc": "2026-07-29T07:05:03.206989Z"
   },
   {
     "SourceTerm": "失却掌中珠",
@@ -21014,7 +21014,7 @@
       "wearing iron trousers"
     ],
     "Status": "preferred",
-    "Note": "The sources use a compact human image and its blow-by-blow movement; they neither explain Kunlun as a technical teaching nor identify a particular historical person.",
+    "Note": "No Tier-1 or Tier-2 exact witness was found; the clearest complete Tiantai exchange is retained as the single lamp fallback.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T21:14:36.868980Z"
   },
@@ -21349,7 +21349,7 @@
       "senior brother in training"
     ],
     "Status": "preferred",
-    "Note": "The retained evidence represents three distinct lamp-preserved deployments. Five Ananda–Mahakasyapa witnesses are parallel recensions and count as one family.",
+    "Note": "Two independent Tier-2 records show 師兄 as an address or reference to a senior fellow disciple; lamp recensions are omitted.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
@@ -22375,7 +22375,7 @@
       "Zen Zhang Three and Li Four"
     ],
     "Status": "preferred",
-    "Note": "Zhang Three and Li Four are stand-in names for unspecified ordinary people. Baofu and Luopu supply independent lamp-preserved deployments; the entry remains provisional.",
+    "Note": "Two independent Tier-2 deployments use Zhang Three and Li Four as generic ordinary persons; former lamp rows are omitted.",
     "CreatedBy": "Codex f002 Lane C worksheet-first author",
     "WrittenUtc": null
   },
@@ -22679,7 +22679,7 @@
       "the direct and essential path"
     ],
     "Status": "preferred",
-    "Note": "All compact exact witnesses preserve Dengjue Puming's same saying. One lamp witness represents that exhausted family.",
+    "Note": "All six exact hits are parallel lamp preservations of Dengjue Puming's same saying; one complete Continued Lamp witness represents the exhausted family.",
     "CreatedBy": "Codex post-current-investigation720 Lane B positions 6-59",
     "WrittenUtc": "2026-07-17T17:17:31.918157+00:00"
   },
