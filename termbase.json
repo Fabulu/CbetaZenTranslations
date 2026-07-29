@@ -59313,7 +59313,7 @@
       "the thunder is tremendous but there is no rain at all"
     ],
     "Status": "preferred",
-    "Note": "Two distinct Tier-3 deployments remain: Jiaozhong remembers Haiyin Xin's appraisal, while Muan Anyong applies the line after an unnamed questioner shouts. Four parallel retellings of the Haiyin episode are omitted.",
+    "Note": "One exact Tier-2 witness preserves Cuiyan Shouzhi's direct comment; lamp recensions and deployments are omitted.",
     "CreatedBy": "Codex cohort-002 lane-B B141-B150 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
   },
@@ -62263,7 +62263,7 @@
   },
   {
     "SourceTerm": "髮長僧貌醜",
-    "PreferredTarget": "long-haired and ugly-looking monastic",
+    "PreferredTarget": "long-haired, with an ugly monastic appearance",
     "AlternateTargets": [],
     "SearchAliases": [
       "long-haired monk",
@@ -62271,7 +62271,7 @@
       "person in Langye scene"
     ],
     "Status": "preferred",
-    "Note": "The earliest retained lamp witness preserves Langye Zhiqian’s answer about the person within Langye’s scenery. Later parallel lamp recensions are omitted rather than counted as independent evidence; no stronger family is claimed.",
+    "Note": "Two independent Tier-2 records actively use the expression. Baoning Renyong applies it to himself in a compact hall saying; Yi'an Shanzan places it in a verse-like sequence about acting naturally. The inherited Langye lamp exchange is omitted.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T14:14:02.802544Z"
   },
@@ -63301,18 +63301,19 @@
     "WrittenUtc": "2026-07-15T04:46:29.393398+00:00"
   },
   {
-    "SourceTerm": "龍得水時添意氣、虎靠山處長威獰",
-    "PreferredTarget": "when a dragon gets water its spirit grows, and when a tiger meets the mountains its ferocity increases",
+    "SourceTerm": "龍得水時添意氣、虎逢山勢長威獰",
+    "PreferredTarget": "when a dragon gets water its spirit grows; where a tiger meets mountains its ferocity increases",
     "AlternateTargets": [
-      "a dragon gains vigor in water; a tiger gains power in the mountains"
+      "water adds vigor to a dragon; mountains add ferocity to a tiger"
     ],
     "SearchAliases": [
-      "a dragon gains vigor in water; a tiger gains power in the mountains"
+      "dragon gets water tiger meets mountains",
+      "favorable conditions amplify power"
     ],
     "Status": "preferred",
-    "Note": "One Tier-3 lamp family preserves the governed graphic variant 龍得水時添意氣，虎逢山勢長威獰. The utterer is the unnamed questioning monk; Qixian Zhiqian prompts and tests the reply. No stronger independent family is claimed.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-22T06:00:00Z"
+    "Note": "Two independent Tier-2 deployments preserve the exact compact wording. Tianyin Yuanxiu directly uses it as a capping line; an unnamed questioner advances it to Mingjue Cong and is rejected. No lamp is retained.",
+    "CreatedBy": "lamp-repair-cohort011-identity-migration",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "龍王",
