@@ -7445,6 +7445,19 @@
     "WrittenUtc": "2026-07-21T12:00:00Z"
   },
   {
+    "SourceTerm": "俗人沽酒三升",
+    "PreferredTarget": "a commoner buys three sheng of wine",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a commoner buys three sheng of wine",
+      "The overcompensating second half of a denial proverb"
+    ],
+    "Status": "preferred",
+    "Note": "The wine purchase belongs to the no-hidden-silver exchange and is not literal hospitality. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "保任",
     "PreferredTarget": "to guard and maintain",
     "AlternateTargets": [
@@ -7853,6 +7866,19 @@
     "Note": "A paired technical vocabulary of the side and the center; the records test whether speakers can distinguish and coordinate the two.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
+  },
+  {
+    "SourceTerm": "偏正回互",
+    "PreferredTarget": "relative and absolute interchange",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "relative and absolute interchange",
+      "Technical Caodong relational wording for the reciprocal transformation and interweaving of the relative and absolute positions"
+    ],
+    "Status": "preferred",
+    "Note": "Neither member is a static rank; 回互 names their active interpenetration. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "偏正未曽離本位、無生豈渉語因縁",
@@ -13872,6 +13898,19 @@
     "WrittenUtc": "2026-07-15T04:51:45.454326+00:00"
   },
   {
+    "SourceTerm": "吞得栗棘蓬",
+    "PreferredTarget": "swallow the thorny chestnut burr",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "swallow the chestnut burr",
+      "digest the thorny burr"
+    ],
+    "Status": "preferred",
+    "Note": "It is challenge language, not a literal act; distinguish deployment from recension. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "吞盡十方",
     "PreferredTarget": "swallow up all ten directions",
     "AlternateTargets": [
@@ -18290,6 +18329,19 @@
     "WrittenUtc": "2026-07-16T12:23:20.487102+00:00"
   },
   {
+    "SourceTerm": "奪飢人之食",
+    "PreferredTarget": "snatch food from a hungry person",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "snatch food from a hungry person",
+      "A ruthless response-image for taking away the very verbal or conceptual provision on which the questioner is relying"
+    ],
+    "Status": "preferred",
+    "Note": "Hunger and seizure make the intervention more severe than ordinary refusal. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "女媧",
     "PreferredTarget": "Nüwa",
     "AlternateTargets": [
@@ -21397,6 +21449,19 @@
     "WrittenUtc": "2026-07-19T15:59:03.421601Z"
   },
   {
+    "SourceTerm": "差之毫釐",
+    "PreferredTarget": "miss by a hairbreadth",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "miss by a hairbreadth",
+      "The minute-deviation half of a warning that the smallest discrepancy produces a separation measured in a thousand li"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the consequence of a tiny deviation in view without treating every continuation as a separate headword. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "己事",
     "PreferredTarget": "one's own matter",
     "AlternateTargets": [
@@ -22141,6 +22206,19 @@
     "Note": "The couplet sets a murmuring secluded bird beside departing clouds entering a disorder of peaks. Yangqi asks with it in the original encounter and later quotations; another hall address recites it with the recorded reply.",
     "CreatedBy": "Codex cohort-002 lane-B 41-50 strict author",
     "WrittenUtc": "2026-07-19T08:00:00Z"
+  },
+  {
+    "SourceTerm": "床腳下種菜",
+    "PreferredTarget": "plant vegetables beneath the bed-leg",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "plant vegetables beneath the bed-leg",
+      "plant vegetables under the bed-leg"
+    ],
+    "Status": "preferred",
+    "Note": "The separately counted old-form graph spelling is governed as the same lexical unit; the old and modern bed/foot graphs do not change the paired Huanglong saying's lexical job. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "序",
@@ -23890,6 +23968,19 @@
     "Note": "Yulin Tongxiu’s bitter-medicine pairing directly defines the disagreeable reception. Mi'an Xianjie says loyal words agitate a listener, while Yulin’s correction of a shout from the assembly asks how the listener can bear words that grate on the ear.",
     "CreatedBy": "Codex cohort-002 lane-B B141-B150 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
+  },
+  {
+    "SourceTerm": "忤逆聞雷",
+    "PreferredTarget": "a rebel hears thunder",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "rebel hears thunder",
+      "Linji house thunder image"
+    ],
+    "Status": "preferred",
+    "Note": "Retain the Linji-house attribution; literal weather is not this technical comparison. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "快馬一鞭",
@@ -28757,6 +28848,19 @@
     "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
+    "SourceTerm": "攪酥酪醍醐為一味",
+    "PreferredTarget": "stir curds, cream, and ghee into one flavor",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "stir curds, cream, and ghee into one flavor",
+      "A consolidation image for bringing ranked dairy products into a single taste, paired with melting differently shaped gold objects into one metal"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the companion metal-melting image outside this dairy-sequence article. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "攪長河爲酥酪、變大地作黄金",
     "PreferredTarget": "transforming the long river into curds and the great earth into gold",
     "AlternateTargets": [
@@ -29300,6 +29404,19 @@
     ],
     "Status": "preferred",
     "Note": "Keep 擊木無聲 and the complete balanced line as family context. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "敲鐘謝響",
+    "PreferredTarget": "strike the bell and thank the echo",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "strike the bell and thank the echo",
+      "credit the echo"
+    ],
+    "Status": "preferred",
+    "Note": "Keep strike, bell, and resulting response together; ordinary gratitude for a signal is not this criticism. No lamp is retained.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
@@ -32975,6 +33092,19 @@
     "WrittenUtc": "2026-07-17T10:40:31.222726+00:00"
   },
   {
+    "SourceTerm": "枯者從他枯",
+    "PreferredTarget": "let the withered remain withered",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "let the withered remain withered",
+      "The withered-tree half of Gao Shami's answer refusing Yaoshan's demand to choose either withered or flourishing"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the balancing thriving line in view without reducing the answer to plant description. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "枷上更著杻",
     "PreferredTarget": "add handcuffs on top of the cangue",
     "AlternateTargets": [],
@@ -34650,6 +34780,19 @@
     "Note": "The term may picture a harmful saying, a teaching wrongly received, or poison countered by medicine; context determines whether the force is critical, playful, or remedial.",
     "CreatedBy": "Codex f004 B1031-1040 full-case repair author",
     "WrittenUtc": "2026-07-15T15:42:24.584850+00:00"
+  },
+  {
+    "SourceTerm": "毒蛇頭上揩癢",
+    "PreferredTarget": "scratch an itch on a venomous snake's head",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "scratch an itch on a venomous snake's head",
+      "A danger image for acting at the most perilous point with intimate freedom rather than keeping a safe distance"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the recurrent tiger-danger companion outside this exact snake-head expression. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "比丘少慚愧",
@@ -40208,6 +40351,19 @@
     "WrittenUtc": "2026-07-22T00:00:00Z"
   },
   {
+    "SourceTerm": "獅子吼時芳草綠",
+    "PreferredTarget": "when the lion roars, fragrant grass grows green",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "lion roars and fragrant grass greens",
+      "獅子吼時芳草綠"
+    ],
+    "Status": "preferred",
+    "Note": "Bind the elephant-king continuation without assigning doctrinal symbols. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "獅子教兒迷子訣",
     "PreferredTarget": "the lion’s way of teaching its cub is to bewilder it",
     "AlternateTargets": [],
@@ -41053,6 +41209,19 @@
     "Note": "Going among the different kind names movement beyond a protected position into ordinary difference.",
     "CreatedBy": "Codex legacy full rebuild Lane B",
     "WrittenUtc": "2026-07-16T18:11:15.687746+00:00"
+  },
+  {
+    "SourceTerm": "畫地為牢",
+    "PreferredTarget": "draw a prison on the ground",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "draw a prison on the ground",
+      "A criticism of creating one's own confinement by drawing a boundary and then treating it as an impassable prison"
+    ],
+    "Status": "preferred",
+    "Note": "The image turns conceptual restriction into a visible enclosure. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "畫虎成狸",
@@ -44050,6 +44219,19 @@
     "WrittenUtc": "2026-07-19T02:00:29.359573+00:00"
   },
   {
+    "SourceTerm": "碧潭清皎潔",
+    "PreferredTarget": "a blue-green pool, clear and luminous",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a blue-green pool, clear and luminous",
+      "The second line of Hanshan's moon-and-pool verse, repeatedly raised so masters can accept, criticize, or outdo its attempted comparison for mind"
+    ],
+    "Status": "preferred",
+    "Note": "Pool, color, and lustre jointly carry the image; bare purity does not. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "碧眼胡僧",
     "PreferredTarget": "the blue-eyed foreign monk",
     "AlternateTargets": [
@@ -46277,6 +46459,19 @@
     "WrittenUtc": "2026-07-16T12:23:20.487102+00:00"
   },
   {
+    "SourceTerm": "築著帝釋鼻孔",
+    "PreferredTarget": "strike Indra's nostril",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "strike Indra's nostril",
+      "The impact line in Yunmen's fan saying"
+    ],
+    "Status": "preferred",
+    "Note": "Bind the fan's leap and the East Sea carp struck into torrential rain; 帝釋 is the struck case figure, not the utterer. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "築著磕著",
     "PreferredTarget": "bumping into it at every turn",
     "AlternateTargets": [
@@ -46710,6 +46905,19 @@
     "Note": "The line is an eating proverb whose Zen force remains tied to its explicit coarse-versus-fine contrast.",
     "CreatedBy": "Codex lane C rev2 C104-120 author",
     "WrittenUtc": "2026-07-19T14:00:00Z"
+  },
+  {
+    "SourceTerm": "細嚼難饑",
+    "PreferredTarget": "chew carefully and hunger is slow to return",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "chew carefully and hunger is slow to return",
+      "The patient-intake half of a food contrast used to oppose sustained digestion to quickly filling up on coarse verbal leftovers"
+    ],
+    "Status": "preferred",
+    "Note": "The criticism targets fastidious processing that never meets the need. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "結冬",
@@ -48033,6 +48241,19 @@
     ],
     "Status": "preferred",
     "Note": "Context must identify whose behind is being tested. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "背手抽金鏃",
+    "PreferredTarget": "draw the golden arrowhead with a hand behind the back",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "draw the golden arrowhead with a hand behind the back",
+      "A feat-of-command image praising a maneuver executed from the difficult reverse position, commonly paired with turning around to draw a horn bow"
+    ],
+    "Status": "preferred",
+    "Note": "The arrow-extraction image must retain bodily direction and weaponry. No lamp is retained.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
@@ -50607,6 +50828,19 @@
     "Note": "The image judges an attempted concealment that gives itself away through the trace it leaves visible. Xuedou names Danyuan a man hiding his body yet showing its shadow; the unnamed questioning monk turns the phrase into a self-exposing inference; Dahui applies it to two interlocutors; Yuanwu uses it as a direct reply.",
     "CreatedBy": "Codex cohort-002 lane-A 41-50 strict author",
     "WrittenUtc": "2026-07-18T21:03:28Z"
+  },
+  {
+    "SourceTerm": "藥因救病出金瓶",
+    "PreferredTarget": "medicine leaves the golden bottle to cure illness",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "medicine leaves the golden bottle",
+      "medicine comes out to cure illness"
+    ],
+    "Status": "preferred",
+    "Note": "Bind the sword half and retain occasion-responsive force rather than a literal pharmacy claim. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "藥多病甚",
@@ -54460,6 +54694,19 @@
     "WrittenUtc": "2026-07-19T19:35:08.665842Z"
   },
   {
+    "SourceTerm": "赤土塗牛妳",
+    "PreferredTarget": "smear red earth on a cow's teat",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "smear red earth on a cow's teat",
+      "Pang's opaque verdict after Lingzhao reports her encounter with Danxia; later masters retain the exact image to test who gained or lost in the exchange"
+    ],
+    "Status": "preferred",
+    "Note": "The ridicule depends on the bodily udder and cosmetic coating. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "赤土塗牛嬭",
     "PreferredTarget": "smearing red earth on cow’s milk",
     "AlternateTargets": [],
@@ -55948,6 +56195,19 @@
     "WrittenUtc": "2026-07-13T12:00:00Z"
   },
   {
+    "SourceTerm": "逐惡隨邪",
+    "PreferredTarget": "chase evil and follow the crooked",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "chase evil and follow the crooked",
+      "A charge that descendants or followers perpetuate a predecessor's wrong turn; some masters deliberately reverse the expected moral register to test the phrase"
+    ],
+    "Status": "preferred",
+    "Note": "Its paired verbs make active complicity, not passive confusion, the controlling force. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "逐物意移",
     "PreferredTarget": "following things, attention shifts",
     "AlternateTargets": [],
@@ -56949,6 +57209,19 @@
     "Note": "The expression is not a geographical itinerary; its retained uses are judgments on missing the matter at hand.",
     "CreatedBy": "Codex Iriya lane B121-130 full-case author",
     "WrittenUtc": "2026-07-18T17:00:00Z"
+  },
+  {
+    "SourceTerm": "鄭州梨",
+    "PreferredTarget": "a Zhengzhou pear",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a Zhengzhou pear",
+      "The first fruit in Wuzu Fayan's concrete answer about flowering and bearing fruit, regularly paired with Qingzhou jujubes and the claim that everything is best from its place of origin"
+    ],
+    "Status": "preferred",
+    "Note": "Its place-name and fruit must remain together to preserve the concrete reply. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "鄭州梨、青州棗",
@@ -58148,6 +58421,19 @@
     "Note": "In both turns the proverb supplies Xutang’s immediate response to a pressed question. The single record does not state a general theory of money, poverty, or household management.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T21:59:44.652824Z"
+  },
+  {
+    "SourceTerm": "錢貫井索",
+    "PreferredTarget": "cash string and well rope",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "cash string and well rope",
+      "A paired household inventory drawn from Qingping's answers on the great and small vehicles, later presented with skimmer and wooden ladle as a ready-made house style"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the paired household inventory together without spawning articles for every mentioned implement. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "錦上添花",
@@ -63592,6 +63878,19 @@
     "Note": "The supernatural noise is an appraisal of the encounter, not evidence that literal ghosts attended it.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T19:46:14.518118Z"
+  },
+  {
+    "SourceTerm": "魔宮虎穴",
+    "PreferredTarget": "demon palace and tiger's den",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "demon palace and tiger's den",
+      "A paired danger-ground image for entering, dwelling in, or ranging freely through places that would ordinarily threaten or bind a participant"
+    ],
+    "Status": "preferred",
+    "Note": "The two perilous locations intensify one another without becoming a ritual cosmology. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "魚目比況明珠",
