@@ -18875,15 +18875,15 @@
   },
   {
     "SourceTerm": "失却手橈",
-    "PreferredTarget": "lost the oar from his hand",
+    "PreferredTarget": "lose the oar from one's hand",
     "AlternateTargets": [],
     "SearchAliases": [
-      "lose the hand oar"
+      "lose the hand-held oar"
     ],
     "Status": "preferred",
-    "Note": "貪觀天上 and 食到口邊被人奪却 govern the appraisal; the anthology parallel is the same family.",
-    "CreatedBy": "V7 batch71 admitted20 constructor B",
-    "WrittenUtc": "2026-07-29T17:20:00Z"
+    "Note": "The literal hand-oar remains important: later case appraisals reuse the line to judge a speaker who loses command of an exchange.",
+    "CreatedBy": "R05 fresh depth regeneration B",
+    "WrittenUtc": "2026-07-29T19:15:00Z"
   },
   {
     "SourceTerm": "失却掌中珠",
@@ -38605,15 +38605,15 @@
   },
   {
     "SourceTerm": "活人路上死人無數",
-    "PreferredTarget": "on the living person's road, dead people are countless",
+    "PreferredTarget": "on the living road, dead people are countless",
     "AlternateTargets": [],
     "SearchAliases": [
       "countless dead on the living road"
     ],
     "Status": "preferred",
-    "Note": "死人路上有活人出身處 is the paired first half; both witnesses actively work the same inherited Tianyi Huai saying family.",
-    "CreatedBy": "V7 batch71 admitted20 constructor B",
-    "WrittenUtc": "2026-07-29T17:20:00Z"
+    "Note": "Guxue and Jie'an retain the opposed clause 死人路上有活人出身處; Juelang then distinguishes who can emerge on, and who can travel, each road.",
+    "CreatedBy": "R05 fresh depth regeneration B",
+    "WrittenUtc": "2026-07-29T19:15:00Z"
   },
   {
     "SourceTerm": "活句",
@@ -51223,9 +51223,9 @@
       "bear Mount Sumeru on the back"
     ],
     "Status": "preferred",
-    "Note": "手擎日月 is the paired action; the lamp deployment does not raise validation.",
-    "CreatedBy": "V7 batch71 admitted20 constructor B",
-    "WrittenUtc": "2026-07-29T17:20:00Z"
+    "Note": "The phrase names the impossible-scale physical feat used in the records; the surrounding passage decides what capacity is being asserted or tested.",
+    "CreatedBy": "R05 fresh depth regeneration B",
+    "WrittenUtc": "2026-07-29T19:15:00Z"
   },
   {
     "SourceTerm": "胡來胡現、漢來漢現",
