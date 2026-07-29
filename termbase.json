@@ -10046,6 +10046,18 @@
     "WrittenUtc": "2026-07-15T02:21:35.996242+00:00"
   },
   {
+    "SourceTerm": "凜凜神威",
+    "PreferredTarget": "awe-inspiring spiritual might",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "awe-inspiring spiritual might"
+    ],
+    "Status": "preferred",
+    "Note": "凜凜 conveys stern, palpable awesomeness and 神威 exceptional force; bind the sky-reaching long sword where present rather than generalizing the phrase into supernatural doctrine. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "凡情聖見",
     "PreferredTarget": "ordinary feelings and holy views",
     "AlternateTargets": [
@@ -10991,6 +11003,18 @@
     "Note": "The examples include both direct commands and descriptions of someone taking notice.",
     "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
     "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+  },
+  {
+    "SourceTerm": "剛被時人喚作郎",
+    "PreferredTarget": "people then merely call you one of the sons",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "people then merely call you one of the sons"
+    ],
+    "Status": "preferred",
+    "Note": "Bind 倚它門戶傍它牆 and the following eldest-son and second-son lines; 郎 belongs to the family or son wordplay and is not merely a polite 'gentleman.' No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "剜肉作瘡",
@@ -39979,6 +40003,18 @@
     "WrittenUtc": "2026-07-29T06:25:12.127558Z"
   },
   {
+    "SourceTerm": "爇向寶爐",
+    "PreferredTarget": "burn it in the precious censer",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "burn it in the precious censer"
+    ],
+    "Status": "preferred",
+    "Note": "爇 means set alight or burn and 向 marks the censer as destination; retain the following 奉為 or 祝延 dedication when supplied by context. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "爐鞴",
     "PreferredTarget": "the forge and bellows",
     "AlternateTargets": [
@@ -41725,6 +41761,18 @@
     "Note": "The formula occurs in an opening-incense declaration after the declarant names the named instructor whom the incense honors. The final noun remains the literal milk or nourishment of the teaching.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T07:13:52.708557+00:00"
+  },
+  {
+    "SourceTerm": "田厙奴",
+    "PreferredTarget": "Fuzhou country bumpkin",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "Fuzhou country bumpkin"
+    ],
+    "Status": "preferred",
+    "Note": "Yuanwu explicitly identifies it as a Fuzhou-area expression used to curse someone and as making the target seem witless. Preserve its insulting force; do not normalize it into a respectable occupation. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "畢竟作麼生",
@@ -49884,6 +49932,18 @@
     "Note": "Seven exact occurrences from 6 independent works are stored.",
     "CreatedBy": "Codex construction lane C evidence-first",
     "WrittenUtc": "2026-07-19T03:37:28.430726+00:00"
+  },
+  {
+    "SourceTerm": "致君澤民",
+    "PreferredTarget": "serve the ruler and bring benefit to the people",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "serve the ruler and bring benefit to the people"
+    ],
+    "Status": "preferred",
+    "Note": "致君 concerns bringing one's service to bear for the ruler and 澤民 extending benefit to the people; do not turn the formula into a claim that the utterer personally holds office. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "與奪自在",
@@ -64739,6 +64799,18 @@
     ],
     "Status": "preferred",
     "Note": "The two perilous locations intensify one another without becoming a ritual cosmology. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "魔魅人家男女",
+    "PreferredTarget": "bewitch the men and women of other people's households",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "bewitch the men and women of other people's households"
+    ],
+    "Status": "preferred",
+    "Note": "魔魅 is accusatory language for beguiling or leading people astray, not proof of literal demonic possession. 人家男女 denotes the men and women of households reached by the influence exerted on households. No lamp is retained.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
