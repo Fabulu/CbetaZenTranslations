@@ -36478,6 +36478,22 @@
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
   {
+    "SourceTerm": "無夢無想主人公",
+    "PreferredTarget": "the host when there is neither dreaming nor thought",
+    "AlternateTargets": [
+      "the principal person when there is neither dreaming nor thought"
+    ],
+    "SearchAliases": [
+      "dreamless host",
+      "thoughtless host",
+      "principal person without dreaming or thought"
+    ],
+    "Status": "preferred",
+    "Note": "One controlling Tier-2 interpretation preserves the exact question and its breakthrough setting. Parallel biographies, quotations, and lamp versions belong to the same inherited family.",
+    "CreatedBy": "Codex Batch33 source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "無孔笛",
     "PreferredTarget": "a flute without holes",
     "AlternateTargets": [],
