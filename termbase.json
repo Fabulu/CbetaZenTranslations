@@ -35828,15 +35828,17 @@
   },
   {
     "SourceTerm": "權開五位",
-    "PreferredTarget": "provisionally opened the five ranks",
-    "AlternateTargets": [],
+    "PreferredTarget": "provisionally set out the five ranks",
+    "AlternateTargets": [
+      "expediently opened the five positions"
+    ],
     "SearchAliases": [
-      "provisionally opened five ranks"
+      "expediently opened the five positions"
     ],
     "Status": "preferred",
-    "Note": "Bind 善接三根 or 妙協全提 where present.",
-    "CreatedBy": "V7 batch72 admitted constructor C",
-    "WrittenUtc": "2026-07-29T16:52:00Z"
+    "Note": "權 marks the presentation as provisional or expedient; it should not be flattened into a claim that Dongshan established five absolute stages.",
+    "CreatedBy": "R07 clean source-first C",
+    "WrittenUtc": "2026-07-30T00:20:00Z"
   },
   {
     "SourceTerm": "欲窮千里目、更上一層樓",
@@ -38449,15 +38451,17 @@
   },
   {
     "SourceTerm": "洎不迷己",
-    "PreferredTarget": "I nearly did not lose myself",
-    "AlternateTargets": [],
+    "PreferredTarget": "I nearly failed to lose myself",
+    "AlternateTargets": [
+      "I almost did not lose myself"
+    ],
     "SearchAliases": [
-      "nearly did not lose myself"
+      "I almost did not lose myself"
     ],
     "Status": "preferred",
-    "Note": "Bind 眾生顛倒迷己逐物 and 出身猶可易.",
-    "CreatedBy": "V7 batch72 admitted constructor C",
-    "WrittenUtc": "2026-07-29T16:52:00Z"
+    "Note": "洎 means “nearly” or “almost”; the line turns the monk’s contrast back on Jingqing. Do not regularize it into the simpler assertion “I do not lose myself.”",
+    "CreatedBy": "R07 clean source-first C",
+    "WrittenUtc": "2026-07-30T00:20:00Z"
   },
   {
     "SourceTerm": "洗脚上船",
@@ -50580,14 +50584,16 @@
   {
     "SourceTerm": "翻成毒藥",
     "PreferredTarget": "turns instead into poison",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "becomes poison instead"
+    ],
     "SearchAliases": [
-      "turns into poison"
+      "becomes poison instead"
     ],
     "Status": "preferred",
-    "Note": "Keep 醍醐上味 as a frequent contrast. No lamp is retained.",
-    "CreatedBy": "V7 batch72 admitted constructor C",
-    "WrittenUtc": "2026-07-29T16:52:00Z"
+    "Note": "The subject is supplied by context—often 醍醐, the finest clarified butter. The phrase names a reversal in reception, not literal poisoning.",
+    "CreatedBy": "R07 clean source-first C",
+    "WrittenUtc": "2026-07-30T00:20:00Z"
   },
   {
     "SourceTerm": "翻轉面皮",
@@ -58470,14 +58476,16 @@
   {
     "SourceTerm": "趙州訪茱萸",
     "PreferredTarget": "Zhaozhou visits Zhuyu",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "Zhaozhou’s visit to Zhuyu"
+    ],
     "SearchAliases": [
-      "Zhaozhou visits Zhuyu"
+      "Zhaozhou’s visit to Zhuyu"
     ],
     "Status": "preferred",
-    "Note": "Bind 探水, 一滴也無, and 靠壁而出 to the case.",
-    "CreatedBy": "V7 batch72 admitted constructor C",
-    "WrittenUtc": "2026-07-29T16:52:00Z"
+    "Note": "The label covers variant recensions of the encounter. Preserve which version each source deploys instead of merging the arrow exchange with the water-testing exchange.",
+    "CreatedBy": "R07 clean source-first C",
+    "WrittenUtc": "2026-07-30T00:20:00Z"
   },
   {
     "SourceTerm": "趨向真如亦是邪",
