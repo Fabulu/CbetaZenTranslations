@@ -48729,6 +48729,18 @@
     "WrittenUtc": "2026-07-21T00:30:00Z"
   },
   {
+    "SourceTerm": "紅旗閃爍",
+    "PreferredTarget": "red banners flash",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "red banners flash"
+    ],
+    "Status": "preferred",
+    "Note": "Keep separate from the other house appraisals; they form a series, not synonyms. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "紅日到天心",
     "PreferredTarget": "the red sun reaches the center of the sky",
     "AlternateTargets": [
@@ -63080,6 +63092,18 @@
     ],
     "Status": "preferred",
     "Note": "雙 governs both verbs: both are released and both are gathered; the passage must identify the local pair and should not be reduced to generic flexibility. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "雙明亦雙暗",
+    "PreferredTarget": "both bright and both dark",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "both bright and both dark"
+    ],
+    "Status": "preferred",
+    "Note": "Provisional mixed deployment: Dahui preserves Luoshan's inherited case answer, while Wanfeng Tongzhen later redeploys the phrase as a comment on another raised exchange. Keep separate from 同生亦同死; no lamp is retained.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
