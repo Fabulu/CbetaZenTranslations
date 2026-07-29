@@ -7494,6 +7494,18 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "俗氣不除",
+    "PreferredTarget": "the vulgar air has not been cleared away",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the vulgar air has not been cleared away"
+    ],
+    "Status": "preferred",
+    "Note": "氣 is the lingering air or manner, not literal gas; 不除 marks an unresolved residue rather than a social-class insult. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "俗氣也不除",
     "PreferredTarget": "the vulgar air still has not been cleared away",
     "AlternateTargets": [],
@@ -24378,6 +24390,18 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "快便難逢",
+    "PreferredTarget": "such nimble readiness is hard to encounter",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "such nimble readiness is hard to encounter"
+    ],
+    "Status": "preferred",
+    "Note": "快便 is quick, ready, and apt rather than merely convenient; retain the praise or challenge supplied by the local encounter instead of treating 難逢 as romantic rarity. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "快馬一鞭",
     "PreferredTarget": "a swift horse needs one stroke of the whip",
     "AlternateTargets": [],
@@ -33425,6 +33449,18 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "析骨還父",
+    "PreferredTarget": "return the bones to one's father",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "return the bones to one's father"
+    ],
+    "Status": "preferred",
+    "Note": "Keep it paired with 析肉還母; 析 is separating or stripping off, not a claim about ordinary filial repayment. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "果位",
     "PreferredTarget": "the attained fruit-stage",
     "AlternateTargets": [
@@ -40672,6 +40708,18 @@
     "WrittenUtc": "2026-07-29T06:25:12.127558Z"
   },
   {
+    "SourceTerm": "牽犁拽耙",
+    "PreferredTarget": "pull the plough and drag the harrow",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "pull the plough and drag the harrow"
+    ],
+    "Status": "preferred",
+    "Note": "Keep distinct from the companion wearing horns and fur while recording their recurrent co-deployment. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "犀因翫月紋生角",
     "PreferredTarget": "the rhinoceros gazes at the moon, and markings grow in its horn",
     "AlternateTargets": [],
@@ -42556,6 +42604,18 @@
     ],
     "Status": "preferred",
     "Note": "Bind 我寧不說法 as the recurrent first half; 疾 is swiftly or promptly, not illness, and the clause is quoted deliberation rather than a death notice. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "痛下針錐",
+    "PreferredTarget": "drive the needle in hard",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "drive the needle in hard"
+    ],
+    "Status": "preferred",
+    "Note": "Retain both severity and medical precision; context decides whether the needle is a word, question, blow, or other intervention. No lamp is retained.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
@@ -46370,6 +46430,18 @@
     "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
   },
   {
+    "SourceTerm": "稱楊稱鄭",
+    "PreferredTarget": "call one Yang and another Zheng",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "call one Yang and another Zheng"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the paired surnames as empty partisan naming in this context; do not invent biographies for Yang and Zheng. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "穩坐",
     "PreferredTarget": "sit securely",
     "AlternateTargets": [
@@ -46888,6 +46960,18 @@
     "Note": "Eight witnesses distinguish narrated action, case heading, novice imitation, verse transport, and later criticism of the visible gesture.",
     "CreatedBy": "Codex construction Lane C evidence-first",
     "WrittenUtc": "2026-07-17T08:54:56.622497+00:00"
+  },
+  {
+    "SourceTerm": "竪窮三際",
+    "PreferredTarget": "vertically exhaust the three times",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "vertically exhaust the three times"
+    ],
+    "Status": "preferred",
+    "Note": "Translate 三際 as the three temporal limits; preserve the pairing with a horizontal ten-direction clause where supplied. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "竪窮三際，橫亘十方",
@@ -50461,6 +50545,18 @@
     "Note": "The four cases make the fallen tongue a limit or failure of speech.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T18:00:16.989151Z"
+  },
+  {
+    "SourceTerm": "舌頭談而不談",
+    "PreferredTarget": "the tongue speaks without speaking",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the tongue speaks without speaking"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the speaks / does not speak contradiction and its preceding line; do not normalize it into silence or ordinary eloquence. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "舍利",
@@ -62412,6 +62508,18 @@
     "WrittenUtc": "2026-07-20T12:00:00Z"
   },
   {
+    "SourceTerm": "靜處薩婆訶",
+    "PreferredTarget": "svāhā in the quiet place",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "svāhā in the quiet place"
+    ],
+    "Status": "preferred",
+    "Note": "Treat as the full answer, not as generic 靜處 or a free-standing definition of 薩婆訶. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "非但騎虎頭、亦解把虎尾",
     "PreferredTarget": "not only able to ride the tiger's head, but also to grasp its tail",
     "AlternateTargets": [],
@@ -64683,6 +64791,18 @@
     "WrittenUtc": "2026-07-19T15:15:43.102352Z"
   },
   {
+    "SourceTerm": "驢鳴狗吠",
+    "PreferredTarget": "a donkey brays and a dog barks",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "a donkey brays and a dog barks"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the distinct donkey and dog sounds and the provocative high-low contrast supplied by the question; do not sanitize the line into generic natural sound. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
     "SourceTerm": "驪珠",
     "PreferredTarget": "the dragon's pearl",
     "AlternateTargets": [],
@@ -66154,6 +66274,18 @@
     "Note": "The sky-reaching nostrils image can answer, appraise, or challenge; those different jobs do not establish a hidden psychological state.",
     "CreatedBy": "Codex f005 lane A author",
     "WrittenUtc": "2026-07-15T18:45:14.307929+00:00"
+  },
+  {
+    "SourceTerm": "齊眉共躅",
+    "PreferredTarget": "brow to brow, treading together",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "brow to brow, treading together"
+    ],
+    "Status": "preferred",
+    "Note": "Keep it inside the threefold contrast with 超宗異目 and 影響音聞; it describes parity, not merely walking side by side. No lamp is retained.",
+    "CreatedBy": "V6 batch44 A+B constructor",
+    "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
     "SourceTerm": "齋僧",
