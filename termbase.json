@@ -170,6 +170,21 @@
     "WrittenUtc": "2026-07-29T02:55:42.113001Z"
   },
   {
+    "SourceTerm": "一切法皆是佛法",
+    "PreferredTarget": "all dharmas are Buddha-dharma",
+    "AlternateTargets": [
+      "all phenomena are Buddha-dharma"
+    ],
+    "SearchAliases": [
+      "all things are Buddhist teaching",
+      "every dharma is Buddha-dharma"
+    ],
+    "Status": "preferred",
+    "Note": "The formula's copies form one scriptural family; Yanshou's exposition and Fayan's corrective deployment are independent uses.",
+    "CreatedBy": "Codex Batch30 source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
     "SourceTerm": "一切現成",
     "PreferredTarget": "everything is already complete",
     "AlternateTargets": [
@@ -13545,6 +13560,21 @@
     "Note": "The examples preserve both the image of coordinated roles and the further questions masters ask after that coordination is reached.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:51:45.454326+00:00"
+  },
+  {
+    "SourceTerm": "吞盡十方",
+    "PreferredTarget": "swallow up all ten directions",
+    "AlternateTargets": [
+      "engulf the whole of the ten directions"
+    ],
+    "SearchAliases": [
+      "swallow the ten directions",
+      "encompass all directions"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase is not literal ingestion and is not interchangeable with the spatial noun 盡十方; copies within either retained case family do not add validation.",
+    "CreatedBy": "Codex Batch30 source-tier construction",
+    "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
     "SourceTerm": "含元殿裏問長安",
