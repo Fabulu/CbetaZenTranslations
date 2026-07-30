@@ -46793,19 +46793,18 @@
   },
   {
     "SourceTerm": "破虗空",
-    "PreferredTarget": "break empty space",
+    "PreferredTarget": "break through empty space",
     "AlternateTargets": [
       "break open empty space",
       "shatter empty space"
     ],
     "SearchAliases": [
-      "break through empty space",
-      "smash empty space"
+      "break empty space"
     ],
     "Status": "preferred",
-    "Note": "The phrase takes empty space as the direct object of breaking; the preceding verbs specify a hammer-blow or a forceful press. Two independent recorded-sayings families establish the sense without lamp support.",
-    "CreatedBy": "canary022_source_hierarchy_repair",
-    "WrittenUtc": "2026-07-29T00:00:00Z"
+    "Note": "The phrase does not describe damage to a material sky. Its surrounding predicates make the impossible rupture an image of unobstructed breakthrough.",
+    "CreatedBy": "R84 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "破鏡不重照，落花難上枝",
@@ -55789,15 +55788,18 @@
   },
   {
     "SourceTerm": "覿體全彰",
-    "PreferredTarget": "manifest in full, face to face",
-    "AlternateTargets": [],
+    "PreferredTarget": "fully manifest in its very substance",
+    "AlternateTargets": [
+      "directly manifest in full",
+      "fully displayed right before one"
+    ],
     "SearchAliases": [
-      "fully manifest face to face"
+      "directly manifest in full"
     ],
     "Status": "preferred",
-    "Note": "Do not detach the full verdict from the local sounds, forms, movements, or answers it describes. No lamp is retained.",
-    "CreatedBy": "V7 batch66 admitted19 constructor C",
-    "WrittenUtc": "2026-07-29T14:30:00Z"
+    "Note": "The first half contributes direct, immediate presentation; the second says that the manifestation is complete. The phrase need not denote a physical face.",
+    "CreatedBy": "R84 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "觀世音菩薩",
@@ -64248,15 +64250,18 @@
   },
   {
     "SourceTerm": "集雲峰下四藤條",
-    "PreferredTarget": "the four cane blows below Jiyun Peak",
-    "AlternateTargets": [],
+    "PreferredTarget": "the four vine-switch strokes below Jiyun Peak",
+    "AlternateTargets": [
+      "four vine-strokes below Jiyun Peak",
+      "Jiyun Peak's four strokes of the vine"
+    ],
     "SearchAliases": [
-      "the four cane blows below Jiyun Peak"
+      "four cane blows below Jiyun Peak"
     ],
     "Status": "preferred",
-    "Note": "Keep the Jiyun location and exactly four cane blows. The longer boast 天下大禪佛 is Jingtong's attached self-title, while generic instances of four blows are not this case-name. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "This is not a generic count of four vines. It names the four-stroke credential in the inherited Yangshan–Great Chan Buddha case.",
+    "CreatedBy": "R84 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "雖是死蛇，解弄也活",
