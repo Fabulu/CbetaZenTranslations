@@ -627,18 +627,15 @@
     "SourceTerm": "一塵",
     "PreferredTarget": "one speck of dust",
     "AlternateTargets": [
-      "a single dust mote",
-      "one particle of dust"
+      "a single dust mote"
     ],
     "SearchAliases": [
-      "one speck dust",
-      "single dust mote",
-      "one particle"
+      "a single dust mote"
     ],
     "Status": "preferred",
-    "Note": "The bare expression names the minute particle; world-scale relations come from each sentence, while Dazhu Huihai's explicit thought-speck is separately retained.",
-    "CreatedBy": "Codex fresh-build lane C",
-    "WrittenUtc": null
+    "Note": "The retained evidence does not establish a separate lexical thing called a 'thought-speck'; contextual comparisons do not change the noun.",
+    "CreatedBy": "R94 correction2 Lane A mechanical regenerator",
+    "WrittenUtc": "2026-07-30T17:45:00Z"
   },
   {
     "SourceTerm": "一塵不染",
@@ -715,20 +712,17 @@
   },
   {
     "SourceTerm": "一大事因緣",
-    "PreferredTarget": "the single great matter",
+    "PreferredTarget": "the occasion of the one great matter",
     "AlternateTargets": [
-      "the one great purpose",
-      "the one great matter and occasion"
+      "the causal occasion of the one great matter"
     ],
     "SearchAliases": [
-      "one great matter",
-      "great matter for appearing",
-      "single great purpose"
+      "the causal occasion of the one great matter"
     ],
     "Status": "preferred",
-    "Note": "Seven exact witnesses in seven independent works support one inherited formula with varied Chan deployment; “single great matter” is the established lookup form, while “reason and occasion” (因緣) remains explicit here.",
-    "CreatedBy": "Codex fresh f001 lane A evidence-first",
-    "WrittenUtc": "2026-07-19T03:37:28.430726+00:00"
+    "Note": "The headword contains 因緣 as well as 一大事; translating only 'the one great matter' drops the phrase's final two graphs.",
+    "CreatedBy": "R94 correction2 Lane A mechanical regenerator",
+    "WrittenUtc": "2026-07-30T17:45:00Z"
   },
   {
     "SourceTerm": "一大藏教是箇切脚",
@@ -5785,15 +5779,16 @@
   {
     "SourceTerm": "仁者見之謂之仁",
     "PreferredTarget": "the humane see it and call it humane",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "the benevolent see it and call it benevolent"
+    ],
     "SearchAliases": [
-      "humane observers call it humane",
-      "observer supplies the label"
+      "the benevolent see it and call it benevolent"
     ],
     "Status": "preferred",
-    "Note": "Govern the wise-observer counterpart and do not claim Chan coinage. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "仁者 and 仁 deliberately repeat the same graph; preserve that repetition in English.",
+    "CreatedBy": "R94 correction2 Lane A mechanical regenerator",
+    "WrittenUtc": "2026-07-30T17:45:00Z"
   },
   {
     "SourceTerm": "仁者見之謂之仁、智者見之謂之智",
@@ -11476,15 +11471,17 @@
   },
   {
     "SourceTerm": "劒甲未施",
-    "PreferredTarget": "before sword or armor is deployed",
-    "AlternateTargets": [],
+    "PreferredTarget": "before sword and armor are deployed",
+    "AlternateTargets": [
+      "sword and armor not yet deployed"
+    ],
     "SearchAliases": [
-      "before sword or armor is deployed"
+      "before weapons are deployed"
     ],
     "Status": "preferred",
-    "Note": "Keep 賊身已露 as the governing complement; one direct work controls.",
-    "CreatedBy": "V7 batch67 admitted14 constructor C",
-    "WrittenUtc": "2026-07-29T14:50:00Z"
+    "Note": "劒 and 甲 retain their military scene; 未施 marks the moment before their deployment.",
+    "CreatedBy": "R94 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "功不浪施",
@@ -14778,7 +14775,7 @@
   },
   {
     "SourceTerm": "和泥合水",
-    "PreferredTarget": "mixing mud and blending water",
+    "PreferredTarget": "mix mud and blend water",
     "AlternateTargets": [
       "mix mud with water",
       "mud-and-water mixing"
@@ -15186,6 +15183,23 @@
     "Note": "7 reviewed witnesses delimit this sense.",
     "CreatedBy": "Codex f003 Lane B evidence-first",
     "WrittenUtc": "2026-07-15T05:48:21.518622+00:00"
+  },
+  {
+    "SourceTerm": "問話",
+    "PreferredTarget": "questioning",
+    "AlternateTargets": [
+      "ask a question",
+      "put a question to a master"
+    ],
+    "SearchAliases": [
+      "questioning",
+      "ask a question",
+      "put a question"
+    ],
+    "Status": "preferred",
+    "Note": "The word names putting a question; context decides whether English needs the activity noun or a finite verb. No lamp is retained.",
+    "CreatedBy": "R94 governed constructor",
+    "WrittenUtc": "2026-07-30T17:30:00Z"
   },
   {
     "SourceTerm": "問辨",
@@ -17787,19 +17801,19 @@
   },
   {
     "SourceTerm": "大休大歇",
-    "PreferredTarget": "great rest and great cessation",
+    "PreferredTarget": "great rest and complete cessation",
     "AlternateTargets": [
-      "rest and cease completely"
+      "complete rest",
+      "a place of complete rest"
     ],
     "SearchAliases": [
-      "great rest and great cessation",
-      "rest and cease completely",
-      "Zen great rest and great cessation"
+      "great rest",
+      "complete cessation"
     ],
     "Status": "preferred",
-    "Note": "The corpus’s place nouns are metaphors for the same named condition, not distinct referents. A late record itself names it “the sea of great extinction,” “the ground of actuality,” and “the idle person of no learning and no contrivance” (大寂滅海; 實際理地; 絕學無為閑道人); these are that text’s names, not this entry’s imported definition.",
-    "CreatedBy": "Codex f002 Lane C author",
-    "WrittenUtc": "2026-07-15T02:14:46.921992+00:00"
+    "Note": "The expression names one state or place in these deployments; its nominal and locative packaging does not create separate senses, and Miyun Yuanwu's time comparison stays within that use.",
+    "CreatedBy": "R94 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "大似春意",
@@ -19008,7 +19022,7 @@
   },
   {
     "SourceTerm": "奪食驅耕",
-    "PreferredTarget": "snatch away the food and drive off the ploughman",
+    "PreferredTarget": "snatch away the food and drive off the ploughing",
     "AlternateTargets": [],
     "SearchAliases": [
       "snatch away the food and drive off the ploughman",
@@ -21810,7 +21824,7 @@
   },
   {
     "SourceTerm": "就路還家",
-    "PreferredTarget": "take the road home (Chan appraisal)",
+    "PreferredTarget": "take the road home",
     "AlternateTargets": [
       "return home by way of the road",
       "go home along the road"
@@ -23810,16 +23824,17 @@
   },
   {
     "SourceTerm": "強作主宰",
-    "PreferredTarget": "force oneself into being in command",
-    "AlternateTargets": [],
+    "PreferredTarget": "force oneself to act as master",
+    "AlternateTargets": [
+      "forcibly make oneself the one in control"
+    ],
     "SearchAliases": [
-      "force oneself into being in command",
-      "force oneself into command"
+      "forcibly make oneself the one in control"
     ],
     "Status": "preferred",
-    "Note": "The compound targets affected mastery, not every decisive act and not political rule. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The phrase is pejorative in all three retained deployments; 強 marks the forcing.",
+    "CreatedBy": "R94 correction2 Lane A mechanical regenerator",
+    "WrittenUtc": "2026-07-30T17:45:00Z"
   },
   {
     "SourceTerm": "強將下無弱兵",
@@ -25105,15 +25120,18 @@
   },
   {
     "SourceTerm": "快便難逢",
-    "PreferredTarget": "such nimble readiness is hard to encounter",
-    "AlternateTargets": [],
+    "PreferredTarget": "a quick opportunity is hard to meet",
+    "AlternateTargets": [
+      "a ready chance is hard to find"
+    ],
     "SearchAliases": [
-      "such nimble readiness is hard to encounter"
+      "quick chance",
+      "hard-to-find opportunity"
     ],
     "Status": "preferred",
-    "Note": "快便 is quick, ready, and apt rather than merely convenient; retain the praise or challenge supplied by the local encounter instead of treating 難逢 as romantic rarity. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "快便 is the timely advantage or ready chance in the proverb, not a claim that haste itself is rare.",
+    "CreatedBy": "R94 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "快馬一鞭",
@@ -27166,16 +27184,15 @@
     "SourceTerm": "把手共行",
     "PreferredTarget": "walk together hand in hand",
     "AlternateTargets": [
-      "go together hand in hand"
+      "join hands and walk together"
     ],
     "SearchAliases": [
-      "walk together hand in hand",
-      "go together hand in hand"
+      "join hands and walk together"
     ],
     "Status": "preferred",
-    "Note": "No distinct referent emerged: literal hand-taking supplies one recurrent metaphorical predicate, applied to different companions. Those companions are deployment variants, not separate senses.",
-    "CreatedBy": "Codex f002 Lane B evidence-first refresh",
-    "WrittenUtc": null
+    "Note": "The phrase names joint movement; it does not by itself establish agreement on every claim.",
+    "CreatedBy": "R94 correction2 Lane A mechanical regenerator",
+    "WrittenUtc": "2026-07-30T17:45:00Z"
   },
   {
     "SourceTerm": "把手拽不入",
@@ -27340,22 +27357,17 @@
   },
   {
     "SourceTerm": "折腳鐺",
-    "PreferredTarget": "a broken-legged cauldron",
+    "PreferredTarget": "broken-legged cauldron",
     "AlternateTargets": [
-      "a cauldron with a broken leg",
-      "the old broken-legged cooking pot"
+      "a cauldron with a broken leg"
     ],
     "SearchAliases": [
-      "broken-legged cauldron",
-      "three-legged cauldron",
-      "damaged cooking pot",
-      "poor monastery cauldron",
-      "a broken-legged cauldron"
+      "broken tripod cauldron"
     ],
     "Status": "preferred",
-    "Note": "The corpus has 117 exact occurrences in 71 allowlisted files. The central inherited case is Yaoshan's request that Yunyan help lift and carry his broken-legged cauldron. Later records reuse the vessel for monastery succession, shared support, hermitage food, and mountain poverty. Forms include 'broken-legged cauldron' (折腳鐺), 'broken-legged cauldron-child' (折腳鐺子), and the diminutive 'broken-legged cauldron' (折腳鐺兒).",
-    "CreatedBy": "Codex legacy full rebuild Lane A",
-    "WrittenUtc": "2026-07-16T18:02:05.784051+00:00"
+    "Note": "The cauldron is a concrete utensil in these passages; the surrounding poverty or endurance belongs to each source scene.",
+    "CreatedBy": "R94 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "披毛戴角",
@@ -30411,15 +30423,17 @@
   },
   {
     "SourceTerm": "收歸上科",
-    "PreferredTarget": "gather it into the highest category",
-    "AlternateTargets": [],
+    "PreferredTarget": "refer it back to the preceding category",
+    "AlternateTargets": [
+      "collect it under the foregoing heading"
+    ],
     "SearchAliases": [
-      "gather it into the highest category"
+      "collect it under the foregoing heading"
     ],
     "Status": "preferred",
-    "Note": "上科 is the top evaluative class, not an examination subject; retain what is being gathered and classified from context. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "上科 is the foregoing category or heading, not a claim that someone passed a modern examination.",
+    "CreatedBy": "R94 correction2 Lane A mechanical regenerator",
+    "WrittenUtc": "2026-07-30T17:45:00Z"
   },
   {
     "SourceTerm": "收虎尾",
@@ -32218,7 +32232,7 @@
   },
   {
     "SourceTerm": "是吾曾轉法輪耶",
-    "PreferredTarget": "was it that I had ever turned the Dharma wheel?",
+    "PreferredTarget": "did I ever turn the teaching wheel?",
     "AlternateTargets": [
       "had I ever turned the Dharma wheel?"
     ],
@@ -36681,7 +36695,7 @@
   },
   {
     "SourceTerm": "殺活",
-    "PreferredTarget": "killing and giving life",
+    "PreferredTarget": "killing and bringing to life",
     "AlternateTargets": [
       "to kill and to give life",
       "killing and bringing to life",
@@ -39400,18 +39414,17 @@
   },
   {
     "SourceTerm": "渴飲饑餐",
-    "PreferredTarget": "drink when thirsty and eat when hungry",
+    "PreferredTarget": "drink when thirsty, eat when hungry",
     "AlternateTargets": [
-      "when thirsty, drink; when hungry, eat"
+      "thirsty, drink; hungry, eat"
     ],
     "SearchAliases": [
-      "drink when thirsty eat when hungry",
-      "ordinary responsive activity"
+      "thirsty, drink; hungry, eat"
     ],
     "Status": "preferred",
-    "Note": "One exact Tier-2 deployment family controls this provisional entry. Lamps and duplicate containers are excluded.",
-    "CreatedBy": "Codex Batch35 lane-B Tier2 construction",
-    "WrittenUtc": "2026-07-29T00:00:00Z"
+    "Note": "The phrase states two ordinary responses in parallel; no added contemplative technique or present-moment gloss is needed.",
+    "CreatedBy": "R94 correction2 Lane A mechanical regenerator",
+    "WrittenUtc": "2026-07-30T17:45:00Z"
   },
   {
     "SourceTerm": "渾崙擘不破",
@@ -41421,15 +41434,16 @@
   {
     "SourceTerm": "熱則乘凉",
     "PreferredTarget": "when hot, take the cool",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "in heat, enjoy the cool"
+    ],
     "SearchAliases": [
-      "when hot take the cool",
-      "seek coolness in heat"
+      "hot then cool off"
     ],
     "Status": "preferred",
-    "Note": "Do not inflate ordinary adaptation into a universal doctrine. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The expression remains paired with such ordinary responses as warming oneself when cold, eating when hungry, and sleeping when tired.",
+    "CreatedBy": "R94 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "熱則普天普地熱",
@@ -42465,7 +42479,7 @@
   },
   {
     "SourceTerm": "狗䑛熱油鐺",
-    "PreferredTarget": "a dog licking a cauldron of hot oil",
+    "PreferredTarget": "a dog licking a hot oil cauldron",
     "AlternateTargets": [],
     "SearchAliases": [
       "dog licking hot oil",
@@ -42925,24 +42939,17 @@
   },
   {
     "SourceTerm": "玄旨",
-    "PreferredTarget": "the mysterious purport",
+    "PreferredTarget": "profound purport",
     "AlternateTargets": [
-      "the profound purport",
-      "the hidden gist",
-      "the dark purport"
+      "subtle purport"
     ],
     "SearchAliases": [
-      "mysterious meaning",
-      "hidden meaning",
-      "profound meaning",
-      "secret purport",
-      "deep point",
-      "underlying gist"
+      "subtle purport"
     ],
     "Status": "preferred",
-    "Note": "The current 490-file corpus has 661 exact hits across 180 files and 177 works. Seven curated witnesses now comprise six Tier 1/2 authored or recorded deployments and one distinct supplementary lamp formulation; copied lamp recensions do not contribute to validation.",
-    "CreatedBy": "Codex fresh-build lane B",
-    "WrittenUtc": null
+    "Note": "玄 marks depth or subtlety here; it does not supply a separate occult doctrine.",
+    "CreatedBy": "R94 correction2 Lane A mechanical regenerator",
+    "WrittenUtc": "2026-07-30T17:45:00Z"
   },
   {
     "SourceTerm": "玄機",
@@ -43642,7 +43649,7 @@
   },
   {
     "SourceTerm": "田庫奴",
-    "PreferredTarget": "field-and-storehouse servant",
+    "PreferredTarget": "estate slave",
     "AlternateTargets": [],
     "SearchAliases": [
       "field-and-storehouse servant"
@@ -44987,16 +44994,17 @@
   },
   {
     "SourceTerm": "盌脫丘",
-    "PreferredTarget": "a bowl-molded mound",
-    "AlternateTargets": [],
+    "PreferredTarget": "bowl-mold mound",
+    "AlternateTargets": [
+      "a mound shaped like a bowl mold"
+    ],
     "SearchAliases": [
-      "bowl-molded mound",
-      "bowl-shaped lump"
+      "bowl mold hill"
     ],
     "Status": "preferred",
-    "Note": "Retain the low shaped-lump image rather than an abstract unity. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The graph sequence names the ordinary rounded landform; no retained higher-tier passage defines it as a separate doctrinal object.",
+    "CreatedBy": "R94 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "盡令而行",
@@ -51252,16 +51260,17 @@
   },
   {
     "SourceTerm": "肘後懸符",
-    "PreferredTarget": "a command tally hanging behind the elbow",
-    "AlternateTargets": [],
+    "PreferredTarget": "hang the command tally behind the elbow",
+    "AlternateTargets": [
+      "the command tally hangs behind one's elbow"
+    ],
     "SearchAliases": [
-      "tally behind the elbow",
-      "hidden command tally"
+      "elbow-hidden command tally"
     ],
     "Status": "preferred",
-    "Note": "Keep the concrete concealed tally; do not flatten it into mystical power. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "符 is the warrant or command tally; the surrounding parallel phrases preserve authority and readiness rather than anatomical description alone.",
+    "CreatedBy": "R94 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "肘後有符",
@@ -53270,18 +53279,18 @@
   },
   {
     "SourceTerm": "莫認定盤星",
-    "PreferredTarget": "do not mistake the fixed balance marker",
+    "PreferredTarget": "do not mistake it for the fixed mark on the steelyard",
     "AlternateTargets": [
-      "do not fix on the balance mark"
+      "do not take it for the steelyard's fixed mark"
     ],
     "SearchAliases": [
-      "do not mistake the balance marker",
-      "take the hook's point"
+      "fixed steelyard mark",
+      "do not mistake the balance mark"
     ],
     "Status": "preferred",
-    "Note": "盤星 is the fixed reference mark on a steelyard beam; the hook/marker contrast does the work in this formula.",
-    "CreatedBy": "Codex Batch22 construction lane A",
-    "WrittenUtc": "2026-07-29T00:00:00Z"
+    "Note": "定盤星 is the fixed calibration mark used to read a balance; the phrase supplies a concrete warning, not a second name for a doctrine.",
+    "CreatedBy": "R94 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "莫錯會",
@@ -57724,15 +57733,16 @@
   {
     "SourceTerm": "貪瞋癡",
     "PreferredTarget": "greed, anger, and delusion",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "greed, anger, and ignorance"
+    ],
     "SearchAliases": [
-      "greed anger delusion",
-      "three poisons"
+      "greed, anger, and ignorance"
     ],
     "Status": "preferred",
-    "Note": "Describe each source's treatment without importing a doctrinal system. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The entry names the three words as used; it does not import an Abhidharma system as their definition.",
+    "CreatedBy": "R94 correction2 Lane A mechanical regenerator",
+    "WrittenUtc": "2026-07-30T17:45:00Z"
   },
   {
     "SourceTerm": "貪程太速",
@@ -60589,16 +60599,17 @@
   },
   {
     "SourceTerm": "遞相鈍置",
-    "PreferredTarget": "keep making fools of one another",
-    "AlternateTargets": [],
+    "PreferredTarget": "take turns making fools of one another",
+    "AlternateTargets": [
+      "successively put one another at a disadvantage"
+    ],
     "SearchAliases": [
-      "make fools of one another",
-      "successively impose on each other"
+      "successively put one another at a disadvantage"
     ],
     "Status": "preferred",
-    "Note": "Keep the successive reciprocal force and do not weaken 鈍置 to generic misunderstanding. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "鈍置 is an interpersonal putting-down or disadvantaging here, not literal loss of sharpness.",
+    "CreatedBy": "R94 correction2 Lane A mechanical regenerator",
+    "WrittenUtc": "2026-07-30T17:45:00Z"
   },
   {
     "SourceTerm": "遠問近對",
@@ -61203,21 +61214,18 @@
   },
   {
     "SourceTerm": "野狐",
-    "PreferredTarget": "the wild-fox case",
+    "PreferredTarget": "wild fox",
     "AlternateTargets": [
-      "Baizhang's wild-fox case"
+      "a wild fox"
     ],
     "SearchAliases": [
-      "wild fox koan",
-      "Baizhang fox",
-      "Baizhang fox case",
-      "fox case",
-      "not falling under cause and effect"
+      "wild-fox den",
+      "wild-fox traces"
     ],
     "Status": "preferred",
-    "Note": "Standalone activation is explicit in Zhenjing Kewen's verse heading 'Wild Fox' . The longer Baizhang, story, and public-case labels are retained as family evidence and do not by themselves create or deepen the bare sense.",
-    "CreatedBy": "Codex fresh f002 Lane A evidence-first",
-    "WrittenUtc": "2026-07-15T16:00:00Z"
+    "Note": "The retained evidence supports the wild-fox image and epithet; it does not itself narrate the Baizhang fox case.",
+    "CreatedBy": "R94 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "野狐公案",
@@ -61397,18 +61405,17 @@
   },
   {
     "SourceTerm": "金佛不度爐",
-    "PreferredTarget": "a gold buddha does not pass through the furnace",
+    "PreferredTarget": "a golden buddha does not pass through the furnace",
     "AlternateTargets": [
-      "the gold buddha cannot cross the furnace"
+      "the golden buddha cannot survive the furnace"
     ],
     "SearchAliases": [
-      "a gold buddha does not pass through the furnace",
-      "the gold buddha cannot cross the furnace"
+      "gold buddha and furnace"
     ],
     "Status": "preferred",
-    "Note": "The formula tests gold, wood, and clay buddha images against their material limits; counter-verses alter the claim without changing the gold-buddha referent.",
-    "CreatedBy": "Codex f002 Lane B evidence-first refresh",
-    "WrittenUtc": null
+    "Note": "The furnace is selected for gold in the same way that fire and water test the wooden and clay figures in the full formula.",
+    "CreatedBy": "R94 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "金佛不渡爐",
@@ -67861,7 +67868,7 @@
   },
   {
     "SourceTerm": "高著眼看",
-    "PreferredTarget": "raise your eyes and look sharply",
+    "PreferredTarget": "look with your eye held high",
     "AlternateTargets": [
       "look closely",
       "pay close attention"
