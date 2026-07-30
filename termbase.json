@@ -33672,16 +33672,19 @@
     "SourceTerm": "本來面目",
     "PreferredTarget": "what one originally is",
     "AlternateTargets": [
-      "original face"
+      "what you originally are",
+      "what I originally am",
+      "what all beings originally are",
+      "original face (literal/traditional calque)"
     ],
     "SearchAliases": [
       "what you originally are",
-      "what a person originally is"
+      "before your parents were born"
     ],
     "Status": "preferred",
-    "Note": "The preferred rendering states the phrase’s corpus-wide referent in intelligible English without adding the metaphysical claim implied by “essence.” The traditional literal calque is retained only as an alternate.",
-    "CreatedBy": "Codex legacy full rebuild Lane B",
-    "WrittenUtc": "2026-07-16T18:11:09.829955+00:00"
+    "Note": "The traditional literal calque is opaque as unglossed English and no retained passage requires it. Contextual equations with mind or nature belong to individual speakers. Do not add essence, and do not promote parentage or visual imagery into the lexical meaning.",
+    "CreatedBy": "R83 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T09:10:00Z"
   },
   {
     "SourceTerm": "本分",
@@ -59403,15 +59406,17 @@
   },
   {
     "SourceTerm": "返本還源",
-    "PreferredTarget": "return to the root and go back to the source",
-    "AlternateTargets": [],
+    "PreferredTarget": "return to the root and source",
+    "AlternateTargets": [
+      "return to the original source"
+    ],
     "SearchAliases": [
-      "return to the root and source"
+      "return to root and source"
     ],
     "Status": "preferred",
-    "Note": "Report the attested return predicates without turning the phrase into a doctrinal destination. No lamp is retained.",
-    "CreatedBy": "V7 batch66 admitted19 constructor C",
-    "WrittenUtc": "2026-07-29T14:30:00Z"
+    "Note": "Do not flatten the critical uses into a universal prescription. The phrase names the proposed return; the surrounding speaker judges whether that framing is useful or already mistaken. The roster label Liangshan Kuoan Ze corresponds to Kuoan Shiyuan, author of the retained oxherding verse.",
+    "CreatedBy": "R83 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T09:10:00Z"
   },
   {
     "SourceTerm": "返照回光",
@@ -64367,18 +64372,18 @@
   },
   {
     "SourceTerm": "雞鳴丑",
-    "PreferredTarget": "cockcrow, the chou period",
+    "PreferredTarget": "cockcrow—the Chou hour",
     "AlternateTargets": [
-      "cockcrow in the double-hour of chou"
+      "at cockcrow, in the Chou period"
     ],
     "SearchAliases": [
-      "cockcrow, the chou period",
-      "cockcrow in the double-hour of chou"
+      "cockcrow chou hour",
+      "chou period"
     ],
     "Status": "preferred",
-    "Note": "The heading names a time; 丑 is the terrestrial branch here, not the adjective “ugly.”",
-    "CreatedBy": "Codex Batch39 construction C",
-    "WrittenUtc": "2026-07-29T05:49:53.343181Z"
+    "Note": "The words name a time slot and song heading. The following images vary by verse and do not create additional senses.",
+    "CreatedBy": "R83 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T09:10:00Z"
   },
   {
     "SourceTerm": "離微",

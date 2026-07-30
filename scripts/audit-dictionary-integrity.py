@@ -21,7 +21,11 @@ def require(entry_id, path, expected):
 
 
 require("t_1c7d25824f85", ("Senses", 0, "PreferredTarget"), "what one originally is")
-require("t_1c7d25824f85", ("Senses", 0, "AlternateTargets", 0), "original face")
+require(
+    "t_1c7d25824f85",
+    ("Senses", 0, "AlternateTargets", 3),
+    "original face (literal/traditional calque)",
+)
 require(
     "t_59b880301320",
     ("Senses", 0, "PreferredTarget"),
@@ -33,7 +37,7 @@ require(
     "what someone or something really is",
 )
 
-allowed = ("t_1c7d25824f85", "Senses.0.AlternateTargets.0")
+allowed = ("t_1c7d25824f85", "Senses.0.AlternateTargets.3")
 
 
 def walk(value, path=()):
