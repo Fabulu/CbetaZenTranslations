@@ -4724,22 +4724,16 @@
   },
   {
     "SourceTerm": "主人公",
-    "PreferredTarget": "the one in charge",
-    "AlternateTargets": [
-      "the master of the house",
-      "one’s own master"
-    ],
+    "PreferredTarget": "master of the house",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "one in charge",
-      "master of the house",
-      "own master",
-      "the one in charge",
-      "the master of the house"
+      "master",
+      "governing subject"
     ],
     "Status": "preferred",
-    "Note": "The household title becomes a personified designation called, questioned, equated, and tested in direct self-address and public exchanges.",
-    "CreatedBy": "Codex legacy full rebuild Lane A",
-    "WrittenUtc": "2026-07-16T18:01:59.968146+00:00"
+    "Note": "The records do not make 主人公 a universal equivalent for self, mind, true self, or an endorsed metaphysical entity; several retained uses explicitly expose a mistaken identification.",
+    "CreatedBy": "R58 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T04:54:34.254677Z"
   },
   {
     "SourceTerm": "主人翁",
@@ -33280,19 +33274,16 @@
   },
   {
     "SourceTerm": "木人",
-    "PreferredTarget": "wooden figure",
-    "AlternateTargets": [
-      "wooden man"
-    ],
+    "PreferredTarget": "wooden person",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "wood man",
-      "wooden person",
-      "wooden figure that speaks"
+      "wooden man",
+      "wooden puppet"
     ],
     "Status": "preferred",
-    "Note": "Exact XML count: 940 hits in 231 allowlisted texts. Modifier verdict: conventional-name | unresolved. Tian'an Sheng's 'carved wooden man' is a person-epithet, not construction evidence for the stock impossible actor. The preferred target preserves the visible compound without asserting a proved carving process. The wooden-figure and barren-woman pairing is a family relation, not evidence that the two headwords are interchangeable.",
-    "CreatedBy": "Codex fresh f002 Lane A evidence-first",
-    "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
+    "Note": "Two apparent corpus hits were 草木|人 rather than 木人 and are excluded. Yongming Yanshou's quotation of Yongjia is one reception family, not a second independent deployment.",
+    "CreatedBy": "R58 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T04:54:34.254677Z"
   },
   {
     "SourceTerm": "木人夜半穿靴去、石女天明戴帽歸",
@@ -52500,20 +52491,17 @@
   },
   {
     "SourceTerm": "舉揚",
-    "PreferredTarget": "to raise and proclaim",
-    "AlternateTargets": [
-      "to hold forth on",
-      "to present publicly"
-    ],
+    "PreferredTarget": "bring forward and proclaim",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "to raise and proclaim",
-      "to hold forth on",
-      "to present publicly"
+      "present and expound",
+      "commend publicly",
+      "display"
     ],
     "Status": "preferred",
-    "Note": "No definition formula was found. The deviation is institutional and observable: the ordinary verb becomes a recurrent description of the public teaching-seat work recorded for Yuanwu Keqin, Yinyuan Longqi, and other named masters from the teaching seat. The corpus does not support separate senses for different subjects raised; all are objects of the same transitive act. Frozen-corpus concordance: 1787 exact hits in 298 storage files representing 293 independent works.",
-    "CreatedBy": "Codex f002 Lane B evidence-first refresh",
-    "WrittenUtc": null
+    "Note": "The verb does not always mean raising a case. Its object and setting decide whether English needs proclaim, expound, commend, publicize, or display.",
+    "CreatedBy": "R58 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T04:54:34.254677Z"
   },
   {
     "SourceTerm": "舉火",
