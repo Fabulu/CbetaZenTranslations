@@ -15922,18 +15922,6 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
-    "SourceTerm": "囑令加護",
-    "PreferredTarget": "charge him to guard it carefully",
-    "AlternateTargets": [],
-    "SearchAliases": [
-      "charge him to guard it carefully"
-    ],
-    "Status": "preferred",
-    "Note": "Retain the four-graph narrative formula; 加護 alone is broader Buddhist vocabulary and is not the same lexical unit. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
-  },
-  {
     "SourceTerm": "四七二三",
     "PreferredTarget": "the twenty-eight Indian and six Chinese patriarchs",
     "AlternateTargets": [],
@@ -23261,14 +23249,19 @@
   {
     "SourceTerm": "度人已畢",
     "PreferredTarget": "the work of liberating people was already complete",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "the work of delivering people was already complete"
+    ],
     "SearchAliases": [
-      "the work of liberating people was already complete"
+      "finished delivering people",
+      "before leaving the womb the work was complete",
+      "未出母胎度人已畢",
+      "未出母胎，度人已畢"
     ],
     "Status": "preferred",
-    "Note": "Bind 未出母胎 as the governing first half; generic claims that teaching work is finished are not this birth formula. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "度人 literally concerns bringing or carrying people across and conventionally means delivering or liberating them. Preserve the completed-action force of 已畢. The phrase does not mean that a later teaching career historically ended before birth; the retained masters use and test the inherited formula as a temporal reversal.",
+    "CreatedBy": "R74 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T08:27:22.495392Z"
   },
   {
     "SourceTerm": "座主",
@@ -26642,18 +26635,17 @@
   },
   {
     "SourceTerm": "打一圓相",
-    "PreferredTarget": "make a circle",
+    "PreferredTarget": "draw a circle",
     "AlternateTargets": [
-      "trace a circular figure"
+      "trace a circle"
     ],
     "SearchAliases": [
-      "draw a circle",
-      "make a circular sign"
+      "make a circular figure"
     ],
     "Status": "preferred",
-    "Note": "Actor, instrument, and repeated-circle expansions belong to this action family; 一圓相 remains the noun for the figure.",
-    "CreatedBy": "Codex Batch28 source-tier construction",
-    "WrittenUtc": "2026-07-29T00:00:00Z"
+    "Note": "Translate the performed action, not a supposed doctrine encoded in the circle. The instrument may be a hand, finger, whisk, firebrand, or may be unstated. Keep “walk around in a circle” separate: it is a different bodily action even when the same record juxtaposes it with a drawn circle.",
+    "CreatedBy": "R74 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T08:27:22.495392Z"
   },
   {
     "SourceTerm": "打一拂子",
