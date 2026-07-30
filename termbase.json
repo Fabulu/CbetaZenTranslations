@@ -11568,20 +11568,16 @@
   },
   {
     "SourceTerm": "劫外",
-    "PreferredTarget": "beyond the eon",
-    "AlternateTargets": [
-      "outside the eon",
-      "before the eon"
-    ],
+    "PreferredTarget": "beyond the cosmic aeon",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "beyond the eon",
-      "outside the eon",
-      "before the eon"
+      "before the kalpa",
+      "outside the aeon"
     ],
     "Status": "preferred",
-    "Note": "Seven body witnesses use the beyond-the-eon expression temporally or attributively for what is beyond/before an eon. The book title Record Beyond the Eon is excluded from semantic depth rather than treated as another temporal witness.",
-    "CreatedBy": "Codex Lane C independent-review repair",
-    "WrittenUtc": "2026-07-17T03:30:00Z"
+    "Note": "Prefer the graph-level temporal image. “Timeless,” “eternal,” and metaphysical equivalents say more than the cited passages establish.",
+    "CreatedBy": "R70 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T06:58:40.482212Z"
   },
   {
     "SourceTerm": "劫火",
@@ -14565,15 +14561,16 @@
   },
   {
     "SourceTerm": "呈漆器",
-    "PreferredTarget": "to present lacquerware",
+    "PreferredTarget": "present the lacquerware",
     "AlternateTargets": [],
     "SearchAliases": [
-      "to present lacquerware"
+      "display a lacquered vessel",
+      "show the lacquerware"
     ],
     "Status": "preferred",
-    "Note": "No broader installed identity is asserted; retain the exact three-graph answer. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The later praise interprets the response without supplying a stable lexical substitute for 漆器. Do not turn the phrase into 'demonstrate enlightenment' or another doctrinal gloss.",
+    "CreatedBy": "R70 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T06:58:40.482212Z"
   },
   {
     "SourceTerm": "呈見解",
@@ -43341,15 +43338,16 @@
   },
   {
     "SourceTerm": "瓦解冰消",
-    "PreferredTarget": "break apart like tiles and melt like ice",
+    "PreferredTarget": "collapse and melt away",
     "AlternateTargets": [],
     "SearchAliases": [
-      "break apart like tiles and melt like ice"
+      "dissolve completely",
+      "vanish without remainder"
     ],
     "Status": "preferred",
-    "Note": "Preserve the two different modes—breaking and melting—while context supplies what disappears. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The compound is a single image of thorough dissolution, not two separate techniques or stages. Context supplies what collapses. Three Yunmen witnesses preserve one parallel encounter family and must not be counted as three independent semantic deployments.",
+    "CreatedBy": "R70 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T06:58:40.482212Z"
   },
   {
     "SourceTerm": "瓦解氷消",
