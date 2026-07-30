@@ -10637,22 +10637,16 @@
   },
   {
     "SourceTerm": "分別",
-    "PreferredTarget": "distinguishing",
-    "AlternateTargets": [
-      "the distinguishing [mind]",
-      "to distinguish",
-      "to tell apart"
-    ],
+    "PreferredTarget": "distinguish",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "the distinguishing [mind]",
-      "to distinguish",
-      "to tell apart",
-      "distinguishing"
+      "discrimination",
+      "make distinctions"
     ],
     "Status": "preferred",
-    "Note": "9 exact evidence rows from 9 independent works are stored for this sense.",
-    "CreatedBy": "Codex fresh f001 lane A evidence-first",
-    "WrittenUtc": "2026-07-19T03:37:28.430726+00:00"
+    "Note": "The retained records use 分別 for distinguishing, distinctions, and the activity of making them; context supplies the English grammar.",
+    "CreatedBy": "R52 sealed R51 continuation",
+    "WrittenUtc": "2026-07-30T02:47:27.801473Z"
   },
   {
     "SourceTerm": "分別心",
@@ -23772,15 +23766,15 @@
   },
   {
     "SourceTerm": "弟子身纏風恙",
-    "PreferredTarget": "this disciple's body is afflicted by wind-illness",
+    "PreferredTarget": "this disciple is afflicted by illness",
     "AlternateTargets": [],
     "SearchAliases": [
-      "this disciple's body is afflicted by wind-illness"
+      "this disciple's body is afflicted by illness"
     ],
     "Status": "preferred",
-    "Note": "Retain 弟子 and the bodily wind-affliction together; 風恙 alone is ordinary illness vocabulary. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "風恙 names Sengcan's ailment in this case. The entry does not convert the exchange into medical instruction.",
+    "CreatedBy": "R52 sealed R51 continuation",
+    "WrittenUtc": "2026-07-30T02:47:27.801473Z"
   },
   {
     "SourceTerm": "弟應兄呼",
@@ -53792,21 +53786,15 @@
   {
     "SourceTerm": "落處",
     "PreferredTarget": "where it lands",
-    "AlternateTargets": [
-      "the landing point",
-      "the bearing",
-      "where it comes down"
-    ],
+    "AlternateTargets": [],
     "SearchAliases": [
-      "where it lands",
-      "the landing point",
-      "the bearing",
-      "where it comes down"
+      "landing place",
+      "where it comes to rest"
     ],
     "Status": "preferred",
-    "Note": "Questions about knowing, not knowing, and asking the landing place remain one sense; the article reports the source relation without search or audit language.",
-    "CreatedBy": "Codex fresh f001 lane B evidence-first",
-    "WrittenUtc": "2026-07-15T05:30:00Z"
+    "Note": "The target is contextual rather than geographical: the corpus applies it to the discernible arrival, outcome, or placement of what is under examination.",
+    "CreatedBy": "R52 sealed R51 continuation",
+    "WrittenUtc": "2026-07-30T02:47:27.801473Z"
   },
   {
     "SourceTerm": "落霞與孤鶩齊飛，秋水共長天一色",
