@@ -46234,16 +46234,16 @@
     "SourceTerm": "瞞人",
     "PreferredTarget": "deceive people",
     "AlternateTargets": [
-      "fool people",
       "mislead others"
     ],
     "SearchAliases": [
-      "deceive people"
+      "fool people",
+      "deceive others"
     ],
     "Status": "preferred",
-    "Note": "A recurring adverse judgment on words, conduct, or inherited interpretations; the records also distinguish deceiving others from deceiving oneself and can deny deceptive intent.",
-    "CreatedBy": "Codex fresh f002 Lane A evidence-first",
-    "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
+    "Note": "Keep the ordinary transitive force of 瞞. The Zen records make it a practical verdict about claims, sayings, and self-understanding; they do not establish a separate mystical sense. Negative forms such as 不瞞人 and 一點瞞人不得 remain the same lexical action under negation.",
+    "CreatedBy": "R72 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T08:04:10.728784Z"
   },
   {
     "SourceTerm": "瞞人自瞞",
@@ -48001,12 +48001,12 @@
     "PreferredTarget": "Heshan beats the drum",
     "AlternateTargets": [],
     "SearchAliases": [
-      "Heshan beats the drum"
+      "Heshan's drum-beating"
     ],
     "Status": "preferred",
-    "Note": "The headword uses a transmitted drum graph; bind the fuller “knows how to beat the drum” answer where the fuller answer is present and do not turn the drum into an abstract doctrine. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "皷 is a graphic variant of 鼓, not a second sense: the corpus also preserves 禾山打鼓 extensively. Translate the named case rather than generalizing the phrase into an instruction to drum or silently substituting a doctrinal abstraction.",
+    "CreatedBy": "R72 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T08:04:10.728784Z"
   },
   {
     "SourceTerm": "禾山打鼓",
@@ -56588,24 +56588,6 @@
     "Note": "The entry keeps the two verbs distinct in English while treating their coordinated reach as one sense.",
     "CreatedBy": "Codex cohort-002 lane-A 151-160 strict full-case author",
     "WrittenUtc": "2026-07-19T09:18:00Z"
-  },
-  {
-    "SourceTerm": "誌公",
-    "PreferredTarget": "Master Zhigong",
-    "AlternateTargets": [
-      "Zhigong",
-      "Baozhi"
-    ],
-    "SearchAliases": [
-      "Master Zhigong",
-      "Zhigong",
-      "Baozhi",
-      "Zen Master Zhigong"
-    ],
-    "Status": "preferred",
-    "Note": "Zhigong/Baozhi is preserved as an identified but unlinked named figure; link-bearing fields contain only roster-canonical masters.",
-    "CreatedBy": "Codex f002 Lane C author",
-    "WrittenUtc": "2026-07-15T02:23:02.970740+00:00"
   },
   {
     "SourceTerm": "認奴作郎",
