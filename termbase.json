@@ -15880,18 +15880,19 @@
   },
   {
     "SourceTerm": "囉囉哩",
-    "PreferredTarget": "luo-luo-li!",
+    "PreferredTarget": "la-la-li",
     "AlternateTargets": [
-      "lo-lo-li!"
+      "nonlexical sung refrain",
+      "luo-luo-li!"
     ],
     "SearchAliases": [
       "song refrain",
       "capping cry"
     ],
     "Status": "preferred",
-    "Note": "A Tier-2 active quotation controls; no derivation or lamp evidence is asserted.",
-    "CreatedBy": "Codex Batch35 lane-A construction",
-    "WrittenUtc": "2026-07-29T00:00:00Z"
+    "Note": "Transliteration preserves the sound; context supplies the performance, not a lexical meaning for each graph.",
+    "CreatedBy": "R82 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T09:10:00Z"
   },
   {
     "SourceTerm": "囊無繫蟻之絲",
@@ -32975,16 +32976,16 @@
     "SourceTerm": "有時人境兩俱奪",
     "PreferredTarget": "at times both person and environment are taken away",
     "AlternateTargets": [
-      "sometimes both subject and circumstances are removed"
+      "sometimes both person and situation are stripped away"
     ],
     "SearchAliases": [
       "take away both person and environment",
-      "Linji's four selections"
+      "Linji's Four Selections"
     ],
     "Status": "preferred",
-    "Note": "Parallel Linji recensions are one Four Selections family and count once.",
-    "CreatedBy": "source_tiers_c_batch23",
-    "WrittenUtc": null
+    "Note": "Parallel copies of Linji's original formula remain one original family; the retained later witnesses are distinct active commentary deployments.",
+    "CreatedBy": "R82 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T09:10:00Z"
   },
   {
     "SourceTerm": "有條攀條，無條攀例",
@@ -42785,16 +42786,17 @@
   },
   {
     "SourceTerm": "獅子吼時芳草綠",
-    "PreferredTarget": "when the lion roars, fragrant grass grows green",
-    "AlternateTargets": [],
+    "PreferredTarget": "when the lion roars, the fragrant grass is green",
+    "AlternateTargets": [
+      "at the lion’s roar, the fragrant grass is green"
+    ],
     "SearchAliases": [
-      "lion roars and fragrant grass greens",
-      "獅子吼時芳草綠"
+      "lion roar fragrant grass green"
     ],
     "Status": "preferred",
-    "Note": "Bind the elephant-king continuation without assigning doctrinal symbols. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The records do not establish one fixed allegorical decoding of lion, grass, elephant, and flowers.",
+    "CreatedBy": "R82 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T09:10:00Z"
   },
   {
     "SourceTerm": "獅子教兒迷子訣",
