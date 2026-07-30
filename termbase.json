@@ -36381,17 +36381,15 @@
   {
     "SourceTerm": "歸方丈",
     "PreferredTarget": "return to the abbot's quarters",
-    "AlternateTargets": [
-      "go back to the abbot's room",
-      "retire to the abbot's quarters"
-    ],
+    "AlternateTargets": [],
     "SearchAliases": [
-      "return to the abbot's quarters"
+      "return to his quarters",
+      "go back to the abbot's room"
     ],
     "Status": "preferred",
-    "Note": "The Chan deployment is institutional and narrative: the abbot's quarters repeatedly mark the place to which the presiding master withdraws after an encounter or formal appearance. The phrase does not itself state why he withdraws. Corpus review found no different referent requiring a split; changes in the preceding action are different deployments of the same movement.",
-    "CreatedBy": "Codex fresh f002 Lane A evidence-first",
-    "WrittenUtc": "2026-07-15T15:00:00Z"
+    "Note": "方丈 is the abbot's room or quarters in this institutional phrase, not merely a square measure.",
+    "CreatedBy": "R54 source-hierarchy repair continuation",
+    "WrittenUtc": "2026-07-30T03:36:19.126051Z"
   },
   {
     "SourceTerm": "死中得活",
@@ -41629,19 +41627,15 @@
   {
     "SourceTerm": "燈錄",
     "PreferredTarget": "lamp record",
-    "AlternateTargets": [
-      "transmission record"
-    ],
+    "AlternateTargets": [],
     "SearchAliases": [
-      "lamp record",
-      "lamp chronicle",
-      "transmission-lamp record",
-      "lineage record"
+      "transmission-of-the-lamp record",
+      "lamp chronicle"
     ],
     "Status": "preferred",
-    "Note": "The headword-plus-transmission construction occurs 382 times in 61 texts; the headword-plus-continuation construction occurs 83 times in 13. Six apparent strings of the form “lamp record is...” are relative clauses about works or people listed in them, not self-definitions.",
-    "CreatedBy": "Codex fresh-build lane C",
-    "WrittenUtc": null
+    "Note": "A mention of a lamp record is evidence for this genre label, not authority for preferring lamp witnesses over authored texts or recorded sayings.",
+    "CreatedBy": "R54 source-hierarchy repair continuation",
+    "WrittenUtc": "2026-07-30T03:36:19.126051Z"
   },
   {
     "SourceTerm": "燒佛",
@@ -45137,16 +45131,15 @@
   },
   {
     "SourceTerm": "盤走珠兮珠走盤",
-    "PreferredTarget": "the tray rolls the pearl, and the pearl rolls around the tray",
+    "PreferredTarget": "the pearl rolls on the tray; the tray rolls with the pearl",
     "AlternateTargets": [],
     "SearchAliases": [
-      "tray rolls pearl and pearl rolls tray",
-      "free reciprocal movement"
+      "pearl and tray roll together"
     ],
     "Status": "preferred",
-    "Note": "Both reciprocal clauses are part of the image. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The balanced reversal is part of the expression and should remain visible in translation.",
+    "CreatedBy": "R54 source-hierarchy repair continuation",
+    "WrittenUtc": "2026-07-30T03:36:19.126051Z"
   },
   {
     "SourceTerm": "盧舍那",
