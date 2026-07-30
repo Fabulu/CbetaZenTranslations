@@ -42815,15 +42815,17 @@
   },
   {
     "SourceTerm": "獅子窟中無異獸",
-    "PreferredTarget": "in the lion's den there is no different beast",
-    "AlternateTargets": [],
+    "PreferredTarget": "there is no other beast in a lion's den",
+    "AlternateTargets": [
+      "a lion's den contains no alien beast"
+    ],
     "SearchAliases": [
-      "in the lion's den there is no different beast"
+      "no different beast in the lion's den"
     ],
     "Status": "preferred",
-    "Note": "異獸 is a beast of another kind, not merely an unusual animal; the saying can voice a claim that the responding master then rejects, so do not present every occurrence as endorsed. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "Assertion, challenge, approval, and rebuke are speech jobs of one image, not separate lexical senses. Repeated versions of the inherited Baoci-Wolong encounter are one family.",
+    "CreatedBy": "R86 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "獅子窟中無異獸、象王行處絶狐蹤",
@@ -47776,23 +47778,18 @@
   },
   {
     "SourceTerm": "禮拜",
-    "PreferredTarget": "to make a ritual bow or prostration",
+    "PreferredTarget": "bow in respect",
     "AlternateTargets": [
-      "to bow in reverence",
-      "to make ritual obeisance",
-      "a ritual bow or prostration"
+      "make a respectful bow",
+      "pay respects"
     ],
     "SearchAliases": [
-      "bow",
-      "prostrate",
-      "make obeisance",
-      "ritual bow",
-      "bow before the master"
+      "make obeisance"
     ],
     "Status": "preferred",
-    "Note": "13 exact evidence rows from 7 independent works are stored for this sense; repeated files or editions are not counted as separate works.",
-    "CreatedBy": "Codex fresh f001 lane A evidence-first",
-    "WrittenUtc": "2026-07-15T00:00:00Z"
+    "Note": "The action itself does not establish an inward state. The performer owns the action, not its recipient or the later record owner.",
+    "CreatedBy": "R86 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "禮非玉帛而不表。樂非鐘鼓而不傳",
@@ -55570,21 +55567,17 @@
   },
   {
     "SourceTerm": "覓心了不可得",
-    "PreferredTarget": "having sought the mind, I could not find it",
+    "PreferredTarget": "on searching for the mind, it is wholly unobtainable",
     "AlternateTargets": [
-      "I sought the mind and found it altogether unobtainable"
+      "I searched for the mind and found it wholly unobtainable"
     ],
     "SearchAliases": [
-      "I sought the mind but could not find it",
-      "Huike could not find the mind",
-      "Bodhidharma bring me your mind case",
-      "having sought the mind it was unobtainable",
-      "Huike mind-settling reply"
+      "search for the mind and find it unobtainable"
     ],
     "Status": "preferred",
-    "Note": "The Zen deviation is the promotion of one first-person reply into the fixed hinge of the lineage's mind-settling case. Six exact-headword witnesses span original-case transmission, public examination, criticism, later first-person reuse, and commentary. The shortened supporting quotation lacks the headword and is marked contrast. The critical appraisal is preserved rather than harmonized away. Huike and Bodhidharma remain on the lineage roster. Frozen-corpus concordance: 136 exact hits in 88 storage files representing 88 independent works.",
-    "CreatedBy": "Codex f002 Lane B evidence-first refresh",
-    "WrittenUtc": "2026-07-20T00:00:00Z"
+    "Note": "The mind cannot be produced as a graspable object; the phrase does not claim that experience or functioning is absent.",
+    "CreatedBy": "R86 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "覓甚舊時仁",
