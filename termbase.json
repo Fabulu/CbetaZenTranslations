@@ -2918,19 +2918,15 @@
   },
   {
     "SourceTerm": "三界唯心",
-    "PreferredTarget": "the three realms are only mind",
-    "AlternateTargets": [
-      "all three realms are mind"
-    ],
+    "PreferredTarget": "the three realms are mind alone",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "three realms are only mind",
-      "three worlds are only mind",
-      "all three realms are mind"
+      "the three realms are only mind"
     ],
     "Status": "preferred",
-    "Note": "The Xuansha–Luohan chair exchange recurs in lamp records as one encounter; quotation, assertion, and later raising do not create separate senses.",
-    "CreatedBy": "Codex f002 Lane B evidence-first refresh",
-    "WrittenUtc": "2026-07-19T03:23:22.023942+00:00"
+    "Note": "Preserve the formula but do not inflate 唯心 into an abstract metaphysical idealism. Several retained masters test, qualify, or redirect the inherited Buddhist wording instead of treating it as a self-sufficient Zen definition.",
+    "CreatedBy": "R71 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T07:45:11.362026Z"
   },
   {
     "SourceTerm": "三界唯心，萬法唯識",
@@ -14919,16 +14915,15 @@
   },
   {
     "SourceTerm": "唐喪光陰",
-    "PreferredTarget": "waste your time for nothing",
+    "PreferredTarget": "waste one's time",
     "AlternateTargets": [],
     "SearchAliases": [
-      "waste time for nothing",
-      "squander one's time"
+      "squander one's time in vain"
     ],
     "Status": "preferred",
-    "Note": "唐 is adverbial 'vainly', not the Tang dynasty. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "唐 is adverbial here—vainly or to no purpose. The compound does not mean that the Tang dynasty lost time.",
+    "CreatedBy": "R71 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T07:45:11.362026Z"
   },
   {
     "SourceTerm": "唯嫌揀擇",
@@ -50300,15 +50295,16 @@
   },
   {
     "SourceTerm": "縱觀寫出飛禽跡",
-    "PreferredTarget": "look freely and trace the tracks of flying birds",
+    "PreferredTarget": "gaze freely and trace the tracks of flying birds",
     "AlternateTargets": [],
     "SearchAliases": [
-      "look freely and trace the tracks of flying birds"
+      "look broadly and write out the traces of flying birds",
+      "gaze at will and draw forth the tracks of flying birds"
     ],
     "Status": "preferred",
-    "Note": "Bind 徐行踏斷水流聲 as the recurrent first half; 飛禽跡 alone lacks the impossible act expressed by the full line. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "Retain the impossible-track image. The sources do not establish a single doctrinal paraphrase such as enlightenment, freedom, or emptiness. Do not silently expand this headword to the whole two-line couplet.",
+    "CreatedBy": "R71 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T07:45:11.362026Z"
   },
   {
     "SourceTerm": "織錦於西舍",
