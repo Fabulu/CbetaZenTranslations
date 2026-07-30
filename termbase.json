@@ -48596,15 +48596,19 @@
   },
   {
     "SourceTerm": "窮廝煎",
-    "PreferredTarget": "the poor torment one another",
-    "AlternateTargets": [],
+    "PreferredTarget": "be tormented by poverty",
+    "AlternateTargets": [
+      "stew in poverty",
+      "torment oneself endlessly"
+    ],
     "SearchAliases": [
-      "the poor torment one another"
+      "be miserably harried",
+      "stew in one's straits"
     ],
     "Status": "preferred",
-    "Note": "Retain the colloquial reciprocal 廝 and its 餓廝吵/炒 partner; do not flatten 煎 into literal cooking. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The paired wording in three of four retained witnesses makes poverty and hunger the lexical center. The broader reflexive or exhaustion reading is retained only as a contextual extension of Shipu's unpaired use.",
+    "CreatedBy": "R64 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T05:30:44.930840Z"
   },
   {
     "SourceTerm": "窮諸玄辯",
@@ -64395,18 +64399,16 @@
   },
   {
     "SourceTerm": "雞棲鳳巢",
-    "PreferredTarget": "a chicken roosts in a phoenix nest",
-    "AlternateTargets": [
-      "the wrong kind in an exalted nest"
-    ],
+    "PreferredTarget": "a chicken roosting in a phoenix nest",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "a chicken roosts in a phoenix nest",
-      "the wrong kind in an exalted nest"
+      "an unworthy occupant of an exalted place",
+      "a mismatch of kind or standing"
     ],
     "Status": "preferred",
-    "Note": "Preserve the chicken-and-phoenix mismatch rather than replacing it with generic inferiority.",
-    "CreatedBy": "Codex Batch40 construction C",
-    "WrittenUtc": "2026-07-29T06:01:13.766080Z"
+    "Note": "These are four independent deployment contexts of one inherited Jiashan formula, not four independent origins. Its repeated continuation 非其同類 or 非吾同類 makes the evaluative force explicit: occupant and nest do not belong to the same class.",
+    "CreatedBy": "R64 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T05:30:44.930840Z"
   },
   {
     "SourceTerm": "雞鳴丑",
@@ -69435,5 +69437,18 @@
     "Note": "The lotus-blossom parallels repeat Gushan Zang's appraisal; Tianran's guest-host challenge is a separate deployment, not a second object.",
     "CreatedBy": "Codex cohort-002 lane-B B141-B150 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
+  },
+  {
+    "SourceTerm": "舉問",
+    "PreferredTarget": "raise a saying and ask about it",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "cite and ask",
+      "bring up for questioning"
+    ],
+    "Status": "preferred",
+    "Note": "舉 contributes the act of bringing the material forward; 問 contributes the question. Context decides whether English should say 'raise and ask,' 'cite and ask about,' or 'put to someone as a question.'",
+    "CreatedBy": "R64 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T05:30:44.930840Z"
   }
 ]
