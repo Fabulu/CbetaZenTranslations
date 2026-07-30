@@ -10992,18 +10992,18 @@
   },
   {
     "SourceTerm": "刻刻提撕",
-    "PreferredTarget": "bring it up and scrutinize it every moment",
+    "PreferredTarget": "keep bringing it to attention, moment after moment",
     "AlternateTargets": [
-      "attend to it moment after moment"
+      "bring it up and examine it at every moment",
+      "keep it under examination, moment after moment"
     ],
     "SearchAliases": [
-      "bring it up and scrutinize it every moment",
-      "attend to it moment after moment"
+      "moment after moment keep it present"
     ],
     "Status": "preferred",
-    "Note": "提撕 combines bringing up, attending to, and examining; the object is supplied by each instruction.",
-    "CreatedBy": "Codex Batch40 construction C",
-    "WrittenUtc": "2026-07-29T06:01:16.564275Z"
+    "Note": "Context supplies the object. The phrase does not itself name a posture or undifferentiated awareness.",
+    "CreatedBy": "R87 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "刻舟尋劍",
@@ -11591,18 +11591,17 @@
   },
   {
     "SourceTerm": "劫火洞然毫末盡",
-    "PreferredTarget": "when the kalpa fire blazes, even the smallest tip is consumed",
+    "PreferredTarget": "when the kalpa fire blazes, not a hair-tip remains",
     "AlternateTargets": [
-      "the blazing kalpa fire leaves not the finest tip"
+      "the kalpa fire blazes and consumes every hair-tip"
     ],
     "SearchAliases": [
-      "kalpa fire consumes everything",
-      "not the smallest tip remains"
+      "not a hair-tip survives the kalpa fire"
     ],
     "Status": "preferred",
-    "Note": "The retained Tier-2 deployment preserves the line as the first half of a contrastive couplet.",
-    "CreatedBy": "Codex Batch22 construction lane A",
-    "WrittenUtc": "2026-07-29T00:00:00Z"
+    "Note": "The following green-mountains line supplies a deliberate counterpoint and should remain visible in context. Repeated copies of the inherited pair do not manufacture additional depth.",
+    "CreatedBy": "R87 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "劫火洞然毫末盡，青山依舊白雲中",
@@ -44625,13 +44624,12 @@
       "Baizhang was deafened for three days"
     ],
     "SearchAliases": [
-      "Baizhang three days deaf",
-      "Mazu shout deafened Baizhang"
+      "Baizhang was three days deaf"
     ],
     "Status": "preferred",
-    "Note": "One Mazu–Baizhang shout family is retained; the rhetorical case line is not a medical diagnosis.",
-    "CreatedBy": "Codex Batch23 construction lane A",
-    "WrittenUtc": null
+    "Note": "Baizhang is the represented experiencer, not the source of these later formulations. Later narration, questioning, and commentary do not create additional lexical senses.",
+    "CreatedBy": "R87 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "百丈野狐",
