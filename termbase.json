@@ -3892,21 +3892,15 @@
   },
   {
     "SourceTerm": "不昧因果",
-    "PreferredTarget": "not blind to cause and effect",
-    "AlternateTargets": [
-      "not obscuring cause and effect",
-      "not ignorant of cause and effect"
-    ],
+    "PreferredTarget": "not obscure cause and effect",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "not blind to cause and effect",
-      "not ignorant of cause and effect",
-      "not obscuring causality",
-      "Baizhang fox answer"
+      "not be blind to cause and effect"
     ],
     "Status": "preferred",
-    "Note": "The primary sense is the shared phrase in the historical Baizhang public case, not a Baizhang-specific meaning. The fox-body sequence is translated because the record literally states it; no broader account is inferred from it. Wansong's contrast, the embedded monk's objection, Wumen's paired verdict, Chaozong's no-rope rebuke, and later same-or-different questions are preserved as speaker-owned positions. They do not create different referents and therefore do not justify a sense split.",
-    "CreatedBy": "Codex fresh f001 lane B evidence-first",
-    "WrittenUtc": "2026-07-20T00:00:00Z"
+    "Note": "The retained witnesses show the phrase being tested, contrasted, and reused. They do not support treating it as a self-explanatory slogan or a mechanical exemption from causality.",
+    "CreatedBy": "R37 bounded clean constructor",
+    "WrittenUtc": "2026-07-30T00:33:00Z"
   },
   {
     "SourceTerm": "不是一番寒徹骨、爭得梅花撲鼻香",
@@ -47881,17 +47875,15 @@
   {
     "SourceTerm": "禺中巳",
     "PreferredTarget": "late morning—the si hour",
-    "AlternateTargets": [
-      "late morning, si hour"
-    ],
+    "AlternateTargets": [],
     "SearchAliases": [
-      "si hour",
-      "late morning"
+      "late morning (9–11 a.m.)",
+      "the si-hour period"
     ],
     "Status": "preferred",
-    "Note": "Two independent Tier-2 deployment families support this sense; lamp and lineage-compilation copies are excluded.",
-    "CreatedBy": "Codex Batch34 lane-C source-tier construction",
-    "WrittenUtc": "2026-07-29T00:00:00Z"
+    "Note": "The accompanying verse differs by author; the stable lexical job is the named late-morning time segment and its place in the daily sequence.",
+    "CreatedBy": "R37 bounded clean constructor",
+    "WrittenUtc": "2026-07-30T00:33:00Z"
   },
   {
     "SourceTerm": "萬人作一塚、時人盡帶愁",
@@ -62391,23 +62383,16 @@
   },
   {
     "SourceTerm": "錯會",
-    "PreferredTarget": "to misconstrue",
-    "AlternateTargets": [
-      "to misunderstand",
-      "to misinterpret",
-      "to take the wrong way"
-    ],
+    "PreferredTarget": "misunderstand",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "misunderstand a Zen saying",
-      "misinterpret the identified master's words",
-      "get the meaning wrong",
-      "take an action the wrong way",
-      "mistaken understanding"
+      "take it the wrong way",
+      "misread"
     ],
     "Status": "preferred",
-    "Note": "One verbal sense covers warnings, third-person reports, and direct verdicts. What was misconstrued varies; the act of misconstruing does not.",
-    "CreatedBy": "Codex f002 Lane B evidence-first refresh",
-    "WrittenUtc": null
+    "Note": "The verb does not identify one doctrinal error. Each occurrence must preserve what was misunderstood in that exchange.",
+    "CreatedBy": "R37 bounded clean constructor",
+    "WrittenUtc": "2026-07-30T00:33:00Z"
   },
   {
     "SourceTerm": "錯認定盤星",
