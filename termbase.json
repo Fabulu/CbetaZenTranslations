@@ -19826,23 +19826,19 @@
   },
   {
     "SourceTerm": "威音王",
-    "PreferredTarget": "Mighty-Sound King Buddha",
+    "PreferredTarget": "King Majestic Sound",
     "AlternateTargets": [
-      "Mighty-Sound King",
-      "King of Mighty Sound",
-      "Mighty Sound Buddha"
+      "Majestic Sound King",
+      "the King Majestic Sound Buddha"
     ],
     "SearchAliases": [
-      "Mighty Sound King Buddha",
-      "Mighty Sound Buddha",
-      "before Mighty Sound King",
-      "after Mighty Sound King",
-      "far side of Mighty Sound King"
+      "before King Majestic Sound",
+      "on the far side of King Majestic Sound"
     ],
     "Status": "preferred",
-    "Note": "King Awesome-Sound names the primordial buddha invoked when speakers press claims about what precedes established teaching.",
-    "CreatedBy": "Codex legacy full rebuild Lane B",
-    "WrittenUtc": "2026-07-16T18:11:10.163931+00:00"
+    "Note": "Direct reference or seeing and the temporal constructions retain one named referent; 'before' and 'on the far side' do not create another lexical thing.",
+    "CreatedBy": "R93 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "威音王已前",
@@ -43042,21 +43038,18 @@
   },
   {
     "SourceTerm": "王老師",
-    "PreferredTarget": "Old Master Wang",
+    "PreferredTarget": "Old Teacher Wang",
     "AlternateTargets": [
-      "Master Wang",
       "Teacher Wang"
     ],
     "SearchAliases": [
-      "Old Master Wang",
-      "Teacher Wang",
-      "Nanquan's Wang title",
-      "Nanquan Wang"
+      "Nanquan",
+      "Old Teacher Wang"
     ],
     "Status": "preferred",
-    "Note": "Nanquan's biography and self-addresses identify Old Master Wang as Nanquan Puyuan.",
-    "CreatedBy": "Codex fresh-build lane C",
-    "WrittenUtc": null
+    "Note": "It does not identify an otherwise unknown teacher surnamed Wang; the surrounding buffalo, spirit, self-sale, and examination stories belong to their individual passages.",
+    "CreatedBy": "R93 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "珊瑚枕",
@@ -48744,14 +48737,16 @@
   {
     "SourceTerm": "竪窮三際",
     "PreferredTarget": "vertically exhaust the three times",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "vertically reach through the three times"
+    ],
     "SearchAliases": [
-      "vertically exhaust the three times"
+      "through past present and future"
     ],
     "Status": "preferred",
-    "Note": "Translate 三際 as the three temporal limits; preserve the pairing with a horizontal ten-direction clause where supplied. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The vertical axis marks temporal scope, not posture; preserve its horizontal ten-direction partner where the source supplies it.",
+    "CreatedBy": "R93 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "竪窮三際，橫亘十方",
@@ -52403,6 +52398,19 @@
     "Note": "In the request formula “please proclaim it” (請師舉唱), the unnamed monk utters the headword and the addressed teacher is the respondent, not its utterer.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T07:29:27.532727+00:00"
+  },
+  {
+    "SourceTerm": "舉問",
+    "PreferredTarget": "raise a saying and ask about it",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "cite and ask",
+      "bring up for questioning"
+    ],
+    "Status": "preferred",
+    "Note": "舉 contributes the act of bringing the material forward; 問 contributes the question. Context decides whether English should say 'raise and ask,' 'cite and ask about,' or 'put to someone as a question.'",
+    "CreatedBy": "R64 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T05:30:44.930840Z"
   },
   {
     "SourceTerm": "舉手",
@@ -69388,18 +69396,5 @@
     "Note": "The lotus-blossom parallels repeat Gushan Zang's appraisal; Tianran's guest-host challenge is a separate deployment, not a second object.",
     "CreatedBy": "Codex cohort-002 lane-B B141-B150 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
-  },
-  {
-    "SourceTerm": "舉問",
-    "PreferredTarget": "raise a saying and ask about it",
-    "AlternateTargets": [],
-    "SearchAliases": [
-      "cite and ask",
-      "bring up for questioning"
-    ],
-    "Status": "preferred",
-    "Note": "舉 contributes the act of bringing the material forward; 問 contributes the question. Context decides whether English should say 'raise and ask,' 'cite and ask about,' or 'put to someone as a question.'",
-    "CreatedBy": "R64 source-hierarchy repair",
-    "WrittenUtc": "2026-07-30T05:30:44.930840Z"
   }
 ]
