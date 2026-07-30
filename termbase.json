@@ -11734,18 +11734,16 @@
     "SourceTerm": "勘破",
     "PreferredTarget": "see through",
     "AlternateTargets": [
-      "test and expose",
+      "expose upon examination",
       "find out completely"
     ],
     "SearchAliases": [
-      "see through",
-      "test and expose",
-      "find out completely"
+      "see through completely"
     ],
     "Status": "preferred",
-    "Note": "The verdict belongs to an encounter and can be reversed: a person who claims to have exposed another may in turn be declared exposed.",
-    "CreatedBy": "Codex legacy full rebuild Lane A",
-    "WrittenUtc": "2026-07-16T18:02:00.340832+00:00"
+    "Note": "The term does not itself guarantee enlightenment or final truth; each complete case decides whether a claimed examination succeeded. Six independent families meet an authorized frozen-supply exception: the remaining included witnesses duplicate the Zhaozhou or Huanglong families, while the final reserve falls outside the Chinese-Chan corpus boundary.",
+    "CreatedBy": "R91 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "勘辨",
@@ -18016,16 +18014,15 @@
     "SourceTerm": "大庾嶺頭提不起",
     "PreferredTarget": "could not lift it at Dayu Ridge",
     "AlternateTargets": [
-      "at Dayu Ridge it could not be lifted"
+      "unliftable at Dayu Ridge"
     ],
     "SearchAliases": [
-      "could not lift it at Dayu Ridge",
-      "at Dayu Ridge it could not be lifted"
+      "could not lift the robe at Dayu Ridge"
     ],
     "Status": "preferred",
-    "Note": "All robe-and-bowl retellings and later presentation allusions belong to one case family; their repetition does not establish independent history.",
-    "CreatedBy": "source_tiers_b_batch25",
-    "WrittenUtc": "2026-07-29T03:07:58.794355Z"
+    "Note": "Later applications to presented or transmitted robes remain deployments of the same allusion rather than separate senses.",
+    "CreatedBy": "R91 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "大徹大悟",
@@ -65797,18 +65794,17 @@
   },
   {
     "SourceTerm": "須彌頂上浪滔天",
-    "PreferredTarget": "waves surge to the sky on Mount Sumeru's summit",
+    "PreferredTarget": "waves flood the sky atop Mount Sumeru",
     "AlternateTargets": [
-      "sky-high waves on Sumeru's summit"
+      "on Mount Sumeru's summit, waves reach the sky"
     ],
     "SearchAliases": [
-      "waves surge to the sky on Mount Sumeru's summit",
-      "sky-high waves on Sumeru's summit"
+      "waves on top of Mount Sumeru"
     ],
     "Status": "preferred",
-    "Note": "One Sumeru-waves impossible-image family, including paired 大洋海底 fire or dust recensions. Ocean-fire and ocean-dust pairings are recensions, not separate senses.",
-    "CreatedBy": "source_tiers_a_batch26",
-    "WrittenUtc": "2026-07-29T07:00:00Z"
+    "Note": "The verse, declaration, and answer settings are deployments of one image, not separate lexical senses or one universal abstract paraphrase.",
+    "CreatedBy": "R91 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "須菩提",
