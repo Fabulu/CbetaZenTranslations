@@ -44206,15 +44206,17 @@
   },
   {
     "SourceTerm": "疾入於涅槃",
-    "PreferredTarget": "quickly enter nirvana",
-    "AlternateTargets": [],
+    "PreferredTarget": "quickly enter final extinction",
+    "AlternateTargets": [
+      "hasten into final extinction"
+    ],
     "SearchAliases": [
       "quickly enter nirvana"
     ],
     "Status": "preferred",
-    "Note": "Bind 我寧不說法 as the recurrent first half; 疾 is swiftly or promptly, not illness, and the clause is quoted deliberation rather than a death notice. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The clause reports a counterfactual deliberation before the Buddha decides to teach; it is not a general injunction to die.",
+    "CreatedBy": "R92 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "病與不病",
@@ -57652,15 +57654,17 @@
   },
   {
     "SourceTerm": "財法二施",
-    "PreferredTarget": "the two gifts: material support and Dharma",
-    "AlternateTargets": [],
+    "PreferredTarget": "the two givings: material support and teaching",
+    "AlternateTargets": [
+      "material and teaching gifts"
+    ],
     "SearchAliases": [
-      "the two gifts: material support and Dharma"
+      "material and dharma gifts"
     ],
     "Status": "preferred",
-    "Note": "material giving is material giving and giving the teaching is giving teaching; bind equal without distinction where present but do not assert equality in passages that are questioning or exposing the formula. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "Equality, completion, or joint fulfillment is supplied by surrounding predicates and is not part of the headword itself.",
+    "CreatedBy": "R92 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "貧兒思舊債",
@@ -64117,18 +64121,17 @@
     "SourceTerm": "隨處",
     "PreferredTarget": "wherever",
     "AlternateTargets": [
-      "in every place",
-      "anywhere"
+      "everywhere",
+      "in any place"
     ],
     "SearchAliases": [
-      "wherever",
-      "in every place",
-      "anywhere"
+      "wherever one is",
+      "wherever it occurs"
     ],
     "Status": "preferred",
-    "Note": "Keep this constituent distinct from the fixed expression “act as host wherever you are” while linking the two.",
-    "CreatedBy": "Codex f002 Lane B evidence-first refresh",
-    "WrittenUtc": null
+    "Note": "These different predicates preserve one locative-distributive sense rather than establishing separate lexical things.",
+    "CreatedBy": "R92 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "隨處作主",
