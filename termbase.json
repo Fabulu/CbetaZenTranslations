@@ -14842,22 +14842,16 @@
   },
   {
     "SourceTerm": "咦",
-    "PreferredTarget": "the exclamation “yi!”",
-    "AlternateTargets": [
-      "hey!",
-      "eh!"
-    ],
+    "PreferredTarget": "Yi!",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "yi",
-      "hey",
-      "eh",
-      "huh",
-      "exclamation"
+      "hey!",
+      "huh!"
     ],
     "Status": "preferred",
-    "Note": "A sharp voiced exclamation. Surprise, challenge, interruption, and emphasis are possible local effects of the same sound, not separate lexical things; the surrounding turn decides its force.",
-    "CreatedBy": "Codex fresh f002 Lane A evidence-first",
-    "WrittenUtc": "2026-07-15T16:00:00Z"
+    "Note": "Its force depends on voice and position. English punctuation or interjections may vary by scene; retaining “Yi!” preserves the audible marker without assigning one emotion everywhere.",
+    "CreatedBy": "R32 bounded clean constructor",
+    "WrittenUtc": "2026-07-29T23:59:39.760923+00:00"
   },
   {
     "SourceTerm": "咬人屎橛、不是好狗",
@@ -35299,21 +35293,15 @@
   },
   {
     "SourceTerm": "棒喝",
-    "PreferredTarget": "stick-blows and shouts",
-    "AlternateTargets": [
-      "blows and shouts",
-      "the stick-and-shout way"
-    ],
+    "PreferredTarget": "staff and shout",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "stick blows and shouts",
-      "blows and shouts",
-      "stick and shout",
-      "encounter actions"
+      "staff-blows and shouts"
     ],
     "Status": "preferred",
-    "Note": "The compound names the paired encounter actions of staff-blows and shouts. Several masters also attack merely copying the style or recognizing the action only by this label.",
-    "CreatedBy": "Codex fresh-build lane C",
-    "WrittenUtc": null
+    "Note": "The compound names recognizable teaching actions, not a complete doctrine or automatic proof of realization. Its records include both deployment and sustained criticism of imitation.",
+    "CreatedBy": "R32 bounded clean constructor",
+    "WrittenUtc": "2026-07-29T23:59:39.760923+00:00"
   },
   {
     "SourceTerm": "棒喝交馳",
@@ -38244,16 +38232,15 @@
   },
   {
     "SourceTerm": "泡幻同無礙",
-    "PreferredTarget": "bubbles and illusions are alike unobstructed",
+    "PreferredTarget": "bubble and illusion, unobstructed together",
     "AlternateTargets": [],
     "SearchAliases": [
-      "bubbles and illusions are alike unobstructed",
-      "bubbles and illusions are equally unobstructed"
+      "bubble and illusion are equally unobstructed"
     ],
     "Status": "preferred",
-    "Note": "Govern 如何不了悟 and the continuation 達法在其中、非今亦非古; do not reduce 泡幻 to a claim that appearances are nonexistent. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The records preserve the formula while turning it back into a question. The phrase therefore does not by itself authorize a fixed equation of phenomena with illusion.",
+    "CreatedBy": "R32 bounded clean constructor",
+    "WrittenUtc": "2026-07-29T23:59:39.760923+00:00"
   },
   {
     "SourceTerm": "波斯入閙市",
