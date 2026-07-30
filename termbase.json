@@ -9241,17 +9241,17 @@
   },
   {
     "SourceTerm": "入門便喝",
-    "PreferredTarget": "to shout as soon as one enters",
+    "PreferredTarget": "shout as soon as someone enters",
     "AlternateTargets": [
-      "shout immediately upon entering"
+      "shout on entry"
     ],
     "SearchAliases": [
-      "to shout as soon as one enters"
+      "an entry shout"
     ],
     "Status": "preferred",
-    "Note": "To shout as soon as one enters describes an immediate encounter move conventionally associated with Linji.",
-    "CreatedBy": "Codex canary008 lane C",
-    "WrittenUtc": "2026-07-28T20:29:00Z"
+    "Note": "Six witnesses treat one inherited Linji action formula, not six historical origins. Two actor-clear operational extensions demonstrate that the lexical unit is the full entry-shout clause rather than the adjacent name Linji.",
+    "CreatedBy": "R89 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "入門便棒",
@@ -14168,20 +14168,17 @@
   },
   {
     "SourceTerm": "向上一路",
-    "PreferredTarget": "the road upward",
+    "PreferredTarget": "the road beyond",
     "AlternateTargets": [
-      "the upward road",
-      "the way beyond"
+      "the one road upward"
     ],
     "SearchAliases": [
-      "road upward",
-      "upward road",
-      "way beyond"
+      "the further road"
     ],
     "Status": "preferred",
-    "Note": "Seven exact witnesses from six distinct works. The duplicate Panshan parallel was retained only as attribution support outside curated depth and replaced by Juelang Daosheng’s distinct deployment.",
-    "CreatedBy": "Codex fresh f001 lane A",
-    "WrittenUtc": "2026-07-14T23:45:00Z"
+    "Note": "Formula, direct question, and beyond-awakening uses are deployments of one referent. Passive inherited quotations do not become new origins.",
+    "CreatedBy": "R89 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "向上事",
@@ -27398,15 +27395,17 @@
   },
   {
     "SourceTerm": "抱子弄孫",
-    "PreferredTarget": "hold one's children and play with one's grandchildren",
-    "AlternateTargets": [],
+    "PreferredTarget": "hold one's children and amuse one's grandchildren",
+    "AlternateTargets": [
+      "family life with children and grandchildren"
+    ],
     "SearchAliases": [
-      "hold one's children and play with one's grandchildren"
+      "tend children and grandchildren"
     ],
     "Status": "preferred",
-    "Note": "This is shared household vocabulary, not a technical practice. Its dictionary value comes from repeated Zen deployment as unchanged daily activity; do not make parenthood or grandparenthood itself evidence of realization. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The phrase keeps its ordinary family sense; its Zen job comes from where the masters place that activity.",
+    "CreatedBy": "R89 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "抱橋柱",
