@@ -7494,21 +7494,6 @@
     "WrittenUtc": "2026-07-21T12:00:00Z"
   },
   {
-    "SourceTerm": "便下座",
-    "PreferredTarget": "then descended from the seat",
-    "AlternateTargets": [
-      "thereupon left the high seat",
-      "then stepped down from the seat"
-    ],
-    "SearchAliases": [
-      "then descended from the seat"
-    ],
-    "Status": "preferred",
-    "Note": "The wording is narration of an action, not a sentence uttered by the person who leaves.",
-    "CreatedBy": "Codex fresh f002 Lane A evidence-first",
-    "WrittenUtc": "2026-07-15T15:00:00Z"
-  },
-  {
     "SourceTerm": "便喝",
     "PreferredTarget": "then shouted",
     "AlternateTargets": [
@@ -60943,18 +60928,17 @@
   },
   {
     "SourceTerm": "酒逢知己飲",
-    "PreferredTarget": "wine is drunk when one meets a kindred spirit",
+    "PreferredTarget": "wine is drunk with one who understands",
     "AlternateTargets": [
-      "drink wine with one who understands"
+      "drink wine with a kindred spirit"
     ],
     "SearchAliases": [
-      "wine is drunk when one meets a kindred spirit",
-      "drink wine with one who understands"
+      "wine is for one who knows you"
     ],
     "Status": "preferred",
-    "Note": "The expanded proverb corroborates the standalone clause but does not create a second sense.",
-    "CreatedBy": "Codex Batch41 construction C",
-    "WrittenUtc": "2026-07-29T06:11:19.922713Z"
+    "Note": "It remains an ordinary proverb, not a mystical doctrine about wine. The frequent continuation 詩向會人吟 confirms the parallel structure but does not create another sense.",
+    "CreatedBy": "R80 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T09:10:00Z"
   },
   {
     "SourceTerm": "酬法乳",
@@ -64338,16 +64322,17 @@
   },
   {
     "SourceTerm": "雞向五更啼",
-    "PreferredTarget": "the cock crows at the fifth watch",
-    "AlternateTargets": [],
+    "PreferredTarget": "the rooster crows at the fifth watch",
+    "AlternateTargets": [
+      "the cock crows at the fifth watch"
+    ],
     "SearchAliases": [
-      "cock crows at fifth watch",
-      "fifth-watch cockcrow"
+      "a rooster crows before dawn"
     ],
     "Status": "preferred",
-    "Note": "Keep the temporal event concrete; do not make the cock a fixed doctrinal symbol. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "Do not turn the rooster, the fifth watch, or their pairing into a universal doctrinal symbol; each surrounding exchange controls the force.",
+    "CreatedBy": "R80 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T09:10:00Z"
   },
   {
     "SourceTerm": "雞寒上樹鴨寒下水",
