@@ -16123,19 +16123,17 @@
   },
   {
     "SourceTerm": "回互",
-    "PreferredTarget": "mutual interchange",
+    "PreferredTarget": "interrelation or interweaving",
     "AlternateTargets": [
-      "interpenetrate one another"
+      "mutual interrelation"
     ],
     "SearchAliases": [
-      "mutual interchange",
-      "interpenetrate",
-      "reciprocal interaction"
+      "interweave"
     ],
     "Status": "preferred",
-    "Note": "Exact frozen-corpus count: 1,426 hits in 275 files and 271 independent works. Seven curated occurrences from seven works meet the floor.",
-    "CreatedBy": "Codex fresh f001 lane A",
-    "WrittenUtc": "2026-07-14T00:00:00Z"
+    "Note": "The three contextual jobs must not be flattened into a single universal gloss.",
+    "CreatedBy": "R88 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "回光返照",
@@ -20747,15 +20745,17 @@
   },
   {
     "SourceTerm": "宜作舟航",
-    "PreferredTarget": "you should serve as a boat and ferry",
-    "AlternateTargets": [],
+    "PreferredTarget": "you should serve as a ferryboat",
+    "AlternateTargets": [
+      "you should become a ferryboat"
+    ],
     "SearchAliases": [
-      "you should serve as a boat and ferry"
+      "serve as a boat that carries others across"
     ],
     "Status": "preferred",
-    "Note": "舟航 is a conveyance image for carrying others across; bind the recurrent 欲益無所益，欲為無所為 lead-in and do not reduce it to literal travel advice. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The four records are active later treatments of one inherited case, not four independent origins. Mazu owns the quoted imperative; the record masters own their outer comments.",
+    "CreatedBy": "R88 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "客來須看，賊來須打",
@@ -44157,16 +44157,15 @@
     "SourceTerm": "疑團",
     "PreferredTarget": "a mass of doubt",
     "AlternateTargets": [
-      "a lump of doubt",
-      "a ball of doubt"
+      "a knot of doubt"
     ],
     "SearchAliases": [
-      "a mass of doubt"
+      "doubt-mass"
     ],
     "Status": "preferred",
-    "Note": "A mass of doubt is the compact obstruction that gathers until it breaks open.",
-    "CreatedBy": "Codex fresh f002 Lane A evidence-first",
-    "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
+    "Note": "Instruction, verse, and narration are deployment types of one referent. A narrator describing another person's breakthrough does not become that represented experiencer.",
+    "CreatedBy": "R88 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "疑情",
