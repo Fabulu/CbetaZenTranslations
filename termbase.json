@@ -65202,21 +65202,15 @@
   },
   {
     "SourceTerm": "青青翠竹",
-    "PreferredTarget": "green bamboo",
-    "AlternateTargets": [
-      "green, green bamboo",
-      "lush green bamboo"
-    ],
+    "PreferredTarget": "lush green bamboo",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "green bamboo",
-      "verdant bamboo",
-      "green bamboo body",
-      "bamboo displays the body"
+      "green bamboo"
     ],
     "Status": "preferred",
-    "Note": "Usually paired with ‘luxuriant yellow flowers’ (鬱鬱黃花), the landscape phrase opens a disputed proposition: green bamboo is called reality as it is or the body of reality, while yellow flowers are called complete discernment. The records preserve both assertions and explicit refusals of that equation.",
-    "CreatedBy": "Codex fresh-build lane C",
-    "WrittenUtc": null
+    "Note": "青青 describes the bamboo's vivid green appearance. The formula's doctrinal predicate varies by context, so the headword should not itself be glossed as a universal equation.",
+    "CreatedBy": "R41 bounded source-first constructor",
+    "WrittenUtc": "2026-07-30T01:12:00Z"
   },
   {
     "SourceTerm": "靜悄悄地",
@@ -68274,15 +68268,15 @@
   },
   {
     "SourceTerm": "鱉鼻蛇",
-    "PreferredTarget": "a turtle-nosed snake",
+    "PreferredTarget": "turtle-nosed snake",
     "AlternateTargets": [],
     "SearchAliases": [
-      "a turtle-nosed snake"
+      "turtle-beaked snake"
     ],
     "Status": "preferred",
-    "Note": "Retain the fixed snake name and treat South Mountain as its recurrent case location; do not replace the textual creature with a speculative modern species identification. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The expression retains the snake image across verses and instructions. Its observable force comes from danger, entrustment, killing, contrast, and handling; it is not a zoological definition.",
+    "CreatedBy": "R41 bounded source-first constructor",
+    "WrittenUtc": "2026-07-30T01:12:00Z"
   },
   {
     "SourceTerm": "鳥嘴魚顋",
