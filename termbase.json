@@ -43004,20 +43004,16 @@
   },
   {
     "SourceTerm": "玄機",
-    "PreferredTarget": "subtle workings",
-    "AlternateTargets": [
-      "hidden pivot",
-      "subtle mechanism"
-    ],
+    "PreferredTarget": "subtle mechanism",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "subtle workings",
-      "hidden pivot",
-      "subtle mechanism"
+      "mysterious mechanism",
+      "subtle working"
     ],
     "Status": "preferred",
-    "Note": "The personal name Xuanji, borne by a nun in lamp biography, is a homonym and is excluded: lineage figures belong on the roster of named lineage figures, not in this lexical sense.",
-    "CreatedBy": "Codex f002 Lane B evidence-first refresh",
-    "WrittenUtc": "2026-07-13T12:00:00Z"
+    "Note": "機 contributes the sense of a pivot, trigger, or responsive working; 玄 marks it as subtle or difficult to fathom. The retained uses connect it with encounter responsiveness, ancestral action, discernment, and activity before signs appear.",
+    "CreatedBy": "R38 bounded clean constructor",
+    "WrittenUtc": "2026-07-30T00:44:00Z"
   },
   {
     "SourceTerm": "玄要",
@@ -61219,18 +61215,16 @@
   },
   {
     "SourceTerm": "重關",
-    "PreferredTarget": "a further barrier",
-    "AlternateTargets": [
-      "a formidable barrier",
-      "layered barriers"
-    ],
+    "PreferredTarget": "further barrier",
+    "AlternateTargets": [],
     "SearchAliases": [
-      "a further barrier"
+      "formidable barrier",
+      "another barrier"
     ],
     "Status": "preferred",
-    "Note": "Family check: “one further barrier” (一重關), “two barriers” (兩重關), “four barriers” (四重關), “a thousand and ten thousand barriers” (千重萬重), “the final formidable barrier” (末後重關), “the buddhas’ and patriarchs’ formidable barrier” (佛祖重關), and “pass through the formidable barrier” (透重關) vary scale or sequence, not referent. No split.",
-    "CreatedBy": "Codex fresh f002 Lane A evidence-first",
-    "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
+    "Note": "重 can mean repeated, further, or weighty. The retained verbs—step on, see through, penetrate, pass, and shed—establish the barrier image without requiring one standardized stage map.",
+    "CreatedBy": "R38 bounded clean constructor",
+    "WrittenUtc": "2026-07-30T00:44:00Z"
   },
   {
     "SourceTerm": "野干鳴",
