@@ -8826,18 +8826,17 @@
   },
   {
     "SourceTerm": "兔子喫牛嬭",
-    "PreferredTarget": "a rabbit drinks cow’s milk",
+    "PreferredTarget": "a rabbit drinks cow's milk",
     "AlternateTargets": [
       "a rabbit drinking cow's milk"
     ],
     "SearchAliases": [
-      "a rabbit drinks cow’s milk",
-      "a rabbit drinking cow's milk"
+      "rabbit drinks cow's milk"
     ],
     "Status": "preferred",
-    "Note": "Preserve the animal-and-milk incongruity; the records do not give it one universal doctrinal paraphrase.",
-    "CreatedBy": "Codex Batch39 lane-C construction",
-    "WrittenUtc": "2026-07-29T05:48:36.475116Z"
+    "Note": "Preserve the animal-and-milk incongruity; the records do not give it one single abstract paraphrase.",
+    "CreatedBy": "R90 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "兔子懷胎",
@@ -36386,20 +36385,17 @@
   },
   {
     "SourceTerm": "死句",
-    "PreferredTarget": "a dead phrase",
+    "PreferredTarget": "dead phrase",
     "AlternateTargets": [
-      "a lifeless phrase",
-      "dead words"
+      "dead saying"
     ],
     "SearchAliases": [
-      "a dead phrase",
-      "a lifeless phrase",
-      "dead words"
+      "dead sentence"
     ],
     "Status": "preferred",
-    "Note": "The paired headword \"living phrase\" (活句) occurs 412 times. \"Investigate the dead phrase\" (參死句) occurs 82 times, \"under the dead phrase\" (死句下) 29 times, and the third member \"a phrase neither dead nor living\" (不死不活句) 18 times. Gulin Qingmao also records the reversal \"a dead phrase is precisely a living phrase; a living phrase is precisely a dead phrase\" (死句即是活句，活句即是死句), so this entry reports each text's classification rather than assigning the label independently.",
-    "CreatedBy": "Codex fresh f001 lane B evidence-first",
-    "WrittenUtc": "2026-07-15T05:30:00Z"
+    "Note": "The contrast with a living phrase is stable, but the label is not an intrinsic property of a string of words. These are deployments of one contrastive sense, not separate senses.",
+    "CreatedBy": "R90 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "死水",
@@ -58320,16 +58316,18 @@
   },
   {
     "SourceTerm": "赤骨律",
-    "PreferredTarget": "stark bare",
-    "AlternateTargets": [],
+    "PreferredTarget": "stark naked",
+    "AlternateTargets": [
+      "bare to the bone",
+      "completely exposed"
+    ],
     "SearchAliases": [
-      "stark bare",
-      "A vivid exposure verdict"
+      "utterly bare"
     ],
     "Status": "preferred",
-    "Note": "Treat the three graphs as a fixed colloquial expression; do not parse 律 as monastic regulation. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "Its surrounding syntax may make the phrase adjectival or adverbial, but the frozen evidence does not establish separate lexical senses.",
+    "CreatedBy": "R90 source-hierarchy repair",
+    "WrittenUtc": "2026-07-30T10:38:00Z"
   },
   {
     "SourceTerm": "赴在來日",
