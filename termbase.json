@@ -4680,15 +4680,13 @@
       "the fire-boy seeks fire"
     ],
     "SearchAliases": [
-      "the fire-boy seeks fire",
       "Bingding comes looking for fire",
-      "a fire child asks for fire",
       "fire seeking fire"
     ],
     "Status": "preferred",
-    "Note": "Bing and ding are fire-associated cyclical signs, but the case itself rejects treating that wordplay as the answer; Fayan repeats the unchanged sentence and Xuanze awakens.",
-    "CreatedBy": "Codex Iriya cohort001 Lane B explicit full-case bulk author",
-    "WrittenUtc": "2026-07-18T04:51:16.711494+00:00"
+    "Note": "Bing and ding are fire-associated cyclical signs, but Fayan rejects Xuanze's explanation that the saying merely means fire seeking fire or the self seeking itself.",
+    "CreatedBy": "Codex Sol lean Triple58 repair",
+    "WrittenUtc": "2026-08-01T16:45:01Z"
   },
   {
     "SourceTerm": "中道",
@@ -15393,18 +15391,18 @@
   },
   {
     "SourceTerm": "四十九年",
-    "PreferredTarget": "forty-nine years of teaching",
+    "PreferredTarget": "the Buddha's forty-nine years of teaching",
     "AlternateTargets": [
-      "the Buddha’s forty-nine teaching years"
+      "forty-nine years of speaking the teaching"
     ],
     "SearchAliases": [
       "forty-nine years preaching",
       "forty-nine-year teaching career"
     ],
     "Status": "preferred",
-    "Note": "Across the retained complete cases, the forty-nine years consistently belong to the Buddha’s lifetime of speaking or teaching. No retained case uses the phrase for a person’s age or an unrelated elapsed duration, so no second sense survives.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T16:00:00Z"
+    "Note": "Only the fixed reference to the Buddha's teaching career is retained; ordinary spans of forty-nine years are outside this sense.",
+    "CreatedBy": "Codex Sol lean Triple58 repair",
+    "WrittenUtc": "2026-08-01T16:45:01Z"
   },
   {
     "SourceTerm": "四句百非",
@@ -40548,7 +40546,7 @@
       "offering to Buddha does not depend on having much incense"
     ],
     "Status": "preferred",
-    "Note": "The line concerns fitness rather than the literal quantity of incense.",
+    "Note": "The two Wuzu witnesses preserve the same deployment family and count once for independence; Yuanwu and Shixi Xinyue redeploy the saying in their own comments.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T19:34:59.109696Z"
   },
