@@ -26268,6 +26268,21 @@
     "WrittenUtc": "2026-07-16T12:01:39.532559+00:00"
   },
   {
+    "SourceTerm": "拂袖而出",
+    "PreferredTarget": "to flick one's sleeves and leave",
+    "AlternateTargets": [
+      "to sweep one’s sleeves aside and depart"
+    ],
+    "SearchAliases": [
+      "flick sleeves and leave",
+      "walk out abruptly"
+    ],
+    "Status": "preferred",
+    "Note": "The expression joins the sleeve-flicking gesture directly to departure; it does not itself state why the person leaves.",
+    "CreatedBy": "packet3 exact5 owner construction",
+    "WrittenUtc": "2026-07-27T22:15:00Z"
+  },
+  {
     "SourceTerm": "拄杖",
     "PreferredTarget": "the staff",
     "AlternateTargets": [],
@@ -42100,15 +42115,16 @@
   },
   {
     "SourceTerm": "白雲盡處是青山，行人更在青山外",
-    "PreferredTarget": "green mountains beyond the white clouds, with the traveller farther beyond them",
-    "AlternateTargets": [],
+    "PreferredTarget": "where the white clouds end are green mountains; the traveller is farther beyond the mountains",
+    "AlternateTargets": [
+      "green mountains beyond the white clouds, with the traveller farther beyond them"
+    ],
     "SearchAliases": [
       "beyond the green mountains",
-      "white clouds end",
-      "traveller farther beyond"
+      "traveller beyond the mountains"
     ],
     "Status": "preferred",
-    "Note": "The two landscape clauses remain one ordered image, carrying the traveller beyond both clouds and mountains.",
+    "Note": "The complete couplet is one ordered landscape: clouds, mountains beyond them, and a traveller farther beyond the mountains.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T14:14:02.871828Z"
   },
@@ -52026,14 +52042,14 @@
     "SourceTerm": "西序",
     "PreferredTarget": "the western rank",
     "AlternateTargets": [
-      "western side officers"
+      "the western sequence"
     ],
     "SearchAliases": [
-      "western order",
-      "western side officers"
+      "western rank officers",
+      "western side of the assembly"
     ],
     "Status": "preferred",
-    "Note": "Complete contexts, paratext boundaries, and independent work identities were checked before compilation.",
+    "Note": "西序 names the western-ranked body or the officers belonging to it; the sources do not reduce it to one department or one generalized theory of monastic organization.",
     "CreatedBy": "Codex f004 lane C checkpoint author",
     "WrittenUtc": "2026-07-15T14:06:41.045212+00:00"
   },
