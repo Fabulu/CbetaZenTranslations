@@ -24071,6 +24071,20 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "怕見斷井索",
+    "PreferredTarget": "fear even a broken well-rope",
+    "AlternateTargets": [
+      "be afraid at the sight of a broken well-rope"
+    ],
+    "SearchAliases": [
+      "be afraid at the sight of a broken well-rope"
+    ],
+    "Status": "preferred",
+    "Note": "Read the headword with its attested causal first half, “once bitten by a snake”; it is an injury-and-overcaution analogy inside one inherited case family.",
+    "CreatedBy": "R95 Triple 13 Sol clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
+  },
+  {
     "SourceTerm": "思量",
     "PreferredTarget": "to ponder",
     "AlternateTargets": [
@@ -40069,16 +40083,15 @@
     "SourceTerm": "猛火著油煎",
     "PreferredTarget": "fry in oil over a fierce fire",
     "AlternateTargets": [
-      "fierce fire, add oil and fry"
+      "fierce fire with oil added for frying"
     ],
     "SearchAliases": [
-      "fry in oil over a fierce fire",
-      "fierce fire, add oil and fry"
+      "fierce fire with oil added for frying"
     ],
     "Status": "preferred",
-    "Note": "Preserve the fierce-fire and oil-frying image; do not make this one answer a universal definition of Chan.",
-    "CreatedBy": "Codex Batch41 lane-A construction",
-    "WrittenUtc": "2026-07-29T06:13:30.721026Z"
+    "Note": "Preserve the fierce-fire and oil-frying image as an opaque answer; the later commentaries do not license a universal definition of Chan.",
+    "CreatedBy": "R95 Triple 13 Sol clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "猛虎不顧几上肉，洪爐豈鑄囊中錐",
@@ -63260,18 +63273,19 @@
   },
   {
     "SourceTerm": "驗人",
-    "PreferredTarget": "to test a person",
+    "PreferredTarget": "test a person",
     "AlternateTargets": [
-      "to examine someone"
+      "examine a person",
+      "put someone to the test"
     ],
     "SearchAliases": [
-      "to test a person",
-      "to examine someone"
+      "examine a person",
+      "put someone to the test"
     ],
     "Status": "preferred",
-    "Note": "Frozen-corpus concordance: 225 exact hits in 120 allowlisted files representing 116 independent works. Nominal compounds such as 'an eye for testing people' (驗人眼) and 'a barrier for testing people' (驗人關) retain the same testing act and do not require a separate sense.",
-    "CreatedBy": "Codex f002 Lane B evidence-first refresh",
-    "WrittenUtc": "2026-07-16T12:01:40.818589+00:00"
+    "Note": "The grammatical actor varies by source: a direct speaker may define or name the test, a commentator may describe another master’s test, and a compiler may narrate the act.",
+    "CreatedBy": "R95 Triple 13 Sol clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "驗人眼",
