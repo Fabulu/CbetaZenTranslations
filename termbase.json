@@ -24884,15 +24884,17 @@
   {
     "SourceTerm": "懸羊頭賣狗肉",
     "PreferredTarget": "hang out a sheep's head and sell dog meat",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "advertise sheep and supply dog"
+    ],
     "SearchAliases": [
       "hang sheep head sell dog meat",
-      "false sign wrong goods"
+      "sign and goods mismatch"
     ],
     "Status": "preferred",
-    "Note": "Translate the sign-and-merchandise mismatch; do not assume every difficult saying is fraudulent. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The comparison establishes a mismatch between the displayed sign and what is supplied. It can accuse an ulterior motive, but a doctrinal appraisal does not automatically allege commerce or deliberate personal deceit.",
+    "CreatedBy": "Codex R95 Triple19 clean Sol author",
+    "WrittenUtc": "2026-08-01T14:00:00Z"
   },
   {
     "SourceTerm": "成佛作祖",
@@ -50613,9 +50615,9 @@
       "vines of words"
     ],
     "Status": "preferred",
-    "Note": "Literal vegetation/concrete-entanglement controls were run across all 2,876 exact hits. Apparent plant grammar repeatedly governs discourse, sayings, cases, or lineage proliferation; no independently active botanical referent survived for this entry. Eight witnesses from five distinct works remain sufficient for the loaded sense.",
-    "CreatedBy": "Codex fresh f001 lane A",
-    "WrittenUtc": "2026-07-14T21:15:00Z"
+    "Note": "The image is not intrinsically hostile: context can present the tangle as obstructive proliferation, as talk to stop, or as provisional material offered for joint disentangling.",
+    "CreatedBy": "Codex R95 Triple19 clean Sol author",
+    "WrittenUtc": "2026-08-01T14:00:00Z"
   },
   {
     "SourceTerm": "葛藤禪",
@@ -56238,6 +56240,21 @@
     "Note": "The hound and mad-dog variants share one literal image and one corpus deployment; they are not separate senses.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": "2026-07-13T12:00:00Z"
+  },
+  {
+    "SourceTerm": "逐惡隨邪",
+    "PreferredTarget": "chase evil and follow the crooked",
+    "AlternateTargets": [
+      "pursue wrong and go with deviation"
+    ],
+    "SearchAliases": [
+      "chase evil follow crooked",
+      "pursue wrong go with deviation"
+    ],
+    "Status": "preferred",
+    "Note": "The paired verbs describe active pursuit and alignment. They do not fix the speaker’s appraisal: Yikui and Xisou condemn, while Jiqi deliberately gives the phrase an approving consequence.",
+    "CreatedBy": "Codex R95 Triple19 clean Sol author",
+    "WrittenUtc": "2026-08-01T14:00:00Z"
   },
   {
     "SourceTerm": "逐物意移",
