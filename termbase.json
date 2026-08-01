@@ -4739,19 +4739,17 @@
   },
   {
     "SourceTerm": "主中賓",
-    "PreferredTarget": "Linji guest-within-host configuration",
+    "PreferredTarget": "the guest within the host",
     "AlternateTargets": [
-      "guest within host",
-      "the guest-in-host position"
+      "host acting for the guest"
     ],
     "SearchAliases": [
-      "Linji guest within host",
-      "Linji host-guest configuration"
+      "guest-within-host position"
     ],
     "Status": "preferred",
-    "Note": "This sense is confined to the Linji definition and its inherited answers; Caodong’s identically written positional term is split below.",
-    "CreatedBy": "Codex fresh f002 Lane A evidence-first",
-    "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
+    "Note": "Linji-house usage: the teacher’s position is engaged by a question and functions toward the learner; this is not the Caodong essence/function equation.",
+    "CreatedBy": "R95 triple10 clean Sol author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "主人",
@@ -9980,16 +9978,19 @@
   },
   {
     "SourceTerm": "冷湫湫",
-    "PreferredTarget": "bleak and cold",
-    "AlternateTargets": [],
+    "PreferredTarget": "cold and bleak",
+    "AlternateTargets": [
+      "bleakly cold",
+      "starkly cold"
+    ],
     "SearchAliases": [
-      "bleak and cold",
-      "cold and lifeless"
+      "chill and bleak",
+      "cold and desolate"
     ],
     "Status": "preferred",
-    "Note": "Do not reduce every literal description of cold weather or water to this evaluative use. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "Used of weather, a hall, or a monastery; it does not by itself name a meditative attainment.",
+    "CreatedBy": "R95 triple10 clean Sol author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "冷灰豆爆",
@@ -32705,16 +32706,13 @@
       "dead wood"
     ],
     "SearchAliases": [
-      "withered tree",
-      "dead tree",
-      "dry wood",
-      "lifeless tree",
-      "dead wood"
+      "withered wood",
+      "dead tree"
     ],
     "Status": "preferred",
-    "Note": "Canonical concordance: 1,971 hits in 325 files and 320 works. Six unique image deployments across five works; revival and lifelessness are opposing predicates of the same tree, not separate senses.",
-    "CreatedBy": "Codex fresh-build f001 lane B",
-    "WrittenUtc": "2026-07-14T19:00:00Z"
+    "Note": "The retained Chan evidence uses the tree image figuratively; no separate botanical sense is asserted. Yongjia is one quoted family, not an extra Micang deployment.",
+    "CreatedBy": "R95 triple10 clean Sol author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "枯木倚寒巖",
