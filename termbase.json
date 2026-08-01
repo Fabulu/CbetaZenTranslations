@@ -18251,15 +18251,17 @@
   },
   {
     "SourceTerm": "失錢遭罪",
-    "PreferredTarget": "to lose the money and incur the penalty",
-    "AlternateTargets": [],
+    "PreferredTarget": "lose the money and incur the penalty",
+    "AlternateTargets": [
+      "lose the stake and suffer the penalty"
+    ],
     "SearchAliases": [
-      "to lose the money and incur the penalty"
+      "loss compounded by penalty"
     ],
     "Status": "preferred",
-    "Note": "Ordinary monetary loss lacks the doubled fault expressed by the resulting penalty.",
-    "CreatedBy": "Codex Iriya lane B131-140 full-case author",
-    "WrittenUtc": "2026-07-18T15:20:00Z"
+    "Note": "The expression joins an initial loss to the further punishment that follows it.",
+    "CreatedBy": "Triple83 lean Sol author",
+    "WrittenUtc": "2026-08-01T20:35:00Z"
   },
   {
     "SourceTerm": "奇特事",
@@ -19935,16 +19937,17 @@
   },
   {
     "SourceTerm": "定慧等學",
-    "PreferredTarget": "to study stability and wisdom equally",
-    "AlternateTargets": [],
+    "PreferredTarget": "study stability and discernment equally",
+    "AlternateTargets": [
+      "equal study of stability and discernment"
+    ],
     "SearchAliases": [
-      "to study stability and wisdom equally",
-      "定慧等學 case"
+      "equal study of steadiness and wisdom"
     ],
     "Status": "preferred",
-    "Note": "To study stability and wisdom equally is a direct interview formula asking how the paired capacities are held together. Nanquan, Huangbo, Touzi, and later raisers answer through nondependence or ordinary implements rather than an abstract recipe.",
-    "CreatedBy": "Codex Lane B explicit authoring",
-    "WrittenUtc": "2026-07-17T11:37:58.846891+00:00"
+    "Note": "定 and 慧 are paired without making either prior; the sources answer or classify the formula rather than supplying a seated practice.",
+    "CreatedBy": "Triple83 lean Sol author",
+    "WrittenUtc": "2026-08-01T20:35:00Z"
   },
   {
     "SourceTerm": "定慧等持",
@@ -46947,16 +46950,12 @@
       "rubbish heap"
     ],
     "SearchAliases": [
-      "refuse heap",
-      "dung heap",
-      "rubbish heap",
-      "bury in the refuse heap",
-      "golden body on the refuse heap"
+      "manure heap"
     ],
     "Status": "preferred",
-    "Note": "The refuse heap appears 140 times in 77 works. Seven selected passages deliberately retain burial, discard, rebuke, golden-body, and recovered-pearl predicates rather than smoothing their opposed valuations.",
-    "CreatedBy": "Codex investigation-next300 Lane B explicit author",
-    "WrittenUtc": "2026-07-17T09:52:25.956053+00:00"
+    "Note": "The retained evidence is lamp-dependent; it preserves distinct uses but does not establish stronger-source independence.",
+    "CreatedBy": "Triple83 lean Sol author",
+    "WrittenUtc": "2026-08-01T20:35:00Z"
   },
   {
     "SourceTerm": "糞掃堆頭",
