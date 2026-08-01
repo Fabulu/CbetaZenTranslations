@@ -2482,15 +2482,17 @@
   },
   {
     "SourceTerm": "三世佛冤",
-    "PreferredTarget": "an enemy of the buddhas of the three times",
-    "AlternateTargets": [],
+    "PreferredTarget": "an injustice to the buddhas of the three times",
+    "AlternateTargets": [
+      "wronging the buddhas of past, present, and future"
+    ],
     "SearchAliases": [
-      "an enemy of the buddhas of the three times"
+      "wronging the buddhas of past, present, and future"
     ],
     "Status": "preferred",
-    "Note": "三世佛 means the buddhas of past, present, and future; 冤 marks enmity or grievance, not an innocent victim.",
-    "CreatedBy": "source_tiers_b_batch23",
-    "WrittenUtc": "2026-07-29T02:45:20.751872Z"
+    "Note": "The formula rejects captivity to scriptural wording, not scripture itself; it must not be expanded into a general anti-text doctrine.",
+    "CreatedBy": "R95 Triple 04 closed Sol authority materializer",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "三世諸佛、口掛壁上",
@@ -13946,6 +13948,21 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "吹大法螺",
+    "PreferredTarget": "sound the great Dharma conch",
+    "AlternateTargets": [
+      "blow the great Dharma conch"
+    ],
+    "SearchAliases": [
+      "sound the great Dharma conch",
+      "blow the great Dharma conch"
+    ],
+    "Status": "preferred",
+    "Note": "Mu'an answers the exact question with 一聲徧在諸人耳; the other retained witnesses preserve the conch, drum, and exposition formula.",
+    "CreatedBy": "R95 lane B authority author",
+    "WrittenUtc": "2026-07-30T17:39:55.987939+00:00"
+  },
+  {
     "SourceTerm": "吹毛用了急須磨",
     "PreferredTarget": "once the hair-splitting sword is used, it must quickly be honed",
     "AlternateTargets": [],
@@ -23126,19 +23143,18 @@
   },
   {
     "SourceTerm": "從上宗乘",
-    "PreferredTarget": "the ancestral vehicle from before",
+    "PreferredTarget": "the ancestral tradition handed down from before",
     "AlternateTargets": [
-      "the inherited Chan vehicle",
-      "the ancestral tradition"
+      "the lineage handed down from those before"
     ],
     "SearchAliases": [
-      "ancestral vehicle",
-      "inherited tradition"
+      "the ancestral tradition handed down from before",
+      "the lineage handed down from those before"
     ],
     "Status": "preferred",
-    "Note": "The ancestral vehicle from before names the inherited Chan tradition or its governing matter.",
-    "CreatedBy": "Codex lamp-only canary013 lane C",
-    "WrittenUtc": "2026-07-28T21:30:00Z"
+    "Note": "The records ask whether one has a share in this inherited tradition, how it is shown, why it branches, and how it is handed on.",
+    "CreatedBy": "R95 Lane A source-first author",
+    "WrittenUtc": "2026-07-30T17:41:46Z"
   },
   {
     "SourceTerm": "從前汗馬無人識、只要重論蓋代功",
@@ -29080,19 +29096,17 @@
   },
   {
     "SourceTerm": "教外別傳",
-    "PreferredTarget": "a separate transmission outside the teachings",
+    "PreferredTarget": "separate transmission outside the teachings",
     "AlternateTargets": [
-      "separately transmitted beyond the teachings"
+      "a transmission apart from doctrine"
     ],
     "SearchAliases": [
-      "separate transmission outside teachings",
-      "outside the teachings",
-      "what is separately transmitted"
+      "a transmission apart from doctrine"
     ],
     "Status": "preferred",
-    "Note": "Exact frozen-corpus count: 751 hits in 233 files and 228 independent works. Seven exact witnesses across five works meet the evidence floor.",
-    "CreatedBy": "Codex fresh f001 lane A evidence-first",
-    "WrittenUtc": "2026-07-15T06:00:00Z"
+    "Note": "Outside does not mean rejection of all language, writing, or study. Heshan's flower-sermon origin is received lineage narrative, not verified history.",
+    "CreatedBy": "R95 Triple 04 closed Sol authority materializer",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "教外單傳",
@@ -37393,15 +37407,17 @@
   },
   {
     "SourceTerm": "漳泉福建",
-    "PreferredTarget": "Zhangzhou, Quanzhou—Fujian",
-    "AlternateTargets": [],
+    "PreferredTarget": "Zhangzhou and Quanzhou, Fujian",
+    "AlternateTargets": [
+      "the Zhangzhou–Quanzhou region of Fujian"
+    ],
     "SearchAliases": [
-      "Zhangzhou, Quanzhou—Fujian"
+      "the Zhangzhou–Quanzhou region of Fujian"
     ],
     "Status": "preferred",
-    "Note": "Preserve the place-name sequence as the case formula; do not turn later mockery of Fujian speech or appearance into neutral geography or a general claim about Fujian people. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The passages support a pointed or critical regional tag, but not an invented etymology or universal claim about Fujian people.",
+    "CreatedBy": "R95 Triple 04 closed Sol authority materializer",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "漸修",
@@ -64175,18 +64191,18 @@
   },
   {
     "SourceTerm": "鵝王擇乳",
-    "PreferredTarget": "the goose king selects the milk",
+    "PreferredTarget": "the goose king separates out the milk",
     "AlternateTargets": [
-      "like the goose king separating milk"
+      "the goose king selects the milk"
     ],
     "SearchAliases": [
-      "select the essential from a mixture",
-      "goose king and ducks"
+      "the goose king separates out the milk",
+      "the goose king selects the milk"
     ],
     "Status": "preferred",
-    "Note": "One controlling Tier-2 Dahui deployment family is retained. Parallel containers and later copies do not manufacture independent depth.",
-    "CreatedBy": "Codex Batch36 lane-C construction",
-    "WrittenUtc": "2026-07-29T00:00:00Z"
+    "Note": "Zhongfeng explicitly places water and milk side by side and says that only the goose king can distinguish them.",
+    "CreatedBy": "R95 Lane A source-first author",
+    "WrittenUtc": "2026-07-30T17:41:46Z"
   },
   {
     "SourceTerm": "鵝王擇乳素非鴨類",
