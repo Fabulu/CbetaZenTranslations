@@ -26428,19 +26428,18 @@
     "SourceTerm": "拈古",
     "PreferredTarget": "take up an old case for comment",
     "AlternateTargets": [
-      "an old-case comment",
-      "raise and comment on an old case"
+      "comment on an old case",
+      "an old-case comment"
     ],
     "SearchAliases": [
-      "old case commentary",
-      "comment on old case",
-      "raise old case",
+      "old-case commentary",
+      "raise an old case",
       "niangu"
     ],
     "Status": "preferred",
-    "Note": "Seven exact witnesses across six source files and five independent works cover enumeration, reading, counting, collection title, contents headings, and a demonstrated section.",
-    "CreatedBy": "Codex fresh f001 lane A evidence-first",
-    "WrittenUtc": "2026-07-15T07:00:00Z"
+    "Note": "The compound names both the act of commenting on an inherited case and, by extension, the resulting comment. Mere citation without a fresh response is not enough.",
+    "CreatedBy": "Sol lean Triple57 evidence recut",
+    "WrittenUtc": "2026-08-01T16:42:17Z"
   },
   {
     "SourceTerm": "拈得鼻孔失却口",
@@ -42993,15 +42992,15 @@
     "SourceTerm": "直透萬重關",
     "PreferredTarget": "pass straight through ten thousand barriers",
     "AlternateTargets": [
-      "pierce all barriers directly"
+      "pass directly through every barrier"
     ],
     "SearchAliases": [
-      "pierce all barriers directly"
+      "pass through every barrier"
     ],
     "Status": "preferred",
-    "Note": "The component can introduce several continuations; the governed entry does not promote any one continuation into its identity.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-22T04:20:00Z"
+    "Note": "Ten thousand expresses an unbounded succession. The phrase can be proposed by a questioner as well as demanded by a master, and its occurrence does not certify the proposal.",
+    "CreatedBy": "Sol lean Triple57 evidence recut",
+    "WrittenUtc": "2026-08-01T16:42:17Z"
   },
   {
     "SourceTerm": "相似語",
@@ -47898,6 +47897,20 @@
     "Note": "Provisional lamp-only sense supported by two independent Tier-3 deployments; no Tier 1/2 controller was found and no padding is permitted. Keep it governed by 祇為分明極; do not generalize it into a rule that clarity always obstructs.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "翻成毒藥",
+    "PreferredTarget": "turns instead into poison",
+    "AlternateTargets": [
+      "becomes poison instead"
+    ],
+    "SearchAliases": [
+      "becomes poison instead"
+    ],
+    "Status": "preferred",
+    "Note": "The usual subject is fine teaching or nourishment. The reversal concerns its effect on the recipient, not literal poisoning.",
+    "CreatedBy": "Sol lean Triple57 evidence recut",
+    "WrittenUtc": "2026-08-01T16:42:17Z"
   },
   {
     "SourceTerm": "翻轉面皮",
