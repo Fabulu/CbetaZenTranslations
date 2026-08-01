@@ -6422,14 +6422,18 @@
   },
   {
     "SourceTerm": "住持事繁",
-    "PreferredTarget": "the abbot's affairs are many",
-    "AlternateTargets": [],
+    "PreferredTarget": "the abbot has many affairs",
+    "AlternateTargets": [
+      "the affairs of maintaining the monastery are many"
+    ],
     "SearchAliases": [
-      "the abbot's affairs are many"
+      "the abbot has many affairs",
+      "the abbot is busy with monastery affairs",
+      "住持事繁"
     ],
     "Status": "preferred",
-    "Note": "The witnesses preserve abbatial busyness as an encounter-closing formula.",
-    "CreatedBy": "iriya-construction-001 lane A",
+    "Note": "住持 names maintaining the monastery or the abbot charged with it, and 事繁 says that the affairs are many. Xuefeng and Yaoshan use the sentence as an answer that ends or turns the immediate exchange.",
+    "CreatedBy": "Codex Sol lean Triple66 evidence-first repair",
     "WrittenUtc": "2026-07-18T13:00:00Z"
   },
   {
@@ -33167,18 +33171,18 @@
   },
   {
     "SourceTerm": "根塵",
-    "PreferredTarget": "sense faculties and their objects",
+    "PreferredTarget": "faculties and the objects they encounter",
     "AlternateTargets": [
-      "sense roots and sense objects"
+      "sense roots and their objects"
     ],
     "SearchAliases": [
-      "sense faculties and objects",
-      "sense roots and objects",
-      "the senses and what they meet"
+      "faculties and encountered objects",
+      "sense roots and their objects",
+      "根塵"
     ],
     "Status": "preferred",
-    "Note": "The pair also appears in longer formulas for freedom from the faculties and objects, their shared source, and their facing one another. Those predicates describe relations to the same paired field and do not create extra senses.",
-    "CreatedBy": "author_from_packet",
+    "Note": "The contexts themselves supply the range: roots and dusts can confuse; be left behind; be grouped with aggregates and fields as having no fixed nature; or, in Hongzhi's reduplicated family form, appear one by one as buddha-work.",
+    "CreatedBy": "Codex Sol lean Triple66 evidence-first repair",
     "WrittenUtc": "2026-07-20T05:22:10.689385+00:00"
   },
   {
@@ -49114,8 +49118,8 @@
       "臥月眠雲"
     ],
     "Status": "preferred",
-    "Note": "Lying under the moon and sleeping among clouds pictures mountain reclusion, but Chan records alternately strike the proposal, contrast it with work in the crossroads, or fold it into tending a buffalo on the peaks.",
-    "CreatedBy": "Codex Iriya cohort001 Lane B positions11-20 evidence-first",
+    "Note": "Literally, the phrase is to lie beneath the moon and sleep among clouds. The cited records place it on mountain peaks, contrast it with activity at a crossroads, put a water buffalo there, and also make it the wording of a monk's rejected question.",
+    "CreatedBy": "Codex Sol lean Triple66 evidence-first repair",
     "WrittenUtc": "2026-07-18T06:10:41.301422+00:00"
   },
   {
