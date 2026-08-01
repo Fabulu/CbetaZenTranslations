@@ -19711,22 +19711,23 @@
   },
   {
     "SourceTerm": "宗門",
-    "PreferredTarget": "the Chan lineage tradition",
+    "PreferredTarget": "Zen lineage tradition",
     "AlternateTargets": [
-      "the lineage tradition",
-      "the ancestral school"
+      "lineage gate",
+      "lineage tradition",
+      "the lineage’s house"
     ],
     "SearchAliases": [
-      "Chan lineage",
+      "Zen lineage tradition",
+      "lineage gate",
       "lineage tradition",
-      "ancestral school",
-      "school tradition",
-      "the Chan lineage tradition"
+      "lineage house",
+      "school tradition"
     ],
     "Status": "preferred",
-    "Note": "The frozen corpus has 2,253 exact hits in 312 files representing 306 works. Eight anchors span definitions, questions about lineage business, house comparison, instruction, and direct address across independent works; title-only hits were excluded.",
-    "CreatedBy": "Codex legacy full rebuild Lane B",
-    "WrittenUtc": "2026-07-16T18:11:07.326701+00:00"
+    "Note": "The term names the Zen lineage tradition broadly or, with a possessive or local contrast, a speaker’s own lineage house and its characteristic business. “Lineage gate” preserves the literal wording.",
+    "CreatedBy": "Codex R95 Triple18 Sol",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "宗風",
@@ -37998,20 +37999,19 @@
     "SourceTerm": "無住",
     "PreferredTarget": "not dwelling",
     "AlternateTargets": [
-      "without abiding",
-      "having no fixed lodging"
+      "not abiding",
+      "without fixed lodging"
     ],
     "SearchAliases": [
       "not dwelling",
       "not abiding",
       "without dwelling",
-      "no fixed abode",
       "non-abiding"
     ],
     "Status": "preferred",
-    "Note": "The direct Huineng definition, the Fayan public case, Shenhui's reply, and later comments are retained as distinct witnesses. 'Without a place to dwell' (dwelling nowhere) occurs 370 times in 145 texts; 'not-dwelling as the root' (無住為本) occurs 44 times in 27; 'root of not-dwelling' (無住本) occurs 135 times in 64; and 'not-dwelling mind' (the non-abiding mind) occurs 38 times in 30. Biographical occurrences where these two graphs form the name Wuzhu were excluded from semantic evidence.",
-    "CreatedBy": "Codex fresh-build lane C",
-    "WrittenUtc": "2026-07-20T00:00:00Z"
+    "Note": "This lexical sense is not the personal name Baotang Wuzhu. Jingangqi also refuses to rely on not dwelling as a fixed opposite of abiding.",
+    "CreatedBy": "Codex R95 Triple18 Sol",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "無佛處急走過",
@@ -64862,18 +64862,21 @@
     "SourceTerm": "默照",
     "PreferredTarget": "silent illumination",
     "AlternateTargets": [
+      "silence and illumination",
       "silently illuminate",
-      "silence and illumination"
+      "self-reflective silent illumination"
     ],
     "SearchAliases": [
       "silent illumination",
+      "silence and illumination",
       "silently illuminate",
-      "silence and illumination"
+      "self-reflective silent illumination",
+      "quiet inward illumination"
     ],
     "Status": "preferred",
-    "Note": "Corpus collocations: \"silent-illumination Chan\" (默照禪), 5; \"followers of silent illumination\" (默照之徒), 12; \"silent illumination is not permitted\" (不許默照), 2; \"withered Chan and silent illumination\" (枯禪默照), 6; \"oppose silent illumination\" (排默照), 14; \"at the place of silently illuminating\" (默默照處), 1. These counts show both self-description and sustained criticism in the Chinese record.",
-    "CreatedBy": "Codex fresh f001 lane B evidence-first",
-    "WrittenUtc": "2026-07-15T05:30:00Z"
+    "Note": "The compound is affirmative in Hongzhi Zhengjue’s address and polemical in Dahui Zonggao, Micang Kai, Hanyue Fazang, and Shanhui Huan. Their criticisms characterize the uses they attack; Hanyue’s definition must not be universalized as the meaning of Hongzhi’s phrase.",
+    "CreatedBy": "Codex R95 Triple18 Sol",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "點檢",
