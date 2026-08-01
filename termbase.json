@@ -7477,15 +7477,18 @@
   },
   {
     "SourceTerm": "俗氣不除",
-    "PreferredTarget": "the vulgar air has not been cleared away",
-    "AlternateTargets": [],
+    "PreferredTarget": "the worldly flavor has not been shed",
+    "AlternateTargets": [
+      "the vulgar flavor remains"
+    ],
     "SearchAliases": [
-      "the vulgar air has not been cleared away"
+      "worldly flavor remains",
+      "vulgar manner not shed"
     ],
     "Status": "preferred",
-    "Note": "氣 is the lingering air or manner, not literal gas; 不除 marks an unresolved residue rather than a social-class insult. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "Two independent Tier 2 deployments are retained: Wuzu Fayan’s direct use and Guting Shanjian’s active reuse. The redundant inherited-case verse is dropped.",
+    "CreatedBy": "R95 Triple 07 Sol clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "保任",
@@ -24679,18 +24682,17 @@
   },
   {
     "SourceTerm": "應以宰官身得度者",
-    "PreferredTarget": "for those to be delivered in the body of a civil official",
+    "PreferredTarget": "those who should be delivered through a civil official's form",
     "AlternateTargets": [
       "those who should be delivered through a civil official's body"
     ],
     "SearchAliases": [
-      "manifest as a civil official",
-      "civil official body for deliverance"
+      "those whose deliverance calls for an official’s form"
     ],
     "Status": "preferred",
-    "Note": "The formula belongs to the quoted Lotus Sutra layer; Dahui actively applies it but does not originate its wording.",
-    "CreatedBy": "Codex Batch29 source-tier construction",
-    "WrittenUtc": "2026-07-29T00:00:00Z"
+    "Note": "The preferred target makes the instrumental grammar explicit; “body” remains an allowed literal rendering of 身.",
+    "CreatedBy": "R95 Triple 07 Sol clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "應機",
@@ -60172,19 +60174,15 @@
     "SourceTerm": "隨緣",
     "PreferredTarget": "follow conditions",
     "AlternateTargets": [
-      "accord with conditions",
-      "go along with circumstances"
+      "accord with conditions"
     ],
     "SearchAliases": [
-      "follow conditions",
-      "accord circumstances",
-      "go with conditions",
-      "respond to circumstances"
+      "respond as circumstances arise"
     ],
     "Status": "preferred",
-    "Note": "The frozen corpus has 1,982 exact hits in 332 files representing 328 works. Seven anchors cover daily conduct, travel, provisions, responsive functioning, a biographical maxim, and a direct encounter question across independent works.",
-    "CreatedBy": "Codex fresh-build lane C",
-    "WrittenUtc": null
+    "Note": "Four independent deployment families are retained: three Tier 1/2 works and Yan’en as the single useful lamp witness. Pingtian and Guyin are dropped as lamp padding.",
+    "CreatedBy": "R95 Triple 07 Sol clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "隨緣放曠",
