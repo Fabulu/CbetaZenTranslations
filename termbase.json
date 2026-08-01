@@ -4844,18 +4844,17 @@
     "SourceTerm": "久雨不晴",
     "PreferredTarget": "long rain without clearing",
     "AlternateTargets": [
-      "rain that will not clear",
-      "endless wet weather"
+      "an unbroken spell of rain"
     ],
     "SearchAliases": [
+      "persistent rain",
       "rain that will not clear",
-      "endless wet weather",
-      "after long rain"
+      "prolonged wet weather"
     ],
     "Status": "preferred",
-    "Note": "The literal weather image is secure, but depth remains provisional because only Yunmen's sayings family is higher-tier and the second deployment is lamp-preserved.",
-    "CreatedBy": "Codex Iriya cohort001 Lane B position38 packet author",
-    "WrittenUtc": "2026-07-18T07:41:38.276991+00:00"
+    "Note": "Tianmu Li owns the quoted “soaks empty space” line; Qizong Zhen owns the later “empty space is not wet” reply. Their two voices are not collapsed into one witness.",
+    "CreatedBy": "R95 Triple15 Sol clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "之乎者也",
@@ -21471,19 +21470,19 @@
   },
   {
     "SourceTerm": "布袋",
-    "PreferredTarget": "a cloth bag",
+    "PreferredTarget": "cloth bag",
     "AlternateTargets": [
       "cloth sack"
     ],
     "SearchAliases": [
-      "cloth bag",
       "bag",
-      "sack"
+      "sack",
+      "cloth container"
     ],
     "Status": "preferred",
-    "Note": "Container uses remain distinct from the named monk Budai.",
-    "CreatedBy": "Codex f005 lane B 1303-1312 author",
-    "WrittenUtc": "2026-07-15T19:30:38.094829+00:00"
+    "Note": "The tied-bag line is a derived enclosure image, not a third referent: its verbs still require the same container.",
+    "CreatedBy": "R95 Triple15 Sol clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "布袋和尚",
@@ -63934,15 +63933,19 @@
   },
   {
     "SourceTerm": "鬼神茶飯",
-    "PreferredTarget": "tea and rice for ghosts and spirits",
-    "AlternateTargets": [],
+    "PreferredTarget": "ghost-and-spirit fare",
+    "AlternateTargets": [
+      "stock fare for ghosts and spirits"
+    ],
     "SearchAliases": [
-      "tea and rice for ghosts and spirits"
+      "ghost fare",
+      "spirit fare",
+      "stock ritual talk"
     ],
     "Status": "preferred",
-    "Note": "Preserve the offering/food image; it is not ordinary hospitality to unseen beings, and 茶飯 alone is broader. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The four uses preserve one offering image. Yulin supplies its concrete food wording; the other masters apply that image to talk or display, without establishing a separate literal dictionary sense.",
+    "CreatedBy": "R95 Triple15 Sol clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "鬼窟",
