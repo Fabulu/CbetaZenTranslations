@@ -39196,18 +39196,19 @@
   },
   {
     "SourceTerm": "照用同時",
-    "PreferredTarget": "illumination and function at once",
+    "PreferredTarget": "seeing and acting at once",
     "AlternateTargets": [
-      "illumination-function simultaneously"
+      "discernment and action together"
     ],
     "SearchAliases": [
-      "simultaneous illumination and function",
-      "illumination and action together"
+      "seeing and acting at once",
+      "discernment and action together",
+      "illumination and function at once"
     ],
     "Status": "preferred",
-    "Note": "This is one of the explicitly contrasted Linji modes: illumination and function occur in the same handling.",
-    "CreatedBy": "Codex Iriya construction lane C evidence-first",
-    "WrittenUtc": "2026-07-18T07:37:10.866004Z"
+    "Note": "Linji Yixuan and Fenyang Shanzhao place this beside seeing first and acting afterward, acting first and seeing afterward, and seeing and acting at different times.",
+    "CreatedBy": "Codex Triple87 bounded reconstruction",
+    "WrittenUtc": "2026-08-01T19:10:00Z"
   },
   {
     "SourceTerm": "照顧",
