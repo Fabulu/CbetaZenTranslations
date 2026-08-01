@@ -26729,18 +26729,19 @@
   },
   {
     "SourceTerm": "拈香祝聖",
-    "PreferredTarget": "offer incense and bless the sovereign",
+    "PreferredTarget": "offer incense and pray for the sovereign",
     "AlternateTargets": [
-      "raise incense for the sovereign"
+      "raise incense for the sovereign",
+      "offer incense for the ruler"
     ],
     "SearchAliases": [
       "incense for emperor",
-      "bless sovereign",
+      "pray for sovereign",
       "imperial incense",
       "opening incense rite"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
+    "Note": "This is a narrated ritual action, not usually quoted speech: the master offers incense for the sovereign before questions or the main address. Several records then distinguish a second offering to the master's own teacher.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:51:18.255233+00:00"
   },
@@ -44288,15 +44289,17 @@
   },
   {
     "SourceTerm": "石女",
-    "PreferredTarget": "stone woman",
-    "AlternateTargets": [],
+    "PreferredTarget": "a barren woman",
+    "AlternateTargets": [
+      "stone woman"
+    ],
     "SearchAliases": [
       "stone woman",
-      "woman made of stone",
+      "barren woman",
       "barren stone woman"
     ],
     "Status": "preferred",
-    "Note": "The exact headword is rendered “stone woman.” Birth, child, and no-husband predicates are reported only where the cited passage states them; they do not replace the material wording of the headword.",
+    "Note": "The graph image is ‘stone woman.’ In the cited childbirth lines, the expression denotes a barren woman bearing a child.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-15T16:00:00Z"
   },
