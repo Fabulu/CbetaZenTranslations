@@ -43037,24 +43037,21 @@
   },
   {
     "SourceTerm": "眉毛廝結",
-    "PreferredTarget": "brows intertwined",
+    "PreferredTarget": "intertwined eyebrows",
     "AlternateTargets": [
-      "eyebrows tangled together",
-      "with brows interlocked",
-      "joined in exceptionally close conjunction"
+      "brows intertwined",
+      "eyebrows joined together"
     ],
     "SearchAliases": [
-      "brows intertwined",
-      "eyebrows tangled together",
-      "with brows interlocked",
-      "Zen brows intertwined",
-      "joined in exceptionally close conjunction",
-      "exceptionally close conjunction"
+      "close conjunction",
+      "intimate conjunction",
+      "joined eyebrows",
+      "direct close encounter"
     ],
     "Status": "preferred",
-    "Note": "One idiomatic referent covers the sampled uses. Pairings with “no dealings,” “sharing life and death,” speech/silence, and retreat opening are distinct contexts, not distinct objects or word classes. No second sense is created from competing readings of the image.",
-    "CreatedBy": "Codex f002 Lane C author",
-    "WrittenUtc": "2026-07-15T01:57:20.361856+00:00"
+    "Note": "This is one idiomatic conjunction across personal, communal, and interrogative uses, not separate literal and figurative referents.",
+    "CreatedBy": "Codex Sol R95 Triple20 clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "眉毛横眼上",
@@ -47501,15 +47498,21 @@
   },
   {
     "SourceTerm": "缺齒老胡",
-    "PreferredTarget": "the gap-toothed old barbarian",
-    "AlternateTargets": [],
+    "PreferredTarget": "Bodhidharma, the tooth-gapped old foreigner",
+    "AlternateTargets": [
+      "the tooth-gapped old foreigner",
+      "old foreigner with missing teeth"
+    ],
     "SearchAliases": [
-      "the gap-toothed old barbarian"
+      "Bodhidharma epithet",
+      "toothless old foreigner",
+      "tooth-gapped Bodhidharma",
+      "old foreigner Bodhidharma"
     ],
     "Status": "preferred",
-    "Note": "Treat it as a Bodhidharma epithet, not a generic description of any old foreigner with missing teeth. 1 Tier-3 lamp/lineage-compilation witness(es) are retained only as corroborative evidence and do not upgrade validation.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The fixed epithet is preserved as a proper personal reference; the article does not generalize its graphs into a class of old foreigners.",
+    "CreatedBy": "Codex Sol R95 Triple20 clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "缽盂安柄",
