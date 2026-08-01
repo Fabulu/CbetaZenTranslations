@@ -33827,15 +33827,20 @@
   },
   {
     "SourceTerm": "機關",
-    "PreferredTarget": "pivotal mechanism",
-    "AlternateTargets": [],
+    "PreferredTarget": "strategic mechanism",
+    "AlternateTargets": [
+      "strategic device",
+      "maneuver"
+    ],
     "SearchAliases": [
-      "pivotal mechanism"
+      "strategic mechanism",
+      "strategic device",
+      "maneuver"
     ],
     "Status": "preferred",
-    "Note": "機關 denotes a decisive mechanism, strategic pivot, or testing device in Chan encounter language.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-21T00:30:00Z"
+    "Note": "In these Chan uses 機關 is a deployed or exhausted device of encounter and instruction, not the packet's unrelated literal machinery.",
+    "CreatedBy": "Sol Triple59 lean author",
+    "WrittenUtc": "2026-08-01T18:56:00Z"
   },
   {
     "SourceTerm": "機關木人",
@@ -45029,21 +45034,18 @@
   },
   {
     "SourceTerm": "禪堂",
-    "PreferredTarget": "Chan hall",
+    "PreferredTarget": "Zen hall",
     "AlternateTargets": [
-      "assembly hall"
+      "monastic Zen hall"
     ],
     "SearchAliases": [
-      "Chan hall",
-      "monks hall",
-      "dhyana hall",
-      "community hall",
-      "sitting hall"
+      "Zen hall",
+      "monastic hall"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
-    "CreatedBy": "Codex f003 Lane C evidence-first",
-    "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
+    "Note": "A concrete monastery hall: the sources describe its construction and regulations, admission into it, and walking around its pillars. They do not assign a mental exercise to the room itself.",
+    "CreatedBy": "Sol Triple59 lean author",
+    "WrittenUtc": "2026-08-01T18:56:00Z"
   },
   {
     "SourceTerm": "禪宗",
