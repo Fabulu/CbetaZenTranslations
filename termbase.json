@@ -55095,20 +55095,19 @@
   },
   {
     "SourceTerm": "賓主歷然",
-    "PreferredTarget": "guest and host stand distinctly",
+    "PreferredTarget": "guest and host stand clearly distinct",
     "AlternateTargets": [
-      "guest and host are clearly distinct"
+      "guest and host are clearly distinguished"
     ],
     "SearchAliases": [
-      "guest host distinct",
+      "guest and host distinct",
       "clear guest and host",
-      "roles clearly separated",
       "interview positions"
     ],
     "Status": "preferred",
-    "Note": "The Compilation of the School Gate’s Raising Old Cases, Dharma Grove of the Tradition’s Mirror, and Record Pointing at the Moon rows reproduce the same Jianfu Huai line and count as one deployment. The other retained uses are distinct.",
-    "CreatedBy": "Codex f003 Lane C evidence-first",
-    "WrittenUtc": "2026-07-15T04:51:19.010346+00:00"
+    "Note": "The roles or positions of guest and host are manifestly distinguishable within an exchange. Three recensions of Jianfu Huai’s question form one family; one representative is retained.",
+    "CreatedBy": "Codex Triple121 direct author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "賓則始終賓",
