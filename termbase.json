@@ -8219,13 +8219,15 @@
   },
   {
     "SourceTerm": "傾湫倒嶽",
-    "PreferredTarget": "tip pools and overturn mountains",
-    "AlternateTargets": [],
+    "PreferredTarget": "empty the pools and overturn the mountains",
+    "AlternateTargets": [
+      "drain the pools and topple the mountains"
+    ],
     "SearchAliases": [
-      "tip pools and overturn mountains"
+      "drain the pools and topple the mountains"
     ],
     "Status": "preferred",
-    "Note": "Tip pools and overturn mountains pictures an upheaval of overwhelming force.",
+    "Note": "The paired verbs describe water emptied from deep pools and mountains overturned; the records deploy the line in upheaval scenes, questions, exhortations, and a letter.",
     "CreatedBy": "Codex Lane B B101-B105 full-case author",
     "WrittenUtc": "2026-07-18T15:00:00+00:00"
   },
@@ -14338,6 +14340,20 @@
     "Note": "The Zen deviation is ordinary mastication used as a verb for sustained handling of a sentence, saying, or public case, with edible and inedible images kept visible. The corpus's affirmative instruction and prohibition are different appraisals of the same act, not separate senses. No independent high-value literal meal occurrence was found that would justify splitting actual eating from this lexicalized use.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
+  },
+  {
+    "SourceTerm": "咬定牙關",
+    "PreferredTarget": "clench the teeth tight",
+    "AlternateTargets": [
+      "set the jaw firmly"
+    ],
+    "SearchAliases": [
+      "set the jaw firmly"
+    ],
+    "Status": "preferred",
+    "Note": "The bodily phrase can accompany effort, restriction, or a terse answer; the surrounding words determine its evaluation.",
+    "CreatedBy": "R09 clean-regeneration through canonical worksheet promotion B",
+    "WrittenUtc": "2026-07-30T04:35:00Z"
   },
   {
     "SourceTerm": "咳唾掉臂",
@@ -24656,15 +24672,17 @@
   },
   {
     "SourceTerm": "慣從五鳳樓前過，手握金鞭賀太平",
-    "PreferredTarget": "passing the Five-Phoenix Tower as usual, gold whip in hand, celebrating peace",
-    "AlternateTargets": [],
+    "PreferredTarget": "accustomed to passing before the Five-Phoenix Tower, gold whip in hand, acclaiming peace",
+    "AlternateTargets": [
+      "often passing the Five-Phoenix Tower, holding a gold whip and celebrating peace"
+    ],
     "SearchAliases": [
       "Five-Phoenix Tower",
       "gold whip",
-      "celebrating peace"
+      "acclaiming peace"
     ],
     "Status": "preferred",
-    "Note": "The cited works preserve the courtly line as a recovery-address close, an appraisal, a staff-backed answer, and a recitation challenged by Poshan Haiming.",
+    "Note": "The records reuse this courtly riding couplet as a closing line, appraisal, answer, and recitation; Poshan explicitly calls the monk's use verse-recitation.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T13:47:01.262953Z"
   },
