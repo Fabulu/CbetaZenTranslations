@@ -6390,15 +6390,18 @@
   },
   {
     "SourceTerm": "住心觀靜",
-    "PreferredTarget": "to fix the mind and contemplate stillness",
-    "AlternateTargets": [],
+    "PreferredTarget": "fix the mind and contemplate stillness",
+    "AlternateTargets": [
+      "hold the mind in place and watch quiet"
+    ],
     "SearchAliases": [
-      "to fix the mind and contemplate stillness"
+      "fix the mind and contemplate stillness",
+      "hold the mind in place and watch quiet"
     ],
     "Status": "preferred",
-    "Note": "The wording records the criticized procedure, not an endorsed instruction to cultivate stillness.",
-    "CreatedBy": "Codex post-current-investigation720 Lane B positions 6-59",
-    "WrittenUtc": "2026-07-17T17:14:49.973290+00:00"
+    "Note": "The sources preserve the wording as a procedure they question or explicitly reject; the entry does not endorse it.",
+    "CreatedBy": "Codex Triple62 lean reconstruction",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "住持",
@@ -14814,14 +14817,17 @@
   {
     "SourceTerm": "善為道路",
     "PreferredTarget": "take good care on the road",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "take care on your way"
+    ],
     "SearchAliases": [
-      "take good care on the road"
+      "take good care on the road",
+      "take care on your way"
     ],
     "Status": "preferred",
-    "Note": "A conventional farewell is repeatedly made the exact answer or disputed saying in a Chan encounter.",
-    "CreatedBy": "Codex cohort-002 lane-A 101-110 full-case author",
-    "WrittenUtc": "2026-07-19T04:37:25.426691Z"
+    "Note": "A farewell formula becomes an answer, a quoted case line, and a saying questioned in the hall.",
+    "CreatedBy": "Codex Triple62 lean reconstruction",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "善獅子吼",
@@ -19562,20 +19568,20 @@
   },
   {
     "SourceTerm": "守株待兔",
-    "PreferredTarget": "to guard a stump waiting for a rabbit",
+    "PreferredTarget": "guard a stump, waiting for a rabbit",
     "AlternateTargets": [
       "wait by the stump for a rabbit",
-      "cling to precedent and wait"
+      "cling to a precedent and wait"
     ],
     "SearchAliases": [
-      "to guard a stump waiting for a rabbit",
+      "guard a stump waiting for a rabbit",
       "wait by the stump for a rabbit",
-      "cling to precedent and wait"
+      "cling to a precedent and wait"
     ],
     "Status": "preferred",
-    "Note": "One idiomatic image with multiple attested stances; grammatical form and differing evaluations do not create extra senses.",
-    "CreatedBy": "Codex f002 Lane C fresh corpus build",
-    "WrittenUtc": "2026-07-15T04:06:26.730577+00:00"
+    "Note": "The stock image describes waiting at the site of a past success for the same result to arrive again.",
+    "CreatedBy": "Codex Triple62 lean reconstruction",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "安單",
