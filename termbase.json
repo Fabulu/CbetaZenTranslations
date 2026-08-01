@@ -29213,16 +29213,16 @@
     "SourceTerm": "敲甎打瓦",
     "PreferredTarget": "knock bricks and beat tiles",
     "AlternateTargets": [
-      "clatter at bricks and tiles"
+      "bang on bricks and tiles"
     ],
     "SearchAliases": [
-      "knock bricks and beat tiles",
-      "clatter at bricks and tiles"
+      "make noisy work of bricks and tiles",
+      "hammer away at bricks and tiles"
     ],
     "Status": "preferred",
-    "Note": "The criticism belongs to this appraisal; literal tapping or building work is not thereby defined as error.",
-    "CreatedBy": "Codex Batch41 construction C",
-    "WrittenUtc": "2026-07-29T06:12:13.698079Z"
+    "Note": "The concrete building image becomes a flexible, often disparaging figure for noisy or misdirected verbal and case-work; direct answers retain its deliberately opaque concreteness.",
+    "CreatedBy": "R95 triple09 clean Sol author",
+    "WrittenUtc": "2026-08-01T11:30:00Z"
   },
   {
     "SourceTerm": "敲空有響",
@@ -33038,6 +33038,21 @@
     "Note": "One corpus-wide technical phrase class. Individual answers and competing appraisals are not separate senses. The headword ‘outside the standard’ (格外) remains broader; ‘a phrase outside the standard’ (格外句) is its lexicalized phrase-class compound and is cross-referenced rather than collapsed into it. Frozen-corpus concordance: 17 exact hits in 13 storage files representing 13 independent works. Frozen-corpus concordance: 17 exact hits in 13 storage files representing 13 independent works. Frozen-corpus concordance: 17 exact hits in 13 storage files representing 13 independent works. Frozen-corpus concordance: 17 exact hits in 13 storage files representing 13 independent works.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "栽田博飯",
+    "PreferredTarget": "work the fields to earn one's meals",
+    "AlternateTargets": [
+      "cultivate fields for one's living"
+    ],
+    "SearchAliases": [
+      "farm for one’s meals",
+      "work the fields for food"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase describes agrarian subsistence and the ordinary work of a monastic household.",
+    "CreatedBy": "R95 triple09 clean Sol author",
+    "WrittenUtc": "2026-08-01T11:30:00Z"
   },
   {
     "SourceTerm": "桃李火中開、黄昏候日出",
@@ -47664,15 +47679,18 @@
   },
   {
     "SourceTerm": "翻轉面皮",
-    "PreferredTarget": "turn the face around",
-    "AlternateTargets": [],
+    "PreferredTarget": "change one's face",
+    "AlternateTargets": [
+      "turn one's face around"
+    ],
     "SearchAliases": [
-      "turn the face around"
+      "make an about-face",
+      "set one’s face"
     ],
     "Status": "preferred",
-    "Note": "Do not equate it with every physical turn of the head or with the separate idiom 本來面目; the active reversal is essential. 1 Tier-3 lamp/lineage-compilation witness(es) are retained only as corroborative evidence and do not upgrade validation.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The phrase marks a deliberate change or hardening of visible stance; its value is supplied by each speaker.",
+    "CreatedBy": "R95 triple09 clean Sol author",
+    "WrittenUtc": "2026-08-01T11:30:00Z"
   },
   {
     "SourceTerm": "老僧",
