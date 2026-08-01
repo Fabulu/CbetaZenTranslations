@@ -17540,20 +17540,20 @@
   },
   {
     "SourceTerm": "大機",
-    "PreferredTarget": "great working",
+    "PreferredTarget": "great capacity",
     "AlternateTargets": [
-      "great mechanism"
+      "great working",
+      "great initiative"
     ],
     "SearchAliases": [
+      "great capacity",
       "great working",
-      "great function",
-      "great mechanism",
-      "full response"
+      "complete responsiveness"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
-    "CreatedBy": "Codex f003 Lane C evidence-first",
-    "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
+    "Note": "The contextual uses range from a person's exceptional receptivity to a teacher's comprehensive responsiveness and command of circumstances. They do not establish one fixed doctrinal faculty.",
+    "CreatedBy": "Codex Sol lean Triple72",
+    "WrittenUtc": "2026-08-01T17:35:45Z"
   },
   {
     "SourceTerm": "大機之用",
@@ -39249,15 +39249,18 @@
   },
   {
     "SourceTerm": "熟睡饒譫語",
-    "PreferredTarget": "sound asleep, yet indulging in delirious talk",
-    "AlternateTargets": [],
+    "PreferredTarget": "sound asleep, yet talking deliriously",
+    "AlternateTargets": [
+      "deep asleep and full of delirious talk"
+    ],
     "SearchAliases": [
-      "sound asleep, yet indulging in delirious talk"
+      "sound asleep yet talking deliriously",
+      "ungrounded religious talk"
     ],
     "Status": "preferred",
-    "Note": "Someone sound asleep is nevertheless allowed a stream of delirious talk.",
-    "CreatedBy": "Codex cohort-002 lane-B B131-B140 author",
-    "WrittenUtc": "2026-07-19T12:00:00Z"
+    "Note": "The phrase is a cutting dismissal of speech issued without recognition: elaborate explanation, doctrinal posing, or claims made while one does not know one's own mind.",
+    "CreatedBy": "Codex Sol lean Triple72",
+    "WrittenUtc": "2026-08-01T17:35:45Z"
   },
   {
     "SourceTerm": "熟處難忘",
