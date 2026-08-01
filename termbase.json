@@ -2940,7 +2940,7 @@
       "three mysteries and essentials"
     ],
     "Status": "preferred",
-    "Note": "Seven exact witnesses across five independent works support one Linji-house device; component formulas are family controls, not extra exact-headword sources.",
+    "Note": "The paired label belongs to the Linji house; the retained Fenyang and Qiran passages repeat within their respective works and do not inflate the five-work validation. The later anthology taxonomy is compiler prose, not a recovered utterance by Linji.",
     "CreatedBy": "Codex fresh f001 lane A evidence-first",
     "WrittenUtc": "2026-07-15T08:30:00Z"
   },
@@ -5532,16 +5532,17 @@
   },
   {
     "SourceTerm": "人境俱不奪",
-    "PreferredTarget": "take away neither the person nor the surroundings",
+    "PreferredTarget": "take away neither the person nor the environment",
     "AlternateTargets": [
-      "neither person nor surroundings taken away",
-      "remove neither person nor scene"
+      "neither person nor environment taken away",
+      "remove neither person nor environment"
     ],
     "SearchAliases": [
-      "take away neither the person nor the surroundings"
+      "take away neither the person nor the environment",
+      "neither person nor environment taken away"
     ],
     "Status": "preferred",
-    "Note": "350 hits in the wave plan; preflight count retained by root. This formula must be read beside the other three members and the Four Selections (四料揀). Person (人) and surroundings (境) are translated literally here. It is corpus-wide in later use: later answers and verses address the same named formula rather than different things.",
+    "Note": "The formula is the fourth coordinate of the Four Selections. It negates the taking-away operation: neither the person nor the environment is removed. Later questions, answers, and verses reuse the same paired coordinate rather than turning environment into literal scenery.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
   },
@@ -54120,6 +54121,21 @@
     "Note": "Turn the raw into the cooked names changing raw material into something cooked or prepared. Poshan Haiming and Fenyang Shanzhao use it of kitchen work; Yingning Zhijing applies it to people ‘born from the teaching’; Linquan Conglun says Yunmen prepares the case for slow chewing; an unnamed official uses household cooking in a question answered by Zhaozhou Congshen.",
     "CreatedBy": "Codex cohort-002 lane-B B111-B120 author",
     "WrittenUtc": "2026-07-19T12:00:00Z"
+  },
+  {
+    "SourceTerm": "變生為熟者不易",
+    "PreferredTarget": "turning raw into cooked is not easy",
+    "AlternateTargets": [
+      "making raw food cooked is not easy"
+    ],
+    "SearchAliases": [
+      "turning raw into cooked is not easy",
+      "making raw food cooked is not easy"
+    ],
+    "Status": "preferred",
+    "Note": "Huanglong places the line between the donor and seated-eater difficulties in a communal-meal sequence. Guxue's answer—one breath cooks enough for a full meal—makes the food operation explicit. All four exact quotations preserve Huanglong's words; the later works count as new uses only because Mi'an and Baichi appraise them and Guxue reverses them.",
+    "CreatedBy": "R04 fresh depth regeneration B",
+    "WrittenUtc": "2026-07-29T23:55:00Z"
   },
   {
     "SourceTerm": "豁然",
