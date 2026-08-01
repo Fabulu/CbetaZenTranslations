@@ -22059,13 +22059,16 @@
   },
   {
     "SourceTerm": "年窮歲盡",
-    "PreferredTarget": "at year's end",
-    "AlternateTargets": [],
-    "SearchAliases": [
+    "PreferredTarget": "at the year's end",
+    "AlternateTargets": [
       "when the year is exhausted"
     ],
+    "SearchAliases": [
+      "year-end",
+      "at the end of the year"
+    ],
     "Status": "preferred",
-    "Note": "The literal seasonal setting and inherited question formula are deployments of the same phrase.",
+    "Note": "The phrase marks the old year's exhaustion in New Year's Eve addresses and also opens the recurring question, ‘At year's end, what then?’",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
@@ -34210,13 +34213,15 @@
   },
   {
     "SourceTerm": "此夜一輪滿，清光何處無",
-    "PreferredTarget": "the full moon's clear light is absent nowhere",
-    "AlternateTargets": [],
+    "PreferredTarget": "tonight the full moon shines clearly everywhere",
+    "AlternateTargets": [
+      "tonight the moon is full; where is its clear light absent?"
+    ],
     "SearchAliases": [
-      "the full moon's clear light is absent nowhere"
+      "the full moon shines everywhere"
     ],
     "Status": "preferred",
-    "Note": "A seasonal moon couplet becomes an answer and capping line in public addresses rather than remaining decorative festival verse.",
+    "Note": "The literal moon couplet appears as an answer and as the closing line of Mid-Autumn addresses.",
     "CreatedBy": "Codex cohort-002 lane-A 101-110 full-case author",
     "WrittenUtc": "2026-07-19T04:37:25.534985Z"
   },
@@ -53985,16 +53990,13 @@
     "SourceTerm": "謝師答話",
     "PreferredTarget": "thank you, teacher, for answering",
     "AlternateTargets": [
-      "thanks for your answer, teacher",
-      "I thank the respondent for the reply"
+      "thanks for your answer, teacher"
     ],
     "SearchAliases": [
-      "thank you for answering",
-      "thanks for the answer",
-      "thank you teacher"
+      "thank you for answering"
     ],
     "Status": "preferred",
-    "Note": "7 retained full cases show the questioner's thanks and the respondent's immediate counter-response; parallel editions are counted as one work.",
+    "Note": "An unnamed interlocutor says this immediately after a master's answer; the record often preserves a further answer, rebuke, or blow.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T02:18:46.479519+00:00"
   },
