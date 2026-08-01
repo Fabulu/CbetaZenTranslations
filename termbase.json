@@ -5892,14 +5892,13 @@
       "who is that?"
     ],
     "SearchAliases": [
-      "Another",
-      "who is this Another",
-      "Shakyamuni and Maitreya are his servants"
+      "who is he",
+      "who is that"
     ],
     "Status": "preferred",
-    "Note": "The headword is the complete question, not a special dictionary sense imposed on every occurrence of the pronoun 'he' or 'that one' (他).",
-    "CreatedBy": "Codex Blyth acquisition lane C",
-    "WrittenUtc": "2026-07-21T19:40:00Z"
+    "Note": "The headword remains an ordinary pronoun question; its recurring case frame, rather than a special value assigned to 他, supplies the referent.",
+    "CreatedBy": "Codex Sol Triple51 lean author",
+    "WrittenUtc": "2026-08-01T18:30:00Z"
   },
   {
     "SourceTerm": "付囑",
@@ -26732,15 +26731,13 @@
       "seize clouds and mist"
     ],
     "SearchAliases": [
-      "拏 雲 攫 霧",
       "grasp clouds and seize mist",
-      "seize clouds and mist",
-      "dragonlike reach"
+      "seize clouds and mist"
     ],
     "Status": "preferred",
-    "Note": "The corpus writes the four graphs continuously. Dragon and dragon-transformation settings predominate, while Baiyu Jingsi also makes pagoda eaves the grammatical bearer. The same paired action can be asserted, denied, tested, or limited without becoming a different sense.",
-    "CreatedBy": "Codex Iriya canonical-form acquisition from frozen Chan corpus",
-    "WrittenUtc": "2026-07-21T00:00:00Z"
+    "Note": "Dragon imagery is frequent but not compulsory: Baiyu uses the same paired action of temple architecture.",
+    "CreatedBy": "Codex Sol Triple51 lean author",
+    "WrittenUtc": "2026-08-01T18:30:00Z"
   },
   {
     "SourceTerm": "拔楔抽釘",
@@ -40872,6 +40869,21 @@
     "Note": "The corpus has 850 matches in 198 files. Recurrent constructions include 'principle and affairs unobstructed' (117 matches in 63 files), 'principle and affairs perfectly fused' (24 in 21), 'principle and affairs both complete' (11 in 9), and 'principle and affairs distinct and clear' (9 in 6). Forty-six occurrences in thirty files ask, 'What are principle and affairs?' or use that wording within a fuller question. These distributions support one corpus-wide sense rather than a named Chan figure-specific one.",
     "CreatedBy": "Codex legacy full rebuild Lane A",
     "WrittenUtc": "2026-07-16T18:02:03.458713+00:00"
+  },
+  {
+    "SourceTerm": "理事不二",
+    "PreferredTarget": "principle and affairs are not two",
+    "AlternateTargets": [
+      "principle and events are not separate"
+    ],
+    "SearchAliases": [
+      "principle and affairs are not two",
+      "principle and events are not separate"
+    ],
+    "Status": "preferred",
+    "Note": "理 is rendered as principle and 事 as affairs or events; the records coordinate the pair with concrete contrasts rather than defining an abstract system.",
+    "CreatedBy": "Codex Sol Triple51 lean author",
+    "WrittenUtc": "2026-08-01T18:30:00Z"
   },
   {
     "SourceTerm": "理長則就",
