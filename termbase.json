@@ -33845,6 +33845,24 @@
     "WrittenUtc": "2026-07-15T14:45:00Z"
   },
   {
+    "SourceTerm": "橫說竪說",
+    "PreferredTarget": "to speak every which way",
+    "AlternateTargets": [
+      "to speak horizontally and vertically",
+      "to expound in every direction"
+    ],
+    "SearchAliases": [
+      "speak every which way",
+      "speak horizontally and vertically",
+      "expound in every direction",
+      "wide-ranging exposition"
+    ],
+    "Status": "preferred",
+    "Note": "Literally 'speak horizontally and vertically,' the paired directions describe discourse ranging freely or exhaustively. Whether that speaking reaches the matter is decided by its surrounding appraisal, not by the phrase alone.",
+    "CreatedBy": "Codex Triple45 lean source-first repair",
+    "WrittenUtc": null
+  },
+  {
     "SourceTerm": "檢點",
     "PreferredTarget": "inspect and call to account",
     "AlternateTargets": [
@@ -38810,22 +38828,20 @@
   },
   {
     "SourceTerm": "無語",
-    "PreferredTarget": "without words",
+    "PreferredTarget": "had no reply",
     "AlternateTargets": [
-      "had no reply",
-      "gave no answer",
-      "wordless"
+      "said nothing",
+      "was wordless"
     ],
     "SearchAliases": [
-      "without words",
       "had no reply",
-      "gave no answer",
-      "wordless",
-      "remained silent"
+      "said nothing",
+      "was wordless",
+      "gave no answer"
     ],
     "Status": "preferred",
-    "Note": "The public-interview stage direction is the dominant use. The longer 'no verbal phrases' formula and its later criticism remain included as a distinct deployment shape within the same lexical sense. Neither form automatically means that a person was enlightened, defeated, mentally blank, or committed to silence as a defining position.",
-    "CreatedBy": "Codex f002 Lane B evidence-first refresh",
+    "Note": "The narrator reports an absent verbal response. The phrase alone does not say whether the person understood, failed, or deliberately withheld speech.",
+    "CreatedBy": "Codex Triple45 lean source-first repair",
     "WrittenUtc": null
   },
   {
@@ -49751,6 +49767,24 @@
     "Note": "The phrase names the scriptural scale reversal of the enormous world-mountain being contained by a mustard seed. The records use it as a question, answer, inherited case, and direct challenge; they resist reducing it to a symbolic equation.",
     "CreatedBy": "Codex cohort004 lane C",
     "WrittenUtc": "2026-07-29T00:20:00Z"
+  },
+  {
+    "SourceTerm": "芥子許",
+    "PreferredTarget": "a mustard-seed's worth",
+    "AlternateTargets": [
+      "as much as a mustard seed",
+      "the slightest amount"
+    ],
+    "SearchAliases": [
+      "mustard-seed's worth",
+      "as much as a mustard seed",
+      "the slightest amount",
+      "mustard-seed-sized"
+    ],
+    "Status": "preferred",
+    "Note": "The mustard seed supplies a conventional minute measure. The construction can measure amount, extent, or physical size; nearby negatives such as 'not obtainable' belong to the sentence rather than to the headword.",
+    "CreatedBy": "Codex Triple45 lean source-first repair",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "芥納須彌",
