@@ -37364,7 +37364,7 @@
     "SourceTerm": "渠今正是我",
     "PreferredTarget": "he is now exactly me",
     "AlternateTargets": [
-      "he is now truly me"
+      "he now is precisely me"
     ],
     "SearchAliases": [
       "he is now exactly me",
@@ -37372,7 +37372,7 @@
       "Zen he is now exactly me"
     ],
     "Status": "preferred",
-    "Note": "The quotation has one corpus-wide identity despite its origin with Dongshan; later masters preserve, question, and criticize it without establishing a different master-specific referent. The paired line “I am now not him” (我今不是渠) is required context, not a second sense.",
+    "Note": "The paired continuation 我今不是渠, ‘I am now not him,’ is indispensable; the line is not a freestanding claim that two persons are simply identical.",
     "CreatedBy": "Codex f002 Lane C author",
     "WrittenUtc": "2026-07-19T03:32:59.683682+00:00"
   },
@@ -48149,17 +48149,18 @@
   },
   {
     "SourceTerm": "老師",
-    "PreferredTarget": "venerable master",
+    "PreferredTarget": "master",
     "AlternateTargets": [
-      "senior instructor",
-      "respected guide"
+      "respected teacher",
+      "old master"
     ],
     "SearchAliases": [
-      "venerable master",
-      "senior instructor"
+      "master",
+      "teacher",
+      "old master"
     ],
     "Status": "preferred",
-    "Note": "The expression serves as a respectful designation for a senior religious instructor. The designation is relational and honorific; it does not by itself establish a lineage link.",
+    "Note": "A respectful designation or form of address. In 王老師, Nanquan can refer to himself as ‘old Master Wang’; context decides whether English needs ‘master,’ ‘teacher,’ or the fuller name.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
@@ -49804,21 +49805,17 @@
     "SourceTerm": "良久",
     "PreferredTarget": "a good while",
     "AlternateTargets": [
+      "after a while",
       "after a long pause",
-      "a long silence",
-      "for a good while",
-      "a good long while",
-      "remained silent a long while"
+      "for a good while"
     ],
     "SearchAliases": [
-      "after a long pause",
-      "for a long while",
       "after a while",
-      "a long silence",
-      "paused for a long time"
+      "a long pause",
+      "for a long while"
     ],
     "Status": "preferred",
-    "Note": "11 exact evidence rows from 9 independent works are stored for this sense; repeated files or editions are not counted as separate works.",
+    "Note": "A narration formula marking elapsed time; it does not itself state what anyone thought or make the interval a spoken answer.",
     "CreatedBy": "Codex fresh f001 lane A evidence-first",
     "WrittenUtc": "2026-07-15T00:00:00Z"
   },
