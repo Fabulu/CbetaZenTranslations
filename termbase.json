@@ -25594,15 +25594,17 @@
   {
     "SourceTerm": "扶起破砂盆",
     "PreferredTarget": "prop up the broken earthenware basin",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "raise the broken earthenware basin"
+    ],
     "SearchAliases": [
-      "prop up broken basin",
-      "raise the cracked earthenware bowl"
+      "prop up the broken basin",
+      "restore the damaged Chan seat"
     ],
     "Status": "preferred",
-    "Note": "Keep the damaged vessel and collective-support setting; exclude ordinary pottery repair. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "Keep the concrete broken-vessel image. Shiqi's patrons rebuild the hall and renew the ancestral seat; Daxiu calls new and old officeholders to act together. Jieweizhou places the feat below the ultimate.",
+    "CreatedBy": "R95 triple08 clean Sol author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "扶過斷橋水，伴歸無月村",
@@ -33469,15 +33471,18 @@
   },
   {
     "SourceTerm": "業識忙忙",
-    "PreferredTarget": "karmic consciousness bustling about",
-    "AlternateTargets": [],
-    "SearchAliases": [
+    "PreferredTarget": "karmic consciousness busily active",
+    "AlternateTargets": [
       "karmic consciousness bustling about"
     ],
+    "SearchAliases": [
+      "busy karmic consciousness",
+      "conditioned consciousness in activity"
+    ],
     "Status": "preferred",
-    "Note": "Bind the phrase to 無本可據 and the call-and-turn test where present; generic 業識 is broader doctrinal vocabulary. 1 Tier-3 lamp/lineage-compilation witness(es) are retained only as corroborative evidence and do not upgrade validation.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The phrase broadly describes karmic consciousness in busy operation. In the Guishan–Yangshan test it is paired with 無本可據 and exposed by a monk's automatic turn at a call. The Tier-3 test witness is supplementary; four independent Tier-2 works sustain validation.",
+    "CreatedBy": "R95 triple08 clean Sol author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "業識茫茫",
@@ -35401,15 +35406,18 @@
   },
   {
     "SourceTerm": "沿流不止",
-    "PreferredTarget": "following the current without stopping",
-    "AlternateTargets": [],
+    "PreferredTarget": "follow the current without stopping",
+    "AlternateTargets": [
+      "continue along the current without stopping"
+    ],
     "SearchAliases": [
-      "following the current without stopping"
+      "follow the flow without ceasing",
+      "uninterrupted current"
     ],
     "Status": "preferred",
-    "Note": "A stable clause from Linji's four-line exchange, also redeployed independently as an allusion to ceaselessly following the stream. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "Current, flow, and continuation must remain visible. The phrase does not itself mean passive conformity: Zhongfeng tells the reader to see the source precisely while the current continues.",
+    "CreatedBy": "R95 triple08 clean Sol author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "泉聲中夜後。山色夕陽時",
