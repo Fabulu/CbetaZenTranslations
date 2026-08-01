@@ -20746,21 +20746,20 @@
   },
   {
     "SourceTerm": "將錯就錯",
-    "PreferredTarget": "to follow one error with another",
+    "PreferredTarget": "to go along with the mistake",
     "AlternateTargets": [
-      "to carry an error forward",
-      "to compound an error"
+      "to carry the mistake forward",
+      "to proceed on the mistaken basis"
     ],
     "SearchAliases": [
-      "follow one error with another",
-      "compound an error",
-      "carry an error forward",
-      "make one mistake after another"
+      "go along with the mistake",
+      "carry the mistake forward",
+      "proceed on the mistaken basis"
     ],
     "Status": "preferred",
-    "Note": "One action/verdict. Deliberate continuation, reluctant continuation, criticism, warning, case commentary, and public answer are stances and grammatical deployments of the same following of error with error.",
-    "CreatedBy": "Codex f002 Lane C worksheet-first author",
-    "WrittenUtc": null
+    "Note": "The phrase means proceeding on the basis of a mistake already in play. Context decides whether that continuation is expedient, constrained, or condemned; those stances do not create separate senses.",
+    "CreatedBy": "Codex Triple50 lean reconstruction",
+    "WrittenUtc": "2026-08-01T18:25:00Z"
   },
   {
     "SourceTerm": "將魚目作明珠",
@@ -35548,14 +35547,19 @@
   {
     "SourceTerm": "沙門",
     "PreferredTarget": "renunciant monastic",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "ordained renunciant",
+      "monk"
+    ],
     "SearchAliases": [
-      "renunciant monastic"
+      "renunciant monastic",
+      "ordained renunciant",
+      "shamen"
     ],
     "Status": "preferred",
-    "Note": "沙門 is the standard person-label for a Buddhist renunciant or ordained monastic, including signatures and narrative references.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-21T00:30:00Z"
+    "Note": "A human institutional role. Context may emphasize ordination, leaving household life, conduct, or the work expected of such a person; these are descriptions of the role rather than separate senses.",
+    "CreatedBy": "Codex Triple50 lean reconstruction",
+    "WrittenUtc": "2026-08-01T18:25:00Z"
   },
   {
     "SourceTerm": "河裏失錢河裏摝",
@@ -65319,16 +65323,17 @@
   {
     "SourceTerm": "龍蛇易辨",
     "PreferredTarget": "dragons and snakes are easy to distinguish",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "it is easy to tell dragons from snakes"
+    ],
     "SearchAliases": [
-      "easy to tell dragons from snakes",
-      "dragons and snakes can readily be told apart",
-      "distinguishing dragons and snakes"
+      "distinguish dragons from snakes",
+      "dragons and snakes can readily be told apart"
     ],
     "Status": "preferred",
-    "Note": "The phrase supplies the first half of an explicit contrast: ordinary kinds may be distinguished, while a patch-robed person is difficult to fool. It does not classify particular people as dragons or snakes.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-21T22:24:17.098548Z"
+    "Note": "The clause normally opens the paired verdict 龍蛇易辨，衲子難瞞/謾: dragons and snakes are easy to distinguish, but a patch-robed person is difficult to deceive. The comparison does not by itself assign particular people to dragon and snake classes.",
+    "CreatedBy": "Codex Triple50 lean reconstruction",
+    "WrittenUtc": "2026-08-01T18:25:00Z"
   },
   {
     "SourceTerm": "龍袖拂開全體現",
