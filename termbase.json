@@ -9408,13 +9408,15 @@
     "SourceTerm": "兩重公案",
     "PreferredTarget": "a double case",
     "AlternateTargets": [
-      "a twofold case"
+      "a twofold public case"
     ],
     "SearchAliases": [
-      "a double case"
+      "twofold case",
+      "paired case",
+      "double liability"
     ],
     "Status": "preferred",
-    "Note": "A double case marks a second layer of judgment, liability or complication added to an exchange already under examination.",
+    "Note": "The phrase can join two related public cases or place one matter under a doubled case-level burden; it does not by itself count people or propositions.",
     "CreatedBy": "Codex canary008 lane C",
     "WrittenUtc": "2026-07-28T20:29:00Z"
   },
@@ -23404,7 +23406,7 @@
   },
   {
     "SourceTerm": "德山托鉢",
-    "PreferredTarget": "Deshan carries his bowl",
+    "PreferredTarget": "the Deshan Carries His Bowl case",
     "AlternateTargets": [
       "Deshan carrying his bowl",
       "Deshan goes down with his bowl"
@@ -23415,7 +23417,7 @@
       "Deshan goes down with his bowl"
     ],
     "Status": "preferred",
-    "Note": "The Zen deviation is institutional: an ordinary meal-bowl movement becomes the fixed public name of a multi-speaker case, repeatedly raised, questioned, versified, and assigned for inquiry. The corpus's divergent later comments are reported as comments, not combined into an interpretation of Deshan's intent. The title and descriptions name the same encounter and require one sense. Frozen-corpus concordance: 138 exact hits in 57 storage files representing 56 independent works.",
+    "Note": "This fixed case title covers the entire Deshan–Xuefeng–Yantou encounter. Later comments differ, so none is imposed as the case's single settled meaning.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": "2026-07-16T12:01:41.515180+00:00"
   },
@@ -60453,6 +60455,19 @@
     "Note": "The phrase censures culpable compliance with a mistaken case momentum: the target does not merely err but follows and furthers the wrong course.",
     "CreatedBy": "Codex Iriya Lane B B085-B086 full-case author",
     "WrittenUtc": "2026-07-18T12:01:00+00:00"
+  },
+  {
+    "SourceTerm": "隱隱猶懷舊日嫌",
+    "PreferredTarget": "faintly still harboring the old aversion",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "still dimly carrying the former estrangement",
+      "faint residual old aversion"
+    ],
+    "Status": "preferred",
+    "Note": "The line belongs to Dongshan's verse on 'the biased within the straight.' Later explanations disagree about its rank mapping and force, so the old aversion or estrangement is not promoted into a fixed doctrine.",
+    "CreatedBy": "R04 fresh depth regeneration B",
+    "WrittenUtc": "2026-07-29T19:15:00Z"
   },
   {
     "SourceTerm": "隻手遮日",
