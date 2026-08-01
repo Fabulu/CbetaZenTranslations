@@ -19248,6 +19248,20 @@
     "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
+    "SourceTerm": "孝名為戒",
+    "PreferredTarget": "“filial devotion is called the precepts”",
+    "AlternateTargets": [
+      "filial devotion is named as the precepts"
+    ],
+    "SearchAliases": [
+      "filial devotion is named as the precepts"
+    ],
+    "Status": "preferred",
+    "Note": "The preferred target retains quotation marks because the headword is repeatedly presented as wording from the Brahma’s Net Sutra.",
+    "CreatedBy": "R95 Triple 11 Sol clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
+  },
+  {
     "SourceTerm": "孟冬薄寒",
     "PreferredTarget": "early winter and slight cold",
     "AlternateTargets": [],
@@ -25006,7 +25020,7 @@
     "Status": "preferred",
     "Note": "A precept is a binding rule in this corpus; its commands, reception, keeping, and violation remain concrete.",
     "CreatedBy": "Codex precept next-wave author",
-    "WrittenUtc": "2026-07-21T16:40:00Z"
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "戒和尚",
@@ -31392,21 +31406,17 @@
   },
   {
     "SourceTerm": "木佛",
-    "PreferredTarget": "wooden buddha",
+    "PreferredTarget": "wooden Buddha-image",
     "AlternateTargets": [
-      "wooden buddha-image",
-      "buddha carved from wood"
+      "Buddha-image made of wood"
     ],
     "SearchAliases": [
-      "wooden buddha",
-      "wooden buddha image",
-      "wooden buddha statue",
-      "wooden image"
+      "Buddha-image made of wood"
     ],
     "Status": "preferred",
-    "Note": "Later masters repeatedly raise the Danxia case and ask why the superintendent's eyebrows fell out. Recorded answers include \"a thief does not raid a poor household\" (賊不打貧兒家), \"one person transmits a falsehood; ten thousand transmit it as fact\" (一人傳虗，萬人傳實), \"Zhang drinks the wine and Li gets drunk,\" and \"the cat knows how to climb a tree.\" The ten occurrences of \"What is a wooden buddha?\" (the question “What is a wooden Buddha?”) and these later questions retain the literal image as their headword; the texts do not replace it with an abstract category.",
-    "CreatedBy": "Codex fresh-build lane C",
-    "WrittenUtc": "2026-07-16T12:26:37.856302+00:00"
+    "Note": "The retained witnesses use 木佛 for a Buddha-image whose wood matters to the action, question, or material contrast.",
+    "CreatedBy": "R95 Triple 11 Sol clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "木佛不渡火",
@@ -56180,6 +56190,20 @@
     "WrittenUtc": "2026-07-13T12:00:00Z"
   },
   {
+    "SourceTerm": "逐物意移",
+    "PreferredTarget": "attention shifts with things",
+    "AlternateTargets": [
+      "intention moves after encountered things"
+    ],
+    "SearchAliases": [
+      "intention moves after encountered things"
+    ],
+    "Status": "preferred",
+    "Note": "The lamp-and-gate case dramatizes the phrase but does not reduce it to physical lamp motion.",
+    "CreatedBy": "R95 Triple 11 Sol clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
+  },
+  {
     "SourceTerm": "途中受用",
     "PreferredTarget": "put it to use on the way",
     "AlternateTargets": [
@@ -57640,6 +57664,22 @@
     "Note": "The line supplies Xutang’s explicit test-image in one address. The source does not equate gold with awakening here.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T21:38:11.946675Z"
+  },
+  {
+    "SourceTerm": "金佛",
+    "PreferredTarget": "a golden buddha",
+    "AlternateTargets": [
+      "a buddha made of gold"
+    ],
+    "SearchAliases": [
+      "golden buddha",
+      "gold buddha",
+      "buddha made of gold"
+    ],
+    "Status": "preferred",
+    "Note": "The material image appears in the recurring saying that a golden buddha does not pass through a furnace.",
+    "CreatedBy": "packet3 exact5 owner construction",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "金佛不度爐",
