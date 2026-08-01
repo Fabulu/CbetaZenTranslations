@@ -10243,20 +10243,21 @@
   },
   {
     "SourceTerm": "函蓋乾坤",
-    "PreferredTarget": "a box and lid fitting, covering heaven and earth",
+    "PreferredTarget": "containing and covering heaven and earth",
     "AlternateTargets": [
-      "box and lid covering heaven and earth",
-      "lid fitting the box across heaven and earth",
-      "case and cover encompassing the cosmos"
+      "enclosing and covering heaven and earth",
+      "covering heaven and earth",
+      "box and lid covering heaven and earth"
     ],
     "SearchAliases": [
-      "box and lid, heaven and earth",
-      "lid matching box — heaven and earth",
-      "the case-and-cover, heaven-and-earth",
-      "a lid fitting the box, heaven and earth"
+      "containing and covering heaven and earth",
+      "enclosing heaven and earth",
+      "covering heaven and earth",
+      "box and lid covering heaven and earth",
+      "Yunmen's first phrase"
     ],
     "Status": "preferred",
-    "Note": "7 exact evidence rows from 5 independent works are stored for this sense.",
+    "Note": "Literally a box and lid covering heaven and earth; conventionally the first of Yunmen's three phrases.",
     "CreatedBy": "Codex fresh f001 lane A evidence-first",
     "WrittenUtc": "2026-07-15T00:00:00Z"
   },
@@ -34343,7 +34344,7 @@
       "soak in dead water"
     ],
     "Status": "preferred",
-    "Note": "The frozen allowlisted corpus has 586 exact hits in 200 files representing 198 works. Seven anchors from seven works cover the dragon proverb, living-water contrast, livelihood, a chain of critical names, soaking a stone, sinking quietly, and sitting among shellfish. No independently useful ordinary-hydrology sense was found in the allowlisted evidence; the literal image and its critical deployment therefore remain one corpus sense rather than an unsupported split.",
+    "Note": "Dead water remains one critical image for unresponsive stillness across the retained uses.",
     "CreatedBy": "Codex fresh-build lane B",
     "WrittenUtc": null
   },
@@ -44553,7 +44554,7 @@
       "patriarch's western journey"
     ],
     "Status": "preferred",
-    "Note": "Frozen-corpus concordance: 2,387 exact apparatus-clean hits in 279 files and 274 independent works in the canonical f001 preflight. The bare phrase and the full question belong to one referent; response diversity does not create separate senses because every response is presented as answering or discussing the same question.",
+    "Note": "The bare phrase and the full question ask one referent; the varied replies do not supply a fixed paraphrase.",
     "CreatedBy": "Codex legacy full rebuild Lane A",
     "WrittenUtc": "2026-07-16T18:01:53.687860+00:00"
   },
@@ -52156,7 +52157,7 @@
       "four perceptual functions"
     ],
     "Status": "preferred",
-    "Note": "The corpus has 787 matches in 162 files. Sixty-six matches in forty-six files occur in constructions about leaving or being apart from seeing, hearing, sensing, and knowing. Five passages in five files use the explicit nominal form 'as for seeing, hearing, sensing, and knowing,' and three in three use 'the so-called seeing, hearing, sensing, and knowing.' The corrective passages show that the compound names the four functions themselves, not a separate faculty.",
+    "Note": "The corrective passages name four ordinary functions themselves—seeing, hearing, sensing, and knowing—rather than a separate faculty standing behind them.",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": null
   },
@@ -52829,9 +52830,9 @@
       "awakened by the reply"
     ],
     "Status": "preferred",
-    "Note": "The frozen allowlisted corpus has 676 exact hits in 186 files representing 181 works. Seven anchors across five works preserve seven distinct speaker-recipient pairs and a range of following actions. Related formulas such as awakening, penetration, or having an insight at the words are neighboring constructions, not alternate spellings or extra senses.",
+    "Note": "The retained evidence is confined to lamp records and later case anthologies, so this sense remains provisional. Related formulas report great awakening, sudden awakening, or insight at someone’s words; they are neighboring narrative constructions rather than alternate spellings of this exact phrase.",
     "CreatedBy": "Codex legacy full rebuild Lane B",
-    "WrittenUtc": "2026-07-16T18:11:11.068505+00:00"
+    "WrittenUtc": "2026-07-23T18:00:00Z"
   },
   {
     "SourceTerm": "言下有省",
@@ -59283,7 +59284,7 @@
   },
   {
     "SourceTerm": "門庭",
-    "PreferredTarget": "the public teaching front of a Chan house",
+    "PreferredTarget": "the public teaching front of a Zen house",
     "AlternateTargets": [
       "the house's public teaching front",
       "the teaching establishment's public face"
@@ -59296,7 +59297,7 @@
       "public method"
     ],
     "Status": "preferred",
-    "Note": "Frozen-corpus concordance: 1,569 exact hits in 313 files and 310 independent works. This sense names an institution's outward teaching arrangement, not masonry or spatial access. The lineage-style term names inherited style; the house-style term names a house's characteristic manner; this headword foregrounds the public-facing arrangement through which that manner is encountered.",
+    "Note": "The public-facing arrangement through which a teaching house presents its work.",
     "CreatedBy": "Codex legacy full rebuild Lane A",
     "WrittenUtc": "2026-07-16T18:01:57.251487+00:00"
   },
