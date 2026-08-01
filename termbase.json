@@ -21584,19 +21584,20 @@
   },
   {
     "SourceTerm": "師兄",
-    "PreferredTarget": "elder fellow disciple",
+    "PreferredTarget": "senior fellow disciple",
     "AlternateTargets": [
-      "senior brother in training",
-      "elder brother in the lineage"
+      "senior brother in the lineage",
+      "elder fellow disciple"
     ],
     "SearchAliases": [
-      "elder fellow disciple",
-      "senior brother in training"
+      "senior fellow disciple",
+      "senior brother",
+      "elder fellow disciple"
     ],
     "Status": "preferred",
-    "Note": "Two independent Tier-2 records show 師兄 as an address or reference to a senior fellow disciple; lamp recensions are omitted.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T10:20:00Z"
+    "Note": "The two master-spoken examples are separate turns in one Guishan encounter and therefore one strong use family. Qu Ruyi's signed lay prose corroborates the respectful reference. The biographical string 師兄弟 is retained only as a segmentation warning: there it means 'the master and his brothers.'",
+    "CreatedBy": "Sol R95 Triple21 construction",
+    "WrittenUtc": "2026-08-01T13:49:08Z"
   },
   {
     "SourceTerm": "師問",
@@ -27121,6 +27122,22 @@
     "Note": "A concrete disruptive action or forceful hypothetical appraisal; narrated performers remain distinct from surrounding masters.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T00:00:00Z"
+  },
+  {
+    "SourceTerm": "掀翻海嶽",
+    "PreferredTarget": "overturn seas and mountains",
+    "AlternateTargets": [
+      "upend seas and mountains"
+    ],
+    "SearchAliases": [
+      "overturn seas and mountains",
+      "upend seas and mountains",
+      "world-upending force"
+    ],
+    "Status": "preferred",
+    "Note": "The physical image is hyperbolic in all three retained passages. It describes immense force or transformation in verse, command rhetoric, and case commentary; none reports a literal movement of the sea or mountains.",
+    "CreatedBy": "Sol R95 Triple21 construction",
+    "WrittenUtc": "2026-08-01T13:49:08Z"
   },
   {
     "SourceTerm": "掃帚",
