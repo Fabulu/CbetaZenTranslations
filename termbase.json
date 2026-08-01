@@ -20525,6 +20525,20 @@
     "WrittenUtc": "2026-07-16T12:23:20.487102+00:00"
   },
   {
+    "SourceTerm": "寸步不移",
+    "PreferredTarget": "not moving a single step",
+    "AlternateTargets": [
+      "without shifting an inch"
+    ],
+    "SearchAliases": [
+      "without shifting an inch"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase may criticize fixation or express nonspatial travel. Its force depends on the surrounding contrast; it is not automatically praise of stillness.",
+    "CreatedBy": "R09 clean-regeneration through canonical worksheet promotion B",
+    "WrittenUtc": "2026-07-30T04:35:00Z"
+  },
+  {
     "SourceTerm": "寸絲不挂",
     "PreferredTarget": "not a single thread hanging",
     "AlternateTargets": [
@@ -28987,11 +29001,11 @@
   },
   {
     "SourceTerm": "放行",
-    "PreferredTarget": "open the way and let the encounter proceed",
+    "PreferredTarget": "release; let pass",
     "AlternateTargets": [
-      "let pass rather than hold fast",
+      "open the way and let pass",
       "give the other side room to move",
-      "release the restrictive hold"
+      "release rather than hold fast"
     ],
     "SearchAliases": [
       "let the encounter proceed",
@@ -29001,7 +29015,7 @@
       "a saying that lets through"
     ],
     "Status": "preferred",
-    "Note": "Frozen-corpus exact counts: 1,169 hits in 247 files representing 242 independent works. Attested formations include ‘release, then…’ (放行則), 163 hits in 88 files representing 86 works; ‘drawing in and releasing’ (收放), 340 in 155 files representing 155 works; ‘holding fast and releasing’ (把定放行), 16 in 14 files representing 14 works; ‘a road of release’ (放行一路), 8 in 7 files representing 7 works; ‘what is release…?’ (如何是放行), 11 in 11 files representing 11 works; and ‘not release’ (不放行), 48 in 42 files representing 42 works. No exact definitional formula equivalent to ‘X means release’ or ‘is called release’ was found. The two hits for ‘one who releases’ are predicative uses, not definitions.",
+    "Note": "Release is repeatedly paired with holding fast, drawing in, or restraint. The surrounding passage may praise it, question it, or refuse both sides; those appraisals do not create a second referent. The expression is not a bureaucratic permission formula.",
     "CreatedBy": "Codex",
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
