@@ -10882,6 +10882,23 @@
     "WrittenUtc": "2026-07-17T17:09:08.823288+00:00"
   },
   {
+    "SourceTerm": "剎剎塵塵",
+    "PreferredTarget": "every realm and every mote of dust",
+    "AlternateTargets": [
+      "realm after realm, dust mote after dust mote",
+      "all lands and particles"
+    ],
+    "SearchAliases": [
+      "every realm and every dust mote",
+      "all realms and dust motes",
+      "realm after realm"
+    ],
+    "Status": "preferred",
+    "Note": "The reduplicated pair is a distributive totality formula spanning the largest worlds and smallest particles.",
+    "CreatedBy": "packet3 exact5 owner construction",
+    "WrittenUtc": "2026-07-27T22:15:00Z"
+  },
+  {
     "SourceTerm": "剎竿",
     "PreferredTarget": "the monastery flagpole",
     "AlternateTargets": [],
