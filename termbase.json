@@ -17651,13 +17651,15 @@
   },
   {
     "SourceTerm": "大死底人",
-    "PreferredTarget": "a person who has undergone the great death",
-    "AlternateTargets": [],
+    "PreferredTarget": "a person of great death",
+    "AlternateTargets": [
+      "a person who has undergone the great death"
+    ],
     "SearchAliases": [
       "a person who has undergone the great death"
     ],
     "Status": "preferred",
-    "Note": "The headword names the person in the recurring question; the shorter “great death” expression is related but broader.",
+    "Note": "The phrase names the person, not merely the process called 'great death.' The recurring test asks what it is like when such a person comes alive again.",
     "CreatedBy": "Codex Iriya lane A131-150 full-case author",
     "WrittenUtc": "2026-07-18T17:35:02Z"
   },
