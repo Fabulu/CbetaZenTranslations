@@ -31037,7 +31037,7 @@
       "scribe"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
+    "Note": "A monastic office concerned with records and formal writing; 書記 also follows a personal name as the office-holder’s title.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:30:57.027055+00:00"
   },
@@ -43292,9 +43292,9 @@
       "wake up to it"
     ],
     "Status": "preferred",
-    "Note": "One verbal event across sudden and unmodified forms. The various occasions—speech, question, action, or heard song—are causes supplied by their narratives, not separate senses of the word. Frozen-corpus concordance: 270 exact hits in 113 storage files representing 110 independent works.",
-    "CreatedBy": "Codex f002 Lane B evidence-first refresh",
-    "WrittenUtc": null
+    "Note": "To awaken to or understand the matter. Narratives can report the event suddenly; teachers also use the expression for awakened understanding as such.",
+    "CreatedBy": "Codex Triple112 direct author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "眉分八字",
@@ -64899,7 +64899,7 @@
       "egret against snow"
     ],
     "Status": "preferred",
-    "Note": "6 exact full-case witnesses from 6 independent works support this corpus-bounded sense.",
+    "Note": "The white bird remains visibly distinguishable from the white field around it: likeness does not erase distinction.",
     "CreatedBy": "Codex f004 lane C1166-C1175 exact-actor recovery author",
     "WrittenUtc": "2026-07-15T15:28:02.993665+00:00"
   },
