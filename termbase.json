@@ -23107,17 +23107,17 @@
   },
   {
     "SourceTerm": "後堂",
-    "PreferredTarget": "rear-hall office or officer",
+    "PreferredTarget": "rear-hall officer",
     "AlternateTargets": [
       "rear-hall senior"
     ],
     "SearchAliases": [
-      "rear hall office",
-      "rear hall senior",
-      "second-seat officer"
+      "rear-hall officer",
+      "rear-hall senior",
+      "rear hall"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
+    "Note": "In these passages the term denotes a senior monastic office or its holder; none of the stored uses requires a separate architectural-room sense.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:31:02.627217+00:00"
   },
