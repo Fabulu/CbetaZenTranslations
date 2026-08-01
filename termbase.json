@@ -10923,6 +10923,20 @@
     "WrittenUtc": "2026-07-13T08:00:00Z"
   },
   {
+    "SourceTerm": "剎那滅却三祇劫",
+    "PreferredTarget": "in an instant, extinguish three incalculable ages",
+    "AlternateTargets": [
+      "an instant wipes out three incalculable ages"
+    ],
+    "SearchAliases": [
+      "an instant wipes out three incalculable ages"
+    ],
+    "Status": "preferred",
+    "Note": "Keep the instant-versus-three-ages contrast with its recurring companion line about completing eighty thousand gates in a finger snap.",
+    "CreatedBy": "Codex Triple61 lean source-first construction",
+    "WrittenUtc": "2026-08-01T12:00:00Z"
+  },
+  {
     "SourceTerm": "剔起眉毛",
     "PreferredTarget": "raise your eyebrows and look closely",
     "AlternateTargets": [],
@@ -56027,7 +56041,7 @@
   },
   {
     "SourceTerm": "辨魔揀異",
-    "PreferredTarget": "to distinguish delusion and select what differs",
+    "PreferredTarget": "to discern the demonic and distinguish deviations",
     "AlternateTargets": [
       "discern the demonic and separate deviations"
     ],
@@ -56038,8 +56052,8 @@
     ],
     "Status": "preferred",
     "Note": "Six works preserve Linji's self-definition, later quotation, historical appraisal, hall question, and verse.",
-    "CreatedBy": "Codex construction Lane C positions31-40 explicit full-case author",
-    "WrittenUtc": "2026-07-17T12:26:38.257007+00:00"
+    "CreatedBy": "Codex Triple61 lean source-first construction",
+    "WrittenUtc": "2026-08-01T12:00:00Z"
   },
   {
     "SourceTerm": "辭親割愛",
@@ -56217,8 +56231,8 @@
     ],
     "Status": "preferred",
     "Note": "The phrase describes a deluded encounter with Bodhidharma rather than a successful recognition.",
-    "CreatedBy": "Codex Iriya lane C91-100 full-case author",
-    "WrittenUtc": "2026-07-18T20:30:00Z"
+    "CreatedBy": "Codex Triple61 lean source-first construction",
+    "WrittenUtc": "2026-08-01T12:00:00Z"
   },
   {
     "SourceTerm": "迷頭認影",
