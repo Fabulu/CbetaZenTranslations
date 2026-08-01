@@ -47867,7 +47867,7 @@
       "nonplussed"
     ],
     "Status": "preferred",
-    "Note": "No separate Zen-technical object emerged. Ordinary inability to know what to do is bent into a recurrent public-interview report, commonly placed directly before the next action recorded in the case. Formula searches produced no corpus definition of the word; the deployment, not an imported psychological gloss, fixes the entry. Frozen-corpus concordance: 1114 exact hits in 246 storage files representing 242 independent works. Frozen-corpus concordance: 1114 exact hits in 246 storage files representing 242 independent works. Frozen-corpus concordance: 1114 exact hits in 246 storage files representing 242 independent works. Frozen-corpus concordance: 1114 exact hits in 246 storage files representing 242 independent works. Frozen-corpus concordance: 1114 exact hits in 246 storage files representing 242 independent works. Frozen-corpus concordance: 1114 exact hits in 246 storage files representing 242 independent works. Frozen-corpus concordance: 1114 exact hits in 246 storage files representing 242 independent works. Frozen-corpus concordance: 1114 exact hits in 246 storage files representing 242 independent works.",
+    "Note": "Ordinary inability to know what to do repeatedly appears as the reported stage immediately before the next action in a public interview.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": null
   },
@@ -48699,13 +48699,18 @@
   },
   {
     "SourceTerm": "胡言漢語",
-    "PreferredTarget": "Hu words and Han speech",
-    "AlternateTargets": [],
+    "PreferredTarget": "all kinds of talk",
+    "AlternateTargets": [
+      "Hu words and Han speech",
+      "wild and miscellaneous talk"
+    ],
     "SearchAliases": [
-      "Hu words and Han speech"
+      "Hu words and Han speech",
+      "all kinds of talk",
+      "mixed talk"
     ],
     "Status": "preferred",
-    "Note": "The pair names mixed or unruly talk in these records; it is not expanded into a claim about ethnic languages beyond the wording.",
+    "Note": "The pair ranges from disparaging gibberish or unruly talk to ordinary varied speech; it is not expanded into a claim about ethnic languages beyond the graph image.",
     "CreatedBy": "Codex Iriya lane C81-90 full-case author",
     "WrittenUtc": "2026-07-18T19:30:00Z"
   },
