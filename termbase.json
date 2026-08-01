@@ -6722,15 +6722,17 @@
   },
   {
     "SourceTerm": "佛法的的大意",
-    "PreferredTarget": "the true essential meaning of the Buddhist teaching",
-    "AlternateTargets": [],
+    "PreferredTarget": "the real point of the Buddha's teaching",
+    "AlternateTargets": [
+      "what the Buddha's teaching is really about"
+    ],
     "SearchAliases": [
-      "the real gist of the Buddhist teaching"
+      "main point of the teaching"
     ],
     "Status": "preferred",
-    "Note": "The full inherited question concerns the central meaning of the teaching.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T00:00:00Z"
+    "Note": "In the recurring question 如何是佛法的的大意, 的的 strengthens 大意: the actual or unmistakable main point, not a separate doctrinal category.",
+    "CreatedBy": "Triple81 lean Sol author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "佛滅二千年，比丘少慚愧",
@@ -59024,15 +59026,12 @@
       "bell-and-board signals"
     ],
     "SearchAliases": [
-      "bell board",
-      "monastery signals",
-      "wooden board",
-      "community schedule"
+      "monastery bell and board"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
-    "CreatedBy": "Codex f003 Lane C evidence-first",
-    "WrittenUtc": "2026-07-15T04:31:08.939246+00:00"
+    "Note": "The compound names the paired monastery instruments and, in ceremony headings, the occasion of hanging them.",
+    "CreatedBy": "Triple81 lean Sol author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "鐘樓上念讚",
