@@ -8287,7 +8287,7 @@
       "a monk inquired"
     ],
     "Status": "preferred",
-    "Note": "Exact frozen-corpus count: 31,994 hits in 437 files representing 431 independent works. Ten curated occurrences from ten independent works meet the high-frequency floor.",
+    "Note": "Exact frozen-corpus count: 31,921 hits in 435 files representing 429 independent works. Four curated occurrences from four works show the recorder formula without treating its words as the monk's speech.",
     "CreatedBy": "Codex legacy full rebuild Lane B",
     "WrittenUtc": "2026-07-16T18:11:05.391985+00:00"
   },
@@ -62094,16 +62094,15 @@
     "SourceTerm": "須彌山",
     "PreferredTarget": "Mount Sumeru",
     "AlternateTargets": [
-      "Sumeru mountain"
+      "Sumeru"
     ],
     "SearchAliases": [
       "Mount Sumeru",
-      "Sumeru answer",
-      "world mountain",
-      "Yunmen Sumeru"
+      "Sumeru",
+      "Yunmen Mount Sumeru"
     ],
     "Status": "preferred",
-    "Note": "The direct Yunmen answer and the later label “Mount-Sumeru case” anchor the named case. Cosmological, biographical, and scriptural uses remain distinct deployments of the same mountain, not additional senses.",
+    "Note": "The name denotes the inherited world-mountain. Yunmen also gives that name alone as an answer; later authors quote, compare with, lift, chew, or carry the mountain without turning all uses into that case-answer.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:31:08.939246+00:00"
   },
@@ -64924,7 +64923,7 @@
       "Zen the yellow-millet dream"
     ],
     "Status": "preferred",
-    "Note": "Exact allowlist count for the graph pair: 49 hits in 39 texts; the fixed yellow-millet dream form occurs 13 times in 12 texts. The dream is related to the Handan and Southern-Bough dream families but is not merged with them.",
+    "Note": "Exact frozen-corpus count: 56 hits. The primary use is the yellow-millet dream allusion; four independent recorded-sayings witnesses show its story, awakening language, and compressed lifetime image.",
     "CreatedBy": "Codex f002 Lane C worksheet-first author",
     "WrittenUtc": null
   },
