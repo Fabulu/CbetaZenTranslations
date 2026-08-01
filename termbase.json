@@ -547,13 +547,15 @@
   },
   {
     "SourceTerm": "一坐具地",
-    "PreferredTarget": "one sitting-cloth's patch of ground",
-    "AlternateTargets": [],
+    "PreferredTarget": "one sitting-cloth’s area of ground",
+    "AlternateTargets": [
+      "a sitting-cloth-sized patch of ground"
+    ],
     "SearchAliases": [
       "one sitting-cloth's patch of ground"
     ],
     "Status": "preferred",
-    "Note": "Ordinary land measures without the sitting cloth do not establish this lexical unit.",
+    "Note": "The headword is the cloth-based land measure; ordinary references to land without the sitting cloth do not establish this unit.",
     "CreatedBy": "Codex Iriya lane B121-130 full-case author",
     "WrittenUtc": "2026-07-18T17:00:00Z"
   },
@@ -21053,7 +21055,7 @@
       "plunder the person directly"
     ],
     "Status": "preferred",
-    "Note": "The bodily robbery scene and the cited pairings license immediacy and taking what is already at hand; they do not license a general theory of spiritual theft.",
+    "Note": "To seize or rob someone where they stand, used for an answer or recognition that takes the matter directly from the present situation. Two verse witnesses and two Wuyi witnesses are parallel families, leaving three independent deployments.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T18:45:00Z"
   },
@@ -46001,7 +46003,7 @@
       "nail into the sky"
     ],
     "Status": "preferred",
-    "Note": "6 exact full-case witnesses from 6 independent works support this corpus-bounded sense.",
+    "Note": "An image for trying to establish a fixed point where nothing can support it. Parallel copies of the Zhuyu case and Gaofeng appraisal are counted as two families, not four deployments.",
     "CreatedBy": "Codex f004 C1156-1165 fresh author",
     "WrittenUtc": "2026-07-15T14:54:06.495578+00:00"
   },
