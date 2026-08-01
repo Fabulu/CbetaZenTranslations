@@ -1482,7 +1482,6 @@
     "SourceTerm": "一瓣香",
     "PreferredTarget": "one offering of incense",
     "AlternateTargets": [
-      "one stick of incense",
       "one portion of incense"
     ],
     "SearchAliases": [
@@ -1492,7 +1491,7 @@
       "single incense offering"
     ],
     "Status": "preferred",
-    "Note": "7 independent works anchor the headword and delimit the gloss.",
+    "Note": "The records use the same incense portion for offerings to teachers, rulers, officials, patrons, and other named recipients; the phrase does not by itself mean lineage transmission.",
     "CreatedBy": "Codex f003 Lane B evidence-first",
     "WrittenUtc": "2026-07-15T04:45:39.893705+00:00"
   },
@@ -23923,14 +23922,14 @@
     "PreferredTarget": "the mind is empty",
     "AlternateTargets": [
       "emptiness of mind",
-      "a cleared mind"
+      "mind empty"
     ],
     "SearchAliases": [
       "the mind is empty",
       "emptiness of mind"
     ],
     "Status": "preferred",
-    "Note": "The expression predicates or names the mind's freedom from fixed contents. Some cases form a subject-predicate clause and others a compact nominal expression; neither licenses mere blankness.",
+    "Note": "The expression appears both as a clause saying that the mind is empty and in the inherited examination image ‘pass with an empty mind’; these grammatical settings do not make different things.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
@@ -35521,7 +35520,7 @@
       "nothing to get hold of"
     ],
     "Status": "preferred",
-    "Note": "The varying grammatical subjects do not establish different things named by the headword; the phrase consistently predicates absence of a graspable handle. 'No flavor' is a frequent companion, not an alternate mystical sense. Frozen-corpus concordance: 197 exact hits in 93 storage files representing 91 independent works.",
+    "Note": "The phrase consistently predicates the absence of a graspable handle; ‘no flavor’ is a frequent companion, not another sense.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": "2026-07-16T12:01:41.515180+00:00"
   },
