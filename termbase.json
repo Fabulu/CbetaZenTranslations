@@ -9179,22 +9179,20 @@
   },
   {
     "SourceTerm": "全機",
-    "PreferredTarget": "the whole dynamic",
+    "PreferredTarget": "the whole working",
     "AlternateTargets": [
-      "the full pivotal function",
+      "the complete working",
       "the whole operation"
     ],
     "SearchAliases": [
-      "whole dynamic",
-      "full dynamic",
+      "whole working",
       "complete function",
-      "whole operation",
-      "full pivotal function"
+      "whole operation"
     ],
     "Status": "preferred",
-    "Note": "The sole construction with the nominalizing person-marker (者) describes a person who broadly displayed the whole dynamic; it does not define a second sense. In Shiguan Fazang's autobiographical record, his teacher Juelang Daosheng asks ‘what is the whole dynamic?’ (如何是全機), and Shiguan answers by raising one finger; when asked about the whole function, he spreads both hands. The former entry incorrectly attached an unrelated ‘midnight sun’ answer to this exchange; exact KWIC review removes that error. The same referent spans direct discourse, case rubrics, verse, and prose comment, so neither grammatical variation nor different speakers warrant a second sense.",
-    "CreatedBy": "Codex legacy full rebuild Lane A",
-    "WrittenUtc": "2026-07-16T18:01:57.700635+00:00"
+    "Note": "Literally the whole working or full operative capacity. It is commonly paired with great function (大用), but the question-and-gesture exchange also uses it independently.",
+    "CreatedBy": "Codex Sol Triple48 lean full-case author",
+    "WrittenUtc": "2026-08-01T19:00:00Z"
   },
   {
     "SourceTerm": "全機大用",
@@ -15072,21 +15070,20 @@
   },
   {
     "SourceTerm": "單傳",
-    "PreferredTarget": "transmit singly",
+    "PreferredTarget": "single transmission",
     "AlternateTargets": [
-      "single transmission",
-      "transmit in a single line"
+      "direct single transmission",
+      "transmission in one line"
     ],
     "SearchAliases": [
       "single transmission",
-      "sole transmission",
-      "direct lineage transmission",
+      "direct transmission",
       "single lineage transmission"
     ],
     "Status": "preferred",
-    "Note": "The records place the term in lineage slogans, questions, and verse. One lamp record pairs, \"Bodhidharma came from the west, singly transmitting the mind-seal; the Sixth Patriarch of Caoxi did not know one written character\" (達磨西來，單傳心印，曹溪六祖，不識一字). A later lineage statement says the flower-holding smile was entrusted as \"single transmission outside the teachings\" (教外單傳). The four direct-question occurrences and twelve \"termed single transmission\" formulas belong to this shared lineage wording, not master-specific senses.",
-    "CreatedBy": "Codex fresh-build lane C",
-    "WrittenUtc": null
+    "Note": "The expression is repeatedly joined to direct pointing, the mind-seal, or transmission outside teachings. “Single” does not mean that the tradition thereafter forbids speech or writing.",
+    "CreatedBy": "Codex Sol Triple48 lean full-case author",
+    "WrittenUtc": "2026-08-01T19:00:00Z"
   },
   {
     "SourceTerm": "單傳心印",
@@ -37649,14 +37646,12 @@
     "SearchAliases": [
       "gradual cultivation",
       "stepwise cultivation",
-      "gradual work",
-      "gradual and sudden",
-      "gradual working-through"
+      "gradual work"
     ],
     "Status": "preferred",
-    "Note": "The corpus has 115 exact occurrences in 35 allowlisted files. Definition searches found a direct 'gradual refinement is...' formula in the Record of Refining Mind and explicit fourfold enumerations in the Chan Source preface and Record of the Mirror of the School. The term is frequently paired with sudden realization (頓悟漸修) and contrasted with sudden refinement (頓修).",
-    "CreatedBy": "Codex legacy full rebuild Lane B",
-    "WrittenUtc": "2026-07-16T18:11:15.089981+00:00"
+    "Note": "Literally cultivation carried out gradually. The retained records use it in classifications that set gradual and sudden realization or cultivation in different orders.",
+    "CreatedBy": "Codex Sol Triple48 lean full-case author",
+    "WrittenUtc": "2026-08-01T19:00:00Z"
   },
   {
     "SourceTerm": "漸修頓悟",
