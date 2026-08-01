@@ -14491,7 +14491,7 @@
       "whose teaching-house song is being sung?"
     ],
     "Status": "preferred",
-    "Note": "The recurring paired question joins a sung tune to lineage style and inheritance. “House” therefore means a lineage or teaching house, while “tune” preserves the musical metaphor. The varied replies prevent treating the formula as a fixed answer.",
+    "Note": "The recurring question pairs a house’s tune with the lineage style and person inherited from. “House” is a teaching lineage; “tune” preserves the musical wording.",
     "CreatedBy": "Codex lamp-repair cohort002 lane A",
     "WrittenUtc": "2026-07-28T12:00:00+02:00"
   },
@@ -22281,18 +22281,18 @@
   },
   {
     "SourceTerm": "庫司",
-    "PreferredTarget": "monastery offices",
+    "PreferredTarget": "storehouse office",
     "AlternateTargets": [
-      "administrative office"
+      "monastery storehouse administration"
     ],
     "SearchAliases": [
-      "monastery offices",
-      "administration",
-      "office staff",
-      "kitchen office"
+      "storehouse office",
+      "monastery storehouse administration",
+      "stores office",
+      "supply office"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
+    "Note": "The term names both the monastery’s storehouse administration and the place assigned to it; context determines whether the office as a unit or its premises are foregrounded.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T04:51:37.145725+00:00"
   },
@@ -49065,9 +49065,11 @@
   },
   {
     "SourceTerm": "臨機",
-    "PreferredTarget": "meet the occasion",
+    "PreferredTarget": "at the critical moment",
     "AlternateTargets": [
-      "respond at the encounter"
+      "when the occasion arises",
+      "meet the occasion",
+      "respond on the spot"
     ],
     "SearchAliases": [
       "meet the occasion",
@@ -49077,7 +49079,7 @@
       "face the situation"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
+    "Note": "臨 marks being at or facing the occasion; 機 is the live juncture presented by it. In these records the phrase belongs to an immediate challenge, answer, or action, not circumstances in general.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
   },
