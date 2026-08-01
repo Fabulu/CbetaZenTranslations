@@ -920,7 +920,7 @@
       "one thought, ten thousand years"
     ],
     "Status": "preferred",
-    "Note": "6 distinct work IDs selected after complete-case actor review.",
+    "Note": "The phrase is contextual rather than a unit of chronological measurement.",
     "CreatedBy": "Codex f004 lane B complete-case author",
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
@@ -40321,13 +40321,16 @@
   },
   {
     "SourceTerm": "猊座",
-    "PreferredTarget": "raised teaching seat",
-    "AlternateTargets": [],
+    "PreferredTarget": "lion seat",
+    "AlternateTargets": [
+      "teaching seat",
+      "your reverence"
+    ],
     "SearchAliases": [
       "the lion seat"
     ],
     "Status": "preferred",
-    "Note": "7 distinct work IDs selected after complete-context review.",
+    "Note": "The physical-seat use and the honorific address must be distinguished from any invented symbolism.",
     "CreatedBy": "Codex f004 lane A 926-950 full-case repair author",
     "WrittenUtc": "2026-07-15T16:45:00Z"
   },
