@@ -19933,7 +19933,7 @@
   },
   {
     "SourceTerm": "客塵",
-    "PreferredTarget": "guest-dust",
+    "PreferredTarget": "transient guest-dust impurity",
     "AlternateTargets": [
       "visiting dust",
       "guest-dust troubles"
@@ -19946,7 +19946,7 @@
       "guest-dust"
     ],
     "Status": "preferred",
-    "Note": "The corpus-wide sense remains one article because the Baizhang classification depends on the same guest-versus-ruler morphology as the broader compound. The explanation describes the recorded classification without adding an outside account of affliction or purity.",
+    "Note": "This corpus-wide sense covers the guest-dust image used for affliction, stain, and habitual contamination. Baizhang Huaihai's distinct classification of illuminating function is separated below.",
     "CreatedBy": "Codex legacy full rebuild Lane A",
     "WrittenUtc": "2026-07-16T18:02:06.531459+00:00"
   },
@@ -21128,7 +21128,7 @@
       "visible world"
     ],
     "Status": "preferred",
-    "Note": "The frozen corpus has 2,487 exact hits in 333 files representing 329 works. Eight anchors span direct replies, questions, sermon statements, cited cases, and later commentary across independent works.",
+    "Note": "The expression names the landscape or terrestrial world. The cited speakers variously identify it, question it, relate it to mind or self, and give it impossible actions; those predicates do not turn the headword itself into one fixed metaphysical claim.",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": null
   },
@@ -29669,14 +29669,16 @@
     "SourceTerm": "斷臂",
     "PreferredTarget": "cutting off the arm",
     "AlternateTargets": [
-      "the severed-arm episode",
-      "Huike cuts off his arm"
+      "severing an arm",
+      "an arm-cutting act"
     ],
     "SearchAliases": [
-      "cutting off the arm"
+      "cutting off the arm",
+      "severed-arm episode",
+      "Huike arm cutting"
     ],
     "Status": "preferred",
-    "Note": "Current exact frozen-corpus count: 602 hits in 234 allowed files representing 232 independent works. Family check covered standing in the snow (立雪), Shenguang or Huike (神光／慧可), pacifying the mind (安心), seeking the Way or teaching (求道／求法), and the Second Patriarch (二祖). All refer back to the same bodily act; narrative, epithet, and later question are not different things. Names remain contextual because Huike is a lineage patriarch and belongs on Huike roster, not as a separate dictionary figure.",
+    "Note": "The retained cases prominently connect the act with Huike, standing in the snow, pacifying the mind, and seeking the Way or teaching. A separate lamp biography says that the disciple Taigong cut off his arm to repay kindness, so the bare expression is not exclusive to Huike. The people and episodes remain contextual to the literal bodily act.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-16T12:01:40.818589+00:00"
   },
@@ -33820,6 +33822,20 @@
     "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
+  },
+  {
+    "SourceTerm": "權開五位",
+    "PreferredTarget": "provisionally set out the five ranks",
+    "AlternateTargets": [
+      "expediently opened the five positions"
+    ],
+    "SearchAliases": [
+      "expediently opened the five positions"
+    ],
+    "Status": "preferred",
+    "Note": "The wording qualifies the setting-out as provisional. It does not call the five ranks absolute stages.",
+    "CreatedBy": "R07 regenerated through corrected worksheet-first promotion B",
+    "WrittenUtc": "2026-07-30T05:05:00Z"
   },
   {
     "SourceTerm": "欲窮千里目、更上一層樓",
@@ -42199,7 +42215,7 @@
       "how advance from pole"
     ],
     "Status": "preferred",
-    "Note": "The pole-top marks the exposed limit at which gaining entry is still not treated as completion; the records vary over whether and how a further step can be made.",
+    "Note": "The words name a pole-top. Changsha Jingcen’s verse makes gained entry insufficient there; other records preserve questions and comments that vary over whether and how a further step can be made.",
     "CreatedBy": "Codex fresh f001 lane A evidence-first",
     "WrittenUtc": "2026-07-15T06:30:00Z"
   },
@@ -51514,7 +51530,7 @@
       "go traveling on foot"
     ],
     "Status": "preferred",
-    "Note": "The corpus also turns the activity into a test. Asked \"What is the affair of traveling on foot?\" (如何是行腳事), Poshan answers, \"face to face, looking at one another, the mouth is like wood\" (面面相看口如木). Another instruction calls someone who has passed through a cited exchange a \"true person traveling on foot\" (真行腳人). No formula in the corpus makes the term a separate prescribed system.",
+    "Note": "The journey itself is physical travel. The records test its purpose and result; distance traveled and meetings with teachers do not by themselves establish attainment.",
     "CreatedBy": "Codex legacy full rebuild Lane A",
     "WrittenUtc": "2026-07-16T18:02:01.916072+00:00"
   },
