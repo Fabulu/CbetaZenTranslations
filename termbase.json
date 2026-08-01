@@ -15308,6 +15308,21 @@
     "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
+    "SourceTerm": "囊無繫蟻之絲",
+    "PreferredTarget": "not a thread in the bag to tether an ant",
+    "AlternateTargets": [
+      "a bag without even ant-tethering thread"
+    ],
+    "SearchAliases": [
+      "extreme poverty",
+      "not a thread to one's name"
+    ],
+    "Status": "preferred",
+    "Note": "Preserve the absurd minuteness of the missing thread: this is poverty hyperbole, not an abstract state.",
+    "CreatedBy": "R95 Triple 14 Sol clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
+  },
+  {
     "SourceTerm": "囑令加護",
     "PreferredTarget": "charge him to guard it carefully",
     "AlternateTargets": [],
@@ -16560,23 +16575,21 @@
   },
   {
     "SourceTerm": "塵勞",
-    "PreferredTarget": "worldly toil",
+    "PreferredTarget": "dust and toil",
     "AlternateTargets": [
-      "dusty toil",
       "worldly bustle",
-      "dust and toil"
+      "worldly burdens"
     ],
     "SearchAliases": [
-      "worldly toil",
-      "worldly bustle",
-      "worldly affairs",
       "dust and toil",
-      "worldly entanglement"
+      "worldly entanglement",
+      "worldly bustle",
+      "worldly burdens"
     ],
     "Status": "preferred",
-    "Note": "The frequent longer string 'worldly toil and vexation' occurs 36 times in 24 texts, but the entry preserves the headword's own concrete dust-and-labor wording. Formula searches found no stable bare self-definition; the apparent 'worldly toil is ...' strings mostly introduce a person located amid it.",
-    "CreatedBy": "Codex legacy full rebuild Lane A",
-    "WrittenUtc": "2026-07-16T18:01:56.780126+00:00"
+    "Note": "Do not conflate the burden with awakening, or its temporary cessation with completion.",
+    "CreatedBy": "R95 Triple 14 Sol clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "塵塵",
@@ -29087,16 +29100,19 @@
   },
   {
     "SourceTerm": "敗將不斬",
-    "PreferredTarget": "a defeated general is not executed",
-    "AlternateTargets": [],
+    "PreferredTarget": "do not execute a defeated general",
+    "AlternateTargets": [
+      "a defeated general is spared"
+    ],
     "SearchAliases": [
-      "defeated general is not executed",
-      "do not behead a beaten general"
+      "spare the defeated opponent",
+      "already beaten",
+      "no need to punish the loser"
     ],
     "Status": "preferred",
-    "Note": "Its tone may be merciful, mocking, or procedurally final according to the exchange. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The tone ranges from lenient to mocking; the cases establish restraint after defeat, not a universal doctrine of mercy.",
+    "CreatedBy": "R95 Triple 14 Sol clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "敗缺不少",
