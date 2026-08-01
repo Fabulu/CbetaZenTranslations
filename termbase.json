@@ -32828,9 +32828,9 @@
   },
   {
     "SourceTerm": "杲日當空",
-    "PreferredTarget": "the blazing sun in the open sky",
+    "PreferredTarget": "the bright sun in the open sky",
     "AlternateTargets": [
-      "the bright sun in the open sky",
+      "the blazing sun in the open sky",
       "the brilliant sun overhead"
     ],
     "SearchAliases": [
@@ -32838,7 +32838,7 @@
       "bright sun in the sky"
     ],
     "Status": "preferred",
-    "Note": "The phrase is a single image of the bright or blazing sun standing in the open sky. It appears as a direct answer, in questions about cloud cover or the illuminated scene, and in an evening instruction that qualifies even this image. The records do not supply a fixed symbolic menu.",
+    "Note": "The image is the brilliant sun standing in open sky. It may answer directly, frame a question about obscuration, or itself be demoted; the records do not assign it one fixed symbol.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T00:00:00Z"
   },
@@ -37363,7 +37363,7 @@
       "the pure body"
     ],
     "Status": "preferred",
-    "Note": "Sense and actor decisions were made from complete stored contexts before prose compilation.",
+    "Note": "The phrase names the pure dharma-body, but the records refuse to isolate it from one's nature, transformation bodies, or the mountains and rivers filling the field.",
     "CreatedBy": "Codex f004 lane C evidence-first full-context canary",
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
@@ -40429,14 +40429,17 @@
   {
     "SourceTerm": "猛虎當路坐",
     "PreferredTarget": "a fierce tiger sits across the road",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "a fierce tiger blocks the road"
+    ],
     "SearchAliases": [
-      "a fierce tiger sits across the road"
+      "fierce tiger blocking the road",
+      "tiger sitting across the road"
     ],
     "Status": "preferred",
-    "Note": "The tiger blocks the route as an image of an answer whose force cannot be passed casually.",
-    "CreatedBy": "Codex Iriya lane C111-120 full-case author",
-    "WrittenUtc": "2026-07-18T23:20:00Z"
+    "Note": "The image retains the physical constraint of a fierce tiger sitting across and blocking the road; the passages do not assign it one fixed referent.",
+    "CreatedBy": "Codex Triple104 direct-product author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "猢猻",
