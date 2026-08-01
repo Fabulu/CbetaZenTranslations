@@ -3019,21 +3019,20 @@
   },
   {
     "SourceTerm": "三種病人",
-    "PreferredTarget": "Xuansha's blind, deaf, and mute people",
+    "PreferredTarget": "Xuansha's three patients",
     "AlternateTargets": [
-      "the three impaired people",
+      "Xuansha's three impaired people",
       "the blind, deaf, and mute people"
     ],
     "SearchAliases": [
       "three sick people",
-      "three disabled people",
       "three impaired people",
       "blind deaf and mute",
       "Xuansha's three illnesses"
     ],
     "Status": "preferred",
-    "Note": "Frozen-corpus concordance: 197 exact hits in 84 storage files representing 81 independent works. This is one corpus-wide case name derived from Xuansha, not a personal-name sense and not several master-specific meanings. Later quotations, verses, questions, and answers all address the same fixed triad. Seven exact witnesses from six source texts meet the depth and spread gates independently of the related blind-deaf-mute wording.",
-    "CreatedBy": "Codex f002 Lane B evidence-first refresh",
+    "Note": "Xuansha's three patients are the blind, deaf, and mute people named in his challenge about receiving people.",
+    "CreatedBy": "Codex R95 Triple26 clean source-first repair",
     "WrittenUtc": null
   },
   {
@@ -4196,20 +4195,20 @@
   },
   {
     "SourceTerm": "不立文字",
-    "PreferredTarget": "not established in written words",
+    "PreferredTarget": "not based on written words",
     "AlternateTargets": [
-      "not setting up words and letters",
-      "not founded on textual formulations"
+      "not founded on textual formulations",
+      "not setting up written words as the basis"
     ],
     "SearchAliases": [
       "not relying on words and letters",
-      "Chan beyond written words",
-      "not established in texts"
+      "not based on written texts",
+      "direct pointing beyond formulations"
     ],
     "Status": "preferred",
-    "Note": "Seven exact witnesses in seven independent works support the direct-pointing formula and its internal qualifications; the target avoids the unsupported absolute “without words.”",
-    "CreatedBy": "Codex fresh f001 lane A evidence-first",
-    "WrittenUtc": "2026-07-15T10:30:00Z"
+    "Note": "The negation limits what constitutes or grounds transmission; the records themselves block an absolute ban on speech, writing, or scripture.",
+    "CreatedBy": "Codex R95 Triple26 clean source-first repair",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "不自在",
@@ -64234,21 +64233,20 @@
   },
   {
     "SourceTerm": "鳥道",
-    "PreferredTarget": "a bird's trackless flight-course",
+    "PreferredTarget": "a bird's trackless course through open air",
     "AlternateTargets": [
-      "a bird's course through open air",
+      "a bird's traceless flight-course",
       "the trackless bird-course"
     ],
     "SearchAliases": [
-      "bird flight path",
+      "bird flight course",
       "trackless bird path",
-      "pathless bird course",
       "bird course through air",
-      "non-path path"
+      "Caodong bird course"
     ],
     "Status": "preferred",
-    "Note": "The exact concordance has 627 matches in 168 allowlisted files. The exhaustive context screen classified all 627 disjointly as 202 explicit technical/interview frames, 28 tracklessness or no-ground predicates, 15 explicit precipitous-mountain-trail frames, 294 route/topographic contexts whose short window does not decide between the two referents, and 88 residual or other contexts. The ambiguous and residual buckets were not used to force either sense. Exact collocation controls include 171 context-window matches for travel-the-bird-course, 68 for not-traveling it, 18 for hard-to-pass, eleven for sheep-gut bird paths, and one for rope-bridge bird paths. The inherited ‘non-path path’ lead is revised, not discarded: tracklessness is licensed, but absolute non-traversability is rejected because travel predicates are abundant.",
-    "CreatedBy": "Codex fresh-build lane C",
+    "Note": "Dongshan's formula, affirmative travel, difficult travel, and no-trace predicates concern one course; they are not separate senses.",
+    "CreatedBy": "Codex R95 Triple26 clean source-first repair",
     "WrittenUtc": null
   },
   {
