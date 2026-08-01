@@ -21677,6 +21677,21 @@
     "WrittenUtc": "2026-08-01T13:49:08Z"
   },
   {
+    "SourceTerm": "師唱誰家曲",
+    "PreferredTarget": "whose house's tune do you sing?",
+    "AlternateTargets": [
+      "whose lineage tune do you sing?"
+    ],
+    "SearchAliases": [
+      "whose house's tune do you sing",
+      "whose lineage tune do you sing"
+    ],
+    "Status": "preferred",
+    "Note": "The surviving witnesses here are lamp records. The longer paired formula adds 宗風嗣阿誰, asking whose lineage style the teacher inherits; this article covers the first question without collapsing it into that companion clause.",
+    "CreatedBy": "Codex Triple64 lean repair",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
+  },
+  {
     "SourceTerm": "師問",
     "PreferredTarget": "the named guide asked",
     "AlternateTargets": [
@@ -26486,15 +26501,17 @@
   {
     "SourceTerm": "拈拄杖",
     "PreferredTarget": "take up the staff",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "lift the staff"
+    ],
     "SearchAliases": [
       "take up the staff",
-      "拈拄杖"
+      "lift the staff"
     ],
     "Status": "preferred",
-    "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
-    "CreatedBy": "Codex f003 Lane A full-case author",
-    "WrittenUtc": "2026-07-15T04:51:27.765004+00:00"
+    "Note": "The headword is an action cue supplied by the recorder; the words after 曰 or 云 belong to the represented teacher.",
+    "CreatedBy": "Codex Triple64 lean repair",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "拈提",
@@ -47521,20 +47538,20 @@
   },
   {
     "SourceTerm": "緣木求魚",
-    "PreferredTarget": "to climb a tree seeking fish",
+    "PreferredTarget": "climb a tree seeking fish",
     "AlternateTargets": [
       "seek fish up a tree",
       "use a means that cannot reach its object"
     ],
     "SearchAliases": [
-      "to climb a tree seeking fish",
+      "climb a tree seeking fish",
       "seek fish up a tree",
       "use a means that cannot reach its object"
     ],
     "Status": "preferred",
-    "Note": "One idiomatic image with multiple attested stances; grammatical form and differing evaluations do not create extra senses.",
-    "CreatedBy": "Codex f002 Lane C fresh corpus build",
-    "WrittenUtc": "2026-07-15T04:06:26.730577+00:00"
+    "Note": "The literal image serves as a comparison for pursuing something by a method that cannot reach it.",
+    "CreatedBy": "Codex Triple64 lean repair",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "縁木求魚",
