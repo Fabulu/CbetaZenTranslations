@@ -35580,14 +35580,16 @@
   },
   {
     "SourceTerm": "法兄",
-    "PreferredTarget": "elder Dharma brother",
-    "AlternateTargets": [],
+    "PreferredTarget": "senior brother in the teaching",
+    "AlternateTargets": [
+      "elder brother in the teaching"
+    ],
     "SearchAliases": [
-      "elder Dharma brother"
+      "senior brother in the teaching"
     ],
     "Status": "preferred",
-    "Note": "法兄 is a respectful kinship title for a senior fellow practitioner in the Dharma.",
-    "CreatedBy": "author_from_packet",
+    "Note": "A respectful kinship title for a senior fellow within a shared teaching line or community.",
+    "CreatedBy": "Codex Triple41 lean evidence-first repair",
     "WrittenUtc": "2026-07-21T00:30:00Z"
   },
   {
@@ -55687,7 +55689,7 @@
   },
   {
     "SourceTerm": "轉身",
-    "PreferredTarget": "turn oneself around",
+    "PreferredTarget": "turn around",
     "AlternateTargets": [
       "make a turn",
       "turn about"
@@ -55699,8 +55701,8 @@
       "make a turn"
     ],
     "Status": "preferred",
-    "Note": "Further collocations include “turn and shift step” (轉身移步), “no road to turn” (轉身無路), and “turn, then…” (轉身便). Later records use “turning phrase” (轉身句) as a label in stylized exchanges, while Zhongfeng criticizes stock phrases called by that name. Compare road to turn (轉身一路), turning phrase (轉身句), place to turn (轉身處), and shifting step (移步).",
-    "CreatedBy": "Codex fresh f001 lane B evidence-first",
+    "Note": "The expression ranges from literal bodily motion to the ability to change direction in an encounter. Added nouns specify a road, place, or phrase for such a turn; they should not make every bare occurrence technical.",
+    "CreatedBy": "Codex Triple41 lean evidence-first repair",
     "WrittenUtc": "2026-07-15T05:30:00Z"
   },
   {
@@ -60991,8 +60993,8 @@
       "Yunmen hubing"
     ],
     "Status": "preferred",
-    "Note": "Five witnesses include later public deployment, verse, and a case heading whose body preserves Yunmen's original answer.",
-    "CreatedBy": "Codex f004 lane B bulk evidence-first author",
+    "Note": "The witnesses show the name functioning as later shorthand for Yunmen's answer: in sermons, verse, a pairing with Zhaozhou's tea, and a raised-case heading whose body preserves the original exchange.",
+    "CreatedBy": "Codex Triple41 lean evidence-first repair",
     "WrittenUtc": "2026-07-15T10:28:15.689574+00:00"
   },
   {
