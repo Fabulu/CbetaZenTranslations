@@ -15055,7 +15055,7 @@
       "body-and-life loss"
     ],
     "Status": "preferred",
-    "Note": "The reversible form 'lose life and body' also occurs. Frequent triggers include deliberation, coming near a sword or fire, and answering a public question.",
+    "Note": "The paired phrase marks total personal loss or mortal peril. It can be the cost of answering, hesitating, advancing, or acting for the teaching; context supplies the danger.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
   },
@@ -30172,7 +30172,7 @@
       "light and darkness"
     ],
     "Status": "preferred",
-    "Note": "Question forms distinguish \"light within dark\" and \"dark within light,\" then ask about \"light and dark together\" (明暗雙雙). Ruibai says, \"I do not ask about light and dark together; what about the affair facing us right now?\" (明暗雙雙即不問，即今覿面事如何). Elsewhere a raised staff is said to contain mountains, rivers, earth, light, dark, form, and emptiness on its tip. The corpus supplies several relations—distinct, intermingling, unconcerned, and together—without reducing them to one abstract theory.",
+    "Note": "The records treat light and dark as distinct, intermingling, reciprocal, or paired conditions; the compound does not impose one fixed theory of their relation.",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": null
   },
@@ -44964,15 +44964,19 @@
   },
   {
     "SourceTerm": "祖道",
-    "PreferredTarget": "the patriarchal way",
-    "AlternateTargets": [],
+    "PreferredTarget": "the patriarchs' way",
+    "AlternateTargets": [
+      "the ancestral way"
+    ],
     "SearchAliases": [
-      "the patriarchal way"
+      "patriarchal way",
+      "way of the patriarchs",
+      "ancestral way"
     ],
     "Status": "preferred",
-    "Note": "The phrase names the teaching and living tradition transmitted by the Chan patriarchs.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-21T00:15:00Z"
+    "Note": "The phrase names the inherited Chan way as something that can be buried, upheld, proclaimed, or made to flourish. Strings crossing a name boundary, such as 四祖道信, are not occurrences.",
+    "CreatedBy": "Codex Triple106 direct-product author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "神仙祕訣、父子不傳",
