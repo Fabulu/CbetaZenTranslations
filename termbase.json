@@ -10196,9 +10196,9 @@
   },
   {
     "SourceTerm": "出身處",
-    "PreferredTarget": "a point of emergence from a bind",
+    "PreferredTarget": "a way out",
     "AlternateTargets": [
-      "a way out",
+      "a point of emergence",
       "a place to emerge",
       "an opening to get free"
     ],
@@ -10210,7 +10210,7 @@
       "point of emergence in a Zen exchange"
     ],
     "Status": "preferred",
-    "Note": "The entry keeps the observable range—question, answer, predicate, contrast, and geographic wordplay—without assigning an unstated significance to any answer. The numerous repetitions of Yunmen's East Mountain case are later records and comments on the same public case, not independent definitions.",
+    "Note": "One sense covers a point or means of emerging, whether the question concerns release from constraint, the emergence of buddhas, or a line that gets through a verbal bind. Geographic and biographical answers are wordplay on that same expression, not literal proof of an exit or a second referent. Repetitions of Yunmen’s East Mountain answer are one inherited case family.",
     "CreatedBy": "Codex legacy full rebuild Lane B",
     "WrittenUtc": "2026-07-16T18:11:10.736484+00:00"
   },
@@ -23862,19 +23862,18 @@
   },
   {
     "SourceTerm": "心行處滅",
-    "PreferredTarget": "where mental activity ceases",
+    "PreferredTarget": "where conceptual activity ceases",
     "AlternateTargets": [
-      "the stopping-place of thought",
-      "where the mind’s activity ends"
+      "where thought's course ends",
+      "the stopping point of discursive thought"
     ],
     "SearchAliases": [
-      "where mental activity ceases",
-      "thought stops",
-      "mental activity ends",
-      "the stopping-place of thought"
+      "where conceptual activity ceases",
+      "discursive thought stops",
+      "where thought's course ends"
     ],
     "Status": "preferred",
-    "Note": "The exact counter-form \"mental activity is not extinguished\" (心行不滅) occurs twice. \"When the purport is met, the place of mental activity is extinguished\" (旨會則心行處滅) occurs seven times; Zhongfeng's \"cut off thought\" equation occurs once. The phrase is paired with language but also appears independently in later addresses.",
+    "Note": "The phrase names a boundary of conceptual and discursive movement. Baoning's words that conceptual activity does not cease, together with Zhongfeng's rebuttal, rule out reading it as permanent destruction of mind, awareness, or functioning.",
     "CreatedBy": "Codex fresh f001 lane B evidence-first",
     "WrittenUtc": "2026-07-15T05:30:00Z"
   },
@@ -27516,23 +27515,21 @@
   },
   {
     "SourceTerm": "提持",
-    "PreferredTarget": "take up and sustain the lineage's matter before others",
+    "PreferredTarget": "take up and present",
     "AlternateTargets": [
-      "uphold and present",
-      "keep the ancestral charge in public view",
-      "carry the school's essential matter forward"
+      "uphold and bring forward",
+      "take up and sustain"
     ],
     "SearchAliases": [
-      "uphold the ancestral seal",
-      "sustain this matter before the assembly",
-      "carry the lineage teaching forward",
-      "present the school's essential matter",
-      "maintain the authoritative command"
+      "take up and present",
+      "uphold before the assembly",
+      "sustain in public",
+      "handle and bring forward"
     ],
     "Status": "preferred",
-    "Note": "No second sense is warranted: different objects and approving or critical appraisals are different deployments of the same public sustaining act. False substring joins, including personal names ending in the first graph followed by an independent verb beginning with the second, were excluded from semantic conclusions.",
+    "Note": "The verb can describe responsive presentation, bringing forward a named object, public delivery before others, or personally taking up implements. It is not limited to formal succession.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
-    "WrittenUtc": null
+    "WrittenUtc": "2026-07-23T18:00:00Z"
   },
   {
     "SourceTerm": "提撕",
@@ -34480,15 +34477,16 @@
     "SourceTerm": "死語",
     "PreferredTarget": "a dead saying",
     "AlternateTargets": [
+      "dead speech",
       "dead words"
     ],
     "SearchAliases": [
       "a dead saying",
-      "dead words",
-      "Zen a dead saying"
+      "dead speech",
+      "dead words"
     ],
     "Status": "preferred",
-    "Note": "Allowlist count: 99 hits in 42 texts. One speech-category sense. The texts' contrary appraisals do not create separate referents. Family checked against dead phrase (死句), live phrase (活句), live saying (活語), dead teaching (死法), and the wider dead-speech family.",
+    "Note": "The records use this as one speech category. Zhongfeng's reversal shows that a dead saying is not simply a false or permanently useless saying.",
     "CreatedBy": "Codex f002 Lane C author",
     "WrittenUtc": "2026-07-15T01:57:20.846575+00:00"
   },
@@ -59912,7 +59910,7 @@
       "whom?"
     ],
     "Status": "preferred",
-    "Note": "Family comparison: 'who?' (誰) and 'which one?' (阿那箇) are interrogatives; 'that one' (那箇) and 'this one' (這箇) are demonstratives; 'who?' (阿誰) does not acquire a separate 'true self' sense merely because identity is sometimes its subject. Agent, author, beneficiary, and lineage predecessor are different answers to the same pronoun, not different referents encoded by the word. Frozen-corpus concordance: 3312 exact hits in 374 storage files representing 369 independent works.",
+    "Note": "One person-interrogative sense covers requests for identity, actor, speaker, recipient, beneficiary, or lineage predecessor. In rhetorical questions the same word asks whether any responsible actor can be named; that is a deployment of the same interrogative, not a second sense.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": null
   },
