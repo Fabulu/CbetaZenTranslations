@@ -541,7 +541,7 @@
       "a circle-sign"
     ],
     "Status": "preferred",
-    "Note": "The circle is not passive decoration: its making and alteration become moves in the public case, with authority residing in what is done with the figure. The sense has 8 exact occurrences in 8 independent works.",
+    "Note": "A circle drawn or presented as a deliberate sign. Parallel retellings of the Mazu–Jingshan letter belong to one case family; the other encounters independently draw, mark, erase, or answer a circle.",
     "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
     "WrittenUtc": "2026-07-19T13:41:09.731852+00:00"
   },
@@ -36582,6 +36582,21 @@
     "WrittenUtc": "2026-07-30T04:35:00Z"
   },
   {
+    "SourceTerm": "洗鉢",
+    "PreferredTarget": "to wash the bowl",
+    "AlternateTargets": [
+      "wash your bowls"
+    ],
+    "SearchAliases": [
+      "to wash the bowl",
+      "wash your bowls"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase retains the concrete act of washing a food bowl. Zhaozhou’s command became a case repeatedly quoted and tested, but those repetitions form one case family rather than new senses.",
+    "CreatedBy": "Codex packet-2 exact-ten construction author",
+    "WrittenUtc": "2026-07-27T19:04:11.743114+00:00"
+  },
+  {
     "SourceTerm": "洗鉢盂",
     "PreferredTarget": "wash the bowl",
     "AlternateTargets": [],
@@ -40798,7 +40813,7 @@
       "law of the realm"
     ],
     "Status": "preferred",
-    "Note": "The ruler’s law or public law of the realm; 法王法 (‘the Dharma King’s dharma’) is a different expression and is excluded.",
+    "Note": "The ruler’s law or the law of the realm, invoked for its authority, penalties, and impartial application. Comparisons with 佛法 use that established political sense analogically.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
