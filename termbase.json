@@ -139,10 +139,10 @@
   },
   {
     "SourceTerm": "一刀兩段",
-    "PreferredTarget": "the one-cut-two-pieces formula",
+    "PreferredTarget": "one cut, two pieces",
     "AlternateTargets": [
-      "a decisive-cut verdict",
-      "one cut, two pieces"
+      "the one-cut-two-pieces formula",
+      "a decisive-cut verdict"
     ],
     "SearchAliases": [
       "one cut two pieces",
@@ -152,7 +152,7 @@
       "decisive cut formula"
     ],
     "Status": "preferred",
-    "Note": "This sense is separated from an attested literal execution request below. Different figurative readings of the same cutting formula are not multiplied into senses.",
+    "Note": "The formula pictures one decisive stroke leaving two pieces. The records use it as an answer, command, practitioner label, and critical standard; the object being cut is often left unstated.",
     "CreatedBy": "Codex f002 Lane C author",
     "WrittenUtc": "2026-07-15T01:46:58.973588+00:00"
   },
@@ -3397,18 +3397,18 @@
   },
   {
     "SourceTerm": "下禪床",
-    "PreferredTarget": "to step down from the teaching seat",
+    "PreferredTarget": "to get down from the Chan seat",
     "AlternateTargets": [
-      "to descend from the Chan couch",
-      "to leave the teaching couch"
+      "to step down from the Chan bench",
+      "to descend from the Chan seat"
     ],
     "SearchAliases": [
-      "to step down from the teaching seat",
-      "to descend from the Chan couch",
-      "to leave the teaching couch"
+      "to get down from the Chan seat",
+      "to step down from the Chan bench",
+      "to descend from the Chan seat"
     ],
     "Status": "preferred",
-    "Note": "7 curated occurrences retained after removing punctuation collisions and bare paratext; sources are counted by canonical work ID at validation.",
+    "Note": "This is the observable bodily action of getting down from a Chan seat or bench. The phrase supplies no doctrine or mental technique.",
     "CreatedBy": "Codex f004 B1031-1040 full-case repair author",
     "WrittenUtc": "2026-07-15T15:42:24.584850+00:00"
   },
@@ -27178,7 +27178,7 @@
       "to pinch the eyes and produce flowers"
     ],
     "Status": "preferred",
-    "Note": "The phrase presents an illusory display produced by distorting one’s own seeing.",
+    "Note": "Squeezing one's own eyes makes illusory flowers appear: the phrase blames the manufactured display on distorted seeing, not on what is seen.",
     "CreatedBy": "Codex Iriya lane C101-110 full-case author",
     "WrittenUtc": "2026-07-18T21:30:00Z"
   },
