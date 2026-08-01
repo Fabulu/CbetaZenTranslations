@@ -11139,6 +11139,18 @@
     "WrittenUtc": "2026-07-19T19:37:01.420984Z"
   },
   {
+    "SourceTerm": "劒去久矣",
+    "PreferredTarget": "the sword has long since gone",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the sword has long since gone"
+    ],
+    "Status": "preferred",
+    "Note": "A lost-sword verdict: the event has already passed, so marking, tracing, copying, or answering afterward is too late.",
+    "CreatedBy": "Codex Sol lean Triple49 author",
+    "WrittenUtc": "2026-08-01T16:16:14.290168Z"
+  },
+  {
     "SourceTerm": "劒甲未施",
     "PreferredTarget": "before sword and armor are deployed",
     "AlternateTargets": [
@@ -15671,15 +15683,15 @@
   },
   {
     "SourceTerm": "因行掉臂",
-    "PreferredTarget": "to swing the arms while walking",
+    "PreferredTarget": "swinging an arm as one walks",
     "AlternateTargets": [],
     "SearchAliases": [
-      "to swing the arms while walking"
+      "swinging an arm as one walks"
     ],
     "Status": "preferred",
-    "Note": "The idiom presents an incidental action performed in the course of going, often for spontaneous conduct.",
-    "CreatedBy": "Codex Iriya lane C91-100 full-case author",
-    "WrittenUtc": "2026-07-18T20:30:00Z"
+    "Note": "The ordinary bodily image supplies the phrase's force: an action happens incidentally in the course of going, without stopping to manufacture it.",
+    "CreatedBy": "Codex Sol lean Triple49 author",
+    "WrittenUtc": "2026-08-01T16:16:14.290168Z"
   },
   {
     "SourceTerm": "因邪打正",
@@ -61514,20 +61526,14 @@
   {
     "SourceTerm": "非心非佛",
     "PreferredTarget": "not mind, not buddha",
-    "AlternateTargets": [
-      "neither mind nor buddha"
-    ],
+    "AlternateTargets": [],
     "SearchAliases": [
-      "not mind not buddha",
-      "neither mind nor buddha",
-      "not the mind not the Buddha",
-      "no mind no buddha",
-      "Mazu not mind not buddha"
+      "not mind, not buddha"
     ],
     "Status": "preferred",
-    "Note": "The exact phrase occurs 837 times in 233 allowlisted storage files; the direct 'what is not mind, not buddha?' question occurs 55 times in 41. Two rare definition-form searches produced grammatical constructions but no fuller definition than Funiu Zizai's classification; exact search strings remain in WORK rather than appearing as unattested prose quotations. Paired and expanded forms remain related recorded expressions, not interchangeable formulas. The term is corpus-wide even though its best-known early occurrence belongs to Mazu's exchange.",
-    "CreatedBy": "Codex legacy full rebuild Lane A",
-    "WrittenUtc": "2026-07-19T03:23:22.023942+00:00"
+    "Note": "Do not turn the double negation into a doctrine that mind or buddha does not exist; the records deploy it to remove fixation on the positive formula.",
+    "CreatedBy": "Codex Sol lean Triple49 author",
+    "WrittenUtc": "2026-08-01T16:16:14.290168Z"
   },
   {
     "SourceTerm": "非法",
