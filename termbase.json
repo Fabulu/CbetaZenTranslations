@@ -14260,7 +14260,7 @@
       "Bah!"
     ],
     "Status": "preferred",
-    "Note": "The exact graph occurs 3,892 times in 343 allowlisted texts. It appears independently as rebuke, address, answer, and commentary interjection; no definition formula or morphological variant supplies a second lexical sense.",
+    "Note": "The exclamation appears independently as a rebuke, direct address, answer, or closing cry.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-15T15:00:00Z"
   },
@@ -50643,6 +50643,22 @@
     "WrittenUtc": "2026-07-19T00:00:00Z"
   },
   {
+    "SourceTerm": "著甚死急",
+    "PreferredTarget": "why such desperate haste?",
+    "AlternateTargets": [
+      "why be in such a rush?"
+    ],
+    "SearchAliases": [
+      "why such desperate haste?",
+      "what is the mortal hurry?",
+      "why be in such a rush?"
+    ],
+    "Status": "preferred",
+    "Note": "Six speakers use the colloquial question to check urgency in dialogue, commentary, and hall instruction.",
+    "CreatedBy": "Codex packet-4 first-five source-first author",
+    "WrittenUtc": "2026-07-27T18:24:02.587760+00:00"
+  },
+  {
     "SourceTerm": "著衣喫飯",
     "PreferredTarget": "dress and eat",
     "AlternateTargets": [
@@ -63285,7 +63301,7 @@
       "old-temple incense burner"
     ],
     "Status": "preferred",
-    "Note": "Five witnesses distinguish pointing, teaching-seat speech, and the recurring old-temple image.",
+    "Note": "The implement appears in direct pointing and hall speech, while the old-temple burner recurs as a separate image in later records.",
     "CreatedBy": "Codex f004 lane B bulk evidence-first author",
     "WrittenUtc": "2026-07-16T16:39:48.198702+00:00"
   },
