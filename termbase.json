@@ -9967,14 +9967,13 @@
     "SourceTerm": "冷暖自知",
     "PreferredTarget": "knowing hot and cold for oneself",
     "AlternateTargets": [
-      "one knows the water's temperature for oneself",
       "personally knowing hot and cold"
     ],
     "SearchAliases": [
       "know hot and cold for oneself"
     ],
     "Status": "preferred",
-    "Note": "The corpus has 68 exact occurrences in 54 allowlisted files. The full water comparison occurs widely; variants reverse the order or substitute a fish drinking water. Distinct deployments include Huiming's report, Huangbo's instruction, a self-versus-other contrast, Daodu's paired formula, and Foyan's corrective question.",
+    "Note": "The expression ordinarily completes the comparison to a person drinking water; Foyan turns the familiar certainty back into a question about the one who knows.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-15T13:00:00Z"
   },
@@ -13049,7 +13048,7 @@
       "ancient buddha passed away"
     ],
     "Status": "preferred",
-    "Note": "Two witnesses preserve Yanguan’s bottle-case answer; four later masters independently redeploy the exact sentence.",
+    "Note": "Yanguan Qi'an first gives the sentence after making a monk move a water bottle; later masters quote, repeat, and freshly deploy it.",
     "CreatedBy": "Codex Iriya cohort001 Lane B explicit full-case author",
     "WrittenUtc": "2026-07-18T04:29:01.874173+00:00"
   },
@@ -63067,19 +63066,17 @@
   },
   {
     "SourceTerm": "香嚴上樹",
-    "PreferredTarget": "Xiangyan up the tree",
+    "PreferredTarget": "the Xiangyan-up-the-tree case",
     "AlternateTargets": [
-      "the Xiangyan-up-the-tree case"
+      "Xiangyan up the tree"
     ],
     "SearchAliases": [
       "Xiangyan in the tree",
-      "man hanging from a tree by his teeth",
-      "mouth gripping a tree branch",
-      "answer and fall from the tree",
+      "man gripping a branch with his mouth",
       "before climbing the tree"
     ],
     "Status": "preferred",
-    "Note": "Zen bends an ordinary climbing scene into a named public-interview case whose demand to answer is explicit. Xiangyan is a lineage master and remains on the roster. The setup without the contiguous title is supporting family evidence; the six exact-title witnesses independently attest the lexicalized case. No second thing is attested. Frozen-corpus concordance: 130 exact hits in 71 storage files representing 71 independent works.",
+    "Note": "The expression is the received title for Xiangyan Zhixian's tree predicament and for later questions and comments that explicitly raise that case.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": null
   },
