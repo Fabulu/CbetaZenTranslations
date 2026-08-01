@@ -63469,16 +63469,17 @@
   },
   {
     "SourceTerm": "騰騰任運",
-    "PreferredTarget": "rolling along, letting things run",
+    "PreferredTarget": "carefree, letting things take their course",
     "AlternateTargets": [
-      "freely letting circumstances run",
-      "buoyantly going as things go"
+      "at ease, going along naturally",
+      "freely letting circumstances run"
     ],
     "SearchAliases": [
-      "rolling along letting things run"
+      "carefree letting things take their course",
+      "at ease going along naturally"
     ],
     "Status": "preferred",
-    "Note": "The two four-character orders are independently frequent and often occur as a matched pair. They are morphological reversals, not separate senses. The shorter word 'letting circumstances run' (任運) is far broader, with 1,183 hits in 270 allowlisted files representing 265 independent works, and is not counted as an occurrence of this headword.",
+    "Note": "The two four-character word orders form a reversible pair. The phrase describes how someone goes along, not a named procedure.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-16T12:01:39.532559+00:00"
   },
