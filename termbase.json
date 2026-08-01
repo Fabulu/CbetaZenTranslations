@@ -40598,15 +40598,18 @@
   },
   {
     "SourceTerm": "珠走盤",
-    "PreferredTarget": "a pearl rolls on a tray",
-    "AlternateTargets": [],
+    "PreferredTarget": "a pearl rolling on a tray",
+    "AlternateTargets": [
+      "pearl rolls on a tray"
+    ],
     "SearchAliases": [
-      "a pearl rolls on a tray"
+      "pearl rolls on a tray",
+      "lively readily turning and unstuck"
     ],
     "Status": "preferred",
-    "Note": "Do not confuse this with a literal lost jewel. Preserve the rolling-on-a-tray motion; where 盤走明珠 precedes it, retain the mirrored word order. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The records use both word orders for one mobile image; a critical witness shows that verbal agility alone does not settle the larger matter under discussion.",
+    "CreatedBy": "R95 Triple 12 Sol clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "現宰官身",
@@ -59478,21 +59481,19 @@
   },
   {
     "SourceTerm": "開悟",
-    "PreferredTarget": "to open into awakening",
+    "PreferredTarget": "awaken",
     "AlternateTargets": [
       "come to awakening",
       "open someone to awakening"
     ],
     "SearchAliases": [
-      "open into awakening",
       "come to awakening",
-      "awakening opens",
-      "open others to awakening"
+      "open someone to awakening"
     ],
     "Status": "preferred",
-    "Note": "8 exact evidence rows from 6 independent works are stored for this sense.",
-    "CreatedBy": "Codex fresh f001 lane A evidence-first",
-    "WrittenUtc": "2026-07-15T04:30:00Z"
+    "Note": "The same event appears intransitively and causatively. One derivative lamp biography is retained after stronger authored and recorded-sayings evidence.",
+    "CreatedBy": "R95 Triple 12 Sol clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "開法",
@@ -64019,6 +64020,20 @@
     "Note": "6 exact full-case witnesses from 6 independent works support this corpus-bounded sense.",
     "CreatedBy": "Codex f004 lane C1166-C1175 exact-actor recovery author",
     "WrittenUtc": "2026-07-15T15:28:02.993665+00:00"
+  },
+  {
+    "SourceTerm": "魚躍鳶飛",
+    "PreferredTarget": "fish leap, kites fly",
+    "AlternateTargets": [
+      "fish leaping and kites flying"
+    ],
+    "SearchAliases": [
+      "fish leaping, kites flying"
+    ],
+    "Status": "preferred",
+    "Note": "Three late masters actively redeploy the same fixed image; the Ryukyu witness is an authored dedication verse, not the dedicatee’s speech.",
+    "CreatedBy": "R95 Triple 12 Sol clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "魚魯參差",
