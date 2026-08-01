@@ -18724,22 +18724,19 @@
   },
   {
     "SourceTerm": "如何是祖師西來意",
-    "PreferredTarget": "What is the patriarch's purpose in coming from the West?",
+    "PreferredTarget": "what did Bodhidharma come from the West for?",
     "AlternateTargets": [
-      "What did the patriarch come from the West for?",
-      "What is the meaning of the patriarch's coming from the West?"
+      "what is the meaning of Bodhidharma's coming from the West?"
     ],
     "SearchAliases": [
-      "why did Bodhidharma come from the west",
-      "why did the patriarch come from the west",
-      "what did Bodhidharma come west for",
-      "meaning of Bodhidharma coming from the west",
-      "purpose of the patriarch's coming"
+      "why did Bodhidharma come from India",
+      "patriarch's westward origin question",
+      "meaning of the ancestral teacher's arrival"
     ],
     "Status": "preferred",
-    "Note": "Frozen-corpus concordance: 2,126 exact hits in 259 files and 254 independent works. The full interrogative is a lexicalized case-question linked to, but not merged with, the shorter nominal 'the patriarch's purpose in coming from the West' (祖師西來意). Response diversity is not polysemy in the question. Search aliases deliberately cover 'purpose', 'meaning', 'why', 'come west', 'coming from the West', 'Bodhidharma', and 'the patriarch'.",
-    "CreatedBy": "Codex legacy full rebuild Lane A",
-    "WrittenUtc": "2026-07-16T18:01:55.111566+00:00"
+    "Note": "Bodhidharma is the ancestral teacher conventionally invoked by this formula. Cypress, bench, blow, demand, and other responses belong to their own turns and must not be folded into the question's translation.",
+    "CreatedBy": "R95 Triple16 Sol clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "如何是禪",
@@ -52444,24 +52441,26 @@
       "Bodhisattva Who Observes the World's Sounds"
     ],
     "Status": "preferred",
-    "Note": "The entry describes these attested Chan uses and does not reduce every occurrence of Guanyin to one symbolic equation.",
+    "Note": "Muzhou, Yunmen, Baiyu, Weilin, and Jiqi invoke Guanyin in answers, sayings, and public addresses.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T10:00:00Z"
   },
   {
     "SourceTerm": "觀世音菩薩來也",
-    "PreferredTarget": "Avalokitesvara has arrived!",
+    "PreferredTarget": "Guanyin Bodhisattva has arrived",
     "AlternateTargets": [
-      "Avalokitesvara is here!"
+      "Guanyin Bodhisattva is here",
+      "Avalokitesvara Bodhisattva has arrived"
     ],
     "SearchAliases": [
-      "Avalokitesvara appears",
-      "Guanyin has arrived"
+      "Avalokitesvara arrives",
+      "Guanyin is here",
+      "arrival of the bodhisattva of compassion"
     ],
     "Status": "preferred",
-    "Note": "The two occasions establish a reusable proclamation job; their different continuations do not establish one universal doctrine of manifestation.",
-    "CreatedBy": "Codex Batch28 source-tier construction",
-    "WrittenUtc": "2026-07-29T00:00:00Z"
+    "Note": "Guanyin is the Chinese name represented by Avalokitesvara; ‘is here’ is an allowed idiomatic alternate for the recorded arrival proclamation.",
+    "CreatedBy": "R95 Triple16 Sol clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "觀心",
