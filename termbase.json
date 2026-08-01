@@ -37143,7 +37143,7 @@
       "stark bare"
     ],
     "Status": "preferred",
-    "Note": "The adverbial form \"cleanly bare\" eight texts. Records also make the full paired phrase the condition in a direct question: \"when clean and bare, red and free, how do you conduct yourself?\" (淨裸裸赤洒洒時，作麼生行履). This question shows that the description is not treated as a final interpretive label. The alternate spelling \"red and free\" (赤洒洒) is preserved where it occurs; translations do not silently regularize the source graphs.",
+    "Note": "The alternate 赤洒洒 spelling is preserved where the source uses it; the source graphs are not silently regularized.",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": null
   },
@@ -58696,14 +58696,15 @@
   },
   {
     "SourceTerm": "銀山鐵壁",
-    "PreferredTarget": "an impassable mountain-and-wall barrier",
+    "PreferredTarget": "a silver mountain and iron wall",
     "AlternateTargets": [
-      "a mountain-and-wall barrier",
-      "the silver-mountain, iron-wall image"
+      "a silver-mountain, iron-wall barrier",
+      "an impassable barrier"
     ],
     "SearchAliases": [
-      "an impassable mountain-and-wall barrier",
-      "a mountain-and-wall barrier",
+      "a silver mountain and iron wall",
+      "a silver-mountain, iron-wall barrier",
+      "an impassable barrier",
       "silver mountain iron wall",
       "the silver-mountain iron-wall image"
     ],
