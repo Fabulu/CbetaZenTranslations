@@ -7921,7 +7921,7 @@
     "SourceTerm": "偏正",
     "PreferredTarget": "side and center",
     "AlternateTargets": [
-      "the paired and central positions"
+      "side and upright"
     ],
     "SearchAliases": [
       "relative true",
@@ -7930,7 +7930,7 @@
       "host guest positions"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
+    "Note": "The pair can name Caodong positions, but the records also use it more broadly for a distinction that speech or perception may make, miss, or coordinate.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
   },
@@ -33659,6 +33659,18 @@
     "Note": "One Tier-2 direct question controls; service and lamp repetitions remain one allusion family.",
     "CreatedBy": "Codex Batch35 lane-A construction",
     "WrittenUtc": "2026-07-29T00:00:00Z"
+  },
+  {
+    "SourceTerm": "樂則同歡",
+    "PreferredTarget": "when joyful, rejoice together",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "in joy rejoice together"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase can answer directly or close an appraisal; 憂則共慼 is its recurrent counterpart, not part of every occurrence.",
+    "CreatedBy": "R01a fresh depth regeneration B",
+    "WrittenUtc": "2026-07-29T19:15:00Z"
   },
   {
     "SourceTerm": "模子",
