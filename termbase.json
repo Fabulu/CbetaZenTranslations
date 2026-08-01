@@ -30290,16 +30290,17 @@
     "SourceTerm": "昏沈",
     "PreferredTarget": "dull sinking",
     "AlternateTargets": [
-      "sunk dullness",
-      "heavy dullness"
+      "heavy dullness",
+      "sunk dullness"
     ],
     "SearchAliases": [
-      "dull sinking"
+      "dull sinking",
+      "mental torpor"
     ],
     "Status": "preferred",
-    "Note": "The corpus has 62 exact hits in 36 files representing 36 independent works. The dominant fixed pair is ‘dull sinking and agitation,’ with sinking or forgetting contrasted against agitation or deliberate attention. The more common simplified spelling has 296 exact hits in 107 files representing 103 works; the alternate-first-graph spelling has 4 hits in one file and one work. These written forms are search companions rather than separate senses.",
-    "CreatedBy": "Codex fresh f002 Lane A evidence-first",
-    "WrittenUtc": "2026-07-15T13:00:00Z"
+    "Note": "Dull sinking is repeatedly paired with 掉舉, agitation. The records do not leave it as a neutral technical category: Dahui contrasts both conditions with what neither sinks nor scatters, while Gaofeng Yuanmiao and Kongyin Daodu turn the named pair back on people who treat it only as an obstruction.",
+    "CreatedBy": "Codex Triple46 lean reconstruction",
+    "WrittenUtc": "2026-08-01T18:20:00Z"
   },
   {
     "SourceTerm": "易分雪裏粉",
@@ -61863,17 +61864,16 @@
     "SourceTerm": "頂門具眼",
     "PreferredTarget": "having an eye at the crown of the head",
     "AlternateTargets": [
-      "crown-of-the-head eye"
+      "having a crown eye"
     ],
     "SearchAliases": [
-      "third eye on the crown",
-      "eye at the top of the head",
-      "crown eye"
+      "crown eye",
+      "exceptional discernment"
     ],
     "Status": "preferred",
-    "Note": "One hundred fifty-five exact hits occur in eighty-six frozen works. The crown eye is retained as a bodily image rather than replaced by an outside occult category.",
-    "CreatedBy": "Codex f005 lane A author",
-    "WrittenUtc": "2026-07-15T18:45:14.307929+00:00"
+    "Note": "The bodily image names discernment beyond ordinary sight. It is used for telling genuine from false, for seeing through provisional teachings, and for the acuity expected of people entrusted with the teaching.",
+    "CreatedBy": "Codex Triple46 lean reconstruction",
+    "WrittenUtc": "2026-08-01T18:20:00Z"
   },
   {
     "SourceTerm": "頂門正眼",
@@ -63795,18 +63795,18 @@
     "SourceTerm": "骨董",
     "PreferredTarget": "old junk",
     "AlternateTargets": [
+      "old wares",
       "antique clutter"
     ],
     "SearchAliases": [
       "old stuff",
-      "antique clutter",
-      "stale wares",
-      "old curios"
+      "stale stock",
+      "inherited baggage"
     ],
     "Status": "preferred",
-    "Note": "Sense and actor decisions were made from complete stored contexts before prose compilation.",
-    "CreatedBy": "Codex f004 lane C evidence-first full-context canary",
-    "WrittenUtc": "2026-07-15T09:49:09.804467+00:00"
+    "Note": "The records exploit the ordinary image of old miscellaneous wares. What counts as junk varies—accumulated understanding, inherited religious valuables, or stock teaching maneuvers—but in each case it is handled-over material that can clutter or entangle rather than the living matter itself.",
+    "CreatedBy": "Codex Triple46 lean reconstruction",
+    "WrittenUtc": "2026-08-01T18:20:00Z"
   },
   {
     "SourceTerm": "髑髏",
