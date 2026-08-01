@@ -23292,18 +23292,16 @@
     "SourceTerm": "從上來事",
     "PreferredTarget": "the matter handed down from before",
     "AlternateTargets": [
-      "the matter passed down from earlier times"
+      "the matter passed down from earlier generations"
     ],
     "SearchAliases": [
-      "matter handed down from before",
       "inherited matter",
-      "matter from the ancestors",
-      "what has come down from before"
+      "matter from the ancestors"
     ],
     "Status": "preferred",
-    "Note": "The matter handed down from before is the inherited Chan matter that speakers raise, request an outline of, or demand be known; its content is tested by the answer rather than supplied as a teaching-frame definition.",
-    "CreatedBy": "Codex Iriya cohort001 Lane B position25 direct author",
-    "WrittenUtc": "2026-07-18T07:41:29.833426+00:00"
+    "Note": "The phrase names the inherited matter of the Chan tradition. The records ask what it ultimately is, request that it be outlined, or state what is required in relation to it; their differing answers do not supply a single doctrinal definition.",
+    "CreatedBy": "Codex Sol lean Triple70 author",
+    "WrittenUtc": "2026-08-01T19:35:00Z"
   },
   {
     "SourceTerm": "從上宗乘",
@@ -30504,15 +30502,17 @@
   },
   {
     "SourceTerm": "昨夜三更月到窗",
-    "PreferredTarget": "last night at the third watch the moon reached the window",
-    "AlternateTargets": [],
+    "PreferredTarget": "last night at the third watch, the moon reached the window",
+    "AlternateTargets": [
+      "at midnight last night, moonlight reached the window"
+    ],
     "SearchAliases": [
-      "last night at the third watch the moon reached the window"
+      "the moon reached the window"
     ],
     "Status": "preferred",
-    "Note": "Last night at the third watch the moon reached the window reports moonlight arriving at the window in the middle of the night. Nanquan Puyuan gives it as the closing answer after Zhaozhou thanks him for the buffalo response; that original answer is retained in two later case presentations. Minshu and Xuetang Daoxing reuse the line in their own hall addresses.",
-    "CreatedBy": "Codex cohort-002 lane-B B121-B130 author",
-    "WrittenUtc": "2026-07-19T12:00:00Z"
+    "Note": "Nanquan gives the line as an answer in his exchange with Zhaozhou. Minshu and Xuetang Daoxing later use the same line in independent hall addresses, so its evidence is not confined to recensions of that exchange.",
+    "CreatedBy": "Codex Sol lean Triple70 author",
+    "WrittenUtc": "2026-08-01T19:35:00Z"
   },
   {
     "SourceTerm": "昭昭靈靈",
@@ -57333,19 +57333,18 @@
   },
   {
     "SourceTerm": "選佛",
-    "PreferredTarget": "to select a buddha",
+    "PreferredTarget": "selecting buddhas",
     "AlternateTargets": [
-      "the choosing of awakened ones",
-      "qualifying for buddhahood"
+      "selection for buddhahood"
     ],
     "SearchAliases": [
-      "to select a buddha",
-      "the choosing of awakened ones"
+      "select buddhas",
+      "buddha-selection field"
     ],
     "Status": "preferred",
-    "Note": "The expression uses selection imagery for testing or recognizing candidates for awakening. Institutional examination metaphors and literal choice depend on the surrounding formula.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T10:20:00Z"
+    "Note": "The expression supplies the selecting half of 選佛場, a field in which participants are tested or recognized as buddhas; Chaozong also contrasts 選佛 directly with 選官, selection for official office.",
+    "CreatedBy": "Codex Sol lean Triple70 author",
+    "WrittenUtc": "2026-08-01T19:35:00Z"
   },
   {
     "SourceTerm": "選佛場",
