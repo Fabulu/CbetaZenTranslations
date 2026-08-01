@@ -28151,22 +28151,20 @@
   },
   {
     "SourceTerm": "擊禪床",
-    "PreferredTarget": "strike the teaching-hall seat or bench",
+    "PreferredTarget": "strike the Chan seat",
     "AlternateTargets": [
-      "hit the teaching bench",
-      "bang the seat during a hall address",
-      "strike the seat with staff or whisk"
+      "hit the teaching-platform bench",
+      "strike the teaching-hall seat"
     ],
     "SearchAliases": [
+      "strike the Chan seat",
       "hit the teaching bench",
-      "strike the teaching-platform seat",
-      "bang the seat before leaving",
-      "strike the seat with a fly whisk",
-      "make a sound by hitting the bench"
+      "bang the teaching-platform seat",
+      "strike the seat with a fly-whisk"
     ],
     "Status": "preferred",
-    "Note": "The instrument varies: records explicitly supply a staff, a whisk, or no instrument. These are specifications of one action, not separate things. The object is the seat or bench on the Chan teaching platform. No corpus warrant was found for assigning every blow one symbolic message; each stored context preserves the question, statement, or exit that gives that strike its local role.",
-    "CreatedBy": "Codex f002 Lane B evidence-first refresh",
+    "Note": "The implement is sometimes a fly-whisk and sometimes left unstated. The passages do not give every blow one fixed symbolism: a strike may punctuate a question, distinguish sound from form, test the assembly's response, or immediately precede leaving the seat.",
+    "CreatedBy": "Codex R95 Triple36 Sol complete-case author",
     "WrittenUtc": null
   },
   {
@@ -34287,17 +34285,20 @@
   },
   {
     "SourceTerm": "死中得活",
-    "PreferredTarget": "gain life within death",
+    "PreferredTarget": "come alive within death",
     "AlternateTargets": [
-      "come alive within death"
+      "gain life within death",
+      "find life within death"
     ],
     "SearchAliases": [
+      "come alive within death",
       "gain life within death",
-      "come alive within death"
+      "life from apparent defeat",
+      "reversal from a dead end"
     ],
     "Status": "preferred",
-    "Note": "Zen bends a death-and-life expression into a recurrent interview question and verdict. The family includes ‘great death’ and ‘revive after being cut off’; all evidence here uses one paired death/life formula, not distinct literal and technical objects. Frozen-corpus concordance: 136 exact hits in 89 storage files representing 84 independent works.",
-    "CreatedBy": "Codex f002 Lane B evidence-first refresh",
+    "Note": "Death and life form a reversal formula here. It can appraise a return from apparent defeat, frame an interview question, or describe emergence after an ending; it does not promise a favorable verdict and does not require literal bodily resuscitation.",
+    "CreatedBy": "Codex R95 Triple36 Sol complete-case author",
     "WrittenUtc": null
   },
   {
@@ -40029,19 +40030,20 @@
   },
   {
     "SourceTerm": "狗子無佛性",
-    "PreferredTarget": "Zhaozhou's 'dog has no buddha-nature' case",
+    "PreferredTarget": "Zhaozhou's dog-and-buddha-nature case",
     "AlternateTargets": [
-      "a dog has no buddha-nature",
-      "the dog has no buddha-nature saying"
+      "the dog has no buddha-nature case",
+      "Zhaozhou's dog saying"
     ],
     "SearchAliases": [
-      "a dog has no buddha-nature",
-      "Zhaozhou's 'a dog has no buddha-nature' case",
-      "the dog has no buddha-nature saying"
+      "Zhaozhou dog case",
+      "dog has no buddha-nature",
+      "dog buddha-nature question",
+      "investigate Zhaozhou's no"
     ],
     "Status": "preferred",
-    "Note": "No direct definition formula of the forms 'X is,' 'what is called X,' or 'what is X' was found, except one later question, 'What is “a dog has no buddha-nature”?' (如何是狗子無佛性), answered 'fishing' (釣). The term's stable corpus function is instead visible in headings, raised-case labels, verses, questions, and later reports about Zhaozhou's recorded case. The full earlier exchange and the later compound title are related evidence, not two meanings.",
-    "CreatedBy": "Codex fresh f001 lane B evidence-first",
+    "Note": "The graphs reproduce the negative wording associated with Zhaozhou's answer ‘no,’ but the complete compound ordinarily functions as a case title, raised saying, verse topic, or object of investigation. It is therefore not a stable doctrinal assertion about dogs as a class.",
+    "CreatedBy": "Codex R95 Triple36 Sol complete-case author",
     "WrittenUtc": "2026-07-15T05:30:00Z"
   },
   {
