@@ -19649,7 +19649,7 @@
       "settle in the wisdom of equality"
     ],
     "Status": "preferred",
-    "Note": "This instruction tells the practitioner to abide in the wisdom that realizes equality.",
+    "Note": "The retreat formula joins bodily and mental dwelling with equality-wisdom. Speakers expand, criticize, or redirect it differently rather than treating the quotation as one fixed verdict.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T00:30:00Z"
   },
@@ -24598,7 +24598,7 @@
       "take care of your eyebrows"
     ],
     "Status": "preferred",
-    "Note": "Take care of your eyebrows warns that an overconfident claim or explanation risks the stock consequence of losing one’s eyebrows.",
+    "Note": "The stock warning tells a speaker to protect their eyebrows: an overconfident claim or explanation risks the conventional consequence of having them fall out.",
     "CreatedBy": "Codex Lane B B111-B120 full-case author",
     "WrittenUtc": "2026-07-19T00:00:00Z"
   },
@@ -48486,14 +48486,17 @@
   {
     "SourceTerm": "聽法",
     "PreferredTarget": "listen to the teaching",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "hear the teaching"
+    ],
     "SearchAliases": [
-      "listen to the teaching"
+      "listen to the teaching",
+      "attend a teaching"
     ],
     "Status": "preferred",
-    "Note": "聽法 describes attending to a spoken Buddhist or Chan teaching.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-21T00:30:00Z"
+    "Note": "The phrase describes people attending to a spoken teaching. A crossing into a longer title such as 聽法華經 is excluded because 法 there begins 法華經, 'the Lotus Sutra.'",
+    "CreatedBy": "Codex Triple109 direct-product author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "聾人也唱胡家曲。好惡高低總不聞",
