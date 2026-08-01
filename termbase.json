@@ -3212,18 +3212,18 @@
     "SourceTerm": "上三十三天",
     "PreferredTarget": "to ascend to the Heaven of the Thirty-three",
     "AlternateTargets": [
-      "go up to the Thirty-third Heaven",
+      "go up to the Heaven of the Thirty-three",
       "rise to Trāyastriṃśa Heaven"
     ],
     "SearchAliases": [
-      "to ascend to the Heaven of the Thirty-three",
+      "ascend to the Heaven of the Thirty-three",
       "go up to the Thirty-third Heaven",
-      "rise to Trāyastriṃśa Heaven"
+      "rise to Trayastrimsa Heaven"
     ],
     "Status": "preferred",
-    "Note": "Zen uses the cosmological height as a direction tested and overturned in public speech, not as a travel instruction or promised destination. The sense has 7 exact occurrences in 7 independent works.",
-    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
-    "WrittenUtc": "2026-07-19T13:41:07.848387+00:00"
+    "Note": "An extreme upward movement to Indra’s heaven. Chan addresses use the cosmological height for comic, impossible action rather than as a promised destination.",
+    "CreatedBy": "Codex Triple117 direct author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "上供",
@@ -58179,7 +58179,9 @@
   {
     "SourceTerm": "金剛圈、栗棘蓬",
     "PreferredTarget": "the diamond ring and thorny chestnut burr",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "the vajra ring and thorny chestnut burr"
+    ],
     "SearchAliases": [
       "the diamond ring and thorny chestnut burr"
     ],
@@ -62190,7 +62192,7 @@
       "set sail with the current"
     ],
     "Status": "preferred",
-    "Note": "Addresses use it for taking an easy favorable course and repeatedly contrast it with steering against the wind. Six independent works anchor this range.",
+    "Note": "The boating phrase means raising sail with a favorable current; the addresses contrast that easy course with steering against wind and water.",
     "CreatedBy": "Codex cohort-002 lane-A positions 83-100 explicit full-case adjudication",
     "WrittenUtc": "2026-07-19T00:02:15.738606Z"
   },
