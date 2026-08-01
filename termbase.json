@@ -20527,10 +20527,10 @@
   },
   {
     "SourceTerm": "寶鏡三昧",
-    "PreferredTarget": "Complete Command of the Precious Mirror",
+    "PreferredTarget": "the transmitted Precious Mirror complete command",
     "AlternateTargets": [
-      "Precious-Mirror Complete Command",
-      "Song of the Complete Command of the Precious Mirror"
+      "the Precious Mirror guiding matter",
+      "the complete command transmitted to Caoshan"
     ],
     "SearchAliases": [
       "Complete Command of the Precious Mirror",
@@ -20539,7 +20539,7 @@
       "precious mirror song"
     ],
     "Status": "preferred",
-    "Note": "#0g deviation: the phrase is deployed as the proper name of a Caodong transmission text and house inheritance, not merely as the ordinary image of a valuable mirror or the standalone word for complete command. Attribution of authorship is not fully uniform: Dongshan's record says he received it from Yunyan and entrusted it to Caoshan; later records also call it Dongshan's text or report older attributions. The entry therefore reports the transmission claims without deciding authorship. Allowlisted count: 117 hits in 49 texts; the title form “Song of the Complete Command of the Precious Mirror” one text.",
+    "Note": "The complete command or guiding matter said to pass through Yunyan and Dongshan to Caoshan. This inheritance use does not settle who composed the separately titled verse or text.",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": "2026-07-16T12:23:20.487102+00:00"
   },
@@ -24410,7 +24410,7 @@
   },
   {
     "SourceTerm": "情知",
-    "PreferredTarget": "as I knew",
+    "PreferredTarget": "to know full well",
     "AlternateTargets": [
       "I knew it",
       "sure enough",
@@ -24423,7 +24423,7 @@
       "as expected"
     ],
     "Status": "preferred",
-    "Note": "Several early exchanges recur in multiple lamp compilations. Repeated recensions establish transmission, but the curated set does not count each recension as an independent event. Frozen-corpus concordance: 451 exact hits in 167 storage files representing 163 independent works.",
+    "Note": "A recognition formula whose person and direction come from the sentence: it can be a speaker's “I knew it,” a comment that someone knew full well, or a narrator's confident prediction of what someone would say. Context determines whether the recognition is neutral, critical, or ironic.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": null
   },
@@ -46245,20 +46245,20 @@
   },
   {
     "SourceTerm": "竿頭進步",
-    "PreferredTarget": "the step beyond the pole-top, where no footing remains",
+    "PreferredTarget": "the pole-top move",
     "AlternateTargets": [
-      "stepping forward from the pole-top",
-      "an impossible next step beyond the pole"
+      "the step at the top of the pole",
+      "moving on from the hundred-foot pole-top"
     ],
     "SearchAliases": [
       "step beyond the top of the pole",
       "hundred-foot pole next step",
-      "advance where there is no footing",
+      "pole-top move",
       "Shishuang pole-top question",
       "Changsha hundred-foot pole verse"
     ],
     "Status": "preferred",
-    "Note": "Six exact witnesses plus one marked family verse cover case title, Changsha attribution, early lamp discourse, public interviews, and later commentary. Title, quotation, instruction, and question all name the same step from the same pole-top image, not different things.",
+    "Note": "A named case and public question about what move remains at the top of a hundred-foot pole; recorded answers include turning, release, and retreat rather than a single forward direction.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": "2026-07-16T12:26:37.856302+00:00"
   },
