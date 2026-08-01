@@ -13412,6 +13412,23 @@
     "WrittenUtc": "2026-07-29T00:00:00Z"
   },
   {
+    "SourceTerm": "各自奔前程",
+    "PreferredTarget": "each goes onward on their own course",
+    "AlternateTargets": [
+      "each goes on along their own road",
+      "each hurries onward on their own way"
+    ],
+    "SearchAliases": [
+      "each goes their separate way",
+      "each continues independently",
+      "part and go onward"
+    ],
+    "Status": "preferred",
+    "Note": "The “course ahead” is the road each party continues after an encounter, not a career. Its fixed companion line is “meeting without dismounting.”",
+    "CreatedBy": "R08 clean source-first C",
+    "WrittenUtc": "2026-07-30T03:20:00Z"
+  },
+  {
     "SourceTerm": "各自守疆界",
     "PreferredTarget": "each keeps to his own boundary",
     "AlternateTargets": [
@@ -41215,18 +41232,20 @@
   },
   {
     "SourceTerm": "異類",
-    "PreferredTarget": "other kinds",
+    "PreferredTarget": "a different category",
     "AlternateTargets": [
-      "different kinds",
-      "other creatures"
+      "another kind",
+      "a different mode"
     ],
     "SearchAliases": [
+      "different category",
+      "another kind",
+      "different mode",
       "other kinds",
-      "different kinds",
-      "other creatures"
+      "different kinds"
     ],
     "Status": "preferred",
-    "Note": "Cross-checking the longer “move among other kinds” formula found the same referent, not a second thing. Frozen-corpus concordance: 851 exact hits in 216 storage files representing 212 independent works.",
+    "Note": "The longer formula “move among different categories” uses the same sense. Animal examples, including the water buffalo, illustrate the category but do not define it.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": null
   },
@@ -50168,17 +50187,19 @@
   },
   {
     "SourceTerm": "莫錯會",
-    "PreferredTarget": "do not get it wrong",
+    "PreferredTarget": "do not misconstrue this",
     "AlternateTargets": [
+      "do not get this wrong",
       "do not misunderstand"
     ],
     "SearchAliases": [
-      "do not get it wrong",
+      "do not misconstrue this",
+      "do not get this wrong",
       "do not misunderstand",
-      "Zen do not get it wrong"
+      "do not turn this into a fixed view"
     ],
     "Status": "preferred",
-    "Note": "Allowlist count: 168 hits in 73 texts. Variants include emphatic take care not to get it wrong (莫錯會好) and just do not get it wrong (且莫錯會). One imperative sense; preceding statements do not create different referents.",
+    "Note": "Emphatic forms add “take care” or “just” to the same corrective imperative. The expression governs the conclusion drawn from the preceding words; it does not supply a replacement interpretation.",
     "CreatedBy": "Codex f002 Lane C author",
     "WrittenUtc": "2026-07-15T01:47:00.817001+00:00"
   },
