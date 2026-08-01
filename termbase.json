@@ -6902,7 +6902,7 @@
       "monastic work duty"
     ],
     "Status": "preferred",
-    "Note": "Monastic work duty names practical labor performed by an individual practitioner or the resident community.",
+    "Note": "The term names monastic labor duty without limiting it to one particular task; verse can extend the same labor sense poetically.",
     "CreatedBy": "Codex canary007 lane C",
     "WrittenUtc": "2026-07-28T20:17:00Z"
   },
@@ -8300,7 +8300,7 @@
       "monastic sleeping hall"
     ],
     "Status": "preferred",
-    "Note": "The frozen corpus has 1,995 exact hits in 302 files representing 298 works. Seven anchors cover the hall bell, donor seating, sleeping platforms, entry and exit, door closure, explicit room identification, and summer-order assignment across independent works.",
+    "Note": "The term names the ordinary communal and institutional monks’ hall; Chan questions or negations do not erase that physical referent.",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": null
   },
@@ -36321,6 +36321,20 @@
     "Note": "The scope is mistaken blank quiet, not silence in every setting.",
     "CreatedBy": "Codex post720 Lane A canary",
     "WrittenUtc": "2026-07-17T13:32:15.971693+00:00"
+  },
+  {
+    "SourceTerm": "洗脚上船",
+    "PreferredTarget": "wash your feet and board the boat",
+    "AlternateTargets": [
+      "wash the feet, then get aboard"
+    ],
+    "SearchAliases": [
+      "wash the feet, then get aboard"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase signals prompt onward movement, but later questioning can show that claiming to embark is not yet arrival.",
+    "CreatedBy": "R09 clean-regeneration through canonical worksheet promotion B",
+    "WrittenUtc": "2026-07-30T04:35:00Z"
   },
   {
     "SourceTerm": "洗鉢盂",
