@@ -30487,18 +30487,18 @@
   },
   {
     "SourceTerm": "春無三日晴",
-    "PreferredTarget": "spring has no three clear days",
+    "PreferredTarget": "spring never has three clear days in a row",
     "AlternateTargets": [
-      "no three clear spring days",
+      "spring has no three consecutive clear days",
       "changeable spring weather"
     ],
     "SearchAliases": [
-      "no three clear spring days",
+      "no three consecutive clear spring days",
       "changeable spring weather",
-      "spring has no three clear days"
+      "spring never has three clear days in a row"
     ],
     "Status": "preferred",
-    "Note": "Spring has no three clear days: the weather proverb appears as an answer, an address line, and a substitute reply across the records.",
+    "Note": "Three coordinates are recensions of one Furi Zhicai exchange; the remaining addresses and substitute reply are independent uses.",
     "CreatedBy": "Codex cohort-002 lane-B author",
     "WrittenUtc": "2026-07-19T08:00:00Z"
   },
@@ -49491,13 +49491,16 @@
   },
   {
     "SourceTerm": "自領出去",
-    "PreferredTarget": "take yourself out",
-    "AlternateTargets": [],
+    "PreferredTarget": "see yourself out",
+    "AlternateTargets": [
+      "take yourself out"
+    ],
     "SearchAliases": [
+      "see yourself out",
       "take yourself out"
     ],
     "Status": "preferred",
-    "Note": "This article records the self-directed dismissal rather than bare departure language.",
+    "Note": "A curt dismissal directing the addressee to conduct himself out. Three Yunmen witnesses preserve one case family rather than three independent commands.",
     "CreatedBy": "iriya-construction-001 lane A",
     "WrittenUtc": "2026-07-19T03:23:22.023942+00:00"
   },
@@ -65653,7 +65656,7 @@
       "carp marked at the gate"
     ],
     "Status": "preferred",
-    "Note": "Ten exact hits occur in ten frozen works. Five witnesses preserve renewed attempt, rejection, verse verdict, old-case comment, and a live answer.",
+    "Note": "The failed carp strikes or bears a mark on its forehead at Dragon Gate instead of completing the transforming leap. The image marks failure, though later speakers can renew the leap or deliberately misuse the phrase for testing.",
     "CreatedBy": "Codex f005 lane A author",
     "WrittenUtc": "2026-07-15T19:13:50.751221+00:00"
   },
