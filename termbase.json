@@ -15720,6 +15720,23 @@
     "WrittenUtc": "2026-07-15T04:52:26.825273+00:00"
   },
   {
+    "SourceTerm": "因緣和合",
+    "PreferredTarget": "coming together through conditions",
+    "AlternateTargets": [
+      "conditioned combination",
+      "combined by causes and conditions"
+    ],
+    "SearchAliases": [
+      "coming together through conditions",
+      "conditioned combination",
+      "causes and conditions combine"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase describes a result arising when its contributing conditions come together; the cited texts contrast that combination with separation or absence of a fixed independent basis.",
+    "CreatedBy": "Codex Triple84 bounded semantic repair",
+    "WrittenUtc": "2026-08-01T18:37:44Z"
+  },
+  {
     "SourceTerm": "因行掉臂",
     "PreferredTarget": "swinging an arm as one walks",
     "AlternateTargets": [],
@@ -17994,9 +18011,9 @@
       "world at peace"
     ],
     "Status": "preferred",
-    "Note": "The phrase retains its public meaning of an ordered, peaceful realm, but Chan records also place it as a capping line and as Yunmen Wenyan's severe verdict on the Buddha's birth declaration.",
-    "CreatedBy": "Codex Iriya cohort001 Lane A evidence-first",
-    "WrittenUtc": "2026-07-18T05:09:24.045339+00:00"
+    "Note": "The public blessing, Yunmen's verdict, and later appraisals all retain the ordinary result of a peaceful realm.",
+    "CreatedBy": "Codex Triple84 bounded semantic repair",
+    "WrittenUtc": "2026-08-01T18:37:44Z"
   },
   {
     "SourceTerm": "天下衲僧跳不出",
@@ -35831,6 +35848,21 @@
     "Note": "Three exact occurrences from 3 independent works anchor this sense.",
     "CreatedBy": "Codex Lane C position 25 explicit full-case author",
     "WrittenUtc": "2026-07-17T10:39:10.433513+00:00"
+  },
+  {
+    "SourceTerm": "法孫",
+    "PreferredTarget": "lineage grandson",
+    "AlternateTargets": [
+      "second-generation lineage descendant"
+    ],
+    "SearchAliases": [
+      "lineage grandson",
+      "second-generation lineage descendant"
+    ],
+    "Status": "preferred",
+    "Note": "The kinship term marks descent through a teaching lineage. Compilation credits establish the title's institutional use but do not by themselves prove an otherwise unrecorded succession.",
+    "CreatedBy": "Codex Triple84 bounded semantic repair",
+    "WrittenUtc": "2026-08-01T18:37:44Z"
   },
   {
     "SourceTerm": "法師",
