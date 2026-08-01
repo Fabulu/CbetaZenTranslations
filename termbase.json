@@ -8831,7 +8831,7 @@
     "SourceTerm": "入室弟子",
     "PreferredTarget": "an inner-room disciple",
     "AlternateTargets": [
-      "a disciple admitted to the master's room"
+      "a close recognized disciple"
     ],
     "SearchAliases": [
       "inner room disciple",
@@ -8839,7 +8839,7 @@
       "private disciple"
     ],
     "Status": "preferred",
-    "Note": "Six works cover monastic hospitality, counted disciples, individual acknowledgment, and vowed relationship.",
+    "Note": "The records use the relationship label in vows, prefaces, memorial biographies, and lists of recognized successors; the phrase does not prove literal room access in every occurrence.",
     "CreatedBy": "Codex construction Lane C positions31-40 explicit full-case author",
     "WrittenUtc": "2026-07-17T12:25:40.674983+00:00"
   },
@@ -22358,9 +22358,9 @@
   },
   {
     "SourceTerm": "廓然無聖",
-    "PreferredTarget": "vast emptiness, nothing sacred",
+    "PreferredTarget": "vast openness—nothing sacred",
     "AlternateTargets": [
-      "open vastness, no sage"
+      "open and empty, with no sacred one"
     ],
     "SearchAliases": [
       "vast emptiness",
@@ -22369,7 +22369,7 @@
       "highest holy truth"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
+    "Note": "In the original exchange Bodhidharma speaks the answer; later masters quote it and then supply their own appraisals.",
     "CreatedBy": "Codex f003 Lane C evidence-first",
     "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
   },
@@ -27231,6 +27231,23 @@
     "Note": "The exact graph string has 133 hits in 62 works, but broom-star compounds were excluded. Eight anchors retain Shide’s and Yunyan’s object-actions, later replies, a cleaning-tool call, and Xueguan’s sermon image.",
     "CreatedBy": "Codex investigation-next300 Lane B explicit author",
     "WrittenUtc": "2026-07-17T09:52:25.956053+00:00"
+  },
+  {
+    "SourceTerm": "掃蕩",
+    "PreferredTarget": "to sweep away",
+    "AlternateTargets": [
+      "to clear away",
+      "to eradicate"
+    ],
+    "SearchAliases": [
+      "sweep away",
+      "clear away",
+      "eradicate"
+    ],
+    "Status": "preferred",
+    "Note": "The object supplies the domain: troops and baleful signs, guest-dust, inherited tracks, or imagined obstructions can all be swept away.",
+    "CreatedBy": "packet3 exact5 owner construction",
+    "WrittenUtc": "2026-07-27T22:15:00Z"
   },
   {
     "SourceTerm": "授戒",
