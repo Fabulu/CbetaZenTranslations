@@ -29521,12 +29521,12 @@
     "AlternateTargets": [],
     "SearchAliases": [
       "Manjusri",
-      "文殊"
+      "Manjushri"
     ],
     "Status": "preferred",
-    "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
-    "CreatedBy": "Codex f003 Lane A full-case author",
-    "WrittenUtc": "2026-07-15T08:22:05.954006+00:00"
+    "Note": "The four passages invoke the same named figure in distinct uses; no outside biography is made the definition.",
+    "CreatedBy": "Codex Triple86 bounded construction",
+    "WrittenUtc": "2026-08-01T21:00:00Z"
   },
   {
     "SourceTerm": "文殊師利",
@@ -63819,6 +63819,22 @@
     "Note": "Conventional animal-womb imagery; Wuye and Baiyun recensions form one inherited deployment family.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T00:00:00Z"
+  },
+  {
+    "SourceTerm": "驢脚",
+    "PreferredTarget": "donkey's leg",
+    "AlternateTargets": [
+      "donkey leg"
+    ],
+    "SearchAliases": [
+      "donkey's leg",
+      "donkey leg",
+      "Huanglong's donkey-leg barrier"
+    ],
+    "Status": "preferred",
+    "Note": "The retained passages are three active uses of the inherited image, not three recensions of Huanglong's case.",
+    "CreatedBy": "Codex Triple86 bounded construction",
+    "WrittenUtc": "2026-08-01T21:00:00Z"
   },
   {
     "SourceTerm": "驢脣馬嘴",
