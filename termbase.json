@@ -17491,17 +17491,17 @@
   },
   {
     "SourceTerm": "大方無外",
-    "PreferredTarget": "the great expanse has no outside",
+    "PreferredTarget": "the great expanse has nothing outside it",
     "AlternateTargets": [
       "the all-inclusive expanse has no exterior"
     ],
     "SearchAliases": [
       "no outside",
       "all-inclusive field",
-      "boundless great direction"
+      "nothing beyond the great expanse"
     ],
     "Status": "preferred",
-    "Note": "The great expanse has no outside: the phrase names an all-containing field beyond which the cases posit nothing further. Mingjue's poem fills the field completely; Yuanwu joins it to formlessness; Hongzhi pairs it with unbounded true perspective; Junshan says it contains the ten directions.",
+    "Note": "The phrase denies an outside to the great expanse; the records apply that image differently and do not define a separate metaphysical substance.",
     "CreatedBy": "Codex A26-30 strict author",
     "WrittenUtc": "2026-07-19T06:00:00Z"
   },
@@ -34188,7 +34188,7 @@
       "raise the proper command in full"
     ],
     "Status": "preferred",
-    "Note": "All eight complete candidate cases were reviewed for the raise the proper command in full reading; the six retained works cover one fully exercised command formula; martial question and hall proclamation share the same command image.",
+    "Note": "The phrase carries command language into martial exchanges and hall addresses. It names the command's full presentation or exercise, not a doctrine behind it.",
     "CreatedBy": "Codex fresh semantic author A051-060 2026-07-18",
     "WrittenUtc": "2026-07-18T10:01:17.374085Z"
   },
@@ -51798,7 +51798,7 @@
   },
   {
     "SourceTerm": "衣鉢",
-    "PreferredTarget": "monastic robe, bowl, and personal effects",
+    "PreferredTarget": "a monk's robe and bowl",
     "AlternateTargets": [
       "robes and bowl",
       "personal robes, bowl, and belongings"
@@ -51811,7 +51811,7 @@
       "robes bowl and belongings"
     ],
     "Status": "preferred",
-    "Note": "This first sense covers the material pair and its administrative extension to personal effects and the attendant responsible for them. It is separated from the succession-token sense because regulations can order the objects burned or placed in custody without describing succession.",
+    "Note": "This is the material pair. Regulations burn the robe and bowl with other implements or assign their custody; neither action by itself says anything about succession.",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
