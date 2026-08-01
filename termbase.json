@@ -28177,10 +28177,10 @@
   },
   {
     "SourceTerm": "擇乳",
-    "PreferredTarget": "to select the milk",
+    "PreferredTarget": "select the milk",
     "AlternateTargets": [
-      "to distinguish the milk from the water",
-      "to separate what is essential from what is mixed in"
+      "separate milk from water",
+      "discern what matters in a mixture"
     ],
     "SearchAliases": [
       "select the milk",
@@ -28189,9 +28189,9 @@
       "goose king selects milk"
     ],
     "Status": "preferred",
-    "Note": "Fresh concordance: 162 exact hits in 95 files representing 93 works. Six read deployments across four works preserve verdict, contrast, case discrimination, and the explicit water-and-milk image.",
-    "CreatedBy": "Codex investigation-next300 Lane B explicit author",
-    "WrittenUtc": "2026-07-17T09:24:46.333249+00:00"
+    "Note": "The records invoke the goose king said to draw milk from water. They use that image as a verdict on exact discrimination within teachings or encounters that look alike on the surface.",
+    "CreatedBy": "Codex Triple55 lean evidence recut",
+    "WrittenUtc": "2026-08-01T12:00:00Z"
   },
   {
     "SourceTerm": "擊拂子",
@@ -40319,9 +40319,9 @@
       "monkey tethered to a pillar"
     ],
     "Status": "preferred",
-    "Note": "Exact count: 476 hits in 135 allowlisted texts. The ordinary animal and its staged actions are distinguished from the separately anchored human epithet. The diminutive 'little monkey' form, 40 hits in 25 texts, belongs to the animal family and does not establish another referent.",
-    "CreatedBy": "Codex f002 Lane C worksheet-first author",
-    "WrittenUtc": null
+    "Note": "The animal appears literally and in staged or proverbial actions. Those monkey scenes remain distinct from passages that apply the name to a person as an insult or appraisal.",
+    "CreatedBy": "Codex Triple55 lean evidence recut",
+    "WrittenUtc": "2026-08-01T12:00:00Z"
   },
   {
     "SourceTerm": "猢猻上樹尾連顛",
@@ -44718,15 +44718,21 @@
   },
   {
     "SourceTerm": "祖庭",
-    "PreferredTarget": "patriarchal seat",
-    "AlternateTargets": [],
+    "PreferredTarget": "ancestral seat",
+    "AlternateTargets": [
+      "patriarchal seat",
+      "ancestral monastery"
+    ],
     "SearchAliases": [
-      "patriarchal seat"
+      "ancestral seat",
+      "patriarchal seat",
+      "ancestral monastery",
+      "lineage seat"
     ],
     "Status": "preferred",
-    "Note": "祖庭 denotes a monastery or institutional seat associated with the patriarchal Chan lineage.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-21T00:30:00Z"
+    "Note": "The compound names a monastery or institutional seat through its continuity with the Chan ancestors; records speak of entering, honoring, restoring, inheriting, or letting such a seat fall into ruin.",
+    "CreatedBy": "Codex Triple55 lean evidence recut",
+    "WrittenUtc": "2026-08-01T12:00:00Z"
   },
   {
     "SourceTerm": "祖意",
