@@ -43519,17 +43519,16 @@
     "SourceTerm": "真性",
     "PreferredTarget": "true nature",
     "AlternateTargets": [
-      "genuine nature",
-      "real character"
+      "genuine nature"
     ],
     "SearchAliases": [
       "true nature",
       "genuine nature"
     ],
     "Status": "preferred",
-    "Note": "The expression names an underlying or genuine nature in contrast with distortion. Context decides whether the nature belongs to mind, beings, or a stated quality; the phrase alone does not specify a particular interpretive framework.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T10:20:00Z"
+    "Note": "This provisional entry is based narrowly on doctrinal expositions by Guifeng Zongmi and Yongming Yanshou; it does not establish broader Chan usage.",
+    "CreatedBy": "Codex Triple111 direct author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "真機",
@@ -54620,6 +54619,21 @@
     "Note": "An elephant king looking back is a decisive turn or glance. Muchen Daomin performs it with a bodily look after raising the whisk, answers with it in an interview, and Tian’an Sheng places it among scene-lines that a sword-wielding Mañjuśrī cuts through.",
     "CreatedBy": "Codex Lane B explicit canary",
     "WrittenUtc": "2026-07-17T10:58:39.870332+00:00"
+  },
+  {
+    "SourceTerm": "象王行",
+    "PreferredTarget": "the elephant king's gait",
+    "AlternateTargets": [
+      "elephant-king stride"
+    ],
+    "SearchAliases": [
+      "the elephant king's gait",
+      "elephant-king stride"
+    ],
+    "Status": "preferred",
+    "Note": "The phrase names the elephant king’s gait. Several passages say that fox or hare tracks disappear where it passes.",
+    "CreatedBy": "Codex packet-2 exact-ten construction author",
+    "WrittenUtc": "2026-07-27T19:21:38.463314+00:00"
   },
   {
     "SourceTerm": "象王行處",
