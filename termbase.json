@@ -1922,18 +1922,20 @@
   },
   {
     "SourceTerm": "一著",
-    "PreferredTarget": "one move",
+    "PreferredTarget": "one strategic move",
     "AlternateTargets": [
+      "one move",
       "a move",
       "one play"
     ],
     "SearchAliases": [
+      "one strategic move",
       "one move",
       "a move",
       "one play"
     ],
     "Status": "preferred",
-    "Note": "The headword retains the concrete move vocabulary rather than being inflated into an unstated realization. The texts themselves qualify moves as final, upward, prior, or passed over. Apparent \"one-move is...\" formula hits were mostly grammatical \"one who singles out the upward move\" and are not self-definitions.",
+    "Note": "The headword names one strategic move across literal game language and its metaphorical use in Chan exchanges. Final, upward, prior, missed, and personally taken-up moves remain qualifications of that same referent, not separate senses.",
     "CreatedBy": "Codex fresh f001 lane B evidence-first",
     "WrittenUtc": "2026-07-15T05:30:00Z"
   },
@@ -9238,20 +9240,20 @@
   },
   {
     "SourceTerm": "全體",
-    "PreferredTarget": "the whole body",
+    "PreferredTarget": "the whole of it",
     "AlternateTargets": [
-      "the whole of it",
       "in its entirety",
-      "the complete body"
+      "the whole body",
+      "the complete extent"
     ],
     "SearchAliases": [
-      "the whole body",
       "the whole of it",
       "in its entirety",
-      "the complete body"
+      "the whole body",
+      "the complete extent"
     ],
     "Status": "preferred",
-    "Note": "The different grammatical placements do not warrant a split: noun, modifier, and extent readings all designate completeness of the same referent. The deviation lies in the recurring public formulas 'the whole body appears' (全體現) and 'the whole body is exposed' (全體露), not in an imported claim about a metaphysical 'total reality.' Frozen-corpus concordance: 1593 exact hits in 323 storage files representing 318 independent works.",
+    "Note": "The noun and modifier mark the entirety or comprehensive scope of the stated referent. Surrounding passages may make further claims about that whole, but the headword by itself does not assert a metaphysical identity.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": null
   },
@@ -12726,12 +12728,13 @@
   },
   {
     "SourceTerm": "參話頭",
-    "PreferredTarget": "investigate a recorded saying",
+    "PreferredTarget": "investigate a selected saying",
     "AlternateTargets": [
       "investigate the question",
       "investigate the conversational thread"
     ],
     "SearchAliases": [
+      "investigate a selected saying",
       "investigate a saying",
       "investigate the question",
       "examine the recorded words",
@@ -12739,7 +12742,7 @@
       "work on the key saying"
     ],
     "Status": "preferred",
-    "Note": "Translate the local object as word, saying, question, or conversational thread. These are contextual readings of the same act, not different senses. The evidence supports one sense: no witness uses the compound for a different thing. Imperatives remain literal actions rather than a generalized category.",
+    "Note": "The retained addresses treat the phrase as investigating an unresolved matter in scripture or a public case by taking up its selected saying or question. Zhuanyu Guanheng warns against assuming that doing so by itself establishes transcendence.",
     "CreatedBy": "Codex f002 Lane B evidence-first refresh",
     "WrittenUtc": null
   },
