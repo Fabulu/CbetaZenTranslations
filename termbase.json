@@ -3911,15 +3911,19 @@
   },
   {
     "SourceTerm": "不擬不動",
-    "PreferredTarget": "neither intend nor move",
-    "AlternateTargets": [],
+    "PreferredTarget": "neither deliberating nor moving",
+    "AlternateTargets": [
+      "without deliberation or movement"
+    ],
     "SearchAliases": [
-      "neither intend nor move"
+      "neither intending nor moving",
+      "inert without thought or movement",
+      "not deliberating and not moving"
     ],
     "Status": "preferred",
-    "Note": "The paired negatives belong to one case syntax, not two free-standing commands. Cizhou's recorded saying is the strongest witness; Dahui's distinct wording is retained from a lower-authority compendium as provisional fallback.",
-    "CreatedBy": "Codex post-current-investigation720 Lane B positions 6-59",
-    "WrittenUtc": "2026-07-17T17:05:39.542128+00:00"
+    "Note": "All three passages treat the paired condition adversely; none licenses a favorable quiet or motionless state.",
+    "CreatedBy": "R95 Triple 06 Sol clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "不放過",
@@ -23305,6 +23309,22 @@
     "WrittenUtc": "2026-07-15T11:30:22.365371+00:00"
   },
   {
+    "SourceTerm": "微細流注",
+    "PreferredTarget": "subtle continuing undercurrent",
+    "AlternateTargets": [
+      "fine residual flow"
+    ],
+    "SearchAliases": [
+      "subtle undercurrent",
+      "fine continuing flow",
+      "residual thought-flow"
+    ],
+    "Status": "preferred",
+    "Note": "The term names the fine residual movement distinguished in these passages; it is not a name for every thought or for Zen as a whole.",
+    "CreatedBy": "R95 Triple 06 Sol clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
+  },
+  {
     "SourceTerm": "徵古",
     "PreferredTarget": "to examine an old case",
     "AlternateTargets": [],
@@ -25611,24 +25631,20 @@
   },
   {
     "SourceTerm": "承當",
-    "PreferredTarget": "to take on directly",
+    "PreferredTarget": "take up as one's own",
     "AlternateTargets": [
-      "to own it",
-      "to take it up",
-      "to accept and shoulder",
-      "to take it on oneself"
+      "accept and assume"
     ],
     "SearchAliases": [
-      "to own it",
-      "to take it up",
-      "to accept and shoulder",
-      "to take it on oneself",
-      "to take on directly"
+      "accept as one's own",
+      "take responsibility for",
+      "personally take up",
+      "stand under a claim"
     ],
     "Status": "preferred",
-    "Note": "9 exact evidence rows from 9 independent works are stored for this sense.",
-    "CreatedBy": "Codex fresh f001 lane A evidence-first",
-    "WrittenUtc": "2026-07-15T00:00:00Z"
+    "Note": "The contexts decide whether English needs ‘accept,’ ‘take up,’ or ‘assume’; the shared action is personal receipt, not mere intellectual agreement.",
+    "CreatedBy": "R95 Triple 06 Sol clean author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "承虚接響",
