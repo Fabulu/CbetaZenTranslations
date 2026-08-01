@@ -22770,6 +22770,21 @@
     "WrittenUtc": "2026-07-20T16:00:00Z"
   },
   {
+    "SourceTerm": "彌勒真彌勒",
+    "PreferredTarget": "Maitreya, truly Maitreya",
+    "AlternateTargets": [
+      "Maitreya is truly Maitreya"
+    ],
+    "SearchAliases": [
+      "Maitreya, truly Maitreya",
+      "Maitreya is truly Maitreya"
+    ],
+    "Status": "preferred",
+    "Note": "The opening belongs to Budai's transmitted verse; the three public witnesses are active later redeployments, not three independent origins of the wording.",
+    "CreatedBy": "R95 triple05 clean Sol author",
+    "WrittenUtc": "2026-08-01T06:00:00Z"
+  },
+  {
     "SourceTerm": "形直影端",
     "PreferredTarget": "when the form is straight, the shadow is upright",
     "AlternateTargets": [
@@ -23233,15 +23248,18 @@
   },
   {
     "SourceTerm": "徧身紅爛",
-    "PreferredTarget": "red and ulcerated all over the body",
-    "AlternateTargets": [],
+    "PreferredTarget": "red and ulcerated all over",
+    "AlternateTargets": [
+      "covered all over in red sores"
+    ],
     "SearchAliases": [
-      "red and ulcerated all over the body"
+      "red and ulcerated all over",
+      "covered all over in red sores"
     ],
     "Status": "preferred",
-    "Note": "Do not make it a badge for only one case. 徧 is the transmitted graph for 遍; retain the specific red-and-ulcerated condition rather than flattening it to generic illness. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The phrase keeps its bodily wording in narration, questions, and verse; the entry does not supply a symbolic equivalence.",
+    "CreatedBy": "R95 triple05 clean Sol author",
+    "WrittenUtc": "2026-08-01T06:00:00Z"
   },
   {
     "SourceTerm": "復是何物",
@@ -53935,15 +53953,18 @@
   },
   {
     "SourceTerm": "護生須是殺",
-    "PreferredTarget": "to protect life, one must kill",
-    "AlternateTargets": [],
+    "PreferredTarget": "to guard life, one must kill",
+    "AlternateTargets": [
+      "guarding life requires killing"
+    ],
     "SearchAliases": [
-      "to protect life, one must kill"
+      "to guard life, one must kill",
+      "guarding life requires killing"
     ],
     "Status": "preferred",
-    "Note": "Retain 殺盡始安居 as the governed continuation. The line is a deliberately violent verbal device, not authorization to kill living beings. No lamp is retained.",
-    "CreatedBy": "V6 batch44 A+B constructor",
-    "WrittenUtc": "2026-07-29T10:45:00Z"
+    "Note": "The records preserve the collision between guarding life and killing. Tian'an rejects several proposed objects of the killing, and Muchen's life-release preface excludes ordinary killing of animals.",
+    "CreatedBy": "R95 triple05 clean Sol author",
+    "WrittenUtc": "2026-08-01T06:00:00Z"
   },
   {
     "SourceTerm": "護生須是殺、殺盡始安居",
