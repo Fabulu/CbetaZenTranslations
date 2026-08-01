@@ -17775,10 +17775,10 @@
   },
   {
     "SourceTerm": "大赦不放",
-    "PreferredTarget": "not released even under a general amnesty",
+    "PreferredTarget": "not released in a general amnesty",
     "AlternateTargets": [],
     "SearchAliases": [
-      "not released even under a general amnesty"
+      "not released in a general amnesty"
     ],
     "Status": "preferred",
     "Note": "All four witnesses transmit or discuss Wuzu Fayan’s single founding answer, so they do not establish four independent deployments.",
@@ -34796,16 +34796,14 @@
     "SourceTerm": "毒藥",
     "PreferredTarget": "poison",
     "AlternateTargets": [
-      "a poisonous dose",
-      "to turn into poison"
+      "poisonous medicine"
     ],
     "SearchAliases": [
       "poison",
-      "a poisonous dose",
-      "to turn into poison"
+      "poisonous medicine"
     ],
     "Status": "preferred",
-    "Note": "7 curated occurrences retained after removing punctuation collisions and bare paratext; sources are counted by canonical work ID at validation.",
+    "Note": "Literally poisonous medicine, the phrase is repeatedly used when words or even the finest flavor become harmful in the person receiving them; other passages retain the medicinal contrast between poison and its removal.",
     "CreatedBy": "Codex f004 B1031-1040 full-case repair author",
     "WrittenUtc": "2026-07-15T15:42:24.584850+00:00"
   },
@@ -64719,7 +64717,7 @@
       "coarse words and fine speech"
     ],
     "Status": "preferred",
-    "Note": "The phrase pairs coarse words with fine speech. Zhongfeng Mingben places both beside learned discourse, wind, and rain; other records contrast or appraise the pair.",
+    "Note": "The phrase spans rough and refined utterance together. The records place the pair beside learned discourse, ordinary labor, and speech whose significance is not exhausted by its surface polish.",
     "CreatedBy": "Codex cohort002 lane C clean full-case author",
     "WrittenUtc": "2026-07-19T00:40:37.009445Z"
   },
