@@ -2599,13 +2599,12 @@
     "SearchAliases": [
       "thirty years later",
       "thirty years from now",
-      "in thirty years",
-      "later judgment"
+      "in thirty years"
     ],
     "Status": "preferred",
-    "Note": "The interval remains literal future time. Its recurring Chan job is to defer how a saying, encounter, or person will be judged, remembered, or repeated.",
-    "CreatedBy": "Codex Iriya cohort001 Lane A evidence-first",
-    "WrittenUtc": "2026-07-18T07:30:00Z"
+    "Note": "A literal future interval used to put a later retelling, answer, or forecast at a distant point in time. The phrase does not by itself prescribe a thirty-year practice or waiting period.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple018",
+    "WrittenUtc": "2026-08-02T02:44:12Z"
   },
   {
     "SourceTerm": "三十棒",
@@ -4333,16 +4332,17 @@
   },
   {
     "SourceTerm": "不識",
-    "PreferredTarget": "do not know",
-    "AlternateTargets": [],
+    "PreferredTarget": "do not recognize",
+    "AlternateTargets": [
+      "do not know"
+    ],
     "SearchAliases": [
-      "do not know",
-      "不識"
+      "fail to recognize"
     ],
     "Status": "preferred",
-    "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
-    "CreatedBy": "Codex f003 Lane A full-case author",
-    "WrittenUtc": "2026-07-15T04:50:30.422923+00:00"
+    "Note": "The object following the compound supplies what is not recognized. Yongming Yanshou's passage is a passive quotation and corroborates ordinary recognition usage; the independent direct deployments by Weilin Daopei and Huangbo Xiyun establish the multi-source verdict. Li Linzong's encounter is the sole supplementary lamp witness and does not contribute to that verdict.",
+    "CreatedBy": "Sol semantic author, lamp-heavy Triple017",
+    "WrittenUtc": "2026-08-02T05:08:00Z"
   },
   {
     "SourceTerm": "不識好惡",
@@ -8133,13 +8133,12 @@
       "transmit the lamp",
       "pass the lamp",
       "lamp succession",
-      "continue the flame",
-      "teacher successor transmission"
+      "teacher-successor transmission"
     ],
     "Status": "preferred",
-    "Note": "Across both senses the headword occurs 982 times in 210 allowlisted texts. The succession formula 'lamp after lamp continues' occurs 71 times in 58 texts; 'continue the flame and transmit the lamp' occurs twice in two texts.",
-    "CreatedBy": "Codex fresh-build lane C",
-    "WrittenUtc": null
+    "Note": "Xisou Shaotan places transmitting the lamp among descendants in a branching lineage. Dawei Jinglun's verse speaks of transmitting what the buddhas and patriarchs do not transmit.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple016",
+    "WrittenUtc": "2026-08-02T04:28:00Z"
   },
   {
     "SourceTerm": "傳燈錄",
@@ -10076,16 +10075,18 @@
   },
   {
     "SourceTerm": "出世",
-    "PreferredTarget": "to appear in the world (of a buddha or sage)",
-    "AlternateTargets": [],
+    "PreferredTarget": "to appear in the world",
+    "AlternateTargets": [
+      "to emerge in the world"
+    ],
     "SearchAliases": [
       "appear in the world",
-      "出世"
+      "emerge in an age"
     ],
     "Status": "preferred",
-    "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
-    "CreatedBy": "Codex f003 Lane A full-case author",
-    "WrittenUtc": "2026-07-15T08:07:54.381562+00:00"
+    "Note": "Frozen-corpus concordance: 7,523 exact hits in 435 files representing 428 independent works. In this sense the subject is a buddha, sage, or group of awakened teachers appearing in an age. It is distinct from the institutional use for a Chan teacher taking an abbacy. One authored witness and one independently deployed lamp witness establish the sense; the lamp does not control the translation.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple012",
+    "WrittenUtc": "2026-08-02T01:20:00Z"
   },
   {
     "SourceTerm": "出家乃大丈夫事",
@@ -10133,15 +10134,18 @@
   },
   {
     "SourceTerm": "出格一句",
-    "PreferredTarget": "a phrase beyond the pattern",
-    "AlternateTargets": [],
-    "SearchAliases": [
+    "PreferredTarget": "an out-of-pattern line",
+    "AlternateTargets": [
+      "a line outside the pattern",
       "a phrase beyond the pattern"
     ],
+    "SearchAliases": [
+      "a line beyond the frame"
+    ],
     "Status": "preferred",
-    "Note": "The phrase labels the requested line; the entry does not infer a shared hidden meaning from the different answers.",
-    "CreatedBy": "Codex construction worker B; manifestLane=B",
-    "WrittenUtc": "2026-07-17T13:08:20.904647+00:00"
+    "Note": "Frozen-corpus concordance: 34 exact hits in 28 files representing 28 independent works. Four independent recorded-saying exchanges establish the sense; one distinct lamp hall address is retained as a supplementary witness. The different answers do not establish one fixed verbal content for the requested line.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple014",
+    "WrittenUtc": "2026-08-02T03:30:00Z"
   },
   {
     "SourceTerm": "出身",
@@ -13728,23 +13732,22 @@
   },
   {
     "SourceTerm": "向上",
-    "PreferredTarget": "the further-up sense",
+    "PreferredTarget": "further",
     "AlternateTargets": [
-      "up beyond",
-      "the upward",
-      "higher up"
+      "higher",
+      "beyond the level just named"
     ],
     "SearchAliases": [
       "further up",
       "upward matter",
-      "one road upward",
-      "upward vehicle",
-      "upward barrier"
+      "one route further",
+      "further gate",
+      "further lineage vehicle"
     ],
     "Status": "preferred",
-    "Note": "5 exact evidence rows from 4 independent works are stored for this sense; repeated files or editions are not counted as separate works.",
-    "CreatedBy": "Codex fresh f001 lane A evidence-first",
-    "WrittenUtc": "2026-07-15T00:00:00Z"
+    "Note": "Frozen-corpus concordance: 7,820 exact hits in 420 files representing 413 independent works; this broad count includes ordinary direction and many compounds and is not a count of the Chan comparative sense. Five actor-clean curated excerpts from four independent works establish the comparative use. Three Tier-1/2 works control the account, with one useful excerpt retained from the early Renwang lamp encounter.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple014",
+    "WrittenUtc": "2026-08-02T01:24:26Z"
   },
   {
     "SourceTerm": "向上一句",
@@ -14943,15 +14946,18 @@
   },
   {
     "SourceTerm": "喚作竹篦則觸",
-    "PreferredTarget": "if one calls it a bamboo comb, one violates it",
-    "AlternateTargets": [],
+    "PreferredTarget": "call it a bamboo switch and you collide with it",
+    "AlternateTargets": [
+      "calling it a bamboo switch, you run into it"
+    ],
     "SearchAliases": [
-      "calling it a bamboo comb violates it"
+      "bamboo switch naming challenge",
+      "call it a bamboo switch"
     ],
     "Status": "preferred",
-    "Note": "The clause is the first half of Shoushan Shengnian’s bamboo-comb challenge and is paired with the warning against refusing that name.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T00:00:00Z"
+    "Note": "This is the naming horn of a paired challenge. Calling the raised object a bamboo switch is collision or contact; refusing that name is turning away from it.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple019",
+    "WrittenUtc": "2026-08-02T05:05:00Z"
   },
   {
     "SourceTerm": "喝",
@@ -17766,22 +17772,19 @@
   },
   {
     "SourceTerm": "大用現前",
-    "PreferredTarget": "full capacity for action comes into view",
+    "PreferredTarget": "great functioning appears",
     "AlternateTargets": [
-      "great function becomes manifest",
-      "great functioning appears"
+      "great functioning comes into view",
+      "great capacity for action appears"
     ],
     "SearchAliases": [
-      "great function appears",
       "great function manifests",
-      "full capacity comes into action",
-      "great functioning comes into view",
-      "full function becomes manifest"
+      "great use appears"
     ],
     "Status": "preferred",
-    "Note": "The direct question asking what the appearing of great function is occurs 22 times in 19 texts, and the exact at-the-encounter collocation occurs twice in two texts. Named speakers and reviewed unnamed questioners supply many different replies and actions; the entry reports representative deployment shapes and Dahui Zonggao's explicit rejection without assigning a single hidden force to them.",
-    "CreatedBy": "Codex fresh f001 lane B evidence-first",
-    "WrittenUtc": "2026-07-20T00:00:00Z"
+    "Note": "Yuanwu Keqin describes great functioning appearing amid noise and quiet and pairs the phrase with exchanging a blade of grass and a golden body in use. Dazhu Huihai directly equates its appearing with the unequalled body of the teaching. Dahui Zonggao rejects applying the formula automatically to Guizong's snake killing and Nanquan's cat killing.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple015",
+    "WrittenUtc": "2026-08-02T03:48:00Z"
   },
   {
     "SourceTerm": "大用現前、不存軌則",
@@ -24298,21 +24301,19 @@
   },
   {
     "SourceTerm": "性命",
-    "PreferredTarget": "one's life at stake",
+    "PreferredTarget": "one's life",
     "AlternateTargets": [
-      "life",
-      "one’s vital stake"
+      "vital life"
     ],
     "SearchAliases": [
       "life at stake",
-      "risk one’s life",
-      "lose one’s life",
+      "establish one's life",
       "someone holds his life"
     ],
     "Status": "preferred",
-    "Note": "The retained exchanges use life for a life that can be lost, surrendered, established, controlled, or placed in question.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T01:02:13.625012+00:00"
+    "Note": "Juelang Daosheng speaks of establishing one's life, Jianfu Huai puts Gautama's life in another person's hands, and Liao'an Qingyu pairs the former buddhas' vital life with the later buddhas' governing rule.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple019",
+    "WrittenUtc": "2026-08-02T05:32:00Z"
   },
   {
     "SourceTerm": "性海",
@@ -24409,14 +24410,17 @@
   {
     "SourceTerm": "恁麼道",
     "PreferredTarget": "to say it this way",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "to speak in this manner"
+    ],
     "SearchAliases": [
-      "to speak in this way"
+      "to say it like this",
+      "to speak this way"
     ],
     "Status": "preferred",
-    "Note": "The phrase points back to a particular utterance; its speaker and content come from the surrounding turn.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T00:00:00Z"
+    "Note": "The expression identifies manner of wording, not agreement with the wording and not a separate object. Context supplies who spoke and what was said.",
+    "CreatedBy": "Sol author, lamp-heavy active triple018",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "恍恍惚惚",
@@ -30765,13 +30769,12 @@
     "PreferredTarget": "Samantabhadra",
     "AlternateTargets": [],
     "SearchAliases": [
-      "Samantabhadra",
-      "普賢"
+      "Puxian"
     ],
     "Status": "preferred",
-    "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
-    "CreatedBy": "Codex f003 Lane A full-case author",
-    "WrittenUtc": "2026-07-19T03:35:56.679037+00:00"
+    "Note": "Frozen-corpus concordance: 2,920 exact hits in 332 files representing 327 independent works. The retained witnesses are two stronger records and the single best useful early lamp witness. They use 普賢 as the proper name Samantabhadra; pairings and descriptions assigned to that figure do not create separate referents.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple013",
+    "WrittenUtc": "2026-08-02T01:18:31Z"
   },
   {
     "SourceTerm": "景德傳燈錄",
@@ -31194,17 +31197,19 @@
   },
   {
     "SourceTerm": "月明照見夜行人",
-    "PreferredTarget": "the bright moon exposes the person walking at night",
-    "AlternateTargets": [],
+    "PreferredTarget": "the bright moon reveals the person walking at night",
+    "AlternateTargets": [
+      "moonlight exposes the night traveller"
+    ],
     "SearchAliases": [
-      "moonlit night traveller",
-      "moon exposes traveller",
-      "bright moon at night"
+      "moonlight reveals a night traveller",
+      "the moon exposes whoever walks at night",
+      "night traveller in bright moonlight"
     ],
     "Status": "preferred",
-    "Note": "The moon and traveller remain the visible image; the entry does not assign either one a universal symbolic identity.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-19T14:14:02.714082Z"
+    "Note": "The line always retains its concrete image: moonlight makes a traveller abroad at night visible. Its local target changes with the case it caps, so the article does not assign the moon or traveller one universal symbolic identity.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple017",
+    "WrittenUtc": "2026-08-02T04:55:00Z"
   },
   {
     "SourceTerm": "月落不離天",
@@ -31446,15 +31451,19 @@
   },
   {
     "SourceTerm": "有頭無尾",
-    "PreferredTarget": "having a head but no tail",
-    "AlternateTargets": [],
+    "PreferredTarget": "having a beginning but no completion",
+    "AlternateTargets": [
+      "having a head but no tail",
+      "starting without finishing"
+    ],
     "SearchAliases": [
-      "having a head but no tail"
+      "incomplete from beginning to end",
+      "begins but does not finish"
     ],
     "Status": "preferred",
-    "Note": "The entry follows evaluative uses of an incomplete beginning-and-end pattern.",
-    "CreatedBy": "iriya-construction-001 lane A",
-    "WrittenUtc": "2026-07-18T13:00:00Z"
+    "Note": "Frozen-corpus concordance: 219 exact hits in 99 files representing 96 independent works. The literal head-and-tail image becomes a verdict on something begun but not carried through. Four independent deployments are retained: one authored work, two recorded-sayings or discourse works, and one useful lamp witness.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple013",
+    "WrittenUtc": "2026-08-02T03:28:00Z"
   },
   {
     "SourceTerm": "望南看北斗",
@@ -32497,21 +32506,19 @@
     "SourceTerm": "杜撰",
     "PreferredTarget": "fabricated",
     "AlternateTargets": [
-      "make up",
+      "made up",
       "bogus",
       "unfounded"
     ],
     "SearchAliases": [
-      "fabricated",
-      "made up",
-      "bogus",
+      "fabricate",
       "invented",
       "spurious"
     ],
     "Status": "preferred",
-    "Note": "No corpus witness derives the headword from the person Du Mo. Those proper-name and silence occurrences were excluded rather than used to repeat an external etymology. The alternate 'bogus' is reserved for personal epithets such as 'bogus elder' or 'bogus Chan fellow'; 'fabricated' remains the broad target for speech, explanations, and claims.",
-    "CreatedBy": "Codex fresh-build lane C",
-    "WrittenUtc": "2026-07-20T00:00:00Z"
+    "Note": "The records apply one judgment to invented explanations, verses, procedures, and people. Verbal and attributive packaging does not create separate senses. Proper-name occurrences of Du Mo are excluded; the corpus evidence retained here does not derive 杜撰 from that person's name.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple012",
+    "WrittenUtc": "2026-08-02T03:25:00+02:00"
   },
   {
     "SourceTerm": "杜撰禪和",
@@ -33406,18 +33413,16 @@
     "SourceTerm": "梵王",
     "PreferredTarget": "Brahma king",
     "AlternateTargets": [
-      "King Brahma"
+      "king of Brahma Heaven"
     ],
     "SearchAliases": [
-      "Brahma king",
-      "King Brahma",
-      "Brahma at the flower sermon",
-      "heavenly king"
+      "Brahma ruler",
+      "Brahma king at the flower assembly"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
-    "CreatedBy": "Codex f003 Lane C evidence-first",
-    "WrittenUtc": "2026-07-15T04:51:30.649197+00:00"
+    "Note": "梵王 is a title, not a personal name. The records assign a Brahma king several narrative roles: requester of the Buddha's teaching, ceremonial attendant, and, in one received flower-assembly account, presenter of the flower. The last role belongs to that account rather than to the lexical meaning of the title.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple012",
+    "WrittenUtc": "2026-08-02T03:35:00+02:00"
   },
   {
     "SourceTerm": "棄本逐末",
@@ -37357,21 +37362,21 @@
   },
   {
     "SourceTerm": "清波無透路",
-    "PreferredTarget": "clear waves offer no road through",
+    "PreferredTarget": "clear waves have no road through",
     "AlternateTargets": [
-      "the clear water has no traversable route",
-      "no passage leads through the clear waves"
+      "there is no passage through the clear waves",
+      "clear water offers no way through"
     ],
     "SearchAliases": [
       "clear waves no path",
       "clear water no road through",
-      "water moon blocked route",
-      "no passage through waves"
+      "water moon exchange",
+      "no passage through clear water"
     ],
     "Status": "preferred",
-    "Note": "One direct case and three distinct later deployments span four independent works.",
-    "CreatedBy": "Codex Iriya construction lane C evidence-first",
-    "WrittenUtc": "2026-07-18T07:31:04.434176Z"
+    "Note": "Shitian Faxun’s record attributes the old exchange to Jingqing Daofu, while Tianyin Yuanxiu’s record attributes its three replies to Yunmen Wenyan. The article preserves both received attributions. Huitang Zuxin invokes Yunmen in his own headword-bearing hall speech.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple019",
+    "WrittenUtc": "2026-08-02T05:05:00Z"
   },
   {
     "SourceTerm": "清淨本然",
@@ -38323,14 +38328,17 @@
   {
     "SourceTerm": "無佛處急走過",
     "PreferredTarget": "hurry past where there is no Buddha",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "quickly pass through the Buddha-less place"
+    ],
     "SearchAliases": [
-      "hurry past where there is no Buddha"
+      "do not stay where there is no Buddha",
+      "pass beyond no Buddha"
     ],
     "Status": "preferred",
-    "Note": "This imperative urges passing swiftly beyond even a place conceived as without Buddha.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-21T00:30:00Z"
+    "Note": "The first limb says not to stay where there is a Buddha (有佛處不得住), and the second says to hurry past where there is none. Poshan Haiming expressly warns against going to the place where not an inch of grass grows and wasting one's life there.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple016",
+    "WrittenUtc": "2026-08-02T04:25:00Z"
   },
   {
     "SourceTerm": "無依",
@@ -51516,16 +51524,16 @@
     "SourceTerm": "蚊子上鐵牛",
     "PreferredTarget": "a mosquito on an iron ox",
     "AlternateTargets": [
-      "the mosquito alights on the iron ox"
+      "a mosquito alights on an iron ox"
     ],
     "SearchAliases": [
       "mosquito on iron ox",
       "nowhere for the mosquito to bite"
     ],
     "Status": "preferred",
-    "Note": "8 exact full-case witnesses from 8 independent works support this corpus-bounded sense.",
-    "CreatedBy": "Codex f004 lane C1166-C1175 exact-actor recovery author",
-    "WrittenUtc": "2026-07-15T15:28:02.993665+00:00"
+    "Note": "Hyujeong's authored instruction, Juelang Daosheng's hall discourse, and Dahui Zonggao's dialogue independently use the image and its no-place-to-put-down-the-mouth completion. One lamp biography is retained for Yaoshan Weiyan's distinct comparison of his situation at Shitou to the mosquito on the iron ox.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple016",
+    "WrittenUtc": "2026-08-02T04:20:00Z"
   },
   {
     "SourceTerm": "蚊子咬鐵牛",
@@ -58651,17 +58659,18 @@
   },
   {
     "SourceTerm": "針眼裏藏身",
-    "PreferredTarget": "to hide oneself inside a needle’s eye",
-    "AlternateTargets": [],
+    "PreferredTarget": "to hide oneself inside a needle's eye",
+    "AlternateTargets": [
+      "to conceal oneself inside a needle's eye"
+    ],
     "SearchAliases": [
       "hide in a needle eye",
-      "needle-eye hiding",
-      "conceal oneself in a needle’s eye"
+      "needle-eye concealment"
     ],
     "Status": "preferred",
-    "Note": "The retained evidence contrasts the needle eye with an ocean and later contrasts concealment with roaming, preserving both spatial reversals.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-19T15:56:43.337666Z"
+    "Note": "The phrase literally puts a body inside the eye of a needle. The cited uses make this impossibly narrow place spacious and contrast it with movement through the ocean, empty space, or all ten directions; they do not describe an ordinary act of hiding.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple014",
+    "WrittenUtc": "2026-08-02T03:30:00Z"
   },
   {
     "SourceTerm": "針芥相投",
@@ -59693,14 +59702,16 @@
   {
     "SourceTerm": "門外",
     "PreferredTarget": "outside the gate",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "beyond the gate"
+    ],
     "SearchAliases": [
-      "outside the gate"
+      "outside the doorway"
     ],
     "Status": "preferred",
-    "Note": "This is a locative expression; the cited cases retain the physical gate or doorway in their immediate wording.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T23:55:00Z"
+    "Note": "The cited passages keep the expression locative: 門 is a gate or doorway, and 外 is the space outside or beyond it.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple017",
+    "WrittenUtc": "2026-08-02T05:05:00Z"
   },
   {
     "SourceTerm": "門庭",
@@ -60122,19 +60133,18 @@
   },
   {
     "SourceTerm": "開門",
-    "PreferredTarget": "to open the gate",
+    "PreferredTarget": "to open the door",
     "AlternateTargets": [
-      "open the door",
-      "make an entrance available"
+      "open the gate"
     ],
     "SearchAliases": [
-      "to open the gate",
-      "open the door"
+      "to open the door",
+      "open the gate"
     ],
     "Status": "preferred",
-    "Note": "The expression describes opening a literal or figurative point of access. Institutional door-opening and metaphorical disclosure remain contextually distinct applications.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T10:20:00Z"
+    "Note": "The object may be a room door or an outer gate. In the praise phrase 開門放賊, the ordinary access action is recruited as an image of letting a thief loose; the evidence does not require a second lexical sense.",
+    "CreatedBy": "Sol frozen-context existing-entry repair",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "閑持經卷倚松立、笑問客從何處來",
