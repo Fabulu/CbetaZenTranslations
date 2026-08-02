@@ -503,18 +503,16 @@
     "SourceTerm": "一喝分賓主",
     "PreferredTarget": "one shout distinguishes guest and host",
     "AlternateTargets": [
-      "a shout separates guest from host"
+      "a single shout separates guest from host"
     ],
     "SearchAliases": [
-      "guest host shout",
-      "one shout guest and host",
-      "Linji shout",
-      "shout distinguishes roles"
+      "one shout distinguishes guest and host",
+      "a shout separates guest from host"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
-    "CreatedBy": "Codex f003 Lane C evidence-first",
-    "WrittenUtc": "2026-07-15T04:51:16.010993+00:00"
+    "Note": "Two independent Yuanwu deployments—one Tier-1 authored instruction and one Tier-2 recorded discourse—preserve the Linji-house formula. Two packet witnesses with unresolved section masters were rejected. The formula does not preassign either participant to guest or host.",
+    "CreatedBy": "Codex Triple033 Sol author B",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "一回舉著一回新",
@@ -7420,16 +7418,17 @@
     "SourceTerm": "便下座",
     "PreferredTarget": "then descended from the seat",
     "AlternateTargets": [
-      "thereupon left the high seat",
+      "thereupon left the teaching seat",
       "then stepped down from the seat"
     ],
     "SearchAliases": [
-      "then descended from the seat"
+      "then descended from the seat",
+      "left the teaching seat"
     ],
     "Status": "preferred",
-    "Note": "It regularly follows a final statement, verse, gesture, unanswered question, sounding-block announcement, or disruption of the seat event. The Buddha and Kasyapa/Manjusri cases are central #0g evidence for the Zen deployment of the Buddha as mounting and leaving the seat.",
-    "CreatedBy": "Codex fresh f002 Lane A evidence-first",
-    "WrittenUtc": "2026-07-15T15:00:00Z"
+    "Note": "One event-closing sense. Four retained witnesses comprise three recorded-sayings sources and one useful lamp witness; the two repeated-span windows were reduced to exact supplied-context clauses.",
+    "CreatedBy": "Codex Triple031 Sol author",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "便喝",
@@ -11146,14 +11145,17 @@
   {
     "SourceTerm": "劍樹刀山",
     "PreferredTarget": "sword trees and knife mountains",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "the sword-tree and knife-mountain torments"
+    ],
     "SearchAliases": [
-      "sword trees and knife mountains"
+      "sword trees and knife mountains",
+      "infernal sword trees and knife mountains"
     ],
     "Status": "preferred",
-    "Note": "The entry records only these concrete deployments; references to weapons alone are excluded unless sword trees and knife mountains form the pair.",
-    "CreatedBy": "Codex Iriya lane B131-140 full-case author",
-    "WrittenUtc": "2026-07-18T15:20:00Z"
+    "Note": "One paired infernal-terrain image supported by two Tier-2 recorded-sayings witnesses and one lamp sermon. Ceremonial, doctrinal, and hall-mapping deployments retain the same referent.",
+    "CreatedBy": "Codex Triple035 Sol author",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "劍爲不平離寶匣、藥因救病出金瓶",
@@ -15043,20 +15045,19 @@
   },
   {
     "SourceTerm": "喪我兒孫",
-    "PreferredTarget": "to lose my descendants",
+    "PreferredTarget": "it would cost me my descendants",
     "AlternateTargets": [
-      "to ruin my line of descendants"
+      "I would lose my descendants",
+      "it would ruin my lineage heirs"
     ],
     "SearchAliases": [
       "lose my descendants",
-      "ruin my heirs",
-      "lose the lineage descendants",
-      "cut off later generations"
+      "ruin my lineage heirs"
     ],
     "Status": "preferred",
-    "Note": "To lose my descendants is a lineage verdict: the utterer withholds an inadequate formulation or condemns a succession claim or response because transmitting it would damage those who follow.",
-    "CreatedBy": "Codex Iriya cohort001 Lane B position24 direct author",
-    "WrittenUtc": "2026-07-18T07:41:28.331339+00:00"
+    "Note": "One lineage-warning sense, attested in two Tier-1 authored works and one Tier-2 discourse. All three transmit the same Huangbo–Baizhang case and are not presented as three independent events. The lamp parallel is unnecessary.",
+    "CreatedBy": "Codex Triple036 Sol author",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "喪身失命",
@@ -16758,15 +16759,19 @@
   },
   {
     "SourceTerm": "墮坑落壍",
-    "PreferredTarget": "to fall into pits and ditches",
-    "AlternateTargets": [],
+    "PreferredTarget": "fall into pits and ditches",
+    "AlternateTargets": [
+      "land in a pitfall",
+      "fall into error"
+    ],
     "SearchAliases": [
-      "to fall into pits and ditches"
+      "fall into pits and ditches",
+      "fall into error"
     ],
     "Status": "preferred",
-    "Note": "To fall into pits and ditches depicts being trapped, ruined, or led into error.",
-    "CreatedBy": "Codex Lane B B111-B120 full-case author",
-    "WrittenUtc": "2026-07-19T00:00:00Z"
+    "Note": "The literal/figurative phrase is supported in the supplied repair packet only by Tier-3 lamp witnesses. Source policy permits retaining one best useful lamp, so the sense is honestly marked single-source rather than padded with three additional lamp parallels.",
+    "CreatedBy": "Codex Triple035 Sol author",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "墮負",
@@ -33103,16 +33108,18 @@
   },
   {
     "SourceTerm": "枯木花開劫外春",
-    "PreferredTarget": "dead wood flowers in spring beyond the aeon",
-    "AlternateTargets": [],
+    "PreferredTarget": "dead wood flowers in a spring beyond the aeon",
+    "AlternateTargets": [
+      "a withered tree blooms in spring beyond time"
+    ],
     "SearchAliases": [
-      "withered wood blooms in spring beyond time",
-      "dead tree flowering beyond the aeon"
+      "dead wood flowers beyond the aeon",
+      "withered tree blooms beyond time"
     ],
     "Status": "preferred",
-    "Note": "The records preserve a poetic line; beyond-the-aeon is retained literally rather than converted into a chronology or abstract teaching.",
-    "CreatedBy": "Codex Lane C C141-145 full-case construction",
-    "WrittenUtc": "2026-07-19T13:20:00+02:00"
+    "Note": "One complete poetic line supported by one Tier-1 authored lineage work and three independent Tier-2 recorded-sayings works. Its elements are not assigned fixed doctrinal equivalents beyond what the verses prove.",
+    "CreatedBy": "Codex Triple036 Sol author",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "枯木裏龍吟",
@@ -36498,18 +36505,18 @@
   },
   {
     "SourceTerm": "泥牛入海",
-    "PreferredTarget": "the clay ox enters the sea",
+    "PreferredTarget": "a clay ox enters the sea",
     "AlternateTargets": [
-      "a clay ox entering the sea"
+      "the clay ox vanishes into the sea"
     ],
     "SearchAliases": [
-      "the clay ox enters the sea",
-      "a clay ox entering the sea"
+      "clay ox enters the sea",
+      "clay ox vanishes into the sea"
     ],
     "Status": "preferred",
-    "Note": "Frozen-corpus concordance: 93 exact hits in 62 storage files representing 60 independent works. One referent appears across answer, verse, and public-case title uses.",
-    "CreatedBy": "Codex f002 Lane B evidence-first refresh",
-    "WrittenUtc": null
+    "Note": "One stock Chan image supported by two independent recorded-discourse witnesses and one lamp verse. A second witness from the same lamp compilation was rejected as same-family padding.",
+    "CreatedBy": "Codex Triple031 Sol author",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "泥牛入海公案",
@@ -39471,18 +39478,16 @@
     "SourceTerm": "燈籠",
     "PreferredTarget": "lantern",
     "AlternateTargets": [
-      "lamp cage"
+      "lamp"
     ],
     "SearchAliases": [
       "lantern",
-      "lamp cage",
-      "temple lantern",
-      "lantern and exposed pillar"
+      "lamp"
     ],
     "Status": "preferred",
-    "Note": "The Zen bend is the lantern's repeated use as a speaking-stage object and personified member of the monastery, especially in the fixed lantern-and-exposed-pillar pairing. The texts do not provide a mystical gloss for it. Literal object, answer, and personification remain one sense because every passage still refers to the lantern.",
-    "CreatedBy": "Codex fresh f002 Lane A evidence-first",
-    "WrittenUtc": "2026-07-15T16:00:00Z"
+    "Note": "Three independent Tier-1/2 named-master witnesses retain one concrete monastery object across physical handling, inert-object comparison, and stock-object use. The X78 verse was rejected because its exact section master remains unresolved.",
+    "CreatedBy": "Codex Triple034 Sol author B",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "燈籠入露柱",
@@ -42892,15 +42897,18 @@
   },
   {
     "SourceTerm": "盤裏明珠",
-    "PreferredTarget": "a bright pearl in the tray",
-    "AlternateTargets": [],
+    "PreferredTarget": "a bright pearl in a tray",
+    "AlternateTargets": [
+      "a pearl rolling freely in a tray"
+    ],
     "SearchAliases": [
-      "a bright pearl in the tray"
+      "bright pearl in a tray",
+      "pearl rolling in a tray"
     ],
     "Status": "preferred",
-    "Note": "8 exact hits occur in 8 works; evidence ranges from Baizhao Tonghui Gui to Jianguan Ziyi.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-19T16:19:57.908503Z"
+    "Note": "One figurative image supported by two independent recorded-discourse witnesses and one useful lamp transmission. The duplicate T51 lamp parallel was rejected as padding.",
+    "CreatedBy": "Codex Triple031 Sol author",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "盧舍那",
@@ -44744,18 +44752,18 @@
     "SourceTerm": "示眾",
     "PreferredTarget": "address the assembly",
     "AlternateTargets": [
-      "public address",
-      "instruction to the assembly"
+      "instruct the assembly",
+      "public address"
     ],
     "SearchAliases": [
       "address the assembly",
-      "public address",
-      "instruction to the assembly"
+      "instruct the assembly",
+      "public address"
     ],
     "Status": "preferred",
-    "Note": "The headword has 13,877 exact hits in 431 files and 425 works. Seven curated public-address witnesses establish the institutional speech sense.",
-    "CreatedBy": "Codex legacy full rebuild Lane B",
-    "WrittenUtc": "2026-07-16T18:11:04.350459+00:00"
+    "Note": "The institutional speech sense is supported by three Tier-1 works: an editorial genre classification, a lineage case, and an explicit request followed by communal instruction.",
+    "CreatedBy": "Codex Triple030 Sol author",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "祖佛",
@@ -45284,18 +45292,18 @@
   },
   {
     "SourceTerm": "禪寺",
-    "PreferredTarget": "a monastery identified as Chan",
+    "PreferredTarget": "Chan monastery",
     "AlternateTargets": [
-      "Chan-designated monastery"
+      "monastery identified as Chan"
     ],
     "SearchAliases": [
       "Chan monastery",
-      "the Chan-monastery expression"
+      "Chan-designated monastery"
     ],
     "Status": "preferred",
-    "Note": "Eight documentary/body witnesses identify named institutions as the Chan-monastery expression, including founding, residence, and institutional title contexts. Repeated contents and publication-title metadata are excluded; the evidence does not by itself license claims about every community’s internal operation.",
-    "CreatedBy": "Codex Lane C independent-review repair",
-    "WrittenUtc": "2026-07-17T03:30:00Z"
+    "Note": "Four independent Tier-1/2 documentary witnesses name institutions with 禪寺. The expression identifies a monastery as Chan; it does not by itself establish a distinctive internal organization.",
+    "CreatedBy": "Codex Triple033 Sol author B",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "禪師語錄",
@@ -45396,20 +45404,21 @@
   },
   {
     "SourceTerm": "禪者",
-    "PreferredTarget": "a Chan student",
+    "PreferredTarget": "Chan practitioner",
     "AlternateTargets": [
-      "a student of Chan"
+      "Chan student",
+      "one who practices Chan",
+      "one who teaches Chan"
     ],
     "SearchAliases": [
       "Chan practitioner",
-      "Zen practitioner",
       "Chan student",
-      "student of Chan"
+      "Chan teacher"
     ],
     "Status": "preferred",
-    "Note": "8 independently reviewed witnesses delimit this sense.",
-    "CreatedBy": "Codex f003 Lane B evidence-first",
-    "WrittenUtc": "2026-07-15T05:25:15.183610+00:00"
+    "Note": "One productive person-label: 者 denotes a person characterized by studying, practicing, claiming, or teaching Chan. Those contextual roles do not prove separate lexical senses. The non-person construction 故禪者, 'as for Chan,' is excluded.",
+    "CreatedBy": "Codex Triple032 Sol author",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "禪道",
@@ -45444,23 +45453,20 @@
   },
   {
     "SourceTerm": "禮拜",
-    "PreferredTarget": "to make a ritual bow or prostration",
+    "PreferredTarget": "bow in reverence",
     "AlternateTargets": [
-      "to bow in reverence",
-      "to make ritual obeisance",
-      "a ritual bow or prostration"
+      "make obeisance",
+      "prostrate"
     ],
     "SearchAliases": [
-      "bow",
-      "prostrate",
+      "bow in reverence",
       "make obeisance",
-      "ritual bow",
-      "bow before the master"
+      "prostrate"
     ],
     "Status": "preferred",
-    "Note": "13 exact evidence rows from 7 independent works are stored for this sense; repeated files or editions are not counted as separate works.",
-    "CreatedBy": "Codex fresh f001 lane A evidence-first",
-    "WrittenUtc": "2026-07-15T00:00:00Z"
+    "Note": "Four independent Tier-1/2 witnesses show bodily or prescribed obeisance toward a Buddha, the Three Jewels, a teacher, or National Teacher. The verb does not itself prove devotion or awakening.",
+    "CreatedBy": "Codex Triple033 Sol author B",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "禮非玉帛而不表。樂非鐘鼓而不傳",
@@ -48133,20 +48139,20 @@
   },
   {
     "SourceTerm": "老僧罪過",
-    "PreferredTarget": "this old monk’s fault",
+    "PreferredTarget": "this old monk is at fault",
     "AlternateTargets": [
-      "the fault is this old monk’s"
+      "my fault",
+      "this old monk's offense"
     ],
     "SearchAliases": [
-      "old monk fault",
+      "this old monk is at fault",
       "my fault",
-      "this monk is at fault",
-      "the blame is mine"
+      "this old monk's offense"
     ],
     "Status": "preferred",
-    "Note": "This old monk’s fault is a self-capping reply: the utterer takes the fault-language onto himself in order to close, turn, or reopen an exchange rather than itemizing an offense.",
-    "CreatedBy": "Codex Iriya cohort001 Lane B position30 direct author",
-    "WrittenUtc": "2026-07-18T07:41:36.366855+00:00"
+    "Note": "One compact fault-language reply. Three independent witnesses show self-acceptance, a capping reversal, and returned blame. A lamp recension parallel of the Xinghua exchange is rejected as padding.",
+    "CreatedBy": "Codex Triple032 Sol author",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "老古錐",
@@ -50420,13 +50426,12 @@
     ],
     "SearchAliases": [
       "Zhuang Zhou",
-      "Master Zhuang",
-      "Zen Zhuang Zhou"
+      "Master Zhuang"
     ],
     "Status": "preferred",
-    "Note": "Dream, mourning story, scholarly reference, sword line, and poetic address all name the same person. They are different deployments, not different referents or readings to split.",
-    "CreatedBy": "Codex f002 Lane C worksheet-first author",
-    "WrittenUtc": "2026-07-15T04:06:26.730577+00:00"
+    "Note": "One personal-name sense, supported by four Tier-1 witnesses. Philosophical criticism, the butterfly dream, and the sword-line are deployments of the same referent, not separate lexical senses.",
+    "CreatedBy": "Codex Triple030 Sol author",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "莊子",
@@ -53669,13 +53674,12 @@
     "SearchAliases": [
       "Master Zhigong",
       "Zhigong",
-      "Baozhi",
-      "Zen Master Zhigong"
+      "Baozhi"
     ],
     "Status": "preferred",
-    "Note": "One person sense. Zhigong (誌公), Master Zhigong (誌公和尚), name the same figure in this corpus. Titles of works attributed to him are named works, not a second sense of the bare personal name.",
-    "CreatedBy": "Codex f002 Lane C author",
-    "WrittenUtc": "2026-07-15T02:23:02.970740+00:00"
+    "Note": "One personal-name sense. Four stronger witnesses replace the lamp-heavy baseline: three authored Chan works and one recorded discourse. Titles of works attributed to Zhigong do not create another sense of the bare name.",
+    "CreatedBy": "Codex Triple030 Sol author",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "認奴作郎",
@@ -54995,17 +54999,18 @@
   },
   {
     "SourceTerm": "賊身已露",
-    "PreferredTarget": "the culprit has already exposed himself",
+    "PreferredTarget": "the culprit has exposed himself",
     "AlternateTargets": [
-      "the thief's identity is already exposed"
+      "the thief has shown himself"
     ],
     "SearchAliases": [
-      "the culprit has already exposed himself"
+      "the culprit has exposed himself",
+      "the thief has shown himself"
     ],
     "Status": "preferred",
-    "Note": "Masters and capping commentators use the verdict when the exact utterer's attempted concealment, borrowed language, or premature move itself discloses the culprit.",
-    "CreatedBy": "Codex Iriya Lane B B085-B086 full-case author",
-    "WrittenUtc": "2026-07-18T12:01:00+00:00"
+    "Note": "Four independent Tier-2 deployment families use the phrase as a verdict: silence, borrowed language, a cough, or an eager response exposes the actor. The 'culprit' is encounter language, not necessarily an accusation of literal theft.",
+    "CreatedBy": "Codex Triple034 Sol author B",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "賊過張弓",
@@ -59340,20 +59345,16 @@
     "SourceTerm": "鐵牛",
     "PreferredTarget": "the Shaanfu Iron Ox",
     "AlternateTargets": [
-      "Shaanfu iron ox",
-      "iron ox of Shaanfu"
+      "Shaanfu's iron ox"
     ],
     "SearchAliases": [
       "Shaanfu Iron Ox",
-      "Shaanfu iron ox landmark",
-      "iron ox of Shaanfu",
-      "water the Shaanfu iron ox",
-      "Shaanfu ox"
+      "Shaanfu's iron ox"
     ],
     "Status": "preferred",
-    "Note": "The Shaanfu family appears throughout the concordance, but searches found no exact formula saying that the Shaanfu object itself was cast. The display therefore preserves the conventional name without supplying either 'cast' or 'landmark' as its definition. Repeated animations do not create additional senses.",
-    "CreatedBy": "Codex fresh f002 Lane A evidence-first",
-    "WrittenUtc": "2026-07-15T16:00:00Z"
+    "Note": "Provisional named Shaanfu figure supported by one Tier-2 recorded discourse. The supplied lamp unit does not expose its section master’s name, so that occurrence is rejected rather than admitted through a contradictory identity branch.",
+    "CreatedBy": "Codex Triple036 Sol author",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "鐵牛之機",
@@ -61848,15 +61849,18 @@
   },
   {
     "SourceTerm": "靠拄杖",
-    "PreferredTarget": "to lean on the staff",
-    "AlternateTargets": [],
+    "PreferredTarget": "lean on the staff",
+    "AlternateTargets": [
+      "rest against the staff"
+    ],
     "SearchAliases": [
-      "to lean on the staff"
+      "lean on the staff",
+      "rest against the staff"
     ],
     "Status": "preferred",
-    "Note": "6 distinct work IDs selected after complete-case actor review.",
-    "CreatedBy": "Codex f004 lane B complete-case author",
-    "WrittenUtc": "2026-07-15T10:38:49.311314+00:00"
+    "Note": "One physical teaching-seat action, attested in three stronger recorded-sayings works. The unresolved anonymous-master compilation witness is rejected; raising, striking, throwing, or setting down the staff are not pooled with 靠.",
+    "CreatedBy": "Codex Triple032 Sol author",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "面南看北斗",
@@ -62982,15 +62986,19 @@
   },
   {
     "SourceTerm": "飢不擇食",
-    "PreferredTarget": "when hungry, not choosing one’s food",
-    "AlternateTargets": [],
+    "PreferredTarget": "when hungry, one does not choose one's food",
+    "AlternateTargets": [
+      "hunger is not choosy",
+      "the hungry do not pick and choose"
+    ],
     "SearchAliases": [
-      "when hungry, not choosing one’s food"
+      "when hungry one does not choose food",
+      "hunger is not choosy"
     ],
     "Status": "preferred",
-    "Note": "House-style, Pang Yun, and preface uses test hunger’s indiscriminate uptake.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-19T18:00:29.296537Z"
+    "Note": "One proverbial image supported by two Tier-2 sources and one useful lamp encounter. A parallel compendium version of the Pang Yun encounter is rejected as same-family padding.",
+    "CreatedBy": "Codex Triple035 Sol author",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "飢來喫飯",
