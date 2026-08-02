@@ -48,12 +48,12 @@
     "PreferredTarget": "one, two, three, four, five, six, seven",
     "AlternateTargets": [],
     "SearchAliases": [
-      "one, two, three, four, five, six, seven"
+      "one through seven"
     ],
     "Status": "preferred",
-    "Note": "The numeral string remains an ordinary count inside each deployment; this entry does not assign a hidden symbolic value to seven.",
-    "CreatedBy": "Codex Iriya lane A101-110 full-case author",
-    "WrittenUtc": "2026-07-18T16:35:00Z"
+    "Note": "The phrase is the ordinary ascending count. Its placement in verses, tests, and calendar addresses does not establish a hidden symbolic value for seven.",
+    "CreatedBy": "Codex Sol lamp-source repair author",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "一人傳虚、萬人傳實",
@@ -1693,14 +1693,17 @@
   {
     "SourceTerm": "一箭落雙鵰",
     "PreferredTarget": "one arrow brings down two eagles",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "bring down two eagles with one arrow"
+    ],
     "SearchAliases": [
-      "one arrow brings down two eagles"
+      "one move handles two targets",
+      "one response catches both"
     ],
     "Status": "preferred",
-    "Note": "The image describes one move that simultaneously catches two targets.",
-    "CreatedBy": "Codex Iriya lane C101-110 full-case author",
-    "WrittenUtc": "2026-07-18T21:30:00Z"
+    "Note": "The image appraises one response or action in relation to two targets or strands. The records can affirm that appraisal, qualify it, or explicitly refuse to endorse it.",
+    "CreatedBy": "Codex Sol lamp-source repair author",
+    "WrittenUtc": "2026-08-02T12:00:00Z"
   },
   {
     "SourceTerm": "一箭過新羅",
@@ -4076,15 +4079,18 @@
   {
     "SourceTerm": "不會",
     "PreferredTarget": "do not understand",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "fail to understand"
+    ],
     "SearchAliases": [
       "do not understand",
+      "fail to understand",
       "不會"
     ],
     "Status": "preferred",
-    "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does. The three Gayashata rows preserve one lineage episode in separate works, and the two Cuiyan Kezhen rows preserve one comment in separate works; each repeated episode counts as one deployment.",
-    "CreatedBy": "Codex f003 Lane A full-case author",
-    "WrittenUtc": "2026-07-19T03:35:56.679037+00:00"
+    "Note": "This sense denies comprehension, whether 不會 stands as a complete answer or takes the matter understood from its context. Compact replies, accusations, warnings, and verse questions are uses of this same lexical job.",
+    "CreatedBy": "Sol lamp-heavy repair author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "不死不活句",
@@ -7432,21 +7438,18 @@
     "SourceTerm": "便喝",
     "PreferredTarget": "then shouted",
     "AlternateTargets": [
-      "thereupon shouted",
-      "immediately gave a shout",
-      "at once shouted"
+      "immediately shouted",
+      "at once gave a shout"
     ],
     "SearchAliases": [
       "shouted immediately",
-      "shouted at once",
       "gave an immediate shout",
-      "then yelled",
-      "thereupon yelled"
+      "then yelled"
     ],
     "Status": "preferred",
-    "Note": "10 exact evidence rows from 7 independent works are stored for this sense.",
-    "CreatedBy": "Codex fresh f001 lane A evidence-first",
-    "WrittenUtc": "2026-07-15T00:00:00Z"
+    "Note": "Six exact rows preserve distinct Deshan, Linji, Yushan, and Xinghua deployments, Yuanwu Keqin's active appraisal of the inherited Xinghua event, and one supplementary early lamp witness.",
+    "CreatedBy": "Codex Sol lamp-heavy repair author",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "便打",
@@ -10846,17 +10849,17 @@
   },
   {
     "SourceTerm": "前箭猶輕後箭深",
-    "PreferredTarget": "the first arrow was light, the later arrow goes deep",
+    "PreferredTarget": "the first arrow is still light; the later arrow is deep",
     "AlternateTargets": [
-      "the first arrow is still light; the later arrow goes deep"
+      "the first arrow was light; the later arrow goes deep"
     ],
     "SearchAliases": [
       "the deeper later arrow"
     ],
     "Status": "preferred",
-    "Note": "All ten packet cases were read; six work-distinct witnesses were retained for one two-arrow comparison used to rank consecutive sayings.",
-    "CreatedBy": "Codex cohort-002 lane-A 71-80 full-case author",
-    "WrittenUtc": "2026-07-18T23:33:51.531430Z"
+    "Note": "The arrow comparison ranks two successive sayings or actions by depth. Three independent recorded-sayings uses establish the sense; Nantang Jing's comment is retained as the single useful lamp witness.",
+    "CreatedBy": "Codex Sol lamp-source repair author",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "前言不應後語",
@@ -11264,14 +11267,18 @@
   {
     "SourceTerm": "劫火洞然",
     "PreferredTarget": "the aeon-ending fire blazes",
-    "AlternateTargets": [],
-    "SearchAliases": [
+    "AlternateTargets": [
+      "the aeon fire blazes",
       "the cosmic conflagration blazes"
     ],
+    "SearchAliases": [
+      "blazing aeon fire",
+      "aeon-ending conflagration"
+    ],
     "Status": "preferred",
-    "Note": "The inherited cosmic-conflagration phrase, including recensions of Dasui's case and independent verses.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T00:00:00Z"
+    "Note": "The retained evidence consists of Yuanwu Keqin's authored instruction, a question in Longmen's recorded sayings, and Zhongji Kezun's lamp-preserved verse.",
+    "CreatedBy": "Codex Sol lamp-source repair author",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "劫火洞然毫末盡",
@@ -11768,14 +11775,16 @@
   {
     "SourceTerm": "十方同聚會",
     "PreferredTarget": "the ten directions gather in one assembly",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "all directions gather together"
+    ],
     "SearchAliases": [
       "the ten directions gather in one assembly"
     ],
     "Status": "preferred",
-    "Note": "“The ten directions gather in one assembly” names total convergence, first as a saying and repeatedly as a line raised, quoted, or capped in later halls.",
-    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
-    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+    "Note": "The phrase is the opening of a four-line verse attributed in the transmitted record to Layman Pang Yun. Later records quote it, speak it in evening assemblies, and raise it as a monk's question.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple 004",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "十方無壁落、四面亦無門",
@@ -18709,15 +18718,20 @@
   },
   {
     "SourceTerm": "如何是人境兩俱奪",
-    "PreferredTarget": "what is taking away both person and environment?",
-    "AlternateTargets": [],
+    "PreferredTarget": "what is it when both person and environment are taken away?",
+    "AlternateTargets": [
+      "what is the taking away of both person and environment?"
+    ],
     "SearchAliases": [
-      "what is taking away both person and environment?"
+      "both person and environment taken away",
+      "taking away both person and environment",
+      "person and environment both removed",
+      "人境俱奪"
     ],
     "Status": "preferred",
-    "Note": "This public-interview question asks about the Linji pattern that removes both person and environment.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-21T00:30:00Z"
+    "Note": "This question is the third member of the recurrent four-part sequence: taking away the person but not the environment, taking away the environment but not the person, taking away both, and taking away neither. Four independent recorded-sayings deployments support the sense; one distinct lamp deployment is retained as the single useful lamp witness.",
+    "CreatedBy": "Codex Sol lamp-source repair author",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "如何是佛",
@@ -18887,9 +18901,9 @@
       "what is the place from which the buddhas emerge?"
     ],
     "Status": "preferred",
-    "Note": "A stable encounter question whose several answers do not create new senses.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T00:00:00Z"
+    "Note": "A recurring encounter question. Different answers and later reuses do not change what the question asks.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple005",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "如何是道",
@@ -24240,7 +24254,6 @@
       "to think over",
       "to calculate",
       "to deliberate",
-      "to figure out",
       "to reckon"
     ],
     "SearchAliases": [
@@ -24251,9 +24264,9 @@
       "figure out"
     ],
     "Status": "preferred",
-    "Note": "8 exact evidence rows from 6 independent works are stored for this sense.",
-    "CreatedBy": "Codex fresh f001 lane A evidence-first",
-    "WrittenUtc": "2026-07-15T00:00:00Z"
+    "Note": "Six exact evidence rows preserve six independent works: five Tier 1/2 deployment families and the earliest useful lamp recension of Yaoshan Weiyan's distinctive reply.",
+    "CreatedBy": "Codex fresh f001 lane A evidence-first; Sol lamp-source repair",
+    "WrittenUtc": "2026-08-01T00:00:00Z"
   },
   {
     "SourceTerm": "急急如律令",
@@ -40422,15 +40435,17 @@
   },
   {
     "SourceTerm": "猛虎不食伏肉",
-    "PreferredTarget": "a fierce tiger does not eat meat that lies down before it",
-    "AlternateTargets": [],
+    "PreferredTarget": "a fierce tiger does not eat meat that submits before it",
+    "AlternateTargets": [
+      "a fierce tiger does not eat prostrate prey"
+    ],
     "SearchAliases": [
-      "a fierce tiger does not eat meat that lies down before it"
+      "a fierce tiger refuses yielding prey"
     ],
     "Status": "preferred",
-    "Note": "A fierce tiger will not eat meat that throws itself down before it.",
-    "CreatedBy": "Codex cohort-002 lane-B B151-B160 author",
-    "WrittenUtc": "2026-07-19T12:00:00Z"
+    "Note": "The saying pictures a fierce tiger declining meat that lies prostrate before it. Gulin Qingmao and Tian'an Sheng pair it with a fine hawk not striking a dead rabbit; the exchanges place it after a monk says he knew the answer, after nobody comes forward, and after a monk says he has failed his teacher.",
+    "CreatedBy": "Codex Sol lamp-source repair author",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "猛虎不食其子",
@@ -41780,15 +41795,20 @@
   },
   {
     "SourceTerm": "當觀時節因緣",
-    "PreferredTarget": "observe the conditions of the time",
-    "AlternateTargets": [],
+    "PreferredTarget": "one should observe the time and conditions",
+    "AlternateTargets": [
+      "observe the time and conditions",
+      "attend to the occasion and its conditions"
+    ],
     "SearchAliases": [
-      "observe the conditions of the time"
+      "observe the conditions of the time",
+      "attend to timing and conditions",
+      "time and causal conditions"
     ],
     "Status": "preferred",
-    "Note": "This instruction says to attend to the occasion and its causal conditions.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-21T00:30:00Z"
+    "Note": "The formula directs attention to the present occasion and the conditions on which an event depends. The records apply it both to the arrival of an occasion in a Chan exchange and to the practical timing of an undertaking.",
+    "CreatedBy": "Codex Sol lamp-source repair author",
+    "WrittenUtc": "2026-08-02T12:00:00Z"
   },
   {
     "SourceTerm": "當觀第一義",
@@ -42506,14 +42526,17 @@
   {
     "SourceTerm": "百尺竿頭如何進步",
     "PreferredTarget": "how do you advance from the top of a hundred-foot pole?",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "how can you step forward from atop a hundred-foot pole?"
+    ],
     "SearchAliases": [
-      "how do you advance from the top of a hundred-foot pole?"
+      "advance from the hundred-foot pole",
+      "step forward from the pole top"
     ],
     "Status": "preferred",
-    "Note": "The question asks how one advances from the pole-top; the records preserve several different answers.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-21T00:30:00Z"
+    "Note": "A stable case question asks how to advance from an apparent endpoint; its different recorded answers do not create different senses.",
+    "CreatedBy": "Codex Sol lamp-source repair author",
+    "WrittenUtc": "2026-08-02T12:00:00Z"
   },
   {
     "SourceTerm": "百尺竿頭進步",
@@ -49722,12 +49745,12 @@
       "tongue pressed to the roof of the mouth"
     ],
     "SearchAliases": [
-      "tongue braced against the upper palate"
+      "hold one's tongue against the palate"
     ],
     "Status": "preferred",
-    "Note": "All ten packet cases were inspected; six work-distinct witnesses were retained for the recorded deployment range.",
-    "CreatedBy": "Codex cohort-002 lane-A rule-19 canary",
-    "WrittenUtc": "2026-07-18T23:43:27.044102Z"
+    "Note": "The same bodily configuration can name an actual rigid posture or serve as a terse image of speech brought to a stop; context decides its force.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple008",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "舌頭",
@@ -57122,18 +57145,18 @@
     "SourceTerm": "過在甚麼處",
     "PreferredTarget": "where does the fault lie?",
     "AlternateTargets": [
-      "where is the error?",
-      "what is at fault?"
+      "where is the fault?",
+      "where is the error?"
     ],
     "SearchAliases": [
       "where does the fault lie?",
-      "where is the error?",
-      "what is at fault?"
+      "where is the fault?",
+      "where is the error?"
     ],
     "Status": "preferred",
-    "Note": "The question turns criticism into a live test: naming that there is a fault is insufficient unless the respondent can show where it is. The sense has 8 exact occurrences in 8 independent works.",
-    "CreatedBy": "Codex non-Iriya ACCEPT 001-031 author",
-    "WrittenUtc": "2026-07-19T13:41:07.848387+00:00"
+    "Note": "Where does the fault lie? asks the hearer to locate an alleged error rather than merely accept that an error has been declared.",
+    "CreatedBy": "Sol lamp-heavy repair triple003 author",
+    "WrittenUtc": "2026-08-02T00:55:00Z"
   },
   {
     "SourceTerm": "過水睹影",
@@ -57470,20 +57493,18 @@
   },
   {
     "SourceTerm": "選佛場",
-    "PreferredTarget": "the arena for selecting buddhas",
+    "PreferredTarget": "buddha-selection ground",
     "AlternateTargets": [
-      "buddha-selection arena",
-      "place where buddhas are selected"
+      "arena for selecting buddhas",
+      "buddha-selection arena"
     ],
     "SearchAliases": [
-      "the arena for selecting buddhas",
-      "buddha-selection arena",
       "place where buddhas are selected"
     ],
     "Status": "preferred",
-    "Note": "6 exact witnesses from 6 distinct canonical works.",
-    "CreatedBy": "Codex construction Lane B fresh author",
-    "WrittenUtc": "2026-07-17T05:48:00.115946+00:00"
+    "Note": "Three authored or recorded-sayings deployments establish the sense. An appended Jingshan petition adds an explicit monastery application, and one historical lamp preserves Kaisheng Qi's distinct opening encounter.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple008",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "還丹一粒，點鐵成金",
@@ -57826,14 +57847,16 @@
   {
     "SourceTerm": "釋迦彌勒猶是他奴",
     "PreferredTarget": "Shakyamuni and Maitreya are still his servants",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "even Shakyamuni and Maitreya are his servants"
+    ],
     "SearchAliases": [
-      "Shakyamuni and Maitreya remain his servants"
+      "who is he whom Shakyamuni and Maitreya serve?"
     ],
     "Status": "preferred",
-    "Note": "The inherited question opens with this declaration and then asks who he is; later raisers do not become its original speaker.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T00:00:00Z"
+    "Note": "This is the fixed opening of an inherited testing question. The pronoun 他 is deliberately left unidentified: the records ask who he is and test any attempt to supply a name.",
+    "CreatedBy": "Codex Sol lamp-source repair author",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "釋迦掩室，淨名杜口",
@@ -62481,20 +62504,18 @@
     "PreferredTarget": "put another head atop one's head",
     "AlternateTargets": [
       "add a head on top of the head",
-      "set a head upon one's head",
-      "head-on-head addition"
+      "set a head upon one's head"
     ],
     "SearchAliases": [
       "put a head atop the head",
       "add another head",
       "head upon head",
-      "unnecessary addition",
-      "put another head atop one's head"
+      "unnecessary addition"
     ],
     "Status": "preferred",
-    "Note": "The phrase is productive in binary naming tests: calling an object a staff may be \"putting another head atop one's head,\" while denying it is a staff may be \"cutting off the head to seek life\" (斬頭覓活). Saying \"mind itself is Buddha\" (即心是佛) is likewise compared to putting another head atop one's head, while saying \"neither mind nor Buddha\" (非心非佛) is compared to losing the head and recognizing its shadow (迷頭認影). One community address explicitly lists \"do not put another head atop your head\" (不得頭上安頭) as the fourth of four ailments, after seeking another's spittle along the road, driving a stake while rocking an oar, and cutting off the head to seek life. The term names none of those other expressions; their value here is the corpus's own contrast set.",
-    "CreatedBy": "Codex legacy full rebuild Lane B",
-    "WrittenUtc": "2026-07-16T18:11:05.069981+00:00"
+    "Note": "The phrase marks a redundant addition: naming what is presented, adding an attainment or method, or supplying one more conceptual construction. Shengke pairs it with 斬頭覓活, while Yinyuan uses the related but distinct wording 離頭覓活; both alternatives describe denying what is present in order to seek life elsewhere.",
+    "CreatedBy": "Codex Sol lamp-source repair author",
+    "WrittenUtc": "2026-08-02T00:55:00Z"
   },
   {
     "SourceTerm": "頭上漫漫、脚下漫漫",
@@ -64461,9 +64482,9 @@
       "make a livelihood inside a ghost cave"
     ],
     "Status": "preferred",
-    "Note": "Two hundred twelve exact hits occur in 103 frozen works. Seven independent records preserve criticism of formulation, silence, hesitation, mental calculation, and inherited imagery.",
-    "CreatedBy": "Codex f005 lane A author",
-    "WrittenUtc": "2026-07-20T00:00:00Z"
+    "Note": "The frozen corpus has 212 exact hits in 103 works. Four independent Tier-1/2 families establish the sense; the Xuansha exchange is retained as the single useful lamp witness.",
+    "CreatedBy": "Sol lamp-repair semantic author",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "鬼號神泣",
