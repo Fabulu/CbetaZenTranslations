@@ -2968,16 +2968,13 @@
       "the three realms are only mind"
     ],
     "SearchAliases": [
-      "three realms are mind-only",
-      "three worlds are mind-only",
-      "three realms are only mind",
-      "all three realms are mind",
-      "three realms and consciousness-only"
+      "three realms mind only",
+      "all three realms are mind"
     ],
     "Status": "preferred",
-    "Note": "Assertion, quotation, commentary, and public testing are deployments of one proposition, not different things. The paired consciousness-only formula and the continuation of the chair exchange are related evidence, but the six exact-headword witnesses across five source texts meet depth and spread independently. Frozen-corpus concordance: 290 exact hits in 102 storage files representing 98 independent works.",
-    "CreatedBy": "Codex f002 Lane B evidence-first refresh",
-    "WrittenUtc": "2026-07-19T03:23:22.023942+00:00"
+    "Note": "The retained records present a received proposition, pair it with 萬法唯識, quote the Tathagata through Wonhyo after Wonhyo’s own skull-water realization, and test the proposition against a courtyard stone and the working of the senses. The entry translates that attested proposition without importing a doctrinal system or claiming that every speaker accepts the same explanation. All four witnesses are Tier 1 or Tier 2; no lamp is retained.",
+    "CreatedBy": "Sol semantic author, lamp-heavy Triple029",
+    "WrittenUtc": "2026-08-02T08:00:00Z"
   },
   {
     "SourceTerm": "三界唯心，萬法唯識",
@@ -7723,14 +7720,18 @@
   {
     "SourceTerm": "倚天長劍",
     "PreferredTarget": "a long sword reaching the sky",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "a sky-reaching long sword"
+    ],
     "SearchAliases": [
-      "a long sword reaching the sky"
+      "long sword reaching the sky",
+      "sky-reaching sword",
+      "sword towering to heaven"
     ],
     "Status": "preferred",
-    "Note": "A long sword reaching the sky figures an uncompromising action or utterance that cuts through entanglement.",
-    "CreatedBy": "Codex B099-B100 full-case author",
-    "WrittenUtc": "2026-07-18T12:44:54.772158+00:00"
+    "Note": "The phrase names an outsized sword image. Wuyi Yuanlai compares one present thought to it and discusses its edge and dulling; Yuanwu Keqin speaks of its stern power; Yulin Tongxiu raises his staff and says the sword chills the person before him; Lianfeng Su imagines a person gripping it and cutting eighty-one fascicles of tangled vines like one skein. The sole retained lamp preserves Ganlu Deyong’s active comparison and criticism of Deshan’s blow.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple022",
+    "WrittenUtc": "2026-08-02T05:45:00Z"
   },
   {
     "SourceTerm": "倚天長劍逼人寒",
@@ -19561,19 +19562,19 @@
   },
   {
     "SourceTerm": "學佛",
-    "PreferredTarget": "to study or learn the Buddha-way",
+    "PreferredTarget": "to study Buddha's teaching",
     "AlternateTargets": [
-      "to undertake Buddhist training",
-      "to learn awakening"
+      "to study Buddha's teaching",
+      "to learn from Buddha"
     ],
     "SearchAliases": [
-      "to study or learn the Buddha-way",
-      "to undertake Buddhist training"
+      "learner of Buddha's teaching",
+      "studying Buddha's teaching"
     ],
     "Status": "preferred",
-    "Note": "The expression names undertaking Buddhist learning or cultivation. The object marks the path or model being learned; it does not mean treating a buddha as an academic topic in every case.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T10:20:00Z"
+    "Note": "The expression names studying Buddha’s teaching. Particular masters may criticize ways of doing so; those criticisms do not by themselves define every occurrence.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple022",
+    "WrittenUtc": "2026-08-02T08:05:00Z"
   },
   {
     "SourceTerm": "學廣語聲低",
@@ -27145,14 +27146,18 @@
   {
     "SourceTerm": "按牛頭喫草",
     "PreferredTarget": "to press an ox’s head down to make it eat grass",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "to force an ox’s head to the grass"
+    ],
     "SearchAliases": [
-      "to press an ox’s head down to make it eat grass"
+      "press an ox's head to eat grass",
+      "force the ox to eat grass",
+      "forcing compliance"
     ],
     "Status": "preferred",
-    "Note": "The phrase records coercion, not an agricultural recommendation.",
-    "CreatedBy": "Codex Iriya lane B151-160 full-case author",
-    "WrittenUtc": "2026-07-20T00:00:00Z"
+    "Note": "The phrase pictures forcing compliance. Liangting Jingting applies it to an imposed explanatory arrangement, Xueqiao Yuanxin says it cannot produce another person’s assent, and the sole retained lamp records Youyun Zongmou denying that he receives people this way.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple025",
+    "WrittenUtc": "2026-08-02T06:15:00Z"
   },
   {
     "SourceTerm": "挑囊負鉢",
@@ -29099,15 +29104,17 @@
   },
   {
     "SourceTerm": "放光動地",
-    "PreferredTarget": "to emit light and shake the earth",
-    "AlternateTargets": [],
+    "PreferredTarget": "emit light and shake the earth",
+    "AlternateTargets": [
+      "shine and make the earth move"
+    ],
     "SearchAliases": [
-      "to emit light and shake the earth"
+      "emit radiance and shake the earth"
     ],
     "Status": "preferred",
-    "Note": "Emitting light and shaking the earth is the old cosmic display, but masters also bring the formula down onto ordinary activity and test whether such display proves anything.",
-    "CreatedBy": "Codex c104 second-review bounded repair rows 32-62",
-    "WrittenUtc": "2026-07-19T15:05:49.520919+00:00"
+    "Note": "The compound pairs two stock signs of a cosmic or miraculous display. The retained records also predicate it of a staff, travelling monks, all kinds of people and living creatures, and transformations whose display Yuanwu Keqin declines to treat as requiring even the word ‘done.’ No lamp witness is needed.",
+    "CreatedBy": "Sol semantic author, lamp-heavy Triple023",
+    "WrittenUtc": "2026-08-02T06:10:00Z"
   },
   {
     "SourceTerm": "放大光明",
@@ -32678,22 +32685,18 @@
   },
   {
     "SourceTerm": "東山水上行",
-    "PreferredTarget": "Yunmen's ‘East Mountain walks on water’ saying",
+    "PreferredTarget": "East Mountain walks on water",
     "AlternateTargets": [
-      "East Mountain walks on water",
       "the East Mountain walks upon the water"
     ],
     "SearchAliases": [
-      "Yunmen East Mountain saying",
-      "East Mountain walks on water case",
-      "where do the buddhas emerge",
-      "Yunmen's mountain-on-water answer",
-      "East Mountain on the water"
+      "Yunmen's East Mountain saying",
+      "East Mountain walks on water case"
     ],
     "Status": "preferred",
-    "Note": "One corpus-wide sense: Yunmen's fixed answer and the later named case-saying are the same lexical object, not different things. The displayed target identifies that lexical object before preserving the translated sentence; it does not claim that ‘Yunmen's saying’ is a second sense. The Zen-specific bend is the sentence's repeated reuse as a question, quoted answer, case heading, and verse subject in public interviews and commentary. No material, symbolic, teaching-specific, or psychological interpretation of the image is added without an in-corpus predicate.",
-    "CreatedBy": "Codex fresh f002 Lane A evidence-first",
-    "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
+    "Note": "One corpus-wide sense covers Yunmen's answer and its later use as a case-saying. Literally, East Mountain (東山) walks or goes (行) upon the water (水上).",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple021",
+    "WrittenUtc": "2026-08-02T05:42:00Z"
   },
   {
     "SourceTerm": "東山西嶺青",
@@ -33683,15 +33686,17 @@
     "SourceTerm": "楞伽經",
     "PreferredTarget": "Laṅkāvatāra Sutra",
     "AlternateTargets": [
-      "Lankavatara Sutra"
+      "Lankavatara Sutra",
+      "Scripture on Entering Laṅkā"
     ],
     "SearchAliases": [
-      "Lankavatara Sutra"
+      "Lankavatara Sutra",
+      "Lanka Sutra"
     ],
     "Status": "preferred",
-    "Note": "The retained cases distinguish a cited scripture, biographical reports of reading it, and accounts of Bodhidharma transmitting it; those different speech layers do not create different title senses.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-20T22:00:00Z"
+    "Note": "The full graph names the scripture. Context determines whether a passage reports reading it, cites it directly, or comments on its use.",
+    "CreatedBy": "Sol author, lamp-heavy active triple020",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "楪子成七片",
@@ -40768,18 +40773,20 @@
     "SourceTerm": "玄機",
     "PreferredTarget": "subtle workings",
     "AlternateTargets": [
+      "subtle working",
       "hidden pivot",
       "subtle mechanism"
     ],
     "SearchAliases": [
       "subtle workings",
+      "subtle working",
       "hidden pivot",
       "subtle mechanism"
     ],
     "Status": "preferred",
-    "Note": "The personal name Xuanji, borne by a nun in lamp biography, is a homonym and is excluded: lineage figures belong on the roster of named lineage figures, not in this lexical sense.",
-    "CreatedBy": "Codex f002 Lane B evidence-first refresh",
-    "WrittenUtc": "2026-07-13T12:00:00Z"
+    "Note": "The compound names an incisive or hard-to-grasp working disclosed in Chan speech and action. Context determines whether it is displayed, surpassed, shared, or said to cut off other currents. The personal name Xuanji, borne by a nun in lamp biography, is a homonym and is excluded from this lexical sense.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple024",
+    "WrittenUtc": "2026-08-02T04:15:00Z"
   },
   {
     "SourceTerm": "玄路",
@@ -46877,16 +46884,19 @@
   },
   {
     "SourceTerm": "箭過新羅",
-    "PreferredTarget": "the arrow has already passed Silla",
-    "AlternateTargets": [],
+    "PreferredTarget": "the arrow has already flown past Silla",
+    "AlternateTargets": [
+      "the arrow is already beyond Silla"
+    ],
     "SearchAliases": [
       "arrow past Silla",
-      "too late arrow"
+      "already gone far beyond",
+      "missed while deliberating"
     ],
     "Status": "preferred",
-    "Note": "The arrow has already passed Silla: the retained cases use the distant flight as an image of something already far beyond the present point. Shouzhi follows a pause with the warning; Yunmen fires it as an urgent saying; a verse looks skyward after the shot; Yingfu answers a comparison of two Chan categories with it.",
-    "CreatedBy": "Codex A31-40 strict author",
-    "WrittenUtc": "2026-07-19T09:00:00Z"
+    "Note": "The geographical image marks extreme distance after rapid flight. Yunmen uses it as an urgent reply, Xuefeng Huikong places it at a midnight turn and then questions repeating the phrase, and Cuiyan Shouzhi explicitly places further deliberation before the arrow's arrival beyond Silla. Two Tier 2 witnesses control the article; one active, semantically clarifying lamp witness remains, without parallel lamp padding.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple021",
+    "WrittenUtc": "2026-08-02T05:38:00Z"
   },
   {
     "SourceTerm": "箭鋒相拄",
@@ -49320,12 +49330,13 @@
       "the shout of Linji"
     ],
     "SearchAliases": [
-      "Linji's shout"
+      "Linji's shout",
+      "the shout of Linji"
     ],
     "Status": "preferred",
-    "Note": "Wave-plan frequency: 410; related-entry counts report roughly 442 hits in 155 allowlist texts. Family comparison with the shout (喝), the staff or blow (棒), Deshan's staff (德山棒), and staff-and-shout (棒喝) confirms a genuinely Linji-specific named phrase, hence MasterName is set. The physical vocal act and the inherited label refer to the same named shout, not two things.",
-    "CreatedBy": "Codex fresh f002 Lane A evidence-first",
-    "WrittenUtc": "2026-07-15T03:45:30.586880+00:00"
+    "Note": "The compound names Linji's shout as an inherited device. In these later uses Linji is the person associated with the device, not the speaker of the headword-bearing passage; praise or criticism comes from the surrounding statement.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple025",
+    "WrittenUtc": "2026-08-02T04:10:00Z"
   },
   {
     "SourceTerm": "臨濟四喝",
@@ -49818,15 +49829,18 @@
   },
   {
     "SourceTerm": "舌頭落地",
-    "PreferredTarget": "one’s tongue falling to the ground",
-    "AlternateTargets": [],
+    "PreferredTarget": "one’s tongue falls to the ground",
+    "AlternateTargets": [
+      "the tongue drops to the ground"
+    ],
     "SearchAliases": [
-      "one’s tongue falling to the ground"
+      "speech brought to failure",
+      "left unable to speak"
     ],
     "Status": "preferred",
-    "Note": "The four cases make the fallen tongue a limit or failure of speech.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-19T18:00:16.989151Z"
+    "Note": "The bodily picture marks speech disabled, exhausted, or made untenable. Two independent recorded-sayings uses and the earliest useful witness of Yaoshan Yisu’s case support the sense. The Jingde lamp repeats that Yaoshan case and is omitted as a parallel recension rather than used to pad the article.",
+    "CreatedBy": "Sol semantic author, lamp-heavy Triple029",
+    "WrittenUtc": "2026-08-02T07:25:00Z"
   },
   {
     "SourceTerm": "舌頭談而不談",
@@ -52107,20 +52121,16 @@
   {
     "SourceTerm": "袈裟",
     "PreferredTarget": "monastic robe",
-    "AlternateTargets": [
-      "kasaya robe"
-    ],
+    "AlternateTargets": [],
     "SearchAliases": [
-      "monastic robe",
-      "patched robe",
       "kasaya",
-      "robe of the monastic",
-      "Chan robe"
+      "patched robe",
+      "monk's robe"
     ],
     "Status": "preferred",
-    "Note": "Six body witnesses delimit the physical monastic robe in speech, gift, verse, and narrated action; a contents row is excluded.",
-    "CreatedBy": "Codex Lane C independent-review repair",
-    "WrittenUtc": "2026-07-17T03:30:00Z"
+    "Note": "The retained Tier-1 sources treat the term as a physical monastic robe: it can be displayed, wrapped around the head, or worn backward. No lamp witness is needed. The old T48n2023 occurrence is excluded because that file has no registered Zen source authority.",
+    "CreatedBy": "Sol semantic author, lamp-heavy Triple025",
+    "WrittenUtc": "2026-08-02T06:25:00Z"
   },
   {
     "SourceTerm": "袖裏金鎚",
@@ -52620,20 +52630,15 @@
     "SourceTerm": "見解",
     "PreferredTarget": "understanding",
     "AlternateTargets": [
-      "view",
-      "interpretive grasp"
+      "view"
     ],
     "SearchAliases": [
-      "understanding",
-      "viewpoint",
-      "interpretation",
-      "way of understanding",
-      "comprehension"
+      "interpretive grasp"
     ],
     "Status": "preferred",
-    "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
-    "CreatedBy": "Codex f003 Lane C evidence-first",
-    "WrittenUtc": "2026-07-15T06:55:28.173422+00:00"
+    "Note": "Understanding here is something a person holds, presents, or calculates with; the records can demand that it be clear, distinguish it from seeing the way, or reject its presentation. The Fayan–Luohan Guichen biography is the sole supplementary lamp and does not contribute to the multi-source verdict.",
+    "CreatedBy": "Sol semantic author, lamp-heavy Triple021",
+    "WrittenUtc": "2026-08-02T05:39:00Z"
   },
   {
     "SourceTerm": "見跡",
@@ -53347,18 +53352,19 @@
     "SourceTerm": "言句",
     "PreferredTarget": "words and phrases",
     "AlternateTargets": [
-      "verbal expressions"
+      "verbal formulations",
+      "wording"
     ],
     "SearchAliases": [
       "words and phrases",
-      "sayings",
       "verbal formulations",
-      "speech expressions"
+      "wording",
+      "sayings"
     ],
     "Status": "preferred",
-    "Note": "8 reviewed witnesses delimit this sense.",
-    "CreatedBy": "Codex f003 Lane B evidence-first",
-    "WrittenUtc": "2026-07-15T05:39:11.769687+00:00"
+    "Note": "The compound names articulated wording. It is not intrinsically praise or blame: surrounding predicates determine whether words and phrases are treated as communicative, appraised, or penetrated.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple020",
+    "WrittenUtc": "2026-08-02T03:34:13Z"
   },
   {
     "SourceTerm": "言滿天下無口過",
@@ -54657,13 +54663,12 @@
     "SearchAliases": [
       "Fenggan",
       "Feng-kan",
-      "Tiantai Fenggan",
-      "Fenggan Hanshan Shide"
+      "Tiantai Fenggan"
     ],
     "Status": "preferred",
-    "Note": "Six witnesses span lamp biography, inherited case, public question, compiler narration, and a later portrait verse.",
-    "CreatedBy": "Codex f004 lane B bulk evidence-first author",
-    "WrittenUtc": "2026-07-15T10:28:15.689574+00:00"
+    "Note": "豐干 is a personal name in these witnesses. The person named is discussed or invoked; the headword does not assign the surrounding verse, address, or question to Fenggan's own voice. The Jingde biography is retained as one supplementary lamp identifying him with Tiantai and Guoqing monastery, but it does not contribute to multi-source validation.",
+    "CreatedBy": "Sol Triple020 frozen-context author",
+    "WrittenUtc": "2026-08-02T00:00:00Z"
   },
   {
     "SourceTerm": "象王",
@@ -56888,19 +56893,15 @@
     "PreferredTarget": "meet a buddha, kill the buddha",
     "AlternateTargets": [
       "on meeting a buddha, kill the buddha",
-      "when you meet a buddha, kill the buddha",
-      "encountering a buddha, kill the buddha"
+      "when you meet a buddha, kill the buddha"
     ],
     "SearchAliases": [
-      "on meeting a buddha, kill the buddha",
-      "when you meet a buddha, kill the buddha",
-      "encountering a buddha, kill the buddha",
-      "meet a buddha, kill the buddha"
+      "encountering a buddha kill the buddha"
     ],
     "Status": "preferred",
-    "Note": "4 exact evidence rows from 4 independent works are stored for this sense; repeated files or editions are not counted as separate works.",
-    "CreatedBy": "Codex fresh f001 lane A evidence-first",
-    "WrittenUtc": "2026-07-15T00:00:00Z"
+    "Note": "Linji Yixuan's two records preserve the same address. Lingrui Fu independently uses the paired formula as an answer about the vajra king's sword, and Huigong Kaixiong raises Jingyin Facheng's use to question what remains to be killed when there is neither buddha nor ancestor.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple022",
+    "WrittenUtc": "2026-08-02T06:08:00Z"
   },
   {
     "SourceTerm": "逢佛殺佛、逢祖殺祖",
@@ -58488,21 +58489,20 @@
   },
   {
     "SourceTerm": "金翅鳥",
-    "PreferredTarget": "the dragon-taking golden-winged bird",
+    "PreferredTarget": "golden-winged bird",
     "AlternateTargets": [
-      "the golden-winged bird",
-      "the gold-winged bird"
+      "gold-winged bird",
+      "dragon-taking golden-winged bird"
     ],
     "SearchAliases": [
-      "golden winged bird",
-      "gold winged bird",
-      "dragon taking bird",
-      "dragon swallowing bird"
+      "golden-winged bird",
+      "gold-winged bird",
+      "dragon-taking bird"
     ],
     "Status": "preferred",
-    "Note": "Exact XML count: 116 hits in 64 allowlisted texts. The bird-king form appears 50 times in 41 texts. The inherited dragon-taking lead is retained, but its phrase 'one power nothing escapes' is rejected because no stored definition or predicate establishes that universal claim. Modifier verdict: conventional-name | unresolved. The compound calls the creature 'gold-winged,' but the harvested Chan passages do not establish solid-gold construction, supply a separate color predicate, or equate gold here with enlightenment. The English 'golden-winged' retains the established name without asserting solid-gold construction or symbolism. The inherited equation with the phonetic name garuda is also not promoted: both strings occur in the allowlist, but the researched anchors do not equate them.",
-    "CreatedBy": "Codex f002 Lane C worksheet-first author",
-    "WrittenUtc": null
+    "Note": "Literally, the compound names a gold-winged bird. The retained Chan evidence establishes the conventional creature through its flight and its characteristic sea-splitting, dragon-taking action; it does not establish a separate abstract meaning or license an imported mythological identity as the definition.",
+    "CreatedBy": "Sol semantic author, lamp-heavy active triple024",
+    "WrittenUtc": "2026-08-02T04:03:06Z"
   },
   {
     "SourceTerm": "金鍮不辨",
@@ -58786,16 +58786,18 @@
   },
   {
     "SourceTerm": "鉢盂",
-    "PreferredTarget": "the alms bowl",
-    "AlternateTargets": [],
+    "PreferredTarget": "alms bowl",
+    "AlternateTargets": [
+      "monastic food bowl"
+    ],
     "SearchAliases": [
-      "the alms bowl",
-      "鉢盂"
+      "bowl",
+      "begging bowl"
     ],
     "Status": "preferred",
-    "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
-    "CreatedBy": "Codex f003 Lane A full-case author",
-    "WrittenUtc": "2026-07-15T04:49:07.954968+00:00"
+    "Note": "The referent is the monk’s concrete food bowl. The retained higher-tier passages make it a measure of limited capacity, attach an impossible handle to it, remove its utensils, or use its black surface as an image; those uses do not create additional referents. No lamp is retained.",
+    "CreatedBy": "Sol semantic author, lamp-heavy Triple028",
+    "WrittenUtc": "2026-08-02T07:00:00Z"
   },
   {
     "SourceTerm": "鉢裏飯、桶裏水",
@@ -59973,17 +59975,16 @@
     "SourceTerm": "開山",
     "PreferredTarget": "found a monastery",
     "AlternateTargets": [
-      "open a monastery"
+      "establish a monastery"
     ],
     "SearchAliases": [
-      "found a monastery",
-      "establish a monastery",
-      "open a monastic seat"
+      "open a monastery",
+      "monastery foundation"
     ],
     "Status": "preferred",
-    "Note": "Five stored witnesses delimit this verbal sense; two further witnesses below delimit the different person-title sense.",
-    "CreatedBy": "Codex f003 Lane B evidence-first",
-    "WrittenUtc": "2026-07-15T05:25:13.412805+00:00"
+    "Note": "This verbal sense names establishing a monastic seat and beginning its institutional life. Three independent authored or recorded-sayings witnesses support it; no lamp is retained.",
+    "CreatedBy": "Sol semantic author, lamp-heavy Triple028",
+    "WrittenUtc": "2026-08-02T07:12:00Z"
   },
   {
     "SourceTerm": "開悟",
@@ -64645,14 +64646,17 @@
   {
     "SourceTerm": "鰕跳不出斗",
     "PreferredTarget": "a shrimp cannot jump out of the dipper",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "the shrimp cannot jump free of the dipper"
+    ],
     "SearchAliases": [
-      "a shrimp cannot jump out of the dipper"
+      "unable to escape the dipper",
+      "a shrimp trapped in the dipper"
     ],
     "Status": "preferred",
-    "Note": "The saying presents confinement through the image of a shrimp unable to escape its dipper.",
-    "CreatedBy": "Codex Iriya lane C91-100 full-case author",
-    "WrittenUtc": "2026-07-18T20:30:00Z"
+    "Note": "The literal picture is a shrimp jumping inside a dipper without clearing its rim. Yunmen’s two records preserve one use rather than two independent uses; Gulin Qingmao and senior monk Ying provide separate later uses. All four retained witnesses are from recorded sayings or discourse records, so no lamp witness is needed.",
+    "CreatedBy": "Sol semantic author, lamp-heavy Triple028",
+    "WrittenUtc": "2026-08-02T06:35:00Z"
   },
   {
     "SourceTerm": "鳥嘴魚顋",
