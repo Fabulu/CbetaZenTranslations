@@ -42,3 +42,13 @@ obj/
 # --- Local generated reference TM ---
 translation-memory.reference.jsonl
 xml-p5t-safety-backup/
+
+# ── Published index artifacts the WEBSITE depends on ─────────────────────
+# The blanket *index* rule above was written for SEARCH indexes. It has been
+# silently swallowing every published index the site fetches -- which is why the
+# front page's community section has been invisible since launch (it 404s on
+# community/INDEX.json and hides itself) and why master pages had to guess their
+# shard filenames. These are data, not caches. Keep them.
+!termbase.index.json
+!community/INDEX.json
+!corpus/masters/_index.json
