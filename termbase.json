@@ -25,9 +25,9 @@
       "one fails, two is wrong"
     ],
     "Status": "preferred",
-    "Note": "Two independent recorded-sayings sources carry the pair: Yunmen uses it to answer a question about the transmission outside the three vehicles, and Jinsu Zhi sets it in a verse; the pair also appears in transmission-record recensions.",
-    "CreatedBy": "Terra Luna178 r2 source-hierarchy and actor-boundary repair",
-    "WrittenUtc": "2026-08-09T12:53:09Z"
+    "Note": "Fresh C52 construction from exact complete cases; bridged discovery 64 hits across 36 works; exact apparatus-clean frequency is compiled by the depth gate.",
+    "CreatedBy": "Codex fresh semantic author lane C repair",
+    "WrittenUtc": "2026-07-18T10:04:34.216581Z"
   },
   {
     "SourceTerm": "一不成，二不是",
@@ -39,9 +39,9 @@
       "one fails, two is wrong"
     ],
     "Status": "preferred",
-    "Note": "Fresh C52 construction from exact complete cases; bridged discovery 64 hits across 36 works; exact apparatus-clean frequency is compiled by the depth gate.",
-    "CreatedBy": "Codex fresh semantic author lane C repair",
-    "WrittenUtc": "2026-07-18T10:04:34.216581Z"
+    "Note": "Two independent recorded-sayings sources carry the pair: Yunmen uses it to answer a question about the transmission outside the three vehicles, and Jinsu Zhi sets it in a verse; the pair also appears in transmission-record recensions.",
+    "CreatedBy": "Terra Luna178 r2 source-hierarchy and actor-boundary repair",
+    "WrittenUtc": "2026-08-09T12:53:09Z"
   },
   {
     "SourceTerm": "一二三四五六七",
@@ -4284,21 +4284,6 @@
   },
   {
     "SourceTerm": "不許夜行，投明須到",
-    "PreferredTarget": "night travel is forbidden; you must arrive at daybreak",
-    "AlternateTargets": [
-      "do not travel by night; arrive when day breaks"
-    ],
-    "SearchAliases": [
-      "night travel is forbidden; you must arrive at daybreak",
-      "do not travel by night; arrive when day breaks"
-    ],
-    "Status": "preferred",
-    "Note": "The records deploy the complete travel rule in different settings; do not turn daybreak into one fixed doctrinal referent.",
-    "CreatedBy": "Codex lamp repair cohort006 lane B",
-    "WrittenUtc": "2026-07-29T06:57:14.088669Z"
-  },
-  {
-    "SourceTerm": "不許夜行，投明須到",
     "PreferredTarget": "the night-travel and dawn-arrival rule",
     "AlternateTargets": [
       "night travel is not permitted, with arrival required at daybreak"
@@ -4311,6 +4296,21 @@
     "Note": "Fengxue Yanzhao gives the pair as a direct answer; Touzi Datong’s answer is raised in later records; other masters and questioners quote the complete pair as a fixed rule. Exact-turn review keeps quotations and record headings separate.",
     "CreatedBy": "iriya-construction-001 lane B",
     "WrittenUtc": "2026-07-18T08:15:50.699929Z"
+  },
+  {
+    "SourceTerm": "不許夜行，投明須到",
+    "PreferredTarget": "night travel is forbidden; you must arrive at daybreak",
+    "AlternateTargets": [
+      "do not travel by night; arrive when day breaks"
+    ],
+    "SearchAliases": [
+      "night travel is forbidden; you must arrive at daybreak",
+      "do not travel by night; arrive when day breaks"
+    ],
+    "Status": "preferred",
+    "Note": "The records deploy the complete travel rule in different settings; do not turn daybreak into one fixed doctrinal referent.",
+    "CreatedBy": "Codex lamp repair cohort006 lane B",
+    "WrittenUtc": "2026-07-29T06:57:14.088669Z"
   },
   {
     "SourceTerm": "不識",
@@ -23710,6 +23710,20 @@
   },
   {
     "SourceTerm": "心不負人，面無慙色",
+    "PreferredTarget": "the heart has failed no one and the face bears no shame",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "clear conscience",
+      "face without shame",
+      "heart fails no one"
+    ],
+    "Status": "preferred",
+    "Note": "The cited works use the paired line after a probing question, an expulsion case, a visitor’s question, and Nanquan’s broken-pot case.",
+    "CreatedBy": "author_from_packet",
+    "WrittenUtc": "2026-07-19T13:47:01.744651Z"
+  },
+  {
+    "SourceTerm": "心不負人，面無慙色",
     "PreferredTarget": "a heart that has failed no one, a face without shame",
     "AlternateTargets": [
       "clear of blame and unashamed"
@@ -23721,20 +23735,6 @@
     ],
     "Status": "preferred",
     "Note": "The two appraisals concern different cases and are preserved in separate discourse works.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-19T13:47:01.744651Z"
-  },
-  {
-    "SourceTerm": "心不負人，面無慙色",
-    "PreferredTarget": "the heart has failed no one and the face bears no shame",
-    "AlternateTargets": [],
-    "SearchAliases": [
-      "clear conscience",
-      "face without shame",
-      "heart fails no one"
-    ],
-    "Status": "preferred",
-    "Note": "The cited works use the paired line after a probing question, an expulsion case, a visitor’s question, and Nanquan’s broken-pot case.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T13:47:01.744651Z"
   },
@@ -32944,6 +32944,18 @@
   },
   {
     "SourceTerm": "東西不辨，南北不分",
+    "PreferredTarget": "unable to distinguish east from west or divide north from south",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "unable to distinguish east from west or divide north from south"
+    ],
+    "Status": "preferred",
+    "Note": "Ordinary disorientation becomes both an answer and a critical diagnosis inside public questioning.",
+    "CreatedBy": "Codex cohort-002 lane-A 121-130 full-case author",
+    "WrittenUtc": "2026-07-19T05:03:44.848496Z"
+  },
+  {
+    "SourceTerm": "東西不辨，南北不分",
     "PreferredTarget": "unable to distinguish east from west or north from south",
     "AlternateTargets": [
       "unable to tell one direction from another",
@@ -32958,18 +32970,6 @@
     "Note": "The phrase describes loss of directional distinction in authorial rhetoric, first-person disorientation, and monastic questioning.",
     "CreatedBy": "Codex lamp repair cohort008 lane B",
     "WrittenUtc": "2026-07-29T07:16:35.231751Z"
-  },
-  {
-    "SourceTerm": "東西不辨，南北不分",
-    "PreferredTarget": "unable to distinguish east from west or divide north from south",
-    "AlternateTargets": [],
-    "SearchAliases": [
-      "unable to distinguish east from west or divide north from south"
-    ],
-    "Status": "preferred",
-    "Note": "Ordinary disorientation becomes both an answer and a critical diagnosis inside public questioning.",
-    "CreatedBy": "Codex cohort-002 lane-A 121-130 full-case author",
-    "WrittenUtc": "2026-07-19T05:03:44.848496Z"
   },
   {
     "SourceTerm": "東西兩堂",
@@ -53613,21 +53613,6 @@
       "pick out the mark in speech and hide the turn inside a sentence"
     ],
     "SearchAliases": [
-      "discern the target in words and conceal the pivot in a phrase",
-      "pick out the mark in speech and hide the turn inside a sentence"
-    ],
-    "Status": "preferred",
-    "Note": "Bailushan Shenyu grants this verbal accomplishment only hypothetically, then says it remains drifting.",
-    "CreatedBy": "Codex lamp repair cohort010 lane A",
-    "WrittenUtc": "2026-07-29T07:36:24.289468Z"
-  },
-  {
-    "SourceTerm": "言中辨的，句裏藏機",
-    "PreferredTarget": "discern the target in words and conceal the pivot in a phrase",
-    "AlternateTargets": [
-      "pick out the mark in speech and hide the turn inside a sentence"
-    ],
-    "SearchAliases": [
       "target in words pivot in phrase",
       "discern the mark in speech",
       "conceal the pivot in a sentence",
@@ -53637,6 +53622,21 @@
     "Note": "The complete paired wording has one exact occurrence in one work; the entry therefore preserves a single, explicitly bounded use.",
     "CreatedBy": "Codex priority Iriya evidence-first author",
     "WrittenUtc": "2026-07-21T15:56:09.476797+00:00"
+  },
+  {
+    "SourceTerm": "言中辨的，句裏藏機",
+    "PreferredTarget": "discern the target in words and conceal the pivot in a phrase",
+    "AlternateTargets": [
+      "pick out the mark in speech and hide the turn inside a sentence"
+    ],
+    "SearchAliases": [
+      "discern the target in words and conceal the pivot in a phrase",
+      "pick out the mark in speech and hide the turn inside a sentence"
+    ],
+    "Status": "preferred",
+    "Note": "Bailushan Shenyu grants this verbal accomplishment only hypothetically, then says it remains drifting.",
+    "CreatedBy": "Codex lamp repair cohort010 lane A",
+    "WrittenUtc": "2026-07-29T07:36:24.289468Z"
   },
   {
     "SourceTerm": "言前",
@@ -58719,7 +58719,7 @@
       "the Golden Ground waves from afar; Jiangling secretly nods"
     ],
     "Status": "preferred",
-    "Note": "The sole exact witness is the impersonal wisdom-eye answer formula in the Tier-3 Eyes of Humans and Devas.",
+    "Note": "The source’s Five Eyes sequence preserves this answer but does not name its speaker in the recoverable attribution ladder.",
     "CreatedBy": "Codex regular-vetted Iriya release005 lane C",
     "WrittenUtc": "2026-07-22T00:00:00Z"
   },
@@ -58731,7 +58731,7 @@
       "the Golden Ground waves from afar; Jiangling secretly nods"
     ],
     "Status": "preferred",
-    "Note": "The source’s Five Eyes sequence preserves this answer but does not name its speaker in the recoverable attribution ladder.",
+    "Note": "The sole exact witness is the impersonal wisdom-eye answer formula in the Tier-3 Eyes of Humans and Devas.",
     "CreatedBy": "Codex regular-vetted Iriya release005 lane C",
     "WrittenUtc": "2026-07-22T00:00:00Z"
   },
