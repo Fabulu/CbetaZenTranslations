@@ -9648,7 +9648,7 @@
     "SourceTerm": "六波羅蜜",
     "PreferredTarget": "the six perfections",
     "AlternateTargets": [
-      "the six pāramitās"
+      "the sixfold perfection"
     ],
     "SearchAliases": [
       "six paramitas"
@@ -16290,10 +16290,10 @@
   },
   {
     "SourceTerm": "坐禪",
-    "PreferredTarget": "the seated dhyana procedure",
+    "PreferredTarget": "the seated Chan procedure",
     "AlternateTargets": [
-      "regulated sitting dhyana",
-      "seated dhyana"
+      "regulated sitting Chan",
+      "seated Chan"
     ],
     "SearchAliases": [
       "sitting dhyana",
@@ -16303,7 +16303,7 @@
       "dhyana procedure"
     ],
     "Status": "preferred",
-    "Note": "Across the collected corpus the headword has 1,121 exact occurrences in 244 texts. Nine retained anchors across seven sources establish or directly appraise the regulated seated procedure. The instruction-genre falsification survives: titled rules, admonitions, sequential body and breath directions, hall orientation, and prolonged sitting all occur in the collected corpus. Criticism and rejection remain in this sense whenever their object is the recognizable bodily procedure. Apparent matches formed by the verb sit immediately before the longer noun dhyana seat were boundary-screened and do not buy depth.",
+    "Note": "Across the collected corpus the headword has 1,121 exact occurrences in 244 texts. Nine retained anchors across seven sources establish or directly appraise the regulated seated procedure. The instruction-genre falsification survives: titled rules, admonitions, sequential body and breath directions, hall orientation, and prolonged sitting all occur in the collected corpus. Criticism and rejection remain in this sense whenever their object is the recognizable bodily procedure. Apparent matches formed by the verb sit immediately before the longer noun Chan seat were boundary-screened and do not buy depth.",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": null
   },
@@ -25300,9 +25300,9 @@
   },
   {
     "SourceTerm": "戒定慧",
-    "PreferredTarget": "precepts, dhyana, and wisdom",
+    "PreferredTarget": "precepts, composure, and wisdom",
     "AlternateTargets": [
-      "precepts–dhyana–wisdom"
+      "precepts–composure–wisdom"
     ],
     "SearchAliases": [
       "precepts dhyana wisdom"
@@ -37295,9 +37295,9 @@
   },
   {
     "SourceTerm": "涅槃堂裏禪",
-    "PreferredTarget": "dhyana in the nirvana hall",
+    "PreferredTarget": "Chan in the nirvana hall",
     "AlternateTargets": [
-      "the dhyana of the infirmary and death hall"
+      "the Chan of the infirmary and death hall"
     ],
     "SearchAliases": [
       "nirvana-hall dhyana",
@@ -39054,9 +39054,9 @@
   },
   {
     "SourceTerm": "無相三昧",
-    "PreferredTarget": "formless dhyana",
+    "PreferredTarget": "formless complete command",
     "AlternateTargets": [
-      "dhyana without form"
+      "complete command without form"
     ],
     "SearchAliases": [
       "formless dhyana",
@@ -45125,16 +45125,16 @@
   },
   {
     "SourceTerm": "祖師禪",
-    "PreferredTarget": "the patriarchs’ dhyana",
+    "PreferredTarget": "the patriarchs’ Chan",
     "AlternateTargets": [
-      "ancestral dhyana"
+      "ancestral Chan"
     ],
     "SearchAliases": [
       "patriarchs dhyana",
       "ancestral dhyana"
     ],
     "Status": "preferred",
-    "Note": "The recurring contrast with “tathagata-dhyana” (如來禪) is a testing frame around the same referent, not grounds for a second sense.",
+    "Note": "The recurring contrast with “tathagata Chan” (如來禪) is a testing frame around the same referent, not grounds for a second sense.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T05:42:34.236787+00:00"
   },
@@ -64761,7 +64761,7 @@
   },
   {
     "SourceTerm": "鬱鬱黃花無非般若",
-    "PreferredTarget": "luxuriant yellow flowers are nothing other than prajna",
+    "PreferredTarget": "luxuriant yellow flowers are nothing other than the perfection of wisdom",
     "AlternateTargets": [],
     "SearchAliases": [
       "yellow flowers are all prajna",
