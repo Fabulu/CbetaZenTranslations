@@ -4565,6 +4565,24 @@
     "WrittenUtc": "2026-07-21T19:52:49.361468+00:00"
   },
   {
+    "SourceTerm": "世尊",
+    "PreferredTarget": "the World-Honored One",
+    "AlternateTargets": [
+      "the Honored One"
+    ],
+    "SearchAliases": [
+      "World Honored One",
+      "World Honoured One",
+      "the Buddha",
+      "Shakyamuni",
+      "Shakyamuni Buddha"
+    ],
+    "Status": "preferred",
+    "Note": "The allowlisted corpus contains 8,093 exact substring matches in 406 files. The title consistently names one invoked figure across the reviewed cases; different acts do not create different referents. Eleven primary anchors preserve the World-Honored One's own narrated actions or attributed speech. Eight actor-pure contrast anchors preserve Mahakasyapa, Manjusri, Yunmen Wenyan, Wangming Bodhisattva, Indra, Zhenjing Kewen, and Zhanran Yuancheng without letting their turns buy primary depth. Related entries cover buddha, Shakyamuni, old man Shakyamuni, Mahakasyapa, Ananda, holding up the flower, mounting the seat, leaving the seat, and pausing for a while.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": "2026-07-13T19:54:10Z"
+  },
+  {
     "SourceTerm": "世尊不説説、迦葉不聞聞",
     "PreferredTarget": "the paired speech-without-speaking of the World-Honored One and hearing-without-hearing of Kasyapa",
     "AlternateTargets": [],
@@ -5803,6 +5821,18 @@
     "WrittenUtc": "2026-07-19T12:00:00Z"
   },
   {
+    "SourceTerm": "仁者見之謂之仁、智者見之謂之智",
+    "PreferredTarget": "the humane see it and call it humane, and the wise see it and call it wise",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "the humane see it and call it humane, and the wise see it and call it wise"
+    ],
+    "Status": "preferred",
+    "Note": "Complete paired classical saying: the benevolent see it and call it benevolence; the wise see it and call it wisdom. The case voiced by the unnamed compiler-narrator juxtaposes such differing apprehensions with ordinary activity; Hanxiu asks what a recorded speaker calls it.",
+    "CreatedBy": "Codex cohort-002 lane-B B061-B070 author",
+    "WrittenUtc": "2026-07-19T12:00:00Z"
+  },
+  {
     "SourceTerm": "今之古之",
     "PreferredTarget": "now and of old",
     "AlternateTargets": [],
@@ -5988,6 +6018,26 @@
     "Note": "It is a genre label, not evidence that the compiler is the ancient figure.",
     "CreatedBy": "Codex investigation-next300 Lane A",
     "WrittenUtc": "2026-07-17T16:00:00Z"
+  },
+  {
+    "SourceTerm": "代語",
+    "PreferredTarget": "a response supplied in another's place",
+    "AlternateTargets": [
+      "answer in another's place",
+      "substitute response",
+      "supply a response"
+    ],
+    "SearchAliases": [
+      "answer on someone else's behalf",
+      "answer when a monk is silent",
+      "substitute answer",
+      "teacher supplies the answer",
+      "assembly gives responses"
+    ],
+    "Status": "preferred",
+    "Note": "The graph “speech” (語) is translated here as the actual response, not left as an unexplained “word.” The recurring sequence “had no response” (無對) → “ordered the assembly to respond in his place” (命眾代語) → “submitted responses did not accord” (下語不契) → “Luyan He supplied one” (師代) establishes the institutional sense directly.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "令不虚行",
@@ -6439,6 +6489,24 @@
     "Note": "Six works quote the verse, attribute it to Huineng, and preserve later praise, warning, and criticism.",
     "CreatedBy": "Codex construction Lane C positions31-40 explicit full-case author",
     "WrittenUtc": "2026-07-17T12:25:34.525823+00:00"
+  },
+  {
+    "SourceTerm": "佛",
+    "PreferredTarget": "buddha",
+    "AlternateTargets": [
+      "the Buddha",
+      "a buddha"
+    ],
+    "SearchAliases": [
+      "buddha",
+      "the Buddha",
+      "a buddha",
+      "awakening title"
+    ],
+    "Status": "preferred",
+    "Note": "This sense covers the figure/title and the word as deployed in Chan, not the physical image separated below. Longer compounds keep their own articles and should not be silently substituted for it: buddha-nature; the question 'What is Buddha?' (如何是佛); 'this very mind is buddha' (即心是佛); 'meet a buddha, kill the buddha' (逢佛殺佛); and denouncing buddhas and reviling patriarchs. The graph in 'the Buddha's teaching' is a compound constituent and does not justify leaving the entire compound untranslated. The curated evidence spans an early lamp compilation, Linji's own record, and Huangbo's record; later compilations and commentaries repeatedly preserve and comment on the same scenes and formulas.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "佛之一字，吾不喜聞",
@@ -9353,6 +9421,18 @@
     "WrittenUtc": "2026-07-17T17:48:39.440462+00:00"
   },
   {
+    "SourceTerm": "兩堂爭貓",
+    "PreferredTarget": "the two halls fight over the cat",
+    "AlternateTargets": [
+      "the two halls dispute the cat"
+    ],
+    "SearchAliases": [],
+    "Status": "preferred",
+    "Note": "The explicit precept question belongs to the linked cat-cutting family and is anchored under “cut the cat” and “Nanquan cuts the cat”, whose headwords it contains. It is not duplicated here as a headword-free occurrence. The corpus alternates the two graphs for “cat” (貓) and often adds “east and west” (東西).",
+    "CreatedBy": "Codex",
+    "WrittenUtc": null
+  },
+  {
     "SourceTerm": "兩序",
     "PreferredTarget": "the two orders",
     "AlternateTargets": [
@@ -11135,6 +11215,19 @@
     "WrittenUtc": "2026-07-19T17:13:52.929186Z"
   },
   {
+    "SourceTerm": "劍刃",
+    "PreferredTarget": "sword-edge",
+    "AlternateTargets": [
+      "blade-edge",
+      "the sword's edge"
+    ],
+    "SearchAliases": [],
+    "Status": "preferred",
+    "Note": "Translate the object, not as an unexplained metaphor. The evidence links it especially to “the phrase that meets the occasion” (當機一句), quick response, and later appraisal of an encounter. It remains distinct from “sword” (劍), the whole weapon, and from the broader public-interview terms.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": null
+  },
+  {
     "SourceTerm": "劍去久矣",
     "PreferredTarget": "the sword has long since gone",
     "AlternateTargets": [],
@@ -12401,6 +12494,24 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "南泉斬猫",
+    "PreferredTarget": "Nanquan cuts the cat",
+    "AlternateTargets": [
+      "Nanquan's cat-cutting case"
+    ],
+    "SearchAliases": [
+      "Nanquan kills the cat",
+      "Nanquan cat koan",
+      "cat-cutting case",
+      "Nanquan slays the cat",
+      "two halls fight over a cat"
+    ],
+    "Status": "preferred",
+    "Note": "The two written cat forms name one event. The complete event using expanded forms is family evidence; six exact witnesses across six sources clear the floor. Case title, question, verse, and later comment are deployments of the same public case. The precept-violation dispute remains unresolved rather than excused.",
+    "CreatedBy": "Codex remediation",
+    "WrittenUtc": null
+  },
+  {
     "SourceTerm": "南泉斬貓",
     "PreferredTarget": "Nanquan cuts the cat",
     "AlternateTargets": [
@@ -13454,23 +13565,6 @@
     "Note": "One can know propriety is a line from a traditional primer sequence that Chan speakers quote, splice, and deploy as an interview reply or learned-speech cap. The primer wording retains its literal claim about propriety even when inserted into a hall exchange.",
     "CreatedBy": "Codex Iriya Lane B B071-B080 full-case author",
     "WrittenUtc": "2026-07-18T11:16:52.053234+00:00"
-  },
-  {
-    "SourceTerm": "吃茶去",
-    "PreferredTarget": "go drink tea",
-    "AlternateTargets": [
-      "have some tea",
-      "go and take tea"
-    ],
-    "SearchAliases": [
-      "go drink tea",
-      "have some tea",
-      "Zhaozhou tea saying"
-    ],
-    "Status": "preferred",
-    "Note": "5 exact evidence rows from 5 distinct works are stored for this sense; repeated files or editions are not counted as separate works.",
-    "CreatedBy": "Codex fresh f001 lane A evidence-first",
-    "WrittenUtc": "2026-07-15T00:00:00Z"
   },
   {
     "SourceTerm": "各信自心是佛",
@@ -15113,6 +15207,65 @@
     "WrittenUtc": "2026-07-15T04:30:57.027055+00:00"
   },
   {
+    "SourceTerm": "喫粥",
+    "PreferredTarget": "eat gruel",
+    "AlternateTargets": [
+      "eat rice porridge",
+      "have gruel"
+    ],
+    "SearchAliases": [
+      "eat gruel",
+      "eat rice porridge",
+      "have gruel",
+      "eat the morning gruel",
+      "have breakfast porridge"
+    ],
+    "Status": "preferred",
+    "Note": "The corpus supplies no different referent or word class requiring a second sense: literal meal reports and interview answers both name the same act of eating gruel. Do not duplicate the fixed Zhaozhou question here; ‘have you eaten your gruel?’ has its own entry and is linked below. Family cross-check: this definition remains compatible with gruel, gruel and rice, the bowl, wash the bowl, and Zhaozhou’s fixed question; robe-and-bowl as a succession token is a different family deployment.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "喫粥了也未",
+    "PreferredTarget": "have you eaten your gruel?",
+    "AlternateTargets": [
+      "have you finished your gruel?",
+      "have you had your gruel yet?"
+    ],
+    "SearchAliases": [
+      "have you eaten breakfast?",
+      "did you eat your rice gruel?",
+      "wash your bowl",
+      "Zhaozhou's gruel question",
+      "have you had porridge yet?"
+    ],
+    "Status": "preferred",
+    "Note": "The exact headword has 101 hits in 67 allowlisted texts. One case-formula sense remains after enrichment. Six exact witnesses across six sources meet the floor; three explanatory no-headword anchors are labelled support.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "喫茶去",
+    "PreferredTarget": "go drink tea",
+    "AlternateTargets": [
+      "go have some tea",
+      "off you go for tea",
+      "go and drink tea"
+    ],
+    "SearchAliases": [
+      "go drink tea",
+      "go have tea",
+      "go and drink tea",
+      "off you go for tea",
+      "drink tea and go",
+      "吃茶去"
+    ],
+    "Status": "preferred",
+    "Note": "The headword occurs 781 times across 170 allowlisted texts; the spelling variant with the alternate graph for 'drink' occurs 14 times across 7 texts. The witnesses support one sense: originating case, later answer, assembly dismissal, and allusion are deployments of the same imperative, not different things. The occurrence speaker is the person who actually says the phrase, even when a longer KWIC contains interlocutor turns.",
+    "CreatedBy": "Fabulu",
+    "WrittenUtc": "2026-07-12T17:43:52.657Z"
+  },
+  {
     "SourceTerm": "喫鐵棒有日在",
     "PreferredTarget": "the day will come when you eat the iron staff",
     "AlternateTargets": [],
@@ -16384,6 +16537,19 @@
     "Note": "This is the Buddha-event sense. It remains separate from numbered monastery appointments.",
     "CreatedBy": "sol_luna132_final_integrator",
     "WrittenUtc": "2026-08-02T22:30:00Z"
+  },
+  {
+    "SourceTerm": "垂問",
+    "PreferredTarget": "put a question",
+    "AlternateTargets": [
+      "pose a question",
+      "bestow a question"
+    ],
+    "SearchAliases": [],
+    "Status": "preferred",
+    "Note": "The literal downward/bestowing graph is retained in the alternate target, but ordinary English “put a question” best fits the repeated record headings and speaker turns. It is related to asking (問), public question-and-answer, answers supplied for others, and entering the room, but is not interchangeable with them.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "垂手入廛",
@@ -20169,6 +20335,25 @@
     "WrittenUtc": "2026-07-19T16:10:27.792274Z"
   },
   {
+    "SourceTerm": "室中",
+    "PreferredTarget": "chamber-interview setting",
+    "AlternateTargets": [
+      "in the master's chamber",
+      "chamber interview setting"
+    ],
+    "SearchAliases": [
+      "private interview chamber",
+      "inside the Zen chamber",
+      "chamber examination",
+      "master's interview room",
+      "in-room encounter"
+    ],
+    "Status": "preferred",
+    "Note": "Allowlist count across both senses: 1,566 hits in 274 texts. Distinct technical deployments preserved here are a direct chamber question, delegated examination by a head monk, presentation of a named old saying, an arranged-object test for entrants, and the section label “chamber encounters.” The Zen bend is the chamber's repeated use as an interview and testing setting.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": null
+  },
+  {
     "SourceTerm": "室內一盞燈",
     "PreferredTarget": "the single lamp inside the room",
     "AlternateTargets": [
@@ -20963,6 +21148,19 @@
     "Note": "Any criticism is reported from its complete line rather than built into the literal compound.",
     "CreatedBy": "Codex post720 Lane C positions 033-058",
     "WrittenUtc": "2026-07-17T16:30:22.041434+00:00"
+  },
+  {
+    "SourceTerm": "對機",
+    "PreferredTarget": "respond to the occasion",
+    "AlternateTargets": [
+      "meet the occasion",
+      "occasion-matching exchange"
+    ],
+    "SearchAliases": [],
+    "Status": "preferred",
+    "Note": "“Occasion” keeps the range of the graph “occasion/capacity” (機) without importing a mystical faculty. The heading, question-and-discrimination phrase, direct answer, and “eye” collocation all require an interpersonal responsive sense. Compare “meet the occasion”, “occasion of encounter”, “question-and-answer”, and “responsive engagement”; none is simply synonymous.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "對牛彈琴",
@@ -23585,6 +23783,25 @@
     "Note": "The term names the fine residual movement distinguished in these passages; it is not a name for every thought or for Zen as a whole.",
     "CreatedBy": "R95 Triple 06 Sol clean author",
     "WrittenUtc": "2026-08-01T00:00:00Z"
+  },
+  {
+    "SourceTerm": "徵",
+    "PreferredTarget": "probe a respondent or case",
+    "AlternateTargets": [
+      "challenge",
+      "press with a question",
+      "interrogate"
+    ],
+    "SearchAliases": [
+      "probe a case",
+      "probe a respondent",
+      "press for an answer",
+      "challenge with a question"
+    ],
+    "Status": "preferred",
+    "Note": "The probe sense is established by the recurrent compounds \"probing question\" (徵問), \"interrogate\" (徵詰), and \"probe the old cases\" (徵古), and by headings that enumerate probing, raising, answering-for, and distinguishing (徵拈代別). Family check: \"examine and distinguish\" (勘辨) is examination and discrimination; \"question-and-answer\" is the entire reciprocal exchange; \"encounter\" is its occasion or recorded encounter. \"Probe\" (徵) here is the act of pressing a person, assembly, or inherited case with a further question. Summoning, exacting, requesting, verifying, and the musical pitch are different actions or objects and are split below. The headword has 1,578 occurrences in 283 allowlisted texts across all senses.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "徵古",
@@ -26741,6 +26958,19 @@
     "WrittenUtc": "2026-07-17T09:35:06.713685+00:00"
   },
   {
+    "SourceTerm": "拈花",
+    "PreferredTarget": "holding up the flower",
+    "AlternateTargets": [
+      "raise the flower",
+      "the flower-holding event"
+    ],
+    "SearchAliases": [],
+    "Status": "preferred",
+    "Note": "The common flower graph and traditional flower graph are orthographic variants in this case family; they are not separate senses. The entry treats the compact event-name through the recorded assembly actions, lineage statements, naming formulas, questions, answers, and later criticism.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": null
+  },
+  {
     "SourceTerm": "拈花微笑",
     "PreferredTarget": "hold up a flower and smile",
     "AlternateTargets": [
@@ -29823,6 +30053,26 @@
     "WrittenUtc": "2026-07-19T02:15:00Z"
   },
   {
+    "SourceTerm": "斬猫",
+    "PreferredTarget": "Nanquan's cat-cutting case",
+    "AlternateTargets": [
+      "Nanquan cuts the cat",
+      "the cat-cutting case",
+      "cut the cat"
+    ],
+    "SearchAliases": [
+      "Nanquan cat case",
+      "two halls fight over a cat",
+      "Zhaozhou sandal cat case",
+      "cat-killing precept question",
+      "Nanquan cuts the cat in two"
+    ],
+    "Status": "preferred",
+    "Note": "The two written cat forms are searchable family members but name one event. The full event without the contiguous headword is family evidence; six exact witnesses across six sources clear the floor. Case title, verse, and later question are deployments of the same event, not separate things. The precept-violation dispute is reported without ruling whether the act is justified.",
+    "CreatedBy": "Codex remediation",
+    "WrittenUtc": null
+  },
+  {
     "SourceTerm": "斬草蛇頭落",
     "PreferredTarget": "cut the grass and the snake’s head falls",
     "AlternateTargets": [],
@@ -29850,6 +30100,25 @@
     "Note": "Exact-form count: 3 hits in 3 texts, all curated. One late paratextual sense, mechanically multi-source but narrowly stated. Family checked against vine-tangle (葛藤), sever the vine-tangle (截斷葛藤: 125 hits in 82 texts). Evidence from those longer forms is not assigned to this exact headword.",
     "CreatedBy": "Codex f002 Lane C author",
     "WrittenUtc": "2026-07-15T02:21:36.862601+00:00"
+  },
+  {
+    "SourceTerm": "斬蛇",
+    "PreferredTarget": "Guizong's snake-cutting case",
+    "AlternateTargets": [
+      "snake-cutting",
+      "chop the snake"
+    ],
+    "SearchAliases": [
+      "Guizong's snake-cutting case",
+      "cut the snake",
+      "snake-cutting",
+      "chop the snake",
+      "Guizong cuts the snake"
+    ],
+    "Status": "preferred",
+    "Note": "The exact expression occurs 137 times in 65 allowlisted texts, across core case retellings, public questions, sermons, verse, and commentarial collections. Its plain verbal sense and case-label use name the same act, so item 8 does not require a split. The later record supplies incompatible appraisals rather than different referents: one verse calls the cutting compassion, Dahui rejects familiar functional explanations, and Tianran condemns imitating the case as license for unrestrained conduct. They remain reported evidence within one sense, not a menu of dictionary readings.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "斬蛇手",
@@ -30899,6 +31168,25 @@
     "Note": "5 distinct work IDs selected after complete-context review.",
     "CreatedBy": "Codex f004 lane B bulk evidence-first author",
     "WrittenUtc": "2026-07-15T10:28:15.689574+00:00"
+  },
+  {
+    "SourceTerm": "普說",
+    "PreferredTarget": "a general address to the community",
+    "AlternateTargets": [
+      "general address",
+      "to give a general address"
+    ],
+    "SearchAliases": [
+      "general address",
+      "community address",
+      "public community address",
+      "general talk",
+      "address to the community"
+    ],
+    "Status": "preferred",
+    "Note": "Allowlist count: 870 hits in 134 texts. Noun and verb constructions denote the same general-address event; the two former targets could not distinguish different referents without their explanations and are merged. The general-address placard (普說牌) names the placard for this genre, not another sense. General address remains distinct from ascending the hall (上堂), small gathering (小參), addressing the assembly (示眾), question-and-answer, and taking up the whisk.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "普請",
@@ -34082,6 +34370,25 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "機緣",
+    "PreferredTarget": "recorded Chan encounter",
+    "AlternateTargets": [
+      "occasioned encounter",
+      "encounter record"
+    ],
+    "SearchAliases": [
+      "Chan encounter",
+      "recorded encounter",
+      "encounter case",
+      "public encounter",
+      "encounter record"
+    ],
+    "Status": "preferred",
+    "Note": "This technical sense does not turn every raw match into a formal interview. It preserves the texts' cautions: Zhongfeng Mingben lists seeking in encounters beside seeking in language and the 1,700 entangling vines, and Fangrong Tongxi raises the whisk while setting \"encounter question-and-answer\" aside. Family check: \"question-and-answer\" (問答) is the reciprocal verbal exchange; the individual-questioner turn formula has its own entry; \"enter the room\" (入室) identifies the room setting; \"encounter\" (機緣) is the wider encounter and its record. Fitting occasion or concord is separated below as a different referent. The headword has 1,568 occurrences in 303 allowlisted texts.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": null
+  },
+  {
     "SourceTerm": "機輪轉處，作者猶迷",
     "PreferredTarget": "where the mechanism-wheel turns, even an adept is still lost",
     "AlternateTargets": [],
@@ -34681,6 +34988,25 @@
     "Note": "All ten cases were read; six work-distinct witnesses were retained for one threefold refuge formula reused in answers and phrase classifications.",
     "CreatedBy": "Codex cohort-002 lane-A 71-80 full-case author",
     "WrittenUtc": "2026-07-18T23:33:51.615705Z"
+  },
+  {
+    "SourceTerm": "歸宗斬蛇",
+    "PreferredTarget": "Guizong cuts the snake",
+    "AlternateTargets": [
+      "Guizong's snake-cutting",
+      "Guizong chops the snake"
+    ],
+    "SearchAliases": [
+      "Guizong kills the snake",
+      "Guizong snake koan",
+      "snake-cutting case",
+      "Guizong slays a snake",
+      "cuts a snake with a hoe"
+    ],
+    "Status": "preferred",
+    "Note": "The case occurs 49 times in 35 allowlisted texts. The precept connection is passage-level and attested, not inferred. Later appraisals do not settle into one authorized reading: Dahui rejects the stock descriptions 'apt response and marvelous function' and 'great function manifest, retaining no rules'; Tianran warns against copying the act as license for unrestrained conduct; another sermon says calling it snake-cutting leads to hell like an arrow, and not calling it snake-cutting does likewise. This entry reports those comments without choosing among them.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "歸家",
@@ -39926,6 +40252,26 @@
     "WrittenUtc": "2026-07-18T21:03:28Z"
   },
   {
+    "SourceTerm": "爪牙",
+    "PreferredTarget": "the school's interview claws and fangs",
+    "AlternateTargets": [
+      "sharp interview moves",
+      "the school's pressing and releasing moves"
+    ],
+    "SearchAliases": [
+      "interview claws and fangs",
+      "sharp interview moves",
+      "pressing and releasing",
+      "public interview tools",
+      "school's sharp moves",
+      "claws and fangs of Zen"
+    ],
+    "Status": "preferred",
+    "Note": "Five anchors across four independent records establish the Zen-loaded interview referent. It is distinct from people called the school's claws and fangs and from animal anatomy.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": null
+  },
+  {
     "SourceTerm": "爭人負我",
     "PreferredTarget": "contending that others have wronged me",
     "AlternateTargets": [
@@ -40794,6 +41140,18 @@
     "Note": "The witnesses preserve a direct answer, a verse scene, and an independent evaluative reuse.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T14:00:00Z"
+  },
+  {
+    "SourceTerm": "猫兒",
+    "PreferredTarget": "cat",
+    "AlternateTargets": [
+      "kitten"
+    ],
+    "SearchAliases": [],
+    "Status": "preferred",
+    "Note": "Later commentary preserves a factual and evaluative dispute. The Book of Serenity reports that one critic reproached Nanquan's group for \"killing living beings and creating guilt\" (殺生造罪), while a defender cited an old text in which Nanquan made only a simulated cutting gesture (以手作虛斫勢). The commentary then evaluates the two critics; this entry records the controversy without choosing between the transmitted narratives or assigning an unstated intention. The traditional spelling of “cat” is a separate searchable entry with the same sense.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "猶掛唇齒在",
@@ -45985,6 +46343,25 @@
     "WrittenUtc": "2026-07-29T10:45:00Z"
   },
   {
+    "SourceTerm": "秉拂",
+    "PreferredTarget": "to take up the teaching-seat whisk and preside",
+    "AlternateTargets": [
+      "to preside with the whisk",
+      "to hold the whisk and preside"
+    ],
+    "SearchAliases": [
+      "preside with a fly-whisk",
+      "whisk-holding presider",
+      "take the teaching seat with a whisk",
+      "whisk-holder at a public address",
+      "delegated whisk ceremony"
+    ],
+    "Status": "preferred",
+    "Note": "Allowlist count: 843 hits in 144 texts. Companion forms include taking up the whisk and ascending the hall (49 hits in 24 texts), doing so at a small gathering (26 in 17), requesting it (39 in 13), and doing so for a general address (7 in 5). These formats do not create separate senses: the headword names the same authorized act across different public formats. No insect-removal or precept deployment was found.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": null
+  },
+  {
     "SourceTerm": "秋風吹渭水、落葉滿長安",
     "PreferredTarget": "autumn wind blows over the Wei River as fallen leaves fill Chang'an",
     "AlternateTargets": [],
@@ -47265,6 +47642,44 @@
     "WrittenUtc": "2026-07-19T14:48:53.050142Z"
   },
   {
+    "SourceTerm": "粥",
+    "PreferredTarget": "gruel",
+    "AlternateTargets": [
+      "rice gruel",
+      "porridge"
+    ],
+    "SearchAliases": [
+      "rice porridge",
+      "congee",
+      "monastery breakfast",
+      "morning gruel",
+      "breakfast porridge"
+    ],
+    "Status": "preferred",
+    "Note": "Zen-allowlist concordance: the headword has 2,824 hits in 341 files; eat-gruel forms have 748 in 182; gruel-and-rice forms have 668 in 223; the completed-meal question has 101 in 67; and the gruel-and-rice monastic epithet has 59 in 42. Standard definition-formula searches all returned zero. Eighteen grammatical strings meaning ‘as for gruel’ or ‘one who handles gruel’ occur in service contexts or named phrases, not definitions. Sense audit: ordinary breakfast gruel, offered or cooked gruel, and the food in Zhaozhou's case are the same thing. Related entries should keep the eating bowl separate from the robe-and-bowl succession token, and should give the gruel-and-rice monastic epithet its own lexical article rather than assigning that human referent to the standalone food word.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": "2026-07-13T00:00:00Z"
+  },
+  {
+    "SourceTerm": "粥飯",
+    "PreferredTarget": "the monastery's meal routine",
+    "AlternateTargets": [
+      "the communal meal system",
+      "the two daily meals"
+    ],
+    "SearchAliases": [
+      "monastery meal routine",
+      "communal meal schedule",
+      "monastery meals",
+      "two daily meals",
+      "meal provision"
+    ],
+    "Status": "preferred",
+    "Note": "The allowlisted concordance has 668 hits in 223 texts. Institutional families include the two gruel-and-rice mealtimes (二時粥飯) and the gruel-and-rice host (粥飯主人). These are deployments of one communal meal system, not separate senses. That organized institution is distinct from the physical food eaten and smelled in the second sense.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": "2026-07-13T00:00:00Z"
+  },
+  {
     "SourceTerm": "粥飯主人",
     "PreferredTarget": "the host responsible for gruel and rice",
     "AlternateTargets": [
@@ -47278,6 +47693,24 @@
     "Note": "Feeding language and institutional title are reported without claiming that meals are all the office transmits.",
     "CreatedBy": "Codex post720 Lane C positions 006-032",
     "WrittenUtc": "2026-07-17T16:00:19.168168+00:00"
+  },
+  {
+    "SourceTerm": "粥飯僧",
+    "PreferredTarget": "a gruel-and-rice monk",
+    "AlternateTargets": [
+      "an ordinary monastery resident",
+      "a monk living on communal meals"
+    ],
+    "SearchAliases": [
+      "gruel-and-rice monk",
+      "ordinary monastery resident",
+      "resident monk",
+      "monk living on communal meals"
+    ],
+    "Status": "preferred",
+    "Note": "The headword has 59 hits in 42 allowlisted texts. The earlier two-sense split was rejected on independent review: institutional residence and being characterized by the meals that support it do not establish incompatible referents. The exact same long-term gruel-and-rice-monk form occurs in refusal and admonition contexts, proving that appraisal and surrounding contrast cannot define separate senses. Related food and insult terms remain lexically distinct and do not donate stronger meanings to this compound.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": "2026-07-13T00:00:00Z"
   },
   {
     "SourceTerm": "粥飯因緣",
@@ -49963,6 +50396,19 @@
     "Note": "In the preserved lamp question, an unnamed questioner—not the responding teacher—utters the request form of the term.",
     "CreatedBy": "Terra lamp-repair author",
     "WrittenUtc": "2026-08-02T09:28:35.000Z"
+  },
+  {
+    "SourceTerm": "舉問",
+    "PreferredTarget": "raise and ask",
+    "AlternateTargets": [
+      "cite and question",
+      "bring up for questioning"
+    ],
+    "SearchAliases": [],
+    "Status": "preferred",
+    "Note": "This compound includes both operations: “raise” (舉) re-presents prior material and “ask” (問) directs a question about it. It overlaps with “raise a case” (舉) and “question-and-answer”, while differing from a master's newly bestowed question.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "舉手",
@@ -55048,6 +55494,18 @@
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
   {
+    "SourceTerm": "貓兒",
+    "PreferredTarget": "cat",
+    "AlternateTargets": [
+      "kitten"
+    ],
+    "SearchAliases": [],
+    "Status": "preferred",
+    "Note": "Later Chan records explicitly debate the killing rather than silently resolving it. One late account says one hall cited a rule that \"the bodhisattva precepts do not permit keeping cats, foxes, pigs, and dogs\" (菩薩戒中不許長養貓狸豬狗), while the other wanted the cat to control mice; that speaker later calls the killing a sin. Another transmitted verdict answers the question about the case with only \"it takes a Nanquan\" (須是南泉始得). These are attested later deployments; this entry does not project their precept explanation backward as the early record's stated intent. The simplified spelling of “cat” is a separate searchable entry but not a different meaning.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": null
+  },
+  {
     "SourceTerm": "財法二施",
     "PreferredTarget": "the two givings: material support and teaching",
     "AlternateTargets": [
@@ -56681,6 +57139,25 @@
     "WrittenUtc": "2026-07-20T00:00:00Z"
   },
   {
+    "SourceTerm": "迦葉",
+    "PreferredTarget": "Mahakashyapa",
+    "AlternateTargets": [
+      "Mahakashyapa",
+      "the venerable Kashyapa"
+    ],
+    "SearchAliases": [
+      "Mahakasyapa",
+      "Kashyapa",
+      "flower sermon disciple",
+      "Kashyapa smiled",
+      "knock down the flagpole"
+    ],
+    "Status": "preferred",
+    "Note": "This sense is Mahakashyapa, identifiable in the cited Chan cases by the flower, the entrusted eye-treasury, Ananda, or the gold-thread robe. The earlier Kashyapa Buddha is a different figure and is recorded separately below by his Zen deployment.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": null
+  },
+  {
     "SourceTerm": "迴光返照",
     "PreferredTarget": "turn the light around and shine back",
     "AlternateTargets": [
@@ -58178,6 +58655,23 @@
     "WrittenUtc": null
   },
   {
+    "SourceTerm": "釋迦",
+    "PreferredTarget": "Śākyamuni",
+    "AlternateTargets": [
+      "Shakyamuni"
+    ],
+    "SearchAliases": [
+      "Shakyamuni",
+      "Shakyamuni Buddha",
+      "Sakyamuni",
+      "Able and Benevolent"
+    ],
+    "Status": "preferred",
+    "Note": "The 6,608 exact matches occur in 395 allowlisted files. “Śākyamuni” is the name-form. “The World-Honored One” is a title used heavily in the flower, seat, and silence cases; “old man Śākyamuni” is a longer familiar form with its own strongly marked Chan deployment. Matches inside the longer form overlap mechanically but do not erase that lexical distinction.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": null
+  },
+  {
     "SourceTerm": "釋迦彌勒",
     "PreferredTarget": "Shakyamuni and Maitreya",
     "AlternateTargets": [
@@ -58230,6 +58724,24 @@
     "Note": "Retain the complete seven-graph first member while binding the following Vimalakirti, Subhuti, and gods clauses as its recurrent formula context. A Tier-3 lamp recension is retained as corroborative evidence only (1 lamp record); it does not upgrade validation.",
     "CreatedBy": "V6 batch44 A+B constructor",
     "WrittenUtc": "2026-07-29T10:45:00Z"
+  },
+  {
+    "SourceTerm": "釋迦老子",
+    "PreferredTarget": "old man Śākyamuni",
+    "AlternateTargets": [
+      "the old fellow Śākyamuni"
+    ],
+    "SearchAliases": [
+      "old man Shakyamuni",
+      "old man Śākyamuni",
+      "the old fellow Shakyamuni",
+      "Shakyamuni the old fellow",
+      "familiar Shakyamuni"
+    ],
+    "Status": "preferred",
+    "Note": "The exact longer form occurs 2,409 times in 281 allowlisted files. The suffix “old man” (老子) is translated rather than omitted: it is what distinguishes this headword from bare “Śākyamuni” (釋迦). The examples preserve separate deployment classes—quotation label, enacted arrival, comparison, rebuke, and coarse appraisal—rather than treating every overlap with the shorter name as equivalent.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "釋迦自釋迦",
@@ -58502,6 +59014,34 @@
     "Note": "Three independent recorded-sayings works support the idiom; one lamp is retained solely for its distinct hat-to-head comparison.",
     "CreatedBy": "Codex Iriya lane A151-167 full-case author",
     "WrittenUtc": "2026-07-18T17:57:35Z"
+  },
+  {
+    "SourceTerm": "金",
+    "PreferredTarget": "gold",
+    "AlternateTargets": [
+      "the metal gold",
+      "gold as wealth or payment",
+      "gold-colored"
+    ],
+    "SearchAliases": [
+      "gold metal",
+      "pure gold",
+      "tested gold",
+      "gold refined from ore",
+      "gold money",
+      "gold payment",
+      "monetary gold",
+      "gold as riches",
+      "gold color",
+      "golden color",
+      "gold-like color",
+      "yellow like gold",
+      "golden appearance"
+    ],
+    "Status": "preferred",
+    "Note": "The apparatus-clean allowlist count is 37,149 substring matches in 452 files. This is not a lexical count for the standalone graph: large nested families include diamond or vajra compounds, yellow-gold compounds, place names, personal names, gold-color compounds, golden bodies, golden wheels, and many others. Indexed discovery used index-v4 stamp 269db8235c174e058e36b01e0af365ac; its text sidecar reported 37,439 matches in the same 452 files before the final apparatus-excluding XML gate. The item-8 retest merges metal, commodity, monetary, color-comparison, refining, and testing uses because they retain the same ordinary referent rather than naming different things. A falsification-directed enlightenment test found strong local deployments but not a bare lexical self-gloss: Shenhui explicitly says gold is compared to the nature of reality, Yongjue says clarifying mind is likewise, and Tiantai Deshao says the nature of the realm of phenomena is like gold with gold. The corpus therefore warrants a scoped true-nature/purity inference, while the explicit simile grammar and gold-and-shit, gold-dust, gold-buddha, monetary, and color controls block a corpus-wide equation. All longer golden-ball, golden-sphere, gold-pellet, and silver-pellet witnesses below carry EvidenceRole=family or contrast; they neither buy bare-headword depth nor supply aliases for the headword.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": "2026-07-13T20:00:00Z"
   },
   {
     "SourceTerm": "金不博金",
@@ -58790,6 +59330,25 @@
     "WrittenUtc": "2026-07-18T17:28:08Z"
   },
   {
+    "SourceTerm": "金彈子",
+    "PreferredTarget": "a gold pellet",
+    "AlternateTargets": [
+      "a gold ball",
+      "a costly gold projectile"
+    ],
+    "SearchAliases": [
+      "gold ball",
+      "golden ball",
+      "gold pellet",
+      "golden pellet",
+      "gold shot"
+    ],
+    "Status": "preferred",
+    "Note": "The apparatus-clean concordance contains 83 exact matches in 61 texts. One sense covers the same imagined object under casting, roundness, trading, throwing, shooting, striking, and funeral-forging predicates; those are actions and appraisals, not different things. The separately written gold-ball term is a different lexical object whose rolling and reflection scenes do not buy depth here. Nine standalone witnesses preserve the gold/silver exchange, furnace and casting predicates, three separately attributed gold/clay turns, and launched-projectile frames. Two marked family witnesses preserve the longer yellow-gold pellet form. Three marked contrast witnesses preserve Zhengtang Bian's headword-free price verse, Shuangshan Yuan's yellow-gold material scene, and the distinct gold-ball spelling without inflating the headword's evidence floor.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": "2026-07-13T17:51:32.685Z"
+  },
+  {
     "SourceTerm": "金毛師子",
     "PreferredTarget": "the golden-haired lion",
     "AlternateTargets": [
@@ -58820,6 +59379,24 @@
     "WrittenUtc": "2026-07-15T15:28:02.993665+00:00"
   },
   {
+    "SourceTerm": "金毬",
+    "PreferredTarget": "the gold-ball image in play and rolling scenes",
+    "AlternateTargets": [
+      "the played-or-rolled gold-ball image"
+    ],
+    "SearchAliases": [
+      "gold ball",
+      "golden ball",
+      "rolling gold ball",
+      "play ball in rushing water",
+      "fire turtle golden ball"
+    ],
+    "Status": "preferred",
+    "Note": "The played and rolled uses share one object-image and differ only in action and local setting. The rushing-water formula appears in nine texts but transmits Dahong Shousui's same address or a later reuse of it; duplicate lamp recensions are inventoried in WORK.md rather than stored as independent depth. This spelling is not interchangeable with the gold-pellet projectile compound or the one-off modern-form gold-ball spelling without evidence.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": "2026-07-13T20:30:00Z"
+  },
+  {
     "SourceTerm": "金烏急、玉兎速",
     "PreferredTarget": "the golden crow hastens and the jade hare speeds",
     "AlternateTargets": [],
@@ -58831,6 +59408,19 @@
     "Note": "The paired traditional names are translated literally and identified through the records' own light/dark and east/west motion; the entry adds no outside cosmological system.",
     "CreatedBy": "Codex Lane C C146-150 full-case construction",
     "WrittenUtc": "2026-07-19T05:49:26.266688+00:00"
+  },
+  {
+    "SourceTerm": "金牛",
+    "PreferredTarget": "Jinniu's meal-call case",
+    "AlternateTargets": [
+      "Jinniu calls the meal",
+      "Jinniu's meal"
+    ],
+    "SearchAliases": [],
+    "Status": "allowed",
+    "Note": "Case referent. The entry reports the textual grouping and appraisal without deriving a shared precept meaning or assigning a motive to Jinniu's action.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "金牛飯",
@@ -59201,6 +59791,26 @@
     "WrittenUtc": "2026-07-22T12:00:00Z"
   },
   {
+    "SourceTerm": "銀",
+    "PreferredTarget": "silver",
+    "AlternateTargets": [
+      "the metal silver",
+      "monetary silver",
+      "silver as a comparison standard"
+    ],
+    "SearchAliases": [
+      "silver metal",
+      "silver money",
+      "silver-colored",
+      "white like silver",
+      "silver imagery"
+    ],
+    "Status": "preferred",
+    "Note": "Metal, money, and comparison-standard uses remain one sense because the corpus keeps the same silver referent while changing its role. Nested money forms and the longer bowl, mountain, cage, world, and pellet expressions are marked family or contrast evidence and do not buy standalone depth. Each compound's modifier relation remains local: no common theory is projected across them.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": "2026-07-13T00:00:00Z"
+  },
+  {
     "SourceTerm": "銀山銕壁",
     "PreferredTarget": "a silver mountain and iron wall",
     "AlternateTargets": [],
@@ -59230,6 +59840,24 @@
     "Note": "The corpus uses the compound as an image, a direct question, a self-report, a quotation about inherited sayings, and a verse. It can be something not passed through, something that collapses, or—according to Foyan and the Baiyun quotation—oneself after passing through. Those attested predicates are retained without replacing the image with an abstract interpretation.",
     "CreatedBy": "Codex fresh f001 lane B evidence-first",
     "WrittenUtc": "2026-07-15T05:30:00Z"
+  },
+  {
+    "SourceTerm": "銀彈子",
+    "PreferredTarget": "the silver-pellet image",
+    "AlternateTargets": [],
+    "SearchAliases": [
+      "silver pellet",
+      "silver ball",
+      "silver sphere",
+      "silver shot",
+      "Nanquan silver pellet",
+      "gold and silver pellets",
+      "iron palm silver pellet"
+    ],
+    "Status": "preferred",
+    "Note": "One lexical image covers the barter and kneading frames: both passages name a silver pellet or ball, while their local appraisals differ. They are deployments of the same object-image, not different referents. Four parallel lamp recensions transmit Nanquan's barter form, one verse collection transmits the exchange verb ‘swap’ and adds Zhengtang Bian's no-headword comment, and three witnesses preserve the iron-palm line. Duplicate transmissions are inventoried in WORK.md but are not mechanically stored as separate depth padding. Three exact-headword anchors cover the independent encounter and two independent kneading speakers; the fourth stored occurrence is support only.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": "2026-07-13T19:30:00Z"
   },
   {
     "SourceTerm": "銀椀裏盛雪",
@@ -60744,6 +61372,24 @@
     "Note": "Ajatashatru is the king used in these sources as the example of grave wrongdoing followed by rescue or release; the lamp also preserves his place in the collection narrative.",
     "CreatedBy": "Codex f003 Lane A full-case author",
     "WrittenUtc": "2026-07-15T04:52:26.825273+00:00"
+  },
+  {
+    "SourceTerm": "阿難",
+    "PreferredTarget": "Ananda",
+    "AlternateTargets": [
+      "Venerable Ananda"
+    ],
+    "SearchAliases": [
+      "the Buddha's attendant Ananda",
+      "Ananda flagpole case",
+      "Ananda bowl case",
+      "Kashyapa calls Ananda",
+      "Ananda compiles the teachings"
+    ],
+    "Status": "preferred",
+    "Note": "The headword has 1,896 hits in 271 allowlisted texts. The curated evidence defines the Zen Ananda through public questioning, direct name-call, the teaching seat, lamp compilation, and succession. The later flagpole comment without his name is retained only as family evidence and does not count toward the seven exact-headword witnesses. No distinct titled person or non-person referent appears in this evidence.",
+    "CreatedBy": "Fabulu / Codex remediation",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "阿難問迦葉",
