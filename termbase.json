@@ -22,12 +22,13 @@
       "one fails, two is wrong"
     ],
     "SearchAliases": [
-      "one fails, two is wrong"
+      "one fails, two is wrong",
+      "一不成、二不是"
     ],
     "Status": "preferred",
-    "Note": "Two independent Tier-2 recorded-sayings witnesses are retained: Yunmen uses the pair to answer a question about the transmission outside the three vehicles, and Jinsu Zhi deploys it in a verse. Lamp recensions are omitted because the higher-tier witnesses provide sufficient depth.",
-    "CreatedBy": "Codex lamp-only repair cohort006 lane A",
-    "WrittenUtc": "2026-07-18T10:04:34.216581Z"
+    "Note": "Two independent recorded-sayings sources carry the pair: Yunmen uses it to answer a question about the transmission outside the three vehicles, and Jinsu Zhi sets it in a verse; the pair also appears in transmission-record recensions.",
+    "CreatedBy": "Terra Luna178 r2 source-hierarchy and actor-boundary repair",
+    "WrittenUtc": "2026-08-09T12:53:09Z"
   },
   {
     "SourceTerm": "一二三四五六七",
@@ -1075,7 +1076,7 @@
       "a day without work is a day without food"
     ],
     "Status": "preferred",
-    "Note": "The exact saying occurs 8 times in 6 allowlisted texts. Independent witnesses preserve attribution to Baizhang, its later status as an injunction for communal labor, and Hongzhi's house-style quotation. No competing wording establishes a separate sense.",
+    "Note": "Across the collected corpus the exact saying occurs 8 times in 6 texts. Independent witnesses preserve attribution to Baizhang, its later status as an injunction for communal labor, and Hongzhi's house-style quotation. No competing wording establishes a separate sense.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-15T14:00:00Z"
   },
@@ -16776,18 +16777,20 @@
   },
   {
     "SourceTerm": "坐禪",
-    "PreferredTarget": "Zen work while seated",
+    "PreferredTarget": "the seated Chan procedure",
     "AlternateTargets": [
-      "sitting Zen",
-      "to sit in Zen"
+      "regulated sitting Chan",
+      "seated Chan"
     ],
     "SearchAliases": [
-      "sitting Zen",
-      "seated Zen work",
-      "Zen while seated"
+      "sitting dhyana",
+      "seated dhyana",
+      "regulated sitting",
+      "Chan sitting",
+      "dhyana procedure"
     ],
-    "Status": "allowed",
-    "Note": "Some retained records make bodily sitting or hall orientation explicit, but none defines a generic contemplative procedure; several criticize posture, concentration-seeking, or treating sitting as attainment.",
+    "Status": "preferred",
+    "Note": "Across the collected corpus the headword has 1,207 exact occurrences in 265 texts. Nine retained anchors across six sources establish or directly appraise the regulated seated procedure. The instruction-genre falsification survives: titled rules, sequential body directions, hall orientation, and prolonged sitting all occur in the collected corpus. Criticism and rejection remain in this sense whenever their object is the recognizable bodily procedure. Apparent matches formed by the verb sit immediately before the longer noun Chan seat were boundary-screened and do not buy depth.",
     "CreatedBy": "Codex fresh-build lane C",
     "WrittenUtc": null
   },
@@ -30339,16 +30342,23 @@
   },
   {
     "SourceTerm": "攝心",
-    "PreferredTarget": "collect the mind",
-    "AlternateTargets": [],
+    "PreferredTarget": "gather the mind",
+    "AlternateTargets": [
+      "draw in the mind",
+      "collect the mind",
+      "hold the mind in"
+    ],
     "SearchAliases": [
-      "hold the mind collected",
-      "restrain the mind"
+      "gather the mind",
+      "collect the mind",
+      "draw in the mind",
+      "hold the mind in",
+      "gathering mind"
     ],
     "Status": "preferred",
-    "Note": "The verb does not by itself specify posture or a particular contemplative system. Its object and purpose are supplied locally, and one retained authored passage explicitly criticizes mere collection of mind.",
-    "CreatedBy": "R19 clean-regeneration constructor B",
-    "WrittenUtc": "2026-07-30T04:00:00Z"
+    "Note": "In the Extended Record of Yongjue Yuanxian, Yongjue quotes \"gathering the mind is called restraint\" (攝心名戒), then challenges it point by point: \"what thing is mind that it can be gathered? What thing is gathering that it can gather mind? Water does not wash water\" (心是何物而可攝？攝又是何物而可攝心？水不洗水). Yongming Yanshou's Source-Mirror Record states that before reaching its stated gate, \"saying right makes wrong; gathering the mind is still an error\" (說是成非。攝心猶錯。). Shiwu Qinggong's verse in his recorded sayings, compiled by his disciples, retains the ordinary finite action by listing the day's tasks and \"gathering the mind to drive off sleep\" (攝心除睡). Counted forms include \"gathering the mind is called restraint\" (攝心名戒, two occurrences in two texts), \"gather the mind to drive off sleep\" (攝心除睡, one in one), \"the way of gathering the mind\" (攝心之法, one), \"place of gathering the mind\" (攝心處, one), and \"gather the mind and illuminate within\" (攝心內照, three in three). The entry records the action and the texts' own challenges without resolving those challenges into an external system.",
+    "CreatedBy": "Codex fresh-build lane C",
+    "WrittenUtc": "2026-07-19T03:35:56.679037+00:00"
   },
   {
     "SourceTerm": "攢花簇錦",
@@ -49430,6 +49440,25 @@
     "Note": "The cited cases preserve Yuanwu Keqin’s two appraisals, his fuller contrast with inability to slip free, and Yuanjie Jingying’s hall criticism.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T14:48:53.050142Z"
+  },
+  {
+    "SourceTerm": "粥飯",
+    "PreferredTarget": "the monastery's meal routine",
+    "AlternateTargets": [
+      "the communal meal system",
+      "the two daily meals"
+    ],
+    "SearchAliases": [
+      "monastery meal routine",
+      "communal meal schedule",
+      "monastery meals",
+      "two daily meals",
+      "meal provision"
+    ],
+    "Status": "preferred",
+    "Note": "The allowlisted concordance has 668 hits in 223 texts. Institutional families include the two gruel-and-rice mealtimes (二時粥飯) and the gruel-and-rice host (粥飯主人). These are deployments of one communal meal system, not separate senses. That organized institution is distinct from the physical food eaten and smelled in the second sense.",
+    "CreatedBy": "Codex",
+    "WrittenUtc": "2026-07-13T00:00:00Z"
   },
   {
     "SourceTerm": "粥飯主人",
