@@ -237136,14 +237136,14 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "The older line presses for stopping now: someone who waits to find a later moment when the work is finished will never find that moment. Yuanwu uses it after years of sustained inquiry, and Tian'an quotes it while warning against treating awakening as a debt with a scheduled payoff. Yinyuan gives it when a monk leaves the hall; Azi uses it in a memorial address about life and death.",
+          "Note": "The older line presses for stopping now: someone who waits to find a later moment when the work is finished will never find that moment. Yuanwu quotes and applies it after years of sustained inquiry, and Tian'an quotes it while warning against treating awakening as a debt with a scheduled payoff. Yinyuan gives it when a monk leaves the hall; Azi uses it in a memorial address about life and death.",
           "Occurrences": [
             {
               "RelPath": "X/X69/X69n1357.xml",
               "FromLb": "0482a15",
               "ToLb": "0482b11",
               "Kwic": "深沉為最易為力，只略返照一透便可證入，古人謂此為無盡藏，亦名如意珠，亦號金剛寶劒，要深具信根，信此不從他得，行住坐臥凝神寂照，淨倮倮地無間無斷，自然諸見不生，契此正體，不生不滅、非有非無、無實無虗、離名離相，即是當人本地風光、本來面目也。古德所以揚眉瞬目、拈槌豎拂、行杖行喝、微言妙句、百千億方便，無不令人向此透脫，一纔透得便深徹源，棄却敲門瓦子，了無毫髮當情，三十二十年於中履踐截斷、路布葛藤、閑機破境、翛然無心，乃安樂之歇場也。所以道：即今休去便休去，若覓了時無了時。摩竭掩室，毗耶杜詞，人皆以為極致，殊未夢見渠脚指頭在。大人大見，大智大用，豈拘格量哉？直是痛的的地，恨不兩手分付，那論淺深得失，彼我現量紛紜，和泥合水耶？且如佛未出世，祖師未來，世界未成，虗空未現，向甚處捫摸？要須喪却機心，死却知見，脫去世智，辯聰放下，直如枯木朽株相似，驀地體得到絕氣息處，淡然忘懷，萬年一念，將養保衛，久久純熟。子細返觀，便諳得摩竭淨名來脉也。趙州臨示寂，封一柄拂子送與鎮府大王，云：此是老僧一生用不盡底。原其高識遠見",
-              "MasterName": "Yuanwu Keqin",
+              "MasterName": null,
               "Curated": true,
               "ContextMasters": [
                 {
@@ -237154,7 +237154,24 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X69/X69n1357.xml). Essentials of the Mind by Chan Master Foguo Keqin. Yuanwu places immediate stopping after sustained inquiry."
+              "AttributionNote": "Source record (X/X69/X69n1357.xml). Exact source turn: The exact line is an inherited saying quoted by Yuanwu; Yuanwu is the present commentator and letter author.",
+              "ActorAttribution": {
+                "Status": "reviewed-unnamed",
+                "Kind": "unidentified earlier speaker",
+                "ActorLabel": null,
+                "ActorRole": "utterer",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "GrammarEvidence": "Yuanwu explicitly introduces the exact line with So it is said. Its prior speaker is unnamed; Yuanwu applies it in his letter.",
+                "ReviewedBy": "Codex source-first actor packet 23",
+                "ReviewedUtc": "2026-10-29T00:00:00Z"
+              }
             },
             {
               "RelPath": "J/J26/J26nB187.xml",
@@ -237245,7 +237262,7 @@
             "Azi Jinwu"
           ],
           "RelatedTerms": [],
-          "Explanation": "‘If you can stop now, stop now; if you seek a time when it is done, no such time will come’ presses for a present release. Masters apply it to the wish for a final, scheduled state that can always be put off until later. Yuanwu cites the line after describing years of inquiry and release of its props. Tian'an gives it after warning that awakening cannot be repaid or achieved as a dated debt. Yinyuan says it when a monk exits after a challenge about the first gate. Chaozong quotes it to a lay patron and asks why he should wait any longer. Azi gives the line at a memorial after asking where the deceased now abides, then says one further unsaid line still remains."
+          "Explanation": "‘If you can stop now, stop now; if you seek a time when it is done, no such time will come’ presses for a present release. Masters apply it to the wish for a final, scheduled state that can always be put off until later. Yuanwu cites an unnamed older line after describing years of inquiry and release of its props. Tian'an gives it after warning that awakening cannot be repaid or achieved as a dated debt. Yinyuan says it when a monk exits after a challenge about the first gate. Chaozong quotes it to a lay patron and asks why he should wait any longer. Azi gives the line at a memorial after asking where the deceased now abides, then says one further unsaid line still remains."
         }
       ]
     },
@@ -438487,7 +438504,8 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai (無異元來禪師廣錄). Speaker: Wuyi Yuanlai."
+              "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai (無異元來禪師廣錄). Speaker: Wuyi Yuanlai.",
+              "ClaimText": "心源"
             },
             {
               "RelPath": "X/X68/X68n1319.xml",
@@ -438514,7 +438532,8 @@
                 "GrammarEvidence": "The headword lies in the continuous 悟真篇後序 prose; no dialogue or master turn intervenes.",
                 "ReviewedBy": "Gate 3 scholarly repair lane X full-case review",
                 "ReviewedUtc": "2026-07-22T01:43:39Z"
-              }
+              },
+              "ClaimText": "心源"
             },
             {
               "RelPath": "J/J27/J27nB197.xml",
@@ -438524,7 +438543,8 @@
               "MasterName": "Daoxin",
               "Curated": true,
               "ContextMasters": [],
-              "AttributionNote": "Source record (J/J27/J27nB197.xml). Essentials of the Recorded Sayings of Master Wu Yi of Boshan (博山無異大師語錄集要). Speaker: Daoxin."
+              "AttributionNote": "Source record (J/J27/J27nB197.xml). Essentials of the Recorded Sayings of Master Wu Yi of Boshan (博山無異大師語錄集要). Speaker: Daoxin.",
+              "ClaimText": "心源"
             },
             {
               "RelPath": "T/T51/T51n2076.xml",
@@ -438551,7 +438571,8 @@
                 "GrammarEvidence": "The TEI heading 景德傳燈錄序 explicitly names 臣楊億撰; 心源 occurs in Yang Yi's continuous preface prose.",
                 "ReviewedBy": "Gate 3 scholarly repair lane X full-case review",
                 "ReviewedUtc": "2026-07-22T01:43:39Z"
-              }
+              },
+              "ClaimText": "心源"
             },
             {
               "RelPath": "X/X78/X78n1556.xml",
@@ -438568,7 +438589,8 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X78/X78n1556.xml). Jianzhong Jingguo Continued Lamp Record (建中靖國續燈錄). Speaker: Fenyang Shanzhao."
+              "AttributionNote": "Source record (X/X78/X78n1556.xml). Jianzhong Jingguo Continued Lamp Record (建中靖國續燈錄). Speaker: Fenyang Shanzhao.",
+              "ClaimText": "心源"
             },
             {
               "RelPath": "X/X80/X80n1565.xml",
@@ -438577,8 +438599,17 @@
               "Kwic": "是甚麼。師無語。少選。祖却於師宴坐石上書一佛字。師覩之竦然。祖曰。猶有這箇在。師未曉。乃稽首請說真要。祖曰。夫百千法門。同歸方寸。河沙妙德。總在心源。一切戒門．定門．慧門．神通變化。悉自具足。不離汝心。一切煩惱業障。本來空寂。一切因果。皆如夢幻。無三界可出。無菩提可求。人與非人。性相平等。大道虗曠。絕思絕慮。如是之法。汝今已得。更",
               "MasterName": "Daoxin",
               "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Speaker: Daoxin."
+              "ContextMasters": [
+                {
+                  "MasterName": "Daoxin",
+                  "Roles": [
+                    "utterer",
+                    "case-figure"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X80/X80n1565.xml). In Farong's biography, the visitor explicitly identifies himself as Daoxin and continues answering with the exact source-of-mind phrase.",
+              "ClaimText": "心源"
             },
             {
               "RelPath": "X/X82/X82n1571.xml",
@@ -438605,7 +438636,8 @@
                 "GrammarEvidence": "The biography identifies 清獻公趙抃居士, then 作偈曰 introduces his verse 心源不動湛如水.",
                 "ReviewedBy": "Gate 3 scholarly repair lane X full-case review",
                 "ReviewedUtc": "2026-07-22T01:43:39Z"
-              }
+              },
+              "ClaimText": "心源"
             }
           ],
           "SourceTexts": [
@@ -438619,6 +438651,7 @@
           ],
           "RelatedMasters": [
             "Wuyi Yuanlai",
+            "Daoxin",
             "Fenyang Shanzhao"
           ],
           "RelatedTerms": [],
@@ -879855,7 +879888,7 @@
               "FromLb": "0049c14",
               "ToLb": "0049c28",
               "Kwic": "下去。』僧便出，川云：『若不恁麼，爭知眼目端的？』僧拊掌云：『苦殺人，幾錯州諸方老宿。』川肯之。僧舉似丹霞，霞云：『於大用法道即得，於我者裡即不然。』僧云：『未審此間作麼生？』霞云：『猶較大用三步。』僧禮拜，霞云：『錯判諸方底甚多。』洞山聞云：『不是丹霞，難分玉石。』」拈云：「洞山老漢失卻一隻眼，須知者僧禮拜不是好心，只是後來少一轉語，前話不圓，所以遭人簡點。當時待丹霞云：『錯判諸方底甚多。』但拊掌笑云：『者老漢大似不打自招。』如此則任是老丹霞，也未免疑著。」舉：「二祖云：『至道無難，唯嫌揀擇，但莫憎愛，洞然明白。』德山繪和尚云：『至道最難，須是揀擇，若無憎愛，爭見明白？』」拈云：「者兩個老古錐，同行不同步，同得不同失，指望盡力扶持至道，殊不知一個被無難等蓋卻、一個被最難等蓋卻，至今無有出頭處，更說甚麼明白？山僧恁麼批判，眾中莫有傍不甘者道他明白。且道甚麼處是明白處？試出來對眾指出看。」舉：「趙州云：『至道無難，唯嫌揀擇。纔有語言，是揀擇？是明白？老僧不在明白裡，諸人作麼生護惜？』時有僧問：『既不在明白裡，護惜個甚麼？』州云：『我亦不知。』云：『和尚既不知，為甚道",
-              "MasterName": "Miyun Yuanwu",
+              "MasterName": null,
               "Curated": true,
               "ContextMasters": [
                 {
@@ -879866,7 +879899,24 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J10/J10nA158.xml). Miyun Yuanwu uses or actively comments on the complete line in the present teaching turn; inherited first speaker remains earlier."
+              "AttributionNote": "Source record (J/J10/J10nA158.xml). Exact source turn: The exact line is the older Second Patriarch saying quoted by Miyun; Miyun speaks only in the following appraisal.",
+              "ActorAttribution": {
+                "Status": "identified-unlinked-master",
+                "Kind": "quoted Second Patriarch in Miyun record",
+                "ActorLabel": "Second Patriarch (identity unresolved)",
+                "ActorRole": "utterer",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "GrammarEvidence": "Miyun introduces the exact line with Second Patriarch said, then comments after the closing quote. The ordinal does not resolve a roster identity in this turn.",
+                "ReviewedBy": "Codex source-first actor packet 23",
+                "ReviewedUtc": "2026-10-29T00:00:00Z"
+              }
             },
             {
               "RelPath": "J/J25/J25nB174.xml",
@@ -880038,7 +880088,7 @@
             "Yushan Shangsi"
           ],
           "RelatedTerms": [],
-          "Explanation": "The supreme Way is not difficult; it only dislikes choosing and rejecting. The inherited line turns attention from preference-making toward unforced accord. Selected current source uses: Yi'an Shanzan in J37nB394, Linye Tongqi in J26nB186, Baiyu Jingsi in J36nB359, Miyun Yuanwu in J10nA158, Juelang Daosheng in J25nB174, Yushan Shangsi in J40nB494. The complete wording is the entry unit. Ordinary practical distinctions still matter."
+          "Explanation": "The supreme Way is not difficult; it only dislikes choosing and rejecting. The inherited line turns attention from preference-making toward unforced accord. Selected current source uses: Yi'an Shanzan in J37nB394, Linye Tongqi in J26nB186, Baiyu Jingsi in J36nB359, Miyun quotes an older Second Patriarch in J10nA158, Juelang Daosheng in J25nB174, Yushan Shangsi in J40nB494. The complete wording is the entry unit. Ordinary practical distinctions still matter."
         }
       ]
     },
