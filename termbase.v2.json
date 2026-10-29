@@ -63394,30 +63394,6 @@
               ]
             },
             {
-              "RelPath": "J/J26/J26nB178.xml",
-              "FromLb": "0120c17",
-              "ToLb": "0120c18",
-              "Kwic": "趙州得財乃下禪床走一匝，回報云：『轉藏經已竟。』",
-              "MasterName": "Feiyin Tongrong",
-              "Curated": true,
-              "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong raises the case in which Zhaozhou gets down from the Chan seat and walks one circuit.",
-              "ContextMasters": [
-                {
-                  "MasterName": "Feiyin Tongrong",
-                  "Roles": [
-                    "utterer",
-                    "later-raiser"
-                  ]
-                },
-                {
-                  "MasterName": "Zhaozhou Congshen",
-                  "Roles": [
-                    "case-figure"
-                  ]
-                }
-              ]
-            },
-            {
               "RelPath": "X/X81/X81n1571.xml",
               "FromLb": "0462b10",
               "ToLb": "0462b15",
@@ -63464,41 +63440,6 @@
               ]
             },
             {
-              "RelPath": "C/C077/C077n1710.xml",
-              "FromLb": "0710c19",
-              "ToLb": "0710c19",
-              "Kwic": "師下禪床",
-              "Curated": true,
-              "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Exact actor: the Zhaozhou-record narrator. The complete source unit assigns the retained words to the Zhaozhou-record narrator.",
-              "ContextMasters": [
-                {
-                  "MasterName": "Zhaozhou Congshen",
-                  "Roles": [
-                    "case-figure",
-                    "person-described",
-                    "section-subject"
-                  ]
-                }
-              ],
-              "ActorAttribution": {
-                "Status": "narrated",
-                "Kind": "narrated bodily action",
-                "ActorLabel": "the Zhaozhou-record narrator",
-                "ActorRole": "compiler",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "The narrator reports Zhaozhou Congshen descending from the Chan seat.",
-                "ReviewedBy": "Codex quality-debt lane A full-entry repair",
-                "ReviewedUtc": "2026-07-16T00:00:00Z"
-              }
-            },
-            {
               "RelPath": "C/C078/C078n1720.xml",
               "FromLb": "0675c09",
               "ToLb": "0675c15",
@@ -63534,9 +63475,9 @@
             },
             {
               "RelPath": "X/X64/X64n1260.xml",
-              "FromLb": "0006c03",
-              "ToLb": "0006c08",
-              "Kwic": "木虫魚呈祥瑞、顯奇特，皆皇帝至德之所感致也。伏願南山比壽，北嶽齊齡，永永萬年，無窮無極。遂下禪床作舞，曰：會麼？山僧舞蹈揚塵，萬歲萬歲萬萬歲。下座。虎丘隆禪師聖節，上堂：示現天宮補處身，堯風舜日耀乾坤。今朝共祝南山壽",
+              "FromLb": "0006c05",
+              "ToLb": "0006c06",
+              "Kwic": "遂下禪床作舞，曰：會麼？山僧舞蹈揚塵，萬歲萬歲萬萬歲。下座。",
               "Curated": true,
               "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs. Exact actor: the unnamed imperial-address compiler narrating Foyan Qingyuan’s dance. The complete source unit assigns the retained words to the unnamed imperial-address compiler narrating Foyan Qingyuan’s dance.",
               "ContextMasters": [
@@ -63650,12 +63591,13 @@
               "ToLb": "0120c19",
               "Kwic": "褒一貶，天淵各別，且道淆訛在甚麼處？若向者裏辨別得出，則佛祖禪機一時覷破，當人生死亦自明了，若去若來，活活潑潑。又有一婆子，將淨財請趙州老漢代轉藏經，趙州得財乃下禪床走一匝，回報云：『轉藏經已竟。』婆子聞得便云：『適來請轉全藏，為甚只轉半藏？』",
               "Curated": true,
-              "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Exact actor: Feiyin Tongrong. The complete source unit assigns the retained words to Feiyin Tongrong.",
+              "AttributionNote": "Source record (J/J26/J26nB178.xml). Feiyin Tongrong recounts the older Zhaozhou scripture-turning case; Zhaozhou is the bodily actor of the descent, and Feiyin is the current narrator/commentator.",
               "ContextMasters": [
                 {
                   "MasterName": "Feiyin Tongrong",
                   "Roles": [
-                    "utterer"
+                    "commentator",
+                    "record-owner"
                   ]
                 },
                 {
@@ -63665,30 +63607,122 @@
                   ]
                 }
               ],
-              "MasterName": "Feiyin Tongrong"
+              "MasterName": null,
+              "ActorAttribution": {
+                "Status": "narrated",
+                "Kind": "narrated inherited bodily action",
+                "ActorLabel": "Feiyin Tongrong as current case narrator",
+                "ActorRole": "narrator",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "GrammarEvidence": "The sentence names Zhaozhou as the person who descends from the Chan seat; Feiyin recounts that older action inside his own sermon and does not perform the descent.",
+                "ReviewedBy": "candidate_vet source-first actor correction",
+                "ReviewedUtc": "2026-10-30T00:00:00Z"
+              }
             }
           ],
           "ClaimAnchors": [
             {
-              "ClaimText": "見人無力下禪床",
-              "OccurrenceIndexes": [
-                0
+              "RelPath": "X/X78/X78n1554.xml",
+              "FromLb": "0580a24",
+              "ToLb": "0580b01",
+              "Kwic": "師曰：自小持齋身已老，見人無力下禪床。王尤加禮重。",
+              "MasterName": "Zhaozhou Congshen",
+              "Curated": true,
+              "AttributionNote": "Source record (X/X78/X78n1554.xml). Praise of the Orthodox Lineage of the Five Houses. Zhaozhou Congshen tells the visiting prince that he is now too old to get down from the Chan seat for people.",
+              "ContextMasters": [
+                {
+                  "MasterName": "Zhaozhou Congshen",
+                  "Roles": [
+                    "utterer"
+                  ]
+                }
               ],
-              "Curated": true
+              "ClaimText": "見人無力下禪床"
             },
             {
-              "ClaimText": "濟下禪床擒住",
-              "OccurrenceIndexes": [
-                1
+              "RelPath": "J/J25/J25nB165.xml",
+              "FromLb": "0291c13",
+              "ToLb": "0291c14",
+              "Kwic": "舉定上座問臨濟：「如何是佛法大意？」濟下禪床擒住，與一掌便托開，定佇立傍。",
+              "MasterName": null,
+              "Curated": true,
+              "AttributionNote": "Source record (J/J25/J25nB165.xml). Bamboo Chamber Collection of Chan Master Dawei. Dawei Jinglun raises the case in which Linji gets down from the Chan seat, seizes Ding, strikes him, and pushes him away.",
+              "ActorAttribution": {
+                "Status": "identified-unlinked-master",
+                "Kind": "source-named Chan master",
+                "ActorLabel": "Dawei Jinglun",
+                "ActorRole": "utterer",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "GrammarEvidence": "The marker 舉 introduces Dawei Jinglun's raised narration of Linji's bodily action.",
+                "ReviewedBy": "Sol Luna127 independent final integration",
+                "ReviewedUtc": "2026-08-02T22:30:00Z"
+              },
+              "ContextMasters": [
+                {
+                  "MasterName": "Linji Yixuan",
+                  "Roles": [
+                    "case-figure",
+                    "person-described"
+                  ]
+                }
               ],
-              "Curated": true
+              "ClaimText": "濟下禪床擒住"
             },
             {
+              "RelPath": "J/J26/J26nB178.xml",
+              "FromLb": "0120c14",
+              "ToLb": "0120c19",
+              "Kwic": "褒一貶，天淵各別，且道淆訛在甚麼處？若向者裏辨別得出，則佛祖禪機一時覷破，當人生死亦自明了，若去若來，活活潑潑。又有一婆子，將淨財請趙州老漢代轉藏經，趙州得財乃下禪床走一匝，回報云：『轉藏經已竟。』婆子聞得便云：『適來請轉全藏，為甚只轉半藏？』",
+              "Curated": true,
+              "AttributionNote": "Source record (J/J26/J26nB178.xml). Feiyin Tongrong recounts the older Zhaozhou scripture-turning case; Zhaozhou is the bodily actor of the descent, and Feiyin is the current narrator/commentator.",
+              "ContextMasters": [
+                {
+                  "MasterName": "Feiyin Tongrong",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                },
+                {
+                  "MasterName": "Zhaozhou Congshen",
+                  "Roles": [
+                    "case-figure"
+                  ]
+                }
+              ],
+              "MasterName": null,
               "ClaimText": "下禪床走一匝",
-              "OccurrenceIndexes": [
-                3
-              ],
-              "Curated": true
+              "ActorAttribution": {
+                "Status": "narrated",
+                "Kind": "narrated inherited bodily action",
+                "ActorLabel": "Feiyin Tongrong as current case narrator",
+                "ActorRole": "narrator",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "GrammarEvidence": "The sentence names Zhaozhou as the person who descends from the Chan seat; Feiyin recounts that older action inside his own sermon and does not perform the descent.",
+                "ReviewedBy": "candidate_vet source-first actor correction",
+                "ReviewedUtc": "2026-10-30T00:00:00Z"
+              }
             }
           ],
           "SourceTexts": [
