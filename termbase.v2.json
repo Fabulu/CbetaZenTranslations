@@ -376371,7 +376371,7 @@
     {
       "Id": "t_a1d539f0cc31",
       "SourceTerm": "富嫌千口少、貧恨一身多",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+      "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
       "CreatedBy": "Codex cohort-002 lane-B B111-B120 author",
       "WrittenUtc": "2026-07-19T12:00:00Z",
       "Senses": [
@@ -376385,7 +376385,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "The rich resent a thousand mouths as too few; the poor resent one body as too many contrasts appetite amid wealth with burden amid poverty. Wuzu Fayan speaks the complete proverb in his farewell; Hongzhi Zhengjue and Dahui Zonggao reuse it as an appraisal; Baoning Renyong closes another address with it.",
+          "Note": "The pair contrasts wanting more amid plenty with finding even one body burdensome amid poverty. Fogu uses the exact printed line to critique Wuzu; Mi'an, Xutang, Xiangya, Yuan'an, and Pufu give separate present uses. Hongzhi's qiong variant in his own recorded sayings is stronger than the parallel X66 lamp. Wuzu, Dahui, and Baoning supply distinct other turns.",
           "Occurrences": [
             {
               "RelPath": "X/X82/X82n1571.xml",
@@ -376403,26 +376403,6 @@
                 }
               ],
               "AttributionNote": "Source record (X/X82/X82n1571.xml). At 0081a20, the recorded speech cue assigns the retained clause to Wuzu Fayan as direct-turn. Authoritative English source title: Complete Five Lamps (Vols. 34–120).",
-              "EvidenceRole": "variant",
-              "VariantForm": "富嫌千口少，貧恨一身多",
-              "VariantKind": "editorial-punctuation"
-            },
-            {
-              "RelPath": "X/X66/X66n1297.xml",
-              "FromLb": "0553a15",
-              "ToLb": "0553a17",
-              "Kwic": "是相見語，不是相見語？黃龍南云：總似今日曹溪絕流。天童覺云：富嫌千口少，貧恨一身多。雲居莊云：老胡",
-              "MasterName": "Hongzhi Zhengjue",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Hongzhi Zhengjue",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X66/X66n1297.xml). At 0553a15, the recorded speech cue assigns the retained clause to Hongzhi Zhengjue as direct-turn. Authoritative English source title: Grove of the Mirror of the School.",
               "EvidenceRole": "variant",
               "VariantForm": "富嫌千口少，貧恨一身多",
               "VariantKind": "editorial-punctuation"
@@ -376466,23 +376446,180 @@
               "EvidenceRole": "variant",
               "VariantForm": "富嫌千口少，貧恨一身多",
               "VariantKind": "editorial-punctuation"
+            },
+            {
+              "RelPath": "J/J36/J36nB364.xml",
+              "FromLb": "0802a07",
+              "ToLb": "0802a11",
+              "Kwic": "晚參。舉：「五祖演禪師示眾云：『四五百石麥，二三千石稻，好箇休糧方，耆婆不得玅。』」師云：「五祖和尚大似富嫌千口少、貧恨一身多，爭似香林這裏園無半莖菜、廩無一粒米，信手拈將來供養諸賢者？阿呵呵！真快活，夜半鐘聲敲未斷，",
+              "MasterName": "Fogu Xingwen",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Fogu Xingwen",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J36/J36nB364.xml). Fogu compares Wuzu with the shortage of provisions in his own hall.",
+              "EvidenceRole": "exact"
+            },
+            {
+              "RelPath": "T/T47/T47n1999.xml",
+              "FromLb": "0970b12",
+              "ToLb": "0970b17",
+              "Kwic": "。我宗無語句。亦無一法與人如何。師云。殺人刀。活人劍。進云。臨濟道。赤肉團上。壁立千仞。又作麼生。師云。富嫌千口少。貧恨一身多。進云。長袖善舞。多財善賈。師云。且喜沒交涉。進云。二大老恁麼告報。輝映古今。未審靈隱作麼生",
+              "MasterName": "Mi'an Xianjie",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Mi'an Xianjie",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (T/T47/T47n1999.xml). Mi'an answers a monk who asks about Linji; the pair is his own reply.",
+              "EvidenceRole": "variant",
+              "VariantForm": "富嫌千口少。貧恨一身多",
+              "VariantKind": "editorial-punctuation"
+            },
+            {
+              "RelPath": "T/T47/T47n2000.xml",
+              "FromLb": "1045b03",
+              "ToLb": "1045b09",
+              "Kwic": "跳。不比諸方琉璃甕子禪。師云。五祖老手舊𩨘膊。淨慈鷄皮鼓子。不勞重擊。有般漢便道。虛堂年老心孤。殊不知。富嫌千口少。貧恨一身多。次日上堂。舉。溈山問仰山。子一夏不上來公案。師拈云。溈山家法森嚴。只是仰山。不合道著祖諱。",
+              "MasterName": "Xutang Zhiyu",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Xutang Zhiyu",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (T/T47/T47n2000.xml). Xutang counters the imagined objection that his old age has made him solitary.",
+              "EvidenceRole": "variant",
+              "VariantForm": "富嫌千口少。貧恨一身多",
+              "VariantKind": "editorial-punctuation"
+            },
+            {
+              "RelPath": "J/J34/J34nB308.xml",
+              "FromLb": "0538c16",
+              "ToLb": "0538c20",
+              "Kwic": "解制，上堂。「函蓋乾坤，截斷眾流，隨波逐浪。此三句若一一分析得出，與汝諸人解制，許伊有出身路。其或未然，富嫌千口少，貧恨一身多。」住大酉鐵鶴菴，上堂。問：「達磨不立文字，今日更有佛法可說否？」師云：「一華開後一華開。」",
+              "MasterName": "Xiangya Ting",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Xiangya Ting",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J34/J34nB308.xml). Xiangya uses the pair to close his retreat-release instruction.",
+              "EvidenceRole": "variant",
+              "VariantForm": "富嫌千口少，貧恨一身多",
+              "VariantKind": "editorial-punctuation"
+            },
+            {
+              "RelPath": "J/J37/J37nB386.xml",
+              "FromLb": "0364a15",
+              "ToLb": "0364a20",
+              "Kwic": "可謂一著高一著、一步高一步，檢點將來，大似商君立法、蕭何制律。秖如山僧今日與麼屙碌碌地，且道是同？是別？富嫌千口少，貧恨一身多。」上堂。「眾生因貪、瞋、癡墮三惡道，諸佛以貪、瞋、癡成等正覺。何也？諸佛不貪，安能萬德莊嚴",
+              "MasterName": "Yuan'an Feng",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yuan'an Feng",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J37/J37nB386.xml). Yuan'an uses the pair to answer whether his own conduct matches two elders.",
+              "EvidenceRole": "variant",
+              "VariantForm": "富嫌千口少，貧恨一身多",
+              "VariantKind": "editorial-punctuation"
+            },
+            {
+              "RelPath": "J/J40/J40nB493.xml",
+              "FromLb": "0522b25",
+              "ToLb": "0522b29",
+              "Kwic": "如何是真言？』州云：『唵部林㗶。』」師云：「恁麼，恁麼，鐵輪天子寰中敕，帝釋天宮放赦書。不恁麼，不恁麼，富嫌千口少，貧恨一身多。何故？不見道：『去年貧，未是貧；今年貧，始是貧。去年貧，猶有卓錐之地；今年貧，錐也無。』雖",
+              "MasterName": "Pufu Zhuo",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Pufu Zhuo",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J40/J40nB493.xml). Pufu contrasts two ways of handling a Zhaozhou case and voices the pair.",
+              "EvidenceRole": "variant",
+              "VariantForm": "富嫌千口少，貧恨一身多",
+              "VariantKind": "editorial-punctuation"
+            },
+            {
+              "RelPath": "J/J32/J32nB272.xml",
+              "FromLb": "0187a23",
+              "ToLb": "0187a28",
+              "Kwic": "，買帽相頭，食魚去骨。」舉：「長慶云：『總似今日，老胡有望。』保福云：『總似今日，老胡絕望。』」拈云：「富嫌千口少，窮恨一身多。」舉：「僧問石霜：『真身還出世也無？』霜云：『不出世。』僧云：『奈真身何？』霜云：『琉璃瓶",
+              "MasterName": "Hongzhi Zhengjue",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Hongzhi Zhengjue",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J32/J32nB272.xml). Hongzhi gives the qiong variant as his own capping line for Changqing and Baofu.",
+              "EvidenceRole": "variant",
+              "VariantForm": "富嫌千口少，窮恨一身多",
+              "VariantKind": "lexical-qiong-for-pin"
             }
           ],
           "SourceTexts": [
             "X/X82/X82n1571.xml",
-            "X/X66/X66n1297.xml",
             "X/X83/X83n1578.xml",
-            "X/X64/X64n1260.xml"
+            "X/X64/X64n1260.xml",
+            "J/J36/J36nB364.xml",
+            "T/T47/T47n1999.xml",
+            "T/T47/T47n2000.xml",
+            "J/J34/J34nB308.xml",
+            "J/J37/J37nB386.xml",
+            "J/J40/J40nB493.xml",
+            "J/J32/J32nB272.xml"
           ],
           "RelatedMasters": [
             "Wuzu Fayan",
-            "Hongzhi Zhengjue",
             "Dahui Zonggao",
-            "Baoning Renyong"
+            "Baoning Renyong",
+            "Fogu Xingwen",
+            "Mi'an Xianjie",
+            "Xutang Zhiyu",
+            "Xiangya Ting",
+            "Yuan'an Feng",
+            "Pufu Zhuo",
+            "Hongzhi Zhengjue"
           ],
           "RelatedTerms": [],
           "ClaimAnchors": [],
-          "Explanation": "The rich resent a thousand mouths as too few; the poor resent one body as too many contrasts appetite amid wealth with burden amid poverty. Wuzu Fayan speaks the complete proverb in his farewell; Hongzhi Zhengjue and Dahui Zonggao reuse it as an appraisal; Baoning Renyong closes another address with it."
+          "Explanation": "The rich find a thousand mouths too few; the poor find one body too many. The line names opposing forms of dissatisfaction, without praising wealth or poverty. Distinct current turns by six recorded teachers extend the older saying; Hongzhi gives a qiong variant."
         }
       ]
     },
