@@ -30307,18 +30307,6 @@
     "WrittenUtc": "2026-07-21T08:00:00Z"
   },
   {
-    "SourceTerm": "家肥生孝子，國覇有謀臣",
-    "PreferredTarget": "a prosperous house produces filial children and a dominant state has able ministers",
-    "AlternateTargets": [],
-    "SearchAliases": [
-      "a prosperous house produces filial children and a dominant state has able ministers"
-    ],
-    "Status": "preferred",
-    "Note": "The records preserve the maxim without making household prosperity or state dominance a universal rule.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-19T17:30:38.341830Z"
-  },
-  {
     "SourceTerm": "家肥生孝子，國霸有謀臣",
     "PreferredTarget": "A thriving household produces filial children; a powerful state has able ministers",
     "AlternateTargets": [
@@ -35198,20 +35186,6 @@
   },
   {
     "SourceTerm": "心不負人，面無慙色",
-    "PreferredTarget": "the heart has failed no one and the face bears no shame",
-    "AlternateTargets": [],
-    "SearchAliases": [
-      "clear conscience",
-      "face without shame",
-      "heart fails no one"
-    ],
-    "Status": "preferred",
-    "Note": "The cited works use the paired line after a probing question, an expulsion case, a visitor’s question, and Nanquan’s broken-pot case.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-19T13:47:01.744651Z"
-  },
-  {
-    "SourceTerm": "心不負人，面無慙色",
     "PreferredTarget": "a heart that has failed no one, a face without shame",
     "AlternateTargets": [
       "clear of blame and unashamed"
@@ -35222,7 +35196,7 @@
       "clear of blame and unashamed"
     ],
     "Status": "preferred",
-    "Note": "The two appraisals concern different cases and are preserved in separate discourse works.",
+    "Note": "The Dahui Nanquan cooking-pot appraisal also appears in X83n1578 as a parallel transport; the same case is counted once.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-19T13:47:01.744651Z"
   },
@@ -61381,20 +61355,6 @@
     "Note": "Exact corpus count: 166 hits in 106 files representing 105 independent works. Evidence floor: 6. Lamps do not control this sense.",
     "CreatedBy": "r9 fresh10k curation agent A1",
     "WrittenUtc": "2026-09-06T09:41:54Z"
-  },
-  {
-    "SourceTerm": "白雲盡處是青山，行人更在青山外",
-    "PreferredTarget": "green mountains beyond the white clouds, with the traveller farther beyond them",
-    "AlternateTargets": [],
-    "SearchAliases": [
-      "beyond the green mountains",
-      "white clouds end",
-      "traveller farther beyond"
-    ],
-    "Status": "preferred",
-    "Note": "The two landscape clauses remain one ordered image, carrying the traveller beyond both clouds and mountains.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-19T14:14:02.871828Z"
   },
   {
     "SourceTerm": "白雲盡處是青山，行人更在青山外",

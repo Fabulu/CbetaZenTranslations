@@ -375220,140 +375220,6 @@
       ]
     },
     {
-      "Id": "t_f911fd56520f",
-      "SourceTerm": "家肥生孝子，國覇有謀臣",
-      "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
-      "CreatedBy": "author_from_packet",
-      "WrittenUtc": "2026-07-19T17:30:38.341830Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "a prosperous house produces filial children and a dominant state has able ministers",
-          "AlternateTargets": [],
-          "SearchAliases": [
-            "a prosperous house produces filial children and a dominant state has able ministers"
-          ],
-          "Status": "preferred",
-          "Validation": "multi-source",
-          "Note": "The records preserve the maxim without making household prosperity or state dominance a universal rule.",
-          "Occurrences": [
-            {
-              "RelPath": "X/X67/X67n1299.xml",
-              "FromLb": "0056b15",
-              "ToLb": "0056c01",
-              "Kwic": "竪拂因緣，此二尊宿意旨如何？仰云：此是顯大機之用。溈云：馬祖出八十四人善知識，幾人得大機？幾人得大用？仰云：百丈得大機，黃檗得大用，餘者盡是唱導之師。溈云：如是，如是。佛眼遠頌云：家肥生孝子，國覇有謀臣，拳頭劈口槌，未到無兒孫。百丈政禪師問南泉：諸方善知識還有不說似人底法也無？泉云：有。師云：作麼生是？泉云：不是心，不是佛。師云：恁麼即說似人了也。泉云：某甲即與麼。師云：師伯作麼生？泉云：我又不是善知識，爭知有說不說底",
-              "MasterName": "Foyan Qingyuan",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Foyan Qingyuan",
-                  "Roles": [
-                    "utterer"
-                  ]
-                },
-                {
-                  "MasterName": "Foyan Qingyuan",
-                  "Roles": [
-                    "utterer",
-                    "verse-author"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X67/X67n1299.xml). Classified Anthology of the Chan Grove. Foyan Qingyuan gives or composes the expression translated as “a prosperous house produces filial children and a dominant state has able ministers” in this bounded Classified Anthology of the Chan Grove witness."
-            },
-            {
-              "RelPath": "X/X71/X71n1414.xml",
-              "FromLb": "0309a19",
-              "ToLb": "0309b02",
-              "Kwic": "師云：一人平地上掘坑，一人虗空裡釘橛。後來琅瑘云：家肥生孝子，國覇有謀臣。師云：隨風倒柁漢。今日秀峯長老正要造个無縫塔，遠遠過我，不免贈个塔樣。良久，云：會麼？高而無上，廣莫可極；淵而無下，深不可測。浩浩波光，重重山色。一道清虗亘古今，八面香風惹衣裓。擊拂子，下座。上堂。一喝分賓主，三玄辨正",
-              "MasterName": "Langye Huijue",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Langye Huijue",
-                  "Roles": [
-                    "utterer"
-                  ]
-                },
-                {
-                  "MasterName": "Langye Huijue",
-                  "Roles": [
-                    "utterer",
-                    "respondent"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu. Langye Huijue gives or composes the expression translated as “a prosperous house produces filial children and a dominant state has able ministers” in this bounded Recorded Sayings of Chan Master Liao’an Qingyu witness."
-            },
-            {
-              "RelPath": "X/X69/X69n1359.xml",
-              "FromLb": "0510a18",
-              "ToLb": "0510b02",
-              "Kwic": "師云：高亭一期忍俊不禁，爭柰拄杖放行太速。者僧當時若是箇漢，莫道高亭、夾山，便是達磨出來也斬為三段。何故？家肥生孝子，國覇有謀臣。上堂云：少室峰前漆桶話墮，曹溪路上賺殺闍梨，是汝諸人還曾夢見也未？豈不見道：千年田，八百主，蟭螟蟲，吞却虎。復舉：臨濟問院主：什麼處去來？主云：州中糶黃米來。濟以拄杖劃一劃，云：還糶得者箇麼？主便喝，濟便打。次典座至，",
-              "MasterName": "Ying'an Tanhua",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Ying'an Tanhua",
-                  "Roles": [
-                    "utterer"
-                  ]
-                },
-                {
-                  "MasterName": "Ying'an Tanhua",
-                  "Roles": [
-                    "utterer",
-                    "respondent"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X69/X69n1359.xml). Recorded Sayings of Chan Master Ying’an Tanhua. Ying'an Tanhua gives or composes the expression translated as “a prosperous house produces filial children and a dominant state has able ministers” in this bounded Recorded Sayings of Chan Master Ying’an Tanhua witness."
-            },
-            {
-              "RelPath": "X/X69/X69n1346.xml",
-              "FromLb": "0248b04",
-              "ToLb": "0248b13",
-              "Kwic": "成諸佛菩薩。在諸佛菩薩則不增，在四生六道則不減，在比丘亦不優，在苦行亦不劣。既是不劣不優、不增不減，乃拈起拄杖云：這拄杖子因甚出頭來？指天指地道：天上天下，唯我獨尊。會麼？良久云：家肥生孝子，國覇有謀臣。乃舉：甘贄行者於南泉設粥，泉白槌云：請大眾為狸奴白牯念摩訶般若波羅蜜。甘贄禮拜出去。眾下堂，遂問典座：甘贄行者在甚麼處？座云：當時禮拜便出去。泉乃打破粥鍋。這公桉諸方，味之如嚼生銕。山僧今日因行者設粥，與大眾頌出：狸奴",
-              "MasterName": "Xuefeng Huikong",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Xuefeng Huikong",
-                  "Roles": [
-                    "utterer"
-                  ]
-                },
-                {
-                  "MasterName": "Xuefeng Huikong",
-                  "Roles": [
-                    "utterer",
-                    "respondent"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X69/X69n1346.xml). Recorded Sayings of Chan Master Xuefeng Huikong. Xuefeng Huikong gives or composes the expression translated as “a prosperous house produces filial children and a dominant state has able ministers” in this bounded Recorded Sayings of Chan Master Xuefeng Huikong witness."
-            }
-          ],
-          "SourceTexts": [
-            "X/X67/X67n1299.xml",
-            "X/X71/X71n1414.xml",
-            "X/X69/X69n1359.xml",
-            "X/X69/X69n1346.xml"
-          ],
-          "RelatedMasters": [
-            "Foyan Qingyuan",
-            "Langye Huijue",
-            "Xuefeng Huikong",
-            "Ying'an Tanhua"
-          ],
-          "RelatedTerms": [],
-          "ClaimAnchors": [],
-          "Explanation": "The phrase says that a flourishing household produces filial children and a dominant state has planning ministers. Foyan Qingyuan composes it in a verse on Baizhang and Huangbo; Langye Huijue gives it after the seamless-tower exchange; Ying'an Tanhua uses it after appraising Gaoting and Jiashan; Xuefeng Huikong closes an address with it."
-        }
-      ]
-    },
-    {
       "Id": "t_436477651e6d",
       "SourceTerm": "家肥生孝子，國霸有謀臣",
       "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
@@ -433337,141 +433203,6 @@
       ]
     },
     {
-      "Id": "t_0821ec2ba687",
-      "SourceTerm": "心不負人，面無慙色",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "author_from_packet",
-      "WrittenUtc": "2026-07-19T13:47:01.744651Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "the heart has failed no one and the face bears no shame",
-          "AlternateTargets": [],
-          "SearchAliases": [
-            "clear conscience",
-            "face without shame",
-            "heart fails no one"
-          ],
-          "Status": "preferred",
-          "Validation": "multi-source",
-          "Note": "The cited works use the paired line after a probing question, an expulsion case, a visitor’s question, and Nanquan’s broken-pot case.",
-          "Occurrences": [
-            {
-              "RelPath": "X/X82/X82n1571.xml",
-              "FromLb": "0071b15",
-              "ToLb": "0071b16",
-              "Kwic": "曰：心不負人，面無慙色。天童交禪師法嗣天童交禪",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120). Qiutang Huizhong gives the paired heart-and-face line after asking what the matter is.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "source-identified person",
-                "ActorLabel": "Qiutang Huizhong",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Qiutang Huizhong gives the paired heart-and-face line after asking what the matter is.",
-                "ReviewedBy": "Codex Iriya remaining lane A rows 1-167 structured canary",
-                "ReviewedUtc": "2026-07-19T13:47:01.744651Z"
-              }
-            },
-            {
-              "RelPath": "X/X66/X66n1296.xml",
-              "FromLb": "0080c22",
-              "ToLb": "0081a02",
-              "Kwic": "云：賽翁失馬，已經得失相參；假途伐虢，未免因行掉臂。目機銖兩，舉一明三，網疎豈漏巨鯤？擊析偏嚴暴客。扣齒出院，條罪俱陳，心不負人，面無慙色。神鼎澤云：殺人須見血，",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”. Baizhang Le applies the paired line in his appraisal after the expulsion case.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "source-identified person",
-                "ActorLabel": "Baizhang Le",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Baizhang Le applies the paired line in his appraisal after the expulsion case.",
-                "ReviewedBy": "Codex Iriya remaining lane A rows 1-167 structured canary",
-                "ReviewedUtc": "2026-07-19T13:47:01.744651Z"
-              }
-            },
-            {
-              "RelPath": "X/X78/X78n1553.xml",
-              "FromLb": "0515c13",
-              "ToLb": "0515c14",
-              "Kwic": "云：心不負人，面無慙色。問：如何是隨色摩尼珠？",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (X/X78/X78n1553.xml). Tiansheng Expanded Lamp Record. Shuangquan Yu directly answers the visiting question with the paired line.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "source-identified person",
-                "ActorLabel": "Shuangquan Yu",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Shuangquan Yu directly answers the visiting question with the paired line.",
-                "ReviewedBy": "Codex Iriya remaining lane A rows 1-167 structured canary",
-                "ReviewedUtc": "2026-07-19T13:47:01.744651Z"
-              }
-            },
-            {
-              "RelPath": "X/X83/X83n1578.xml",
-              "FromLb": "0530c05",
-              "ToLb": "0530c06",
-              "Kwic": "云：心不負人，面無慙色。頌云：南泉打破閑家具，",
-              "MasterName": "Dahui Zonggao",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Dahui Zonggao",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X83/X83n1578.xml). Record Pointing at the Moon. Dahui Zonggao speaks the paired line after raising Nanquan’s broken-pot case."
-            }
-          ],
-          "SourceTexts": [
-            "X/X82/X82n1571.xml",
-            "X/X66/X66n1296.xml",
-            "X/X78/X78n1553.xml",
-            "X/X83/X83n1578.xml"
-          ],
-          "RelatedMasters": [
-            "Dahui Zonggao"
-          ],
-          "RelatedTerms": [],
-          "ClaimAnchors": [],
-          "Explanation": "The paired saying joins an unbetraying heart with a face that has nothing to be ashamed of. Qiutang Huizhong gives it after asking what the matter is; Baizhang’s appraisal applies it after an expulsion case; Shuangquan Yu answers a visitor with it; Dahui Zonggao uses it after Nanquan breaks the cooking pot."
-        }
-      ]
-    },
-    {
       "Id": "t_584f5fa264ee",
       "SourceTerm": "心不負人，面無慙色",
       "CreatedBy": "author_from_packet",
@@ -433493,13 +433224,12 @@
           "Status": "preferred",
           "Validation": "multi-source",
           "Explanation": "The paired saying declares that the act under review leaves neither betrayal in the heart nor shame on the face. Baizhang Le applies it while appraising the expulsion of a head seat after both men clicked their teeth. Dahui Zonggao gives the same verdict after recounting Nanquan Puyuan's breaking of the cooking pot when a donor left. The phrase is a case-specific appraisal of answerable conduct, not a general claim of moral purity.",
-          "Note": "The two appraisals concern different cases and are preserved in separate discourse works.",
+          "Note": "The Dahui Nanquan cooking-pot appraisal also appears in X83n1578 as a parallel transport; the same case is counted once.",
           "SourceTexts": [
             "X/X66/X66n1296.xml",
             "X/X67/X67n1309.xml",
             "X/X82/X82n1571.xml",
-            "X/X78/X78n1553.xml",
-            "X/X83/X83n1578.xml"
+            "X/X78/X78n1553.xml"
           ],
           "RelatedMasters": [
             "Dahui Zonggao",
@@ -433528,7 +433258,8 @@
                   "parallel-passage"
                 ],
                 "GrammarEvidence": "The complete case marks the appraisal with Baizhang Le's name before the uninterrupted headword-bearing judgment; no exact alias resolves him in the read-only roster.",
-                "ReviewedBy": "Sol luna105 final semantic integration"
+                "ReviewedBy": "Sol luna105 final semantic integration",
+                "ReviewedUtc": "2026-10-29T12:00:00Z"
               },
               "Curated": true,
               "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate's ‘Raising Old Cases’: Baizhang Le's explicitly marked appraisal ends with the headword-bearing verdict."
@@ -433610,23 +433341,6 @@
                 "ReviewedBy": "Codex Iriya remaining lane A rows 1-167 structured canary",
                 "ReviewedUtc": "2026-07-19T13:47:01.744651Z"
               }
-            },
-            {
-              "RelPath": "X/X83/X83n1578.xml",
-              "FromLb": "0530c05",
-              "ToLb": "0530c06",
-              "Kwic": "云：心不負人，面無慙色。頌云：南泉打破閑家具，",
-              "MasterName": "Dahui Zonggao",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Dahui Zonggao",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X83/X83n1578.xml). Record Pointing at the Moon. Dahui Zonggao speaks the paired line after raising Nanquan’s broken-pot case."
             }
           ],
           "ClaimAnchors": []
@@ -756107,143 +755821,6 @@
       ]
     },
     {
-      "Id": "t_45956bc30169",
-      "SourceTerm": "白雲盡處是青山，行人更在青山外",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "author_from_packet",
-      "WrittenUtc": "2026-07-19T14:14:02.871828Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "green mountains beyond the white clouds, with the traveller farther beyond them",
-          "AlternateTargets": [],
-          "SearchAliases": [
-            "beyond the green mountains",
-            "white clouds end",
-            "traveller farther beyond"
-          ],
-          "Status": "preferred",
-          "Validation": "multi-source",
-          "Note": "The two landscape clauses remain one ordered image, carrying the traveller beyond both clouds and mountains.",
-          "Occurrences": [
-            {
-              "RelPath": "X/X66/X66n1297.xml",
-              "FromLb": "0351a24",
-              "ToLb": "0351b07",
-              "Kwic": "得仙，王喬端坐却昇天。雖然，三人中有見得國師底？有見不得國師底？南華昺云：動絃別曲，還他麻谷歸宗；掣鼓奪旗，偏宜南泉老漢。直得同行不同步，黨理不黨親，白雲盡處是青山，行人更在青山外。天童覺云：我當時若見，便與抹却圓相，不惟打破南泉窠臼，亦乃教歸宗無著身處，麻谷呈伎倆不得。南泉云：恁麼則不去",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (X/X66/X66n1297.xml). Grove of the Mirror of the School. Nanhua Bing caps the National Teacher case by putting the traveller beyond the mountains.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "named record owner",
-                "ActorLabel": "Nanhua Bing",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Nanhua Bing caps the National Teacher case by putting the traveller beyond the mountains.",
-                "ReviewedBy": "Codex Iriya remaining lane A rows 1-167",
-                "ReviewedUtc": "2026-07-19T14:14:02.871828Z"
-              }
-            },
-            {
-              "RelPath": "X/X66/X66n1296.xml",
-              "FromLb": "0053c17",
-              "ToLb": "0053c24",
-              "Kwic": "三個中有見得國師的，有見不得國師的，若人辨得出，許你具頂門眼。南華昺云：動絃別曲，還他麻谷歸宗；掣鼓奪旗，偏宜南泉老漢。直得同行不同步，黨理不黨親。白雲盡處是青山，行人更在青山外。天童覺云：我當時若見，便與抹却圓相。不唯打破南泉窠臼，亦乃教歸宗無著身處，麻谷呈伎倆不得。南泉道：恁麼則不去也。",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”. Nanhua Bing preserves Nanhua’s case appraisal in a second distinct work.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "named record owner",
-                "ActorLabel": "Nanhua Bing",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Nanhua Bing preserves Nanhua’s case appraisal in a second distinct work.",
-                "ReviewedBy": "Codex Iriya remaining lane A rows 1-167",
-                "ReviewedUtc": "2026-07-19T14:14:02.871828Z"
-              }
-            },
-            {
-              "RelPath": "J/J10/J10nA158.xml",
-              "FromLb": "0024a27",
-              "ToLb": "0024b03",
-              "Kwic": "點不得；雖瞞不得，不假思議之心，全憑者片本地風光靡所不周、靡所不遍。所以道：日應萬緣而不撓其神，千難殊對而不干其慮。正當恁麼時，除夜分歲一句作麼生道？白雲盡處是青山，行人更在青山外。」便歸方丈。解制，小參。「覿面分付尚涉廉纖，直下承當猶存情識，玄機獨唱截斷眾流，恁麼也不得、不恁麼也不得，恁",
-              "MasterName": "Miyun Yuanwu",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Miyun Yuanwu",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu uses the two-stage landscape to close a New Year’s Eve address."
-            },
-            {
-              "RelPath": "J/J26/J26nB180.xml",
-              "FromLb": "0288a14",
-              "ToLb": "0288a19",
-              "Kwic": "云：「仰面看取。」「如何是慧眼？」師云：「辨得你了也。」「如何是法眼？」師云：「鐵蛇鑽不入。」「如何是佛眼？」師云：「摩醯首羅有三隻。」進云：「恁麼則白雲盡處是青山，行人更在青山外。」師云：「甚處去也？」一僧出云：「請和尚手中棒喫。」師云：「且待三十年後著。」進云：「知音不用頻頻舉，達者須",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (J/J26/J26nB180.xml). Northern Travels Collection of Chan Master Hongjue Min of Tiantong. the source-unnamed questioning monk is the monk who offers the landscape after the five-eyes exchange.",
-              "ActorAttribution": {
-                "Status": "reviewed-unnamed",
-                "Kind": "monk",
-                "ActorLabel": "the source-unnamed questioning monk",
-                "ActorRole": "questioner",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "the source-unnamed questioning monk is the monk who offers the landscape after the five-eyes exchange.",
-                "ReviewedBy": "Codex Iriya remaining lane A rows 1-167",
-                "ReviewedUtc": "2026-07-19T14:14:02.871828Z"
-              }
-            }
-          ],
-          "SourceTexts": [
-            "X/X66/X66n1297.xml",
-            "X/X66/X66n1296.xml",
-            "J/J10/J10nA158.xml",
-            "J/J26/J26nB180.xml"
-          ],
-          "RelatedMasters": [
-            "Miyun Yuanwu"
-          ],
-          "RelatedTerms": [
-            "平蕪盡處是青山、行人更在青山外"
-          ],
-          "ClaimAnchors": [],
-          "Explanation": "The couplet places blue-green mountains beyond exhausted cloud and the traveller farther beyond them. Nanhua places the traveller beyond the mountains while appraising the National Teacher case. Miyun Yuanwu uses the same ordered landscape to answer a year-end question, and an unidentified questioner offers it before the respondent asks where he has gone."
-        }
-      ]
-    },
-    {
       "Id": "t_6519157d78ba",
       "SourceTerm": "白雲盡處是青山，行人更在青山外",
       "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
@@ -756370,13 +755947,41 @@
               },
               "Curated": true,
               "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending. Yunwaize closes an exhortation with the couplet and a shout."
+            },
+            {
+              "RelPath": "X/X66/X66n1296.xml",
+              "FromLb": "0053c17",
+              "ToLb": "0053c24",
+              "Kwic": "三個中有見得國師的，有見不得國師的，若人辨得出，許你具頂門眼。南華昺云：動絃別曲，還他麻谷歸宗；掣鼓奪旗，偏宜南泉老漢。直得同行不同步，黨理不黨親。白雲盡處是青山，行人更在青山外。天童覺云：我當時若見，便與抹却圓相。不唯打破南泉窠臼，亦乃教歸宗無著身處，麻谷呈伎倆不得。南泉道：恁麼則不去也。",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [],
+              "AttributionNote": "Source record (X/X66/X66n1296.xml). The case compilation explicitly introduces Nanhua Bing as the appraisal speaker; this is one useful witness to his original turn, parallel to X66n1297.",
+              "ActorAttribution": {
+                "Status": "identified-unlinked-master",
+                "Kind": "quoted case-appraisal speaker",
+                "ActorLabel": "Nanhua Bing",
+                "ActorRole": "utterer",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "GrammarEvidence": "The case text introduces Nanhua Bing immediately before the exact complete line; X66n1297 transmits the same appraisal.",
+                "ReviewedBy": "Codex Iriya remaining lane A rows 1-167",
+                "ReviewedUtc": "2026-07-19T14:14:02.871828Z"
+              }
             }
           ],
           "SourceTexts": [
             "J/J10/J10nA158.xml",
             "J/J26/J26nB180.xml",
             "J/J29/J29nB240.xml",
-            "J/J33/J33nB280.xml"
+            "J/J33/J33nB280.xml",
+            "X/X66/X66n1296.xml"
           ],
           "RelatedMasters": [
             "Miyun Yuanwu",
@@ -756386,7 +755991,7 @@
             "平蕪盡處是青山、行人更在青山外"
           ],
           "ClaimAnchors": [],
-          "Explanation": "Where the white clouds end, green mountains appear; the traveller is farther beyond the mountains. Miyun Yuanwu closes a year-end address with the couplet, an unnamed questioner offers it during an exchange with Muchen Daomin, Tiebiji uses it after raising Huineng’s verse, and Yunwaize ends an exhortation to a lay student with it."
+          "Explanation": "Where the white clouds end, green mountains appear; the traveller is farther beyond the mountains. Miyun Yuanwu closes a year-end address with the couplet, an unnamed questioner offers it during an exchange with Muchen Daomin, Tiebiji uses it after raising Huineng’s verse, and Yunwaize ends an exhortation to a lay student with it. A case compilation also preserves Nanhua Bing’s appraisal with the same couplet; its parallel X66 recension is excluded as a repeated transport."
         }
       ]
     },
