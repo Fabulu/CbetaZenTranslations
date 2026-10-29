@@ -314581,7 +314581,7 @@
           ],
           "Status": "preferred",
           "Validation": "provisional",
-          "Note": "Three Tier 2 witnesses retain the same Yunmen question. They are treated as one inherited case family, so the sense remains provisional; the single best useful lamp is retained and only parallel lamp recensions are removed as padding.",
+          "Note": "At the end of summer, the question is how a practitioner will answer on leaving the retreat.",
           "Occurrences": [
             {
               "RelPath": "C/C077/C077n1710.xml",
@@ -365920,7 +365920,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "To cause the mind to be at ease or, according to context, to be reassured. Retellings and comments on the Bodhidharma–Huike exchange form one influential case family; ordinary reassurance supplies an independent lexical control.",
+          "Note": "To cause the mind to be at ease or, according to context, to be reassured. The X79 Bodhidharma-Huike case is the retained origin witness; C078 repeats that same exchange and is documented in the repair dossier. Later verses and comments and ordinary reassurance supply distinct uses.",
           "Occurrences": [
             {
               "RelPath": "X/X79/X79n1559.xml",
@@ -365929,23 +365929,6 @@
               "Kwic": "光曰：我心未寧，乞師與安。曰：將心來，與汝安。光曰：覔心了不可得。曰：與汝安心竟。",
               "Curated": true,
               "AttributionNote": "Source record (X/X79/X79n1559.xml). Jiatai Universal Lamp Record (嘉泰普燈錄): Bodhidharma owns the exact evidence clause after the complete case.",
-              "MasterName": "Bodhidharma",
-              "ContextMasters": [
-                {
-                  "MasterName": "Bodhidharma",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ]
-            },
-            {
-              "RelPath": "C/C078/C078n1720.xml",
-              "FromLb": "0648b07",
-              "ToLb": "0648b07",
-              "Kwic": "曰與汝安心竟祖於此悟入。",
-              "Curated": true,
-              "AttributionNote": "Source record (C/C078/C078n1720.xml). Chan School: Comprehensive Linked-Pearls Collection of Verse Commentaries on Old Cases (禪宗頌古聯珠通集): Bodhidharma owns the exact evidence clause after the complete case.",
               "MasterName": "Bodhidharma",
               "ContextMasters": [
                 {
@@ -365977,7 +365960,7 @@
               "RelPath": "J/J39/J39nB471.xml",
               "FromLb": "0942a28",
               "ToLb": "0942a28",
-              "Kwic": "安心竟",
+              "Kwic": "進云：「二祖安心事如何？」師打云：「安心竟。」",
               "Curated": true,
               "AttributionNote": "Source record (J/J39/J39nB471.xml). Recorded Sayings of Chan Master Daodeng of Konggu (空谷道澄禪師語錄): Konggu Daocheng answers, “the mind is settled.”",
               "MasterName": "Konggu Daocheng",
@@ -366070,7 +366053,6 @@
           ],
           "SourceTexts": [
             "X/X79/X79n1559.xml",
-            "C/C078/C078n1720.xml",
             "J/J39/J39nB471.xml",
             "X/X82/X82n1571.xml"
           ],
@@ -367186,7 +367168,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "All direct-definition formulas and common modifiers were searched. The “great lineage master” form occurs 113 times in 49 texts; the lineage-master-household form occurs 87 times in 47; the lineage-master-eye form occurs 22 times in 20; and the “lineage master of a generation” form occurs nine times in eight. The role is corpus-wide and is not keyed to a single teacher.",
+          "Note": "The title points to a teacher who can respond from the main matter and guide others through a lineage.",
           "Occurrences": [
             {
               "RelPath": "X/X64/X64n1260.xml",
@@ -766939,7 +766921,7 @@
                 "GrammarEvidence": "The title 大巍禪師竹室集 and author line 淨倫撰 identify Dawei Jinglun as the master speaking the 示眾 passage that begins with the exact formula."
               },
               "ContextMasters": [],
-              "AttributionNote": "Bamboo Chamber Collection of Chan Master Dawei: Dawei Jinglun states the full formula in his own hall address. He is identified by the title and author line but has no canonical roster node."
+              "AttributionNote": "Source record (J/J25/J25nB165.xml). Bamboo Chamber Collection of Chan Master Dawei: Dawei Jinglun states the full formula in his own hall address. He is identified by the title and author line but has no canonical roster node."
             },
             {
               "RelPath": "T/T48/T48n2016.xml",
@@ -766962,7 +766944,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Record of the Mirror of the School: Yongming Yanshou explicitly quotes Jiashan Shanhui's four-part formula beginning “Before the eyes, there is no thing.”"
+              "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School: Yongming Yanshou explicitly quotes Jiashan Shanhui's four-part formula beginning “Before the eyes, there is no thing.”"
             },
             {
               "RelPath": "X/X78/X78n1554.xml",
@@ -766980,7 +766962,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Praise of the Orthodox Lineage of the Five Houses, Huqiu Shaolong section: Huqiu Shaolong actively extends the formula with myriad appearances and seeing and hearing."
+              "AttributionNote": "Source record (X/X78/X78n1554.xml). Praise of the Orthodox Lineage of the Five Houses, Huqiu Shaolong section: Huqiu Shaolong actively extends the formula with myriad appearances and seeing and hearing."
             },
             {
               "RelPath": "X/X82/X82n1571.xml",
@@ -767040,24 +767022,25 @@
               "ToLb": "0073a03",
               "Kwic": "師問：承師有言：目前無法，意在目前。",
               "Curated": true,
-              "AttributionNote": "Source record (X/X81/X81n1568.xml). Strict Lineage of the Five Lamps (Vols. 10–25) (五燈嚴統(第10卷-第25卷)): Shushan Kuangren is the exact headword speaker. The complete case names Shushan Kuangren as the speaker of the headword-bearing wording.",
+              "AttributionNote": "Source record (X/X81/X81n1568.xml). Shushan asks Jiashan about the earlier words he explicitly credits to him with \"I heard you say\"; Jiashan is the quoted speaker of the exact line.",
               "ContextMasters": [
-                {
-                  "MasterName": "Shushan Kuangren",
-                  "Roles": [
-                    "utterer",
-                    "questioner"
-                  ]
-                },
                 {
                   "MasterName": "Jiashan Shanhui",
                   "Roles": [
+                    "utterer",
                     "respondent",
                     "teacher"
                   ]
+                },
+                {
+                  "MasterName": "Shushan Kuangren",
+                  "Roles": [
+                    "questioner",
+                    "later-quoter"
+                  ]
                 }
               ],
-              "MasterName": "Shushan Kuangren"
+              "MasterName": "Jiashan Shanhui"
             },
             {
               "RelPath": "X/X66/X66n1297.xml",
@@ -872747,7 +872730,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "10 reviewed witnesses delimit this sense.",
+          "Note": "The day names the occasion of the Buddha's awakening; the sermons test what it means to see the morning star.",
           "Occurrences": [
             {
               "RelPath": "X/X82/X82n1571.xml",
@@ -1033457,7 +1033440,7 @@
           "Status": "preferred",
           "Validation": "multi-source",
           "Explanation": "A gold Buddha cannot pass through a furnace: the first of Zhaozhou four material Buddha tests, turning attention from fragile images to the true Buddha. Miyun, Yulin, Yunsou, Qiran, and Baiyu independently interpret or revoice the line; Yunsou tests the division of substance and function with his staff. Retained public meaning is supported by independent present uses in recorded discourse.",
-          "Note": "Six distinct source works are retained. The three new references select each current masters own revoicing after the quoted Zhaozhou line, not the preceding inherited case.",
+          "Note": "The furnace exposes the limit of a material image; the masters test the difference between the image and the Buddha it is meant to show.",
           "Occurrences": [
             {
               "RelPath": "B/B27/B27n0152.xml",
@@ -1066493,7 +1066476,8 @@
                 ],
                 "ReviewedBy": "Codex Lane-A current-hash repair",
                 "ReviewedUtc": "2026-07-16T19:00:00Z",
-                "GrammarEvidence": "The complete case places the exact headword in narration about Fachang Yiyu, before or outside that master's quoted speech."
+                "GrammarEvidence": "The complete case places the exact headword in narration about Fachang Yiyu, before or outside that master's quoted speech.",
+                "AuthoredVoiceRiskReviewed": true
               },
               "ContextActors": []
             },
@@ -1066528,15 +1066512,16 @@
                 ],
                 "ReviewedBy": "Codex Lane-A current-hash repair",
                 "ReviewedUtc": "2026-07-16T19:00:00Z",
-                "GrammarEvidence": "The complete case places the exact headword in narration about Huangbo Xiyun, before or outside that master's quoted speech."
+                "GrammarEvidence": "The complete case places the exact headword in narration about Huangbo Xiyun, before or outside that master's quoted speech.",
+                "AuthoredVoiceRiskReviewed": true
               },
               "ContextActors": []
             },
             {
               "RelPath": "J/J40/J40nB494.xml",
-              "FromLb": "0526a14",
+              "FromLb": "0526a18",
               "ToLb": "0526a21",
-              "Kwic": "慣自喫官酒，肚裏貯無明，觸著嗔斗吼。展開驢腳，伸出毛手，推倒佛殿，瞿曇無處容身；扶起魔宮，波旬一時稽首。報諸仁，莫亂走，一一面南看北斗。」陞座。「萬里不掛片雲，青天全體獨露。無端石鞏箇漢，張弓架箭，仰面射之，嚇得舜若多神躍入大洋海底，驚起八大龍王，各各興雲布雨，霎時乾坤黑暗，江海波騰。",
+              "Kwic": "陞座。「萬里不掛片雲，青天全體獨露。無端石鞏箇漢，張弓架箭，仰面射之，嚇得舜若多神躍入大洋海底，驚起八大龍王，各各興雲布雨，霎時乾坤黑暗，江海波騰。",
               "Curated": true,
               "ActorAttribution": {
                 "Status": "narrated",
@@ -1066553,7 +1066538,8 @@
                 ],
                 "ReviewedBy": "Codex f003 Lane A catalogue-replacement repair",
                 "GrammarEvidence": "The selected clause is continuous documentary or expository prose without a direct-speech frame assigning the headword to a different speaker.",
-                "ReviewedUtc": "2026-07-15T06:16:04.287008+00:00"
+                "ReviewedUtc": "2026-07-15T06:16:04.287008+00:00",
+                "AuthoredVoiceRiskReviewed": true
               },
               "ContextMasters": [],
               "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan (雨山和尚語錄): The compiler narrating the headword-bearing clause supplies the exact headword-bearing wording; the complete case distinguishes that actor from every contextual master.",
@@ -1095233,7 +1095219,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "The corpus gives no anatomical account beyond the crown-of-the-head image. Common extensions are “possess the crown-gate eye” (54 hits in 29 files), “open the crown-gate eye” (19/16), “throw open the crown-gate eye” (9/8), and “the correct eye at the crown-gate” (142/85). The longer “one eye at the crown-gate” appears twice. These are recorded as morphology and use, not recast as an imported concept.",
+          "Note": "The eye at the crown of the head is an image for acute discernment in these sermons; the sources give no anatomical account of it.",
           "Occurrences": [
             {
               "RelPath": "T/T51/T51n2077.xml",
