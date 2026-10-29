@@ -22487,271 +22487,6 @@
       ]
     },
     {
-      "Id": "t_3223652812c7",
-      "SourceTerm": "一日不作、一日不食",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "Codex cohort002 lane C author",
-      "WrittenUtc": "2026-07-18T22:31:39.726985Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "a day without work, a day without food",
-          "AlternateTargets": [
-            "if I do not work for a day, I do not eat that day"
-          ],
-          "SearchAliases": [
-            "no work no food",
-            "one day no work one day no food",
-            "a day not working a day not eating"
-          ],
-          "Status": "preferred",
-          "Validation": "multi-source",
-          "Note": "The maxim is attached to Baizhang Huaihai’s refusal to make others labor for him; later records quote it in new exchanges. Parallel biographies are recensions of one event and do not manufacture independent depth.",
-          "Occurrences": [
-            {
-              "RelPath": "X/X84/X84n1580.xml",
-              "FromLb": "0197b22",
-              "ToLb": "0197c02",
-              "Kwic": "無德，爭合勞於人？既徧求作具不獲，而亦忘飡，故有一日不作，一日不食之語。南泉普願禪師南泉普願禪師池州南泉普願禪師。",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Baizhang Huaihai",
-                  "Roles": [
-                    "case-figure"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X84/X84n1580.xml). Separate Transmission Outside the Teachings. the compiler of the Baizhang biography: The compiler quotes the no-work, no-food maxim as Baizhang Huaihai’s established saying after narrating the hidden tools and missed meal.",
-              "ActorAttribution": {
-                "Status": "narrated",
-                "Kind": "compiler narrative",
-                "ActorLabel": "the compiler of the Baizhang biography",
-                "ActorRole": "compiler",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "the compiler of the Baizhang biography: The compiler quotes the no-work, no-food maxim as Baizhang Huaihai’s established saying after narrating the hidden tools and missed meal.",
-                "ReviewedBy": "Codex cohort002 lane C author",
-                "ReviewedUtc": "2026-07-18T22:31:39.726985Z"
-              },
-              "EvidenceRole": "variant",
-              "VariantForm": "一日不作，一日不食",
-              "VariantKind": "editorial-punctuation"
-            },
-            {
-              "RelPath": "X/X83/X83n1578.xml",
-              "FromLb": "0483c11",
-              "ToLb": "0483c14",
-              "Kwic": "無德，爭合勞於人？既徧求作具不獲，則亦不食。故有一日不作，一日不食之語，流播諸方。唐元和九年正月十七日歸寂，諡大智",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Baizhang Huaihai",
-                  "Roles": [
-                    "case-figure"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X83/X83n1578.xml). Record Pointing at the Moon. the compiler of the Baizhang biography: The compiler attributes the saying to Baizhang Huaihai and says it circulated widely.",
-              "ActorAttribution": {
-                "Status": "narrated",
-                "Kind": "compiler narrative",
-                "ActorLabel": "the compiler of the Baizhang biography",
-                "ActorRole": "compiler",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "the compiler of the Baizhang biography: The compiler attributes the saying to Baizhang Huaihai and says it circulated widely.",
-                "ReviewedBy": "Codex cohort002 lane C author",
-                "ReviewedUtc": "2026-07-18T22:31:39.726985Z"
-              },
-              "EvidenceRole": "variant",
-              "VariantForm": "一日不作，一日不食",
-              "VariantKind": "editorial-punctuation"
-            },
-            {
-              "RelPath": "X/X81/X81n1571.xml",
-              "FromLb": "0449a14",
-              "ToLb": "0449a17",
-              "Kwic": "無德，爭合勞於人。既徧求作具不獲，而亦忘飡。故有一日不作，一日不食之語，流播寰宇矣。唐憲宗元和甲午正月十三日歸寂，",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Baizhang Huaihai",
-                  "Roles": [
-                    "case-figure"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X81/X81n1571.xml). Complete Five Lamps (Vols. 1–33). the compiler of the Baizhang biography: The lamp-record compiler preserves Baizhang Huaihai’s saying after the labor episode.",
-              "ActorAttribution": {
-                "Status": "narrated",
-                "Kind": "compiler narrative",
-                "ActorLabel": "the compiler of the Baizhang biography",
-                "ActorRole": "compiler",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "the compiler of the Baizhang biography: The lamp-record compiler preserves Baizhang Huaihai’s saying after the labor episode.",
-                "ReviewedBy": "Codex cohort002 lane C author",
-                "ReviewedUtc": "2026-07-18T22:31:39.726985Z"
-              },
-              "EvidenceRole": "variant",
-              "VariantForm": "一日不作，一日不食",
-              "VariantKind": "editorial-punctuation"
-            },
-            {
-              "RelPath": "X/X67/X67n1309.xml",
-              "FromLb": "0602b06",
-              "ToLb": "0602b08",
-              "Kwic": "日，稜入寮見，乃問曰：你每日口嘮嘮作甚麼？匡曰：一日不作，一日不食。稜曰：恁麼則磨弓發箭去。曰：專待尉遲來。棱曰：",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Baizhang Huaihai",
-                  "Roles": [
-                    "case-figure"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X67/X67n1309.xml). Treasury of the True Dharma Eye. Kuang, the named respondent in the raised exchange: The explicit Kuang-said marker assigns the no-work, no-food maxim to the named respondent; the questioner answers afterward.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "named case participant",
-                "ActorLabel": "Kuang, the named respondent in the raised exchange",
-                "ActorRole": "respondent",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Kuang, the named respondent in the raised exchange: The explicit Kuang-said marker assigns the no-work, no-food maxim to the named respondent; the questioner answers afterward.",
-                "ReviewedBy": "Codex cohort002 lane C author",
-                "ReviewedUtc": "2026-07-18T22:31:39.726985Z"
-              },
-              "EvidenceRole": "variant",
-              "VariantForm": "一日不作，一日不食",
-              "VariantKind": "editorial-punctuation"
-            },
-            {
-              "RelPath": "X/X87/X87n1624.xml",
-              "FromLb": "0255b12",
-              "ToLb": "0255b14",
-              "Kwic": "曰：我無德以勞人。眾不忍，藏去作具，因不食，故有一日不作，一日不食之語。先德卒身多如此。故六祖以石墜腰，牛頭負粮供",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Baizhang Huaihai",
-                  "Roles": [
-                    "case-figure"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X87/X87n1624.xml). Forest Notes. Huihong’s narrative voice: The Forest Notes narrator cites the no-work, no-food maxim while describing Baizhang Huaihai’s lifelong conduct.",
-              "ActorAttribution": {
-                "Status": "narrated",
-                "Kind": "compiler narrative",
-                "ActorLabel": "Huihong’s narrative voice",
-                "ActorRole": "compiler",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Huihong’s narrative voice: The Forest Notes narrator cites the no-work, no-food maxim while describing Baizhang Huaihai’s lifelong conduct.",
-                "ReviewedBy": "Codex cohort002 lane C author",
-                "ReviewedUtc": "2026-07-18T22:31:39.726985Z"
-              },
-              "EvidenceRole": "variant",
-              "VariantForm": "一日不作，一日不食",
-              "VariantKind": "editorial-punctuation"
-            },
-            {
-              "RelPath": "X/X66/X66n1297.xml",
-              "FromLb": "0564a05",
-              "ToLb": "0564a08",
-              "Kwic": "小兒嬌。招慶因長慶問：你每日口䜎䜎地作麼？師曰：一日不作，一日不食。曰：與麼則磨弓錯箭去也。師曰：專待尉遲來。曰：",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Baizhang Huaihai",
-                  "Roles": [
-                    "case-figure"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X66/X66n1297.xml). Grove of the Mirror of the School. Zhaoqing, the named respondent in the raised case: Zhaoqing answers Changqing’s question with the no-work, no-food maxim in the raised Snowy Peak lineage case.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "named Chan master",
-                "ActorLabel": "Zhaoqing, the named respondent in the raised case",
-                "ActorRole": "respondent",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Zhaoqing, the named respondent in the raised case: Zhaoqing answers Changqing’s question with the no-work, no-food maxim in the raised Snowy Peak lineage case.",
-                "ReviewedBy": "Codex cohort002 lane C author",
-                "ReviewedUtc": "2026-07-18T22:31:39.726985Z"
-              },
-              "EvidenceRole": "variant",
-              "VariantForm": "一日不作，一日不食",
-              "VariantKind": "editorial-punctuation"
-            }
-          ],
-          "SourceTexts": [
-            "X/X84/X84n1580.xml",
-            "X/X83/X83n1578.xml",
-            "X/X81/X81n1571.xml",
-            "X/X67/X67n1309.xml",
-            "X/X87/X87n1624.xml",
-            "X/X66/X66n1297.xml"
-          ],
-          "RelatedMasters": [
-            "Baizhang Huaihai"
-          ],
-          "RelatedTerms": [
-            "作務"
-          ],
-          "ClaimAnchors": [],
-          "Explanation": "“A day without work, a day without food” is Baizhang Huaihai’s recorded rule for his own participation in communal labor. The biographies say that when his tools were hidden because of his age, Baizhang also refrained from eating. Dahui’s Treasury preserves a later exchange in which the same line answers a question about daily talk, and the Snowy Peak case tradition raises it again as an answer rather than a rule heading."
-        }
-      ]
-    },
-    {
       "Id": "t_ab715aa474d5",
       "SourceTerm": "一日不作一日不食",
       "CreatedBy": "Codex fresh f002 Lane A evidence-first",
@@ -22767,7 +22502,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "Across the collected corpus the exact saying occurs 8 times in 6 texts. Independent witnesses preserve attribution to Baizhang, its later status as an injunction for communal labor, and Hongzhi's house-style quotation. No competing wording establishes a separate sense.",
+          "Note": "Baizhang's labor rule becomes an institutional admonition and a line for Hongzhi's farming verse. Zhaoqing gives the same saying as a new answer to Changqing.",
           "Occurrences": [
             {
               "RelPath": "T/T48/T48n2025.xml",
@@ -22841,7 +22576,7 @@
               "RelPath": "J/J25/J25nB174.xml",
               "FromLb": "0704b18",
               "ToLb": "0704b19",
-              "Kwic": "峰頭慧日頹；莫道法幢今已滅，好看鐵樹正花開。』」觀星日圓戒上堂：白雲向寒崖而斷，明月隨夜船而歸；曉起一聲漁唱，蘆花宿鷺驚飛。無位真人向汝等面門出入，無蹤跡可得，纔眨上眉毛已打失眼睛也，那堪于雪山冷冰冰處半夜大叫觀星悟道，賺殺了多少？演若多迷頭認影，至今無能為無位真人雪屈者？杖人不惜饒舌直與道破，汝等一日不作一日不食，既已披披搭搭，缽盂口朝天、草鞋鼻著地，下雨在家彈指穆力陵；天晴托缽底托缽，搬柴底搬柴，切莫辜負好。上堂：懷牛喫禾益馬脹，杜順法身沒伎倆；卻笑潑皮皓布褌，葡萄棚倒誇向上。這向上，甚無狀！大似杖人住皋亭，臥月眠雲卻難禁。古殿子欲隨風頹墮，不免煩知事行人撐撐拄拄，欲還舊觀分疏，那法身更向上。雖然功不虛施，作麼生慰藉他好？摧殘枯木方新秀，且喜寒梅春正歸。師誕日上堂：「真歇老祖去我五百年，望我於無陰陽地上建大光幢；壽昌先祖去我四十年，望我",
+              "Kwic": "觀星日圓戒上堂：白雲向寒崖而斷，明月隨夜船而歸；曉起一聲漁唱，蘆花宿鷺驚飛。無位真人向汝等面門出入，無蹤跡可得，纔眨上眉毛已打失眼睛也，那堪于雪山冷冰冰處半夜大叫觀星悟道，賺殺了多少？演若多迷頭認影，至今無能為無位真人雪屈者？杖人不惜饒舌直與道破，汝等一日不作一日不食，既已披披搭搭，缽盂口朝天、草鞋鼻著地，下雨在家彈指穆力陵；天晴托缽底托缽，搬柴底搬柴，切莫辜負好。",
               "MasterName": "Juelang Daosheng",
               "Curated": true,
               "ContextMasters": [
@@ -22858,39 +22593,129 @@
               "RelPath": "M/M59/M59n1540.xml",
               "FromLb": "0801a12",
               "ToLb": "0801a13",
-              "Kwic": "得便是適來僧問乾峯示眾云舉一不得舉二放過一著落在第二你道這箇是怎生古人提起千聖頂𩕳上一著露出一絲毫頭只要人見得當時雲門會得這箇道理便出眾云昨日有人從天台來却往徑山去峯云今日不得普請舊時叢林中日日普請不似今時禪和家十指不沾水百事不干懷著好衣服要受人天供養不生慚愧舊時無這般衲子每人有一柄畬刀一柄鋤頭謂之一日不作一日不食若是普請處有一人打發時一眾賴他便免普請所以道今日不得普請後來眾中多把作禪會了昔日五祖老和尚因謝監收有一片上堂如今收在語錄上云人之性命事第一須是稻若欲成此稻先須防於盜於是真道人道道先師其時在身邊作侍者因編語錄凡是道字處只作箇○兒呈似五祖祖一見乃至不要動只恁麼地好先師云恐賺人作禪參去祖云儘教他作禪參若是靈利底一見便會看他舊時尊宿造次顛沛無非在裏許如今學道人若是語言上奈何不得機境上性理上思量處奈何不得一切都奈何不得時這裏便是好處不得放捨",
+              "Kwic": "舊時叢林中日日普請不似今時禪和家十指不沾水百事不干懷著好衣服要受人天供養不生慚愧舊時無這般衲子每人有一柄畬刀一柄鋤頭謂之一日不作一日不食若是普請處有一人打發時一眾賴他便免普請所以道今日不得普請後來眾中多把作禪會了",
+              "MasterName": "Dahui Zonggao",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Dahui Zonggao",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                },
+                {
+                  "MasterName": "Baizhang Huaihai",
+                  "Roles": [
+                    "person-discussed"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (M/M59/M59n1540.xml). In the Pu shuo, Dahui himself describes the old communal labor practice and calls it the work-and-food rule. He does not introduce this local clause as a Baizhang quotation; Baizhang is the rule's earlier source, not this turn's speaker."
+            },
+            {
+              "RelPath": "X/X83/X83n1578.xml",
+              "FromLb": "0483c11",
+              "ToLb": "0483c14",
+              "Kwic": "無德，爭合勞於人？既徧求作具不獲，則亦不食。故有一日不作，一日不食之語，流播諸方。唐元和九年正月十七日歸寂，諡大智",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Baizhang Huaihai",
+                  "Roles": [
+                    "case-figure"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X83/X83n1578.xml). The Pointing at the Moon biography attributes the work-and-food saying to Baizhang after narrating his hidden tools and missed meal; the compiler narrates this passage. X81 and X84 repeat the same biography.",
+              "ActorAttribution": {
+                "Status": "narrated",
+                "Kind": "compiler narrative",
+                "ActorLabel": "the compiler of the Baizhang biography",
+                "ActorRole": "compiler",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "GrammarEvidence": "the compiler of the Baizhang biography: The compiler attributes the saying to Baizhang Huaihai and says it circulated widely.",
+                "ReviewedBy": "Codex cohort002 lane C author",
+                "ReviewedUtc": "2026-07-18T22:31:39.726985Z"
+              }
+            },
+            {
+              "RelPath": "X/X67/X67n1309.xml",
+              "FromLb": "0602b06",
+              "ToLb": "0602b08",
+              "Kwic": "日，稜入寮見，乃問曰：你每日口嘮嘮作甚麼？匡曰：一日不作，一日不食。稜曰：恁麼則磨弓發箭去。曰：專待尉遲來。棱曰：",
+              "MasterName": "Zhaoqing Fayin / Zhaoqing Daokuang",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Zhaoqing Fayin / Zhaoqing Daokuang",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Changqing Huileng",
+                  "Roles": [
+                    "questioner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X67/X67n1309.xml). In Dahui's Treasury, Changqing asks his bucket head Kuang what he talks about each day, and Kuang answers with the work-and-food saying. The lineage roster identifies this Kuang as Zhaoqing Daokuang, Changqing's heir. X66 retells the same exchange and is not a second deployment."
+            },
+            {
+              "RelPath": "X/X87/X87n1624.xml",
+              "FromLb": "0255b11",
+              "ToLb": "0255b15",
+              "Kwic": "百丈寺在絕頂，每日力作以償其供。有勸止之者，則曰：我無德以勞人。眾不忍，藏去作具，因不食，故有一日不作，一日不食之語。先德卒身多如此。故六祖以石墜腰，牛頭負粮供眾。今少年苾蒭擎鉢顰頞曰：吾臂酸。",
               "MasterName": "Baizhang Huaihai",
               "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Baizhang Huaihai",
                   "Roles": [
-                    "utterer"
-                  ]
-                },
-                {
-                  "MasterName": "Dahui Zonggao",
-                  "Roles": [
-                    "commentator",
-                    "record-owner"
+                    "utterer",
+                    "person-discussed"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (M/M59/M59n1540.xml). Dahui Zonggao names Baizhang and quotes Baizhang's inherited work rule in his own discourse while rebuking monks who avoid work. Baizhang owns the quoted words; Dahui is the current commentator."
+              "AttributionNote": "Source record (X/X87/X87n1624.xml). Huihong's authored Forest Notes quotes Baizhang's inherited work-and-food saying and then applies it to Sixth Patriarch and Niutou before rebuking young monks. Baizhang owns the quoted maxim; Huihong is the current commentator.",
+              "ContextActors": [
+                {
+                  "Status": "identified-unlinked-master",
+                  "ActorLabel": "Huihong, author of the Forest Notes",
+                  "Roles": [
+                    "commentator"
+                  ],
+                  "GrammarEvidence": "Huihong relates Baizhang's old work-and-food saying, then applies it to Sixth Patriarch and Niutou and rebukes young monks who complain of sore arms."
+                }
+              ]
             }
           ],
           "SourceTexts": [
             "T/T48/T48n2025.xml",
             "T/T48/T48n2001.xml",
             "J/J25/J25nB174.xml",
-            "M/M59/M59n1540.xml"
+            "M/M59/M59n1540.xml",
+            "X/X83/X83n1578.xml",
+            "X/X67/X67n1309.xml",
+            "X/X87/X87n1624.xml"
           ],
           "RelatedMasters": [
             "Baizhang Huaihai",
             "Dongyang Dehui",
             "Hongzhi Zhengjue",
             "Juelang Daosheng",
-            "Dahui Zonggao"
+            "Dahui Zonggao",
+            "Zhaoqing Fayin / Zhaoqing Daokuang",
+            "Changqing Huileng"
           ],
           "RelatedTerms": [
             "作務",
@@ -22898,10 +22723,12 @@
             "家風"
           ],
           "SearchAliases": [
-            "a day without work is a day without food"
+            "a day without work is a day without food",
+            "一日不作、一日不食",
+            "一日不作，一日不食"
           ],
           "ClaimAnchors": [],
-          "Explanation": "Baizhang's work rule ties daily labor to the discipline of the Chan community. Juelang Daosheng actively tells his assembly to live by the rule; Dahui Zonggao quotes Baizhang while criticizing monks who expect offerings without helping with work."
+          "Explanation": "The paired saying joins daily work to food in Chan communal life. The Baizhang biography tells how he went without food when others hid his tools. The monastic code quotes his rule, while Hongzhi makes it the opening of a farming verse. Juelang directly tells his assembly to carry out daily chores, and Dahui recalls the old community practice to rebuke monks who expect offerings without working. Huihong turns Baizhang's conduct toward examples of other working elders and the complaints of young monks. In a different exchange, Zhaoqing answers Changqing with the same line."
         }
       ]
     },

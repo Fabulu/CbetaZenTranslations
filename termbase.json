@@ -1786,32 +1786,18 @@
     "WrittenUtc": "2026-07-19T00:40:37.009445Z"
   },
   {
-    "SourceTerm": "一日不作、一日不食",
-    "PreferredTarget": "a day without work, a day without food",
-    "AlternateTargets": [
-      "if I do not work for a day, I do not eat that day"
-    ],
-    "SearchAliases": [
-      "no work no food",
-      "one day no work one day no food",
-      "a day not working a day not eating"
-    ],
-    "Status": "preferred",
-    "Note": "The maxim is attached to Baizhang Huaihai’s refusal to make others labor for him; later records quote it in new exchanges. Parallel biographies are recensions of one event and do not manufacture independent depth.",
-    "CreatedBy": "Codex cohort002 lane C author",
-    "WrittenUtc": "2026-07-18T22:31:39.726985Z"
-  },
-  {
     "SourceTerm": "一日不作一日不食",
     "PreferredTarget": "a day without work is a day without food",
     "AlternateTargets": [
       "if I do not work for a day, I do not eat for a day"
     ],
     "SearchAliases": [
-      "a day without work is a day without food"
+      "a day without work is a day without food",
+      "一日不作、一日不食",
+      "一日不作，一日不食"
     ],
     "Status": "preferred",
-    "Note": "Across the collected corpus the exact saying occurs 8 times in 6 texts. Independent witnesses preserve attribution to Baizhang, its later status as an injunction for communal labor, and Hongzhi's house-style quotation. No competing wording establishes a separate sense.",
+    "Note": "Baizhang's labor rule becomes an institutional admonition and a line for Hongzhi's farming verse. Zhaoqing gives the same saying as a new answer to Changqing.",
     "CreatedBy": "Codex fresh f002 Lane A evidence-first",
     "WrittenUtc": "2026-07-15T14:00:00Z"
   },
