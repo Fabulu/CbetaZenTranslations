@@ -265515,47 +265515,52 @@
               "FromLb": "0797c01",
               "ToLb": "0797c09",
               "Kwic": "舉。南泉問僧。昨夜好風。僧云。昨夜好風。泉云。吹折門前一株松。僧亦云。吹折門前一株松。南泉又見僧問。昨夜好風。僧云。是什麼風。泉云。吹折門前一株松。泉云。一得一失。師拈云。大凡酬唱隨機著眼。辨龍蛇別緇素。所謂打鼓弄琵琶。相逢兩會家。只如南泉道一得一失。敢問。阿那箇得阿那箇失。到這裏須是向上人始得。還委悉麼。鵝王擇乳素非鴨類。",
-              "MasterName": "Yuanwu Keqin",
+              "MasterName": "Nanquan Puyuan",
               "Curated": true,
               "ContextMasters": [
+                {
+                  "MasterName": "Nanquan Puyuan",
+                  "Roles": [
+                    "utterer",
+                    "case-figure"
+                  ]
+                },
                 {
                   "MasterName": "Yuanwu Keqin",
                   "Roles": [
                     "later-raiser",
-                    "commentator"
-                  ]
-                },
-                {
-                  "MasterName": "Nanquan Puyuan",
-                  "Roles": [
-                    "utterer"
+                    "commentator",
+                    "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: raising Nanquan's night-wind exchange where the first monk echoes the snapped pine and the second asks what wind, and judging that in answering duets one must tell gain from loss like the goose king picking milk."
+              "AttributionNote": "Source record (T/T47/T47n1997.xml). The exact line is in the lifted Nanquan exchange. Yuanwu Keqin raises or comments on that case but does not utter the headword in this selected turn."
             },
             {
               "RelPath": "T/T48/T48n2004.xml",
               "FromLb": "0244c08",
               "ToLb": "0244c13",
               "Kwic": "萬松道。泥裏洗土塊。此非但法眼。南泉一日謂僧曰。夜來好風。僧亦曰。夜來好風。泉曰。吹折門前一株松。僧亦曰。吹折門前一株松。泉次謂一僧曰。夜來好風。僧曰。是什麼風。泉曰。吹折門前一株松。僧曰。是什麼松。泉曰。一得一失。指簾話極有為人作略。",
-              "MasterName": "Wansong Xingxiu",
+              "MasterName": "Nanquan Puyuan",
               "Curated": true,
               "ContextMasters": [
                 {
-                  "MasterName": "Wansong Xingxiu",
+                  "MasterName": "Nanquan Puyuan",
                   "Roles": [
-                    "commentator"
+                    "utterer",
+                    "case-figure"
                   ]
                 },
                 {
-                  "MasterName": "Nanquan Puyuan",
+                  "MasterName": "Wansong Xingxiu",
                   "Roles": [
-                    "utterer"
+                    "later-raiser",
+                    "commentator",
+                    "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (T/T48/T48n2004.xml). Wansong's Congrong'an Record appraisal of TianTong's old-case verses. Wansong Xingxiu owns the retained deployment: appraising Fayan's curtain-pointing case, he cites Nanquan's night-wind exchange where the echoed pine-snap sets gain and loss, and rules the curtain dialogue an extreme skillful means."
+              "AttributionNote": "Source record (T/T48/T48n2004.xml). The exact line is in the lifted Nanquan exchange. Wansong Xingxiu raises or comments on that case but does not utter the headword in this selected turn."
             },
             {
               "RelPath": "X/X71/X71n1421.xml",
@@ -892835,36 +892840,72 @@
               "FromLb": "0407b19",
               "ToLb": "0407c07",
               "Kwic": "賢愚好歹，如以手觸空，了無交涉。所以達磨大師云：『亦不睹惡而生嫌，亦不觀善而勤措，亦不捨愚而近賢，亦不拋迷而就悟。』達大道兮過量，通佛心兮出度，不與凡聖同纏，超然名之曰祖。」卓拄杖，云：「達磨大師來也，為汝等敷宣第一義諦。且道：是何章句？層巖磊落，從教日炙風吹；行樹清涼，好看花飛蝶舞。」上堂。「佛不求佛，心不覓心，設有求覓者，皆昧心取境耳。若達境唯心，不生分別想，山河無影跡，大地絕形蹤，青松與綠竹同科，白鷺共黃鸝一色，理無異狀，緣幻千途，果然徹究根源，頓絕凡情聖解。古德云：『若人識得心，大地無寸土。』當知此一字法門，豈但奪盡世間法？假饒千佛出興於世，行苦行，坐道場，說法利生，般大涅槃，秪是緣生法，以智眼觀之，如夢如幻。《攝大乘論》云：『即諸三摩地，大師說唯心，繇心彩畫故。如所作事業，若達本忘情，自然無惑。』諸昆仲！此是教家極則，更須知祖師門下長處始得。且道：作麼生是祖師門下長處？」拈拄杖，云：「昨日是重陽，今朝又過一日也。」卓拄杖，下座。上堂。「如何是道？平常心是道。是聖、是凡都一掃，纔生擬議隔天涯，大似尋空向壁討。諸昆仲！能繇境有，境逐能成，境繇能境，能繇境能。拄杖",
-              "MasterName": "Wuyi Yuanlai",
+              "MasterName": null,
               "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Wuyi Yuanlai",
                   "Roles": [
-                    "record-owner",
-                    "commentator"
+                    "later-quoter",
+                    "commentator",
+                    "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J27/J27nB197.xml). Wuyi Yuanlai uses or actively interprets the whole line in the present teaching turn; an inherited first speaker remains earlier."
+              "AttributionNote": "Source record (J/J27/J27nB197.xml). The exact phrase is explicitly presented as an earlier master saying. Wuyi Yuanlai quotes and interprets it; the original speaker is not identified in this source turn.",
+              "ActorAttribution": {
+                "Status": "reviewed-unnamed",
+                "Kind": "unidentified earlier master quoted in current sermon",
+                "ActorLabel": null,
+                "ActorRole": "utterer",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "GrammarEvidence": "The current master explicitly introduces the full saying as an earlier master saying. No individual original speaker is identified in this source turn.",
+                "ReviewedBy": "Codex actor audit 2026-10-29",
+                "ReviewedUtc": "2026-10-29T00:00:00Z"
+              }
             },
             {
               "RelPath": "J/J39/J39nB445.xml",
               "FromLb": "0354b14",
               "ToLb": "0354b27",
               "Kwic": "：『如何是佛？』眼云：『汝是慧超。』以至建立宗旨種種言句，莫不本於初見地藏之血脈，豈可草草忽略耶？山僧曾記居高梁時，有桂林學人號大參者至虎蹲，言及桂林驗眾，有語云：『古人道：「三界唯心，萬法唯識。」因甚今日不知明日事？』山僧云：『這老漢老老大大作這箇語話。』參云：『他別有緣故。』山僧云：『既有緣故，汝還參他去。』今觀上座下箇絲毫那許瞞得渠之語，似與桂林之問同一差訛。我觀桂林設問之意，蓋謂三界萬法可謂寬廣矣，而唯心能知、唯識能識，因甚今日不知明日事？恁麼會又爭得？不見古人道：『若人識得心，大地無寸土。』又云：『眼前一物即不是，但有絲毫都是塵。』雲門云：『法身三種病、二種光。三種病且置，秪如道：面前有一物，是光不透脫。會得一切法空，隱隱地有箇物相似，亦是光不透脫。』山僧今日且為法眼代下一轉語，待地藏道：『三界唯心，萬法唯識。且道這片石在心內心外？』向道：『和尚問得恁麼顛倒。』待伊問：『汝又作麼生？』向道：『三界唯心，萬法唯識。』大眾會麼？如再不會，還與下箇註解。」遂畫○相云：「喚作三界萬法得麼？」復畫○相云：「喚作唯心唯識得麼？於斯薦得，鎔釵釧鉼鐶為一金，攪酥酪醍醐為一乳",
-              "MasterName": "Bie'an Xingtong",
+              "MasterName": null,
               "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Bie'an Xingtong",
                   "Roles": [
-                    "record-owner",
-                    "commentator"
+                    "later-quoter",
+                    "commentator",
+                    "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J39/J39nB445.xml). Bie'an Xingtong uses or actively interprets the whole line in the present teaching turn; an inherited first speaker remains earlier."
+              "AttributionNote": "Source record (J/J39/J39nB445.xml). The exact phrase is explicitly presented as an earlier master saying. Bie'an Xingtong quotes and interprets it; the original speaker is not identified in this source turn.",
+              "ActorAttribution": {
+                "Status": "reviewed-unnamed",
+                "Kind": "unidentified earlier master quoted in current sermon",
+                "ActorLabel": null,
+                "ActorRole": "utterer",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "GrammarEvidence": "The current master explicitly introduces the full saying as an earlier master saying. No individual original speaker is identified in this source turn.",
+                "ReviewedBy": "Codex actor audit 2026-10-29",
+                "ReviewedUtc": "2026-10-29T00:00:00Z"
+              }
             }
           ],
           "ClaimAnchors": [
@@ -977796,30 +977837,38 @@
                 {
                   "MasterName": "Hongzhi Zhengjue",
                   "Roles": [
+                    "utterer",
                     "commentator",
                     "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J32/J32nB272.xml). Recorded Sayings of Chan Master Hongzhi Jue of Tiantong Jingde Monastery, Mingzhou. Hongzhi uses the rule to read two different answers."
+              "AttributionNote": "Source record (J/J32/J32nB272.xml). Hongzhi Zhengjue gives the exact pair in his own case comment on Yunmen; he is its speaker in this retained source."
             },
             {
               "RelPath": "X/X67/X67n1307.xml",
               "FromLb": "0481a14",
               "ToLb": "0481b12",
               "Kwic": "似減人光彩。萬松即不然，受箭張弓處，師資本一人。不離華下路，便見洞中春。天童道：張弓底習氣不除，受箭底相席打令。所以躭源交拳，仰山女拜，為復是全提作用？為復是時節因緣？却道三十年張弓架箭，祇射得半箇聖人。萬松道：石鞏示不全之肯，天童真以己方人。還知石鞏信彩處麼？祇將日月為香餌，應手華鱗忽上鈎。第四十三則雲門法身第四十三則雲門法身舉僧問雲門：如何是清淨法身？門云：花藥欄。僧云：便恁麼去時如何？門云：金毛師子。雪竇著語云：太無端。天童拈云：賊來須打，客來須待。雲門雪竇，二俱作家。這裏莫有便恁麼去者麼？切忌撞頭磕額。師云：萬松昔在大慶壽玄悟席下，一年入室兩度，經半年纔得告香入室。室中舉問玄沙：如何是清淨法身？沙云：膿滴滴。此是玄悟之師，高郵定和尚悟處。今日看來，這清淨法身話，玄沙答得最強，高郵悟處更的。雲門答花藥欄，權實並舉；道金毛師子，褒貶雙行。這僧道便恁麼去，雪竇道太無端，可謂賊來須打，客來須待。雪竇道：花藥欄，莫顢頇，星在稱兮不在盤。恐人錯認一機一境，不薦普天帀地一段大事，便是撞著露柱",
-              "MasterName": "Wansong Xingxiu",
+              "MasterName": "Hongzhi Zhengjue",
               "Curated": true,
               "ContextMasters": [
                 {
+                  "MasterName": "Hongzhi Zhengjue",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
                   "MasterName": "Wansong Xingxiu",
                   "Roles": [
+                    "later-quoter",
                     "commentator",
                     "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X67/X67n1307.xml). Elder Wansong’s Commentary and Chanted Remarks on Master Tiantong Jue’s Picking Up Ancient Cases: Record of Requests for Instruction. Wansong extends Hongzhi's case reading."
+              "AttributionNote": "Source record (X/X67/X67n1307.xml). The case explicitly introduces the exact pair with Tiantong Hongzhi speaking. Wansong quotes that pair and later revoices it while commenting on the same Yunmen case."
             },
             {
               "RelPath": "J/J37/J37nB388.xml",
@@ -1063603,52 +1063652,8 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "Seven distinct source works are retained. The old D48 utterer is Shending Hongyin, named by that source section; Nanyuan Huiyong belongs to the separate X66 encounter and must not be imported into D48.",
+          "Note": "Six distinct present uses in recorded discourse support the voiced-cry reading; a later old-case compilation separately preserves Nanyuan Huiyong's doubled cry. The surrounding turns vary, so the cry has no fixed emotion or doctrinal proposition.",
           "Occurrences": [
-            {
-              "RelPath": "X/X66/X66n1296.xml",
-              "FromLb": "0187a24",
-              "ToLb": "0187b08",
-              "Kwic": "汝州西院思明禪師因同參顒公出住，南院往訪之。纔見人事了，乃曰：某甲從許州來，無可人事，收得江西剃刀一柄獻和尚。南院曰：汝從許州來，為甚麼却收得江西剃刀？西院遂於院手上掐一掐。南院曰：侍者收取。西院以衣袖拂一拂便出。南院曰：阿剌剌，阿剌剌。溈山󳭷云：西院雖收得江西剃刀，無處施呈，直遇同參，方始拈出。如今還有收得者麼？試呈似山僧看。如無，尋常用個什麼？",
-              "MasterName": "Nanyuan Huiyong",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Nanyuan Huiyong",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”. Nanyuan Huiyong owns the retained use: preservation of Nanyuan's doubled cry after the razor encounter."
-            },
-            {
-              "RelPath": "D/D48/D48n8939.xml",
-              "FromLb": "0232a01",
-              "ToLb": "0232a07",
-              "Kwic": "師云如有問千鈞之弩不為鼷鼠而發機忽遇大殺活底人来時如何神鼎即向他道千鈞之弩不為鼷鼠而發機亦曾有人問神鼎千鈞之弩不為鼷鼠而發機荅他道阿剌剌阿剌剌其僧擬議劈脊便打且問諸人是什麼道理湏知各各家風事不同究取好。",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (D/D48/D48n8939.xml). Shending Hongyin voices this reply and then strikes the hesitating monk.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "named Chan master",
-                "ActorLabel": "Shending Hongyin",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "The record section is Shending Hongyin and the exact cry is in his own proposed answer, followed by his blow; Nanyuan belongs to a different retained source.",
-                "ReviewedBy": "Sol source-depth author",
-                "ReviewedUtc": "2026-10-29T12:00:00Z"
-              }
-            },
             {
               "RelPath": "J/J40/J40nB494.xml",
               "FromLb": "0544b11",
@@ -1063733,32 +1063738,39 @@
                 }
               ],
               "AttributionNote": "Source record (J/J37/J37nB392.xml). Recorded Sayings of Chan Master Hansong Cao. Hansong ends his current challenge about solitary Chan with the cry."
-            }
-          ],
-          "SourceTexts": [
-            "X/X66/X66n1296.xml",
-            "D/D48/D48n8939.xml",
-            "J/J40/J40nB494.xml",
-            "J/J38/J38nB410.xml",
-            "J/J25/J25nB174.xml",
-            "J/J32/J32nB273.xml",
-            "J/J37/J37nB392.xml"
-          ],
-          "RelatedMasters": [
-            "Nanyuan Huiyong",
-            "Yushan Shangsi",
-            "Lianfeng Su",
-            "Juelang Daosheng",
-            "Qianyan Yuanzhang",
-            "Hansong Zhicao"
-          ],
-          "RelatedTerms": [],
-          "ClaimAnchors": [
+            },
+            {
+              "RelPath": "D/D48/D48n8939.xml",
+              "FromLb": "0232a01",
+              "ToLb": "0232a07",
+              "Kwic": "師云如有問千鈞之弩不為鼷鼠而發機忽遇大殺活底人来時如何神鼎即向他道千鈞之弩不為鼷鼠而發機亦曾有人問神鼎千鈞之弩不為鼷鼠而發機荅他道阿剌剌阿剌剌其僧擬議劈脊便打且問諸人是什麼道理湏知各各家風事不同究取好。",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [],
+              "AttributionNote": "Source record (D/D48/D48n8939.xml). Shending Hongyin voices this reply and then strikes the hesitating monk.",
+              "ActorAttribution": {
+                "Status": "identified-unlinked-master",
+                "Kind": "named Chan master",
+                "ActorLabel": "Shending Hongyin",
+                "ActorRole": "utterer",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "GrammarEvidence": "The record section is Shending Hongyin and the exact cry is in his own proposed answer, followed by his blow; Nanyuan belongs to a different retained source.",
+                "ReviewedBy": "Sol source-depth author",
+                "ReviewedUtc": "2026-10-29T12:00:00Z"
+              }
+            },
             {
               "RelPath": "X/X66/X66n1296.xml",
-              "FromLb": "0187a16",
-              "ToLb": "0187b17",
-              "Kwic": "從前學處不玄，向後又不遇人，是以出言吐氣總不慚惶，得不為識者笑。白巖符云：諸方各出手眼，盾堅矛利，不無所長。若要與華嚴、守廓二老相見，未敢相許。白巖不顧犯忌，敢為直言道：風穴在二老手裏生遭陷沒，固不待言，又豈知他華嚴、守廓一上神通非同小小？還委悉麼？除却華山陳處士，誰人不帶是非行？汝州西院思明禪師汝州西院思明禪師因同參顒公出住，南院往訪之。纔見人事了，乃曰：某甲從許州來，無可人事，收得江西剃刀一柄獻和尚。南院曰：汝從許州來，為甚麼却收得江西剃刀？西院遂於院手上掐一掐。南院曰：侍者收取。西院以衣袖拂一拂便出。南院曰：阿剌剌，阿剌剌。溈山󳭷云：西院雖收得江西剃刀，無處施呈，直遇同參，方始拈出。如今還有收得者麼？試呈似山僧看。如無，尋常用個什麼？西院因僧問：學人有一問在和尚處時如何？院曰：設有，也斬為三段。僧作禮，院便休去。會下有一僧曰：堂頭和尚道即太煞，道未了在。問話僧乃拽其僧上方丈，白曰：者僧不肯和尚語。院曰：是上座不肯老僧那？僧曰：不曾覺事，亦不曾說。院乃一時喝下。僧到法堂，又曰：說甚太煞，道直下未了在。問話僧又拽其僧白方丈，院曰：上座果不肯老僧那？僧曰：莫信。者僧今日三度見伊風發，乃一總趁下。雲巖學云：思明棒頭有眼，者僧見機而作",
+              "FromLb": "0187a24",
+              "ToLb": "0187b08",
+              "Kwic": "汝州西院思明禪師因同參顒公出住，南院往訪之。纔見人事了，乃曰：某甲從許州來，無可人事，收得江西剃刀一柄獻和尚。南院曰：汝從許州來，為甚麼却收得江西剃刀？西院遂於院手上掐一掐。南院曰：侍者收取。西院以衣袖拂一拂便出。南院曰：阿剌剌，阿剌剌。溈山󳭷云：西院雖收得江西剃刀，無處施呈，直遇同參，方始拈出。如今還有收得者麼？試呈似山僧看。如無，尋常用個什麼？",
               "MasterName": "Nanyuan Huiyong",
               "Curated": true,
               "ContextMasters": [
@@ -1063769,7 +1063781,44 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”. Nanyuan Huiyong owns the retained use: preservation of Nanyuan's doubled cry after the razor encounter.",
+              "AttributionNote": "Source record (X/X66/X66n1296.xml). A later old-case compilation preserves Nanyuan Huiyong's doubled cry after the razor encounter; this is a transmitted old turn, not a new utterance by the compiler or later commentator."
+            }
+          ],
+          "SourceTexts": [
+            "J/J40/J40nB494.xml",
+            "J/J38/J38nB410.xml",
+            "J/J25/J25nB174.xml",
+            "J/J32/J32nB273.xml",
+            "J/J37/J37nB392.xml",
+            "D/D48/D48n8939.xml",
+            "X/X66/X66n1296.xml"
+          ],
+          "RelatedMasters": [
+            "Yushan Shangsi",
+            "Lianfeng Su",
+            "Juelang Daosheng",
+            "Qianyan Yuanzhang",
+            "Hansong Zhicao",
+            "Nanyuan Huiyong"
+          ],
+          "RelatedTerms": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "X/X66/X66n1296.xml",
+              "FromLb": "0187a24",
+              "ToLb": "0187b08",
+              "Kwic": "汝州西院思明禪師因同參顒公出住，南院往訪之。纔見人事了，乃曰：某甲從許州來，無可人事，收得江西剃刀一柄獻和尚。南院曰：汝從許州來，為甚麼却收得江西剃刀？西院遂於院手上掐一掐。南院曰：侍者收取。西院以衣袖拂一拂便出。南院曰：阿剌剌，阿剌剌。溈山󳭷云：西院雖收得江西剃刀，無處施呈，直遇同參，方始拈出。如今還有收得者麼？試呈似山僧看。如無，尋常用個什麼？",
+              "MasterName": "Nanyuan Huiyong",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Nanyuan Huiyong",
+                  "Roles": [
+                    "utterer"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X66/X66n1296.xml). A later old-case compilation preserves Nanyuan Huiyong's doubled cry after the razor encounter; this is a transmitted old turn, not a new utterance by the compiler or later commentator.",
               "ClaimText": "阿剌剌"
             }
           ],
@@ -1126841,9 +1126890,52 @@
     {
       "Id": "t_087de537ccf5",
       "SourceTerm": "高掛鉢嚢、拗折拄杖",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+      "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
       "CreatedBy": "author_from_packet",
       "WrittenUtc": "2026-07-19T19:25:31.189448Z",
+      "FamilyHarvest": {
+        "PolicyVersion": 1,
+        "Scope": "Iriya Lane C position 403",
+        "Edges": [],
+        "NegativeReceipt": [
+          {
+            "SourceSenseIndex": 0,
+            "SourceSenseKey": null,
+            "queries": [
+              "鉢盂"
+            ],
+            "QueryEvidence": [
+              {
+                "tool": "zc.batch_count",
+                "query": "鉢盂",
+                "hits": 1017,
+                "files": 135,
+                "works": 130
+              }
+            ],
+            "dispositions": [
+              {
+                "candidate": "鉢盂",
+                "candidateId": "t_1840377e7a79",
+                "decision": "reject",
+                "relationType": "same-case-family",
+                "hits": 1017,
+                "files": 135,
+                "works": 130,
+                "reason": "鉢盂: The bowl is contained within the bowl-bag image but does not express the paired dismissal of bag and staff."
+              }
+            ],
+            "CandidateAvailability": {
+              "availableCandidateCount": 1,
+              "exhaustive": true,
+              "method": "Bounded installed-authority, containment, and retained-case scan."
+            },
+            "SingleCandidateJustification": "鉢盂 was the one installed authority requiring an explicit boundary ruling for 高掛鉢嚢、拗折拄杖.",
+            "reason": "No independently useful public edge for 高掛鉢嚢、拗折拄杖 survived the bounded family check."
+          }
+        ],
+        "CandidateMethod": "Bounded installed-authority and retained-case scan."
+      },
       "Senses": [
         {
           "SenseKey": null,
@@ -1126882,27 +1126974,30 @@
               "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo. Yuanwu Keqin transmits and comments on Xuedou Chongxian’s explicitly marked appraisal; Xuedou utters the headword-bearing command.",
               "EvidenceRole": "variant",
               "VariantForm": "高掛鉢囊。拗折拄杖",
-              "VariantKind": "governed-graphic"
+              "VariantKind": "governed-graphic",
+              "VoiceLayer": "quoted-original"
             },
             {
               "RelPath": "T/T51/T51n2076.xml",
               "FromLb": "0357b22",
               "ToLb": "0357c05",
               "Kwic": "許來由。且昧爾亦不得。爾若實未得方便撥汝。則不可兄弟一等是蹋破草鞋。拋却師僧父母行脚。直須著些子精彩始得實。若有箇入頭處遇著一個咬猪狗脚手。不惜性命入泥入水相為。有可咬嚼。劄上眉毛高掛鉢囊。拗折拄杖。十年二十年擬取徹頭。莫愁不成辦。直是今生未得徹頭。來生亦不失人身。向此箇門中亦乃省力。不虛孤負平生。亦不孤負師僧父母十方施主。直須在意。莫空遊州獵縣橫擔柱杖一千二千里走趁。遮邊經冬那邊過夏。好山水堪取性。多齋供易得衣鉢。苦屈圖他一粒米。失",
-              "MasterName": "Xuefeng Yicun",
+              "MasterName": "Yunmen Wenyan",
               "Curated": true,
               "ContextMasters": [
                 {
-                  "MasterName": "Xuefeng Yicun",
+                  "MasterName": "Yunmen Wenyan",
                   "Roles": [
-                    "utterer"
+                    "utterer",
+                    "section-subject"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (T/T51/T51n2076.xml). Jingde Record of the Transmission of the Lamp. The complete case and governing speech frame identify Xuefeng Yicun as utterer of the headword-bearing line.",
+              "AttributionNote": "Source record (T/T51/T51n2076.xml). The exact line is inside the extended discourse under the Yunmen Wenyan biography heading. Xuefeng is the lineage teacher in this section, not the speaker of this sentence.",
               "EvidenceRole": "variant",
               "VariantForm": "高掛鉢囊。拗折拄杖",
-              "VariantKind": "governed-graphic"
+              "VariantKind": "governed-graphic",
+              "VoiceLayer": "direct-turn"
             },
             {
               "RelPath": "T/T47/T47n1996.xml",
@@ -1126919,10 +1127014,11 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (T/T47/T47n1996.xml). Recorded Sayings of Chan Master Mingjue. Xuedou Chongxian raises the passage and introduces it with “an ancient said”; its headword-bearing utterer is identified only as an unnamed ancient speaker. Named source identity: the unnamed ancient speaker introduced as 古云. Exact actor: the unnamed ancient speaker introduced as 古云.",
+              "AttributionNote": "Source record (T/T47/T47n1996.xml). Recorded Sayings of Chan Master Mingjue: an unnamed ancient speaker supplies the quoted paired injunction, while Xuedou Chongxian transmits it.",
               "EvidenceRole": "variant",
               "VariantForm": "高掛鉢囊。拗折拄杖",
               "VariantKind": "governed-graphic",
+              "VoiceLayer": "quoted-original",
               "ActorAttribution": {
                 "Status": "reviewed-unnamed",
                 "Kind": "unnamed ancient speaker",
@@ -1126951,9 +1127047,7 @@
             "Xuedou Chongxian",
             "Xuefeng Yicun"
           ],
-          "RelatedTerms": [
-            "拗折拄杖、高掛鉢嚢"
-          ],
+          "RelatedTerms": [],
           "ClaimAnchors": [],
           "Explanation": "The command dismisses ordinary travelling equipment: hang up the bowl-bag and break the walking staff. Yuanwu Keqin transmits and comments on Xuedou Chongxian's explicitly marked appraisal containing the command. Xuedou's own record separately attributes the wording only to an unnamed ancient speaker. Xuefeng Yicun gives it as urgent advice to one who has found an entry and should stay with the matter rather than wander from district to district."
         }
