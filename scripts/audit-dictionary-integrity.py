@@ -37,32 +37,26 @@ require(
     "what someone or something really is",
 )
 
-allowed = ("t_1c7d25824f85", "Senses.0.AlternateTargets.3")
-
-
-def walk(value, path=()):
-    if isinstance(value, str):
-        yield path, value
-    elif isinstance(value, list):
-        for index, item in enumerate(value):
-            yield from walk(item, path + (str(index),))
-    elif isinstance(value, dict):
-        for key, item in value.items():
-            yield from walk(item, path + (key,))
-
-
 for entry in entries:
-    for path, text in walk(entry):
-        if "original face" in text.casefold():
-            location = (entry["Id"], ".".join(path))
-            if location != allowed:
-                failures.append(f"forbidden calque at {location}: {text}")
+    for sense_number, sense in enumerate(entry["Senses"]):
+        # Explanations, source quotations, and search aliases may describe the
+        # traditional calque. The settled rule applies to the displayed target.
+        if "original face" in sense["PreferredTarget"].casefold():
+            failures.append(
+                f"forbidden preferred-target calque: {entry['Id']} sense {sense_number}"
+            )
 
-index = dict(json.loads((ROOT / "termbase.index.json").read_text(encoding="utf-8"))["Terms"])
+index = json.loads((ROOT / "termbase.index.json").read_text(encoding="utf-8"))["Terms"]
+expected_index = []
 for entry in entries:
-    expected = entry["Senses"][0]["PreferredTarget"]
-    if index.get(entry["SourceTerm"]) != expected:
-        failures.append(f"index drift: {entry['SourceTerm']}")
+    target = next(
+        (sense["PreferredTarget"] for sense in entry["Senses"]
+         if sense.get("SenseKey") is None),
+        entry["Senses"][0]["PreferredTarget"],
+    )
+    expected_index.append([entry["SourceTerm"], target])
+if index != expected_index:
+    failures.append("index content or order differs from termbase.v2.json")
 
 shard_entries = {}
 for path in sorted((ROOT / "termbase").glob("*.json")):
