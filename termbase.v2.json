@@ -151587,43 +151587,77 @@
               "FromLb": "0040b30",
               "ToLb": "0040c15",
               "Kwic": "眾又作麼生？』但云：『不道無師，只是無禪。』且什麼處是無禪？「聽取一頌：大用真機不現前，脂唇粉臉靠墻邊，年深也解育兒女，引得平人顛倒顛。顛倒顛，法脈於今一線懸。」喝一喝。上堂。「君子務本，本立而道生。如何是本？莫道我謾汝，打地和尚拈一條拄杖，東打西打，不曾打著箇人；秘魔老漢擎一把木叉，東叉西叉，要且無有合煞。金粟可知禮也？禮之用，和為貴，自然發皆中節，矩度可觀，有朋自遠方來，雖蔬食菜羹不敢不飽。大眾！金粟何似孔夫子？還會麼？取捨之情如未瞥，莫於平地起稜層。」上堂。「古者道：『供養百千諸佛，不如供養一無心道人。』又云：『莫謂無心便是道，無心猶隔一重關。』既是無心猶隔一重關，如何勝過諸佛？又如何消受供養？於此見得諦去，方知古人舌上起荊棘，路平心不平。「然今日不二上座同信女行賢入山設齋，總不論汝是佛、是道人，是有心、無心，是隔一重、不隔一重，只要普同供養，了卻自己本懷，便稱快活田地。且作麼生是伊快活底田地？」擊拂子，云：「罪花凋謝福花茂，正覺光中自在行。」上堂。「鳥啞啞，鵲唶唶，犬司夜，雞司晨，一種靈光，到頭自用，各不相襲、各不相知。人為萬物之靈，如何知他用處？委悉麼？莊生濠上觀魚樂",
-              "MasterName": "Baichi Xingyuan",
+              "MasterName": null,
               "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Baichi Xingyuan",
                   "Roles": [
-                    "record-owner",
-                    "commentator"
+                    "commentator",
+                    "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB202.xml). Baichi Xingyuan uses or actively interprets the complete line in the present teaching turn; an inherited first speaker remains earlier."
+              "AttributionNote": "Source record (J/J28/J28nB202.xml). The exact saying is explicitly quoted as older speech. Baichi Xingyuan applies and comments on it in the present sermon; the original speaker is not identified here.",
+              "ActorAttribution": {
+                "Status": "reviewed-unnamed",
+                "Kind": "unidentified earlier speaker",
+                "ActorLabel": null,
+                "ActorRole": "utterer",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "GrammarEvidence": "The current master explicitly introduces the exact line as an earlier teacher saying; the original speaker is not identified in this source turn.",
+                "ReviewedBy": "Codex actor audit 2026-10-29",
+                "ReviewedUtc": "2026-10-29T00:00:00Z"
+              }
             },
             {
               "RelPath": "J/J25/J25nB171.xml",
               "FromLb": "0533b08",
               "ToLb": "0533b23",
               "Kwic": "道七佛各有言詮。咄！你還知釋迦老子當時對文殊師利云：『你道我四十九年曾說一字來否？蓋為你不達源頭，動著便成窠臼。』山僧也是路見不平，要諸人與古人相見，纔識得他漏逗處，不入他圈繢去也。不然，一犬吠虛，千猱啀實，諸人還知麼？玉女已歸霄漢去，獃郎猶坐火爐邊。」極庵居士設齋請示眾，問答不錄。師卓拄杖云：「於此會得，不涉程途；其或未然，且聽山僧葛藤了也。」復云：「凡夫謂之有，二乘謂之無，菩薩當體即空。爾我衲僧家，要行便行、要止便止。眾中有道得一句不涉多途者，合受人天供養。不見古人云：『供養百千諸佛，不如供養一無心道人。』諸人且道無那箇心？無是非心耶？無善惡心耶？無忻上而猒下心耶？無一切心耶？若恁麼會，到磬山無吃棒分在。今日雲陽賀居士設齋，要老僧通箇消息，一則與大眾結箇般若緣，二則冀禧二子行金行玉。老僧說到這裏，又無法可說。且看拄杖子頭上，端坐大悲觀世音，說道：『應以居士身得度者，即現居士身而為說法。應以童男童女身得度者，即現童男童女身而為說法。』且道說什麼法？偈云：雲陽賀氏世植福，從來代代受天祿，今日當齋供佛僧，祈保二子如金玉。大眾珍重！」除夕小參，師云：「自從拈得這烏藤，踏遍清涼返故岑",
-              "MasterName": "Tianyin Yuanxiu",
+              "MasterName": null,
               "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Tianyin Yuanxiu",
                   "Roles": [
-                    "record-owner",
-                    "commentator"
+                    "commentator",
+                    "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J25/J25nB171.xml). Tianyin Yuanxiu uses or actively interprets the complete line in the present teaching turn; an inherited first speaker remains earlier."
+              "AttributionNote": "Source record (J/J25/J25nB171.xml). The exact saying is explicitly quoted as older speech. Tianyin Yuanxiu applies and comments on it in the present sermon; the original speaker is not identified here.",
+              "ActorAttribution": {
+                "Status": "reviewed-unnamed",
+                "Kind": "unidentified earlier speaker",
+                "ActorLabel": null,
+                "ActorRole": "utterer",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "GrammarEvidence": "The current master explicitly introduces the exact line as an old speaker saying; the original speaker is not identified in this source turn.",
+                "ReviewedBy": "Codex actor audit 2026-10-29",
+                "ReviewedUtc": "2026-10-29T00:00:00Z"
+              }
             },
             {
               "RelPath": "J/J37/J37nB395.xml",
               "FromLb": "0714c03",
               "ToLb": "0714c16",
               "Kwic": "是真寶，無垢無染是真常。』如何是諸禪翁大家出手的作用？大道原來無拘束，信手拈來事事全，一把柳絲收不住，和煙搭在玉欄杆。」下座。城西袁賀紀眾檀越設齋，請上堂。祗園和尚白椎竟，師曰：「水不洗水，金不博金，青天白日，亙古亙今，山僧到此，插手不入。汝等諸人還識自己是仰山麼？曹溪波浪如相似，無限平人被陸沉。」僧問云：「如何是護國家風？」師云：「主賓融會，理事雙彰。」進云：「如何是護國人？」師云：「抬頭看。」進云：「人風兩意蒙師指，西來大意又如何？」師卓杖云：「會麼？」僧問：「古人云：『供養百千諸佛，不如供養一無心道人。』無心道人有何德？百千諸佛有何過？」師云：「財法二施，凡聖一如。」乃曰：「薰風藹藹，炎日熙熙，荷開水面，槐影篩日，處處呢喃紫燕，聲聲睨睆黃鸝，趙州柏樹子，洞山麻三觔，如斯見得全理全事，正眼覷來無非道場。所以光嚴童子出毗耶大城，維摩詰方入城，童子作禮而問曰：『居士從何所來？』維摩答曰：『我從道場中來。』童子曰：『所謂道場者，何所是？』士曰：『直心是道場，無虛假故；發行是道場，能辦事故；深心是道場，增益功德故；菩提心是道場，無錯謬故；布施是道場，不望報故；持戒是道場，得願具故；",
-              "MasterName": "Qizhen Cheng",
+              "MasterName": null,
               "Curated": true,
               "ContextMasters": [
                 {
@@ -151634,7 +151668,24 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J37/J37nB395.xml). Qizhen Cheng uses or actively interprets the complete line in the present teaching turn; an inherited first speaker remains earlier."
+              "AttributionNote": "Source record (J/J37/J37nB395.xml). The unnamed monk quotes the entire saying as earlier words in his question. Qizhen Cheng answers and comments on it but does not utter the exact line in this turn.",
+              "ActorAttribution": {
+                "Status": "reviewed-unnamed",
+                "Kind": "unnamed monk/questioner",
+                "ActorLabel": null,
+                "ActorRole": "questioner",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "GrammarEvidence": "The monk introduces an earlier saying and quotes the entire headword inside his question; Qizhen answers the question in different words without repeating the headword. The original source is not identified here.",
+                "ReviewedBy": "Codex actor audit 2026-10-29",
+                "ReviewedUtc": "2026-10-29T00:00:00Z"
+              }
             },
             {
               "RelPath": "J/J35/J35nB339.xml",
@@ -151648,29 +151699,47 @@
                   "MasterName": "Lingrui",
                   "Roles": [
                     "record-owner",
-                    "commentator"
+                    "commentator",
+                    "utterer"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J35/J35nB339.xml). Lingrui poses the line as a live question and supplies his own response."
+              "AttributionNote": "Source record (J/J35/J35nB339.xml). Lingrui voices the exact full line inside his own rhetorical question about the saying. The earlier origin of that saying is unresolved."
             },
             {
               "RelPath": "X/X72/X72n1437.xml",
               "FromLb": "0395b06",
               "ToLb": "0396a03",
               "Kwic": "師竪起拂子，僧便禮拜。師乃云：古人道：世尊未出母胎，度人已畢。既是未出母胎，因甚度人已畢？老僧道：世尊已出母胎，一人不度。既是已出母胎，因甚一人不度？識得老僧底，便識得古人底。今日香爐頭上三世諸佛、歷代祖師於此轉大法輪，且道是度是不度？良久，云：向下文長。珍重！孫道臺請祈雨，上堂。拈香竟，乃云：今日伏承道臺孫公及合郡尊官、諸春元文學命老僧冒登此座，懇求甘雨。諸仁者！風從何來？雨從何起？電王飛出黑雲頭，問渠畢竟何所止？娑羯羅龍王行雨時，但動一念，娑婆世界雨悉周徧。子細看來，也不離這裏。這裏是甚麼所在？還知麼？拈拄杖，云：老僧柱杖子化為龍，吐霧興雲，遮天掩日，大布滂沱，盡閻浮提悉皆周遍。大眾！且道他承誰恩力？卓拄杖，下座。上堂。論是論非，好似將軍徒罵陣；滅蹤滅影，恰如頑石礙當門。說妙說玄，捕風捉影而徒勞；行棒行喝，帶水拖泥難自脫。到這裏教老僧作麼生開口？良久，云：聽取一偈：寶善菴中日似年，北窓高臥羲皇前，枝頭紅葉無心緒，一任風吹落枕邊。中元日，江海若居士請上堂。今日海若居士為薦先考懷潭封君，命老僧陞座演法。憶昔佛于是日教尊者目連設盂蘭盆，仗十方僧伽之力，其母得出離苦趣，生華光天。又憶佛說：供養百千諸佛，不如供養一無心道人。且作麼生是無心道人？有等便謂：東西不辨，南北不分，隨緣放曠，任性逍遙，何異萬里望鄉關？老僧今日不惜口業，為諸人道破：山如是青，水如是綠，鳥自能飛，魚自能遊。若於此作有佛法見，貶向二鐵圍山；作無佛法見，亦貶向二鐵圍山；不作有無見，祇管隨緣放曠、任性逍遙，亦貶向二鐵圍山。擊拂子，云：二鐵圍山倒了也，無心道人來也。且道作麼生供養？金菓不須猿摘去，玉花何用鳳銜來？上堂。昔韓文公問大顛云：和尚年多少？顛提起數珠云：會麼？公云：不會。顛云：晝夜一百八。這公案，老僧昔在真寂曾拈云：大顛雖是一員老將，怎奈齒不關風？老僧則不然，若有人問：和尚年多少？答云：須彌重九斤。這一轉語却有衲僧氣息。但今老僧年老氣衰，佛法又變了，若有人問：和尚年多少？亦提起數珠云：會麼？彼云：不會。亦云：晝夜一百八。諸人且道：老僧底與大顛底是同？是別？若人識得大顛底，老僧在西牛貸洲打鼓；若人識得老僧底，大顛在東勝神洲作舞。東西雖有異，南北頗相通。珍重。誕日，上堂。老僧今年六十六，寶善菴中借一宿。今朝道是我生辰，大家齊上南山祝。前既不來今不往，兩頭不移中豈續？此中正好悟無生，莫道雙輪如轉軸。假饒壽若須彌盧，我道祇如彈指速。假饒壽若",
-              "MasterName": "Yongjue Yuanxian",
+              "MasterName": null,
               "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Yongjue Yuanxian",
                   "Roles": [
-                    "record-owner",
-                    "commentator"
+                    "commentator",
+                    "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X72/X72n1437.xml). Yongjue applies the line in a present memorial hall address and explains no-mind."
+              "AttributionNote": "Source record (X/X72/X72n1437.xml). Yongjue Yuanxian explicitly introduces the exact saying as Buddha speech, then comments on it. The record makes that attribution; its historical origin is not independently established here.",
+              "ActorAttribution": {
+                "Status": "identified-non-master",
+                "Kind": "Buddha named as source of quoted saying",
+                "ActorLabel": "Shakyamuni Buddha",
+                "ActorRole": "utterer",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "GrammarEvidence": "Yongjue introduces the complete line as a saying of the Buddha. The turn makes this attribution, while independent historical origin is not proved by this passage.",
+                "ReviewedBy": "Codex actor audit 2026-10-29",
+                "ReviewedUtc": "2026-10-29T00:00:00Z"
+              }
             }
           ],
           "ClaimAnchors": [
@@ -950490,9 +950559,15 @@
               "FromLb": "0365b24",
               "ToLb": "0365c21",
               "Kwic": "往來無間，須知遠烟浪，別有好思量。所以道：風力扶帆行不棹，笛聲喚月下滄洲。一任西沉東涌，嶂外溪心，非唯孤影團團，況乃清光耿耿，隨流得妙，住岸不迷。當此之際，想四智之難明，忖二機之不到，同安舉唱，千載徽猷，誰是知音，肯來斷和？還知麼？胡笳不犯宮商曲，玉笛同將劫外吹。第八十三則廣德言語(對機)第八十三則廣德言語示眾云：會得也，目前包裹；會不得也，目前包裹。若能秉此權衡，莫不深明至理。有靈籠剔透者，向未開口時薦取。舉：僧問廣德義禪師：古人云：言語道斷，非去來今。此理如何？德云：彌勒涅槃知幾劫？護明猶未降迦維。師舉三祖大師信心銘結句云：信心不二，不二信心。言語道斷，非去來今。這僧借此以為問端，故廣德不負初心，分明指示。雖是問在答處，答在問處，不可以有意求，不可以無意會，不可以尋言逐句違背真宗，不可以究妙窮玄差殊妙趣。有偈云：薩埵超十一，雪山越六雙。淹泥超八劫，餘九石門傍。昔釋迦因中為薩埵王子時，捨身餵餓虎，超彌勒十一劫。雪山六年苦行，超十二劫。值然燈出世，布髮淹泥，超八劫。翹足贊底沙世尊入火光",
-              "MasterName": "Linquan Conglun",
+              "MasterName": "Sengcan",
               "Curated": true,
               "ContextMasters": [
+                {
+                  "MasterName": "Sengcan",
+                  "Roles": [
+                    "verse-author"
+                  ]
+                },
                 {
                   "MasterName": "Linquan Conglun",
                   "Roles": [
@@ -950501,16 +950576,22 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X67/X67n1304.xml). Elder Linquan’s Commentary and Chanted Remarks on Chan Master Danxia Zichun’s Verses on Ancient Cases: Xutang Collection. Linquan treats the inherited line within a live case analysis."
+              "AttributionNote": "Source record (X/X67/X67n1304.xml). The exact line is cited from the Third Patriarch Sengcan Inscription on Faith in Mind. Linquan Conglun comments on or transmits it in the present turn; the cited headword remains Sengcan wording."
             },
             {
               "RelPath": "X/X71/X71n1426.xml",
               "FromLb": "0788a15",
               "ToLb": "0788b11",
               "Kwic": "，云：三人證龜成鼈。信心不二不二信心信心不二不二信心拈云：慚惶殺人。又云：識什麼好惡？要你髑髏前喃喃地是什麼？莫是信之與心更無有二麼？且莫顛言倒語，恁麼恁麼，珊瑚枝枝撐著月。參得透，見得徹，只消箇信心不二。不二信心，直得函蓋乾坤，把定世界。雖然如是，若不得，流水還應過別山。言語道斷非去來今言語道斷非去來今師噓一聲，云：三祖大師弓折箭盡，雖然末後全提納，一場敗關不同小小撿。點得出，語盡山雲海月情；點撿不出，依前不會還飛去。有般底便主張道：言語道斷，非去來今，便是至道無難，唯嫌揀擇。至道無難，唯嫌揀擇，便是言語道斷，非去來今。最初是末後句，末後是最初句。若恁麼，依前打入鬼窟裏去。諸人者，應是三世諸佛、六代祖師、天下老和尚，無邊法門、無量妙義。我今忍俊不禁，只要一句子與你說破。休，休！著甚來由閑話古，與今特地一場愁。古人直得口邊白醭、眼開懶閉，諸人被寂菴推東劃西、強生分別，且道與古人如何？雖然如是，也要諸人知有，非但三祖大師弓折箭盡，寂菴亦是鎗折力乏、家破人亡。畢竟如何？各請歸去休，莫待雨霖",
-              "MasterName": "Zhenxie Qingliao",
+              "MasterName": "Sengcan",
               "Curated": true,
               "ContextMasters": [
+                {
+                  "MasterName": "Sengcan",
+                  "Roles": [
+                    "verse-author"
+                  ]
+                },
                 {
                   "MasterName": "Zhenxie Qingliao",
                   "Roles": [
@@ -950519,16 +950600,22 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X71/X71n1426.xml). Recorded Sayings of Chan Master Zhenxie Qingliao. Zhenxie rejects a formula made of the Inscription's ends."
+              "AttributionNote": "Source record (X/X71/X71n1426.xml). The exact line is cited from the Third Patriarch Sengcan Inscription on Faith in Mind. Zhenxie Qingliao comments on or transmits it in the present turn; the cited headword remains Sengcan wording."
             },
             {
               "RelPath": "J/J35/J35nB336.xml",
               "FromLb": "0675a18",
               "ToLb": "0675b11",
               "Kwic": "無限男女，特地遭他熱瞞。」二祖神光慧可大師。將衣法付三祖已，遂即往鄴都，隨宜說法，韜光混跡，變易儀相，或入諸酒肆、或過於屠門，或習街談、或隨廝役。人問之曰：「師是道人，何故如是？」祖曰：「我自調心，何關汝事？」拈云：「入廛混跡，自是老大風流，秪箇調心，未必親口。何故？大師曾道：『覓心了不可得。』既了不可得，又調箇甚麼？」代云：「老僧近來衰耄。」頌云：「老賣調心法，橫身臥市叢。無人知此意，孤負少林風。」三祖司空僧燦大師。《信心銘》末云：「言語道斷，非去來今。」拈云：「既言語道斷，且道：此《信心銘》是言語？非言語？大師銘於去日，某甲聞在今時，展轉流布，惠及將來。是去來今？非去來今？敢請大師下一轉語。」頌云：「死蛇橫路莫當頭，日炙風吹毒轉稠。千載有人輕觸著，禍無旋踵喪良儔。」四祖黃梅道信大師。唐太宗嚮師道德，欲瞻風彩，詔赴京。祖上表遜謝，前後三返，竟以疾辭。第四度命使曰：「如果不起，即取首來。」使至山諭旨，祖乃引頸就刃，神色儼然。使異之，回以狀聞。帝彌加欽慕，就賜珍繪，以遂其志。拈云：「初祖",
-              "MasterName": "Huigong Kaixiong",
+              "MasterName": "Sengcan",
               "Curated": true,
               "ContextMasters": [
+                {
+                  "MasterName": "Sengcan",
+                  "Roles": [
+                    "verse-author"
+                  ]
+                },
                 {
                   "MasterName": "Huigong Kaixiong",
                   "Roles": [
@@ -950537,25 +950624,31 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J35/J35nB336.xml). Recorded Sayings of Chan Master Huigongxiong of Baoxianglin, Nanhai. Huigong tests the old line against the text's own history."
+              "AttributionNote": "Source record (J/J35/J35nB336.xml). The exact line is cited from the Third Patriarch Sengcan Inscription on Faith in Mind. Huigong Kaixiong comments on or transmits it in the present turn; the cited headword remains Sengcan wording."
             },
             {
               "RelPath": "X/X72/X72n1435.xml",
               "FromLb": "0243a22",
               "ToLb": "0243b16",
               "Kwic": "地載不起。爇向諸人面前，諸人要且不識。釋迦大師得之，便云：普見一切眾生具有如來智慧德相，祇因妄想執著而不能證得。迦葉得之，破顏微笑，便云：覓我者是汝我。阿難得之，結集聞持，副二傳化。商那和修得之，便云：身十七，性非十七。乃至達磨得之，與二十七祖辯珠，云：此是世寶，未足為上。於諸寶中，法寶為上。此是世光，未足為上。於諸光中，智光為上。此是世明，未足為上。於諸明中，心明為上。二祖得之，便云：覓心了不可得。三祖得之，便云：信心不二，不二信心。言語道斷，非去來今。四祖得之，便云：大緣與性合，當生生不生。五祖得之，便云：姓即有，不是常姓。六祖得之，便云：本來無一物，何處惹塵埃。馬祖得之，便云：一口吸盡西江水，一脚蹋殺天下人。乃至天童得之，便云：散乾葢而非心，持坤輿而有力。今日博山在此座上揚眉鼓舌，拈來撒出，祇要諸人識去。諸人還識得也未？若識得，便證香光莊嚴。若未識，人天眾前便好識去。豈不見大緣與性合，當生生不生。上堂。洞山大師云：地獄中苦未為苦，向衣線下不明大事，是為最苦。此大事既在衣線下，因甚",
-              "MasterName": "Wuyi Yuanlai",
+              "MasterName": "Sengcan",
               "Curated": true,
               "ContextMasters": [
                 {
+                  "MasterName": "Sengcan",
+                  "Roles": [
+                    "verse-author"
+                  ]
+                },
+                {
                   "MasterName": "Wuyi Yuanlai",
                   "Roles": [
-                    "utterer",
+                    "commentator",
                     "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi carries the third patriarch's line into a present test."
+              "AttributionNote": "Source record (X/X72/X72n1435.xml). The exact line is cited from the Third Patriarch Sengcan Inscription on Faith in Mind. Wuyi Yuanlai comments on or transmits it in the present turn; the cited headword remains Sengcan wording."
             }
           ],
           "ClaimAnchors": [],
@@ -950566,6 +950659,7 @@
             "X/X72/X72n1435.xml"
           ],
           "RelatedMasters": [
+            "Sengcan",
             "Linquan Conglun",
             "Zhenxie Qingliao",
             "Huigong Kaixiong",
@@ -1063513,9 +1063607,9 @@
           "Occurrences": [
             {
               "RelPath": "X/X66/X66n1296.xml",
-              "FromLb": "0187a16",
-              "ToLb": "0187b17",
-              "Kwic": "從前學處不玄，向後又不遇人，是以出言吐氣總不慚惶，得不為識者笑。白巖符云：諸方各出手眼，盾堅矛利，不無所長。若要與華嚴、守廓二老相見，未敢相許。白巖不顧犯忌，敢為直言道：風穴在二老手裏生遭陷沒，固不待言，又豈知他華嚴、守廓一上神通非同小小？還委悉麼？除却華山陳處士，誰人不帶是非行？汝州西院思明禪師汝州西院思明禪師因同參顒公出住，南院往訪之。纔見人事了，乃曰：某甲從許州來，無可人事，收得江西剃刀一柄獻和尚。南院曰：汝從許州來，為甚麼却收得江西剃刀？西院遂於院手上掐一掐。南院曰：侍者收取。西院以衣袖拂一拂便出。南院曰：阿剌剌，阿剌剌。溈山󳭷云：西院雖收得江西剃刀，無處施呈，直遇同參，方始拈出。如今還有收得者麼？試呈似山僧看。如無，尋常用個什麼？西院因僧問：學人有一問在和尚處時如何？院曰：設有，也斬為三段。僧作禮，院便休去。會下有一僧曰：堂頭和尚道即太煞，道未了在。問話僧乃拽其僧上方丈，白曰：者僧不肯和尚語。院曰：是上座不肯老僧那？僧曰：不曾覺事，亦不曾說。院乃一時喝下。僧到法堂，又曰：說甚太煞，道直下未了在。問話僧又拽其僧白方丈，院曰：上座果不肯老僧那？僧曰：莫信。者僧今日三度見伊風發，乃一總趁下。雲巖學云：思明棒頭有眼，者僧見機而作",
+              "FromLb": "0187a24",
+              "ToLb": "0187b08",
+              "Kwic": "汝州西院思明禪師因同參顒公出住，南院往訪之。纔見人事了，乃曰：某甲從許州來，無可人事，收得江西剃刀一柄獻和尚。南院曰：汝從許州來，為甚麼却收得江西剃刀？西院遂於院手上掐一掐。南院曰：侍者收取。西院以衣袖拂一拂便出。南院曰：阿剌剌，阿剌剌。溈山󳭷云：西院雖收得江西剃刀，無處施呈，直遇同參，方始拈出。如今還有收得者麼？試呈似山僧看。如無，尋常用個什麼？",
               "MasterName": "Nanyuan Huiyong",
               "Curated": true,
               "ContextMasters": [
@@ -1063530,9 +1063624,9 @@
             },
             {
               "RelPath": "D/D48/D48n8939.xml",
-              "FromLb": "0231b03",
-              "ToLb": "0232b08",
-              "Kwic": "只是辜負國師。馬王請石門蘊和尚住夾山鑾駕出接自問如何是西来大道蘊云御駕六龍千古秀玉街排杖出金門師云一等是祗對王臣大哥三昧𡩖廓何也恁麼祗對又不辜負西来大意又善能囬㸦其中事理摐然𠰥有問神鼎如何是西来大道對云行且道与古人是同是別久參禪客扵神鼎語中有个見𠁅沒量大人只怕往往蹉過。僧問大哥和尚千鈞之弩不為鼷鼠而發機忽遇大殺活底人来時如何哥云漢王才入鴻門會項莊舞劒始知難又云單雄解弄𬃷木槊尉󷰵随後唱畨歌師云如有問千鈞之弩不為鼷鼠而發機忽遇大殺活底人来時如何神鼎即向他道千鈞之弩不為鼷鼠而發機亦曾有人問神鼎千鈞之弩不為鼷鼠而發機荅他道阿剌剌阿剌剌其僧擬議劈脊便打且問諸人是什麼道理湏知各各家風事不同究取好。忠國師問僧近離什麼󵕯僧云南方國云南方知識以何法示人曰南方知識道一朝風火散㓕如虵󷑆皮如龍換骨本来𧴦性宛然無壞國云苦哉苦哉南方佛法半生半㓕僧便問未審和尚此間如何國云我此間身心一如身外無餘僧云何得將泡幻之身同於法躰國云你為什麼入於邪道僧云什麼󵕯是某入於邪道國云不見教中道𠰥以色見我以音声求我是人行邪道不能見如来師云若󷯋者僧恁麼道傳語也不解累它南方知識󷯋國師恁麼亦是龍頭虵尾前来身心一如向什麼󵕯去試撿點󷙃󳏃重。小叅舉溈山与仰山行次溈問𠈟曰前頭是什麼𠈟云枯樹子溈又",
+              "FromLb": "0232a01",
+              "ToLb": "0232a07",
+              "Kwic": "師云如有問千鈞之弩不為鼷鼠而發機忽遇大殺活底人来時如何神鼎即向他道千鈞之弩不為鼷鼠而發機亦曾有人問神鼎千鈞之弩不為鼷鼠而發機荅他道阿剌剌阿剌剌其僧擬議劈脊便打且問諸人是什麼道理湏知各各家風事不同究取好。",
               "MasterName": null,
               "Curated": true,
               "ContextMasters": [],
@@ -1063557,9 +1063651,9 @@
             },
             {
               "RelPath": "J/J40/J40nB494.xml",
-              "FromLb": "0544b04",
-              "ToLb": "0544b20",
-              "Kwic": "出卯。」僧問：「日即不問，如何是卯？」師云：「點即不到。」僧擬議，師便打。中秋，示眾。「月宮天子今夜為諸人說法了也，若向這裏見得，則全體清淨、全體光明、全體淨光無礙。以這淨光無礙底含養萬物、亭毒四生，乃至若草木、若禽魚，無不藉其成立。肯效他馬家父子單單為著箇自己說供養、說修行，縱饒南泉拂袖便行，腳跟終未點地在。那堪憐兒不覺醜底道箇『經入藏、禪歸海，惟有普願獨超物外。』阿剌剌！恁麼說話，明眼人前當不得一唾。今夜實情說向你，一痕未吐，千聖罔測其由；三五正圓，萬象莫逃其質。此猶是明昧兩岐，要知獨脫無依。普請大眾，不如一齊歸去好。」晚參。「一念不生，非普賢安身處；諸塵競起，乃文殊大神通。無位真人來也，道一切聲是佛聲、一切色是佛色，無端拈起鞏縣茶瓶，卻是饒州磁碗，十字街頭李阿大慣打過人頭底脫空。你禪和子尋常說的禪道佛法向他分上一點用不著，且作麼生",
+              "FromLb": "0544b11",
+              "ToLb": "0544b15",
+              "Kwic": "那堪憐兒不覺醜底道箇『經入藏、禪歸海，惟有普願獨超物外。』阿剌剌！恁麼說話，明眼人前當不得一唾。今夜實情說向你，一痕未吐，千聖罔測其由；三五正圓，萬象莫逃其質。此猶是明昧兩岐，要知獨脫無依。普請大眾，不如一齊歸去好。」",
               "MasterName": "Yushan Shangsi",
               "Curated": true,
               "ContextMasters": [
@@ -1063574,9 +1063668,9 @@
             },
             {
               "RelPath": "J/J38/J38nB410.xml",
-              "FromLb": "0334a06",
-              "ToLb": "0334a21",
-              "Kwic": "堂何物受牢籠？」師云：「愁殺人。」僧云：「何人識得渠？」師打退，云：「看破了也。」乃云：「愛閒不打龍華鼓，策杖來探得度師，業債些須償未了，半肩犁杷復何辭？所以，皮毛不惜，筋骨任勞，耕破劫外乾坤，翻轉祖翁田地，直得鳳凰展翅，寶塔放光，孤峰湧月，萬派朝宗。秪如感應道交，則固是祖翁田地，人人還踏著也未？若向諸佛未成道處一踏，到底始救得一半；倘向明星出現處薦取，豈不落七落八？阿剌剌，阿剌剌，將此深心奉塵剎。」下座。諸山禪師至，上堂。「天寒地寒，山凍水凍，十里穀城，梅花遍放。處其中者，無限風光；遊其中者，十分放曠。青鳥一聲兩聲，羅浮似夢非夢，動人春色不須多，聊折一枝平奉送。或有人云：『人人各有一枝，要和尚底作麼？』山僧向伊道：『豈不聞芭蕉道底？』」遂擲拄杖，下座。歲旦，上堂。云：「祥麟瑞鳳兩相親，送去迎來沒二人，海底金輪纔湧曉，世間萬事又翻新。世",
+              "FromLb": "0334a11",
+              "ToLb": "0334a14",
+              "Kwic": "秪如感應道交，則固是祖翁田地，人人還踏著也未？若向諸佛未成道處一踏，到底始救得一半；倘向明星出現處薦取，豈不落七落八？阿剌剌，阿剌剌，將此深心奉塵剎。」下座。",
               "MasterName": "Lianfeng Su",
               "Curated": true,
               "ContextMasters": [
@@ -1063591,9 +1063685,9 @@
             },
             {
               "RelPath": "J/J25/J25nB174.xml",
-              "FromLb": "0747a13",
-              "ToLb": "0747b01",
-              "Kwic": "云：「者裏看取。」大慧杲禪師塔：「眉間挂劍，血濺梵天；平地骨堆，千古含冤。瞎臨濟小廝兒法眼，吐圓悟老巴子狐涎；今朝撞著對頭頂門，痛與加尖。咄！」元叟端禪師塔：「者破坐具，能展能收；三十痛棒，迥出常流。兩被金襴，眼睛突出；重振妙喜宗風，高縣雙徑佛日。」達觀可大師塔：「舍己求人，忘軀為法；剖正眼藏，照十方剎。無影樹下誰同船？鵬摶峰前逢老達。相逢時如何？以手捉云：『鼻孔拈來阿剌剌。』」鳥窠道林禪師塔：「類不齊，混知處，凡聖位中留不住，隨緣寄跡鳥窠，賺殺鬼家活計。白侍郎到者裏始驚，坐鎮江山有薪火之危；通侍者十八年乃悟，欲參諸方求佛法之意。悟個甚麼聻？布毛拈起一吹，三藏十二部千七百公案，都被無影樹頭風吹去。吹到那裏去？」以如意指塔云：「高著眼。」寶方師翁像前上供：「南泉為馬祖作供，洞山謂：『待有伴時即來。』某甲為寶方設齋，我翁卻不待請而自至。且道",
+              "FromLb": "0747a20",
+              "ToLb": "0747a22",
+              "Kwic": "達觀可大師塔：「舍己求人，忘軀為法；剖正眼藏，照十方剎。無影樹下誰同船？鵬摶峰前逢老達。相逢時如何？以手捉云：『鼻孔拈來阿剌剌。』」",
               "MasterName": "Juelang Daosheng",
               "Curated": true,
               "ContextMasters": [
@@ -1063608,9 +1063702,9 @@
             },
             {
               "RelPath": "J/J32/J32nB273.xml",
-              "FromLb": "0208b02",
-              "ToLb": "0208b18",
-              "Kwic": "瞎。禪和家箇箇腕頭有力，不怕提不起，不怕將不去，何處更覓祖師？即今兩手分付大眾。無明與麼批判，且道與古人相去多少？還有證明者麼？若證明得，居士功不浪施；若證明不得，無明不惜眉毛，復成一頌。」以拂子打圓相云：「大眾見麼？大地渾侖黑漆缽，吞吐虛空口門闊，白飯山堆疊疊來，死人吃了都教活。畢竟此功歸阿誰？常州在家蔣菩薩，老僧也只得一分，大家有眼何曾瞎？分付囊藏又展開，千古萬古阿剌剌。」示眾，舉祖師云：「父母非我親，誰是最親者？諸佛非我道，誰是最道者？雲蓋本云：『父母非我親，無有不親者；諸佛非我道，無有不道者。』祖師得第一句，雲蓋得第二句，有人添得一句，許伊鼎分三足。無明則不然，父母非我親，我亦非親者；諸佛非我道，道亦非我者。祖師也不得第一句，雲蓋也不得第二句。無明碎身如微塵，何止頭破作七分？」上堂，僧問：「如何是第一句？」師云：「有口如啞。」進",
+              "FromLb": "0208b06",
+              "ToLb": "0208b10",
+              "Kwic": "以拂子打圓相云：「大眾見麼？大地渾侖黑漆缽，吞吐虛空口門闊，白飯山堆疊疊來，死人吃了都教活。畢竟此功歸阿誰？常州在家蔣菩薩，老僧也只得一分，大家有眼何曾瞎？分付囊藏又展開，千古萬古阿剌剌。」",
               "MasterName": "Qianyan Yuanzhang",
               "Curated": true,
               "ContextMasters": [
@@ -1063625,9 +1063719,9 @@
             },
             {
               "RelPath": "J/J37/J37nB392.xml",
-              "FromLb": "0580b15",
-              "ToLb": "0580c01",
-              "Kwic": "光彩年年見，兩地清輝一樣天。各各須知真月現，曾無明暗豈推遷？諸人要識真月麼？莫辭達曙慇懃望，一墮西巖又隔年。」誕日，示眾。舉：「那吒太子析肉還母、析骨還父，然後復現本身，運大神通為父母說法。大眾！骨肉既然都還父母，畢竟是誰為伊說法？」擊香几，云：「世間無限丹青手，一段風光畫不成。」上堂。「庖丁子目無全牛，解心猶在。漆園叟蝶與俱棚，夢境未忘。衲僧門下獨脫無依，又作麼生？阿剌剌！」至西來菴，珂月書記請上堂。問：「有相，能殺能活，遇緣即宗，浮山九帶，請師舉揚。」師云：「逐一問將來。」進云：「少室峰前不容擬議，威音那畔杳無消息，作麼生是佛正法眼藏帶？」師云：「木雞啼子夜，石虎嘯天明。」進云：「世尊三百餘會未曾談著一字，那是佛法藏帶？」師云：「雲藏無縫襖，花發不萌枝。」進云：「聲色不到，語話難詮，何為理貫帶？」師云：「春風來大地，明月朗中天。」進",
+              "FromLb": "0580b22",
+              "ToLb": "0580b23",
+              "Kwic": "上堂。「庖丁子目無全牛，解心猶在。漆園叟蝶與俱棚，夢境未忘。衲僧門下獨脫無依，又作麼生？阿剌剌！」",
               "MasterName": "Hansong Zhicao",
               "Curated": true,
               "ContextMasters": [
