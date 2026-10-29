@@ -223708,25 +223708,8 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "The word “worlds” is retained explicitly in the English target. ",
+          "Note": "Changsha gives the line as the last line of his verse on stepping past a hundred-foot pole. Xuedou applies that step to his own return to an assembly; Hongzhi answers the case with a new verse; Shanduo rejects solving it by merely moving forward or backward; Cishou insists on reading Changsha's follow-up answer. The four later works actively handle one inherited verse, not four new original speakers.",
           "Occurrences": [
-            {
-              "RelPath": "B/B14/B14n0082.xml",
-              "FromLb": "0202b04",
-              "ToLb": "0202b06",
-              "Kwic": "百丈竿頭不動人雖然得入未為真百丈竿頭須進步十方世界是全身",
-              "ContextMasters": [
-                {
-                  "MasterName": "Changsha Jingcen",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (B/B14/B14n0082.xml). Jade Flowers of the Transmission of the Lamp (Fragment). Speaker: Changsha Jingcen.",
-              "MasterName": "Changsha Jingcen",
-              "Curated": true
-            },
             {
               "RelPath": "B/B25/B25n0144.xml",
               "FromLb": "0623b03",
@@ -223734,57 +223717,152 @@
               "Kwic": "去會和尚處，問：「和尚見南泉後如何？」會和尚良久，侍者進云：「未見南泉已前事如何？」會和尚云：「不可別更有也。」侍者卻歸舉似師，師當時有偈曰：「百尺竿頭不動人，雖然得入未為真。百尺竿頭須進步，十方世界是全身。」三聖和尚問：「承師有言『百尺竿頭須進步』，百尺竿頭則不問，百尺竿頭如何進步？」師云：「朗州山，澧州水。」進曰：「更請和尚道。」師云：「四海五湖王化裏。」「亡僧遷化，向什摩處去？」師云：「歷",
               "ContextMasters": [
                 {
-                  "MasterName": "Shishuang Qingzhu",
-                  "Roles": [
-                    "utterer"
-                  ]
-                },
-                {
                   "MasterName": "Changsha Jingcen",
                   "Roles": [
-                    "person-discussed"
+                    "utterer",
+                    "case-figure"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (B/B25/B25n0144.xml). Zutang Ji (Anthology from the Patriarchs’ Hall). Speaker: Shishuang Qingzhu.",
-              "MasterName": "Shishuang Qingzhu",
-              "Curated": true
+              "AttributionNote": "Source record (B/B25/B25n0144.xml). The Changsha Jingcen section says he gave this complete verse after hearing the monk report another encounter; the line is not Shishuang Qingzhu speech.",
+              "MasterName": "Changsha Jingcen",
+              "Curated": true,
+              "ClaimText": "十方世界是全身"
             },
             {
-              "RelPath": "C/C078/C078n1720.xml",
-              "FromLb": "0705a09",
-              "ToLb": "0705a10",
-              "Kwic": "真百尺竿頭須進步十方世界是全身僧便問秪如百尺竿",
+              "RelPath": "T/T47/T47n1996.xml",
+              "FromLb": "0675a05",
+              "ToLb": "0675a20",
+              "Kwic": "至方。師云。龍頭蛇尾。問如何是祖師西來意。師云點。進云。猶有者箇在。師云。三十年後。進云。與麼則翠峯今日瓦解氷消。師云。有些子。師乃云。莫是與上座相爭。然則論戰也箇箇力在箭鋒相拄。又須是箇特達漢始得。若意根尚滯。直須向前決擇。所以長沙和尚道。百尺竿頭坐底人。雖然得入未為真。百尺竿頭須進步。十方世界是全身。僧舉問南泉。百尺竿頭如何進步。泉云。更進一步。僧復問瓦官。官云。百尺竿頭用進作什麼。僧不肯。官便打。師云。大眾。古人機變出在一時。其間別有商量。亦未言著。且如雪竇。今日再入靈隱。也似百尺竿頭。依南泉之言。得進一步。喜與大眾相見。則十方世界一時周匝。便下座。師到越州承天寺。眾請陞座。僧問。",
+              "MasterName": "Changsha Jingcen",
+              "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Changsha Jingcen",
                   "Roles": [
                     "utterer",
-                    "verse-author"
+                    "case-figure"
+                  ]
+                },
+                {
+                  "MasterName": "Xuedou Chongxian",
+                  "Roles": [
+                    "later-raiser",
+                    "commentator",
+                    "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (C/C078/C078n1720.xml). Chan School: Comprehensive Linked-Pearls Collection of Verse Commentaries on Old Cases. Speaker: Changsha Jingcen.",
+              "AttributionNote": "Source record (T/T47/T47n1996.xml). The exact line is Changsha's older verse; Xuedou quotes the Changsha verse, then applies the step forward to his own return to Lingyin and the assembly.",
+              "EvidenceRole": "quoted-original-use",
+              "ClaimText": "十方世界是全身"
+            },
+            {
+              "RelPath": "T/T48/T48n2001.xml",
+              "FromLb": "0025b21",
+              "ToLb": "0025c09",
+              "Kwic": "青天激電。眼含紫光兮。白日見星。舉僧問雲門。如何是超佛越祖之談。門云胡餅。頌曰。胡餅云超佛祖談。句中無味若為參。衲僧一日如知飽。方見雲門面不慚。舉長沙令僧問會和尚。未見南泉時如何。會良久。僧云。見後如何。會云。不可別有也。僧回舉似長沙。沙云。百尺竿頭坐底人。雖然得入未為真。百尺竿頭須進步。十方世界是全身。僧云。百尺竿頭如何進步。沙云。朗州山澧州水。僧云不會。沙云。四海五湖王化裡。頌曰。玉人夢破一聲雞。轉盻生涯色色齊。有信風雷催出蟄。無言桃李自成蹊。及時節力耕犁。誰怕春疇沒脛泥。舉龍牙問翠微。如何是祖師西來意。微云。與我過禪版來。牙取禪版與翠微。微接得便打。牙云。打即任打。要且無祖師意。又",
               "MasterName": "Changsha Jingcen",
-              "Curated": true
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Changsha Jingcen",
+                  "Roles": [
+                    "utterer",
+                    "case-figure"
+                  ]
+                },
+                {
+                  "MasterName": "Hongzhi Zhengjue",
+                  "Roles": [
+                    "later-raiser",
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (T/T48/T48n2001.xml). The exact line is Changsha's older verse; Hongzhi raises Changsha full case and adds his own response verse, an active new appraisal.",
+              "EvidenceRole": "quoted-original-use",
+              "ClaimText": "十方世界是全身"
+            },
+            {
+              "RelPath": "J/J38/J38nB414.xml",
+              "FromLb": "0423b02",
+              "ToLb": "0423b14",
+              "Kwic": "咬赤邊。玄沙曰：『我若見即踏倒鍬子。』正賊走卻拏住邏贓。要是斬釘截鐵，仰山死去十分了也。」示眾。舉：「長沙岑禪師一日遣僧問同泰會曰：『和尚見南泉後如何？』會默然。僧曰：『和尚未見南泉已前作麼生？』曰：『不可更別有也。』僧回舉似岑，岑示偈曰：『百尺竿頭不動人，雖然得入未為真。百尺竿頭須進步，十方世界是全身。』僧便問：『秪如百尺竿頭如何進步？』曰：『朗州山，澧州水。』曰：『不會。』曰：『四海五湖王化裏。』」師曰：「有底道：『要見長沙，還須更進一步。』有底道：『要識長沙，更退一步。』拄杖子不在手，笤帚柄聊與二十。何故？為他在進退上著腳。有問華桂：『見金明後如何？』『有馬騎馬，無馬騎驢。』『未見",
+              "MasterName": "Changsha Jingcen",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Changsha Jingcen",
+                  "Roles": [
+                    "utterer",
+                    "case-figure"
+                  ]
+                },
+                {
+                  "MasterName": "Shanduo Zhenzai",
+                  "Roles": [
+                    "later-raiser",
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J38/J38nB414.xml). The exact line is Changsha's older verse; Shanduo raises Changsha full verse and criticizes attempts to solve it by moving forward or back.",
+              "EvidenceRole": "quoted-original-use",
+              "ClaimText": "十方世界是全身"
+            },
+            {
+              "RelPath": "X/X73/X73n1451.xml",
+              "FromLb": "0106a21",
+              "ToLb": "0106b09",
+              "Kwic": "上堂云：萬法是心光，諸緣唯性曉，衲僧恁麼會，鑽頭入荒草。且道出草一句作麼生道？你既無心我也休。上堂，舉：有僧在長沙院側住菴，自云：見南泉來。長沙岑和尚遣僧問：未見南泉時如何？菴主默然據坐。又問：畢竟如何？菴主云：不可別有也。長沙聞得，有偈云：百尺竿頭坐底人，雖然得入未為真，百尺竿頭須進步，十方世界是全身。僧便問：百尺竿頭如何進步？沙云：朗州山，澧州水。僧云：請師實道。沙云：四海五湖王化裏。師云：岑大蟲若無後語，也是百尺竿頭坐底人。上堂，云：古人道：上來打箇問訊，日消萬兩黃金；下去打箇珍重，受得四天下人供養。師云：古人恁麼道，大似高價相酬，致令學者一向作殊勝會了。慈受道：上來打箇問訊，且喜",
+              "MasterName": "Changsha Jingcen",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Changsha Jingcen",
+                  "Roles": [
+                    "utterer",
+                    "case-figure"
+                  ]
+                },
+                {
+                  "MasterName": "Cishou Huaishen",
+                  "Roles": [
+                    "later-raiser",
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X73/X73n1451.xml). The exact line is Changsha's older verse; Cishou raises Changsha full case and judges that its later answer is necessary to the verse.",
+              "EvidenceRole": "quoted-original-use",
+              "ClaimText": "十方世界是全身"
             }
           ],
           "ClaimAnchors": [],
           "SourceTexts": [
-            "B/B14/B14n0082.xml",
             "B/B25/B25n0144.xml",
-            "C/C078/C078n1720.xml"
+            "T/T47/T47n1996.xml",
+            "T/T48/T48n2001.xml",
+            "J/J38/J38nB414.xml",
+            "X/X73/X73n1451.xml"
           ],
           "RelatedMasters": [
-            "Shishuang Qingzhu",
-            "Changsha Jingcen"
+            "Changsha Jingcen",
+            "Xuedou Chongxian",
+            "Hongzhi Zhengjue",
+            "Shanduo Zhenzai",
+            "Cishou Huaishen"
           ],
           "RelatedTerms": [
             "十方世界",
             "百尺竿頭",
             "竿頭進步"
           ],
-          "Explanation": "The worlds of the ten directions are the whole body: the complete world-field, not merely spatial directions, is named as the whole body in the verse paired with stepping forward from the hundred-foot pole. The corpus transmits the same sending-a-monk case and verse under conflicting names: two witnesses frame it under Shishuang Qingzhu, while another explicitly begins with Changsha Jingcen sending the unnamed monk. The lexical image holds; its author attribution remains a documented transmission variant."
+          "Explanation": "The worlds of the ten directions become the whole body in Changsha's verse about stepping past the top of a hundred-foot pole. The verse is Changsha's response after a monk reports another encounter. Xuedou makes the step bear on a present return to his community, Hongzhi gives the case a new answer verse, Shanduo tests interpretations that simply go forward or back, and Cishou says the following answer must be heard. These separate current appraisals keep the whole-body wording active without multiplying its original speaker."
         }
       ]
     },
