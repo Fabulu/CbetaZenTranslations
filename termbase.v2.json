@@ -31905,144 +31905,6 @@
       ]
     },
     {
-      "Id": "t_55b597a832a5",
-      "SourceTerm": "一箇棺材，兩箇死漢",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "author_from_packet",
-      "WrittenUtc": "2026-07-19T17:51:35.742625Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "one coffin, two dead men",
-          "AlternateTargets": [],
-          "SearchAliases": [
-            "one coffin, two dead men"
-          ],
-          "Status": "preferred",
-          "Validation": "provisional",
-          "Note": "The phrase is an encounter verdict, not a report of an actual burial. The retained witnesses form two families of related occurrences: Yanguan Qi'an's appraisal of Damei and Wuyi Yuanlai's verdict after Feiyin recounts his meeting with Shouchang.",
-          "Occurrences": [
-            {
-              "RelPath": "J/J36/J36nB369.xml",
-              "FromLb": "0985b19",
-              "ToLb": "0985b28",
-              "Kwic": "頌曰：「草閣舊廬風上古，花枝長短彌春戶。行人欲識老夫心，日出海門夜將午。南山雲，北山雨，此去煩君細細吐。」大梅因僧問：「如何是祖師西來意？」梅曰：「西來無意。」鹽官聞之，乃曰：「一箇棺材，兩箇死漢。」玄沙曰：「鹽官是作家。」雪竇曰：「三箇也有。」頌曰：「舌上龍泉劈面揮，屍橫遍野曝斜暉。只知櫬狹難藏掩，愁看征人淚濕衣。」曹山因僧問：「朗月當空時如何？」山曰：「猶是階下漢。」曰：「請師接上階。」山曰：「月落後相見。」",
-              "MasterName": "Yanguan Qi'an",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Yanguan Qi'an",
-                  "Roles": [
-                    "utterer"
-                  ]
-                },
-                {
-                  "MasterName": "Yanguan Qi'an",
-                  "Roles": [
-                    "utterer",
-                    "respondent"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan. Yanguan Qi'an gives or composes the expression translated as “one coffin, two dead men” in this bounded Recorded Sayings of Chan Master Zhe’an Fan witness."
-            },
-            {
-              "RelPath": "J/J29/J29nB230.xml",
-              "FromLb": "0277a22",
-              "ToLb": "0277a29",
-              "Kwic": "師曰：「和尚今日被蕅絲牽倒了也。」又問：「師唱誰家曲？宗風嗣阿誰？」異曰：「汝那裏學者虛頭來？」師將異連座一推，幾倒。異徵師所自，師述見壽昌因緣，異曰：「一箇棺材，兩箇死漢。」師乞指示，異教看話頭，隨至博山。未幾，謁湛然禪師於雲門。湛曰：「汝那裏來？」師豎扇。湛曰：「德山因甚不會末後句？」師便喝。湛曰：「莫掠虛好。」師曰：「今日親見和尚。」於是往來雲門，多歷年所。復至匡廬，見愍山大師。問：",
-              "MasterName": "Wuyi Yuanlai",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Wuyi Yuanlai",
-                  "Roles": [
-                    "utterer"
-                  ]
-                },
-                {
-                  "MasterName": "Feiyin Tongrong",
-                  "Roles": [
-                    "interlocutor",
-                    "person-described"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J29/J29nB230.xml). Six-Session Record of Monk Shuijianhai of Tianwang. In Feiyin Tongrong's biography, Wuyi Yuanlai answers Feiyin's account with ‘one coffin, two dead men.’"
-            },
-            {
-              "RelPath": "J/J29/J29nB232.xml",
-              "FromLb": "0313c23",
-              "ToLb": "0314a01",
-              "Kwic": "師曰：「和尚今日被蕅絲牽倒了也。」茶次，又問：「師唱誰家曲？宗風嗣阿誰？」異曰：「汝那裏學者虛頭來？」師將異連座一推，幾乎倒地。異徵師所自，師述見壽昌因緣，異曰：「一箇棺材，兩箇死漢。」師乞指決，異教參話頭，隨至博山。未幾，謁湛然禪師於雲門。湛問：「汝那裏來？」師豎扇。湛曰：「德山因甚不會末後句？」師一喝。湛曰：「莫掠虛好。」師曰：「今日親見和尚。」至匡廬，見憨山大師。問：「古人道：『離心意識參，絕",
-              "MasterName": "Wuyi Yuanlai",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Wuyi Yuanlai",
-                  "Roles": [
-                    "utterer"
-                  ]
-                },
-                {
-                  "MasterName": "Feiyin Tongrong",
-                  "Roles": [
-                    "interlocutor",
-                    "person-described"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J29/J29nB232.xml). Recorded Sayings of Monk Shuijianhai of Tianwang at Jinsu. In Feiyin Tongrong's biography, Wuyi Yuanlai answers Feiyin's account with ‘one coffin, two dead men.’"
-            },
-            {
-              "RelPath": "J/J34/J34nB298.xml",
-              "FromLb": "0111a20",
-              "ToLb": "0111b02",
-              "Kwic": "霞退後三步，忠云：「如是，如是。」霞進前三步，忠云：「不是，不是。」霞一匝而出。拈云：「恁麼相見，還當得麼？」僧問大梅：「如何是祖師西來意？」梅曰：「西來無意。」鹽官聞，乃曰：「一箇棺材，兩箇死漢。」拈云：西來無意，千七百則公案俱成戲論；若言有意，莫謗祖師好。者裏著得隻眼，鹽官一語瓦解冰消。陸亙大夫問南泉石上鐫佛字因緣。拈云：「將謂是箇俗漢，善識機宜；若不是王老師，幾乎錯下雕鐫。雖然，諸人要識者片石麼？切忌鑽龜打瓦。」",
-              "MasterName": "Yanguan Qi'an",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Yanguan Qi'an",
-                  "Roles": [
-                    "utterer"
-                  ]
-                },
-                {
-                  "MasterName": "Yanguan Qi'an",
-                  "Roles": [
-                    "utterer",
-                    "respondent"
-                  ]
-                },
-                {
-                  "MasterName": "Shenfeng Xian",
-                  "Roles": [
-                    "commentator"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J34/J34nB298.xml). Recorded Sayings of Chan Master Shenfeng Xian. Yanguan Qi'an gives or composes the expression translated as “one coffin, two dead men” in this bounded Recorded Sayings of Chan Master Shenfeng Xian witness."
-            }
-          ],
-          "SourceTexts": [
-            "J/J36/J36nB369.xml",
-            "J/J29/J29nB230.xml",
-            "J/J29/J29nB232.xml",
-            "J/J34/J34nB298.xml"
-          ],
-          "RelatedMasters": [
-            "Wuyi Yuanlai",
-            "Yanguan Qi'an"
-          ],
-          "RelatedTerms": [],
-          "ClaimAnchors": [],
-          "Explanation": "The verdict places two dead men in a single coffin. Two records preserve Yanguan Qi'an's appraisal of Damei's answer, while two biographies preserve Wuyi Yuanlai's verdict after Feiyin Tongrong recounts his meeting with Shouchang. These are two case families rather than four independent uses."
-        }
-      ]
-    },
-    {
       "Id": "t_ad33c5e913e8",
       "SourceTerm": "一箇棺材，兩箇死漢",
       "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
@@ -86175,179 +86037,6 @@
       ]
     },
     {
-      "Id": "t_27acd0b37fcc",
-      "SourceTerm": "不許夜行，投明須到",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "iriya-construction-001 lane B",
-      "WrittenUtc": "2026-07-18T08:15:50.699929Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "the night-travel and dawn-arrival rule",
-          "AlternateTargets": [
-            "night travel is not permitted, with arrival required at daybreak"
-          ],
-          "SearchAliases": [
-            "no night travel",
-            "arrive by dawn"
-          ],
-          "Status": "preferred",
-          "Validation": "multi-source",
-          "Note": "Fengxue Yanzhao gives the pair as a direct answer; Touzi Datong’s answer is raised in later records; other masters and questioners quote the complete pair as a fixed rule. Review keeps quotations and record headings separate.",
-          "Occurrences": [
-            {
-              "RelPath": "X/X82/X82n1571.xml",
-              "FromLb": "0023b08",
-              "ToLb": "0023b13",
-              "Kwic": "禪師興化潘氏子。僧問：無遮聖會還有不到者麼？師曰：有。曰：誰是不到者？師曰：金剛脚下鐵崑崙。問：不許夜行，投明須到。意旨如何？師曰：羊頭車子推明月。曰：便恁麼去時如何？師曰：鐵門路嶮。問：一槌兩當時如何？師曰：踏藕得魚歸。問：教外別傳，未審傳個甚麼？師曰：鐵",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120). In Complete Five Lamps (Vols. 34–120) case 0, the question frame places the formula in the monk’s question; therefore an unnamed questioning monk, rather than the section heading or a neighboring quoted figure, bears this literal clause.",
-              "ActorAttribution": {
-                "Status": "reviewed-unnamed",
-                "Kind": "full-case-grammar-adjudication",
-                "ActorLabel": "an unnamed questioning monk",
-                "ActorRole": "questioner",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "an unnamed questioning monk: the source explicitly leaves this non-master voice unnamed; complete-case speech grammar fixes this span to its turn.",
-                "ReviewedBy": "iriya-construction-001 lane B",
-                "ReviewedUtc": "2026-07-18T08:15:50.699929Z"
-              }
-            },
-            {
-              "RelPath": "X/X81/X81n1568.xml",
-              "FromLb": "0035c07",
-              "ToLb": "0035c12",
-              "Kwic": "門。問：語默涉離微，如何通不犯？師曰：常憶江南三月裏，鷓鴣啼處百花香。問：百了千當時如何？師曰：不許夜行，投明須到。上堂：三千劒客，恥見莊周。赤眉橫肩，得無訛謬。他時變豹，後五日看。珍重！問：心印未明時如何？師曰：雖聞酋帥投歸欵，未見牽羊納璧來。問：如何是臨",
-              "MasterName": "Fengxue Yanzhao",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Fengxue Yanzhao",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X81/X81n1568.xml). Strict Lineage of the Five Lamps (Vols. 10–25). In Strict Lineage of the Five Lamps (Vols. 10–25) case 1, the adjacent said-frame assigns the formula to the named response or address; therefore Fengxue Yanzhao, rather than the section heading or a neighboring quoted figure, bears this literal clause."
-            },
-            {
-              "RelPath": "X/X79/X79n1559.xml",
-              "FromLb": "0330a12",
-              "ToLb": "0330a17",
-              "Kwic": "師東京法雲佛照杲禪師自妙年遊方，謁圓通璣禪師。入室次，璣舉：僧問投子：大死底人却活時如何？子云：不許夜行，投明須到。意作麼生？師曰：恩大難酬。璣大喜，命師首眾。至晚為眾秉拂，機遲而訥，眾笑之，師有赧色。次日於僧堂點茶，師慚甚，因觸茶瓢墜地，見瓢跳，乃得應機三",
-              "MasterName": "Touzi Datong",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Touzi Datong",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X79/X79n1559.xml). Jiatai Universal Lamp Record. In Jiatai Universal Lamp Record case 2, the adjacent said-frame assigns the formula to the named response or address; therefore Touzi Datong, rather than the section heading or a neighboring quoted figure, bears this literal clause."
-            },
-            {
-              "RelPath": "X/X84/X84n1583.xml",
-              "FromLb": "0420a07",
-              "ToLb": "0420a12",
-              "Kwic": "管他，終日癡憨算海沙。要識本來真面目，便是祖師一木叉。道不得底叉下死，道得底也叉下死。畢竟如何？不許夜行，投明須到。成都府范縣君成都府范縣君者嫠居，常坐不臥。聞圓悟住昭覺，往禮拜，請示入道因緣。悟令看不是心，不是佛，不是物，是箇甚麼，久無所契。范泣告悟曰：和",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (X/X84/X84n1583.xml). Orthodox Continuation of the Lamp. In Orthodox Continuation of the Lamp case 3, the adjacent said-frame assigns the formula to the named response or address; therefore Zhaojue Daozu, rather than the section heading or a neighboring quoted figure, bears this literal clause. Exact identified speaker: Zhaojue Daozu; retained as an identified unlinked master because the current lineage roster has no exact canonical link. Unlinked context figure: Zhaojue Daozu (utterer); identity and role are preserved here without a broken ContextMasters link.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "full-case-grammar-adjudication",
-                "ActorLabel": "Zhaojue Daozu",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Zhaojue Daozu: the complete retained case and governing speech frame identify Zhaojue Daozu as the speaker of the headword; all six attribution rungs were checked, but no exact canonical roster link exists. Context role preserved without link: Zhaojue Daozu (utterer).",
-                "ReviewedBy": "Codex strict-roster repair lane C",
-                "ReviewedUtc": "2026-07-18T00:00:00Z"
-              }
-            },
-            {
-              "RelPath": "X/X84/X84n1579.xml",
-              "FromLb": "0016a03",
-              "ToLb": "0016a09",
-              "Kwic": "管他，終日癡憨弄海沙。要識本來真面目，便是祖師一木叉。道不得底叉下死，道得底也叉下死。畢竟如何？不許夜行，投明須到。台州瑞巖如勝佛燈禪師台州瑞巖如勝佛燈禪師上堂。人人領略釋迦，箇箇平欺達磨，及乎問著宗綱，束手盡云放過。放過即不無，祇如女子出定、趙州洗鉢盂又作",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (X/X84/X84n1579.xml). Continuation of the Record Pointing at the Moon. In Continuation of the Record Pointing at the Moon case 5, the adjacent said-frame assigns the formula to the named response or address; therefore Zhaojue Daozu, rather than the section heading or a neighboring quoted figure, bears this literal clause. Exact identified speaker: Zhaojue Daozu; retained as an identified unlinked master because the current lineage roster has no exact canonical link. Unlinked context figure: Zhaojue Daozu (utterer); identity and role are preserved here without a broken ContextMasters link.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "full-case-grammar-adjudication",
-                "ActorLabel": "Zhaojue Daozu",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Zhaojue Daozu: the complete retained case and governing speech frame identify Zhaojue Daozu as the speaker of the headword; all six attribution rungs were checked, but no exact canonical roster link exists. Context role preserved without link: Zhaojue Daozu (utterer).",
-                "ReviewedBy": "Codex strict-roster repair lane C",
-                "ReviewedUtc": "2026-07-18T00:00:00Z"
-              }
-            },
-            {
-              "RelPath": "X/X83/X83n1578.xml",
-              "FromLb": "0566a21",
-              "ToLb": "0566b03",
-              "Kwic": "油！油！師自過胡餅與州，州不管。師令侍者過胡餅，州禮侍者三拜。州問：大死底人却活時如何？師曰：不許夜行，投明須到。州曰：我早侯白，伊更侯黑。雪竇頌云：活中有眼還同死，藥忌何須驗作家。古佛尚言曾未到，不知誰解撒泥沙。徑山杲頌：禾黍不陽艶，競栽桃李春。翻令力耕者，半作賣花人。",
-              "MasterName": "Touzi Datong",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Touzi Datong",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X83/X83n1578.xml). Record Pointing at the Moon. In Record Pointing at the Moon case 6, the adjacent said-frame assigns the formula to the named response or address; therefore Touzi Datong, rather than the section heading or a neighboring quoted figure, bears this literal clause."
-            }
-          ],
-          "SourceTexts": [
-            "X/X82/X82n1571.xml",
-            "X/X81/X81n1568.xml",
-            "X/X79/X79n1559.xml",
-            "X/X84/X84n1583.xml",
-            "X/X84/X84n1579.xml",
-            "X/X83/X83n1578.xml"
-          ],
-          "RelatedMasters": [
-            "Fengxue Yanzhao",
-            "Touzi Datong"
-          ],
-          "RelatedTerms": [],
-          "ClaimAnchors": [],
-          "Explanation": "The paired saying forbids travelling at night and requires arrival when daylight appears. Fengxue Yanzhao gives the pair as a direct answer; Touzi Datong’s answer is raised in later records; other masters and questioners quote the complete pair as a fixed rule."
-        }
-      ]
-    },
-    {
       "Id": "t_97e2532da238",
       "SourceTerm": "不許夜行，投明須到",
       "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
@@ -86456,24 +86145,70 @@
                   ]
                 }
               ],
-              "AttributionNote": "Yikui Yuankui directly utters the headword in his own recorded hall address."
+              "AttributionNote": "Source record (J/J37/J37nB388.xml). Yikui Yuankui directly utters the headword in his own recorded hall address."
+            },
+            {
+              "RelPath": "X/X84/X84n1583.xml",
+              "FromLb": "0420a07",
+              "ToLb": "0420a12",
+              "Kwic": "管他，終日癡憨算海沙。要識本來真面目，便是祖師一木叉。道不得底叉下死，道得底也叉下死。畢竟如何？不許夜行，投明須到。成都府范縣君成都府范縣君者嫠居，常坐不臥。聞圓悟住昭覺，往禮拜，請示入道因緣。悟令看不是心，不是佛，不是物，是箇甚麼，久無所契。范泣告悟曰：和",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [],
+              "AttributionNote": "Source record (X/X84/X84n1583.xml). Orthodox Continuation of the Lamp. In Orthodox Continuation of the Lamp case 3, the adjacent said-frame assigns the formula to the named response or address; therefore Zhaojue Daozu, rather than the section heading or a neighboring quoted figure, bears this literal clause. Exact identified speaker: Zhaojue Daozu; retained as an identified unlinked master because the current lineage roster has no exact canonical link. Unlinked context figure: Zhaojue Daozu (utterer); identity and role are preserved here without a broken ContextMasters link.",
+              "ActorAttribution": {
+                "Status": "identified-unlinked-master",
+                "Kind": "full-case-grammar-adjudication",
+                "ActorLabel": "Zhaojue Daozu",
+                "ActorRole": "utterer",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "GrammarEvidence": "Zhaojue Daozu: the complete retained case and governing speech frame identify Zhaojue Daozu as the speaker of the headword; all six attribution rungs were checked, but no exact canonical roster link exists. Context role preserved without link: Zhaojue Daozu (utterer).",
+                "ReviewedBy": "Codex strict-roster repair lane C",
+                "ReviewedUtc": "2026-07-18T00:00:00Z"
+              }
+            },
+            {
+              "RelPath": "X/X81/X81n1568.xml",
+              "FromLb": "0035c07",
+              "ToLb": "0035c12",
+              "Kwic": "門。問：語默涉離微，如何通不犯？師曰：常憶江南三月裏，鷓鴣啼處百花香。問：百了千當時如何？師曰：不許夜行，投明須到。上堂：三千劒客，恥見莊周。赤眉橫肩，得無訛謬。他時變豹，後五日看。珍重！問：心印未明時如何？師曰：雖聞酋帥投歸欵，未見牽羊納璧來。問：如何是臨",
+              "MasterName": "Fengxue Yanzhao",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Fengxue Yanzhao",
+                  "Roles": [
+                    "utterer"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X81/X81n1568.xml). Strict Lineage of the Five Lamps (Vols. 10–25). In Strict Lineage of the Five Lamps (Vols. 10–25) case 1, the adjacent said-frame assigns the formula to the named response or address; therefore Fengxue Yanzhao, rather than the section heading or a neighboring quoted figure, bears this literal clause."
             }
           ],
           "ClaimAnchors": [],
           "SourceTexts": [
             "J/J33/J33nB286.xml",
             "J/J37/J37nB388.xml",
-            "X/X69/X69n1362.xml"
+            "X/X69/X69n1362.xml",
+            "X/X84/X84n1583.xml",
+            "X/X81/X81n1568.xml"
           ],
           "RelatedMasters": [
             "Yingning Zhijing",
             "Yikui Yuankui",
             "Touzi Datong",
             "Dahui Zonggao",
-            "Yuantong Ji"
+            "Fengxue Yanzhao"
           ],
           "RelatedTerms": [],
-          "Explanation": "Night travel is forbidden; you must arrive at daybreak demands arrival while refusing travel in darkness. Yingning Zhijing gives the rule as the words accompanying a slap to a challenger. Yikui Yuankui independently uses it in a direct hall address. Dahui Zonggao's recorded sayings also preserve it as Touzi Datong's answer to a question about a person revived from great death."
+          "Explanation": "Night travel is forbidden; you must arrive at daybreak demands arrival while refusing travel in darkness. Yingning Zhijing gives the rule as the words accompanying a slap to a challenger. Yikui Yuankui independently uses it in a direct hall address. Dahui Zonggao's recorded sayings also preserve it as Touzi Datong's answer to a question about a person revived from great death. Zhaojue Daozu gives it as the present conclusion of another verse preserved in a later compilation. Fengxue Yanzhao gives the line as a direct answer to a separate question about all matters being settled."
         }
       ]
     },
@@ -341646,59 +341381,6 @@
       ]
     },
     {
-      "Id": "t_5bb02bdc74c7",
-      "SourceTerm": "太行山下賊。南嶽嶺頭雲",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "author_from_packet",
-      "WrittenUtc": "2026-07-22T01:30:00Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "a bandit below Mount Taihang, a cloud on the ridge of Nanyue",
-          "AlternateTargets": [
-            "the thief under Taihang and the cloud over Nanyue"
-          ],
-          "SearchAliases": [
-            "Taihang bandit Nanyue cloud",
-            "Shoushan first use then illumination",
-            "bandit below mountain cloud on ridge"
-          ],
-          "Status": "preferred",
-          "Validation": "provisional",
-          "Note": "The phrase survives here as one attributed answer in a comparative list and is provisional.",
-          "Occurrences": [
-            {
-              "RelPath": "T/T48/T48n2006.xml",
-              "FromLb": "0304b09",
-              "ToLb": "0304b15",
-              "Kwic": "真云。語路分明說。投針不回避。黃龍新云。清風拂明月。五祖演云。王言如絲。如何是先用後照。首山云。太行山下賊。南嶽嶺頭雲。陀云。斬得匈奴首。還歸細柳營。吾云。金剛覿面親分付。語道分明好好陳。龍云。明月拂清風。祖云。其",
-              "MasterName": "Shoushan Xingnian",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Shoushan Xingnian",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (T/T48/T48n2006.xml). Eyes of Humans and Devas (人天眼目). Speaker: Shoushan Xingnian."
-            }
-          ],
-          "SourceTexts": [
-            "T/T48/T48n2006.xml"
-          ],
-          "RelatedMasters": [
-            "Shoushan Xingnian"
-          ],
-          "RelatedTerms": [],
-          "ClaimAnchors": [],
-          "Explanation": "Shoushan answers “first use, then illumination” with two separated images: a bandit below Mount Taihang and a cloud on Nanyue’s ridge. The Eyes of Humans and Devas lists answers to the fourfold relation of illumination and function. For “first use, then illumination,” it attributes this paired answer to Shoushan Xingnian; surrounding masters answer the same slot with different lines."
-        }
-      ]
-    },
-    {
       "Id": "t_bc5fa9e92c40",
       "SourceTerm": "太行山下賊。南嶽嶺頭雲",
       "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
@@ -341736,7 +341418,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "The question 如何是先用後照 is followed by 首山云 and the exact pair; Shoushan Xingnian is the exact quoted utterer."
+              "AttributionNote": "Source record (T/T48/T48n2006.xml). The question 如何是先用後照 is followed by 首山云 and the exact pair; Shoushan Xingnian is the exact quoted utterer."
             }
           ],
           "ClaimAnchors": [],
@@ -571566,135 +571248,6 @@
       ]
     },
     {
-      "Id": "t_4bdb947b8cf6",
-      "SourceTerm": "有亦不管，無亦不拘",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "r10 fresh construction A2",
-      "WrittenUtc": "2026-10-29T06:10:05Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "Neither clinging to being nor tied to nonbeing",
-          "AlternateTargets": [],
-          "SearchAliases": [
-            "neither clinging to being nor tied to nonbeing"
-          ],
-          "Status": "preferred",
-          "Validation": "multi-source",
-          "Note": "In Pang Yun's verse, 'neither managing being nor being bound to nonbeing' follows the claim that mind and objects are alike. Binya cites it while urging a lay audience to press through a question rather than rest in cleverness. Nouyun lifts his staff and asks which side is mind and which is object. Tianran voices the words in his own small talk while striking the table to expose seeing and hearing. A case anthology transmits Pang's verse with Dahui's further test. The pair denies a foothold in either positive or negative assertions; the later turns keep asking what that denial amounts to in action.",
-          "Occurrences": [
-            {
-              "RelPath": "J/J28/J28nB204.xml",
-              "FromLb": "0220b23",
-              "ToLb": "0220c13",
-              "Kwic": "，切忌隨邪逐惡，三十年後此話大行。谿山元不間行人，風送寒雲楚夏分，擲下一枝塗毐鼓，他時海內有知音。珍重。王守吾居士王守吾居士欲行千里，一步為初。佛法無多子，久長難得人。既知不離這箇，快些著眼，且看這箇動靜承誰力？當著眼時，不要管他是真是假、會與不會，常住真心、諸苦因緣一齊付之江漢，單單舉個狗子無佛性話，看到伎窮力竭、知解情忘，驀直向前，更加猛利，忽若㘞地一聲，翻轉面皮，那怕他塵勞諸苦、恩愛牽纏，佛之一字吾不喜聞，豈不快哉？所以龐公云：「有亦不管，無亦不拘，不是聖賢，了事凡夫。」誠不誣矣，宜盡心焉。寧夏眾居士寧夏眾居士十數年還思棒頭痛處，可謂道愈遠而信愈篤，誠不虛矣。偶接書儀，備悉來意，但緣開明，山水可人，功果未竣，初題柱云：「碧沼蒼松，清貧埜鶴，堪為共寒峰古寺，憺泊閒雲不忍飛。」適予意耳。郭真吾拂袖西歸，老僧聞知，嗟嘆不已。眾道友當念光陰倏忽，時勢逼人，大家猛著精彩，踏步向前，魚魚鹿鹿、囊囊藏藏，元是自家資本，非同外物，在翻轉筭盤、迴光檢點，麻三斤、布一疋，信手拈來，多少快意，會得是好",
-              "MasterName": "Pang Yun",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Pang Yun",
-                  "Roles": [
-                    "utterer"
-                  ]
-                },
-                {
-                  "MasterName": "Binya Jian",
-                  "Roles": [
-                    "commentator",
-                    "record-owner"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J28/J28nB204.xml). Recorded Sayings of Chan Master Binya. Binya names Pang as earlier speaker and cites the verse to urge lay followers onward."
-            },
-            {
-              "RelPath": "J/J37/J37nB370.xml",
-              "FromLb": "0003c23",
-              "ToLb": "0004a12",
-              "Kwic": "錯用心？屙屎放尿、一動一靜，豈不是錯用心？參禪學道、窮古論今，豈不是錯用心？成佛作祖、接物利生，豈不是錯用心？還更有一處錯用心？止止不須說，我法妙難思，諸增上慢人，聞必不敬信。」說戒，上堂。以拄杖卓一卓，喝一喝，云：「適纔優波離尊者來山僧拄杖頭上叫道：『經有經師，律有律師，何得攙行奪市？』被山僧一喝，羞得滿面慚惶，懡㦬而退。」復顧左右，云：「眾中有為伊出氣者麼？若無，木上座與蛇添足去也。」上堂。舉：「龐居士云：『心如境亦如，無實亦無虛，有亦不管，無亦不拘，不是聖賢，了事凡夫。』」師拈拄杖，云：「者是境，將甚麼喚作心？」卓一卓，云：「者是心，將甚麼喚作境？」良久，云：「夜半明星當午現，愚人猶待曉雞啼。」晚參。舉：「僧問趙州：『毫釐有差時如何？』州云：『天地懸隔。』僧云：『毫釐無差時如何？』州云：『天地懸隔。』」師云：「還識趙州麼？毫釐有差，天地懸隔。」上堂。舉：「僧問雲門：『如何是正法眼藏？』門云：『普。』僧又問風穴：『如何是正法眼藏？』穴云：『瞎。』」師云：「二老答話亦是徐六擔板，若論",
-              "MasterName": "Pang Yun",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Pang Yun",
-                  "Roles": [
-                    "utterer"
-                  ]
-                },
-                {
-                  "MasterName": "Nouyun Zhenshi",
-                  "Roles": [
-                    "commentator",
-                    "record-owner"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J37/J37nB370.xml). Recorded Sayings of Chan Master Nouyunshi of Caotang. Nouyun quotes Pang then raises a staff and asks which side is mind and which object."
-            },
-            {
-              "RelPath": "J/J38/J38nB406.xml",
-              "FromLb": "0139c08",
-              "ToLb": "0139c28",
-              "Kwic": "你九十日內構去；若不是者箇人不具決定志，縱使一百箇九十日亦沒交涉。大眾，海日漸長，幸然無事，大須努力。珍重。」小參。「明明者一椿事，為什麼特地難將去？你諸人每日噇了兩頓，上來下去有什麼蓋覆處？忽被人問著，便擬開口祇對，早已白雲萬里。我宗師門下祇為慈悲之故，乃有語句。若一向天三地四，你向什麼處撈摸？」歸堂。小參。「眼識等所行非色境界，色等所現非眼識等境界。」良久，豎竹篦子，云：「見麼？」復以竹篦子擊案，云：「聞麼？打鼓弄琵琶，相逢一會家，有亦不管，無亦不拘。觀世音菩薩將錢買胡餅，放下原來是箇饅頭。」擲下竹篦子，云：「一隊總是無孔鐵椎。」小參。「此事如五夜燈火、如神鐘社鼓、如士女酒筵茶席，於此若會，一任出沒生死，非佛眼所窺。然須知三家村裏猶有一人不肯到得，此人喫棒有分。」臘八，小參。「數千年陳腐公案，一回提起，慚惶殺人。你諸人各有眼睛，俯仰照燭，為什麼往往被人喚作瞎漢？祇如盲龜跛鱉，還有佛法分也無？無則法界不周，有則宗乘混濫，到者裏須還芥菴老漢始得。」除夕，小參。「過此一夕，又是一歲。你諸",
-              "MasterName": "Tianran Hanshi",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Tianran Hanshi",
-                  "Roles": [
-                    "utterer",
-                    "record-owner"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran voices the couplet in his own small talk after a seeing-and-hearing demonstration."
-            },
-            {
-              "RelPath": "X/X66/X66n1296.xml",
-              "FromLb": "0073c08",
-              "ToLb": "0074a09",
-              "Kwic": "頭邊祖師意。靈照女曰：也不難，也不易，饑來喫飯困來睡。徑山杲云：者三個俗漢，同行不同步，同得不同失。雖然，笑殺旁觀。大覺昇云：三個俗漢好各與三十拄杖。何故？者是什麼所在？說難說易。即今還有出得難易者麼？設有，也是臘月扇子。理安洸云：雖則家肥生孝子，國霸產謀臣，理安若見，痛與三十，何也？免致分疆立界。鳳山啟云：風吹柳絮毛毬走，雨打棃花白雪飛。荷葉團團團似鏡，菱角尖尖尖似錐。若於此見得，便捉敗他父子三人。龐公有偈曰：心如境亦如，無實亦無虗。有亦不管，無亦不拘。不是聖賢，了事凡夫。徑山杲云：白的的，清寥寥，水不能濡，火不能燒，是個甚麼？切不得問著，問著瞎却你眼。以拄杖擊香臺一下。天寧琦云：要作了事凡夫，更須進前三步。薦福如云：楚石道：要作了事凡夫，更須進前三步。且作麼生進？五老雲：九江水，卷舒出沒太虗中，究竟在吾皇化裏。龐公頌曰：十方同聚會，個個學無為。此是選佛場，心空及第歸。天童傑云：十方同聚會，鐵壁銀山；個個學無為，日月照臨。此是選佛場，龍蛇混雜；心空及第歸，凡聖同居。驀拈拄杖橫按，云：",
-              "MasterName": "Pang Yun",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Pang Yun",
-                  "Roles": [
-                    "utterer"
-                  ]
-                },
-                {
-                  "MasterName": "Dahui Zonggao",
-                  "Roles": [
-                    "commentator",
-                    "record-owner"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”. The case collection transmits Pang's verse followed by Dahui's new testing question."
-            }
-          ],
-          "ClaimAnchors": [],
-          "SourceTexts": [
-            "J/J28/J28nB204.xml",
-            "J/J37/J37nB370.xml",
-            "J/J38/J38nB406.xml",
-            "X/X66/X66n1296.xml"
-          ],
-          "RelatedMasters": [
-            "Pang Yun",
-            "Binya Jian",
-            "Nouyun Zhenshi",
-            "Tianran Hanshi",
-            "Dahui Zonggao"
-          ],
-          "RelatedTerms": [],
-          "Explanation": "Pang Yun's verse refuses to make either being or nonbeing a place to settle. Binya cites the verse in counsel to work through the old question; Nouyun raises a staff to test what 'mind' and 'object' name. Tianran voices the line amid a present demonstration of seeing and hearing, while Dahui's anthology comment keeps the answer from hardening into a formula."
-        }
-      ]
-    },
-    {
       "Id": "t_9276a9cd2811",
       "SourceTerm": "有亦不管，無亦不拘",
       "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
@@ -571711,7 +571264,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "Pang Yun’s verse says, “Do not be ruled by having; do not be bound by not having,” between lines on mind and scene and a claim to be an ordinary person whose business is done. Nouyun quotes the verse, lifts his staff, and asks what should be called mind or scene. Tianran voices the couplet after showing a bamboo strip and sounding it against a desk. Po’an says a quick identification with Pang’s ordinary mind leads to further errors; Chushi tells readers to take three more steps before claiming Pang’s freedom. The couplet names a freedom whose use the later masters actively test.",
+          "Note": "Pang Yun’s verse says, “Do not be ruled by having; do not be bound by not having,” between lines on mind and scene and a claim to be an ordinary person whose business is done. Nouyun quotes the verse, lifts his staff, and asks what should be called mind or scene. Tianran voices the couplet after showing a bamboo strip and sounding it against a desk. Po’an says a quick identification with Pang’s ordinary mind leads to further errors; Chushi tells readers to take three more steps before claiming Pang’s freedom. The couplet names a freedom whose use the later masters actively test. Binya cites the same verse in practical counsel to a lay correspondent.",
           "Occurrences": [
             {
               "RelPath": "X/X69/X69n1336.xml",
@@ -571820,6 +571373,30 @@
                 }
               ],
               "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi quotes Pang and says an ordinary free person must go three steps farther."
+            },
+            {
+              "RelPath": "J/J28/J28nB204.xml",
+              "FromLb": "0220b23",
+              "ToLb": "0220c13",
+              "Kwic": "，切忌隨邪逐惡，三十年後此話大行。谿山元不間行人，風送寒雲楚夏分，擲下一枝塗毐鼓，他時海內有知音。珍重。王守吾居士王守吾居士欲行千里，一步為初。佛法無多子，久長難得人。既知不離這箇，快些著眼，且看這箇動靜承誰力？當著眼時，不要管他是真是假、會與不會，常住真心、諸苦因緣一齊付之江漢，單單舉個狗子無佛性話，看到伎窮力竭、知解情忘，驀直向前，更加猛利，忽若㘞地一聲，翻轉面皮，那怕他塵勞諸苦、恩愛牽纏，佛之一字吾不喜聞，豈不快哉？所以龐公云：「有亦不管，無亦不拘，不是聖賢，了事凡夫。」誠不誣矣，宜盡心焉。寧夏眾居士寧夏眾居士十數年還思棒頭痛處，可謂道愈遠而信愈篤，誠不虛矣。偶接書儀，備悉來意，但緣開明，山水可人，功果未竣，初題柱云：「碧沼蒼松，清貧埜鶴，堪為共寒峰古寺，憺泊閒雲不忍飛。」適予意耳。郭真吾拂袖西歸，老僧聞知，嗟嘆不已。眾道友當念光陰倏忽，時勢逼人，大家猛著精彩，踏步向前，魚魚鹿鹿、囊囊藏藏，元是自家資本，非同外物，在翻轉筭盤、迴光檢點，麻三斤、布一疋，信手拈來，多少快意，會得是好",
+              "MasterName": "Pang Yun",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Pang Yun",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Binya Jian",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB204.xml). Recorded Sayings of Chan Master Binya. Binya names Pang as earlier speaker and cites the verse to urge lay followers onward."
             }
           ],
           "ClaimAnchors": [],
@@ -571828,17 +571405,19 @@
             "J/J37/J37nB370.xml",
             "J/J38/J38nB406.xml",
             "X/X70/X70n1381.xml",
-            "X/X71/X71n1420.xml"
+            "X/X71/X71n1420.xml",
+            "J/J28/J28nB204.xml"
           ],
           "RelatedMasters": [
             "Pang Yun",
             "Nouyun Zhenshi",
             "Tianran Hanshi",
             "Po'an Zuxian",
-            "Chushi Fanqi"
+            "Chushi Fanqi",
+            "Binya Jian"
           ],
           "RelatedTerms": [],
-          "Explanation": "Pang’s verse declines to be governed by either having or lacking. Pang’s own recorded verse sets the terms. Nouyun quotes it and tests mind and scene with a staff; Tianran voices it in a demonstration of seeing and hearing. Po’an criticizes a simple acceptance of the verse, while Chushi says more work is needed to become Pang’s ordinary free person."
+          "Explanation": "Pang’s verse declines to be governed by either having or lacking. Pang’s own recorded verse sets the terms. Nouyun quotes it and tests mind and scene with a staff; Tianran voices it in a demonstration of seeing and hearing. Po’an criticizes a simple acceptance of the verse, while Chushi says more work is needed to become Pang’s ordinary free person. Binya applies it in practical counsel to a lay correspondent."
         }
       ]
     },
@@ -598795,7 +598374,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Sanyi Yu directly utters the headword in his own recorded hall address after mixing the four continents into one mass."
+              "AttributionNote": "Source record (J/J27/J27nB189.xml). Sanyi Yu directly utters the headword in his own recorded hall address after mixing the four continents into one mass."
             },
             {
               "RelPath": "J/J37/J37nB388.xml",
@@ -598813,46 +598392,25 @@
                   ]
                 }
               ],
-              "AttributionNote": "Yikui Yuankui directly uses the headword in the autobiographical narrative preserved in his own recorded sayings."
-            }
-          ],
-          "ClaimAnchors": [],
-          "SourceTexts": [
-            "J/J27/J27nB189.xml",
-            "J/J33/J33nB285.xml",
-            "J/J37/J37nB388.xml",
-            "J/J38/J38nB422.xml"
-          ],
-          "RelatedMasters": [
-            "Sanyi Mingyu",
-            "Yikui Yuankui",
-            "Linwo Jian",
-            "Sanyi Yu"
-          ],
-          "RelatedTerms": [],
-          "Explanation": "Unable to distinguish east from west or north from south describes complete loss of directional distinction. Sanyi Mingyu rhetorically mixes the regions into one mass; Bulin Zongjian imagines a person arriving after conceptual barriers collapse; Yikui Yuankui recounts severe first-person disorientation; and an unnamed monk uses the phrase in a question to Linwo Jian."
-        }
-      ]
-    },
-    {
-      "Id": "t_c5b606013ddb",
-      "SourceTerm": "東西不辨，南北不分",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "Codex cohort-002 lane-A 121-130 full-case author",
-      "WrittenUtc": "2026-07-19T05:03:44.848496Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "unable to distinguish east from west or divide north from south",
-          "AlternateTargets": [],
-          "SearchAliases": [
-            "unable to distinguish east from west or divide north from south"
-          ],
-          "Status": "preferred",
-          "Validation": "multi-source",
-          "Note": "Ordinary disorientation becomes both an answer and a critical diagnosis inside public questioning.",
-          "Occurrences": [
+              "AttributionNote": "Source record (J/J37/J37nB388.xml). Yikui Yuankui directly uses the headword in the autobiographical narrative preserved in his own recorded sayings."
+            },
+            {
+              "RelPath": "X/X84/X84n1583.xml",
+              "FromLb": "0475a20",
+              "ToLb": "0475a22",
+              "Kwic": "賓主話，田地穩密底，開口便道著，信脚便踏著。若是東西不辨，南北不分，未免被人侵疆越界。薦福門下總是田地穩密底人，拈",
+              "MasterName": "Wuwen Daocan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Wuwen Daocan",
+                  "Roles": [
+                    "utterer"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X84/X84n1583.xml). Orthodox Continuation of the Lamp. Wuwen Daocan describes people lacking orientation and then states the consequence for their territory. Wuwen Daocan is the utterer."
+            },
             {
               "RelPath": "X/X78/X78n1556.xml",
               "FromLb": "0651b21",
@@ -598879,101 +598437,26 @@
                 "ReviewedBy": "Codex cohort-002 lane-A 121-130 full-case author",
                 "ReviewedUtc": "2026-07-19T05:03:44.848496Z"
               }
-            },
-            {
-              "RelPath": "X/X79/X79n1559.xml",
-              "FromLb": "0306a17",
-              "ToLb": "0306a19",
-              "Kwic": "云：如何是諸塵三昧起？曰：鼈齩釣魚竿。云：恁麼則東西不辨，南北不分去也。曰：堂前一椀夜明燈，簾外數莖青瘦竹。問：諸",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (X/X79/X79n1559.xml). Jiatai Universal Lamp Record. The questioning monk—not the responding record master—utters the formula as an advance after the answer. The utterer is questioning monk.",
-              "ActorAttribution": {
-                "Status": "identified-non-master",
-                "Kind": "questioning monk",
-                "ActorLabel": "questioning monk",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "The questioning monk—not the responding record master—utters the formula as an advance after the answer. The utterer is questioning monk.",
-                "ReviewedBy": "Codex cohort-002 lane-A 121-130 full-case author",
-                "ReviewedUtc": "2026-07-19T05:03:44.848496Z"
-              }
-            },
-            {
-              "RelPath": "X/X84/X84n1583.xml",
-              "FromLb": "0475a20",
-              "ToLb": "0475a22",
-              "Kwic": "賓主話，田地穩密底，開口便道著，信脚便踏著。若是東西不辨，南北不分，未免被人侵疆越界。薦福門下總是田地穩密底人，拈",
-              "MasterName": "Wuwen Daocan",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Wuwen Daocan",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X84/X84n1583.xml). Orthodox Continuation of the Lamp. Wuwen Daocan describes people lacking orientation and then states the consequence for their territory. Wuwen Daocan is the utterer."
-            },
-            {
-              "RelPath": "X/X82/X82n1571.xml",
-              "FromLb": "0085c02",
-              "ToLb": "0085c04",
-              "Kwic": "由身。師曰：未到家在，更道。曰：學人到這裏，直得東西不辨，南北不分去也。師曰：未為分外。上堂：至道無難，唯嫌揀擇。",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Yuanwu Keqin",
-                  "Roles": [
-                    "respondent"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120). The questioning monk tells Yuanwu that he reaches this disorientation; Yuanwu answers that it is not exceptional. The utterer is questioning monk.",
-              "ActorAttribution": {
-                "Status": "identified-non-master",
-                "Kind": "questioning monk",
-                "ActorLabel": "questioning monk",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "The questioning monk tells Yuanwu that he reaches this disorientation; Yuanwu answers that it is not exceptional. The utterer is questioning monk.",
-                "ReviewedBy": "Codex cohort-002 lane-A 121-130 full-case author",
-                "ReviewedUtc": "2026-07-19T05:03:44.848496Z"
-              }
             }
           ],
+          "ClaimAnchors": [],
           "SourceTexts": [
-            "X/X78/X78n1556.xml",
-            "X/X79/X79n1559.xml",
+            "J/J27/J27nB189.xml",
+            "J/J33/J33nB285.xml",
+            "J/J37/J37nB388.xml",
+            "J/J38/J38nB422.xml",
             "X/X84/X84n1583.xml",
-            "X/X82/X82n1571.xml"
+            "X/X78/X78n1556.xml"
           ],
           "RelatedMasters": [
+            "Sanyi Mingyu",
+            "Yikui Yuankui",
+            "Linwo Jian",
+            "Sanyi Yu",
             "Wuwen Daocan"
           ],
-          "RelatedTerms": [
-            "東西",
-            "南北"
-          ],
-          "ClaimAnchors": [],
-          "Explanation": "The paired directions describe complete failure to orient oneself. Xifeng Huo answers what it is like before the sun rises with it; Jingde’s questioner says that the answer produces that condition; Wuwen Daocan warns that such people lose their boundaries; Yuanwu’s questioner claims to have reached that state and is told it is still nothing exceptional."
+          "RelatedTerms": [],
+          "Explanation": "Unable to distinguish east from west or north from south describes complete loss of directional distinction. Sanyi Mingyu rhetorically mixes the regions into one mass; Bulin Zongjian imagines a person arriving after conceptual barriers collapse; Yikui Yuankui recounts severe first-person disorientation; and an unnamed monk uses the phrase in a question to Linwo Jian. Wuwen Daocan uses the same pair in a separate warning that such directionless people invite encroachment on their boundaries. Xifeng Huo gives it as a direct answer about the time before the sun rises, a separate use from Wuwen's warning."
         }
       ]
     },
@@ -644272,7 +643755,7 @@
     {
       "Id": "t_2e0d5a03e64b",
       "SourceTerm": "水自竹邊流出冷，風從花裏過來香",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+      "CorpusBaselineSha256": "aa125d97f0eb402daef67596f649888e27f51e20e5bddf96189344b406ef3bf1",
       "CreatedBy": "Codex Migration039 Lane B",
       "WrittenUtc": "2026-07-29T00:00:00Z",
       "Senses": [
@@ -644325,65 +643808,6 @@
           ],
           "ClaimAnchors": [],
           "Explanation": "Water flowing out beside bamboo is cool, while wind passing through flowers comes fragrant. Tuian Daoqi gives the complete couplet as his direct answer to the Ehu-and-Baofu question."
-        }
-      ]
-    },
-    {
-      "Id": "t_e28335605380",
-      "SourceTerm": "水自竹邊流出冷，風從花裏過來香",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "Codex regular-vetted Iriya release005 lane C",
-      "WrittenUtc": "2026-07-22T00:00:00Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "water flowing past bamboo comes out cool, while wind passing through flowers comes fragrant",
-          "AlternateTargets": [],
-          "SearchAliases": [
-            "water by bamboo flows out cool; wind through flowers comes fragrant"
-          ],
-          "Status": "preferred",
-          "Validation": "provisional",
-          "Note": "Only Tuian Daoqi’s answer to the Ehu-and-Baofu question currently supports this complete couplet.",
-          "Occurrences": [
-            {
-              "RelPath": "X/X83/X83n1574.xml",
-              "FromLb": "0276a10",
-              "ToLb": "0276a20",
-              "Kwic": "禪師僧問：雪峰云：望州亭與汝相見了也。意旨如何？師云：左眼半斤。云：烏石嶺與汝相見了也作麼生？師云：右眼八兩。云：僧堂前與汝相見了也又且如何？師云：鼻孔大，頭向下。云：只如鵝湖驟步歸方丈，保福入僧堂，此意又作麼生？師云：水自竹邊流出冷，風從花裏過來香。僧禮拜。上堂：此段大事，無處不周。新焦山未離東霞時，已與諸人相見了也。且道相見底事作麼生？幾多頭角成龍去，蝦蟹依前怒眼睛。上堂：至道本乎無心，心法本乎無住。無住心體，靈知不昧，性相寂然。所以道：吾打鼓，四大部洲同參。拄",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (X/X83/X83n1574.xml). Expanded Collection: Continued Transmission of the Lamp Record. Speaker: Tuian Daoqi. Tuian Daoqi gives the couplet as his direct answer when a monk asks the meaning of Ehu hastening back to his quarters and Baofu entering the monks’ hall.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "identified-unlinked-master",
-                "ActorLabel": "Tuian Daoqi",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Tuian Daoqi gives the couplet as his direct answer when a monk asks the meaning of Ehu hastening back to his quarters and Baofu entering the monks’ hall.",
-                "ReviewedBy": "Codex release005 lane C full-case review",
-                "ReviewedUtc": "2026-07-22T00:00:00Z"
-              }
-            }
-          ],
-          "SourceTexts": [
-            "X/X83/X83n1574.xml"
-          ],
-          "RelatedMasters": [],
-          "RelatedTerms": [
-            "相見"
-          ],
-          "ClaimAnchors": [],
-          "Explanation": "Tuian Daoqi uses the scene as an encounter answer; the record does not turn it into a detached maxim. Tuian Daoqi gives the couplet as his direct answer when the unnamed questioner asks the meaning of Ehu hastening back to his quarters and Baofu entering the monks’ hall."
         }
       ]
     },
@@ -793736,69 +793160,6 @@
       ]
     },
     {
-      "Id": "t_87fcf33f7688",
-      "SourceTerm": "石壓笋斜出。岸懸花倒生",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "author_from_packet",
-      "WrittenUtc": "2026-07-22T01:30:00Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "pressed by a rock, the bamboo shoot emerges sideways, while hanging from the bank, the flower grows downward",
-          "AlternateTargets": [
-            "a stone weighs on the shoot, so it comes out slantwise; a cliff-hung flower blooms upside down"
-          ],
-          "SearchAliases": [
-            "rock-pressed shoot hanging flower",
-            "bamboo emerging sideways",
-            "flower growing downward from bank"
-          ],
-          "Status": "preferred",
-          "Validation": "provisional",
-          "Note": "The line is Juebao Qing’s addition to the raised Yunmen case; it is one direct use and remains provisional.",
-          "Occurrences": [
-            {
-              "RelPath": "T/T51/T51n2077.xml",
-              "FromLb": "0697b28",
-              "ToLb": "0697c05",
-              "Kwic": "覺報清禪師。上堂舉。僧問雲門。如何是諸佛出身處。門曰。東山水上行。師曰。諸佛出身處。東山水上行。石壓笋斜出。岸懸花倒生。何山然首座安吉州何山然首座。姑蘇人。侍正堂之久。入室次堂問。猫兒為甚麼偏愛捉老鼠。曰物見主眼卓",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (T/T51/T51n2077.xml). Continued Record of the Transmission of the Lamp (續傳燈錄). Speaker: Juebao Qing (覺報清).",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "named Chan master absent from the current roster",
-                "ActorLabel": "Juebao Qing (覺報清)",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Juebao Qing (覺報清): Full-case review fixes Juebao Qing (覺報清) as the headword actor through the literal boundary 師曰.",
-                "ReviewedBy": "release006 Lane A full-case author review",
-                "ReviewedUtc": "2026-07-22T01:00:00Z"
-              }
-            }
-          ],
-          "SourceTexts": [
-            "T/T51/T51n2077.xml"
-          ],
-          "RelatedMasters": [],
-          "RelatedTerms": [
-            "東山水上行"
-          ],
-          "ClaimAnchors": [],
-          "Explanation": "Juebao Qing adds a rock-pressed shoot and a bank-hung flower to Yunmen’s “East Mountain walks on the water,” giving two more forms whose growth proceeds through an obstructed direction. Juebao Qing raises an unnamed monastic questioner’s request for the place from which the buddhas emerge and Yunmen Wenyan’s answer, “East Mountain walks on the water.” He repeats that answer and follows it immediately with the headword couplet."
-        }
-      ]
-    },
-    {
       "Id": "t_a7a5108ac7ef",
       "SourceTerm": "石壓笋斜出。岸懸花倒生",
       "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
@@ -793823,26 +793184,34 @@
               "ToLb": "0697c12",
               "Kwic": "舉正堂辯和尚室中問學者。蚯蚓為甚麼化為百合。師曰。客舍并州已十霜。歸心日夜憶咸陽。無端更渡桑乾水。却望并州是故鄉。報恩成禪師鄂州報恩成禪師上堂。秋雨乍寒。汝等諸人青州布衫成就也未。良久喝曰。雲溪今日冷處著一把火。便下座。道場辯禪師法嗣道場辯禪師法嗣覺報清禪師平江府覺報清禪師。上堂舉。僧問雲門。如何是諸佛出身處。門曰。東山水上行。師曰。諸佛出身處。東山水上行。石壓笋斜出。岸懸花倒生。何山然首座安吉州何山然首座。姑蘇人。侍正堂之久。入室次堂問。猫兒為甚麼偏愛捉老鼠。曰物見主眼卓竪。堂欣然因命分座。黃龍忠禪師法嗣黃龍忠禪師法嗣信相戒修禪師成都府信相戒修禪師上堂。舉馬祖不安公案乃曰。兩輪舉處煙塵起。電急星馳擬何止。目前不礙往來機。正令全施無表裏。丈夫意氣自衝天。我是我兮爾是爾。西禪璉禪師法嗣西禪璉禪師法嗣西禪希秀禪師遂寧府西禪第二代希秀禪師",
               "Curated": true,
-              "MasterName": "Juebao Qing",
+              "MasterName": null,
               "ContextActors": [],
-              "ContextMasters": [
-                {
-                  "MasterName": "Juebao Qing",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "The 平江府覺報清禪師 section and 師曰 frame assign the complete pair to Juebao Qing."
+              "ContextMasters": [],
+              "AttributionNote": "Source record (T/T51/T51n2077.xml). Continued Record of the Transmission of the Lamp (續傳燈錄). Speaker: Juebao Qing (覺報清).",
+              "ActorAttribution": {
+                "Status": "identified-unlinked-master",
+                "Kind": "named Chan master absent from the current roster",
+                "ActorLabel": "Juebao Qing (覺報清)",
+                "ActorRole": "utterer",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "GrammarEvidence": "Juebao Qing (覺報清): Full-case review fixes Juebao Qing (覺報清) as the headword actor through the literal boundary 師曰.",
+                "ReviewedBy": "release006 Lane A full-case author review",
+                "ReviewedUtc": "2026-07-22T01:00:00Z"
+              }
             }
           ],
           "ClaimAnchors": [],
           "SourceTexts": [
             "T/T51/T51n2077.xml"
           ],
-          "RelatedMasters": [
-            "Juebao Qing"
-          ],
+          "RelatedMasters": [],
           "RelatedTerms": [],
           "Explanation": "“Pressed by a rock, the bamboo shoot grows out slantwise; hanging from the bank, the flower grows downward” pairs two forms of growth under constraint. After raising Yunmen's East Mountain answer, Juebao Qing repeats it and adds this complete paired image."
         }
@@ -949356,7 +948725,7 @@
               "MasterName": null,
               "ContextActors": [],
               "ContextMasters": [],
-              "AttributionNote": "The 福州白鹿山伸豫禪師 section and 師乃云 frame assign the complete hypothetical clause to Bailushan Shenyu.",
+              "AttributionNote": "Source record (X/X78/X78n1556.xml). The 福州白鹿山伸豫禪師 section and 師乃云 frame assign the complete hypothetical clause to Bailushan Shenyu.",
               "ActorAttribution": {
                 "Status": "identified-unlinked-master",
                 "Kind": "named Chan master",
@@ -949371,7 +948740,8 @@
                   "parallel-passage"
                 ],
                 "GrammarEvidence": "The 福州白鹿山伸豫禪師 section and 師乃云 frame assign the complete hypothetical clause to Bailushan Shenyu.",
-                "ReviewedBy": "Codex lamp repair cohort010 lane A"
+                "ReviewedBy": "Codex lamp repair cohort010 lane A",
+                "ReviewedUtc": "2026-10-29T12:00:00Z"
               }
             }
           ],
@@ -949382,68 +948752,6 @@
           "RelatedMasters": [],
           "RelatedTerms": [],
           "Explanation": "“Discern the target in words and conceal the pivot in a phrase” pairs verbal exactness with an operative turn held inside the sentence. Bailushan Shenyu says that even if one can do this, racing thought and verbal skill are alike drifting and do not settle the ancestral way."
-        }
-      ]
-    },
-    {
-      "Id": "t_a5be7533689b",
-      "SourceTerm": "言中辨的，句裏藏機",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "Codex priority Iriya evidence-first author",
-      "WrittenUtc": "2026-07-21T15:56:09.476797+00:00",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "discern the target in words and conceal the pivot in a phrase",
-          "AlternateTargets": [
-            "pick out the mark in speech and hide the turn inside a sentence"
-          ],
-          "SearchAliases": [
-            "target in words pivot in phrase",
-            "discern the mark in speech",
-            "conceal the pivot in a sentence",
-            "verbal skill is still drifting"
-          ],
-          "Status": "preferred",
-          "Validation": "provisional",
-          "Note": "The complete paired wording has one exact occurrence in one work; the entry therefore preserves a single, explicitly bounded use.",
-          "Occurrences": [
-            {
-              "RelPath": "X/X78/X78n1556.xml",
-              "FromLb": "0713a09",
-              "ToLb": "0713a17",
-              "Kwic": "量。答云：閑言語。僧問：雲馭既登於法席，曇華一句請師宣。答云：金風朝布野，玉露夜垂珠。進云：恁麼則龍吟霧起，虎嘯風生。答云：天高難側耳。進云：若不登樓，焉知海闊？答：云何曾夢見？師乃云：問話且止，設使言中辨的，句裏藏機，意思交馳，並同流浪。何故？吾祖之道豈其然乎？若是上根作者，獨步丹霄，臨機大用，把住則涓滴不漏，放開乃浪湧千江，踞地全威，壁立千仞，得不英靈自己，荷負宗門？直饒恁麼，未稱衲僧。且道衲僧有甚奇特？良久，",
-              "MasterName": null,
-              "Curated": true,
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "Chan master",
-                "ActorLabel": "Bailushan Shenyu",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "The section header names Bailushan Shenyu (福州白鹿山伸豫禪師); after the preceding exchanges, 師乃云 opens Bailushan Shenyu's uninterrupted address, and 設使 introduces the exact headword-bearing clause within that address.",
-                "ReviewedBy": "Codex priority Iriya author",
-                "ReviewedUtc": "2026-07-21T15:56:09.476797+00:00"
-              },
-              "ContextMasters": [],
-              "AttributionNote": "Source record (X/X78/X78n1556.xml). Jianzhong Jingguo Continued Lamp Record (建中靖國續燈錄). Speaker: Bailushan Shenyu (福州白鹿山伸豫禪師), identified by the section heading and the source's ‘the master then said’ boundary; no roster link is available."
-            }
-          ],
-          "ClaimAnchors": [],
-          "SourceTexts": [
-            "X/X78/X78n1556.xml"
-          ],
-          "RelatedMasters": [],
-          "RelatedTerms": [],
-          "Explanation": "To discern the target in words and conceal the pivot in a phrase names a two-part verbal accomplishment: exactness within speech and an operative turn held inside the sentence. Bailushan Shenyu grants that accomplishment only as a hypothetical. He then joins it to thoughts racing back and forth, calls all of it alike drifting, and asks whether the ancestral way could be so. His address therefore raises verbal dexterity and immediately refuses to let it settle the encounter."
         }
       ]
     },
@@ -1035394,14 +1034702,16 @@
         {
           "SenseKey": null,
           "MasterName": null,
-          "PreferredTarget": "Golden Ground beckons from afar, while Jiangling nods in secret",
+          "PreferredTarget": "Dingguang beckons from Golden Ground; Zhizhe nods quietly from Jiangling.",
           "AlternateTargets": [],
           "SearchAliases": [
-            "the Golden Ground waves from afar; Jiangling secretly nods"
+            "定光金地遙招手，智者江陵暗點頭",
+            "Dingguang beckons from Golden Ground, Zhizhe nods from Jiangling",
+            "the Golden Ground beckons from afar; Jiangling nods quietly"
           ],
           "Status": "preferred",
           "Validation": "provisional",
-          "Note": "The sole exact witness is the impersonal wisdom-eye answer formula in the Tier-3 Eyes of Humans and Devas.",
+          "Note": "In the Five Eyes question sequence, the shorter couplet answers what the wisdom eye is. Four named teachers voice an expanded form with Dingguang at Golden Ground and Zhizhe at Jiangling in their own sermons. The two forms preserve the same distant beckon and answering nod.",
           "Occurrences": [
             {
               "RelPath": "T/T48/T48n2006.xml",
@@ -1035429,17 +1034739,183 @@
                 "ReviewedBy": "Codex release005 lane C full-case review",
                 "ReviewedUtc": "2026-07-22T00:00:00Z"
               }
+            },
+            {
+              "RelPath": "J/J26/J26nB183.xml",
+              "FromLb": "0485c05",
+              "ToLb": "0486a16",
+              "Kwic": "？」師打云：「猶嫌少在。」進云：「臨濟玄要承師指。」遂喝云：「是照耶？用耶？賓耶？主耶？」師復打，乃云：「一二三四五六七，逗到今朝是人日，春風驀面忽相逢，撲破鼻頭撞破額。靈鷲寺裏今日有齋。大眾！開單展缽、拈匙放箸則且置，應時及節一句作麼生？泥牛起舞春悠悠，不風流處也風流。」解制上堂，僧問：「把住牢關即不問，放行一路事如何？」師云：「緊峭草鞋。」進云：「灼然點鐵成金去，滴水興波浪潑天。」師便打，乃云：「適纔過歲旦，明朝又十六，時節不相饒，光陰何迅速？初非法爾如然，豈是人情催促？靈鷲結制九十日來，滴水滴凍，大眾缽囊高挂，不許動著一絲頭。今日檀越作齋，諸人一齊打開缽袋，饅頭䭔子、三德六味供佛及僧，一飽便休。還會麼？大方獨步無拘管，南北東西信自繇。」淨光、仰心、明貫、淨持期師過景星巖，請陞座。問答罷，師乃云：「春山疊亂青，春水漾虛碧，寥寥天地間，獨立望何極？古德恁麼說話，大似在孤峰頂上等個人來。大眾且道：他要等個什麼人？」擊香几，云：「定光金地遙招手，智者江陵暗點頭。」上堂，僧問：「夏日炎炎，通身白汗，還有不熱者麼？」師便打。進云：「涼風到處通消息，拄杖頭邊白汗流。」師復打，云：「少一棒在。」乃云：「昨日火雲燒空，今朝陰生巖谷，天道何似不常，人身隨著反覆，或時通身汗流、或時乾燥暴暴，分明不隔纖毫，直下好個消息。且道是何消息？」良久，云：「無事此靜坐，一日似兩日。」卓拄杖，下座。曹源法友請上堂，「諸禪德！相逢不拈出，舉意便知有。衲僧家須要舉一明三、目機銖兩始得。不見道：『撞著道伴交肩過，一生參學事畢。』秪如今日故人遠至，覿面相看又作麼生？」拍掌云：「寒山逢拾得，撫掌笑呵呵。」下座。陞座，「禪非意想，道絕功勳，纔要如何若何，便乃千里萬里。所以，靈鷲者裏無禪教你們參、無道教你們學，一味杜田朴實頭，種田博飯喫。果是當家種草，聞山僧與麼道，便一信永信；如或不然，更為舉示。」以拂子左右拂，云：「還委悉麼？山前山後閒田地，盡底掀翻要一回。」除夜陞座。僧問：「臘月三十日事如何？」師云：「明朝是初一。」進云：「請和尚喫茶去。」師便打。問：「如何是佛祖相傳第一義？」師亦打。問：「如何是和尚底奇特事？」師又打。乃云：「今日正喚作臘月三十夜，人人打辦過年，要將前來所作所為底事盡情打疊得乾淨，無一絲毫牽挂，然後",
+              "MasterName": "Shiqi Tongyun",
+              "ActorAttribution": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Shiqi Tongyun",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J26/J26nB183.xml). Recorded Sayings of Chan Master Shiqi of Xuedou. Shiqi caps his question about the person awaited by an old teacher, striking the incense table before voicing the two-place image."
+            },
+            {
+              "RelPath": "J/J26/J26nB185.xml",
+              "FromLb": "0588a30",
+              "ToLb": "0588c10",
+              "Kwic": "？』山云：『不借借。』大眾！還知不借借麼？不見《華嚴》云：『相原虛，恒泯一，體性雖實，常在萬緣。』敢問大眾：如何是萬緣底性？如有道得，恰好老僧拄杖子兩手分付；脫或未能，老僧自道去也。」豎拂子，云：「會麼？掬水月在手，弄花香滿衣。」下座。上堂。「今朝六月一，箇事紛紛俱漏泄，柳陰深處噪新蟬，池上荷香襲幽室，嘶風木馬空成夢，喘月泥牛醉未知。所以當年缺齒翁曾對梁王道：『不識佛心，天子雖聰敏，至此茫然如面壁。』何以？不見經云：『盡思共度量，不能測佛智。』且道如何是佛智？笑裏一毛無間斷，毫端十字路縱橫。」天童退院，上堂。師云：「昔夢先師喚老僧，老僧出接，見先人手持雨傘，忙撐起，頻喚：『來來與共撐。』是故，聞呼予即至，果遭此地兩無秋，冥中猶仗先師力，不覺怡然二載周。自揣暮年難獨荷，敢邀碩德繼先猷，遙請木兄承己諾，殘棋一局適將收。敢辭大眾出山去，莫訝相逢未有期，須知無去無來者，千里何曾間一絲？大眾！既千里之遙，為何不間一絲？」豎拂，云：「會麼？定光金地遙招手，智者江陵暗點頭。」卓杖，下座。秀州棲真寺語錄秀州棲真寺語錄上堂。拈疏云：「好事不瞞人，對眾親拈出。」復呈云：「大眾會麼？恐有不會，再煩維那宣過。」指法座，云：「峭巍巍壁立萬仞，孤迥迥突露當陽，和盤托出無人會，曲彔重登再舉揚。」喝一喝便陞，拈香畢，維那白椎，云：「法筵龍象眾，當觀第一義。」乃云：「纔入西山又出山，天緣於此孰能攀？去住不生留別念，一道孤光萬境含。所以道：萬法是心光，諸緣惟性曉，本無迷悟人，只要今日了。既是本無迷悟，要了箇甚麼？」豎拂，云：「還會麼？雖然舊閣閒田地，一度嬴來方始休。」白椎，云：「諦觀法王法，法王法如是。」下座。上堂。僧問：「太白破沙盆舊話，棲真今日又重圓，破沙盆話即不問，棲真新令請師宣。」師云：「門前一對金剛。」進云：「蒙師指出新條令，普使群英盡飽餐。」師云：「如何是你飽餐底事？」進云：「百戰場中誇獨勝，萬人叢裏凱歌回。」師云：「未許你在。」進云：「和尚不得壓良為賤。」師便打。進云：「杖頭點出摩醯眼，爍破晴空亙古今。」師云：「今日且放過。」進云：「大眾證明去也。」乃云：「捏不成團裂不開，孤光耿耿絕塵埃，丈夫如未超方便，徒使瞿曇空歎哉。是以，浮談萬卷，不如至理片言；腐藥千箱，豈若還丹一粒？還丹一粒，點銕成金；至理片",
+              "MasterName": "Fushi Tongxian",
+              "ActorAttribution": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Fushi Tongxian",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. Fushi lifts his fly whisk and caps his departure sermon on distance and continuity with the exact pair."
+            },
+            {
+              "RelPath": "J/J26/J26nB186.xml",
+              "FromLb": "0641c08",
+              "ToLb": "0642a20",
+              "Kwic": "在座諸公要明這卷經麼？」乃舉扇云：「下文繁長，付在來日。」遂放下扇，云：「請茶。」開示。「汝等若欲洞明此事，須是千差路絕，念慮情忘，分別心息，始有入首處。若或將心內照、觀心內澄，總是無風匝匝之波，于本分中了無交涉。不見龐公道：『但自無心於萬物，何妨萬物嘗圍遶？鐵牛不怕獅子吼，恰似木人看花鳥。木人本體自無情，花鳥逢人亦不驚。心境如如只這是，何慮菩提道不成？』汝等若能于此見得，便隨緣消舊業，更不造新殃。如未見得，異日閻羅老子大有著汝諸人處在。」開示。「年來四方兵戈擾攘，無片地可安，唯天童祖席，慈光照耀，一眾平穩。所謂我此土安隱，天人常充滿。若不於此打教徹去，乃是自棄。豈不聞昔之哲侍者脅不沾蓆，有勸其寢者，渠曰：『我於般若緣分素薄，若不刻苦勵志，恐被妄習所牽。』汝輩何人乃爾懈怠？此事雖則本來成現，不假安排。其奈無量劫來，習染濃厚，被心意識，使得七顛八倒，無自繇分。若不滅裂，一回終難負荷。汝等要識，不涉心意識句麼？」驀拈拄杖顧左右云：「定光金地遙招手，智者江陵暗點頭。」小參小參壬午冬結制小參。「今日通玄結制，且喜全無做造。雖然一眾端肅，未嘗別更衣帽，唯有露柱燈籠，旦暮不勝冷笑。大眾！且道露柱燈籠笑個甚麼？還是笑結制欠嚴、笑說禪不富？若道結制欠嚴，居山衲子當合如是。若道說禪不富，曹溪一脈豈在言豐？既然不在這兩端，畢竟淆訛在甚麼處？還有人道得麼？若道得，便是出格道人；脫或未然，且聽山僧直截剖判。」以拂子擊禪床云：「意氣不從天地得，英雄豈藉四時推？」小參。「個中一著，迥脫情塵，纔涉思惟，白雲萬里。汝等諸人，何不直截承當，以免勞神役志？若然承當得下，不枉趙居士施金辦供，可謂功不浪施。脫或未然，山僧不免葛藤一上。若道有解有結，正是無繩自縛；若道無結無解，大似平地喫交。若總不恁麼，猶是野狐見解。畢竟如何？解開布袋無拘束，放出溈山水牯牛。」小參。「敘吾陳居士，時值耳順之年，方始回心向道，故偕子來山，施金辦供，乞吾舉揚宗旨。殊不知宗旨不可以言語造、不可以寂默通，但有言說，都無實義。若欲透脫死生，須是坐斷情塵意想，不落見聞覺知，始有相親分。若到與麼田地，切不得舉意承當。若舉意承當，則遠之遠矣。所謂有念盡成煩惱鎖，無心端坐水晶宮。」除夕小參。「古德烹露地白牛分歲，山僧煮透海烏雞過年，不用文武火燒，放下自然",
+              "MasterName": "Linye Tongqi",
+              "ActorAttribution": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Linye Tongqi",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J26/J26nB186.xml). Recorded Sayings of Chan Master Linyexi. Linye lifts his staff and voices the pair in answer to his own challenge about a phrase beyond thought."
+            },
+            {
+              "RelPath": "X/X69/X69n1350.xml",
+              "FromLb": "0280a16",
+              "ToLb": "0280c14",
+              "Kwic": "火。要向即向，要撥即撥。且道與古人是同是別？乃云：上閒僧多，下閒僧少。上堂：一人發真歸源，十方虗空悉皆消殞。拍禪牀，云：大眾，為什麼却有人透者裏不過？良久，云：自是不歸歸便得，五湖煙景有誰爭？上堂。快馬一鞭，快人一言，直饒與麼，猶是鈍漢。乃召眾云：喫茶去。上堂：釋迦掩室於摩竭，已洩天機。淨名杜口於毗耶，特地饒舌。少林九年面壁，老不歇心。永嘉一宿曹谿，徒誇英俊。保寧與麼道，還有過也無？路逢劍客方呈劍，不是詩人不獻詩。參！上堂。一塵入正受，諸塵三昧起。諸塵入正受，一塵三昧起。遂拈杖云：保寧有時拈頭作尾，有時拈尾作頭。金剛脚底踣跳，蟭螟眼裏藏身。朝到西天暮歸東土即且置，祇如不動步一句作麼生道？卓拄杖云：無事莫行偏僻路，等閒惹得是非來。參。問：如何是佛？答：鐵鎚無孔。問：如何是祖師西來意？答：雪上加霜。發化主，上堂。盡十方世界為一大陣，若聖、若凡，種種異類出此不得，釋迦為主將、文殊作先鋒、普賢為殿後，陣勢既圓，且道與什人相見？良久，云：定光金地遙招手，智者江陵暗點頭。遂拈拄杖，云：如今盡在保寧拄杖頭上開甘露門，示真實相，展縮無礙，縱橫自由。還見麼？若也見得，真不掩偽；若也不見，分付諸方化主，一任將向南州北縣扶過斷橋水，伴歸無月村。卓一下，下座。上堂。立春日，打泥牛，一棒兩棒，千頭百頭，雪華深覆辨不得，頂門有眼徒悠悠。拍手云：囉囉哩，惱亂春風卒未休。上堂：萬法是心光，諸緣唯性曉。本無迷悟人，祇要今日了。且道了底事作麼生？良久，云：待得雪消去，自然春到來。上堂。金毛師子一哮吼，驚起法身藏北斗。文殊普賢無處走，碧眼也徒誇好手。喝一喝，下座。上堂：迦葉擎拳，阿難合掌，樓至如來，全無伎倆。常州廣福，上堂。師子窟中必無異獸，莫有哮吼者麼？有僧問：遠離金陵丈室，幸屆廣福道場，向上宗乘，請師舉唱。答：微風搖寶鐸，紅日耀青天。進云：滿眸山色秀，徧地野華新。答：白雲千里萬里。進云：大眾證明，學人禮謝。答：多年曆日。乃云：保寧今日不免曲順人情，舉些浸不爛底多年葛藤供養大眾去也。塵塵爾，剎剎爾，山是山，水是水，彌勒不入樓閣，善財不須彈指。以手一劃，云：微塵世界，氷消瓦解。且道彌勒、善財在什處？若向者裏參徹去，不妨在處稱尊。若也不見，客路如天遠，侯門似海深。回莊，上堂。記得鵝湖和尚一日點淨後不赴堂，遂入方丈裏睡",
+              "MasterName": "Baoning Renyong",
+              "ActorAttribution": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Baoning Renyong",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X69/X69n1350.xml). Recorded Sayings of Chan Master Baoning Renyong. Baoning answers his own question about who the great assembly meets with the pair, then uses his staff to open the teaching."
             }
           ],
           "SourceTexts": [
-            "T/T48/T48n2006.xml"
+            "T/T48/T48n2006.xml",
+            "J/J26/J26nB183.xml",
+            "J/J26/J26nB185.xml",
+            "J/J26/J26nB186.xml",
+            "X/X69/X69n1350.xml"
           ],
-          "RelatedMasters": [],
+          "RelatedMasters": [
+            "Shiqi Tongyun",
+            "Fushi Tongxian",
+            "Linye Tongqi",
+            "Baoning Renyong"
+          ],
           "RelatedTerms": [
             "慧"
           ],
-          "ClaimAnchors": [],
-          "Explanation": "The couplet serves as the source’s answer for the wisdom-eye; the record does not identify Golden Ground or Jiangling further in this passage. The source supplies the couplet after “What is the wisdom-eye?” inside its ordered questions on the five eyes, without naming a human speaker."
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J26/J26nB183.xml",
+              "FromLb": "0485c05",
+              "ToLb": "0486a16",
+              "Kwic": "？」師打云：「猶嫌少在。」進云：「臨濟玄要承師指。」遂喝云：「是照耶？用耶？賓耶？主耶？」師復打，乃云：「一二三四五六七，逗到今朝是人日，春風驀面忽相逢，撲破鼻頭撞破額。靈鷲寺裏今日有齋。大眾！開單展缽、拈匙放箸則且置，應時及節一句作麼生？泥牛起舞春悠悠，不風流處也風流。」解制上堂，僧問：「把住牢關即不問，放行一路事如何？」師云：「緊峭草鞋。」進云：「灼然點鐵成金去，滴水興波浪潑天。」師便打，乃云：「適纔過歲旦，明朝又十六，時節不相饒，光陰何迅速？初非法爾如然，豈是人情催促？靈鷲結制九十日來，滴水滴凍，大眾缽囊高挂，不許動著一絲頭。今日檀越作齋，諸人一齊打開缽袋，饅頭䭔子、三德六味供佛及僧，一飽便休。還會麼？大方獨步無拘管，南北東西信自繇。」淨光、仰心、明貫、淨持期師過景星巖，請陞座。問答罷，師乃云：「春山疊亂青，春水漾虛碧，寥寥天地間，獨立望何極？古德恁麼說話，大似在孤峰頂上等個人來。大眾且道：他要等個什麼人？」擊香几，云：「定光金地遙招手，智者江陵暗點頭。」上堂，僧問：「夏日炎炎，通身白汗，還有不熱者麼？」師便打。進云：「涼風到處通消息，拄杖頭邊白汗流。」師復打，云：「少一棒在。」乃云：「昨日火雲燒空，今朝陰生巖谷，天道何似不常，人身隨著反覆，或時通身汗流、或時乾燥暴暴，分明不隔纖毫，直下好個消息。且道是何消息？」良久，云：「無事此靜坐，一日似兩日。」卓拄杖，下座。曹源法友請上堂，「諸禪德！相逢不拈出，舉意便知有。衲僧家須要舉一明三、目機銖兩始得。不見道：『撞著道伴交肩過，一生參學事畢。』秪如今日故人遠至，覿面相看又作麼生？」拍掌云：「寒山逢拾得，撫掌笑呵呵。」下座。陞座，「禪非意想，道絕功勳，纔要如何若何，便乃千里萬里。所以，靈鷲者裏無禪教你們參、無道教你們學，一味杜田朴實頭，種田博飯喫。果是當家種草，聞山僧與麼道，便一信永信；如或不然，更為舉示。」以拂子左右拂，云：「還委悉麼？山前山後閒田地，盡底掀翻要一回。」除夜陞座。僧問：「臘月三十日事如何？」師云：「明朝是初一。」進云：「請和尚喫茶去。」師便打。問：「如何是佛祖相傳第一義？」師亦打。問：「如何是和尚底奇特事？」師又打。乃云：「今日正喚作臘月三十夜，人人打辦過年，要將前來所作所為底事盡情打疊得乾淨，無一絲毫牽挂，然後",
+              "MasterName": "Shiqi Tongyun",
+              "ActorAttribution": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Shiqi Tongyun",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J26/J26nB183.xml). Recorded Sayings of Chan Master Shiqi of Xuedou. Shiqi caps his question about the person awaited by an old teacher, striking the incense table before voicing the two-place image.",
+              "ClaimText": "定光金地遙招手，智者江陵暗點頭"
+            },
+            {
+              "RelPath": "J/J26/J26nB185.xml",
+              "FromLb": "0588a30",
+              "ToLb": "0588c10",
+              "Kwic": "？』山云：『不借借。』大眾！還知不借借麼？不見《華嚴》云：『相原虛，恒泯一，體性雖實，常在萬緣。』敢問大眾：如何是萬緣底性？如有道得，恰好老僧拄杖子兩手分付；脫或未能，老僧自道去也。」豎拂子，云：「會麼？掬水月在手，弄花香滿衣。」下座。上堂。「今朝六月一，箇事紛紛俱漏泄，柳陰深處噪新蟬，池上荷香襲幽室，嘶風木馬空成夢，喘月泥牛醉未知。所以當年缺齒翁曾對梁王道：『不識佛心，天子雖聰敏，至此茫然如面壁。』何以？不見經云：『盡思共度量，不能測佛智。』且道如何是佛智？笑裏一毛無間斷，毫端十字路縱橫。」天童退院，上堂。師云：「昔夢先師喚老僧，老僧出接，見先人手持雨傘，忙撐起，頻喚：『來來與共撐。』是故，聞呼予即至，果遭此地兩無秋，冥中猶仗先師力，不覺怡然二載周。自揣暮年難獨荷，敢邀碩德繼先猷，遙請木兄承己諾，殘棋一局適將收。敢辭大眾出山去，莫訝相逢未有期，須知無去無來者，千里何曾間一絲？大眾！既千里之遙，為何不間一絲？」豎拂，云：「會麼？定光金地遙招手，智者江陵暗點頭。」卓杖，下座。秀州棲真寺語錄秀州棲真寺語錄上堂。拈疏云：「好事不瞞人，對眾親拈出。」復呈云：「大眾會麼？恐有不會，再煩維那宣過。」指法座，云：「峭巍巍壁立萬仞，孤迥迥突露當陽，和盤托出無人會，曲彔重登再舉揚。」喝一喝便陞，拈香畢，維那白椎，云：「法筵龍象眾，當觀第一義。」乃云：「纔入西山又出山，天緣於此孰能攀？去住不生留別念，一道孤光萬境含。所以道：萬法是心光，諸緣惟性曉，本無迷悟人，只要今日了。既是本無迷悟，要了箇甚麼？」豎拂，云：「還會麼？雖然舊閣閒田地，一度嬴來方始休。」白椎，云：「諦觀法王法，法王法如是。」下座。上堂。僧問：「太白破沙盆舊話，棲真今日又重圓，破沙盆話即不問，棲真新令請師宣。」師云：「門前一對金剛。」進云：「蒙師指出新條令，普使群英盡飽餐。」師云：「如何是你飽餐底事？」進云：「百戰場中誇獨勝，萬人叢裏凱歌回。」師云：「未許你在。」進云：「和尚不得壓良為賤。」師便打。進云：「杖頭點出摩醯眼，爍破晴空亙古今。」師云：「今日且放過。」進云：「大眾證明去也。」乃云：「捏不成團裂不開，孤光耿耿絕塵埃，丈夫如未超方便，徒使瞿曇空歎哉。是以，浮談萬卷，不如至理片言；腐藥千箱，豈若還丹一粒？還丹一粒，點銕成金；至理片",
+              "MasterName": "Fushi Tongxian",
+              "ActorAttribution": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Fushi Tongxian",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. Fushi lifts his fly whisk and caps his departure sermon on distance and continuity with the exact pair.",
+              "ClaimText": "定光金地遙招手，智者江陵暗點頭"
+            },
+            {
+              "RelPath": "J/J26/J26nB186.xml",
+              "FromLb": "0641c08",
+              "ToLb": "0642a20",
+              "Kwic": "在座諸公要明這卷經麼？」乃舉扇云：「下文繁長，付在來日。」遂放下扇，云：「請茶。」開示。「汝等若欲洞明此事，須是千差路絕，念慮情忘，分別心息，始有入首處。若或將心內照、觀心內澄，總是無風匝匝之波，于本分中了無交涉。不見龐公道：『但自無心於萬物，何妨萬物嘗圍遶？鐵牛不怕獅子吼，恰似木人看花鳥。木人本體自無情，花鳥逢人亦不驚。心境如如只這是，何慮菩提道不成？』汝等若能于此見得，便隨緣消舊業，更不造新殃。如未見得，異日閻羅老子大有著汝諸人處在。」開示。「年來四方兵戈擾攘，無片地可安，唯天童祖席，慈光照耀，一眾平穩。所謂我此土安隱，天人常充滿。若不於此打教徹去，乃是自棄。豈不聞昔之哲侍者脅不沾蓆，有勸其寢者，渠曰：『我於般若緣分素薄，若不刻苦勵志，恐被妄習所牽。』汝輩何人乃爾懈怠？此事雖則本來成現，不假安排。其奈無量劫來，習染濃厚，被心意識，使得七顛八倒，無自繇分。若不滅裂，一回終難負荷。汝等要識，不涉心意識句麼？」驀拈拄杖顧左右云：「定光金地遙招手，智者江陵暗點頭。」小參小參壬午冬結制小參。「今日通玄結制，且喜全無做造。雖然一眾端肅，未嘗別更衣帽，唯有露柱燈籠，旦暮不勝冷笑。大眾！且道露柱燈籠笑個甚麼？還是笑結制欠嚴、笑說禪不富？若道結制欠嚴，居山衲子當合如是。若道說禪不富，曹溪一脈豈在言豐？既然不在這兩端，畢竟淆訛在甚麼處？還有人道得麼？若道得，便是出格道人；脫或未然，且聽山僧直截剖判。」以拂子擊禪床云：「意氣不從天地得，英雄豈藉四時推？」小參。「個中一著，迥脫情塵，纔涉思惟，白雲萬里。汝等諸人，何不直截承當，以免勞神役志？若然承當得下，不枉趙居士施金辦供，可謂功不浪施。脫或未然，山僧不免葛藤一上。若道有解有結，正是無繩自縛；若道無結無解，大似平地喫交。若總不恁麼，猶是野狐見解。畢竟如何？解開布袋無拘束，放出溈山水牯牛。」小參。「敘吾陳居士，時值耳順之年，方始回心向道，故偕子來山，施金辦供，乞吾舉揚宗旨。殊不知宗旨不可以言語造、不可以寂默通，但有言說，都無實義。若欲透脫死生，須是坐斷情塵意想，不落見聞覺知，始有相親分。若到與麼田地，切不得舉意承當。若舉意承當，則遠之遠矣。所謂有念盡成煩惱鎖，無心端坐水晶宮。」除夕小參。「古德烹露地白牛分歲，山僧煮透海烏雞過年，不用文武火燒，放下自然",
+              "MasterName": "Linye Tongqi",
+              "ActorAttribution": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Linye Tongqi",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J26/J26nB186.xml). Recorded Sayings of Chan Master Linyexi. Linye lifts his staff and voices the pair in answer to his own challenge about a phrase beyond thought.",
+              "ClaimText": "定光金地遙招手，智者江陵暗點頭"
+            },
+            {
+              "RelPath": "X/X69/X69n1350.xml",
+              "FromLb": "0280a16",
+              "ToLb": "0280c14",
+              "Kwic": "火。要向即向，要撥即撥。且道與古人是同是別？乃云：上閒僧多，下閒僧少。上堂：一人發真歸源，十方虗空悉皆消殞。拍禪牀，云：大眾，為什麼却有人透者裏不過？良久，云：自是不歸歸便得，五湖煙景有誰爭？上堂。快馬一鞭，快人一言，直饒與麼，猶是鈍漢。乃召眾云：喫茶去。上堂：釋迦掩室於摩竭，已洩天機。淨名杜口於毗耶，特地饒舌。少林九年面壁，老不歇心。永嘉一宿曹谿，徒誇英俊。保寧與麼道，還有過也無？路逢劍客方呈劍，不是詩人不獻詩。參！上堂。一塵入正受，諸塵三昧起。諸塵入正受，一塵三昧起。遂拈杖云：保寧有時拈頭作尾，有時拈尾作頭。金剛脚底踣跳，蟭螟眼裏藏身。朝到西天暮歸東土即且置，祇如不動步一句作麼生道？卓拄杖云：無事莫行偏僻路，等閒惹得是非來。參。問：如何是佛？答：鐵鎚無孔。問：如何是祖師西來意？答：雪上加霜。發化主，上堂。盡十方世界為一大陣，若聖、若凡，種種異類出此不得，釋迦為主將、文殊作先鋒、普賢為殿後，陣勢既圓，且道與什人相見？良久，云：定光金地遙招手，智者江陵暗點頭。遂拈拄杖，云：如今盡在保寧拄杖頭上開甘露門，示真實相，展縮無礙，縱橫自由。還見麼？若也見得，真不掩偽；若也不見，分付諸方化主，一任將向南州北縣扶過斷橋水，伴歸無月村。卓一下，下座。上堂。立春日，打泥牛，一棒兩棒，千頭百頭，雪華深覆辨不得，頂門有眼徒悠悠。拍手云：囉囉哩，惱亂春風卒未休。上堂：萬法是心光，諸緣唯性曉。本無迷悟人，祇要今日了。且道了底事作麼生？良久，云：待得雪消去，自然春到來。上堂。金毛師子一哮吼，驚起法身藏北斗。文殊普賢無處走，碧眼也徒誇好手。喝一喝，下座。上堂：迦葉擎拳，阿難合掌，樓至如來，全無伎倆。常州廣福，上堂。師子窟中必無異獸，莫有哮吼者麼？有僧問：遠離金陵丈室，幸屆廣福道場，向上宗乘，請師舉唱。答：微風搖寶鐸，紅日耀青天。進云：滿眸山色秀，徧地野華新。答：白雲千里萬里。進云：大眾證明，學人禮謝。答：多年曆日。乃云：保寧今日不免曲順人情，舉些浸不爛底多年葛藤供養大眾去也。塵塵爾，剎剎爾，山是山，水是水，彌勒不入樓閣，善財不須彈指。以手一劃，云：微塵世界，氷消瓦解。且道彌勒、善財在什處？若向者裏參徹去，不妨在處稱尊。若也不見，客路如天遠，侯門似海深。回莊，上堂。記得鵝湖和尚一日點淨後不赴堂，遂入方丈裏睡",
+              "MasterName": "Baoning Renyong",
+              "ActorAttribution": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Baoning Renyong",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X69/X69n1350.xml). Recorded Sayings of Chan Master Baoning Renyong. Baoning answers his own question about who the great assembly meets with the pair, then uses his staff to open the teaching.",
+              "ClaimText": "定光金地遙招手，智者江陵暗點頭"
+            }
+          ],
+          "Explanation": "Golden Ground beckons from afar, and Jiangling answers with a quiet nod. The shorter form appears as the wisdom-eye answer in the Five Eyes sequence. Shiqi uses the expanded named form to answer whom the old teacher awaits. Fushi voices it at a departure despite distance; Linye gives it with a raised staff; Baoning uses it to ask whom his assembly meets."
         }
       ]
     },
@@ -1072631,23 +1072107,6 @@
               "AttributionNote": "Source record (J/J34/J34nB304.xml). Cloud-Cliff Collection of Chan Master Lingshuyuan (靈樹遠禪師雲嵒集). Speaker: Xuedou Chongxian."
             },
             {
-              "RelPath": "X/X66/X66n1296.xml",
-              "FromLb": "0212b14",
-              "ToLb": "0212c03",
-              "Kwic": "跛鱉納敗闕了也。孚趂至中途歸，舉似雪峰，大似把髻投衙。峰云：他有語在，須知不是好心。孚云：老凍儂猶有鄉情在□□，貪歬不覺錯。後峰便休。無齒大蟲，傷人不知痛。太原因保福簽瓜次，福曰：道得與你瓜喫。原曰：把將來。福度與一片，原接得便。雪竇顯云：雖是死蛇，解弄也活。誰是好手者？試請辨看。南堂欲云：猛虎口中奪食，饑鷹爪下分餐，太原較些子保福。若具奔流度刃底手，待伊擬接，便與拋向背後，看他把什麼蛇弄？白巖符云：者兩個漢昂昂藏藏，等是獅門牙爪，乃爾弄泥彈子過日，明眼人見討甚面目？我若作孚上座，待道：道得與",
-              "MasterName": "Xuedou Chongxian",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Xuedou Chongxian",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases” (宗門拈古彙集). Speaker: Xuedou Chongxian."
-            },
-            {
               "RelPath": "X/X71/X71n1414.xml",
               "FromLb": "0318a20",
               "ToLb": "0318b16",
@@ -1072680,98 +1072139,6 @@
                 }
               ],
               "AttributionNote": "Source record (X/X70/X70n1384.xml). Recorded Sayings of Chan Master Jue’an Kexiang. Juean directly uses the dead-snake image after throwing down his staff in his own hall address."
-            }
-          ],
-          "SourceTexts": [
-            "J/J33/J33nB294.xml",
-            "J/J34/J34nB304.xml",
-            "X/X66/X66n1296.xml",
-            "X/X71/X71n1414.xml",
-            "X/X70/X70n1384.xml"
-          ],
-          "RelatedMasters": [
-            "Liangting Jingting",
-            "Xuedou Chongxian",
-            "Liao'an Qingyu",
-            "Jue'an Kexiang"
-          ],
-          "RelatedTerms": [
-            "死蛇"
-          ],
-          "ClaimAnchors": [],
-          "Explanation": "Though it is a dead snake, skillful handling brings it alive says that dead material can answer again in capable hands. Liangting Jingting uses the line to answer whether concealment concentration is dead or alive. Xuedou Chongxian uses it to judge Taiyuan Fu taking Baofu’s slice of melon and then asks who the skilled hand is. Liaoan uses the dead-snake image to open his own minor talk on a live turning of the Dharma. Juean directly uses the dead-snake image after throwing down his staff in his own hall address."
-        }
-      ]
-    },
-    {
-      "Id": "t_adc096298211",
-      "SourceTerm": "雖是死蛇，解弄也活",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "author_from_packet",
-      "WrittenUtc": "2026-07-19T17:51:35.502639Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "though it is a dead snake, one who knows how to handle it can make it live",
-          "AlternateTargets": [],
-          "SearchAliases": [
-            "though it is a dead snake, one who knows how to handle it can make it live"
-          ],
-          "Status": "preferred",
-          "Validation": "multi-source",
-          "Note": "The line does not claim literal revival or make every inherited saying effective.",
-          "Occurrences": [
-            {
-              "RelPath": "X/X71/X71n1414.xml",
-              "FromLb": "0318b02",
-              "ToLb": "0318b11",
-              "Kwic": "燒之。院主自後眉須墮落。山僧當時若作院主，待他道：既無舍利，更請兩尊燒之。便與蹈向火中，免見千古之下引得一類學語之流，隨例道：大用現前，不存軌則。喝一喝。小參。六爻沉伏，一氣潛回，雖是死蛇，解弄也活。拈一機而機機普應，用一法而法法全彰，廓人天未證之門，揭佛祖不傳之妙，浮幢剎外把斷要津，賢聖劫中位居第一。有一句到你，不萌枝上，綠覆層陰；無一句到你，無影樹頭，花敷五葉。別別，細不容針，大通車轍，缺齒胡僧笑點頭，衲僧眼裡",
-              "MasterName": "Liao'an Qingyu",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Liao'an Qingyu",
-                  "Roles": [
-                    "utterer"
-                  ]
-                },
-                {
-                  "MasterName": "Liao'an Qingyu",
-                  "Roles": [
-                    "utterer",
-                    "respondent"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu. Liao'an Qingyu gives or composes the expression translated as “though it is a dead snake, one who knows how to handle it can make it live” in this bounded Recorded Sayings of Chan Master Liao’an Qingyu witness."
-            },
-            {
-              "RelPath": "J/J33/J33nB294.xml",
-              "FromLb": "0746c08",
-              "ToLb": "0746c19",
-              "Kwic": "師云：「鳥篆龍文。」「如何是雲門宗？」師云：「風起雲屯。」「如何是法眼宗？」師云：「水落石出。」僧問：「如何是信位？」師云：「眼中著屑。」「如何是人位？」師云：「泥塑木雕。」問：「隱身三昧是死法？是活法？」師云：「雖是死蛇，解弄也活。」僧問：「既是未容擬議主賓分，為什麼又須一喝？」師云：「賓主歷然，你作麼生擬議？」僧云：「朱點印開，為什麼不說三玄，只說三要？」師云：「不見道一玄具三要麼？」僧云：「闍黎即是老僧，為什麼分賓列主？」師云：「老僧自老僧，闍黎自闍黎。」",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi. Yunxi Ting gives or composes the expression translated as “though it is a dead snake, one who knows how to handle it can make it live” in this bounded Recorded Sayings of Chan Master Liangting Ting of Yunxi witness.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "named master",
-                "ActorLabel": "Yunxi Ting",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Yunxi Ting gives or composes the expression translated as “though it is a dead snake, one who knows how to handle it can make it live” in this bounded Recorded Sayings of Chan Master Liangting Ting of Yunxi witness.",
-                "ReviewedBy": "author_from_packet",
-                "ReviewedUtc": "2026-07-19T17:51:35.502639Z"
-              }
             },
             {
               "RelPath": "J/J37/J37nB386.xml",
@@ -1072819,23 +1072186,55 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X67/X67n1301.xml). Record of Fogu’s Beat-the-Rhythm Sections. Xuedou Chongxian gives or composes the expression translated as “though it is a dead snake, one who knows how to handle it can make it live” in this bounded Record of Fogu’s Beat-the-Rhythm Sections witness."
+              "AttributionNote": "Source record (X/X67/X67n1301.xml). Xuedou speaks the exact line in the Baofu melon case; the same record then gives Fogu a distinct active commentary that revoices the line and asks who can make the snake live."
+            },
+            {
+              "RelPath": "X/X66/X66n1296.xml",
+              "FromLb": "0212b14",
+              "ToLb": "0212c03",
+              "Kwic": "跛鱉納敗闕了也。孚趂至中途歸，舉似雪峰，大似把髻投衙。峰云：他有語在，須知不是好心。孚云：老凍儂猶有鄉情在□□，貪歬不覺錯。後峰便休。無齒大蟲，傷人不知痛。太原因保福簽瓜次，福曰：道得與你瓜喫。原曰：把將來。福度與一片，原接得便。雪竇顯云：雖是死蛇，解弄也活。誰是好手者？試請辨看。南堂欲云：猛虎口中奪食，饑鷹爪下分餐，太原較些子保福。若具奔流度刃底手，待伊擬接，便與拋向背後，看他把什麼蛇弄？白巖符云：者兩個漢昂昂藏藏，等是獅門牙爪，乃爾弄泥彈子過日，明眼人見討甚面目？我若作孚上座，待道：道得與",
+              "MasterName": "Xuedou Chongxian",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Xuedou Chongxian",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Baiyan Fu",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X66/X66n1296.xml). Xuedou speaks the exact line in the Baofu melon case; the compilation then preserves independent active appraisals by Nandang Yu, who interrogates the snake image, and Baiyan Fu, who critiques the case."
             }
           ],
           "SourceTexts": [
-            "X/X71/X71n1414.xml",
             "J/J33/J33nB294.xml",
+            "J/J34/J34nB304.xml",
+            "X/X71/X71n1414.xml",
+            "X/X70/X70n1384.xml",
             "J/J37/J37nB386.xml",
-            "X/X67/X67n1301.xml"
+            "X/X67/X67n1301.xml",
+            "X/X66/X66n1296.xml"
           ],
           "RelatedMasters": [
-            "Liao'an Qingyu",
+            "Liangting Jingting",
             "Xuedou Chongxian",
-            "Yuan'an Liao"
+            "Liao'an Qingyu",
+            "Jue'an Kexiang",
+            "Yuan'an Liao",
+            "Baiyan Fu"
           ],
-          "RelatedTerms": [],
+          "RelatedTerms": [
+            "死蛇"
+          ],
           "ClaimAnchors": [],
-          "Explanation": "Even a dead snake can be made lively by someone skilled in handling it. Liao'an Qingyu opens a small address with the line; Yunxi Ting answers a question with it; Yuan'an Liao uses it to introduce his handling of Yaoshan; Xuedou Chongxian appraises the Baofu melon case with it."
+          "Explanation": "Though it is a dead snake, skillful handling brings it alive says that dead material can answer again in capable hands. Liangting Jingting uses the line to answer whether concealment concentration is dead or alive. Xuedou Chongxian uses it to judge Taiyuan Fu taking Baofu’s slice of melon and then asks who the skilled hand is. Liaoan uses the dead-snake image to open his own minor talk on a live turning of the Dharma. Juean directly uses the dead-snake image after throwing down his staff in his own hall address. Yuan'an Liao applies it in a new Yaoshan case critique, while Fogu's recorded case commentary revoices Xuedou's image and asks who can make the snake live. One case compilation also preserves Nandang and Baiyan making distinct critical responses to Xuedou's original snake appraisal."
         }
       ]
     },

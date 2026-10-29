@@ -2562,18 +2562,6 @@
   },
   {
     "SourceTerm": "一箇棺材，兩箇死漢",
-    "PreferredTarget": "one coffin, two dead men",
-    "AlternateTargets": [],
-    "SearchAliases": [
-      "one coffin, two dead men"
-    ],
-    "Status": "preferred",
-    "Note": "The phrase is an encounter verdict, not a report of an actual burial. The retained witnesses form two families of related occurrences: Yanguan Qi'an's appraisal of Damei and Wuyi Yuanlai's verdict after Feiyin recounts his meeting with Shouchang.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-19T17:51:35.742625Z"
-  },
-  {
-    "SourceTerm": "一箇棺材，兩箇死漢",
     "PreferredTarget": "one coffin holding two dead men",
     "AlternateTargets": [],
     "SearchAliases": [
@@ -6869,21 +6857,6 @@
     "Note": "Press the urgency of attention as time passes. The line warns of passing time, not a literal theory of aging.",
     "CreatedBy": "fresh10k source-first author candidate_vet",
     "WrittenUtc": "2026-10-28T20:36:53Z"
-  },
-  {
-    "SourceTerm": "不許夜行，投明須到",
-    "PreferredTarget": "the night-travel and dawn-arrival rule",
-    "AlternateTargets": [
-      "night travel is not permitted, with arrival required at daybreak"
-    ],
-    "SearchAliases": [
-      "no night travel",
-      "arrive by dawn"
-    ],
-    "Status": "preferred",
-    "Note": "Fengxue Yanzhao gives the pair as a direct answer; Touzi Datong’s answer is raised in later records; other masters and questioners quote the complete pair as a fixed rule. Review keeps quotations and record headings separate.",
-    "CreatedBy": "iriya-construction-001 lane B",
-    "WrittenUtc": "2026-07-18T08:15:50.699929Z"
   },
   {
     "SourceTerm": "不許夜行，投明須到",
@@ -27561,22 +27534,6 @@
   },
   {
     "SourceTerm": "太行山下賊。南嶽嶺頭雲",
-    "PreferredTarget": "a bandit below Mount Taihang, a cloud on the ridge of Nanyue",
-    "AlternateTargets": [
-      "the thief under Taihang and the cloud over Nanyue"
-    ],
-    "SearchAliases": [
-      "Taihang bandit Nanyue cloud",
-      "Shoushan first use then illumination",
-      "bandit below mountain cloud on ridge"
-    ],
-    "Status": "preferred",
-    "Note": "The phrase survives here as one attributed answer in a comparative list and is provisional.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-22T01:30:00Z"
-  },
-  {
-    "SourceTerm": "太行山下賊。南嶽嶺頭雲",
     "PreferredTarget": "a bandit below Mount Taihang; a cloud on Nanyue's ridge",
     "AlternateTargets": [
       "the thief under Taihang; the cloud over Nanyue"
@@ -46162,25 +46119,13 @@
   },
   {
     "SourceTerm": "有亦不管，無亦不拘",
-    "PreferredTarget": "Neither clinging to being nor tied to nonbeing",
-    "AlternateTargets": [],
-    "SearchAliases": [
-      "neither clinging to being nor tied to nonbeing"
-    ],
-    "Status": "preferred",
-    "Note": "In Pang Yun's verse, 'neither managing being nor being bound to nonbeing' follows the claim that mind and objects are alike. Binya cites it while urging a lay audience to press through a question rather than rest in cleverness. Nouyun lifts his staff and asks which side is mind and which is object. Tianran voices the words in his own small talk while striking the table to expose seeing and hearing. A case anthology transmits Pang's verse with Dahui's further test. The pair denies a foothold in either positive or negative assertions; the later turns keep asking what that denial amounts to in action.",
-    "CreatedBy": "r10 fresh construction A2",
-    "WrittenUtc": "2026-10-29T06:10:05Z"
-  },
-  {
-    "SourceTerm": "有亦不管，無亦不拘",
     "PreferredTarget": "Do not be ruled by having; do not be bound by not having",
     "AlternateTargets": [],
     "SearchAliases": [
       "do not be ruled by having; do not be bound by not having"
     ],
     "Status": "preferred",
-    "Note": "Pang Yun’s verse says, “Do not be ruled by having; do not be bound by not having,” between lines on mind and scene and a claim to be an ordinary person whose business is done. Nouyun quotes the verse, lifts his staff, and asks what should be called mind or scene. Tianran voices the couplet after showing a bamboo strip and sounding it against a desk. Po’an says a quick identification with Pang’s ordinary mind leads to further errors; Chushi tells readers to take three more steps before claiming Pang’s freedom. The couplet names a freedom whose use the later masters actively test.",
+    "Note": "Pang Yun’s verse says, “Do not be ruled by having; do not be bound by not having,” between lines on mind and scene and a claim to be an ordinary person whose business is done. Nouyun quotes the verse, lifts his staff, and asks what should be called mind or scene. Tianran voices the couplet after showing a bamboo strip and sounding it against a desk. Po’an says a quick identification with Pang’s ordinary mind leads to further errors; Chushi tells readers to take three more steps before claiming Pang’s freedom. The couplet names a freedom whose use the later masters actively test. Binya cites the same verse in practical counsel to a lay correspondent.",
     "CreatedBy": "r10 fresh construction A2",
     "WrittenUtc": "2026-10-29T07:22:59Z"
   },
@@ -48429,18 +48374,6 @@
     "Note": "The phrase describes loss of directional distinction in authorial rhetoric, first-person disorientation, and monastic questioning.",
     "CreatedBy": "Codex lamp repair cohort008 lane B",
     "WrittenUtc": "2026-07-29T07:16:35.231751Z"
-  },
-  {
-    "SourceTerm": "東西不辨，南北不分",
-    "PreferredTarget": "unable to distinguish east from west or divide north from south",
-    "AlternateTargets": [],
-    "SearchAliases": [
-      "unable to distinguish east from west or divide north from south"
-    ],
-    "Status": "preferred",
-    "Note": "Ordinary disorientation becomes both an answer and a critical diagnosis inside public questioning.",
-    "CreatedBy": "Codex cohort-002 lane-A 121-130 full-case author",
-    "WrittenUtc": "2026-07-19T05:03:44.848496Z"
   },
   {
     "SourceTerm": "東西兩堂",
@@ -52060,18 +51993,6 @@
     "Note": "One Tier-3 family preserves Tuian Daoqi's complete encounter answer; no second family is claimed.",
     "CreatedBy": "Codex Migration039 Lane B",
     "WrittenUtc": "2026-07-29T00:00:00Z"
-  },
-  {
-    "SourceTerm": "水自竹邊流出冷，風從花裏過來香",
-    "PreferredTarget": "water flowing past bamboo comes out cool, while wind passing through flowers comes fragrant",
-    "AlternateTargets": [],
-    "SearchAliases": [
-      "water by bamboo flows out cool; wind through flowers comes fragrant"
-    ],
-    "Status": "preferred",
-    "Note": "Only Tuian Daoqi’s answer to the Ehu-and-Baofu question currently supports this complete couplet.",
-    "CreatedBy": "Codex regular-vetted Iriya release005 lane C",
-    "WrittenUtc": "2026-07-22T00:00:00Z"
   },
   {
     "SourceTerm": "水邊林下",
@@ -64395,22 +64316,6 @@
     "Note": "Bounded exact and component searches found no Tier 1 or Tier 2 witness for the complete pair. This entry therefore retains one early lamp family as last-resort evidence; later lamp recensions of the same exchange are omitted.",
     "CreatedBy": "canary022_source_hierarchy_repair",
     "WrittenUtc": "2026-07-29T00:00:00Z"
-  },
-  {
-    "SourceTerm": "石壓笋斜出。岸懸花倒生",
-    "PreferredTarget": "pressed by a rock, the bamboo shoot emerges sideways, while hanging from the bank, the flower grows downward",
-    "AlternateTargets": [
-      "a stone weighs on the shoot, so it comes out slantwise; a cliff-hung flower blooms upside down"
-    ],
-    "SearchAliases": [
-      "rock-pressed shoot hanging flower",
-      "bamboo emerging sideways",
-      "flower growing downward from bank"
-    ],
-    "Status": "preferred",
-    "Note": "The line is Juebao Qing’s addition to the raised Yunmen case; it is one direct use and remains provisional.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-22T01:30:00Z"
   },
   {
     "SourceTerm": "石壓笋斜出。岸懸花倒生",
@@ -76866,23 +76771,6 @@
     "WrittenUtc": "2026-07-29T07:36:24.289468Z"
   },
   {
-    "SourceTerm": "言中辨的，句裏藏機",
-    "PreferredTarget": "discern the target in words and conceal the pivot in a phrase",
-    "AlternateTargets": [
-      "pick out the mark in speech and hide the turn inside a sentence"
-    ],
-    "SearchAliases": [
-      "target in words pivot in phrase",
-      "discern the mark in speech",
-      "conceal the pivot in a sentence",
-      "verbal skill is still drifting"
-    ],
-    "Status": "preferred",
-    "Note": "The complete paired wording has one exact occurrence in one work; the entry therefore preserves a single, explicitly bounded use.",
-    "CreatedBy": "Codex priority Iriya evidence-first author",
-    "WrittenUtc": "2026-07-21T15:56:09.476797+00:00"
-  },
-  {
     "SourceTerm": "言前",
     "PreferredTarget": "before the words",
     "AlternateTargets": [
@@ -83845,13 +83733,15 @@
   },
   {
     "SourceTerm": "金地遙招手。江陵暗點頭",
-    "PreferredTarget": "Golden Ground beckons from afar, while Jiangling nods in secret",
+    "PreferredTarget": "Dingguang beckons from Golden Ground; Zhizhe nods quietly from Jiangling.",
     "AlternateTargets": [],
     "SearchAliases": [
-      "the Golden Ground waves from afar; Jiangling secretly nods"
+      "定光金地遙招手，智者江陵暗點頭",
+      "Dingguang beckons from Golden Ground, Zhizhe nods from Jiangling",
+      "the Golden Ground beckons from afar; Jiangling nods quietly"
     ],
     "Status": "preferred",
-    "Note": "The sole exact witness is the impersonal wisdom-eye answer formula in the Tier-3 Eyes of Humans and Devas.",
+    "Note": "In the Five Eyes question sequence, the shorter couplet answers what the wisdom eye is. Four named teachers voice an expanded form with Dingguang at Golden Ground and Zhizhe at Jiangling in their own sermons. The two forms preserve the same distant beckon and answering nod.",
     "CreatedBy": "Codex regular-vetted Iriya release005 lane C",
     "WrittenUtc": "2026-07-22T00:00:00Z"
   },
@@ -87015,18 +86905,6 @@
     "Note": "The image is a dead snake made active through handling. It does not equate every dead saying with a living phrase.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-21T09:00:00Z"
-  },
-  {
-    "SourceTerm": "雖是死蛇，解弄也活",
-    "PreferredTarget": "though it is a dead snake, one who knows how to handle it can make it live",
-    "AlternateTargets": [],
-    "SearchAliases": [
-      "though it is a dead snake, one who knows how to handle it can make it live"
-    ],
-    "Status": "preferred",
-    "Note": "The line does not claim literal revival or make every inherited saying effective.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-19T17:51:35.502639Z"
   },
   {
     "SourceTerm": "雖有蓋膽毛。且無驗人眼",
