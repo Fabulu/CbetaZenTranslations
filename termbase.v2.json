@@ -1055496,7 +1055496,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "3 retained full cases show literal doors, Maitreya's tower, and public teaching-gate language; parallel editions are counted as one work.",
+          "Note": "The tower door in the Sudhana and Maitreya story becomes a present challenge in later halls. Tianyin strikes his staff and asks where the opened door is; Baichi speaks at an actual monastery entrance; Pinjixiang snaps his fingers at the gate. Guizong Huitong also uses the tower image in a separate hall address. The old Sudhana request is one transmitted event, not several independent speakers.",
           "Occurrences": [
             {
               "RelPath": "X/X82/X82n1571.xml",
@@ -1055523,7 +1055523,8 @@
                 "GrammarEvidence": "Guizong Huitong: Guizong Huitong’s record marks “上堂” before he invokes the pavilion door opening and meeting Maitreya.",
                 "ReviewedBy": "Codex lane C human author",
                 "ReviewedUtc": "2026-07-20T02:45:11.643092+00:00"
-              }
+              },
+              "ClaimText": "門開"
             },
             {
               "RelPath": "C/C078/C078n1720.xml",
@@ -1055545,8 +1055546,8 @@
                 }
               ],
               "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "full-case exact-turn adjudication",
+                "Status": "identified-non-master",
+                "Kind": "Sudhana in raised Maitreya tower story",
                 "ActorLabel": "Sudhana",
                 "ActorRole": "utterer",
                 "RungsChecked": [
@@ -1055560,60 +1055561,88 @@
                 "GrammarEvidence": "Sudhana: The raised Sudhana story says “善財蹔時斂念” before his request that the pavilion door open.",
                 "ReviewedBy": "Codex lane C human author",
                 "ReviewedUtc": "2026-07-20T02:45:11.643092+00:00"
-              }
+              },
+              "ClaimText": "門開"
             },
             {
-              "RelPath": "X/X80/X80n1565.xml",
-              "FromLb": "0065c03",
-              "ToLb": "0065c04",
-              "Kwic": "願樓閣門開。令我得入。",
-              "MasterName": null,
+              "RelPath": "J/J25/J25nB171.xml",
+              "FromLb": "0526c27",
+              "ToLb": "0527a05",
+              "Kwic": "亦無死。離已死未死，死時亦無死。諸人若會得，對眾拈出，老僧與你證據；若未會，各各珍重參取去。」解華嚴禪期小參，師云：「說甚長期與短期，自家面目自家知。坐參五十三員老，樓閣門開彈指時。」卓拄杖云：「吽！大開了也。諸人還覺毛寒骨豎麼？出亦得，入亦得。雖然如是，且道門在甚麼處？還見麼？如此見得，無論開卷便退者、終卷而退者，一部而退者、半部而退者，一",
+              "MasterName": "Tianyin Yuanxiu",
               "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps (五燈會元). Speaker: Sudhana. The lamp-record compiler transmits Sudhana’s words.",
-              "ContextActors": [
+              "ContextMasters": [
                 {
-                  "Status": "identified-non-master",
-                  "ActorLabel": "the lamp-record compiler",
+                  "MasterName": "Tianyin Yuanxiu",
                   "Roles": [
-                    "compiler"
-                  ],
-                  "GrammarEvidence": "The lamp-record compiler transmits the explicitly attributed Sudhana speech."
+                    "utterer",
+                    "record-owner"
+                  ]
                 }
               ],
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "full-case exact-turn adjudication",
-                "ActorLabel": "Sudhana",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Sudhana: The compiler’s raised story explicitly has “善財作禮曰” before Sudhana asks for the pavilion door to open.",
-                "ReviewedBy": "Codex lane C human author",
-                "ReviewedUtc": "2026-07-20T02:45:11.643092+00:00"
-              }
+              "AttributionNote": "Source record (J/J25/J25nB171.xml). Tianyin strikes his staff at the close of a retreat and says the tower door has opened, then asks where that door is.",
+              "EvidenceRole": "original-use",
+              "ClaimText": "門開"
+            },
+            {
+              "RelPath": "J/J28/J28nB202.xml",
+              "FromLb": "0050b22",
+              "ToLb": "0050c09",
+              "Kwic": "如無，山僧自作自受去也。」拽拄杖，下座。百癡禪師語錄卷第十嗣法門人超宣等編松江超果禪寺語錄松江超果禪寺語錄師於順治丁酉春受請，四月初四日入院。至山門，云：「不勞彈指，樓閣門開，是汝諸人止可暫時經過，若要到大休歇之場，前頭猶有活路在。」佛殿。「面如滿月目如蓮，天上人間咸恭敬。」顧視左右，云：「果是他家苗裔，也須依而行之。」遂展具。伽藍堂。「公平",
+              "MasterName": "Baichi Xingyuan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Baichi Xingyuan",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB202.xml). Baichi stands at the monastery gate and recasts the Maitreya tower image as a present entry challenge.",
+              "EvidenceRole": "original-use",
+              "ClaimText": "門開"
+            },
+            {
+              "RelPath": "J/J39/J39nB454.xml",
+              "FromLb": "0618b05",
+              "ToLb": "0618b13",
+              "Kwic": "門兩序勤舊請，住龍華祖剎。至丁丑三月十八日入院。正中亭。「你等欲躋佛祖閫域，卻不得在者裏停機佇足。」以拄杖指曰：「向上路從松下去，瓊樓玉殿好生觀。」山門。「不須斂念，樓閣門開。」遂彈指曰：「急著眼。」彌勒前，拈香曰：「者些子本是平出，龍華主宰須還我。你少待五十七俱胝，三會提持讓與君。」韋馱。「衲僧家，原無資藉。若謂護法安僧，應須借重。」拈香曰",
+              "MasterName": "Pinjixiang Zhixiang",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Pinjixiang Zhixiang",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J39/J39nB454.xml). Pinjixiang voices the tower line at the monastery gate, then snaps his fingers and tells the assembly to look.",
+              "EvidenceRole": "original-use",
+              "ClaimText": "門開"
             }
           ],
           "SourceTexts": [
             "X/X82/X82n1571.xml",
             "C/C078/C078n1720.xml",
-            "X/X80/X80n1565.xml"
+            "J/J25/J25nB171.xml",
+            "J/J28/J28nB202.xml",
+            "J/J39/J39nB454.xml"
           ],
           "RelatedMasters": [
-            "Zhantang Wenzhun"
+            "Tianyin Yuanxiu",
+            "Baichi Xingyuan",
+            "Pinjixiang Zhixiang"
           ],
           "RelatedTerms": [
             "入門",
             "開門"
           ],
           "ClaimAnchors": [],
-          "Explanation": "The door opens: the phrase first names an opening that gives entry, especially the pavilion door in Sudhana’s meeting with Maitreya. Sudhana asks that the closed pavilion door open so he can enter; Maitreya snaps his fingers, the door opens, and Sudhana enters. Guizong Huitong invokes that same opening before asking what counts as the one teaching and the place of the Way."
+          "Explanation": "The door opens in the Maitreya tower story, and later masters use that image while addressing their own assemblies. Sudhana asks for the tower to open in the older story. Tianyin opens it with a staff strike and asks where it is; Baichi uses it at a monastery entrance; Pinjixiang adds a finger snap. Guizong Huitong also invokes the image while questioning the need to seek Maitreya elsewhere. These are distinct present deployments of a shared story."
         },
         {
           "SenseKey": null,
@@ -1055630,35 +1055659,8 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "5 retained full cases show literal doors, Maitreya's tower, and public teaching-gate language; parallel editions are counted as one work.",
+          "Note": "Here opening a gate means making teaching available in the present turn. Miyun and Zixian announce the expedient gate with a staff action; Baiyu asks what real aspect follows. Zhantang likewise opens that gate in his own address. Longhua Huiju names the gate of great giving, while Cuifeng Huiyong answers a succession question by opening a gate on East Ridge. The anonymous nondual-gate verse is a separate poetic use.",
           "Occurrences": [
-            {
-              "RelPath": "X/X78/X78n1556.xml",
-              "FromLb": "0655a20",
-              "ToLb": "0655b16",
-              "Kwic": "師明州天童山景德懷清禪師問：如何是祖師西來意？師云：眼裏不著沙。僧曰：如何領會？師云：耳裏不著水。僧曰：恁麼則禮拜也。師云：東家點燈，西家暗坐。上堂云：西湖隱出山峰秀，樓櫓參差若𦘕成。禪流共在祇園住，莫教虗度一生。便下座。越州寶嚴叔芝禪師越州寶嚴叔芝禪師問：如何是佛？師云：土身木骨。僧曰：意旨如何？師云：五彩金裝。僧曰：恁麼則頂禮去也。師云：天台楖𣗖。蘇州翠峰慧顒禪師蘇州翠峰慧顒禪師問：師唱誰家曲，宗風嗣阿誰？師云：門開東嶺上。僧曰：恁麼則五祖嫡子也。師云：猿嘯老松枝。台州瑞巖珪禪師台州瑞巖珪禪師問：祖印即提於此日，未審宗風嗣阿誰？師云：黃梅東嶺山偏秀，白蓮池畔水分流。僧曰：恁麼則蓮峯親授旨，瑞嶺繼敷揚。師云：依俙南嶽，髣髴天台。蘄州五祖山秀禪師蘄州五祖山秀禪師問：無法可說，是名說法。既是無法可說，又將何說？師云：霜寒地凍。僧曰：空生不解巖中坐，惹得天花動地來。師云：日出冰消。僧擬議。師云：何不進語？僧又無語。師云：車不橫推，理不曲斷。襄州白馬辯禪師襄州白馬辯禪師問：如何是佛？師云：水來河漲。僧曰：如何是法？師",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (X/X78/X78n1556.xml). JZJG Lamp (建中靖國續燈錄). Speaker: Cuifeng Huiyong.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "full-case exact-turn adjudication",
-                "ActorLabel": "Cuifeng Huiyong",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Cuifeng Huiyong: Cuifeng Huiyong answers under “師云” that the gate opens on East Ridge.",
-                "ReviewedBy": "Codex lane C human author",
-                "ReviewedUtc": "2026-07-20T02:45:11.643092+00:00"
-              }
-            },
             {
               "RelPath": "X/X66/X66n1297.xml",
               "FromLb": "0291b24",
@@ -1055684,7 +1055686,8 @@
                 "GrammarEvidence": "The headword occurs in an unattributed verse block; '曼殊問疾' fixes the verse boundary, while the six attribution rungs supply no author's name.",
                 "ReviewedBy": "Codex lane C full-case repair",
                 "ReviewedUtc": "2026-07-20T03:05:51.600708+00:00"
-              }
+              },
+              "ClaimText": "門開"
             },
             {
               "RelPath": "T/T51/T51n2077.xml",
@@ -1055711,7 +1055714,8 @@
                 "GrammarEvidence": "Cuifeng Huiyong: The parallel lamp record uses “師曰” for Cuifeng Huiyong’s answer that the gate opens on East Ridge.",
                 "ReviewedBy": "Codex lane C human author",
                 "ReviewedUtc": "2026-07-20T02:45:11.643092+00:00"
-              }
+              },
+              "ClaimText": "門開"
             },
             {
               "RelPath": "X/X81/X81n1568.xml",
@@ -1055738,7 +1055742,8 @@
                 "GrammarEvidence": "Longhua Huiju: Longhua Huiju’s record fixes his public address with “開堂示眾曰” before “the gate of great giving stands open.”",
                 "ReviewedBy": "Codex lane C human author",
                 "ReviewedUtc": "2026-07-20T02:45:11.643092+00:00"
-              }
+              },
+              "ClaimText": "門開"
             },
             {
               "RelPath": "X/X68/X68n1318.xml",
@@ -1055755,22 +1055760,88 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Ancient Essentials (續古尊宿語要). Speaker: Zhantang Wenzhun."
+              "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Ancient Essentials (續古尊宿語要). Speaker: Zhantang Wenzhun.",
+              "ClaimText": "門開"
+            },
+            {
+              "RelPath": "J/J10/J10nA158.xml",
+              "FromLb": "0007c13",
+              "ToLb": "0007c21",
+              "Kwic": "不去，然既不來又不去，因甚一場特地？為要大家知。」乃拈香云：「還會麼？一瓣栴檀、一盞茶，分明眼裡又添沙。」便燒。深侍者請上堂開方便門、示真實相，師乃拈拄杖擊香几云：「方便門開也。」復呈拄杖云：「真實相示也。汝諸人還見麼？若也見得，徹去便可。以拄杖子作丈六金身用，復可以丈六金身作拄杖子用，然後拄杖子𨁝跳上三十三天，觸著帝釋鼻孔，東海鯉魚打一棒，",
+              "MasterName": "Miyun Yuanwu",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Miyun Yuanwu",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J10/J10nA158.xml). Miyun strikes the incense table with his staff and says the expedient gate has opened.",
+              "EvidenceRole": "original-use",
+              "ClaimText": "門開"
+            },
+            {
+              "RelPath": "J/J33/J33nB287.xml",
+              "FromLb": "0539c09",
+              "ToLb": "0539c16",
+              "Kwic": "銀啼。」喝一喝，下座。元旦，上堂。「一年三百六十日，今朝為始，萬象森羅，無分彼此。言無展事、語不投機，承言者喪、滯句者迷。山僧今日開方便門，示真實相。」驀拈拄杖云：「方便門開也。」卓一卓云：「真實相示也。」復卓杖一卓，喝一喝。復舉：「僧問鏡清：『新年頭還有佛法也無？』清云：『有。』僧云：『如何是新年頭佛法？』清云：『元正啟祚，萬物咸新。』僧云",
+              "MasterName": "Zixian Jue",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Zixian Jue",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J33/J33nB287.xml). Zixian raises his staff at New Year and announces that the expedient gate has opened.",
+              "EvidenceRole": "original-use",
+              "ClaimText": "門開"
+            },
+            {
+              "RelPath": "J/J36/J36nB359.xml",
+              "FromLb": "0627a28",
+              "ToLb": "0627b05",
+              "Kwic": "處塵劫而非舊，迥超威音之前，那落釋迦之後？離形離相、無聲無臭，惱煞那顧虎頭、李龍眠、王摩詰、吳道子，直至而今畫不就。」趙夫人請上堂。「經中云：『開方便門，示真實相。』方便門開也，作麼生說箇真實相底道理？」畫○「於斯會得，無三界可出、無群生可度、無涅槃可證、無解脫可悟，人與非人性相平等，然猶是二乘之見、羊鹿等機。頂門具眼者，直須掀翻化城、踢倒寶",
+              "MasterName": "Baiyu Jingsi",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Baiyu Jingsi",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J36/J36nB359.xml). Baiyu asks how to state the real aspect after saying the expedient gate has opened.",
+              "EvidenceRole": "original-use",
+              "ClaimText": "門開"
             }
           ],
           "SourceTexts": [
-            "X/X78/X78n1556.xml",
             "X/X66/X66n1297.xml",
             "T/T51/T51n2077.xml",
             "X/X81/X81n1568.xml",
-            "X/X68/X68n1318.xml"
+            "X/X68/X68n1318.xml",
+            "J/J10/J10nA158.xml",
+            "J/J33/J33nB287.xml",
+            "J/J36/J36nB359.xml"
           ],
           "RelatedMasters": [
-            "Zhantang Wenzhun"
+            "Zhantang Wenzhun",
+            "Miyun Yuanwu",
+            "Zixian Jue",
+            "Baiyu Jingsi"
           ],
           "RelatedTerms": [],
           "ClaimAnchors": [],
-          "Explanation": "A teaching gate opens when a record presents a way of access as available: the undivided gate, gate of great giving, expedient gate, or an answer that places the open gate on East Ridge. A verse says the undivided gate opens to show the adept; Longhua Huiju says the gate of great giving has never been blocked. Zhantang Wenzhun strikes the platform and declares the expedient gate open. Cuifeng Huiyong answers a lineage question, “The gate opens on East Ridge.”"
+          "Explanation": "A teaching gate opens when a master declares or enacts access in a present address. Miyun, Zixian, and Baiyu each say the expedient gate is open and immediately press what can be shown. Zhantang enacts that opening with a strike; Huiju calls the gate of great giving unblocked. Cuifeng uses an East Ridge gate in answer to a succession question, while an anonymous verse gives a separate nondual-gate image."
         }
       ]
     },
