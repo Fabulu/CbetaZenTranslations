@@ -9357,19 +9357,8 @@
     "PreferredTarget": "the humane see it and call it humane, and the wise see it and call it wise",
     "AlternateTargets": [],
     "SearchAliases": [
-      "the humane see it and call it humane, and the wise see it and call it wise"
-    ],
-    "Status": "preferred",
-    "Note": "Complete paired classical saying: the benevolent see it and call it benevolence; the wise see it and call it wisdom. The case voiced by the unnamed compiler-narrator juxtaposes such differing apprehensions with ordinary activity; Hanxiu asks what a recorded speaker calls it.",
-    "CreatedBy": "Codex cohort-002 lane-B B061-B070 author",
-    "WrittenUtc": "2026-07-19T12:00:00Z"
-  },
-  {
-    "SourceTerm": "仁者見之謂之仁、智者見之謂之智",
-    "PreferredTarget": "the humane see it and call it humane, and the wise see it and call it wise",
-    "AlternateTargets": [],
-    "SearchAliases": [
-      "the humane see it and call it humane, and the wise see it and call it wise"
+      "the humane see it and call it humane, and the wise see it and call it wise",
+      "仁者見之謂之仁、智者見之謂之智"
     ],
     "Status": "preferred",
     "Note": "Complete paired classical saying: the benevolent see it and call it benevolence; the wise see it and call it wisdom. The case voiced by the unnamed compiler-narrator juxtaposes such differing apprehensions with ordinary activity; Hanxiu asks what a recorded speaker calls it.",
@@ -24044,29 +24033,18 @@
   },
   {
     "SourceTerm": "團團離海嶠，漸漸出雲衢",
-    "PreferredTarget": "round and full, it leaves the sea peaks, and gradually, it emerges onto the cloudy road",
-    "AlternateTargets": [],
-    "SearchAliases": [
-      "round and full, it leaves the sea peaks; gradually, it emerges onto the cloudy road"
-    ],
-    "Status": "preferred",
-    "Note": "The moon-rise couplet is used literally in Mid-Autumn addresses and as an answer; one witness criticizes attachment to its image.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-21T08:00:00Z"
-  },
-  {
-    "SourceTerm": "團團離海嶠、漸漸出雲衢",
-    "PreferredTarget": "round and full, it leaves the sea peaks and gradually rises onto the cloud road",
+    "PreferredTarget": "round and full, it leaves the sea peaks; gradually, it rises onto the cloud road",
     "AlternateTargets": [
       "the round moon rises from sea to clouds"
     ],
     "SearchAliases": [
-      "round moon leaves sea rises clouds"
+      "round and full, it leaves the sea peaks; gradually, it emerges onto the cloudy road",
+      "團團離海嶠、漸漸出雲衢"
     ],
     "Status": "preferred",
-    "Note": "8 exact hits occur in 7 works; retained evidence ranges from Faquan Fohui to Daxiu Zhu.",
+    "Note": "The moon-rise couplet is used in two Mid-Autumn sermons and as a direct answer. Yushan quotes it only to criticize holding onto the bright circular image; Linquan uses the same wording in a different case comment. The separator spelling remains a lookup alias.",
     "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-19T15:42:32.099953Z"
+    "WrittenUtc": "2026-07-21T08:00:00Z"
   },
   {
     "SourceTerm": "土上加泥",
@@ -29190,7 +29168,7 @@
       "Master Meng"
     ],
     "Status": "preferred",
-    "Note": "5 full-case witnesses distinguish speech, quotation, narration, and documentary uses.",
+    "Note": "Mencius is cited as a thinker: Juelang addresses his teaching on guarded solitude; Zhongfeng compares his account of inborn virtue with practice; Yongjue and Yulin cite knowing nature and conduct in adversity. Yanju takes the phrase “neither assist nor forget” into a live exchange with two strikes.",
     "CreatedBy": "Codex f004 A918-925 reviewer6 author repair",
     "WrittenUtc": "2026-07-19T03:23:22.023942+00:00"
   },

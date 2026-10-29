@@ -117583,214 +117583,8 @@
           "PreferredTarget": "the humane see it and call it humane, and the wise see it and call it wise",
           "AlternateTargets": [],
           "SearchAliases": [
-            "the humane see it and call it humane, and the wise see it and call it wise"
-          ],
-          "Status": "preferred",
-          "Validation": "multi-source",
-          "Note": "Complete paired classical saying: the benevolent see it and call it benevolence; the wise see it and call it wisdom. The case voiced by the unnamed compiler-narrator juxtaposes such differing apprehensions with ordinary activity; Hanxiu asks what a recorded speaker calls it.",
-          "Occurrences": [
-            {
-              "RelPath": "X/X66/X66n1297.xml",
-              "FromLb": "0292b12",
-              "ToLb": "0292b15",
-              "Kwic": "為而無差別。一金成萬器，皆由匠者智。何必毗耶城，人人說不二。仁者見之謂之仁，智者見之謂之智。寒時向火，熱時",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (X/X66/X66n1297.xml). Grove of the Mirror of the School (宗鑑法林). Speaker: the unnamed compiler-narrator.",
-              "ActorAttribution": {
-                "Status": "narrated",
-                "Kind": "explicit compiler narration",
-                "ActorLabel": "the unnamed compiler-narrator",
-                "ActorRole": "compiler",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "“仁者見之謂之仁、智者見之謂之智” predicates 仁者見之謂之仁、智者見之謂之智 in unquoted record prose: no 曰, 云, or 問 introduces a human turn, so the clause remains compiler narration.",
-                "ReviewedBy": "Codex B51-B100 worksheet-first exhaustive current-ledger repair",
-                "ReviewedUtc": "2026-07-19T16:30:00Z"
-              },
-              "EvidenceRole": "variant",
-              "VariantForm": "仁者見之謂之仁，智者見之謂之智",
-              "VariantKind": "editorial-punctuation"
-            },
-            {
-              "RelPath": "J/J37/J37nB383.xml",
-              "FromLb": "0230a21",
-              "ToLb": "0230a23",
-              "Kwic": "刮？」良久，云：「來年更有新條在，惱亂東風卒未休。」示眾。「仁者見之謂之仁，智者見之謂之智，只如衲僧見之謂",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (J/J37/J37nB383.xml). Recorded Sayings of Chan Master Hanxiu (憨休禪師語錄). Speaker: Hanxiu.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "explicit named full-case speaker",
-                "ActorLabel": "Hanxiu",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "The marked speech in “仁者見之謂之仁、智者見之謂之智” carries 仁者見之謂之仁、智者見之謂之智 in Hanxiu’s own clause; the next punctuation boundary does not transfer it to another figure.",
-                "ReviewedBy": "Codex B51-B100 worksheet-first exhaustive current-ledger repair",
-                "ReviewedUtc": "2026-07-19T16:30:00Z"
-              },
-              "EvidenceRole": "variant",
-              "VariantForm": "仁者見之謂之仁，智者見之謂之智",
-              "VariantKind": "editorial-punctuation"
-            },
-            {
-              "RelPath": "J/J37/J37nB394.xml",
-              "FromLb": "0675c05",
-              "ToLb": "0675c07",
-              "Kwic": "僧曰：「而今蓋覆伊不得也。」師曰：「秘密藏中善為汝置。」僧曰：「仁者見之謂之仁，智者見之謂之智。」師曰：「百姓日用而不知，故君子之道鮮矣。」",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (J/J37/J37nB394.xml). Recorded Sayings of Chan Master Yi’an (翼菴禪師語錄). Speaker: Yi’an.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "explicit named full-case speaker",
-                "ActorLabel": "Yi’an",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "“仁者見之謂之仁、智者見之謂之智” remains inside the 師曰/師云 answer, so Yi’an, rather than the preceding questioner, utters 仁者見之謂之仁、智者見之謂之智.",
-                "ReviewedBy": "Codex B51-B100 worksheet-first exhaustive current-ledger repair",
-                "ReviewedUtc": "2026-07-19T16:30:00Z"
-              },
-              "EvidenceRole": "variant",
-              "VariantForm": "仁者見之謂之仁，智者見之謂之智",
-              "VariantKind": "editorial-punctuation"
-            },
-            {
-              "RelPath": "X/X64/X64n1260.xml",
-              "FromLb": "0021a01",
-              "ToLb": "0021a03",
-              "Kwic": "月，百億須彌，百億四大海，根身器界，情與無情，同一體性，莫不仁者見之謂之仁，智者見之謂之智，百姓日用而不知",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs (列祖提綱錄). Speaker: the unnamed compiler-narrator.",
-              "ActorAttribution": {
-                "Status": "narrated",
-                "Kind": "explicit compiler narration",
-                "ActorLabel": "the unnamed compiler-narrator",
-                "ActorRole": "compiler",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "“仁者見之謂之仁、智者見之謂之智” predicates 仁者見之謂之仁、智者見之謂之智 in unquoted record prose: no 曰, 云, or 問 introduces a human turn, so the clause remains compiler narration.",
-                "ReviewedBy": "Codex B51-B100 worksheet-first exhaustive current-ledger repair",
-                "ReviewedUtc": "2026-07-19T16:30:00Z"
-              },
-              "EvidenceRole": "variant",
-              "VariantForm": "仁者見之謂之仁，智者見之謂之智",
-              "VariantKind": "editorial-punctuation"
-            },
-            {
-              "RelPath": "X/X72/X72n1444.xml",
-              "FromLb": "0779b12",
-              "ToLb": "0779b14",
-              "Kwic": "三句？乃至千句、萬句，圓應自在，一念具足也。拈起云：看！看！仁者見之謂之仁，智者見之謂之智，百姓日用而不知",
-              "MasterName": "Zhanran Yuancheng",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Zhanran Yuancheng",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X72/X72n1444.xml). Recorded Sayings of Chan Master Zhanran Yuancheng (湛然圓澄禪師語錄). Speaker: Zhanran Yuancheng.",
-              "EvidenceRole": "variant",
-              "VariantForm": "仁者見之謂之仁，智者見之謂之智",
-              "VariantKind": "editorial-punctuation"
-            },
-            {
-              "RelPath": "X/X79/X79n1563.xml",
-              "FromLb": "0665a02",
-              "ToLb": "0665a05",
-              "Kwic": "見也。方龍猛現月輪相，而尊者以為現佛體性，是亦尊者之見。所謂仁者見之謂之仁，智者見之謂之智，如人終日道火而",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (X/X79/X79n1563.xml). Great Treasury of Light (大光明藏). Speaker: the unnamed compiler-narrator.",
-              "ActorAttribution": {
-                "Status": "narrated",
-                "Kind": "explicit compiler narration",
-                "ActorLabel": "the unnamed compiler-narrator",
-                "ActorRole": "compiler",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "“仁者見之謂之仁、智者見之謂之智” predicates 仁者見之謂之仁、智者見之謂之智 in unquoted record prose: no 曰, 云, or 問 introduces a human turn, so the clause remains compiler narration.",
-                "ReviewedBy": "Codex B51-B100 worksheet-first exhaustive current-ledger repair",
-                "ReviewedUtc": "2026-07-19T16:30:00Z"
-              },
-              "EvidenceRole": "variant",
-              "VariantForm": "仁者見之謂之仁，智者見之謂之智",
-              "VariantKind": "editorial-punctuation"
-            }
-          ],
-          "SourceTexts": [
-            "X/X66/X66n1297.xml",
-            "J/J37/J37nB383.xml",
-            "J/J37/J37nB394.xml",
-            "X/X64/X64n1260.xml",
-            "X/X72/X72n1444.xml",
-            "X/X79/X79n1563.xml"
-          ],
-          "RelatedMasters": [
-            "Zhanran Yuancheng"
-          ],
-          "RelatedTerms": [],
-          "ClaimAnchors": [],
-          "Explanation": "Complete paired classical saying: the benevolent see it and call it benevolence; the wise see it and call it wisdom. The case voiced by the unnamed compiler-narrator juxtaposes such differing apprehensions with ordinary activity; Hanxiu asks what a recorded speaker calls it."
-        }
-      ]
-    },
-    {
-      "Id": "t_685122802d3e",
-      "SourceTerm": "仁者見之謂之仁、智者見之謂之智",
-      "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
-      "CreatedBy": "Codex cohort-002 lane-B B061-B070 author",
-      "WrittenUtc": "2026-07-19T12:00:00Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "the humane see it and call it humane, and the wise see it and call it wise",
-          "AlternateTargets": [],
-          "SearchAliases": [
-            "the humane see it and call it humane, and the wise see it and call it wise"
+            "the humane see it and call it humane, and the wise see it and call it wise",
+            "仁者見之謂之仁、智者見之謂之智"
           ],
           "Status": "preferred",
           "Validation": "multi-source",
@@ -298241,27 +298035,30 @@
     {
       "Id": "t_e50f5ff836e2",
       "SourceTerm": "團團離海嶠，漸漸出雲衢",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+      "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
       "CreatedBy": "author_from_packet",
       "WrittenUtc": "2026-07-21T08:00:00Z",
       "Senses": [
         {
           "SenseKey": null,
           "MasterName": null,
-          "PreferredTarget": "round and full, it leaves the sea peaks, and gradually, it emerges onto the cloudy road",
-          "AlternateTargets": [],
+          "PreferredTarget": "round and full, it leaves the sea peaks; gradually, it rises onto the cloud road",
+          "AlternateTargets": [
+            "the round moon rises from sea to clouds"
+          ],
           "SearchAliases": [
-            "round and full, it leaves the sea peaks; gradually, it emerges onto the cloudy road"
+            "round and full, it leaves the sea peaks; gradually, it emerges onto the cloudy road",
+            "團團離海嶠、漸漸出雲衢"
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "The moon-rise couplet is used literally in Mid-Autumn addresses and as an answer; one witness criticizes attachment to its image.",
+          "Note": "The moon-rise couplet is used in two Mid-Autumn sermons and as a direct answer. Yushan quotes it only to criticize holding onto the bright circular image; Linquan uses the same wording in a different case comment. The separator spelling remains a lookup alias.",
           "Occurrences": [
             {
               "RelPath": "J/J27/J27nB192.xml",
-              "FromLb": "0193b07",
-              "ToLb": "0193b30",
-              "Kwic": "頭。」師云：「氣急殺人。」下座。結制上堂。拈香云：「此一瓣香，冤有頭，債有主，偶爾狹路相逢，至今恨入骨髓，熱向爐中，供養象田堂上即念老和尚，用酬法乳之恩。」斂衣就座，僧問：「大開爐煹，鋾鑄聖凡，末後重關，請師拈出。」師云：「但得雪消後，自然春到來。」乃云：「盡道今日結制，山僧今朝結舌。結制與結舌是同？還是別？一二三四五六七，七六五四三二一，搕󵉿堆邊蘿蔔頭，十字街前攤瓦礫。擬心於此覓玄微，管保驢年猶未徹。」喝一喝，下座。晚參解制晚參。僧問：「一句了然，如何得脫塵離垢？」師云：「團團離海嶠，漸漸出雲衢。」進云：「恁麼則蓋天蓋地去也。」師便打云：「不出山僧這一棒。」乃舉：「洞山云：『諸兄弟！東去西去，直須向萬里無寸草去。』有者道：『出門便是草。』又有道：『不出門，亦是草芊芊地。』」師云：「二尊宿恁麼答話，未免落草；山僧不解落草，諸人不得草草。要識洞山麼？一句明明都說了，行人莫與路為仇。」晚參。僧問：「如何是大道？」師云：「恁麼大道？」僧無語，師便打，乃云：「大道只在目前，要且目前難睹。既在目前，因甚麼難睹？薰風自南來，殿角生微涼。」示眾因絕糧，師密至湖中打化歸，示眾。「鐵錘無孔向空拋，多少時流陷寂寥，大道若無過量者，如何留得到今朝？」法語掛鐘板法語掛鐘",
+              "FromLb": "0193b17",
+              "ToLb": "0193b19",
+              "Kwic": "晚參解制晚參。僧問：「一句了然，如何得脫塵離垢？」師云：「團團離海嶠，漸漸出雲衢。」進云：「恁麼則蓋天蓋地去也。」師便打云：「不出山僧這一棒。",
               "MasterName": "Daxiu Zhu",
               "Curated": true,
               "ContextMasters": [
@@ -298272,7 +298069,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J27/J27nB192.xml). Recorded Sayings of Chan Master Daxiu Zhu (大休珠禪師語錄). Speaker: Daxiu Zhu."
+              "AttributionNote": "Source record (J/J27/J27nB192.xml). Daxiu Zhu answers the monk’s question about shedding dust with the couplet, then strikes after the monk’s response."
             },
             {
               "RelPath": "X/X64/X64n1260.xml",
@@ -298289,13 +298086,13 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs (列祖提綱錄), Mid-Autumn address by Xueyan Zuqin. After asking where the assembly sees the moon, Xueyan raises the whisk and directly gives the moon-rise couplet."
+              "AttributionNote": "Source record (X/X64/X64n1260.xml). Xueyan Zuqin raises his whisk during a Mid-Autumn sermon and voices the couplet before drawing a circle."
             },
             {
               "RelPath": "X/X64/X64n1260.xml",
-              "FromLb": "0300c04",
-              "ToLb": "0301a05",
-              "Kwic": "一輪，寒光萬里，靈利者葉落知秋，傝󳸮者忠言逆耳。休不休？已不已？小釋迦有陷虎之機，老大蟲却無牙齒，當時一踏豈造次？驀然倒地非偶爾。眾中還有緇素得二老出者麼？良久，云：設有，也是掉棒打月。或菴體禪師中秋上堂：天上中秋月，人間半夜燈，不辜黃面老，何媿黑衣卿？正按乾坤濶，旁提星斗明，朝昏門大啟，飲󲣅慶生平。壽寧道完禪師。上堂：古人見此月，今人見此月；此月鎮常存，古今人還別。若人心似月，碧潭光皎潔；決定是心源，此說更無說。咄！法泉佛慧禪師中秋上堂，畫一圓相，以手拓起云：諸仁者還見麼？團團離海嶠，漸漸出雲衢。諸人若也未見，莫道南明長老措大相，却與寶華王座上念中秋月詩；若也見得，此夜一輪滿，清光何處無？投子普聰禪師。中秋，上堂：寂住峰頂，葉落歸根，明月堂前，金風玉露。且道深秋一句作麼生道？良久，云：古往不知何處去，後夜依前月到󰈧。下座。泐潭景祥禪師中秋上堂：靈山話，曹谿指，放過初生斫頭底，未問龍眠老古錐，昨夜三更轉向西。正當恁麼時，有人問：如何是月？向明暗未分處道得一句，便與古人共出隻手；如或未然，寶峰不免依樣畫樣，應箇時節。乃打一圓相，曰：清光萬古復千古，豈止人間一夜看？虎丘隆禪師中秋日上堂云：摩竭掩室，毗耶杜詞，斯皆理為神御，故口以之而默。豈曰無辯？辯所",
+              "FromLb": "0300c15",
+              "ToLb": "0300c18",
+              "Kwic": "法泉佛慧禪師中秋上堂，畫一圓相，以手拓起云：諸仁者還見麼？團團離海嶠，漸漸出雲衢。諸人若也未見，莫道南明長老措大相，却與寶華王座上念中秋月詩；若也見得，此夜一輪滿，清光何處無？",
               "MasterName": "Jiangshan Faquan",
               "Curated": true,
               "ContextMasters": [
@@ -298306,61 +298103,30 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs (列祖提綱錄). Speaker: Jiangshan Faquan."
-            }
-          ],
-          "SourceTexts": [
-            "J/J27/J27nB192.xml",
-            "X/X64/X64n1260.xml"
-          ],
-          "RelatedMasters": [
-            "Daxiu Zhu",
-            "Xueyan Zuqin",
-            "Jiangshan Faquan"
-          ],
-          "RelatedTerms": [],
-          "ClaimAnchors": [],
-          "Explanation": "Round and full, it leaves the sea peaks; gradually, it emerges onto the cloudy road. The moon-rise couplet is offered as an answer and then tested by later speakers. Daxiu Zhu answers with the line. Xueyan Zuqin and Jiangshan Faquan each give it directly in separate Mid-Autumn addresses while raising a whisk."
-        }
-      ]
-    },
-    {
-      "Id": "t_425412de7fa5",
-      "SourceTerm": "團團離海嶠、漸漸出雲衢",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "author_from_packet",
-      "WrittenUtc": "2026-07-19T15:42:32.099953Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "round and full, it leaves the sea peaks and gradually rises onto the cloud road",
-          "AlternateTargets": [
-            "the round moon rises from sea to clouds"
-          ],
-          "SearchAliases": [
-            "round moon leaves sea rises clouds"
-          ],
-          "Status": "preferred",
-          "Validation": "multi-source",
-          "Note": "8 exact hits occur in 7 works; retained evidence ranges from Faquan Fohui to Daxiu Zhu.",
-          "Occurrences": [
+              "AttributionNote": "Source record (X/X64/X64n1260.xml). Jiangshan Faquan Fohui lifts a circle in his Mid-Autumn sermon and voices the couplet to the assembly."
+            },
             {
-              "RelPath": "X/X64/X64n1260.xml",
-              "FromLb": "0300c10",
-              "ToLb": "0300c21",
-              "Kwic": "星斗明，朝昏門大啟，飲󲣅慶生平。壽寧道完禪師。上堂：古人見此月，今人見此月；此月鎮常存，古今人還別。若人心似月，碧潭光皎潔；決定是心源，此說更無說。咄！法泉佛慧禪師中秋上堂，畫一圓相，以手拓起云：諸仁者還見麼？團團離海嶠，漸漸出雲衢。諸人若也未見，莫道南明長老措大相，却與寶華王座上念中秋月詩；若也見得，此夜一輪滿，清光何處無？投子普聰禪師。中秋，上堂：寂住峰頂，葉落歸根，明月堂前，金風玉露。且道深秋一句作麼生道？良久，云：古往不知何處去，",
+              "RelPath": "J/J40/J40nB494.xml",
+              "FromLb": "0567a19",
+              "ToLb": "0567a26",
+              "Kwic": "中秋，示眾。舉：「古人云：『團團離海嶠，漸漸出雲衢。』咄！這隨聲逐色漢眼花作麼？若是箇奮打破虛空、喝散白雲底氣概，眼底何嘗有他太陰天子？可笑古人望上心不足，見箇圓陀陀、光爍爍，便云：何時得似這箇去？縱饒得似，眼中已是添了一重花，況有風雨晦暝、隱身不現底時節，你又向何處窺他頭腦？此無他，都緣坐在明昧兩岐，不能如有智主人將功德天、黑暗女一齊趁出。",
               "MasterName": null,
               "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs. Faquan Fohui voices the headword-bearing wording in the retained direct-turn boundary.",
-              "EvidenceRole": "variant",
-              "VariantForm": "團團離海嶠，漸漸出雲衢",
-              "VariantKind": "editorial-punctuation",
+              "ContextMasters": [
+                {
+                  "MasterName": "Yushan Shangsi",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J40/J40nB494.xml). Yushan introduces the inherited couplet with 古人云, then criticizes grasping at its bright moon image; the older poet is unnamed in this turn.",
+              "EvidenceRole": "active-quotation",
               "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "named master absent from current link roster",
-                "ActorLabel": "Faquan Fohui",
+                "Status": "reviewed-unnamed",
+                "Kind": "unnamed earlier verse speaker",
+                "ActorLabel": "unnamed ancient poet",
                 "ActorRole": "utterer",
                 "RungsChecked": [
                   "line",
@@ -298370,86 +298136,48 @@
                   "tei-header",
                   "parallel-passage"
                 ],
-                "GrammarEvidence": "The complete case marks the headword at the direct-turn boundary attributed here to Faquan Fohui.",
-                "ReviewedBy": "Codex c131",
-                "ReviewedUtc": "2026-07-19T15:42:32.099953Z"
+                "GrammarEvidence": "古人云 explicitly frames the exact couplet as earlier speech; Yushan’s 咄 and critique follow outside the quote.",
+                "ReviewedBy": "Codex quality duplicate merge 2026-10-29",
+                "ReviewedUtc": "2026-10-29T00:00:00Z",
+                "AuthoredVoiceRiskReviewed": true
               }
             },
             {
-              "RelPath": "J/J40/J40nB494.xml",
-              "FromLb": "0567a15",
-              "ToLb": "0567a24",
-              "Kwic": "知，豈小根俗子所能測識？今日承令嗣伯仲以道事親，特請山僧對靈說法，蓋翁與山僧平日有支許之好，故誼不容辭，特來為之證據。且道證據箇甚麼？」良久，云：「濁惡世中留不住，眾香國裏好安居。」中秋，示眾。舉：「古人云：『團團離海嶠，漸漸出雲衢。』咄！這隨聲逐色漢眼花作麼？若是箇奮打破虛空、喝散白雲底氣概，眼底何嘗有他太陰天子？可笑古人望上心不足，見箇圓陀陀、光爍爍，便云：何時得似這箇去？縱饒得似，眼中已是添了一重花，況有風雨晦暝、隱身不現底時節，你",
-              "MasterName": "Yushan Shangsi",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Yushan Shangsi",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan Shangsi voices the headword-bearing wording in the retained direct-turn boundary.",
-              "EvidenceRole": "variant",
-              "VariantForm": "團團離海嶠，漸漸出雲衢",
-              "VariantKind": "editorial-punctuation"
-            },
-            {
               "RelPath": "X/X67/X67n1304.xml",
-              "FromLb": "0350c10",
-              "ToLb": "0350c20",
-              "Kwic": "若被覓著時，如何抵擬他？洞山代云：被他覓得也。林泉道：曹司易勘，一欵便招。這僧雖是臨渴掘井，一鍬便見黃泉。儻能如此隱身，何必慞惶怖懼？頌曰：寒月依依上遠峰，平湖萬頃練光封。漁歌驚起汀洲鷺，飛出蘆花不見蹤。師云：團團離海嶠，漸漸出雲衢，此夜一輪滿，清光何處無？趙州云：至道無難，唯嫌揀擇。纔有語言，是揀擇？是明白？老僧不在明白裏，是汝還護惜也無？時有僧問：和尚既不在明白裏，護惜箇甚麼？州云：我亦不知。僧云：既不知，為甚麼不在明白裏？州云：問事",
+              "FromLb": "0350c11",
+              "ToLb": "0350c17",
+              "Kwic": "林泉道：曹司易勘，一欵便招。這僧雖是臨渴掘井，一鍬便見黃泉。儻能如此隱身，何必慞惶怖懼？頌曰：寒月依依上遠峰，平湖萬頃練光封。漁歌驚起汀洲鷺，飛出蘆花不見蹤。師云：團團離海嶠，漸漸出雲衢，此夜一輪滿，清光何處無？",
               "MasterName": "Linquan Conglun",
               "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Linquan Conglun",
                   "Roles": [
-                    "utterer"
+                    "utterer",
+                    "commentator"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X67/X67n1304.xml). Elder Linquan’s Commentary and Chanted Remarks on Chan Master Danxia Zichun’s Verses on Ancient Cases: Xutang Collection. Linquan Conglun voices the headword-bearing wording in the retained direct-turn boundary.",
-              "EvidenceRole": "variant",
-              "VariantForm": "團團離海嶠，漸漸出雲衢",
-              "VariantKind": "editorial-punctuation"
-            },
-            {
-              "RelPath": "J/J27/J27nB192.xml",
-              "FromLb": "0193b13",
-              "ToLb": "0193b22",
-              "Kwic": "山僧今朝結舌。結制與結舌是同？還是別？一二三四五六七，七六五四三二一，搕󵉿堆邊蘿蔔頭，十字街前攤瓦礫。擬心於此覓玄微，管保驢年猶未徹。」喝一喝，下座。晚參解制晚參。僧問：「一句了然，如何得脫塵離垢？」師云：「團團離海嶠，漸漸出雲衢。」進云：「恁麼則蓋天蓋地去也。」師便打云：「不出山僧這一棒。」乃舉：「洞山云：『諸兄弟！東去西去，直須向萬里無寸草去。』有者道：『出門便是草。』又有道：『不出門，亦是草芊芊地。』」師云：「二尊宿恁麼答話，未免落草；",
-              "MasterName": "Daxiu Zhu",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Daxiu Zhu",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J27/J27nB192.xml). Recorded Sayings of Chan Master Daxiu Zhu. Daxiu Zhu voices the headword-bearing wording in the retained direct-turn boundary.",
-              "EvidenceRole": "variant",
-              "VariantForm": "團團離海嶠，漸漸出雲衢",
-              "VariantKind": "editorial-punctuation"
+              "AttributionNote": "Source record (X/X67/X67n1304.xml). Linquan comments on the preceding ghost case and uses the moon couplet in his post-verse remark introduced by 師云.",
+              "EvidenceRole": "active-quotation"
             }
           ],
           "SourceTexts": [
+            "J/J27/J27nB192.xml",
             "X/X64/X64n1260.xml",
             "J/J40/J40nB494.xml",
-            "X/X67/X67n1304.xml",
-            "J/J27/J27nB192.xml"
+            "X/X67/X67n1304.xml"
           ],
           "RelatedMasters": [
+            "Daxiu Zhu",
+            "Xueyan Zuqin",
+            "Jiangshan Faquan",
             "Yushan Shangsi",
-            "Linquan Conglun",
-            "Daxiu Zhu"
+            "Linquan Conglun"
           ],
           "RelatedTerms": [],
           "ClaimAnchors": [],
-          "Explanation": "A round moon emerges from the sea peaks and climbs the cloud road. Mid-autumn addresses use its rising visibility, while later speakers challenge attachment to the bright circular display."
+          "Explanation": "The couplet pictures a full moon rising past the sea peaks and through the clouds. Daxiu answers a monk with it; Xueyan and Faquan voice it while handling the moon image in separate Mid-Autumn sermons. Yushan quotes an unnamed earlier speaker and challenges attachment to the image. Linquan places the couplet after a ghost-case verse in a separate comment."
         }
       ]
     },
@@ -361881,7 +361609,7 @@
     {
       "Id": "t_94f424853f5b",
       "SourceTerm": "孟子",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+      "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
       "CreatedBy": "Codex f004 A918-925 reviewer6 author repair",
       "WrittenUtc": "2026-07-19T03:23:22.023942+00:00",
       "Senses": [
@@ -361899,7 +361627,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "5 full-case witnesses distinguish speech, quotation, narration, and documentary uses.",
+          "Note": "Mencius is cited as a thinker: Juelang addresses his teaching on guarded solitude; Zhongfeng compares his account of inborn virtue with practice; Yongjue and Yulin cite knowing nature and conduct in adversity. Yanju takes the phrase “neither assist nor forget” into a live exchange with two strikes.",
           "Occurrences": [
             {
               "RelPath": "J/J25/J25nB174.xml",
@@ -361908,7 +361636,7 @@
               "Kwic": "榷部蘭陽陶菴陳公過訪榷部蘭陽陶菴陳公過訪孟子善言乎慎獨，去存二字最幾希；分明指出兩條路，千古令人不自欺。",
               "Curated": true,
               "MasterName": "Juelang Daosheng",
-              "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. Speaker: Juelang Daosheng.",
+              "AttributionNote": "Source record (J/J25/J25nB174.xml). Zen corpus source: Exact headword actor: Juelang Daosheng. The complete headword-bearing unit was read before attribution.",
               "ContextMasters": [
                 {
                   "MasterName": "Juelang Daosheng",
@@ -361917,7 +361645,8 @@
                     "record-owner"
                   ]
                 }
-              ]
+              ],
+              "ContextActors": []
             },
             {
               "RelPath": "B/B25/B25n0145.xml",
@@ -361925,7 +361654,7 @@
               "ToLb": "0720b15",
               "Kwic": "內。或不加舂炊礱磨之勞。徒知具足之虛談。終莫能得止飢之實效。猶儒家論仁義。亦豈心外之物。故孟子謂。我固有之矣。非從外得也。然不有真履實踐之功顛沛造次孳孳不忘。則亦徒有仁義之本心耳。故吾佛祖謂。本來具足猶古鏡之有光。",
               "Curated": true,
-              "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Speaker: Zhongfeng Mingben.",
+              "AttributionNote": "Source record (B/B25/B25n0145.xml). Zen corpus source: Exact headword actor: Zhongfeng Mingben. The complete headword-bearing unit was read before attribution.",
               "ContextMasters": [
                 {
                   "MasterName": "Zhongfeng Mingben",
@@ -361934,7 +361663,8 @@
                   ]
                 }
               ],
-              "MasterName": "Zhongfeng Mingben"
+              "MasterName": "Zhongfeng Mingben",
+              "ContextActors": []
             },
             {
               "RelPath": "X/X72/X72n1437.xml",
@@ -361942,7 +361672,7 @@
               "ToLb": "0396b01",
               "Kwic": "諸君尋常茶飯就地輥將去，冀諸君得箇入處，如中庸開口便道：天命之謂性。大學開口便道：明明德。孟子亦云：盡心知性。豈不是以識心達本為宗極？如孔子云：予欲無言。又云：默而識之。子貢云：夫子之文章可得而聞也，夫子之言性與天",
               "Curated": true,
-              "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian. Speaker: Yongjue Yuanxian.",
+              "AttributionNote": "Source record (X/X72/X72n1437.xml). Zen corpus source: Exact headword actor: Yongjue Yuanxian. The complete headword-bearing unit was read before attribution.",
               "ContextMasters": [
                 {
                   "MasterName": "Yongjue Yuanxian",
@@ -361951,7 +361681,8 @@
                   ]
                 }
               ],
-              "MasterName": "Yongjue Yuanxian"
+              "MasterName": "Yongjue Yuanxian",
+              "ContextActors": []
             },
             {
               "RelPath": "B/B27/B27n0152.xml",
@@ -361959,7 +361690,7 @@
               "ToLb": "0578b02",
               "Kwic": "利天人願與上坐共之示住靜諸子示住靜諸子今人無論他事不如古人即住靜多可愧愧夫子曰隱居以求其志孟子曰窮則獨善其身非但世外高蹤雖人間賢聖如舜歷山傳版築伊尹有莘諸葛南陽勞心苦形樂道忘世何嘗作君相想若夫風穴七載單丁汾陽入請高",
               "Curated": true,
-              "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Speaker: Yulin Tongxiu.",
+              "AttributionNote": "Source record (B/B27/B27n0152.xml). Zen corpus source: Exact headword actor: Yulin Tongxiu. The complete headword-bearing unit was read before attribution.",
               "ContextMasters": [
                 {
                   "MasterName": "Yulin Tongxiu",
@@ -361968,7 +361699,8 @@
                   ]
                 }
               ],
-              "MasterName": "Yulin Tongxiu"
+              "MasterName": "Yulin Tongxiu",
+              "ContextActors": []
             },
             {
               "RelPath": "J/J40/J40nB478.xml",
@@ -361976,7 +361708,7 @@
               "ToLb": "0092a19",
               "Kwic": "知下手處，常用知識攙和其間，分疏不下，所以與道相遠。」璧云：「請問和尚如何下手？」師云：「孟子所謂勿助勿忘便好下手。」璧云：「如何是勿助勿忘？」師擊棹一下，云：「還助得麼？」復擊一下，云：「還忘得麼？」璧停思，師云",
               "Curated": true,
-              "AttributionNote": "Source record (J/J40/J40nB478.xml). Recorded Sayings of Chan Master Yan Jushen of Yunshan. Speaker: Yanju Deshen.",
+              "AttributionNote": "Source record (J/J40/J40nB478.xml). Zen corpus source: Exact headword actor: Yanju Deshen. The complete headword-bearing unit was read before attribution.",
               "ContextMasters": [
                 {
                   "MasterName": "Yanju Deshen",
@@ -361985,7 +361717,8 @@
                   ]
                 }
               ],
-              "MasterName": "Yanju Deshen"
+              "MasterName": "Yanju Deshen",
+              "ContextActors": []
             }
           ],
           "ClaimAnchors": [],
@@ -362018,7 +361751,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "2 full-case witnesses distinguish speech, quotation, narration, and documentary uses.",
+          "Note": "The title names the text read as seven chapters in one preface. Dahui lists memorizing the Mencius among learned reading that can leave a practitioner’s own footing unclear.",
           "Occurrences": [
             {
               "RelPath": "J/J34/J34nB311.xml",
@@ -362026,7 +361759,7 @@
               "ToLb": "0591a12",
               "Kwic": "澹泊收拾不住者，都得皈師，換一頭面，翻一筋斗，而禪門之徒無論，玄門之徒又無論矣。不急嘗讀《孟子》七篇，至末章敘述堯文，至孔子見知聞知道統，皎於日星歸結，然而無有乎爾，則亦無有乎兩句著語，囫圇咬嚼不破，全似言語道斷，",
               "Curated": true,
-              "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. Speaker: Buji (不急).",
+              "AttributionNote": "Source record (J/J34/J34nB311.xml). Zen corpus source: Exact headword actor: Buji (不急). The complete headword-bearing unit was read before attribution.",
               "ContextMasters": [],
               "ActorAttribution": {
                 "Status": "identified-non-master",
@@ -362043,8 +361776,10 @@
                 ],
                 "GrammarEvidence": "不急嘗讀《孟子》七篇 names Buji as the preface author who says he read the seven chapters of Mencius.",
                 "ReviewedBy": "Codex f004 A916-925 safe full-case author",
-                "ReviewedUtc": "2026-07-19T03:11:14.950011+00:00"
-              }
+                "ReviewedUtc": "2026-07-19T03:11:14.950011+00:00",
+                "AuthoredVoiceRiskReviewed": true
+              },
+              "ContextActors": []
             },
             {
               "RelPath": "M/M59/M59n1540.xml",
@@ -362052,7 +361787,7 @@
               "ToLb": "0810a19",
               "Kwic": "讀得方書一似不曾便如參禪人讀得溈仰語錄曹洞宗派法眼語錄修山主偈頌乃至傳燈廣燈續燈更念得莊子孟子茄子瓠子脚跟下依舊黑漫漫地只為你這裏未明所以道欲識佛性義當觀時節因緣時節若至其理自彰今日因正甫郎中洎令嗣解元同此證明便是",
               "Curated": true,
-              "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Speaker: Dahui Zonggao.",
+              "AttributionNote": "Source record (M/M59/M59n1540.xml). Zen corpus source: Exact headword actor: Dahui Zonggao. The complete headword-bearing unit was read before attribution.",
               "ContextMasters": [
                 {
                   "MasterName": "Dahui Zonggao",
@@ -362061,7 +361796,8 @@
                   ]
                 }
               ],
-              "MasterName": "Dahui Zonggao"
+              "MasterName": "Dahui Zonggao",
+              "ContextActors": []
             }
           ],
           "ClaimAnchors": [],
