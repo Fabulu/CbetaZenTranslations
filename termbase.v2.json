@@ -336765,54 +336765,75 @@
               "FromLb": "0035b17",
               "ToLb": "0035c01",
               "Kwic": "，乃至不肖之事靡所不為，但於歲歲二三月忽動世間無嘗之想，便欲修行。念佛念過三日，覺得夢中無念非佛，過三月後，此念漸輕。乃至二十七歲上山作務有省，得管帶拘，心意日用嘗令昭昭然，即穿城入市做買做賣不肯放過。每繼日以夜胸中作痛，猶加炤顧。向緣家貧營繫，不能純一修行，至二十九歲纔得棄室。然追想來，解脫世間羈絆似有時節。「我棄室當夜，夢著新鞋一雙，於行路次一時脫落鞋底，遂因先父引見先師。三十歲乃出家，秪覺生死到來畢竟不穩當，於前境界愈加炤顧，愈加不穩當，二六時中看得心境兩立。古人道：『天地同根，萬物一體。』越看越成兩個。「因侍師入城舟次，請益本師，云：『你若到者田地，便乃放身倒臥，更無別語。』我只得禮拜，皆蒙益甚。「又一晚侍奉上榻，復請本師，本師良久見我不領，便云：『可憐可憐。』亦只得禮拜而退。嗣是周旋師側，惟加罵詈，我慚悶交感至大病汗流二七日方蘇，遂稟本師：『撩關時已虛度，三十有四矣。』一日，本師過關前閒話及有心無心之旨，本師云：『你既有心，把將心來。』我呈偈云：『自心本自心，心不自自心，心不非自心，心心即自心。』本師云：『心不自心，自心非心，有無既非，無自心耶？』復呈偈",
-              "MasterName": "Miyun Yuanwu",
+              "MasterName": "Sengzhao",
               "Curated": true,
               "ContextMasters": [
                 {
+                  "MasterName": "Sengzhao",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
                   "MasterName": "Miyun Yuanwu",
                   "Roles": [
-                    "record-owner",
-                    "commentator"
+                    "later-quoter",
+                    "commentator",
+                    "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J10/J10nA158.xml). Miyun Yuanwu uses or actively comments on the complete line in the present teaching turn; inherited first speaker remains earlier."
+              "AttributionNote": "Source record (J/J10/J10nA158.xml). This saying is identified in the retained Tianyin and Jieweizhou turns as words of Master Sengzhao. Miyun Yuanwu quotes or comments on those inherited words here."
             },
             {
               "RelPath": "J/J25/J25nB171.xml",
               "FromLb": "0513a29",
               "ToLb": "0513b12",
               "Kwic": "僧舉揚般若，眾中還有知恩報德衲子，出眾相見麼？」僧問：「如何是奪人不奪境？」師云：「腳下踏黃泥。」進云：「如何是奪境不奪人？」師云：「頭頂破屋漏。」進云：「如何是人境兩俱奪？」師云：「老僧這裏，也無說法者，亦無聽法者。」進云：「如何是人境俱不奪？」師便喝，乃云：「驀劄相逢便舉揚，拈來無事不相當，至誠一念超情念，敢保無虞日月長。天地覆育，父母生成，人所共恩，誰能報答？直須看到父母未生已前，親見一回，到這裏無恩不報、無德不酬，居士還委悉麼？不見當時陸亙大夫參南泉云：『肇法師道：「天地同根，萬物一體。」也甚奇怪。』泉指庭前牡丹云：『大夫！時人見此一株花，如夢相似。』當時南泉大師雖具驅耕夫牛、奪饑人食底手段，未能令大夫慶快去。今日居士若問山僧：『天地同根，萬物一體。』」驀豎起拂子云：「都盧在這裏。」放下拂子左右顧視云：「者裏若還親見得，酬恩報德在其間。」示眾，師云：「今朝臘月一，事事應當急，箇裏若茫然，看孔須著楔，莫待三十夜，手腳做不及。諸人還覺毛寒骨豎麼？切忌卜度。」便下座。臘八日上堂，師云：「此一瓣香，從雙徑諸德齎來，要老僧拈向爐中，熏我釋迦老子鼻孔，為天下衲僧出氣。",
-              "MasterName": "Tianyin Yuanxiu",
+              "MasterName": "Sengzhao",
               "Curated": true,
               "ContextMasters": [
                 {
+                  "MasterName": "Sengzhao",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
                   "MasterName": "Tianyin Yuanxiu",
                   "Roles": [
-                    "record-owner",
-                    "commentator"
+                    "later-quoter",
+                    "commentator",
+                    "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J25/J25nB171.xml). Tianyin Yuanxiu uses or actively comments on the complete line in the present teaching turn; inherited first speaker remains earlier."
+              "AttributionNote": "Source record (J/J25/J25nB171.xml). This saying is identified in the retained Tianyin and Jieweizhou turns as words of Master Sengzhao. Tianyin Yuanxiu quotes or comments on those inherited words here."
             },
             {
               "RelPath": "J/J28/J28nB205.xml",
               "FromLb": "0237c22",
               "ToLb": "0238a08",
               "Kwic": "父業自為家，不賣靈龜賣鱉蛇，特向人前輕一擲，遭他毒氣眼彌麻。」烏石靈觀禪師因雪峰來參，敲門，師云：「誰？」峰云：「鳳皇兒。」師云：「作什麼？」峰云：「來啗老鸛。」師便開門，搊住云：「道！道！」峰擬議，師便托開，閉卻門。峰住後，示眾云：「我當時若入得老鸛門，你這隊噇酒糟漢向什麼處摸索？」拈云：「烏石豈但把頭收尾，亦善回風戰將，若非頂門具眼，爭見雪峰氣急？直饒住後恁麼告報，未免上人門戶著賊。」頌云：「打鳳羅龍手自高，放收力不費纖毫。雖然靈翮縱橫去，未免投林惜羽毛。」陸亙大夫問南泉天地同根，萬物一體云云。拈云：「大夫雖是個俗漢，也識得肇公，只是未會天地同根、萬物一體。王老師縱有機關，猶似開眼說夢。」頌云：「風吹水面千層浪，月照山河萬壑明，步步綠陰全體現，踏花歌舞一身輕。」洪州寶峰和尚因僧參，師云：「其中事即易道，不落其中事始終難道。」僧云：「某甲在路時便知有此一問。」師云：「更與二十年行腳也不較多。」僧云：「莫不契和尚意麼？」師云：「苦瓜那堪待客。」拈云：「寶峰雖則撥火撩風，其僧不合向路中探人虛實。當時待峰云：『不落其中，始終難道。』便與劈脊一拳，且看者老漢向什麼處開口",
-              "MasterName": "Jieweizhou Xingzhou",
+              "MasterName": "Sengzhao",
               "Curated": true,
               "ContextMasters": [
                 {
+                  "MasterName": "Sengzhao",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
                   "MasterName": "Jieweizhou Xingzhou",
                   "Roles": [
-                    "record-owner",
-                    "commentator"
+                    "later-quoter",
+                    "commentator",
+                    "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB205.xml). Jieweizhou Xingzhou uses or actively comments on the complete line in the present teaching turn; inherited first speaker remains earlier."
+              "AttributionNote": "Source record (J/J28/J28nB205.xml). This saying is identified in the retained Tianyin and Jieweizhou turns as words of Master Sengzhao. Jieweizhou Xingzhou quotes or comments on those inherited words here."
             }
           ],
           "ClaimAnchors": [
@@ -336943,6 +336964,7 @@
             "Buhui Fatong",
             "Poshan Haiming",
             "Feiyin Tongrong",
+            "Sengzhao",
             "Miyun Yuanwu",
             "Tianyin Yuanxiu",
             "Jieweizhou Xingzhou"
@@ -717402,18 +717424,36 @@
               "FromLb": "0296c14",
               "ToLb": "0297a26",
               "Kwic": "不曾悟，現前大眾一箇箇都許他是出格道流，我總與炷香作禮三拜。為什麼如此？上來不消問、下去不消疑，無論是不是，是也不為奇。」喝一喝。示眾。「因緣所生法，我說即是空，亦云是假名，亦是中道義。盡大地是箇因緣法，總被空、假、中穿卻；盡大地是箇空、假、中法，總被因緣穿卻。」豎拂子，云：「盡大地是箇空、假、中因緣法，總被拂子穿卻，三世諸佛在拂子頭上放大光明，說實相義。」驀擲下，云：「忽然一擲，一時喪身失命，是汝諸人還覺腦門痛也無？」良久，云：「立地搆去，不是性燥漢。」解夏，示眾。「坐夏一百二十日，前後安居一時畢，雖然病得太郎當，病裏有些好消息。是什麼消息？病有死底消息。還有什麼消息？死有活底消息。死活即且置，是什麼病？紅孩兒向鼻梁上打了三拳，兩隻眼睛迸出千百道火光，是汝諸人還有鼻孔也無？若無鼻孔，也須摸著；若有鼻孔，也須打卻。打卻了鼻孔，始解與病僧同病；解與病僧同病，始能與病僧同死同活。與病僧同死，諸人獨活；與病僧同活，諸人獨死。同死同活，不見鼻孔；獨死獨活，鼻孔不見。既不見，打箇什麼？便不打，又見箇什麼？是汝諸人還有者箇消息也無？」良久，云：「設有者箇消息，更須打破面門始得。」示眾。「教中道：『父母所生眼，悉見三千界。』且道：三千界是有？是無？若是有，見箇什麼？若是無，喚什麼作見？祖師道：『父母所生口，終不為子說。』且道：口是有？是無？若是有，為什麼不說？若是無，不說底是什麼？且道：教中底是？祖師底是？一樣是父母所生，為什麼眼悉見、口不說？會麼？眼悉見、口不說，一箇玉連環，化作兩箇金蝴蜨，大千沙界海中漚，一切聖賢如電拂。」赴歸宗，示眾。以手自指云：「他是官身，總不自由；他既是官身，自也不由。大眾！要透過不自由則易，要透過自不由卻難。要透麼？直須放下又放下，放到無可放處，連者無可放底也放下，纔能勾向逆順境中，頭上著枷、腳下著杻，元是箇日日花朝、夜夜元宵。如或不然，心坎上一座須彌山，時時刻刻在眼睛裏，者箇累墜三生六十劫也未得了。還會麼？山僧今日遠行，山中事問取樂說大師始得。」示眾。「趙州與文遠侍者論義云：『鬥劣不鬥勝，勝者輸果子。』遠云：『請和尚立義。』州云：『我是一頭驢。』遠云：『我是驢胃。』州云：『我是驢糞。』遠云：『我是糞中蟲。』州云：『你在彼中作什麼？』遠云：『我在彼中過夏。』州云：『把將果子來。』」師云：「文遠供養情長，鬥爭氣短，趙州雖贏了些果子，卻也食不下咽。為什麼？養子不及父，家門一世衰",
-              "MasterName": "Dangui",
+              "MasterName": null,
               "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Dangui",
                   "Roles": [
-                    "record-owner",
-                    "commentator"
+                    "later-quoter",
+                    "commentator",
+                    "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J38/J38nB409.xml). Dangui actively uses or interprets the line in the present turn; any earlier speaker remains earlier."
+              "AttributionNote": "Source record (J/J38/J38nB409.xml). Dangui quotes the exact Lotus Sutra verse spoken by Shakyamuni Buddha, then interrogates its claim about seeing. Original verse verified in T/T09/T09n0262.xml.",
+              "ActorAttribution": {
+                "Status": "identified-non-master",
+                "Kind": "scriptural speaker",
+                "ActorLabel": "Shakyamuni Buddha",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "J38 explicitly introduces the line as words from the scriptures. In T09n0262, the Lotus Sutra narrator introduces the matching verse as spoken by the World Honored One.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "Codex source-first exact-turn review",
+                "ReviewedUtc": "2026-10-29T21:42:08.728640Z"
+              }
             }
           ],
           "ClaimAnchors": [
@@ -957748,18 +957788,25 @@
               "FromLb": "0736a21",
               "ToLb": "0736b11",
               "Kwic": "殿裏，行時、住時、坐時、臥時，只有這一件事死也不要放他，正當打併不開的去處，切莫將現成道理來解說、囫圇句子去搪塞。離心意識、絕去來今，將一具不伶不俐的死尸靈好歹交付在這一點兒上，天可憐間㘞地一聲，日子畢竟有個落處，到那時節方信老僧之言為不欺也，千生百劫只在一剎那間。努力，努力。」示眾。「銅墻鐵壁打不開時，切切不可放鬆了。這裏急著精彩，拚命一回，翻身轉來，多少慶快。」雲溪俍亭挺禪師語錄卷之三雲溪俍亭挺禪師語錄卷之四侍者智編普說普說。「古人道：『說得一丈，不如行得一尺。』又道：『說取行不得底，行取說不得底。』須知他古人說到行到，此事不耑在舌頭上。一千五百人善知識，向一句語言上辨出他是何等樣眼目，不屬有言、不屬無語，句中意、意中句，全不是識情湊泊得底。語不離窠臼，焉能出蓋纏？曹山設三種滲漏，情存向背，見處偏枯，機不離位，墮在毒海，貪妙失宗，機昧終始。一肚子泥牛木馬，白雪烏雞，奇言妙句，衝口而來，若于轉處留情，到底言成滲漏，豈況觸犯，所失尤多。參禪學道，要斷他腳根紅線，纔有一毫頭，便有一毫頭。古人頌云：『學道之人不識真，只為從前認識神。』又云：『喜識盡時消息盡，當人那辨濁中清？』",
-              "MasterName": "Liangting Jingting",
+              "MasterName": "Dongshan Liangjie",
               "Curated": true,
               "ContextMasters": [
                 {
+                  "MasterName": "Dongshan Liangjie",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
                   "MasterName": "Liangting Jingting",
                   "Roles": [
-                    "record-owner",
-                    "commentator"
+                    "later-quoter",
+                    "commentator",
+                    "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J33/J33nB294.xml). Liangting Jingting uses or actively interprets the whole line in the present teaching turn; an inherited first speaker remains earlier."
+              "AttributionNote": "Source record (J/J33/J33nB294.xml). The saying is attributed to Dongshan Liangjie in the retained J39 and J28 case turns; Liangting Jingting quotes or discusses it here."
             },
             {
               "RelPath": "J/J34/J34nB303.xml",
@@ -957772,48 +957819,63 @@
                 {
                   "MasterName": "Xieyun Jiji",
                   "Roles": [
+                    "utterer",
                     "record-owner",
                     "commentator"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J34/J34nB303.xml). Xieyun Jiji uses or actively interprets the whole line in the present teaching turn; an inherited first speaker remains earlier."
+              "AttributionNote": "Source record (J/J34/J34nB303.xml). Xieyun Jiji directly revoices the whole saying within practical counsel for retreat; the inherited original is Dongshan Liangjie."
             },
             {
               "RelPath": "J/J39/J39nB463.xml",
               "FromLb": "0795b16",
               "ToLb": "0795b28",
               "Kwic": "十八上尚作俗漢。」良久，云：「慚媿！慚媿！」舉：「玄沙一日與地藏在方丈坐話，夜深，沙云：『侍者關格子門了，汝作麼生出得？』藏云：『喚什麼作門？』雪竇顯別云：『珍重！』便行。清涼欽云：『和尚莫欲歇去。』」師云：「如斯答話，美則美矣，善則未善。當時但高聲云：『侍者。』自然七通八達，面面玲瓏，開門還是閉門人。」舉：「洞山因僧大慈來，乃問云：『大慈尋常有何言句示人？』僧云：『有時道：說得一丈，不如行取一尺；說得一尺，不如行取一寸。』山云：『我不恁麼道。』僧云：『和尚作麼生？』山云：『說取行不得底，行取說不得底。』後來雲居云：『行時無說路，說時無行路，不說不行時，合行甚麼路？』洛浦云：『行說俱到，即本分事無；行說俱不到，即本分事在。』」師云：「諸大老深譚玄玅，曲盡精微，可謂珠鑽九曲，玉解連環，煇煌天地，炫燿古今。若據洌上座見處，迥爾不同，也要諸方檢點。要說便說，有甚一尺一寸？要行便行，有甚到與不到？有人問：『何得恁麼？』我要問你：說又說個甚麼？行又行個甚麼？」舉：「仰山坐次，一僧參問訊，向東邊叉手立，目視仰山，山垂平左足；僧卻過西邊又手立，山垂下右足；僧向中聞叉手立，山收雙足。僧禮",
-              "MasterName": "Gumei Dinglie",
+              "MasterName": "Dongshan Liangjie",
               "Curated": true,
               "ContextMasters": [
                 {
+                  "MasterName": "Dongshan Liangjie",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
                   "MasterName": "Gumei Dinglie",
                   "Roles": [
-                    "record-owner",
-                    "commentator"
+                    "later-quoter",
+                    "commentator",
+                    "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J39/J39nB463.xml). Gumei Dinglie uses or actively interprets the whole line in the present teaching turn; an inherited first speaker remains earlier."
+              "AttributionNote": "Source record (J/J39/J39nB463.xml). The saying is attributed to Dongshan Liangjie in the retained J39 and J28 case turns; Gumei Dinglie quotes or discusses it here."
             },
             {
               "RelPath": "J/J28/J28nB203.xml",
               "FromLb": "0167b07",
               "ToLb": "0167b21",
               "Kwic": "還吞跳得麼？若吞跳得，不妨群陰剝盡；若吞跳不得，依舊一陽復生。」乃舉：「僧問古德：『如何是冬來意？』德云：『京師出大黃。』」師云：「古德雖有風馳電卷之威、石裂岩崩之作，要且不能使這僧點首。今夜或有問：『如何是冬來意？』山僧只向伊道：『印破虛空千丈月，洗清天地一林霜。』」晚參。僧問：「普濟家風即不問，如何是春來景？」師云：「沙暖睡鴛鴦。」進云：「恁麼則日月光天德，山河壯帝居去也。」師云：「非公境界。」乃舉：「大慈示眾云：『說得一丈不如行取一尺，說得一尺不如行取一寸。』洞山云：『說取行不得底，行取說不得底。』雲居云：『行時無說路，說時無行路，不說不行時，合行甚麼路？』洛浦云：『行說俱到即本分事無，行說俱不到即本分事在。』」師拈云：「這幾尊宿，雖則各明本地風光，共指當人要路；若據本分事，俱未夢見在。普濟見處也要諸人共知，饑時餐、渴時飲、閒時坐、困時眠，且道是何意旨？雲在嶺頭閒不徹，水流澗底太忙生。」佛成道日，上堂。拈拄杖，云：「釋迦世尊睹明星而悟，只悟得這箇。」復卓一卓，云：「眾生處塵勞而迷，只迷得這箇。拈卻迷悟兩頭，坐斷凡聖窠臼，直得上無攀仰、下絕己躬，淨裸裸、赤灑灑，無得、",
-              "MasterName": "Yun'e Xi",
+              "MasterName": "Dongshan Liangjie",
               "Curated": true,
               "ContextMasters": [
                 {
+                  "MasterName": "Dongshan Liangjie",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
                   "MasterName": "Yun'e Xi",
                   "Roles": [
-                    "record-owner",
-                    "commentator"
+                    "later-quoter",
+                    "commentator",
+                    "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB203.xml). Yun'e Xi currently interprets the complete line in a teaching turn; the inherited first speaker remains earlier."
+              "AttributionNote": "Source record (J/J28/J28nB203.xml). The saying is attributed to Dongshan Liangjie in the retained J39 and J28 case turns; Yun'e Xi quotes or discusses it here."
             }
           ],
           "ClaimAnchors": [
@@ -957901,6 +957963,7 @@
             "J/J28/J28nB203.xml"
           ],
           "RelatedMasters": [
+            "Dongshan Liangjie",
             "Liangting Jingting",
             "Xieyun Jiji",
             "Gumei Dinglie",
@@ -1060743,57 +1060806,64 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "The line says that people enter the boiling cauldron with their eyes openly set. Its retained verse explicitly follows the claim that innumerable foolish men and women were deceived.",
+          "Note": "Dahui's verse on the Buddha's birth is the original selected use. Miyun and Shanduo reuse the cauldron cap in their own verses on different cases. Kentang's different hall address is retained as one useful lamp witness.",
           "Occurrences": [
             {
-              "RelPath": "X/X66/X66n1297.xml",
-              "FromLb": "0275b11",
-              "ToLb": "0275b14",
-              "Kwic": "界內鼓烟塵。老漢纔生便著忙，周行七步似顛狂，賺他無限癡男女，開眼堂堂入鑊湯。從來家富產嬌兒",
-              "MasterName": null,
+              "RelPath": "T/T47/T47n1998A.xml",
+              "FromLb": "0850c13",
+              "ToLb": "0850c14",
+              "Kwic": "老漢纔生便著忙。周行七步似顛狂。賺他無限癡男女。開眼堂堂入鑊湯。",
+              "MasterName": "Dahui Zonggao",
               "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (X/X66/X66n1297.xml). Grove of the Mirror of the School. the governing speech, verse, question, or narration boundary assigns this wording here and not to the nearby heading.",
-              "ActorAttribution": {
-                "Status": "narrated",
-                "Kind": "compiler narration",
-                "ActorLabel": "the compiler of this record",
-                "ActorRole": "compiler",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title"
-                ],
-                "GrammarEvidence": "Full-case reading places the headword in editorial appraisal rather than in a quoted master’s direct turn.",
-                "ReviewedBy": "Codex C51-60 public rereview",
-                "ReviewedUtc": "2026-07-19T19:00:00Z"
-              }
+              "ContextMasters": [
+                {
+                  "MasterName": "Dahui Zonggao",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (T/T47/T47n1998A.xml). Dahui's own verse on the Buddha's birth; the cauldron line is its final judgment.",
+              "EvidenceRole": "original-use"
             },
             {
-              "RelPath": "C/C078/C078n1720.xml",
-              "FromLb": "0623b11",
-              "ToLb": "0623b14",
-              "Kwic": "第一眾生四十九年災老漢纔生便着忙周行七步似顛狂賺他無限癡男女開眼堂堂入鑊湯兜羅綿手指天地紺",
-              "MasterName": null,
+              "RelPath": "J/J10/J10nA158.xml",
+              "FromLb": "0055b28",
+              "ToLb": "0055b29",
+              "Kwic": "廬嶽宗師特異嘗，險行惡道作慈航，賺他無限癡男女，開眼堂堂入鑊湯。",
+              "MasterName": "Miyun Yuanwu",
               "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (C/C078/C078n1720.xml). Chan School: Comprehensive Linked-Pearls Collection of Verse Commentaries on Old Cases. Preface narration: the governing speech, verse, question, or narration boundary assigns this wording here and not to the nearby heading.",
-              "ActorAttribution": {
-                "Status": "narrated",
-                "Kind": "compiler narration",
-                "ActorLabel": "the preface author",
-                "ActorRole": "compiler",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title"
-                ],
-                "GrammarEvidence": "Full-case reading places the headword in editorial appraisal rather than in a quoted master’s direct turn.",
-                "ReviewedBy": "Codex C51-60 public rereview",
-                "ReviewedUtc": "2026-07-19T19:00:00Z"
-              }
+              "ContextMasters": [
+                {
+                  "MasterName": "Miyun Yuanwu",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J10/J10nA158.xml). Miyun reuses the final pair in his own verse on Guizong cutting the snake.",
+              "EvidenceRole": "original-use"
+            },
+            {
+              "RelPath": "J/J38/J38nB414.xml",
+              "FromLb": "0432a05",
+              "ToLb": "0432a06",
+              "Kwic": "聞驚吐舌已乖張，家醜那堪再外揚，累他無限癡男女，開眼堂堂入鑊湯。",
+              "MasterName": "Shanduo Zhenzai",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Shanduo Zhenzai",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J38/J38nB414.xml). Shanduo makes a new verse on Huangbo sticking out his tongue and uses the line as his cap.",
+              "EvidenceRole": "original-use"
             },
             {
               "RelPath": "X/X83/X83n1574.xml",
@@ -1060817,72 +1060887,18 @@
                   "tei-header",
                   "parallel-passage"
                 ],
-                "GrammarEvidence": "Kentang Yanchong: the full case explicitly assigns the headword-bearing clause to this named master.",
+                "GrammarEvidence": "The literal boundary “山畔與嵩頭陀、傅” remains within Kentang Yanchong's continuous hall address and assigns the headword-bearing line to him.",
                 "ReviewedBy": "Codex C51-60 public rereview",
-                "ReviewedUtc": "2026-07-19T19:00:00Z"
-              }
-            },
-            {
-              "RelPath": "X/X84/X84n1585.xml",
-              "FromLb": "0664a11",
-              "ToLb": "0664a13",
-              "Kwic": "山畔與嵩頭陀、傅大士一夥破落戶，依舊孟八郎，賺他無限癡男女，開眼堂堂入鑊湯。忽有箇衲僧出來",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (X/X84/X84n1585.xml). Drafts for the Continuation of the Lamp. Kentang Yanchong: the governing speech, verse, question, or narration boundary assigns this wording here and not to the nearby heading.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "explicit named master",
-                "ActorLabel": "Kentang Yanchong",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Kentang Yanchong: the full case explicitly assigns the headword-bearing clause to this named master.",
-                "ReviewedBy": "Codex C51-60 public rereview",
-                "ReviewedUtc": "2026-07-19T19:00:00Z"
-              }
-            },
-            {
-              "RelPath": "X/X82/X82n1571.xml",
-              "FromLb": "0135c24",
-              "ToLb": "0136a02",
-              "Kwic": "山畔與嵩頭陀、傅大士一火破落戶，依舊孟八郎，賺他無限癡男女，開眼堂堂入鑊湯。忽有箇衲僧出來",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120). Kentang Yanchong: the governing speech, verse, question, or narration boundary assigns this wording here and not to the nearby heading.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "explicit named master",
-                "ActorLabel": "Kentang Yanchong",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Kentang Yanchong: the full case explicitly assigns the headword-bearing clause to this named master.",
-                "ReviewedBy": "Codex C51-60 public rereview",
-                "ReviewedUtc": "2026-07-19T19:00:00Z"
+                "ReviewedUtc": "2026-07-19T19:00:00Z",
+                "AuthoredVoiceRiskReviewed": true
               }
             }
           ],
           "SourceTexts": [
-            "X/X66/X66n1297.xml",
-            "C/C078/C078n1720.xml",
-            "X/X83/X83n1574.xml",
-            "X/X84/X84n1585.xml",
-            "X/X82/X82n1571.xml"
+            "T/T47/T47n1998A.xml",
+            "J/J10/J10nA158.xml",
+            "J/J38/J38nB414.xml",
+            "X/X83/X83n1574.xml"
           ],
           "RelatedMasters": [],
           "RelatedTerms": [
@@ -1060890,7 +1060906,7 @@
             "七步"
           ],
           "ClaimAnchors": [],
-          "Explanation": "The line says that people enter the boiling cauldron with their eyes openly set; its retained verse explicitly follows the claim that innumerable foolish men and women were deceived. The first compendium applies the verse to the Buddha's birth narrative and says it deceived innumerable foolish people. Kentang Yanchong repeats the line in a hall address after grouping famous figures as a ruined household; three sources preserve that same use."
+          "Explanation": "The line says that people enter the boiling cauldron with their eyes open, even while the displayed teaching seems to guide them. Dahui ends his verse on the Buddha's birth with this line, after saying the display drew in countless foolish men and women. Miyun turns the same ending onto Guizong's snake-cutting case, while Shanduo applies it to Huangbo's startled tongue. The image therefore judges different celebrated displays, not one fixed event. The retained lamp preserves Kentang Yanchong's different hall address, where he turns the same ending against several revered figures."
         }
       ]
     },
