@@ -370833,7 +370833,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "The literal balance part is used in a warning not to mistake it for the hook’s intent.",
+          "Note": "The fixed balance pointer supplies an image for a visible mark that can distract from the point of the exchange.",
           "Occurrences": [
             {
               "RelPath": "J/J37/J37nB388.xml",
@@ -370845,7 +370845,7 @@
               "ActorAttribution": {
                 "Status": "identified-unlinked-master",
                 "Kind": "quoted named speaker",
-                "ActorLabel": "Yuan",
+                "ActorLabel": "Kaishan Zhiyuan",
                 "ActorRole": "utterer",
                 "RungsChecked": [
                   "line",
@@ -370855,46 +370855,105 @@
                   "tei-header",
                   "parallel-passage"
                 ],
-                "GrammarEvidence": "淵云 explicitly assigns the quotation; no roster-safe full identity is supplied in the card."
+                "GrammarEvidence": "The case names Kaishan Zhiyuan and then says Yuan spoke the quoted exact line.",
+                "ReviewedBy": "r10_author_a2 source-first review",
+                "ReviewedUtc": "2026-10-30T00:00:00Z",
+                "AuthoredVoiceRiskReviewed": true
               },
-              "ContextMasters": [],
-              "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Yikui of Shending. The record quotes Yuan’s warning."
-            }
-          ],
-          "ClaimAnchors": [
+              "ContextMasters": [
+                {
+                  "MasterName": "Shending Yikui",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J37/J37nB388.xml). Shending quotes Kaishan Zhiyuan as the earlier speaker, then critiques the answer."
+            },
             {
-              "ClaimText": "領取鉤頭意",
+              "RelPath": "T/T48/T48n2003.xml",
+              "FromLb": "0159a05",
+              "ToLb": "0159a10",
+              "Kwic": "直饒洪波浩渺。白浪滔天。亦不在裏許蟠。雪竇到此頌了。後頭著些子眼目。琢出一箇無縫塔。隨後說道。層落落影團團。千古萬古與人看。爾作麼生看。即今在什麼處。直饒爾見得分明。也莫錯認定盤星。",
+              "MasterName": "Yuanwu Keqin",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yuanwu Keqin",
+                  "Roles": [
+                    "utterer",
+                    "commentator"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (T/T48/T48n2003.xml). Yuanwu Keqin uses the balance-pointer image in a Blue Cliff case commentary; the selected line is in the master's present turn."
+            },
+            {
+              "RelPath": "T/T47/T47n1997.xml",
+              "FromLb": "0751c16",
+              "ToLb": "0751c23",
+              "Kwic": "僧今夜向作家面前。不惜眉毛放行去也。但能上無攀仰下絕己躬。外不見大地山河內不立聞見覺知。直下擺脫情識一念不生。證本地風光。見本來面目。然後山是山水是水。僧是僧俗是俗。雖然莫錯認定盤星。更須知有解黏去縛向上機關始得。且道作麼生是向上事。鵰弓已掛狼煙息。萬里歌謠賀太平。",
+              "MasterName": "Yuanwu Keqin",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yuanwu Keqin",
+                  "Roles": [
+                    "utterer",
+                    "commentator"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (T/T47/T47n1997.xml). Yuanwu Keqin uses the balance-pointer image in a recorded sermon; the selected line is in the master's present turn."
+            },
+            {
+              "RelPath": "J/J39/J39nB468.xml",
+              "FromLb": "0902c19",
+              "ToLb": "0902c23",
+              "Kwic": "「霜寒露冷，月白風清，正當是時，雪山午夜一天星盡，大地眾生同見同明，同證如來智慧德相，更說甚麼妄想執著所隔，不能得證。釋迦老子，無端特端妄區分，誣陷平人，脫賺後代兒孫，個個錯認定盤星。」喝一喝，下座。",
+              "MasterName": "Shanyi Ruchun",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Shanyi Ruchun",
+                  "Roles": [
+                    "utterer",
+                    "commentator"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J39/J39nB468.xml). Shanyi Ruchun uses the balance-pointer image in a recorded sermon; the selected line is in the master's present turn."
+            },
+            {
               "RelPath": "J/J37/J37nB388.xml",
-              "FromLb": "0447b07",
-              "ToLb": "0447b08",
-              "Kwic": "如何曉會？』淵云：『領取鉤頭意，莫認定盤星。』」師云：「開山雖為慈悲之故，要且",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "quoted named speaker",
-                "ActorLabel": "Yuan",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "淵云 explicitly assigns the quotation; no roster-safe full identity is supplied in the card."
-              },
-              "ContextMasters": [],
-              "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Yikui of Shending. The record quotes Yuan’s warning.",
-              "Curated": true
+              "FromLb": "0447c29",
+              "ToLb": "0448a03",
+              "Kwic": "請上堂。問：「法幢鐘鼓塵埋久，龍象奔趨一日新，此日陞堂行祖合，頭頭法法盡皆春。如何是水到渠成句？」師云：「領取鉤頭意。」進云：「一彩兩賽。」師云：「莫認定盤星。」進云：「春色滿園關不住，一枝紅杏出牆來。」師云：「換卻人眼睛。」",
+              "MasterName": "Shending Yikui",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Shending Yikui",
+                  "Roles": [
+                    "utterer",
+                    "commentator"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J37/J37nB388.xml). Shending Yikui uses the balance-pointer image in a separate recorded exchange; the selected line is in the master's present turn."
             }
           ],
+          "ClaimAnchors": [],
           "SourceTexts": [
-            "C/C077/C077n1710.xml",
-            "J/J37/J37nB388.xml"
+            "J/J37/J37nB388.xml",
+            "J/J39/J39nB468.xml",
+            "T/T47/T47n1997.xml",
+            "T/T48/T48n2003.xml"
           ],
           "RelatedMasters": [],
           "RelatedTerms": [],
-          "Explanation": "The fixed pointer on a balance is the literal object named by the phrase. The retained Tier 2 witnesses preserve the warning, “receive the hook’s intent; do not mistake the fixed pointer on a balance.”"
+          "Explanation": "The fixed pointer on a balance is the calibration mark used when reading its beam. Kaishan warns a monk to grasp the intent at the hook rather than mistake the fixed pointer for it; Yuanwu, Shanyi, and Shending reuse the image to question a fixed reading of words or appearances."
         }
       ]
     },
