@@ -940822,50 +940822,91 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "The face-to-face presentation belongs to the public encounter: what is claimed must stand in the meeting rather than behind an explanation. The sense has 8 exact occurrences in 8 distinct works.",
+          "Note": "Three recorded-sayings masters apply the phrase in current talks. Distinct older lamp uses include Xianglin’s answer, Panshan’s sermon, Fachang’s conditional reply, Qianming Zhiying’s sermon, and an unattributed verse on Bodhidharma and Emperor Wu. The C078 verse and T51/X81 Qianming parallel recensions are not counted again.",
           "Occurrences": [
             {
-              "RelPath": "X/X82/X82n1571.xml",
-              "FromLb": "0002c19",
-              "ToLb": "0003a14",
-              "Kwic": "曰：有頭無尾。宋英宗治平中，示寂。平生行住坐臥之處，悉涌舍利。禪徒唱得衣物者，舍利日生。有於真前至誠求者，隨念示應。汝寧乾明則禪師汝寧乾明則禪師僧問：如何是海印三昧？師曰：但向己求。曰：學人不會。師曰：莫從他覓。問：如何是祖師西來意？師曰：清風生碧落。曰：意旨如何？師曰：明月映長江。常德乾明知應禪師常德乾明知應禪師上堂，僧問：蓮花未出水時如何？師曰：撐天拄地。曰：出水後如何？師曰：塞壑填溝。乃曰：馬祖陞堂，百丈捲席。火動烟生，雲擎雨色。覿面相呈，一何輕擲。重賞三千，輕酬八百。衡州南嶽雲峰元益禪師衡州南嶽雲峰元益禪師李林宗問：意欲出塵今未出，請師今日決疑情。師曰：作麼生是出塵底事？李惘然。師曰：還會麼？李忽有省，呈偈曰：心鏡從來瑩，洪河本是深。祇因師問後，沙石化為金。師曰：正趣地獄。李曰：人我無相，何為地獄？師曰：汝今何在？李曰：覿面不識。師曰：祇此是黃金。修撰曾會居士修撰曾會居士幼與明覺同舍，及冠異途。天禧間，公守池州，一日會于景德寺，公遂引中庸、大學，參以楞嚴，符宗門語句質",
+              "RelPath": "J/J28/J28nB202.xml",
+              "FromLb": "0056c10",
+              "ToLb": "0056c15",
+              "Kwic": "劉門超鳳請上堂。「盡十方剎海微塵，同一箇太平日月，遍世界女男凡聖，共一箇無位真人。覿面相呈，色聲不到，當陽拓起，背觸俱非，惟許具夙根利智底機先領旨，言外超宗，徹見鋒芒，拈來便用，自然風飛雷厲，迥異常流，鳳髻拖光，萱幃耀彩。且道：山僧與麼說，還當得馬氏延生句也無？",
+              "MasterName": "Baichi Xingyuan",
               "Curated": true,
-              "MasterName": "Baizhang Huaihai",
-              "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120): Baizhang Huaihai carries the exact headword-bearing clause after complete-case actor review.",
               "ContextMasters": [
                 {
-                  "MasterName": "Baizhang Huaihai",
+                  "MasterName": "Baichi Xingyuan",
                   "Roles": [
-                    "utterer"
+                    "utterer",
+                    "record-owner"
                   ]
                 }
-              ]
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB202.xml). Baichi’s present hall sermon applies face-to-face presentation to the unranked true person before challenging the assembly.",
+              "EvidenceRole": "original-use"
+            },
+            {
+              "RelPath": "J/J39/J39nB453.xml",
+              "FromLb": "0575b30",
+              "ToLb": "0575c04",
+              "Kwic": "岸眉文達月鷺為師本賢禪宿入塔，請上堂。「金風透體，明明空劫以前；玉露垂珠，歷歷威音之後。可中有一段陰陽不能潛伏、天地不能覆載，於本賢分上便見花披日月、捏聚山河。只今覿面相呈，且又作麼生分付？未曾言外超玄象，盡屬華胥一夢人。",
+              "MasterName": "Yuanjie Jingying",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yuanjie Jingying",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J39/J39nB453.xml). Yuanjie’s present memorial hall sermon asks how to hand over what is now presented face-to-face.",
+              "EvidenceRole": "original-use"
+            },
+            {
+              "RelPath": "J/J40/J40nB490.xml",
+              "FromLb": "0461a29",
+              "ToLb": "0461a30",
+              "Kwic": "小參。「志非不高，謀非不深，放過一著，枉用搜尋。不放過底如何？覿面相呈，誠為費力，隔山相見，未是知音。」",
+              "MasterName": "Suru Honghan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Suru Honghan",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J40/J40nB490.xml). Suru’s present small-group talk pairs a face-to-face presentation with meeting across a mountain.",
+              "EvidenceRole": "original-use"
             },
             {
               "RelPath": "X/X78/X78n1556.xml",
-              "FromLb": "0647b18",
-              "ToLb": "0647c12",
-              "Kwic": "曰：未審意旨如何？師云：闍梨還記得麼？僧曰：適來已祇對和尚了也。師云：禍出私門。問：如何是無縫塔？師云：合掌當胸。僧曰：如何是塔中人？師云：露也。問：大道真源，如何得到？師云：問者是誰？僧曰：作何道業，即得與道相應？師云：無儞用心處。問：三乘十二分教即不問，如何是宗門中事？師云：檀特、羅浮。僧曰：學人未省，乞師垂示。師云：幸不去遠。問：大肯底人更有疑也無？師云：冥冥獨語。問：大了底人如何決擇？師云：驀過多少？問：如何是祖師西來意？師云：覿面相呈，更無餘事。僧曰：十二時中如何履踐？師云：不用氣力。問：如何是三身佛？師云：狐非師子類。僧曰：如何是三身中人？師云：燈非日月明。問：佛法兩字為什麼轉說轉新？師云：與天下人作牓樣。僧曰：直得句下無私時如何？師云：進道有門。問：滅音王已前，是什麼人先悟？師云：名流天地。問：如何是西來的的意？師云：坐久成勞。僧曰：便回轉時如何？師云：墮落深坑。問：如何是地獄中人？師云：瞥然多劫。僧曰：修何行業即得如是？師云：不改舊時容。僧曰：畢竟如何？師云：",
-              "Curated": true,
+              "FromLb": "0647c02",
+              "ToLb": "0647c03",
+              "Kwic": "問：如何是祖師西來意？師云：覿面相呈，更無餘事。",
               "MasterName": "Xianglin Chengyuan",
-              "AttributionNote": "Source record (X/X78/X78n1556.xml). Jianzhong Jingguo Continued Lamp Record: Xianglin Chengyuan carries the exact headword-bearing clause after complete-case actor review.",
+              "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Xianglin Chengyuan",
                   "Roles": [
-                    "utterer"
+                    "utterer",
+                    "record-owner"
                   ]
                 }
-              ]
+              ],
+              "AttributionNote": "Source record (X/X78/X78n1556.xml). In Xianglin’s older answer to the meaning of the patriarch’s coming, 師云 directly gives the phrase.",
+              "EvidenceRole": "original-use"
             },
             {
               "RelPath": "X/X80/X80n1565.xml",
-              "FromLb": "0077b12",
-              "ToLb": "0077c06",
-              "Kwic": "禪德譬如擲劒揮空。莫論及之不及。斯乃空輪無迹。劒刃無虧。若能如是。心心無知。全心即佛。全佛即人。人佛無異。始為道矣。上堂。禪德。可中學道。似地擎山。不知山之孤峻。如石含玉。不知玉之無瑕。若如此者。是名出家。故導師云。法本不相礙。三際亦復然。無為無事人。猶是金鎻難。所以靈源獨耀。道絕無生。大智非明。真空無迹。真如凡聖。皆是夢言。佛及涅槃。並為增語。禪德直須自看。無人替代。上堂。三界無法。何處求心。四大本空。佛依何住。璿璣不動。寂爾無言。覿面相呈。更無餘事。珍重。師將順世。告眾曰。有人邈得吾真否。眾將所寫真呈。皆不契師意。普化出曰。某甲邈得。師曰。何不呈似老僧。化乃打筋斗而出。師曰。這漢向後掣風狂去在。師乃奄化。諡凝寂大師。蒲州麻谷山寶徹禪師蒲州麻谷山寶徹禪師侍馬祖行次。問。如何是大涅槃。祖曰。急。師曰。急箇甚麼。祖曰。看水。師使扇次。僧問。風性常住。無處不周。和尚為甚麼却搖扇。師曰。你祇知風性常住。且不知無處不周。曰。作麼生是無處不周底道理。師却搖扇。僧作禮。師曰。無用處師僧。",
-              "Curated": true,
+              "FromLb": "0077b20",
+              "ToLb": "0077b21",
+              "Kwic": "上堂。三界無法。何處求心。四大本空。佛依何住。璿璣不動。寂爾無言。覿面相呈。更無餘事。珍重。",
               "MasterName": "Panshan Baoji",
-              "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium: Panshan Baoji carries the exact headword-bearing clause after complete-case actor review.",
+              "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Panshan Baoji",
@@ -940873,144 +940914,43 @@
                     "utterer"
                   ]
                 }
-              ]
-            },
-            {
-              "RelPath": "T/T51/T51n2077.xml",
-              "FromLb": "0500b12",
-              "ToLb": "0500c06",
-              "Kwic": "不須尋討。投筆奄息。闍維多靈異茲不盡具獲設利五色。同靈骨塔于寺北三峯菴。興陽清剖禪師郢州興陽清剖禪師。在大陽作園頭。種瓜次。陽問。甜瓜何時得熟。師曰。即今熟爛了也。曰揀甜底摘來。師曰。與甚麼人喫。曰不入園者。師曰。未審不入園者還喫也無。曰汝還識伊麼。師曰。雖然不識不得不與。陽笑而去。住後上堂。西來大道理絕百非。句裏投機全乖妙旨。不已而已有屈祖宗。豈況忉忉有何所益。雖然如是事無一向。且於唱教門中。通一線道大家商量。僧問。娑竭出海乾坤震。覿面相呈事若何。師曰。金翅鳥王當宇宙。箇中誰是出頭人。曰忽遇出頭時又作麼生。師曰。似鶻提鳩君不信。髑髏前驗始知真。曰恁麼則叉手當胸退身三步也。師曰。須彌座下烏龜子。莫待重遭點額回。問從上諸聖向甚麼處去。師曰。月照千江靜。孤燈海底明。鄭金部問。和尚甚麼時開堂。師曰。不歷僧祇數。日月未生前。師臥疾次。大陽問。是身如泡幻泡幻中成辦。若無箇泡幻大事無由辦。若要大事辦識取箇泡幻作麼生。師曰。猶是這邊事。陽曰。那邊事作麼生。師曰。匝地紅輪透。海底不栽花。陽笑曰。",
-              "Curated": true,
-              "MasterName": null,
-              "AttributionNote": "Source record (T/T51/T51n2077.xml). Continued Record of the Transmission of the Lamp: the compiler narrating the headword-bearing clause carries the exact headword-bearing clause after complete-case actor review.",
-              "ContextMasters": [],
-              "ActorAttribution": {
-                "Status": "narrated",
-                "Kind": "compiler narrative",
-                "ActorLabel": "the compiler narrating the headword-bearing clause",
-                "ActorRole": "compiler",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "The full stored unit was read around 覿面相呈; its grammar does not license assigning the headword to a roster master from book ownership alone. Semantic boundary for this actor ruling: The face-to-face presentation belongs to the public encounter: what is claimed must stand in the meeting rather than behind an explanation.",
-                "ReviewedBy": "Codex non-Iriya cohort author",
-                "ReviewedUtc": "2026-07-19T13:41:09.731852+00:00"
-              }
-            },
-            {
-              "RelPath": "X/X66/X66n1297.xml",
-              "FromLb": "0310c16",
-              "ToLb": "0311a17",
-              "Kwic": "無聖便驚狂，梁王殿上無謀略，剛被胡人亂一場。廓然一鏃遼天，不識重下錐刺。梁帝不知何處去，千古萬古無消息。煉得通紅打一鎚，周遭無數火星飛，十成好個金剛鑽，攤向門前賣與誰？第一義，廓兮寥兮超象帝，不把多年曆日看，爭辨春分并夏至？遼東白鶴去無蹤，三山半落青天外。不解作客，勞煩主人，面無慙色，少喜多瞋。始鳴阿閣一聲鐘，日暖蒼龍睡正濃；再擊鳳凰臺上鼓，半夜祥鸞未飛舞。帝基永固如磐石，胡僧虗費平生力；回指少林歸去來，春風一陣花狼藉。廓然無聖露全身，覿面相呈已隔津莫問梁󳬛并魏苑，一花五葉自然春。黃金鑿，白玉椎，鑿開混沌竅，透出玄妙機。金烏飛上玉䦨干，黑漆崑崙對面看，畢竟者些傳不得，落花流水太無端。提起須彌第一槌，玉門金鎖擊難開，重施背蹋空勞力，應悔迢迢萬里來。萬浪千波一葦橫，翩翩隻影可憐生，老蕭若會截流句，楊子江頭放你行。廓然無聖，來機徑庭。得非犯鼻而揮斤，失不回頭而墮甑。寥寥冷坐少林，默默全提正令。秋清月轉霜輪，河澹斗垂夜柄。繩繩衣鉢付兒孫，從此人天成藥病。陌上多開菜麥花，銜泥紫燕畵梁家",
-              "Curated": true,
-              "MasterName": null,
-              "AttributionNote": "Source record (X/X66/X66n1297.xml). Grove of the Mirror of the School: the compiler narrating the headword-bearing clause carries the exact headword-bearing clause after complete-case actor review.",
-              "ContextMasters": [
-                {
-                  "MasterName": "Sanshan Denglai",
-                  "Roles": [
-                    "record-owner"
-                  ]
-                }
               ],
-              "ActorAttribution": {
-                "Status": "narrated",
-                "Kind": "compiler narrative",
-                "ActorLabel": "the compiler narrating the headword-bearing clause",
-                "ActorRole": "compiler",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "The full stored unit was read around 覿面相呈; its grammar does not license assigning the headword to a roster master from book ownership alone. Semantic boundary for this actor ruling: The face-to-face presentation belongs to the public encounter: what is claimed must stand in the meeting rather than behind an explanation.",
-                "ReviewedBy": "Codex non-Iriya cohort author",
-                "ReviewedUtc": "2026-07-19T13:41:09.731852+00:00"
-              }
-            },
-            {
-              "RelPath": "X/X81/X81n1568.xml",
-              "FromLb": "0094a20",
-              "ToLb": "0094b14",
-              "Kwic": "異，茲不盡具。獲設利，五色同靈骨。塔于寺北三峰庵。郢州興陽清剖禪師郢州興陽清剖禪師在大陽作園頭，種瓜次，陽問：甜瓜何時得熟？師曰：即今熟爛了也。曰：揀甜底摘來。師曰：與甚麼人喫？曰：不入園者。師曰：未審不入園者還喫也無？曰：汝還識伊麼？師曰：雖然不識，不得不與。陽笑而去。住後，上堂：西來大道，理絕百非。句裏投機，全乖妙旨。不已而已，有屈祖宗。豈況忉忉，有何所益？雖然如是，事無一向。且於唱教門中，通一線道，大家商量。僧問：娑竭出海乾坤震，覿面相呈事若何？師曰：金翅鳥王當宇宙，箇中誰是出頭人？曰：忽遇出頭時又作麼生？師曰：似鶻提鳩君不信，髑髏前驗始知真。曰：恁麼則叉手當胷，退身三步也。師曰：須彌座下烏龜子，莫待重遭點額回。問：從上諸聖向甚麼處去？師曰：月照千江靜，孤燈海底明。鄭金部問：和尚甚麼時開堂？師曰：不歷僧祇數，日月未生前。師臥疾次，大陽問：是身如泡幻，泡幻中成辦。若無箇泡幻，大事無由辦。若要大事辦，識取箇泡幻作麼生？師曰：猶是這邊事。陽曰：那邊事作麼生？師曰：匝地紅輪秀，",
-              "Curated": true,
-              "MasterName": null,
-              "AttributionNote": "Source record (X/X81/X81n1568.xml). Strict Lineage of the Five Lamps (Vols. 10–25): the unnamed questioning monk carries the exact headword-bearing clause after complete-case actor review.",
-              "ContextMasters": [],
-              "ActorAttribution": {
-                "Status": "reviewed-unnamed",
-                "Kind": "monastic interlocutor",
-                "ActorLabel": "the unnamed questioning monk",
-                "ActorRole": "questioner",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "The bounded turn begins with the question marker and carries the headword before the master's following answer; the unnamed monk, not the record owner, utters it. Semantic boundary for this actor ruling: The face-to-face presentation belongs to the public encounter: what is claimed must stand in the meeting rather than behind an explanation.",
-                "ReviewedBy": "Codex non-Iriya cohort author",
-                "ReviewedUtc": "2026-07-19T13:41:09.731852+00:00"
-              }
-            },
-            {
-              "RelPath": "C/C078/C078n1720.xml",
-              "FromLb": "0646a24",
-              "ToLb": "0646c05",
-              "Kwic": "村閒將一叚秦川錦裁作人間巧婦衣幾度者來呈伎倆暗中曲調少人知遠泛鯨濤入大梁廓然無聖對君王可憐寸徑無人鑑却與相如依舊藏不解作客勞煩主人面無慚色少喜多嗔始鳴阿閣一聲鍾日暖蒼龍睡正濃再擊鳳凰臺上鼓半夜祥鸞未飛舞帝基永固如盤石胡僧虗費平生力回指少林歸去來春風一陣花狼藉展陣開旗便要贏誰知䘖駕不親征把定鏘旗𭣣陣脚直向熊峯不出兵當時卞璧親持献未遇徒然更再三折韋渡江江上水滔滔今古色如藍西天屠子氣雄豪欺負神州罪莫逃梁帝當頭輕一拶果然提起活人刀廓然無聖露全身覿面相呈已隔津莫問梁邦并魏苑一花五葉自然春胡僧對漢主廓然無聖語復云不識渠神驥捉老鼠捉不着千里清光渾失却黃金鑿白玉椎鑒開混沌竅透出玄元機老胡元不渡長江孰謂曾將一葦航堪咲普通年遠事兒孫多是錯商量踏翻地軸地不動推倒天關天更高穩泛鐵舡歸少室至今天下起風濤強將不識鼓唇牙胡語如何亂得華若使老蕭皮有血定應趕逐過流沙一言既出駟難追賴遇梁王放過伊楊子江頭航折葦浪頭何似問頭危五葉芬敷自一花無人圖𦽦剪根芽不教着脚金陵地猶恨蕭梁未作家金烏飛上玉闌干黑漆崑崙對面看畢竟這",
-              "Curated": true,
-              "MasterName": null,
-              "AttributionNote": "Source record (C/C078/C078n1720.xml). Chan School: Comprehensive Linked-Pearls Collection of Verse Commentaries on Old Cases: the compiler narrating the headword-bearing clause carries the exact headword-bearing clause after complete-case actor review.",
-              "ContextMasters": [],
-              "ActorAttribution": {
-                "Status": "narrated",
-                "Kind": "compiler narrative",
-                "ActorLabel": "the compiler narrating the headword-bearing clause",
-                "ActorRole": "compiler",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "The full stored unit was read around 覿面相呈; its grammar does not license assigning the headword to a roster master from book ownership alone. Semantic boundary for this actor ruling: The face-to-face presentation belongs to the public encounter: what is claimed must stand in the meeting rather than behind an explanation.",
-                "ReviewedBy": "Codex non-Iriya cohort author",
-                "ReviewedUtc": "2026-07-19T13:41:09.731852+00:00"
-              }
+              "AttributionNote": "Source record (X/X80/X80n1565.xml). After his own 上堂 marker, Panshan concludes a teaching on the three realms with this phrase.",
+              "EvidenceRole": "original-use"
             },
             {
               "RelPath": "X/X79/X79n1559.xml",
-              "FromLb": "0298c21",
-              "ToLb": "0299a17",
-              "Kwic": "劒刃裏藏身。雲居這裏，寒天熱水洗脚，夜間脫襪打睡，早朝旋打行纏。風吹籬頭倒，喚人夫劈篾縛起。北禪智賢禪師法嗣北禪智賢禪師法嗣隆興府法昌倚遇禪師隆興府法昌倚遇禪師臨漳高亭人也，族林氏。幼棄家，依郡之崇福得度。有大志，自受具游方，名著叢席。浮山遠禪師甞指謂人曰：此後學行脚樣子也。辭遠，謁芭蕉庵主，又謁圓通、興化諸名宿。留北禪最久，於是師資敲唱，妙出一時。晚至西山，睠雙嶺深䆳，捿息三年，始應法昌之請。上堂曰：你若退身千尺，我便當處生芽；你若覿面相呈，我便藏身露影；你若春池拾礫，我便撒下明珠。直得水灑不著、風吹不入，如箇無孔鐵錘相似。且道法昌還有為人處麼？遂曰：利刀割肉瘡猶合，惡語傷人恨不消。上堂：春山青，春水綠，一覺南柯夢初足。携笻縱步出松門，是處桃英香馥郁。因思昔日靈雲老，三十年來無處討。如今競愛摘楊華，紅香滿地無人掃。上堂，拈起拄杖曰：我若拈起，你便喚作先照後用；我若放下，你便喚作先用後照；我若擲下，你便喚作照用同時。忽然不拈不放，你向甚麼處卜度？直饒會得倜儻分明，若遇臨濟、德山，便須腦門著地。",
+              "FromLb": "0299a06",
+              "ToLb": "0299a07",
+              "Kwic": "上堂曰：你若退身千尺，我便當處生芽；你若覿面相呈，我便藏身露影；",
+              "MasterName": "Fachang Yiyu",
               "Curated": true,
-              "MasterName": null,
-              "AttributionNote": "Source record (X/X79/X79n1559.xml). Jiatai Universal Lamp Record: the unnamed lay or monastic interlocutor carries the exact headword-bearing clause after complete-case actor review.",
               "ContextMasters": [
                 {
                   "MasterName": "Fachang Yiyu",
                   "Roles": [
-                    "record-owner"
+                    "utterer"
                   ]
                 }
               ],
+              "AttributionNote": "Source record (X/X79/X79n1559.xml). Fachang’s 上堂曰 introduces his own conditional contrast between withdrawal and face-to-face presentation.",
+              "EvidenceRole": "original-use"
+            },
+            {
+              "RelPath": "X/X82/X82n1571.xml",
+              "FromLb": "0003a02",
+              "ToLb": "0003a05",
+              "Kwic": "常德乾明知應禪師常德乾明知應禪師上堂，僧問：蓮花未出水時如何？師曰：撐天拄地。曰：出水後如何？師曰：塞壑填溝。乃曰：馬祖陞堂，百丈捲席。火動烟生，雲擎雨色。覿面相呈，一何輕擲。重賞三千，輕酬八百。",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [],
+              "AttributionNote": "Source record (X/X82/X82n1571.xml). The section explicitly names Qianming Zhiying and 乃曰 introduces his own hall-sermon line; the published attribution to Baizhang Huaihai crossed a section boundary.",
+              "EvidenceRole": "original-use",
               "ActorAttribution": {
-                "Status": "reviewed-unnamed",
-                "Kind": "recorded interlocutor",
-                "ActorLabel": "the unnamed lay or monastic interlocutor",
-                "ActorRole": "interlocutor",
+                "Status": "identified-unlinked-master",
+                "Kind": "named Chan master",
+                "ActorLabel": "Qianming Zhiying",
+                "ActorRole": "utterer",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -941019,34 +940959,65 @@
                   "tei-header",
                   "parallel-passage"
                 ],
-                "GrammarEvidence": "The full stored unit was read around 覿面相呈; its grammar does not license assigning the headword to a roster master from book ownership alone. Semantic boundary for this actor ruling: The face-to-face presentation belongs to the public encounter: what is claimed must stand in the meeting rather than behind an explanation.",
-                "ReviewedBy": "Codex non-Iriya cohort author",
-                "ReviewedUtc": "2026-07-19T13:41:09.731852+00:00"
+                "GrammarEvidence": "The heading 常德乾明知應禪師 precedes this 上堂; 乃曰 governs 覿面相呈，一何輕擲.",
+                "ReviewedBy": "Codex quality repair 2026-10-29",
+                "ReviewedUtc": "2026-10-29T00:00:00Z",
+                "AuthoredVoiceRiskReviewed": true
               }
+            },
+            {
+              "RelPath": "X/X66/X66n1297.xml",
+              "FromLb": "0311a04",
+              "ToLb": "0311a05",
+              "Kwic": "廓然無聖露全身，覿面相呈已隔津莫問梁󳬛并魏苑，一花五葉自然春。",
+              "Curated": true,
+              "MasterName": null,
+              "AttributionNote": "Source record (X/X66/X66n1297.xml). An unattributed verse in the compiler’s Bodhidharma–Liang sequence says that even face-to-face presentation is already separated; C078 transmits the same verse and is excluded as a parallel.",
+              "ContextMasters": [],
+              "ActorAttribution": {
+                "Status": "reviewed-unnamed",
+                "Kind": "anonymous collected poem author",
+                "ActorLabel": "the unnamed author of this collected poem",
+                "ActorRole": "verse-author",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "GrammarEvidence": "The headword occurs inside the four-line verse 廓然無聖露全身，覿面相呈已隔津…; the stored anthology context does not attach a recoverable author heading to this individual verse.",
+                "ReviewedBy": "Codex replacement indices 167-169 repair",
+                "ReviewedUtc": "2026-07-23T12:00:00Z",
+                "AuthoredVoiceRiskReviewed": true
+              },
+              "EvidenceRole": "active-quotation"
             }
           ],
           "ClaimAnchors": [],
           "SourceTexts": [
-            "X/X82/X82n1571.xml",
+            "J/J28/J28nB202.xml",
+            "J/J39/J39nB453.xml",
+            "J/J40/J40nB490.xml",
             "X/X78/X78n1556.xml",
             "X/X80/X80n1565.xml",
-            "T/T51/T51n2077.xml",
-            "X/X66/X66n1297.xml",
-            "X/X81/X81n1568.xml",
-            "C/C078/C078n1720.xml",
-            "X/X79/X79n1559.xml"
+            "X/X79/X79n1559.xml",
+            "X/X82/X82n1571.xml",
+            "X/X66/X66n1297.xml"
           ],
           "RelatedMasters": [
-            "Baizhang Huaihai",
+            "Baichi Xingyuan",
+            "Yuanjie Jingying",
+            "Suru Honghan",
             "Xianglin Chengyuan",
             "Panshan Baoji",
-            "Sanshan Denglai",
             "Fachang Yiyu"
           ],
           "RelatedTerms": [
             "覿面"
           ],
-          "Explanation": "To present it face-to-face is to bring the matter directly before another person without concealment or distance. The phrase asks what can be shown in immediate meeting and can claim that the scene itself already presents it."
+          "Explanation": "To present something face-to-face is to put it directly before another person in the encounter. Baichi, Yuanjie, and Suru use the phrase in separate present talks: an assembly instruction, a memorial handover, and a contrast with distant meeting. Xianglin gives it as an answer; Panshan closes a sermon with it; Fachang makes it one side of a conditional reply. Qianming asks whether such presentation has been thrown away, while an unattributed verse says it already leaves a gap."
         }
       ]
     },
