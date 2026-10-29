@@ -44431,7 +44431,7 @@
     {
       "Id": "t_04d3a10b2fef",
       "SourceTerm": "丈夫自有衝天氣，不向如來行處行",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+      "CorpusBaselineSha256": "aa125d97f0eb402daef67596f649888e27f51e20e5bddf96189344b406ef3bf1",
       "CreatedBy": "author_from_packet",
       "WrittenUtc": "2026-07-21T21:40:07.942668Z",
       "Senses": [
@@ -44476,57 +44476,6 @@
           "RelatedTerms": [],
           "ClaimAnchors": [],
           "Explanation": "Changlu sets independent action against following even the Tathagata’s tracks: the true man’s own energy surges to the sky. Changlu asks where someone beyond choosing one side and escaping the other actually walks, then gives the full couplet. The line contrasts one's own sky-surging energy with following the Tathagata's path."
-        }
-      ]
-    },
-    {
-      "Id": "t_a345e7091fc6",
-      "SourceTerm": "丈夫自有衝天氣，不向如來行處行",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "author_from_packet",
-      "WrittenUtc": "2026-07-21T21:40:07.942668Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "a true man has energy that surges to the sky and does not walk where the Tathagata walked",
-          "AlternateTargets": [],
-          "SearchAliases": [
-            "spirit surging to heaven",
-            "not walk in the Tathagata’s tracks",
-            "a true man’s sky-piercing force"
-          ],
-          "Status": "preferred",
-          "Validation": "provisional",
-          "Note": "The line refuses borrowed tracks in Changlu’s address; it does not deny that the Tathagata appears elsewhere in the record.",
-          "Occurrences": [
-            {
-              "RelPath": "X/X79/X79n1557.xml",
-              "FromLb": "0251c22",
-              "ToLb": "0251c24",
-              "Kwic": "處。且道是甚處人行履？良久，云：丈夫自有衝天氣，不向如來行處行。示眾云：上士相逢，休存目擊。祖",
-              "MasterName": "Changlu Timing",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Changlu Timing",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X79/X79n1557.xml). Essential Compendium of the United Lamp. The complete section identifies Changlu Timing as the speaker who utters the headword."
-            }
-          ],
-          "SourceTexts": [
-            "X/X79/X79n1557.xml"
-          ],
-          "RelatedMasters": [
-            "Changlu Timing"
-          ],
-          "RelatedTerms": [],
-          "ClaimAnchors": [],
-          "Explanation": "Changlu sets independent action against following even the Tathagata’s tracks: the true man’s own energy surges to the sky. Changlu Timing asks where someone who passes beyond selecting one side and escaping the other actually walks. After a pause, he answers with the full couplet and then continues by warning that even mutual recognition can remain in the thorn forest."
         }
       ]
     },
@@ -187117,139 +187066,6 @@
     },
     {
       "Id": "t_378dc2fe7aed",
-      "SourceTerm": "八萬四千非鳳毛，三十三人入虎穴",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "author_from_packet",
-      "WrittenUtc": "2026-07-19T16:33:15.312278Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "the multitude without phoenix feathers and the thirty-three in the tiger cave",
-          "AlternateTargets": [],
-          "SearchAliases": [
-            "the multitude without phoenix feathers and the thirty-three in the tiger cave"
-          ],
-          "Status": "preferred",
-          "Validation": "multi-source",
-          "Note": "The numbers and animals remain the saying’s imagery; the sources do not identify a literal census.",
-          "Occurrences": [
-            {
-              "RelPath": "X/X64/X64n1260.xml",
-              "FromLb": "0242a24",
-              "ToLb": "0242b10",
-              "Kwic": "熱性相類，風不待月而涼氣相合。獨樹不成林，單絲不成線。建大廈非一木之能，濟巨川非一棹之力。所以道：眾毛成毬，聚鐵成𨨞。要須內外相應，賓主和融，自然氣類相同，羽毛相似。正與麼時如何？八萬四千非鳳毛，三十三人入虎穴。復有頌云：三十餘員雲水客，諸方分化力行持。山門庶事渾依賴，正是金毛奮迅時。真淨文禪師因發化主，上堂：出家沙門當清淨自活，以乞食為正命食，不過分離憍慢故；以乞法為正念，增長智慧不滯寂故。驀拈拄杖云：你有拄杖子，與你拄杖子",
-              "MasterName": "Yuanwu Keqin",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Yuanwu Keqin",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs. Yuanwu Keqin uses the pair while dispatching alms solicitors; the complete case markers keep the headword-bearing clause in that voice."
-            },
-            {
-              "RelPath": "J/J36/J36nB362.xml",
-              "FromLb": "0743c01",
-              "ToLb": "0743c10",
-              "Kwic": "供養天界善世堂上前住本山覺浪盛大和尚，用酬法乳。」遂斂衣就座。白椎畢，師曰：「諸佛遞相出世，俱免不得者一椎。還有當爐不避火迸者出來。」乃曰：「建法幢，立宗旨，明明佛敕曹溪是。所以八萬四千非鳳毛，三十三人入虎穴。聖諦不為，大藏小藏從何處來；石頭路滑，東土西天自者裏去。共住不知名，邈摸難成；同行不同步，提掇不起。寶鏡當空，光披五位，則有君有臣，有父有子，箇箇始解奉重，人人尊貴自居。威音那畔，田地穩密。空劫已前，家風日盛。高捲洞簾，露出好山秀色；",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded Sayings of Chan Master Guantaoqi. Guantao Qi uses the pair in his inaugural address; the complete case markers keep the headword-bearing clause in that voice.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "named master",
-                "ActorLabel": "Guantao Qi",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Guantao Qi uses the pair in his inaugural address; the complete case markers keep the headword-bearing clause in that voice.",
-                "ReviewedBy": "author_from_packet",
-                "ReviewedUtc": "2026-07-19T16:33:15.312278Z"
-              }
-            },
-            {
-              "RelPath": "J/J33/J33nB284.xml",
-              "FromLb": "0435b28",
-              "ToLb": "0435c07",
-              "Kwic": "此培福基，與須彌同壽、與法界並禧。」上堂。「七月秋，何處熱？軟似綿、硬似鐵，恁麼會，便親切。浮山九帶、汾陽三訣，亂世戈矛、叢林妖孽，不是抑他先聖，恐人北其轅、南其轍。」震聲喝云：「八萬四千非鳳毛，三十三人入虎穴。」張府祖保初度、宗幢薙髮，上堂。「杲日麗天，瑞氣連綿，海光清潔，山色鮮妍。砧聲清午夢，桂氣叫寒蟬。披緇者喜逢佛域，增算者張設華筵。丫角童傳霞觴以衍慶，曹家女拂玉柱而調絃。山僧拄杖聻？」連卓杖云：「儂只與麼，又誰管你兩重",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (J/J33/J33nB284.xml). Later Record of Chan Master Yezhu of Mount Song in Yizhou. Yezhu closes the hall address with the pair; the complete case markers keep the headword-bearing clause in that voice.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "named master",
-                "ActorLabel": "Yezhu",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Yezhu closes the hall address with the pair; the complete case markers keep the headword-bearing clause in that voice.",
-                "ReviewedBy": "author_from_packet",
-                "ReviewedUtc": "2026-07-19T16:33:15.312278Z"
-              }
-            },
-            {
-              "RelPath": "J/J40/J40nB477.xml",
-              "FromLb": "0073c29",
-              "ToLb": "0074a08",
-              "Kwic": "行天下遍，將軍塞外絕煙塵。」卓一卓，結椎，下座。結夏，上堂。「古人云：『不得動著，動著三十棒。』芙蓉則不然，盡大地是圓覺伽藍，遍法界是當人自己。結也得，不結也得。」顧視左右，云：「八萬四千非鳳毛，三十三人入虎穴。」喝一喝，下座。上堂。「不落因果墮，不昧因果脫，兩枚野狐精，千古成話墮。阿呵呵！會也麼？前是梯雲峰，後是老龍壑。」喝一喝，云：「一聲霹靂起飛龍，斗轉星馳鯨浪闊。」拈棒下座，大眾一時走散。佛成道日，上堂。「六載雪山，如癡",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (J/J40/J40nB477.xml). Recorded Sayings of Chan Master Tianyixiang. Tianyi Xiang uses the pair at the close of a summer address; the complete case markers keep the headword-bearing clause in that voice.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "named master",
-                "ActorLabel": "Tianyi Xiang",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Tianyi Xiang uses the pair at the close of a summer address; the complete case markers keep the headword-bearing clause in that voice.",
-                "ReviewedBy": "author_from_packet",
-                "ReviewedUtc": "2026-07-19T16:33:15.312278Z"
-              }
-            }
-          ],
-          "SourceTexts": [
-            "X/X64/X64n1260.xml",
-            "J/J36/J36nB362.xml",
-            "J/J33/J33nB284.xml",
-            "J/J40/J40nB477.xml"
-          ],
-          "RelatedMasters": [
-            "Yuanwu Keqin"
-          ],
-          "RelatedTerms": [],
-          "ClaimAnchors": [],
-          "Explanation": "The pair contrasts an immense multitude with a small group that enters the tiger’s cave. Yuanwu Keqin uses the pair while dispatching alms solicitors. Guantao Qi uses the pair in his inaugural address. Yezhu closes the hall address with the pair. Tianyi Xiang uses the pair at the close of a summer address."
-        }
-      ]
-    },
-    {
-      "Id": "t_df17db591f42",
       "SourceTerm": "八萬四千非鳳毛，三十三人入虎穴",
       "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
       "CreatedBy": "author_from_packet",
@@ -504092,119 +503908,9 @@
       ]
     },
     {
-      "Id": "t_38c69cc4b7ab",
-      "SourceTerm": "掣電之機，徒勞佇思",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "author_from_packet",
-      "WrittenUtc": "2026-07-19T14:59:25.202262Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "a lightning-flash mechanism makes waiting to think futile",
-          "AlternateTargets": [],
-          "SearchAliases": [
-            "lightning-fast mechanism",
-            "no time to stop and think",
-            "waiting in thought is wasted"
-          ],
-          "Status": "preferred",
-          "Validation": "multi-source",
-          "Note": "The wording condemns the delayed pause in these encounters; it does not ban every kind of thought outside the attested frame.",
-          "Occurrences": [
-            {
-              "RelPath": "X/X83/X83n1578.xml",
-              "FromLb": "0660c06",
-              "ToLb": "0660c16",
-              "Kwic": "放一線道，有個葛藤處。遂敲禪牀一下，曰：三世諸佛盡皆頭痛。且道大眾還有免得底麼？若一人免得，無有是處；若免不得，海印發光。師乃竪起拂子，曰：這個是印，那個是光？這個是光，那個是印？掣電之機，徒勞佇思。會麼？老僧說夢，且道夢見個甚麼？南柯十更若不會，聽取一頌：北斗挂須彌，杖頭挑日月。林泉有商量，夏末秋風切。珍重！示眾：三世諸佛不知有，狸奴白牯却知有。乃拈起拂子，云：狸奴白牯總在這裏放光動地，何為如此兩段不同？妙喜曰：",
-              "MasterName": "Cuiyan Shouzhi",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Cuiyan Shouzhi",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X83/X83n1578.xml). Record Pointing at the Moon. Cuiyan Shouzhi says that with a lightning-flash mechanism, waiting in thought is wasted effort."
-            },
-            {
-              "RelPath": "J/J23/J23nB134.xml",
-              "FromLb": "0542a11",
-              "ToLb": "0542a16",
-              "Kwic": "師云：「掣電之機，徒勞佇思。」問：「千聖不傳，古今不歷，如何是和尚接人一句？」師云：「觸忤老兄得麼？」進云：「如何是接人一句？」師云：「作麼？」問：「有何逕要令學人心息？」師云：「放你三十棒。」問：「目前坦然時如何？」師云：「海水在汝頭上。」進云",
-              "MasterName": "Yunmen Wenyan",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Yunmen Wenyan",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J23/J23nB134.xml). Recorded Sayings of the Five Houses (Selections). Yunmen Wenyan answers the monk’s question about what Kasyapa heard with the lightning-flash warning."
-            },
-            {
-              "RelPath": "X/X81/X81n1568.xml",
-              "FromLb": "0045c07",
-              "ToLb": "0045c16",
-              "Kwic": "一線道，有箇葛藤處。遂敲禪牀一下，曰：三世諸佛，盡皆頭痛。且道大眾還有免得底麼？若一人免得，無有是處。若免不得，海印發光。師乃竪起拂子，曰：這箇是印，那箇是光？這箇是光，那箇是印？掣電之機，徒勞佇思。會麼？老僧說夢，且道夢見箇甚麼？南柯十更。若不會，聽取一頌：北斗挂須彌，杖頭挑日月。林泉好商量，夏末秋風切。珍重！問：如何是祖師西來意？師曰：天寒日短。問：心法無形，如何雕琢？師曰：一丁兩丁。曰：未曉者如何領會？師曰：",
-              "MasterName": "Cuiyan Shouzhi",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Cuiyan Shouzhi",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X81/X81n1568.xml). Strict Lineage of the Five Lamps (Vols. 10–25). Cuiyan Shouzhi utters the same lightning-flash warning in an independent recension of his address."
-            },
-            {
-              "RelPath": "X/X81/X81n1571.xml",
-              "FromLb": "0530c15",
-              "ToLb": "0530c20",
-              "Kwic": "師曰：掣電之機，徒勞佇思。師因僧侍立，問曰：汝得恁麼麤心？僧曰：甚麼處是某甲麤心處？師拈一塊土度與僧曰：拋向門前著。僧拋了，却來曰：甚麼處是某甲麤心處？師曰：我見築著磕著，所以道汝麤心。師問羅山：僧問巖頭：浩浩塵中如何辨主？頭曰：銅沙鑼裏滿盛油",
-              "MasterName": "Baofu Congzhan",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Baofu Congzhan",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X81/X81n1571.xml). Complete Five Lamps (Vols. 1–33). Baofu Congzhan gives the warning after the monk lowers his head and pauses."
-            }
-          ],
-          "SourceTexts": [
-            "X/X83/X83n1578.xml",
-            "J/J23/J23nB134.xml",
-            "X/X81/X81n1568.xml",
-            "X/X81/X81n1571.xml"
-          ],
-          "RelatedMasters": [
-            "Baofu Congzhan",
-            "Cuiyan Shouzhi",
-            "Yunmen Wenyan"
-          ],
-          "RelatedTerms": [
-            "石火電光",
-            "佇思停機"
-          ],
-          "ClaimAnchors": [],
-          "Explanation": "The paired warning says that a mechanism moving like lightning leaves waiting thought too late. Cuiyan Shouzhi raises his whisk and immediately gives the pair; Yunmen Wenyan answers a question about Kasyapa hearing at Vulture Peak with it; a second work transmits Cuiyan’s address; Baofu Congzhan gives it after an unidentified questioner lowers his head and waits."
-        }
-      ]
-    },
-    {
       "Id": "t_5fd534202619",
       "SourceTerm": "掣電之機，徒勞佇思",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+      "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
       "CreatedBy": "author_from_packet",
       "WrittenUtc": "2026-07-19T14:59:25.202262Z",
       "Senses": [
@@ -504220,25 +503926,8 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "The wording condemns the delayed pause in these encounters; it does not ban every kind of thought outside the attested frame.",
+          "Note": "Cuiyan's same hall address also appears in X83n1578; that parallel transport is excluded from displayed references.",
           "Occurrences": [
-            {
-              "RelPath": "X/X83/X83n1578.xml",
-              "FromLb": "0660c06",
-              "ToLb": "0660c16",
-              "Kwic": "放一線道，有個葛藤處。遂敲禪牀一下，曰：三世諸佛盡皆頭痛。且道大眾還有免得底麼？若一人免得，無有是處；若免不得，海印發光。師乃竪起拂子，曰：這個是印，那個是光？這個是光，那個是印？掣電之機，徒勞佇思。會麼？老僧說夢，且道夢見個甚麼？南柯十更若不會，聽取一頌：北斗挂須彌，杖頭挑日月。林泉有商量，夏末秋風切。珍重！示眾：三世諸佛不知有，狸奴白牯却知有。乃拈起拂子，云：狸奴白牯總在這裏放光動地，何為如此兩段不同？妙喜曰：",
-              "MasterName": "Cuiyan Shouzhi",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Cuiyan Shouzhi",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X83/X83n1578.xml). Record Pointing at the Moon. Cuiyan Shouzhi says that with a lightning-flash mechanism, waiting in thought is wasted effort."
-            },
             {
               "RelPath": "J/J23/J23nB134.xml",
               "FromLb": "0542a11",
@@ -504307,7 +503996,7 @@
             "佇思停機"
           ],
           "ClaimAnchors": [],
-          "Explanation": "The paired warning says that a mechanism moving like lightning leaves waiting thought too late. Cuiyan Shouzhi raises his whisk and immediately gives the pair; Yunmen Wenyan answers a question about Kasyapa hearing at Vulture Peak with it; a second work transmits Cuiyan’s address; Baofu Congzhan gives it after an unidentified questioner lowers his head and waits."
+          "Explanation": "The paired warning says that a mechanism moving like lightning leaves waiting thought too late. Yunmen Wenyan gives the pair as an immediate answer; Cuiyan Shouzhi raises his whisk and gives it in a hall address; Baofu Congzhan gives it after an unidentified questioner lowers his head and waits."
         }
       ]
     },
@@ -748714,119 +748403,9 @@
       ]
     },
     {
-      "Id": "t_967e293a078b",
-      "SourceTerm": "當門不用栽荊棘，後代兒孫惹著衣",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "author_from_packet",
-      "WrittenUtc": "2026-07-19T13:47:01.933117Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "do not plant thorns at the gate lest later descendants snag their clothes",
-          "AlternateTargets": [],
-          "SearchAliases": [
-            "thorns at the gate",
-            "descendants snag their clothes",
-            "entrance obstruction"
-          ],
-          "Status": "preferred",
-          "Validation": "multi-source",
-          "Note": "The cited works place the thorn warning at the ends of addresses by Mi'an Xianjie, Baiyun Shouduan, Liao'an Qingyu, and Linye Tongqi.",
-          "Occurrences": [
-            {
-              "RelPath": "X/X82/X82n1571.xml",
-              "FromLb": "0134a08",
-              "ToLb": "0134a09",
-              "Kwic": "曰：當門不用栽荊棘，後代兒孫惹著衣。解夏，上堂：一箇葫蘆纔",
-              "MasterName": "Mi'an Xianjie",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Mi'an Xianjie",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120). Mi'an Xianjie closes his own address with the warning about thorns and later descendants."
-            },
-            {
-              "RelPath": "X/X68/X68n1318.xml",
-              "FromLb": "0401a21",
-              "ToLb": "0401b01",
-              "Kwic": "云：且道這箇作麼生便恁麼搆得？且恁麼應時納祜。若數至大年朝，前頭大有雪在。所以承天十度發言九度休。何謂如此？當門不用栽荊棘，後代兒孫惹著衣。然雖如是，三十年後太公",
-              "MasterName": "Baiyun Shouduan",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Baiyun Shouduan",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Baiyun Shouduan gives the warning as his reason for repeatedly stopping short of further speech."
-            },
-            {
-              "RelPath": "X/X71/X71n1414.xml",
-              "FromLb": "0305b15",
-              "ToLb": "0305b20",
-              "Kwic": "云：且坐喫茶。精金躍冶，正要鉗鎚；赤驥追風，豈資鞭影？是佗南院末上大殺傷慈，直到下捎分疏不下。本覺者裡設有人問：入門須辨主，端的請師分。便與連夜趕出。何故？當門不用栽荊棘，後代兒孫惹著衣。久立。小參，僧問：有物",
-              "MasterName": "Liao'an Qingyu",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Liao'an Qingyu",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu. Liao'an Qingyu speaks the warning after proposing to drive an intrusive questioner out."
-            },
-            {
-              "RelPath": "J/J26/J26nB186.xml",
-              "FromLb": "0627b16",
-              "ToLb": "0627b18",
-              "Kwic": "云：「當門不用栽荊棘，後代兒孫惹著衣。」上堂。「今日端陽節，",
-              "MasterName": "Linye Tongqi",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Linye Tongqi",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J26/J26nB186.xml). Recorded Sayings of Chan Master Linyexi. Linye Tongqi states the warning after criticizing an unnecessary added display."
-            }
-          ],
-          "SourceTexts": [
-            "X/X82/X82n1571.xml",
-            "X/X68/X68n1318.xml",
-            "X/X71/X71n1414.xml",
-            "J/J26/J26nB186.xml"
-          ],
-          "RelatedMasters": [
-            "Baiyun Shouduan",
-            "Liao'an Qingyu",
-            "Linye Tongqi",
-            "Mi'an Xianjie"
-          ],
-          "RelatedTerms": [
-            "荊棘林"
-          ],
-          "ClaimAnchors": [],
-          "Explanation": "The saying warns that thorns planted at the entrance will catch the clothing of later descendants. Mi’an Xianjie ends an address with it; Chengtian uses it while withholding further speech; Liao’an Qingyu gives it after proposing to drive an intrusive questioner out; Linye Qi states it after criticizing an added display."
-        }
-      ]
-    },
-    {
       "Id": "t_dd4b4ad3fe88",
       "SourceTerm": "當門不用栽荊棘，後代兒孫惹著衣",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+      "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
       "CreatedBy": "author_from_packet",
       "WrittenUtc": "2026-07-19T13:47:01.933117Z",
       "Senses": [
@@ -761662,62 +761241,9 @@
       ]
     },
     {
-      "Id": "t_1f2aaab62438",
-      "SourceTerm": "百花春到為誰開",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "author_from_packet",
-      "WrittenUtc": "2026-07-22T01:30:00Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "when spring arrives, for whom do the hundred flowers open?",
-          "AlternateTargets": [
-            "for whom do all the flowers bloom when spring comes?"
-          ],
-          "SearchAliases": [
-            "flowers open for whom",
-            "hundred flowers in spring",
-            "Xuedou flower question"
-          ],
-          "Status": "preferred",
-          "Validation": "provisional",
-          "Note": "The retained lamp recension attributes the verse to Xuedou; the question remains open rather than being converted into a fixed answer about the flowers.",
-          "Occurrences": [
-            {
-              "RelPath": "X/X79/X79n1557.xml",
-              "FromLb": "0185b06",
-              "ToLb": "0185b11",
-              "Kwic": "諸人面前放屙。咄！為甚麼屎臭氣也不知？雪竇頌云：牛頭沒，馬頭回，曹溪鏡裏絕纖埃。打鼓看來君不見，百花春到為誰開？示眾云：我這裏如一面古鏡相似，胡來胡現，漢來漢現。時有僧出問：忽遇明鏡來時如何？師云：胡漢俱隱",
-              "MasterName": "Xuedou Chongxian",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Xuedou Chongxian",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X79/X79n1557.xml). Essential Compendium of the United Lamp (聯燈會要). Speaker: Xuedou Chongxian."
-            }
-          ],
-          "SourceTexts": [
-            "X/X79/X79n1557.xml"
-          ],
-          "RelatedMasters": [
-            "Xuedou Chongxian"
-          ],
-          "RelatedTerms": [],
-          "ClaimAnchors": [],
-          "Explanation": "Xuedou closes his verse by asking for whom the hundred flowers open when spring arrives, turning seasonal blossoming into the verse’s final public question. After the raised case of the ancient mirror that shows each arrival, Xuedou Chongxian’s verse says the ox-head vanishes, the horse-head returns, and the Cao Stream mirror is free of dust. It then asks the headword rather than naming a beneficiary."
-        }
-      ]
-    },
-    {
       "Id": "t_4b698fc124f9",
       "SourceTerm": "百花春到為誰開",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+      "CorpusBaselineSha256": "aa125d97f0eb402daef67596f649888e27f51e20e5bddf96189344b406ef3bf1",
       "CreatedBy": "Codex Migration039 Lane B",
       "WrittenUtc": "2026-07-29T00:00:00Z",
       "Senses": [
@@ -797431,157 +796957,6 @@
           ],
           "ClaimAnchors": [],
           "Explanation": "A broken mirror will not shine again, and a fallen blossom cannot climb back to its branch. Foyuan uses the pair in a current sermon on passing time; Huaihai makes it the opening of an original verse on the Buddha case; Liaoan gives it as a direct answer to a question about transmission. The three prior witnesses remain as separate uses, including the useful early lamp. Retained public meaning is supported by independent present uses in recorded discourse."
-        }
-      ]
-    },
-    {
-      "Id": "t_6e32f0594a08",
-      "SourceTerm": "破鏡不重照，落花難上枝",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "author_from_packet",
-      "WrittenUtc": "2026-07-19T17:51:35.889754Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "a broken mirror does not shine again and a fallen flower can hardly return to its branch",
-          "AlternateTargets": [],
-          "SearchAliases": [
-            "a broken mirror does not shine again and a fallen flower can hardly return to its branch"
-          ],
-          "Status": "preferred",
-          "Validation": "multi-source",
-          "Note": "The imagery does not establish a universal claim that recovery is impossible.",
-          "Occurrences": [
-            {
-              "RelPath": "B/B25/B25n0144.xml",
-              "FromLb": "0462b05",
-              "ToLb": "0462b13",
-              "Kwic": "師云：「貪遊六宅戲，不覺國內虧。」「王子正登九五時如何？」師云：「朱簾齊卷上，四相整朝儀。」「登九五後如何？」云：「金箱排玉璽，御轝四方歸。」問：「大悟底人為什摩卻迷？」師云：「破鏡不重照，落花難上枝。」問：「師幸是後生，為什摩卻作善知識？」師云：「三歲宅家龍鳳子，百年階下老朝臣。」問：「祖意與教意同別？」師云：「不入龍宮藏，眾義豈能詮？」師初見洞山時問：「見則見，爭奈情識雲偽何？」洞山云：「汝還見也無？」對云：「見。」",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (B/B25/B25n0144.xml). Zutang Ji (Anthology from the Patriarchs’ Hall). Huayan Xiujing gives or composes the expression translated as “a broken mirror does not shine again and a fallen flower can hardly return to its branch” in this bounded Zutang Ji (Anthology from the Patriarchs’ Hall) witness.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "named master",
-                "ActorLabel": "Huayan Xiujing",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Huayan Xiujing gives or composes the expression translated as “a broken mirror does not shine again and a fallen flower can hardly return to its branch” in this bounded Zutang Ji (Anthology from the Patriarchs’ Hall) witness.",
-                "ReviewedBy": "author_from_packet",
-                "ReviewedUtc": "2026-07-19T17:51:35.889754Z"
-              }
-            },
-            {
-              "RelPath": "X/X69/X69n1359.xml",
-              "FromLb": "0526a03",
-              "ToLb": "0526a12",
-              "Kwic": "度火，泥佛不度水，真佛屋裏坐。萬牛挽不迴，千箇與萬箇，好事積如山，祇緣輕放過。不放過，今日鍾山甘話墮。上堂，舉：遵布衲問韶山：明鏡當臺，請師一鑑。韶云：不鑑。云：為什麼不鑑？韶云：破鏡不重照，落花難上枝。遵無語，韶便打。死心和尚云：這般漢打得百千萬箇，有甚罪過？當時若在黃龍手裏，棒折也未住在。師云：死心和尚一期大驚小恠，殊不知韶山自遭遵布衲毒手之後，至今無人檢點得出。且道誵訛在什麼處？謝知事頭首上堂，僧問：法印咨和尚：",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Ying'an Tanhua",
-                  "Roles": [
-                    "later-raiser",
-                    "commentator"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X69/X69n1359.xml). Recorded Sayings of Chan Master Ying’an Tanhua. Speaker: Shaoshan; Ying'an Tanhua later raises and comments on Shaoshan's exchange.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "named master",
-                "ActorLabel": "Shaoshan 韶山",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Shaoshan 韶山 utters the couplet in the raised exchange: 韶云 governs the exact headword; Ying'an Tanhua is the later raiser and commentator beginning with 上堂舉 and 師云.",
-                "ReviewedBy": "Codex A101-110 five-coordinate repair",
-                "ReviewedUtc": "2026-07-19T18:30:00Z"
-              }
-            },
-            {
-              "RelPath": "J/J25/J25nB171.xml",
-              "FromLb": "0564a23",
-              "ToLb": "0564b04",
-              "Kwic": "云：「行鳥道兮絕高低，倚寒巖兮截然巍。風飄飄兮露全機，把住關兮真箇希。灼然希，尤更奇，從教三級透重關。老龍不肯糊糢放，未免遭伊額上題。」舉僧問華嚴：「大悟底人為甚麼卻迷？」嚴云：「破鏡不重照，落花難上枝。」頌云：「水歸大海顯全潮，終日風波海上消，能納百川流不住，魚龍喜躍見波濤。」舉僧問慈明：「鬧中取靜時如何？」明云：「頭枕布袋。」頌云：「鬧中取靜，猶未徹困，布袋枕頭，那事有分。騎牛更去覓牛蹤，撞著山僧好一頓。」舉楊岐「",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Huayan Xiujing gives or composes the expression translated as “a broken mirror does not shine again and a fallen flower can hardly return to its branch” in this bounded Recorded Sayings of Monk Tianyin witness.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "named master",
-                "ActorLabel": "Huayan Xiujing",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Huayan Xiujing gives or composes the expression translated as “a broken mirror does not shine again and a fallen flower can hardly return to its branch” in this bounded Recorded Sayings of Monk Tianyin witness.",
-                "ReviewedBy": "author_from_packet",
-                "ReviewedUtc": "2026-07-19T17:51:35.889754Z"
-              }
-            },
-            {
-              "RelPath": "J/J37/J37nB371.xml",
-              "FromLb": "0033b16",
-              "ToLb": "0033b26",
-              "Kwic": "門高萬仞，是誰點額泊清虛。正當恁麼時，由茲發育，自此流通。理隨事變，事逐理融。只如德山耀大法眼，臨濟轟大法雷，諸人不得蹉過。」以拄杖卓一卓，喝一喝。上堂。「日日是好日，時時是好時，破鏡不重照，落花難上枝。推遷四象，日月旋流，檢點將來，自救不了。豈不見白蓮池畔香映宛然，駟馬橋頭長安逼直？悟則事同一家，迷乃萬別千差。即今還有迷悟者麼？」以拂子擊禪床：「著甚來由？」趙觀察設齋，請上堂。「時維中元節，地官曾解結。空闊互相交，夜",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (J/J37/J37nB371.xml). Recorded Sayings of Chan Master Foyuan. Foyuan Che gives or composes the expression translated as “a broken mirror does not shine again and a fallen flower can hardly return to its branch” in this bounded Recorded Sayings of Chan Master Foyuan witness.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "named master",
-                "ActorLabel": "Foyuan Che",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Foyuan Che gives or composes the expression translated as “a broken mirror does not shine again and a fallen flower can hardly return to its branch” in this bounded Recorded Sayings of Chan Master Foyuan witness.",
-                "ReviewedBy": "author_from_packet",
-                "ReviewedUtc": "2026-07-19T17:51:35.889754Z"
-              }
-            }
-          ],
-          "SourceTexts": [
-            "B/B25/B25n0144.xml",
-            "X/X69/X69n1359.xml",
-            "J/J25/J25nB171.xml",
-            "J/J37/J37nB371.xml"
-          ],
-          "RelatedMasters": [
-            "Ying'an Tanhua"
-          ],
-          "RelatedTerms": [],
-          "ClaimAnchors": [],
-          "Explanation": "A broken mirror cannot reflect again, and a fallen flower can hardly return to its branch. Huayan Xiujing answers why one who greatly awakens may still become confused; Ying'an Tanhua raises Shaoshan's answer; Tianyin Yuanxiu versifies Huayan's exchange; Foyuan Che uses the couplet in a hall address."
         }
       ]
     },
@@ -1017167,130 +1016542,6 @@
     {
       "Id": "t_751631976192",
       "SourceTerm": "道無心合人，人無心合道",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "author_from_packet",
-      "WrittenUtc": "2026-07-19T16:33:15.026677Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "reciprocal accord of the intentionless Way and person",
-          "AlternateTargets": [],
-          "SearchAliases": [
-            "reciprocal accord of the intentionless Way and person"
-          ],
-          "Status": "preferred",
-          "Validation": "multi-source",
-          "Note": "The records preserve the reciprocal wording and do not define “without intention” as blankness or passivity.",
-          "Occurrences": [
-            {
-              "RelPath": "B/B25/B25n0144.xml",
-              "FromLb": "0682a12",
-              "ToLb": "0682b08",
-              "Kwic": "賓主相去幾何？」云：「長江水上波。」「賓主相見，有何言說？」云：「清風拂白月。」又偈曰：「青山白雲父，白雲青山兒。白雲終日依，青山都不知。欲知此中意，寸步不相離。」洞山因此頌曰：「道無心合人，人無心合道。欲知此中意，一老一不老。」因此，龍牙大師造頌曰：「心空不及道空安，道與心空狀一般。參玄不是道空士，一乍相逢不易看。」因此，曹山大師造頌曰：「今年田不熟，來年種有期。愛他年少父，須得白頭兒。」興平和尚○興平和尚。洞山禮拜",
-              "MasterName": "Dongshan Liangjie",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Dongshan Liangjie",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (B/B25/B25n0144.xml). Zutang Ji (Anthology from the Patriarchs’ Hall). Dongshan Liangjie composes the verse after Yushan’s verse; the complete case markers keep the headword-bearing clause in that voice."
-            },
-            {
-              "RelPath": "J/J29/J29nB248.xml",
-              "FromLb": "0812a04",
-              "ToLb": "0812a15",
-              "Kwic": "何事？」「高高峰頂立，不解從空放下；深深海底行，不能步步登高。祇如二邊不住、中道不居底，畢竟如何話會？」「始從鹿野苑，終至跋提河，於是二中間，未嘗說一字。大藏、小藏，甚處得來？」「道無心合人，人無心合道，為甚麼無心猶隔一重關？」「一人有慶，兆民咸賴，為甚麼庭前生瑞艸，好事不如無？」「古人云：『施主一粒米，大如須彌山。』若還不了道，披毛帶角，還祇如頭上角不全，身上毛不出，且道：是何果報？」「石長無根對，山含不動雲。因甚又",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (J/J29/J29nB248.xml). Recorded Sayings of Chan Master Dabianquan. Dabianquan poses the recorded testing question; the complete case markers keep the headword-bearing clause in that voice.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "named master",
-                "ActorLabel": "Dabianquan",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Dabianquan poses the recorded testing question; the complete case markers keep the headword-bearing clause in that voice.",
-                "ReviewedBy": "author_from_packet",
-                "ReviewedUtc": "2026-07-19T16:33:15.026677Z"
-              }
-            },
-            {
-              "RelPath": "J/J34/J34nB299.xml",
-              "FromLb": "0169c21",
-              "ToLb": "0170a02",
-              "Kwic": "海；二曰情滲漏，滯在向背，見處偏枯；三曰語滲漏，究妙失宗，機昧終始，濁智流轉。于此三種，子宜知之。」曾經徹悟盡情乾，處處將他與眾看，不合此機生向背，不知深淺有多般。師作綱要偈曰：「道無心合人，人無心合道。欲識箇中意，一老一不老。」一老一不老，桃枝生赤棗。雨露不知恩，馨香隨晚蚤。撫州曹山本寂禪師，洞山嗣。示眾曰：「凡情聖見，是金鎖玄路，直須回互。夫取正命食者，具三種墮：一者披毛戴角，二者不斷聲色，三者不受食。」時有稠布衲",
-              "MasterName": "Hanyue Fazang",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Hanyue Fazang",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang recites the line in his outline verse; the complete case markers keep the headword-bearing clause in that voice."
-            },
-            {
-              "RelPath": "J/J34/J34nB305.xml",
-              "FromLb": "0400b08",
-              "ToLb": "0400b18",
-              "Kwic": "取龍吞，那討閑工夫說冷話？闍黎橫吞巨海，老僧背負須彌。闍黎按劍上來，老僧掗鎗相待。欲識佛性義，當觀時節因緣。」問大眾：「即今是什麼時節？」眾擬議，師以拄杖旋風打散，歸方丈。示眾。「道無心合人，人無心合道，欲識箇中意，一老一不老。三從六義中，老者燒火掃地，小者喫粥喫飯，不老不小底叫他作甚麼？」良久，云：「近來米價甚貴，無處著他。」便起身。示眾。舉：「中丞盧航居士與圓通擁罏次，公問：『諸家因緣不勞拈出，直截一句請師指示。』",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (J/J34/J34nB305.xml). Recorded Sayings of Chan Master Dayutao of Guoqing. Guoqing Dayu Tao raises the line and asks about old and young; the complete case markers keep the headword-bearing clause in that voice.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "named master",
-                "ActorLabel": "Guoqing Dayu Tao",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "Guoqing Dayu Tao raises the line and asks about old and young; the complete case markers keep the headword-bearing clause in that voice.",
-                "ReviewedBy": "author_from_packet",
-                "ReviewedUtc": "2026-07-19T16:33:15.026677Z"
-              }
-            }
-          ],
-          "SourceTexts": [
-            "B/B25/B25n0144.xml",
-            "J/J29/J29nB248.xml",
-            "J/J34/J34nB299.xml",
-            "J/J34/J34nB305.xml"
-          ],
-          "RelatedMasters": [
-            "Dongshan Liangjie",
-            "Hanyue Fazang"
-          ],
-          "RelatedTerms": [],
-          "ClaimAnchors": [],
-          "Explanation": "The paired line states reciprocal accord between the Way and a person when neither side is governed by intention. Dongshan Liangjie composes the verse after Yushan’s verse. Dabianquan poses the recorded testing question. Hanyue Fazang recites the line in his outline verse. Guoqing Dayu Tao raises the line and asks about old and young."
-        }
-      ]
-    },
-    {
-      "Id": "t_f7917dcb64d4",
-      "SourceTerm": "道無心合人，人無心合道",
       "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
       "CreatedBy": "author_from_packet",
       "WrittenUtc": "2026-07-19T16:33:15.026677Z",
@@ -1036151,65 +1035402,6 @@
           "Status": "preferred",
           "Validation": "provisional",
           "Note": "The sole exact witness is the impersonal wisdom-eye answer formula in the Tier-3 Eyes of Humans and Devas.",
-          "Occurrences": [
-            {
-              "RelPath": "T/T48/T48n2006.xml",
-              "FromLb": "0331b15",
-              "ToLb": "0331c02",
-              "Kwic": "恩者少。負恩者多。如何是法身體。山花開似錦。㵎水綠如藍。如何是法身用。夜坐連雲石。春栽帶雨松。如何是法身。柳色黃金嫩。梨花白雪香。五眼五眼如何是肉眼。憎愛何足貴貪嗔事轉多。如何是天眼。恢恢常不漏。歷歷太分明。如何是慧眼。金地遙招手。江陵暗點頭。如何是法眼。青山常不露。遍界不曾藏。如何是佛眼。慈悲利一切。方便有多門。三寶三寶如何是佛。何處不稱尊。如何是法。車不橫推。理無曲斷。如何是僧。閑持經卷倚松立。借問客從何處來。拄杖話拄杖話如何是爾有拄杖子。碁逢敵手難藏行",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (T/T48/T48n2006.xml). Eyes of Humans and Devas: The impersonal answer voice follows the question “What is the wisdom-eye?”; no human utterer is grammatically stated.",
-              "ActorAttribution": {
-                "Status": "impersonal",
-                "Kind": "impersonal answer formula",
-                "ActorLabel": "the Five Eyes answer formula",
-                "ActorRole": "utterer",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "The source presents the headword immediately after the wisdom-eye question as an answer formula, without a grammatically stated human utterer.",
-                "ReviewedBy": "Codex release005 lane C full-case review",
-                "ReviewedUtc": "2026-07-22T00:00:00Z"
-              }
-            }
-          ],
-          "SourceTexts": [
-            "T/T48/T48n2006.xml"
-          ],
-          "RelatedMasters": [],
-          "RelatedTerms": [
-            "慧"
-          ],
-          "ClaimAnchors": [],
-          "Explanation": "The couplet serves as the source’s answer for the wisdom-eye; the record does not identify Golden Ground or Jiangling further in this passage. The source supplies the couplet after “What is the wisdom-eye?” inside its ordered questions on the five eyes, without naming a human speaker."
-        }
-      ]
-    },
-    {
-      "Id": "t_b8233ced9344",
-      "SourceTerm": "金地遙招手。江陵暗點頭",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "Codex regular-vetted Iriya release005 lane C",
-      "WrittenUtc": "2026-07-22T00:00:00Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "Golden Ground beckons from afar, while Jiangling nods in secret",
-          "AlternateTargets": [],
-          "SearchAliases": [
-            "the Golden Ground waves from afar; Jiangling secretly nods"
-          ],
-          "Status": "preferred",
-          "Validation": "provisional",
-          "Note": "The source’s Five Eyes sequence preserves this answer but does not name its speaker in the recoverable attribution ladder.",
           "Occurrences": [
             {
               "RelPath": "T/T48/T48n2006.xml",
@@ -1079532,59 +1078724,6 @@
           ],
           "ClaimAnchors": [],
           "Explanation": "Xuedou’s verse opens a spacious waterscape: clouds drift, water extends without bound, and moonlight and reeds merge for the viewer. Yuanwu reads it as an image that cannot be captured by staring or conceptual fixation. The Blue Cliff commentary and the verse anthology transmit the same Xuedou verse; the complete Blue Cliff discussion is retained as the independent use."
-        }
-      ]
-    },
-    {
-      "Id": "t_4394013dd50d",
-      "SourceTerm": "雲在天水在缾",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "author_from_packet",
-      "WrittenUtc": "2026-07-22T00:15:00Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "clouds are in the sky and water is in the jar",
-          "AlternateTargets": [
-            "cloud in the sky, water in the bottle"
-          ],
-          "SearchAliases": [
-            "clouds in heaven water in a jar",
-            "cloud and water in their places",
-            "Yaoshan cloud water jar"
-          ],
-          "Status": "preferred",
-          "Validation": "provisional",
-          "Note": "The retained case is Yaoshan’s single direct answer; Li Ao’s following verse is a repetition within the same encounter.",
-          "Occurrences": [
-            {
-              "RelPath": "T/T51/T51n2076.xml",
-              "FromLb": "0312b11",
-              "ToLb": "0312b19",
-              "Kwic": "名。師呼太守。翱應諾。師曰。何得貴耳賤目。翱拱手謝之。問曰。如何是道。師以手指上下曰。會麼。翱曰。不會。師曰。雲在天水在缾。翱乃欣愜作禮而述一偈曰。練得身形似鶴形千株松下兩函經我來問道無餘說雲在青天水在缾。翱又問。如何是戒定慧。師曰",
-              "MasterName": "Yaoshan Weiyan",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Yaoshan Weiyan",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (T/T51/T51n2076.xml). Jingde Record of the Transmission of the Lamp (景德傳燈錄). Speaker: Yaoshan Weiyan."
-            }
-          ],
-          "SourceTexts": [
-            "T/T51/T51n2076.xml"
-          ],
-          "RelatedMasters": [
-            "Yaoshan Weiyan"
-          ],
-          "RelatedTerms": [],
-          "ClaimAnchors": [],
-          "Explanation": "Yaoshan answers a governor’s question about the Way by pointing up and down: clouds are in the sky and water is in the jar. Governor Li Ao asks Yaoshan Weiyan, “What is the Way?” Yaoshan points above and below, asks whether he understands, and gives this line when Li says he does not. Li bows and restates the answer in verse."
         }
       ]
     },
@@ -1139768,59 +1138907,6 @@
     },
     {
       "Id": "t_94a94cf46ad5",
-      "SourceTerm": "黃金為地、白銀為屋",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "author_from_packet",
-      "WrittenUtc": "2026-07-22T00:15:00Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "gold as the ground and silver as the house",
-          "AlternateTargets": [
-            "a ground of gold and a house of silver"
-          ],
-          "SearchAliases": [
-            "golden ground and silver house",
-            "gold ground silver dwelling",
-            "who lives in the gold and silver house"
-          ],
-          "Status": "preferred",
-          "Validation": "provisional",
-          "Note": "The image occurs in one retained hall address; the source does not identify the gold or silver as ordinary building material.",
-          "Occurrences": [
-            {
-              "RelPath": "X/X79/X79n1559.xml",
-              "FromLb": "0395b02",
-              "ToLb": "0395b06",
-              "Kwic": "一圓相，曰：且莫錯認定盤星。卓一卓，下座。上堂：八月秋，何處熱？向上事，時時說。撥轉天關、放迴地軸即不問，且道黃金為地、白銀為屋是甚麼人居止？良久，曰：巍巍聖德遇三皇，歷歷清光吞二曜。上堂：言語道斷，物我皆如。義路不生，風雲會合。直得玄關",
-              "MasterName": "Yue'an Shanguo",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Yue'an Shanguo",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X79/X79n1559.xml). Jiatai Universal Lamp Record (嘉泰普燈錄). Speaker: Yue'an Shanguo."
-            }
-          ],
-          "SourceTexts": [
-            "X/X79/X79n1559.xml"
-          ],
-          "RelatedMasters": [
-            "Yue'an Shanguo"
-          ],
-          "RelatedTerms": [],
-          "ClaimAnchors": [],
-          "Explanation": "Yue’an presents a ground of gold and a house of silver as a residence and asks who lives there. In a hall address, Yue’an Shanguo sets aside turning the heavenly hinge and asks who inhabits the gold-ground, silver-house dwelling. After a pause he answers with a line about august virtue and clear radiance."
-        }
-      ]
-    },
-    {
-      "Id": "t_c7d0abeb9c72",
       "SourceTerm": "黃金為地、白銀為屋",
       "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
       "CreatedBy": "author_from_packet",
