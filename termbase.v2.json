@@ -868258,7 +868258,8 @@
                   ]
                 }
               ],
-              "MasterName": "Kaixian Zhi"
+              "MasterName": "Kaixian Zhi",
+              "ClaimText": "脚跟"
             },
             {
               "RelPath": "X/X83/X83n1578.xml",
@@ -868291,7 +868292,8 @@
                 "GrammarEvidence": "大小文殊，趁著天子脚跟轉 is an editorial appraisal, not a marked human speech turn.",
                 "ReviewedBy": "Codex f003 C24 manual full-case repair author",
                 "ReviewedUtc": "2026-07-15T06:55:28.173422+00:00"
-              }
+              },
+              "ClaimText": "脚跟"
             },
             {
               "RelPath": "D/D48/D48n8939.xml",
@@ -868308,7 +868310,8 @@
                   ]
                 }
               ],
-              "MasterName": "Foyan Qingyuan"
+              "MasterName": "Foyan Qingyuan",
+              "ClaimText": "脚跟"
             },
             {
               "RelPath": "X/X66/X66n1297.xml",
@@ -868325,7 +868328,8 @@
                   ]
                 }
               ],
-              "MasterName": "Fachang Yiyu"
+              "MasterName": "Fachang Yiyu",
+              "ClaimText": "脚跟"
             }
           ],
           "ClaimAnchors": [],
@@ -868359,7 +868363,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "Three distinct works anchor the loaded footing/standing referent.",
+          "Note": "The heel marks a person's footing in an encounter. Yuanwu tells a lay correspondent to make it firm; Zhongfeng finds a binding thread still under it; Wuyi asks how deep the water is beneath it. Muchen and Tiantai Deshao voice distinct hall challenges, and Yuanwu also gives the image in a portrait verse.",
           "Occurrences": [
             {
               "RelPath": "X/X64/X64n1260.xml",
@@ -868367,16 +868371,18 @@
               "ToLb": "0012c01",
               "Kwic": "拈拄杖，卓一下，云：若向者裡一蹋，鴻門洞開兩扇，則可謂脚跟不動，身入帝鄉。",
               "Curated": true,
-              "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs (列祖提綱錄): Yuanwu Keqin utters the headword; The complete address assigns the staff action and saying to Yuanwu Keqin.",
+              "AttributionNote": "Source record (X/X64/X64n1260.xml). Hongjue Min directly voices the line in his court hall address; the Yuanwu section starts later.",
               "ContextMasters": [
                 {
-                  "MasterName": "Yuanwu Keqin",
+                  "MasterName": "Muchen Daomin",
                   "Roles": [
-                    "utterer"
+                    "utterer",
+                    "record-owner"
                   ]
                 }
               ],
-              "MasterName": "Yuanwu Keqin"
+              "MasterName": "Muchen Daomin",
+              "ClaimText": "脚跟"
             },
             {
               "RelPath": "X/X84/X84n1583.xml",
@@ -868384,22 +868390,18 @@
               "ToLb": "0415a13",
               "Kwic": "脫却羅籠截脚跟，大地撮來墨漆黑。",
               "Curated": true,
-              "AttributionNote": "Source record (X/X84/X84n1583.xml). Orthodox Continuation of the Lamp (續燈正統): Yuanwu Keqin utters the headword; The biography is followed by Yuanwu Keqin's explicitly attributed portrait verse about Huguo Cian Jingyuan.",
+              "AttributionNote": "Source record (X/X84/X84n1583.xml). Biography quotes Yuanwu's own portrait verse given to Cian Jingyuan; the exact heel line belongs to Yuanwu.",
               "ContextMasters": [
                 {
                   "MasterName": "Yuanwu Keqin",
                   "Roles": [
-                    "utterer"
-                  ]
-                },
-                {
-                  "MasterName": "Huguo Cian Jingyuan",
-                  "Roles": [
-                    "person-described"
+                    "utterer",
+                    "case-figure"
                   ]
                 }
               ],
-              "MasterName": "Yuanwu Keqin"
+              "MasterName": "Yuanwu Keqin",
+              "ClaimText": "脚跟"
             },
             {
               "RelPath": "X/X81/X81n1568.xml",
@@ -868407,16 +868409,78 @@
               "ToLb": "0004a18",
               "Kwic": "上座不如從脚跟下一時󳬇破，看是甚麼道理，有多少法門，與上座作疑求解。",
               "Curated": true,
-              "AttributionNote": "Source record (X/X81/X81n1568.xml). Strict Lineage of the Five Lamps (Vols. 10–25) (五燈嚴統(第10卷-第25卷)): Nanyang Huizhong utters the headword; The complete long discourse is Nanyang Huizhong's utterance.",
+              "AttributionNote": "Source record (X/X81/X81n1568.xml). Tiantai Deshao directly advises the assembly to break through from under their own heels in his named section.",
               "ContextMasters": [
                 {
-                  "MasterName": "Nanyang Huizhong",
+                  "MasterName": "Tiantai Deshao",
                   "Roles": [
-                    "utterer"
+                    "utterer",
+                    "record-owner"
                   ]
                 }
               ],
-              "MasterName": "Nanyang Huizhong"
+              "MasterName": "Tiantai Deshao",
+              "ClaimText": "脚跟"
+            },
+            {
+              "RelPath": "X/X69/X69n1357.xml",
+              "FromLb": "0465a24",
+              "ToLb": "0465b09",
+              "Kwic": "如，湛然真純，是解作活計。但一念不生，放教玲瓏，纔有是非、彼我、得失，勿隨他去，乃是終日竟夜親參自家真善知識，何憂此事不辦？切須自看。示許奉議(庭圭)示許奉議此箇事，在利根上智之人一聞千悟不為難，要須脚跟牢實、諦當徹信，把得定、作得主，於一切違順境界、差別因緣打成一片，如太虗空無纖毫障隔，湛湛虗明無有轉變，雖百劫千生始終如一，方得平穩。多見聰俊明敏、根浮脚淺，便向言句上認得轉變，即以世間無可過，尚遂增",
+              "MasterName": "Yuanwu Keqin",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yuanwu Keqin",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X69/X69n1357.xml). Yuanwu counsels a lay correspondent to make his own footing firm.",
+              "EvidenceRole": "original-use",
+              "ClaimText": "脚跟"
+            },
+            {
+              "RelPath": "B/B25/B25n0145.xml",
+              "FromLb": "0700b12",
+              "ToLb": "0701a01",
+              "Kwic": "直下不能混入靈源併歸真際。要脫他無常生死。也大難。此事須是著實到這田地。不涉第二念不見第二人方堪負荷。苟非能所脫落身心悟徹底。自餘有一等闡提漢。趂一時狂見也隨人道。無儞無我無生無死。說得也相似。殊不知脚跟下紅絲線不斷。正是益增其識妄耳。昔靈雲和尚舉眼見桃花便道。自從一見桃花後。直至如今更不疑。香嚴和尚掃地次擊竹有聲便道。一擊忘所知更不假修持。此二尊宿便是聞聲見色徹見己躬底樣子。蓋其多生積世。參扣祖意乃",
+              "MasterName": "Zhongfeng Mingben",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Zhongfeng Mingben",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (B/B25/B25n0145.xml). Zhongfeng finds a red thread still binding the claimant beneath the heels.",
+              "EvidenceRole": "original-use",
+              "ClaimText": "脚跟"
+            },
+            {
+              "RelPath": "X/X72/X72n1435.xml",
+              "FromLb": "0245a19",
+              "ToLb": "0245b04",
+              "Kwic": "三十七，通身赤骨律，不喫常住飯，砵盂兩度濕。師云：却是汝來得，要且不會老僧意在。上堂，僧問：蟄戶將開，海門雷震，敢問和尚：一池鱣鮪，何時際會風雲？師云：拄杖時常頭點空。進云：興波作浪時如何？師云：闍黎脚跟下水深多少？僧咦云：透網金鱗雖振𩮻，冲霄丹鳳不遺苞。師云：更須桉下雲頭始得。又僧問：乍入叢林，蒙師命往白下請有字經，敢問和尚：無字經命向甚麼處請？師云：磕破髑髏。僧禮拜，師云：便祇如此耶？出去。又僧問",
+              "MasterName": "Wuyi Yuanlai",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Wuyi Yuanlai",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X72/X72n1435.xml). Wuyi challenges a monk who claims to raise waves to measure water under his own heels.",
+              "EvidenceRole": "original-use",
+              "ClaimText": "脚跟"
             }
           ],
           "ClaimAnchors": [],
@@ -868435,7 +868499,7 @@
           "RelatedTerms": [
             "脚跟不點地"
           ],
-          "Explanation": "One’s footing is the standing from which conduct and claims are tested, expressed through the heel image. Yuanwu calls it unmoving, another Yuanwu verse cuts it off on escaping a cage, and Nanyang tells the listener to smash through from beneath it; these predicates concern standing rather than an injured anatomical heel."
+          "Explanation": "Here the heel locates a person's actual footing in the present encounter. Yuanwu uses it for settled confidence in his own letter, while Zhongfeng exposes a remaining tie beneath a claimant's talk. Wuyi asks a monk to measure the water beneath his heels rather than merely boast of raising waves. Muchen calls for standing still as the court gate opens; Tiantai Deshao urges breaking through from one's own heels. Yuanwu's portrait verse gives a different image of severing the heel. The source turns support a practical footing metaphor without making every occurrence a bodily movement."
         }
       ]
     },
