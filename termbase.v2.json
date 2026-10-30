@@ -10125,7 +10125,7 @@
           ],
           "Status": "preferred",
           "Validation": "provisional",
-          "Note": "The retained Tier 2 records preserve Linji’s four-shout formula and later live reuses; one lamp case is retained. The formula’s inherited family remains explicitly provisional rather than being promoted by parallel retellings.",
+          "Note": "The L154 Tier 2 record preserves Tianyin’s own present question after an explicit Linji quotation; J25nB171 is the same sermon and is omitted as a parallel. X66n1296 records Linji’s quoted wording, and one useful lamp case remains. Validation stays provisional while these source families are assessed.",
           "Occurrences": [
             {
               "RelPath": "X/X82/X82n1571.xml",
@@ -10156,36 +10156,25 @@
               }
             },
             {
-              "RelPath": "J/J25/J25nB171.xml",
-              "FromLb": "0531c08",
-              "ToLb": "0531c11",
-              "Kwic": "時一喝如金剛王寶劍，有時一喝如踞地師子，有時一喝如探竿影草，有時一喝不作一喝用。』」師喝一喝云：「且道這一喝是金剛王寶劍耶？是踞地師子耶？是探",
+              "RelPath": "L/L154/L154n1639.xml",
+              "FromLb": "0155a03",
+              "ToLb": "0155a05",
+              "Kwic": "且道山僧適纔者一喝是金剛王寶劍耶是踞地師子耶是探竿影草耶是一喝不作一喝用耶",
               "Curated": true,
               "MasterName": "Tianyin Yuanxiu",
-              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin (天隱和尚語錄): The complete headword-bearing turn was assigned after full context review. Speaker or record owner: Tianyin Yuanxiu. ",
+              "AttributionNote": "In Tianyin Yuanxiu’s recorded sermon, the preceding 不見我臨濟大師道 marks Linji’s quoted four-shout formula. This recut selects Tianyin’s own following question about the shout he just gave; Tianyin is the exact utterer. J25nB171 is the parallel transport of this same sermon.",
               "ContextMasters": [
                 {
                   "MasterName": "Tianyin Yuanxiu",
                   "Roles": [
-                    "utterer"
+                    "utterer",
+                    "record-owner"
                   ]
-                }
-              ],
-              "ContextActors": []
-            },
-            {
-              "RelPath": "L/L154/L154n1639.xml",
-              "FromLb": "0154b15",
-              "ToLb": "0155a04",
-              "Kwic": "師道有時一喝如金剛王寶劍有時一喝如踞地師子有時一喝如探竿影草有時一喝不作一喝用且道山僧適纔者一喝是金剛王寶劍耶是踞地師子耶是探竿影草耶是一喝不",
-              "Curated": true,
-              "MasterName": "Miyun Yuanwu",
-              "AttributionNote": "Source record (L/L154/L154n1639.xml). Recorded Sayings of Chan Master Tianyin Xiu (天隱修禪師語錄): The complete headword-bearing turn was assigned after full context review. Speaker or record owner: Miyun Yuanwu. ",
-              "ContextMasters": [
+                },
                 {
-                  "MasterName": "Miyun Yuanwu",
+                  "MasterName": "Linji Yixuan",
                   "Roles": [
-                    "utterer"
+                    "person-discussed"
                   ]
                 }
               ],
@@ -10213,13 +10202,11 @@
           "ClaimAnchors": [],
           "SourceTexts": [
             "X/X82/X82n1571.xml",
-            "J/J25/J25nB171.xml",
             "L/L154/L154n1639.xml",
             "X/X66/X66n1296.xml"
           ],
           "RelatedMasters": [
             "Tianyin Yuanxiu",
-            "Miyun Yuanwu",
             "Linji Yixuan"
           ],
           "RelatedTerms": [
@@ -10228,7 +10215,7 @@
             "金剛王寶劍",
             "金剛王寶劒"
           ],
-          "Explanation": "“One shout does not function as a shout” is the fourth member of Linji Yixuan’s four-shout formula. The formula sets it beside a shout like a jeweled sword, a crouched lion, and a probing pole with a grass bundle. Tianyin Yuanxiu and Miyun Yuanwu repeat the whole set before asking what a present shout is doing; the retained lamp case places the phrase in a question answered by a rebuke. The line names one member of the inherited four-part wording, not a hidden meaning that every shout must have."
+          "Explanation": "“One shout does not function as a shout” is the fourth member of Linji Yixuan’s four-shout formula, alongside the jeweled sword, crouched lion, and probing pole. Tianyin Yuanxiu explicitly quotes Linji’s set and then asks which of the four describes the shout he has just given. The retained lamp case also puts the phrase in a question answered by a rebuke. The line names one member of an inherited formula; Tianyin’s question is a present use of it."
         }
       ]
     },
