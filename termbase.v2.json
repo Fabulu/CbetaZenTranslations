@@ -58490,16 +58490,17 @@
           "Occurrences": [
             {
               "RelPath": "J/J28/J28nB202.xml",
-              "FromLb": "0054c06",
-              "ToLb": "0054c24",
-              "Kwic": "定生慧。』即今四眾臨筵，如何是起戒一句？」師云：「剎竿頭掛花旛子。」進云：「只如歸宗斬蛇、南泉斬貓，政當恁麼時，還得戒也無？」師云：「莫謗他古人好。」進云：「恁麼則晴空霹靂驚天地，雨後風生浪自消。」師云：「汝自己分上作麼生？」進云：「自有一雙窮相手，未曾容易舞三臺。」師云：「一狀領過。」乃云：「燈籠侵早口吧吧，露柱堂前也發花，報道南山百尺井，鯉魚咬斷木蘭艖。白頭老父梳烏髻，夜半虛空散彩霞，此語灼然人易信，秤鎚蘸雪笑冬瓜。」復舉古德云：「三通鼓罷，簇簇上來，佛法人事，一時周畢。」淨居尼云：「三通鼓罷，簇簇上來，拄杖不在，苕帚柄聊與三十。」師云：「二尊宿隨機縱奪，各有可觀。超果此者不拈拄杖與苕柄，亦無甚佛法與人事，三通鼓罷，簇簇上來，有問則出，無問退去。」良久，噓一聲，下座。蓮根請上堂。「樹末烏啞啞，樓頭鳩谷谷，不知何事太關情？叫到西山紅日落。因思昔日老瑞巖，自喚自呼自應諾，主人翁，惺惺著，百千年後還如昨。」良久，云：「明眼禪流，一任卜度。」上堂。舉楚石琦云：「若據一大藏教，說少一字；若據",
+              "FromLb": "0054c15",
+              "ToLb": "0054c16",
+              "Kwic": "復舉古德云：「三通鼓罷，簇簇上來，佛法人事，一時周畢。」",
               "MasterName": "Fayan Wenyi",
               "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Fayan Wenyi",
                   "Roles": [
-                    "utterer"
+                    "utterer",
+                    "case-figure"
                   ]
                 },
                 {
@@ -58510,7 +58511,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded sayings of Baichi Xingyuan. Baichi cites the Fayan line and contrasts the nun's broom-handle response."
+              "AttributionNote": "Source record (J/J28/J28nB202.xml). Baichi says 復舉古德云 before this first quoted token; J37nB371 names Fayan as the speaker of the same old declaration."
             },
             {
               "RelPath": "J/J37/J37nB371.xml",
@@ -58571,6 +58572,72 @@
                 }
               ],
               "AttributionNote": "Source record (X/X70/X70n1384.xml). Recorded sayings of Jue'an Kexiang. Jue'an directly voices the pair, then likens the gathered people to claimants of a debt."
+            },
+            {
+              "RelPath": "J/J28/J28nB202.xml",
+              "FromLb": "0054c16",
+              "ToLb": "0054c17",
+              "Kwic": "淨居尼云：「三通鼓罷，簇簇上來，拄杖不在，苕帚柄聊與三十。」",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Baichi Xingyuan",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                },
+                {
+                  "MasterName": "Fayan Wenyi",
+                  "Roles": [
+                    "case-figure"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB202.xml). The explicit 淨居尼云 marker assigns this second exact token to the Chan nun; X84 慧溫 and J35 佛通 are conflicting parallel names, not a proved roster identity.",
+              "ActorAttribution": {
+                "Status": "identified-unlinked-master",
+                "Kind": "named Chan nun in quoted reply",
+                "ActorLabel": "Jingju nun (淨居尼; X84 parallel names 慧溫, J35 variant names 佛通)",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The adjacent marker 淨居尼云 introduces this second exact token as the Chan nun reply; Baichi later calls her one of 二尊宿. X84n1579 names 慧溫 and J35nB338 names 佛通 in parallel versions, so the personal identity is unresolved and is not linked to roster Miaodao.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "r10_author_a2 focused historical repair",
+                "ReviewedUtc": "2026-10-30T01:50:00Z",
+                "AuthoredVoiceRiskReviewed": true
+              }
+            },
+            {
+              "RelPath": "J/J28/J28nB202.xml",
+              "FromLb": "0054c17",
+              "ToLb": "0054c19",
+              "Kwic": "師云：「二尊宿隨機縱奪，各有可觀。超果此者不拈拄杖與苕柄，亦無甚佛法與人事，三通鼓罷，簇簇上來，有問則出，無問退去。」良久，噓一聲，下座。",
+              "MasterName": "Baichi Xingyuan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Baichi Xingyuan",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                },
+                {
+                  "MasterName": "Fayan Wenyi",
+                  "Roles": [
+                    "case-figure"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB202.xml). After he names 二尊宿 and says 超果此者, the current 師云 turn revoices the pair as Baichi own conditional answer."
             }
           ],
           "ClaimAnchors": [],
@@ -742118,8 +742185,8 @@
             },
             {
               "RelPath": "X/X69/X69n1353.xml",
-              "FromLb": "0463a08",
-              "ToLb": "0463a13",
+              "FromLb": "0335b14",
+              "ToLb": "0335b19",
               "Kwic": "此之一事，不可以有心知，不可以無心得。言詮杳隔，聰辯莫究其端倪；寂默奚為？智訥安能湊泊？直是千眼莫窺其迹，二聽那曉其音，三玄料簡謾施功，五位君臣徒話會。從前知解，傾蕩掃除，略露風規，急須著眼。以拂子劃一劃，曰：還見麼？石火一揮天外去，君今猶看月邊星",
               "MasterName": "Kaifu Daoning",
               "Curated": true,
@@ -742135,8 +742202,8 @@
             },
             {
               "RelPath": "X/X70/X70n1377.xml",
-              "FromLb": "0617a05",
-              "ToLb": "0617a08",
+              "FromLb": "0102b03",
+              "ToLb": "0102b06",
               "Kwic": "所以德山入門便棒，臨濟入門便喝，俱胝豎指，石鞏張弓，如擊石火，似閃電光，略露風規，已是拖泥帶水了也，豈更論量淺深得失、圓融事理？明知是土上加泥",
               "MasterName": "Songyuan Chongyue",
               "Curated": true,
@@ -742152,8 +742219,8 @@
             },
             {
               "RelPath": "X/X71/X71n1414.xml",
-              "FromLb": "0774b14",
-              "ToLb": "0774b16",
+              "FromLb": "0390a08",
+              "ToLb": "0390a10",
               "Kwic": "你看他古人一挨一拶，略露風規，非唯虎驟龍驤，直得天回地轉，豈似今時叢林無著眼處？政不知諸大老向什麼處去也",
               "MasterName": "Liao'an Qingyu",
               "Curated": true,
