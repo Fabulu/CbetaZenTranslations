@@ -1005577,11 +1005577,11 @@
               "FromLb": "0073c08",
               "ToLb": "0073c10",
               "Kwic": "師曰：恁麼去一句作麼生道？師曰：步步踏紅塵，通身無影像。山良久，師曰：老和尚何不速道？山曰：子得恁",
-              "MasterName": "Sushan Kuangren",
+              "MasterName": "Qinglin Shiqian",
               "Curated": true,
               "ContextMasters": [
                 {
-                  "MasterName": "Sushan Kuangren",
+                  "MasterName": "Qinglin Shiqian",
                   "Roles": [
                     "utterer"
                   ]
@@ -1005594,7 +1005594,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X81/X81n1568.xml). Strict Lineage of the Five Lamps (Vols. 10–25) (五燈嚴統(第10卷-第25卷)). Speaker: Shushan Kuangren Canonical speaker: Sushan Kuangren; context: Dongshan Liangjie."
+              "AttributionNote": "Source record (X/X81/X81n1568.xml). Strict Lineage of the Five Lamps (Vols. 10–25) (五燈嚴統(第10卷-第25卷)). Speaker: Qinglin Shiqian Canonical speaker: Qinglin Shiqian; context: Dongshan Liangjie."
             },
             {
               "RelPath": "J/J34/J34nB300.xml",
@@ -1005690,11 +1005690,11 @@
               "FromLb": "0269c08",
               "ToLb": "0269c10",
               "Kwic": "師曰。恁麼去一句作麼生道。師曰。步步踏紅塵。通身無影像。山良久。師曰。老和尚何不速道。山曰。子得恁",
-              "MasterName": "Sushan Kuangren",
+              "MasterName": "Qinglin Shiqian",
               "Curated": true,
               "ContextMasters": [
                 {
-                  "MasterName": "Sushan Kuangren",
+                  "MasterName": "Qinglin Shiqian",
                   "Roles": [
                     "utterer"
                   ]
@@ -1005707,7 +1005707,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Speaker: Shushan Kuangren Canonical speaker: Sushan Kuangren; context: Dongshan Liangjie."
+              "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Speaker: Qinglin Shiqian Canonical speaker: Qinglin Shiqian; context: Dongshan Liangjie."
             },
             {
               "RelPath": "D/D48/D48n8939.xml",
@@ -1005749,7 +1005749,7 @@
           ],
           "RelatedMasters": [
             "Kaifu Daoning",
-            "Sushan Kuangren",
+            "Qinglin Shiqian",
             "Dongshan Liangjie",
             "Jifei Ruyi",
             "Yuanwu Keqin",
@@ -1005757,7 +1005757,7 @@
           ],
           "RelatedTerms": [],
           "ClaimAnchors": [],
-          "Explanation": "The whole body has no image or shadow presents a body that leaves no visible duplicate or trace. Shushan gives the line to Dongshan in two transmissions; an unnamed monk answers Chaozong with it, and Jifei and the other retained speakers preserve the same traceless-body image."
+          "Explanation": "The whole body has no image or shadow presents a body that leaves no visible duplicate or trace. Qinglin gives the line to Dongshan in two transmissions; an unnamed monk answers Chaozong with it, and Jifei and the other retained speakers preserve the same traceless-body image."
         }
       ]
     },
