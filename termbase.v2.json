@@ -631071,8 +631071,8 @@
             "dead man verdict"
           ],
           "Status": "preferred",
-          "Validation": "multi-source",
-          "Note": "Six distinct works apply death-language as an encounter verdict to living people, bodily faculties, or failed responsiveness.",
+          "Validation": "provisional",
+          "Note": "Three retained Tier 3 uses support this figurative sense. Dongshan’s dead tongue and Changsha’s dead eye are literal body-part comparisons and belong to the physical-death sense. No Tier 1 or Tier 2 witness is established for the figurative sense.",
           "Occurrences": [
             {
               "RelPath": "X/X82/X82n1571.xml",
@@ -631109,23 +631109,6 @@
               "MasterName": "Liao'an Qingyu"
             },
             {
-              "RelPath": "X/X81/X81n1568.xml",
-              "FromLb": "0066b24",
-              "ToLb": "0066c04",
-              "Kwic": "向禪牀後立。幽曰：和尚為甚麼回避學人？師曰：將謂闍黎不見老僧。問：如何是玄中又玄？師曰：如死人舌。師洗鉢次，見兩烏爭蝦蟇，有僧便問：這箇因甚麼到恁麼地？師曰：祇為闍黎。問：如何是毗盧師、法身主？師曰：禾莖粟榦。問：",
-              "Curated": true,
-              "AttributionNote": "Source record (X/X81/X81n1568.xml). Strict Lineage of the Five Lamps (Vols. 10–25) (五燈嚴統(第10卷-第25卷)): Dongshan Liangjie answers the question, ‘like a dead person's tongue’ (如死人舌); Dongshan, not the questioner, utters the headword.",
-              "ContextMasters": [
-                {
-                  "MasterName": "Dongshan Liangjie",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "MasterName": "Dongshan Liangjie"
-            },
-            {
               "RelPath": "X/X84/X84n1583.xml",
               "FromLb": "0469a09",
               "ToLb": "0469a14",
@@ -631151,6 +631134,75 @@
                 "ReviewedBy": "Codex Gate 3 lane Y full-case repair",
                 "ReviewedUtc": "2026-07-22T00:00:00Z"
               }
+            }
+          ],
+          "ClaimAnchors": [],
+          "SourceTexts": [
+            "X/X82/X82n1571.xml",
+            "X/X64/X64n1260.xml",
+            "X/X84/X84n1583.xml"
+          ],
+          "RelatedMasters": [
+            "Changlu Zongze",
+            "Lia'an Qingyu",
+            "Dongshan Liangjie",
+            "Kongsou Zongyin",
+            "Changsha Jingcen"
+          ],
+          "RelatedTerms": [
+            "平地上死人無數"
+          ],
+          "Explanation": "The lamp records apply “dead person” to people presented as unresponsive or inert: Changlu Zongze counts dead people on a living road, Liao’an Qingyu finds dead people on level ground, and another sermon repeats that level-ground contrast. These are encounter verdicts about living people, not reports of corpses."
+        },
+        {
+          "SenseKey": null,
+          "MasterName": null,
+          "PreferredTarget": "a physically dead person",
+          "AlternateTargets": [
+            "a corpse"
+          ],
+          "SearchAliases": [
+            "dead person",
+            "corpse",
+            "physically dead person"
+          ],
+          "Status": "preferred",
+          "Validation": "multi-source",
+          "Note": "The funeral record is a Tier 2 witness; two distinct lamp similes provide additional contexts. The X66 verse “Zhang San has not died” is a negated predicate and is excluded from this noun sense.",
+          "Occurrences": [
+            {
+              "RelPath": "C/C077/C077n1710.xml",
+              "FromLb": "0714c22",
+              "ToLb": "0715a04",
+              "Kwic": "香師問僧離什麼處云離京中師云你還從潼関過麼云不歷師云今日捉得者販私塩漢因送亡僧師云只是一箇死人得無量人送又云許多死漢送一箇生漢時有僧問是心生是身生師云身心俱不生云者箇作麼生師云死漢有僧見猫兒問云某甲喚作猫兒未審和尚",
+              "Curated": true,
+              "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄): Exact speaker: Zhaozhou Congshen. The complete section confirms the headword-bearing turn.",
+              "ContextMasters": [
+                {
+                  "MasterName": "Zhaozhou Congshen",
+                  "Roles": [
+                    "utterer"
+                  ]
+                }
+              ],
+              "MasterName": "Zhaozhou Congshen"
+            },
+            {
+              "RelPath": "X/X81/X81n1568.xml",
+              "FromLb": "0066b24",
+              "ToLb": "0066c04",
+              "Kwic": "向禪牀後立。幽曰：和尚為甚麼回避學人？師曰：將謂闍黎不見老僧。問：如何是玄中又玄？師曰：如死人舌。師洗鉢次，見兩烏爭蝦蟇，有僧便問：這箇因甚麼到恁麼地？師曰：祇為闍黎。問：如何是毗盧師、法身主？師曰：禾莖粟榦。問：",
+              "Curated": true,
+              "AttributionNote": "Source record (X/X81/X81n1568.xml). Strict Lineage of the Five Lamps (Vols. 10–25) (五燈嚴統(第10卷-第25卷)): Dongshan Liangjie answers the question, ‘like a dead person's tongue’ (如死人舌); Dongshan, not the questioner, utters the headword.",
+              "ContextMasters": [
+                {
+                  "MasterName": "Dongshan Liangjie",
+                  "Roles": [
+                    "utterer"
+                  ]
+                }
+              ],
+              "MasterName": "Dongshan Liangjie"
             },
             {
               "RelPath": "X/X79/X79n1557.xml",
@@ -631172,95 +631224,15 @@
           ],
           "ClaimAnchors": [],
           "SourceTexts": [
-            "X/X82/X82n1571.xml",
-            "X/X64/X64n1260.xml",
-            "X/X81/X81n1568.xml",
-            "X/X84/X84n1583.xml",
-            "X/X79/X79n1557.xml"
-          ],
-          "RelatedMasters": [
-            "Changlu Zongze",
-            "Lia'an Qingyu",
-            "Dongshan Liangjie",
-            "Kongsou Zongyin",
-            "Changsha Jingcen"
-          ],
-          "RelatedTerms": [
-            "平地上死人無數"
-          ],
-          "Explanation": "A living person judged dead is someone the Chan records mark as unresponsive, inert, or without a living turn. Changlu Zongze and Liao'an Qingyu count dead people on an ostensibly living road or level ground; Dongshan Liangjie answers the doubly obscure with ‘like a dead person's tongue,’ and Changsha Jingcen answers with a dead person's eyes and hands. These predicates apply death-language to responsiveness rather than reporting a corpse."
-        },
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "a physically dead person",
-          "AlternateTargets": [
-            "a corpse"
-          ],
-          "SearchAliases": [
-            "dead person",
-            "corpse",
-            "physically dead person"
-          ],
-          "Status": "preferred",
-          "Validation": "multi-source",
-          "Note": "Two distinct works anchor literal death; the Zhaozhou funeral case also contrasts the corpse with living escorts whom he calls dead.",
-          "Occurrences": [
-            {
-              "RelPath": "C/C077/C077n1710.xml",
-              "FromLb": "0714c22",
-              "ToLb": "0715a04",
-              "Kwic": "香師問僧離什麼處云離京中師云你還從潼関過麼云不歷師云今日捉得者販私塩漢因送亡僧師云只是一箇死人得無量人送又云許多死漢送一箇生漢時有僧問是心生是身生師云身心俱不生云者箇作麼生師云死漢有僧見猫兒問云某甲喚作猫兒未審和尚",
-              "Curated": true,
-              "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄): Exact speaker: Zhaozhou Congshen. The complete section confirms the headword-bearing turn.",
-              "ContextMasters": [
-                {
-                  "MasterName": "Zhaozhou Congshen",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "MasterName": "Zhaozhou Congshen"
-            },
-            {
-              "RelPath": "X/X66/X66n1297.xml",
-              "FromLb": "0328a12",
-              "ToLb": "0328a19",
-              "Kwic": "著，暗寫愁腸寄與誰？喫了油餈不赴齋，莊師特特謝師來，千山萬水俱尋徧，踢破芒鞵眼未開。張三未死人，李四來索命，累他東村西舍陳六王八官，賣得田園罄。東街桺色拕烟翠，西巷桃花相映紅，左顧右盻看不足，一時分付與東風。秦人慣",
-              "Curated": true,
-              "AttributionNote": "Source record (X/X66/X66n1297.xml). Grove of the Mirror of the School (宗鑑法林): Exact actor state: the compiler or authored documentary voice. The complete section confirms this attribution state.",
-              "ContextMasters": [],
-              "ActorAttribution": {
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "Codex f004 lane A 926-950 full-case repair author",
-                "ReviewedUtc": "2026-07-15T16:45:00Z",
-                "Status": "narrated",
-                "Kind": "documentary or authored narration",
-                "ActorLabel": "the compiler or authored documentary voice",
-                "ActorRole": "compiler",
-                "GrammarEvidence": "The complete unit uses the token in biography, case introduction, title, citation, or authored exposition rather than direct dialogue."
-              },
-              "MasterName": null
-            }
-          ],
-          "ClaimAnchors": [],
-          "SourceTexts": [
             "C/C077/C077n1710.xml",
-            "X/X66/X66n1297.xml"
+            "X/X81/X81n1568.xml",
+            "X/X79/X79n1557.xml"
           ],
           "RelatedMasters": [
             "Zhaozhou Congshen"
           ],
           "RelatedTerms": [],
-          "Explanation": "A physically dead person is a corpse or someone whose bodily life has ended. Zhaozhou Congshen points to the corpse in a monastic funeral, then reverses the wording by calling that corpse alive and the many escorts dead. A later verse contrasts Zhang San, who has not yet died, with Li Si arriving to claim his life."
+          "Explanation": "A physically dead person is someone whose bodily life has ended. Zhaozhou points to a deceased monk at a funeral and then contrasts that body with living escorts he calls dead. Dongshan and Changsha compare an answer to a dead person’s tongue or eye; those similes invoke bodily death rather than labeling a living interlocutor dead."
         }
       ]
     },
@@ -988330,8 +988302,8 @@
             "路逢達道人"
           ],
           "Status": "preferred",
-          "Validation": "multi-source",
-          "Note": "Three quoted questions and one verse support “when meeting an accomplished person on the road, do not answer with speech or silence” across four distinct works.",
+          "Validation": "provisional",
+          "Note": "Four retained lamp witnesses include three distinct questions and replies plus Xuedou’s verse. The quoted maxim recurs, but these present responses are not one parallel case. No retained Tier 1 or Tier 2 witness supports multi-source validation.",
           "Occurrences": [
             {
               "RelPath": "X/X81/X81n1571.xml",
@@ -1045306,9 +1045278,7 @@
           "SourceTexts": [
             "X/X82/X82n1571.xml",
             "C/C077/C077n1710.xml",
-            "X/X66/X66n1297.xml",
             "X/X81/X81n1568.xml",
-            "X/X80/X80n1565.xml",
             "X/X66/X66n1296.xml",
             "X/X83/X83n1578.xml",
             "X/X64/X64n1260.xml",
@@ -1045338,8 +1045308,8 @@
             "錯"
           ],
           "Status": "preferred",
-          "Validation": "multi-source",
-          "Note": "Different speakers and grammatical roles do not create extra senses; only a different referent does.",
+          "Validation": "provisional",
+          "Note": "The two retained Tier 3 passages concern a compiler’s attribution correction and Mahakasyapa’s check of Ananda’s transmitted wording. They are distinct uses, but lamp-only support remains provisional.",
           "Occurrences": [
             {
               "RelPath": "X/X66/X66n1297.xml",
@@ -1045369,9 +1045339,9 @@
             },
             {
               "RelPath": "X/X80/X80n1565.xml",
-              "FromLb": "0031b22",
-              "ToLb": "0031b22",
-              "Kwic": "不錯謬乎。",
+              "FromLb": "0031b21",
+              "ToLb": "0031b23",
+              "Kwic": "時迦葉問諸比丘。阿難所言。不錯謬乎。皆曰。不異世尊所說。",
               "Curated": true,
               "ContextMasters": [
                 {
@@ -1045381,22 +1045351,14 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元): Mahakasyapa utters the headword. The explicit question frame assigns the sentence to Mahakasyapa before the assembly answers.",
+              "AttributionNote": "Mahakasyapa asks the assembled monks whether Ananda’s recitation of what the Buddha said contains an error; the monks answer that it does not differ from the Buddha’s words. The headword is Mahakasyapa’s exact question, not a generic encounter verdict.",
               "MasterName": "Mahakasyapa"
             }
           ],
           "ClaimAnchors": [],
           "SourceTexts": [
-            "X/X82/X82n1571.xml",
-            "C/C077/C077n1710.xml",
             "X/X66/X66n1297.xml",
-            "X/X81/X81n1568.xml",
-            "X/X80/X80n1565.xml",
-            "X/X66/X66n1296.xml",
-            "X/X83/X83n1578.xml",
-            "X/X64/X64n1260.xml",
-            "X/X84/X84n1583.xml",
-            "X/X79/X79n1557.xml"
+            "X/X80/X80n1565.xml"
           ],
           "RelatedMasters": [
             "Huqiu Shaolong",
