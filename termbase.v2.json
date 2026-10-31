@@ -7280,7 +7280,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi urges listeners to hold the question of where they will go when the next breath fails."
+              "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai urges his listeners to cultivate a clear mind rather than follow greed, anger, and confusion. He tells them to hold one question: when the next breath does not come, where will they go? He warns against reasoning it away and compares such analysis to a drop of water spoiling a rich medicine. The phrase introduces Wuyi's present inquiry into death and direct inquiry; it is not an answer about a literal destination."
             },
             {
               "RelPath": "J/J36/J36nB369.xml",
@@ -7298,7 +7298,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan. Zhe'an asks what repeating a graceful spring saying would accomplish when the breath stops."
+              "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan. In a hall sermon Zhe'an Jingfan urges everyone to recognize their original face amid pleasant spring scenery. He asks what use it would be, when the next breath does not come, to recite a graceful line about spring light and flowering branches. He then raises his fly-whisk and speaks of the Buddhas teaching from it. The phrase tests whether a polished saying can meet death; the spring verse is the inadequate proposed response, not Zhe'an's answer to the death question."
             },
             {
               "RelPath": "J/J34/J34nB311.xml",
@@ -7316,7 +7316,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. Juelang imagines a sudden demand to say where one goes when the next breath fails."
+              "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. At the opening of teaching at Linggu, Juelang Daosheng asks the brothers who knew his teacher Boshan to investigate the matter for themselves and offers to test anyone who has an entry. He imagines meeting a faceless challenger in a narrow passage who blocks their throats and demands to know where they will go when the next breath does not come. Juelang says they must be able to turn and speak there, then asks what to do right now. The last-breath question is part of Juelang's imagined challenge, not an actual second speaker at this gathering."
             },
             {
               "RelPath": "X/X72/X72n1443.xml",
@@ -7334,25 +7334,32 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X72/X72n1443.xml). Recorded Sayings of Chan Master Zongbao Daodu. Daodu says the matter must be met as directly as the instant a breath fails to come."
+              "AttributionNote": "Source record (X/X72/X72n1443.xml). Recorded Sayings of Chan Master Zongbao Daodu. After citing verses by Changsha and Nanquan, Kongyin Daodu asks what it is to be a person who goes beyond inherited teachings. He says this matter cannot be known by intelligence or ordinary consciousness and must be met before one's eyes as directly as when a breath fails to come. He warns that trying to settle on it through thought only resembles accord while remaining far away. Here the phrase is Kongyin's image of immediate urgency, not a prediction about a listener's death."
             },
             {
               "RelPath": "X/X72/X72n1437.xml",
               "FromLb": "0388b23",
               "ToLb": "0388c13",
               "Kwic": "逢相賀沒來由。至於老僧手裏拂子還增一歲否？諸人莫道無歲好，無舌兒童親口道，不萌枝上辨春秋，無影波中紅日杲，黧奴白牯却知有，出門有路落荒草。今日乃元旦啟祚之辰，老僧特為陞座祝延聖壽，即今報恩護國一句作麼生道？金輪永鎮三千界，寶籙長延億萬年。恒如老友請示眾。老僧昔年與恒如老友同入博山社火，其時博山老人祇以一口氣不來向甚麼處去話鈍置天下人，至今二十五年矣。今日恒如特登山見訪，不免重拈舊話報博山恩去也。生從何來？鐵鋸舞三臺；死從何去？三臺吞鐵鋸。勿以明相覩，勿以暗相遇，坐斷兩頭關，銀花開鐵樹。堪咲當年博山老不解放行，祇解把住老僧今日放行去也。諸人還會麼？咦！夜半石人方反側，一場好夢向誰言？我聞老宿入塔請示眾：枯木裏有龍",
-              "MasterName": "Yongjue Yuanxian",
+              "MasterName": "Wuyi Yuanlai",
               "Curated": true,
               "ContextMasters": [
                 {
-                  "MasterName": "Yongjue Yuanxian",
+                  "MasterName": "Wuyi Yuanlai",
                   "Roles": [
                     "utterer",
+                    "case-figure"
+                  ]
+                },
+                {
+                  "MasterName": "Yongjue Yuanxian",
+                  "Roles": [
+                    "commentator",
                     "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian. Yongjue recalls how Boshan's last-breath question challenged people for years and takes it up anew."
+              "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian. When his old friend Hengru visits, Yongjue Yuanxian recalls how Boshan elder used to press everyone with the question of where one goes when the next breath does not come, a question still remembered after twenty-five years. Yongjue announces that he will take up the old question again to repay Boshan, and answers birth and death with paired iron-saw images before contrasting Boshan's holding back with his own release. Boshan is the earlier questioner being quoted; Yongjue is the present narrator and interpreter who deliberately reprises it."
             },
             {
               "RelPath": "J/J33/J33nB286.xml",
@@ -7370,7 +7377,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J33/J33nB286.xml). Recorded Sayings of Chan Master Yingningjing. Yingning warns that ordinary awareness gives no stable footing when the breath stops."
+              "AttributionNote": "Source record (J/J33/J33nB286.xml). Recorded Sayings of Chan Master Yingningjing. Yingning Zhijing addresses monks and laypeople, men and women, saying each can see, hear, smell, and walk. He warns that when the next breath does not come, ordinary karmic awareness may leave them without a firm source to rely on because attachment has obscured their own ground. He then cites Yunmen's hidden treasure and strikes his ritual object to press the assembly to see it. The phrase is Yingning's warning against postponing recognition, not speech by Yunmen in the later quotation."
             },
             {
               "RelPath": "J/J38/J38nB406.xml",
@@ -7388,7 +7395,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran asks whether a person's current strength would still help when breathing stops."
+              "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran Hanshi asks listeners to examine whether they can remain in charge when circumstances and old habits press them. Even if reasoning seems to settle feelings now, he asks whether that strength will still help when the next breath does not come and another life begins. He warns against borrowing an old master's bold words about heaven and hell as a substitute for thorough realization. The phrase is Tianran's test of claimed insight against mortality, not an assertion that sitting practice has already solved it."
             },
             {
               "RelPath": "J/J29/J29nB234.xml",
@@ -7406,7 +7413,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J29/J29nB234.xml). Recorded Sayings of Chan Master Yichuyuan. Yichu brings before birth, the failed breath, and the present matter into one line and tells the mourners not to remain in doubt."
+              "AttributionNote": "Source record (J/J29/J29nB234.xml). Recorded Sayings of Chan Master Yichuyuan. At a memorial talk requested by a son for his father, a monk asks Yichu Wuyuan for a phrase to commend the deceased, and Yichu answers with bright lamps and clear incense. A lay questioner then asks where one was before birth, what happens when the next breath does not come, and what is happening now; Yichu strikes after each question and checks the attempt to continue. He finally repeats all three themes together and tells the mourners not to doubt. The last-breath phrase is first the layman's question and then Yichu's deliberate reprise, not an isolated death prediction."
             }
           ],
           "ClaimAnchors": [
@@ -7426,7 +7433,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi urges listeners to hold the question of where they will go when the next breath fails.",
+              "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai urges his listeners to cultivate a clear mind rather than follow greed, anger, and confusion. He tells them to hold one question: when the next breath does not come, where will they go? He warns against reasoning it away and compares such analysis to a drop of water spoiling a rich medicine. The phrase introduces Wuyi's present inquiry into death and direct inquiry; it is not an answer about a literal destination.",
               "ClaimText": "單提一口氣不來，畢竟向甚麼處去"
             },
             {
@@ -7445,7 +7452,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan. Zhe'an asks what repeating a graceful spring saying would accomplish when the breath stops.",
+              "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan. In a hall sermon Zhe'an Jingfan urges everyone to recognize their original face amid pleasant spring scenery. He asks what use it would be, when the next breath does not come, to recite a graceful line about spring light and flowering branches. He then raises his fly-whisk and speaks of the Buddhas teaching from it. The phrase tests whether a polished saying can meet death; the spring verse is the inadequate proposed response, not Zhe'an's answer to the death question.",
               "ClaimText": "若到一口氣不來，道箇春光無向背"
             },
             {
@@ -7464,7 +7471,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. Juelang imagines a sudden demand to say where one goes when the next breath fails.",
+              "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. At the opening of teaching at Linggu, Juelang Daosheng asks the brothers who knew his teacher Boshan to investigate the matter for themselves and offers to test anyone who has an entry. He imagines meeting a faceless challenger in a narrow passage who blocks their throats and demands to know where they will go when the next breath does not come. Juelang says they must be able to turn and speak there, then asks what to do right now. The last-breath question is part of Juelang's imagined challenge, not an actual second speaker at this gathering.",
               "ClaimText": "你速道，一口氣不來，畢究向何處去"
             },
             {
@@ -7483,7 +7490,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X72/X72n1443.xml). Recorded Sayings of Chan Master Zongbao Daodu. Daodu says the matter must be met as directly as the instant a breath fails to come.",
+              "AttributionNote": "Source record (X/X72/X72n1443.xml). Recorded Sayings of Chan Master Zongbao Daodu. After citing verses by Changsha and Nanquan, Kongyin Daodu asks what it is to be a person who goes beyond inherited teachings. He says this matter cannot be known by intelligence or ordinary consciousness and must be met before one's eyes as directly as when a breath fails to come. He warns that trying to settle on it through thought only resembles accord while remaining far away. Here the phrase is Kongyin's image of immediate urgency, not a prediction about a listener's death.",
               "ClaimText": "即今目前直如一口氣不來，方有少分相應"
             },
             {
@@ -7491,18 +7498,25 @@
               "FromLb": "0388b23",
               "ToLb": "0388c13",
               "Kwic": "逢相賀沒來由。至於老僧手裏拂子還增一歲否？諸人莫道無歲好，無舌兒童親口道，不萌枝上辨春秋，無影波中紅日杲，黧奴白牯却知有，出門有路落荒草。今日乃元旦啟祚之辰，老僧特為陞座祝延聖壽，即今報恩護國一句作麼生道？金輪永鎮三千界，寶籙長延億萬年。恒如老友請示眾。老僧昔年與恒如老友同入博山社火，其時博山老人祇以一口氣不來向甚麼處去話鈍置天下人，至今二十五年矣。今日恒如特登山見訪，不免重拈舊話報博山恩去也。生從何來？鐵鋸舞三臺；死從何去？三臺吞鐵鋸。勿以明相覩，勿以暗相遇，坐斷兩頭關，銀花開鐵樹。堪咲當年博山老不解放行，祇解把住老僧今日放行去也。諸人還會麼？咦！夜半石人方反側，一場好夢向誰言？我聞老宿入塔請示眾：枯木裏有龍",
-              "MasterName": "Yongjue Yuanxian",
+              "MasterName": "Wuyi Yuanlai",
               "Curated": true,
               "ContextMasters": [
                 {
-                  "MasterName": "Yongjue Yuanxian",
+                  "MasterName": "Wuyi Yuanlai",
                   "Roles": [
                     "utterer",
+                    "case-figure"
+                  ]
+                },
+                {
+                  "MasterName": "Yongjue Yuanxian",
+                  "Roles": [
+                    "commentator",
                     "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian. Yongjue recalls how Boshan's last-breath question challenged people for years and takes it up anew.",
+              "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian. When his old friend Hengru visits, Yongjue Yuanxian recalls how Boshan elder used to press everyone with the question of where one goes when the next breath does not come, a question still remembered after twenty-five years. Yongjue announces that he will take up the old question again to repay Boshan, and answers birth and death with paired iron-saw images before contrasting Boshan's holding back with his own release. Boshan is the earlier questioner being quoted; Yongjue is the present narrator and interpreter who deliberately reprises it.",
               "ClaimText": "博山老人祇以一口氣不來向甚麼處去話鈍置天下人"
             },
             {
@@ -7521,7 +7535,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J33/J33nB286.xml). Recorded Sayings of Chan Master Yingningjing. Yingning warns that ordinary awareness gives no stable footing when the breath stops.",
+              "AttributionNote": "Source record (J/J33/J33nB286.xml). Recorded Sayings of Chan Master Yingningjing. Yingning Zhijing addresses monks and laypeople, men and women, saying each can see, hear, smell, and walk. He warns that when the next breath does not come, ordinary karmic awareness may leave them without a firm source to rely on because attachment has obscured their own ground. He then cites Yunmen's hidden treasure and strikes his ritual object to press the assembly to see it. The phrase is Yingning's warning against postponing recognition, not speech by Yunmen in the later quotation.",
               "ClaimText": "但汝等一口氣不來時，則又業識茫茫，無本可據"
             },
             {
@@ -7540,7 +7554,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran asks whether a person's current strength would still help when breathing stops.",
+              "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran Hanshi asks listeners to examine whether they can remain in charge when circumstances and old habits press them. Even if reasoning seems to settle feelings now, he asks whether that strength will still help when the next breath does not come and another life begins. He warns against borrowing an old master's bold words about heaven and hell as a substitute for thorough realization. The phrase is Tianran's test of claimed insight against mortality, not an assertion that sitting practice has already solved it.",
               "ClaimText": "若到一口氣不來，他生隔陰，現今得力底還用得著麼"
             },
             {
@@ -7559,7 +7573,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J29/J29nB234.xml). Recorded Sayings of Chan Master Yichuyuan. Yichu brings before birth, the failed breath, and the present matter into one line and tells the mourners not to remain in doubt.",
+              "AttributionNote": "Source record (J/J29/J29nB234.xml). Recorded Sayings of Chan Master Yichuyuan. At a memorial talk requested by a son for his father, a monk asks Yichu Wuyuan for a phrase to commend the deceased, and Yichu answers with bright lamps and clear incense. A lay questioner then asks where one was before birth, what happens when the next breath does not come, and what is happening now; Yichu strikes after each question and checks the attempt to continue. He finally repeats all three themes together and tells the mourners not to doubt. The last-breath phrase is first the layman's question and then Yichu's deliberate reprise, not an isolated death prediction.",
               "ClaimText": "父母未生前，一口氣不來，即今現在事，不用更疑猜"
             }
           ],
@@ -7584,7 +7598,7 @@
             "Yichu Wuyuan"
           ],
           "RelatedTerms": [],
-          "Explanation": "When the next breath does not come: Chan speakers use this image of death to demand a response from the life one is living now. Wuyi Yuanlai tells listeners to hold the question of where they will go when breathing stops without reasoning it away. Zhe'an Jingfan asks what a polished spring answer would be worth at that moment. Juelang Daosheng imagines someone demanding an immediate reply to the last-breath question in an opening address. Kongyin Daodu says the matter under discussion must be met as directly as that instant, beyond analysis. Yongjue Yuanxian recalls his teacher's enduring last-breath question and takes it up again before a visitor. Yingning Zhijing warns that worldly awareness offers no footing when breath stops. Tianran Hanshi asks whether strength claimed now will still serve at death. Yichu Wuyuan brings before birth, the last breath, and what is occurring now together in a memorial address."
+          "Explanation": "When the next breath does not come: eight teachers use this death image to test present understanding, inquiry, or response. Wuyi Yuanlai urges his listeners to cultivate a clear mind rather than follow greed, anger, and confusion. He tells them to hold one question: when the next breath does not come, where will they go? He warns against reasoning it away and compares such analysis to a drop of water spoiling a rich medicine. The phrase introduces Wuyi's present inquiry into death and direct inquiry; it is not an answer about a literal destination. In a hall sermon Zhe'an Jingfan urges everyone to recognize their original face amid pleasant spring scenery. He asks what use it would be, when the next breath does not come, to recite a graceful line about spring light and flowering branches. He then raises his fly-whisk and speaks of the Buddhas teaching from it. The phrase tests whether a polished saying can meet death; the spring verse is the inadequate proposed response, not Zhe'an's answer to the death question. At the opening of teaching at Linggu, Juelang Daosheng asks the brothers who knew his teacher Boshan to investigate the matter for themselves and offers to test anyone who has an entry. He imagines meeting a faceless challenger in a narrow passage who blocks their throats and demands to know where they will go when the next breath does not come. Juelang says they must be able to turn and speak there, then asks what to do right now. The last-breath question is part of Juelang's imagined challenge, not an actual second speaker at this gathering. After citing verses by Changsha and Nanquan, Kongyin Daodu asks what it is to be a person who goes beyond inherited teachings. He says this matter cannot be known by intelligence or ordinary consciousness and must be met before one's eyes as directly as when a breath fails to come. He warns that trying to settle on it through thought only resembles accord while remaining far away. Here the phrase is Kongyin's image of immediate urgency, not a prediction about a listener's death. When his old friend Hengru visits, Yongjue Yuanxian recalls how Boshan elder used to press everyone with the question of where one goes when the next breath does not come, a question still remembered after twenty-five years. Yongjue announces that he will take up the old question again to repay Boshan, and answers birth and death with paired iron-saw images before contrasting Boshan's holding back with his own release. Boshan is the earlier questioner being quoted; Yongjue is the present narrator and interpreter who deliberately reprises it. Yingning Zhijing addresses monks and laypeople, men and women, saying each can see, hear, smell, and walk. He warns that when the next breath does not come, ordinary karmic awareness may leave them without a firm source to rely on because attachment has obscured their own ground. He then cites Yunmen's hidden treasure and strikes his ritual object to press the assembly to see it. The phrase is Yingning's warning against postponing recognition, not speech by Yunmen in the later quotation. Tianran Hanshi asks listeners to examine whether they can remain in charge when circumstances and old habits press them. Even if reasoning seems to settle feelings now, he asks whether that strength will still help when the next breath does not come and another life begins. He warns against borrowing an old master's bold words about heaven and hell as a substitute for thorough realization. The phrase is Tianran's test of claimed insight against mortality, not an assertion that sitting practice has already solved it. At a memorial talk requested by a son for his father, a monk asks Yichu Wuyuan for a phrase to commend the deceased, and Yichu answers with bright lamps and clear incense. A lay questioner then asks where one was before birth, what happens when the next breath does not come, and what is happening now; Yichu strikes after each question and checks the attempt to continue. He finally repeats all three themes together and tells the mourners not to doubt. The last-breath phrase is first the layman's question and then Yichu's deliberate reprise, not an isolated death prediction."
         }
       ]
     },
