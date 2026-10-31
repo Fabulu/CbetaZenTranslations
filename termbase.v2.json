@@ -50938,7 +50938,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "Sanyi gives this verdict when asked how to meet someone who will not follow the prior terms; the monk still responds. Xueguan says it after a monastic challenges whether seeing him differs from seeing other teachers, and the exchange continues. Baichi uses it to answer a request for direct pointing, Yunwai says it after a monk contests his guess about where the monk came from, and Juelang says it after an exalted claim about a peaceful state. The formula is a dismissal and a further test; these passages do not report thirty staff blows actually delivered.",
+          "Note": "Sanyi speaks it when asked how to meet someone outside earlier terms; Xueguan says it after a visitor questions how seeing him differs from seeing others; Baichi uses it against a request for direct pointing; Yunwai says it after a monk contests his guess about the monk's origin; Juelang answers a lofty claim and then faces a further question. The verdict dismisses or tests the speaker, and the following replies matter to its local force. No retained passage records thirty physical blows delivered with this exact phrase.",
           "Occurrences": [
             {
               "RelPath": "J/J27/J27nB189.xml",
@@ -50956,7 +50956,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi answers how to meet one who rejects the preceding terms."
+              "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi Mingyu is answering a monk who first contrasts an earlier time of concealment with a later time of full exposure. The monk asks how Sanyi would meet someone who comes in neither of those ways. Sanyi replies that the visitor should take thirty blows and go out. The monk answers in verse; Sanyi warns him not to knock over the exposed pillar, and their exchange continues. The headword is Sanyi's spoken verdict in a live verbal contest. The passage does not say that thirty blows were physically delivered."
             },
             {
               "RelPath": "J/J27/J27nB198.xml",
@@ -50974,7 +50974,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J27/J27nB198.xml). Recorded Sayings of Chan Master Xueguan. Xueguan delivers the verdict after a monastic challenges the meaning of seeing him."
+              "AttributionNote": "Source record (J/J27/J27nB198.xml). Recorded Sayings of Chan Master Xueguan. Xueguan Zhiyin questions a returning practitioner who claims not to have seen anyone on his travels. When Xueguan asks whether he sees the teacher before him, the visitor replies that seeing him would be no different from seeing other teachers. Xueguan says he cannot deceive the visitor today; after another reply, he tells the visitor to take thirty blows and leave. The visitor says the teacher should not rely wholly on him, and Xueguan stops. The exact phrase marks a sharp turn in their exchange, without a recorded delivery of thirty staff blows."
             },
             {
               "RelPath": "J/J28/J28nB202.xml",
@@ -50992,7 +50992,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi answers a request for direct pointing with the verdict."
+              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. During an address requested by precept recipients, a monk tells Baichi Xingyuan that taking precepts concerns concentration while seated practice concerns wisdom, and asks Baichi to point directly because he has not understood the teaching. Baichi replies that the monk should take thirty blows and go out. The monk then claims to see Shakyamuni manifest on the tip of the staff; Baichi warns him not to drag Shakyamuni into it and continues his sermon. The phrase is Baichi's immediate challenge to a request for a ready explanation, not a report that he struck the monk thirty times."
             },
             {
               "RelPath": "J/J33/J33nB280.xml",
@@ -51010,7 +51010,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending. Yunwai ends a dispute over a monk’s origin with the exact verdict."
+              "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending. Yunwai Xingze asks a monk where he has come from. The monk tells him not to meddle; Yunwai laughs and guesses that he came from Lushan, and the monk says Yunwai has misunderstood. Yunwai then tells him to take thirty blows and go out. A nearby earlier encounter contains a similar but differently ordered dismissal, and later encounters record actual blows; this exact phrase belongs to the origin-question exchange and does not itself report a physical beating."
             },
             {
               "RelPath": "J/J34/J34nB311.xml",
@@ -51028,10 +51028,106 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. Juelang answers a lofty claim of arrival at a peaceful state."
+              "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. At a hall talk at Taiding Monastery, a monk asks whose realm the falling leaves and clear autumn water represent. Juelang Daosheng says that he crossed the river the other day. The monk then asks whose affair it is to be at Taiding already before leaving Yuantong Monastery, recalling Juelang's move between the two places. Juelang tells him to take thirty blows and go out. The monk presses him: a blow may be one thing, but what is the point? Juelang answers by telling him to step back three thousand miles, and the exchange continues. The formula is a pointed answer in this travel and teaching context; no thirty blows are recorded as delivered. The two monastery names can also invite verbal play, but the local heading establishes them as places."
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J27/J27nB189.xml",
+              "FromLb": "0038c05",
+              "ToLb": "0038c23",
+              "Kwic": "得好。」僧禮拜云：「作家宗師。」僧問：「今日比丘追薦先亡。未審先亡，超登何處？」師云：「雨過君山一點青。」僧問：「陵鑠諸方，氣吞佛祖，以此為極，還有向上事也無？」師云：「達磨祖師在你鼻尖上，還見麼？」進云：「橫開盡在枝頭上，無有風流別樣奇。」師云：「教你吞吐不下。」僧問：「二十年前左遮右掩時如何？」師云：「謾上座一點不得。」進云：「二十年後通身顯露，又作麼生？」師云：「蒼天！蒼天！」進云：「忽有箇漢總不恁麼來時，如何與他相見？」師云：「三十棒自領出去。」進云：「坐斷十方猶點額，密迻一步看飛龍。」師云：「切忌撞倒露柱。」進云：「順水張帆易，逆風把舵難。」師云：「倒也，倒也。」僧問：「斬釘截鐵，固是作家宗師；絲豪不滯，亦是通方作者。舊舖重開，如何酬唱？」師云：「明讓不賒。」進云：「石傘峰側耳，秦望山吟哦。且道明甚麼邊事？」師云：「莫將黃葉當春華。」進云：「好箇斬釘截鐵宗師。」師云：「莫塗污人好。」僧云：「噁。」僧問：「昔日亮座主見馬大師後，一入西山，杳無消息，未審他見箇甚麼道理便恁麼去",
+              "MasterName": "Sanyi Mingyu",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Sanyi Mingyu",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi Mingyu is answering a monk who first contrasts an earlier time of concealment with a later time of full exposure. The monk asks how Sanyi would meet someone who comes in neither of those ways. Sanyi replies that the visitor should take thirty blows and go out. The monk answers in verse; Sanyi warns him not to knock over the exposed pillar, and their exchange continues. The headword is Sanyi's spoken verdict in a live verbal contest. The passage does not say that thirty blows were physically delivered.",
+              "ClaimText": "三十棒自領出去"
+            },
+            {
+              "RelPath": "J/J27/J27nB198.xml",
+              "FromLb": "0467b12",
+              "ToLb": "0467c01",
+              "Kwic": "示？」師曰：「不萌之艸為甚能藏香象？」犙曰：「好者畜生，欲隱彌露。」師曰：「古澗寒泉水作何色？」犙曰：「五眼覷不得。」師曰：「徹底無依，向甚麼處安身立命？」犙曰：「鋤卻虛空帶活埋。」師曰：「放汝三十棒。」犙便珍重。師住妙行在，犙禪入回覲，師曰：「子會見什麼人來？」曰：「某甲不見一人。」師曰：「子眼何太高？」曰：「和尚莫污人好。」師曰：「還見老僧麼？」曰：「若見和尚，何異諸方？」師曰：「老僧今日欺汝不得也。」曰：「爭敢冤屈和尚？」師曰：「三十棒自領出去！」曰：「和尚莫全靠學人。」師便休。答捨逸居士參禪要語答捨逸居士參禪要語夫禪門之學，非世間語言文字，乃心法妙悟，超乎情見之局量者也。然非獨方袍圓頂而後可以從事斯道，即在家塵勞中，色聲對待之際、賓主酬酢之時，乃至咳唾掉臂、折旋俯仰，六根門頭皆有自己真佛放光，妙在處處參尋、心心提醒，忽然開口咬著舌、洗面抹著鼻，便知本來成佛不假外求矣！然乎生佛無殊，秪在迷悟兩字遂隔霄壤，故龍女七歲獻珠，頓然成道；善財一生取證，不歷僧祗，如一向無臂之人，忽獲兩",
+              "MasterName": "Xueguan Zhiyin",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Xueguan Zhiyin",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J27/J27nB198.xml). Recorded Sayings of Chan Master Xueguan. Xueguan Zhiyin questions a returning practitioner who claims not to have seen anyone on his travels. When Xueguan asks whether he sees the teacher before him, the visitor replies that seeing him would be no different from seeing other teachers. Xueguan says he cannot deceive the visitor today; after another reply, he tells the visitor to take thirty blows and leave. The visitor says the teacher should not rely wholly on him, and Xueguan stops. The exact phrase marks a sharp turn in their exchange, without a recorded delivery of thirty staff blows.",
+              "ClaimText": "三十棒自領出去"
+            },
+            {
+              "RelPath": "J/J28/J28nB202.xml",
+              "FromLb": "0074a15",
+              "ToLb": "0074b04",
+              "Kwic": "誰信今朝弄巧成？」復舉古德云：「臘八喫雞羹，纔疑禍便生，溪邊楊柳影，不礙釣舟行。」後傑峰和尚拈云：「古德與麼道，大悟不拘於小節，未免與賊張梯，引邪入正。興國則不然，臘八喫紅糟，叢林意氣豪，酣酣沉醉倒，更不惹風騷。」師云：「一箇半斤，一箇八兩，若要循途守轍，驅邪皈正，須還秉拂上座始得。臘八喫香麋，禪和樂有餘，渾身都煖熱，不怕雪風吹。」戒子請秉拂。僧問：「受戒是學定，坐禪是學慧，吾師舉唱宗風是定慧雙忘，學人昏鈍未明，求師當陽指出。」師云：「三十棒自領出去。」進云：「恁麼則釋迦老子在拄杖頭上現身了也。」師云：「莫帶累釋迦老子好。」乃云：「應現男女身得度者，即現男女身而為說法；應以菩薩身得度者，即現菩薩身而為說法。而今此身已現，且作麼生是說底法？」遂拈拄杖，卓一卓，云：「南無佛陀，南無達摩，南無僧伽，總在這裏放大寶光。其光從口出，非青、黃、赤、白，是汝諸人還見也無？若也見得，可謂心珠日朗，性海波澄，一念圓明，十方普照，寒梅綴玉無非盧舍家風，翠竹篩金盡屬能仁境界，乃至諸天拱手、外道歸降，一切",
+              "MasterName": "Baichi Xingyuan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Baichi Xingyuan",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. During an address requested by precept recipients, a monk tells Baichi Xingyuan that taking precepts concerns concentration while seated practice concerns wisdom, and asks Baichi to point directly because he has not understood the teaching. Baichi replies that the monk should take thirty blows and go out. The monk then claims to see Shakyamuni manifest on the tip of the staff; Baichi warns him not to drag Shakyamuni into it and continues his sermon. The phrase is Baichi's immediate challenge to a request for a ready explanation, not a report that he struck the monk thirty times.",
+              "ClaimText": "三十棒自領出去"
+            },
+            {
+              "RelPath": "J/J33/J33nB280.xml",
+              "FromLb": "0286b21",
+              "ToLb": "0286c09",
+              "Kwic": "」師云：「對山僧何得妄語？」僧云：「沒有。」師云：「這裏不著客作漢。」師問僧：「何處過冬？」僧云：「某甲從來無住處。」師云：「雞棲鳳巢，非其同類。」僧喝，師打云：「又道無住處。」師問僧：「你一路來，為什麼偷我草鞋著？」僧云：「和尚何得贓誣學人？」師呵呵笑云：「你道什麼？說明白些。」僧云：「和尚何得贓誣學人？」師云：「死蝦蟆！自領三十棒出去。」師問僧：「何來？」僧云：「和尚莫多事。」師呵呵笑云：「廬山來的僧。」僧云：「錯會不少。」師云：「三十棒自領出去。」師問僧：「作甚麼？」僧喝，師呵呵大笑。僧無對，師便打。師問僧：「近日工夫如何？」僧云：「一切平常。」師喚行者：「將水來與者僧洗面著。」僧無語，師打云：「好箇一切平常。」僧擬開口，師喝出。僧舉：「一尊宿因僧問：『一切眾生皆順孝道，因甚土梟食母？』荅云：『冤家路窄。』山翁和尚別云：『直須揮劍，若不揮劍，漁父棲巢。』今請和尚再別一語。」遂舉前問，師云：「古今榜樣。」僧問：「世尊今日成正覺，如何是正覺？」師云：「科頭打坐。」進云：「濟上門庭",
+              "MasterName": "Yunwai Xingze",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yunwai Xingze",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending. Yunwai Xingze asks a monk where he has come from. The monk tells him not to meddle; Yunwai laughs and guesses that he came from Lushan, and the monk says Yunwai has misunderstood. Yunwai then tells him to take thirty blows and go out. A nearby earlier encounter contains a similar but differently ordered dismissal, and later encounters record actual blows; this exact phrase belongs to the origin-question exchange and does not itself report a physical beating.",
+              "ClaimText": "三十棒自領出去"
+            },
+            {
+              "RelPath": "J/J34/J34nB311.xml",
+              "FromLb": "0600b13",
+              "ToLb": "0600b29",
+              "Kwic": "云：「梵剎重新，古佛登座，秋風拂地，法雨飛空，伏乞大師慈悲指示。」師命白椎著。僧問：「自古江西稱選佛場，今日和尚重開馬祖門庭，還是選甚麼人作佛？」師舉如意示云：「選甚麼？」進云：「設遇牢籠不肯住、呼喚不回頭底又作麼生？」師云：「知你倒聽有分。」進云：「恁麼則單刀直入堂奧去也。」師云：「速退。」僧拜云：「大眾證盟。」又僧問：「金風落葉，秋水澄清，是甚麼人境界？」師云：「山僧前日渡江來。」進云：「未離圓通，已居泰定，是甚麼人底事？」師云：「三十棒自領出去。」進云：「打即不無，畢竟意旨作麼生？」師云：「倒退三千里。」進云：「馬駒踏殺，天下混亂，江西和尚今日重來添鹽添醋麼？」師云：「非公境界。」進云：「恁麼則法雲彌布，法雨普施去也。」師云：「且退著。」又僧問：「圓伊三點縱橫妙，普門示現事如何？」師云：「高著眼。」進云：「大士三十二應，和尚是那一應？」師拱手云：「看取當人。」進云：「今日劉居士請和尚開堂說法，還有為人處也無？」師云：「兩手接乾坤。」進云：「秪如不涉機緣一句又作麼生？」師豎拳示",
+              "MasterName": "Juelang Daosheng",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Juelang Daosheng",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. At a hall talk at Taiding Monastery, a monk asks whose realm the falling leaves and clear autumn water represent. Juelang Daosheng says that he crossed the river the other day. The monk then asks whose affair it is to be at Taiding already before leaving Yuantong Monastery, recalling Juelang's move between the two places. Juelang tells him to take thirty blows and go out. The monk presses him: a blow may be one thing, but what is the point? Juelang answers by telling him to step back three thousand miles, and the exchange continues. The formula is a pointed answer in this travel and teaching context; no thirty blows are recorded as delivered. The two monastery names can also invite verbal play, but the local heading establishes them as places.",
+              "ClaimText": "三十棒自領出去"
+            }
+          ],
           "SourceTexts": [
             "J/J27/J27nB189.xml",
             "J/J27/J27nB198.xml",
@@ -51047,7 +51143,7 @@
             "Juelang Daosheng"
           ],
           "RelatedTerms": [],
-          "Explanation": "A master tells the visitor to take thirty blows and leave, then watches whether the encounter continues. Sanyi and Xueguan use the verdict after interlocutors challenge the frame of the meeting. Baichi, Yunwai, and Juelang use it against requests or replies that seek a ready conclusion."
+          "Explanation": "Five teachers use the command to take thirty blows and go out as an immediate verbal answer when a monk pushes for a settled position. Each exchange continues after the command; none of these five exact turns records thirty blows being delivered. Sanyi Mingyu is answering a monk who first contrasts an earlier time of concealment with a later time of full exposure. The monk asks how Sanyi would meet someone who comes in neither of those ways. Sanyi replies that the visitor should take thirty blows and go out. The monk answers in verse; Sanyi warns him not to knock over the exposed pillar, and their exchange continues. The headword is Sanyi's spoken verdict in a live verbal contest. The passage does not say that thirty blows were physically delivered. Xueguan Zhiyin questions a returning practitioner who claims not to have seen anyone on his travels. When Xueguan asks whether he sees the teacher before him, the visitor replies that seeing him would be no different from seeing other teachers. Xueguan says he cannot deceive the visitor today; after another reply, he tells the visitor to take thirty blows and leave. The visitor says the teacher should not rely wholly on him, and Xueguan stops. The exact phrase marks a sharp turn in their exchange, without a recorded delivery of thirty staff blows. During an address requested by precept recipients, a monk tells Baichi Xingyuan that taking precepts concerns concentration while seated practice concerns wisdom, and asks Baichi to point directly because he has not understood the teaching. Baichi replies that the monk should take thirty blows and go out. The monk then claims to see Shakyamuni manifest on the tip of the staff; Baichi warns him not to drag Shakyamuni into it and continues his sermon. The phrase is Baichi's immediate challenge to a request for a ready explanation, not a report that he struck the monk thirty times. Yunwai Xingze asks a monk where he has come from. The monk tells him not to meddle; Yunwai laughs and guesses that he came from Lushan, and the monk says Yunwai has misunderstood. Yunwai then tells him to take thirty blows and go out. A nearby earlier encounter contains a similar but differently ordered dismissal, and later encounters record actual blows; this exact phrase belongs to the origin-question exchange and does not itself report a physical beating. At a hall talk at Taiding Monastery, a monk asks whose realm the falling leaves and clear autumn water represent. Juelang Daosheng says that he crossed the river the other day. The monk then asks whose affair it is to be at Taiding already before leaving Yuantong Monastery, recalling Juelang's move between the two places. Juelang tells him to take thirty blows and go out. The monk presses him: a blow may be one thing, but what is the point? Juelang answers by telling him to step back three thousand miles, and the exchange continues. The formula is a pointed answer in this travel and teaching context; no thirty blows are recorded as delivered. The two monastery names can also invite verbal play, but the local heading establishes them as places."
         }
       ]
     },
