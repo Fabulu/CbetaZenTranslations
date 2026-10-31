@@ -28425,105 +28425,54 @@
               "FromLb": "0087b12",
               "ToLb": "0087c06",
               "Kwic": "作甚麼？」僧又喝，山云：「恰遇棒不在手。」僧云：「草賊大敗。」山云：「今日又似得便宜，又似失便宜。」拈云：「首山有入地之謀，這僧具衝天之略，雖然，兩不相傷，未免二俱弄險，畢竟如何？雪後始知松柏操，事難方見丈夫心。」舉大愚芝示眾云：「大家相聚喫莖虀，若喚作一莖虀，入地獄如箭射。」拈云：「大小大愚，當門齒落也不知。」舉五祖演云：「釋迦、彌勒，猶是他奴。且道：他是阿誰？」拈云：「諸人還識得他麼？直饒識得面目分明，正好勘過了打。」舉古者云：「這一片田地分付來多時也，我立地待汝搆去。」法眼云：「這一片田地分付來多時也，我坐待汝搆去。」佛果云：「這一片田地分付來多時也，我今日當眾慶懺。」拈云：「三大老發明箇事，雖則徹底婆心，未免翻成鈍置。山僧則不然，這一片田地分付來多時也，諸人又在者裏覓箇甚麼？」遂拈拄杖打趁。頌古頌古世尊初生，一手指天，一手指地，周行七步，目顧四方，云：「天上天下，惟我獨尊。」娘生面孔人皆見，自己眉毛落不知，慚愧風前光屈突，得便宜是失便宜。世尊於臘月八日明星出時廓然大悟，乃歎云：",
-              "MasterName": null,
+              "MasterName": "Baichi Xingyuan",
               "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Baichi Xingyuan",
                   "Roles": [
-                    "commentator",
+                    "utterer",
                     "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Chan teaching. Baichi quotes the old field claim and criticizes three elders for overexplaining.",
-              "ActorAttribution": {
-                "Status": "narrated",
-                "Kind": "unnamed old teacher",
-                "ActorLabel": "Unnamed earlier teacher of the entrusted-field saying",
-                "ActorRole": "utterer",
-                "GrammarEvidence": "The full passage explicitly introduces the line as an old teacher’s statement before the current master comments.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "Codex source-first full-turn review",
-                "ReviewedUtc": "2026-10-29T12:00:00Z"
-              }
+              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan first cites an unnamed old teacher saying the field was entrusted long ago while he waits standing for the student to reach it, then Fayan's seated version and Foguo's public repentance version. Baichi calls all three caring but ultimately burdensome. He explicitly revoices the same field clause in his own present response and asks why the listeners are still seeking anything here, then drives them away with his staff. The exact headword occurs in both the older quotations and Baichi's later revoicing; this occurrence attributes the active response to Baichi while keeping the earlier voices distinct."
             },
             {
               "RelPath": "X/X71/X71n1414.xml",
               "FromLb": "0328c06",
               "ToLb": "0329a02",
               "Kwic": "欲，南斗七、北斗八，多處添些子、少處減些子，有時拈一莖草作丈六金身、有時將丈六金身作一莖草，或則於無中唱有、或則於有中唱無，或則於聖中顯凡、或則於凡中顯聖，或則於賓中辯主、或則於主中辯賓，或則有證而有修、或則無修而無證，或則先照而後用、或則先用而後照，或則照用同時、或則照用不同時，是皆從無住本立一切法，如將蜜菓換苦胡蘆，豈有實法與汝持論？喝！一法不存，翳汝眼睛；眼睛不明，世界崢嶸。卓拄杖，劈開華岳連天秀，放出黃河到海聲。復舉：古者道：這一片田地分付來多時也，我立地待你搆去。法眼云：這一片田地分付來多時也，我坐地待你搆去。佛果云：這一片田地分付來多時也，我今與汝當面慶懺。師云：立地待你搆，坐地待你搆，慶懺別有上聞，未免違時失候。山僧道：這一片田地分付來多時也，自是你不肯承當。且道過在什麼處？良久，云：在家疑是客，別國却為親。久立，珍重！上堂：今朝四月十五，隨分椎鐘擊鼓。燈籠動地放光，露柱掀天起舞。揭開臨濟三玄，抽却雲門一顧。擊拂子，發機須是千鈞弩。聖節滿，散。上堂：金剛正體，洞徹十虗。般",
-              "MasterName": null,
+              "MasterName": "Liao'an Qingyu",
               "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Liao'an Qingyu",
                   "Roles": [
-                    "commentator",
+                    "utterer",
                     "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Chan teaching. Liao’an quotes the old field claim and says the standing, sitting, and repentance responses miss the moment.",
-              "ActorAttribution": {
-                "Status": "narrated",
-                "Kind": "unnamed old teacher",
-                "ActorLabel": "Unnamed earlier teacher of the entrusted-field saying",
-                "ActorRole": "utterer",
-                "GrammarEvidence": "The full passage explicitly introduces the line as an old teacher’s statement before the current master comments.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "Codex source-first full-turn review",
-                "ReviewedUtc": "2026-10-29T12:00:00Z"
-              }
+              "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu. Liao'an Qingyu first recites an unnamed elder's standing version, Fayan's seated version, and Foguo's face-to-face repentance. He says standing, sitting and repentance miss the moment. He then explicitly revoices the exact field clause in his own response and says the students themselves refuse to take responsibility for it; after asking where the fault lies, he answers with an image of home and foreign land. The phrase is both inherited quotation and Liao'an's present challenge, with the latter the retained actor for this deployment."
             },
             {
               "RelPath": "J/J26/J26nB187.xml",
               "FromLb": "0698b05",
               "ToLb": "0698b24",
               "Kwic": "，舉著害怕。何故？恐汝無智之人盡向鬼門打卦。」上堂。問：「萬卉俱搖落，青松不點頭。萬卉搖落即不問，如何是青松不點頭？」師云：「莫就是你。」進云：「恁麼則能為萬象主，不逐四時凋。」師云：「話頭也不識。」乃云：「今朝子月一，好箇冬至節，打鼓特陞堂，與人賭一擿。一陽來復，若有人覓得來處，山僧輸它一錠金；群陰剝盡，若有人覓得去處，山僧輸它一錠金。拄杖子道：『覓得也，將金子來。』」乃顧視云：「咦！滿盆盡是么三，容易要人金子。」復舉：「古者道：『者一片田地分付來多時也，我立地，待你搆去。』法眼道：『者一片田地分付來多時也，我坐地，待你搆去。』一人立得腿酸，一人坐得臀痛。山僧道：『者一片田地分付來多時也，搆得，與你三十；搆不得，也與你三十。』何故？自家一片閒田地，叉手叮嚀問別人。」上堂。「見西知客發清淨心，作清淨佛事，將清淨施供清淨大眾，復請山僧說清淨法，以此清淨福田用薦亡父亡母往生清淨善地。若道有善地可生，則埋沒亡靈；若道無善地可生，則辜負來請。方便說箇鏡裏華、水中月，本無生，有何滅？無邊剎境，自",
-              "MasterName": null,
+              "MasterName": "Tian'an Sheng",
               "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Tian'an Sheng",
                   "Roles": [
-                    "commentator",
+                    "utterer",
                     "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Chan teaching. Tian’an quotes the old field claim then promises blows whether one reaches it or not.",
-              "ActorAttribution": {
-                "Status": "narrated",
-                "Kind": "unnamed old teacher",
-                "ActorLabel": "Unnamed earlier teacher of the entrusted-field saying",
-                "ActorRole": "utterer",
-                "GrammarEvidence": "The full passage explicitly introduces the line as an old teacher’s statement before the current master comments.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "Codex source-first full-turn review",
-                "ReviewedUtc": "2026-10-29T12:00:00Z"
-              }
+              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. In a winter-solstice hall address, Tian'an Sheng jokes that he will pay gold to anyone who finds where returning yang comes from or where departing yin goes. He then raises an old teacher's standing invitation and Fayan's seated invitation concerning the entrusted field. Mocking the first as tired legs and the second as a sore backside, he explicitly revoices the exact field clause himself: whether the student reaches it or not, he will give thirty blows. He asks why anyone would question another person about one's own open field. The phrase is a present corrective use after two clearly quoted older voices."
             },
             {
               "RelPath": "J/J25/J25nB171.xml",
@@ -28541,7 +28490,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Chan teaching. Tianyin quotes the old claim and asks why the given field still needs to be reached.",
+              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu cites the unnamed old teacher's standing invitation and Fayan's seated version. In his own comment he asks why, if the field was entrusted long ago, anyone must still reach it. He brings his staff down and asks whether this is the field, then rejects even that offered pointer as forcing a seedling to grow. The exact clause in this window remains inherited quotation or an explicitly marked citation of it; Tianyin is the current commentator, not the original quoted speaker.",
               "ActorAttribution": {
                 "Status": "narrated",
                 "Kind": "unnamed old teacher",
@@ -28576,7 +28525,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J32/J32nB276.xml). Recorded Chan teaching. Buhui quotes the old claim and answers that the field needs no transfer.",
+              "AttributionNote": "Source record (J/J32/J32nB276.xml). Recorded Sayings of Chan Master Buhui. In a small instruction, Buhui Fatong first quotes an unnamed old teacher promising to wait standing for the student to reach the long-entrusted field and Fayan's seated variant. Buhui then changes the wording rather than repeating the exact headword: this field needs no entrusting. Pointing with his staff, he says there is nowhere in the four directions or above and below where it is absent. The exact phrase here belongs to the older quoted voice, and Buhui's distinct reply rejects the need for a transfer.",
               "ActorAttribution": {
                 "Status": "narrated",
                 "Kind": "unnamed old teacher",
@@ -28611,10 +28560,159 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J33/J33nB284.xml). Recorded Chan teaching. Yezhu strikes the table while voicing the entrusted-field image."
+              "AttributionNote": "Source record (J/J33/J33nB284.xml). Later Record of Chan Master Yezhu of Mount Song in Yizhou. After answering a monk who asks about a teaching that cannot be spoken and striking him three times, Yezhu Fuhui turns to the assembly. He strikes the incense table, asks whether they see and hear, and directly says that this field was entrusted long ago. He compares it to light shining from the Flower-Crest Gate and says each person has a round light that interpenetrates the others, though they have failed to notice it. He strikes the table again and tells them to see for themselves afterward. The line is Yezhu's own present assurance, not a cited old saying in this case."
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J28/J28nB202.xml",
+              "FromLb": "0087b12",
+              "ToLb": "0087c06",
+              "Kwic": "作甚麼？」僧又喝，山云：「恰遇棒不在手。」僧云：「草賊大敗。」山云：「今日又似得便宜，又似失便宜。」拈云：「首山有入地之謀，這僧具衝天之略，雖然，兩不相傷，未免二俱弄險，畢竟如何？雪後始知松柏操，事難方見丈夫心。」舉大愚芝示眾云：「大家相聚喫莖虀，若喚作一莖虀，入地獄如箭射。」拈云：「大小大愚，當門齒落也不知。」舉五祖演云：「釋迦、彌勒，猶是他奴。且道：他是阿誰？」拈云：「諸人還識得他麼？直饒識得面目分明，正好勘過了打。」舉古者云：「這一片田地分付來多時也，我立地待汝搆去。」法眼云：「這一片田地分付來多時也，我坐待汝搆去。」佛果云：「這一片田地分付來多時也，我今日當眾慶懺。」拈云：「三大老發明箇事，雖則徹底婆心，未免翻成鈍置。山僧則不然，這一片田地分付來多時也，諸人又在者裏覓箇甚麼？」遂拈拄杖打趁。頌古頌古世尊初生，一手指天，一手指地，周行七步，目顧四方，云：「天上天下，惟我獨尊。」娘生面孔人皆見，自己眉毛落不知，慚愧風前光屈突，得便宜是失便宜。世尊於臘月八日明星出時廓然大悟，乃歎云：",
+              "MasterName": "Baichi Xingyuan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Baichi Xingyuan",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan first cites an unnamed old teacher saying the field was entrusted long ago while he waits standing for the student to reach it, then Fayan's seated version and Foguo's public repentance version. Baichi calls all three caring but ultimately burdensome. He explicitly revoices the same field clause in his own present response and asks why the listeners are still seeking anything here, then drives them away with his staff. The exact headword occurs in both the older quotations and Baichi's later revoicing; this occurrence attributes the active response to Baichi while keeping the earlier voices distinct.",
+              "ClaimText": "一片田地分付來多時"
+            },
+            {
+              "RelPath": "X/X71/X71n1414.xml",
+              "FromLb": "0328c06",
+              "ToLb": "0329a02",
+              "Kwic": "欲，南斗七、北斗八，多處添些子、少處減些子，有時拈一莖草作丈六金身、有時將丈六金身作一莖草，或則於無中唱有、或則於有中唱無，或則於聖中顯凡、或則於凡中顯聖，或則於賓中辯主、或則於主中辯賓，或則有證而有修、或則無修而無證，或則先照而後用、或則先用而後照，或則照用同時、或則照用不同時，是皆從無住本立一切法，如將蜜菓換苦胡蘆，豈有實法與汝持論？喝！一法不存，翳汝眼睛；眼睛不明，世界崢嶸。卓拄杖，劈開華岳連天秀，放出黃河到海聲。復舉：古者道：這一片田地分付來多時也，我立地待你搆去。法眼云：這一片田地分付來多時也，我坐地待你搆去。佛果云：這一片田地分付來多時也，我今與汝當面慶懺。師云：立地待你搆，坐地待你搆，慶懺別有上聞，未免違時失候。山僧道：這一片田地分付來多時也，自是你不肯承當。且道過在什麼處？良久，云：在家疑是客，別國却為親。久立，珍重！上堂：今朝四月十五，隨分椎鐘擊鼓。燈籠動地放光，露柱掀天起舞。揭開臨濟三玄，抽却雲門一顧。擊拂子，發機須是千鈞弩。聖節滿，散。上堂：金剛正體，洞徹十虗。般",
+              "MasterName": "Liao'an Qingyu",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Liao'an Qingyu",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu. Liao'an Qingyu first recites an unnamed elder's standing version, Fayan's seated version, and Foguo's face-to-face repentance. He says standing, sitting and repentance miss the moment. He then explicitly revoices the exact field clause in his own response and says the students themselves refuse to take responsibility for it; after asking where the fault lies, he answers with an image of home and foreign land. The phrase is both inherited quotation and Liao'an's present challenge, with the latter the retained actor for this deployment.",
+              "ClaimText": "一片田地分付來多時"
+            },
+            {
+              "RelPath": "J/J26/J26nB187.xml",
+              "FromLb": "0698b05",
+              "ToLb": "0698b24",
+              "Kwic": "，舉著害怕。何故？恐汝無智之人盡向鬼門打卦。」上堂。問：「萬卉俱搖落，青松不點頭。萬卉搖落即不問，如何是青松不點頭？」師云：「莫就是你。」進云：「恁麼則能為萬象主，不逐四時凋。」師云：「話頭也不識。」乃云：「今朝子月一，好箇冬至節，打鼓特陞堂，與人賭一擿。一陽來復，若有人覓得來處，山僧輸它一錠金；群陰剝盡，若有人覓得去處，山僧輸它一錠金。拄杖子道：『覓得也，將金子來。』」乃顧視云：「咦！滿盆盡是么三，容易要人金子。」復舉：「古者道：『者一片田地分付來多時也，我立地，待你搆去。』法眼道：『者一片田地分付來多時也，我坐地，待你搆去。』一人立得腿酸，一人坐得臀痛。山僧道：『者一片田地分付來多時也，搆得，與你三十；搆不得，也與你三十。』何故？自家一片閒田地，叉手叮嚀問別人。」上堂。「見西知客發清淨心，作清淨佛事，將清淨施供清淨大眾，復請山僧說清淨法，以此清淨福田用薦亡父亡母往生清淨善地。若道有善地可生，則埋沒亡靈；若道無善地可生，則辜負來請。方便說箇鏡裏華、水中月，本無生，有何滅？無邊剎境，自",
+              "MasterName": "Tian'an Sheng",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Tian'an Sheng",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. In a winter-solstice hall address, Tian'an Sheng jokes that he will pay gold to anyone who finds where returning yang comes from or where departing yin goes. He then raises an old teacher's standing invitation and Fayan's seated invitation concerning the entrusted field. Mocking the first as tired legs and the second as a sore backside, he explicitly revoices the exact field clause himself: whether the student reaches it or not, he will give thirty blows. He asks why anyone would question another person about one's own open field. The phrase is a present corrective use after two clearly quoted older voices.",
+              "ClaimText": "一片田地分付來多時"
+            },
+            {
+              "RelPath": "J/J25/J25nB171.xml",
+              "FromLb": "0544c21",
+              "ToLb": "0545a10",
+              "Kwic": "』須菩提云：『此義幽深，吾不能說。會中有箇彌勒大士，可往而問之。』舍利弗遂問彌勒。彌勒云：『誰為彌勒？誰是彌勒者？』」師拈云：「而今人嘗做得這箇夢來，也未假做得這箇夢來，始醒得舍利弗來由。若未做得這箇夢來，且究取須菩提深遠之旨。若會得須菩提深遠之旨，須識得彌勒佛云：『誰為彌勒？誰是彌勒者？』到這裏總將箇龜毛索子一束束定，置於無夢覺之地。或有云：『那一箇又安置在什麼處？』」喝一喝，云：「依稀似曲纔堪聽，卻被風吹別調中。」舉：「古者道：『這一片田地分付來多時也，我立地待你搆去。』法眼云：『這一片田地分付來多時也，我坐待你搆去。』」師拈云：「且看古人諄諄恁麼為人。既云『這一片田地分付來多時也』，又道『搆去』作麼？磬山今日雪上加霜。」驀將拄杖卓下云：「莫不是這一片麼？噫！也是揠苗兒。」舉：「玄沙到蒲田縣，眾以百戲迎之。次日，沙遂問小塘長老：『昨日許多喧鬧向甚麼處去？』塘提起袈裟角示之。沙云：『料掉沒交涉。』」師拈云：「山僧即不然，或有人問：『昨日許多喧鬧向什麼處去？』只對他道：『今日一出，尤勝",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Tianyin Yuanxiu",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu cites the unnamed old teacher's standing invitation and Fayan's seated version. In his own comment he asks why, if the field was entrusted long ago, anyone must still reach it. He brings his staff down and asks whether this is the field, then rejects even that offered pointer as forcing a seedling to grow. The exact clause in this window remains inherited quotation or an explicitly marked citation of it; Tianyin is the current commentator, not the original quoted speaker.",
+              "ActorAttribution": {
+                "Status": "narrated",
+                "Kind": "unnamed old teacher",
+                "ActorLabel": "Unnamed earlier teacher of the entrusted-field saying",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The full passage explicitly introduces the line as an old teacher’s statement before the current master comments.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "Codex source-first full-turn review",
+                "ReviewedUtc": "2026-10-29T12:00:00Z"
+              },
+              "ClaimText": "一片田地分付來多時"
+            },
+            {
+              "RelPath": "J/J32/J32nB276.xml",
+              "FromLb": "0345a28",
+              "ToLb": "0345b17",
+              "Kwic": "人無垢？流水何曾洗是非？」本師忌日，小參。舉：「僧問長沙和尚：『南泉遷化向甚麼處去？』沙云：『東家作驢，西家作馬。』僧云：『未審意旨如何？』沙云：『要騎便騎，要下便下。』」師云：「若有問：『破山和尚遷化向甚處去？』向他道：『十方諸國土，無剎不現身。』『未審意旨如何？』答云：『既為法王，於法自在，生以不生生，死以不死死，恁麼不恁麼，泥牛入海底，無相身無遷，魔王空歡喜，殃及破沙盆，兒孫冤債起，欲識吾師恩，聞香鼻孔裏。』」小參。「古人道：『者一片田地分付來多時也，我立地待你搆去。』法眼云：『者一片田地分付來多時也，我坐待你搆去。』」師云：「者一片田地不用分付。」復以杖指云：「四維上下，無處不是。」小參。僧問：「金鼇峰頂即不問，登堂哮吼事如何？」師云：「一句了然超百億。」進云：「三心不可得又如何？」師云：「兔子喫牛奶。」乃云：「既作出家兒，莫逐情妄使，有甚麻三觔？有甚柏樹子？胸中一物不須存，秪要猢猻捏得死，任他天左旋、地右轉，善惡境緣俱莫取，單看空劫未生前，動靜閒忙是誰使？更有一路與君通，最要",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Buhui Fatong",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J32/J32nB276.xml). Recorded Sayings of Chan Master Buhui. In a small instruction, Buhui Fatong first quotes an unnamed old teacher promising to wait standing for the student to reach the long-entrusted field and Fayan's seated variant. Buhui then changes the wording rather than repeating the exact headword: this field needs no entrusting. Pointing with his staff, he says there is nowhere in the four directions or above and below where it is absent. The exact phrase here belongs to the older quoted voice, and Buhui's distinct reply rejects the need for a transfer.",
+              "ActorAttribution": {
+                "Status": "narrated",
+                "Kind": "unnamed old teacher",
+                "ActorLabel": "Unnamed earlier teacher of the entrusted-field saying",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The full passage explicitly introduces the line as an old teacher’s statement before the current master comments.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "Codex source-first full-turn review",
+                "ReviewedUtc": "2026-10-29T12:00:00Z"
+              },
+              "ClaimText": "一片田地分付來多時"
+            },
+            {
+              "RelPath": "J/J33/J33nB284.xml",
+              "FromLb": "0427a28",
+              "ToLb": "0427b16",
+              "Kwic": "有。」進云：「如何是不為人說的法？」師云：「桼桶！」問：「世尊不說的，和尚還說不？」師云：「山僧不說，別有人說。」進云：「迦葉不聞的，和尚還聞不？」師云：「山僧不聞，別有人聞。」進云：「春色縱然全不露，東風早已上溪梅。」師云：「聽事不真，徒勞傳信。」僧喝，師打三棒，乃云：「般若巖終日浩浩商量，合談何事？你諸人若是總見總聞，我也知你卒難湊泊；若是未見未聞，我也知你大相孤負。事不得已，吾今為汝保任此事，終不虛也。」擊香几云：「見麼？聞麼？者一片田地分付來多時也，亦似華首門放光處，不論貧之與富、貴之與賤、僧之與俗、男之與女，各有一面圓光，自然光光相攝不隔纖毫，只是你諸人不曾理會，所以見如不見、聞如不聞。若是但辦肯心，必不相賺。」復擊香几云：「得坐披襟，向後自看始得。」妙宜上座請上堂。僧問：「望州亭、烏石嶺相見即不問，僧堂前相見事如何？」師云：「勘過了，打！」進云：「若論主，學人無位次；若論賓，和尚無位次。是一邊語？兩邊語？」師云：「一邊不是、兩邊尤非。」進云：「祗如賓主相見，合談何事？」師云",
+              "MasterName": "Yezhu Fuhui",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yezhu Fuhui",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J33/J33nB284.xml). Later Record of Chan Master Yezhu of Mount Song in Yizhou. After answering a monk who asks about a teaching that cannot be spoken and striking him three times, Yezhu Fuhui turns to the assembly. He strikes the incense table, asks whether they see and hear, and directly says that this field was entrusted long ago. He compares it to light shining from the Flower-Crest Gate and says each person has a round light that interpenetrates the others, though they have failed to notice it. He strikes the table again and tells them to see for themselves afterward. The line is Yezhu's own present assurance, not a cited old saying in this case.",
+              "ClaimText": "一片田地分付來多時"
+            }
+          ],
           "SourceTexts": [
             "J/J28/J28nB202.xml",
             "X/X71/X71n1414.xml",
@@ -28632,7 +28730,7 @@
             "Yezhu Fuhui"
           ],
           "RelatedTerms": [],
-          "Explanation": "The old image says a field was entrusted long ago, then asks why its holder is still trying to reach it. Baichi and Liao’an criticize older replies to the field image; Tian’an recasts the invitation as a blow either way. Tianyin questions the old demand to reach the field, Buhui refuses the need for any transfer, and Yezhu points to it with a strike."
+          "Explanation": "The field was entrusted long ago: why still seek or ask someone else to deliver it? Baichi, Liao'an and Tian'an each quote the older standing and seated versions, then revoice the exact field clause in separate present responses: Baichi drives the seekers away, Liao'an says they refuse to take responsibility, and Tian'an promises thirty blows either way. Tianyin and Buhui quote the old clause but change the response: Tianyin questions the demand to reach it, while Buhui says the field needs no transfer and points with his staff. Yezhu speaks the line directly after striking the incense table, asking the assembly to recognize what each already has."
         }
       ]
     },
@@ -28830,7 +28928,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded sayings. Tianyin asks whether two old teachers have been understood and gives the full cloud-and-birds line as his own conclusion."
+              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu retells how Luoshan asked Shishuang what to do when arising and ceasing do not stop, failed to accept Shishuang's answer, and awakened after Yantou shouted back, 'Who is arising and ceasing?' Tianyin rejects the simple claim that Shishuang's words were mere reasoning while Yantou alone brought awakening; he says Luoshan needed both teachers' pressure. Asking whether the listeners hear the two elders as speaking with one voice, Tianyin pauses and gives the cloud across the valley and lost returning birds as his own concluding image. The couplet warns against finding an easy route home by choosing one old answer over the other."
             },
             {
               "RelPath": "J/J28/J28nB209.xml",
@@ -28848,7 +28946,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB209.xml). Recorded sayings. Yongji asks his assembly how to understand a present challenge and gives the full line as the last half of his own verse."
+              "AttributionNote": "Source record (J/J28/J28nB209.xml). Recorded Sayings of Chan Master Yongji Rong. In a hall talk requested by monks from Longquan Temple at Qianshan, Yongji Rong describes the old path as open yet difficult to set foot on and says a capable listener understands more than a single cue. He asks the assembly how they understand the moment when teaching can both release and seize, then answers with a four-line verse. Its last two lines picture a white cloud barring the valley mouth and returning birds losing the way to their nests. The couplet is Yongji's present poetic answer to the assembly's challenge about finding the path, not a separate reply by a bird or an older master."
             },
             {
               "RelPath": "J/J29/J29nB229.xml",
@@ -28866,7 +28964,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J29/J29nB229.xml). Recorded sayings. Falan reads a letter to his present assembly, pauses, and voices the full line as his own response."
+              "AttributionNote": "Source record (J/J29/J29nB229.xml). Recorded Sayings of Chan Master Falan Cheng. When a letter arrives from Tianwang Hai after that elder has retired from Qixian to Dizang in Zhenzhou, Falan Yuancheng reads it aloud to the assembly and says that despite the distance he cannot help sharing it. After a pause he voices the cloud-and-birds couplet. The image is Falan's response to a colleague's departure and distant communication: the familiar route back is obscured. The letter's author is the occasion, not the speaker of this exact closing line; the bounded record does not give the letter's full contents here."
             },
             {
               "RelPath": "J/J34/J34nB298.xml",
@@ -28884,7 +28982,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J34/J34nB298.xml). Recorded sayings. Shenfeng directly answers a present monk who asks about the matter before meeting the teacher with the full line."
+              "AttributionNote": "Source record (J/J34/J34nB298.xml). Recorded Sayings of Chan Master Shenfeng Xian. News arrives that Dongta Zhean has died, and a monk asks Shenfeng Xian for a word on falling leaves returning to their roots. Shenfeng asks whether the monk had known the deceased teacher; after the monk says no but refuses to turn away, Shenfeng urges him to work harder. The monk offers another line, and Shenfeng replies with the cloud blocking the valley and birds losing their nests. He then rebuffs a second monk's display, lifts the obituary, and asks the assembly to recognize Dongta's final teaching in it. The couplet is Shenfeng's present answer amid mourning, evoking the difficulty of finding one's way after the old teacher's death."
             }
           ],
           "ClaimAnchors": [
@@ -28904,7 +29002,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded sayings. Tianyin asks whether two old teachers have been understood and gives the full cloud-and-birds line as his own conclusion.",
+              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu retells how Luoshan asked Shishuang what to do when arising and ceasing do not stop, failed to accept Shishuang's answer, and awakened after Yantou shouted back, 'Who is arising and ceasing?' Tianyin rejects the simple claim that Shishuang's words were mere reasoning while Yantou alone brought awakening; he says Luoshan needed both teachers' pressure. Asking whether the listeners hear the two elders as speaking with one voice, Tianyin pauses and gives the cloud across the valley and lost returning birds as his own concluding image. The couplet warns against finding an easy route home by choosing one old answer over the other.",
               "ClaimText": "一片白雲橫谷口，幾多歸鳥盡迷巢"
             },
             {
@@ -28923,7 +29021,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB209.xml). Recorded sayings. Yongji asks his assembly how to understand a present challenge and gives the full line as the last half of his own verse.",
+              "AttributionNote": "Source record (J/J28/J28nB209.xml). Recorded Sayings of Chan Master Yongji Rong. In a hall talk requested by monks from Longquan Temple at Qianshan, Yongji Rong describes the old path as open yet difficult to set foot on and says a capable listener understands more than a single cue. He asks the assembly how they understand the moment when teaching can both release and seize, then answers with a four-line verse. Its last two lines picture a white cloud barring the valley mouth and returning birds losing the way to their nests. The couplet is Yongji's present poetic answer to the assembly's challenge about finding the path, not a separate reply by a bird or an older master.",
               "ClaimText": "一片白雲橫谷口，幾多歸鳥盡迷巢"
             },
             {
@@ -28942,7 +29040,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J29/J29nB229.xml). Recorded sayings. Falan reads a letter to his present assembly, pauses, and voices the full line as his own response.",
+              "AttributionNote": "Source record (J/J29/J29nB229.xml). Recorded Sayings of Chan Master Falan Cheng. When a letter arrives from Tianwang Hai after that elder has retired from Qixian to Dizang in Zhenzhou, Falan Yuancheng reads it aloud to the assembly and says that despite the distance he cannot help sharing it. After a pause he voices the cloud-and-birds couplet. The image is Falan's response to a colleague's departure and distant communication: the familiar route back is obscured. The letter's author is the occasion, not the speaker of this exact closing line; the bounded record does not give the letter's full contents here.",
               "ClaimText": "一片白雲橫谷口，幾多歸鳥盡迷巢"
             },
             {
@@ -28961,7 +29059,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J34/J34nB298.xml). Recorded sayings. Shenfeng directly answers a present monk who asks about the matter before meeting the teacher with the full line.",
+              "AttributionNote": "Source record (J/J34/J34nB298.xml). Recorded Sayings of Chan Master Shenfeng Xian. News arrives that Dongta Zhean has died, and a monk asks Shenfeng Xian for a word on falling leaves returning to their roots. Shenfeng asks whether the monk had known the deceased teacher; after the monk says no but refuses to turn away, Shenfeng urges him to work harder. The monk offers another line, and Shenfeng replies with the cloud blocking the valley and birds losing their nests. He then rebuffs a second monk's display, lifts the obituary, and asks the assembly to recognize Dongta's final teaching in it. The couplet is Shenfeng's present answer amid mourning, evoking the difficulty of finding one's way after the old teacher's death.",
               "ClaimText": "一片白雲橫谷口，幾多歸鳥盡迷巢"
             }
           ],
@@ -28978,7 +29076,7 @@
             "Shenfeng Xian"
           ],
           "RelatedTerms": [],
-          "Explanation": "A white cloud closes the valley mouth, and returning birds lose the way to their nests. Tianyin gives the line after asking whether two older teachers’ words have been understood. Yongji makes it the end of a verse in a present challenge. Falan reads a letter and responds with the couplet. Shenfeng gives it as a direct reply to a monk. The older Luopu answer remains an inherited family, not an additional current speaker."
+          "Explanation": "A white cloud closes the valley mouth, and returning birds lose the route to their nests. Tianyin uses the couplet after explaining why Luoshan needed both Shishuang and Yantou's responses, and Yongji makes it the end of a present verse about setting foot on the old path. Falan gives the image after reading a retired colleague's letter aloud, while Shenfeng uses it in an exchange following news of Dongta Zhean's death. Each present teacher voices the pair in a distinct local situation."
         }
       ]
     },
