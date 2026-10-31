@@ -18735,7 +18735,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue directly voices the paired line after urging listeners to drop self-centered contention and return to direct activity."
+              "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. After contrasting an emperor's song about returning home with the Buddha's vow on leaving family life, Guxue Zhenzhe asks his assembly whether the worldly ruler and the Dharma ruler are the same or different. He rejects a simple identification because their actions differ, yet also says both are moved to help the world. Guxue urges the listeners to wake from ambition and empty out self-versus-other thinking; at that point he says no thought arises and before and after are cut off. The phrase is his proposed way through the comparison, before his later citation of Yongjia."
             },
             {
               "RelPath": "X/X69/X69n1357.xml",
@@ -18753,7 +18753,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X69/X69n1357.xml). Essentials of the Mind by Chan Master Foguo Keqin. Yuanwu directly voices the line in a letter on insight that leaves verbal reasoning behind."
+              "AttributionNote": "Source record (X/X69/X69n1357.xml). Essentials of the Mind by Chan Master Foguо Keqin. In an instruction addressed to the official Zhang, Yuanwu Keqin describes realizing the ancestral teaching without becoming caught in objects, language or conceptual explanation. He places the no-thought and severed-before-and-after line among signs of that direct clarity, then tells the story of Qinglin's reply about a fire child seeking fire and Fayan's correction of a monk who explained it only as a word puzzle. The headword is Yuanwu's advice to Zhang; the Qinglin and Fayan exchange is a following example of why mere verbal interpretation misses his point."
             },
             {
               "RelPath": "X/X70/X70n1400.xml",
@@ -18771,7 +18771,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X70/X70n1400.xml). Recorded Sayings of Chan Master Gaofeng Yuanmiao. Gaofeng directly voices the line in a hall talk on sustained doubt and the dropping of distracted thought."
+              "AttributionNote": "Source record (X/X70/X70n1400.xml). Recorded Sayings of Chan Master Gaofeng Yuanmiao. In a hall address, Gaofeng Yuanmiao says a practitioner needs an urgent concern: when that concern gives rise to real doubt, ordinary distractions cease, no thought arises, and the bounds of before and after are cut off. He says this makes a breakthrough possible, whereas wearing out countless sitting mats without such doubt will not do it. Gaofeng voices the phrase as a consequence of pressing inquiry, not as an instruction merely to suppress thought by sitting."
             },
             {
               "RelPath": "J/J38/J38nB427.xml",
@@ -18789,7 +18789,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J38/J38nB427.xml). Recorded Sayings of Chan Master Zhulangsheng of Qingcheng. Zhulang directly voices the line in an address, then says the Linji line also requires responsive movement."
+              "AttributionNote": "Source record (J/J38/J38nB427.xml). Recorded Sayings of Chan Master Zhulangsheng of Qingcheng. In a small gathering, Zhulang Chesheng first says that someone who cannot reach the matter through mind and ideas must let go of mind, intention and consciousness. He then gives the no-thought and severed-before-and-after line, paired with stillness and movement having one source. Yet he immediately adds that the Linji school also moves freely through public streets and forceful encounters, and asks whether such a person is present in the hall tonight. The phrase marks one step in Zhulang's address, which he refuses to leave as a static achievement."
             },
             {
               "RelPath": "X/X72/X72n1444.xml",
@@ -18807,10 +18807,106 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X72/X72n1444.xml). Recorded Sayings of Chan Master Zhanran Yuancheng. Zhanran directly voices the line and argues that even this thought-free condition cannot be fixed as one."
+              "AttributionNote": "Source record (X/X72/X72n1444.xml). Recorded Sayings of Chan Master Zhanran Yuancheng. An unnamed monk asks Zhanran Yuancheng why he cannot get free of mind, intention and consciousness, quoting an older instruction about leaving them behind. Zhanran questions what shape these supposed enemies have and where the monk would send them. When the monk swings toward saying they do not exist, Zhanran explains that the three names distinguish functions of one unborn body. He then says that if no thought arises and before and after are cut off, even 'one' no longer names it, much less three. The headword is Zhanran's present response to the monk's conceptual trap; the earlier quoted saying is background."
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J28/J28nB208.xml",
+              "FromLb": "0343c06",
+              "ToLb": "0343c24",
+              "Kwic": "在後，又作麼生？」師云：「萬派聲歸海上銷。」僧禮拜，師乃云：「大風起兮雲飛颺，威加海內兮歸故鄉，安得猛士兮守四方？此英雄帝王撥亂反正、創業垂統之後，榮歸故鄉，慷慨悲歌之詞也。毀形守志節，割愛辭所親，出家弘聖道，誓度一切人，此大雄法王棄萬乘、辭二親，入道之初誓，千古之模範也。且道：人王、法王，是同？是別？若道是同，一箇居塵、一箇出塵，事跡懸殊，染淨迥別。若道是別，救世婆心原自不差。到者裏，如何得融通合一去聻？大眾！當知利名夢醒，人我情空，一念不生，前後際斷。偃自心之戈鋋，歸自心之正道，便是人中之法王；創法席於十方，施法恩於四海，隨機導物，釋縛解粘，便是法中之人王。所以永嘉祖師道：『法中王，最高勝，河沙如來同共證，但能解此如意珠，自利利他終不盡。』大眾！當知此如意寶珠祇在衣裏，不假外求，但能上無攀仰、下絕己躬，自然圜明瑩徹，猶如月映千江。所以華嚴會上無數日宮天子、月宮天子、人間天子、閻羅天子、大梵天王、阿修羅王、迦樓羅王、娑竭龍王、緊那羅王，乃至主晝神、主夜神、主風神、主雨神、主江神、主海",
+              "MasterName": "Guxue Zhenzhe",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Guxue Zhenzhe",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. After contrasting an emperor's song about returning home with the Buddha's vow on leaving family life, Guxue Zhenzhe asks his assembly whether the worldly ruler and the Dharma ruler are the same or different. He rejects a simple identification because their actions differ, yet also says both are moved to help the world. Guxue urges the listeners to wake from ambition and empty out self-versus-other thinking; at that point he says no thought arises and before and after are cut off. The phrase is his proposed way through the comparison, before his later citation of Yongjia.",
+              "ClaimText": "一念不生，前後際斷"
+            },
+            {
+              "RelPath": "X/X69/X69n1357.xml",
+              "FromLb": "0473c15",
+              "ToLb": "0474a11",
+              "Kwic": "，不怕艱難，向前體究，可以繼芳躅，續往世高風，為人間明燭，作昏衢日月，此私心常所渴望者也。今既憤悱圖起發，切在盡始盡終，擇海上具殺人不眨眼手段宗師圖取徹去，則豈唯酬自己超方本心，抑亦於佛法大海出一隻手。矧此門絕人我、離愛憎，只貴正知正見，安在乎論誰家之子哉？等是曹溪門下，何有彼宗此派於其間也？示張直殿示張直殿契證佛祖道妙，最宜上智利根，忘懷體究，不墮機境，直下拔萃超群，虗心領略，直得圜明廣照，透地通天，徹生死根源，出葛藤路布，𮌎中灑落，一念不生，前後際斷，一句當陽，脫去解會，諦實取證，了無疑惑。如昔則老問青林：如何是佛？對云：丙丁童子來求火。渠便入語言作道理，便謂丙丁是火，更來求火，如我是佛，更去問佛。及至法眼究窮撥正，他即大不信，及翻然投誠，法眼亦只如前云云，渠大悟。蓋當風證驗，始解回光，更不作惡知惡解，當下如暗得燈，如貧獲寶，此豈小事哉？誠實諦信，千萬億劫長得受用。是故道本無言，因言顯道，若得此道，斷不在言句上。後番纔有言句，知得底裏，便七縱八橫，顛來倒去，脚蹋實地，廼不隨語生解，",
+              "MasterName": "Yuanwu Keqin",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yuanwu Keqin",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X69/X69n1357.xml). Essentials of the Mind by Chan Master Foguо Keqin. In an instruction addressed to the official Zhang, Yuanwu Keqin describes realizing the ancestral teaching without becoming caught in objects, language or conceptual explanation. He places the no-thought and severed-before-and-after line among signs of that direct clarity, then tells the story of Qinglin's reply about a fire child seeking fire and Fayan's correction of a monk who explained it only as a word puzzle. The headword is Yuanwu's advice to Zhang; the Qinglin and Fayan exchange is a following example of why mere verbal interpretation misses his point.",
+              "ClaimText": "一念不生，前後際斷"
+            },
+            {
+              "RelPath": "X/X70/X70n1400.xml",
+              "FromLb": "0681c01",
+              "ToLb": "0681c23",
+              "Kwic": "和沙賣與人。結制，上堂。西峰今年結夏，全然不成保社。一日兩頭薄粥，大家忍飢無暇。雖有真如佛性、菩提涅槃，和聲擲拄杖，云：權且颺在師子巖下。上堂。終日著衣，未甞挂一縷絲；終日喫飯，未甞咬一粒米。既然如是，且道即今身上著底、每日口裏喫底是箇甚麼？到遮裏，不論明與不明、徹與不徹，寸絲滴水也當牽犂拽杷償他。何故？一片白雲橫谷口，幾多歸鳥自迷巢。上堂。若論此事，只要當人的有切心。纔有切心，真疑便起。真疑起時，不屬漸次。直下便能塵勞頓息，昏散屏除。一念不生，前後際斷。纔到遮般時節，管取推門落臼。若是此念不切，真疑不起，饒你坐破蒲團百千萬箇，依舊日午打三更。上堂：迷中有悟，悟復還迷。直須迷悟兩忘，人法俱遣，衲僧門下始有語話分。大眾，既是迷悟兩忘，人法俱遣，共語話者復是阿誰？速道！速道！上堂：諸方拈槌豎拂，接物利生，祇解指虗空說虗空，指燈籠露柱說燈籠露柱。於是藥頭無驗，誤人多矣。西峰要向未有虗空名字以前說虗空，未有燈籠露柱以前說燈籠露柱，要使聞者見者，𡎺著磕著，一得永得，一證永證。大眾，未有名字以前，",
+              "MasterName": "Gaofeng Yuanmiao",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Gaofeng Yuanmiao",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X70/X70n1400.xml). Recorded Sayings of Chan Master Gaofeng Yuanmiao. In a hall address, Gaofeng Yuanmiao says a practitioner needs an urgent concern: when that concern gives rise to real doubt, ordinary distractions cease, no thought arises, and the bounds of before and after are cut off. He says this makes a breakthrough possible, whereas wearing out countless sitting mats without such doubt will not do it. Gaofeng voices the phrase as a consequence of pressing inquiry, not as an instruction merely to suppress thought by sitting.",
+              "ClaimText": "一念不生，前後際斷"
+            },
+            {
+              "RelPath": "J/J38/J38nB427.xml",
+              "FromLb": "0874b14",
+              "ToLb": "0874c04",
+              "Kwic": "開單、提持衣線下事，一切動轉施為，如有所立卓爾。打破黑漆桶底，不負出家之志；坐斷百尺竿頭，始信前有餘地。」小參。「小盡二十九，大盡三十日，公案本現成，何事從他覓？韶華不再來，光陰如駛急，報爾參禪人，各各宜省惕。推倒銕崑崙，不受閻羅氣，常秉智慧劍，佛魔一齊劈。跳出金剛圈，口開吞栗棘，日用本尋常，明明與歷歷。仁者見之仁，智者見之智，衲子分上喚作甚麼？請轉一語。」小參。「心緣不到處，如隔一重關；力提不起時，似石墜澄潭。若離心意識，實乃出家兒。一念不生，前後際斷，動靜一源，始稱俊敏。臨濟門下又則不然，有時孤峰獨立，廓步大方；有時十字街頭和光混俗，常用咬豬狗手腳，逢佛殺佛、遇祖殺祖，魔宮虎穴，七縱八橫，騰騰任運。今宵堂裏還有此人麼？設有，不妨與昭覺相見。」小參。「諸佛說不著，祖師提不起，于中有一物，無頭亦無尾。且道是何物𠰚？」書記翼雲答云：「一聲天際外，非將物可比。」師作聽勢，云：「依稀似曲纔堪聽，又被風吹別調中。」復云：「莫是在天垂象、在地成形，陽舒陰卷、運用四時，是此物麼？莫是在聖不增、居凡",
+              "MasterName": "Zhulang Chesheng",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Zhulang Chesheng",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J38/J38nB427.xml). Recorded Sayings of Chan Master Zhulangsheng of Qingcheng. In a small gathering, Zhulang Chesheng first says that someone who cannot reach the matter through mind and ideas must let go of mind, intention and consciousness. He then gives the no-thought and severed-before-and-after line, paired with stillness and movement having one source. Yet he immediately adds that the Linji school also moves freely through public streets and forceful encounters, and asks whether such a person is present in the hall tonight. The phrase marks one step in Zhulang's address, which he refuses to leave as a static achievement.",
+              "ClaimText": "一念不生，前後際斷"
+            },
+            {
+              "RelPath": "X/X72/X72n1444.xml",
+              "FromLb": "0815c08",
+              "ToLb": "0816a03",
+              "Kwic": "，乞師方便。師云：還識心意識麼？曰：不識。師曰：識尚不識，欲離何物？譬如世人結冤而欲遠離，必先知其結冤之繇，然後與之遠離。僧問：古人道：離却心意識，絕却凡聖路，然後有參學分。某甲欲離心意識未能，何也？師曰：心意識作何形狀？有甚冤尤？汝欲離他，送至何方？僧曰：恁麼則無心意識耶？師曰：汝適來要離心意識，如今又怕他無那。汝知之乎？夫心意識者，聿起名心，思惟曰意，分別曰識。名雖有三，其體惟一。惟一之體，其性無生。無生之性，應用有別。故立三名。能一念不生，前後際斷，尚不名一，何況有三？學者循言背旨，起心動念，皆歸迷悶。若不妙悟真源，終無自濟之日。故古人多方提唱，無非欲令人忘心頓證。誰知反起心識，牽動前塵，致使醍醐翻成毒藥，可悲也夫！明翮問：某甲看個拂子放下因緣，只是教人休歇去，莫是化城事否？師曰：不是。你看他古人問：如何是法身竪起拂子？如何是法身向上事？放下拂子，豈可作放下論耶？若真正悟明，放下不放下總是閒話。所以道：末後一著，始到牢關；絕後再甦，欺君不得。僧舉趙州：狗子還有佛性也無？州云：無。",
+              "MasterName": "Zhanran Yuancheng",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Zhanran Yuancheng",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X72/X72n1444.xml). Recorded Sayings of Chan Master Zhanran Yuancheng. An unnamed monk asks Zhanran Yuancheng why he cannot get free of mind, intention and consciousness, quoting an older instruction about leaving them behind. Zhanran questions what shape these supposed enemies have and where the monk would send them. When the monk swings toward saying they do not exist, Zhanran explains that the three names distinguish functions of one unborn body. He then says that if no thought arises and before and after are cut off, even 'one' no longer names it, much less three. The headword is Zhanran's present response to the monk's conceptual trap; the earlier quoted saying is background.",
+              "ClaimText": "一念不生，前後際斷"
+            }
+          ],
           "SourceTexts": [
             "J/J28/J28nB208.xml",
             "X/X69/X69n1357.xml",
@@ -18826,7 +18922,7 @@
             "Zhanran Yuancheng"
           ],
           "RelatedTerms": [],
-          "Explanation": "\"No single thought arises; the bounds of before and after are cut off\" describes a moment no longer divided by calculative thought. Guxue uses the line after calling for conflict to end; Yuanwu places it in instruction on direct realization. Gaofeng links it to intense doubt, while Zhulang and Zhanran refuse to make it into a fixed final state."
+          "Explanation": "No thought arises and before and after are cut off: these five teachers apply the phrase to immediate inquiry or direct clarity in distinct local settings. After contrasting an emperor's song about returning home with the Buddha's vow on leaving family life, Guxue Zhenzhe asks his assembly whether the worldly ruler and the Dharma ruler are the same or different. He rejects a simple identification because their actions differ, yet also says both are moved to help the world. Guxue urges the listeners to wake from ambition and empty out self-versus-other thinking; at that point he says no thought arises and before and after are cut off. The phrase is his proposed way through the comparison, before his later citation of Yongjia. In an instruction addressed to the official Zhang, Yuanwu Keqin describes realizing the ancestral teaching without becoming caught in objects, language or conceptual explanation. He places the no-thought and severed-before-and-after line among signs of that direct clarity, then tells the story of Qinglin's reply about a fire child seeking fire and Fayan's correction of a monk who explained it only as a word puzzle. The headword is Yuanwu's advice to Zhang; the Qinglin and Fayan exchange is a following example of why mere verbal interpretation misses his point. In a hall address, Gaofeng Yuanmiao says a practitioner needs an urgent concern: when that concern gives rise to real doubt, ordinary distractions cease, no thought arises, and the bounds of before and after are cut off. He says this makes a breakthrough possible, whereas wearing out countless sitting mats without such doubt will not do it. Gaofeng voices the phrase as a consequence of pressing inquiry, not as an instruction merely to suppress thought by sitting. In a small gathering, Zhulang Chesheng first says that someone who cannot reach the matter through mind and ideas must let go of mind, intention and consciousness. He then gives the no-thought and severed-before-and-after line, paired with stillness and movement having one source. Yet he immediately adds that the Linji school also moves freely through public streets and forceful encounters, and asks whether such a person is present in the hall tonight. The phrase marks one step in Zhulang's address, which he refuses to leave as a static achievement. An unnamed monk asks Zhanran Yuancheng why he cannot get free of mind, intention and consciousness, quoting an older instruction about leaving them behind. Zhanran questions what shape these supposed enemies have and where the monk would send them. When the monk swings toward saying they do not exist, Zhanran explains that the three names distinguish functions of one unborn body. He then says that if no thought arises and before and after are cut off, even 'one' no longer names it, much less three. The headword is Zhanran's present response to the monk's conceptual trap; the earlier quoted saying is background."
         }
       ]
     },
