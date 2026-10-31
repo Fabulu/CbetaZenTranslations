@@ -1550,21 +1550,6 @@
     "WrittenUtc": "2026-07-19T12:00:00Z"
   },
   {
-    "SourceTerm": "一把柳絲收不得，和烟搭在玉闌干",
-    "PreferredTarget": "A handful of willow strands cannot be gathered in; with the mist, they trail over the jade railing",
-    "AlternateTargets": [
-      "The willow sprays refuse to be contained and, wrapped in haze, drape the jade balustrade"
-    ],
-    "SearchAliases": [
-      "willow strands mist jade railing Chan",
-      "willow shoots cannot be gathered jade balustrade Zen"
-    ],
-    "Status": "preferred",
-    "Note": "A handful of willow strands escapes the attempt to gather it and trails with the haze across a jade railing. Yuejiang voices the pair after challenging a distinction between two talks; Liaotang uses it after unsettling fixed formulas. Puzhuang and Nanshi make it the visible answer at the end of sermons. The strands still appear before the listener, so their freedom is shown in the scene rather than explained away.",
-    "CreatedBy": "r10 fresh10k source-first author A1",
-    "WrittenUtc": "2026-10-29T05:53:11Z"
-  },
-  {
     "SourceTerm": "一把柳絲收不得，和煙搭在玉欄干",
     "PreferredTarget": "A handful of willow strands cannot be gathered in; trailing mist, they drape over the jade railing.",
     "AlternateTargets": [],
@@ -1577,21 +1562,6 @@
     "WrittenUtc": "2026-10-28T23:00:50.997613Z"
   },
   {
-    "SourceTerm": "一把柳絲收不得，和煙搭在玉欄杆",
-    "PreferredTarget": "A handful of willow strands cannot be gathered in; with the mist they drape the jade railing",
-    "AlternateTargets": [
-      "The willow twigs escape my grasp and hang with the haze over the jade balustrade"
-    ],
-    "SearchAliases": [
-      "willow strands mist jade railing",
-      "willow twigs cannot gather jade balustrade"
-    ],
-    "Status": "preferred",
-    "Note": "The willow strands cannot be gathered into a single handful; they hang with the mist across a jade railing. Yun'e raises his whisk and gives the pair after weighing two old replies. Fushi uses it at the end of a Guiyang comment, while Faxi, Buhui, and Hanyu bring it into other present exchanges. The image gives a visible answer without turning the questioned matter into an object one can collect or hold.",
-    "CreatedBy": "r10 fresh10k source-first author A1",
-    "WrittenUtc": "2026-10-29T09:45:26Z"
-  },
-  {
     "SourceTerm": "一把柳絲收不得，和煙搭在玉闌干",
     "PreferredTarget": "No hand can gather up all the willow strands; with the mist they drape over the jade railing",
     "AlternateTargets": [
@@ -1599,7 +1569,9 @@
     ],
     "SearchAliases": [
       "willow strands mist jade railing Zen",
-      "willow threads cannot gather over railing Chan"
+      "willow threads cannot gather over railing Chan",
+      "一把柳絲收不得，和烟搭在玉闌干",
+      "一把柳絲收不得，和煙搭在玉欄杆"
     ],
     "Status": "preferred",
     "Note": "Willow strands escape a single grasp and hang in mist over a jade railing. Feiyin gives the image as a seasonal answer. Shaweng includes it in a sermon verse; Xiangya uses it after challenging Su Dongpo’s poem, and Hengxiulin and Lianfeng make it the visible closing turn of their own comments. The scene offers something plainly there while frustrating the attempt to collect it into one fixed answer.",
