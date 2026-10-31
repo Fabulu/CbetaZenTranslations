@@ -3562,7 +3562,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "The full Diamond Sutra verse adds dew and lightning, then urges seeing conditioned things in that way. Tianyin uses it in memorial instruction, Poshan asks whether ordinary life and even awakening claims are dreams, and Cishou asks how to see what is unconditioned. Fangrong raises the familiar Buddha line only to reject a borrowed answer; Huijue applies it at a memorial, and Qiran addresses a gathered lay audience with it. The pair is a useful entry because its four images, rather than one isolated image, carry these later questions.",
+          "Note": "The original verse is distinguished from its later use in each occurrence. The named Chan masters speak the surrounding explanation, question, memorial, or test; their roles do not make them the original speakers of the quoted line.",
           "Occurrences": [
             {
               "RelPath": "J/J25/J25nB171.xml",
@@ -3574,8 +3574,8 @@
                 "Status": "identified-non-master",
                 "ActorLabel": "Shakyamuni Buddha",
                 "ActorRole": "utterer",
-                "Evidence": "Tianyin introduces the four-line verse as the great awakened sage's words from the Diamond Sutra.",
-                "GrammarEvidence": "The exact pair lies in the quoted Buddha verse before Tianyin's explanation begins."
+                "Evidence": "Tianyin introduces the four-line verse as the great awakened sage's words from the Diamond Sutra. The same complete verse occurs in the primary Diamond Sutra at T/T08/T08n0235.xml 0752b28–29 within the Buddha's address to Subhuti; at 0752b30 the text closes by saying that the Buddha spoke this scripture.",
+                "GrammarEvidence": "The exact pair lies in the quoted Buddha verse before Tianyin's explanation begins. The primary source's closing speech frame identifies the original quoted speaker as the Buddha."
               },
               "Curated": true,
               "ContextMasters": [
@@ -3587,7 +3587,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded sayings. Tianyin quotes the Buddha's four-line verse and applies its dream images to body, wealth, and a present memorial."
+              "AttributionNote": "Recorded Sayings of Monk Tianyin: In a letter to the layman Cao Nianzi, Tianyin Yuanxiu responds to repeated reports of suffering. He says that rich and poor alike are caught in trouble, then quotes the Buddha's complete Diamond Sutra verse about conditioned things as dreams, illusions, bubbles, shadows, dew, and lightning. Tianyin applies the quotation to body and mind, rank, wealth, and affliction: seeing their lack of fixed reality lets one act amid ordinary demands without being mastered by them. The verse is the Buddha's inherited speech; the explanation and advice to Cao are Tianyin's own."
             },
             {
               "RelPath": "J/J26/J26nB177.xml",
@@ -3599,8 +3599,8 @@
                 "Status": "identified-non-master",
                 "ActorLabel": "Shakyamuni Buddha",
                 "ActorRole": "utterer",
-                "Evidence": "Poshan introduces the inherited complete Diamond Sutra verse with 所以道.",
-                "GrammarEvidence": "The phrase belongs to the raised verse; Poshan's question about waking dreams follows."
+                "Evidence": "Poshan introduces the inherited complete Diamond Sutra verse with 所以道. The same complete verse occurs in the primary Diamond Sutra at T/T08/T08n0235.xml 0752b28–29 within the Buddha's address to Subhuti; at 0752b30 the text closes by saying that the Buddha spoke this scripture.",
+                "GrammarEvidence": "The phrase belongs to the raised verse; Poshan's question about waking dreams follows. The primary source's closing speech frame identifies the original quoted speaker as the Buddha."
               },
               "Curated": true,
               "ContextMasters": [
@@ -3612,7 +3612,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded sayings. Poshan quotes the verse while treating both ordinary life and Buddhist attainments as dreams, then tests a householder."
+              "AttributionNote": "Recorded Sayings of Chan Master Poshan: In Poshan Haiming's hall sermon, a monk first asks about the true character of things and receives a blow. Poshan then tells the assembly that he had dreamed of lay visitors Yin and Dai asking him to preach. He calls family, property, official rank, awakening, and even release dreams before quoting the complete Buddha verse. Poshan immediately asks what an open-eyed dream is, leaving the assembly without an answer. When Yin later kneels and asks him to explain, Poshan strikes him and withdraws. The citation starts the live test; the blow is Poshan's response, not part of the Buddha's verse."
             },
             {
               "RelPath": "X/X73/X73n1451.xml",
@@ -3624,8 +3624,8 @@
                 "Status": "identified-non-master",
                 "ActorLabel": "Shakyamuni Buddha",
                 "ActorRole": "utterer",
-                "Evidence": "Cishou raises the complete Diamond Sutra verse, then questions its application.",
-                "GrammarEvidence": "The exact pair is the old four-line verse before 師云 introduces Cishou's response."
+                "Evidence": "Cishou raises the complete Diamond Sutra verse, then questions its application. The same complete verse occurs in the primary Diamond Sutra at T/T08/T08n0235.xml 0752b28–29 within the Buddha's address to Subhuti; at 0752b30 the text closes by saying that the Buddha spoke this scripture.",
+                "GrammarEvidence": "The exact pair is the old four-line verse before 師云 introduces Cishou's response. The primary source's closing speech frame identifies the original quoted speaker as the Buddha."
               },
               "Curated": true,
               "ContextMasters": [
@@ -3637,7 +3637,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X73/X73n1451.xml). Recorded sayings. Cishou quotes the full verse and asks how one should see what is unconditioned."
+              "AttributionNote": "Expanded Record of Chan Master Cishou Huaishen: In Cishou Huaishen's hall sermon, the Buddha's complete verse is recited first: conditioned things are to be seen as dreams, illusions, bubbles, and shadows. Cishou then turns the instruction into his own question: if that is how conditioned things are viewed, how should the unconditioned be viewed? His answer invokes an obstruction in the eye that even a skilled physician cannot pick out. The pair in the headword belongs to the earlier quoted verse; Cishou is the later questioner and commentator, and the eye image is his local challenge to treating the scriptural formula as a finished answer."
             },
             {
               "RelPath": "J/J29/J29nB249.xml",
@@ -3649,8 +3649,8 @@
                 "Status": "identified-non-master",
                 "ActorLabel": "Shakyamuni Buddha",
                 "ActorRole": "utterer",
-                "Evidence": "Fangrong asks whether the familiar Diamond Sutra verse is the answer.",
-                "GrammarEvidence": "The exact pair lies inside Fangrong?s tentative inherited answer, introduced by his question."
+                "Evidence": "Fangrong asks whether the familiar Diamond Sutra verse is the answer. The same complete verse occurs in the primary Diamond Sutra at T/T08/T08n0235.xml 0752b28–29 within the Buddha's address to Subhuti; at 0752b30 the text closes by saying that the Buddha spoke this scripture.",
+                "GrammarEvidence": "The exact pair lies inside Fangrong's tentative inherited answer, introduced by his question. The primary source's closing speech frame identifies the original quoted speaker as the Buddha."
               },
               "Curated": true,
               "ContextMasters": [
@@ -3662,7 +3662,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J29/J29nB249.xml). Recorded sayings. Fangrong raises the inherited Buddha verse as a possible answer in his sermon and challenges merely repeating it."
+              "AttributionNote": "Recorded Sayings of Chan Master Fangrongxi: In a short instruction, Fangrong Ruxi asks what the 'king of the teaching who breaks existence' actually reveals. He tries several familiar doctrinal verses as possible answers, including the complete Diamond Sutra verse with these dream, illusion, bubble, and shadow images. Each is framed as 'Could it be this?' Fangrong says that merely answering in that way would let talkative teachers borrow the title without showing their own understanding. He closes by saying the wooden elder, his staff, will have to test anyone claiming more. The verse is inherited Buddha speech raised as a candidate, while the series of questions and the proposed test are Fangrong's."
             },
             {
               "RelPath": "J/J35/J35nB340.xml",
@@ -3674,8 +3674,8 @@
                 "Status": "identified-non-master",
                 "ActorLabel": "Shakyamuni Buddha",
                 "ActorRole": "utterer",
-                "Evidence": "Huijue explicitly introduces the inherited pair with 所以經云.",
-                "GrammarEvidence": "The complete pair occurs in the scripture quotation before Huijue's memorial application."
+                "Evidence": "Huijue explicitly introduces the inherited pair with 所以經云. The same complete verse occurs in the primary Diamond Sutra at T/T08/T08n0235.xml 0752b28–29 within the Buddha's address to Subhuti; at 0752b30 the text closes by saying that the Buddha spoke this scripture.",
+                "GrammarEvidence": "The complete pair occurs in the scripture quotation before Huijue's memorial application. The primary source's closing speech frame identifies the original quoted speaker as the Buddha."
               },
               "Curated": true,
               "ContextMasters": [
@@ -3687,7 +3687,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J35/J35nB340.xml). Recorded sayings. Huijue quotes the scripture in a memorial and applies it to the departure of a lay supporter."
+              "AttributionNote": "Recorded Sayings of Chan Master Huijueyi: In a memorial sermon for the layman Zhou Liangxian, Huijue Yi speaks of brief human life and introduces the complete verse with 'the scripture says.' He then says that Zhou had understood its point and could regard death and life without being bound by either. Huijue asks what further dedication could be offered for him, pauses, sweeps his whisk, and gives a closing verse. The dream and shadow words are the cited scripture, not Huijue's own invention; his memorial application and ritual question belong to the present occasion."
             },
             {
               "RelPath": "J/J36/J36nB356.xml",
@@ -3699,8 +3699,8 @@
                 "Status": "identified-non-master",
                 "ActorLabel": "Shakyamuni Buddha",
                 "ActorRole": "utterer",
-                "Evidence": "Qiran explicitly introduces the quotation as 世尊般若會上云.",
-                "GrammarEvidence": "The headword is inside the Buddha's cited verse before Qiran turns to the gathered lay people."
+                "Evidence": "Qiran explicitly introduces the quotation as 世尊般若會上云. The same complete verse occurs in the primary Diamond Sutra at T/T08/T08n0235.xml 0752b28–29 within the Buddha's address to Subhuti; at 0752b30 the text closes by saying that the Buddha spoke this scripture.",
+                "GrammarEvidence": "The headword is inside the Buddha's cited verse before Qiran turns to the gathered lay people. The primary source's closing speech frame identifies the original quoted speaker as the Buddha."
               },
               "Curated": true,
               "ContextMasters": [
@@ -3712,7 +3712,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J36/J36nB356.xml). Recorded sayings. Qiran explicitly identifies the Buddha's Wisdom Assembly as source, then brings the verse to his present lay audience."
+              "AttributionNote": "Recorded Sayings of Chan Master Qiran Zhi: In a hall sermon requested by the layman Lü Yinghui and other visitors, Qiran Chaozhi says that delight in scenery can become attachment as soon as choosing and rejecting arise. He explicitly introduces the complete verse as spoken by the World-Honored One at the assembly on complete discernment. Qiran then tells the gathered laypeople that their differing practices, including precept keeping and Chan inquiry, still fall within the circle he is discussing. He presents his staff and asks whether they grasp what is immediately before them. The quoted verse is the Buddha's speech; the address to the visitors and staff gesture are Qiran's own teaching."
             }
           ],
           "ClaimAnchors": [
@@ -3726,8 +3726,8 @@
                 "Status": "identified-non-master",
                 "ActorLabel": "Shakyamuni Buddha",
                 "ActorRole": "utterer",
-                "Evidence": "Tianyin introduces the four-line verse as the great awakened sage's words from the Diamond Sutra.",
-                "GrammarEvidence": "The exact pair lies in the quoted Buddha verse before Tianyin's explanation begins."
+                "Evidence": "Tianyin introduces the four-line verse as the great awakened sage's words from the Diamond Sutra. The same complete verse occurs in the primary Diamond Sutra at T/T08/T08n0235.xml 0752b28–29 within the Buddha's address to Subhuti; at 0752b30 the text closes by saying that the Buddha spoke this scripture.",
+                "GrammarEvidence": "The exact pair lies in the quoted Buddha verse before Tianyin's explanation begins. The primary source's closing speech frame identifies the original quoted speaker as the Buddha."
               },
               "Curated": true,
               "ContextMasters": [
@@ -3739,7 +3739,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded sayings. Tianyin quotes the Buddha's four-line verse and applies its dream images to body, wealth, and a present memorial.",
+              "AttributionNote": "Recorded Sayings of Monk Tianyin: In a letter to the layman Cao Nianzi, Tianyin Yuanxiu responds to repeated reports of suffering. He says that rich and poor alike are caught in trouble, then quotes the Buddha's complete Diamond Sutra verse about conditioned things as dreams, illusions, bubbles, shadows, dew, and lightning. Tianyin applies the quotation to body and mind, rank, wealth, and affliction: seeing their lack of fixed reality lets one act amid ordinary demands without being mastered by them. The verse is the Buddha's inherited speech; the explanation and advice to Cao are Tianyin's own.",
               "ClaimText": "一切有為法，如夢幻泡影"
             },
             {
@@ -3752,8 +3752,8 @@
                 "Status": "identified-non-master",
                 "ActorLabel": "Shakyamuni Buddha",
                 "ActorRole": "utterer",
-                "Evidence": "Poshan introduces the inherited complete Diamond Sutra verse with 所以道.",
-                "GrammarEvidence": "The phrase belongs to the raised verse; Poshan's question about waking dreams follows."
+                "Evidence": "Poshan introduces the inherited complete Diamond Sutra verse with 所以道. The same complete verse occurs in the primary Diamond Sutra at T/T08/T08n0235.xml 0752b28–29 within the Buddha's address to Subhuti; at 0752b30 the text closes by saying that the Buddha spoke this scripture.",
+                "GrammarEvidence": "The phrase belongs to the raised verse; Poshan's question about waking dreams follows. The primary source's closing speech frame identifies the original quoted speaker as the Buddha."
               },
               "Curated": true,
               "ContextMasters": [
@@ -3765,7 +3765,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded sayings. Poshan quotes the verse while treating both ordinary life and Buddhist attainments as dreams, then tests a householder.",
+              "AttributionNote": "Recorded Sayings of Chan Master Poshan: In Poshan Haiming's hall sermon, a monk first asks about the true character of things and receives a blow. Poshan then tells the assembly that he had dreamed of lay visitors Yin and Dai asking him to preach. He calls family, property, official rank, awakening, and even release dreams before quoting the complete Buddha verse. Poshan immediately asks what an open-eyed dream is, leaving the assembly without an answer. When Yin later kneels and asks him to explain, Poshan strikes him and withdraws. The citation starts the live test; the blow is Poshan's response, not part of the Buddha's verse.",
               "ClaimText": "一切有為法，如夢幻泡影"
             },
             {
@@ -3778,8 +3778,8 @@
                 "Status": "identified-non-master",
                 "ActorLabel": "Shakyamuni Buddha",
                 "ActorRole": "utterer",
-                "Evidence": "Cishou raises the complete Diamond Sutra verse, then questions its application.",
-                "GrammarEvidence": "The exact pair is the old four-line verse before 師云 introduces Cishou's response."
+                "Evidence": "Cishou raises the complete Diamond Sutra verse, then questions its application. The same complete verse occurs in the primary Diamond Sutra at T/T08/T08n0235.xml 0752b28–29 within the Buddha's address to Subhuti; at 0752b30 the text closes by saying that the Buddha spoke this scripture.",
+                "GrammarEvidence": "The exact pair is the old four-line verse before 師云 introduces Cishou's response. The primary source's closing speech frame identifies the original quoted speaker as the Buddha."
               },
               "Curated": true,
               "ContextMasters": [
@@ -3791,7 +3791,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X73/X73n1451.xml). Recorded sayings. Cishou quotes the full verse and asks how one should see what is unconditioned.",
+              "AttributionNote": "Expanded Record of Chan Master Cishou Huaishen: In Cishou Huaishen's hall sermon, the Buddha's complete verse is recited first: conditioned things are to be seen as dreams, illusions, bubbles, and shadows. Cishou then turns the instruction into his own question: if that is how conditioned things are viewed, how should the unconditioned be viewed? His answer invokes an obstruction in the eye that even a skilled physician cannot pick out. The pair in the headword belongs to the earlier quoted verse; Cishou is the later questioner and commentator, and the eye image is his local challenge to treating the scriptural formula as a finished answer.",
               "ClaimText": "一切有為法，如夢幻泡影"
             },
             {
@@ -3804,8 +3804,8 @@
                 "Status": "identified-non-master",
                 "ActorLabel": "Shakyamuni Buddha",
                 "ActorRole": "utterer",
-                "Evidence": "Fangrong asks whether the familiar Diamond Sutra verse is the answer.",
-                "GrammarEvidence": "The exact pair lies inside Fangrong?s tentative inherited answer, introduced by his question."
+                "Evidence": "Fangrong asks whether the familiar Diamond Sutra verse is the answer. The same complete verse occurs in the primary Diamond Sutra at T/T08/T08n0235.xml 0752b28–29 within the Buddha's address to Subhuti; at 0752b30 the text closes by saying that the Buddha spoke this scripture.",
+                "GrammarEvidence": "The exact pair lies inside Fangrong's tentative inherited answer, introduced by his question. The primary source's closing speech frame identifies the original quoted speaker as the Buddha."
               },
               "Curated": true,
               "ContextMasters": [
@@ -3817,7 +3817,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J29/J29nB249.xml). Recorded sayings. Fangrong raises the inherited Buddha verse as a possible answer in his sermon and challenges merely repeating it.",
+              "AttributionNote": "Recorded Sayings of Chan Master Fangrongxi: In a short instruction, Fangrong Ruxi asks what the 'king of the teaching who breaks existence' actually reveals. He tries several familiar doctrinal verses as possible answers, including the complete Diamond Sutra verse with these dream, illusion, bubble, and shadow images. Each is framed as 'Could it be this?' Fangrong says that merely answering in that way would let talkative teachers borrow the title without showing their own understanding. He closes by saying the wooden elder, his staff, will have to test anyone claiming more. The verse is inherited Buddha speech raised as a candidate, while the series of questions and the proposed test are Fangrong's.",
               "ClaimText": "一切有為法，如夢幻泡影"
             },
             {
@@ -3830,8 +3830,8 @@
                 "Status": "identified-non-master",
                 "ActorLabel": "Shakyamuni Buddha",
                 "ActorRole": "utterer",
-                "Evidence": "Huijue explicitly introduces the inherited pair with 所以經云.",
-                "GrammarEvidence": "The complete pair occurs in the scripture quotation before Huijue's memorial application."
+                "Evidence": "Huijue explicitly introduces the inherited pair with 所以經云. The same complete verse occurs in the primary Diamond Sutra at T/T08/T08n0235.xml 0752b28–29 within the Buddha's address to Subhuti; at 0752b30 the text closes by saying that the Buddha spoke this scripture.",
+                "GrammarEvidence": "The complete pair occurs in the scripture quotation before Huijue's memorial application. The primary source's closing speech frame identifies the original quoted speaker as the Buddha."
               },
               "Curated": true,
               "ContextMasters": [
@@ -3843,7 +3843,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J35/J35nB340.xml). Recorded sayings. Huijue quotes the scripture in a memorial and applies it to the departure of a lay supporter.",
+              "AttributionNote": "Recorded Sayings of Chan Master Huijueyi: In a memorial sermon for the layman Zhou Liangxian, Huijue Yi speaks of brief human life and introduces the complete verse with 'the scripture says.' He then says that Zhou had understood its point and could regard death and life without being bound by either. Huijue asks what further dedication could be offered for him, pauses, sweeps his whisk, and gives a closing verse. The dream and shadow words are the cited scripture, not Huijue's own invention; his memorial application and ritual question belong to the present occasion.",
               "ClaimText": "一切有為法，如夢幻泡影"
             },
             {
@@ -3856,8 +3856,8 @@
                 "Status": "identified-non-master",
                 "ActorLabel": "Shakyamuni Buddha",
                 "ActorRole": "utterer",
-                "Evidence": "Qiran explicitly introduces the quotation as 世尊般若會上云.",
-                "GrammarEvidence": "The headword is inside the Buddha's cited verse before Qiran turns to the gathered lay people."
+                "Evidence": "Qiran explicitly introduces the quotation as 世尊般若會上云. The same complete verse occurs in the primary Diamond Sutra at T/T08/T08n0235.xml 0752b28–29 within the Buddha's address to Subhuti; at 0752b30 the text closes by saying that the Buddha spoke this scripture.",
+                "GrammarEvidence": "The headword is inside the Buddha's cited verse before Qiran turns to the gathered lay people. The primary source's closing speech frame identifies the original quoted speaker as the Buddha."
               },
               "Curated": true,
               "ContextMasters": [
@@ -3869,7 +3869,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J36/J36nB356.xml). Recorded sayings. Qiran explicitly identifies the Buddha's Wisdom Assembly as source, then brings the verse to his present lay audience.",
+              "AttributionNote": "Recorded Sayings of Chan Master Qiran Zhi: In a hall sermon requested by the layman Lü Yinghui and other visitors, Qiran Chaozhi says that delight in scenery can become attachment as soon as choosing and rejecting arise. He explicitly introduces the complete verse as spoken by the World-Honored One at the assembly on complete discernment. Qiran then tells the gathered laypeople that their differing practices, including precept keeping and Chan inquiry, still fall within the circle he is discussing. He presents his staff and asks whether they grasp what is immediately before them. The quoted verse is the Buddha's speech; the address to the visitors and staff gesture are Qiran's own teaching.",
               "ClaimText": "一切有為法，如夢幻泡影"
             }
           ],
@@ -3890,7 +3890,7 @@
             "Qiran Chaozhi"
           ],
           "RelatedTerms": [],
-          "Explanation": "The Buddha's verse groups four fleeting images to describe conditioned things. The complete verse continues with dew and lightning and directs the listener to view conditioned things accordingly. Six later works use the images at memorials, in a live exchange, and in questions about attachment and what is unconditioned."
+          "Explanation": "The Buddha's Diamond Sutra verse compares conditioned things to a dream, illusion, bubble, and shadow, then adds dew and lightning. Six later Chan records quote the same line in different settings: Tianyin counsels a suffering layman, Poshan turns it into a live test, Cishou asks about the unconditioned, Fangrong questions borrowed formulas, Huijue applies it at a memorial, and Qiran addresses lay visitors. In each witness, the verse's original speaker differs from the named master who raises and applies it."
         }
       ]
     },
