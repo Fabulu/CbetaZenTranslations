@@ -40197,7 +40197,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J38/J38nB407.xml). Recorded Sayings of Chan Master Shengren of Qianshan. Qianshan raises Wuxie challenge among cases of recognizing what is present."
+              "AttributionNote": "Source record (J/J38/J38nB407.xml). Recorded Sayings of Chan Master Shengren of Qianshan. Qianshan Shengren Hanke gathers older encounters about recognizing what is already present. In one, Wuxie Lingmo comes to Shitou and says that if a single word accords he will stay, otherwise he will leave. Shitou remains seated, Wuxie starts away, and Shitou calls him back to ask why he turns his head when this is the same from birth to death. The exact challenge is Wuxie's speech inside a cited old case; Qianshan presents it among several examples without adding a separate appraisal immediately after this excerpt."
             },
             {
               "RelPath": "J/J38/J38nB415.xml",
@@ -40221,7 +40221,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J38/J38nB415.xml). Recorded Sayings of Chan Master Miaoyun of Dabei. Miaoyun judges Shitou first seated response stronger than his later recall."
+              "AttributionNote": "Source record (J/J38/J38nB415.xml). Recorded Sayings of Chan Master Miaoyun of Dabei. Miaoyun Zhenxiong quotes the old meeting: Wuxie Lingmo tells Shitou that one accordant word will make him stay and a mismatch will send him away. Shitou stays seated, Wuxie starts to leave, and Shitou calls him back. Miaoyun then judges Shitou's initial move effective but his later move unproductive, saying Shitou should have pressed Wuxie further. The exact stay-or-leave challenge is Wuxie's older voice; Miaoyun's present use weighs the two stages of Shitou's response."
             },
             {
               "RelPath": "X/X69/X69n1369.xml",
@@ -40245,7 +40245,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X69/X69n1369.xml). Recorded Sayings of Chan Master Dachuan Puji. Dachuan raises the case and says Wuxie final turning back spoils his initial force."
+              "AttributionNote": "Source record (X/X69/X69n1369.xml). Recorded Sayings of Chan Master Dachuan Puji. Dachuan Puji raises the full old case: Wuxie Lingmo demands one accordant word or he will leave; Shitou remains seated, calls him when he walks off, and asks why he turns his head when this has been the same from birth to death. The record says Wuxie then understands and breaks his staff. Dachuan praises the force of the first seated response but says Wuxie's turning back after the call spoils his earlier stance; he asks where that failure lies and answers with a mountain-path image. The exact ultimatum remains Wuxie's quoted speech."
             },
             {
               "RelPath": "X/X72/X72n1443.xml",
@@ -40269,10 +40269,111 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X72/X72n1443.xml). Recorded Sayings of Chan Master Zongbao Daodu. Kongyin asks what Shitou said and what Wuxie realized after being called back."
+              "AttributionNote": "Source record (X/X72/X72n1443.xml). Recorded Sayings of Chan Master Zongbao Daodu. Kongyin Daodu writes to a lay reader about looking directly at one's present face rather than searching in words. He cites Wuxie Lingmo demanding an accordant sentence from Shitou, Shitou sitting still, Wuxie leaving, and Shitou calling him back with the question about turning his head; Wuxie understands. Kongyin asks what Shitou actually said and what Wuxie realized, then says a skilled teacher points lightly during ordinary activity without much explanation. The exact ultimatum is Wuxie's speech in the old case, while Kongyin uses it to turn the reader back to direct recognition."
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J38/J38nB407.xml",
+              "FromLb": "0239b26",
+              "ToLb": "0239c13",
+              "Kwic": "：『識又爭能識得。』又不見僧問石頭：『如何是解脫？』頭云：『誰縛汝？』問：『如何是淨土？』頭云：『誰垢汝？』問：『如何是涅槃？』頭云：『誰將生死與汝？』又不見法常問馬祖：『如何是佛？』祖云：『即心是佛。』常便走住大梅，祖令人探云：『和尚見馬大師，得個甚麼便住此山？』常云：『馬祖向我道「即心即佛」，我便向者裏住。』僧云：『馬祖近日又道「非心非佛。」』常云：『者老漢惑亂人未有了日，任他非心非佛，我祗管即心即佛。』又不見五洩初謁石頭，便問：『一言相契即住，不契即去。』頭據坐，洩便行，頭隨後召云：『闍黎。』洩回首，頭云：『從生至死祗是者個，回頭轉腦作麼？』又不見大珠參馬祖，祖問：『來此擬須何事？』珠云：『來求佛法。』祖云：『我者裏一物也無，求甚麼佛法？自家寶藏不顧，拋家散走作麼？』珠云：『阿那個是學人寶藏？』祖云：『即今問我者是汝寶藏，一切具足，更無欠少。』又不見藥山一日在石上坐，石頭問曰：『汝在者裏作麼？』山云：『一物也不為。』頭曰：『恁麼即閒坐也。』山云：『若閒坐即為也。』頭云：『汝道不為，不",
+              "MasterName": "Wuxie Lingmo",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Wuxie Lingmo",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Qianshan Shengren Hanke",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J38/J38nB407.xml). Recorded Sayings of Chan Master Shengren of Qianshan. Qianshan Shengren Hanke gathers older encounters about recognizing what is already present. In one, Wuxie Lingmo comes to Shitou and says that if a single word accords he will stay, otherwise he will leave. Shitou remains seated, Wuxie starts away, and Shitou calls him back to ask why he turns his head when this is the same from birth to death. The exact challenge is Wuxie's speech inside a cited old case; Qianshan presents it among several examples without adding a separate appraisal immediately after this excerpt.",
+              "ClaimText": "一言相契即住，不契即去"
+            },
+            {
+              "RelPath": "J/J38/J38nB415.xml",
+              "FromLb": "0451c09",
+              "ToLb": "0452a02",
+              "Kwic": "不合向聲色裏著倒。」盤山上堂：「向上一路，千聖不傳。學者勞形，如猿捉影。」「若論向上一路，三世諸佛口挂壁上。且道還有事也無？」驀拈拄杖卓一下，云：「險。」魯祖尋常見僧來，便面壁。「魯祖面壁，鈍置殺人，當時何不與本分草料？雖然，汝等還知魯祖落處麼？」以拄杖靠壁，云：「參。」麻谷到臨濟，問：「大悲千手眼，那箇是正眼？」濟搊住曰：「大悲千手眼，作麼生是正眼？」「二尊宿壎箎迭奏，音韻可聽，雖則一時俏俊，要且不知那箇是正眼。」五洩謁石頭，便問：「一言相契即住，不契即去。」頭據坐，洩便行。頭隨後召曰：「闍黎！」「石頭先鋒得利，殿後無功。待他拘折拄杖，何不更與一拶，免致者漢死了不得活。」三角上堂：「若論此事，眨上眉毛，早已蹉過了也。」「諸禪德！此二員古佛發明向上宗猷，作略可觀。若是此事，不曾動著一些子，說甚麼蹉過了也。還委悉麼？少年曾決龍蛇陣，潦倒還同椎子歌。」則川因摘茶次，龐居士問：「法界不容身，師還見我否？」川曰：「不是老僧，洎荅公話。」「龐公衝風有節，其奈欺敵者喪，則老把定封疆，直是放憨賣悄，揀點",
+              "MasterName": "Wuxie Lingmo",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Wuxie Lingmo",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Miaoyun Zhenxiong",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J38/J38nB415.xml). Recorded Sayings of Chan Master Miaoyun of Dabei. Miaoyun Zhenxiong quotes the old meeting: Wuxie Lingmo tells Shitou that one accordant word will make him stay and a mismatch will send him away. Shitou stays seated, Wuxie starts to leave, and Shitou calls him back. Miaoyun then judges Shitou's initial move effective but his later move unproductive, saying Shitou should have pressed Wuxie further. The exact stay-or-leave challenge is Wuxie's older voice; Miaoyun's present use weighs the two stages of Shitou's response.",
+              "ClaimText": "一言相契即住，不契即去"
+            },
+            {
+              "RelPath": "X/X69/X69n1369.xml",
+              "FromLb": "0766a07",
+              "ToLb": "0766b05",
+              "Kwic": "世諸佛不知有，貍奴白牯却知有。兩刃倚天長劒，一團邠鐵鑄就。四七二三，不敢正眼󳬇著。當權尊宿，以此爐鞴諸方衲子。靈隱即不然，把定則乾坤失色，放行則萬象騰輝。且道把住好？放行好？卓拄杖一下。一百單五是寒食，四十五日又逢春。結夏。以大圓覺，為我伽藍。天寬地闊，馬廐牛欄。身心安居，平等性智。五陰界入，一念萬年。墮在毒海，北山今日。七百比丘，同此結夏。也無臘人為驗，也無長期短期。畢竟如何？毒龍行處草不生，鴆鳥落毛魚皆死。舉古舉古五洩到石頭，便問：一言相契即住，不契即去。頭據坐，洩便行。頭召：闍黎。洩回首，頭云：從生至死只是這个，回頭轉腦作甚麼？洩於言下大悟，拗折拄杖。師云：石頭據坐，五洩便行，不妨氣吞佛祖，眼蓋乾坤。末後一喚便回，翻成不唧𠺕。且道那裏是他不唧𠺕處？山轉疑無路，谿斜別有村。懶瓚道：世事悠悠，不如山丘，臥藤蘿下，塊石枕頭。雪竇云：者般漢有甚用處？喚起了打。師云：雪竇喫李子向赤邊齩，寶陀若見，問他：曾見誰來？待他擬開口，只向道：打頭不遇作家，到底翻成骨董。陸亘大夫問南泉：弟子家中一片石，有",
+              "MasterName": "Wuxie Lingmo",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Wuxie Lingmo",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Dachuan Puji",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X69/X69n1369.xml). Recorded Sayings of Chan Master Dachuan Puji. Dachuan Puji raises the full old case: Wuxie Lingmo demands one accordant word or he will leave; Shitou remains seated, calls him when he walks off, and asks why he turns his head when this has been the same from birth to death. The record says Wuxie then understands and breaks his staff. Dachuan praises the force of the first seated response but says Wuxie's turning back after the call spoils his earlier stance; he asks where that failure lies and answers with a mountain-path image. The exact ultimatum remains Wuxie's quoted speech.",
+              "ClaimText": "一言相契即住，不契即去"
+            },
+            {
+              "RelPath": "X/X72/X72n1443.xml",
+              "FromLb": "0765a21",
+              "ToLb": "0765b17",
+              "Kwic": "，莫向外求，內不放出，外不放入，者樣看去，就是生擒活捉一般，容易之極。博山先師教人看：一口氣不來，向什麼處去？正是教人直下認者個本來面目。現前面目還認不得，更說一口氣不來作什麼？于今學人祇向一口氣不來處討，所以愈求愈遠。未審居士作麼理會？若一時不會，但向不思善、不思惡處冷冷看去，再不怕工夫差池，再不怕用在情識上，極是直指，沒有一些蓋覆。但二六時中，心不異緣，常要頓在面前，自然露躶躶地，迥脫真常，忽然觸著，便是大事了畢。五洩見石頭，問云：一言相契即住，不契即去。石頭據坐，五洩便去。頭喚：闍黎！洩回首，頭云：從生至死祇是者個，回頭轉腦作麼？洩大悟。你看他說個什麼？渠又悟個什麼？善知識但向學人四威儀中輕輕點他一下，伶俐漢便當機領略，也不潦草，也不多說。佛眼云：人因心迷，故來山林見善知識，不知就你本人迷中最是親切，極道得好。圓悟云：古人公案未必透得，且識了心，不要理他。自己一個心拋開一邊，却向善知識口邊討長討短，書本上忖東忖西，有何交涉？且如何是自己底心？心又如何識？僧舉長沙偈：學道之人不識真，祇",
+              "MasterName": "Wuxie Lingmo",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Wuxie Lingmo",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Kongyin Daodu",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X72/X72n1443.xml). Recorded Sayings of Chan Master Zongbao Daodu. Kongyin Daodu writes to a lay reader about looking directly at one's present face rather than searching in words. He cites Wuxie Lingmo demanding an accordant sentence from Shitou, Shitou sitting still, Wuxie leaving, and Shitou calling him back with the question about turning his head; Wuxie understands. Kongyin asks what Shitou actually said and what Wuxie realized, then says a skilled teacher points lightly during ordinary activity without much explanation. The exact ultimatum is Wuxie's speech in the old case, while Kongyin uses it to turn the reader back to direct recognition.",
+              "ClaimText": "一言相契即住，不契即去"
+            }
+          ],
           "SourceTexts": [
             "J/J38/J38nB407.xml",
             "J/J38/J38nB415.xml",
@@ -40287,7 +40388,7 @@
             "Kongyin Daodu"
           ],
           "RelatedTerms": [],
-          "Explanation": "Wuxie opening ultimatum to Shitou asks for an accord that a single sentence can establish. Qianshan uses the meeting to question what is recognized, while Miaoyun finds Shitou later call less complete than the initial response. Dachuan criticizes Wuxie turn back; Kongyin asks what was said and what was realized in the encounter."
+          "Explanation": "If one sentence accords I will stay; if it does not I will leave: Wuxie's terse challenge at the start of his meeting with Shitou. Four later teachers quote the same old exchange to collect examples, assess Shitou's response or direct a reader toward recognition. Qianshan Shengren Hanke gathers older encounters about recognizing what is already present. In one, Wuxie Lingmo comes to Shitou and says that if a single word accords he will stay, otherwise he will leave. Shitou remains seated, Wuxie starts away, and Shitou calls him back to ask why he turns his head when this is the same from birth to death. The exact challenge is Wuxie's speech inside a cited old case; Qianshan presents it among several examples without adding a separate appraisal immediately after this excerpt. Miaoyun Zhenxiong quotes the old meeting: Wuxie Lingmo tells Shitou that one accordant word will make him stay and a mismatch will send him away. Shitou stays seated, Wuxie starts to leave, and Shitou calls him back. Miaoyun then judges Shitou's initial move effective but his later move unproductive, saying Shitou should have pressed Wuxie further. The exact stay-or-leave challenge is Wuxie's older voice; Miaoyun's present use weighs the two stages of Shitou's response. Dachuan Puji raises the full old case: Wuxie Lingmo demands one accordant word or he will leave; Shitou remains seated, calls him when he walks off, and asks why he turns his head when this has been the same from birth to death. The record says Wuxie then understands and breaks his staff. Dachuan praises the force of the first seated response but says Wuxie's turning back after the call spoils his earlier stance; he asks where that failure lies and answers with a mountain-path image. The exact ultimatum remains Wuxie's quoted speech. Kongyin Daodu writes to a lay reader about looking directly at one's present face rather than searching in words. He cites Wuxie Lingmo demanding an accordant sentence from Shitou, Shitou sitting still, Wuxie leaving, and Shitou calling him back with the question about turning his head; Wuxie understands. Kongyin asks what Shitou actually said and what Wuxie realized, then says a skilled teacher points lightly during ordinary activity without much explanation. The exact ultimatum is Wuxie's speech in the old case, while Kongyin uses it to turn the reader back to direct recognition."
         }
       ]
     },
