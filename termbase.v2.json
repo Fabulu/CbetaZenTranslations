@@ -902443,7 +902443,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "Zhi Dun is associated with a crane and Wang Xizhi, the Right General, with geese. The saying warns against calling the one bird the other. Guxue gives it after replacing an old answer; Yunsou, Guantao, and Yuanan use it when evaluating a comparison or identification in a current exchange. The bird names keep the difference concrete.",
+          "Note": "All four retained witnesses preserved. O1 belongs to Yuanan Liao under the explicit Ruiyan Yuanan appendix heading, not Yunsou. Hypothetical slap/beating and sword/blood images are distinguished from reported actions; each warning checks a particular proposed equivalence.",
           "Occurrences": [
             {
               "RelPath": "J/J28/J28nB208.xml",
@@ -902462,26 +902462,32 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded sayings. Guxue proposes his own answer to an old question and warns not to mistake Zhi Dun’s crane for Wang Xizhi’s goose."
+              "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue Zhenzhe raises Bai Letian asking Niaoke for the main meaning of the teaching. Niaoke says not to do evil and to practise good; Bai objects that a three-year-old can say that, and Niaoke answers that even an eighty-year-old may not do it. Guxue judges this handling awkward and proposes his own: if asked the same question, he would slap the questioner. If the person then said even a three-year-old could do that, he would give the crane-and-goose warning. The headword belongs to Guxue's hypothetical answer, not to the earlier Bai-Niaoke exchange. His proposed slap is not reported as an actual blow here. The warning checks treating a similar outward performance as the same responsive action, while the earlier contrast between speaking and doing remains visible."
             },
             {
               "RelPath": "J/J34/J34nB310.xml",
               "FromLb": "0585a23",
               "ToLb": "0585b30",
               "Kwic": "：「為甚麼雪峰低頭歸菴？」師云：「爛泥裏有刺。」進云：「僧舉似巖頭，頭云：『我當時若向伊道末後句，天下人不奈雪老何？』作麼生是末後句？」師云：「風前雪彈子。」進云：「頭云：『我與雪峰同條生，不與雪峰同條死。要識末後句，只者是。』意旨如何？」師云：「若把是非來入耳，從前知己盡成仇。」進云：「秖如雪峰末後句，巖頭證明；今朝雲叔末後句，和尚證明。和尚末後句，阿誰作證？」師云：「大眾側聆。」進云：「一堂風冷淡，千古意分明。」師云：「且莫錯流傳。」問：「一大藏教拭瘡疣故紙，千七百則公案是陳爛葛藤，超佛越祖之談，請師拈出。」師云：「胡餅裏討汁。」進云：「玉轉珠回，猶汙心田；簇錦攢花，眼中著屑。龍牙語句別有長處麼？」師云：「我也不知。」進云：「既是同氣連枝，因甚干戈相向？」師云：「不是冤家不聚頭。」進云：「鐘聲無鼓響，鼓聲無鐘音；彼此不相到，作麼生是同聲唱和句？」師云：「側耳無音聽，抬眸鷂子過。」進云：「恁麼則伯牙與子期不是閒相識？」師云：「莫將支遁鶴，喚作右軍鵝。」進云：「老漢只要出人頭地。」師云：「山僧今日失利。」問：「欲得流通正脈，貴乎千里同風。秖如無意味語又如何流通？」師云：「寒山拍手拾得笑。」進云：「恁麼則謫仙自識荊州後，贏得芳名遍界香。」師云：「杓卜聽虛聲。」進云：「不朽千秋事，班班見典墳。」師打云：「領取棒去。」乃云：「黃面瞿曇，大喻三千，小喻八百，說成一大藏，猶云『始從鹿野苑，終至跋提河，如是二中間，未曾說一字。』大似掩耳偷鈴，抱贓叫屈。周金剛燒卻《青龍鈔》，拈條赤楖栗，佛來祖來也棒，猶較些子，及乎道箇『吾宗無語句，亦無一法與人。』分明此處無銀三十兩。爭似我龍牙和尚胸次不存元字腳。頂門卻具摩醯眼，聊借洞庭湖為一張口，掇君山作箇舌頭。八百里之波瀾，千萬頃之空闊。默時說、說時默，大施門開無擁塞，一一從胸襟流出，與我蓋天蓋地去在。雖然如是舉揚，也是謗他不少，何故？鳳棲不在梧桐樹，碧落寒潭寫影長。」設奠。奠茶畢：「者一盞惡水，毒如鴆血，烈似砒霜。昔日趙州以此接納方來，無不受其毒死者。今朝將此奠我龍牙雲叟法兄和尚，金石相投，芝蘭氣合，儼然生也。法兄！你生平者一副鐵脊梁，從來不肯放下，恁是佛來也罵，魔來也怕。眼蓋三湘，氣吞諸夏；孤風絕侶，曲高和寡。沒興撞著瑞巖，三十年來，一獻一酬",
-              "MasterName": "Yunsou Benzhu",
+              "MasterName": "Yuan'an Liao",
               "ActorAttribution": null,
               "Curated": true,
               "ContextMasters": [
                 {
+                  "MasterName": "Yuan'an Liao",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
                   "MasterName": "Yunsou Benzhu",
                   "Roles": [
-                    "utterer",
+                    "person-discussed",
                     "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J34/J34nB310.xml). Recorded sayings. Yunsou answers a monk’s comparison of Boya and Ziqi with the crane-and-goose warning."
+              "AttributionNote": "Source record (J/J34/J34nB310.xml). Recorded Sayings of Chan Master Yunsou Zhu. The appendix to Yunsou's collection explicitly introduces Yuan'an of Ruiyan giving an address when the sayings were printed. A monk asks for talk beyond inherited scriptures and cases; Yuan'an calls it looking for juice inside a flat cake. Asked why lineage relatives oppose one another, he replies that enemies are precisely those who meet. The monk then asks how bell and drum can sing together when their sounds do not reach one another. Yuan'an answers with listening without sound and raising the eyes as a hawk passes. Does this mean Boya and Ziqi were no casual acquaintances? Yuan'an gives the crane-and-goose warning. The monk accuses him of wanting to stand above others; he says he has lost the advantage today. The exact headword is Yuan'an Liao's reply, not collection-owner Yunsou Benzhu's. It checks the monk's literary equation without reporting final approval or explaining every bird as a coded person."
             },
             {
               "RelPath": "J/J36/J36nB362.xml",
@@ -902500,7 +902506,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded sayings. Guantao critiques an older claim about speech and silence, then gives the warning."
+              "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded Sayings of Chan Master Guantaoqi. Guantao Daqi recites the claim that much speech and thought miss the point, while ending speech and thought leaves nothing unpenetrated. He immediately says that even this great patriarch deserves thirty blows. Why? He gives the crane-and-goose warning. The pair is Guantao's own critical cap on the inherited formulation, not a recorded reply from that earlier teacher. It prevents the polished statement about silence and thought from being accepted merely because it sounds authoritative. The source neither reports an actual beating nor identifies the particular patriarch by name in this brief unit. The preceding remark about Fenyang's fan and the following end-of-retreat address are separate occasions, so their questions should not be imported as a missing explanation of this cap."
             },
             {
               "RelPath": "J/J37/J37nB386.xml",
@@ -902519,7 +902525,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded sayings. Yuanan corrects a monk’s identification of a revered teacher and gives the crane-and-goose warning."
+              "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. During a whisk-holding address, a monk asks Yuan'an Liao about a sword hanging between the brows; he answers that its cold light reaches ten thousand miles. Asked what happens if blood splashes the Brahma heaven, he says the ninth heaven is free of obscuration. The monk concludes that Dahui has returned, and Yuan'an answers with the crane-and-goose warning. The headword checks that identification: impressive sword imagery and a forceful response do not by themselves authorize naming the present teacher a returned predecessor. His subsequent address challenges both easy and difficult accounts of understanding, then asks what it means to be someone not deceived, refusing a ready catalogue of doctrines or phenomena. That continuation broadens the test but supplies no final certification of the monk's answer or literal heavenly combat."
             }
           ],
           "ClaimAnchors": [
@@ -902540,7 +902546,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded sayings. Guxue proposes his own answer to an old question and warns not to mistake Zhi Dun’s crane for Wang Xizhi’s goose.",
+              "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue Zhenzhe raises Bai Letian asking Niaoke for the main meaning of the teaching. Niaoke says not to do evil and to practise good; Bai objects that a three-year-old can say that, and Niaoke answers that even an eighty-year-old may not do it. Guxue judges this handling awkward and proposes his own: if asked the same question, he would slap the questioner. If the person then said even a three-year-old could do that, he would give the crane-and-goose warning. The headword belongs to Guxue's hypothetical answer, not to the earlier Bai-Niaoke exchange. His proposed slap is not reported as an actual blow here. The warning checks treating a similar outward performance as the same responsive action, while the earlier contrast between speaking and doing remains visible.",
               "ClaimText": "莫將支遁鶴，喚作右軍鵝"
             },
             {
@@ -902548,19 +902554,25 @@
               "FromLb": "0585a23",
               "ToLb": "0585b30",
               "Kwic": "：「為甚麼雪峰低頭歸菴？」師云：「爛泥裏有刺。」進云：「僧舉似巖頭，頭云：『我當時若向伊道末後句，天下人不奈雪老何？』作麼生是末後句？」師云：「風前雪彈子。」進云：「頭云：『我與雪峰同條生，不與雪峰同條死。要識末後句，只者是。』意旨如何？」師云：「若把是非來入耳，從前知己盡成仇。」進云：「秖如雪峰末後句，巖頭證明；今朝雲叔末後句，和尚證明。和尚末後句，阿誰作證？」師云：「大眾側聆。」進云：「一堂風冷淡，千古意分明。」師云：「且莫錯流傳。」問：「一大藏教拭瘡疣故紙，千七百則公案是陳爛葛藤，超佛越祖之談，請師拈出。」師云：「胡餅裏討汁。」進云：「玉轉珠回，猶汙心田；簇錦攢花，眼中著屑。龍牙語句別有長處麼？」師云：「我也不知。」進云：「既是同氣連枝，因甚干戈相向？」師云：「不是冤家不聚頭。」進云：「鐘聲無鼓響，鼓聲無鐘音；彼此不相到，作麼生是同聲唱和句？」師云：「側耳無音聽，抬眸鷂子過。」進云：「恁麼則伯牙與子期不是閒相識？」師云：「莫將支遁鶴，喚作右軍鵝。」進云：「老漢只要出人頭地。」師云：「山僧今日失利。」問：「欲得流通正脈，貴乎千里同風。秖如無意味語又如何流通？」師云：「寒山拍手拾得笑。」進云：「恁麼則謫仙自識荊州後，贏得芳名遍界香。」師云：「杓卜聽虛聲。」進云：「不朽千秋事，班班見典墳。」師打云：「領取棒去。」乃云：「黃面瞿曇，大喻三千，小喻八百，說成一大藏，猶云『始從鹿野苑，終至跋提河，如是二中間，未曾說一字。』大似掩耳偷鈴，抱贓叫屈。周金剛燒卻《青龍鈔》，拈條赤楖栗，佛來祖來也棒，猶較些子，及乎道箇『吾宗無語句，亦無一法與人。』分明此處無銀三十兩。爭似我龍牙和尚胸次不存元字腳。頂門卻具摩醯眼，聊借洞庭湖為一張口，掇君山作箇舌頭。八百里之波瀾，千萬頃之空闊。默時說、說時默，大施門開無擁塞，一一從胸襟流出，與我蓋天蓋地去在。雖然如是舉揚，也是謗他不少，何故？鳳棲不在梧桐樹，碧落寒潭寫影長。」設奠。奠茶畢：「者一盞惡水，毒如鴆血，烈似砒霜。昔日趙州以此接納方來，無不受其毒死者。今朝將此奠我龍牙雲叟法兄和尚，金石相投，芝蘭氣合，儼然生也。法兄！你生平者一副鐵脊梁，從來不肯放下，恁是佛來也罵，魔來也怕。眼蓋三湘，氣吞諸夏；孤風絕侶，曲高和寡。沒興撞著瑞巖，三十年來，一獻一酬",
-              "MasterName": "Yunsou Benzhu",
+              "MasterName": "Yuan'an Liao",
               "ActorAttribution": null,
               "Curated": true,
               "ContextMasters": [
                 {
+                  "MasterName": "Yuan'an Liao",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
                   "MasterName": "Yunsou Benzhu",
                   "Roles": [
-                    "utterer",
+                    "person-discussed",
                     "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J34/J34nB310.xml). Recorded sayings. Yunsou answers a monk’s comparison of Boya and Ziqi with the crane-and-goose warning.",
+              "AttributionNote": "Source record (J/J34/J34nB310.xml). Recorded Sayings of Chan Master Yunsou Zhu. The appendix to Yunsou's collection explicitly introduces Yuan'an of Ruiyan giving an address when the sayings were printed. A monk asks for talk beyond inherited scriptures and cases; Yuan'an calls it looking for juice inside a flat cake. Asked why lineage relatives oppose one another, he replies that enemies are precisely those who meet. The monk then asks how bell and drum can sing together when their sounds do not reach one another. Yuan'an answers with listening without sound and raising the eyes as a hawk passes. Does this mean Boya and Ziqi were no casual acquaintances? Yuan'an gives the crane-and-goose warning. The monk accuses him of wanting to stand above others; he says he has lost the advantage today. The exact headword is Yuan'an Liao's reply, not collection-owner Yunsou Benzhu's. It checks the monk's literary equation without reporting final approval or explaining every bird as a coded person.",
               "ClaimText": "莫將支遁鶴，喚作右軍鵝"
             },
             {
@@ -902580,7 +902592,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded sayings. Guantao critiques an older claim about speech and silence, then gives the warning.",
+              "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded Sayings of Chan Master Guantaoqi. Guantao Daqi recites the claim that much speech and thought miss the point, while ending speech and thought leaves nothing unpenetrated. He immediately says that even this great patriarch deserves thirty blows. Why? He gives the crane-and-goose warning. The pair is Guantao's own critical cap on the inherited formulation, not a recorded reply from that earlier teacher. It prevents the polished statement about silence and thought from being accepted merely because it sounds authoritative. The source neither reports an actual beating nor identifies the particular patriarch by name in this brief unit. The preceding remark about Fenyang's fan and the following end-of-retreat address are separate occasions, so their questions should not be imported as a missing explanation of this cap.",
               "ClaimText": "莫將支遁鶴，喚作右軍鵝"
             },
             {
@@ -902600,7 +902612,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded sayings. Yuanan corrects a monk’s identification of a revered teacher and gives the crane-and-goose warning.",
+              "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. During a whisk-holding address, a monk asks Yuan'an Liao about a sword hanging between the brows; he answers that its cold light reaches ten thousand miles. Asked what happens if blood splashes the Brahma heaven, he says the ninth heaven is free of obscuration. The monk concludes that Dahui has returned, and Yuan'an answers with the crane-and-goose warning. The headword checks that identification: impressive sword imagery and a forceful response do not by themselves authorize naming the present teacher a returned predecessor. His subsequent address challenges both easy and difficult accounts of understanding, then asks what it means to be someone not deceived, refusing a ready catalogue of doctrines or phenomena. That continuation broadens the test but supplies no final certification of the monk's answer or literal heavenly combat.",
               "ClaimText": "莫將支遁鶴，喚作右軍鵝"
             }
           ],
@@ -902617,7 +902629,7 @@
             "Yuan'an Liao"
           ],
           "RelatedTerms": [],
-          "Explanation": "A crane and a goose are used to check a false identification. Guxue and Yunsou use the warning after a proposed answer or comparison. Guantao and Yuanan use it to resist equating distinct responses or people."
+          "Explanation": "Do not call Zhi Dun's crane the Right Army general's goose. The two named birds form a warning against substituting a familiar resemblance for the particular response at hand. Each passage shows what is being confused; the allusion does not itself supply a universal test for recognizing an adequate answer. Guxue Zhenzhe raises Bai Letian asking Niaoke for the main meaning of the teaching. Niaoke says not to do evil and to practise good; Bai objects that a three-year-old can say that, and Niaoke answers that even an eighty-year-old may not do it. Guxue judges this handling awkward and proposes his own: if asked the same question, he would slap the questioner. If the person then said even a three-year-old could do that, he would give the crane-and-goose warning. The headword belongs to Guxue's hypothetical answer, not to the earlier Bai-Niaoke exchange. His proposed slap is not reported as an actual blow here. The warning checks treating a similar outward performance as the same responsive action, while the earlier contrast between speaking and doing remains visible. The appendix to Yunsou's collection explicitly introduces Yuan'an of Ruiyan giving an address when the sayings were printed. A monk asks for talk beyond inherited scriptures and cases; Yuan'an calls it looking for juice inside a flat cake. Asked why lineage relatives oppose one another, he replies that enemies are precisely those who meet. The monk then asks how bell and drum can sing together when their sounds do not reach one another. Yuan'an answers with listening without sound and raising the eyes as a hawk passes. Does this mean Boya and Ziqi were no casual acquaintances? Yuan'an gives the crane-and-goose warning. The monk accuses him of wanting to stand above others; he says he has lost the advantage today. The exact headword is Yuan'an Liao's reply, not collection-owner Yunsou Benzhu's. It checks the monk's literary equation without reporting final approval or explaining every bird as a coded person. Guantao Daqi recites the claim that much speech and thought miss the point, while ending speech and thought leaves nothing unpenetrated. He immediately says that even this great patriarch deserves thirty blows. Why? He gives the crane-and-goose warning. The pair is Guantao's own critical cap on the inherited formulation, not a recorded reply from that earlier teacher. It prevents the polished statement about silence and thought from being accepted merely because it sounds authoritative. The source neither reports an actual beating nor identifies the particular patriarch by name in this brief unit. The preceding remark about Fenyang's fan and the following end-of-retreat address are separate occasions, so their questions should not be imported as a missing explanation of this cap. During a whisk-holding address, a monk asks Yuan'an Liao about a sword hanging between the brows; he answers that its cold light reaches ten thousand miles. Asked what happens if blood splashes the Brahma heaven, he says the ninth heaven is free of obscuration. The monk concludes that Dahui has returned, and Yuan'an answers with the crane-and-goose warning. The headword checks that identification: impressive sword imagery and a forceful response do not by themselves authorize naming the present teacher a returned predecessor. His subsequent address challenges both easy and difficult accounts of understanding, then asks what it means to be someone not deceived, refusing a ready catalogue of doctrines or phenomena. That continuation broadens the test but supplies no final certification of the monk's answer or literal heavenly combat."
         }
       ]
     },
