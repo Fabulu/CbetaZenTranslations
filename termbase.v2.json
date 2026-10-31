@@ -45115,7 +45115,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J24/J24nB138.xml). Recorded Sayings of Chan Master Yunmen Kuangzhen. Yunmen gives the uneven count when asked where a monk’s speech has fallen."
+              "AttributionNote": "Source record (J/J24/J24nB138.xml). Recorded Sayings of Chan Master Yunmen Kuangzhen. In a series of short exchanges, a monk asks Yunmen Wenyan how he would receive someone who understands nothing. Yunmen says the monk has already fallen into words. When the monk asks where that happened, Yunmen answers, seven blows matched against thirteen. The uneven count is his immediate response to the monk's demand for a pinpointed explanation; the record does not show seven or thirteen physical blows here."
             },
             {
               "RelPath": "J/J25/J25nB174.xml",
@@ -45133,7 +45133,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. Juelang invokes the old count and asks whether even a single blow can be apportioned."
+              "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. Juelang Daosheng invokes older end-of-retreat sayings and then turns to his own assembly. He says seven blows against thirteen, yet even one blow cannot be measured against another, and asks whether his own bringing up of the matter escapes the same problem. He says keen listeners may each take a share, while those clinging to a fixed pattern may also take a share. The count is Juelang's present challenge about judging a teacher's move, not a literal tally in this sermon."
             },
             {
               "RelPath": "J/J26/J26nB177.xml",
@@ -45151,7 +45151,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan gives the count after a monk answers a shout with another shout."
+              "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. A monk asks Poshan Haiming about a person who can meet a red-hot furnace without being consumed. Poshan says the monk is not that person; the two then exchange shouts. Poshan asks which shout is the real one, and the monk brushes his sitting mat and returns to his place. Poshan responds with seven blows matched against thirteen. The count judges this unresolved shout-and-gesture exchange; it is Poshan's spoken reply after the monk has withdrawn."
             },
             {
               "RelPath": "J/J29/J29nB235.xml",
@@ -45169,7 +45169,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J29/J29nB235.xml). Recorded Sayings of Chan Master Lianyue. Lianyue answers a festival question with the staff-blow count."
+              "AttributionNote": "Source record (J/J29/J29nB235.xml). Recorded Sayings of Chan Master Lianyue. At a Buddha-bathing festival address, a monk asks Lianyue Daozheng how to celebrate the Buddha's birth. Lianyue answers with seven blows matched against thirteen. The monk says Yunmen is still here, recognizing the earlier master's phrase, and Lianyue replies with a line about a blow and no-birth insight. The headword is Lianyue's own answer in the present festival exchange, with the monk's follow-up explicitly connecting it to Yunmen."
             },
             {
               "RelPath": "J/J37/J37nB388.xml",
@@ -45187,7 +45187,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Yikui of Shending. Yikui raises a staff and says the count in answer to what teaching is."
+              "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Yikui of Shending. In a hall exchange a monk asks Yikui Yuankui what Buddha is, what the teaching is, and what the community is. Yikui answers the first question with an image of a nose pointing down; for the second he picks up his staff and says seven blows matched against thirteen; he then gives a different answer about the assembly. The count is his own response to the question about teaching, accompanied by a staff gesture, rather than an account of blows actually delivered."
             },
             {
               "RelPath": "J/J40/J40nB494.xml",
@@ -45205,10 +45205,125 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan gives the count after a monk thanks him too readily."
+              "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. At a hall address requested by patrons, a monk asks Yushan Shangsi for the root of the matter. Yushan answers with an image of idle furniture, then rejects the request for a more direct sentence as another ladle of foul water. When the monk thanks him for instruction, Yushan says seven blows matched against thirteen. He then turns to the assembly and warns that even forceful polished sentences can still be narrow. The count is his present rebuke to a thanks offered before the exchange is settled."
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J24/J24nB138.xml",
+              "FromLb": "0378a19",
+              "ToLb": "0378b07",
+              "Kwic": "何？」師云：「風不入。」進云：「表裏事如何？」師云：「錯。」問：「萬機俱罷時如何？」師云：「塚上生芝草。」問：「觀身無己，觀外亦然時如何？」師云：「熱發作麼。」進云：「與麼則冰消瓦解去也。」師便打。問：「龍門有意，進水無能時如何？」師云：「來機即易，再舉還難。」進云：「正與麼時如何？」師云：「快。」問：「古人面壁，意旨如何？」師云：「念七。」又云：「定。」問：「百不會底人來，師如何接？」師云：「話墮也。」進云：「什麼處是話墮？」師云：「七棒對十三。」問：「承古有言：『了即業障本來空，未了還須償宿債。』未審二祖是了、未了？」師云：「確。」問：「從上古德相傳何事？」師云：「速禮三拜。」問：「如何是雲門一路？」師云：「親。」進云：「如何即是？」師云：「顛言倒語作麼？」問：「承古有言：『擬心即差。』如何得不差？」師云：「全機歷掌。」進云：「後人再問作麼生？」師云：「遲風難改。」問：「三身中，阿那身說法？」師云：「要。」問：「如何是釋迦身？」師云：「乾屎橛。」問：「請師提綱宗門。」師云：",
+              "MasterName": "Yunmen Wenyan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yunmen Wenyan",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J24/J24nB138.xml). Recorded Sayings of Chan Master Yunmen Kuangzhen. In a series of short exchanges, a monk asks Yunmen Wenyan how he would receive someone who understands nothing. Yunmen says the monk has already fallen into words. When the monk asks where that happened, Yunmen answers, seven blows matched against thirteen. The uneven count is his immediate response to the monk's demand for a pinpointed explanation; the record does not show seven or thirteen physical blows here.",
+              "ClaimText": "七棒對十三"
+            },
+            {
+              "RelPath": "J/J25/J25nB174.xml",
+              "FromLb": "0720a01",
+              "ToLb": "0720a20",
+              "Kwic": "裏現優曇。」示眾：「趙州云：『世人皆被十二時辰使；老僧卻能使十二時辰。』雲門云：『十五日以前即不問；十五日以後道將一句來。』又自代云：『日日是好日。』壽昌云：『是者等過日子，不是者等過時光；是者等過時光，不是者等過日子。』看者三個老漢，大似有驅耕奪食定國安邦手眼，簡點將來於初三十一中九下七處，也只是坐地說兵機，何曾有一些子交涉？秪如杖人恁麼道，有瞻風辯色底出來捋虎鬚看？」良久，擊杖云：「險！」示眾：「翠巖夏末不惜眉毛；洞山秋初無端落草。七棒對十三，一棒也較不得，天界恁麼舉，還免得麼？若有動絃別曲落葉知秋，也好分取一半；若是守株待兔緣木求魚，也好分取一半。何故為眾竭力也要他知得失、別休咎？為人即不禍生，雖然一棒也較不得。」示眾：「圓通賣死貓頭，無人著價；徑山鬻臭皮襪，索值遼天；棲霞鋸解秤錘，賺殺江南。江北長干舍利塔與天界毘盧閣相顧曰：『我高底高出雲霄；你大底大如山岳。爭奈正法眼藏涅槃妙心者一枝慧命，不知拄杖子作麼生廣為傳續？』」拄杖子笑曰：「止止不須說，此中別有機。北斗藏身須有語",
+              "MasterName": "Juelang Daosheng",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Juelang Daosheng",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. Juelang Daosheng invokes older end-of-retreat sayings and then turns to his own assembly. He says seven blows against thirteen, yet even one blow cannot be measured against another, and asks whether his own bringing up of the matter escapes the same problem. He says keen listeners may each take a share, while those clinging to a fixed pattern may also take a share. The count is Juelang's present challenge about judging a teacher's move, not a literal tally in this sermon.",
+              "ClaimText": "七棒對十三"
+            },
+            {
+              "RelPath": "J/J26/J26nB177.xml",
+              "FromLb": "0018c16",
+              "ToLb": "0019a04",
+              "Kwic": "云：「且道老僧笑箇甚麼？」僧罔措，師乃云：「年年七月十五，處處追宗薦祖，老僧又且不然，逢人只打口鼓。」以手拍口，云：「會麼？」時有僧喝一喝，師云：「甜瓜徹蒂甜，苦瓠連根苦。」上堂，僧問：「虛空百雜碎廓徹，意旨如何？」師云：「合取狗口。」僧喝，師正色叱之。問：「正令全提即不問，如何是雪點紅爐底人？」師云：「汝不是者箇人。」進云：「隨緣放曠去也。」師喝一喝，僧亦喝一喝，師云：「我也喝，你也喝，未審那箇喝底是？」僧以坐具拂一拂，歸位，師云：「七棒對十三。」僧問：「一百日畫地為牢，今日被學人蹋破了也。」師云：「墮坑落塹。」進云：「者箇是盡大地牢籠不著底。」師云：「性命也不顧。」僧禮拜，師乃云：「今辰老僧舉神光二祖三拜初祖，云得皮得髓，大眾雲集三拜，且道得箇甚麼？眾齊下一喝，老僧謂合取狗口。然而遠祖恁麼道，老僧恁麼拈，未審還有勝負也無？若有，不妨對眾舉似；如無，老僧自道去也。」以拄杖卓一卓，云：「還委悉麼？遲機只為分皮髓，賺我雲山千萬重。」明宇李居士為男發善拖白請上堂，師云：「佛光主照十",
+              "MasterName": "Poshan Haiming",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Poshan Haiming",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. A monk asks Poshan Haiming about a person who can meet a red-hot furnace without being consumed. Poshan says the monk is not that person; the two then exchange shouts. Poshan asks which shout is the real one, and the monk brushes his sitting mat and returns to his place. Poshan responds with seven blows matched against thirteen. The count judges this unresolved shout-and-gesture exchange; it is Poshan's spoken reply after the monk has withdrawn.",
+              "ClaimText": "七棒對十三"
+            },
+            {
+              "RelPath": "J/J29/J29nB235.xml",
+              "FromLb": "0404a15",
+              "ToLb": "0404b03",
+              "Kwic": "人，路頭不肯蹉過，長者見機而作，彈指收功，遂成不朽道場。今日山主玉泉張大護法營此精藍，請山僧於中舉揚宗乘，流通正法眼藏，施設雖然不同，道場要且無別。聽取一偈：『掀翻瓦礫布黃金，今古人同這片心，野曠池平龍象集，從教蹴蹋振叢林。』」下座。浴佛，岷源禪人圓戒，上堂。岷源問：「禪與律是一是二？」師云：「一有多種，二無兩般。」岷喝，師云：「今日釋迦老子降誕，用喝作麼？」岷便拜，師云：「且禮拜著。」僧問：「今日釋迦老子降誕，和尚如何慶讚？」師云：「七棒對十三。」進云：「雲門大師猶在。」師云：「棒下無生忍，臨機不見師。」乃云：「諸方今日浴佛，蓋景仰二千餘年遺風，貴圖家聲不墜，自古迄今拈提甚多。如藥山遵布衲浴佛次，藥山云：『這箇從汝浴，還浴得那箇麼？』遵云：『把將那箇來。』藥山休去。後有同安禪師舉云：『此則公案，人多向意識邊卜度，謂這箇是銅鐵，可以浴得；那箇是法身，全無形段，怎生浴得？』如此情解，都道藥山是遵布衲靠倒，不知二古人一出一入未有贏輸，三十年後不得錯舉。後又有幻寄道人舉云：『正如逢場",
+              "MasterName": "Lianyue Daozheng",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Lianyue Daozheng",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J29/J29nB235.xml). Recorded Sayings of Chan Master Lianyue. At a Buddha-bathing festival address, a monk asks Lianyue Daozheng how to celebrate the Buddha's birth. Lianyue answers with seven blows matched against thirteen. The monk says Yunmen is still here, recognizing the earlier master's phrase, and Lianyue replies with a line about a blow and no-birth insight. The headword is Lianyue's own answer in the present festival exchange, with the monk's follow-up explicitly connecting it to Yunmen.",
+              "ClaimText": "七棒對十三"
+            },
+            {
+              "RelPath": "J/J37/J37nB388.xml",
+              "FromLb": "0451c27",
+              "ToLb": "0452a14",
+              "Kwic": "，又是鬼窟活計。百尺竿頭進一步，罕遇其人；萬人叢裏奪高標，不妨好手。」驀豎拄杖，云：「有麼？有麼？」復云：「洎合停囚長智。」上堂。「法輪未轉，食輪先轉，一日缽盂兩度溼，食輪轉也。作麼生是法輪轉處？若以伐鼓敲鐘長老橫說豎說即是，未免深屈永隆；若道不是，又辜負永隆。作麼生定當去？」良久，云：「子期去不返，浩浩良可悲，寥寥天地間，知音復是誰？」上堂。問：「擊鼓陞堂即不問，如何是佛？」師云：「鼻孔大頭向下。」進云：「如何是法？」師拈拄杖，云：「七棒對十三。」進云：「如何是僧？」師云：「此眾無枝葉。」進云：「如何是自性三寶？」師云：「從頭七八。」進云：「與麼則萬法歸一也。」師云：「且道一歸何處？」僧便喝，師云：「孟八郎漢。」問：「如何是大地無艸？」師云：「腳下漫漫。」進云：「如何是大悟無道？」師云：「且莫瞌睡。」乃云：「鐘作鐘鳴，鼓作鼓響，穿過髑髏，一槌兩當。若謂是觀音入理之門，孟八郎漢承虛接響，露柱穿靴南嶽去，燈籠沿壁上天台，不作佛法商量，亦非世諦流布。忽有箇漢出來道：『眼裏著沙不得、",
+              "MasterName": "Yikui Yuankui",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yikui Yuankui",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Yikui of Shending. In a hall exchange a monk asks Yikui Yuankui what Buddha is, what the teaching is, and what the community is. Yikui answers the first question with an image of a nose pointing down; for the second he picks up his staff and says seven blows matched against thirteen; he then gives a different answer about the assembly. The count is his own response to the question about teaching, accompanied by a staff gesture, rather than an account of blows actually delivered.",
+              "ClaimText": "七棒對十三"
+            },
+            {
+              "RelPath": "J/J40/J40nB494.xml",
+              "FromLb": "0550c21",
+              "ToLb": "0551a10",
+              "Kwic": "妄，苟非頂門具眼、肘後懸符底漢，那能碎羅籠、破窠臼，於一毫頭上識得根源去？所以云：『百千法門同歸方寸，河沙妙德總在心源。』只貴箇同德同心、同聲同氣底一肩擔荷，相與建法幢、立宗旨，不為難事。即今還有如是人麼？」良久，云：「但辦肯心，必不相賺。」藏經院澄和尚領眾檀越請上堂。問：「承古有言：『此時若不究根源，直待當來問彌勒。』且道：如何是根源？」師云：「閒家具。」進云：「請和尚直截道一句。」師云：「更要第二杓惡水那？」進云：謝師指示。師云：「七棒對十三。」乃云：「振祖風，弘祖道，分付禪流莫草草，直饒你一句當天如日之杲、一句匝地如風之掃，正眼觀來，大似井蛙醯雞，所見還小。若是箇出格道流，手鑠黃河乾、腳踢須彌倒，把一大藏經作一牧馬，與他八大龍王誇珍鬥寶，更說甚如來禪玄之又玄、祖師禪玅之又玅？都盧掃向糞堆頭，大丈夫兒事始了。阿呵呵！好不好？相逢謾道知音少。」便下座。平山和尚領本郡眾護法請上堂。問：「五葉一花，根源一脈，列派分枝即且置，如何是正中偏？」師云：「夜蟾當午現。」進云：「如何是偏中",
+              "MasterName": "Yushan Shangsi",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yushan Shangsi",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. At a hall address requested by patrons, a monk asks Yushan Shangsi for the root of the matter. Yushan answers with an image of idle furniture, then rejects the request for a more direct sentence as another ladle of foul water. When the monk thanks him for instruction, Yushan says seven blows matched against thirteen. He then turns to the assembly and warns that even forceful polished sentences can still be narrow. The count is his present rebuke to a thanks offered before the exchange is settled.",
+              "ClaimText": "七棒對十三"
+            }
+          ],
           "SourceTexts": [
             "J/J24/J24nB138.xml",
             "J/J25/J25nB174.xml",
@@ -45226,7 +45341,7 @@
             "Yushan Shangsi"
           ],
           "RelatedTerms": [],
-          "Explanation": "The uneven count of blows can stand where a student expects a clean explanation. Yunmen’s original reply, Juelang’s staff challenge, and Poshan’s exchange of shouts give the count distinct force. Lianyue, Yikui, and Yushan each deploy it in a new question-and-answer turn."
+          "Explanation": "Seven blows matched against thirteen: an uneven count used as a pointed reply when a student expects a neat explanation. Yunmen gives it in a short exchange, and five later teachers voice it in their own questions and challenges; these windows do not record a literal count of strikes. In a series of short exchanges, a monk asks Yunmen Wenyan how he would receive someone who understands nothing. Yunmen says the monk has already fallen into words. When the monk asks where that happened, Yunmen answers, seven blows matched against thirteen. The uneven count is his immediate response to the monk's demand for a pinpointed explanation; the record does not show seven or thirteen physical blows here. Juelang Daosheng invokes older end-of-retreat sayings and then turns to his own assembly. He says seven blows against thirteen, yet even one blow cannot be measured against another, and asks whether his own bringing up of the matter escapes the same problem. He says keen listeners may each take a share, while those clinging to a fixed pattern may also take a share. The count is Juelang's present challenge about judging a teacher's move, not a literal tally in this sermon. A monk asks Poshan Haiming about a person who can meet a red-hot furnace without being consumed. Poshan says the monk is not that person; the two then exchange shouts. Poshan asks which shout is the real one, and the monk brushes his sitting mat and returns to his place. Poshan responds with seven blows matched against thirteen. The count judges this unresolved shout-and-gesture exchange; it is Poshan's spoken reply after the monk has withdrawn. At a Buddha-bathing festival address, a monk asks Lianyue Daozheng how to celebrate the Buddha's birth. Lianyue answers with seven blows matched against thirteen. The monk says Yunmen is still here, recognizing the earlier master's phrase, and Lianyue replies with a line about a blow and no-birth insight. The headword is Lianyue's own answer in the present festival exchange, with the monk's follow-up explicitly connecting it to Yunmen. In a hall exchange a monk asks Yikui Yuankui what Buddha is, what the teaching is, and what the community is. Yikui answers the first question with an image of a nose pointing down; for the second he picks up his staff and says seven blows matched against thirteen; he then gives a different answer about the assembly. The count is his own response to the question about teaching, accompanied by a staff gesture, rather than an account of blows actually delivered. At a hall address requested by patrons, a monk asks Yushan Shangsi for the root of the matter. Yushan answers with an image of idle furniture, then rejects the request for a more direct sentence as another ladle of foul water. When the monk thanks him for instruction, Yushan says seven blows matched against thirteen. He then turns to the assembly and warns that even forceful polished sentences can still be narrow. The count is his present rebuke to a thanks offered before the exchange is settled."
         }
       ]
     },
