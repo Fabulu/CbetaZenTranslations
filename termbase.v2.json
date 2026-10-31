@@ -330793,62 +330793,154 @@
     {
       "Id": "t_0296c60fb986",
       "SourceTerm": "大涅槃經",
+      "CreatedBy": "R16 clean-regeneration constructor C",
+      "WrittenUtc": "2026-07-30T01:00:00Z",
       "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "Codex Batch32 source-tier construction",
-      "WrittenUtc": "2026-07-29T00:00:00Z",
       "Senses": [
         {
           "SenseKey": null,
           "MasterName": null,
-          "PreferredTarget": "Mahāparinirvāṇa Sūtra",
+          "PreferredTarget": "Great Nirvana Sutra",
           "AlternateTargets": [
-            "Great Nirvana Sutra"
+            "Mahaparinirvana Sutra"
           ],
           "SearchAliases": [
-            "Mahaparinirvana Sutra",
-            "Great Nirvana scripture"
+            "Great Nirvana scripture",
+            "Mahaparinirvana Sutra"
           ],
           "Status": "preferred",
-          "Validation": "provisional",
-          "Note": "Only explicit title citations count; occurrences of 大涅槃 without 經 belong to the doctrinal phrase.",
+          "Validation": "multi-source",
+          "Explanation": "The Great Nirvana Sutra is a scripture title, distinct from the phrase great nirvana without the scripture marker. Tianyin Yuanxiu raises a passage from the Great Nirvana Sutra about twelvefold causation and four levels of awakening. He asks how a Chan practitioner would respond beyond merely explaining its words, strikes his staff, and ends with an image of mountains and rivers meeting their source. The headword identifies the scripture Tianyin explicitly quotes; the scripture's old speaker is separate from Tianyin's present challenge. In a written reply to the teacher Qian San, Feiyin Tongrong recounts their earlier dispute over the Lotus Sutra's statement that worldly forms abide. Qian San had invoked the Great Nirvana Sutra to argue that arising and passing abide within what does not arise or pass. Feiyin uses the named scripture as the point of that earlier claim, then objects that it sets up two opposed levels and asks how this could express abiding. The headword is the scripture title in Feiyin's present account, while Qian San is the earlier interlocutor. In an instruction to the monk Hongchuan, Wuyi Yuanlai names the Great Nirvana Sutra and cites its account of a hidden treasury and the three inseparable qualities of release, the body of the thus-come one, and great wisdom. He then draws the lesson that the thus-come one's nirvana concerns the sentient mind and urges the student to realize it rather than settle for partial understanding. The headword identifies the scripture Wuyi quotes; the ancient scriptural voice and Wuyi's present explanation are distinct.",
+          "Note": "The title includes the scripture marker; uses of the doctrinal phrase without that marker are separate.",
           "Occurrences": [
             {
-              "RelPath": "T/T48/T48n2016.xml",
-              "FromLb": "0418a18",
-              "ToLb": "0418a19",
-              "Kwic": "只如藥山和尚。一生看大涅槃經。",
+              "RelPath": "J/J25/J25nB171.xml",
+              "FromLb": "0555a07",
+              "ToLb": "0555a30",
+              "Kwic": "云：「古今師資道合，豈造次成就耶。當時曹山事師數載，親承實授。臨別，洞山尚不肯放過，云：『子向甚麼處去？』洞山向伊一拶，道：『不變異處豈有去耶？』云：『去亦不變異。』看曹山此語穩密，無以加矣。然在臨濟門下，正好喫棒。不見洛浦當時自謂了當，別濟南去，當仁不讓。濟以拄杖畫一畫云：『過得這箇便去。』浦乃喝，濟便打，浦禮拜而去。濟明日上堂云：『臨濟門下有箇赤稍鯉魚，搖頭擺尾向南方去，不知落誰家虀甕裏醃殺。』他日果跳不出夾山圈繢子。可見臨濟大師豈輕授受乎？然而洛浦亦不越師之記莂。雖然，到這裏，諸人向不變異處道將一句看。道得，許你前去；道不得，按下雲頭參。」舉：「《大涅槃經》云：『十二因緣法，下智觀故得聲聞菩提，中智觀故得緣覺菩提，上智觀故得菩薩菩提，上上智觀故得佛菩提。』」師徵云：「大小世尊說如來禪也。所以道：『依經解義，三世佛冤；離經一字，即同魔說。』且道衲僧家又作麼生道？」驀卓拄杖云：「千山勢到嶽邊盡，萬派宗歸海上消。」舉：「丹霞問僧：『甚麼處宿？』云：『山下宿。』霞云：『甚麼處喫飯？』云：『山下喫飯。』霞云：『將飯與闍黎喫的人，還具眼也無？』僧無語。」師徵云：「諸人終日喫飯，還識得此人麼？若識得此人，許你具一隻眼。」舉：「鼓山到玄沙，沙作一圓相示之。山云：『人人出這箇不得。』沙云：『情知你向驢胎馬腹裏作活計",
+              "ClaimText": "大涅槃經",
+              "MasterName": "Tianyin Yuanxiu",
               "Curated": true,
-              "AttributionNote": "Master-authored text (T/T48/T48n2016.xml). Record of the Mirror of the School (宗鏡錄): Yongming Yanshou cites the title while narrating Yaoshan Weiyan's reading; Yaoshan answers the following student question.",
-              "MasterName": "Yongming Yanshou",
               "ContextMasters": [
                 {
-                  "MasterName": "Yongming Yanshou",
+                  "MasterName": "Tianyin Yuanxiu",
                   "Roles": [
                     "utterer",
-                    "commentator"
-                  ]
-                },
-                {
-                  "MasterName": "Yaoshan Weiyan",
-                  "Roles": [
-                    "person-described",
-                    "case-figure"
+                    "record-owner"
                   ]
                 }
               ],
-              "ContextActors": []
+              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu raises a passage from the Great Nirvana Sutra about twelvefold causation and four levels of awakening. He asks how a Chan practitioner would respond beyond merely explaining its words, strikes his staff, and ends with an image of mountains and rivers meeting their source. The headword identifies the scripture Tianyin explicitly quotes; the scripture's old speaker is separate from Tianyin's present challenge."
+            },
+            {
+              "RelPath": "J/J26/J26nB178.xml",
+              "FromLb": "0167a30",
+              "ToLb": "0167b26",
+              "Kwic": "悉皆罔措，故世尊云：「吾有正法眼藏，涅槃妙心，實相無相，微妙法門，不立文字，教外別傳，付囑摩訶迦葉，轉相傳受。」于是二十八祖達磨大師繼之乃云：「直指人心，見性成佛。」心既指矣，性既見矣，則從前所學所聞、所修所證，皆無復遺餘矣。然則座下以一刀欲殺其根株，是座下之所見，亦是古人之方便，非禪宗超方脫略極則之語，不知高明以為何如。又以老朽前詰《法華經》「是法住法位，世間相常住」之意重拈其說，殊不知法華一部七卷之文，以實相為宗，其他多贊揚表顯，唯此兩句經是的切顯實相之義。座下彼時驀指茶筵中云：「圓眼住圓眼位，糖餅住糖餅位。」老朽當時詰云：「圓眼一捏便碎，糖餅一喫便了，如何得常住？」座下彼時無對，少頃以《大涅槃經》為證大意，以生住異滅住於不生不滅為常住，彼時老朽詰云：「如是則生滅住於不生滅，則成兩法，遽成能所對待，如何得常住乎？」今座下以老朽似不肯其說者此也。今又以山水草木為世間相，妄情既除，山是真山，水是真水，草是真草，木是真木，天地未分，先有山水草木，乾坤既壞，山水草木不壞。據此不唯實相常住之旨未明，于世諦理義亦未盡意。既天地未分，又何從而有山水草木乎？乾坤既壞，又何從而有山水草木乎？況有妄情可除，又有真山真水，乃至真草真木；天地未分，又有山水草木；乾坤既壞，又有山水草木不壞，則岐然兩分，宛爾生滅與不滅生對待之法，如何是實相之道，得永遠常住乎？老朽如此引援辯詰，古賢所謂引而不發，只要當人于此悟明，",
+              "ClaimText": "大涅槃經",
+              "MasterName": "Feiyin Tongrong",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Feiyin Tongrong",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. In a written reply to the teacher Qian San, Feiyin Tongrong recounts their earlier dispute over the Lotus Sutra's statement that worldly forms abide. Qian San had invoked the Great Nirvana Sutra to argue that arising and passing abide within what does not arise or pass. Feiyin uses the named scripture as the point of that earlier claim, then objects that it sets up two opposed levels and asks how this could express abiding. The headword is the scripture title in Feiyin's present account, while Qian San is the earlier interlocutor."
+            },
+            {
+              "RelPath": "X/X72/X72n1435.xml",
+              "FromLb": "0343c08",
+              "ToLb": "0344a23",
+              "Kwic": "成。計果求菩提。是名顛倒見。見性元周遍，物體本虗無。斯見與見緣，悉妙淨明體。云何於是中，有是及非是，因緣和合非，皆成戲論想。識藏如來藏，真性了然故。毫端寶王剎，微塵轉法輪，是名報佛恩，豈待僧祇劫？欲究祖師禪，當提一句話，一口氣不來。畢竟甚處去？切上更加切，疑上更加疑。如坐鐵壁間，祇欲親迸出。一朝疑團破。捉賊驗真贓。雨打石人頭。剝剝論實事。世間出世間，如紅爐片雪，便好放癡憨。更不多饒舌。待了本因緣，再為仁者說。宗說等錫上。無異禪師廣錄卷第二十六無異禪師廣錄卷第二十七住博山法孫弘瀚彚編首座法孫弘裕同集宗說等錫下示弘傳禪人示弘傳禪人夫為學者，發大信心，成大力勢，於大乘圓頓法門，成辦大事。如覓諸味，先飲醍醐，復得餘食，知苦澀故。不然，於眾味中，而生足想，聞醍醐味，不生好樂之心也。大涅槃經云：我今當令一切眾生，悉皆安住祕密藏中，入於涅槃。何等名為祕密之藏？具三德故。如𠁼字，三點若並，則不成𠁼，縱亦不成。乃至解脫之法，亦非涅槃；如來之身，亦非涅槃；摩訶般若，亦非涅槃。我今安住如是三法，為諸眾生，名入涅槃。以此則知，如來涅槃，即眾生心。是佛說我者，即是覺義。以自心覺故，常樂淨義，悉備自心。故為眾生安住，非為佛安住也。如觀一微無體，真如性遍。觀者即般若，無體即解脫，性遍即法身。一塵中即具三德，即入涅槃。非縱非橫，圓融無礙。以此則知，一事一行，一一皆入法界，具無邊德。是無盡宗趣，性起法門，無礙圓通，實不思議。清凉大師云：凡聖交徹，即凡心而見佛心；理事雙脩，依本智而求佛智。或執理而迷事，或執事而迷理。而不知約圓明之智，成此事緣；又不知起行布之緣，求此理佛。當",
+              "ClaimText": "大涅槃經",
+              "MasterName": "Wuyi Yuanlai",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Wuyi Yuanlai",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. In an instruction to the monk Hongchuan, Wuyi Yuanlai names the Great Nirvana Sutra and cites its account of a hidden treasury and the three inseparable qualities of release, the body of the thus-come one, and great wisdom. He then draws the lesson that the thus-come one's nirvana concerns the sentient mind and urges the student to realize it rather than settle for partial understanding. The headword identifies the scripture Wuyi quotes; the ancient scriptural voice and Wuyi's present explanation are distinct."
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J25/J25nB171.xml",
+              "FromLb": "0555a07",
+              "ToLb": "0555a30",
+              "Kwic": "云：「古今師資道合，豈造次成就耶。當時曹山事師數載，親承實授。臨別，洞山尚不肯放過，云：『子向甚麼處去？』洞山向伊一拶，道：『不變異處豈有去耶？』云：『去亦不變異。』看曹山此語穩密，無以加矣。然在臨濟門下，正好喫棒。不見洛浦當時自謂了當，別濟南去，當仁不讓。濟以拄杖畫一畫云：『過得這箇便去。』浦乃喝，濟便打，浦禮拜而去。濟明日上堂云：『臨濟門下有箇赤稍鯉魚，搖頭擺尾向南方去，不知落誰家虀甕裏醃殺。』他日果跳不出夾山圈繢子。可見臨濟大師豈輕授受乎？然而洛浦亦不越師之記莂。雖然，到這裏，諸人向不變異處道將一句看。道得，許你前去；道不得，按下雲頭參。」舉：「《大涅槃經》云：『十二因緣法，下智觀故得聲聞菩提，中智觀故得緣覺菩提，上智觀故得菩薩菩提，上上智觀故得佛菩提。』」師徵云：「大小世尊說如來禪也。所以道：『依經解義，三世佛冤；離經一字，即同魔說。』且道衲僧家又作麼生道？」驀卓拄杖云：「千山勢到嶽邊盡，萬派宗歸海上消。」舉：「丹霞問僧：『甚麼處宿？』云：『山下宿。』霞云：『甚麼處喫飯？』云：『山下喫飯。』霞云：『將飯與闍黎喫的人，還具眼也無？』僧無語。」師徵云：「諸人終日喫飯，還識得此人麼？若識得此人，許你具一隻眼。」舉：「鼓山到玄沙，沙作一圓相示之。山云：『人人出這箇不得。』沙云：『情知你向驢胎馬腹裏作活計",
+              "ClaimText": "大涅槃經",
+              "MasterName": "Tianyin Yuanxiu",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Tianyin Yuanxiu",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu raises a passage from the Great Nirvana Sutra about twelvefold causation and four levels of awakening. He asks how a Chan practitioner would respond beyond merely explaining its words, strikes his staff, and ends with an image of mountains and rivers meeting their source. The headword identifies the scripture Tianyin explicitly quotes; the scripture's old speaker is separate from Tianyin's present challenge."
+            },
+            {
+              "RelPath": "J/J26/J26nB178.xml",
+              "FromLb": "0167a30",
+              "ToLb": "0167b26",
+              "Kwic": "悉皆罔措，故世尊云：「吾有正法眼藏，涅槃妙心，實相無相，微妙法門，不立文字，教外別傳，付囑摩訶迦葉，轉相傳受。」于是二十八祖達磨大師繼之乃云：「直指人心，見性成佛。」心既指矣，性既見矣，則從前所學所聞、所修所證，皆無復遺餘矣。然則座下以一刀欲殺其根株，是座下之所見，亦是古人之方便，非禪宗超方脫略極則之語，不知高明以為何如。又以老朽前詰《法華經》「是法住法位，世間相常住」之意重拈其說，殊不知法華一部七卷之文，以實相為宗，其他多贊揚表顯，唯此兩句經是的切顯實相之義。座下彼時驀指茶筵中云：「圓眼住圓眼位，糖餅住糖餅位。」老朽當時詰云：「圓眼一捏便碎，糖餅一喫便了，如何得常住？」座下彼時無對，少頃以《大涅槃經》為證大意，以生住異滅住於不生不滅為常住，彼時老朽詰云：「如是則生滅住於不生滅，則成兩法，遽成能所對待，如何得常住乎？」今座下以老朽似不肯其說者此也。今又以山水草木為世間相，妄情既除，山是真山，水是真水，草是真草，木是真木，天地未分，先有山水草木，乾坤既壞，山水草木不壞。據此不唯實相常住之旨未明，于世諦理義亦未盡意。既天地未分，又何從而有山水草木乎？乾坤既壞，又何從而有山水草木乎？況有妄情可除，又有真山真水，乃至真草真木；天地未分，又有山水草木；乾坤既壞，又有山水草木不壞，則岐然兩分，宛爾生滅與不滅生對待之法，如何是實相之道，得永遠常住乎？老朽如此引援辯詰，古賢所謂引而不發，只要當人于此悟明，",
+              "ClaimText": "大涅槃經",
+              "MasterName": "Feiyin Tongrong",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Feiyin Tongrong",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. In a written reply to the teacher Qian San, Feiyin Tongrong recounts their earlier dispute over the Lotus Sutra's statement that worldly forms abide. Qian San had invoked the Great Nirvana Sutra to argue that arising and passing abide within what does not arise or pass. Feiyin uses the named scripture as the point of that earlier claim, then objects that it sets up two opposed levels and asks how this could express abiding. The headword is the scripture title in Feiyin's present account, while Qian San is the earlier interlocutor."
+            },
+            {
+              "RelPath": "X/X72/X72n1435.xml",
+              "FromLb": "0343c08",
+              "ToLb": "0344a23",
+              "Kwic": "成。計果求菩提。是名顛倒見。見性元周遍，物體本虗無。斯見與見緣，悉妙淨明體。云何於是中，有是及非是，因緣和合非，皆成戲論想。識藏如來藏，真性了然故。毫端寶王剎，微塵轉法輪，是名報佛恩，豈待僧祇劫？欲究祖師禪，當提一句話，一口氣不來。畢竟甚處去？切上更加切，疑上更加疑。如坐鐵壁間，祇欲親迸出。一朝疑團破。捉賊驗真贓。雨打石人頭。剝剝論實事。世間出世間，如紅爐片雪，便好放癡憨。更不多饒舌。待了本因緣，再為仁者說。宗說等錫上。無異禪師廣錄卷第二十六無異禪師廣錄卷第二十七住博山法孫弘瀚彚編首座法孫弘裕同集宗說等錫下示弘傳禪人示弘傳禪人夫為學者，發大信心，成大力勢，於大乘圓頓法門，成辦大事。如覓諸味，先飲醍醐，復得餘食，知苦澀故。不然，於眾味中，而生足想，聞醍醐味，不生好樂之心也。大涅槃經云：我今當令一切眾生，悉皆安住祕密藏中，入於涅槃。何等名為祕密之藏？具三德故。如𠁼字，三點若並，則不成𠁼，縱亦不成。乃至解脫之法，亦非涅槃；如來之身，亦非涅槃；摩訶般若，亦非涅槃。我今安住如是三法，為諸眾生，名入涅槃。以此則知，如來涅槃，即眾生心。是佛說我者，即是覺義。以自心覺故，常樂淨義，悉備自心。故為眾生安住，非為佛安住也。如觀一微無體，真如性遍。觀者即般若，無體即解脫，性遍即法身。一塵中即具三德，即入涅槃。非縱非橫，圓融無礙。以此則知，一事一行，一一皆入法界，具無邊德。是無盡宗趣，性起法門，無礙圓通，實不思議。清凉大師云：凡聖交徹，即凡心而見佛心；理事雙脩，依本智而求佛智。或執理而迷事，或執事而迷理。而不知約圓明之智，成此事緣；又不知起行布之緣，求此理佛。當",
+              "ClaimText": "大涅槃經",
+              "MasterName": "Wuyi Yuanlai",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Wuyi Yuanlai",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. In an instruction to the monk Hongchuan, Wuyi Yuanlai names the Great Nirvana Sutra and cites its account of a hidden treasury and the three inseparable qualities of release, the body of the thus-come one, and great wisdom. He then draws the lesson that the thus-come one's nirvana concerns the sentient mind and urges the student to realize it rather than settle for partial understanding. The headword identifies the scripture Wuyi quotes; the ancient scriptural voice and Wuyi's present explanation are distinct."
+            }
+          ],
           "SourceTexts": [
-            "T/T48/T48n2016.xml"
+            "J/J25/J25nB171.xml",
+            "J/J26/J26nB178.xml",
+            "X/X72/X72n1435.xml"
           ],
           "RelatedMasters": [
-            "Yongming Yanshou",
-            "Yaoshan Weiyan"
+            "Tianyin Yuanxiu",
+            "Feiyin Tongrong",
+            "Wuyi Yuanlai"
           ],
-          "RelatedTerms": [],
-          "Explanation": "The Mahāparinirvāṇa Sūtra is the scripture title completed by 經, distinct from the doctrinal expression “great nirvana.” Yongming Yanshou cites Yaoshan’s lifelong reading of this scripture and the student’s question about why Yaoshan reads it despite ordinarily discouraging students from reading scriptures."
+          "RelatedTerms": []
         }
       ]
     },

@@ -26578,18 +26578,18 @@
   },
   {
     "SourceTerm": "大涅槃經",
-    "PreferredTarget": "Mahāparinirvāṇa Sūtra",
+    "PreferredTarget": "Great Nirvana Sutra",
     "AlternateTargets": [
-      "Great Nirvana Sutra"
+      "Mahaparinirvana Sutra"
     ],
     "SearchAliases": [
-      "Mahaparinirvana Sutra",
-      "Great Nirvana scripture"
+      "Great Nirvana scripture",
+      "Mahaparinirvana Sutra"
     ],
     "Status": "preferred",
-    "Note": "Only explicit title citations count; occurrences of 大涅槃 without 經 belong to the doctrinal phrase.",
-    "CreatedBy": "Codex Batch32 source-tier construction",
-    "WrittenUtc": "2026-07-29T00:00:00Z"
+    "Note": "The title includes the scripture marker; uses of the doctrinal phrase without that marker are separate.",
+    "CreatedBy": "R16 clean-regeneration constructor C",
+    "WrittenUtc": "2026-07-30T01:00:00Z"
   },
   {
     "SourceTerm": "大用",
