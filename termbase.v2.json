@@ -40796,7 +40796,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi quotes Huanglong's return verse and answers with his own stream-and-cloud verse."
+              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan has just answered a monk who presses him about whether leaving and returning can be said to leave either his room or the road. Baichi then quotes Huanglong Huinan's verse on returning to his mountain: a stream saw him off, clouds welcomed him, his body goes or stays without truly doing either, and the two unfeeling things seem to care. Baichi says he too went down the mountain and returned, then offers his own verse on going, coming, clouds and water. The exact couplet is Huanglong's older quoted line; Baichi uses it to frame his own journey and reply."
             },
             {
               "RelPath": "J/J28/J28nB208.xml",
@@ -40820,7 +40820,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue quotes Huanglong and asks which present coming and going is beyond movement."
+              "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue Zhe quotes Huanglong Huinan's return verse, including the line that the body's going and staying are neither and that stream and cloud seem to have feeling. Guxue tells the assembled supporters that Huanglong's freedom of movement is established, then asks which part of their present coming and going to escort him back to the temple is beyond going or staying. He rises, bows and wishes them well. The exact couplet is Huanglong's quoted voice; Guxue turns it into a question about the current shared journey."
             },
             {
               "RelPath": "J/J29/J29nB230.xml",
@@ -40844,7 +40844,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J29/J29nB230.xml). Six-Session Record of Monk Shuijianhai of Tianwang. Shuijian quotes Huanglong and Ying'an, then judges both against his own journey."
+              "AttributionNote": "Source record (J/J29/J29nB230.xml). Six-Session Record of Monk Shuijianhai of Tianwang. After returning from a journey of more than eighty days, the Tianwang master quotes Huanglong Huinan's stream-and-cloud return verse, then quotes Ying'an describing his own wet and muddy return. He says both predecessors have expressed themselves fully, recounts traveling through several counties and towns, and supplies his own verse about the season, the boat and having no teaching to offer. The exact going-and-staying couplet belongs to Huanglong; the two later travel verses are separate answers, not extra utterances of that line."
             },
             {
               "RelPath": "J/J37/J37nB392.xml",
@@ -40868,10 +40868,111 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J37/J37nB392.xml). Recorded Sayings of Chan Master Hansong Cao. Hansong quotes Huanglong, faults his residual welcome-and-farewell division, and offers another verse."
+              "AttributionNote": "Source record (J/J37/J37nB392.xml). Recorded Sayings of Chan Master Hansong Cao. At a hall address on his own return, Hansong Cao quotes Huanglong Huinan's stream-and-cloud verse. Hansong says Huanglong still keeps a trace of distinction between being sent away and welcomed back. He recalls traveling through several places to discharge three duties connected with birth, ordination and receiving precepts, then offers his own verse about departing shoes and a returning staff. The exact couplet is Huanglong's older voice; Hansong's present criticism and counterverse test whether welcome and farewell still govern the scene."
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J28/J28nB202.xml",
+              "FromLb": "0009a22",
+              "ToLb": "0009b11",
+              "Kwic": "山時，還曾離方丈也無？」師云：「任汝疑著。」進云：「未有長住而不行，秪如今日回來時，還曾離途中也無？」師云：「亦任汝疑著。」進云：「離卻去來，請和尚別道一句。」師云：「頭戴天，腳履地。」僧禮拜，師乃云：「負傑出之才，架千鈞重弩，靈機透發，盡大地人躲避不過，有般漢聞與麼道，便鼻孔裏冷笑，謂山僧慣說將無如有底話，殊不知髑髏上中箭了也。事弗獲已且作死馬醫，亦要箇箇解恁麼始得。」復舉黃龍南禪師還山，有頌示眾云：「去時一溪流水送，來時滿谷白雲迎，一身去住非去住，二物無情似有情。」師云：「白雲重重，流水溶溶，迎來送去，樂在其中。山僧前月十七下山，今朝初二還山，這般景色豈是無耶？蓋為常住之物，不敢私自己用。雖然，試效顰一偈舉似大眾：去時如是去，來時如是來，去去來來非別物，白雲流水空悠哉。空悠哉，數員窮衲子，依舊復徘徊。」上堂。「千句萬句，只是一句，作麼生是這一句？」良久，云：「父母所生口，終不為汝說。」便下座。佛誕，請化士，上堂。「世尊初降生時，手指天地，周行七步，目顧四方，云：『天上天下，惟我獨尊。』好箇大力",
+              "MasterName": "Huanglong Huinan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Huanglong Huinan",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Baichi Xingyuan",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan has just answered a monk who presses him about whether leaving and returning can be said to leave either his room or the road. Baichi then quotes Huanglong Huinan's verse on returning to his mountain: a stream saw him off, clouds welcomed him, his body goes or stays without truly doing either, and the two unfeeling things seem to care. Baichi says he too went down the mountain and returned, then offers his own verse on going, coming, clouds and water. The exact couplet is Huanglong's older quoted line; Baichi uses it to frame his own journey and reply.",
+              "ClaimText": "一身去住非去住，二物無情似有情"
+            },
+            {
+              "RelPath": "J/J28/J28nB208.xml",
+              "FromLb": "0326c21",
+              "ToLb": "0327a10",
+              "Kwic": "者、居士為之布金植樹，文殊、普賢、目連、鶖子諸大士為之贊襄法化，十方諸佛為之出廣長舌、吐微玅音，互相激揚、互相贊歎，俾一切博地凡夫未信者信、未證者證、未解脫者令得解脫、未滅度者令得滅度。然在釋迦老子及諸大士分上原無尊卑優劣，亦無佛及眾生等見，所以道：『滅度一切眾生，實無眾生得滅度者。』大眾！既無眾生得度，祇如千聖出興當為何事？還會麼？不因紫陌華開早，爭得黃鶯下柳條？」復舉：「黃龍南禪師退院歸，示眾，云：『去時一谿流水送，歸來滿谷白雲迎，一身去住非去住，二物無情似有情。』大眾！黃龍老人卷舒無礙，得大總持即且置，祇如現前諸公為留山僧歸寺，往往來來、去去住住，那箇是非去住底？」乃起立鞠躬，云：「孟春猶寒，恭惟護法耆舊起居多福。」下座。解制，上堂。僧問：「兩堂共聚究無生，幾箇曾親悟現成？倏忽一期今已滿，請師方便示群情。」師云：「厚翳未曾落，毛輪焉得消？」進云：「鴻鵠衝雲漢，何處不逍遙？」師云：「走煞闍黎。」乃云：「仲春朔，寒梅漸逐香風落，桃華李華相次開，靈雲睡眼俄驚覺。謝三郎，諾不諾？等閒抴脫岸邊樁，南北",
+              "MasterName": "Huanglong Huinan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Huanglong Huinan",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Guxue Zhenzhe",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue Zhe quotes Huanglong Huinan's return verse, including the line that the body's going and staying are neither and that stream and cloud seem to have feeling. Guxue tells the assembled supporters that Huanglong's freedom of movement is established, then asks which part of their present coming and going to escort him back to the temple is beyond going or staying. He rises, bows and wishes them well. The exact couplet is Huanglong's quoted voice; Guxue turns it into a question about the current shared journey.",
+              "ClaimText": "一身去住非去住，二物無情似有情"
+            },
+            {
+              "RelPath": "J/J29/J29nB230.xml",
+              "FromLb": "0260b10",
+              "ToLb": "0260b30",
+              "Kwic": "發揚，何以開覺斯民？雖則玅性不雜於名相，而名相之中大顯乎玅性矣。今日要見張公面目，玅性圓明也不難。」遂以拂子向空點一點，曰：「見麼？如此見得，面目宛然絲不挂，何須別處覓遺形？若也不見，人間富貴離名相，天上玉樓玅性成。」上堂。「金粟無法說，諸人何所求？達磨一隻履，投子一瓶油，收來作一擔，隨處樂優游。可以興雲雨，可以作慈舟，不似禿笤帚，靠在屋角頭。休！休！何處見風流？」拓缽回，上堂。舉：「南禪師出城歸頌曰：『去時一谿流水送，回來滿谷白雲迎。一身去住非去住，二物無情似有情。』應菴和尚曰：『南禪師好則好，只是愛便宜。山僧退請歸來，也有一頌舉似大眾：去時冒雨連宵去，回來帶水又拖泥。自怪一身無定力，尋常多被業風吹。』」師曰：「二老如此說話，可謂述盡衷腸。金粟八十餘日，歷盡三縣五鎮，今日載歸，滿船明月，亦成一頌，聊效嫫母：去時拂面熏風裏，回來高柳又鳴秋。自謂年來無法說，缽盂開口笑吾儔。」天童悟和尚忌，上堂。「年年七月七，老祖是祥辰，老祖真面目，斯夕看巧雲。巧雲不易見，一年一度生，布之為雨露，若箇不沾恩？只如知恩",
+              "MasterName": "Huanglong Huinan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Huanglong Huinan",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Shaweng Huihai",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J29/J29nB230.xml). Six-Session Record of Monk Shuijianhai of Tianwang. After returning from a journey of more than eighty days, the Tianwang master quotes Huanglong Huinan's stream-and-cloud return verse, then quotes Ying'an describing his own wet and muddy return. He says both predecessors have expressed themselves fully, recounts traveling through several counties and towns, and supplies his own verse about the season, the boat and having no teaching to offer. The exact going-and-staying couplet belongs to Huanglong; the two later travel verses are separate answers, not extra utterances of that line.",
+              "ClaimText": "一身去住非去住，二物無情似有情"
+            },
+            {
+              "RelPath": "J/J37/J37nB392.xml",
+              "FromLb": "0582c25",
+              "ToLb": "0583a16",
+              "Kwic": "者箇是山中佛法耶？海畔佛法耶？只恐分疏不下。」至玉山，眾護法請上堂。「談玄談玅，無殊指鹿為馬；行棒行喝，何異畫餅充饑？打地擎叉，瞞盰佛性；張弓架箭，儱個真如。」豎拂，云：「爭如者箇獨脫無依，獲大神變，常在家舍，不離途中；雖在途中，不離家舍。一語一默，無非直指單傳；一放一收，自是全提大用。未審是甚麼物得與麼奇特？」擊香几，云：「海神知貴不知價，留與人間光照夜。」遠歸上堂。舉：「黃龍南禪師出城歸院，示眾云：『去時一谿流水送，回來滿谷白雲迎，一身去住非去住，二物無情似有情。』」師云：「黃龍老漢雖然見有送迎，未免情存背向。山僧自別陽羨、渡蕪陰、泛潛川、過桐谿，因酬生身、剃度、得戒三大事，事畢方回，亦有一偈：去日芒鞋獰似虎，歸時拄杖活如龍，年來三事都酬畢，笑引風雲入畫中。」再住常州國山善權寺語錄再住常州國山善權寺語錄師因陳氏彊豎旗竿於法堂右首，乃抴杖出山，郡邑當道同眾紳衿護法革其斂、整其規，躬送入院，請上堂。拈香，云：「此一瓣香，至仁至聖、至貴至尊，端為祝延聖躬萬安。此一瓣香，奉為朝野公卿以為己之心為人，人",
+              "MasterName": "Huanglong Huinan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Huanglong Huinan",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Hansong Zhicao",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J37/J37nB392.xml). Recorded Sayings of Chan Master Hansong Cao. At a hall address on his own return, Hansong Cao quotes Huanglong Huinan's stream-and-cloud verse. Hansong says Huanglong still keeps a trace of distinction between being sent away and welcomed back. He recalls traveling through several places to discharge three duties connected with birth, ordination and receiving precepts, then offers his own verse about departing shoes and a returning staff. The exact couplet is Huanglong's older voice; Hansong's present criticism and counterverse test whether welcome and farewell still govern the scene.",
+              "ClaimText": "一身去住非去住，二物無情似有情"
+            }
+          ],
           "SourceTexts": [
             "J/J28/J28nB202.xml",
             "J/J28/J28nB208.xml",
@@ -40886,7 +40987,7 @@
             "Hansong Zhicao"
           ],
           "RelatedTerms": [],
-          "Explanation": "Huanglong's verse makes the stream and clouds greet his travels, then questions whether his body truly comes or goes. Baichi answers the old verse with a return verse; Guxue tests which part of a journey is beyond coming and going. Shuijian compares two older travel verses; Hansong criticizes Huanglong for still keeping a trace of arrival and departure."
+          "Explanation": "In Huanglong Huinan's return verse, a stream and clouds appear to send off and welcome his one body, yet its going and staying are questioned. Four later teachers quote that same couplet while discussing their own departures and returns. Baichi Xingyuan has just answered a monk who presses him about whether leaving and returning can be said to leave either his room or the road. Baichi then quotes Huanglong Huinan's verse on returning to his mountain: a stream saw him off, clouds welcomed him, his body goes or stays without truly doing either, and the two unfeeling things seem to care. Baichi says he too went down the mountain and returned, then offers his own verse on going, coming, clouds and water. The exact couplet is Huanglong's older quoted line; Baichi uses it to frame his own journey and reply. Guxue Zhe quotes Huanglong Huinan's return verse, including the line that the body's going and staying are neither and that stream and cloud seem to have feeling. Guxue tells the assembled supporters that Huanglong's freedom of movement is established, then asks which part of their present coming and going to escort him back to the temple is beyond going or staying. He rises, bows and wishes them well. The exact couplet is Huanglong's quoted voice; Guxue turns it into a question about the current shared journey. After returning from a journey of more than eighty days, the Tianwang master quotes Huanglong Huinan's stream-and-cloud return verse, then quotes Ying'an describing his own wet and muddy return. He says both predecessors have expressed themselves fully, recounts traveling through several counties and towns, and supplies his own verse about the season, the boat and having no teaching to offer. The exact going-and-staying couplet belongs to Huanglong; the two later travel verses are separate answers, not extra utterances of that line. At a hall address on his own return, Hansong Cao quotes Huanglong Huinan's stream-and-cloud verse. Hansong says Huanglong still keeps a trace of distinction between being sent away and welcomed back. He recalls traveling through several places to discharge three duties connected with birth, ordination and receiving precepts, then offers his own verse about departing shoes and a returning staff. The exact couplet is Huanglong's older voice; Hansong's present criticism and counterverse test whether welcome and farewell still govern the scene."
         }
       ]
     },
