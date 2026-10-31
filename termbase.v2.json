@@ -216344,14 +216344,14 @@
         {
           "SenseKey": null,
           "MasterName": null,
-          "PreferredTarget": "The kalpa fire blazes; the great world is destroyed",
+          "PreferredTarget": "The world-ending fire blazes; the vast world is destroyed.",
           "AlternateTargets": [],
           "SearchAliases": [
-            "the kalpa fire blazes; the great world is destroyed"
+            "the world-ending fire blazes; the vast world is destroyed"
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "“The kalpa fire blazes; the whole great world is destroyed” supplies an extreme scene of dissolution. Wanru asks where teaching is found in it; Linye uses it to test what can move or remain; Azi voices it at a cremation; Hengchuan raises a torch and asks what can withstand the burning. The line makes a cosmic fire press on present questions of teaching, life, and death. Fushi compares two old answers to the burning-world question; Shengke supplies an alternate answer in his own staged exchange.",
+          "Note": "The fire image is used in distinct teaching and funeral settings. The two later raisings preserve anonymous human questions and must distinguish those questions from the named teachers' replies, including Shengke's explicitly hypothetical replacement.",
           "Occurrences": [
             {
               "RelPath": "J/J26/J26nB182.xml",
@@ -216369,7 +216369,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB182.xml). Recorded Sayings of Chan Master Wanru. Wanru voices the pair in his own sermon and asks where the ultimate teaching can be found as the great world burns."
+              "AttributionNote": "Source record (J/J26/J26nB182.xml). Recorded Sayings of Chan Master Wanru. Wanru Tongwei warns that hearing his lips move and immediately calling this the teaching misses the mountains, earth, wind, dust, clouds and birds that are already displaying the ultimate point. He then gives the world-burning pair and asks where that point will be when all those appearances are destroyed. Striking his staff, he says that only one who has worked at it knows. The phrase removes the familiar surroundings on which a ready answer might rely; the staff and closing challenge address the present assembly. The source supplies no separate geographical location to which the teaching escapes the fire."
             },
             {
               "RelPath": "J/J26/J26nB186.xml",
@@ -216387,7 +216387,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB186.xml). Recorded Sayings of Chan Master Linyexi. Linye voices the pair within a sermon on an unchanging clarity, then asks what does and does not move."
+              "AttributionNote": "Source record (J/J26/J26nB186.xml). Recorded Sayings of Chan Master Linyexi. Linye Tongqi says that what was never born has not now ceased, and that the clear, pure nature has not changed. Even if the world-ending fire destroys the vast world, he says, it cannot disturb so much as a hair. He immediately sets aside the question of moving or not moving and asks for a sentence about ancient and present not differing, answering that life and death share one limit and all transformations are thus. The destruction scene tests his claim of constancy. The ensuing question prevents treating the isolated fire image as a physical explanation of an indestructible object."
             },
             {
               "RelPath": "J/J38/J38nB408.xml",
@@ -216405,7 +216405,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J38/J38nB408.xml). Recorded Sayings of Chan Master Aziwa of Haichuang. Azi voices the pair at a cremation and points to the deceased monk’s sincere work amid destruction."
+              "AttributionNote": "Source record (J/J38/J38nB408.xml). Recorded Sayings of Chan Master Aziwa of Haichuang. At the cremation of the practitioner Lian'an, Azi Jinwu opens with the burning-world pair but calls the deceased's sincere, plain and wholehearted practice something genuinely unbroken at this very moment. He says he will give him a handful of fire, neither forming a Buddha-view nor a teaching-view, then applies the torch and recites Amitabha's name. The contrast belongs to a concrete funeral act honoring this person's conduct. Azi does not report that the physical body escapes cremation, and his refusal of fixed religious views is part of the address rather than a missing explanation to be supplied by the reader."
             },
             {
               "RelPath": "X/X71/X71n1411.xml",
@@ -216423,7 +216423,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X71/X71n1411.xml). Recorded Sayings of Chan Master Hengchuan Xinggong. Hengchuan voices the pair while raising a torch and contrasts the burning world with awakening that does not burn."
+              "AttributionNote": "Source record (X/X71/X71n1411.xml). Recorded Sayings of Chan Master Hengchuan Xinggong. At Zheng's cremation, Hengchuan Rugong first cites Xuansha's saying that before a dead monk one is directly confronted by awakening. He raises the torch, gives the world-burning pair, and declares that only awakening is not destroyed. This is a brief spoken contrast accompanying the fire, not a question about which material survives it. Xuansha owns the preceding inherited saying; Hengchuan owns the headword and his present declaration. The surrounding collection includes other fire addresses, but those separate occasions should not be folded into this particular act for Zheng."
             },
             {
               "RelPath": "J/J26/J26nB185.xml",
@@ -216439,15 +216439,29 @@
                     "commentator",
                     "record-owner"
                   ]
+                },
+                {
+                  "MasterName": "Dasui Fazhen",
+                  "Roles": [
+                    "respondent",
+                    "case-figure"
+                  ]
+                },
+                {
+                  "MasterName": "Longji Shaoxiu",
+                  "Roles": [
+                    "respondent",
+                    "case-figure"
+                  ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. Fushi quotes two old answers to the monk?s burning-world question, then criticizes a settled understanding of both and gives his own noon-at-midnight answer.",
+              "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. Fushi Tongxian raises two separate old questions. One monk asks Dasui Fazhen whether this is destroyed when the entire world burns; Dasui says it is, and tells him to follow it. Another asks Master Xiu, who says it is not destroyed because it is the same as the vast world. Fushi then discusses emptiness, the one, and the nature's presence amid conditions, but says that even understanding this reaches the Buddha's Chan while the ancestors' Chan has not yet been dreamed of. He adds that the two arise from one and even the one must not be kept, ending with noon striking the third night-watch and facing south to see the northern constellation. The exact burning-world words belong to the quoted questioners; Fushi supplies the current critique of settling on either old reply.",
               "ActorAttribution": {
-                "Status": "narrated",
-                "Kind": "older case questioner unresolved",
-                "ActorLabel": "Unnamed monk in the Dashui and Longji cases",
-                "ActorRole": "utterer",
-                "GrammarEvidence": "The exact headword is within a monk?s quoted question; the current master then gives a distinct active response.",
+                "Status": "reviewed-unnamed",
+                "Kind": "quoted human questioners",
+                "ActorLabel": "unnamed monks in the separate Dasui and Master Xiu questions",
+                "ActorRole": "questioner",
+                "GrammarEvidence": "Each headword is inside a monk asks turn, followed by a separately marked teacher answer. The two old questions have different respondents and are not assumed to be one person.",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -216456,8 +216470,8 @@
                   "tei-header",
                   "parallel-passage"
                 ],
-                "ReviewedBy": "Codex source-first full-case review",
-                "ReviewedUtc": "2026-10-29T12:00:00Z"
+                "ReviewedBy": "Sol9 independent source-first repair author",
+                "ReviewedUtc": "2026-10-31T02:07:34.540814+00:00"
               }
             },
             {
@@ -216474,15 +216488,22 @@
                     "commentator",
                     "record-owner"
                   ]
+                },
+                {
+                  "MasterName": "Dasui Fazhen",
+                  "Roles": [
+                    "respondent",
+                    "case-figure"
+                  ]
                 }
               ],
-              "AttributionNote": "Source record (J/J35/J35nB342.xml). Recorded Sayings of Chan Master Shengke (Huayan). Shengke quotes the old question, proposes how Dashui might answer it, and then stages his own alternate exchange.",
+              "AttributionNote": "Source record (J/J35/J35nB342.xml). Recorded Sayings of Chan Master Shengke (Huayan). After saying that the six faculties inherited from one's parents will all break down, Shengke Deyu raises the monk's burning-world question to Dasui and the answer to follow the destruction. The old monk does not accept it. Shengke asks what Dasui could have said to avoid that refusal, then stages a new exchange: if someone asked him at Huayan the same question, he too would answer that it is destroyed, but to the follow-up he would say to report it freely to the other teachers. The first headword belongs to an unnamed monk in the old case; the second is a separately imagined questioner in Shengke's proposed encounter. Neither is compiler narration, and the staged replacement is not a report that a new historical meeting occurred.",
               "ActorAttribution": {
-                "Status": "narrated",
-                "Kind": "older case questioner unresolved",
-                "ActorLabel": "Unnamed monk in the Dashui and Longji cases",
-                "ActorRole": "utterer",
-                "GrammarEvidence": "The exact headword is within a monk?s quoted question; the current master then gives a distinct active response.",
+                "Status": "reviewed-unnamed",
+                "Kind": "quoted and hypothetical human questioners",
+                "ActorLabel": "unnamed old-case monk and separate hypothetical questioner staged by Shengke",
+                "ActorRole": "questioner",
+                "GrammarEvidence": "The first headword follows monk asks Dasui in the old case. The second follows suppose someone asks Huayan in Shengke's hypothetical replacement. They are distinct quoted questioners, not narrator-governed words or one identified historical actor.",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -216491,8 +216512,8 @@
                   "tei-header",
                   "parallel-passage"
                 ],
-                "ReviewedBy": "Codex source-first full-case review",
-                "ReviewedUtc": "2026-10-29T12:00:00Z"
+                "ReviewedBy": "Sol9 independent source-first repair author",
+                "ReviewedUtc": "2026-10-31T02:07:34.540814+00:00"
               }
             }
           ],
@@ -216511,10 +216532,12 @@
             "Azi Jinwu",
             "Hengchuan Rugong",
             "Fushi Tongxian",
-            "Shengke Deyu"
+            "Shengke Deyu",
+            "Dasui Fazhen",
+            "Longji Shaoxiu"
           ],
           "RelatedTerms": [],
-          "Explanation": "“The kalpa fire blazes; the great world is destroyed” is pressed into a present teaching turn. Wanru and Linye voice the world-burning pair in separate sermons. Azi and Hengchuan use it in separate cremation fire addresses. Fushi and Shengke respond to the old burning-world question with distinct new challenges."
+          "Explanation": "The pair supplies an extreme scene of destruction against which the records test what can be recognized, changed or destroyed. Its use differs between a present address, a funeral fire and a quoted question whose opposing answers receive further criticism. Wanru Tongwei warns that hearing his lips move and immediately calling this the teaching misses the mountains, earth, wind, dust, clouds and birds that are already displaying the ultimate point. He then gives the world-burning pair and asks where that point will be when all those appearances are destroyed. Striking his staff, he says that only one who has worked at it knows. The phrase removes the familiar surroundings on which a ready answer might rely; the staff and closing challenge address the present assembly. The source supplies no separate geographical location to which the teaching escapes the fire. Linye Tongqi says that what was never born has not now ceased, and that the clear, pure nature has not changed. Even if the world-ending fire destroys the vast world, he says, it cannot disturb so much as a hair. He immediately sets aside the question of moving or not moving and asks for a sentence about ancient and present not differing, answering that life and death share one limit and all transformations are thus. The destruction scene tests his claim of constancy. The ensuing question prevents treating the isolated fire image as a physical explanation of an indestructible object. At the cremation of the practitioner Lian'an, Azi Jinwu opens with the burning-world pair but calls the deceased's sincere, plain and wholehearted practice something genuinely unbroken at this very moment. He says he will give him a handful of fire, neither forming a Buddha-view nor a teaching-view, then applies the torch and recites Amitabha's name. The contrast belongs to a concrete funeral act honoring this person's conduct. Azi does not report that the physical body escapes cremation, and his refusal of fixed religious views is part of the address rather than a missing explanation to be supplied by the reader. At Zheng's cremation, Hengchuan Rugong first cites Xuansha's saying that before a dead monk one is directly confronted by awakening. He raises the torch, gives the world-burning pair, and declares that only awakening is not destroyed. This is a brief spoken contrast accompanying the fire, not a question about which material survives it. Xuansha owns the preceding inherited saying; Hengchuan owns the headword and his present declaration. The surrounding collection includes other fire addresses, but those separate occasions should not be folded into this particular act for Zheng. Fushi Tongxian raises two separate old questions. One monk asks Dasui Fazhen whether this is destroyed when the entire world burns; Dasui says it is, and tells him to follow it. Another asks Master Xiu, who says it is not destroyed because it is the same as the vast world. Fushi then discusses emptiness, the one, and the nature's presence amid conditions, but says that even understanding this reaches the Buddha's Chan while the ancestors' Chan has not yet been dreamed of. He adds that the two arise from one and even the one must not be kept, ending with noon striking the third night-watch and facing south to see the northern constellation. The exact burning-world words belong to the quoted questioners; Fushi supplies the current critique of settling on either old reply. After saying that the six faculties inherited from one's parents will all break down, Shengke Deyu raises the monk's burning-world question to Dasui and the answer to follow the destruction. The old monk does not accept it. Shengke asks what Dasui could have said to avoid that refusal, then stages a new exchange: if someone asked him at Huayan the same question, he too would answer that it is destroyed, but to the follow-up he would say to report it freely to the other teachers. The first headword belongs to an unnamed monk in the old case; the second is a separately imagined questioner in Shengke's proposed encounter. Neither is compiler narration, and the staged replacement is not a report that a new historical meeting occurred."
         }
       ]
     },
