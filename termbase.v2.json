@@ -779839,83 +779839,141 @@
             "genuine nature"
           ],
           "SearchAliases": [
-            "true nature",
-            "genuine nature"
+            "true nature"
           ],
           "Status": "preferred",
-          "Validation": "provisional",
-          "Note": "This provisional entry is based narrowly on doctrinal expositions by Guifeng Zongmi and Yongming Yanshou; it does not establish broader Chan usage.",
+          "Validation": "multi-source",
+          "Note": "Three independent Chinese recorded-sayings uses replace the T48 doctrinal-container citations. The contexts specify different practical questions rather than a single abstract definition.",
           "Occurrences": [
             {
-              "RelPath": "T/T48/T48n2016.xml",
-              "FromLb": "0420b22",
-              "ToLb": "0420b24",
-              "Kwic": "或理理相即亦得。以一如無二如。真性常融會。或事事相即亦得。此全理之事。一一無礙。",
-              "MasterName": "Yongming Yanshou",
+              "RelPath": "J/J28/J28nB208.xml",
+              "FromLb": "0336a22",
+              "ToLb": "0336b18",
+              "Kwic": "喫。』又作麼生？」師云：「拔出腦後楔。」乃云：「入王宮又出王宮，片月何曾下碧空？一念未生前薦得，通身頓現紫金容。所以道：『一念心清淨，即是佛出世；一念心染污，即是佛滅度。』是知一念頓空，則凡聖齊泯、染淨雙亡。於雙亡後，何妨六臂三頭？正齊泯時，不礙千形百狀。所以，具足優婆夷雖無女業，示受女身，素服清潔，常能大捨，遂於忍辱波羅蜜中具足十種波羅蜜。八歲龍女以旁生之身具菩薩之行，須臾之間變成男子，直往南方無垢世界，坐寶蓮華成等正覺。大眾！要知無垢世界麼？即汝現前一念清淨心是。所以，僧問馬祖大師：『如何是佛？』祖云：『即心是佛。』大眾！除卻四大五蘊，那箇是汝心？」卓拄杖，云：「日破浮雲宇宙清。」上堂。「真性本無生，浮生皆幻；四大是假借，有借必還。動轉還風，煖氣還火，涕唾還水，骨肉還地。如是，四大各還，真性不滅；四大和合，真性不生。所以道：四大性自復，如子得其母。翠巖所說不生不滅之法，用薦王門黃氏早悟真常之性，同趨解脫之場。大眾！祇如黃氏四大離散已周一載，眼、耳、鼻、舌悉同灰壤，縱使紫金光聚，渠亦不見；獅子吼音，渠亦不聞。作麼生說箇薦拔底道理？還知麼？無見見時為正見，不聞聞處是真聞。」擊拂子，下座。移佛像過新應供堂，獨尊上座請上堂。「坐斷十方底人，直須密移一步；密移一步底漢，依然坐斷十方。有如是胸襟、負如是氣概，始能鼎新革故，在處稱尊，拈尾作頭，隨機導物。正恁麼時，頭正尾正一句作麼生道？一口平吞十",
+              "ClaimText": "真性",
+              "MasterName": "Guxue Zhenzhe",
               "Curated": true,
-              "AttributionNote": "Source text (T/T48/T48n2016.xml). Record of the Mirror of the School: Yongming Yanshou writes that because one suchness is not two suchnesses, true nature continually interpenetrates, before turning to the unobstructed relation among phenomena.",
               "ContextMasters": [
                 {
-                  "MasterName": "Yongming Yanshou",
+                  "MasterName": "Guxue Zhenzhe",
                   "Roles": [
-                    "utterer"
+                    "utterer",
+                    "record-owner"
                   ]
                 }
-              ]
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. In a hall address for the deceased Mrs. Huang of the Wang household, Guxue Zhenzhe says the four borrowed bodily elements disperse, yet true nature neither arises with their assembly nor disappears when they part. He asks the gathering how to speak of helping her now that seeing and hearing through the body have ceased. The headword names what his memorial teaching contrasts with the temporary body; the passage does not identify the deceased as the speaker."
             },
             {
-              "RelPath": "T/T48/T48n2015.xml",
-              "FromLb": "0399a19",
-              "ToLb": "0399a22",
-              "Kwic": "源者是一切眾生本覺真性。亦名佛性。亦名心地。悟之名慧。修之名定。定慧通稱為禪那。此性是禪之本源。故云禪源。",
-              "MasterName": "Guifeng Zongmi",
+              "RelPath": "J/J28/J28nB219.xml",
+              "FromLb": "0680c09",
+              "ToLb": "0681a07",
+              "Kwic": "死耳！我心若死，有何難易？有何取捨？有何憎愛？有何迷悟？一切人都是說得、行不得。若說得到、行得到，佛祖即我、我即佛祖，何須別求玅悟玄理？何必言難了又難？如今人舉目觀日月與古人一般見，此見豈非釋迦當時睹明星之見、孔子當時觀川之見耶？今人靜耳聞鐘鼓與古人一般聽，此聞豈非釋迦當時聞梵音之聞、孔子當時聞齊韶之聞耶？今人舉手持捉與古人一般用，此手豈非釋迦當時拈花之手、孔子當時援琴之手耶？今人運足行道與古人一般行，此足豈非釋迦當時昇天宮之足、孔子當時登泰山之足耶？若說今人視、聽、言、動不是古人視聽言動，何故釋迦也在此太虛空中、孔子也在此太虛空中？諸人皆在此太虛空中共一太虛，如何今人不是古人？虛空尚不可二，真性豈可二耶？所以說諸人不是釋迦、孔子，則不得也；若說是，又不肯承當。設有狂夫自言我是釋迦、我是孔子，及乎到是非憎愛關頭，不唯過不得，一毫捨不得、一毫放不下。是知此道人人具足、個個現成，只要肯行、肯承當、肯放得下，便無他矣！是知執事言道理為病，是知言也。聊復來意。又來諭「為浮名所誤」等語，知執事為未明此事者發之，病僧亦就未明者試言之。蓋經世出世法通屬名字，然名不誤人，人自誤其名耳！使世無君臣、父子、夫婦、朋友之名，則倫理仁義之道廢，而天地日月亦無由知名於世，豈可須臾離哉？出世法曰真如、曰佛性，亦假其名勸誘人心，使人依名尋義以盡心焉！設無名字則世出世法俱無建立。若到名不立處，實超越世出世間，為聖凡不",
+              "ClaimText": "真性",
+              "MasterName": "Zhuanyu Guanheng",
               "Curated": true,
-              "AttributionNote": "Source text (T/T48/T48n2015.xml). General Preface to the Collection of Explanations on the Sources of Chan: Guifeng Zongmi defines the source as the originally awakened true nature of all beings, also called Buddha-nature and mind-ground, and calls this nature the source of Chan.",
               "ContextMasters": [
                 {
-                  "MasterName": "Guifeng Zongmi",
+                  "MasterName": "Zhuanyu Guanheng",
                   "Roles": [
-                    "utterer"
+                    "utterer",
+                    "record-owner"
                   ]
                 }
-              ]
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB219.xml). Recorded Sayings of Monk Zhuanyuheng of Purple Bamboo Grove. Writing to an addressee about the relation of ancient sages and present people, Zhuanyu Guanheng says they share the same open space and asks how true nature could be divided in two. He then cautions that merely declaring oneself identical with the sages is hollow if one cannot let go of aversion and attachment in practice. The headword is Zhuanyu's term for the undivided nature that supports his challenge, not a claim that the addressee has already realized it."
             },
             {
-              "RelPath": "T/T48/T48n2017.xml",
-              "FromLb": "0974a18",
-              "ToLb": "0974a22",
-              "Kwic": "復因諸佛言教力，內外相資，令此妄心，自信己身有真如性，能起種種方便修諸對治。此能修行，則是信有真如，由未證真，不名無漏；妄念若淨，真性自顯。又雖修無性，不閡真修；從妄顯真，因識成智。",
-              "MasterName": "Yongming Yanshou",
+              "RelPath": "J/J33/J33nB285.xml",
+              "FromLb": "0474b22",
+              "ToLb": "0474c21",
+              "Kwic": "。示本空陳居士示本空陳居士為道高士勿論在家出家，只要放得下、把得定、識得透、覷得破，一切處不為萬物所拘、萬緣所縛。所以龐公問馬大師：「不與萬法為侶者是甚麼人？」祖云：「待汝一口吸盡西江水即向汝道。」龐公於此豁然，末後道：「但願空諸所有，慎勿實諸所無。」者就是在家學道的樣子。本空居士若向者裏會得，方知古今不二，吾奚言哉？示超潔本淨李善人示超潔本淨李善人大道至虛，無欠無餘；本無形像，豈有男女？只緣情生智隔，想變體殊，錯過本來面目。不能向一念未生前、營家置業上、呼奴使婢處、拈鍼刺繡時、莊香撥火裏、情忘意絕處，看是甚麼。倘能依而行之，向者一切處看來看去；猛然打翻油餈，始知原來未曾間斷。而清淨無為、玅玄真性，本不與諸塵作對、本不與萬法為侶。到得者裏，豈不是脫灑生平，得大解脫一著子邪？示雄副寺示雄副寺從上佛祖玄言玅句，以為接引入理之門，殊不知一一被他障卻了也。直須向一念未生時，量鹽較茶處，以本分事一印印定，自然頭頭上顯，物物上彰。出沒縱橫，卷舒自在。佛法世法，總成一片。做到者裏，方有少分相應。倘稍涉取舍思惟，便落陰界。所以道：「豪釐繫念，三途業因，瞥爾情生，萬劫羈鎖。」有何益哉？示佛美殷居士示佛美殷居士在家長者修出家行，如火內生蓮；此出塵烈士，實非虛言也。然猶直須一念萬年，萬年一念；佛法世法一椎打就，逆境順境絕無兩般。更於一切時靜鬧閒忙，蕩然如太虛空；原無豪髮隔礙，方稱靜者。所以古人有言：「應物現",
+              "ClaimText": "真性",
+              "MasterName": "Doushuai Zongjian",
               "Curated": true,
-              "AttributionNote": "Source text (T/T48/T48n2017.xml). Collection on the Convergence of Myriad Good Deeds: Yongming Yanshou says that when deluded thoughts are purified, true nature manifests of itself.",
               "ContextMasters": [
                 {
-                  "MasterName": "Yongming Yanshou",
+                  "MasterName": "Doushuai Zongjian",
                   "Roles": [
-                    "utterer"
+                    "utterer",
+                    "record-owner"
                   ]
                 }
-              ]
+              ],
+              "AttributionNote": "Source record (J/J33/J33nB285.xml). Recorded Sayings of Chan Master Bulinjian of Doushuai. In an instruction addressed to the laywoman Li, called Jie Benjing in the heading, Doushuai Zongjian says the way has no male or female shape and that imagined distinctions obscure one's original face. He asks her to look into the matter while managing a household, summoning servants, sewing, and tending incense. He says that in such seeing she will find the subtle true nature was never separate from those activities. The headword names the nature to be recognized, while the daily tasks are the site of his instruction, not separate speakers."
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J28/J28nB208.xml",
+              "FromLb": "0336a22",
+              "ToLb": "0336b18",
+              "Kwic": "喫。』又作麼生？」師云：「拔出腦後楔。」乃云：「入王宮又出王宮，片月何曾下碧空？一念未生前薦得，通身頓現紫金容。所以道：『一念心清淨，即是佛出世；一念心染污，即是佛滅度。』是知一念頓空，則凡聖齊泯、染淨雙亡。於雙亡後，何妨六臂三頭？正齊泯時，不礙千形百狀。所以，具足優婆夷雖無女業，示受女身，素服清潔，常能大捨，遂於忍辱波羅蜜中具足十種波羅蜜。八歲龍女以旁生之身具菩薩之行，須臾之間變成男子，直往南方無垢世界，坐寶蓮華成等正覺。大眾！要知無垢世界麼？即汝現前一念清淨心是。所以，僧問馬祖大師：『如何是佛？』祖云：『即心是佛。』大眾！除卻四大五蘊，那箇是汝心？」卓拄杖，云：「日破浮雲宇宙清。」上堂。「真性本無生，浮生皆幻；四大是假借，有借必還。動轉還風，煖氣還火，涕唾還水，骨肉還地。如是，四大各還，真性不滅；四大和合，真性不生。所以道：四大性自復，如子得其母。翠巖所說不生不滅之法，用薦王門黃氏早悟真常之性，同趨解脫之場。大眾！祇如黃氏四大離散已周一載，眼、耳、鼻、舌悉同灰壤，縱使紫金光聚，渠亦不見；獅子吼音，渠亦不聞。作麼生說箇薦拔底道理？還知麼？無見見時為正見，不聞聞處是真聞。」擊拂子，下座。移佛像過新應供堂，獨尊上座請上堂。「坐斷十方底人，直須密移一步；密移一步底漢，依然坐斷十方。有如是胸襟、負如是氣概，始能鼎新革故，在處稱尊，拈尾作頭，隨機導物。正恁麼時，頭正尾正一句作麼生道？一口平吞十",
+              "ClaimText": "真性",
+              "MasterName": "Guxue Zhenzhe",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Guxue Zhenzhe",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. In a hall address for the deceased Mrs. Huang of the Wang household, Guxue Zhenzhe says the four borrowed bodily elements disperse, yet true nature neither arises with their assembly nor disappears when they part. He asks the gathering how to speak of helping her now that seeing and hearing through the body have ceased. The headword names what his memorial teaching contrasts with the temporary body; the passage does not identify the deceased as the speaker."
+            },
+            {
+              "RelPath": "J/J28/J28nB219.xml",
+              "FromLb": "0680c09",
+              "ToLb": "0681a07",
+              "Kwic": "死耳！我心若死，有何難易？有何取捨？有何憎愛？有何迷悟？一切人都是說得、行不得。若說得到、行得到，佛祖即我、我即佛祖，何須別求玅悟玄理？何必言難了又難？如今人舉目觀日月與古人一般見，此見豈非釋迦當時睹明星之見、孔子當時觀川之見耶？今人靜耳聞鐘鼓與古人一般聽，此聞豈非釋迦當時聞梵音之聞、孔子當時聞齊韶之聞耶？今人舉手持捉與古人一般用，此手豈非釋迦當時拈花之手、孔子當時援琴之手耶？今人運足行道與古人一般行，此足豈非釋迦當時昇天宮之足、孔子當時登泰山之足耶？若說今人視、聽、言、動不是古人視聽言動，何故釋迦也在此太虛空中、孔子也在此太虛空中？諸人皆在此太虛空中共一太虛，如何今人不是古人？虛空尚不可二，真性豈可二耶？所以說諸人不是釋迦、孔子，則不得也；若說是，又不肯承當。設有狂夫自言我是釋迦、我是孔子，及乎到是非憎愛關頭，不唯過不得，一毫捨不得、一毫放不下。是知此道人人具足、個個現成，只要肯行、肯承當、肯放得下，便無他矣！是知執事言道理為病，是知言也。聊復來意。又來諭「為浮名所誤」等語，知執事為未明此事者發之，病僧亦就未明者試言之。蓋經世出世法通屬名字，然名不誤人，人自誤其名耳！使世無君臣、父子、夫婦、朋友之名，則倫理仁義之道廢，而天地日月亦無由知名於世，豈可須臾離哉？出世法曰真如、曰佛性，亦假其名勸誘人心，使人依名尋義以盡心焉！設無名字則世出世法俱無建立。若到名不立處，實超越世出世間，為聖凡不",
+              "ClaimText": "真性",
+              "MasterName": "Zhuanyu Guanheng",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Zhuanyu Guanheng",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB219.xml). Recorded Sayings of Monk Zhuanyuheng of Purple Bamboo Grove. Writing to an addressee about the relation of ancient sages and present people, Zhuanyu Guanheng says they share the same open space and asks how true nature could be divided in two. He then cautions that merely declaring oneself identical with the sages is hollow if one cannot let go of aversion and attachment in practice. The headword is Zhuanyu's term for the undivided nature that supports his challenge, not a claim that the addressee has already realized it."
+            },
+            {
+              "RelPath": "J/J33/J33nB285.xml",
+              "FromLb": "0474b22",
+              "ToLb": "0474c21",
+              "Kwic": "。示本空陳居士示本空陳居士為道高士勿論在家出家，只要放得下、把得定、識得透、覷得破，一切處不為萬物所拘、萬緣所縛。所以龐公問馬大師：「不與萬法為侶者是甚麼人？」祖云：「待汝一口吸盡西江水即向汝道。」龐公於此豁然，末後道：「但願空諸所有，慎勿實諸所無。」者就是在家學道的樣子。本空居士若向者裏會得，方知古今不二，吾奚言哉？示超潔本淨李善人示超潔本淨李善人大道至虛，無欠無餘；本無形像，豈有男女？只緣情生智隔，想變體殊，錯過本來面目。不能向一念未生前、營家置業上、呼奴使婢處、拈鍼刺繡時、莊香撥火裏、情忘意絕處，看是甚麼。倘能依而行之，向者一切處看來看去；猛然打翻油餈，始知原來未曾間斷。而清淨無為、玅玄真性，本不與諸塵作對、本不與萬法為侶。到得者裏，豈不是脫灑生平，得大解脫一著子邪？示雄副寺示雄副寺從上佛祖玄言玅句，以為接引入理之門，殊不知一一被他障卻了也。直須向一念未生時，量鹽較茶處，以本分事一印印定，自然頭頭上顯，物物上彰。出沒縱橫，卷舒自在。佛法世法，總成一片。做到者裏，方有少分相應。倘稍涉取舍思惟，便落陰界。所以道：「豪釐繫念，三途業因，瞥爾情生，萬劫羈鎖。」有何益哉？示佛美殷居士示佛美殷居士在家長者修出家行，如火內生蓮；此出塵烈士，實非虛言也。然猶直須一念萬年，萬年一念；佛法世法一椎打就，逆境順境絕無兩般。更於一切時靜鬧閒忙，蕩然如太虛空；原無豪髮隔礙，方稱靜者。所以古人有言：「應物現",
+              "ClaimText": "真性",
+              "MasterName": "Doushuai Zongjian",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Doushuai Zongjian",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J33/J33nB285.xml). Recorded Sayings of Chan Master Bulinjian of Doushuai. In an instruction addressed to the laywoman Li, called Jie Benjing in the heading, Doushuai Zongjian says the way has no male or female shape and that imagined distinctions obscure one's original face. He asks her to look into the matter while managing a household, summoning servants, sewing, and tending incense. He says that in such seeing she will find the subtle true nature was never separate from those activities. The headword names the nature to be recognized, while the daily tasks are the site of his instruction, not separate speakers."
+            }
+          ],
           "SourceTexts": [
-            "T/T48/T48n2016.xml",
-            "T/T48/T48n2015.xml",
-            "T/T48/T48n2017.xml"
+            "J/J28/J28nB208.xml",
+            "J/J28/J28nB219.xml",
+            "J/J33/J33nB285.xml"
           ],
           "RelatedMasters": [
-            "Yongming Yanshou",
-            "Guifeng Zongmi"
+            "Guxue Zhenzhe",
+            "Zhuanyu Guanheng",
+            "Doushuai Zongjian"
           ],
-          "RelatedTerms": [
-            "本覺",
-            "佛性",
-            "心地",
-            "真如性",
-            "本性"
-          ],
-          "Explanation": "In these narrowly sourced doctrinal expositions, true nature names the genuine nature under discussion. Zongmi identifies the originally awakened true nature of beings with Buddha-nature and mind-ground and calls it the source of Chan. Yanshou says that true nature manifests when deluded thoughts clear; elsewhere he says that it continually interpenetrates while explaining the mutual inclusion of principle and phenomena. These passages support source, manifestation, and interpenetration language within Zongmi’s and Yanshou’s expositions, but do not establish a broader corpus-wide use."
+          "RelatedTerms": [],
+          "Explanation": "True nature is a term these teachers use while asking what remains amid bodily change and ordinary activity. In a hall address for the deceased Mrs. Huang of the Wang household, Guxue Zhenzhe says the four borrowed bodily elements disperse, yet true nature neither arises with their assembly nor disappears when they part. He asks the gathering how to speak of helping her now that seeing and hearing through the body have ceased. The headword names what his memorial teaching contrasts with the temporary body; the passage does not identify the deceased as the speaker. Writing to an addressee about the relation of ancient sages and present people, Zhuanyu Guanheng says they share the same open space and asks how true nature could be divided in two. He then cautions that merely declaring oneself identical with the sages is hollow if one cannot let go of aversion and attachment in practice. The headword is Zhuanyu's term for the undivided nature that supports his challenge, not a claim that the addressee has already realized it. In an instruction addressed to the laywoman Li, called Jie Benjing in the heading, Doushuai Zongjian says the way has no male or female shape and that imagined distinctions obscure one's original face. He asks her to look into the matter while managing a household, summoning servants, sewing, and tending incense. He says that in such seeing she will find the subtle true nature was never separate from those activities. The headword names the nature to be recognized, while the daily tasks are the site of his instruction, not separate speakers."
         }
       ]
     },
