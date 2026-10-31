@@ -190293,43 +190293,145 @@
           "MasterName": null,
           "PreferredTarget": "the six perfections",
           "AlternateTargets": [
-            "the sixfold perfection"
+            "the sixfold perfections"
           ],
           "SearchAliases": [
+            "six perfections",
             "six paramitas"
           ],
           "Status": "preferred",
-          "Validation": "provisional",
-          "Note": "The retained Tier-1 clause classifies the collective without enumerating all six members; no enumeration is supplied here.",
+          "Validation": "multi-source",
+          "Note": "Three independent Chinese Zen-record contexts support the fixed sixfold practice group; Tianran explicitly names its members.",
           "Occurrences": [
             {
-              "RelPath": "T/T48/T48n2016.xml",
-              "FromLb": "0862b10",
-              "ToLb": "0862b11",
-              "Kwic": "若論莊嚴。無非福智二業。於六波羅蜜中。",
+              "RelPath": "J/J27/J27nB196.xml",
+              "FromLb": "0381c13",
+              "ToLb": "0382a21",
+              "Kwic": "又聽耳畔聲，溪風宣密意。撇脫根塵識，不居空有地。有聲聲自聞，見色色不避。如箭既離弦，直無回轉勢。日用四儀中，眨眼好薦取。父母未生時，安身在何處？驀然撞著時，處處非自己。鐵蛇鑽入金剛圈，鷺鷥踢倒須彌碎。鴛湖用禪師住福建建寧府普明禪寺語錄卷上終鴛湖用禪師住福建建寧府普明禪寺語錄卷下嗣法門人悟進悟元等編長水退菴法孫真智重梓書啟書啟與江海若居士與江海若居士春間，辱承喬梓高駕腴田之惠過情，屢屢感愧。惟老居士德滿潤身，老當益壯，可謂富貴家不為富貴之所移易，自肯存神內典、親近方外。教中有言：「菩薩夙承般若力，不為聲色之所轉。」于六波羅蜜、四無量心，念念策進，念念成就，未嘗斯須忘者，殆非一生兩生種植來也。茲聞重築佛室于府第之後，嚴于淨業，甚愜愚意。教中又云：「天鼓忽自鳴，告謂諸天子曰：『諸法苦空，無有真實，勿貪五欲，以快一時。』當力求道果，以悟本來。」且道果如何求？本來作麼生悟？然老居士既隆三寶，備作佛事，獨于本來事，亦可理會一上。本來事既理會得，則十字街頭茶歌酒喚，無非不是自家本來事也。那時不妨抱子弄孫無非佛事，即以本來理求福則福無不崇，祈壽則壽無不永，莊嚴法界無非成就本來事也。答朱其梁居士答朱其梁居士接翰閱之，乃見左右陳述備細，吐露真實",
+              "ClaimText": "六波羅蜜",
+              "MasterName": "Yuanhu Miaoyong",
               "Curated": true,
-              "AttributionNote": "Master-written text (T/T48/T48n2016.xml). Record of the Mirror of the School (宗鏡錄): Yongming Yanshou classifies the first five of the six perfections as merit activity and the final perfection of wisdom as wisdom activity.",
-              "MasterName": "Yongming Yanshou",
               "ContextMasters": [
                 {
-                  "MasterName": "Yongming Yanshou",
+                  "MasterName": "Yuanhu Miaoyong",
                   "Roles": [
-                    "utterer"
+                    "utterer",
+                    "record-owner"
                   ]
                 }
               ],
-              "ContextActors": []
+              "AttributionNote": "Source record (J/J27/J27nB196.xml). Recorded Sayings of Chan Master Yuanhu Yong. In a letter to the layman Jiang Hairuo, Yuanhu Miaoyong praises his steady work on the six perfections and the four immeasurable attitudes. He then says Jiang has rebuilt a shrine at home and urges him to investigate his original nature amid ordinary family life, rather than treating the practices as a separate final answer. The headword names the sixfold practice Yuanhu credits before shifting his addressee toward that question."
+            },
+            {
+              "RelPath": "J/J35/J35nB343.xml",
+              "FromLb": "0834a23",
+              "ToLb": "0834b22",
+              "Kwic": "州云：『喫茶去。』又問一僧，僧云：『不曾到。』州云：『喫茶去。』向後，院主出來問曰：『為甚麼曾到底也云喫茶去、不曾到底也云喫茶去？』州召院主，主應諾，州云：『喫茶去。』」師云：「還識趙州落處麼？若也識得，逢金莫點、見玉休琢，無限盲龜並跛鱉，一同出網不張羅。」喝一喝，下座。開示。僧問：「有問有荅時如何？」師云：「拈起石頭即是玉。」進云：「無問無荅時如何？」師云：「卷起門簾月在堂。」進云：「如何是定中之慧？」師云：「適來放過。」進云：「如何是慧中之定？」師云：「再亂不容。」乃云：「擾擾塵埃，起倒不干於正定；昭昭影象，往來豈礙於空王？非同觀照守默之流，亦非銜言嚼語之類。所以道：不可以有心求，不可以無心得，不可以語言造，不可以寂默通。一切不可，畢竟如何？」遂喝一喝，云：「若也入得，不欠一人；其或未能，只得分名列相去也。六波羅蜜，萬行之本。禪者，六中之一也。天竺之語具云禪那，東土華言翻為靜慮，又云思惟修俱已。定慧之稱，明之曰慧，了之曰定，定慧了明，故名曰禪。第恐眾生心識紛紛，墮在散亂，須以禪定而對之。圜頓法門不作對治境界，但看定者何人？亂者何物？一了然不成，二見見不能及，以得正定而達慧命也。若以將心所止為定，靈利辯聰為慧，棄有著空為禪，盡屬小乘、外道、凡夫。但看六祖云：『定是慧體，慧是定用，即慧之時定在慧，即定之時慧在定。若識此意，即是定慧等學。』又曰：『莫言先定發慧、先慧發定各別，作此見者，法有二相，猶如燈光，有燈即光，無燈即暗，燈是光之體，光是燈之用，名雖有二，體本同一。』此定慧法亦復如是，諸人於此明得，如前後步，進退之間不勞彈指，同登聖道，三世諸佛不逾此門，歷代祖師皆得功用，故名一行三昧。若能念念熏修、念念觀察，自然漸得",
+              "ClaimText": "六波羅蜜",
+              "MasterName": "Miyin Zhenchuan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Miyin Zhenchuan",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J35/J35nB343.xml). Recorded Sayings of Chan Master Miyin of Shengjue Monastery, Guangfu Mountain. After a monk asks about concentration and insight, Miyin Zhenchuan answers, shouts, and says that naming categories is necessary if the assembly has not yet understood. He calls the six perfections a basis of myriad practices and places Chan among the six, then challenges his listeners to see who is concentrated and what is disturbed instead of merely holding a fixed state. The headword names the sixfold classification that frames this live instruction; Miyin does not list all six members here."
+            },
+            {
+              "RelPath": "J/J38/J38nB406.xml",
+              "FromLb": "0148a26",
+              "ToLb": "0148c06",
+              "Kwic": "見？祇如諸人適來聞鼓聲，上法堂禮拜拱立，聽老僧說法，豈不是汝諸人佛之知見？佛之知見既是眾生各各具足，何用更開？正是眾生各各具有佛之知見，不能自開、不能自示、不能自悟、不能自入，便日日將佛之知見從眼門出，為一切色塵之所留礙；從耳門出，為一切聲塵之所留礙；從鼻門出，為一切香塵之所留礙；從舌門出，為一切味塵之所留礙；從身門出，為一切觸塵之所留礙；從意門出，為一切法塵之所留礙。大眾！根塵無知，識心自異。《佛頂經》云：『根塵同源，縛脫無二；識性虛妄，猶若空華。』六祖大師亦云：『色類自有道，各不相妨惱。』祇是眾生直下不曾識得自己佛之知見，必不能安住降伏，于塵境上妄生分別。既生分別，便起愛憎。既成愛憎，便有取捨。從生至生，輪轉不已。即我佛亦不能就在六根門頭，使之自認。何以故？眾生沈迷已久，雖在目前，物我不分，動涉塵境。故我佛但說六塵是空是苦，皆由識心招搖積集，使之知苦斷集，證滅修道，其實為一佛乘故，眾生不知方便，誤為真實佛之知見，卻成聲聞知見。說十二因緣，說因緣所生法，此有即彼有，使之離塵寂靜，亦祇為一佛乘故，眾生不知方便，誤為真實佛之知見，又為辟支佛知見。說六波羅蜜，為眾生慳貪心故，菩薩以布施度；為眾生淫逸心故，菩薩以持戒度；為眾生麤獷心故，菩薩以忍辱度；為眾生懶怠心故，菩薩以精進度；為眾生散亂心故，菩薩以禪定度；為眾生愚癡心故，菩薩以智慧度。亦祇為一佛乘故，眾生不知方便，誤為真實佛之知見，于是又為菩薩知見。大眾須知，自人天聲聞緣覺菩薩，總無第二人，亦無第二法。但於方便中，微有所重，便成種性。豈惟聲聞緣覺菩薩，即西天此土一切外道，亦不曾於佛之知見外別有所從，祇為錯亂修習遂成邪見。不見數論師所立，冥初生覺，覺生我心。此覺此心，亦非別事。祇是不能徹知本源自性，真寂滅地，無有初終，亦無囂寂，妄認目前緣慮，以有生滅，折念歸空，泯絕聞見，極于冥然，以為本所生處，還歸于此。即此土老子亦云：『杳杳冥冥，其中有精；昏昏默默，其中有物。』此之精物，即彼覺心，此謂杳冥昏默，即同冥始。總之，奈目前不得別取靜默，以自依托，終成斷滅。即如莊子，亦是老子之流，時人愛其議論出格，文章高妙，此正莊嚴世論，能障正知見，先佛所禁。曾見十年前，有一長老，迺以拈提宗門，徒見儒門孔子我法，判為儒童菩薩，便相比例。不知菩薩有冥權，有顯權。所謂",
+              "ClaimText": "六波羅蜜",
+              "MasterName": "Tianran Hanshi",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Tianran Hanshi",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. In a public talk after a long absence caused by a painful foot, Tianran Hanshi tells the assembly that the Buddha taught different paths to disclose the understanding they already possess. He then names the six perfections in order: giving counters greed, ethical restraint counters heedless desire, patience counters harshness, effort counters laziness, concentration counters distraction, and wisdom counters confusion. Tianran says these teachings serve the one Buddha vehicle and warns listeners against mistaking a means of instruction for a separate ultimate path. The headword names the sixfold group he unfolds for that purpose."
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J27/J27nB196.xml",
+              "FromLb": "0381c13",
+              "ToLb": "0382a21",
+              "Kwic": "又聽耳畔聲，溪風宣密意。撇脫根塵識，不居空有地。有聲聲自聞，見色色不避。如箭既離弦，直無回轉勢。日用四儀中，眨眼好薦取。父母未生時，安身在何處？驀然撞著時，處處非自己。鐵蛇鑽入金剛圈，鷺鷥踢倒須彌碎。鴛湖用禪師住福建建寧府普明禪寺語錄卷上終鴛湖用禪師住福建建寧府普明禪寺語錄卷下嗣法門人悟進悟元等編長水退菴法孫真智重梓書啟書啟與江海若居士與江海若居士春間，辱承喬梓高駕腴田之惠過情，屢屢感愧。惟老居士德滿潤身，老當益壯，可謂富貴家不為富貴之所移易，自肯存神內典、親近方外。教中有言：「菩薩夙承般若力，不為聲色之所轉。」于六波羅蜜、四無量心，念念策進，念念成就，未嘗斯須忘者，殆非一生兩生種植來也。茲聞重築佛室于府第之後，嚴于淨業，甚愜愚意。教中又云：「天鼓忽自鳴，告謂諸天子曰：『諸法苦空，無有真實，勿貪五欲，以快一時。』當力求道果，以悟本來。」且道果如何求？本來作麼生悟？然老居士既隆三寶，備作佛事，獨于本來事，亦可理會一上。本來事既理會得，則十字街頭茶歌酒喚，無非不是自家本來事也。那時不妨抱子弄孫無非佛事，即以本來理求福則福無不崇，祈壽則壽無不永，莊嚴法界無非成就本來事也。答朱其梁居士答朱其梁居士接翰閱之，乃見左右陳述備細，吐露真實",
+              "ClaimText": "六波羅蜜",
+              "MasterName": "Yuanhu Miaoyong",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yuanhu Miaoyong",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J27/J27nB196.xml). Recorded Sayings of Chan Master Yuanhu Yong. In a letter to the layman Jiang Hairuo, Yuanhu Miaoyong praises his steady work on the six perfections and the four immeasurable attitudes. He then says Jiang has rebuilt a shrine at home and urges him to investigate his original nature amid ordinary family life, rather than treating the practices as a separate final answer. The headword names the sixfold practice Yuanhu credits before shifting his addressee toward that question."
+            },
+            {
+              "RelPath": "J/J35/J35nB343.xml",
+              "FromLb": "0834a23",
+              "ToLb": "0834b22",
+              "Kwic": "州云：『喫茶去。』又問一僧，僧云：『不曾到。』州云：『喫茶去。』向後，院主出來問曰：『為甚麼曾到底也云喫茶去、不曾到底也云喫茶去？』州召院主，主應諾，州云：『喫茶去。』」師云：「還識趙州落處麼？若也識得，逢金莫點、見玉休琢，無限盲龜並跛鱉，一同出網不張羅。」喝一喝，下座。開示。僧問：「有問有荅時如何？」師云：「拈起石頭即是玉。」進云：「無問無荅時如何？」師云：「卷起門簾月在堂。」進云：「如何是定中之慧？」師云：「適來放過。」進云：「如何是慧中之定？」師云：「再亂不容。」乃云：「擾擾塵埃，起倒不干於正定；昭昭影象，往來豈礙於空王？非同觀照守默之流，亦非銜言嚼語之類。所以道：不可以有心求，不可以無心得，不可以語言造，不可以寂默通。一切不可，畢竟如何？」遂喝一喝，云：「若也入得，不欠一人；其或未能，只得分名列相去也。六波羅蜜，萬行之本。禪者，六中之一也。天竺之語具云禪那，東土華言翻為靜慮，又云思惟修俱已。定慧之稱，明之曰慧，了之曰定，定慧了明，故名曰禪。第恐眾生心識紛紛，墮在散亂，須以禪定而對之。圜頓法門不作對治境界，但看定者何人？亂者何物？一了然不成，二見見不能及，以得正定而達慧命也。若以將心所止為定，靈利辯聰為慧，棄有著空為禪，盡屬小乘、外道、凡夫。但看六祖云：『定是慧體，慧是定用，即慧之時定在慧，即定之時慧在定。若識此意，即是定慧等學。』又曰：『莫言先定發慧、先慧發定各別，作此見者，法有二相，猶如燈光，有燈即光，無燈即暗，燈是光之體，光是燈之用，名雖有二，體本同一。』此定慧法亦復如是，諸人於此明得，如前後步，進退之間不勞彈指，同登聖道，三世諸佛不逾此門，歷代祖師皆得功用，故名一行三昧。若能念念熏修、念念觀察，自然漸得",
+              "ClaimText": "六波羅蜜",
+              "MasterName": "Miyin Zhenchuan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Miyin Zhenchuan",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J35/J35nB343.xml). Recorded Sayings of Chan Master Miyin of Shengjue Monastery, Guangfu Mountain. After a monk asks about concentration and insight, Miyin Zhenchuan answers, shouts, and says that naming categories is necessary if the assembly has not yet understood. He calls the six perfections a basis of myriad practices and places Chan among the six, then challenges his listeners to see who is concentrated and what is disturbed instead of merely holding a fixed state. The headword names the sixfold classification that frames this live instruction; Miyin does not list all six members here."
+            },
+            {
+              "RelPath": "J/J38/J38nB406.xml",
+              "FromLb": "0148a26",
+              "ToLb": "0148c06",
+              "Kwic": "見？祇如諸人適來聞鼓聲，上法堂禮拜拱立，聽老僧說法，豈不是汝諸人佛之知見？佛之知見既是眾生各各具足，何用更開？正是眾生各各具有佛之知見，不能自開、不能自示、不能自悟、不能自入，便日日將佛之知見從眼門出，為一切色塵之所留礙；從耳門出，為一切聲塵之所留礙；從鼻門出，為一切香塵之所留礙；從舌門出，為一切味塵之所留礙；從身門出，為一切觸塵之所留礙；從意門出，為一切法塵之所留礙。大眾！根塵無知，識心自異。《佛頂經》云：『根塵同源，縛脫無二；識性虛妄，猶若空華。』六祖大師亦云：『色類自有道，各不相妨惱。』祇是眾生直下不曾識得自己佛之知見，必不能安住降伏，于塵境上妄生分別。既生分別，便起愛憎。既成愛憎，便有取捨。從生至生，輪轉不已。即我佛亦不能就在六根門頭，使之自認。何以故？眾生沈迷已久，雖在目前，物我不分，動涉塵境。故我佛但說六塵是空是苦，皆由識心招搖積集，使之知苦斷集，證滅修道，其實為一佛乘故，眾生不知方便，誤為真實佛之知見，卻成聲聞知見。說十二因緣，說因緣所生法，此有即彼有，使之離塵寂靜，亦祇為一佛乘故，眾生不知方便，誤為真實佛之知見，又為辟支佛知見。說六波羅蜜，為眾生慳貪心故，菩薩以布施度；為眾生淫逸心故，菩薩以持戒度；為眾生麤獷心故，菩薩以忍辱度；為眾生懶怠心故，菩薩以精進度；為眾生散亂心故，菩薩以禪定度；為眾生愚癡心故，菩薩以智慧度。亦祇為一佛乘故，眾生不知方便，誤為真實佛之知見，于是又為菩薩知見。大眾須知，自人天聲聞緣覺菩薩，總無第二人，亦無第二法。但於方便中，微有所重，便成種性。豈惟聲聞緣覺菩薩，即西天此土一切外道，亦不曾於佛之知見外別有所從，祇為錯亂修習遂成邪見。不見數論師所立，冥初生覺，覺生我心。此覺此心，亦非別事。祇是不能徹知本源自性，真寂滅地，無有初終，亦無囂寂，妄認目前緣慮，以有生滅，折念歸空，泯絕聞見，極于冥然，以為本所生處，還歸于此。即此土老子亦云：『杳杳冥冥，其中有精；昏昏默默，其中有物。』此之精物，即彼覺心，此謂杳冥昏默，即同冥始。總之，奈目前不得別取靜默，以自依托，終成斷滅。即如莊子，亦是老子之流，時人愛其議論出格，文章高妙，此正莊嚴世論，能障正知見，先佛所禁。曾見十年前，有一長老，迺以拈提宗門，徒見儒門孔子我法，判為儒童菩薩，便相比例。不知菩薩有冥權，有顯權。所謂",
+              "ClaimText": "六波羅蜜",
+              "MasterName": "Tianran Hanshi",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Tianran Hanshi",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. In a public talk after a long absence caused by a painful foot, Tianran Hanshi tells the assembly that the Buddha taught different paths to disclose the understanding they already possess. He then names the six perfections in order: giving counters greed, ethical restraint counters heedless desire, patience counters harshness, effort counters laziness, concentration counters distraction, and wisdom counters confusion. Tianran says these teachings serve the one Buddha vehicle and warns listeners against mistaking a means of instruction for a separate ultimate path. The headword names the sixfold group he unfolds for that purpose."
+            }
+          ],
           "SourceTexts": [
-            "T/T48/T48n2016.xml"
+            "J/J27/J27nB196.xml",
+            "J/J35/J35nB343.xml",
+            "J/J38/J38nB406.xml"
           ],
           "RelatedMasters": [
-            "Yongming Yanshou"
+            "Yuanhu Miaoyong",
+            "Miyin Zhenchuan",
+            "Tianran Hanshi"
           ],
           "RelatedTerms": [],
-          "Explanation": "“The six perfections” is a fixed collective classification, not an incidental count of perfections. Yongming Yanshou groups the first five of the collective as merit activity and the final perfection of wisdom as wisdom activity. His clause establishes the sixfold taxonomy but does not list every member by name."
+          "Explanation": "The six perfections name a fixed group of six practices, not an incidental count. In a letter to the layman Jiang Hairuo, Yuanhu Miaoyong praises his steady work on the six perfections and the four immeasurable attitudes. He then says Jiang has rebuilt a shrine at home and urges him to investigate his original nature amid ordinary family life, rather than treating the practices as a separate final answer. The headword names the sixfold practice Yuanhu credits before shifting his addressee toward that question. After a monk asks about concentration and insight, Miyin Zhenchuan answers, shouts, and says that naming categories is necessary if the assembly has not yet understood. He calls the six perfections a basis of myriad practices and places Chan among the six, then challenges his listeners to see who is concentrated and what is disturbed instead of merely holding a fixed state. The headword names the sixfold classification that frames this live instruction; Miyin does not list all six members here. In a public talk after a long absence caused by a painful foot, Tianran Hanshi tells the assembly that the Buddha taught different paths to disclose the understanding they already possess. He then names the six perfections in order: giving counters greed, ethical restraint counters heedless desire, patience counters harshness, effort counters laziness, concentration counters distraction, and wisdom counters confusion. Tianran says these teachings serve the one Buddha vehicle and warns listeners against mistaking a means of instruction for a separate ultimate path. The headword names the sixfold group he unfolds for that purpose."
         }
       ]
     },
