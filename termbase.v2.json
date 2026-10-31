@@ -733016,7 +733016,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "One face of the image is open and responsive in all eight directions; another is steep enough to resist casual inspection. Wuming and Xisou give it in their own talks, while Pingshi and Wu'an use it to answer questions about what lies beyond familiar descriptions. The contrast holds accessibility and difficulty together in a single teaching image.",
+          "Note": "Four local settings preserved. Wuming Huixing remains source-named and unlinked, distinct from similarly named Huijing; missing utterer role supplied. Openness and the inaccessible edge both remain active, with no fixed object or universally adequate response supplied.",
           "Occurrences": [
             {
               "RelPath": "X/X70/X70n1378.xml",
@@ -733039,11 +733039,12 @@
                 ],
                 "ReviewedBy": "Sol source-first author",
                 "ReviewedUtc": "2026-10-29T12:00:00Z",
-                "AuthoredVoiceRiskReviewed": true
+                "AuthoredVoiceRiskReviewed": true,
+                "ActorRole": "utterer"
               },
               "Curated": true,
               "ContextMasters": [],
-              "AttributionNote": "Source record (X/X70/X70n1378.xml). Recorded sayings. Wuming Huixing of X70n1378 closes his own talk with the eight-sided and sheer-faced pair; his roster identity is unproved."
+              "AttributionNote": "Source record (X/X70/X70n1378.xml). Recorded Sayings of Chan Master Wuming Huixing. In a short hall address at Beishan Zhidu monastery, Wuming Huixing describes refreshing air entering his sleeves, a clear breeze reaching every side, and white clouds embracing a secluded rock whose chill reserve becomes still more unusual. He ends with the eight-sided openness and the sheer face no one dares peer into. There is no monk's question, staff action or recorded reply inside this unit. The pair turns the landscape's freely circulating air and withdrawn rock into a pointed contrast, without naming an object that can be captured as its final meaning. Nearby poems about spring and later monastery sections are separate addresses. The source title names Wuming Huixing; a similarly styled roster master with a different personal name is not substituted for him."
             },
             {
               "RelPath": "X/X70/X70n1389.xml",
@@ -733062,7 +733063,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X70/X70n1389.xml). Recorded sayings. Xisou sets the pair within his winter instruction on the Linji heirs and their ready movement."
+              "AttributionNote": "Source record (X/X70/X70n1389.xml). Recorded Sayings of Chan Master Xisou Shaotan. At winter solstice, Xisou Shaotan pictures gathering the great world on a fingernail and kicking an ancient Buddha from a foot, then says Linji's descendants do not submit to reflective inspection. He gives the pair and follows with pearls rolling on a tray without leaving a trace: why calculate the season by declining darkness and growing light? Everyday clothes and fruit are handled freely, and paths and verbal entanglements cut away. Yet he checks the expansive ease with the need for bone-piercing cold before plum fragrance. A separately raised case then has Baizhang demand speech without throat or lips, only to be answered by three teachers' counterquestions. The couplet is Xisou's current turn, not a quoted answer by one of those later figures; its openness is joined to exacting examination rather than a blanket promise that any spontaneous act suffices."
             },
             {
               "RelPath": "X/X70/X70n1393.xml",
@@ -733081,7 +733082,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X70/X70n1393.xml). Recorded sayings. Pingshi asks for a word beyond familiar descriptions of responsiveness and gives the pair."
+              "AttributionNote": "Source record (X/X70/X70n1393.xml). Recorded Sayings of Chan Master Pingshi Rudi. Thanking the monastery's two groups of officers, Pingshi Rudi describes old and new sustaining one another, advance and retreat fitting the occasion, and distinct positions working responsively. They open people's eyes, extend the ancestral household and meet each situation with a way out. Even speaking like this, he says, remains within the present age. What sentence does not fall within it? He gives the eight-sided and sheer-sided pair. The immediate issue is the adequacy of his own account of successful institutional and teaching activity, not a complaint that the officers failed. The second clause prevents the praised responsiveness from becoming an entirely available explanation. No listener replies or is approved. The following address about Mian'an's fifteen-day sayings is a separate turn, not the missing answer to this question."
             },
             {
               "RelPath": "X/X71/X71n1404.xml",
@@ -733100,7 +733101,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X71/X71n1404.xml). Recorded sayings. Wu'an strikes the seat and gives the pair after asking what to call wisdom of equality."
+              "AttributionNote": "Source record (X/X71/X71n1404.xml). Recorded Sayings of Chan Master Wu’an Puning. Holding the whisk from the chief-seat quarters at Tiantong for the start of summer retreat, Wu'an Puning describes Taibai Peak and Linglong Cliff as inaccessible even to Buddhas and powerful practitioners. He grants a little accessibility to the Xizhou old Buddha's handling of ease and difficulty, yet says it remains halfway. He then includes the present assembly, ordinary and holy, sentient and insentient, in a radiant retreat beyond either ease or difficulty. All very well, but what is the wisdom of equality? He strikes the teaching seat with his whisk and gives the pair. The headword is his current challenge after the expansive retreat declaration. Its sheer edge keeps the declaration from certifying every participant as complete. No answer follows here; the subsequently introduced Mihu case and later winter-solstice address are separate units."
             }
           ],
           "ClaimAnchors": [
@@ -733125,11 +733126,12 @@
                 ],
                 "ReviewedBy": "Sol source-first author",
                 "ReviewedUtc": "2026-10-29T12:00:00Z",
-                "AuthoredVoiceRiskReviewed": true
+                "AuthoredVoiceRiskReviewed": true,
+                "ActorRole": "utterer"
               },
               "Curated": true,
               "ContextMasters": [],
-              "AttributionNote": "Source record (X/X70/X70n1378.xml). Recorded sayings. Wuming Huixing of X70n1378 closes his own talk with the eight-sided and sheer-faced pair; his roster identity is unproved.",
+              "AttributionNote": "Source record (X/X70/X70n1378.xml). Recorded Sayings of Chan Master Wuming Huixing. In a short hall address at Beishan Zhidu monastery, Wuming Huixing describes refreshing air entering his sleeves, a clear breeze reaching every side, and white clouds embracing a secluded rock whose chill reserve becomes still more unusual. He ends with the eight-sided openness and the sheer face no one dares peer into. There is no monk's question, staff action or recorded reply inside this unit. The pair turns the landscape's freely circulating air and withdrawn rock into a pointed contrast, without naming an object that can be captured as its final meaning. Nearby poems about spring and later monastery sections are separate addresses. The source title names Wuming Huixing; a similarly styled roster master with a different personal name is not substituted for him.",
               "ClaimText": "玲瓏八面自回合，峭峻一方誰敢窺"
             },
             {
@@ -733149,7 +733151,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X70/X70n1389.xml). Recorded sayings. Xisou sets the pair within his winter instruction on the Linji heirs and their ready movement.",
+              "AttributionNote": "Source record (X/X70/X70n1389.xml). Recorded Sayings of Chan Master Xisou Shaotan. At winter solstice, Xisou Shaotan pictures gathering the great world on a fingernail and kicking an ancient Buddha from a foot, then says Linji's descendants do not submit to reflective inspection. He gives the pair and follows with pearls rolling on a tray without leaving a trace: why calculate the season by declining darkness and growing light? Everyday clothes and fruit are handled freely, and paths and verbal entanglements cut away. Yet he checks the expansive ease with the need for bone-piercing cold before plum fragrance. A separately raised case then has Baizhang demand speech without throat or lips, only to be answered by three teachers' counterquestions. The couplet is Xisou's current turn, not a quoted answer by one of those later figures; its openness is joined to exacting examination rather than a blanket promise that any spontaneous act suffices.",
               "ClaimText": "玲瓏八面自回合，峭峻一方誰敢窺"
             },
             {
@@ -733169,7 +733171,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X70/X70n1393.xml). Recorded sayings. Pingshi asks for a word beyond familiar descriptions of responsiveness and gives the pair.",
+              "AttributionNote": "Source record (X/X70/X70n1393.xml). Recorded Sayings of Chan Master Pingshi Rudi. Thanking the monastery's two groups of officers, Pingshi Rudi describes old and new sustaining one another, advance and retreat fitting the occasion, and distinct positions working responsively. They open people's eyes, extend the ancestral household and meet each situation with a way out. Even speaking like this, he says, remains within the present age. What sentence does not fall within it? He gives the eight-sided and sheer-sided pair. The immediate issue is the adequacy of his own account of successful institutional and teaching activity, not a complaint that the officers failed. The second clause prevents the praised responsiveness from becoming an entirely available explanation. No listener replies or is approved. The following address about Mian'an's fifteen-day sayings is a separate turn, not the missing answer to this question.",
               "ClaimText": "玲瓏八面自回合，峭峻一方誰敢窺"
             },
             {
@@ -733189,7 +733191,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X71/X71n1404.xml). Recorded sayings. Wu'an strikes the seat and gives the pair after asking what to call wisdom of equality.",
+              "AttributionNote": "Source record (X/X71/X71n1404.xml). Recorded Sayings of Chan Master Wu’an Puning. Holding the whisk from the chief-seat quarters at Tiantong for the start of summer retreat, Wu'an Puning describes Taibai Peak and Linglong Cliff as inaccessible even to Buddhas and powerful practitioners. He grants a little accessibility to the Xizhou old Buddha's handling of ease and difficulty, yet says it remains halfway. He then includes the present assembly, ordinary and holy, sentient and insentient, in a radiant retreat beyond either ease or difficulty. All very well, but what is the wisdom of equality? He strikes the teaching seat with his whisk and gives the pair. The headword is his current challenge after the expansive retreat declaration. Its sheer edge keeps the declaration from certifying every participant as complete. No answer follows here; the subsequently introduced Mihu case and later winter-solstice address are separate units.",
               "ClaimText": "玲瓏八面自回合，峭峻一方誰敢窺"
             }
           ],
@@ -733205,7 +733207,7 @@
             "Wu'an Puning"
           ],
           "RelatedTerms": [],
-          "Explanation": "An all-sided opening is paired with a face too steep to inspect. Wuming and Xisou use the pair in present sermons about a teacher's movement. Pingshi and Wu'an use it after challenging ready-made descriptions."
+          "Explanation": "Open on all eight sides, freely meeting and turning together, yet steep in one direction where no one dares peer: the pair puts unobstructed responsiveness beside an inaccessible edge. Each local use tests that conjunction; neither pleasant harmony alone nor an isolated, unapproachable position explains the whole pair. In a short hall address at Beishan Zhidu monastery, Wuming Huixing describes refreshing air entering his sleeves, a clear breeze reaching every side, and white clouds embracing a secluded rock whose chill reserve becomes still more unusual. He ends with the eight-sided openness and the sheer face no one dares peer into. There is no monk's question, staff action or recorded reply inside this unit. The pair turns the landscape's freely circulating air and withdrawn rock into a pointed contrast, without naming an object that can be captured as its final meaning. Nearby poems about spring and later monastery sections are separate addresses. The source title names Wuming Huixing; a similarly styled roster master with a different personal name is not substituted for him. At winter solstice, Xisou Shaotan pictures gathering the great world on a fingernail and kicking an ancient Buddha from a foot, then says Linji's descendants do not submit to reflective inspection. He gives the pair and follows with pearls rolling on a tray without leaving a trace: why calculate the season by declining darkness and growing light? Everyday clothes and fruit are handled freely, and paths and verbal entanglements cut away. Yet he checks the expansive ease with the need for bone-piercing cold before plum fragrance. A separately raised case then has Baizhang demand speech without throat or lips, only to be answered by three teachers' counterquestions. The couplet is Xisou's current turn, not a quoted answer by one of those later figures; its openness is joined to exacting examination rather than a blanket promise that any spontaneous act suffices. Thanking the monastery's two groups of officers, Pingshi Rudi describes old and new sustaining one another, advance and retreat fitting the occasion, and distinct positions working responsively. They open people's eyes, extend the ancestral household and meet each situation with a way out. Even speaking like this, he says, remains within the present age. What sentence does not fall within it? He gives the eight-sided and sheer-sided pair. The immediate issue is the adequacy of his own account of successful institutional and teaching activity, not a complaint that the officers failed. The second clause prevents the praised responsiveness from becoming an entirely available explanation. No listener replies or is approved. The following address about Mian'an's fifteen-day sayings is a separate turn, not the missing answer to this question. Holding the whisk from the chief-seat quarters at Tiantong for the start of summer retreat, Wu'an Puning describes Taibai Peak and Linglong Cliff as inaccessible even to Buddhas and powerful practitioners. He grants a little accessibility to the Xizhou old Buddha's handling of ease and difficulty, yet says it remains halfway. He then includes the present assembly, ordinary and holy, sentient and insentient, in a radiant retreat beyond either ease or difficulty. All very well, but what is the wisdom of equality? He strikes the teaching seat with his whisk and gives the pair. The headword is his current challenge after the expansive retreat declaration. Its sheer edge keeps the declaration from certifying every participant as complete. No answer follows here; the subsequently introduced Mihu case and later winter-solstice address are separate units."
         }
       ]
     },
