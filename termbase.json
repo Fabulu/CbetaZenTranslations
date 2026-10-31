@@ -18587,12 +18587,14 @@
   {
     "SourceTerm": "半夜日頭明",
     "PreferredTarget": "at midnight, the sun shines",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "the sun shines at midnight"
+    ],
     "SearchAliases": [
-      "at midnight, the sun shines"
+      "midnight sun shines"
     ],
     "Status": "preferred",
-    "Note": "Two distinct works retain the line; Yongming explicitly quotes Shanhui’s verse, so textual dependence is disclosed.",
+    "Note": "Three independent deployments survive: Shanhui verse, Luzu answer, and Zhongzhu Yuanmiao hall address. The latter two have one retained lamp witness each; parallel lamps are not counted as new events.",
     "CreatedBy": "Codex lamp-only repair cohort007 lane A",
     "WrittenUtc": "2026-07-22T10:30:00Z"
   },
@@ -55189,16 +55191,13 @@
     "SourceTerm": "漸修",
     "PreferredTarget": "gradual cultivation",
     "AlternateTargets": [
-      "stepwise cultivation",
-      "gradual working-through"
+      "cultivation by stages"
     ],
     "SearchAliases": [
-      "gradual cultivation",
-      "stepwise cultivation",
-      "gradual work"
+      "gradual cultivation"
     ],
     "Status": "preferred",
-    "Note": "Literally cultivation carried out gradually. The retained records use it in classifications that set gradual and sudden realization or cultivation in different orders.",
+    "Note": "Three independent admitted Chinese recorded-sayings contexts replace the doctrinal-container citations. They distinguish gradual work from a sudden breakthrough without reducing it to one rigid schedule.",
     "CreatedBy": "Codex Sol Triple48 lean full-case author",
     "WrittenUtc": "2026-08-01T19:00:00Z"
   },

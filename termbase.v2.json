@@ -233005,48 +233005,24 @@
           "SenseKey": null,
           "MasterName": null,
           "PreferredTarget": "at midnight, the sun shines",
-          "AlternateTargets": [],
+          "AlternateTargets": [
+            "the sun shines at midnight"
+          ],
           "SearchAliases": [
-            "at midnight, the sun shines"
+            "midnight sun shines"
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "Two distinct works retain the line; Yongming explicitly quotes Shanhui’s verse, so textual dependence is disclosed.",
+          "Note": "Three independent deployments survive: Shanhui verse, Luzu answer, and Zhongzhu Yuanmiao hall address. The latter two have one retained lamp witness each; parallel lamps are not counted as new events.",
           "Occurrences": [
             {
-              "RelPath": "T/T48/T48n2016.xml",
-              "FromLb": "0448a19",
-              "ToLb": "0448a29",
-              "Kwic": "心王自宗之義。若直入宗鏡。萬事休息。凡聖情盡。安樂妙常。離此起心。皆成疲苦。所以傅大士頌云。東山水上浮。西山行不住。北斗下閻浮。是真解脫處。行路易。路易人不識。半夜日頭明。不悟真疲極。又洞山和尚悟道偈云。向前物物上求通。只為從前不識宗。如今見了渾無事。方知萬法本來空。問。真諦不謬。本覺非虛。云何同妄。一時俱遣。答。因迷立覺。說妄標真。皆徇機宜。各無自體。約世俗有。依實諦無。但除相待之名。非滅一靈之性。性唯絕",
-              "MasterName": "Shanhui Dashi",
-              "Curated": true,
-              "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School: Shanhui Dashi utters the exact headword-bearing wording in the reviewed full case.",
-              "ContextMasters": [
-                {
-                  "MasterName": "Shanhui Dashi",
-                  "Roles": [
-                    "utterer",
-                    "verse-author"
-                  ]
-                },
-                {
-                  "MasterName": "Yongming Yanshou",
-                  "Roles": [
-                    "later-quoter",
-                    "commentator",
-                    "record-owner"
-                  ]
-                }
-              ]
-            },
-            {
               "RelPath": "X/X69/X69n1335.xml",
-              "FromLb": "0120b11",
-              "ToLb": "0120b19",
-              "Kwic": "有無皆解脫，累息在無生，菩提是顛倒，生死最為精。行路易，路易人莫疑，解吾如此語，修道不須師。東山水上浮，西山行不住。北斗下閻浮，是真解脫處。行路易，路易人不識。半夜日頭明，不悟真疲劇。猛風不動樹，打鼓不聞聲。日出樹無影，牛從水上行。行路易，路易真可怜。修道解此意，長伸兩脚眠。佛心與眾生，是三終不移。虗空合真理，人我在無為。行路易，路易真難測。寄語行路人，大應須努力。人道行路難，我道行路易。入山十二年，長伸兩",
+              "FromLb": "0120b04",
+              "ToLb": "0120c01",
+              "Kwic": "行路易，路易不修行。有無心永息，只箇是無生。眾生是佛祖，佛是眾生翁。三寶不相離，菩提皆共同。行路易，路易真無作。持經不動口，坐禪終日臥。無生無處所，無處是無生。若覔無生處，無生無處生。行路易，路易坦然平。無心真解脫，自性任縱橫。菩提無處所，無處是菩提。若覔菩提處，終身累劫迷。行路易，路易真不虗。善惡無分別，此則是真如。有無皆解脫，累息在無生，菩提是顛倒，生死最為精。行路易，路易人莫疑，解吾如此語，修道不須師。東山水上浮，西山行不住。北斗下閻浮，是真解脫處。行路易，路易人不識。半夜日頭明，不悟真疲劇。猛風不動樹，打鼓不聞聲。日出樹無影，牛從水上行。行路易，路易真可怜。修道解此意，長伸兩脚眠。佛心與眾生，是三終不移。虗空合真理，人我在無為。行路易，路易真難測。寄語行路人，大應須努力。人道行路難，我道行路易。入山十二年，長伸兩脚睡。行路易，路易莫思量。剎那心不二，終日是天堂。須彌芥子父，芥子須彌爺。山海坦平地，燒氷將煑茶。行路易，路易真冥寞。菩提心在中，世人元不覺。有無去來心永息，內外中間心總無。欲覔如來真佛處，但看石牛生象兒。行路易，路易須及早。不用學多聞，無",
+              "ClaimText": "半夜日頭明",
               "MasterName": "Shanhui Dashi",
               "Curated": true,
-              "AttributionNote": "Source record (X/X69/X69n1335.xml). Recorded Sayings of Great Adept Shanhui: Shanhui Dashi utters the exact headword-bearing wording in the reviewed full case.",
               "ContextMasters": [
                 {
                   "MasterName": "Shanhui Dashi",
@@ -233056,46 +233032,154 @@
                     "record-owner"
                   ]
                 }
-              ]
+              ],
+              "AttributionNote": "Source record (X/X69/X69n1335.xml). Recorded Sayings of Great Adept Shanhui. In a sequence of verses about how the road is easy yet people fail to recognize it, Shanhui Dashi places the image of the sun shining at midnight beside mountains floating, a wind that does not move trees, and a drum that makes no sound. He says failure to understand leaves a person exhausted and later urges travelers to make an effort. The headword is Shanhui's own paradoxical daylight image in that verse; the poem does not supply a literal cosmological explanation."
             },
             {
-              "RelPath": "T/T48/T48n2016.xml",
-              "FromLb": "0448a21",
-              "ToLb": "0448a23",
-              "Kwic": "所以傅大士頌云。東山水上浮。西山行不住。北斗下閻浮。是真解脫處。行路易。路易人不識。半夜日頭明。不悟真疲極。",
-              "MasterName": "Fu Dashi",
+              "RelPath": "T/T51/T51n2076.xml",
+              "FromLb": "0298a29",
+              "ToLb": "0298b25",
+              "Kwic": "麼生。眾無對。問學人創入叢林一夏將末。未蒙和尚指教願垂提拯。師托開其僧乃曰。老僧自住持來未曾瞎却一僧眼。師有時坐良久。周視左右曰。會麼。眾曰。不會。師曰。不會即謾汝去也。師一日將蒲團於頭上曰。汝諸人恁麼時難共語。眾無對。師將坐却曰。猶較些子。前灌谿志閑禪師法嗣前灌谿志閑禪師法嗣池州魯祖山教和尚池州魯祖山教和尚僧問。如何是目前事。師曰。絲竹未將為樂器。架上葫蘆猶未收。問如何是雙林樹。師曰。有相身中無相身。曰如何是有相身中無相身。師曰。金香山下鐵崑崙。問如何是高峯孤宿底人。師曰。半夜日頭明日午打三更。問如何是格外事。師曰。化導緣終後虛空更那邊問進向無門時如何。師曰。太鈍生。僧曰。不是鈍根直下進向無門時如何。師曰。靈機未曾論邊際。執法無邊在暗中。問如何是學人著力處。師曰。春來草自青月上已天明。曰如何是不著力處。師曰崩山石頭落平川燒火行。魏府興化存獎禪師法嗣魏府興化存獎禪師法嗣汝州寶應和尚汝州寶應和尚上堂示眾曰。赤肉團上壁立千仞。時有僧問。赤肉團上壁立千仞。豈不是和尚道。師曰是。其僧乃掀禪床。師曰。遮瞎驢便棒。師問僧。近離什麼處。曰長水。師曰東流西流。曰總不恁麼。",
+              "ClaimText": "半夜日頭明",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [],
+              "AttributionNote": "Source record (T/T51/T51n2076.xml). Jingde Record of the Transmission of the Lamp. A monk asks Luzu Shanjiao who the person dwelling alone on a high peak is. Luzu answers, 'At midnight, the sun shines; at noon, the third watch sounds.' The headword is the first half of his direct reply, pairing impossible times to answer the question without describing a literal person or a real sunrise. This recorded exchange is a separate use from Shanhui's verse; the Jingde lamp is its earliest retained witness in the bounded source set.",
+              "ActorAttribution": {
+                "Status": "identified-unlinked-master",
+                "Kind": "named Chan teacher in lamp heading, no linked roster identity",
+                "ActorLabel": "Luzu Shanjiao, named in the lamp heading but unlinked in the lineage roster",
+                "ActorRole": "utterer",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "GrammarEvidence": "The immediate question/reply or hall-address frame and enclosing named lamp heading identify this local teacher; the lineage roster does not contain an unambiguous linked master entry for this label.",
+                "ReviewedBy": "Codex source-first public corpus-admission repair",
+                "ReviewedUtc": "2026-10-31T07:35:00Z"
+              }
+            },
+            {
+              "RelPath": "T/T51/T51n2077.xml",
+              "FromLb": "0673b06",
+              "ToLb": "0673c03",
+              "Kwic": "甚麼。坐不見坐是箇甚麼。著衣時不見著衣是箇甚麼。喫飯時不見喫飯是箇甚麼。山僧雖與他同床打睡。要且各自做夢。何故行見行坐見坐。著衣時見著衣。喫飯時見喫飯。無有不見底道理。亦無箇是甚麼。諸人且道。老漢底是。五雲底是。拈拄杖卓一下曰。桃紅李白薔薇紫。問著春風總不知。靈隱光禪師法嗣靈隱光禪師法嗣中竺元妙禪師臨安府中竺癡禪元妙禪師。婺州王氏。僧問。如何是截斷眾流句。師曰。佛祖開口無分。曰如何是函蓋乾坤句。師曰。匝地普天。曰如何是隨波逐浪句。師曰。有時入荒草有時上孤峯。上堂。黃昏雞報曉。半夜日頭明。驚起雪師子。瞠開紅眼睛。上堂。去年梅今歲柳顏色馨香。喝一喝。良久曰。若不得這一喝幾乎道著依舊。且道。道著後如何。眼睛突出。圓覺曇禪師法嗣圓覺曇禪師法嗣靈巖圓日禪師撫州靈巖圓日禪師。上堂。悟無不悟得無不得。九年面壁空勞力。三脚驢兒跳上天。泥牛入海無蹤跡。為甚如此。九九八十一。嶽麓海禪師法嗣嶽麓海禪師法嗣玉泉思達禪師荊門軍玉泉思達禪師。僧問。如何是一印印空。師曰。萬象收歸古鑑中。曰如何是一印印水。師曰。秋蟾影落千江裏。曰如何是一印印泥。師曰。細觀文彩未生時。天寧卓禪師法嗣天寧卓",
+              "ClaimText": "半夜日頭明",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [],
+              "AttributionNote": "Source record (T/T51/T51n2077.xml). Continued Record of the Transmission of the Lamp. In a hall address, Zhongzhu Chichan Yuanmiao says a rooster announces dawn at dusk and the sun shines at midnight, startling a snow lion awake. The headword is the second paradoxical time image in his present verse-like address. No preceding question or later decoding is supplied in this source passage; the Continued Lamp is retained for this independent address, not as another copy of Shanhui or Luzu.",
+              "ActorAttribution": {
+                "Status": "identified-unlinked-master",
+                "Kind": "named Chan teacher in lamp heading, no linked roster identity",
+                "ActorLabel": "Zhongzhu Chichan Yuanmiao, named in the lamp heading but unlinked in the lineage roster",
+                "ActorRole": "utterer",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "GrammarEvidence": "The immediate question/reply or hall-address frame and enclosing named lamp heading identify this local teacher; the lineage roster does not contain an unambiguous linked master entry for this label.",
+                "ReviewedBy": "Codex source-first public corpus-admission repair",
+                "ReviewedUtc": "2026-10-31T07:35:00Z"
+              }
+            }
+          ],
+          "ClaimAnchors": [
+            {
+              "RelPath": "X/X69/X69n1335.xml",
+              "FromLb": "0120b04",
+              "ToLb": "0120c01",
+              "Kwic": "行路易，路易不修行。有無心永息，只箇是無生。眾生是佛祖，佛是眾生翁。三寶不相離，菩提皆共同。行路易，路易真無作。持經不動口，坐禪終日臥。無生無處所，無處是無生。若覔無生處，無生無處生。行路易，路易坦然平。無心真解脫，自性任縱橫。菩提無處所，無處是菩提。若覔菩提處，終身累劫迷。行路易，路易真不虗。善惡無分別，此則是真如。有無皆解脫，累息在無生，菩提是顛倒，生死最為精。行路易，路易人莫疑，解吾如此語，修道不須師。東山水上浮，西山行不住。北斗下閻浮，是真解脫處。行路易，路易人不識。半夜日頭明，不悟真疲劇。猛風不動樹，打鼓不聞聲。日出樹無影，牛從水上行。行路易，路易真可怜。修道解此意，長伸兩脚眠。佛心與眾生，是三終不移。虗空合真理，人我在無為。行路易，路易真難測。寄語行路人，大應須努力。人道行路難，我道行路易。入山十二年，長伸兩脚睡。行路易，路易莫思量。剎那心不二，終日是天堂。須彌芥子父，芥子須彌爺。山海坦平地，燒氷將煑茶。行路易，路易真冥寞。菩提心在中，世人元不覺。有無去來心永息，內外中間心總無。欲覔如來真佛處，但看石牛生象兒。行路易，路易須及早。不用學多聞，無",
+              "ClaimText": "半夜日頭明",
+              "MasterName": "Shanhui Dashi",
               "Curated": true,
               "ContextMasters": [
                 {
-                  "MasterName": "Fu Dashi",
+                  "MasterName": "Shanhui Dashi",
                   "Roles": [
-                    "utterer"
-                  ]
-                },
-                {
-                  "MasterName": "Yongming Yanshou",
-                  "Roles": [
-                    "later-raiser",
-                    "commentator"
+                    "utterer",
+                    "verse-author",
+                    "record-owner"
                   ]
                 }
               ],
-              "ContextActors": [],
-              "AttributionNote": "Record of the Mirror of the School (宗鏡錄): Yongming Yanshou explicitly introduces 傅大士頌云 and quotes the exact line inside Fu Dashi's verse."
+              "AttributionNote": "Source record (X/X69/X69n1335.xml). Recorded Sayings of Great Adept Shanhui. In a sequence of verses about how the road is easy yet people fail to recognize it, Shanhui Dashi places the image of the sun shining at midnight beside mountains floating, a wind that does not move trees, and a drum that makes no sound. He says failure to understand leaves a person exhausted and later urges travelers to make an effort. The headword is Shanhui's own paradoxical daylight image in that verse; the poem does not supply a literal cosmological explanation."
+            },
+            {
+              "RelPath": "T/T51/T51n2076.xml",
+              "FromLb": "0298a29",
+              "ToLb": "0298b25",
+              "Kwic": "麼生。眾無對。問學人創入叢林一夏將末。未蒙和尚指教願垂提拯。師托開其僧乃曰。老僧自住持來未曾瞎却一僧眼。師有時坐良久。周視左右曰。會麼。眾曰。不會。師曰。不會即謾汝去也。師一日將蒲團於頭上曰。汝諸人恁麼時難共語。眾無對。師將坐却曰。猶較些子。前灌谿志閑禪師法嗣前灌谿志閑禪師法嗣池州魯祖山教和尚池州魯祖山教和尚僧問。如何是目前事。師曰。絲竹未將為樂器。架上葫蘆猶未收。問如何是雙林樹。師曰。有相身中無相身。曰如何是有相身中無相身。師曰。金香山下鐵崑崙。問如何是高峯孤宿底人。師曰。半夜日頭明日午打三更。問如何是格外事。師曰。化導緣終後虛空更那邊問進向無門時如何。師曰。太鈍生。僧曰。不是鈍根直下進向無門時如何。師曰。靈機未曾論邊際。執法無邊在暗中。問如何是學人著力處。師曰。春來草自青月上已天明。曰如何是不著力處。師曰崩山石頭落平川燒火行。魏府興化存獎禪師法嗣魏府興化存獎禪師法嗣汝州寶應和尚汝州寶應和尚上堂示眾曰。赤肉團上壁立千仞。時有僧問。赤肉團上壁立千仞。豈不是和尚道。師曰是。其僧乃掀禪床。師曰。遮瞎驢便棒。師問僧。近離什麼處。曰長水。師曰東流西流。曰總不恁麼。",
+              "ClaimText": "半夜日頭明",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [],
+              "AttributionNote": "Source record (T/T51/T51n2076.xml). Jingde Record of the Transmission of the Lamp. A monk asks Luzu Shanjiao who the person dwelling alone on a high peak is. Luzu answers, 'At midnight, the sun shines; at noon, the third watch sounds.' The headword is the first half of his direct reply, pairing impossible times to answer the question without describing a literal person or a real sunrise. This recorded exchange is a separate use from Shanhui's verse; the Jingde lamp is its earliest retained witness in the bounded source set.",
+              "ActorAttribution": {
+                "Status": "identified-unlinked-master",
+                "Kind": "named Chan teacher in lamp heading, no linked roster identity",
+                "ActorLabel": "Luzu Shanjiao, named in the lamp heading but unlinked in the lineage roster",
+                "ActorRole": "utterer",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "GrammarEvidence": "The immediate question/reply or hall-address frame and enclosing named lamp heading identify this local teacher; the lineage roster does not contain an unambiguous linked master entry for this label.",
+                "ReviewedBy": "Codex source-first public corpus-admission repair",
+                "ReviewedUtc": "2026-10-31T07:35:00Z"
+              }
+            },
+            {
+              "RelPath": "T/T51/T51n2077.xml",
+              "FromLb": "0673b06",
+              "ToLb": "0673c03",
+              "Kwic": "甚麼。坐不見坐是箇甚麼。著衣時不見著衣是箇甚麼。喫飯時不見喫飯是箇甚麼。山僧雖與他同床打睡。要且各自做夢。何故行見行坐見坐。著衣時見著衣。喫飯時見喫飯。無有不見底道理。亦無箇是甚麼。諸人且道。老漢底是。五雲底是。拈拄杖卓一下曰。桃紅李白薔薇紫。問著春風總不知。靈隱光禪師法嗣靈隱光禪師法嗣中竺元妙禪師臨安府中竺癡禪元妙禪師。婺州王氏。僧問。如何是截斷眾流句。師曰。佛祖開口無分。曰如何是函蓋乾坤句。師曰。匝地普天。曰如何是隨波逐浪句。師曰。有時入荒草有時上孤峯。上堂。黃昏雞報曉。半夜日頭明。驚起雪師子。瞠開紅眼睛。上堂。去年梅今歲柳顏色馨香。喝一喝。良久曰。若不得這一喝幾乎道著依舊。且道。道著後如何。眼睛突出。圓覺曇禪師法嗣圓覺曇禪師法嗣靈巖圓日禪師撫州靈巖圓日禪師。上堂。悟無不悟得無不得。九年面壁空勞力。三脚驢兒跳上天。泥牛入海無蹤跡。為甚如此。九九八十一。嶽麓海禪師法嗣嶽麓海禪師法嗣玉泉思達禪師荊門軍玉泉思達禪師。僧問。如何是一印印空。師曰。萬象收歸古鑑中。曰如何是一印印水。師曰。秋蟾影落千江裏。曰如何是一印印泥。師曰。細觀文彩未生時。天寧卓禪師法嗣天寧卓",
+              "ClaimText": "半夜日頭明",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [],
+              "AttributionNote": "Source record (T/T51/T51n2077.xml). Continued Record of the Transmission of the Lamp. In a hall address, Zhongzhu Chichan Yuanmiao says a rooster announces dawn at dusk and the sun shines at midnight, startling a snow lion awake. The headword is the second paradoxical time image in his present verse-like address. No preceding question or later decoding is supplied in this source passage; the Continued Lamp is retained for this independent address, not as another copy of Shanhui or Luzu.",
+              "ActorAttribution": {
+                "Status": "identified-unlinked-master",
+                "Kind": "named Chan teacher in lamp heading, no linked roster identity",
+                "ActorLabel": "Zhongzhu Chichan Yuanmiao, named in the lamp heading but unlinked in the lineage roster",
+                "ActorRole": "utterer",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "GrammarEvidence": "The immediate question/reply or hall-address frame and enclosing named lamp heading identify this local teacher; the lineage roster does not contain an unambiguous linked master entry for this label.",
+                "ReviewedBy": "Codex source-first public corpus-admission repair",
+                "ReviewedUtc": "2026-10-31T07:35:00Z"
+              }
             }
           ],
           "SourceTexts": [
-            "T/T48/T48n2016.xml",
-            "X/X69/X69n1335.xml"
+            "X/X69/X69n1335.xml",
+            "T/T51/T51n2076.xml",
+            "T/T51/T51n2077.xml"
           ],
           "RelatedMasters": [
-            "Shanhui Dashi",
-            "Yongming Yanshou",
-            "Fu Dashi"
+            "Shanhui Dashi"
           ],
           "RelatedTerms": [],
-          "ClaimAnchors": [],
-          "Explanation": "At midnight, the sun shines is a deliberately impossible daylight image. Shanhui Dashi places it in his verse about an easy road that people fail to recognize. Yongming Yanshou quotes that verse in an authored argument, providing a distinct active use but not a second origin for the wording."
+          "Explanation": "At midnight, the sun shines is an impossible daylight image used to unsettle an ordinary expectation of time. In a sequence of verses about how the road is easy yet people fail to recognize it, Shanhui Dashi places the image of the sun shining at midnight beside mountains floating, a wind that does not move trees, and a drum that makes no sound. He says failure to understand leaves a person exhausted and later urges travelers to make an effort. The headword is Shanhui's own paradoxical daylight image in that verse; the poem does not supply a literal cosmological explanation. A monk asks Luzu Shanjiao who the person dwelling alone on a high peak is. Luzu answers, 'At midnight, the sun shines; at noon, the third watch sounds.' The headword is the first half of his direct reply, pairing impossible times to answer the question without describing a literal person or a real sunrise. This recorded exchange is a separate use from Shanhui's verse; the Jingde lamp is its earliest retained witness in the bounded source set. In a hall address, Zhongzhu Chichan Yuanmiao says a rooster announces dawn at dusk and the sun shines at midnight, startling a snow lion awake. The headword is the second paradoxical time image in his present verse-like address. No preceding question or later decoding is supplied in this source passage; the Continued Lamp is retained for this independent address, not as another copy of Shanhui or Luzu."
         }
       ]
     },
@@ -686478,102 +686562,157 @@
       ]
     },
     {
+      "Id": "t_643e9062503e",
+      "SourceTerm": "漸修",
       "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
       "CreatedBy": "Codex Sol Triple48 lean full-case author",
-      "Id": "t_643e9062503e",
+      "WrittenUtc": "2026-08-01T19:00:00Z",
       "Senses": [
         {
-          "AlternateTargets": [
-            "stepwise cultivation",
-            "gradual working-through"
-          ],
-          "ClaimAnchors": [],
-          "Explanation": "Gradual cultivation is work that proceeds by stages rather than being completed at once. Guifeng Zongmi says it means that afflictions, causal conduct, and resulting qualities remain unfinished. Yongming Yanshou places it both in a gradual-cultivation/sudden-realization sequence and among paths that mature through successive stages. The records therefore do not make it one fixed sequence; they use it to distinguish progressive maturation from the sudden member of several paired classifications.",
+          "SenseKey": null,
           "MasterName": null,
-          "Note": "Literally cultivation carried out gradually. The retained records use it in classifications that set gradual and sudden realization or cultivation in different orders.",
-          "Occurrences": [
-            {
-              "AttributionNote": "Source record (T/T48/T48n2015.xml). General Preface to the Collection of Explanations on the Sources of Chan (禪源諸詮集都序): Exact actor: Guifeng Zongmi. The complete source unit assigns the headword-bearing turn to Guifeng Zongmi.",
-              "ContextActors": [],
-              "ContextMasters": [
-                {
-                  "MasterName": "Guifeng Zongmi",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "Curated": true,
-              "FromLb": "0402a16",
-              "Kwic": "漸修即是煩惱未盡。因行未圓。果德未滿。何名為頓。",
-              "MasterName": "Guifeng Zongmi",
-              "RelPath": "T/T48/T48n2015.xml",
-              "ToLb": "0402a18"
-            },
-            {
-              "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School (宗鏡錄): Exact actor: Yongming Yanshou. The complete source unit assigns the headword-bearing turn to Yongming Yanshou.",
-              "ContextActors": [],
-              "ContextMasters": [
-                {
-                  "MasterName": "Yongming Yanshou",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "Curated": true,
-              "FromLb": "0626c20",
-              "Kwic": "今取頓悟漸修。深諧教理。",
-              "MasterName": "Yongming Yanshou",
-              "RelPath": "T/T48/T48n2016.xml",
-              "ToLb": "0626c20"
-            },
-            {
-              "AttributionNote": "Source record (T/T48/T48n2017.xml). Collection on the Convergence of Myriad Good Deeds (萬善同歸集): Exact actor: Yongming Yanshou. The complete source unit assigns the headword-bearing turn to Yongming Yanshou.",
-              "ContextActors": [],
-              "ContextMasters": [
-                {
-                  "MasterName": "Yongming Yanshou",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "Curated": true,
-              "FromLb": "0961a20",
-              "Kwic": "二、從行漸修，位滿三祇果。",
-              "MasterName": "Yongming Yanshou",
-              "RelPath": "T/T48/T48n2017.xml",
-              "ToLb": "0961a20"
-            }
-          ],
           "PreferredTarget": "gradual cultivation",
-          "RelatedMasters": [
-            "Guifeng Zongmi",
-            "Yongming Yanshou"
-          ],
-          "RelatedTerms": [
-            "頓悟",
-            "頓修",
-            "頓漸"
+          "AlternateTargets": [
+            "cultivation by stages"
           ],
           "SearchAliases": [
-            "gradual cultivation",
-            "stepwise cultivation",
-            "gradual work"
-          ],
-          "SenseKey": null,
-          "SourceTexts": [
-            "T/T48/T48n2015.xml",
-            "T/T48/T48n2016.xml",
-            "T/T48/T48n2017.xml"
+            "gradual cultivation"
           ],
           "Status": "preferred",
-          "Validation": "multi-source"
+          "Validation": "multi-source",
+          "Note": "Three independent admitted Chinese recorded-sayings contexts replace the doctrinal-container citations. They distinguish gradual work from a sudden breakthrough without reducing it to one rigid schedule.",
+          "Occurrences": [
+            {
+              "RelPath": "J/J28/J28nB210.xml",
+              "FromLb": "0426c17",
+              "ToLb": "0427a12",
+              "Kwic": "方知有一冬。」師云：「人人徹骨寒。」拽拄杖歸方丈。示眾。「參禪打坐，求脫生死，不知安身立命處，如人在大海裏坐，更問人討水喫相似。學道人一切時中勤苦耐志，晝三夜三，念念相續，無有間斷。豁然妙悟，隨處明了，更無欠少，任運縱橫，不離本際。果到這裏，凡聖了無立處，直下承當，皎然無物。若人真不用功，更求解脫，正是迷波討源，難成大器。趁此一期，必須了辦。若不真切，甘為下劣耳。願眾兄弟各各努力。珍重。」示眾。「凡參禪人欲證悟者，從自己心中樸實做去，挨到水窮山盡處，忽然一念頓悟，如十字街頭見親父一般，更無疑惑。但悟有深淺，若從根本上做工夫，打破疑團，頓歇無明窠臼，一超直入，此上根利智。其餘漸修所證者，最怕得少為足，縱有會處，皆是識神邊事，以此為真，認賊為子，此一關決要透過。若有習氣未除，就于一切境上觀照，頓省前非，消得一分習氣，顯得一分本智，全在工夫綿密，放下身心，單提一念，切莫管他悟與不悟，只管做將去，不必將心待悟，希求玄妙。眾生妄心原是如來果體，妄想情慮原是神通妙用，工夫做到做不得處，更加一拶，纔為了當。不然，則墮憂愁魔矣！」法語。「山僧雖參金粟先和尚付授，自揣愚拙，決志住靜。但先師囑累為重，刀耕火種，覓一箇半箇以報先師法乳，于願足矣。因董菴幽靜，頗覺相宜。昔眾檀信堅請上堂，山僧再三固辭，不得已陞座示眾，解制日已曾對眾白過。今禪道紛紛，魔強法弱，非具大智慧、",
+              "ClaimText": "漸修",
+              "MasterName": "Qiyuan Xinggang",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Qiyuan Xinggang",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB210.xml). Recorded Sayings of Chan Master Fushi Qiyuan. Addressing practitioners who seek awakening, Qiyuan Xinggang says that direct realization may break a knot of doubt at once, but those who attain something through gradual cultivation especially risk taking a small glimpse for completion. She urges listeners to examine lingering habits in daily circumstances, let go of body and mind, and keep working without waiting for a special experience. The headword names the gradual path she distinguishes from sudden realization, while her warning concerns premature satisfaction rather than denying all practice."
+            },
+            {
+              "RelPath": "J/J29/J29nB239.xml",
+              "FromLb": "0480c10",
+              "ToLb": "0481a05",
+              "Kwic": "孔老子祭文出來？聽與分明頌出：口似虛空吞一粒豆，腹如蛛絲作萬戶侯，涅槃堂裏問前程，劍樹鋒頭打觔斗，不是神通不是玄，指掌元來一隻手。」上堂。舉：「仰山欽徵高峰曰：『汝正睡著時，無夢無想，誰是汝底主人公？』湛然禪師頌云：『四大無我心如風，箇中誰是主人公？廓然撲落元無物，始覺從前錯用功。』天童禪師頌云：『白汗出身念無起，箇中無二主人公，廓然撲落非他物，十方世界現全容。』」師云：「湛然落于斷見，天童落于常見，老僧不免頌出，一任諸方檢點。一夢渾忘六處灰，誰是主人無二來？乾坤了盡鼾無盡，腳底珊瑚帶月開。」上堂。「從上古人有五種禪，老僧者裏秪用二種，頓明自性，與佛同儔。然有無始染習，須假漸修對治，令順性起用。如人喫飯，不一口便飽，此是一。見性不留佛，悟道不存師，目睹瞿曇猶如黃葉，一大藏教是老僧坐具，祖師玄旨是破草鞋，寧可赤腳不穿最好，此是一。所以白居易侍郎問惟寬和尚曰：『禪師何以說法？』寬曰：『無上菩提者，備於身為律，說於口為法，行於心為禪，應用者三，其致一也。譬如江淮河漢，任處立名，名雖不一，水性無二。律即是法，法不離禪，云何於中妄起分別？』易曰：『既無分別，何以修心？』寬曰：『心本無損傷，云何要修理？無論垢與淨，一切無念起。』易曰：『垢既不可念，淨無念可乎？』寬曰：『如人眼睛上，一物不可住，金屑雖珍寶，在眼亦為病。』易曰：『無修無著，又何異凡夫？』寬曰：『",
+              "ClaimText": "漸修",
+              "MasterName": "Juyun Chuiwan Guangzhen",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Juyun Chuiwan Guangzhen",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J29/J29nB239.xml). Recorded Sayings of Chan Master Chuiwan. In a hall address, Juyun Chuiwan Guangzhen says he teaches two approaches. In the first, one directly recognizes one's own nature, yet longstanding acquired habits still require gradual cultivation and counteraction, just as one cannot become full from a single mouthful of food. He then introduces a second approach that does not cling to teacher or teaching. The headword names the continuing work after insight in his first approach, not a separate teacher's speech."
+            },
+            {
+              "RelPath": "J/J35/J35nB342.xml",
+              "FromLb": "0785b29",
+              "ToLb": "0785c24",
+              "Kwic": "劄不入，雖是識法者懼，要且太險絕生。報恩則不然，道火怕燒著口耶？今日與諸人八字打開，合水和泥去也。還委悉麼？普請大眾，華岩耘秧。」拽拄杖，下座。再住華巖禪院語錄再住華巖禪院語錄壬子孟冬望日，結制，上堂。祝聖畢，末後拈香，云：「此一瓣香乃天華棒頭、二祖拳頭，忍痛已久，拈來爇向爐中，奉為雙桂堂上傳臨濟正宗第三十一世破山先師，用酬法乳之恩。」斂衣敷座。上首白槌竟，師云：「眼如黑漆，明察秋毫；耳似卷荷，聰聞蟻鬥。根根明鏡，塵塵止水，一攝一切、一切攝一，融通三際，含褁十虛，法爾如然，神通玅用，不假修造，本自現成。只為汝等有生之後，眼隨色變、耳逐聲移，情塵妄想日積膠固，故有長期、短限，漸修、頓悟之規，非老僧特地妄為，強向空裏畫眉、盂上安柄也。還會麼？劍為不平離寶匣，藥因救病出金瓶。」上首復白槌竟，下座。長至，上堂。問：「陰向鼻端滅，陽從眼裏生。如何是滅句？」師云：「一氣不言含有象。」進云：「如何是生句？」師云：「萬靈何處謝無私？」進云：「如何是不生不滅句？」師云：「無言可答，無理可伸。」進云：「恁麼則乾坤有眼，大海無波也。」師云：「八方霢霂無為化，四海歌謠樂太平。」僧禮拜，師乃云：「履長之慶亂如麻，至日閉關卻較些。灰盡全心無剝復，纔生一念看飛葭。」上堂。「昨日光菂云：『來日是弟子母難之辰，請和尚開甘露門，慈悲利濟。』老僧向他道：『你父母未生前道一句來。』士無",
+              "ClaimText": "漸修",
+              "MasterName": "Shengke Deyu",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Shengke Deyu",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J35/J35nB342.xml). Recorded Sayings of Chan Master Shengke (Huayan). At his opening address, Shengke Deyu says each sense faculty and its objects are already clear without fabrication, yet habits of following sights, sounds and imagined distinctions have accumulated since birth. He says long and short periods of practice, including gradual cultivation and sudden awakening, are therefore set out for the assembly, then closes with a sword and medicine image. The headword is one of the practical modes he names in response to those accumulated habits, rather than proof that original clarity must be manufactured."
+            }
+          ],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J28/J28nB210.xml",
+              "FromLb": "0426c17",
+              "ToLb": "0427a12",
+              "Kwic": "方知有一冬。」師云：「人人徹骨寒。」拽拄杖歸方丈。示眾。「參禪打坐，求脫生死，不知安身立命處，如人在大海裏坐，更問人討水喫相似。學道人一切時中勤苦耐志，晝三夜三，念念相續，無有間斷。豁然妙悟，隨處明了，更無欠少，任運縱橫，不離本際。果到這裏，凡聖了無立處，直下承當，皎然無物。若人真不用功，更求解脫，正是迷波討源，難成大器。趁此一期，必須了辦。若不真切，甘為下劣耳。願眾兄弟各各努力。珍重。」示眾。「凡參禪人欲證悟者，從自己心中樸實做去，挨到水窮山盡處，忽然一念頓悟，如十字街頭見親父一般，更無疑惑。但悟有深淺，若從根本上做工夫，打破疑團，頓歇無明窠臼，一超直入，此上根利智。其餘漸修所證者，最怕得少為足，縱有會處，皆是識神邊事，以此為真，認賊為子，此一關決要透過。若有習氣未除，就于一切境上觀照，頓省前非，消得一分習氣，顯得一分本智，全在工夫綿密，放下身心，單提一念，切莫管他悟與不悟，只管做將去，不必將心待悟，希求玄妙。眾生妄心原是如來果體，妄想情慮原是神通妙用，工夫做到做不得處，更加一拶，纔為了當。不然，則墮憂愁魔矣！」法語。「山僧雖參金粟先和尚付授，自揣愚拙，決志住靜。但先師囑累為重，刀耕火種，覓一箇半箇以報先師法乳，于願足矣。因董菴幽靜，頗覺相宜。昔眾檀信堅請上堂，山僧再三固辭，不得已陞座示眾，解制日已曾對眾白過。今禪道紛紛，魔強法弱，非具大智慧、",
+              "ClaimText": "漸修",
+              "MasterName": "Qiyuan Xinggang",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Qiyuan Xinggang",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB210.xml). Recorded Sayings of Chan Master Fushi Qiyuan. Addressing practitioners who seek awakening, Qiyuan Xinggang says that direct realization may break a knot of doubt at once, but those who attain something through gradual cultivation especially risk taking a small glimpse for completion. She urges listeners to examine lingering habits in daily circumstances, let go of body and mind, and keep working without waiting for a special experience. The headword names the gradual path she distinguishes from sudden realization, while her warning concerns premature satisfaction rather than denying all practice."
+            },
+            {
+              "RelPath": "J/J29/J29nB239.xml",
+              "FromLb": "0480c10",
+              "ToLb": "0481a05",
+              "Kwic": "孔老子祭文出來？聽與分明頌出：口似虛空吞一粒豆，腹如蛛絲作萬戶侯，涅槃堂裏問前程，劍樹鋒頭打觔斗，不是神通不是玄，指掌元來一隻手。」上堂。舉：「仰山欽徵高峰曰：『汝正睡著時，無夢無想，誰是汝底主人公？』湛然禪師頌云：『四大無我心如風，箇中誰是主人公？廓然撲落元無物，始覺從前錯用功。』天童禪師頌云：『白汗出身念無起，箇中無二主人公，廓然撲落非他物，十方世界現全容。』」師云：「湛然落于斷見，天童落于常見，老僧不免頌出，一任諸方檢點。一夢渾忘六處灰，誰是主人無二來？乾坤了盡鼾無盡，腳底珊瑚帶月開。」上堂。「從上古人有五種禪，老僧者裏秪用二種，頓明自性，與佛同儔。然有無始染習，須假漸修對治，令順性起用。如人喫飯，不一口便飽，此是一。見性不留佛，悟道不存師，目睹瞿曇猶如黃葉，一大藏教是老僧坐具，祖師玄旨是破草鞋，寧可赤腳不穿最好，此是一。所以白居易侍郎問惟寬和尚曰：『禪師何以說法？』寬曰：『無上菩提者，備於身為律，說於口為法，行於心為禪，應用者三，其致一也。譬如江淮河漢，任處立名，名雖不一，水性無二。律即是法，法不離禪，云何於中妄起分別？』易曰：『既無分別，何以修心？』寬曰：『心本無損傷，云何要修理？無論垢與淨，一切無念起。』易曰：『垢既不可念，淨無念可乎？』寬曰：『如人眼睛上，一物不可住，金屑雖珍寶，在眼亦為病。』易曰：『無修無著，又何異凡夫？』寬曰：『",
+              "ClaimText": "漸修",
+              "MasterName": "Juyun Chuiwan Guangzhen",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Juyun Chuiwan Guangzhen",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J29/J29nB239.xml). Recorded Sayings of Chan Master Chuiwan. In a hall address, Juyun Chuiwan Guangzhen says he teaches two approaches. In the first, one directly recognizes one's own nature, yet longstanding acquired habits still require gradual cultivation and counteraction, just as one cannot become full from a single mouthful of food. He then introduces a second approach that does not cling to teacher or teaching. The headword names the continuing work after insight in his first approach, not a separate teacher's speech."
+            },
+            {
+              "RelPath": "J/J35/J35nB342.xml",
+              "FromLb": "0785b29",
+              "ToLb": "0785c24",
+              "Kwic": "劄不入，雖是識法者懼，要且太險絕生。報恩則不然，道火怕燒著口耶？今日與諸人八字打開，合水和泥去也。還委悉麼？普請大眾，華岩耘秧。」拽拄杖，下座。再住華巖禪院語錄再住華巖禪院語錄壬子孟冬望日，結制，上堂。祝聖畢，末後拈香，云：「此一瓣香乃天華棒頭、二祖拳頭，忍痛已久，拈來爇向爐中，奉為雙桂堂上傳臨濟正宗第三十一世破山先師，用酬法乳之恩。」斂衣敷座。上首白槌竟，師云：「眼如黑漆，明察秋毫；耳似卷荷，聰聞蟻鬥。根根明鏡，塵塵止水，一攝一切、一切攝一，融通三際，含褁十虛，法爾如然，神通玅用，不假修造，本自現成。只為汝等有生之後，眼隨色變、耳逐聲移，情塵妄想日積膠固，故有長期、短限，漸修、頓悟之規，非老僧特地妄為，強向空裏畫眉、盂上安柄也。還會麼？劍為不平離寶匣，藥因救病出金瓶。」上首復白槌竟，下座。長至，上堂。問：「陰向鼻端滅，陽從眼裏生。如何是滅句？」師云：「一氣不言含有象。」進云：「如何是生句？」師云：「萬靈何處謝無私？」進云：「如何是不生不滅句？」師云：「無言可答，無理可伸。」進云：「恁麼則乾坤有眼，大海無波也。」師云：「八方霢霂無為化，四海歌謠樂太平。」僧禮拜，師乃云：「履長之慶亂如麻，至日閉關卻較些。灰盡全心無剝復，纔生一念看飛葭。」上堂。「昨日光菂云：『來日是弟子母難之辰，請和尚開甘露門，慈悲利濟。』老僧向他道：『你父母未生前道一句來。』士無",
+              "ClaimText": "漸修",
+              "MasterName": "Shengke Deyu",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Shengke Deyu",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J35/J35nB342.xml). Recorded Sayings of Chan Master Shengke (Huayan). At his opening address, Shengke Deyu says each sense faculty and its objects are already clear without fabrication, yet habits of following sights, sounds and imagined distinctions have accumulated since birth. He says long and short periods of practice, including gradual cultivation and sudden awakening, are therefore set out for the assembly, then closes with a sword and medicine image. The headword is one of the practical modes he names in response to those accumulated habits, rather than proof that original clarity must be manufactured."
+            }
+          ],
+          "SourceTexts": [
+            "J/J28/J28nB210.xml",
+            "J/J29/J29nB239.xml",
+            "J/J35/J35nB342.xml"
+          ],
+          "RelatedMasters": [
+            "Qiyuan Xinggang",
+            "Juyun Chuiwan Guangzhen",
+            "Shengke Deyu"
+          ],
+          "RelatedTerms": [],
+          "Explanation": "Gradual cultivation names practice that unfolds over time, often set beside sudden recognition. Addressing practitioners who seek awakening, Qiyuan Xinggang says that direct realization may break a knot of doubt at once, but those who attain something through gradual cultivation especially risk taking a small glimpse for completion. She urges listeners to examine lingering habits in daily circumstances, let go of body and mind, and keep working without waiting for a special experience. The headword names the gradual path she distinguishes from sudden realization, while her warning concerns premature satisfaction rather than denying all practice. In a hall address, Juyun Chuiwan Guangzhen says he teaches two approaches. In the first, one directly recognizes one's own nature, yet longstanding acquired habits still require gradual cultivation and counteraction, just as one cannot become full from a single mouthful of food. He then introduces a second approach that does not cling to teacher or teaching. The headword names the continuing work after insight in his first approach, not a separate teacher's speech. At his opening address, Shengke Deyu says each sense faculty and its objects are already clear without fabrication, yet habits of following sights, sounds and imagined distinctions have accumulated since birth. He says long and short periods of practice, including gradual cultivation and sudden awakening, are therefore set out for the assembly, then closes with a sword and medicine image. The headword is one of the practical modes he names in response to those accumulated habits, rather than proof that original clarity must be manufactured."
         }
-      ],
-      "SourceTerm": "漸修",
-      "WrittenUtc": "2026-08-01T19:00:00Z"
+      ]
     },
     {
       "Id": "t_8728ba5741e8",
