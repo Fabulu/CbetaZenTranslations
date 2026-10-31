@@ -31219,7 +31219,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Chan teaching. Yuanan voices the line in answer to a repeated request from an aged monk."
+              "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. At a hall address requested by the elderly monk Shiduo, Yuan'an Liao recalls that Shiduo has crossed great distances to return and has now requested teaching twice within three years. Yuan'an opens by saying the teaching has no fixed form, so each time it is raised it is fresh, and each arrival can be fitting again. He then compares Shiduo's renewed vigor with his own willingness to enter the difficult work of teaching, before citing earlier masters. The headword explains why repeating a request and giving another talk need not be a stale copy; it is Yuan'an's present opening, not one of the later quotations."
             },
             {
               "RelPath": "J/J27/J27nB193.xml",
@@ -31237,7 +31237,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Chan teaching. Yinyuan raises incense at the hall and says the act is new again."
+              "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. As Yinyuan Longqi enters Huangbo's Wanfu Monastery to take up residence, he speaks at successive places in the complex. In the guardian hall he asks how the old house style can be renewed, raises incense, and answers that each time it is lifted it is fresh. He then moves to the patriarch hall and other rooms with separate remarks. The phrase attaches to Yinyuan's actual incense gesture during this entry ritual: a repeated act becomes a present renewal of the monastery rather than a claim about every later ceremony."
             },
             {
               "RelPath": "J/J37/J37nB388.xml",
@@ -31255,7 +31255,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Chan teaching. Yikui answers why older teaching is spoken again with the line."
+              "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Yikui of Shending. At a hall address requested after a lay supporter feeds the monks, a monk asks Yikui Yuankui what teaching he will give the assembly. Yikui likens it to striking a powerful drum. When the monk objects that old teachers have already spoken so much and asks why speak again today, Yikui replies that each raising makes it new. The monk takes this as a ready assurance that everyone will accept and practice it, but Yikui rebukes him for hearing inaccurately. The line answers the need for a fresh present teaching while its immediate follow-up blocks a complacent reading."
             },
             {
               "RelPath": "J/J28/J28nB205.xml",
@@ -31273,7 +31273,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB205.xml). Recorded Chan teaching. Jieweizhou hangs a new monastery board and voices the line."
+              "AttributionNote": "Source record (J/J28/J28nB205.xml). Recorded Sayings of Chan Master Jieweizhou. During the hanging of a new bell-and-meal board at Puji, Jieweizhou Xingzhou asks how an old shop should reopen. He hangs the board and says that each time it is raised it is new; then he strikes it and links the renewed signal to eating, dressing and hearing in daily life. The headword names the renewed force of this actual ritual object and its use. The board gesture belongs to Jieweizhou's present Puji occasion, not to the surrounding separate records of earlier boards at other monasteries."
             },
             {
               "RelPath": "J/J38/J38nB415.xml",
@@ -31291,10 +31291,106 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J38/J38nB415.xml). Recorded Chan teaching. Miaoyun gives the line as his answer to what opening the canon brings."
+              "AttributionNote": "Source record (J/J38/J38nB415.xml). Recorded Sayings of Chan Master Miaoyun of Dabei. At Beijing's Fayun Monastery, elder Liaoxin has the canon aired and invites Miaoyun Zhenxiong to address the assembly. Liaoxin asks what benefit comes from opening the scriptures once every year; Miaoyun answers that each time they are raised, they are new. Liaoxin then asks separate questions about Fayun's setting and the person in it, receiving different images in reply. The phrase is Miaoyun's immediate answer to the annual scripture ceremony, not a blanket claim that repeated words alone confer realization."
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J37/J37nB386.xml",
+              "FromLb": "0346a17",
+              "ToLb": "0346b06",
+              "Kwic": "鉗錘徹骨徹髓，然而太殺點胸點肋。神鼎不肖從來不為人，諸人盡知，不必擬議思量，只是開爐以來不曾在火爐邊蹲坐，你們終日趕著搬磚運瓦、抬料拽木，亦略與師翁相似，你們遲縮躲跟、喊喊罵罵，亦是一般。若論制之解結，不妨分明說破，直待你們腳跟下艸鞋𦄍子嚗地斷、肩頭上千斤擔子啐地折，便是解制時也。即今還有與麼衲僧麼？設有，一日兩箇普請也放你不過。」僧堂上梁。「良材秀拔萬山中，大廈橫擔一力雄，扶出虛空無向背，五湖龍象盡歸宗。」式多禪人請上堂。「法無定相，一番提起一番新；道不虛行，一度到來一度妙。茲來式多老衲，萬水千山不憚，昔到而今又到，年越古稀，三年兩度請法，一說不妨再說。爾既老當益壯，渾忘是命是身；我固窮則益堅，豈吝入泥入水？純鋼打就底，確然已進不退；生銕鑄成底，畢竟已展不收。然而洞庭渡口，白浪滔天，江湖無礙人之心；資聖堂前，清風匝地，佛祖無謾人之意。長沙道：『我若舉揚宗教，法堂前艸深一丈。』開口見膽了也。德山道：『我宗無語句，亦無一法與人。』全身漏逗了也。雪峰道：『盡大地是箇解脫門，把手拽不入。",
+              "MasterName": "Yuan'an Liao",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yuan'an Liao",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. At a hall address requested by the elderly monk Shiduo, Yuan'an Liao recalls that Shiduo has crossed great distances to return and has now requested teaching twice within three years. Yuan'an opens by saying the teaching has no fixed form, so each time it is raised it is fresh, and each arrival can be fitting again. He then compares Shiduo's renewed vigor with his own willingness to enter the difficult work of teaching, before citing earlier masters. The headword explains why repeating a request and giving another talk need not be a stale copy; it is Yuan'an's present opening, not one of the later quotations.",
+              "ClaimText": "一番提起一番新"
+            },
+            {
+              "RelPath": "J/J27/J27nB193.xml",
+              "FromLb": "0225c04",
+              "ToLb": "0225c25",
+              "Kwic": "月十四日，侍御林公，同鄉紳林宗賑、林朝龍，文學林景台、林守穩、林伯春、林正立、夏春暉、龔士龍、吳承啟、林茂輝、林士龍、林鼎新、林茂枝、林廷棟等，暨及僧俗，請師住黃檗山萬福禪寺，於十月初一日入院。至山門，云：「從上已來，閑門破戶，一時八字打開了也。且道關捩子在甚麼處？」喝一喝，便入。佛殿，云：「巍巍堂堂，坐斷十方，正當與麼時，好與三十拄杖。何故？不見道：斫卻月中桂，清光應更多。」伽藍堂，云：「城塹三寶即不無，重振家風如何著力？」舉香云：「一番提起一番新。」祖師堂，云：「西天四七，眼橫鼻直，東土二三，寐語喃喃，惑亂天下人無了時。今日不肖兒孫活捉將來，一爐燒卻。」方丈，云：「掩室杜口，浪籍不少。古今天下老和尚，潑天潑地，蝦跳不出斗。琦上座到這裏又作麼生？」驀拈拄杖畫一畫云：「破也破也。」擲下拄杖云：「放出一隊老古錐。未證據者看看。」即日眾請上堂。師至座前，拈侍御心弘林公請啟云：「只者箇，爍破重關，徹法源底，逼得山僧無藏隱處，今日不免對眾舉揚。煩維那宣讀。」宣畢，指法座云：「寶華王座，流露",
+              "MasterName": "Yinyuan Longqi",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yinyuan Longqi",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. As Yinyuan Longqi enters Huangbo's Wanfu Monastery to take up residence, he speaks at successive places in the complex. In the guardian hall he asks how the old house style can be renewed, raises incense, and answers that each time it is lifted it is fresh. He then moves to the patriarch hall and other rooms with separate remarks. The phrase attaches to Yinyuan's actual incense gesture during this entry ritual: a repeated act becomes a present renewal of the monastery rather than a claim about every later ceremony.",
+              "ClaimText": "一番提起一番新"
+            },
+            {
+              "RelPath": "J/J37/J37nB388.xml",
+              "FromLb": "0448c18",
+              "ToLb": "0449a06",
+              "Kwic": "飲、饑者餐、困者臥，若然白汗出通身，莫教從前辜負我。」下座。檀信請上堂。「法輪未轉食輪先，大施門開無壅塞，於食等者法亦然，何須長老重饒舌？而今錦上又鋪花，毒以毒攻楔出楔，達者聊聞掩耳歸，眼睛何待重添屑？不著屑，得一橛，那一橛，如何說？海底泥牛痛著鞭，火中木馬流鮮血，不於此處究根源，直待當來問彌勒。」請，上堂。問：「居士齋僧請法，和尚利眾上堂，未審說甚麼法？」師云：「塗毒鼓一撾，遠近聞皆喪。」進云：「古人已說多矣，今朝更說何為？」師云：「一番提起一番新。」僧云：「與麼則大眾信受奉行去也。」師云：「聽事不真，喚鐘作甕。」問：「如何是心？」師云：「布衫方做成。」進云：「如何是佛？」師云：「抱贓莫叫屈。」進云：「如何是物？」師云：「拄杖光兀。」進云：「不是心、不是佛、不是物，是箇甚麼？」師云：「耳朵兩片皮。」僧一喝，師便打。問：「驪龍頷下珠，電激雷轟，如何取得？」師云：「鈍置殺人。」進云：「風清月白時，還有西來祖意也無？」師云：「有棒不打死漢。」乃云：「龐公難，開口見心肝；龐婆易，滿目無人",
+              "MasterName": "Yikui Yuankui",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yikui Yuankui",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Yikui of Shending. At a hall address requested after a lay supporter feeds the monks, a monk asks Yikui Yuankui what teaching he will give the assembly. Yikui likens it to striking a powerful drum. When the monk objects that old teachers have already spoken so much and asks why speak again today, Yikui replies that each raising makes it new. The monk takes this as a ready assurance that everyone will accept and practice it, but Yikui rebukes him for hearing inaccurately. The line answers the need for a fresh present teaching while its immediate follow-up blocks a complacent reading.",
+              "ClaimText": "一番提起一番新"
+            },
+            {
+              "RelPath": "J/J28/J28nB205.xml",
+              "FromLb": "0230a21",
+              "ToLb": "0230c08",
+              "Kwic": "前，莫謂山僧不道。」喝一喝，下座。如如開鐘板如如開鐘板師云：「雲從龍，風從虎。馬祖僧堂，百丈規矩。不落聲聞大丈夫，遵循號令歷今古。」遂擊板。如如齋單引如如齋單引銅頭鐵額，不問廬陵米價；水足草足，休提趙州公案。木札羹和盤掇出，鐵屑飯一任吞吐。雖然如是，南湖不做這般去就，要使應供高流，人人腳跟點地；飽參上士，個個鼻孔撩天。普濟掛鐘板普濟掛鐘板師云：「少室單丁，遍地兒孫出馬駒；大雄號令，典型千古振宗風。秪如舊店重開，又作麼生？」遂掛板，云：「一番提起一番新。」復擊板，云：「隨伊喫飯穿衣去，眼裏聞聲處處真。」普濟齋單普濟齋單普濟院裡，赤手空拳，不問如何若何，一個個眉毛廝結，要與黑面老子討個越生出死的路頭。恰遇著山僧，劈脊一棒，直教瓦解冰消。雖然如是，也要灶裡明生，缽盂口濕。卷一介為舟禪師語錄卷之二記錄住吳江海雲寺語錄住吳江海雲寺語錄師於順治十八年二月十九日在禾中萬松菴受請，於四月十五日進院。山門。師云：「廣大法門，不用起模畫樣。且道隨方建化又作麼生？當軒路徑通霄漢，一任擎頭戴角來。」喝一喝",
+              "MasterName": "Jieweizhou Xingzhou",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Jieweizhou Xingzhou",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB205.xml). Recorded Sayings of Chan Master Jieweizhou. During the hanging of a new bell-and-meal board at Puji, Jieweizhou Xingzhou asks how an old shop should reopen. He hangs the board and says that each time it is raised it is new; then he strikes it and links the renewed signal to eating, dressing and hearing in daily life. The headword names the renewed force of this actual ritual object and its use. The board gesture belongs to Jieweizhou's present Puji occasion, not to the surrounding separate records of earlier boards at other monasteries.",
+              "ClaimText": "一番提起一番新"
+            },
+            {
+              "RelPath": "J/J38/J38nB415.xml",
+              "FromLb": "0449b23",
+              "ToLb": "0449c09",
+              "Kwic": "頭跣足歷炎涼，南天北地皆王化，一句當軒絕比量。有般漢聞恁麼道，將謂別有奇特，向黑山鬼窟裏坐，正是守古塚的精靈，有甚共語處？若是大丈夫兒，孤迥迥、峭巍巍，赤骨𩪸地，虛空無以較其量、滄海無以比其深，目視雲漢，眼蓋乾坤。山僧今日無端到安化寺裏，被主人覷破，未免和盤托出。且道：向上還更有事麼？」良久，云：「六耳不同謀。」拈拄杖，卓一卓。到北京玅峰法雲寺，了心長老曬經，率眾請上堂。了心問：「展開法藏，露出釋迦鼻孔，一年晾一度，得何利益？」師云：「一番提起一番新。」曰：「如何是法雲境？」師云：「怪石插青霄，奇峰卓碧漢。」「如何是境中人？」師云：「開鐺煮皓月，把斧斫雲根。」「人境已蒙師指示，向上宗乘事若何？」師云：「須彌頂上擊金鐘。」問：「高升寶座，法藏弘開，一會儼然，如何是佛？」師云：「山高石大澗流長。」「如何是法？」師云：「三寸龜毛縛太虛。」「如何是僧？」師云：「持瓶攜錫上崚嶒。」曰：「施主請法飯僧，有何道益？」師云：「熏風南來，殿閣生涼。」曰：「恁麼則承恩去也。」師云：「錯認葫蘆作帝瓶。」",
+              "MasterName": "Miaoyun Zhenxiong",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Miaoyun Zhenxiong",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J38/J38nB415.xml). Recorded Sayings of Chan Master Miaoyun of Dabei. At Beijing's Fayun Monastery, elder Liaoxin has the canon aired and invites Miaoyun Zhenxiong to address the assembly. Liaoxin asks what benefit comes from opening the scriptures once every year; Miaoyun answers that each time they are raised, they are new. Liaoxin then asks separate questions about Fayun's setting and the person in it, receiving different images in reply. The phrase is Miaoyun's immediate answer to the annual scripture ceremony, not a blanket claim that repeated words alone confer realization.",
+              "ClaimText": "一番提起一番新"
+            }
+          ],
           "SourceTexts": [
             "J/J37/J37nB386.xml",
             "J/J27/J27nB193.xml",
@@ -31310,7 +31406,7 @@
             "Miaoyun Zhenxiong"
           ],
           "RelatedTerms": [],
-          "Explanation": "The same object or teaching can be raised again and still demand a fresh response. Yuanan, Yinyuan, and Yikui use the phrase while revisiting a teaching or ritual act. Jieweizhou applies it to hanging a board; Miaoyun uses it to answer a question about opening the canon."
+          "Explanation": "Raising a familiar teaching or object again can make the present occasion fresh. Yuan'an speaks at Shiduo's renewed request, and Yinyuan lifts incense as he enters a monastery. Yikui answers why he speaks after older teachers, then rebukes a student who treats the reply as automatic assent. Jieweizhou hangs and strikes a new board at Puji, while Miaoyun answers what comes of airing the canon again this year. Each use ties the phrase to a specific present action or question rather than mere novelty in repetition."
         }
       ]
     },
