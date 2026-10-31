@@ -735432,9 +735432,9 @@
         {
           "SenseKey": null,
           "MasterName": null,
-          "PreferredTarget": "A ready-made Chan case: I would give you thirty blows.",
+          "PreferredTarget": "A case already before you: I spare you thirty blows.",
           "AlternateTargets": [
-            "The case is already before you; thirty blows are due."
+            "The case is ready at hand; I remit your thirty blows."
           ],
           "SearchAliases": [
             "ready-made case thirty blows Chan",
@@ -735442,7 +735442,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "Muzhou says the complete pair to a monk in the older dialogue. Wanru reuses it in a chain of case comments, Shiyu asks the assembly whether they would accept the blows, and Danxia applies it to a Fayan exchange. The paired line joins the ready-made case to the corrective blow. Separate public articles cover each clause; this complete pair has its own attested use as a single reply.",
+          "Note": "The thirty blows are spared or remitted in the formula, not announced as being administered. Muzhou's later actual strike is separately marked after the monk's replies. Later masters redeploy the formula within their own critical questions and comments; remission alone is not proof of approval.",
           "Occurrences": [
             {
               "RelPath": "J/J26/J26nB182.xml",
@@ -735461,7 +735461,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB182.xml). Recorded sayings. Wanru voices the complete pair within his own rapid-fire hall teaching."
+              "AttributionNote": "Source record (J/J26/J26nB182.xml). Recorded Sayings of Chan Master Wanru. Wanru's address strings together compact sayings and appraisals. After 'Blink and it is already missed' and a remark about an onlooker's laughter, he gives the headword and immediately calls attention to muddle. He goes on to the claim of exposing the Mount Tai woman and Yunmen's wish to kill the newborn Buddha, each accompanied by a brief critical phrase. Wanru then distinguishes understanding oneself from understanding ancient and present cases: either alone is insufficient, and even both still earn blows at his own gate. The headword is his present reuse of an inherited formula, with thirty blows remitted; the passage does not record thirty actual blows being delivered at that point."
             },
             {
               "RelPath": "J/J27/J27nB190.xml",
@@ -735480,7 +735480,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J27/J27nB190.xml). Recorded sayings. Shiyu addresses the assembly with the pair and asks whether they accept the thirty blows."
+              "AttributionNote": "Source record (J/J27/J27nB190.xml). Dharma Platform of Chan Master Shiyu. Shiyu summons the assembly, says the case is already present and spares them thirty blows, then asks whether they accept it. Acceptance, he says, resembles a worm accidentally making a pattern in wood; nonacceptance raises the problem of retrieving a pearl from the deep. He contrasts stories of obtaining and losing a pearl and asks how truth and falsity, hidden and manifest, can be distinguished. Turning to his present speaking of precepts through Chan teaching and vice versa, he tests all four alternatives and ends with the image of a pure full-moon pearl and an exclamation of grievance. The initial remission is Shiyu's own challenge, not proof that the listeners have passed it."
             },
             {
               "RelPath": "J/J38/J38nB409.xml",
@@ -735491,9 +735491,9 @@
               "ActorAttribution": {
                 "Status": "identified-unlinked-master",
                 "Kind": "named-master",
-                "ActorLabel": "Danxia Dangui ????",
+                "ActorLabel": "Danxia Dangui (source-named record master)",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "After the Fayan and Xiu exchange, ?? introduces the current Danxia comment containing the exact pair.",
+                "GrammarEvidence": "The source work title names Danxia Dangui and its TEI author statement names Jinshi as speaker. In the old-case verse-commentary section, the Fayan and Xiushan exchange closes with Xiushan bowing. The explicit current-master comment marker then introduces the headword, followed by the current response verse. It is Danxia’s comment, not a line spoken by Fayan or Xiushan. No matching personal row was found in the read-only roster.",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -735508,7 +735508,7 @@
               },
               "Curated": true,
               "ContextMasters": [],
-              "AttributionNote": "Source record (J/J38/J38nB409.xml). Recorded sayings. Danxia Dangui adds the pair as his own comment on a Fayan case."
+              "AttributionNote": "Source record (J/J38/J38nB409.xml). Recorded Sayings of Chan Master Dangui of Danxia. Danxia raises Fayan's exchange with Xiushan: Fayan asks about 'A hair's-breadth difference separates heaven and earth,' and Xiushan repeats those words. When Fayan challenges him, Xiushan asks for Fayan's own account; Fayan repeats the very same wording, and Xiushan bows. Danxia then gives the headword as his current comment. The following verse balances a half-catty left eye against an eight-ounce right eye, then speaks of guilt left unpunished and merit left unrewarded, ending with images of a seamless stupa and a broken fishing net. The thirty blows are remitted in Danxia's appraisal; no striking action is recorded here. The source work names Danxia Dangui, without a verified personal roster link."
             },
             {
               "RelPath": "X/X68/X68n1319.xml",
@@ -735527,7 +735527,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X68/X68n1319.xml). Recorded sayings. The imperial anthology records the older Muzhou dialogue in which he says the complete pair to a monk."
+              "AttributionNote": "Source record (X/X68/X68n1319.xml). Imperially Selected Recorded Sayings. Within the compilation's section for Muzhou Daoming, Muzhou sees a monk and says the case is already present, sparing him thirty blows. The monk answers, 'I am thus.' Muzhou asks why the guardian at the monastery gate raises his fist; the monk replies that the guardian too is thus. Only then does the record say that Muzhou strikes him. The initial remittance and subsequent actual blow are different turns: reading the formula as 'I give you thirty blows' erases that sequence. The text does not explicitly tell us why the remittance is offered or whether the later blow has a specified count. The next visiting scripture lecturer belongs to another exchange."
             }
           ],
           "ClaimAnchors": [
@@ -735548,7 +735548,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB182.xml). Recorded sayings. Wanru voices the complete pair within his own rapid-fire hall teaching.",
+              "AttributionNote": "Source record (J/J26/J26nB182.xml). Recorded Sayings of Chan Master Wanru. Wanru's address strings together compact sayings and appraisals. After 'Blink and it is already missed' and a remark about an onlooker's laughter, he gives the headword and immediately calls attention to muddle. He goes on to the claim of exposing the Mount Tai woman and Yunmen's wish to kill the newborn Buddha, each accompanied by a brief critical phrase. Wanru then distinguishes understanding oneself from understanding ancient and present cases: either alone is insufficient, and even both still earn blows at his own gate. The headword is his present reuse of an inherited formula, with thirty blows remitted; the passage does not record thirty actual blows being delivered at that point.",
               "ClaimText": "現成公案，放汝三十棒"
             },
             {
@@ -735568,7 +735568,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J27/J27nB190.xml). Recorded sayings. Shiyu addresses the assembly with the pair and asks whether they accept the thirty blows.",
+              "AttributionNote": "Source record (J/J27/J27nB190.xml). Dharma Platform of Chan Master Shiyu. Shiyu summons the assembly, says the case is already present and spares them thirty blows, then asks whether they accept it. Acceptance, he says, resembles a worm accidentally making a pattern in wood; nonacceptance raises the problem of retrieving a pearl from the deep. He contrasts stories of obtaining and losing a pearl and asks how truth and falsity, hidden and manifest, can be distinguished. Turning to his present speaking of precepts through Chan teaching and vice versa, he tests all four alternatives and ends with the image of a pure full-moon pearl and an exclamation of grievance. The initial remission is Shiyu's own challenge, not proof that the listeners have passed it.",
               "ClaimText": "現成公案，放汝三十棒"
             },
             {
@@ -735580,9 +735580,9 @@
               "ActorAttribution": {
                 "Status": "identified-unlinked-master",
                 "Kind": "named-master",
-                "ActorLabel": "Danxia Dangui ????",
+                "ActorLabel": "Danxia Dangui (source-named record master)",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "After the Fayan and Xiu exchange, ?? introduces the current Danxia comment containing the exact pair.",
+                "GrammarEvidence": "The source work title names Danxia Dangui and its TEI author statement names Jinshi as speaker. In the old-case verse-commentary section, the Fayan and Xiushan exchange closes with Xiushan bowing. The explicit current-master comment marker then introduces the headword, followed by the current response verse. It is Danxia’s comment, not a line spoken by Fayan or Xiushan. No matching personal row was found in the read-only roster.",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -735597,7 +735597,7 @@
               },
               "Curated": true,
               "ContextMasters": [],
-              "AttributionNote": "Source record (J/J38/J38nB409.xml). Recorded sayings. Danxia Dangui adds the pair as his own comment on a Fayan case.",
+              "AttributionNote": "Source record (J/J38/J38nB409.xml). Recorded Sayings of Chan Master Dangui of Danxia. Danxia raises Fayan's exchange with Xiushan: Fayan asks about 'A hair's-breadth difference separates heaven and earth,' and Xiushan repeats those words. When Fayan challenges him, Xiushan asks for Fayan's own account; Fayan repeats the very same wording, and Xiushan bows. Danxia then gives the headword as his current comment. The following verse balances a half-catty left eye against an eight-ounce right eye, then speaks of guilt left unpunished and merit left unrewarded, ending with images of a seamless stupa and a broken fishing net. The thirty blows are remitted in Danxia's appraisal; no striking action is recorded here. The source work names Danxia Dangui, without a verified personal roster link.",
               "ClaimText": "現成公案，放汝三十棒"
             },
             {
@@ -735617,7 +735617,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X68/X68n1319.xml). Recorded sayings. The imperial anthology records the older Muzhou dialogue in which he says the complete pair to a monk.",
+              "AttributionNote": "Source record (X/X68/X68n1319.xml). Imperially Selected Recorded Sayings. Within the compilation's section for Muzhou Daoming, Muzhou sees a monk and says the case is already present, sparing him thirty blows. The monk answers, 'I am thus.' Muzhou asks why the guardian at the monastery gate raises his fist; the monk replies that the guardian too is thus. Only then does the record say that Muzhou strikes him. The initial remittance and subsequent actual blow are different turns: reading the formula as 'I give you thirty blows' erases that sequence. The text does not explicitly tell us why the remittance is offered or whether the later blow has a specified count. The next visiting scripture lecturer belongs to another exchange.",
               "ClaimText": "現成公案，放汝三十棒"
             }
           ],
@@ -735633,7 +735633,7 @@
             "Muzhou Daoming"
           ],
           "RelatedTerms": [],
-          "Explanation": "A case seems to lie plainly at hand, yet the speaker still threatens thirty blows. Muzhou uses the blows to test the monk who meets him; later speakers redirect the same line toward their own assemblies and cases. The pair holds the ready-made case and the blow together, so a listener cannot settle into a verbal answer."
+          "Explanation": "The case is already present, and the speaker says he spares the recipient thirty blows. Here 'spare' translates the remittance expressed by the Chinese verb; it does not mean that the encounter is finished or that the recipient has been approved. In Muzhou's dialogue the monk answers twice and an actual strike follows. Wanru inserts the formula among short appraisals of older sayings and insists that neither knowing the old cases nor understanding oneself is sufficient alone. Shiyu asks whether the assembly accepts the remittance and turns the issue toward truth and falsity, concealment and manifestation. Danxia places it after Fayan and Xiushan repeat precisely the same words, then comments on not punishing guilt or rewarding merit. These varied surroundings explain why an apparently ready-made case cannot be treated as a fixed verbal solution. The notes distinguish an initial pronouncement about thirty blows from any separately recorded action that follows."
         }
       ]
     },
@@ -894464,7 +894464,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "The Surangama wording is the Buddha saying in all four selected sources. Dayu makes the void into a cake; Luyan and Gumei line up divergent earlier master responses before offering their own; Pufu likewise asks what answer can be given now. The current teachers are commentators and record owners, not the speakers of the quoted headword. The shorter or minor-wording forms are search aliases of this same lexical unit; their distinct source uses are retained in the family-merge dossier.",
+          "Note": "The retained records explicitly introduce the line as scripture or the Buddha's speech. Its later recastings are distinct voices: the current master may repeat the opening condition while changing what happens to empty space. The original headword is not attributed to those commentators.",
           "Occurrences": [
             {
               "RelPath": "J/J34/J34nB305.xml",
@@ -894477,7 +894477,7 @@
                 "Kind": "Buddha as scriptural speaker",
                 "ActorLabel": "Shakyamuni Buddha",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "The exact words follow either the named Surangama citation or ????/??? inside the current master quotation; ?? or own paraphrase follows outside it.",
+                "GrammarEvidence": "The first quotation is introduced as the Shurangama scripture or explicitly as Shakyamuni or the World-honored One speaking. That quotation contains the headword. Later named masters repeat the opening condition but change the ending; the present master then supplies a separate comment or further recasting. The Buddha is the scripturally attributed speaker, not the current record owner.",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -894500,7 +894500,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J34/J34nB305.xml). Recorded sayings. Dayu quotes the Surangama line then makes his own image of empty space as a round cake."
+              "AttributionNote": "Source record (J/J34/J34nB305.xml). Recorded Sayings of Chan Master Dayutao of Guoqing. Dayu introduces the headword as a quotation from the Shurangama scripture, then quotes Wuzu's version in which the empty space of the ten directions is bumped into. Speaking for himself at Guoqing, Dayu says that if one person returns to the source, all that space forms a flat cake. At a high valuation it equals the whole world; at a low one it is worth nothing; beyond dear and cheap one can only swallow it oneself. He denies the assembly even a sesame crumb and says the point is to distinguish clearly, not to compete over self and other. The Buddha is the inherited scriptural voice, Wuzu supplies the first alteration, and Dayu supplies the cake and valuation imagery."
             },
             {
               "RelPath": "J/J39/J39nB452.xml",
@@ -894513,7 +894513,7 @@
                 "Kind": "Buddha as scriptural speaker",
                 "ActorLabel": "Shakyamuni Buddha",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "The exact words follow either the named Surangama citation or ????/??? inside the current master quotation; ?? or own paraphrase follows outside it.",
+                "GrammarEvidence": "The first quotation is introduced as the Shurangama scripture or explicitly as Shakyamuni or the World-honored One speaking. That quotation contains the headword. Later named masters repeat the opening condition but change the ending; the present master then supplies a separate comment or further recasting. The Buddha is the scripturally attributed speaker, not the current record owner.",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -894536,7 +894536,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J39/J39nB452.xml). Recorded sayings. Luyan quotes the Buddha alongside three later master responses and offers his own distinction."
+              "AttributionNote": "Source record (J/J39/J39nB452.xml). Recorded Sayings of Chan Master Lüyan He. Luyan first attributes the headword to Shakyamuni, then quotes three different continuations of the same opening condition: Wuzu's bumping into space, Yuanwu's flowers added to brocade, and Chushi's space that a needle cannot enter. Luyan's own response does not choose one of those images. He says, 'If one person awakens to the true and returns to the source, empty space in the ten directions is empty space in the ten directions.' The repeated wording is his present intervention after the lineup of inherited answers. The next separately marked instruction takes up a staff and is a different unit."
             },
             {
               "RelPath": "J/J39/J39nB463.xml",
@@ -894549,7 +894549,7 @@
                 "Kind": "Buddha as scriptural speaker",
                 "ActorLabel": "Shakyamuni Buddha",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "The exact words follow either the named Surangama citation or ????/??? inside the current master quotation; ?? or own paraphrase follows outside it.",
+                "GrammarEvidence": "The first quotation is introduced as the Shurangama scripture or explicitly as Shakyamuni or the World-honored One speaking. That quotation contains the headword. Later named masters repeat the opening condition but change the ending; the present master then supplies a separate comment or further recasting. The Buddha is the scripturally attributed speaker, not the current record owner.",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -894572,7 +894572,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J39/J39nB463.xml). Recorded sayings. Gumei quotes the Buddha and three older masters, then supplies his own turn."
+              "AttributionNote": "Source record (J/J39/J39nB463.xml). Recorded Sayings of Chan Master Gumeilie of Weishan. Gumei raises the Buddha's saying, followed by Wuzu, Foguo, and Chushi's alternative endings about collision, flowers on brocade, and a needle unable to enter. Each keeps the condition of one person returning to the source while altering the fate of space. Gumei then supplies his own version: 'If one person awakens to the true and returns to the source, what is empty space in the ten directions?' The headword belongs to the first, scripturally attributed quotation. The final question belongs to Gumei and calls the assembly's understanding of 'empty space' into question rather than accepting one of the previous descriptions as a definition."
             },
             {
               "RelPath": "J/J40/J40nB493.xml",
@@ -894585,7 +894585,7 @@
                 "Kind": "Buddha as scriptural speaker",
                 "ActorLabel": "Shakyamuni Buddha",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "The exact words follow either the named Surangama citation or ????/??? inside the current master quotation; ?? or own paraphrase follows outside it.",
+                "GrammarEvidence": "The first quotation is introduced as the Shurangama scripture or explicitly as Shakyamuni or the World-honored One speaking. That quotation contains the headword. Later named masters repeat the opening condition but change the ending; the present master then supplies a separate comment or further recasting. The Buddha is the scripturally attributed speaker, not the current record owner.",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -894608,7 +894608,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J40/J40nB493.xml). Recorded sayings. Pufu quotes the Buddha and later masters before giving his own current answer."
+              "AttributionNote": "Source record (J/J40/J40nB493.xml). Recorded Sayings of Chan Master Pufuzhuo of Muketing, Qingshan. In Pufu's summer-retreat address, the quotation comes after a sequence of deliberately unsettling images and questions. He names Shakyamuni as its speaker, then cites the versions about bumping into space, flowers on brocade, and impenetrability to a needle. Pufu, speaking as Yongzhen, adds that space in all ten directions universally enters hell. He surrounds the assembly with images of punishments on every side and asks how to get out. After a pause he tells them to make their way carefully past the seventh month's midpoint, when he will let them out to roam. The headword is the Buddha's cited statement; the hell imagery, challenge, and retreat-season ending are Pufu's current deployment."
             }
           ],
           "ClaimAnchors": [
@@ -894623,7 +894623,7 @@
                 "Kind": "Buddha as scriptural speaker",
                 "ActorLabel": "Shakyamuni Buddha",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "The exact words follow either the named Surangama citation or ????/??? inside the current master quotation; ?? or own paraphrase follows outside it.",
+                "GrammarEvidence": "The first quotation is introduced as the Shurangama scripture or explicitly as Shakyamuni or the World-honored One speaking. That quotation contains the headword. Later named masters repeat the opening condition but change the ending; the present master then supplies a separate comment or further recasting. The Buddha is the scripturally attributed speaker, not the current record owner.",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -894646,7 +894646,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J34/J34nB305.xml). Recorded sayings. Dayu quotes the Surangama line then makes his own image of empty space as a round cake.",
+              "AttributionNote": "Source record (J/J34/J34nB305.xml). Recorded Sayings of Chan Master Dayutao of Guoqing. Dayu introduces the headword as a quotation from the Shurangama scripture, then quotes Wuzu's version in which the empty space of the ten directions is bumped into. Speaking for himself at Guoqing, Dayu says that if one person returns to the source, all that space forms a flat cake. At a high valuation it equals the whole world; at a low one it is worth nothing; beyond dear and cheap one can only swallow it oneself. He denies the assembly even a sesame crumb and says the point is to distinguish clearly, not to compete over self and other. The Buddha is the inherited scriptural voice, Wuzu supplies the first alteration, and Dayu supplies the cake and valuation imagery.",
               "ClaimText": "若有一人發真歸源，十方虛空悉皆消殞"
             },
             {
@@ -894660,7 +894660,7 @@
                 "Kind": "Buddha as scriptural speaker",
                 "ActorLabel": "Shakyamuni Buddha",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "The exact words follow either the named Surangama citation or ????/??? inside the current master quotation; ?? or own paraphrase follows outside it.",
+                "GrammarEvidence": "The first quotation is introduced as the Shurangama scripture or explicitly as Shakyamuni or the World-honored One speaking. That quotation contains the headword. Later named masters repeat the opening condition but change the ending; the present master then supplies a separate comment or further recasting. The Buddha is the scripturally attributed speaker, not the current record owner.",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -894683,7 +894683,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J39/J39nB452.xml). Recorded sayings. Luyan quotes the Buddha alongside three later master responses and offers his own distinction.",
+              "AttributionNote": "Source record (J/J39/J39nB452.xml). Recorded Sayings of Chan Master Lüyan He. Luyan first attributes the headword to Shakyamuni, then quotes three different continuations of the same opening condition: Wuzu's bumping into space, Yuanwu's flowers added to brocade, and Chushi's space that a needle cannot enter. Luyan's own response does not choose one of those images. He says, 'If one person awakens to the true and returns to the source, empty space in the ten directions is empty space in the ten directions.' The repeated wording is his present intervention after the lineup of inherited answers. The next separately marked instruction takes up a staff and is a different unit.",
               "ClaimText": "若有一人發真歸源，十方虛空悉皆消殞"
             },
             {
@@ -894697,7 +894697,7 @@
                 "Kind": "Buddha as scriptural speaker",
                 "ActorLabel": "Shakyamuni Buddha",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "The exact words follow either the named Surangama citation or ????/??? inside the current master quotation; ?? or own paraphrase follows outside it.",
+                "GrammarEvidence": "The first quotation is introduced as the Shurangama scripture or explicitly as Shakyamuni or the World-honored One speaking. That quotation contains the headword. Later named masters repeat the opening condition but change the ending; the present master then supplies a separate comment or further recasting. The Buddha is the scripturally attributed speaker, not the current record owner.",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -894720,7 +894720,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J39/J39nB463.xml). Recorded sayings. Gumei quotes the Buddha and three older masters, then supplies his own turn.",
+              "AttributionNote": "Source record (J/J39/J39nB463.xml). Recorded Sayings of Chan Master Gumeilie of Weishan. Gumei raises the Buddha's saying, followed by Wuzu, Foguo, and Chushi's alternative endings about collision, flowers on brocade, and a needle unable to enter. Each keeps the condition of one person returning to the source while altering the fate of space. Gumei then supplies his own version: 'If one person awakens to the true and returns to the source, what is empty space in the ten directions?' The headword belongs to the first, scripturally attributed quotation. The final question belongs to Gumei and calls the assembly's understanding of 'empty space' into question rather than accepting one of the previous descriptions as a definition.",
               "ClaimText": "若有一人發真歸源，十方虛空悉皆消殞"
             },
             {
@@ -894734,7 +894734,7 @@
                 "Kind": "Buddha as scriptural speaker",
                 "ActorLabel": "Shakyamuni Buddha",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "The exact words follow either the named Surangama citation or ????/??? inside the current master quotation; ?? or own paraphrase follows outside it.",
+                "GrammarEvidence": "The first quotation is introduced as the Shurangama scripture or explicitly as Shakyamuni or the World-honored One speaking. That quotation contains the headword. Later named masters repeat the opening condition but change the ending; the present master then supplies a separate comment or further recasting. The Buddha is the scripturally attributed speaker, not the current record owner.",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -894757,7 +894757,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J40/J40nB493.xml). Recorded sayings. Pufu quotes the Buddha and later masters before giving his own current answer.",
+              "AttributionNote": "Source record (J/J40/J40nB493.xml). Recorded Sayings of Chan Master Pufuzhuo of Muketing, Qingshan. In Pufu's summer-retreat address, the quotation comes after a sequence of deliberately unsettling images and questions. He names Shakyamuni as its speaker, then cites the versions about bumping into space, flowers on brocade, and impenetrability to a needle. Pufu, speaking as Yongzhen, adds that space in all ten directions universally enters hell. He surrounds the assembly with images of punishments on every side and asks how to get out. After a pause he tells them to make their way carefully past the seventh month's midpoint, when he will let them out to roam. The headword is the Buddha's cited statement; the hell imagery, challenge, and retreat-season ending are Pufu's current deployment.",
               "ClaimText": "若有一人發真歸源，十方虛空悉皆消殞"
             }
           ],
@@ -894774,7 +894774,7 @@
             "Pufu Zhuo"
           ],
           "RelatedTerms": [],
-          "Explanation": "One person reaches the source, and an apparently boundless space is said to vanish. Dayu and Luyan bring the line against very different images of the ten-direction void. Gumei and Pufu preserve rival earlier replies and make the next answer the work of the current assembly."
+          "Explanation": "The quotation says that if one person awakens to the true and returns to the source, empty space in all ten directions entirely vanishes. These records present it as scripture or as the Buddha's words, then set later masters' responses beside it. The contrast is part of the point: Wuzu makes empty space something one bumps into; Yuanwu adds flowers to brocade; Chushi makes it impenetrable to a needle. The current speakers do not merely repeat that disappearance is a fact to be memorized. Dayu turns space into a cake and asks about value and one's own swallowing; Luyan simply repeats 'empty space in the ten directions'; Gumei asks what this space is; Pufu makes it enter hell and tests the assembly's exit. The occurrence notes separate the scriptural voice, the cited later masters, and the present speaker. They explain how each response changes the question without turning the headword into a literal prediction about the physical destruction of space."
         }
       ]
     },
@@ -1014279,7 +1014279,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "Mimo holds a wooden fork at visitors' necks and says that answering and failing to answer alike end beneath it. Poshan recounts the encounter; Pinjixiang describes a turning point from reading it; Pufuzhuo offers a substitute reply; Zhanran questions what remains when the fork is taken away. The exact words belong to Mimo in their quoted cases, while those later comments are distinct applications.",
+          "Note": "Mimo's reported challenge threatens the same outcome for answering and failing to answer. Later speakers examine the dependence on the fork, describe their own response to the case, or supply a substitute answer. One retained version leaves the elder unnamed and is identified through the matching cases.",
           "Occurrences": [
             {
               "RelPath": "J/J26/J26nB177.xml",
@@ -1014290,9 +1014290,9 @@
               "ActorAttribution": {
                 "Status": "identified-unlinked-master",
                 "Kind": "named earlier master in inherited fork encounter",
-                "ActorLabel": "Mimo (??)",
+                "ActorLabel": "Mimo (the earlier fork-holding master)",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "The old case names ??/???? as the fork holder who says the exact pair.",
+                "GrammarEvidence": "J26nB177, J39nB454 and J40nB493 name Mimo as the elder holding a fork who says the headword to a visitor. X72n1444 calls him only the fork-holding elder; its identification as Mimo uses the corresponding named cases rather than a name printed in that window. Later current-master criticism, autobiography and substitute replies occur outside the old quotation. No separate matching personal row was found in the read-only roster.",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -1014315,7 +1014315,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded sayings. Poshan recounts Mimo's wooden fork challenge and tests why few visitors met its use."
+              "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan takes up a bell mallet in the practice hall and says each stroke draws blood; when no one comes forward, he remarks that frightening people away is easier than beating them away. He then recounts Mimo holding an iron fork against visitors and giving the headword, urging an immediate answer. A monk hides the fork, and mocks him when he cannot find it. Poshan judges both Mimo's dependence on the fork and the monk's clever response, then acknowledges that his own mallet too is borrowed. Raising a fist, he points to something not borrowed, while warning against bondage to familiar sayings. Mimo owns the quoted threat; the fist and practical admonition are Poshan's present answer to the case."
             },
             {
               "RelPath": "J/J39/J39nB454.xml",
@@ -1014326,9 +1014326,9 @@
               "ActorAttribution": {
                 "Status": "identified-unlinked-master",
                 "Kind": "named earlier master in inherited fork encounter",
-                "ActorLabel": "Mimo (??)",
+                "ActorLabel": "Mimo (the earlier fork-holding master)",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "The old case names ??/???? as the fork holder who says the exact pair.",
+                "GrammarEvidence": "J26nB177, J39nB454 and J40nB493 name Mimo as the elder holding a fork who says the headword to a visitor. X72n1444 calls him only the fork-holding elder; its identification as Mimo uses the corresponding named cases rather than a name printed in that window. Later current-master criticism, autobiography and substitute replies occur outside the old quotation. No separate matching personal row was found in the read-only roster.",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -1014351,7 +1014351,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J39/J39nB454.xml). Recorded sayings. Pinjixiang says Mimo's fork saying helped him break through a long blockage, then addresses his audience."
+              "AttributionNote": "Source record (J/J39/J39nB454.xml). Recorded Sayings of Chan Master Pinjixiang. Pinjixiang describes his own training: after an initial clean openness, his teacher pushed him into a field of difficulties, and for seven or eight years every movement still caught on something. Reading Mimo's wooden-fork challenge together with a later elder's comment, 'Fabricated elders are as numerous as hemp and millet,' he suddenly felt as though he had jumped free of a net. He says the previous obstructions were swept away and relates this to his present use of the ceremonial scepter. He then sharply distinguishes such work from taking a drowsy glimpse of light as realization and learning stock comments. Mimo is the quoted old speaker; the later comment and Pinjixiang's autobiographical response are separate layers."
             },
             {
               "RelPath": "J/J40/J40nB493.xml",
@@ -1014362,9 +1014362,9 @@
               "ActorAttribution": {
                 "Status": "identified-unlinked-master",
                 "Kind": "named earlier master in inherited fork encounter",
-                "ActorLabel": "Mimo (??)",
+                "ActorLabel": "Mimo (the earlier fork-holding master)",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "The old case names ??/???? as the fork holder who says the exact pair.",
+                "GrammarEvidence": "J26nB177, J39nB454 and J40nB493 name Mimo as the elder holding a fork who says the headword to a visitor. X72n1444 calls him only the fork-holding elder; its identification as Mimo uses the corresponding named cases rather than a name printed in that window. Later current-master criticism, autobiography and substitute replies occur outside the old quotation. No separate matching personal row was found in the read-only roster.",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -1014379,7 +1014379,7 @@
               },
               "Curated": true,
               "ContextMasters": [],
-              "AttributionNote": "Source record (J/J40/J40nB493.xml). Recorded sayings. Pufuzhuo quotes Mimo's exact fork challenge and offers his own reply in the old case."
+              "AttributionNote": "Source record (J/J40/J40nB493.xml). Recorded Sayings of Chan Master Pufuzhuo of Muketing, Qingshan. In Pufu's section of substitute answers to old cases, the named elder of Mimo Cliff on Mount Wutai holds a wooden fork against a visiting monk's neck. He asks what demon made the monk leave home and travel, then gives the headword and demands a swift answer. The monk has none. Pufu supplies an answer in the monk's place: 'How can this old fellow shit and piss when he sees someone?' This is Pufu's deliberately coarse proposed response, not an answer recorded as actually spoken by the visitor. The headword belongs to the inherited fork-holder; the following case about Linji entering an army camp is separate."
             },
             {
               "RelPath": "X/X72/X72n1444.xml",
@@ -1014390,9 +1014390,9 @@
               "ActorAttribution": {
                 "Status": "identified-unlinked-master",
                 "Kind": "named earlier master in inherited fork encounter",
-                "ActorLabel": "Mimo (??)",
+                "ActorLabel": "Mimo (the earlier fork-holding master)",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "The old case names ??/???? as the fork holder who says the exact pair.",
+                "GrammarEvidence": "J26nB177, J39nB454 and J40nB493 name Mimo as the elder holding a fork who says the headword to a visitor. X72n1444 calls him only the fork-holding elder; its identification as Mimo uses the corresponding named cases rather than a name printed in that window. Later current-master criticism, autobiography and substitute replies occur outside the old quotation. No separate matching personal row was found in the read-only roster.",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -1014415,7 +1014415,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X72/X72n1444.xml). Recorded sayings. Zhanran quotes the fork challenge and argues that the old master's ability seemed tied to the fork."
+              "AttributionNote": "Source record (X/X72/X72n1444.xml). Recorded Sayings of Chan Master Zhanran Yuancheng. Zhanran recalls an elder who holds a wooden fork and says the headword. In this version, when someone hides the fork, the elder holds out both empty hands and opens his mouth with a shout. Zhanran says his resources are exhausted once the fork is gone. He then contrasts his own borrowed whisk, which has been reclaimed, with an upraised finger: here is something not borrowed and already shared by everyone, which those not yet realizing it should realize. He continues with spring farming and the need for everyone's effort before asking about further advance. This window calls the old speaker only the fork-holding elder; the name Mimo comes from the corresponding named recensions."
             }
           ],
           "ClaimAnchors": [
@@ -1014428,9 +1014428,9 @@
               "ActorAttribution": {
                 "Status": "identified-unlinked-master",
                 "Kind": "named earlier master in inherited fork encounter",
-                "ActorLabel": "Mimo (??)",
+                "ActorLabel": "Mimo (the earlier fork-holding master)",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "The old case names ??/???? as the fork holder who says the exact pair.",
+                "GrammarEvidence": "J26nB177, J39nB454 and J40nB493 name Mimo as the elder holding a fork who says the headword to a visitor. X72n1444 calls him only the fork-holding elder; its identification as Mimo uses the corresponding named cases rather than a name printed in that window. Later current-master criticism, autobiography and substitute replies occur outside the old quotation. No separate matching personal row was found in the read-only roster.",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -1014453,7 +1014453,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded sayings. Poshan recounts Mimo's wooden fork challenge and tests why few visitors met its use.",
+              "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan takes up a bell mallet in the practice hall and says each stroke draws blood; when no one comes forward, he remarks that frightening people away is easier than beating them away. He then recounts Mimo holding an iron fork against visitors and giving the headword, urging an immediate answer. A monk hides the fork, and mocks him when he cannot find it. Poshan judges both Mimo's dependence on the fork and the monk's clever response, then acknowledges that his own mallet too is borrowed. Raising a fist, he points to something not borrowed, while warning against bondage to familiar sayings. Mimo owns the quoted threat; the fist and practical admonition are Poshan's present answer to the case.",
               "ClaimText": "道得也叉下死，道不得也叉下死"
             },
             {
@@ -1014465,9 +1014465,9 @@
               "ActorAttribution": {
                 "Status": "identified-unlinked-master",
                 "Kind": "named earlier master in inherited fork encounter",
-                "ActorLabel": "Mimo (??)",
+                "ActorLabel": "Mimo (the earlier fork-holding master)",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "The old case names ??/???? as the fork holder who says the exact pair.",
+                "GrammarEvidence": "J26nB177, J39nB454 and J40nB493 name Mimo as the elder holding a fork who says the headword to a visitor. X72n1444 calls him only the fork-holding elder; its identification as Mimo uses the corresponding named cases rather than a name printed in that window. Later current-master criticism, autobiography and substitute replies occur outside the old quotation. No separate matching personal row was found in the read-only roster.",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -1014490,7 +1014490,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J39/J39nB454.xml). Recorded sayings. Pinjixiang says Mimo's fork saying helped him break through a long blockage, then addresses his audience.",
+              "AttributionNote": "Source record (J/J39/J39nB454.xml). Recorded Sayings of Chan Master Pinjixiang. Pinjixiang describes his own training: after an initial clean openness, his teacher pushed him into a field of difficulties, and for seven or eight years every movement still caught on something. Reading Mimo's wooden-fork challenge together with a later elder's comment, 'Fabricated elders are as numerous as hemp and millet,' he suddenly felt as though he had jumped free of a net. He says the previous obstructions were swept away and relates this to his present use of the ceremonial scepter. He then sharply distinguishes such work from taking a drowsy glimpse of light as realization and learning stock comments. Mimo is the quoted old speaker; the later comment and Pinjixiang's autobiographical response are separate layers.",
               "ClaimText": "道得也叉下死，道不得也叉下死"
             },
             {
@@ -1014502,9 +1014502,9 @@
               "ActorAttribution": {
                 "Status": "identified-unlinked-master",
                 "Kind": "named earlier master in inherited fork encounter",
-                "ActorLabel": "Mimo (??)",
+                "ActorLabel": "Mimo (the earlier fork-holding master)",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "The old case names ??/???? as the fork holder who says the exact pair.",
+                "GrammarEvidence": "J26nB177, J39nB454 and J40nB493 name Mimo as the elder holding a fork who says the headword to a visitor. X72n1444 calls him only the fork-holding elder; its identification as Mimo uses the corresponding named cases rather than a name printed in that window. Later current-master criticism, autobiography and substitute replies occur outside the old quotation. No separate matching personal row was found in the read-only roster.",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -1014519,7 +1014519,7 @@
               },
               "Curated": true,
               "ContextMasters": [],
-              "AttributionNote": "Source record (J/J40/J40nB493.xml). Recorded sayings. Pufuzhuo quotes Mimo's exact fork challenge and offers his own reply in the old case.",
+              "AttributionNote": "Source record (J/J40/J40nB493.xml). Recorded Sayings of Chan Master Pufuzhuo of Muketing, Qingshan. In Pufu's section of substitute answers to old cases, the named elder of Mimo Cliff on Mount Wutai holds a wooden fork against a visiting monk's neck. He asks what demon made the monk leave home and travel, then gives the headword and demands a swift answer. The monk has none. Pufu supplies an answer in the monk's place: 'How can this old fellow shit and piss when he sees someone?' This is Pufu's deliberately coarse proposed response, not an answer recorded as actually spoken by the visitor. The headword belongs to the inherited fork-holder; the following case about Linji entering an army camp is separate.",
               "ClaimText": "道得也叉下死，道不得也叉下死"
             },
             {
@@ -1014531,9 +1014531,9 @@
               "ActorAttribution": {
                 "Status": "identified-unlinked-master",
                 "Kind": "named earlier master in inherited fork encounter",
-                "ActorLabel": "Mimo (??)",
+                "ActorLabel": "Mimo (the earlier fork-holding master)",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "The old case names ??/???? as the fork holder who says the exact pair.",
+                "GrammarEvidence": "J26nB177, J39nB454 and J40nB493 name Mimo as the elder holding a fork who says the headword to a visitor. X72n1444 calls him only the fork-holding elder; its identification as Mimo uses the corresponding named cases rather than a name printed in that window. Later current-master criticism, autobiography and substitute replies occur outside the old quotation. No separate matching personal row was found in the read-only roster.",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -1014556,7 +1014556,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X72/X72n1444.xml). Recorded sayings. Zhanran quotes the fork challenge and argues that the old master's ability seemed tied to the fork.",
+              "AttributionNote": "Source record (X/X72/X72n1444.xml). Recorded Sayings of Chan Master Zhanran Yuancheng. Zhanran recalls an elder who holds a wooden fork and says the headword. In this version, when someone hides the fork, the elder holds out both empty hands and opens his mouth with a shout. Zhanran says his resources are exhausted once the fork is gone. He then contrasts his own borrowed whisk, which has been reclaimed, with an upraised finger: here is something not borrowed and already shared by everyone, which those not yet realizing it should realize. He continues with spring farming and the need for everyone's effort before asking about further advance. This window calls the old speaker only the fork-holding elder; the name Mimo comes from the corresponding named recensions.",
               "ClaimText": "道得也叉下死，道不得也叉下死"
             }
           ],
@@ -1014572,7 +1014572,7 @@
             "Zhanran Yuancheng"
           ],
           "RelatedTerms": [],
-          "Explanation": "Mimo's fork allows no safe answer and no safe silence. Poshan retells the challenge, and Pinjixiang describes how meeting it changed his own investigation. Pufuzhuo supplies a reply, while Zhanran tests whether Mimo's gesture survives the loss of the fork."
+          "Explanation": "The fork-holder allows neither a successful answer nor failure to answer to count as a safe outcome: 'Say it and die beneath the fork; fail to say it and die beneath the fork.' He presses the visitor to speak at once. This is a reported teaching encounter, not a statement that each visitor was actually killed. Poshan and Zhanran ask what remains when the tool is removed, and contrast a borrowed implement with a bodily gesture that was not borrowed. Pinjixiang recounts a release from his own longstanding obstruction when reading the case together with a later elder's cutting comment. Pufu supplies a substitute reply for the monk who could not answer. The accounts differ materially: Poshan specifies an iron fork, while Pinjixiang and Pufu have a wooden one; Zhanran calls the speaker only the fork-holding elder, whose identification as Mimo depends on the matching named cases. Each note retains those differences and separates old words from current criticism or proposed answers."
         }
       ]
     },
