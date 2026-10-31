@@ -21418,7 +21418,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J33/J33nB281.xml). Recorded Sayings of Chan Master Zizhouchuan of Tanxi. Zizhou raises Dongming verse and asks what the earlier crossed hands accomplished."
+              "AttributionNote": "Source record (J/J33/J33nB281.xml). Recorded Sayings of Chan Master Zizhouchuan of Tanxi. In Zizhou Chuan's account, Baozang asks his student Dongming how to understand a challenge that mind is not Buddha and wisdom is not the way. Dongming offers a formal greeting with folded hands; Baozang rebukes him, and Dongming breaks through the following day and presents the verse about one punch shattering vast space. Dongming is the original verse speaker. Zizhou, the later record owner, comments that the earlier folded-hands response helped bring the breakthrough about but still left a mess; this is his distinctive appraisal of the inherited event, not a second occurrence of that breakthrough."
             },
             {
               "RelPath": "J/J37/J37nB371.xml",
@@ -21442,7 +21442,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J37/J37nB371.xml). Recorded Sayings of Chan Master Foyuan. Foyuan raises the verse and adds his own critical capping verse."
+              "AttributionNote": "Source record (J/J37/J37nB371.xml). Recorded Sayings of Chan Master Foyuan. Foyuan Chegang recounts the same older Dongming encounter with Baozang: the teacher rejects Dongming's folded-hands response, and the next day Dongming presents the verse about shattering vast space with one punch. Foyuan then caps the story with an image of fire exposing an old grave and a critical verse about clouded eyes. Dongming remains the exact speaker of the quoted headword; Foyuan is the present commentator using it to question how securely the celebrated realization was seen."
             },
             {
               "RelPath": "J/J38/J38nB427.xml",
@@ -21466,7 +21466,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J38/J38nB427.xml). Recorded Sayings of Chan Master Zhulangsheng of Qingcheng. Zhulang says breaking the sky could still be showmanship before an unknowing audience."
+              "AttributionNote": "Source record (J/J38/J38nB427.xml). Recorded Sayings of Chan Master Zhulangsheng of Qingcheng. Zhulang Chesheng retells Dongming's old exchange with Baozang and quotes the verse Dongming presented after the next day's breakthrough. Rather than merely praising its sky-shattering claim, Zhulang comments that even someone who has broken vast space might only be showing off before people who lack wisdom, then writes a verse of his own. Dongming is the headword's original speaker; Zhulang's separate appraisal tests the boast implied by the inherited image."
             },
             {
               "RelPath": "J/J40/J40nB478.xml",
@@ -21483,10 +21483,104 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J40/J40nB478.xml). Recorded Sayings of Chan Master Yan Jushen of Yunshan. Yunshan record follows Dongming verse with a present question and answer about breaking the sky."
+              "AttributionNote": "Source record (J/J40/J40nB478.xml). Recorded Sayings of Chan Master Yan Jushen of Yunshan. In the Yunshan Yan Jushen record, the old lineage story again names Baozang's rebuke of Dongming's folded-hands answer and quotes Dongming's verse after his later breakthrough. The surrounding entry then gives a separate question about how empty space can be broken, an answer with a finger snap, and a capping verse. The headword belongs to Dongming's historical poem; the later question and finger snap probe its image in this record. The local text does not identify a new speaker of the original two-line verse."
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J33/J33nB281.xml",
+              "FromLb": "0346a17",
+              "ToLb": "0346b08",
+              "Kwic": "，笑殺傍觀不二門。」第二十六世寶藏持禪師，久參萬峰，付法偈曰：「大愚肋下痛還拳，三要三玄絕正偏。臨濟窟中獅子子，燈燈續燄古今傳。」拈云：「不會教，不會禪，所以寶藏老漢續燄流芳。何故？賊不打貧兒家。」頌曰：「久侍無為露端的，窟中牙爪雷轟靂。南山雲起北山雨，旭日風光照破壁。」第二十七世東明旵禪師，親寶藏，藏問：「心不是佛、智不是道，汝云何會？」師向前問訊，叉手而立。藏曰：「汝在此許多時，還作這個是解？」師乃憤然。第二日，徹法源底，呈偈曰：「一拳打破太虛空，百億須彌不露蹤。借問個中誰是主？扶桑湧出一輪紅。」拈云：「東明老若不叉手，怎得打破太虛？然雖如是，狼藉不少。」頌曰：「如是憤然第二日，個中舒展露消息，原來漏逗遍坤維，桃花滿地多狼藉。」第二十八世海舟慈禪師，初參萬峰，舉《楞嚴經》「但有言說，都無實義」話再拜求，峰劈頭兩棒，攔背一踏，以腳趯云：「只這是實義。」師覺會，隱居洞庭山二十九年。一日，僧到。師問：「何處來？」僧曰：「安溪。」師云：「安溪有人麼？」僧曰：「有虛白和尚，說法不異高峰。」師云：「是誰弟",
+              "MasterName": "Dongming Huichan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Dongming Huichan",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Zizhou Chuan",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J33/J33nB281.xml). Recorded Sayings of Chan Master Zizhouchuan of Tanxi. In Zizhou Chuan's account, Baozang asks his student Dongming how to understand a challenge that mind is not Buddha and wisdom is not the way. Dongming offers a formal greeting with folded hands; Baozang rebukes him, and Dongming breaks through the following day and presents the verse about one punch shattering vast space. Dongming is the original verse speaker. Zizhou, the later record owner, comments that the earlier folded-hands response helped bring the breakthrough about but still left a mess; this is his distinctive appraisal of the inherited event, not a second occurrence of that breakthrough.",
+              "ClaimText": "一拳打破太虛空，百億須彌不露蹤"
+            },
+            {
+              "RelPath": "J/J37/J37nB371.xml",
+              "FromLb": "0048a17",
+              "ToLb": "0048b09",
+              "Kwic": "飄洋從險客，瞎驢瞎馬一齊收。」第二十六世寶藏持禪師。參萬峰，峰付法偈曰：「大愚肋下痛還拳，三要三玄絕正偏；臨濟窟中獅子子，燈燈續焰古今傳。」拈云：「還識窟中獅子麼？直饒識得，未免頭大尾細。」頌曰：「平陽滿地霜消盡，正是桃花水漲時。瓦礫庭前曾失色，金鵝浴便射高枝。」第二十七世東明旵禪師。參寶藏，藏問云：「心不是佛，智不是道，汝云何會？」師向前問訊，叉手而立。藏云：「汝在此許多時，還作者個見解。」師乃憤然。至第二日，驀然徹法源底，呈偈云：「一拳打破太虛空，百億須彌不露蹤，借問個中誰是主？榑桑迸出一輪紅。」拈云：「夜來何處火？燒出古人墳。」頌曰：「花下貓兒擺尾巴，蝦蟆相並奏胡笳。看來兩眼重添翳，日涌榑桑定不差。」第二十八世海舟慈禪師。參萬峰，舉《楞嚴經》但有言說，終非實義話，再拜求明。峰劈頭兩棒，攔背一蹋，以腳趯云：「秖者是實義。」師覺有會，隱居洞庭山二十九載。一僧到，問：「當日有何所見，遂隱于此？」師曰：「吾昔問萬峰：『但有言說，都無實義。』峰便打。從此有得，更不別參。」僧曰：「請言得之所已。」師曰：",
+              "MasterName": "Dongming Huichan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Dongming Huichan",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Foyuan Chegang",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J37/J37nB371.xml). Recorded Sayings of Chan Master Foyuan. Foyuan Chegang recounts the same older Dongming encounter with Baozang: the teacher rejects Dongming's folded-hands response, and the next day Dongming presents the verse about shattering vast space with one punch. Foyuan then caps the story with an image of fire exposing an old grave and a critical verse about clouded eyes. Dongming remains the exact speaker of the quoted headword; Foyuan is the present commentator using it to question how securely the celebrated realization was seen.",
+              "ClaimText": "一拳打破太虛空，百億須彌不露蹤"
+            },
+            {
+              "RelPath": "J/J38/J38nB427.xml",
+              "FromLb": "0899a11",
+              "ToLb": "0899b02",
+              "Kwic": "丘，信手拈來不易酬，三獻楚王仍不識，秪因價重等閻浮。」第二十六世寶藏持禪師，參萬峰，峰付法偈曰：「大愚肋下痛還拳，三要三玄絕正偏。臨濟窟中師子子，燈燈續焰古今傳。」拈云：「如水投水，似空合空。」頌云：「兔角杖能挑日月，龜毛繩解縛龍蛇。平沉宇宙囂氛盡，祖禰相承是當家。」第二十七世東明旵禪師，參寶藏，藏問云：「心不是佛，智不是道，汝云何會？」師向前問訊，叉手而立。藏云：「汝在此許多時，還作者個見解？」師乃憤然。至第二日，驀然打徹，呈偈云：「一拳打破太虛空，百億須彌不露蹤。借問個中誰是主，扶桑迸出一輪紅。」拈云：「直饒打破太虛空，僅可無智人前賣弄。」頌云：「七竅初分漸別離，無陰陽地驀逢渠。從今結個忘年友，起坐相隨不放伊。」第二十八世海舟慈禪師，參萬峰，舉《楞嚴經》但有言說都無實義話求決，峰劈口兩棒，攔背一蹋趯，云：「者是實義。」師覺有會，隱居洞庭山二十九載。僧問：「當日有何所見隱于此？」師曰：「昔問萬峰：『但有言說，都無實義。』峰便打，從此不別參。」僧曰：「請言所以。」師曰：「但要人知痛癢是實義？是妙心",
+              "MasterName": "Dongming Huichan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Dongming Huichan",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Zhulang Chesheng",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J38/J38nB427.xml). Recorded Sayings of Chan Master Zhulangsheng of Qingcheng. Zhulang Chesheng retells Dongming's old exchange with Baozang and quotes the verse Dongming presented after the next day's breakthrough. Rather than merely praising its sky-shattering claim, Zhulang comments that even someone who has broken vast space might only be showing off before people who lack wisdom, then writes a verse of his own. Dongming is the headword's original speaker; Zhulang's separate appraisal tests the boast implied by the inherited image.",
+              "ClaimText": "一拳打破太虛空，百億須彌不露蹤"
+            },
+            {
+              "RelPath": "J/J40/J40nB478.xml",
+              "FromLb": "0097c20",
+              "ToLb": "0098a09",
+              "Kwic": "瞎瞎，燈籠露柱鬧啾啾。第廿六世寶藏普持禪師，萬峰付師偈曰：「大愚肋下痛還拳，三要三玄絕正偏；臨濟窟中獅子子，燈燈續燄古今傳。」問：「如何是窟中獅子？」答：「駭殺人。」頌：臨濟窟中獅子子，吟風嘯月何其美。逢人露爪奮全威，一唼血流千萬里。第廿七世東明慧旵禪師，湖廣王氏子。參寶藏持，一日持問：「心不是佛，智不是道，汝云何會？」旵向前問訊，叉手而立。持呵之曰：「汝在此許多時，還作這箇見解？」師乃發憤，忘寢食。至第二日，驀然徹法源底。遂呈偈曰：「一拳打破太虛空，百億須彌不露蹤。借問箇中誰是主？扶桑湧出一輪紅。」持笑曰：「雖然如是，也須善自護持。」問：「虛空作麼生打破？」答：「彈指云：『破也，破也。』」頌：打破虛空秪一拳，頂門擊碎髑髏穿，須彌倒走無蹤跡，明月蘆花色儼然。第廿八世海舟普慈禪師，常熟錢氏子。因聽《楞嚴》「但有言說，都無實義」，乃曰：「言說今日愈多。」遂參萬峰蔚，拜求示實義。蔚便劈頭兩棒，攔背兩踏，復兩踢，曰：「只者是實義。」慈曰：「好則好，太費和尚心力。」蔚與偈，自以為得，遂廬於洞庭。廿九年，有僧",
+              "MasterName": "Dongming Huichan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Dongming Huichan",
+                  "Roles": [
+                    "utterer"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J40/J40nB478.xml). Recorded Sayings of Chan Master Yan Jushen of Yunshan. In the Yunshan Yan Jushen record, the old lineage story again names Baozang's rebuke of Dongming's folded-hands answer and quotes Dongming's verse after his later breakthrough. The surrounding entry then gives a separate question about how empty space can be broken, an answer with a finger snap, and a capping verse. The headword belongs to Dongming's historical poem; the later question and finger snap probe its image in this record. The local text does not identify a new speaker of the original two-line verse.",
+              "ClaimText": "一拳打破太虛空，百億須彌不露蹤"
+            }
+          ],
           "SourceTexts": [
             "J/J33/J33nB281.xml",
             "J/J37/J37nB371.xml",
@@ -21500,7 +21594,7 @@
             "Zhulang Chesheng"
           ],
           "RelatedTerms": [],
-          "Explanation": "Dongming verse declares a sudden breakthrough in response to Baozang challenge. Zizhou and Foyuan use their own comments to assess the claim rather than simply repeat the biography. Zhulang questions showing off; Yunshan supplies a present answer to the question the verse leaves open."
+          "Explanation": "Dongming presents the sky-shattering poem after Baozang rebukes his folded-hands answer; four later records quote this one breakthrough and appraise it in distinct ways. In Zizhou Chuan's account, Baozang asks his student Dongming how to understand a challenge that mind is not Buddha and wisdom is not the way. Dongming offers a formal greeting with folded hands; Baozang rebukes him, and Dongming breaks through the following day and presents the verse about one punch shattering vast space. Dongming is the original verse speaker. Zizhou, the later record owner, comments that the earlier folded-hands response helped bring the breakthrough about but still left a mess; this is his distinctive appraisal of the inherited event, not a second occurrence of that breakthrough. Foyuan Chegang recounts the same older Dongming encounter with Baozang: the teacher rejects Dongming's folded-hands response, and the next day Dongming presents the verse about shattering vast space with one punch. Foyuan then caps the story with an image of fire exposing an old grave and a critical verse about clouded eyes. Dongming remains the exact speaker of the quoted headword; Foyuan is the present commentator using it to question how securely the celebrated realization was seen. Zhulang Chesheng retells Dongming's old exchange with Baozang and quotes the verse Dongming presented after the next day's breakthrough. Rather than merely praising its sky-shattering claim, Zhulang comments that even someone who has broken vast space might only be showing off before people who lack wisdom, then writes a verse of his own. Dongming is the headword's original speaker; Zhulang's separate appraisal tests the boast implied by the inherited image. In the Yunshan Yan Jushen record, the old lineage story again names Baozang's rebuke of Dongming's folded-hands answer and quotes Dongming's verse after his later breakthrough. The surrounding entry then gives a separate question about how empty space can be broken, an answer with a finger snap, and a capping verse. The headword belongs to Dongming's historical poem; the later question and finger snap probe its image in this record. The local text does not identify a new speaker of the original two-line verse."
         }
       ]
     },
@@ -22474,7 +22568,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an says a keen person turns at one nudge and accepts a heavy task without hesitation."
+              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng recounts a practical discussion about hauling a heavy stone uphill: a large crew with uneven effort makes the job harder, while the temple monks can act with shared strength and attention. He tells the assembly that their own task works the same way. Some people cling to a good path without deciding; a keen person turns at one nudge, takes responsibility and carries even a great burden home. Tian'an then tells them all to return to the hall for tea. The headword describes that decisive response within his stone-hauling analogy."
             },
             {
               "RelPath": "J/J28/J28nB208.xml",
@@ -22492,7 +22586,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue says a keen monk turns at one cue without drawing new boundaries or stages."
+              "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue Zhenzhe tells his assembly that every person and every place participates in the same clear matter, then cites an older line about entering the gate of trust and reaching the ancestral position. He says even this explanation throws sand into listeners' eyes. A keen monk turns at one nudge rather than drawing fixed stages and extra boundaries, he adds, though he closes with an image of enduring winter cold before smelling plum blossoms. Guxue voices the headword as a challenge to a rigid timetable, not as a claim that effort never occurs."
             },
             {
               "RelPath": "J/J38/J38nB410.xml",
@@ -22510,7 +22604,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J38/J38nB410.xml). Recorded Sayings of Chan Master Lianfeng. Lianfeng says people of differing stations can turn with one prompt and understand on hearing."
+              "AttributionNote": "Source record (J/J38/J38nB410.xml). Recorded Sayings of Chan Master Lianfeng. At a hall address requested by lay hosts while visiting the teacher Wuyi at Yongqing Temple, Lianfeng Su says that knowing companions need no elaborate signal. He extends this to the inherited Buddha and patriarch seal: whether scholar, monk or layperson, one can turn at a nudge and understand on hearing. He offers the talk as a birthday blessing and a return of kindness to parents, then asks what it would mean to meet someone who has long stayed at home. Lianfeng is the present speaker; the quick turn is his description of the listeners' possible response."
             },
             {
               "RelPath": "J/J25/J25nB174.xml",
@@ -22528,7 +22622,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. Juelang says the upward mechanism turns at one nudge and the living line opens at one touch."
+              "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. In a hall address requested by official Chen, Juelang Daosheng declares that the highest mechanism turns at one nudge and that a living line can be opened with one touch. He imagines stirring the four seas with his ceremonial ruyi and asks how living fish and dragons depend on the lifeless water, then asks whether the knowing mind and known life are the same or different. He strikes the ruyi and gives a startling image of the monastery gate riding the Buddha hall. The headword starts Juelang's active test, rather than describing a literal machine."
             },
             {
               "RelPath": "J/J34/J34nB300.xml",
@@ -22546,7 +22640,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong. Chaozong calls a responding monk quick to turn at one nudge, then presses him again."
+              "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong. An unnamed monk asks Chaozong Tongren how he can speak from the seat if the Buddha supposedly taught for forty-nine years without uttering a word. Chaozong answers that this is precisely what is unsaid. When the monk bows, Chaozong calls him a keen monk who turns at one nudge; the monk then asks about a higher line, and Chaozong says he has become dull. The headword is Chaozong's momentary appraisal of the monk's response, qualified by the next question."
             },
             {
               "RelPath": "J/J35/J35nB340.xml",
@@ -22564,7 +22658,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J35/J35nB340.xml). Recorded Sayings of Chan Master Huijueyi. Huijue says a keen monk needs one nudge, unlike a dull listener who will not turn after three prods."
+              "AttributionNote": "Source record (J/J35/J35nB340.xml). Recorded Sayings of Chan Master Huijueyi. In a hall address, Huijue Yi says that a capable monk needs only one nudge to turn, whereas a stubborn listener may fail to turn even after three prods. He then asks what the quick turn looks like and slaps the table, following the action with a line about raising the ancient path through one's bearing. The headword is Huijue's contrast between responsiveness and stubbornness; the table action is his immediate answer to the question he himself poses."
             },
             {
               "RelPath": "J/J40/J40nB490.xml",
@@ -22582,7 +22676,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J40/J40nB490.xml). Recorded Sayings of Chan Master Suruhan of Boshan. Suru calls the questioner a true lion cub who turns at one prompt."
+              "AttributionNote": "Source record (J/J40/J40nB490.xml). Recorded Sayings of Chan Master Suruhan of Boshan. At a New Year hall address, a monk asks Suru Honghan for a phrase of the new spring. After Suru's reply, the monk cites the new daylight and an old lamp; Suru asks what he calls a lamp. The monk answers with a line about one who knows needing no repeated hint, and Suru calls him a true lion cub who turns at one nudge. Suru then continues his seasonal sermon and imitates a mountain bird. The headword is Suru's direct praise of this monk's response, before the separate bird demonstration."
             }
           ],
           "ClaimAnchors": [
@@ -22602,7 +22696,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an says a keen person turns at one nudge and accepts a heavy task without hesitation.",
+              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng recounts a practical discussion about hauling a heavy stone uphill: a large crew with uneven effort makes the job harder, while the temple monks can act with shared strength and attention. He tells the assembly that their own task works the same way. Some people cling to a good path without deciding; a keen person turns at one nudge, takes responsibility and carries even a great burden home. Tian'an then tells them all to return to the hall for tea. The headword describes that decisive response within his stone-hauling analogy.",
               "ClaimText": "若是伶俐漢，一撥便轉，發大勇猛"
             },
             {
@@ -22621,7 +22715,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue says a keen monk turns at one cue without drawing new boundaries or stages.",
+              "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue Zhenzhe tells his assembly that every person and every place participates in the same clear matter, then cites an older line about entering the gate of trust and reaching the ancestral position. He says even this explanation throws sand into listeners' eyes. A keen monk turns at one nudge rather than drawing fixed stages and extra boundaries, he adds, though he closes with an image of enduring winter cold before smelling plum blossoms. Guxue voices the headword as a challenge to a rigid timetable, not as a claim that effort never occurs.",
               "ClaimText": "若是𠠢利衲僧，一撥便轉"
             },
             {
@@ -22640,7 +22734,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J38/J38nB410.xml). Recorded Sayings of Chan Master Lianfeng. Lianfeng says people of differing stations can turn with one prompt and understand on hearing.",
+              "AttributionNote": "Source record (J/J38/J38nB410.xml). Recorded Sayings of Chan Master Lianfeng. At a hall address requested by lay hosts while visiting the teacher Wuyi at Yongqing Temple, Lianfeng Su says that knowing companions need no elaborate signal. He extends this to the inherited Buddha and patriarch seal: whether scholar, monk or layperson, one can turn at a nudge and understand on hearing. He offers the talk as a birthday blessing and a return of kindness to parents, then asks what it would mean to meet someone who has long stayed at home. Lianfeng is the present speaker; the quick turn is his description of the listeners' possible response.",
               "ClaimText": "不論儒釋仕民，一撥便轉、一聞便悟"
             },
             {
@@ -22659,7 +22753,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. Juelang says the upward mechanism turns at one nudge and the living line opens at one touch.",
+              "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. In a hall address requested by official Chen, Juelang Daosheng declares that the highest mechanism turns at one nudge and that a living line can be opened with one touch. He imagines stirring the four seas with his ceremonial ruyi and asks how living fish and dragons depend on the lifeless water, then asks whether the knowing mind and known life are the same or different. He strikes the ruyi and gives a startling image of the monastery gate riding the Buddha hall. The headword starts Juelang's active test, rather than describing a literal machine.",
               "ClaimText": "向上機關一撥便轉；十方慧命一點即通"
             },
             {
@@ -22678,7 +22772,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong. Chaozong calls a responding monk quick to turn at one nudge, then presses him again.",
+              "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong. An unnamed monk asks Chaozong Tongren how he can speak from the seat if the Buddha supposedly taught for forty-nine years without uttering a word. Chaozong answers that this is precisely what is unsaid. When the monk bows, Chaozong calls him a keen monk who turns at one nudge; the monk then asks about a higher line, and Chaozong says he has become dull. The headword is Chaozong's momentary appraisal of the monk's response, qualified by the next question.",
               "ClaimText": "伶俐衲僧，一撥便轉"
             },
             {
@@ -22697,7 +22791,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J35/J35nB340.xml). Recorded Sayings of Chan Master Huijueyi. Huijue says a keen monk needs one nudge, unlike a dull listener who will not turn after three prods.",
+              "AttributionNote": "Source record (J/J35/J35nB340.xml). Recorded Sayings of Chan Master Huijueyi. In a hall address, Huijue Yi says that a capable monk needs only one nudge to turn, whereas a stubborn listener may fail to turn even after three prods. He then asks what the quick turn looks like and slaps the table, following the action with a line about raising the ancient path through one's bearing. The headword is Huijue's contrast between responsiveness and stubbornness; the table action is his immediate answer to the question he himself poses.",
               "ClaimText": "只消一撥便轉，可憐孟八郎漢抵死三撻不回"
             },
             {
@@ -22716,7 +22810,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J40/J40nB490.xml). Recorded Sayings of Chan Master Suruhan of Boshan. Suru calls the questioner a true lion cub who turns at one prompt.",
+              "AttributionNote": "Source record (J/J40/J40nB490.xml). Recorded Sayings of Chan Master Suruhan of Boshan. At a New Year hall address, a monk asks Suru Honghan for a phrase of the new spring. After Suru's reply, the monk cites the new daylight and an old lamp; Suru asks what he calls a lamp. The monk answers with a line about one who knows needing no repeated hint, and Suru calls him a true lion cub who turns at one nudge. Suru then continues his seasonal sermon and imitates a mountain bird. The headword is Suru's direct praise of this monk's response, before the separate bird demonstration.",
               "ClaimText": "誠獅子兒，一撥便轉"
             }
           ],
@@ -22739,7 +22833,7 @@
             "Suru Honghan"
           ],
           "RelatedTerms": [],
-          "Explanation": "One nudge and they turn: Chan speakers use this image for someone who catches a cue and shifts without repeated prompting. Tian'an Sheng compares an able person's turn with carrying a heavy stone efficiently rather than stumbling through it. Guxue Zhenzhe says a keen monk turns at one nudge instead of relying on formal stages. Lianfeng Su says people of varied stations can catch the inherited teaching with one prompt. Juelang Daosheng says an upward mechanism turns with one nudge in his invited address. Chaozong Tongren calls a monk quick to turn after the monk responds to a question. Huijue Yi contrasts the keen monk's one-nudge turn with a slow one who does not turn after three prods. Suru Honghan praises a questioner's response as the turn of a lion cub at a single prompt."
+          "Explanation": "One nudge is enough to turn a keen listener: seven teachers use the phrase to press or praise an immediate response in distinct addresses and exchanges. Tian'an Sheng recounts a practical discussion about hauling a heavy stone uphill: a large crew with uneven effort makes the job harder, while the temple monks can act with shared strength and attention. He tells the assembly that their own task works the same way. Some people cling to a good path without deciding; a keen person turns at one nudge, takes responsibility and carries even a great burden home. Tian'an then tells them all to return to the hall for tea. The headword describes that decisive response within his stone-hauling analogy. Guxue Zhenzhe tells his assembly that every person and every place participates in the same clear matter, then cites an older line about entering the gate of trust and reaching the ancestral position. He says even this explanation throws sand into listeners' eyes. A keen monk turns at one nudge rather than drawing fixed stages and extra boundaries, he adds, though he closes with an image of enduring winter cold before smelling plum blossoms. Guxue voices the headword as a challenge to a rigid timetable, not as a claim that effort never occurs. At a hall address requested by lay hosts while visiting the teacher Wuyi at Yongqing Temple, Lianfeng Su says that knowing companions need no elaborate signal. He extends this to the inherited Buddha and patriarch seal: whether scholar, monk or layperson, one can turn at a nudge and understand on hearing. He offers the talk as a birthday blessing and a return of kindness to parents, then asks what it would mean to meet someone who has long stayed at home. Lianfeng is the present speaker; the quick turn is his description of the listeners' possible response. In a hall address requested by official Chen, Juelang Daosheng declares that the highest mechanism turns at one nudge and that a living line can be opened with one touch. He imagines stirring the four seas with his ceremonial ruyi and asks how living fish and dragons depend on the lifeless water, then asks whether the knowing mind and known life are the same or different. He strikes the ruyi and gives a startling image of the monastery gate riding the Buddha hall. The headword starts Juelang's active test, rather than describing a literal machine. An unnamed monk asks Chaozong Tongren how he can speak from the seat if the Buddha supposedly taught for forty-nine years without uttering a word. Chaozong answers that this is precisely what is unsaid. When the monk bows, Chaozong calls him a keen monk who turns at one nudge; the monk then asks about a higher line, and Chaozong says he has become dull. The headword is Chaozong's momentary appraisal of the monk's response, qualified by the next question. In a hall address, Huijue Yi says that a capable monk needs only one nudge to turn, whereas a stubborn listener may fail to turn even after three prods. He then asks what the quick turn looks like and slaps the table, following the action with a line about raising the ancient path through one's bearing. The headword is Huijue's contrast between responsiveness and stubbornness; the table action is his immediate answer to the question he himself poses. At a New Year hall address, a monk asks Suru Honghan for a phrase of the new spring. After Suru's reply, the monk cites the new daylight and an old lamp; Suru asks what he calls a lamp. The monk answers with a line about one who knows needing no repeated hint, and Suru calls him a true lion cub who turns at one nudge. Suru then continues his seasonal sermon and imitates a mountain bird. The headword is Suru's direct praise of this monk's response, before the separate bird demonstration."
         }
       ]
     },
