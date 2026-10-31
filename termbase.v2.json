@@ -1078823,7 +1078823,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "The cloud over the ridge seems endlessly idle, while water down the ravine is all motion. Cian and Zhantang use the pair in direct present speech. Baiyun invokes it while discussing an old exchange; Hengchuan answers a saying about illusion with the same contrast. The scene makes each side vivid without ranking the cloud over the stream.",
+          "Note": "Cian, Zhantang and Hengchuan voice the couplet directly in their own teaching. Baiyun explicitly cites an earlier saying while commenting on Dongshan and the Liuyang hermit; that local unit does not name its original speaker. The paired scene does not supply a fixed ranking of leisure over activity or a secure mapping of each image to a particular person.",
           "Occurrences": [
             {
               "RelPath": "X/X68/X68n1318.xml",
@@ -1078842,7 +1078842,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X68/X68n1318.xml). Recorded sayings. Cian voices the pair as his own answer to a question at a memorial sermon."
+              "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. For an offering in memory of a mother, Cian Shoujing takes up the claim that extinguishing troubles quenches sorrow's fire and severing attachment dries up love's river. If all space is sorrow's fire, where could it be extinguished? If the whole earth is love's river, how could it run dry? He asks whether the listeners understand, then gives the idle ridge cloud and busy ravine water. He goes on to speak of relinquishing bad destinations and seeking awakening, only to ask about escaping both taking and rejecting. The couplet is Cian's present answer within this memorial instruction, not words spoken by the deceased or the donor. Its continued cloud and water activity resists making liberation depend on removing a bounded patch of feeling or landscape; the source does not explicitly identify one half as right and the other as wrong."
             },
             {
               "RelPath": "X/X68/X68n1319.xml",
@@ -1078861,7 +1078861,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X68/X68n1319.xml). Recorded sayings. Zhantang speaks the pair directly to a visiting monk who comes to greet him."
+              "AttributionNote": "Source record (X/X68/X68n1319.xml). Imperially Selected Recorded Sayings. Zhantang Wenzhun asks a visiting monk what he has come for. The monk says he has come specifically to greet the teacher. Zhantang answers with the ridge cloud that cannot finish being idle and the ravine water that is excessively busy. The monk objects that the teacher should not deceive people. Zhantang then asks why Master Ma has passed beneath the monk's heels. When the monk has no answer, Zhantang says it is the monk who has deceived him. The headword belongs to Zhantang's direct reply, while the objection and silence belong to the visitor. The contrast turns a polite arrival into an immediate test; the continuation does not certify greeting the abbot as understanding or explain the two images as a fixed division between teacher and student."
             },
             {
               "RelPath": "X/X69/X69n1352.xml",
@@ -1078873,7 +1078873,7 @@
                 "Status": "reviewed-unnamed",
                 "Kind": "inherited saying with unresolved speaker",
                 "ActorLabel": "Earlier speaker of the cited saying",
-                "GrammarEvidence": "Baiyun introduces the pair with an earlier saying marker and adds his own interpretation of Dongshan and the hermit.",
+                "GrammarEvidence": "Baiyun introduces the exact pair with an unnamed citation marker after his assessment of Dongshan and the hermit. No personal speaker is supplied for this citation. The line, expanded case, Baiyun source section, book title and TEI container do not name its earlier speaker. Bounded exact concordance yields 11 hits in 9 works: retained direct Cian/Zhantang/Hengchuan uses, Baiyun repeated in X64, distinct Yuanwu and Tianjing uses, and one later sermon copied in X82/X84/X85. These are named applications or transports, not a unique source identifying Baiyun's original quoted speaker.",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -1078884,7 +1078884,8 @@
                 ],
                 "ReviewedBy": "Sol source-first author",
                 "ReviewedUtc": "2026-10-29T12:00:00Z",
-                "AuthoredVoiceRiskReviewed": true
+                "AuthoredVoiceRiskReviewed": true,
+                "ActorRole": "utterer"
               },
               "Curated": true,
               "ContextMasters": [
@@ -1078896,7 +1078897,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X69/X69n1352.xml). Recorded sayings. Baiyun cites the pair as an earlier saying while interpreting Dongshan and the hermit, adding his own present comment."
+              "AttributionNote": "Source record (X/X69/X69n1352.xml). Expanded Record of Chan Master Baiyun Shouduan. Baiyun Shouduan raises Dongshan's direction to go at summer's end to a place without a blade of grass for ten thousand miles. A monk reports it to the Liuyang hermit, who answers that stepping outside already meets grass. Baiyun says seeing either teacher allows one to see the other, yet the hermit is harder to see because he is not tied by the responsibilities of abbacy. He then introduces the cloud-and-water couplet as an earlier saying. Its exact earlier speaker is not named in this unit, while Baiyun owns the comparison of the two teachers. The contrasting images sharpen that comparison without requiring an exclusive identification of cloud with one man and water with the other. Named current reuses in other works do not, by themselves, establish the original speaker of Baiyun's citation."
             },
             {
               "RelPath": "X/X71/X71n1411.xml",
@@ -1078915,7 +1078916,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X71/X71n1411.xml). Recorded sayings. Hengchuan voices the pair as his response to Yunmen's saying on illusion and freedom; the roster explicitly lists Xinggong as his alias."
+              "AttributionNote": "Source record (X/X71/X71n1411.xml). Recorded Sayings of Chan Master Hengchuan Xinggong. Hengchuan Rugong raises Yunmen's saying about illusion, bubbles and unobstructed functioning, including its refusal to find either illusion or unobstructedness as something fixed in every place. Hengchuan answers with the idle ridge cloud and busy ravine water. He then takes up his staff and says that all is illusion and none is illusion, all is unobstructed and none is unobstructed. The headword is Hengchuan's present response; the preceding formulation belongs to quoted Yunmen. The ensuing paired affirmations and denials prevent the scenic contrast from settling into a choice between stillness and activity or into a final object called freedom. No audience reply is recorded here. The following Baizhang digging-and-drum story begins a separate hall address and should not be made a further turn in this exchange."
             }
           ],
           "ClaimAnchors": [
@@ -1078936,7 +1078937,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X68/X68n1318.xml). Recorded sayings. Cian voices the pair as his own answer to a question at a memorial sermon.",
+              "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. For an offering in memory of a mother, Cian Shoujing takes up the claim that extinguishing troubles quenches sorrow's fire and severing attachment dries up love's river. If all space is sorrow's fire, where could it be extinguished? If the whole earth is love's river, how could it run dry? He asks whether the listeners understand, then gives the idle ridge cloud and busy ravine water. He goes on to speak of relinquishing bad destinations and seeking awakening, only to ask about escaping both taking and rejecting. The couplet is Cian's present answer within this memorial instruction, not words spoken by the deceased or the donor. Its continued cloud and water activity resists making liberation depend on removing a bounded patch of feeling or landscape; the source does not explicitly identify one half as right and the other as wrong.",
               "ClaimText": "雲在嶺頭閒不徹，水流㵎下太忙生"
             },
             {
@@ -1078956,7 +1078957,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X68/X68n1319.xml). Recorded sayings. Zhantang speaks the pair directly to a visiting monk who comes to greet him.",
+              "AttributionNote": "Source record (X/X68/X68n1319.xml). Imperially Selected Recorded Sayings. Zhantang Wenzhun asks a visiting monk what he has come for. The monk says he has come specifically to greet the teacher. Zhantang answers with the ridge cloud that cannot finish being idle and the ravine water that is excessively busy. The monk objects that the teacher should not deceive people. Zhantang then asks why Master Ma has passed beneath the monk's heels. When the monk has no answer, Zhantang says it is the monk who has deceived him. The headword belongs to Zhantang's direct reply, while the objection and silence belong to the visitor. The contrast turns a polite arrival into an immediate test; the continuation does not certify greeting the abbot as understanding or explain the two images as a fixed division between teacher and student.",
               "ClaimText": "雲在嶺頭閒不徹，水流㵎下太忙生"
             },
             {
@@ -1078969,7 +1078970,7 @@
                 "Status": "reviewed-unnamed",
                 "Kind": "inherited saying with unresolved speaker",
                 "ActorLabel": "Earlier speaker of the cited saying",
-                "GrammarEvidence": "Baiyun introduces the pair with an earlier saying marker and adds his own interpretation of Dongshan and the hermit.",
+                "GrammarEvidence": "Baiyun introduces the exact pair with an unnamed citation marker after his assessment of Dongshan and the hermit. No personal speaker is supplied for this citation. The line, expanded case, Baiyun source section, book title and TEI container do not name its earlier speaker. Bounded exact concordance yields 11 hits in 9 works: retained direct Cian/Zhantang/Hengchuan uses, Baiyun repeated in X64, distinct Yuanwu and Tianjing uses, and one later sermon copied in X82/X84/X85. These are named applications or transports, not a unique source identifying Baiyun's original quoted speaker.",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -1078980,7 +1078981,8 @@
                 ],
                 "ReviewedBy": "Sol source-first author",
                 "ReviewedUtc": "2026-10-29T12:00:00Z",
-                "AuthoredVoiceRiskReviewed": true
+                "AuthoredVoiceRiskReviewed": true,
+                "ActorRole": "utterer"
               },
               "Curated": true,
               "ContextMasters": [
@@ -1078992,7 +1078994,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X69/X69n1352.xml). Recorded sayings. Baiyun cites the pair as an earlier saying while interpreting Dongshan and the hermit, adding his own present comment.",
+              "AttributionNote": "Source record (X/X69/X69n1352.xml). Expanded Record of Chan Master Baiyun Shouduan. Baiyun Shouduan raises Dongshan's direction to go at summer's end to a place without a blade of grass for ten thousand miles. A monk reports it to the Liuyang hermit, who answers that stepping outside already meets grass. Baiyun says seeing either teacher allows one to see the other, yet the hermit is harder to see because he is not tied by the responsibilities of abbacy. He then introduces the cloud-and-water couplet as an earlier saying. Its exact earlier speaker is not named in this unit, while Baiyun owns the comparison of the two teachers. The contrasting images sharpen that comparison without requiring an exclusive identification of cloud with one man and water with the other. Named current reuses in other works do not, by themselves, establish the original speaker of Baiyun's citation.",
               "ClaimText": "雲在嶺頭閒不徹，水流㵎下太忙生"
             },
             {
@@ -1079012,7 +1079014,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X71/X71n1411.xml). Recorded sayings. Hengchuan voices the pair as his response to Yunmen's saying on illusion and freedom; the roster explicitly lists Xinggong as his alias.",
+              "AttributionNote": "Source record (X/X71/X71n1411.xml). Recorded Sayings of Chan Master Hengchuan Xinggong. Hengchuan Rugong raises Yunmen's saying about illusion, bubbles and unobstructed functioning, including its refusal to find either illusion or unobstructedness as something fixed in every place. Hengchuan answers with the idle ridge cloud and busy ravine water. He then takes up his staff and says that all is illusion and none is illusion, all is unobstructed and none is unobstructed. The headword is Hengchuan's present response; the preceding formulation belongs to quoted Yunmen. The ensuing paired affirmations and denials prevent the scenic contrast from settling into a choice between stillness and activity or into a final object called freedom. No audience reply is recorded here. The following Baizhang digging-and-drum story begins a separate hall address and should not be made a further turn in this exchange.",
               "ClaimText": "雲在嶺頭閒不徹，水流㵎下太忙生"
             }
           ],
@@ -1079029,7 +1079031,7 @@
             "Hengchuan Rugong"
           ],
           "RelatedTerms": [],
-          "Explanation": "Cloud and stream move at different apparent speeds. Cian and Zhantang voice the pair in immediate teaching turns. Baiyun applies an inherited saying; Hengchuan uses the pair in his own response."
+          "Explanation": "The cloud's inexhaustible leisure and the stream's excessive busyness are set beside one another in different live tests. The surrounding turns concern sorrow and attachment, a visitor's greeting, teachers' differing situations, and the refusal to fix either illusion or unobstructed functioning as a thing. For an offering in memory of a mother, Cian Shoujing takes up the claim that extinguishing troubles quenches sorrow's fire and severing attachment dries up love's river. If all space is sorrow's fire, where could it be extinguished? If the whole earth is love's river, how could it run dry? He asks whether the listeners understand, then gives the idle ridge cloud and busy ravine water. He goes on to speak of relinquishing bad destinations and seeking awakening, only to ask about escaping both taking and rejecting. The couplet is Cian's present answer within this memorial instruction, not words spoken by the deceased or the donor. Its continued cloud and water activity resists making liberation depend on removing a bounded patch of feeling or landscape; the source does not explicitly identify one half as right and the other as wrong. Zhantang Wenzhun asks a visiting monk what he has come for. The monk says he has come specifically to greet the teacher. Zhantang answers with the ridge cloud that cannot finish being idle and the ravine water that is excessively busy. The monk objects that the teacher should not deceive people. Zhantang then asks why Master Ma has passed beneath the monk's heels. When the monk has no answer, Zhantang says it is the monk who has deceived him. The headword belongs to Zhantang's direct reply, while the objection and silence belong to the visitor. The contrast turns a polite arrival into an immediate test; the continuation does not certify greeting the abbot as understanding or explain the two images as a fixed division between teacher and student. Baiyun Shouduan raises Dongshan's direction to go at summer's end to a place without a blade of grass for ten thousand miles. A monk reports it to the Liuyang hermit, who answers that stepping outside already meets grass. Baiyun says seeing either teacher allows one to see the other, yet the hermit is harder to see because he is not tied by the responsibilities of abbacy. He then introduces the cloud-and-water couplet as an earlier saying. Its exact earlier speaker is not named in this unit, while Baiyun owns the comparison of the two teachers. The contrasting images sharpen that comparison without requiring an exclusive identification of cloud with one man and water with the other. Named current reuses in other works do not, by themselves, establish the original speaker of Baiyun's citation. Hengchuan Rugong raises Yunmen's saying about illusion, bubbles and unobstructed functioning, including its refusal to find either illusion or unobstructedness as something fixed in every place. Hengchuan answers with the idle ridge cloud and busy ravine water. He then takes up his staff and says that all is illusion and none is illusion, all is unobstructed and none is unobstructed. The headword is Hengchuan's present response; the preceding formulation belongs to quoted Yunmen. The ensuing paired affirmations and denials prevent the scenic contrast from settling into a choice between stillness and activity or into a final object called freedom. No audience reply is recorded here. The following Baizhang digging-and-drum story begins a separate hall address and should not be made a further turn in this exchange."
         }
       ]
     },
