@@ -50160,7 +50160,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "Lingyun says he sought a swordsman for thirty years, through leaves falling and branches budding, before seeing peach blossoms. The opening makes the later sight an event within long practice. Feiyin and Tian’an ask why Xuansha praised yet doubted the conclusion. Baichi and Shipu answer with verses that leave the issue open. Neishao presents new verses on Lingyun, his teacher’s confirmation, and Xuansha’s objection. The line is a measure of seeking that later teachers use to test what the blossom settled.",
+          "Note": "Lingyun begins his peach-blossom awakening verse with thirty years of seeking through repeated seasons. Feiyin and Tian'an ask why Xuansha could affirm yet question the result. Baichi and Shipu answer with their own critical verses; Neishao distinguishes the original awakening, Guishan's confirmation, and Xuansha's later challenge. The quoted search lines are Lingyun's throughout, while the evaluations belong to later teachers.",
           "Occurrences": [
             {
               "RelPath": "J/J26/J26nB178.xml",
@@ -50184,7 +50184,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Chan teaching. Feiyin explicitly introduces Lingyun’s awakening verse and asks where Xuansha finds incompleteness."
+              "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. In a hall teaching after answering a monk about spring and where to place one's feet, Feiyin Tongrong raises Lingyun Zhiqin's awakening verse. Lingyun says he sought a swordsman for thirty years through falling leaves and new shoots, then saw peach blossoms and no longer doubted. Feiyin praises the long struggle but says the sight cost Lingyun his eyes, and recalls Xuansha's objection that the experience was sound yet still incomplete. Feiyin rejects several ready explanations of the objection and ends with an image of splitting Mount Hua into two roads. The exact search lines are Lingyun's quoted voice; Feiyin keeps the question of what the blossoms settled open."
             },
             {
               "RelPath": "J/J26/J26nB187.xml",
@@ -50208,7 +50208,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Chan teaching. Tian’an quotes the verse and asks how Xuansha can both affirm and question it."
+              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. In an evening address, Tian'an Sheng recalls that Lingyun Zhiqin saw peach blossoms and composed a verse about thirty years searching for a swordsman while the leaves fell and branches sprouted. The verse says that after seeing the blossoms he no longer doubted. Tian'an immediately quotes Xuansha's judgment: the insight is certainly fitting, yet Lingyun has not fully penetrated it. He asks the assembly why Xuansha would say this if the insight were fitting, or praise it if it were not. For Tian'an, meeting that tension is how a listener might encounter Lingyun directly. The verse is Lingyun's quoted speech; Tian'an poses the present test."
             },
             {
               "RelPath": "J/J28/J28nB202.xml",
@@ -50232,7 +50232,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Chan teaching. Baichi quotes the verse and adds his own critical peach-blossom verse."
+              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi reads Lingyun Zhiqin's peach-blossom awakening as one case in a sequence of old encounters. He quotes Lingyun's verse beginning with thirty years seeking a swordsman through many cycles of falling leaves and new shoots, and then quotes Xuansha saying the result was fitting but still incomplete. Baichi answers with his own verse: at the sight of peach blossoms the eyes are as if blinded, and the matter arose before the word incomplete was spoken. His night-road image refuses to make either Lingyun's confidence or Xuansha's rebuke a simple final verdict. The exact search lines remain Lingyun's older verse."
             },
             {
               "RelPath": "J/J34/J34nB306.xml",
@@ -50256,7 +50256,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J34/J34nB306.xml). Recorded Chan teaching. Neishao quotes Lingyun and adds separate verses on the sight, confirmation, and objection."
+              "AttributionNote": "Source record (J/J34/J34nB306.xml). Recorded Sayings of Chan Master Neishaozhong. Neishao Zhong recounts Lingyun Zhiqin at Guishan, seeing peach blossoms and giving a verse that measures thirty years of searching against leaves falling and branches budding before doubt ends. Neishao writes a response verse on the awakening, then reports Guishan testing Lingyun's realization, agreeing with it, and urging him to guard it well. Neishao adds another verse on that confirmation. Finally, when a monk tells Xuansha, Xuansha praises the event but says Lingyun has not fully penetrated it; Neishao answers with a third verse. These three current responses keep sight, teacher confirmation, and later challenge distinct; Lingyun is the speaker of the quoted opening couplet."
             },
             {
               "RelPath": "J/J36/J36nB365.xml",
@@ -50280,10 +50280,136 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J36/J36nB365.xml). Recorded Chan teaching. Shipu quotes the verse and answers with a critique of Lingyun and Xuansha."
+              "AttributionNote": "Source record (J/J36/J36nB365.xml). Recorded Sayings of Chan Master Shipuzhi. Shipu Zhi presents Lingyun Zhiqin's old case among a sequence of brief cases with his own verse responses. He quotes Lingyun's claim that after thirty years seeking a swordsman through falling leaves and new growth, the sight of peach blossoms ended his doubt, then quotes Xuansha's reply that it was fitting yet still incomplete. Shipu's response says Lingyun's eyes opened and Xuansha's words struck like thunder, but even this good reputation could leave the person burying himself alive. The opening search couplet belongs to Lingyun; Shipu's pointed verse refuses to let either attainment or criticism settle the case."
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J26/J26nB178.xml",
+              "FromLb": "0110b10",
+              "ToLb": "0110b28",
+              "Kwic": "和尚去也。」師云：「不干山僧事。」乃云：「一年三百六十日，今日分明是初一，會得一兮萬事周，世間出世從茲立。」卓拄杖，下座。上堂，僧問：「大通智勝佛，十劫坐道場，佛法不現前，不能成佛道。如今成佛否？」師云：「百草頭上無邊春。」僧云：「謝師指示。」師云：「草尖刺汝眼。」問：「如何是陽春境？」師云：「滿面是落花。」進云：「如何是境中人？」師云：「披襟獨自得。」進云：「恁麼則春風吹處百花新。」師云：「闍黎何處著腳？」乃舉：「靈雲禪師悟道偈云：『三十年來尋劍客，幾回落葉又抽枝，自從一見桃花後，直至如今更不疑。』」師云：「慚愧古人，二三十年起倒存忘，至於智窮力極，向桃花邊打失眼睛，直至如今不見天日。又有玄沙傍不肯，云：『諦當甚諦，當敢保老兄未徹在。』且道什麼處是靈雲未徹處？莫是見色明心、附物顯理為未徹處麼？且喜沒交涉。莫是道無向背、說疑說悟為未徹處麼？且喜沒交涉。莫是把斷要津、不通凡聖為未徹處麼？且喜沒交涉。既都不如是，畢竟意旨如何？一擘華山分兩路，萬年流水不知春。」下座。解制上堂，僧問：「大制從來無解結，當",
+              "MasterName": "Lingyun Zhiqin",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Lingyun Zhiqin",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Feiyin Tongrong",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. In a hall teaching after answering a monk about spring and where to place one's feet, Feiyin Tongrong raises Lingyun Zhiqin's awakening verse. Lingyun says he sought a swordsman for thirty years through falling leaves and new shoots, then saw peach blossoms and no longer doubted. Feiyin praises the long struggle but says the sight cost Lingyun his eyes, and recalls Xuansha's objection that the experience was sound yet still incomplete. Feiyin rejects several ready explanations of the objection and ends with an image of splitting Mount Hua into two roads. The exact search lines are Lingyun's quoted voice; Feiyin keeps the question of what the blossoms settled open.",
+              "ClaimText": "三十年來尋劍客，幾回落葉又抽枝"
+            },
+            {
+              "RelPath": "J/J26/J26nB187.xml",
+              "FromLb": "0696b07",
+              "ToLb": "0696b27",
+              "Kwic": "勘過。』敢問諸人：如何發付？若發付得，橫擔楖栗，千峰萬峰，有甚麼過？發付不得。」卓拄杖，云：「勸君更盡一杯酒，西出陽關無故人。」下座。晚參。「可憐新婦子，沿門竊繡鞋，竊得繡鞋了，向人誇自裁。本來醜拙婦，那善巧安排？一見公婆面，臙脂汗滿腮。大眾！參禪切忌學新婦子，既不學新婦子，卻又如何？冤家，冤家，背地裏向你說。」上堂。「二月中，鵑語紅，啼破口，樹頭風。因甚如此？彌勒、勢至，不解變通。」卓拄杖，下座。晚參。舉：「靈雲見桃華悟道，有頌云：『三十年來尋劍客，幾回落葉又抽枝，自從一見桃華後，直至而今更不疑。』玄沙道：『諦當甚諦當，敢保老兄未徹在。』試問諸仁：若是諦當，玄沙因甚恁麼道？若不諦當，玄沙怎肯恁麼道？于此端的，許你親見靈雲；若不端的，玄沙在你腳底。」上堂。「鶯觜啄華紅溜，燕尾點波綠皺。如是我聞，聞箇甚麼？依舊依舊，人與綠楊俱痠。」清明，上堂。「紙錢飄，蝴蜨舞，潸潸朱淚溼新土。孝子慈孫，千古萬古，往者不可追，來者莫可睹，惟有華柳無私，歲歲年年，紅飛綠吐。諸佛寂滅性，常住不遷義，幾多人摸地撈天，忒殺莽",
+              "MasterName": "Lingyun Zhiqin",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Lingyun Zhiqin",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Tian'an Sheng",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. In an evening address, Tian'an Sheng recalls that Lingyun Zhiqin saw peach blossoms and composed a verse about thirty years searching for a swordsman while the leaves fell and branches sprouted. The verse says that after seeing the blossoms he no longer doubted. Tian'an immediately quotes Xuansha's judgment: the insight is certainly fitting, yet Lingyun has not fully penetrated it. He asks the assembly why Xuansha would say this if the insight were fitting, or praise it if it were not. For Tian'an, meeting that tension is how a listener might encounter Lingyun directly. The verse is Lingyun's quoted speech; Tian'an poses the present test.",
+              "ClaimText": "三十年來尋劍客，幾回落葉又抽枝"
+            },
+            {
+              "RelPath": "J/J28/J28nB202.xml",
+              "FromLb": "0088b24",
+              "ToLb": "0088c18",
+              "Kwic": "哪吒面目突然現，便作驢鳴狗吠人。臨濟在黃檗栽松，次檗云：「深山裏，栽許多松作什麼？」濟云：「一、與山門作境致，二、與後人作標榜。」道了，以钁頭𡎺地三下，檗云：「雖然如是，子已喫吾三十棒了也。」濟又𡎺地三下，噓一噓，檗云：「吾宗到汝，大興於世。」钁頭連築露鋒鋩，氣宇驚群孰敢當？知子良哉莫若父，宗風亙古自堂皇。臨濟出世後，唯以棒喝示徒，凡見僧入門便喝。據令聲前我獨雄，橫驅萬里疾雷風，誰知無限傷心處？敗產亡家在此中。靈雲見桃花悟道，有偈云：「三十年來尋劍客，幾回落葉又抽枝，自從一見桃花後，直至如今更不疑。」玄沙云：「諦當甚諦，當敢保老兄未徹在。」桃花一見眼如盲，未徹言前事已生，路遠夜長休點火，大家吹滅暗中行。俱胝和尚，凡有所問，惟豎一指。活計些兒得便休，全身獨踞嫠峰頭，任他塞北江南亂，我只安然一併收。興化謂克賓云：「汝不久為唱導之師。」賓云：「不入這保社。」化云：「會了不入？不會了不入？」賓云：「總不與麼。」化便打，云：「克賓維那法戰不勝，罰錢五貫，設饡飯一堂。」次日自白槌云：「克賓維那法戰不勝，不得喫",
+              "MasterName": "Lingyun Zhiqin",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Lingyun Zhiqin",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Baichi Xingyuan",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi reads Lingyun Zhiqin's peach-blossom awakening as one case in a sequence of old encounters. He quotes Lingyun's verse beginning with thirty years seeking a swordsman through many cycles of falling leaves and new shoots, and then quotes Xuansha saying the result was fitting but still incomplete. Baichi answers with his own verse: at the sight of peach blossoms the eyes are as if blinded, and the matter arose before the word incomplete was spoken. His night-road image refuses to make either Lingyun's confidence or Xuansha's rebuke a simple final verdict. The exact search lines remain Lingyun's older verse.",
+              "ClaimText": "三十年來尋劍客，幾回落葉又抽枝"
+            },
+            {
+              "RelPath": "J/J34/J34nB306.xml",
+              "FromLb": "0424b04",
+              "ToLb": "0424b26",
+              "Kwic": "。」祖曰：「汝解射否？」曰：「解射。」祖曰：「一箭射幾個？」曰：「一箭射一個。」祖曰：「汝不解射。」曰：「和尚解射否？」曰：「解射。」曰：「一箭射幾個？」祖曰：「一箭射一群。」曰：「彼此生命，何用射他一群？」祖曰：「汝既知如是，何不自射？」曰：「若教某甲自射，直是無下手處。」祖曰：「這漢曠劫無明，今日頓息。」師遂擲下弓箭，投祖出家。箭落群空血濺天，若教自射命難全。機先發得遼空鏃，萬象森羅一線穿。靈雲禪師初在溈山，因見桃花悟道，有偈云：「三十年來尋劍客，幾回落葉又抽枝。自從一見桃花後，直至如今更不疑。」桃花見後破重疑，脫殼烏龜出水泥。林下競頭傳盛事，竹雞還向五更啼。溈山覽偈，詰其所悟，與之符契，囑曰：「從緣悟達，永無退失，善自護持。」從緣薦得絕淆訛，獻佛香靈不在多。但得久長甘冷澹，聖情凡見自消磨。有僧舉似玄沙，沙云：「諦當甚諦當，敢保老兄未徹在。」一言諦當樹頭風，吹落殘花滿地紅。敢是老兄猶未徹，卻拈彩筆畫虛空。香嚴上堂云：「若論此事，如人上樹，口銜樹枝，腳不蹋枝，手不攀枝。」樹下忽有人問：「祖師西來",
+              "MasterName": "Lingyun Zhiqin",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Lingyun Zhiqin",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Neishao Zhizhong",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J34/J34nB306.xml). Recorded Sayings of Chan Master Neishaozhong. Neishao Zhong recounts Lingyun Zhiqin at Guishan, seeing peach blossoms and giving a verse that measures thirty years of searching against leaves falling and branches budding before doubt ends. Neishao writes a response verse on the awakening, then reports Guishan testing Lingyun's realization, agreeing with it, and urging him to guard it well. Neishao adds another verse on that confirmation. Finally, when a monk tells Xuansha, Xuansha praises the event but says Lingyun has not fully penetrated it; Neishao answers with a third verse. These three current responses keep sight, teacher confirmation, and later challenge distinct; Lingyun is the speaker of the quoted opening couplet.",
+              "ClaimText": "三十年來尋劍客，幾回落葉又抽枝"
+            },
+            {
+              "RelPath": "J/J36/J36nB365.xml",
+              "FromLb": "0821a11",
+              "ToLb": "0821b05",
+              "Kwic": "誰知猶在含元道？老南泉，太草草。若是鳳凰兒，不向那邊討。魯祖尋常見僧來，便面壁。南泉聞，乃云：「我尋常向師僧道：『佛未出世時會取，尚不得一箇半箇。』他漝地驢年去。」鮑老當年笑郭郎，人前舞袖太郎當。及乎鮑老出來舞，依舊郎當勝郭郎。睦州因新到參，方禮拜，州叱云：「闍黎何得偷常住果子吃？」僧云：「學人纔到，和尚為甚麼道偷常住果子吃？」州云：「贓物現在。」腳跟未動已偷了，覿面捉他總不親。直下欲明端的意，睦州早已露賊身。靈雲見桃花悟道，有偈云：「三十年來尋劍客，幾回落葉又抽枝。自從一見桃花後，直至如今更不疑。」玄沙云：「諦當甚諦當，敢保老兄未徹在。」潦倒靈雲眼豁開，玄沙驀地語如雷。雖然贏得嘉聲在，未免渠儂自活埋。鏡清問雪峰：「古人有言……」峰便倒臥。良久，起云：「問甚麼？」清再問，峰云：「虛生浪死漢。」問處成雙橛，臥來落二三。堪嗟象骨老，無處著羞慚。保福因僧問雪峰：「平生有何言句，得似羚羊掛角時？」福云：「我不可作雪峰弟子不得。」道泰時清才子貴，家肥國富小兒嬌。掃除狐兔家風峻，甜似蜜兮毒似梟。玄沙因僧問：「",
+              "MasterName": "Lingyun Zhiqin",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Lingyun Zhiqin",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Shipu Chaozhi",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J36/J36nB365.xml). Recorded Sayings of Chan Master Shipuzhi. Shipu Zhi presents Lingyun Zhiqin's old case among a sequence of brief cases with his own verse responses. He quotes Lingyun's claim that after thirty years seeking a swordsman through falling leaves and new growth, the sight of peach blossoms ended his doubt, then quotes Xuansha's reply that it was fitting yet still incomplete. Shipu's response says Lingyun's eyes opened and Xuansha's words struck like thunder, but even this good reputation could leave the person burying himself alive. The opening search couplet belongs to Lingyun; Shipu's pointed verse refuses to let either attainment or criticism settle the case.",
+              "ClaimText": "三十年來尋劍客，幾回落葉又抽枝"
+            }
+          ],
           "SourceTexts": [
             "J/J26/J26nB178.xml",
             "J/J26/J26nB187.xml",
@@ -50300,7 +50426,7 @@
             "Shipu Chaozhi"
           ],
           "RelatedTerms": [],
-          "Explanation": "Lingyun begins his peach-blossom verse by measuring thirty years of search against repeated seasons. Feiyin and Tian’an ask why Xuansha still doubted Lingyun’s insight; Baichi’s verse reopens the same doubt. Neishao addresses the awakening, its confirmation, and Xuansha’s challenge in separate verses; Shipu offers another critical verse."
+          "Explanation": "Lingyun measures thirty years seeking a swordsman by the repeated fall of leaves and growth of branches. His verse then says that seeing peach blossoms ended doubt. Five later recorded teachings quote his verse while testing Xuansha's objection that Lingyun had still not fully penetrated the matter. In a hall teaching after answering a monk about spring and where to place one's feet, Feiyin Tongrong raises Lingyun Zhiqin's awakening verse. Lingyun says he sought a swordsman for thirty years through falling leaves and new shoots, then saw peach blossoms and no longer doubted. Feiyin praises the long struggle but says the sight cost Lingyun his eyes, and recalls Xuansha's objection that the experience was sound yet still incomplete. Feiyin rejects several ready explanations of the objection and ends with an image of splitting Mount Hua into two roads. The exact search lines are Lingyun's quoted voice; Feiyin keeps the question of what the blossoms settled open. In an evening address, Tian'an Sheng recalls that Lingyun Zhiqin saw peach blossoms and composed a verse about thirty years searching for a swordsman while the leaves fell and branches sprouted. The verse says that after seeing the blossoms he no longer doubted. Tian'an immediately quotes Xuansha's judgment: the insight is certainly fitting, yet Lingyun has not fully penetrated it. He asks the assembly why Xuansha would say this if the insight were fitting, or praise it if it were not. For Tian'an, meeting that tension is how a listener might encounter Lingyun directly. The verse is Lingyun's quoted speech; Tian'an poses the present test. Baichi reads Lingyun Zhiqin's peach-blossom awakening as one case in a sequence of old encounters. He quotes Lingyun's verse beginning with thirty years seeking a swordsman through many cycles of falling leaves and new shoots, and then quotes Xuansha saying the result was fitting but still incomplete. Baichi answers with his own verse: at the sight of peach blossoms the eyes are as if blinded, and the matter arose before the word incomplete was spoken. His night-road image refuses to make either Lingyun's confidence or Xuansha's rebuke a simple final verdict. The exact search lines remain Lingyun's older verse. Neishao Zhong recounts Lingyun Zhiqin at Guishan, seeing peach blossoms and giving a verse that measures thirty years of searching against leaves falling and branches budding before doubt ends. Neishao writes a response verse on the awakening, then reports Guishan testing Lingyun's realization, agreeing with it, and urging him to guard it well. Neishao adds another verse on that confirmation. Finally, when a monk tells Xuansha, Xuansha praises the event but says Lingyun has not fully penetrated it; Neishao answers with a third verse. These three current responses keep sight, teacher confirmation, and later challenge distinct; Lingyun is the speaker of the quoted opening couplet. Shipu Zhi presents Lingyun Zhiqin's old case among a sequence of brief cases with his own verse responses. He quotes Lingyun's claim that after thirty years seeking a swordsman through falling leaves and new growth, the sight of peach blossoms ended his doubt, then quotes Xuansha's reply that it was fitting yet still incomplete. Shipu's response says Lingyun's eyes opened and Xuansha's words struck like thunder, but even this good reputation could leave the person burying himself alive. The opening search couplet belongs to Lingyun; Shipu's pointed verse refuses to let either attainment or criticism settle the case."
         }
       ]
     },
