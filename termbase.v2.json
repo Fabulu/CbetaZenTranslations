@@ -54132,7 +54132,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "The proverb warns against assuming that someone encountered after a brief separation is exactly as before. Chan speakers use it to challenge an assembly, encourage a correspondent, or mark the possible change in a student’s understanding. Three days is the compact time marker in the saying.",
+          "Note": "Tian'an asks what matters now rather than accepting an old impression; Shiyu encourages a lay correspondent to advance before their next meeting; Yinyuan uses the warning to open a requested small sermon and revisit Linji; Xieyun makes it a prompt about travel, home, and changed relations. The three-day interval is the compact image; Shiyu's exact quoted origin is unnamed locally, and Xieyun does not report an actual reunion.",
           "Occurrences": [
             {
               "RelPath": "J/J26/J26nB187.xml",
@@ -54150,25 +54150,42 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded sayings. Tian’an opens his own assembly address with the line and asks what has changed now."
+              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng opens an address to the assembly with the warning that after three days apart one should not look on the person as ordinary. He asks what the matter is right now; when no one answers, he warns against settling on a blank mind or on a familiar formula. He recalls a message about stones being large or small and bamboo stems long or short, yet says it should be treated neither as a marvel nor as a flat ordinary claim. Tian'an voices the line himself to test whether his listeners can meet the present moment instead of relying on what they thought they knew before."
             },
             {
               "RelPath": "J/J27/J27nB190.xml",
               "FromLb": "0144c18",
               "ToLb": "0145b04",
               "Kwic": "第不即覿面為惜，想真辦道人應不便爾休去。其間出入，於境緣逆順處定能以不欺自鑑耳，聊評其意以復。長至邊，果能一遊乎？先附力主做功夫語，二紙一煩致之。嵌石兄近況每同弟打橡栗為安心法，因續元去，促托筆伸意。翰生棧西蘭友兄弟蹤跡，何似有便，通我以慰念舊之懷。世情擾擾，法門猶惡，有心者能一揀邪正，庶報佛恩於萬一。弟亦當於岑寂自砥，以觀其時也。又承書與續元禪友來，如親覿一度，即以書復續元去，亦應如見我然，猶未免於一水盈盈之思也。不如天如兄偷空入山數日，與七十二賢峰分賓列主，談以為暢，力窮向上，不涉世緣，令人益珍其為老成。聞兄近況頗細，稍慰。懸懸趙公之約，何以杳然？不可以兄之憨法帶累人也，笑笑。答祁德公居士答祁德公居士秋空岑寂，忽承令弟至，得接尊翰惠施，又知道念日堅，雖覺喜躍，然猶未能深慰鄙懷者，以居士是大猛烈人，定能一刀兩段討個分曉，而肯悠悠說堅、不堅乎？堅、不堅，則疑信相參，隨人上下而已，宜居士所不為也。近欲入閩，將有一年之別，古人云：「三日不相見，莫作等閒看。」想居士自能努力，而不俟衲歸，當先有便，羽報平安也。答邢吉先居士答邢吉先居士前翰中有「一切無心即離俱病」之問，此特遣著語耳。苟執而不化，則又有「無心猶隔一重」之語，其疑又何有已時乎？真辦道人觀時觀機，竿木隨身，逢場作戲，出處聽緣而已。至於功名，宜冷則冷之，離亦一道也；宜熱則熱之，即亦一道也。但得左右逢原，何病之有哉？與蔡子穀居士與蔡子穀居士世情戀戀，法愛猶覺依依，但不可為愚者道耳。分袂歸，每與相知言及護持金粟之神，餘光豈止被及一法相而已哉？不知近日戒酒光景何似？石車兄以雨阻，不及入山，特遣侍者渡江踐約，可謂不負先師者。見時煩為致意。元公居士幾日曾相見否？與集生余中丞與集生余中丞承護念，入閩冬復春矣，不識道體健飯否？叢林得人否？某抵長慶來，縉紳居士俱欣然，誠不虛老居士願。華雨監院雖根性過緩，亦稱穩當。臘八日，付戒一壇，春新積香儀，續置禪堂一所。張方伯捐俸結制，內外三百餘俱精進。擬浴佛解制後，同京臺諸居士上雪峰，或可存老居士意，第欲併爨恐不易也。大約閩中法道，邪禪未熏，似有起色在，宿願未酬者，今正是時。且僧俗望駕如渴，未審肯即扶策否？否則冤有頭、債有主，與山僧有何交涉？衡廷田事勢不可復，茲另捨百金造廊。起手其東邊精室，向為人得",
-              "MasterName": "Shiyu Mingfang",
+              "MasterName": null,
               "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Shiyu Mingfang",
                   "Roles": [
-                    "utterer",
+                    "commentator",
                     "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J27/J27nB190.xml). Recorded sayings. Shiyu cites the proverb in his own letter, encouraging a lay correspondent to continue advancing."
+              "AttributionNote": "Source record (J/J27/J27nB190.xml). Dharma Platform of Chan Master Shiyu. In a letter replying to layman Qi Degong, Shiyu Mingfang thanks him for news that his resolve is firm but urges him to cut through the matter decisively rather than merely discuss whether his resolve is firm. Shiyu says he expects to travel to Fujian and be apart for a year. He then cites an old person's saying that after three days apart one must not regard the next meeting as ordinary, and hopes Qi will have advanced before Shiyu returns. The exact proverb is attributed only to an unnamed earlier speaker in this letter; Shiyu applies it to his correspondent's practice and their coming separation.",
+              "ActorAttribution": {
+                "Status": "reviewed-unnamed",
+                "Kind": "unnamed earlier quoted proverb speaker",
+                "ActorLabel": "unnamed earlier speaker introduced in Shiyu letter",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The letter explicitly introduces the complete proverb with an old person said. It names no earlier speaker; Shiyu is the current letter writer who applies the proverb, not its claimed origin.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "Codex source-first public R10 prose and actor repair",
+                "ReviewedUtc": "2026-10-31T09:25:01.652424Z"
+              }
             },
             {
               "RelPath": "J/J27/J27nB193.xml",
@@ -54186,7 +54203,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded sayings. Yinyuan speaks the line at the opening of his current small sermon."
+              "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. At a small sermon requested by practitioner Changtai, Yinyuan Longqi begins with two parallel warnings: three days without talking leave thorns growing in the mouth, and three days without seeing someone mean the next meeting should not be treated as ordinary. He says the request has pressed him into speaking like a mouse driven into an ox horn, so he will raise an old encounter for the assembly. He then retells and comments on Linji's exchange about the person without rank. Yinyuan voices the headword in his own opening; it prepares listeners to hear an old case afresh rather than assume that familiar words exhaust it."
             },
             {
               "RelPath": "J/J34/J34nB303.xml",
@@ -54204,7 +54221,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J34/J34nB303.xml). Recorded sayings. Xieyun gives the full line in his present admonition about a renewed encounter after a long absence."
+              "AttributionNote": "Source record (J/J34/J34nB303.xml). Recorded Sayings of Chan Master Xieyunji at the Fearless Hall, Guoqing. In a set of written prompts headed Return to the Mountain after Begging, Xieyun Jiji opens one prompt with the warning that after three days apart the next meeting should not be treated as ordinary. He stretches the separation into hundreds of days away from home and an old path overgrown with grass, then contrasts moving with staying. He asks who is closest after the familiar house and family are left behind, and where one eats and lives after that loss. The line is Xieyun's opening challenge in this prompt; the source does not record an actual renewed meeting between two named people."
             }
           ],
           "ClaimAnchors": [
@@ -54224,7 +54241,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded sayings. Tian’an opens his own assembly address with the line and asks what has changed now.",
+              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng opens an address to the assembly with the warning that after three days apart one should not look on the person as ordinary. He asks what the matter is right now; when no one answers, he warns against settling on a blank mind or on a familiar formula. He recalls a message about stones being large or small and bamboo stems long or short, yet says it should be treated neither as a marvel nor as a flat ordinary claim. Tian'an voices the line himself to test whether his listeners can meet the present moment instead of relying on what they thought they knew before.",
               "ClaimText": "三日不相見，莫作等閒看"
             },
             {
@@ -54232,18 +54249,35 @@
               "FromLb": "0144c18",
               "ToLb": "0145b04",
               "Kwic": "第不即覿面為惜，想真辦道人應不便爾休去。其間出入，於境緣逆順處定能以不欺自鑑耳，聊評其意以復。長至邊，果能一遊乎？先附力主做功夫語，二紙一煩致之。嵌石兄近況每同弟打橡栗為安心法，因續元去，促托筆伸意。翰生棧西蘭友兄弟蹤跡，何似有便，通我以慰念舊之懷。世情擾擾，法門猶惡，有心者能一揀邪正，庶報佛恩於萬一。弟亦當於岑寂自砥，以觀其時也。又承書與續元禪友來，如親覿一度，即以書復續元去，亦應如見我然，猶未免於一水盈盈之思也。不如天如兄偷空入山數日，與七十二賢峰分賓列主，談以為暢，力窮向上，不涉世緣，令人益珍其為老成。聞兄近況頗細，稍慰。懸懸趙公之約，何以杳然？不可以兄之憨法帶累人也，笑笑。答祁德公居士答祁德公居士秋空岑寂，忽承令弟至，得接尊翰惠施，又知道念日堅，雖覺喜躍，然猶未能深慰鄙懷者，以居士是大猛烈人，定能一刀兩段討個分曉，而肯悠悠說堅、不堅乎？堅、不堅，則疑信相參，隨人上下而已，宜居士所不為也。近欲入閩，將有一年之別，古人云：「三日不相見，莫作等閒看。」想居士自能努力，而不俟衲歸，當先有便，羽報平安也。答邢吉先居士答邢吉先居士前翰中有「一切無心即離俱病」之問，此特遣著語耳。苟執而不化，則又有「無心猶隔一重」之語，其疑又何有已時乎？真辦道人觀時觀機，竿木隨身，逢場作戲，出處聽緣而已。至於功名，宜冷則冷之，離亦一道也；宜熱則熱之，即亦一道也。但得左右逢原，何病之有哉？與蔡子穀居士與蔡子穀居士世情戀戀，法愛猶覺依依，但不可為愚者道耳。分袂歸，每與相知言及護持金粟之神，餘光豈止被及一法相而已哉？不知近日戒酒光景何似？石車兄以雨阻，不及入山，特遣侍者渡江踐約，可謂不負先師者。見時煩為致意。元公居士幾日曾相見否？與集生余中丞與集生余中丞承護念，入閩冬復春矣，不識道體健飯否？叢林得人否？某抵長慶來，縉紳居士俱欣然，誠不虛老居士願。華雨監院雖根性過緩，亦稱穩當。臘八日，付戒一壇，春新積香儀，續置禪堂一所。張方伯捐俸結制，內外三百餘俱精進。擬浴佛解制後，同京臺諸居士上雪峰，或可存老居士意，第欲併爨恐不易也。大約閩中法道，邪禪未熏，似有起色在，宿願未酬者，今正是時。且僧俗望駕如渴，未審肯即扶策否？否則冤有頭、債有主，與山僧有何交涉？衡廷田事勢不可復，茲另捨百金造廊。起手其東邊精室，向為人得",
-              "MasterName": "Shiyu Mingfang",
+              "MasterName": null,
               "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Shiyu Mingfang",
                   "Roles": [
-                    "utterer",
+                    "commentator",
                     "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J27/J27nB190.xml). Recorded sayings. Shiyu cites the proverb in his own letter, encouraging a lay correspondent to continue advancing.",
+              "AttributionNote": "Source record (J/J27/J27nB190.xml). Dharma Platform of Chan Master Shiyu. In a letter replying to layman Qi Degong, Shiyu Mingfang thanks him for news that his resolve is firm but urges him to cut through the matter decisively rather than merely discuss whether his resolve is firm. Shiyu says he expects to travel to Fujian and be apart for a year. He then cites an old person's saying that after three days apart one must not regard the next meeting as ordinary, and hopes Qi will have advanced before Shiyu returns. The exact proverb is attributed only to an unnamed earlier speaker in this letter; Shiyu applies it to his correspondent's practice and their coming separation.",
+              "ActorAttribution": {
+                "Status": "reviewed-unnamed",
+                "Kind": "unnamed earlier quoted proverb speaker",
+                "ActorLabel": "unnamed earlier speaker introduced in Shiyu letter",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The letter explicitly introduces the complete proverb with an old person said. It names no earlier speaker; Shiyu is the current letter writer who applies the proverb, not its claimed origin.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "Codex source-first public R10 prose and actor repair",
+                "ReviewedUtc": "2026-10-31T09:25:01.652424Z"
+              },
               "ClaimText": "三日不相見，莫作等閒看"
             },
             {
@@ -54262,7 +54296,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded sayings. Yinyuan speaks the line at the opening of his current small sermon.",
+              "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. At a small sermon requested by practitioner Changtai, Yinyuan Longqi begins with two parallel warnings: three days without talking leave thorns growing in the mouth, and three days without seeing someone mean the next meeting should not be treated as ordinary. He says the request has pressed him into speaking like a mouse driven into an ox horn, so he will raise an old encounter for the assembly. He then retells and comments on Linji's exchange about the person without rank. Yinyuan voices the headword in his own opening; it prepares listeners to hear an old case afresh rather than assume that familiar words exhaust it.",
               "ClaimText": "三日不相見，莫作等閒看"
             },
             {
@@ -54281,7 +54315,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J34/J34nB303.xml). Recorded sayings. Xieyun gives the full line in his present admonition about a renewed encounter after a long absence.",
+              "AttributionNote": "Source record (J/J34/J34nB303.xml). Recorded Sayings of Chan Master Xieyunji at the Fearless Hall, Guoqing. In a set of written prompts headed Return to the Mountain after Begging, Xieyun Jiji opens one prompt with the warning that after three days apart the next meeting should not be treated as ordinary. He stretches the separation into hundreds of days away from home and an old path overgrown with grass, then contrasts moving with staying. He asks who is closest after the familiar house and family are left behind, and where one eats and lives after that loss. The line is Xieyun's opening challenge in this prompt; the source does not record an actual renewed meeting between two named people.",
               "ClaimText": "三日不相見，莫作等閒看"
             }
           ],
@@ -54298,7 +54332,7 @@
             "Xieyun Jiji"
           ],
           "RelatedTerms": [],
-          "Explanation": "Even after three days apart, look again rather than assuming the person is unchanged. Tian’an opens a present challenge to his assembly with the proverb. Shiyu cites it to encourage a correspondent before a year apart. Yinyuan uses it while beginning a small sermon, and Xieyun places it after a question about meeting again following a difficult absence."
+          "Explanation": "The saying warns that even after only three days apart, the next meeting deserves a fresh look. Tian'an, Yinyuan, and Xieyun voice it in current addresses or prompts; Shiyu explicitly quotes an unnamed old speaker in a letter about a year's separation. Tian'an Sheng opens an address to the assembly with the warning that after three days apart one should not look on the person as ordinary. He asks what the matter is right now; when no one answers, he warns against settling on a blank mind or on a familiar formula. He recalls a message about stones being large or small and bamboo stems long or short, yet says it should be treated neither as a marvel nor as a flat ordinary claim. Tian'an voices the line himself to test whether his listeners can meet the present moment instead of relying on what they thought they knew before. In a letter replying to layman Qi Degong, Shiyu Mingfang thanks him for news that his resolve is firm but urges him to cut through the matter decisively rather than merely discuss whether his resolve is firm. Shiyu says he expects to travel to Fujian and be apart for a year. He then cites an old person's saying that after three days apart one must not regard the next meeting as ordinary, and hopes Qi will have advanced before Shiyu returns. The exact proverb is attributed only to an unnamed earlier speaker in this letter; Shiyu applies it to his correspondent's practice and their coming separation. At a small sermon requested by practitioner Changtai, Yinyuan Longqi begins with two parallel warnings: three days without talking leave thorns growing in the mouth, and three days without seeing someone mean the next meeting should not be treated as ordinary. He says the request has pressed him into speaking like a mouse driven into an ox horn, so he will raise an old encounter for the assembly. He then retells and comments on Linji's exchange about the person without rank. Yinyuan voices the headword in his own opening; it prepares listeners to hear an old case afresh rather than assume that familiar words exhaust it. In a set of written prompts headed Return to the Mountain after Begging, Xieyun Jiji opens one prompt with the warning that after three days apart the next meeting should not be treated as ordinary. He stretches the separation into hundreds of days away from home and an old path overgrown with grass, then contrasts moving with staying. He asks who is closest after the familiar house and family are left behind, and where one eats and lives after that loss. The line is Xieyun's opening challenge in this prompt; the source does not record an actual renewed meeting between two named people."
         }
       ]
     },
