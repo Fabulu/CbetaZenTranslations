@@ -1082730,16 +1082730,16 @@
         {
           "SenseKey": null,
           "MasterName": null,
-          "PreferredTarget": "In a frosty sky the moon sets as night passes its midpoint; who shares the clear pool's cold reflection?",
+          "PreferredTarget": "In a frosty sky the moon sets as midnight nears; who shares the clear pool's cold reflection?",
           "AlternateTargets": [
             "The moon sinks in the frost sky at midnight; who joins the clear pool in reflecting the chill?"
           ],
           "SearchAliases": [
-            "frost sky moon sets clear pool cold reflection"
+            "in a frosty sky the moon sets as midnight nears; who shares the clear pool's cold reflection?"
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "The couplet joins the moon's setting in a frost sky with a question about who shares a cold reflection in a clear pool. Later teachers use this inherited verse line as a current concluding question; the image does not identify a fixed person to supply as the answer.",
+          "Note": "The same verse image is used as different present answers and caps. The Xuedou witness distinguishes the earlier flower encounter from his own verse; later masters revoice the couplet in their own settings. The night is nearing its middle, not stated to have passed it.",
           "Occurrences": [
             {
               "RelPath": "J/J38/J38nB406.xml",
@@ -1082755,9 +1082755,16 @@
                     "utterer",
                     "record-owner"
                   ]
+                },
+                {
+                  "MasterName": "Pozao Duo",
+                  "Roles": [
+                    "case-figure",
+                    "person-discussed"
+                  ]
                 }
               ],
-              "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran Hanshi gives the entire inherited verse line as his own reply after asking how to break the mirror image."
+              "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran Hanshi raises Pozao Duo's verse: a concave mirror makes a person thin, a convex one makes him fat, so break the mirror and restore the old face. Tianran asks about the mirror, the person, and the mountains and rivers appearing in it, then asks how the mirror is to be broken and the old face restored. He strikes his staff, asks whether the assembly understands, and gives the frosty-moon couplet. The answer returns to a reflected scene just when breaking the mirror has been demanded. Its question leaves a respondent to be found in the present encounter instead of supplying an optical explanation or a person's name to fill the place."
             },
             {
               "RelPath": "J/J39/J39nB454.xml",
@@ -1082775,7 +1082782,18 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J39/J39nB454.xml). Recorded Sayings of Chan Master Pinjixiang. Pinjixiang Zhixiang gives the full line as his own conclusion to a comment on Bianshan's use of the Chan board."
+              "AttributionNote": "Source record (J/J39/J39nB454.xml). Recorded Sayings of Chan Master Pinjixiang. Pinjixiang Zhixiang raises a report about his lineage grandfather Bianshan in his later years at Kongtong: he would knock and sing with a Chan board, and would also answer requests for instruction by knocking it. Pinjixiang comments on responsive functioning without a fixed direction and asks how many worlds there are within China. Does anyone understand this old man's intent at this very moment? The moon-and-pool couplet caps that question. Bianshan owns the earlier board action; Pinjixiang owns the appraisal and this present demand for someone who understands it. The nearby earlier Bianshan dialogue about thought is a separate raised case.",
+              "ContextActors": [
+                {
+                  "Status": "identified-unlinked-master",
+                  "ActorLabel": "Bianshan, the source-named lineage grandfather",
+                  "Roles": [
+                    "case-figure",
+                    "teacher"
+                  ],
+                  "GrammarEvidence": "Pinjixiang introduces Bianshan's later Chan-board action and calls him his lineage grandfather. The exact headword follows current master says, so Bianshan remains contextual and is not guessed into a fuller canonical identity."
+                }
+              ]
             },
             {
               "RelPath": "X/X71/X71n1407.xml",
@@ -1082793,7 +1082811,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X71/X71n1407.xml). Recorded Sayings of Chan Master Xuzhou Pudu. Xuzhou Pudu places the full line at the close of his own question about how to act at the turning point."
+              "AttributionNote": "Source record (X/X71/X71n1407.xml). Recorded Sayings of Chan Master Xuzhou Pudu. At winter solstice, Xuzhou Pudu describes direct responsive use and a luminous pearl offered before the assembly, asking who can meet its price. Exhaustion leads to change and change to passage; the first drawn line brings thunder beneath the earth, while declining darkness and returning light make even the iron tree flower. He then asks how someone who understands will act here and gives the frosty-moon question. The season's turning supplies the occasion, but the companion at the pool remains a live question rather than a person identified by the preceding cosmic images. His address demands an effective response after the seasonal account."
             },
             {
               "RelPath": "X/X68/X68n1318.xml",
@@ -1082810,7 +1082828,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X68/X68n1318.xml). 續古尊宿語要. In the section headed Hongzhi Jue, he gives the complete line after asking how to act at that very moment."
+              "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. In Hongzhi Zhengjue's named section, the address describes close and open, quiet and illumined functioning, then calls this the Buddhas' resting home and the place where all things arise and cease. How is one to act at just this moment? After a pause Hongzhi answers with the moon-and-pool couplet. The following turn immediately contrasts guarding a household rule, which can lose flexible response, with establishing an open teaching house, which can lose settled rest. The clear and cold scene therefore belongs to an ongoing test of one's conduct, rather than completing the address by advising the assembly simply to remain quiet beside a pool."
             },
             {
               "RelPath": "X/X68/X68n1318.xml",
@@ -1082827,7 +1082845,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X68/X68n1318.xml). 續古尊宿語要. In the section headed Lanan Xu, he gives the complete line as his own answer to a monk asking about mind and object vanishing."
+              "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. A monk asks Lan'an Dingxu about mind and its surroundings: there has never been mind without a scene or a scene without mind, so what happens when each disappears without disturbing the other? Lan'an answers with the frosty-moon couplet. The monk replies with flowers in the capital and an oriole descending a willow; Lan'an warns against muddling the needlework. When the monk predicts that someone will raise this exchange in thirty years, Lan'an calls it a miserable handling. His subsequent address says that even Boya's playing requires a Ziqi who can listen. The question of who shares the reflection is thus tested by the monk's actual poetic responses and by the problem of an attuned listener."
             },
             {
               "RelPath": "X/X78/X78n1556.xml",
@@ -1082842,9 +1082860,32 @@
                   "Roles": [
                     "utterer"
                   ]
+                },
+                {
+                  "MasterName": "Nanquan Puyuan",
+                  "Roles": [
+                    "case-figure",
+                    "respondent"
+                  ]
+                },
+                {
+                  "MasterName": "Sengzhao",
+                  "Roles": [
+                    "person-discussed"
+                  ]
                 }
               ],
-              "AttributionNote": "Source record (X/X78/X78n1556.xml). 建中靖國續燈錄. The lamp section headed Xuedou Chongxian records the original complete verse line on Nanquan and Lu Gen?s flower exchange."
+              "AttributionNote": "Source record (X/X78/X78n1556.xml). Jianzhong Jingguo Continued Lamp Record. Xuedou Chongxian's named lamp section raises the official Lu Gen speaking with Nanquan Puyuan. Lu Gen quotes Sengzhao's claim that heaven and earth share his root and all things his body, calling it very strange. Nanquan points to a flower before the hall and says that people see that flower as though dreaming. Xuedou's verse then says hearing, seeing, awareness and knowing are not separate ones, and that mountains and rivers are not observed in a mirror, before giving the frosty moon and cold pool. Lu Gen's remark and Nanquan's flower are the earlier encounter; the complete couplet is Xuedou's poetic response. The final question leaves the sharing of that view open instead of announcing that either earlier participant has supplied its answer.",
+              "ContextActors": [
+                {
+                  "Status": "identified-non-master",
+                  "ActorLabel": "Lu Gen, the source-named official",
+                  "Roles": [
+                    "interlocutor"
+                  ],
+                  "GrammarEvidence": "The raised case explicitly names the official Lu Gen and gives his remark about Master Zhao's saying. Nanquan then points to the flower; the following verse belongs to Xuedou, not to Lu Gen."
+                }
+              ]
             }
           ],
           "ClaimAnchors": [
@@ -1082862,9 +1082903,16 @@
                     "utterer",
                     "record-owner"
                   ]
+                },
+                {
+                  "MasterName": "Pozao Duo",
+                  "Roles": [
+                    "case-figure",
+                    "person-discussed"
+                  ]
                 }
               ],
-              "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran Hanshi gives the entire inherited verse line as his own reply after asking how to break the mirror image.",
+              "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran Hanshi raises Pozao Duo's verse: a concave mirror makes a person thin, a convex one makes him fat, so break the mirror and restore the old face. Tianran asks about the mirror, the person, and the mountains and rivers appearing in it, then asks how the mirror is to be broken and the old face restored. He strikes his staff, asks whether the assembly understands, and gives the frosty-moon couplet. The answer returns to a reflected scene just when breaking the mirror has been demanded. Its question leaves a respondent to be found in the present encounter instead of supplying an optical explanation or a person's name to fill the place.",
               "ClaimText": "霜天月落夜將半，誰共澄潭照影寒"
             },
             {
@@ -1082883,8 +1082931,19 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J39/J39nB454.xml). Recorded Sayings of Chan Master Pinjixiang. Pinjixiang Zhixiang gives the full line as his own conclusion to a comment on Bianshan's use of the Chan board.",
-              "ClaimText": "霜天月落夜將半，誰共澄潭照影寒"
+              "AttributionNote": "Source record (J/J39/J39nB454.xml). Recorded Sayings of Chan Master Pinjixiang. Pinjixiang Zhixiang raises a report about his lineage grandfather Bianshan in his later years at Kongtong: he would knock and sing with a Chan board, and would also answer requests for instruction by knocking it. Pinjixiang comments on responsive functioning without a fixed direction and asks how many worlds there are within China. Does anyone understand this old man's intent at this very moment? The moon-and-pool couplet caps that question. Bianshan owns the earlier board action; Pinjixiang owns the appraisal and this present demand for someone who understands it. The nearby earlier Bianshan dialogue about thought is a separate raised case.",
+              "ClaimText": "霜天月落夜將半，誰共澄潭照影寒",
+              "ContextActors": [
+                {
+                  "Status": "identified-unlinked-master",
+                  "ActorLabel": "Bianshan, the source-named lineage grandfather",
+                  "Roles": [
+                    "case-figure",
+                    "teacher"
+                  ],
+                  "GrammarEvidence": "Pinjixiang introduces Bianshan's later Chan-board action and calls him his lineage grandfather. The exact headword follows current master says, so Bianshan remains contextual and is not guessed into a fuller canonical identity."
+                }
+              ]
             },
             {
               "RelPath": "X/X71/X71n1407.xml",
@@ -1082902,7 +1082961,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X71/X71n1407.xml). Recorded Sayings of Chan Master Xuzhou Pudu. Xuzhou Pudu places the full line at the close of his own question about how to act at the turning point.",
+              "AttributionNote": "Source record (X/X71/X71n1407.xml). Recorded Sayings of Chan Master Xuzhou Pudu. At winter solstice, Xuzhou Pudu describes direct responsive use and a luminous pearl offered before the assembly, asking who can meet its price. Exhaustion leads to change and change to passage; the first drawn line brings thunder beneath the earth, while declining darkness and returning light make even the iron tree flower. He then asks how someone who understands will act here and gives the frosty-moon question. The season's turning supplies the occasion, but the companion at the pool remains a live question rather than a person identified by the preceding cosmic images. His address demands an effective response after the seasonal account.",
               "ClaimText": "霜天月落夜將半，誰共澄潭照影寒"
             },
             {
@@ -1082920,7 +1082979,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X68/X68n1318.xml). 續古尊宿語要. In the section headed Hongzhi Jue, he gives the complete line after asking how to act at that very moment.",
+              "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. In Hongzhi Zhengjue's named section, the address describes close and open, quiet and illumined functioning, then calls this the Buddhas' resting home and the place where all things arise and cease. How is one to act at just this moment? After a pause Hongzhi answers with the moon-and-pool couplet. The following turn immediately contrasts guarding a household rule, which can lose flexible response, with establishing an open teaching house, which can lose settled rest. The clear and cold scene therefore belongs to an ongoing test of one's conduct, rather than completing the address by advising the assembly simply to remain quiet beside a pool.",
               "ClaimText": "霜天月落夜將半，誰共澄潭照影寒"
             },
             {
@@ -1082938,7 +1082997,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X68/X68n1318.xml). 續古尊宿語要. In the section headed Lanan Xu, he gives the complete line as his own answer to a monk asking about mind and object vanishing.",
+              "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. A monk asks Lan'an Dingxu about mind and its surroundings: there has never been mind without a scene or a scene without mind, so what happens when each disappears without disturbing the other? Lan'an answers with the frosty-moon couplet. The monk replies with flowers in the capital and an oriole descending a willow; Lan'an warns against muddling the needlework. When the monk predicts that someone will raise this exchange in thirty years, Lan'an calls it a miserable handling. His subsequent address says that even Boya's playing requires a Ziqi who can listen. The question of who shares the reflection is thus tested by the monk's actual poetic responses and by the problem of an attuned listener.",
               "ClaimText": "霜天月落夜將半，誰共澄潭照影寒"
             },
             {
@@ -1082954,10 +1083013,33 @@
                   "Roles": [
                     "utterer"
                   ]
+                },
+                {
+                  "MasterName": "Nanquan Puyuan",
+                  "Roles": [
+                    "case-figure",
+                    "respondent"
+                  ]
+                },
+                {
+                  "MasterName": "Sengzhao",
+                  "Roles": [
+                    "person-discussed"
+                  ]
                 }
               ],
-              "AttributionNote": "Source record (X/X78/X78n1556.xml). 建中靖國續燈錄. The lamp section headed Xuedou Chongxian records the original complete verse line on Nanquan and Lu Gen?s flower exchange.",
-              "ClaimText": "霜天月落夜將半，誰共澄潭照影寒"
+              "AttributionNote": "Source record (X/X78/X78n1556.xml). Jianzhong Jingguo Continued Lamp Record. Xuedou Chongxian's named lamp section raises the official Lu Gen speaking with Nanquan Puyuan. Lu Gen quotes Sengzhao's claim that heaven and earth share his root and all things his body, calling it very strange. Nanquan points to a flower before the hall and says that people see that flower as though dreaming. Xuedou's verse then says hearing, seeing, awareness and knowing are not separate ones, and that mountains and rivers are not observed in a mirror, before giving the frosty moon and cold pool. Lu Gen's remark and Nanquan's flower are the earlier encounter; the complete couplet is Xuedou's poetic response. The final question leaves the sharing of that view open instead of announcing that either earlier participant has supplied its answer.",
+              "ClaimText": "霜天月落夜將半，誰共澄潭照影寒",
+              "ContextActors": [
+                {
+                  "Status": "identified-non-master",
+                  "ActorLabel": "Lu Gen, the source-named official",
+                  "Roles": [
+                    "interlocutor"
+                  ],
+                  "GrammarEvidence": "The raised case explicitly names the official Lu Gen and gives his remark about Master Zhao's saying. Nanquan then points to the flower; the following verse belongs to Xuedou, not to Lu Gen."
+                }
+              ]
             }
           ],
           "SourceTexts": [
@@ -1082973,10 +1083055,13 @@
             "Xuzhou Pudu",
             "Hongzhi Zhengjue",
             "Lan'an Dingxu",
-            "Xuedou Chongxian"
+            "Xuedou Chongxian",
+            "Pozao Duo",
+            "Nanquan Puyuan",
+            "Sengzhao"
           ],
           "RelatedTerms": [],
-          "Explanation": "\"In a frosty sky the moon sets as night passes its midpoint; who shares the clear pool's cold reflection?\" gives a clear scene and leaves its companion unnamed. Later masters use the inherited verse line as a concluding challenge. Tianran gives it after a question about the mirror image; Pinjixiang gives it after his comment on Bianshan's Chan board. Xuzhou Pudu places it after a question about how to act at the turning point. Hongzhi Zhengjue and Lanan Dingxu both use the line in separate named sayings sections of X68n1318; X78n1556 preserves the Xuedou verse under his own section."
+          "Explanation": "The couplet joins a clear, cold reflected scene to a question about who can share or answer it. The records make that question work through mirror-breaking, a Chan board, a seasonal turning, and different live exchanges rather than naming one fixed companion. Tianran Hanshi raises Pozao Duo's verse: a concave mirror makes a person thin, a convex one makes him fat, so break the mirror and restore the old face. Tianran asks about the mirror, the person, and the mountains and rivers appearing in it, then asks how the mirror is to be broken and the old face restored. He strikes his staff, asks whether the assembly understands, and gives the frosty-moon couplet. The answer returns to a reflected scene just when breaking the mirror has been demanded. Its question leaves a respondent to be found in the present encounter instead of supplying an optical explanation or a person's name to fill the place. Pinjixiang Zhixiang raises a report about his lineage grandfather Bianshan in his later years at Kongtong: he would knock and sing with a Chan board, and would also answer requests for instruction by knocking it. Pinjixiang comments on responsive functioning without a fixed direction and asks how many worlds there are within China. Does anyone understand this old man's intent at this very moment? The moon-and-pool couplet caps that question. Bianshan owns the earlier board action; Pinjixiang owns the appraisal and this present demand for someone who understands it. The nearby earlier Bianshan dialogue about thought is a separate raised case. At winter solstice, Xuzhou Pudu describes direct responsive use and a luminous pearl offered before the assembly, asking who can meet its price. Exhaustion leads to change and change to passage; the first drawn line brings thunder beneath the earth, while declining darkness and returning light make even the iron tree flower. He then asks how someone who understands will act here and gives the frosty-moon question. The season's turning supplies the occasion, but the companion at the pool remains a live question rather than a person identified by the preceding cosmic images. His address demands an effective response after the seasonal account. In Hongzhi Zhengjue's named section, the address describes close and open, quiet and illumined functioning, then calls this the Buddhas' resting home and the place where all things arise and cease. How is one to act at just this moment? After a pause Hongzhi answers with the moon-and-pool couplet. The following turn immediately contrasts guarding a household rule, which can lose flexible response, with establishing an open teaching house, which can lose settled rest. The clear and cold scene therefore belongs to an ongoing test of one's conduct, rather than completing the address by advising the assembly simply to remain quiet beside a pool. A monk asks Lan'an Dingxu about mind and its surroundings: there has never been mind without a scene or a scene without mind, so what happens when each disappears without disturbing the other? Lan'an answers with the frosty-moon couplet. The monk replies with flowers in the capital and an oriole descending a willow; Lan'an warns against muddling the needlework. When the monk predicts that someone will raise this exchange in thirty years, Lan'an calls it a miserable handling. His subsequent address says that even Boya's playing requires a Ziqi who can listen. The question of who shares the reflection is thus tested by the monk's actual poetic responses and by the problem of an attuned listener. Xuedou Chongxian's named lamp section raises the official Lu Gen speaking with Nanquan Puyuan. Lu Gen quotes Sengzhao's claim that heaven and earth share his root and all things his body, calling it very strange. Nanquan points to a flower before the hall and says that people see that flower as though dreaming. Xuedou's verse then says hearing, seeing, awareness and knowing are not separate ones, and that mountains and rivers are not observed in a mirror, before giving the frosty moon and cold pool. Lu Gen's remark and Nanquan's flower are the earlier encounter; the complete couplet is Xuedou's poetic response. The final question leaves the sharing of that view open instead of announcing that either earlier participant has supplied its answer."
         }
       ]
     },
