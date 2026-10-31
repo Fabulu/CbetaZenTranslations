@@ -29690,7 +29690,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J29/J29nB240.xml). Recorded Sayings of Chan Master Tiebiji of Qingzhong. Yanyang asks the counterquestion; Tiebi then instructs present students to relinquish the claim of bringing nothing.",
+              "AttributionNote": "Source record (J/J29/J29nB240.xml). Recorded Sayings of Chan Master Tiebiji of Qingzhong. Tiebi Huiji first urges listeners not to be deceived by distinctions such as principle and affairs, ordinary and holy, or even their own aversion to them. He then cites the old encounter: Yanyang says he has brought nothing, Zhaozhou tells him to put it down, and Yanyang asks what there is to put down if nothing was brought. Zhaozhou replies that if he cannot put it down, he should carry it away. Tiebi tells present students that they still refuse to let go precisely at the claim of bringing nothing. The exact counterquestion is Yanyang's older voice; Tiebi applies it to an attachment hidden inside a claim of emptiness.",
               "ActorAttribution": {
                 "Status": "identified-unlinked-master",
                 "Kind": "named older case questioner",
@@ -29725,7 +29725,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J33/J33nB284.xml). Later Record of Chan Master Yezhu of Mount Song in Yizhou. Yanyang asks the counterquestion; Yezhu directs his student to Zhaozhou’s next turn.",
+              "AttributionNote": "Source record (J/J33/J33nB284.xml). Later Record of Chan Master Yezhu of Mount Song in Yizhou. In instruction addressed to a student named Pumi, Yezhu Fuhui recounts Yanyang's question to Zhaozhou: with nothing brought, what can be put down? After Zhaozhou answers that what cannot be put down must be carried away, the source says Yanyang awakened. Yezhu tells Pumi to look at that final reply if he wants to understand the matter, because meeting a capable teacher at the outset changes the encounter. The exact headword belongs to Yanyang's quoted challenge; Yezhu is the present instructor and does not claim to have spoken Yanyang's line.",
               "ActorAttribution": {
                 "Status": "identified-unlinked-master",
                 "Kind": "named older case questioner",
@@ -29760,7 +29760,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan. Yanyang asks the counterquestion; Zhe’an responds in a fresh verse on carrying poverty home.",
+              "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan. Zhe'an Jingfan sets the Yanyang-Zhaozhou exchange among a series of old cases followed by his own verses. In the quoted case Yanyang asks what he could put down when he brings nothing; Zhaozhou tells him to carry away what he cannot put down. Zhe'an's new four-line verse depicts a cold stove, searching for wild fire, a night with no quilt, and a whole family so poor that it buys yet another load of sorrow. His verse turns the case's paradox into an image of needlessly carrying what one says one does not possess. The exact question remains Yanyang's older speech, not a line from Zhe'an's verse.",
               "ActorAttribution": {
                 "Status": "identified-unlinked-master",
                 "Kind": "named older case questioner",
@@ -29795,7 +29795,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X70/X70n1400.xml). Recorded Sayings of Chan Master Gaofeng Yuanmiao. Yanyang asks the counterquestion; Gaofeng follows the case with a new verse of hook and line.",
+              "AttributionNote": "Source record (X/X70/X70n1400.xml). Recorded Sayings of Chan Master Gaofeng Yuanmiao. Gaofeng Yuanmiao includes the Yanyang-Zhaozhou exchange in a sequence of old cases with his own verses. Here Zhaozhou's final reply is recorded as 'I see you cannot put it down,' a different recension from the 'carry it away' wording in the other three witnesses; Yanyang is said to awaken immediately. Gaofeng follows with a verse of swallowing and spitting, then drawing a fishing line to find that the hook was there all along. The exact counterquestion still belongs to the older Yanyang, while Gaofeng's separate verse reflects on the trap already present in the exchange.",
               "ActorAttribution": {
                 "Status": "identified-unlinked-master",
                 "Kind": "named older case questioner",
@@ -29815,7 +29815,152 @@
               }
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J29/J29nB240.xml",
+              "FromLb": "0561c07",
+              "ToLb": "0561c25",
+              "Kwic": "不被理瞞、不被事瞞，不被凡瞞、不被聖瞞，不被佛瞞、不被眾生瞞，不被古往今來無明煩惱、貪嗔癡慢、苦樂冤親等瞞。若遇古往今來無明煩惱、貪嗔癡慢、苦樂冤親等也截斷，佛也截斷、眾生也截斷，凡也截斷、聖也截斷，理也截斷、事也截斷，人也截斷、己也截斷。古德云：『毫釐繫念，三途業因。瞥爾情生，萬劫羈鎖。』聖名凡號，盡是虛聲。殊相劣形，皆為幻色。汝欲求之，得無累乎？及其厭之，又成大患。不見嚴陽尊者問趙州：『一物不將來時如何？』州云：『放下著。』者云：『一物不將來，放下箇甚麼？』州云：『放不下，擔取去。』今之參禪人，只是不肯於一物不將來處脫然放下。若肯放下，淨灑灑沒可把，如天普蓋，如地普擎，如月普照，如空普納，茶裡飯裡，覺來睡去，己還是己、人還是人，理還是理、事還是事，凡還是凡、聖還是聖，佛還是佛、眾生還是眾生，古往今來無明煩惱、貪嗔癡慢、苦樂冤親，還是古往今來無明煩惱、貪嗔癡慢、苦樂冤親，不曾減一分毫、不曾增一分毫，不曾同一分毫、不曾異一分毫。故經云：『是法平等，無有高下。』又云：『一切賢聖，皆以無為法而",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Qingzhong Tiebi Huiji",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J29/J29nB240.xml). Recorded Sayings of Chan Master Tiebiji of Qingzhong. Tiebi Huiji first urges listeners not to be deceived by distinctions such as principle and affairs, ordinary and holy, or even their own aversion to them. He then cites the old encounter: Yanyang says he has brought nothing, Zhaozhou tells him to put it down, and Yanyang asks what there is to put down if nothing was brought. Zhaozhou replies that if he cannot put it down, he should carry it away. Tiebi tells present students that they still refuse to let go precisely at the claim of bringing nothing. The exact counterquestion is Yanyang's older voice; Tiebi applies it to an attachment hidden inside a claim of emptiness.",
+              "ActorAttribution": {
+                "Status": "identified-unlinked-master",
+                "Kind": "named older case questioner",
+                "ActorLabel": "Yanyang Zunzhe (嚴陽尊者)",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The retained case explicitly introduces Yanyang as the questioner and attributes the exact counterquestion to him before Zhaozhou replies.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "Codex source-first case review",
+                "ReviewedUtc": "2026-10-29T12:00:00Z"
+              },
+              "ClaimText": "一物不將來，放下箇甚麼"
+            },
+            {
+              "RelPath": "J/J33/J33nB284.xml",
+              "FromLb": "0442c23",
+              "ToLb": "0443a15",
+              "Kwic": "？示大用示大用欲識大道真體，不離聲色言語。若如是解，諸法常現前矣！且如何是現前的法？莫是青山綠水、翠竹黃花，雀噪鴉鳴、牛行虎視，擔囊負缽、瞻風撥草，問玅問玄、示境示機，叫去呼來、生擒活捉，千般說、萬般喻，小中現大、大中現小麼？正眼看來總沒交涉。何也？大用現前，不存軌則。示普祕示普祕如來有密語，迦葉不覆藏。既不覆藏，而十箇五雙問著不知者，何也？打初不遇作家，到底翻成骨董。看他嚴昜尊者問趙州：「一物不將來時如何？」州云：「放下著。」昜云：「一物不將來，放下箇甚麼？」州云：「放不下，擔取去。」昜從此悟入。此打頭遇著作家，自然合轍的樣子也。普祕欲明大事，須向放不下擔取去處著眼始得。示普諝示普諝棒頭取證、喝下承當，終是泥裏洗土，何況奇言玅句、四六對偶，一一精緻、一一古奧，為學人作則也？又況進前退後、左之右之，隔夜送語，百度思維，當我宗門極則事也，正是韓盧逐塊，真可憐也。不見道：「擊石火、閃電光，猶遲八刻；才落擬議，白雲萬里矣！」倘能七尺單前、三條椽下，朝參暮請、忘疲忘倦，時時爾、刻刻爾，忽地撞斷眉毛",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yezhu Fuhui",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J33/J33nB284.xml). Later Record of Chan Master Yezhu of Mount Song in Yizhou. In instruction addressed to a student named Pumi, Yezhu Fuhui recounts Yanyang's question to Zhaozhou: with nothing brought, what can be put down? After Zhaozhou answers that what cannot be put down must be carried away, the source says Yanyang awakened. Yezhu tells Pumi to look at that final reply if he wants to understand the matter, because meeting a capable teacher at the outset changes the encounter. The exact headword belongs to Yanyang's quoted challenge; Yezhu is the present instructor and does not claim to have spoken Yanyang's line.",
+              "ActorAttribution": {
+                "Status": "identified-unlinked-master",
+                "Kind": "named older case questioner",
+                "ActorLabel": "Yanyang Zunzhe (嚴陽尊者)",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The retained case explicitly introduces Yanyang as the questioner and attributes the exact counterquestion to him before Zhaozhou replies.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "Codex source-first case review",
+                "ReviewedUtc": "2026-10-29T12:00:00Z"
+              },
+              "ClaimText": "一物不將來，放下箇甚麼"
+            },
+            {
+              "RelPath": "J/J36/J36nB369.xml",
+              "FromLb": "0986b07",
+              "ToLb": "0986b28",
+              "Kwic": "是。」頌曰：「三鳥翩翩海上來，一雙飛去入瑤臺。可憐殺羽空山裏，獨立寒枝怨野梅。」南陽萬安松庭嚴禪師，首參息菴有省，復於淳拙處舉所得質之，拙曰：「子不聞蠱毒之家水莫嘗否？」師曰：「也須吞得去，吐得出，始是肚皮。」拙曰：「蒼天中更添冤苦。」師曰：「謝和尚記莂。」拙復以寶鏡三昧徵之，大豁疑礙。頌曰：「於彼於此，金針玉線。海嶽夷平，鶤鵬化變。薦不薦，但見花開滿洛陽，不道春風在梁苑。」嚴陽尊者問趙州：「一物不將來時如何？」州曰：「放下著。」曰：「一物不將來，放下箇甚麼？」州曰：「放不下，擔取去。」頌曰：「灶冷無煙尋野火，夜寒沒被蓋簑衣。渾家寂寞難消遣，更買窮愁一擔歸。」藥山一日因遵布衲浴佛，乃曰：「者箇從汝浴，還浴得那箇麼？」曰：「把將那箇來。」師乃休去。頌曰：「昨夜星光照濕泥，五更依舊雨凄凄，人心懊惱難窺測，說道東方卻在西。」凝然改禪師。一日，嚴舉月印示眾曰：「路逢死蛇莫打殺，無底籃兒盛將歸。此是深明洞上宗旨。若是箇鹵莽禪和，到者裏如何透得？」師曰：「者箇莫是背觸不得底意麼？」嚴曰：「笑破山僧口。",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Zhe'an Jingfan",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan. Zhe'an Jingfan sets the Yanyang-Zhaozhou exchange among a series of old cases followed by his own verses. In the quoted case Yanyang asks what he could put down when he brings nothing; Zhaozhou tells him to carry away what he cannot put down. Zhe'an's new four-line verse depicts a cold stove, searching for wild fire, a night with no quilt, and a whole family so poor that it buys yet another load of sorrow. His verse turns the case's paradox into an image of needlessly carrying what one says one does not possess. The exact question remains Yanyang's older speech, not a line from Zhe'an's verse.",
+              "ActorAttribution": {
+                "Status": "identified-unlinked-master",
+                "Kind": "named older case questioner",
+                "ActorLabel": "Yanyang Zunzhe (嚴陽尊者)",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The retained case explicitly introduces Yanyang as the questioner and attributes the exact counterquestion to him before Zhaozhou replies.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "Codex source-first case review",
+                "ReviewedUtc": "2026-10-29T12:00:00Z"
+              },
+              "ClaimText": "一物不將來，放下箇甚麼"
+            },
+            {
+              "RelPath": "X/X70/X70n1400.xml",
+              "FromLb": "0694c21",
+              "ToLb": "0695a24",
+              "Kwic": "明珠，一槌俱粉碎，清光何處無？木佛不度火，掣開金殿鎖，內外絕遮欄，時人猶懡㦬。趙州無字。趙州狗子佛性無，十分春色播江湖。幾多摘葉尋枝客，空使洛陽花滿途。趙州一日在佛殿上見文遠侍者禮佛，以拄杖打遠一下，遠云：禮佛也是好事。州云：好事不如無。禮佛修行不較多，何須特地起干戈。直饒打得回頭後，兔子何曾離得窠。萬法歸一，一歸何處？四面洪波萬丈深，上天無路地無門。箇中有理應難訴，不是愁人也斷魂。嚴陽尊者問趙州：一物不將來時如何？州云：放下著。陽云：一物不將來，放下箇甚麼？州云：看你放不下。陽當下大悟。吞而復吐冷烟浮，月落寒山猶未休。重把絲綸輕一掣，豈知元只在鈎頭。尼問趙州密密意，州以腕上掐一掐，尼云：和尚猶有遮箇在。州云：你猶有遮箇在。猛虎深藏淺草窠，幾回明月入烟蘿。頂門縱有金剛眼，未免當頭蹉過他。臨濟示眾云：赤肉團上有一無位真人，常在面門出入。颯颯秋風滿院涼，芬芳籬菊半經霜。可憐不遇攀花手，狼籍枝頭多少香。僧問興化：四方八面來時如何？化云：打中間底。僧便禮拜，化云：我昨日赴箇村齋，中途遇卒風暴雨，却",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Gaofeng Yuanmiao",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X70/X70n1400.xml). Recorded Sayings of Chan Master Gaofeng Yuanmiao. Gaofeng Yuanmiao includes the Yanyang-Zhaozhou exchange in a sequence of old cases with his own verses. Here Zhaozhou's final reply is recorded as 'I see you cannot put it down,' a different recension from the 'carry it away' wording in the other three witnesses; Yanyang is said to awaken immediately. Gaofeng follows with a verse of swallowing and spitting, then drawing a fishing line to find that the hook was there all along. The exact counterquestion still belongs to the older Yanyang, while Gaofeng's separate verse reflects on the trap already present in the exchange.",
+              "ActorAttribution": {
+                "Status": "identified-unlinked-master",
+                "Kind": "named older case questioner",
+                "ActorLabel": "Yanyang Zunzhe (嚴陽尊者)",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The retained case explicitly introduces Yanyang as the questioner and attributes the exact counterquestion to him before Zhaozhou replies.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "Codex source-first case review",
+                "ReviewedUtc": "2026-10-29T12:00:00Z"
+              },
+              "ClaimText": "一物不將來，放下箇甚麼"
+            }
+          ],
           "SourceTexts": [
             "J/J29/J29nB240.xml",
             "J/J33/J33nB284.xml",
@@ -29829,7 +29974,7 @@
             "Gaofeng Yuanmiao"
           ],
           "RelatedTerms": [],
-          "Explanation": "Yanyang challenges Zhaozhou: if he has brought nothing, what could he possibly put down? Tiebi and Yezhu quote the exchange but draw different lessons from the reply: Tiebi presses release, while Yezhu directs attention to Zhaozhou’s next words. Zhe’an and Gaofeng each compose their own response verse to the case."
+          "Explanation": "Yanyang asks what he could put down if he has brought nothing, exposing attachment hidden in the claim of having nothing. Tiebi cites Yanyang's exchange with Zhaozhou to press his current students to release the claim itself. Yezhu tells Pumi to attend to Zhaozhou's next reply, after which the older Yanyang is said to awaken. Zhe'an writes a verse about bringing home another load of sorrow, while Gaofeng writes a fishing-hook verse after a recension in which Zhaozhou says, 'I see you cannot put it down.' In all four sources the exact counterquestion remains Yanyang's old voice, with different present teachers commenting on it."
         }
       ]
     },
