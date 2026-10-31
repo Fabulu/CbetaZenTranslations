@@ -87861,42 +87861,6 @@
           "Note": "The paired formula does not claim that conditioned forms themselves never alter.",
           "Occurrences": [
             {
-              "RelPath": "T/T48/T48n2016.xml",
-              "FromLb": "0440a27",
-              "ToLb": "0440b06",
-              "Kwic": "一向說有真有妄。若破相宗。一向說非真非妄。此二門各著一邊。俱可思議。今此圓宗。前空有二門俱存。又不違礙。此乃不可思議。若定說有無二門。皆可思議。今以不染而染。則不變隨緣。染而不染。則隨緣不變。實不可以有無思。亦不可為真妄惑。斯乃不思議之宗趣。非情識之所知。今假設文義對治。只為破其邪執。若情虛則智絕。病差則藥消。能窮始末之由。方",
-              "ClaimText": "一向說有真有妄。若破相宗。一向說非真非妄。此二門各著一邊。俱可思議。今此圓宗。前空有二門俱存。又不違礙。此乃不可思議。若定說有無二門。皆可思議。今以不染而染。則不變隨緣。染而不染。則隨緣不變。實不可以有無思。亦不可為真妄惑。斯乃不思議之宗趣。非情識之所知。今假設文義對治。只為破其邪執。若情虛則智絕。病差則藥消。能窮始末之由。方",
-              "MasterName": "Yongming Yanshou",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Yongming Yanshou",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School identifies the actor: Yongming Yanshou is the exact headword-bearing speaker or author identified by the complete case and its section ownership."
-            },
-            {
-              "RelPath": "X/X63/X63n1255.xml",
-              "FromLb": "0737b24",
-              "ToLb": "0737c09",
-              "Kwic": "文字是魔業，名相是魔業，至於佛語亦是魔業。是此意也。此直舉本分佛祖無功能，乾坤失色，日月無光。然法有多義，人有多機，不妨施設。法者，一物也；人者，眾生也。法有不變隨緣之義，人有頓悟漸修之機，故不妨文字語言之施設也。此所謂官不容針，私通車馬者也。眾生雖曰圓成，生無慧目，甘受輪轉，故若非出世之金鎞，誰刮無明之厚膜也？至於越苦海而登樂岸者，皆由大悲之恩也。",
-              "ClaimText": "：文字是魔業，名相是魔業，至於佛語亦是魔業。是此意也。此直舉本分佛祖無功能，乾坤失色，日月無光。然法有多義，人有多機，不妨施設。法者，一物也；人者，眾生也。法有不變隨緣之義，人有頓悟漸修之機，故不妨文字語言之施設也。此所謂官不容針，私通車馬者也。眾生雖曰圓成，生無慧目，甘受輪轉，故若非出世之金鎞，誰刮無明之厚膜也？至於越苦海而",
-              "MasterName": "Hyujeong",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Hyujeong",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (X/X63/X63n1255.xml). Chan Household’s Tortoise Mirror identifies Hyujeong as the exact headword-bearing author."
-            },
-            {
               "RelPath": "J/J26/J26nB185.xml",
               "FromLb": "0610c20",
               "ToLb": "0610c29",
@@ -87912,44 +87876,159 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi identifies the actor: Fushi Tongxian is the exact headword-bearing speaker or author identified by the complete case and its section ownership."
+              "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. In a verse requested by West Hall master Wuqi, Fushi Tongxian pairs self and other with form and shadow. He says that following conditions without changing is hard to distinguish at the point of encounter, while the unchanging following conditions can be met everywhere. He then asks whether, right now, one should say following conditions or unchanging, and gives a new response to that old question. Fushi is the present author; Wuqi is the requester."
             },
             {
-              "RelPath": "T/T48/T48n2015.xml",
-              "FromLb": "0401b14",
-              "ToLb": "0401b23",
-              "Kwic": "辨識者。凡欲明解諸法性相。先須辨得法義。依法解義。義即分明。以義詮法。法即顯著。今且約世物明之。如真金隨工匠等緣作鐶釧椀盞種種器物。金性必不變為銅鐵。金即是法。不變隨緣是義。設有人問。說何物不變。何物隨緣。只合答云金也。以喻一藏經論義理。只是說心。心即是法。一切是義。故經云。無量義者從一法生。然無量義統唯二種。一不變。二隨緣。",
-              "ClaimText": "辨識者。凡欲明解諸法性相。先須辨得法義。依法解義。義即分明。以義詮法。法即顯著。今且約世物明之。如真金隨工匠等緣作鐶釧椀盞種種器物。金性必不變為銅鐵。金即是法。不變隨緣是義。設有人問。說何物不變。何物隨緣。只合答云金也。以喻一藏經論義理。只是說心。心即是法。一切是義。故經云。無量義者從一法生。然無量義統唯二種。一不變。二隨緣。",
-              "MasterName": "Guifeng Zongmi",
+              "RelPath": "J/J26/J26nB178.xml",
+              "FromLb": "0125c04",
+              "ToLb": "0125c29",
+              "Kwic": "地平沉。且道端的在甚麼處？相識滿天下，知心能幾人。」喝一喝下座。老和尚忌日，拈香云：「先師在生，無法與人，山僧今日亦無可供養，單拈一瓣香，薰老和尚鼻孔，不圖報德，只明表信。且信又作麼生表？棒頭點出超方眼，無限瞎驢腳下行。」太守韋居士誕辰請上堂，云：「還有海屋添籌者麼？出來與老僧相見。」僧問：「光明透脫時如何？」師云：「八面玲瓏。」進云：「舉頭天外，看誰是者般人。」師云：「且莫詐明頭。」問：「擊碎蟠桃核，塞卻獅子口，請師道。」師云：「突出難辨。」僧喝一喝，師云：「亂統作麼。」乃云：「天空海闊，山高水長，明顯本來壽，歷彰福德容，自今至古，不遷不易，從本以來，無欠無餘，隨緣不變，不變隨緣，只要瞥悟無生，便見完全受用，以正法眼照耀人間，用勝妙手轉大法輪，翻十惡為十善，轉八識成四智，了無明即佛性，知煩惱即菩提，只在一念，功莫大焉。於是化風遍界清涼，德雲滿空現瑞，人天瞻仰有路，佛祖讚歎莫窮，法門廣大賴以流通，出世因緣從茲顯發，分明靈山一會，至今儼然未散。正當恁麼時，頌祝一句作麼生道？壽山高聳插霄漢，福海洪深不可量。」拍香几云：「還信得及麼？」遂喝一喝，卓拄杖下座。二十周年請上堂，「二十年來一剎那，靈光獨耀不消磨，追思自是妻兒事，感應道交兩不差，流水高山逍遙不盡，清風明月受用何多，不問禪道佛法，休說世網塵勞，面目本來恒自在，寂光三昧任呵呵。秪如向上一句又作",
+              "ClaimText": "不變隨緣",
+              "MasterName": "Feiyin Tongrong",
               "Curated": true,
               "ContextMasters": [
                 {
-                  "MasterName": "Guifeng Zongmi",
+                  "MasterName": "Feiyin Tongrong",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. At a birthday hall address requested by layman Governor Wei, Feiyin Tongrong answers questions from a monk before turning to the patron's occasion. He says innate longevity has never gained or lost anything, pairs following conditions with not changing and the unchanging with following conditions, and urges sudden recognition that can transform harmful conduct. He closes with a blessing on long life, strikes the incense table and raises his staff. Feiyin uses the formula to join stable nature with responsive action here."
+            },
+            {
+              "RelPath": "J/J28/J28nB203.xml",
+              "FromLb": "0173a14",
+              "ToLb": "0173b13",
+              "Kwic": "覿面千山，因斯各請直下回光，何妨親自出手？向無方便中屈施方便、沒功勳處權立功勳。就下平高，是處通途合轍；摧邪輔正，貴乎實地工夫，始見大道坦然，靈機豁爾，不勞動步，達本還鄉。與麼，與麼，即心於境頭頭妙；不與麼，不與麼，了境唯心法法同。與麼不與麼、不與麼卻與麼則且置，秪如掀翻四路葛藤，直截當陽一句又作麼生道？」驀拈拄杖，劃一劃，云：「一條界破青山色，左右逢原得自由。」解制，小參。「至理非理，無在不在，推倒界墻，踢翻牢寨，表裏一如，動止何礙？類絕比倫，古今超邁。且道：向上還有事也無？」乃豎拂子，云：「國祥山下清溪水，流入龍池聲一泒。」復喝一喝。解制，上堂。「湛寂虛玄，蟭螟眼裏橫安大千沙界；廓爾無跡，蚊蠓睫上倒卓百億須彌。一毫穿眾穴，以無餘剎海入微塵而不礙。隨緣不變，刀斧斫不開；不變隨緣，冰生於滴水。以此安居結夏，露柱燈籠咸成正覺；如此禁足護生，蝦蟆蚯蚓悉證圓通。便乃高超十地，不歷僧袛，物我一如，身心平等。直饒與麼，若據衲僧分上，國祥山未肯點首在。何謂？不見道：寒木在握兮全機可笑，秋水橫按兮半提可滅，使八極頂目者不自爭衡，見斯人兮駕御昂櫱。」復說偈云：「三月護生今已滿，一群水牯樂真機，打開欄圈無拘束，四野山田飽復歸。」下座。上元日，眾請上堂。僧問：「質稟陰陽造化成，而今覺得亦非真，不知末後何歸也，請問吾師作麼生？」師云：「日月光天德，山河壯帝都。」進云：「恁麼則幾度白雲空聚散，依前皓月復重圓。」師云：「未是你安身處。」進云：「早被學人看破了也。」師云：「眼在甚麼處？」僧便喝，師便打。乃云：「把住驢腮不敢聲，恐將佛法作人情，誰知日月燈明佛，倒腹傾腸",
+              "ClaimText": "不變隨緣",
+              "MasterName": "Yun'e Xi",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yun'e Xi",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB203.xml). Recorded Sayings of Chan Master Yune Xi. At a hall address marking the end of a summer retreat, Yun'e Xi says stillness can hold vast worlds without obstruction. He pairs following conditions without change with an image that cannot be cut open and the unchanging following conditions with ice arising from a drop of water. He then speaks of the retreat's protective practice and says that even the monastery pillars and creatures participate. He closes by challenging whether the assembly has actually reached the monk's point and gives a verse releasing the retreat. Yun'e voices the formula in this present address."
+            },
+            {
+              "RelPath": "J/J28/J28nB220.xml",
+              "FromLb": "0824a20",
+              "ToLb": "0824b18",
+              "Kwic": "，正好放去收來，縱橫祖道，豈料西風倏爾，撩起便行？今朝持服孝男雷臣居士等，特請山僧，於端表堂中重為舉揚。舉揚則且置，秖如起棺臨行一步作麼生道？還委悉麼？」遂近前，以手舉扛，云：「藩侯自北到江吳，九載恩垂道俗孚，疆外小城留不住，迎歸帝里壯皇圖。」復云：「起。」為少宰雪堂熊翁誥封夫人葉氏燒香為少宰雪堂熊翁誥封夫人葉氏燒香師云：「古謂：『諸行無常，是生滅法，生滅滅已，寂滅為樂。』生滅且置，秖如誥命夫人寂滅受用，畢竟如何？」打○相，云：「常光一段無今古，自在天中坐寶蓮。」遂燒香。為雪堂熊公大護法燒香為雪堂熊公大護法燒香師至靈前，云：「劫前鐵樹正芬芳，不落春秋不覆藏，枝葉疏疏撐宇宙，花開果熟落天香。恭惟大護法，朝廷柱石，佛法金湯，了多生向上之機，悟性中解脫之法，隨緣不變，常住世間；不變隨緣，性相不二。記得昔年在螺髻墩上，時公拈山僧杖云：『者條拄杖得恁麼直？』山僧云：『直且置，只如古人道，喚作拄杖則觸，不喚則背，不觸不背更作麼生？』公云：『且喜今日在弟子手中。』山僧徵云：『意旨如何？』公云：『撐天拄地。』山僧云：『珍重。』公便作禮。嗣後遂以臨濟一宗兩手分付，不意拋卻世緣，橫吹鐵笛，山僧直抵柩前，拈一炷香，奠一盃茶，以酬護法之德。還委悉麼？一片栴檀纔舉起，滿腔徹底骨毛寒，仰勞大眾𮘗經化楮。」為汝鍾閔老居士燒香為汝鍾閔老居士燒香「生本不生，死亦不死，一道圓明，古今不已。恭惟閔老居士，光吞日月，氣裂山川，風聲遠播於尼山，名實低回於鷲嶺。駕慈航，出宦海，了知自性本空；披繡服，禮圓通，親見觀音自在。非迷非悟，出脫凡情，是證是修，打翻聖諦。」以拂子打○相，云：「",
+              "ClaimText": "不變隨緣",
+              "MasterName": "Faxi Yin",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Faxi Yin",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB220.xml). Recorded Sayings of Chan Master Faxiyin. At the memorial for lay protector Xiong Xuetang, Faxi Yin stands before the coffin, praises the man's service to the court and to the teaching, and says he followed conditions without changing while his nature and its expression were not two. Faxi recalls an earlier exchange in which Xiong took his staff and answered how it could stand without being named a staff. Faxi then offers incense and tea for the deceased. The headword is Faxi's current memorial praise, while Xiong is the subject and the earlier staff interlocutor."
+            }
+          ],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J26/J26nB185.xml",
+              "FromLb": "0610c20",
+              "ToLb": "0610c29",
+              "Kwic": "個便是，摘花碓杵頭上，不假摩醯隻眼，洞徹元初意況。總然畫得成渠，也是範圍模樣。無奇西堂請無奇西堂請自他有異，形影還同，兩沒交涉，吞吐虛空。隨緣不變兮，突出難辨；不變隨緣兮，觸處皆逢。咄！正恁麼時，隨緣耶？不變耶？今日斬新翻舊案，曹谿無底水無痕。均實監院請均實監院請先天不生，後天不滅，正恁麼時，丰姿越格。握臨濟之吹毛，截野狐之窠",
+              "MasterName": "Fushi Tongxian",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Fushi Tongxian",
                   "Roles": [
                     "utterer"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (T/T48/T48n2015.xml). The cited collection identifies the actor: Guifeng Zongmi is the exact headword-bearing speaker or author identified by the complete case and its section ownership."
+              "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. In a verse requested by West Hall master Wuqi, Fushi Tongxian pairs self and other with form and shadow. He says that following conditions without changing is hard to distinguish at the point of encounter, while the unchanging following conditions can be met everywhere. He then asks whether, right now, one should say following conditions or unchanging, and gives a new response to that old question. Fushi is the present author; Wuqi is the requester.",
+              "ClaimText": "不變隨緣"
+            },
+            {
+              "RelPath": "J/J26/J26nB178.xml",
+              "FromLb": "0125c04",
+              "ToLb": "0125c29",
+              "Kwic": "地平沉。且道端的在甚麼處？相識滿天下，知心能幾人。」喝一喝下座。老和尚忌日，拈香云：「先師在生，無法與人，山僧今日亦無可供養，單拈一瓣香，薰老和尚鼻孔，不圖報德，只明表信。且信又作麼生表？棒頭點出超方眼，無限瞎驢腳下行。」太守韋居士誕辰請上堂，云：「還有海屋添籌者麼？出來與老僧相見。」僧問：「光明透脫時如何？」師云：「八面玲瓏。」進云：「舉頭天外，看誰是者般人。」師云：「且莫詐明頭。」問：「擊碎蟠桃核，塞卻獅子口，請師道。」師云：「突出難辨。」僧喝一喝，師云：「亂統作麼。」乃云：「天空海闊，山高水長，明顯本來壽，歷彰福德容，自今至古，不遷不易，從本以來，無欠無餘，隨緣不變，不變隨緣，只要瞥悟無生，便見完全受用，以正法眼照耀人間，用勝妙手轉大法輪，翻十惡為十善，轉八識成四智，了無明即佛性，知煩惱即菩提，只在一念，功莫大焉。於是化風遍界清涼，德雲滿空現瑞，人天瞻仰有路，佛祖讚歎莫窮，法門廣大賴以流通，出世因緣從茲顯發，分明靈山一會，至今儼然未散。正當恁麼時，頌祝一句作麼生道？壽山高聳插霄漢，福海洪深不可量。」拍香几云：「還信得及麼？」遂喝一喝，卓拄杖下座。二十周年請上堂，「二十年來一剎那，靈光獨耀不消磨，追思自是妻兒事，感應道交兩不差，流水高山逍遙不盡，清風明月受用何多，不問禪道佛法，休說世網塵勞，面目本來恒自在，寂光三昧任呵呵。秪如向上一句又作",
+              "MasterName": "Feiyin Tongrong",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Feiyin Tongrong",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. At a birthday hall address requested by layman Governor Wei, Feiyin Tongrong answers questions from a monk before turning to the patron's occasion. He says innate longevity has never gained or lost anything, pairs following conditions with not changing and the unchanging with following conditions, and urges sudden recognition that can transform harmful conduct. He closes with a blessing on long life, strikes the incense table and raises his staff. Feiyin uses the formula to join stable nature with responsive action here.",
+              "ClaimText": "不變隨緣"
+            },
+            {
+              "RelPath": "J/J28/J28nB203.xml",
+              "FromLb": "0173a14",
+              "ToLb": "0173b13",
+              "Kwic": "覿面千山，因斯各請直下回光，何妨親自出手？向無方便中屈施方便、沒功勳處權立功勳。就下平高，是處通途合轍；摧邪輔正，貴乎實地工夫，始見大道坦然，靈機豁爾，不勞動步，達本還鄉。與麼，與麼，即心於境頭頭妙；不與麼，不與麼，了境唯心法法同。與麼不與麼、不與麼卻與麼則且置，秪如掀翻四路葛藤，直截當陽一句又作麼生道？」驀拈拄杖，劃一劃，云：「一條界破青山色，左右逢原得自由。」解制，小參。「至理非理，無在不在，推倒界墻，踢翻牢寨，表裏一如，動止何礙？類絕比倫，古今超邁。且道：向上還有事也無？」乃豎拂子，云：「國祥山下清溪水，流入龍池聲一泒。」復喝一喝。解制，上堂。「湛寂虛玄，蟭螟眼裏橫安大千沙界；廓爾無跡，蚊蠓睫上倒卓百億須彌。一毫穿眾穴，以無餘剎海入微塵而不礙。隨緣不變，刀斧斫不開；不變隨緣，冰生於滴水。以此安居結夏，露柱燈籠咸成正覺；如此禁足護生，蝦蟆蚯蚓悉證圓通。便乃高超十地，不歷僧袛，物我一如，身心平等。直饒與麼，若據衲僧分上，國祥山未肯點首在。何謂？不見道：寒木在握兮全機可笑，秋水橫按兮半提可滅，使八極頂目者不自爭衡，見斯人兮駕御昂櫱。」復說偈云：「三月護生今已滿，一群水牯樂真機，打開欄圈無拘束，四野山田飽復歸。」下座。上元日，眾請上堂。僧問：「質稟陰陽造化成，而今覺得亦非真，不知末後何歸也，請問吾師作麼生？」師云：「日月光天德，山河壯帝都。」進云：「恁麼則幾度白雲空聚散，依前皓月復重圓。」師云：「未是你安身處。」進云：「早被學人看破了也。」師云：「眼在甚麼處？」僧便喝，師便打。乃云：「把住驢腮不敢聲，恐將佛法作人情，誰知日月燈明佛，倒腹傾腸",
+              "MasterName": "Yun'e Xi",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yun'e Xi",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB203.xml). Recorded Sayings of Chan Master Yune Xi. At a hall address marking the end of a summer retreat, Yun'e Xi says stillness can hold vast worlds without obstruction. He pairs following conditions without change with an image that cannot be cut open and the unchanging following conditions with ice arising from a drop of water. He then speaks of the retreat's protective practice and says that even the monastery pillars and creatures participate. He closes by challenging whether the assembly has actually reached the monk's point and gives a verse releasing the retreat. Yun'e voices the formula in this present address.",
+              "ClaimText": "不變隨緣"
+            },
+            {
+              "RelPath": "J/J28/J28nB220.xml",
+              "FromLb": "0824a20",
+              "ToLb": "0824b18",
+              "Kwic": "，正好放去收來，縱橫祖道，豈料西風倏爾，撩起便行？今朝持服孝男雷臣居士等，特請山僧，於端表堂中重為舉揚。舉揚則且置，秖如起棺臨行一步作麼生道？還委悉麼？」遂近前，以手舉扛，云：「藩侯自北到江吳，九載恩垂道俗孚，疆外小城留不住，迎歸帝里壯皇圖。」復云：「起。」為少宰雪堂熊翁誥封夫人葉氏燒香為少宰雪堂熊翁誥封夫人葉氏燒香師云：「古謂：『諸行無常，是生滅法，生滅滅已，寂滅為樂。』生滅且置，秖如誥命夫人寂滅受用，畢竟如何？」打○相，云：「常光一段無今古，自在天中坐寶蓮。」遂燒香。為雪堂熊公大護法燒香為雪堂熊公大護法燒香師至靈前，云：「劫前鐵樹正芬芳，不落春秋不覆藏，枝葉疏疏撐宇宙，花開果熟落天香。恭惟大護法，朝廷柱石，佛法金湯，了多生向上之機，悟性中解脫之法，隨緣不變，常住世間；不變隨緣，性相不二。記得昔年在螺髻墩上，時公拈山僧杖云：『者條拄杖得恁麼直？』山僧云：『直且置，只如古人道，喚作拄杖則觸，不喚則背，不觸不背更作麼生？』公云：『且喜今日在弟子手中。』山僧徵云：『意旨如何？』公云：『撐天拄地。』山僧云：『珍重。』公便作禮。嗣後遂以臨濟一宗兩手分付，不意拋卻世緣，橫吹鐵笛，山僧直抵柩前，拈一炷香，奠一盃茶，以酬護法之德。還委悉麼？一片栴檀纔舉起，滿腔徹底骨毛寒，仰勞大眾𮘗經化楮。」為汝鍾閔老居士燒香為汝鍾閔老居士燒香「生本不生，死亦不死，一道圓明，古今不已。恭惟閔老居士，光吞日月，氣裂山川，風聲遠播於尼山，名實低回於鷲嶺。駕慈航，出宦海，了知自性本空；披繡服，禮圓通，親見觀音自在。非迷非悟，出脫凡情，是證是修，打翻聖諦。」以拂子打○相，云：「",
+              "MasterName": "Faxi Yin",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Faxi Yin",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB220.xml). Recorded Sayings of Chan Master Faxiyin. At the memorial for lay protector Xiong Xuetang, Faxi Yin stands before the coffin, praises the man's service to the court and to the teaching, and says he followed conditions without changing while his nature and its expression were not two. Faxi recalls an earlier exchange in which Xiong took his staff and answered how it could stand without being named a staff. Faxi then offers incense and tea for the deceased. The headword is Faxi's current memorial praise, while Xiong is the subject and the earlier staff interlocutor.",
+              "ClaimText": "不變隨緣"
             }
           ],
-          "ClaimAnchors": [],
           "SourceTexts": [
-            "T/T48/T48n2016.xml",
-            "X/X63/X63n1255.xml",
             "J/J26/J26nB185.xml",
-            "T/T48/T48n2015.xml"
+            "J/J26/J26nB178.xml",
+            "J/J28/J28nB203.xml",
+            "J/J28/J28nB220.xml"
           ],
           "RelatedMasters": [
-            "Yongming Yanshou",
-            "Hyujeong",
             "Fushi Tongxian",
-            "Guifeng Zongmi"
+            "Feiyin Tongrong",
+            "Yun'e Xi",
+            "Faxi Yin"
           ],
           "RelatedTerms": [
             "隨緣"
           ],
-          "Explanation": "The formula joins an unchanged nature with responsive manifestation under conditions. Treatises explain it through gold or a bright jewel taking conditioned forms, and recorded sayings turn the paired formula into instruction. It does not claim that conditioned forms themselves never alter."
+          "Explanation": "The unchanging follows conditions: four admitted Chinese recorded-sayings contexts use the pair to test stable nature expressed in changing situations. In a verse requested by West Hall master Wuqi, Fushi Tongxian pairs self and other with form and shadow. He says that following conditions without changing is hard to distinguish at the point of encounter, while the unchanging following conditions can be met everywhere. He then asks whether, right now, one should say following conditions or unchanging, and gives a new response to that old question. Fushi is the present author; Wuqi is the requester. At a birthday hall address requested by layman Governor Wei, Feiyin Tongrong answers questions from a monk before turning to the patron's occasion. He says innate longevity has never gained or lost anything, pairs following conditions with not changing and the unchanging with following conditions, and urges sudden recognition that can transform harmful conduct. He closes with a blessing on long life, strikes the incense table and raises his staff. Feiyin uses the formula to join stable nature with responsive action here. At a hall address marking the end of a summer retreat, Yun'e Xi says stillness can hold vast worlds without obstruction. He pairs following conditions without change with an image that cannot be cut open and the unchanging following conditions with ice arising from a drop of water. He then speaks of the retreat's protective practice and says that even the monastery pillars and creatures participate. He closes by challenging whether the assembly has actually reached the monk's point and gives a verse releasing the retreat. Yun'e voices the formula in this present address. At the memorial for lay protector Xiong Xuetang, Faxi Yin stands before the coffin, praises the man's service to the court and to the teaching, and says he followed conditions without changing while his nature and its expression were not two. Faxi recalls an earlier exchange in which Xiong took his staff and answered how it could stand without being named a staff. Faxi then offers incense and tea for the deceased. The headword is Faxi's current memorial praise, while Xiong is the subject and the earlier staff interlocutor."
         }
       ]
     },
