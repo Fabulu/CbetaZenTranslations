@@ -39926,7 +39926,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu gives the complete proverb as his own reason for withholding another teaching point in a hall address."
+              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu quotes Guizong listing many ways people misapply their minds, then Guizong withholding one further point because a word entering an official gate cannot be pulled back. Tianyin counters with a list of ordinary and religious activities that need not misapply the mind. He too says he will not yet disclose one more point and gives his own reason: once a word is spoken, even four horses cannot catch it. He asks whether his treatment and Guizong's are the same or different, then answers with clearing snow and clouds. The headword is Tianyin's present check on a premature disclosure, distinct from Guizong's earlier proverb."
             },
             {
               "RelPath": "J/J26/J26nB187.xml",
@@ -39944,7 +39944,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tianan Sheng gives the complete proverb as his own answer when asked what the monastery furnace is refining."
+              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. At the opening of the monastery furnace, a monk asks Tian'an Sheng what is being refined if everyone already possesses what is needed. Tian'an answers with the proverb that a spoken word cannot be caught even by four horses. The monk claims this means arrival costs no effort; Tian'an presses him to state his effortless line and calls his answer too labored, then says he fails to distinguish good from bad. The proverb is Tian'an's direct answer to the refining question, while the follow-up tests the monk's quick interpretation."
             },
             {
               "RelPath": "J/J28/J28nB202.xml",
@@ -39962,7 +39962,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan gives the complete proverb as his own answer to a question about compassion in a hall exchange."
+              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. During a hall address requested by lay protectors, the senior monk Lu asks Baichi Xingyuan whether the master has any compassion before a lofty presence that a thousand sages cannot detain and myriad spirits cannot approach. Baichi answers that once a word is spoken, even four horses cannot catch it. Lu then asks whether coming and going changes the person or the setting; Baichi tells him to apply more effort, and their exchange continues. The proverb is Baichi's immediate reply to the compassion question, giving weight to what is said before the monk elaborates."
             },
             {
               "RelPath": "J/J35/J35nB342.xml",
@@ -39980,7 +39980,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J35/J35nB342.xml). Recorded Sayings of Chan Master Shengke (Huayan). Shengke Deyu speaks the complete proverb in his own residence opening, pairing it with the one-triggered mechanism."
+              "AttributionNote": "Source record (J/J35/J35nB342.xml). Recorded Sayings of Chan Master Shengke (Huayan). When Shengke Deyu enters Baoen Temple to take up residence, he speaks briefly at the gate and Buddha hall. In the abbot's quarters he shouts and says that once a word is spoken four horses cannot catch it, and once a mechanism is set off even ten thousand oxen cannot turn it back. He asks who will receive the decisive line that tames wild beasts, then shouts again. The paired images belong to Shengke's own opening rite and stress the force of an utterance or action once launched."
             },
             {
               "RelPath": "J/J38/J38nB407.xml",
@@ -39998,7 +39998,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J38/J38nB407.xml). Recorded Sayings of Chan Master Shengren of Qianshan. Qianshan Shengren Hanke gives the complete proverb in his own comment on whether Yaoshan should speak to a monk."
+              "AttributionNote": "Source record (J/J38/J38nB407.xml). Recorded Sayings of Chan Master Shengren of Qianshan. Qianshan Shengren Hanke raises an old case in which a monk asks Yaoshan to clarify his own matter. Yaoshan says it would be easy to give one sentence, but the monk must see it immediately or further thought would burden them both, so they had better keep their mouths shut. Qianshan asks whether Yaoshan did or did not speak to the monk; after a pause Qianshan gives the four-horse proverb. This is Qianshan's present appraisal of the risk and force of Yaoshan's utterance, not a line spoken by Yaoshan in the old case."
             },
             {
               "RelPath": "J/J40/J40nB494.xml",
@@ -40016,10 +40016,125 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan Shangsi gives the complete proverb as his own answer about why the three times Buddhas do not know."
+              "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. A monk asks Yushan Shangsi why the Buddhas of the three times do not know. Yushan answers with the proverb that a spoken word outruns a four-horse team. When another question asks why a black cat and white ox do know, he gives a different, compressed reply. The headword is Yushan's own response to the first question; the record leaves the object of knowing unstated, so the proverb should not be supplied with a fixed hidden referent."
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J25/J25nB171.xml",
+              "FromLb": "0536b17",
+              "ToLb": "0536c06",
+              "Kwic": "，語言三昧，是錯用心；喫粥喫飯，屙屎放溺，是錯用心；一動一靜，一往一來，是錯用心；更有一處錯用心，歸宗不敢與諸人說破。何故？一字入公門，九牛拽不出。』」師云：「歸宗和尚慣用抽釘拔楔之鉗錘，也是這般人始得。若不如是，洎被瞞過了也。山僧則不然，出家兒須知不錯用心處。參禪見性是不錯用心處，成佛作祖是不錯用心處，看經解義是不錯用心處，行住坐臥、語默動靜是不錯用心處，奔南走北、幹辦常住是不錯用心處。更有一處不錯用心，我未敢與諸人通箇消息在。何故？一言既出，駟馬難追。你道磬山與歸宗，是同是別？試道看。」良久，云：「復雨消殘雪，開雲見遠山。」除夕示眾，師云：「年年有箇除舊歲，歲歲有箇新年來。新舊不知誰改變，去來無礙莫疑猜。所以道：『已去無有去，未去亦無去。離已去未去，去時亦無去。已住無有住，未住亦無住。離已住未住，住時亦無住。』巖頭和尚云：『大凡唱教，須從無欲中流出。三句祇是理論，咬去咬住、欲去不去、欲住不住。或一向不去、或一向不住。』可見古人發言，直透一覽大藏。是故釋迦老子云：『我四十九年說法，未",
+              "MasterName": "Tianyin Yuanxiu",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Tianyin Yuanxiu",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu quotes Guizong listing many ways people misapply their minds, then Guizong withholding one further point because a word entering an official gate cannot be pulled back. Tianyin counters with a list of ordinary and religious activities that need not misapply the mind. He too says he will not yet disclose one more point and gives his own reason: once a word is spoken, even four horses cannot catch it. He asks whether his treatment and Guizong's are the same or different, then answers with clearing snow and clouds. The headword is Tianyin's present check on a premature disclosure, distinct from Guizong's earlier proverb.",
+              "ClaimText": "一言既出，駟馬難追"
+            },
+            {
+              "RelPath": "J/J26/J26nB187.xml",
+              "FromLb": "0675c19",
+              "ToLb": "0676a07",
+              "Kwic": "乃云：「世界闊一尺，火爐闊一尺；世界闊一丈，火爐闊一丈。與麼則世界總被火爐占盡了也，諸人向甚麼處安身立命？若者裏著得隻眼，三世諸佛在火燄上轉大法輪；其或未然，火燄燒殺三世諸佛。」上堂。問：「向上宗乘即不問，開爐一句是如何？」師云：「河無聲，狐始渡。」進云：「學人則不然。」師云：「你試亂統看。」進云：「大家團圞頭，共說無生話。」師云：「如何是無生話？」僧一喝，師云：「胡喝亂喝。」問：「人人本具，箇箇不無，大覺開爐，又煆煉箇甚麼？」師云：「一言既出，駟馬難追。」進云：「恁麼則蹋破艸鞋無覓處，得來全不費工夫。」師云：「如何是你不費工夫底句子？」進云：「大家抖擻精神去，親到靈山大徹堂。」師云：「太費力生。」進云：「謝師畣話。」師云：「好惡不識。」問：「今朝結制，端為何事？」師云：「馬頭覓角。」乃云：「今朝大覺開爐，奉告龍神土地：一、要叢林無難無災，二、要禪流少病少惱，三、要二時粥足飯足，四、要執事大小和諧。更有一要，山僧不能說得。何故？一字入公門，九牛拔不出。」晚參。「佩羅山劍，張石鞏弓，跨西",
+              "MasterName": "Tian'an Sheng",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Tian'an Sheng",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. At the opening of the monastery furnace, a monk asks Tian'an Sheng what is being refined if everyone already possesses what is needed. Tian'an answers with the proverb that a spoken word cannot be caught even by four horses. The monk claims this means arrival costs no effort; Tian'an presses him to state his effortless line and calls his answer too labored, then says he fails to distinguish good from bad. The proverb is Tian'an's direct answer to the refining question, while the follow-up tests the monk's quick interpretation.",
+              "ClaimText": "一言既出，駟馬難追"
+            },
+            {
+              "RelPath": "J/J28/J28nB202.xml",
+              "FromLb": "0055b12",
+              "ToLb": "0055b30",
+              "Kwic": "物焉黑如漆。拈起也，疑是地藏手中珠；放下也，卻似洞庭山裏橘。報君知，須委悉，初三十一，中九下七，昨日今朝，利市大吉，趙州勘破臺山婆，筠袁之人頭插筆，咄！」上堂。「心隨萬境轉，轉處實能幽，隨流認得性，無喜亦無憂。牛頭獄卒、羅漢聖僧，日與往往來來、哆哆和和，總是隨流底意，因甚山門內兩箇大漢不肯？」喝云：「令人轉憶謝三郎，一絲獨釣寒江雨。」眾護法請上堂。陸首座問：「巍巍堂堂，煒煒煌煌，千聖挽留不住，萬靈瞻仰無門，和尚還有慈悲處也無？」師云：「一言既出，駟馬難追。」進云：「來時翠草婆娑，去則萬林蕭索，還是以境換人？還是以人換境？」師云：「看汝重著力。」進云：「竿綸雖倦，何不且待春風？」師云：「大眾普聞。」進云：「珊瑚枕上雙行淚，半是思君半恨君。」師云：「愁人莫向愁人說。」乃云：「金鰻入井不輕出，青虎歸山不復來，惟有鴛鴦殿上月，年年夜照綠蘿苔。」呈拄杖，云：「金鰻出也，穿過毗盧鼻孔。」卓一卓，云：「青虎來也，裂破文殊眼睛。可中或遇箇不顧危亡底漢，走向風前，硬剝剝地生擒活捉，簸弄爪牙，也許伊同報不",
+              "MasterName": "Baichi Xingyuan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Baichi Xingyuan",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. During a hall address requested by lay protectors, the senior monk Lu asks Baichi Xingyuan whether the master has any compassion before a lofty presence that a thousand sages cannot detain and myriad spirits cannot approach. Baichi answers that once a word is spoken, even four horses cannot catch it. Lu then asks whether coming and going changes the person or the setting; Baichi tells him to apply more effort, and their exchange continues. The proverb is Baichi's immediate reply to the compassion question, giving weight to what is said before the monk elaborates.",
+              "ClaimText": "一言既出，駟馬難追"
+            },
+            {
+              "RelPath": "J/J35/J35nB342.xml",
+              "FromLb": "0784c19",
+              "ToLb": "0785a09",
+              "Kwic": "，云：「吾宗無語句。」師便下座，歸方丈。解制，上堂。「百日禪期業已終，解開布袋欲何從？」遂卓拄杖，云：「過頭拄杖隨身執，請續後句。若續得，即續；若續不得，待汝諸人到報恩寺為諸人續。」拽拄杖，下座。住重慶府報恩禪寺語錄重慶府報恩禪寺語錄壬子孟春望六日，渝城眾鄉紳耆庶暨舊住持超淪請師入院。三門。「恢基已久，門庭不設，如斯為人，卻也直捷。」佛殿。「是乾屎橛、是麻三斤，日面、月面，即心、非心，新報恩到來，覿面相逢又作麼生？」方丈。喝一喝，云：「一言既出，駟馬難追；一機纔發，萬牛莫回。擒虎兕、定龍蛇句分付阿誰？」復喝一喝。當日，眾紳士請上堂。拈疏，云：「文韜武略，擲地作金聲；江漢秋陽，翻空成玉露。大眾！見麼？」請維那宣過，指法座，云：「溈山左脅書字，嬾菴收放索頭，更有寒山、拾得，卻都是我同儔。」遂以右手理袈裟，左手將拄杖安頭上，云：「新報恩披毛戴角，入他者一夥群隊去也。」遂陞。拈香祝聖畢，末後拈香，云：「此一瓣香，蒙山言下知音，大隨钁頭斸得，此乃第二回拈出，爇向爐中，耑為傳臨濟正宗第三十一世破山",
+              "MasterName": "Shengke Deyu",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Shengke Deyu",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J35/J35nB342.xml). Recorded Sayings of Chan Master Shengke (Huayan). When Shengke Deyu enters Baoen Temple to take up residence, he speaks briefly at the gate and Buddha hall. In the abbot's quarters he shouts and says that once a word is spoken four horses cannot catch it, and once a mechanism is set off even ten thousand oxen cannot turn it back. He asks who will receive the decisive line that tames wild beasts, then shouts again. The paired images belong to Shengke's own opening rite and stress the force of an utterance or action once launched.",
+              "ClaimText": "一言既出，駟馬難追"
+            },
+            {
+              "RelPath": "J/J38/J38nB407.xml",
+              "FromLb": "0244b20",
+              "ToLb": "0244c10",
+              "Kwic": "老大大，話頭也不照顧？」戒便喝，師亦喝，戒拈棒，師拍手下去，戒云：「闍黎！闍黎，且住，話在。」師將坐具搭肩上，更不回首，直出去。拈云：「一個如龍得水，一個似虎靠山，簡點將來，二俱不了。且道甚處見他不了？有人辨得，老僧性命在汝手裡。」藥山因僧問：「己事未明，乞師指示。」師良久，云：「吾今為汝道一句亦不難，只宜汝於言下便見去，猶較些子，若更思量，卻成吾罪過。不如且各合口，免相累及。」拈云：「且道藥山當時是為者僧道？不為者僧道？」良久，云：「一言既出，駟馬難追。」藥山向手中書一「佛」字，問道吾：「是甚麼？」吾云：「佛字。」山云：「這多口阿師。」拈云：「汝道道吾當日不道佛字，得麼？不道佛字，又合道甚麼字？」良久，云：「識取鉤頭意，莫認定盤星。」藥山問僧：「年多少？」僧云：「七十二也。」師云：「是年七十二那？」僧云：「是。」師便打。拈云：「汝道者僧有喫棒分也無？為甚便打？若有，過在甚處？據老僧看來，盡天下僧俗凡聖、艸木叢林，盡須擔枷帶鎖始得。」僧問石霜：「咫尺之間，為甚不睹師顏？」師云：「我道偏",
+              "MasterName": "Qianshan Shengren Hanke",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Qianshan Shengren Hanke",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J38/J38nB407.xml). Recorded Sayings of Chan Master Shengren of Qianshan. Qianshan Shengren Hanke raises an old case in which a monk asks Yaoshan to clarify his own matter. Yaoshan says it would be easy to give one sentence, but the monk must see it immediately or further thought would burden them both, so they had better keep their mouths shut. Qianshan asks whether Yaoshan did or did not speak to the monk; after a pause Qianshan gives the four-horse proverb. This is Qianshan's present appraisal of the risk and force of Yaoshan's utterance, not a line spoken by Yaoshan in the old case.",
+              "ClaimText": "一言既出，駟馬難追"
+            },
+            {
+              "RelPath": "J/J40/J40nB494.xml",
+              "FromLb": "0585c06",
+              "ToLb": "0585c26",
+              "Kwic": "「恁麼則打破了也。」師云：「自首者免罪。」師初到天寧，上殿禮佛次，殿主階一問云：「作甚麼來？」師云：「禮佛。」階云：「我者裏無佛。」師云：「有，秪是你不肯承當。」階罔措，師呵呵大笑而去。天寧和尚一日指瓶花問眾云：「因甚者枝恁麼紅？那枝恁麼白？」荅者皆不愜。師代云：「兩彩一賽。」問：「牛過鐵窗櫺，頭角四蹄都過了，因甚尾巴過不得？」師云：「熟處難忘。」問：「如何得事事無礙去？」師云：「殺人放火有甚麼難？」問：「三世諸佛因甚不知有？」師云：「一言既出，駟馬難追。」「黧奴白牯因甚卻知有？」師云：「彩奔齪家。」問：「若以思惟心測度如來圓覺，如螢火燒須彌山，終不能爇。畢竟以何心得契圓覺？」師云：「今日冷似昨日。」問：「無邊身菩薩因甚不見世尊頂相？」師云：「窮坑難填。」書字次，僧問：「以字不成，八字不是，未審是箇甚麼字？」師舉筆云：「文彩全彰。」天寧以月忌日不遷單，僧問云：「既是事事無礙，今日因甚不遷單？」師云：「客隨主便。」問：「古德偈云：『方信普通年遠事，不從蔥嶺帶將來。』且道從甚處帶來？」師叉",
+              "MasterName": "Yushan Shangsi",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yushan Shangsi",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. A monk asks Yushan Shangsi why the Buddhas of the three times do not know. Yushan answers with the proverb that a spoken word outruns a four-horse team. When another question asks why a black cat and white ox do know, he gives a different, compressed reply. The headword is Yushan's own response to the first question; the record leaves the object of knowing unstated, so the proverb should not be supplied with a fixed hidden referent.",
+              "ClaimText": "一言既出，駟馬難追"
+            }
+          ],
           "SourceTexts": [
             "J/J25/J25nB171.xml",
             "J/J26/J26nB187.xml",
@@ -40037,7 +40152,7 @@
             "Yushan Shangsi"
           ],
           "RelatedTerms": [],
-          "Explanation": "\"Once a word is spoken, even a four-horse team cannot catch it\" pictures speech outrunning the fastest pursuit. These masters use the proverb to make a reply or teaching move consequential. Tianyin uses the proverb when withholding a further point; Tianan offers it as an answer about the monastery furnace. Baichi answers a hall question with it; Shengke speaks it during a residence opening. Qianshan uses it in a case appraisal, while Yushan gives it as his answer to a question about teaching."
+          "Explanation": "Once a word is spoken, even four horses cannot catch it: a proverb about the force and irreversibility of speech. These six teachers use it to withhold a point, challenge an answer, mark an opening rite or appraise an older case. Tianyin Yuanxiu quotes Guizong listing many ways people misapply their minds, then Guizong withholding one further point because a word entering an official gate cannot be pulled back. Tianyin counters with a list of ordinary and religious activities that need not misapply the mind. He too says he will not yet disclose one more point and gives his own reason: once a word is spoken, even four horses cannot catch it. He asks whether his treatment and Guizong's are the same or different, then answers with clearing snow and clouds. The headword is Tianyin's present check on a premature disclosure, distinct from Guizong's earlier proverb. At the opening of the monastery furnace, a monk asks Tian'an Sheng what is being refined if everyone already possesses what is needed. Tian'an answers with the proverb that a spoken word cannot be caught even by four horses. The monk claims this means arrival costs no effort; Tian'an presses him to state his effortless line and calls his answer too labored, then says he fails to distinguish good from bad. The proverb is Tian'an's direct answer to the refining question, while the follow-up tests the monk's quick interpretation. During a hall address requested by lay protectors, the senior monk Lu asks Baichi Xingyuan whether the master has any compassion before a lofty presence that a thousand sages cannot detain and myriad spirits cannot approach. Baichi answers that once a word is spoken, even four horses cannot catch it. Lu then asks whether coming and going changes the person or the setting; Baichi tells him to apply more effort, and their exchange continues. The proverb is Baichi's immediate reply to the compassion question, giving weight to what is said before the monk elaborates. When Shengke Deyu enters Baoen Temple to take up residence, he speaks briefly at the gate and Buddha hall. In the abbot's quarters he shouts and says that once a word is spoken four horses cannot catch it, and once a mechanism is set off even ten thousand oxen cannot turn it back. He asks who will receive the decisive line that tames wild beasts, then shouts again. The paired images belong to Shengke's own opening rite and stress the force of an utterance or action once launched. Qianshan Shengren Hanke raises an old case in which a monk asks Yaoshan to clarify his own matter. Yaoshan says it would be easy to give one sentence, but the monk must see it immediately or further thought would burden them both, so they had better keep their mouths shut. Qianshan asks whether Yaoshan did or did not speak to the monk; after a pause Qianshan gives the four-horse proverb. This is Qianshan's present appraisal of the risk and force of Yaoshan's utterance, not a line spoken by Yaoshan in the old case. A monk asks Yushan Shangsi why the Buddhas of the three times do not know. Yushan answers with the proverb that a spoken word outruns a four-horse team. When another question asks why a black cat and white ox do know, he gives a different, compressed reply. The headword is Yushan's own response to the first question; the record leaves the object of knowing unstated, so the proverb should not be supplied with a fixed hidden referent."
         }
       ]
     },
