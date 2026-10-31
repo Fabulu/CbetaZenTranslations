@@ -11047,7 +11047,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded sayings. Baichi quotes Shigong's reply to Mazu, then develops its ox-herding image for a disciple."
+              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. In a teaching for a disciple called Zimu, Baichi Xingyuan explains self-herding as guiding oneself without borrowing another's force. He quotes the old kitchen exchange in which Mazu asks Shigong Huizang how he herds his ox, and Shigong says that whenever it goes into the grass he suddenly pulls it back by the nose. Mazu approves him as a true herder. Baichi uses the old answer to urge attention during ordinary work, rather than letting the herding image become a stock phrase repeated without practice."
             },
             {
               "RelPath": "J/J38/J38nB424.xml",
@@ -11058,45 +11058,67 @@
               "ActorAttribution": null,
               "Curated": true,
               "ContextMasters": [],
-              "AttributionNote": "Source record (J/J38/J38nB424.xml). Recorded sayings. Xiangyan quotes the old Shigong and Mazu exchange in a preface on ox-herding pictures."
+              "AttributionNote": "Source record (J/J38/J38nB424.xml). Recorded Sayings of Chan Master Xiangyan. In a preface to monk Xinyuan's ox-herding pictures, Xiangyan recounts Mazu asking Shigong how he herds an ox. Shigong gives the line about pulling it back by the nose when it enters the grass, and Mazu approves. The preface then traces later ox-herding figures and pictures, praises the new collection's poems and images, and admits the writer's own ox is not yet well trained. The headword is Shigong's speech within the old case; Xiangyan is the later preface writer applying it to the pictures."
             },
             {
               "RelPath": "J/J39/J39nB461.xml",
               "FromLb": "0757a13",
               "ToLb": "0757b23",
               "Kwic": "，師以拄杖打，退歸方丈。示眾。「德山云：『今夜不答話。』未必心頭似口頭。『問話者，三十棒。』瞞神嚇鬼。有僧便禮拜，刺腦入膠盆。山便打，不得放過。僧云：『某甲話也未問，為甚打某甲？』不識好惡。山云：『你是那裡人？』審其來歷，僧云：『新羅人。』一款成招。山云：『未跨船舷，好與三十棒。』可謂踞虎頭、收虎尾。此則公案，據山僧看來，德山雖有偷天換日之手，檢點將來不無滲漏。當時山僧若在，只消咳嗽一聲；他若問：『作麼？』山僧便道：『看破了也。』拂袖便出，直教德山老漢倒疑三十年。且道看破個什麼？」僧便喝，師直打出堂。示眾。舉：「僧問趙州：『如何是不錯路？』州云：『識心見性是不錯路。』」師云：「且道性作麼生見？心又作麼生識？適纔有僧問：『心不在內，不在外，不在中間，畢竟在什麼處？』師垂下一足，云：『會麼？』僧云：『不會。』師云：『向紅爐點雪。』僧禮拜。」師云：「諸仁者！若識得紅爐點雪，便可見得自性；其或未然，莫道不疑好。」示眾。僧問：「古人道：『一回入草去，驀鼻拽將來。』未審點頭在什麼處？」師便打。進云：「只如不落階級又如何履踐？」師於地上一劃，云：「向這裡會取。」進云：「某甲終不與麼。」師云：「汝作麼生？」進云：「但見皇風成一片，不知何處是封疆？」師云：「收。」示眾。「古人道：『一人所在也須到，聞名不如見面；半人所在也須到，見面不如聞名。』還有見面者麼？有疑請問。」僧問：「不與萬法為侶者是什麼人？」師直與攔胸一椎。僧云：「某甲不與麼道。」師云：「作麼生？」僧云：「兩鏡相照，萬象森然。」師云：「闍黎被他換卻眼睛。」僧歸位。師云：「適來這僧未具眼在。何故聻？兩鏡相照，猶有光在；萬象森然，猶有境在。光境未忘，見地不脫，如何了得生死？若是超生脫死真實道流，直須向十字街頭識得天子、百草頭上薦取老僧始得。」示眾。「海底剔金燈，虛空釘木橛，打倒須彌山，石人驚吐舌。此四句中，有縱有奪，有殺有活，若人會得，一生參學事畢。」除夕，示眾。「春臘交加處，寒溫欲解時，山藤驅疫去，野火炤田歸。柳眼藏金線，梅腮吐玉蕊，竹聲催漸曉，幽鳥盡啼枝。」示眾。「諸仁者！選佛這裡結制，無別奇言妙語與汝諸人商量，亦勿論歲月豐儉，只要知時識候，白米八分一斗、乾柴三錢一擔。柴米貴賤且置，秖如雲門乾屎橛、洞山麻三斤、青州七斤衫、南泉二",
-              "MasterName": "Shigong Huizang",
-              "ActorAttribution": null,
+              "MasterName": null,
+              "ActorAttribution": {
+                "Status": "reviewed-unnamed",
+                "Kind": "questioning monk quoting an old saying",
+                "ActorLabel": "unnamed monk questioning Xingkong",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The complete local exchange explicitly marks an unnamed monk asking and places the old saying inside his question. Xingkong strikes and then answers. The local heading, book title and TEI header do not name this monk. Earlier Baichi and Xiangyan parallels establish Shigong as source origin, not the current questioner.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "Codex source-first six-rung public R10 repair",
+                "ReviewedUtc": "2026-10-31T05:05:01.035694Z"
+              },
               "Curated": true,
               "ContextMasters": [
                 {
+                  "MasterName": "Shigong Huizang",
+                  "Roles": [
+                    "case-figure"
+                  ]
+                },
+                {
                   "MasterName": "Xingkong Xingzhen",
                   "Roles": [
-                    "commentator",
+                    "respondent",
                     "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J39/J39nB461.xml). Recorded sayings. Xingkong answers a monk's use of Shigong's old saying by striking and drawing a line."
+              "AttributionNote": "Source record (J/J39/J39nB461.xml). Recorded Sayings of Chan Master Xingkong Zhen. An unnamed monk asks Xingkong Xingzhen where the point of assent lies in the old saying about pulling the ox back by the nose whenever it enters the grass. Xingkong strikes him. The monk asks how to practice without falling into stages; Xingkong draws a line on the ground and tells him to understand there. The monk refuses that answer and offers a verse, which Xingkong stops. The line originates in Shigong's old Mazu case but is voiced here by the questioning monk; Xingkong's blows and drawn line test more than repetition of the inherited image."
             },
             {
               "RelPath": "X/X69/X69n1365.xml",
               "FromLb": "0664b22",
               "ToLb": "0665a22",
               "Kwic": "一場愁。上堂：恰纔冬至過了十日，看看臈月三十日，便在眼前報恩，不是預搔待癢。且道汝等諸人，臈月三十日又作麼生折合？謝莊主，上堂。插鍬叉手，驢前馬後；㘽田愽飯，徐六擔板。開田說大義，彼此相鈍置；開得一片畬，隨手種空花。如斯作略，儘可觀光。若是移山塞海、奪食駈耕，須還我報恩門下始得。且道報恩有甚長處？。臈八，上堂，舉孝宗皇帝問佛照：釋迦佛入山六年，所成何事？佛照對云：將謂陛下忘却。師頌云：六年勤苦竟何如？為問君王記得無？直下雖知難抵諱，到頭終不受塗糊。上堂：三到投子含元殿裏，九上洞山更覔長安。自從夜雪擁鰲山，一度思量一度寒。元宵，上堂。二千年前，靈山會上，青天白日，釋迦老子平白地道：我見燈明佛，本光瑞如此。啞！相似尚如此，何況真箇是？上堂：窮廝煎，餓廝吵，古岸風高，玉壺春曉。便恁麼去，未免偏枯話墮了也。蘇盧！蘇盧！浴佛，上堂：二千年前，朱明屆八，何物老嫗，生此寧馨？九龍飜水九河傾，洗到驢年也只寧。上堂：結夏已十日，水牯牛作麼生？若道一回入草去，驀鼻拽將來，未免傷鋒犯手。不然溪東，不然溪西，但念水草，餘無所知。人牛都不見，正是月明時。上堂：教中道，衲衣在空閑，假名阿練若。誑惑世間人，自謂行真道。汝等諸人總被誑惑了也，便好拽轉，痛與一頓。若無報恩，今日失利。上堂：識得一，萬事畢。了事衲僧，一字不識。直饒恁麼，未稱全提。禹力不到處，河聲流向西。上堂：今日中夏了也，畢竟事作麼生？當陽一機，轉身一步。左右逢原，了無回互。本等牧牛人，何曾頭角露？謝監収，上堂。千年父祖舊田疇，萬寶垂成及早収。無底鉢盂開口笑，聖凡一等飽󳯲󳬕。瑞慶節，上堂：天中天，聖中聖，贊不及，述不盡。四海九州，一印印定。重明以麗乎正。開爐，上堂：今日開爐，報恩隨例。火筯香匙，各有節制。若待豆𪹼冷灰，未免󳯝相鈍置。識火色，辨風旨，曲突徙薪，已落第二。明因立菴至，上堂。若論此事，如兩陣對圓，旗皷相望，來如震霆，去如迅電。若一向繩之以孫吳，大似紲韓盧而責獲。跌宕繩墨，信手方圓，度外出奇，勝中闘劣。或遇明眼人，不滿一笑。從前汗馬無人識，何必重論蓋代功？上堂：一大藏教，總是魔說。日可冷，月可熱。是假易除，是真難滅。雪中，上堂：亂山裹雪玉崔嵬，萬行門庭八字開。惆悵善財歸去後，寥寥不見一人來。臘八，上堂：若謂如來今日成道，則為謗佛；",
-              "MasterName": "Shigong Huizang",
+              "MasterName": "Beijian Jujian",
               "ActorAttribution": null,
               "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Beijian Jujian",
                   "Roles": [
-                    "commentator",
+                    "utterer",
                     "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X69/X69n1365.xml). Recorded sayings. Beijian names the old ox-herding line and questions whether merely repeating it still handles the ox."
+              "AttributionNote": "Source record (X/X69/X69n1365.xml). Recorded Sayings of Chan Master Beijian Jujian. Ten days into the summer retreat, Beijian Jujian asks the assembly what has happened to the water buffalo. He says that if one merely repeats the old line about pulling it back by the nose when it enters the grass, one risks cutting one's own hand. He then moves through east and west, grazing, and finally the disappearance of both person and ox under moonlight. The exact phrase is Beijian's present hypothetical citation of the inherited ox-herding saying, used to refuse a mechanical answer; no named old speaker is introduced in this local sermon."
             }
           ],
           "ClaimAnchors": [
@@ -11117,7 +11139,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded sayings. Baichi quotes Shigong's reply to Mazu, then develops its ox-herding image for a disciple.",
+              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. In a teaching for a disciple called Zimu, Baichi Xingyuan explains self-herding as guiding oneself without borrowing another's force. He quotes the old kitchen exchange in which Mazu asks Shigong Huizang how he herds his ox, and Shigong says that whenever it goes into the grass he suddenly pulls it back by the nose. Mazu approves him as a true herder. Baichi uses the old answer to urge attention during ordinary work, rather than letting the herding image become a stock phrase repeated without practice.",
               "ClaimText": "一回入草去，驀鼻拽將來"
             },
             {
@@ -11129,7 +11151,7 @@
               "ActorAttribution": null,
               "Curated": true,
               "ContextMasters": [],
-              "AttributionNote": "Source record (J/J38/J38nB424.xml). Recorded sayings. Xiangyan quotes the old Shigong and Mazu exchange in a preface on ox-herding pictures.",
+              "AttributionNote": "Source record (J/J38/J38nB424.xml). Recorded Sayings of Chan Master Xiangyan. In a preface to monk Xinyuan's ox-herding pictures, Xiangyan recounts Mazu asking Shigong how he herds an ox. Shigong gives the line about pulling it back by the nose when it enters the grass, and Mazu approves. The preface then traces later ox-herding figures and pictures, praises the new collection's poems and images, and admits the writer's own ox is not yet well trained. The headword is Shigong's speech within the old case; Xiangyan is the later preface writer applying it to the pictures.",
               "ClaimText": "一回入草去，驀鼻拽將來"
             },
             {
@@ -11137,19 +11159,41 @@
               "FromLb": "0757a13",
               "ToLb": "0757b23",
               "Kwic": "，師以拄杖打，退歸方丈。示眾。「德山云：『今夜不答話。』未必心頭似口頭。『問話者，三十棒。』瞞神嚇鬼。有僧便禮拜，刺腦入膠盆。山便打，不得放過。僧云：『某甲話也未問，為甚打某甲？』不識好惡。山云：『你是那裡人？』審其來歷，僧云：『新羅人。』一款成招。山云：『未跨船舷，好與三十棒。』可謂踞虎頭、收虎尾。此則公案，據山僧看來，德山雖有偷天換日之手，檢點將來不無滲漏。當時山僧若在，只消咳嗽一聲；他若問：『作麼？』山僧便道：『看破了也。』拂袖便出，直教德山老漢倒疑三十年。且道看破個什麼？」僧便喝，師直打出堂。示眾。舉：「僧問趙州：『如何是不錯路？』州云：『識心見性是不錯路。』」師云：「且道性作麼生見？心又作麼生識？適纔有僧問：『心不在內，不在外，不在中間，畢竟在什麼處？』師垂下一足，云：『會麼？』僧云：『不會。』師云：『向紅爐點雪。』僧禮拜。」師云：「諸仁者！若識得紅爐點雪，便可見得自性；其或未然，莫道不疑好。」示眾。僧問：「古人道：『一回入草去，驀鼻拽將來。』未審點頭在什麼處？」師便打。進云：「只如不落階級又如何履踐？」師於地上一劃，云：「向這裡會取。」進云：「某甲終不與麼。」師云：「汝作麼生？」進云：「但見皇風成一片，不知何處是封疆？」師云：「收。」示眾。「古人道：『一人所在也須到，聞名不如見面；半人所在也須到，見面不如聞名。』還有見面者麼？有疑請問。」僧問：「不與萬法為侶者是什麼人？」師直與攔胸一椎。僧云：「某甲不與麼道。」師云：「作麼生？」僧云：「兩鏡相照，萬象森然。」師云：「闍黎被他換卻眼睛。」僧歸位。師云：「適來這僧未具眼在。何故聻？兩鏡相照，猶有光在；萬象森然，猶有境在。光境未忘，見地不脫，如何了得生死？若是超生脫死真實道流，直須向十字街頭識得天子、百草頭上薦取老僧始得。」示眾。「海底剔金燈，虛空釘木橛，打倒須彌山，石人驚吐舌。此四句中，有縱有奪，有殺有活，若人會得，一生參學事畢。」除夕，示眾。「春臘交加處，寒溫欲解時，山藤驅疫去，野火炤田歸。柳眼藏金線，梅腮吐玉蕊，竹聲催漸曉，幽鳥盡啼枝。」示眾。「諸仁者！選佛這裡結制，無別奇言妙語與汝諸人商量，亦勿論歲月豐儉，只要知時識候，白米八分一斗、乾柴三錢一擔。柴米貴賤且置，秖如雲門乾屎橛、洞山麻三斤、青州七斤衫、南泉二",
-              "MasterName": "Shigong Huizang",
-              "ActorAttribution": null,
+              "MasterName": null,
+              "ActorAttribution": {
+                "Status": "reviewed-unnamed",
+                "Kind": "questioning monk quoting an old saying",
+                "ActorLabel": "unnamed monk questioning Xingkong",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The complete local exchange explicitly marks an unnamed monk asking and places the old saying inside his question. Xingkong strikes and then answers. The local heading, book title and TEI header do not name this monk. Earlier Baichi and Xiangyan parallels establish Shigong as source origin, not the current questioner.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "Codex source-first six-rung public R10 repair",
+                "ReviewedUtc": "2026-10-31T05:05:01.035694Z"
+              },
               "Curated": true,
               "ContextMasters": [
                 {
+                  "MasterName": "Shigong Huizang",
+                  "Roles": [
+                    "case-figure"
+                  ]
+                },
+                {
                   "MasterName": "Xingkong Xingzhen",
                   "Roles": [
-                    "commentator",
+                    "respondent",
                     "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J39/J39nB461.xml). Recorded sayings. Xingkong answers a monk's use of Shigong's old saying by striking and drawing a line.",
+              "AttributionNote": "Source record (J/J39/J39nB461.xml). Recorded Sayings of Chan Master Xingkong Zhen. An unnamed monk asks Xingkong Xingzhen where the point of assent lies in the old saying about pulling the ox back by the nose whenever it enters the grass. Xingkong strikes him. The monk asks how to practice without falling into stages; Xingkong draws a line on the ground and tells him to understand there. The monk refuses that answer and offers a verse, which Xingkong stops. The line originates in Shigong's old Mazu case but is voiced here by the questioning monk; Xingkong's blows and drawn line test more than repetition of the inherited image.",
               "ClaimText": "一回入草去，驀鼻拽將來"
             },
             {
@@ -11157,19 +11201,19 @@
               "FromLb": "0664b22",
               "ToLb": "0665a22",
               "Kwic": "一場愁。上堂：恰纔冬至過了十日，看看臈月三十日，便在眼前報恩，不是預搔待癢。且道汝等諸人，臈月三十日又作麼生折合？謝莊主，上堂。插鍬叉手，驢前馬後；㘽田愽飯，徐六擔板。開田說大義，彼此相鈍置；開得一片畬，隨手種空花。如斯作略，儘可觀光。若是移山塞海、奪食駈耕，須還我報恩門下始得。且道報恩有甚長處？。臈八，上堂，舉孝宗皇帝問佛照：釋迦佛入山六年，所成何事？佛照對云：將謂陛下忘却。師頌云：六年勤苦竟何如？為問君王記得無？直下雖知難抵諱，到頭終不受塗糊。上堂：三到投子含元殿裏，九上洞山更覔長安。自從夜雪擁鰲山，一度思量一度寒。元宵，上堂。二千年前，靈山會上，青天白日，釋迦老子平白地道：我見燈明佛，本光瑞如此。啞！相似尚如此，何況真箇是？上堂：窮廝煎，餓廝吵，古岸風高，玉壺春曉。便恁麼去，未免偏枯話墮了也。蘇盧！蘇盧！浴佛，上堂：二千年前，朱明屆八，何物老嫗，生此寧馨？九龍飜水九河傾，洗到驢年也只寧。上堂：結夏已十日，水牯牛作麼生？若道一回入草去，驀鼻拽將來，未免傷鋒犯手。不然溪東，不然溪西，但念水草，餘無所知。人牛都不見，正是月明時。上堂：教中道，衲衣在空閑，假名阿練若。誑惑世間人，自謂行真道。汝等諸人總被誑惑了也，便好拽轉，痛與一頓。若無報恩，今日失利。上堂：識得一，萬事畢。了事衲僧，一字不識。直饒恁麼，未稱全提。禹力不到處，河聲流向西。上堂：今日中夏了也，畢竟事作麼生？當陽一機，轉身一步。左右逢原，了無回互。本等牧牛人，何曾頭角露？謝監収，上堂。千年父祖舊田疇，萬寶垂成及早収。無底鉢盂開口笑，聖凡一等飽󳯲󳬕。瑞慶節，上堂：天中天，聖中聖，贊不及，述不盡。四海九州，一印印定。重明以麗乎正。開爐，上堂：今日開爐，報恩隨例。火筯香匙，各有節制。若待豆𪹼冷灰，未免󳯝相鈍置。識火色，辨風旨，曲突徙薪，已落第二。明因立菴至，上堂。若論此事，如兩陣對圓，旗皷相望，來如震霆，去如迅電。若一向繩之以孫吳，大似紲韓盧而責獲。跌宕繩墨，信手方圓，度外出奇，勝中闘劣。或遇明眼人，不滿一笑。從前汗馬無人識，何必重論蓋代功？上堂：一大藏教，總是魔說。日可冷，月可熱。是假易除，是真難滅。雪中，上堂：亂山裹雪玉崔嵬，萬行門庭八字開。惆悵善財歸去後，寥寥不見一人來。臘八，上堂：若謂如來今日成道，則為謗佛；",
-              "MasterName": "Shigong Huizang",
+              "MasterName": "Beijian Jujian",
               "ActorAttribution": null,
               "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Beijian Jujian",
                   "Roles": [
-                    "commentator",
+                    "utterer",
                     "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X69/X69n1365.xml). Recorded sayings. Beijian names the old ox-herding line and questions whether merely repeating it still handles the ox.",
+              "AttributionNote": "Source record (X/X69/X69n1365.xml). Recorded Sayings of Chan Master Beijian Jujian. Ten days into the summer retreat, Beijian Jujian asks the assembly what has happened to the water buffalo. He says that if one merely repeats the old line about pulling it back by the nose when it enters the grass, one risks cutting one's own hand. He then moves through east and west, grazing, and finally the disappearance of both person and ox under moonlight. The exact phrase is Beijian's present hypothetical citation of the inherited ox-herding saying, used to refuse a mechanical answer; no named old speaker is introduced in this local sermon.",
               "ClaimText": "一回入草去，驀鼻拽將來"
             }
           ],
@@ -11186,7 +11230,7 @@
             "Beijian Jujian"
           ],
           "RelatedTerms": [],
-          "Explanation": "Shigong answers Mazu's ox-herding question with a concrete act of bringing the ox back. Baichi and Xiangyan use the old response to discuss how one watches and guides the ox. Xingkong and Beijian press the inherited image in separate present turns, testing more than its repetition."
+          "Explanation": "Shigong once answered Mazu by pulling the grazing ox back by its nose; later writers and teachers use that image to test actual guidance rather than rote repetition. In a teaching for a disciple called Zimu, Baichi Xingyuan explains self-herding as guiding oneself without borrowing another's force. He quotes the old kitchen exchange in which Mazu asks Shigong Huizang how he herds his ox, and Shigong says that whenever it goes into the grass he suddenly pulls it back by the nose. Mazu approves him as a true herder. Baichi uses the old answer to urge attention during ordinary work, rather than letting the herding image become a stock phrase repeated without practice. In a preface to monk Xinyuan's ox-herding pictures, Xiangyan recounts Mazu asking Shigong how he herds an ox. Shigong gives the line about pulling it back by the nose when it enters the grass, and Mazu approves. The preface then traces later ox-herding figures and pictures, praises the new collection's poems and images, and admits the writer's own ox is not yet well trained. The headword is Shigong's speech within the old case; Xiangyan is the later preface writer applying it to the pictures. An unnamed monk asks Xingkong Xingzhen where the point of assent lies in the old saying about pulling the ox back by the nose whenever it enters the grass. Xingkong strikes him. The monk asks how to practice without falling into stages; Xingkong draws a line on the ground and tells him to understand there. The monk refuses that answer and offers a verse, which Xingkong stops. The line originates in Shigong's old Mazu case but is voiced here by the questioning monk; Xingkong's blows and drawn line test more than repetition of the inherited image. Ten days into the summer retreat, Beijian Jujian asks the assembly what has happened to the water buffalo. He says that if one merely repeats the old line about pulling it back by the nose when it enters the grass, one risks cutting one's own hand. He then moves through east and west, grazing, and finally the disappearance of both person and ox under moonlight. The exact phrase is Beijian's present hypothetical citation of the inherited ox-herding saying, used to refuse a mechanical answer; no named old speaker is introduced in this local sermon."
         }
       ]
     },
