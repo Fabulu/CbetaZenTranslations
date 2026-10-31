@@ -32397,21 +32397,13 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun quotes Pang’s words, then says he would beat Pang rather than accept the clever praise.",
+              "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu retells how layman Pang Yun asks Mazu to look closely at one who does not obscure the original person. Mazu looks down; Pang praises him with the line about a stringless zither played beautifully by this teacher, and Mazu then looks up. Pang later follows him into the abbot's room and says he tried to be clever but made a mistake. Miyun says that if he had been Mazu, he would have struck Pang at the first request and driven him out when he offered the zither compliment, lest Pang settle into his self-criticism as another position. The exact line is Pang's old praise, while Miyun's blows are proposed alternatives, not recorded actions in that old meeting.",
               "ActorAttribution": {
                 "Status": "identified-non-master",
                 "Kind": "layman",
                 "ActorLabel": "Pang Yun, the layman",
                 "ActorRole": "utterer",
                 "GrammarEvidence": "The exact line is Pang layman’s reply after Mazu looks down; the current master quotes that earlier exchange and adds a new critique.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
                 "ReviewedBy": "Codex source-first full-turn review",
                 "ReviewedUtc": "2026-10-29T12:00:00Z"
               }
@@ -32432,21 +32424,13 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. Fushi quotes the Pang and Mazu exchange and compares its responses with two later critiques.",
+              "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. At a birthday hall address, Fushi Tongxian quotes Pang's exchange with Mazu: Pang asks for a high look, Mazu looks down, Pang says only Mazu can play the stringless zither, and Mazu looks up. Fushi then quotes two later appraisals: Miaoxi faults both Mazu's look and Pang's bow, while Tianning says the matter is worse than only half rescued. Fushi pictures Pang standing high and Mazu moving deep, then says Tianning has seen through Miaoxi's confidence before closing with a fish leaping the waves. The zither phrase remains Pang's old speech; Fushi uses it to weigh several layers of later judgment.",
               "ActorAttribution": {
                 "Status": "identified-non-master",
                 "Kind": "layman",
                 "ActorLabel": "Pang Yun, the layman",
                 "ActorRole": "utterer",
                 "GrammarEvidence": "The exact line is Pang layman’s reply after Mazu looks down; the current master quotes that earlier exchange and adds a new critique.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
                 "ReviewedBy": "Codex source-first full-turn review",
                 "ReviewedUtc": "2026-10-29T12:00:00Z"
               }
@@ -32467,21 +32451,13 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J37/J37nB371.xml). Recorded Sayings of Chan Master Foyuan. Foyuan quotes Pang, gives new responses, and asks the assembly to answer his version.",
+              "AttributionNote": "Source record (J/J37/J37nB371.xml). Recorded Sayings of Chan Master Foyuan. Foyuan Chegang raises Pang's old request that Mazu look closely, Mazu's downward look, and Pang's praise of a stringless zither. Foyuan says Pang's question is lofty and Mazu's reply deep. He imagines receiving the same request himself and answers that the questioner needs a blow at the heels; if someone then repeats Pang's zither line, Foyuan would ask how many truly hear the tune. He admits that these substitute replies may merely jostle for advantage and asks the assembly how they would answer; a lay supporter claps, drawing another reply from Foyuan. The exact line is Pang's historical speech and a hypothetical later quotation, not Foyuan claiming to have played the zither.",
               "ActorAttribution": {
                 "Status": "identified-non-master",
                 "Kind": "layman",
                 "ActorLabel": "Pang Yun, the layman",
                 "ActorRole": "utterer",
                 "GrammarEvidence": "The exact line is Pang layman’s reply after Mazu looks down; the current master quotes that earlier exchange and adds a new critique.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
                 "ReviewedBy": "Codex source-first full-turn review",
                 "ReviewedUtc": "2026-10-29T12:00:00Z"
               }
@@ -32502,27 +32478,132 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J37/J37nB370.xml). Recorded Sayings of Chan Master Nouyunshi of Caotang. Nouyun quotes the exchange and asks the assembly to identify where Pang became clever and clumsy.",
+              "AttributionNote": "Source record (J/J37/J37nB370.xml). Recorded Sayings of Chan Master Nouyunshi of Caotang. Nouyun Zhenshi retells the complete Pang-Mazu exchange, including Pang's praise of the stringless zither after Mazu looks down and Pang's later admission that cleverness turned to clumsiness. Nouyun asks the assembly where, exactly, that reversal occurred and calls for someone to come forward to be struck. No one does, and after a pause he returns to the abbot's room. The phrase is Pang's quoted praise, while Nouyun makes the student's ability to locate the error the live test in his own teaching.",
               "ActorAttribution": {
                 "Status": "identified-non-master",
                 "Kind": "layman",
                 "ActorLabel": "Pang Yun, the layman",
                 "ActorRole": "utterer",
                 "GrammarEvidence": "The exact line is Pang layman’s reply after Mazu looks down; the current master quotes that earlier exchange and adds a new critique.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
                 "ReviewedBy": "Codex source-first full-turn review",
                 "ReviewedUtc": "2026-10-29T12:00:00Z"
               }
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J10/J10nA158.xml",
+              "FromLb": "0050a29",
+              "ToLb": "0050b17",
+              "Kwic": "漢各自分疆立界，各各不相見，各各自稱尊，殊不知傍觀者醜。」乃召大眾云：「金粟恁麼告報，諸人還覺慚愧麼？」舉：「石臼參馬祖，祖云：『甚處來？』云：『烏臼來。』祖云：『烏臼近日有何言句？』臼云：『幾人於此茫然？』祖云：『茫然且置，悄然一句作麼生？』臼乃上前三步，祖云：『我有七棒寄打烏臼，你還甘否？』臼云：『和尚先喫，某甲後甘。』」拈云：「我作馬祖，便與一棒，看者漢作麼合殺。」舉：「龐居士問馬祖：『不昧本來人，請師高著眼。』祖直下覷，士云：『一種沒絃琴，唯師彈得妙。』祖直上覷，士乃作禮。祖歸方丈，士隨後入，云：『弄巧成拙。』」拈云：「我作馬祖，待他道：『不昧本來人，請師高著眼。』劈脊便打他，更道：『一種沒絃琴，唯師彈得妙。』乃連棒打出。何故？免伊向弄巧成拙處坐地。」舉：「茱萸示眾云：『你等諸人莫向虛空裡釘橛。』時有僧出，云：『虛空是橛。』萸便打，僧云：『莫錯打某甲。』萸便歸方丈。」拈云：「茱萸當時打者僧果錯？不錯？若錯，為甚歸方丈？若不錯，為甚歸方丈？大眾試斷看。」復云：「疑殺人。」舉：「溈山云",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Miyun Yuanwu",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu retells how layman Pang Yun asks Mazu to look closely at one who does not obscure the original person. Mazu looks down; Pang praises him with the line about a stringless zither played beautifully by this teacher, and Mazu then looks up. Pang later follows him into the abbot's room and says he tried to be clever but made a mistake. Miyun says that if he had been Mazu, he would have struck Pang at the first request and driven him out when he offered the zither compliment, lest Pang settle into his self-criticism as another position. The exact line is Pang's old praise, while Miyun's blows are proposed alternatives, not recorded actions in that old meeting.",
+              "ActorAttribution": {
+                "Status": "identified-non-master",
+                "Kind": "layman",
+                "ActorLabel": "Pang Yun, the layman",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The exact line is Pang layman’s reply after Mazu looks down; the current master quotes that earlier exchange and adds a new critique.",
+                "ReviewedBy": "Codex source-first full-turn review",
+                "ReviewedUtc": "2026-10-29T12:00:00Z"
+              },
+              "ClaimText": "一種沒絃琴，唯師彈得妙"
+            },
+            {
+              "RelPath": "J/J26/J26nB185.xml",
+              "FromLb": "0583c29",
+              "ToLb": "0584a18",
+              "Kwic": "』只向他道：『茫茫宇宙人無數，幾箇知歸到此間？』」復舉：「甘贄行者往南泉和尚處設齋，黃檗為首座，者請施財，檗云：『財、法二施等無差別。』者舁錢便出。須臾復入，云：『請施財。』檗云：『財、法二施等無差別。』者即行嚫。妙喜云：『一等是隨邪逐惡，雲居羅漢卻較些子。』」師云：「且道雲居羅漢即今在什麼處？大家指出看。」良久，云：「如無，廣慧自指出也。彌勒院裏也不識。」師誕日，上堂。舉：「龐居士問馬祖：『不昧本來人，請師高著眼。』祖直下覷，士云：『一種沒絃琴，唯師彈得妙。』祖直上覷，士禮拜。祖歸方丈，士隨入，云：『適來弄巧成拙。』妙喜云：『馬祖上覷下覷則不無，爭奈昧卻本來人？龐公作禮也是囫圇吞箇棗。祖歸方丈，士隨入，云：「適來弄巧成拙。」也救得一半。』天寧云：『說什麼救得一半？他日換手槌胸去在。』」師云：「龐居士高高峰頂立，馬大師深深海底行，妙喜老漢眼空四海、傍若無人，不料被天寧覷破。且道覷破意作麼生？三級浪高魚化龍，痴人猶戽夜塘水。」上堂。「一春三箇月，二月多風雨，此月不同前，芳菲遍桃李。桃豈自能紅",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Fushi Tongxian",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. At a birthday hall address, Fushi Tongxian quotes Pang's exchange with Mazu: Pang asks for a high look, Mazu looks down, Pang says only Mazu can play the stringless zither, and Mazu looks up. Fushi then quotes two later appraisals: Miaoxi faults both Mazu's look and Pang's bow, while Tianning says the matter is worse than only half rescued. Fushi pictures Pang standing high and Mazu moving deep, then says Tianning has seen through Miaoxi's confidence before closing with a fish leaping the waves. The zither phrase remains Pang's old speech; Fushi uses it to weigh several layers of later judgment.",
+              "ActorAttribution": {
+                "Status": "identified-non-master",
+                "Kind": "layman",
+                "ActorLabel": "Pang Yun, the layman",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The exact line is Pang layman’s reply after Mazu looks down; the current master quotes that earlier exchange and adds a new critique.",
+                "ReviewedBy": "Codex source-first full-turn review",
+                "ReviewedUtc": "2026-10-29T12:00:00Z"
+              },
+              "ClaimText": "一種沒絃琴，唯師彈得妙"
+            },
+            {
+              "RelPath": "J/J37/J37nB371.xml",
+              "FromLb": "0020c02",
+              "ToLb": "0020c19",
+              "Kwic": "州凌雲寺，贊謨珀球取法名，請上堂。問：「一即二，二即一，還有輕重也無？」師云：「一齊踢倒。」進云：「佛祖頂𩕳一著顯發，莫大威光，試請和尚拈出妙用底句。」師云：「聽取大像念摩訶。」進云：「恁麼敲空有響，擊木無聲去也。」師云：「滿目春光插碧霄。」乃云：「一即二，二即一，閑行踢倒案山去。也無一，也無二，輕重短長難比匹。忽然踏著佛祖𩕳，未免一場真禍事。更有一夥向上行，莫是靈山親授記？昔龐居士問馬祖：『不昧本來人，請師高著眼。』祖直下覷，士云：『一種沒絃琴，唯師彈得妙。』祖直上覷。」師云：「居士問則千尋，馬祖答亦萬仞。若有問：『不昧本來人，請師高著眼。』向道：『腳跟下欠一頓。』又云：『一種沒絃琴，唯師彈得妙。』答他：『知音能有幾？』大眾！山僧恁麼舉答，大似攙行奪市，徒爭勝負。未知諸人唱和如何？試道看。」一居士在旁撫手一下，師云：「選佛若無如是眼，洪爐終是費鉗鎚。」上堂。「鶯化為鳩眼未別，魚化為龍不退鱗，衲僧直下明端的，休將鶴唳當啼鶯。」遂卓拄丈，云：「拄丈子化為龍去也，大眾仔細觀瞻。」復卓一下：「一",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Foyuan Chegang",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J37/J37nB371.xml). Recorded Sayings of Chan Master Foyuan. Foyuan Chegang raises Pang's old request that Mazu look closely, Mazu's downward look, and Pang's praise of a stringless zither. Foyuan says Pang's question is lofty and Mazu's reply deep. He imagines receiving the same request himself and answers that the questioner needs a blow at the heels; if someone then repeats Pang's zither line, Foyuan would ask how many truly hear the tune. He admits that these substitute replies may merely jostle for advantage and asks the assembly how they would answer; a lay supporter claps, drawing another reply from Foyuan. The exact line is Pang's historical speech and a hypothetical later quotation, not Foyuan claiming to have played the zither.",
+              "ActorAttribution": {
+                "Status": "identified-non-master",
+                "Kind": "layman",
+                "ActorLabel": "Pang Yun, the layman",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The exact line is Pang layman’s reply after Mazu looks down; the current master quotes that earlier exchange and adds a new critique.",
+                "ReviewedBy": "Codex source-first full-turn review",
+                "ReviewedUtc": "2026-10-29T12:00:00Z"
+              },
+              "ClaimText": "一種沒絃琴，唯師彈得妙"
+            },
+            {
+              "RelPath": "J/J37/J37nB370.xml",
+              "FromLb": "0005c09",
+              "ToLb": "0006a15",
+              "Kwic": "雲門，門云：『你禮拜著。』僧拜起，門以拄杖挃之，僧退後，門云：『汝不是患盲麼？』復喚：『近前來。』僧近前，門云：『汝不是患聾麼？』門曰：『會麼？』曰：『不會。』門曰：『汝不是患啞麼？』其僧於是有惺。」師云：「者僧雖然悟去，只悟得雲門、玄沙禪，要悟草堂禪，大難，大難。且如何是草堂禪？劈箭急。」草堂耨雲實禪師語錄卷第一草堂耨雲實禪師語錄卷之二嗣法門人寂訥等編示眾示眾示眾。舉：「龐居士問馬大師：『不昧本來人，請師高著眼。』馬師直下覷，士云：『一種沒絃琴，唯師彈得妙。』馬師直上覷，士禮拜，馬師歸方丈，士隨至方丈云：『適來弄巧成拙。』」師云：「且那裡是他弄巧成拙處？出來打，出來打。」良久無出，便歸方丈。示眾。「盤山道：『向上一路，千聖不傳。』慈明道：『向上一路，千聖不然。』草堂則不然，向上一路，千聖熱顢。且與古人是同是別？明眼衲僧試檢點看。」出隊歸，示眾。舉：「五祖演出隊歸，示眾云：『出隊半個月，眼不見鼻孔，失卻祖師禪，拾得個骨董。且道向甚麼處著？一分奉釋迦牟尼佛，一分奉多寶佛塔。』」師云：「草堂也",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Nouyun Zhenshi",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J37/J37nB370.xml). Recorded Sayings of Chan Master Nouyunshi of Caotang. Nouyun Zhenshi retells the complete Pang-Mazu exchange, including Pang's praise of the stringless zither after Mazu looks down and Pang's later admission that cleverness turned to clumsiness. Nouyun asks the assembly where, exactly, that reversal occurred and calls for someone to come forward to be struck. No one does, and after a pause he returns to the abbot's room. The phrase is Pang's quoted praise, while Nouyun makes the student's ability to locate the error the live test in his own teaching.",
+              "ActorAttribution": {
+                "Status": "identified-non-master",
+                "Kind": "layman",
+                "ActorLabel": "Pang Yun, the layman",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The exact line is Pang layman’s reply after Mazu looks down; the current master quotes that earlier exchange and adds a new critique.",
+                "ReviewedBy": "Codex source-first full-turn review",
+                "ReviewedUtc": "2026-10-29T12:00:00Z"
+              },
+              "ClaimText": "一種沒絃琴，唯師彈得妙"
+            }
+          ],
           "SourceTexts": [
             "J/J10/J10nA158.xml",
             "J/J26/J26nB185.xml",
@@ -32536,7 +32617,7 @@
             "Nouyun Zhenshi"
           ],
           "RelatedTerms": [],
-          "Explanation": "Pang’s praise of a stringless zither follows Mazu’s silent look and becomes a case for testing recognition. Miyun says he would strike Pang instead of accepting the praise. Fushi weighs Pang and Mazu against later critical comments. Foyuan supplies new responses to Pang’s questions, while Nouyun asks where Pang made cleverness into error."
+          "Explanation": "Pang Yun praises Mazu's silent look as if only that teacher could play a stringless zither; later teachers test whether the praise truly understands the exchange. Miyun imagines striking Pang instead of allowing the compliment to settle, while Fushi compares Pang and Mazu with two later critical appraisals. Foyuan offers hypothetical new answers and asks his assembly to respond; Nouyun asks where Pang's cleverness became an error and calls for someone to step forward. In each retained source the exact zither line is Pang's quoted speech, not the current commentator's own claim."
         }
       ]
     },
