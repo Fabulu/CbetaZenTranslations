@@ -907814,120 +907814,73 @@
     {
       "Id": "t_71cb6a169238",
       "SourceTerm": "菩提即煩惱",
+      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
       "CreatedBy": "Codex post-current-investigation720 Lane B positions 6-59",
       "WrittenUtc": "2026-07-17T17:18:50.250413+00:00",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
       "Senses": [
         {
           "SenseKey": null,
           "MasterName": null,
           "PreferredTarget": "awakening is itself affliction",
-          "AlternateTargets": [],
-          "Status": "preferred",
-          "Validation": "multi-source",
-          "Note": "The two T48 occurrences are distinct uses in one work and the J38 passage supplies the second distinct work; Liaotang is not substituted as exact speaker of every quoted equation.",
-          "Occurrences": [
-            {
-              "RelPath": "T/T48/T48n2016.xml",
-              "FromLb": "0518b11",
-              "ToLb": "0518b12",
-              "CharOffset": null,
-              "Kwic": "現。故知煩惱即菩提。菩提即煩惱。所以勝天王般若經云",
-              "ClaimText": "現。故知煩惱即菩提。菩提即煩惱。所以勝天王般若經云",
-              "ApproxDate": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (T/T48/T48n2016.xml). The unnamed current record voice carries the exact formula; quoted or historical identity remains contextual.",
-              "ActorAttribution": {
-                "Status": "reviewed-unnamed",
-                "Kind": "later quotation or commentary frame",
-                "ActorLabel": "the unnamed current record voice",
-                "ActorRole": "later-quoter",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "The current record carries or comments on the exact formula; a nearby historical case figure is not substituted as present utterer.",
-                "ReviewedBy": "Codex bound independent-review repair",
-                "ReviewedUtc": "2026-07-17T17:18:50.250413+00:00"
-              }
-            },
-            {
-              "RelPath": "J/J38/J38nB418.xml",
-              "FromLb": "0517b01",
-              "ToLb": "0517b02",
-              "CharOffset": null,
-              "Kwic": "故曰：煩惱即菩提，菩提即煩惱，名異而體同也。諸人還會麼？",
-              "ClaimText": "。故曰：煩惱即菩提，菩提即煩惱，名異而體同也。諸人",
-              "ApproxDate": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (J/J38/J38nB418.xml). The unnamed current record voice carries the exact formula; quoted or historical identity remains contextual.",
-              "ActorAttribution": {
-                "Status": "reviewed-unnamed",
-                "Kind": "later quotation or commentary frame",
-                "ActorLabel": "the unnamed current record voice",
-                "ActorRole": "later-quoter",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "The current record carries or comments on the exact formula; a nearby historical case figure is not substituted as present utterer.",
-                "ReviewedBy": "Codex bound independent-review repair",
-                "ReviewedUtc": "2026-07-17T17:18:50.250413+00:00"
-              }
-            },
-            {
-              "RelPath": "T/T48/T48n2016.xml",
-              "FromLb": "0896c03",
-              "ToLb": "0896c05",
-              "CharOffset": null,
-              "Kwic": "障煩惱。煩惱即菩提。菩提即煩惱。故淨名云。佛為增上",
-              "ClaimText": "障煩惱。煩惱即菩提。菩提即煩惱。故淨名云。佛為增上",
-              "ApproxDate": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (T/T48/T48n2016.xml). The unnamed current record voice carries the exact formula; quoted or historical identity remains contextual.",
-              "ActorAttribution": {
-                "Status": "reviewed-unnamed",
-                "Kind": "later quotation or commentary frame",
-                "ActorLabel": "the unnamed current record voice",
-                "ActorRole": "later-quoter",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "GrammarEvidence": "The current record carries or comments on the exact formula; a nearby historical case figure is not substituted as present utterer.",
-                "ReviewedBy": "Codex bound independent-review repair",
-                "ReviewedUtc": "2026-07-17T17:18:50.250413+00:00"
-              }
-            }
-          ],
-          "SourceTexts": [
-            "T/T48/T48n2016.xml",
-            "J/J38/J38nB418.xml"
-          ],
-          "RelatedMasters": [],
-          "RelatedTerms": [
-            "煩惱即菩提"
+          "AlternateTargets": [
+            "awakening is affliction"
           ],
           "SearchAliases": [
             "awakening is itself affliction"
           ],
-          "Explanation": "The passages state that awakening is itself affliction within a reversible equation, then quote, qualify, or challenge that equation in their surrounding arguments. The two T48 occurrences are distinct uses in one work and the J38 passage supplies the second work; Liaotang is not substituted as exact speaker of every quoted equation.",
-          "ClaimAnchors": []
+          "Status": "preferred",
+          "Validation": "provisional",
+          "Note": "Only one admitted exact Chinese Zen-record use survives the bounded corpus scan; two other exact hits belong to the excluded doctrinal compilation.",
+          "Occurrences": [
+            {
+              "RelPath": "J/J38/J38nB418.xml",
+              "FromLb": "0517a17",
+              "ToLb": "0517b14",
+              "Kwic": "貫紫宸。」晚參。「有恁麼見，立恁麼事；有恁麼事，成恁麼見。若無恁麼見，事無處所；若無恁麼事，見從何立？二種都無，文殊、普賢枉用分疏；一塵纔涉，木馬泥牛奔騰莫拒。者裏明得，正好喫甘露三十棒；若明不得，亦好喫甘露三十棒。大眾！且如何免得過？」驀卓杖，曰：「鳳皇池畔試劍石𨁝地高飛，打破南嶽神頂門，北嶽大仙背痛三日，泰山娘娘覓醫蓬萊，向華山湧泉穴上一鍼，直得嵩山破灶墮，金山、焦山連聲稱快，北固山唱道：『蘇嚕蘇嚕㗭唎㗭唎。』」良久，云：「甘露昨日大年朝，無可款待諸人，奈因叢林淡薄，禮數荒疏，伏惟大眾莫怪相慢。珍重。」肅眾，晚參。「貪、嗔、癡、愛是諸佛解脫之根源，常、樂、我、淨乃眾生輪迴之樞軸。無明煩惱海，流出一真法界；菩提涅槃場，造就三途業因。故曰：煩惱即菩提，菩提即煩惱，名異而體同也。諸人還會麼？自空劫來，有條大路平坦無際，三宮六院、十二樓臺星布羅列，開扃十八戶牖、二十五條花柳巷、八萬四千歌舞門，官馬雜遝任遊觀，直至路窮即便休。於此會得，貪、嗔、癡、愛也得，常、樂、我、淨也得，煩惱作菩提也得，涅槃作無明也得。如不會，大苦逼身時，閻老面似鐵，巧計任千般，絲毫用不得。大眾！莫道甘露不相為好。」人日上堂。問：「如何是佛？」師曰：「打水魚頭痛，穿林宿鳥驚。」「如何是法？」師曰：「黃昏不擊鼓，日午打三更。」「如何是僧？」師曰：「昨燒除歲紙，今見嶺頭春。」問：「人為萬物最靈，如何是最靈底事？」師曰：「千古萬古，塞壑填溝。」曰：「人天眾前，乞師明示。」師曰：「昨朝半陰半晴，今日全明全暗。」曰：「謝和尚荅話。」師曰：「今日",
+              "ClaimText": "菩提即煩惱",
+              "MasterName": "Huiyue Xu",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Huiyue Xu",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J38/J38nB418.xml). Recorded Sayings of Chan Master Huiyue Xu. At Ganlu monastery, Huiyue Xu addresses the assembly in an evening gathering. He reverses familiar pairs, saying that greed and anger can be the source of liberation while a supposed nirvana can produce painful consequences. He then cites the paired formula 'affliction is awakening; awakening is affliction' and explains that the names differ while their substance is the same. He asks whether the listeners understand and warns them against relying on clever distinctions when suffering arrives. The headword is the second half of the formula as Huiyue uses it in this present address; no earlier named inventor is identified in the record."
+            }
+          ],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J38/J38nB418.xml",
+              "FromLb": "0517a17",
+              "ToLb": "0517b14",
+              "Kwic": "貫紫宸。」晚參。「有恁麼見，立恁麼事；有恁麼事，成恁麼見。若無恁麼見，事無處所；若無恁麼事，見從何立？二種都無，文殊、普賢枉用分疏；一塵纔涉，木馬泥牛奔騰莫拒。者裏明得，正好喫甘露三十棒；若明不得，亦好喫甘露三十棒。大眾！且如何免得過？」驀卓杖，曰：「鳳皇池畔試劍石𨁝地高飛，打破南嶽神頂門，北嶽大仙背痛三日，泰山娘娘覓醫蓬萊，向華山湧泉穴上一鍼，直得嵩山破灶墮，金山、焦山連聲稱快，北固山唱道：『蘇嚕蘇嚕㗭唎㗭唎。』」良久，云：「甘露昨日大年朝，無可款待諸人，奈因叢林淡薄，禮數荒疏，伏惟大眾莫怪相慢。珍重。」肅眾，晚參。「貪、嗔、癡、愛是諸佛解脫之根源，常、樂、我、淨乃眾生輪迴之樞軸。無明煩惱海，流出一真法界；菩提涅槃場，造就三途業因。故曰：煩惱即菩提，菩提即煩惱，名異而體同也。諸人還會麼？自空劫來，有條大路平坦無際，三宮六院、十二樓臺星布羅列，開扃十八戶牖、二十五條花柳巷、八萬四千歌舞門，官馬雜遝任遊觀，直至路窮即便休。於此會得，貪、嗔、癡、愛也得，常、樂、我、淨也得，煩惱作菩提也得，涅槃作無明也得。如不會，大苦逼身時，閻老面似鐵，巧計任千般，絲毫用不得。大眾！莫道甘露不相為好。」人日上堂。問：「如何是佛？」師曰：「打水魚頭痛，穿林宿鳥驚。」「如何是法？」師曰：「黃昏不擊鼓，日午打三更。」「如何是僧？」師曰：「昨燒除歲紙，今見嶺頭春。」問：「人為萬物最靈，如何是最靈底事？」師曰：「千古萬古，塞壑填溝。」曰：「人天眾前，乞師明示。」師曰：「昨朝半陰半晴，今日全明全暗。」曰：「謝和尚荅話。」師曰：「今日",
+              "ClaimText": "菩提即煩惱",
+              "MasterName": "Huiyue Xu",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Huiyue Xu",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J38/J38nB418.xml). Recorded Sayings of Chan Master Huiyue Xu. At Ganlu monastery, Huiyue Xu addresses the assembly in an evening gathering. He reverses familiar pairs, saying that greed and anger can be the source of liberation while a supposed nirvana can produce painful consequences. He then cites the paired formula 'affliction is awakening; awakening is affliction' and explains that the names differ while their substance is the same. He asks whether the listeners understand and warns them against relying on clever distinctions when suffering arrives. The headword is the second half of the formula as Huiyue uses it in this present address; no earlier named inventor is identified in the record."
+            }
+          ],
+          "SourceTexts": [
+            "J/J38/J38nB418.xml"
+          ],
+          "RelatedMasters": [
+            "Huiyue Xu"
+          ],
+          "RelatedTerms": [],
+          "Explanation": "Awakening is itself affliction is the second half of a deliberate two-way reversal of familiar categories. At Ganlu monastery, Huiyue Xu addresses the assembly in an evening gathering. He reverses familiar pairs, saying that greed and anger can be the source of liberation while a supposed nirvana can produce painful consequences. He then cites the paired formula 'affliction is awakening; awakening is affliction' and explains that the names differ while their substance is the same. He asks whether the listeners understand and warns them against relying on clever distinctions when suffering arrives. The headword is the second half of the formula as Huiyue uses it in this present address; no earlier named inventor is identified in the record."
         }
       ]
     },
@@ -943765,48 +943718,22 @@
           "SenseKey": null,
           "MasterName": null,
           "PreferredTarget": "observe mind as no-mind",
-          "AlternateTargets": [],
+          "AlternateTargets": [
+            "look at mind without finding a mind"
+          ],
           "SearchAliases": [
             "observe mind as no-mind"
           ],
           "Status": "preferred",
-          "Validation": "multi-source",
-          "Note": "Two occurrences in one work count as one work, and no philosophical object-theory is added.",
+          "Validation": "provisional",
+          "Note": "Only one admitted exact Chinese Zen-record case survives the bounded corpus scan; its two invited teachers are not distinguished as the first speaker.",
           "Occurrences": [
             {
-              "RelPath": "T/T48/T48n2016.xml",
-              "FromLb": "0550a21",
-              "ToLb": "0550a29",
-              "Kwic": "由於思心。一切義理。由於慧心故。又心王即佛寶。心數。即僧寶。所緣實際。無王無數。即法寶。善入實際。王數之功力用足矣。心心數法不行。故名行般若波羅蜜。普賢觀云。觀心無心。法不住法。我心自空。罪福無主。即是無心無數。名為正觀。是心數塵勞若不盡者。觀則不訖。故經言。眾生不度。我不成正覺。即此意也。若能如是解者。無一佛菩薩名。及一法門。",
-              "ClaimText": "。由於思心。一切義理。由於慧心故。又心王即佛寶。心數。即僧寶。所緣實際。無王無數。即法寶。善入實際。王數之功力用足矣。心心數法不行。故名行般若波羅蜜。普賢觀云。觀心無心。法不住法。我心自空。罪福無主。即是無心無數。名為正觀。是心數塵勞若不盡者。觀則不訖。故經言。眾生不度。我不成正覺。即此意也。若能如是解者。無一佛菩薩名。及一法",
-              "MasterName": null,
-              "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School (宗鏡錄): Speaker: the quoted Contemplation of Samantabhadra. The formula is introduced as the introduction, 'The Contemplation of Samantabhadra says' (普賢觀云), a textual quotation with no human utterer named in this passage.",
-              "ActorAttribution": {
-                "Status": "impersonal",
-                "Kind": "the quoted Contemplation of Samantabhadra",
-                "ActorLabel": "the quoted Contemplation of Samantabhadra",
-                "ActorRole": "later-quoter",
-                "GrammarEvidence": "The formula is introduced as 普賢觀云, a textual quotation with no human utterer named in this passage.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "Codex Lane C remaining-19 exact-actor repair",
-                "ReviewedUtc": "2026-07-17T17:30:14.400039+00:00"
-              }
-            },
-            {
               "RelPath": "X/X87/X87n1620.xml",
-              "FromLb": "0207a19",
-              "ToLb": "0207b03",
-              "Kwic": "宋無對。王審知王審知王審知，字信通，光州人。梁封閩王。王甞延雪峰存、玄沙備二禪師入府，求示心法。乃曰：大王志心聽取，幻化空身，是大王法身；知見覺了，是大王自性。觀心無心，從妄想起。我心自空，即悟實相。已知本性，則一時放下，不得別生絲毫許也。王禮二師曰：吉生慶幸，得逢指示。王問玄沙曰：此一真心，本無生滅。今此一身，從何而有？玄沙",
-              "ClaimText": "宋無對。王審知王審知王審知，字信通，光州人。梁封閩王。王甞延雪峰存、玄沙備二禪師入府，求示心法。乃曰：大王志心聽取，幻化空身，是大王法身；知見覺了，是大王自性。觀心無心，從妄想起。我心自空，即悟實相。已知本性，則一時放下，不得別生絲毫許也。王禮二師曰：吉生慶幸，得逢指示。王問玄沙曰：此一真心，本無生滅。今此一身，從何而有？玄沙",
+              "FromLb": "0207a10",
+              "ToLb": "0207b12",
+              "Kwic": "定性之徒？伏願次第為說。答：覺四大如坏幻，達六塵如空華，悟自心為佛心，見本性為法性，是發心也。知心無住，即是修行。無住而知，即為法味。住著於法，斯為動念。故如人入闇，則無所見。今無所住，不染不著。故如人有目及日光明，見種種法，豈為定性之徒？既無所住著，何論處所？宋齊丘宋齊丘慧覺禪師問相國宋齊丘曰：還會道麼？宋曰：若是道，也著不得。慧覺曰：是有著不得？是無著不得？宋曰：總不恁麼。慧覺曰：著不得底聻？宋無對。王審知王審知王審知，字信通，光州人。梁封閩王。王甞延雪峰存、玄沙備二禪師入府，求示心法。乃曰：大王志心聽取，幻化空身，是大王法身；知見覺了，是大王自性。觀心無心，從妄想起。我心自空，即悟實相。已知本性，則一時放下，不得別生絲毫許也。王禮二師曰：吉生慶幸，得逢指示。王問玄沙曰：此一真心，本無生滅。今此一身，從何而有？玄沙曰：此本源真性，徧周法界。為妄想故，而一點識性，從父母妄緣而生，受千般苦，身有輪迴。大王既知覺了，不落惡趣。但請大王頻省妄想，歸真合道。王作禮喜受。王延鈞王延鈞王延鈞，審知次子，素奉佛法，度僧一萬人，由是閩中多僧。甞請羅山和尚開堂說法，陞座斂衣，左右顧視，便下座。王近前執羅山手曰：靈山一會，何異今日？羅山曰：將謂你是個俗漢。又請夢筆和尚齋，問曰：和尚還將得筆來也無？夢筆曰：不是稽山繡管，慙",
+              "ClaimText": "觀心無心",
               "MasterName": null,
               "Curated": true,
               "ContextMasters": [
@@ -943823,13 +943750,11 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X87/X87n1620.xml). Lineage of Earlier Awakened Ones (先覺宗乘): Speaker: the unnamed Xuefeng Yicun or Xuansha Shibei, not distinguished by the record. The record jointly introduces Xuefeng Yicun and Xuansha Shibei, then says only the shared introduction, 'then said' (乃曰); it does not distinguish which named master utters this sentence.",
               "ActorAttribution": {
                 "Status": "reviewed-unnamed",
-                "Kind": "the unnamed Xuefeng Yicun or Xuansha Shibei, not distinguished by the record",
-                "ActorLabel": "the unnamed Xuefeng Yicun or Xuansha Shibei, not distinguished by the record",
-                "ActorRole": "respondent",
-                "GrammarEvidence": "The record jointly introduces Xuefeng Yicun and Xuansha Shibei, then says only 乃曰; it does not distinguish which named master utters this sentence.",
+                "Kind": "one of two named masters, exact speaker unresolved",
+                "ActorLabel": "one of the two invited teachers, Xuefeng Yicun or Xuansha Shibei",
+                "ActorRole": "utterer",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -943838,28 +943763,41 @@
                   "tei-header",
                   "parallel-passage"
                 ],
-                "ReviewedBy": "Codex Lane C remaining-19 exact-actor repair",
-                "ReviewedUtc": "2026-07-17T17:30:14.400039+00:00"
-              }
-            },
+                "GrammarEvidence": "The section jointly introduces Xuefeng and Xuansha, then uses only the singular introductory verb and does not select which teacher utters the first instruction. Wang thanks both; his following question is specifically to Xuansha and cannot retroactively identify the earlier speaker.",
+                "ReviewedBy": "Codex source-first public corpus-admission repair",
+                "ReviewedUtc": "2026-10-31T06:50:00Z"
+              },
+              "AttributionNote": "Source record (X/X87/X87n1620.xml). Lineage of Earlier Awakened Ones. In the Lineage of Earlier Awakened Ones, Prince Wang Shenzhi invites Xuefeng Yicun and Xuansha Shibei to explain the mind. The record introduces both teachers together and then says only 'then [one] said': the body is illusory, awareness is one's own nature, and observing mind as no-mind leads into a warning to release even the smallest added thought. Wang thanks both teachers and next asks Xuansha a separate question about how a body arises. The headword belongs to that first instruction, but the source does not distinguish which of the two masters spoke it."
+            }
+          ],
+          "ClaimAnchors": [
             {
-              "RelPath": "T/T48/T48n2016.xml",
-              "FromLb": "0592c24",
-              "ToLb": "0593a01",
-              "Kwic": "阿那律空器。悉滿甘露。若能如是者。所觀之罪。非復是罪。罪即實相。所觀之福。福即非福。福即實相。純是實相。是名大懺悔也。觀普賢菩薩行法經云。觀心無心。從顛倒想起。如此想心。從妄想起。如空中風。無依止處。如是法相。不生不沒。何者是罪。何者是福。我心自空。罪福無主。一切諸法。皆亦如是。無住無壞。",
-              "ClaimText": "。阿那律空器。悉滿甘露。若能如是者。所觀之罪。非復是罪。罪即實相。所觀之福。福即非福。福即實相。純是實相。是名大懺悔也。觀普賢菩薩行法經云。觀心無心。從顛倒想起。如此想心。從妄想起。如空中風。無依止處。如是法相。不生不沒。何者是罪。何者是福。我心自空。罪福無主。一切諸法。皆亦如是。無住無",
+              "RelPath": "X/X87/X87n1620.xml",
+              "FromLb": "0207a10",
+              "ToLb": "0207b12",
+              "Kwic": "定性之徒？伏願次第為說。答：覺四大如坏幻，達六塵如空華，悟自心為佛心，見本性為法性，是發心也。知心無住，即是修行。無住而知，即為法味。住著於法，斯為動念。故如人入闇，則無所見。今無所住，不染不著。故如人有目及日光明，見種種法，豈為定性之徒？既無所住著，何論處所？宋齊丘宋齊丘慧覺禪師問相國宋齊丘曰：還會道麼？宋曰：若是道，也著不得。慧覺曰：是有著不得？是無著不得？宋曰：總不恁麼。慧覺曰：著不得底聻？宋無對。王審知王審知王審知，字信通，光州人。梁封閩王。王甞延雪峰存、玄沙備二禪師入府，求示心法。乃曰：大王志心聽取，幻化空身，是大王法身；知見覺了，是大王自性。觀心無心，從妄想起。我心自空，即悟實相。已知本性，則一時放下，不得別生絲毫許也。王禮二師曰：吉生慶幸，得逢指示。王問玄沙曰：此一真心，本無生滅。今此一身，從何而有？玄沙曰：此本源真性，徧周法界。為妄想故，而一點識性，從父母妄緣而生，受千般苦，身有輪迴。大王既知覺了，不落惡趣。但請大王頻省妄想，歸真合道。王作禮喜受。王延鈞王延鈞王延鈞，審知次子，素奉佛法，度僧一萬人，由是閩中多僧。甞請羅山和尚開堂說法，陞座斂衣，左右顧視，便下座。王近前執羅山手曰：靈山一會，何異今日？羅山曰：將謂你是個俗漢。又請夢筆和尚齋，問曰：和尚還將得筆來也無？夢筆曰：不是稽山繡管，慙",
+              "ClaimText": "觀心無心",
               "MasterName": null,
               "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (T/T48/T48n2016.xml). Records of the Mirror of the Source (宗鏡錄): The unnamed compiler quotes the formula; no master is assigned as its utterer.",
+              "ContextMasters": [
+                {
+                  "MasterName": "Xuefeng Yicun",
+                  "Roles": [
+                    "respondent"
+                  ]
+                },
+                {
+                  "MasterName": "Xuansha Shibei",
+                  "Roles": [
+                    "respondent"
+                  ]
+                }
+              ],
               "ActorAttribution": {
                 "Status": "reviewed-unnamed",
-                "Kind": "compiler narrative",
-                "ActorLabel": "the unnamed compiler",
-                "ActorRole": "compiler",
-                "GrammarEvidence": "The complete case assigns observe mind as no-mind to compiler narration or an unmarked quotation; all six rungs were checked.",
-                "ReviewedBy": "Codex Lane C 033-058",
-                "ReviewedUtc": "2026-07-17T16:30:22.041434+00:00",
+                "Kind": "one of two named masters, exact speaker unresolved",
+                "ActorLabel": "one of the two invited teachers, Xuefeng Yicun or Xuansha Shibei",
+                "ActorRole": "utterer",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -943867,24 +943805,23 @@
                   "book-title",
                   "tei-header",
                   "parallel-passage"
-                ]
-              }
+                ],
+                "GrammarEvidence": "The section jointly introduces Xuefeng and Xuansha, then uses only the singular introductory verb and does not select which teacher utters the first instruction. Wang thanks both; his following question is specifically to Xuansha and cannot retroactively identify the earlier speaker.",
+                "ReviewedBy": "Codex source-first public corpus-admission repair",
+                "ReviewedUtc": "2026-10-31T06:50:00Z"
+              },
+              "AttributionNote": "Source record (X/X87/X87n1620.xml). Lineage of Earlier Awakened Ones. In the Lineage of Earlier Awakened Ones, Prince Wang Shenzhi invites Xuefeng Yicun and Xuansha Shibei to explain the mind. The record introduces both teachers together and then says only 'then [one] said': the body is illusory, awareness is one's own nature, and observing mind as no-mind leads into a warning to release even the smallest added thought. Wang thanks both teachers and next asks Xuansha a separate question about how a body arises. The headword belongs to that first instruction, but the source does not distinguish which of the two masters spoke it."
             }
           ],
-          "ClaimAnchors": [],
           "SourceTexts": [
-            "T/T48/T48n2016.xml",
             "X/X87/X87n1620.xml"
           ],
           "RelatedMasters": [
             "Xuefeng Yicun",
             "Xuansha Shibei"
           ],
-          "RelatedTerms": [
-            "無心",
-            "觀心"
-          ],
-          "Explanation": "'Observe mind: no mind,' a formula in exposition and instruction. The complete clauses explain their own sequence in each retained context."
+          "RelatedTerms": [],
+          "Explanation": "Observe mind as no-mind is an instruction given to Prince Wang Shenzhi in an exchange whose first speaker is not individually named. In the Lineage of Earlier Awakened Ones, Prince Wang Shenzhi invites Xuefeng Yicun and Xuansha Shibei to explain the mind. The record introduces both teachers together and then says only 'then [one] said': the body is illusory, awareness is one's own nature, and observing mind as no-mind leads into a warning to release even the smallest added thought. Wang thanks both teachers and next asks Xuansha a separate question about how a body arises. The headword belongs to that first instruction, but the source does not distinguish which of the two masters spoke it."
         }
       ]
     },

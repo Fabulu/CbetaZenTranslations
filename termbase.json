@@ -73160,12 +73160,14 @@
   {
     "SourceTerm": "菩提即煩惱",
     "PreferredTarget": "awakening is itself affliction",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "awakening is affliction"
+    ],
     "SearchAliases": [
       "awakening is itself affliction"
     ],
     "Status": "preferred",
-    "Note": "The two T48 occurrences are distinct uses in one work and the J38 passage supplies the second distinct work; Liaotang is not substituted as exact speaker of every quoted equation.",
+    "Note": "Only one admitted exact Chinese Zen-record use survives the bounded corpus scan; two other exact hits belong to the excluded doctrinal compilation.",
     "CreatedBy": "Codex post-current-investigation720 Lane B positions 6-59",
     "WrittenUtc": "2026-07-17T17:18:50.250413+00:00"
   },
@@ -76255,12 +76257,14 @@
   {
     "SourceTerm": "觀心無心",
     "PreferredTarget": "observe mind as no-mind",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "look at mind without finding a mind"
+    ],
     "SearchAliases": [
       "observe mind as no-mind"
     ],
     "Status": "preferred",
-    "Note": "Two occurrences in one work count as one work, and no philosophical object-theory is added.",
+    "Note": "Only one admitted exact Chinese Zen-record case survives the bounded corpus scan; its two invited teachers are not distinguished as the first speaker.",
     "CreatedBy": "Codex post720 Lane C positions 033-058",
     "WrittenUtc": "2026-07-17T16:30:22.041434+00:00"
   },
