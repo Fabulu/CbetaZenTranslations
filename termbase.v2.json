@@ -38604,7 +38604,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Chan teaching. Miyun voices the line and asks if the literal leaf must fall before autumn is known."
+              "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu opens a hall talk with one leaf falling and the whole world becoming autumn, paired with one speck rising and the whole earth gathered in. He says that on this July day the monks already know autumn whether or not a literal leaf falls. He raises his whisk to ask what it means for one speck to gather the earth, throws it down and gives a closing line. The leaf is his present example of recognition that does not wait for a visible seasonal token."
             },
             {
               "RelPath": "J/J26/J26nB187.xml",
@@ -38622,7 +38622,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Chan teaching. Tian’an voices it beside a dust-and-earth line and asks about one sign and all things."
+              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. At an evening instruction, Tian'an Sheng links a rising speck, a falling leaf and one teaching understood so that all teachings reach everywhere. He asks whether the assembly wants to penetrate that one teaching and answers with wind moving a tree and the moon after rain. The leaf is one part of his own linked set about a small sign and a wider field, not a weather report offered by a separate speaker."
             },
             {
               "RelPath": "J/J33/J33nB288.xml",
@@ -38640,7 +38640,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J33/J33nB288.xml). Recorded Chan teaching. Hanyu voices the line, throws down a whisk, and asks whether his assembly sees autumn."
+              "AttributionNote": "Source record (J/J33/J33nB288.xml). Recorded Sayings of Chan Master Hanyu Xian. At an early-autumn hall talk, Hanyu Hongxian says one leaf falls and the whole world is autumn, then pairs it with a speck and the whole earth. He throws down his whisk as the fallen leaf and asks if the assembly sees autumn; he raises the whisk as the speck and asks if they understand the earth gathered in. He then distinguishes grasping this from merely circulating a conventional saying. The two gestures make the inherited-sounding line a live test of what they see."
             },
             {
               "RelPath": "J/J34/J34nB306.xml",
@@ -38658,7 +38658,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J34/J34nB306.xml). Recorded Chan teaching. Neishao voices it in a sermon about the coming autumn and leaves."
+              "AttributionNote": "Source record (J/J34/J34nB306.xml). Recorded Sayings of Chan Master Neishaozhong. On the first day of autumn, a monk asks Neishao Zhizhong for a timely response about a leaf arriving as the last lotus leaves of summer go. Neishao answers with an iron pillar at the sea gate; the monk presses him, shouts and is struck. Neishao then gives a longer verse beginning with one leaf falling and the whole world becoming autumn, and tells the traveling monks not to seek outside. The exact phrase is Neishao's own verse after the exchange, not the monk's opening question."
             },
             {
               "RelPath": "J/J36/J36nB359.xml",
@@ -38676,7 +38676,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Chan teaching. Baiyu opens a new abbacy with the leaf-and-autumn line."
+              "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. After accepting an invitation to preside at Shanquan Temple, Baiyu Jingsi takes his seat and opens with the falling leaf and rising speck paired together. He immediately asks whether anyone in the assembly understands and answers a monk who asks how a teacher can be present everywhere yet ascend this seat now. The seasonal line marks his present taking of the seat and invites the assembly to test what it means, rather than just naming the weather."
             },
             {
               "RelPath": "J/J36/J36nB362.xml",
@@ -38694,7 +38694,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded Chan teaching. Guantao uses it at the end of retreat to address travellers and the season."
+              "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded Sayings of Chan Master Guantaoqi. At the end of the summer retreat, Guantao Daqi opens with one leaf falling and the whole world becoming autumn, follows it with migrating geese and cool air, and tells traveling monks not to delay their departure. He looks around and asks how one goes when there is not a blade of grass for ten thousand miles, then answers with clouds and distant mountains. The leaf signals both the actual seasonal change and the moment for the monks to move."
             },
             {
               "RelPath": "X/X71/X71n1414.xml",
@@ -38712,7 +38712,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Chan teaching. Liao’an voices it with the passing of youth and the turn of a year."
+              "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu. Liao'an Qingyu begins a hall talk with one leaf falling and the whole world becoming autumn, then says rivers run east, time passes from morning to evening and a young head will turn white. He lifts his staff, speaks of removing one wedge with another, strikes it and throws it down. The leaf is a compressed sign of passing time inside a direct exhortation to his listeners; the staff actions are Liao'an's own continuation."
             },
             {
               "RelPath": "J/J40/J40nB494.xml",
@@ -38730,10 +38730,163 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Chan teaching. Yushan voices it at evening teaching and asks what ordinary movement reveals."
+              "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. At evening instruction, Yushan Shangsi pairs the falling leaf with one speck rising and the earth gathered in. He sets aside a feat of fitting the continents through a needle eye and asks the monks whether, in their ordinary daily movement through the hall and temple, they have touched the Buddha's nose. After a pause he strikes his staff and says a greeting twice. The leaf line opens Yushan's present challenge about immediate recognition in daily movement."
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J10/J10nA158.xml",
+              "FromLb": "0003b22",
+              "ToLb": "0003c12",
+              "Kwic": "安師弟適來到方丈要悟上座上堂普施法雨底意旨。」復舉：「德山和尚云：『我宗無語句，亦無一法與人。』」師云：「若是孟八郎漢，便恁麼領略得去，便見賓即始終賓、主即始終主，主家無賓家底道理、賓家無主家底道理，賓主不交參，彼彼無前後。雖然如是，須知平地上死人無數，灼然出得荊棘林是好手。」驀拈拄杖云：「你有拄杖子，與你拄杖子；你無拄杖子，奪你拄杖子。」舉起云：「者是悟上座拄杖子，作麼生是眾兄弟拄杖子？」良久，度侍者云：「悟上座失利。」下座。上堂。「一葉落，天下秋；一塵起，大地收。今朝七月六日，無論一葉落不落而天下秋，眾兄弟已備知矣。」舉起拂子云：「一塵起也，且作麼生是大地收底道理？」擲下云：「若知撲落非他物，始見縱橫不是塵。」下座。解制，上堂。「百日禪期正如畫地為牢，秪要諸人知個分曉。若也知得分曉，便知四月十五日結制本非結，今朝七月十五日解制亦非解。既非結、又非解，且畢竟四月十五到今朝七月十五者是個甚麼？若有分曉得者，出來通個消息。」良久，云：「若一總未分曉，無柰漆桶不快何。」下座。上堂，舉：",
+              "MasterName": "Miyun Yuanwu",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Miyun Yuanwu",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu opens a hall talk with one leaf falling and the whole world becoming autumn, paired with one speck rising and the whole earth gathered in. He says that on this July day the monks already know autumn whether or not a literal leaf falls. He raises his whisk to ask what it means for one speck to gather the earth, throws it down and gives a closing line. The leaf is his present example of recognition that does not wait for a visible seasonal token.",
+              "ClaimText": "一葉落，天下秋"
+            },
+            {
+              "RelPath": "J/J26/J26nB187.xml",
+              "FromLb": "0681b20",
+              "ToLb": "0681c09",
+              "Kwic": "，饒你接觜。』將謂是上國觀光，無端將驢鞍橋作阿爺下頷殊，不知各有祖翁田業、原本契書，何不自家驗取？即今要識原本契書麼？」卓拄杖，云：「不從人得。」晚參。「大覺今夏下三百六十箇吊桶在白洋河裏，意在釣鼇；縣一口利劍于山門下，志在屠龍；下漫天網子在四籬壁下，擬擒俊鶻。你若退步，鉤錐滿地；你若進步，劍下分身；你若不進不退，又墮羅網。還有出格英靈與大覺相見者麼？」一僧纔出，師喝一喝，云：「敕點飛龍馬，跛鱉出頭來。」便下座。晚參。「一塵起，大地收；一葉落，天下秋；一法透，萬法周。諸仁要透一法麼？風起梧桐能解語，雨餘明月炤高樓。」晚參。問：「皓月當空，一輪寶鏡初開匣；明星映水，幾幅珠簾不上鉤？明星映水即且止，皓月當空是若何？」師云：「三十日看取。」進云：「恁麼則與師相見去也。」師云：「秋華容易紛紛落。」進云：「昔日汾陽有四句，人天眾前乞師拈出。」師云：「討甚閒功夫？」進云：「如何是接初機句？」師云：「成佛作祖。」「如何是辨衲僧句？」師云：「呵佛罵祖。」「如何是正令行句？」師云：「殺佛殺祖。」「如",
+              "MasterName": "Tian'an Sheng",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Tian'an Sheng",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. At an evening instruction, Tian'an Sheng links a rising speck, a falling leaf and one teaching understood so that all teachings reach everywhere. He asks whether the assembly wants to penetrate that one teaching and answers with wind moving a tree and the moon after rain. The leaf is one part of his own linked set about a small sign and a wider field, not a weather report offered by a separate speaker.",
+              "ClaimText": "一葉落，天下秋"
+            },
+            {
+              "RelPath": "J/J33/J33nB288.xml",
+              "FromLb": "0568b20",
+              "ToLb": "0568c08",
+              "Kwic": "乾明直不藏曲。且道還有傍不肯者麼？試道看。若也道得分明，許你具一隻眼。」因觀戲，上堂。云：「聲色堆頭，全彰本地風光；眼見耳聞，獨露當人玅用。秖為情生智隔，想變體殊，有大威光，不能發現。秪如道：『聞聲悟道，見色明心。』且問諸人：今朝村歌社舞，鑼鼓喧天，那箇是見底心？那箇是悟底道？若也會得，管取途中受用，任運逍遙；苟或不然，總成逐色隨聲去也。必定見聞不昧，聲色超然一句作麼生？」良久，云：「塵塵遍現毘盧境，物物全彰華藏天。」立秋，上堂。云：「一葉落，天下秋；一塵起，大地收。金風體露，秋色盈眸。」驀擲拂子，云：「一葉落也，諸人還見秋麼？」復舉拂子，云：「一塵起也，還知大地收麼？若也於斯透脫，管取越塵越格，任運風流；苟或未然，未免世諦流布去也。且道必定意作麼生？雁行南浦浮空碧，截斷西江翠疊雲。」佛殿功完，上堂。問：「佛宇功完，人天慶集，且道與插標建梵剎是同是別？」師云：「雲在嶺頭閒不徹。」進云：「秖如帝釋散花又作麼生？」師云：「水流澗下太忙生。」進云：「須彌千尺浪，大海悉平波。」師云：「腦後",
+              "MasterName": "Hanyu Hongxian",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Hanyu Hongxian",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J33/J33nB288.xml). Recorded Sayings of Chan Master Hanyu Xian. At an early-autumn hall talk, Hanyu Hongxian says one leaf falls and the whole world is autumn, then pairs it with a speck and the whole earth. He throws down his whisk as the fallen leaf and asks if the assembly sees autumn; he raises the whisk as the speck and asks if they understand the earth gathered in. He then distinguishes grasping this from merely circulating a conventional saying. The two gestures make the inherited-sounding line a live test of what they see.",
+              "ClaimText": "一葉落，天下秋"
+            },
+            {
+              "RelPath": "J/J34/J34nB306.xml",
+              "FromLb": "0411c12",
+              "ToLb": "0411c30",
+              "Kwic": "應物，風聲透樹，電影穿雷，不落唇吻，法音徹震十虛，碧水連天，奇雲覆地，不涉程途，神御頓超八極，始顯門庭施設，破二作三，入理深談，七穿八穴，皆吾心之嘗分，非有假於他術也。」連喝兩喝，云：「毫釐有差，天地懸隔。」立秋日，小參。僧問：「飄去殘荷送夏，飛來一葉迎秋，應節及時，請師端的。」師云：「海門橫銕柱。」僧云：「恁麼則零落總歸根也。」師云：「看你築著磕著。」僧一喝，師便打。僧云：「可謂一條痕到底，佛祖不容情。」師云：「藏身露影漢。」乃云：「一葉落，天下秋，涼生大埜話啾啾。無位真人，直得金風體露；赤肉團上，肯同玉露傾湫。滿院碧梧蕭瑟，那比春殘三島？一池芰荷旖旎，何如花老十洲？五湖參學侶，莫向外馳求，靈源仙嶼在人世，草鞋跟斷堪優游。把住清谿，洗盡南泉三不是；放開白月，透出雲門六不收。操徹沒絃琴，歌殘無字謳，休嫌作者頻頻舉，若個知音解點頭？黃鍾澒洞，大呂颼飀，落雁曲終人不見，橫江青疊數峰秋。」上堂。僧問：「水天一色，丹桂含香，月掌堂中還肯別露消息也未？」師云：「雨足秋苔滑。」僧云：「何不蓋覆",
+              "MasterName": "Neishao Zhizhong",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Neishao Zhizhong",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J34/J34nB306.xml). Recorded Sayings of Chan Master Neishaozhong. On the first day of autumn, a monk asks Neishao Zhizhong for a timely response about a leaf arriving as the last lotus leaves of summer go. Neishao answers with an iron pillar at the sea gate; the monk presses him, shouts and is struck. Neishao then gives a longer verse beginning with one leaf falling and the whole world becoming autumn, and tells the traveling monks not to seek outside. The exact phrase is Neishao's own verse after the exchange, not the monk's opening question.",
+              "ClaimText": "一葉落，天下秋"
+            },
+            {
+              "RelPath": "J/J36/J36nB359.xml",
+              "FromLb": "0665a04",
+              "ToLb": "0665b16",
+              "Kwic": "寒楊柳風。適來佛日與麼舉，若作詩會，也與二十拄杖；若作佛法會，也與二十拄杖；縱饒你不作詩會，亦不作佛法會，也與二十拄杖。因甚如此？不見道：任是深山最深處，也應無地避徵徭。」百愚斯禪師語錄卷第十百愚斯禪師語錄卷第十一住國山善權寺嗣法門人智操住京兆薦福寺嗣法門人智覺編次住宜興國山善權禪寺語錄住宜興國山善權禪寺語錄順治庚子秋，在佛日寺受請，上堂。拈疏云：「山僧腳跟一向佛祖搖撼不動，今日為甚被者箇轉卻？」喝一喝，云：「大人境界普賢知。」陞座。「一葉落，天下秋；一塵起，大地收。白髮翁翁著繡履，不妨隨處賣風流。眾中還有共相委悉者麼？」問：「剎剎分身，本無來去，即今陞座又作麼生？」師云：「明月影分千澗水。」進云：「與麼則雲從龍、風從虎去也。」師云：「孤松聲任四時風。」進云：「善權示現隨機叩，處處元來是一家。」師云：「不為分外。」乃云：「有時不擇地而安，佛界魔界渾融一團；有時檢所在而住，者邊那邊本無二致。能如是，正好壁立萬仞、坐斷千差，忘物我、絕能所，泯是非、息迷悟，權開五位、善接三根，翻身鳥道、",
+              "MasterName": "Baiyu Jingsi",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Baiyu Jingsi",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. After accepting an invitation to preside at Shanquan Temple, Baiyu Jingsi takes his seat and opens with the falling leaf and rising speck paired together. He immediately asks whether anyone in the assembly understands and answers a monk who asks how a teacher can be present everywhere yet ascend this seat now. The seasonal line marks his present taking of the seat and invites the assembly to test what it means, rather than just naming the weather.",
+              "ClaimText": "一葉落，天下秋"
+            },
+            {
+              "RelPath": "J/J36/J36nB362.xml",
+              "FromLb": "0745b02",
+              "ToLb": "0745b21",
+              "Kwic": "諾。」師曰：「二大老恁麼問答，雖則告往知來，爭奈疑殺天下人何？然玉局瑤壇盡向步虛聲中唱出，青鸞白鶴皆從散花掌上飛來，知者能於彩雲影裏親見一面，不知者猶在夢中惺惺、醉後叮嚀。且道古人恁麼道、山僧恁麼舉，還是有格則？無格則聻？幸遇烏龍和尚象駕光臨，大眾翹勤禮請，為汝等決疑。」晚參。舉：「世尊於涅槃會上以手摩胸，告眾曰：『汝等善觀吾紫磨金色之身，瞻仰取足，勿令後悔。』」師曰：「漆以堅自割，膏以明自焚，黃面瞿曇至死不變。強哉矯！」解夏，上堂。「一葉落，天下秋，霜鴻陣陣向南征。滿天涼氣斗西指，水落石出句分明。行腳士，莫因循，南岳天台不涉程。」乃顧視左右，曰：「秪如萬里無寸草作麼生去？堪對暮雲歸未合，遠山無限碧稜層。」重建大雄寶殿陞梁，上堂。師以拄杖卓一下曰：「向者一片田地，進得一步，著得一眼，自然出生一切佛祖，含育一切有情，安立一切世界，莊嚴一切報土，折伏一切魔外，圓成一切種智。於一莖草上現瓊樓玉殿，始能圓中規，方中矩，橫斜延袤，寬廣低昂，理事兼備，因果一如。以此祝聖，國王長壽。以此保釐，物",
+              "MasterName": "Guantao Daqi",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Guantao Daqi",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded Sayings of Chan Master Guantaoqi. At the end of the summer retreat, Guantao Daqi opens with one leaf falling and the whole world becoming autumn, follows it with migrating geese and cool air, and tells traveling monks not to delay their departure. He looks around and asks how one goes when there is not a blade of grass for ten thousand miles, then answers with clouds and distant mountains. The leaf signals both the actual seasonal change and the moment for the monks to move.",
+              "ClaimText": "一葉落，天下秋"
+            },
+            {
+              "RelPath": "X/X71/X71n1414.xml",
+              "FromLb": "0299a21",
+              "ToLb": "0299b17",
+              "Kwic": "失功；兩處不通，觸途成滯。卓拄杖，云：一拳拳倒黃鶴樓，一躍躍翻鸚鵡洲。有意氣時添意氣，不風流處也風流。擲下拄杖，下座。上堂：久晴喜雨，久雨喜晴。太元天子，坐致太平。遽起身云：萬歲，萬歲，萬萬歲。下座。上堂，舉睦州看華嚴次，僧問：和尚看什麼經？州云：青色光明雲，紫色光明雲，大光明雲。那邊是什麼雲？僧云：黑雲。州云：今朝定有雨。師云：奇恠諸禪德，惺惺底直是惺惺，傝󳸮底直是傝󳸮。會麼？拍禪床，云：三冬鐵樹滿林華，六月黃河連底凍。喝一喝。上堂。一葉落，天下秋，百川東到海，何時復西流？朝錄錄，暮悠悠，看看白盡少年頭。拈拄杖云：用楔出楔，看樓打樓。卓拄杖，腰纏十萬貫，騎鶴上楊州。擲下拄杖。小參。佛懽喜，僧自恣，萬人叢裡奪高標，到頭恰似小兒戲。雪峯輥三箇木毬，仰山推出枕子，蛇頭揩痒，虎頷編須，不有師子爪牙，便見橫尸萬里。是你諸人九十日內渴飲飢餐、早眠晏起，既云識果知因，且免破規越矩。卓拄杖，云：水東流，日西去，三更五更唱巴歌，無端驚起梵王睡。喝一喝。報恩長老至，上堂。今朝十月一，天寒下暖簾，黃昬",
+              "MasterName": "Liao'an Qingyu",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Liao'an Qingyu",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu. Liao'an Qingyu begins a hall talk with one leaf falling and the whole world becoming autumn, then says rivers run east, time passes from morning to evening and a young head will turn white. He lifts his staff, speaks of removing one wedge with another, strikes it and throws it down. The leaf is a compressed sign of passing time inside a direct exhortation to his listeners; the staff actions are Liao'an's own continuation.",
+              "ClaimText": "一葉落，天下秋"
+            },
+            {
+              "RelPath": "J/J40/J40nB494.xml",
+              "FromLb": "0530b29",
+              "ToLb": "0530c18",
+              "Kwic": "裏發真歸源去，則盡十方世界若聖、若凡、若草、若木，無不四大性自復，如子得其母，那更隨時運轉、逐境昇沉，把祖翁田地瓦裂瓜分？」驀指面，云：「這雙烏律律底眼睛，山僧既具、諸人亦具，試看古今天地、古今日月、古今山河、古今人倫有絲毫變異處麼？既無變異，則黃面老子鼻孔是諸人鼻孔、碧眼胡兒眼睛是諸人眼睛，甚麼處虧欠汝？甚麼處削弱汝？必待長期短限、剋苦揩磨，然後到無為安樂之鄉。慶雲今日因行掉臂，盡行拋向諸人面前了也，更或遲疑，卻怪山僧不得。」晚參。「一葉落，天下秋；一塵起，大地收。撮四大部洲來針眼裏則且置，汝諸人從朝至暮穿僧堂、入佛殿，還曾觸著黃面老子鼻孔麼？」良久，卓拄杖，云：「不審，不審。」晚參。「豬肉案頭，塊塊是精；喪車幔裏，聲聲是妙。好大眾！靈山授記無過此也。你若求佛，被佛縛；你若求法，被法縛；你若求僧，被僧縛；你若不求，被不求縛。作麼生免得此過？」遂以兩手作鵓鳩，叫云：「谷谷呱。」晚參。「有情之本，依智海以為源；含識之流，總法身而為體。要識此體麼？嘉州牛喫禾，益州馬腹脹。要識此源麼？天",
+              "MasterName": "Yushan Shangsi",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yushan Shangsi",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. At evening instruction, Yushan Shangsi pairs the falling leaf with one speck rising and the earth gathered in. He sets aside a feat of fitting the continents through a needle eye and asks the monks whether, in their ordinary daily movement through the hall and temple, they have touched the Buddha's nose. After a pause he strikes his staff and says a greeting twice. The leaf line opens Yushan's present challenge about immediate recognition in daily movement.",
+              "ClaimText": "一葉落，天下秋"
+            }
+          ],
           "SourceTexts": [
             "J/J10/J10nA158.xml",
             "J/J26/J26nB187.xml",
@@ -38755,7 +38908,7 @@
             "Yushan Shangsi"
           ],
           "RelatedTerms": [],
-          "Explanation": "The fall of one leaf discloses autumn across the world. Miyun, Tian’an, Hanyu, and Neishao use the single sign to test what an assembly sees. Baiyu, Guantao, Liao’an, and Yushan apply it to new seats, retreat endings, aging, and ordinary days."
+          "Explanation": "One leaf falls and the whole world is autumn: a small seasonal sign that can disclose a larger change. These eight teachers use it to test recognition in an assembly, mark a new seat or a retreat ending, and press listeners about the passing of time. Miyun Yuanwu opens a hall talk with one leaf falling and the whole world becoming autumn, paired with one speck rising and the whole earth gathered in. He says that on this July day the monks already know autumn whether or not a literal leaf falls. He raises his whisk to ask what it means for one speck to gather the earth, throws it down and gives a closing line. The leaf is his present example of recognition that does not wait for a visible seasonal token. At an evening instruction, Tian'an Sheng links a rising speck, a falling leaf and one teaching understood so that all teachings reach everywhere. He asks whether the assembly wants to penetrate that one teaching and answers with wind moving a tree and the moon after rain. The leaf is one part of his own linked set about a small sign and a wider field, not a weather report offered by a separate speaker. At an early-autumn hall talk, Hanyu Hongxian says one leaf falls and the whole world is autumn, then pairs it with a speck and the whole earth. He throws down his whisk as the fallen leaf and asks if the assembly sees autumn; he raises the whisk as the speck and asks if they understand the earth gathered in. He then distinguishes grasping this from merely circulating a conventional saying. The two gestures make the inherited-sounding line a live test of what they see. On the first day of autumn, a monk asks Neishao Zhizhong for a timely response about a leaf arriving as the last lotus leaves of summer go. Neishao answers with an iron pillar at the sea gate; the monk presses him, shouts and is struck. Neishao then gives a longer verse beginning with one leaf falling and the whole world becoming autumn, and tells the traveling monks not to seek outside. The exact phrase is Neishao's own verse after the exchange, not the monk's opening question. After accepting an invitation to preside at Shanquan Temple, Baiyu Jingsi takes his seat and opens with the falling leaf and rising speck paired together. He immediately asks whether anyone in the assembly understands and answers a monk who asks how a teacher can be present everywhere yet ascend this seat now. The seasonal line marks his present taking of the seat and invites the assembly to test what it means, rather than just naming the weather. At the end of the summer retreat, Guantao Daqi opens with one leaf falling and the whole world becoming autumn, follows it with migrating geese and cool air, and tells traveling monks not to delay their departure. He looks around and asks how one goes when there is not a blade of grass for ten thousand miles, then answers with clouds and distant mountains. The leaf signals both the actual seasonal change and the moment for the monks to move. Liao'an Qingyu begins a hall talk with one leaf falling and the whole world becoming autumn, then says rivers run east, time passes from morning to evening and a young head will turn white. He lifts his staff, speaks of removing one wedge with another, strikes it and throws it down. The leaf is a compressed sign of passing time inside a direct exhortation to his listeners; the staff actions are Liao'an's own continuation. At evening instruction, Yushan Shangsi pairs the falling leaf with one speck rising and the earth gathered in. He sets aside a feat of fitting the continents through a needle eye and asks the monks whether, in their ordinary daily movement through the hall and temple, they have touched the Buddha's nose. After a pause he strikes his staff and says a greeting twice. The leaf line opens Yushan's present challenge about immediate recognition in daily movement."
         }
       ]
     },
