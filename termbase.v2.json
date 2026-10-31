@@ -57230,23 +57230,33 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "The complete four-line verse is Fenyang Shanzhao wording. Miyun challenges its four lines on Double Ninth; Tianyin asks when it heals or harms; Wuyi treats it as a clue to three mysteries and essentials; Faxi asks how its fresh chrysanthemum meets the present season; Buhui tests its clauses; Meixi asks where its teaching is visible now; and Zhanran rejects rigid line-by-line classification. These seven current masters comment on Fenyang quoted verse rather than becoming its original utterers.",
+          "Note": "Tianyin, Wuyi, Meixi, and Zhanran explicitly attribute the inherited verse to Fenyang and challenge rigid classification. Miyun and Buhui introduce it only as an old saying locally, so their exact cited speaker remains unnamed even though parallel records identify Fenyang. Faxi voices the full verse in his present ninth-day hall address without naming its origin there, then asks who can meet the season. The flowering chrysanthemum is a timely test, not an extra abstract category.",
           "Occurrences": [
             {
               "RelPath": "J/J10/J10nA158.xml",
               "FromLb": "0009a18",
               "ToLb": "0009b28",
               "Kwic": "「還知麼？吾無隱乎爾。」復卓一卓，下座。上堂。「八月中秋，不寒不熱，簡點將來，識情難測。翻笑寒山子，有心似秋月，世間多少人，卻認光影悅？誰知明月下，元是昔愁賊？」喝一喝，復舉：「《楞嚴經》云：見見之時，見非是見，見猶離見，見不能及。」師云：「釋迦老子到者裡恰是計窮力極，轉身不得，不肖兒孫為伊出手去也。見見之時，見非是見，見猶離見，見不能及。有人問我，正好攔腮劈脊，若知棒頭落處，管教全體透徹。何以？脫體頓超知見外，方名越格自繇人。」卓拄杖下座。上堂。「個事明明絕覆藏，老僧有口難分析，無柰時人不解薦，眼睜睜地還如瞎。所以道：彌勒真彌勒，分身千百億，時時示時人，時人自不識汝。諸人識不識？」驀拈拄杖云：「若不識，拄杖子善甄別，為諸人更漏泄，直須當頭點破，管教棒棒見血。」喝一喝，下座。眾請上堂，師云：「老僧與你去。」至法堂，眾擬作禮，師云：「為上堂了。」遂歸方丈。上堂。「五月五是端午，九月九是重陽，即今卻好個時節，諸人不用別商量。所以道：三玄三要事難分，得意忘言道易親，一句明明該萬象，重陽九日菊花新。雖然，老僧更向註腳下添註腳：『三玄三要事難分』，自知較一半；『得意忘言道易親』，無者閒心情；『一句明明該萬象』，眼花作甚麼？重陽九日菊花新。」喝一喝，下座。上堂，僧問：「十五日已前即不問，十五日已後是如何？」師云：「明日月漸虧。」進云：「明日後又如何？」師云：「三十日來與汝道。」進云：「即今事作麼生？」師云：「速退速退。」乃舉：「僧問雲門：『如何是諸佛出身處？』門云：『東山水上行。』佛果云：『天寧即不然。如有問：「如何是諸佛出身處？」薰風自南來，殿閣生微涼。』老僧又不然，有問：『如何是諸佛出身處？』劈脊便棒。且看古人恁麼道，老僧恁麼行，諸人還端的也無？若也端的，到方丈通個消息。」下座。三峰漢月參請上堂，示臨濟宗旨來源。一僧出，問：「如何是和尚惡水潑人？」師便打，僧擬開口，師直打出法堂，云：「者便是臨濟宗旨。」復陞座云：「我禪門一事，自世尊說法四十九年，臨末稍頭，於靈山會上拈花默顧大眾時，百萬人天皆不知落處，惟迦葉尊者破顏微笑。世尊云：『吾有清淨法眼，不立文字，付囑摩訶迦葉，廣流傳化毋令斷絕。』謂之教外別傳，至二十八祖到東震旦國，直指人心見性成佛。一日索門人各呈所見，惟慧可大師只禮三拜歸位而立，謂之得髓。傳至六祖，出南嶽、青",
-              "MasterName": "Fenyang Shanzhao",
-              "ActorAttribution": null,
+              "MasterName": null,
+              "ActorAttribution": {
+                "Status": "reviewed-unnamed",
+                "Kind": "unnamed earlier quoted verse speaker",
+                "ActorLabel": "unnamed earlier verse speaker in the local record",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The present master introduces the exact verse only as an old or previously said line and does not identify its earlier speaker locally. Other recorded sources explicitly name Fenyang; the present master supplies the separate commentary.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "Codex source-first public R10 prose and actor repair",
+                "ReviewedUtc": "2026-10-31T09:46:12.575205Z"
+              },
               "Curated": true,
               "ContextMasters": [
-                {
-                  "MasterName": "Fenyang Shanzhao",
-                  "Roles": [
-                    "utterer"
-                  ]
-                },
                 {
                   "MasterName": "Miyun Yuanwu",
                   "Roles": [
@@ -57255,7 +57265,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded sayings. Miyun recites Fenyang verse on Double Ninth and challenges each line with his own gloss."
+              "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu opens a hall address by setting the fifth day of the fifth month beside Double Ninth and calling the present season good. He then introduces as an old saying the four-line verse on the three mysteries and three essentials, meaning beyond words, a single line containing all forms, and fresh chrysanthemums on the ninth day. Miyun says he will add notes to its notes, challenges the first three lines in turn, repeats the flower line, and ends with a shout. The selected verse is locally an unnamed earlier saying; other records identify Fenyang as its origin, while Miyun's skeptical gloss is the present voice."
             },
             {
               "RelPath": "J/J25/J25nB171.xml",
@@ -57280,7 +57290,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded sayings. Tianyin names Fenyang and uses the verse to test how old teaching can become a poison if mishandled."
+              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu criticizes teachers who rigidly assign the three mysteries and three essentials to fixed categories of method, illumination, and use. He explicitly quotes Fenyang Shanzhao's four-line verse, whose last line makes Double Ninth chrysanthemums fresh, and says it treats precisely this error. Yet even the finest medicine can become poison for someone who handles it badly. Tianyin then asks whether the assembly knows where Fenyang's line lands, offers his own verse, and tests what it means to speak in season. The exact four lines are Fenyang's quoted voice; Tianyin uses them against a schematic reading."
             },
             {
               "RelPath": "J/J27/J27nB197.xml",
@@ -57305,48 +57315,52 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J27/J27nB197.xml). Recorded sayings. Wuyi explicitly names Fenyang and treats the verse as a genuine clue to the three mysteries and essentials."
+              "AttributionNote": "Source record (J/J27/J27nB197.xml). Essentials of the Recorded Sayings of Master Wu Yi of Boshan. In a letter to a lay correspondent, Wuyi Yuanlai recalls Linji saying that one phrase contains three mysteries and each mystery contains three essentials. Wuyi says these are present in a teacher's live response before labels arise, so hunting for them inside a string of words misses the point. He explicitly praises Fenyang Shanzhao's four-line chrysanthemum verse as a true clue, urges the layman to examine Linji receiving blows, and says ordinary acts such as welcoming guests or lifting a spoon can reveal what classification cannot. The exact verse is Fenyang's; Wuyi is the letter writer applying it."
             },
             {
               "RelPath": "J/J28/J28nB220.xml",
               "FromLb": "0790c08",
               "ToLb": "0791a18",
               "Kwic": "生一句請師宣。」師云：「燈燭交輝，人境互換。」進云：「父母未生前，如何是和尚本來面目？」師云：「威音那畔不如我。」「如何是已生的本來面目？」師云：「那畔威音我不如。」進云：「臨濟宗旨縱奪分明，如何是奪人不奪境？」師云：「月印前朝寺，蒼階虛自明。」「如何是奪境不奪人？」師云：「牧童歌遠調，方識老山深。」「如何是人境兩俱奪？」師云：「白日西山墜，長安緊閉門。」「如何是人境俱不奪？」師云：「聖主臨寶殿，野老盡相親。」進云：「蒙師指出秦時鏡，照破無生劫外春。」師云：「非汝境界。」乃云：「首座為我慶生，兼啟山僧說法，若有法可說，卻成世諦流布；若無法可說，未免取笑虛設。所以道：不見有人境互換，生滅、長短、動靜無虧，全身荷負。眉劍首座隨侍山僧一十六載，癸巳秋命守同安院事，于中經歷寒暑，志興祖席，道業、行業宛若冰霜，累被風波，毫無移易，今特山僧五旬遠來慶祝。雖然如是，且不涉景緣一句作麼生道？愧慚半百等閑度，喫盡風霜耐歲寒。」下座。九日，上堂。「三玄三要事難分，得意忘言道易親，一句明明該萬象，重陽九日菊花新。菊花既新，還有知時應節者麼？」僧問：「處處笙歌吹落帽，家家鼓樂宴龍山，如何是值時應節句？」師云：「幾點重陽雨，洗出透靈源。」進云：「重陽佳節蒙師指，展翅鶤鵬事若何？」師云：「拔萃衝霄添瑞氣，超群獨步助春風。」進云：「恁麼則許淵明折一枝去也。」師云：「喜得上座領話。」僧禮拜，師乃云：「從上來建法幢、立宗旨，秖為紹隆佛種，接待後昆，山僧縵網張鉤，倚望撈得一個半個，撐持祖道，法社增輝，不意監院慎獨不遠千里，山僧一見已知脫皮換骨，今日撾鼓集眾，只得兩手分付。且道付個什麼？龍門一派曹溪水，今古滔滔話不窮，獨許慎公吸一滴，頓教陸地起蒼龍。」下座。結制，上堂。「最初一句子，眉下甚分明，鼻孔原向下，何勞別處尋？既不別處尋，今日因甚牽累山僧？奈你個個仰天覓地，把水求火，將靈然一段光明自己埋沒，豈不知盡大地是個禪堂，返去他處棲遲，可謂無繩自縛？今日事不獲已，只好將錯就錯，且向長連床上豎起脊梁，緊捏繩頭，看是什麼道理？切須逼得通身汗下，絕後再甦，失腳井中摝得一個紅爛鐵錘也不可知。」顧左右，云：「喚甚麼作紅爛鐵錘？」眾無語，師云：「如鴨聞雷。」拽杖，下座。解制，上堂。「百日期滿，眉毛放下，眾中有收因結果者麼？出來為你證據。若論此事，不言而信、不動",
-              "MasterName": "Fenyang Shanzhao",
+              "MasterName": "Faxi Yin",
               "ActorAttribution": null,
               "Curated": true,
               "ContextMasters": [
                 {
-                  "MasterName": "Fenyang Shanzhao",
-                  "Roles": [
-                    "utterer"
-                  ]
-                },
-                {
                   "MasterName": "Faxi Yin",
                   "Roles": [
-                    "commentator",
+                    "utterer",
                     "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB220.xml). Recorded sayings. Faxi invokes Fenyang verse on the ninth day and asks who can meet the season directly."
+              "AttributionNote": "Source record (J/J28/J28nB220.xml). Recorded Sayings of Chan Master Faxiyin. On the ninth day festival, Faxi Yin opens a hall address by voicing the four-line verse on three mysteries, meaning beyond words, one line embracing all forms, and newly fresh chrysanthemums. He immediately asks who can respond to the season. A monk asks for a line that fits the day; Faxi answers with rain washing the scene, then responds to further questions before addressing the steward who has come far to support the community. Faxi is the selected present reciter; the same verse is attributed to Fenyang in other sources, but this local opening does not name him."
             },
             {
               "RelPath": "J/J32/J32nB276.xml",
               "FromLb": "0346a05",
               "ToLb": "0346c14",
               "Kwic": "『直得純清絕點時如何？』慶云：『猶是真常流注。』生云：『如何是真常流注？』慶云：『如鏡常明。』生云：『未審向上還有事也無？』慶云：『有。』生云：『如何是向上事？』慶云：『打破鏡來相見。』」師云：「一個偷天換日，掀開庫藏，顛觔撥兩；一個開張擺貨，能放能收，或藏或露。正是唱拍相隨，如水同流，如火同明，者邊那邊，無彼無此，生與未生，全身顯露。且道打破鏡來作麼生相見？見不見，虛空忽爾轟雷電。」佛誕日，小參。「指天指地是今朝，末後重重多賣俏，難怪雲門深惱怒，即今平地生起倒。山僧只得隨順世緣無老少，也將杓水驀頭澆。長沙道：『三世諸佛共法界眾生是摩訶般若光，光未發時尚無佛、無眾生消息，秖如光未發時，諸人向甚處委悉？』」師云：「直饒悟去，未免平地喫交。即今光已發、釋迦已生，且道如何是已生消息？萬古碧潭空界月，再三撈摝始應知。」重九，小參。「今朝正直重陽節，惟見菊花成綵結，萬木凋殘葉亂飄，不隨寒暑傲霜雪，更有一物不凋殘，我若說時作兩橛。不見道：『三玄三要事難分，得意忘言道易親，一句明明該萬象，重陽九日菊花新。』山僧向古人註腳下添個註腳：三玄三要事難分，用分作麼？得意忘言道易親，自不磣口；一句明明該萬象，落眼成翳。重陽九日菊花新也不消得。」小參。問：「楊岐正令、臨濟三玄即不問，妙高峰頂事若何？」師云：「當面錯過。」進云：「善財七日不逢且置，文殊為什麼百劫摸索不著？」師便打，乃云：「今朝六月六，乍晴乍雨幾催促，適纔晴天轟霹靂，白雨又同紅日出，寒暑相蒸惱殺人，汗臭布衫泥水黷。更聽一偈：寒暑相侵有妙方，恰似巧雲無肚腸，陰陽我機關發，不屬陰陽坐道場。」不會禪師語錄卷第五門人通吉、通悟仝編小參邑侯沈公同紳衿追親，中元，請小參。僧問：「即今師說何法？」師云：「單單拈起無孔笛，為君吹出太平歌。」進云：「一切宗親在甚麼處？」師云：「全身出宇宙，何處不稱尊？」進云：「未審縣主得何祥瑞？」師云：「大江一片深秋月，徹夜無雲照世燈。」乃云：「擺脫情關疾步行，靈光不夜體常明，無生國裏香風起，劫外瓊枝劫外春。」擊靈案，云：「嘉州石象簸紅日，烈燄爐中彩鳳騰，山僧亦要應個時節，重拈一偈：中元在處一輪圓，信手掬來越相先，白骨青燐今仗此，人人祖禰得生天。」卓拄杖，下座。邑侯慧業楊護法薦親，請對靈晚參。僧問：「縣主設齋報恩時得何祥瑞？」師云：「春風日日到園林。」進云",
-              "MasterName": "Fenyang Shanzhao",
-              "ActorAttribution": null,
+              "MasterName": null,
+              "ActorAttribution": {
+                "Status": "reviewed-unnamed",
+                "Kind": "unnamed earlier quoted verse speaker",
+                "ActorLabel": "unnamed earlier verse speaker in the local record",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The present master introduces the exact verse only as an old or previously said line and does not identify its earlier speaker locally. Other recorded sources explicitly name Fenyang; the present master supplies the separate commentary.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "Codex source-first public R10 prose and actor repair",
+                "ReviewedUtc": "2026-10-31T09:46:12.622743Z"
+              },
               "Curated": true,
               "ContextMasters": [
-                {
-                  "MasterName": "Fenyang Shanzhao",
-                  "Roles": [
-                    "utterer"
-                  ]
-                },
                 {
                   "MasterName": "Buhui Fatong",
                   "Roles": [
@@ -57355,7 +57369,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J32/J32nB276.xml). Recorded sayings. Buhui quotes the verse then adds his own line-by-line challenge to its easy formulas."
+              "AttributionNote": "Source record (J/J32/J32nB276.xml). Recorded Sayings of Chan Master Buhui. At a Double Ninth small sermon, Buhui Fatong observes chrysanthemums while other trees shed their leaves, then introduces the four-line verse only as something said before. He says he will add notes to the old notes: why divide the three mysteries and essentials, why speak of meaning without words, and how can a clear sentence avoid becoming an obstruction? Even the fresh chrysanthemum line, he says, will not suffice. The exact cited verse has an unnamed earlier speaker in this local record; other witnesses name Fenyang, while Buhui's line-by-line challenge is the current voice."
             },
             {
               "RelPath": "J/J39/J39nB447.xml",
@@ -57380,7 +57394,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J39/J39nB447.xml). Recorded sayings. Meixi explicitly identifies Fenyang verse and asks the present assembly where its three mysteries are visible."
+              "AttributionNote": "Source record (J/J39/J39nB447.xml). Recorded Sayings of Chan Master Meixi Du of Dongshan. At a Double Ninth small sermon, Meixi Fudu recites the four-line verse and explicitly identifies it as Fenyang Shanzhao's verse on Linji's three mysteries and essentials. Since the chrysanthemums are now blooming, Meixi asks his assembly where they see the teaching today. If they have not seen it, he says they should hold off on festival tea and cakes and put real effort into investigating; only then can the festival food be enjoyed freely. The exact verse is Fenyang's quoted voice, while Meixi turns its seasonal image into a present demand."
             },
             {
               "RelPath": "X/X72/X72n1444.xml",
@@ -57405,7 +57419,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X72/X72n1444.xml). Recorded sayings. Zhanran explicitly credits Fenyang and argues against rigid clause-by-clause classification of the verse."
+              "AttributionNote": "Source record (X/X72/X72n1444.xml). Recorded Sayings of Chan Master Zhanran Yuancheng. Zhanran Yuancheng opens a hall teaching with the four-line verse, then explicitly praises Fenyang Shanzhao for speaking freshly as an heir of Linji. He rejects later masters who assign each verse line to a separate category of the three mysteries and essentials, saying this buries the old teaching and misleads students. Raising his staff, Zhanran tries out several such categories only to show how fixed labels multiply interpretations instead of meeting the thing before the assembly. The exact poem is Fenyang's quoted verse; Zhanran's present staff demonstration argues against rigid line-by-line classification."
             }
           ],
           "ClaimAnchors": [
@@ -57414,16 +57428,26 @@
               "FromLb": "0009a18",
               "ToLb": "0009b28",
               "Kwic": "「還知麼？吾無隱乎爾。」復卓一卓，下座。上堂。「八月中秋，不寒不熱，簡點將來，識情難測。翻笑寒山子，有心似秋月，世間多少人，卻認光影悅？誰知明月下，元是昔愁賊？」喝一喝，復舉：「《楞嚴經》云：見見之時，見非是見，見猶離見，見不能及。」師云：「釋迦老子到者裡恰是計窮力極，轉身不得，不肖兒孫為伊出手去也。見見之時，見非是見，見猶離見，見不能及。有人問我，正好攔腮劈脊，若知棒頭落處，管教全體透徹。何以？脫體頓超知見外，方名越格自繇人。」卓拄杖下座。上堂。「個事明明絕覆藏，老僧有口難分析，無柰時人不解薦，眼睜睜地還如瞎。所以道：彌勒真彌勒，分身千百億，時時示時人，時人自不識汝。諸人識不識？」驀拈拄杖云：「若不識，拄杖子善甄別，為諸人更漏泄，直須當頭點破，管教棒棒見血。」喝一喝，下座。眾請上堂，師云：「老僧與你去。」至法堂，眾擬作禮，師云：「為上堂了。」遂歸方丈。上堂。「五月五是端午，九月九是重陽，即今卻好個時節，諸人不用別商量。所以道：三玄三要事難分，得意忘言道易親，一句明明該萬象，重陽九日菊花新。雖然，老僧更向註腳下添註腳：『三玄三要事難分』，自知較一半；『得意忘言道易親』，無者閒心情；『一句明明該萬象』，眼花作甚麼？重陽九日菊花新。」喝一喝，下座。上堂，僧問：「十五日已前即不問，十五日已後是如何？」師云：「明日月漸虧。」進云：「明日後又如何？」師云：「三十日來與汝道。」進云：「即今事作麼生？」師云：「速退速退。」乃舉：「僧問雲門：『如何是諸佛出身處？』門云：『東山水上行。』佛果云：『天寧即不然。如有問：「如何是諸佛出身處？」薰風自南來，殿閣生微涼。』老僧又不然，有問：『如何是諸佛出身處？』劈脊便棒。且看古人恁麼道，老僧恁麼行，諸人還端的也無？若也端的，到方丈通個消息。」下座。三峰漢月參請上堂，示臨濟宗旨來源。一僧出，問：「如何是和尚惡水潑人？」師便打，僧擬開口，師直打出法堂，云：「者便是臨濟宗旨。」復陞座云：「我禪門一事，自世尊說法四十九年，臨末稍頭，於靈山會上拈花默顧大眾時，百萬人天皆不知落處，惟迦葉尊者破顏微笑。世尊云：『吾有清淨法眼，不立文字，付囑摩訶迦葉，廣流傳化毋令斷絕。』謂之教外別傳，至二十八祖到東震旦國，直指人心見性成佛。一日索門人各呈所見，惟慧可大師只禮三拜歸位而立，謂之得髓。傳至六祖，出南嶽、青",
-              "MasterName": "Fenyang Shanzhao",
-              "ActorAttribution": null,
+              "MasterName": null,
+              "ActorAttribution": {
+                "Status": "reviewed-unnamed",
+                "Kind": "unnamed earlier quoted verse speaker",
+                "ActorLabel": "unnamed earlier verse speaker in the local record",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The present master introduces the exact verse only as an old or previously said line and does not identify its earlier speaker locally. Other recorded sources explicitly name Fenyang; the present master supplies the separate commentary.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "Codex source-first public R10 prose and actor repair",
+                "ReviewedUtc": "2026-10-31T09:46:12.575205Z"
+              },
               "Curated": true,
               "ContextMasters": [
-                {
-                  "MasterName": "Fenyang Shanzhao",
-                  "Roles": [
-                    "utterer"
-                  ]
-                },
                 {
                   "MasterName": "Miyun Yuanwu",
                   "Roles": [
@@ -57432,7 +57456,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded sayings. Miyun recites Fenyang verse on Double Ninth and challenges each line with his own gloss.",
+              "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu opens a hall address by setting the fifth day of the fifth month beside Double Ninth and calling the present season good. He then introduces as an old saying the four-line verse on the three mysteries and three essentials, meaning beyond words, a single line containing all forms, and fresh chrysanthemums on the ninth day. Miyun says he will add notes to its notes, challenges the first three lines in turn, repeats the flower line, and ends with a shout. The selected verse is locally an unnamed earlier saying; other records identify Fenyang as its origin, while Miyun's skeptical gloss is the present voice.",
               "ClaimText": "三玄三要事難分，得意忘言道易親，一句明明該萬象，重陽九日菊花新"
             },
             {
@@ -57458,7 +57482,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded sayings. Tianyin names Fenyang and uses the verse to test how old teaching can become a poison if mishandled.",
+              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu criticizes teachers who rigidly assign the three mysteries and three essentials to fixed categories of method, illumination, and use. He explicitly quotes Fenyang Shanzhao's four-line verse, whose last line makes Double Ninth chrysanthemums fresh, and says it treats precisely this error. Yet even the finest medicine can become poison for someone who handles it badly. Tianyin then asks whether the assembly knows where Fenyang's line lands, offers his own verse, and tests what it means to speak in season. The exact four lines are Fenyang's quoted voice; Tianyin uses them against a schematic reading.",
               "ClaimText": "三玄三要事難分，得意忘言道易親，一句明明該萬象，重陽九日菊花新"
             },
             {
@@ -57484,7 +57508,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J27/J27nB197.xml). Recorded sayings. Wuyi explicitly names Fenyang and treats the verse as a genuine clue to the three mysteries and essentials.",
+              "AttributionNote": "Source record (J/J27/J27nB197.xml). Essentials of the Recorded Sayings of Master Wu Yi of Boshan. In a letter to a lay correspondent, Wuyi Yuanlai recalls Linji saying that one phrase contains three mysteries and each mystery contains three essentials. Wuyi says these are present in a teacher's live response before labels arise, so hunting for them inside a string of words misses the point. He explicitly praises Fenyang Shanzhao's four-line chrysanthemum verse as a true clue, urges the layman to examine Linji receiving blows, and says ordinary acts such as welcoming guests or lifting a spoon can reveal what classification cannot. The exact verse is Fenyang's; Wuyi is the letter writer applying it.",
               "ClaimText": "三玄三要事難分，得意忘言道易親，一句明明該萬象，重陽九日菊花新"
             },
             {
@@ -57492,25 +57516,19 @@
               "FromLb": "0790c08",
               "ToLb": "0791a18",
               "Kwic": "生一句請師宣。」師云：「燈燭交輝，人境互換。」進云：「父母未生前，如何是和尚本來面目？」師云：「威音那畔不如我。」「如何是已生的本來面目？」師云：「那畔威音我不如。」進云：「臨濟宗旨縱奪分明，如何是奪人不奪境？」師云：「月印前朝寺，蒼階虛自明。」「如何是奪境不奪人？」師云：「牧童歌遠調，方識老山深。」「如何是人境兩俱奪？」師云：「白日西山墜，長安緊閉門。」「如何是人境俱不奪？」師云：「聖主臨寶殿，野老盡相親。」進云：「蒙師指出秦時鏡，照破無生劫外春。」師云：「非汝境界。」乃云：「首座為我慶生，兼啟山僧說法，若有法可說，卻成世諦流布；若無法可說，未免取笑虛設。所以道：不見有人境互換，生滅、長短、動靜無虧，全身荷負。眉劍首座隨侍山僧一十六載，癸巳秋命守同安院事，于中經歷寒暑，志興祖席，道業、行業宛若冰霜，累被風波，毫無移易，今特山僧五旬遠來慶祝。雖然如是，且不涉景緣一句作麼生道？愧慚半百等閑度，喫盡風霜耐歲寒。」下座。九日，上堂。「三玄三要事難分，得意忘言道易親，一句明明該萬象，重陽九日菊花新。菊花既新，還有知時應節者麼？」僧問：「處處笙歌吹落帽，家家鼓樂宴龍山，如何是值時應節句？」師云：「幾點重陽雨，洗出透靈源。」進云：「重陽佳節蒙師指，展翅鶤鵬事若何？」師云：「拔萃衝霄添瑞氣，超群獨步助春風。」進云：「恁麼則許淵明折一枝去也。」師云：「喜得上座領話。」僧禮拜，師乃云：「從上來建法幢、立宗旨，秖為紹隆佛種，接待後昆，山僧縵網張鉤，倚望撈得一個半個，撐持祖道，法社增輝，不意監院慎獨不遠千里，山僧一見已知脫皮換骨，今日撾鼓集眾，只得兩手分付。且道付個什麼？龍門一派曹溪水，今古滔滔話不窮，獨許慎公吸一滴，頓教陸地起蒼龍。」下座。結制，上堂。「最初一句子，眉下甚分明，鼻孔原向下，何勞別處尋？既不別處尋，今日因甚牽累山僧？奈你個個仰天覓地，把水求火，將靈然一段光明自己埋沒，豈不知盡大地是個禪堂，返去他處棲遲，可謂無繩自縛？今日事不獲已，只好將錯就錯，且向長連床上豎起脊梁，緊捏繩頭，看是什麼道理？切須逼得通身汗下，絕後再甦，失腳井中摝得一個紅爛鐵錘也不可知。」顧左右，云：「喚甚麼作紅爛鐵錘？」眾無語，師云：「如鴨聞雷。」拽杖，下座。解制，上堂。「百日期滿，眉毛放下，眾中有收因結果者麼？出來為你證據。若論此事，不言而信、不動",
-              "MasterName": "Fenyang Shanzhao",
+              "MasterName": "Faxi Yin",
               "ActorAttribution": null,
               "Curated": true,
               "ContextMasters": [
                 {
-                  "MasterName": "Fenyang Shanzhao",
-                  "Roles": [
-                    "utterer"
-                  ]
-                },
-                {
                   "MasterName": "Faxi Yin",
                   "Roles": [
-                    "commentator",
+                    "utterer",
                     "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB220.xml). Recorded sayings. Faxi invokes Fenyang verse on the ninth day and asks who can meet the season directly.",
+              "AttributionNote": "Source record (J/J28/J28nB220.xml). Recorded Sayings of Chan Master Faxiyin. On the ninth day festival, Faxi Yin opens a hall address by voicing the four-line verse on three mysteries, meaning beyond words, one line embracing all forms, and newly fresh chrysanthemums. He immediately asks who can respond to the season. A monk asks for a line that fits the day; Faxi answers with rain washing the scene, then responds to further questions before addressing the steward who has come far to support the community. Faxi is the selected present reciter; the same verse is attributed to Fenyang in other sources, but this local opening does not name him.",
               "ClaimText": "三玄三要事難分，得意忘言道易親，一句明明該萬象，重陽九日菊花新"
             },
             {
@@ -57518,16 +57536,26 @@
               "FromLb": "0346a05",
               "ToLb": "0346c14",
               "Kwic": "『直得純清絕點時如何？』慶云：『猶是真常流注。』生云：『如何是真常流注？』慶云：『如鏡常明。』生云：『未審向上還有事也無？』慶云：『有。』生云：『如何是向上事？』慶云：『打破鏡來相見。』」師云：「一個偷天換日，掀開庫藏，顛觔撥兩；一個開張擺貨，能放能收，或藏或露。正是唱拍相隨，如水同流，如火同明，者邊那邊，無彼無此，生與未生，全身顯露。且道打破鏡來作麼生相見？見不見，虛空忽爾轟雷電。」佛誕日，小參。「指天指地是今朝，末後重重多賣俏，難怪雲門深惱怒，即今平地生起倒。山僧只得隨順世緣無老少，也將杓水驀頭澆。長沙道：『三世諸佛共法界眾生是摩訶般若光，光未發時尚無佛、無眾生消息，秖如光未發時，諸人向甚處委悉？』」師云：「直饒悟去，未免平地喫交。即今光已發、釋迦已生，且道如何是已生消息？萬古碧潭空界月，再三撈摝始應知。」重九，小參。「今朝正直重陽節，惟見菊花成綵結，萬木凋殘葉亂飄，不隨寒暑傲霜雪，更有一物不凋殘，我若說時作兩橛。不見道：『三玄三要事難分，得意忘言道易親，一句明明該萬象，重陽九日菊花新。』山僧向古人註腳下添個註腳：三玄三要事難分，用分作麼？得意忘言道易親，自不磣口；一句明明該萬象，落眼成翳。重陽九日菊花新也不消得。」小參。問：「楊岐正令、臨濟三玄即不問，妙高峰頂事若何？」師云：「當面錯過。」進云：「善財七日不逢且置，文殊為什麼百劫摸索不著？」師便打，乃云：「今朝六月六，乍晴乍雨幾催促，適纔晴天轟霹靂，白雨又同紅日出，寒暑相蒸惱殺人，汗臭布衫泥水黷。更聽一偈：寒暑相侵有妙方，恰似巧雲無肚腸，陰陽我機關發，不屬陰陽坐道場。」不會禪師語錄卷第五門人通吉、通悟仝編小參邑侯沈公同紳衿追親，中元，請小參。僧問：「即今師說何法？」師云：「單單拈起無孔笛，為君吹出太平歌。」進云：「一切宗親在甚麼處？」師云：「全身出宇宙，何處不稱尊？」進云：「未審縣主得何祥瑞？」師云：「大江一片深秋月，徹夜無雲照世燈。」乃云：「擺脫情關疾步行，靈光不夜體常明，無生國裏香風起，劫外瓊枝劫外春。」擊靈案，云：「嘉州石象簸紅日，烈燄爐中彩鳳騰，山僧亦要應個時節，重拈一偈：中元在處一輪圓，信手掬來越相先，白骨青燐今仗此，人人祖禰得生天。」卓拄杖，下座。邑侯慧業楊護法薦親，請對靈晚參。僧問：「縣主設齋報恩時得何祥瑞？」師云：「春風日日到園林。」進云",
-              "MasterName": "Fenyang Shanzhao",
-              "ActorAttribution": null,
+              "MasterName": null,
+              "ActorAttribution": {
+                "Status": "reviewed-unnamed",
+                "Kind": "unnamed earlier quoted verse speaker",
+                "ActorLabel": "unnamed earlier verse speaker in the local record",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The present master introduces the exact verse only as an old or previously said line and does not identify its earlier speaker locally. Other recorded sources explicitly name Fenyang; the present master supplies the separate commentary.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "Codex source-first public R10 prose and actor repair",
+                "ReviewedUtc": "2026-10-31T09:46:12.622743Z"
+              },
               "Curated": true,
               "ContextMasters": [
-                {
-                  "MasterName": "Fenyang Shanzhao",
-                  "Roles": [
-                    "utterer"
-                  ]
-                },
                 {
                   "MasterName": "Buhui Fatong",
                   "Roles": [
@@ -57536,7 +57564,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J32/J32nB276.xml). Recorded sayings. Buhui quotes the verse then adds his own line-by-line challenge to its easy formulas.",
+              "AttributionNote": "Source record (J/J32/J32nB276.xml). Recorded Sayings of Chan Master Buhui. At a Double Ninth small sermon, Buhui Fatong observes chrysanthemums while other trees shed their leaves, then introduces the four-line verse only as something said before. He says he will add notes to the old notes: why divide the three mysteries and essentials, why speak of meaning without words, and how can a clear sentence avoid becoming an obstruction? Even the fresh chrysanthemum line, he says, will not suffice. The exact cited verse has an unnamed earlier speaker in this local record; other witnesses name Fenyang, while Buhui's line-by-line challenge is the current voice.",
               "ClaimText": "三玄三要事難分，得意忘言道易親，一句明明該萬象，重陽九日菊花新"
             },
             {
@@ -57562,7 +57590,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J39/J39nB447.xml). Recorded sayings. Meixi explicitly identifies Fenyang verse and asks the present assembly where its three mysteries are visible.",
+              "AttributionNote": "Source record (J/J39/J39nB447.xml). Recorded Sayings of Chan Master Meixi Du of Dongshan. At a Double Ninth small sermon, Meixi Fudu recites the four-line verse and explicitly identifies it as Fenyang Shanzhao's verse on Linji's three mysteries and essentials. Since the chrysanthemums are now blooming, Meixi asks his assembly where they see the teaching today. If they have not seen it, he says they should hold off on festival tea and cakes and put real effort into investigating; only then can the festival food be enjoyed freely. The exact verse is Fenyang's quoted voice, while Meixi turns its seasonal image into a present demand.",
               "ClaimText": "三玄三要事難分，得意忘言道易親，一句明明該萬象，重陽九日菊花新"
             },
             {
@@ -57588,7 +57616,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X72/X72n1444.xml). Recorded sayings. Zhanran explicitly credits Fenyang and argues against rigid clause-by-clause classification of the verse.",
+              "AttributionNote": "Source record (X/X72/X72n1444.xml). Recorded Sayings of Chan Master Zhanran Yuancheng. Zhanran Yuancheng opens a hall teaching with the four-line verse, then explicitly praises Fenyang Shanzhao for speaking freshly as an heir of Linji. He rejects later masters who assign each verse line to a separate category of the three mysteries and essentials, saying this buries the old teaching and misleads students. Raising his staff, Zhanran tries out several such categories only to show how fixed labels multiply interpretations instead of meeting the thing before the assembly. The exact poem is Fenyang's quoted verse; Zhanran's present staff demonstration argues against rigid line-by-line classification.",
               "ClaimText": "三玄三要事難分，得意忘言道易親，一句明明該萬象，重陽九日菊花新"
             }
           ],
@@ -57602,8 +57630,8 @@
             "X/X72/X72n1444.xml"
           ],
           "RelatedMasters": [
-            "Fenyang Shanzhao",
             "Miyun Yuanwu",
+            "Fenyang Shanzhao",
             "Tianyin Yuanxiu",
             "Wuyi Yuanlai",
             "Faxi Yin",
@@ -57612,7 +57640,7 @@
             "Zhanran Yuancheng"
           ],
           "RelatedTerms": [],
-          "Explanation": "A verse about subtle teaching ends with the vivid flower of a particular festival day. Miyun, Tianyin, and Wuyi test whether the three mysteries and essentials have become a fixed scheme. Faxi, Buhui, Meixi, and Zhanran return the clear line and chrysanthemum to the living season."
+          "Explanation": "Fenyang's four-line verse says the three mysteries and essentials are difficult to separate, meaning is met beyond fixed words, one clear line includes all forms, and chrysanthemums are fresh on Double Ninth. Seven later sources use the verse to test whether such teaching is alive in a present season or reduced to a scheme; local actor framing differs across them. Miyun Yuanwu opens a hall address by setting the fifth day of the fifth month beside Double Ninth and calling the present season good. He then introduces as an old saying the four-line verse on the three mysteries and three essentials, meaning beyond words, a single line containing all forms, and fresh chrysanthemums on the ninth day. Miyun says he will add notes to its notes, challenges the first three lines in turn, repeats the flower line, and ends with a shout. The selected verse is locally an unnamed earlier saying; other records identify Fenyang as its origin, while Miyun's skeptical gloss is the present voice. Tianyin Yuanxiu criticizes teachers who rigidly assign the three mysteries and three essentials to fixed categories of method, illumination, and use. He explicitly quotes Fenyang Shanzhao's four-line verse, whose last line makes Double Ninth chrysanthemums fresh, and says it treats precisely this error. Yet even the finest medicine can become poison for someone who handles it badly. Tianyin then asks whether the assembly knows where Fenyang's line lands, offers his own verse, and tests what it means to speak in season. The exact four lines are Fenyang's quoted voice; Tianyin uses them against a schematic reading. In a letter to a lay correspondent, Wuyi Yuanlai recalls Linji saying that one phrase contains three mysteries and each mystery contains three essentials. Wuyi says these are present in a teacher's live response before labels arise, so hunting for them inside a string of words misses the point. He explicitly praises Fenyang Shanzhao's four-line chrysanthemum verse as a true clue, urges the layman to examine Linji receiving blows, and says ordinary acts such as welcoming guests or lifting a spoon can reveal what classification cannot. The exact verse is Fenyang's; Wuyi is the letter writer applying it. On the ninth day festival, Faxi Yin opens a hall address by voicing the four-line verse on three mysteries, meaning beyond words, one line embracing all forms, and newly fresh chrysanthemums. He immediately asks who can respond to the season. A monk asks for a line that fits the day; Faxi answers with rain washing the scene, then responds to further questions before addressing the steward who has come far to support the community. Faxi is the selected present reciter; the same verse is attributed to Fenyang in other sources, but this local opening does not name him. At a Double Ninth small sermon, Buhui Fatong observes chrysanthemums while other trees shed their leaves, then introduces the four-line verse only as something said before. He says he will add notes to the old notes: why divide the three mysteries and essentials, why speak of meaning without words, and how can a clear sentence avoid becoming an obstruction? Even the fresh chrysanthemum line, he says, will not suffice. The exact cited verse has an unnamed earlier speaker in this local record; other witnesses name Fenyang, while Buhui's line-by-line challenge is the current voice. At a Double Ninth small sermon, Meixi Fudu recites the four-line verse and explicitly identifies it as Fenyang Shanzhao's verse on Linji's three mysteries and essentials. Since the chrysanthemums are now blooming, Meixi asks his assembly where they see the teaching today. If they have not seen it, he says they should hold off on festival tea and cakes and put real effort into investigating; only then can the festival food be enjoyed freely. The exact verse is Fenyang's quoted voice, while Meixi turns its seasonal image into a present demand. Zhanran Yuancheng opens a hall teaching with the four-line verse, then explicitly praises Fenyang Shanzhao for speaking freshly as an heir of Linji. He rejects later masters who assign each verse line to a separate category of the three mysteries and essentials, saying this buries the old teaching and misleads students. Raising his staff, Zhanran tries out several such categories only to show how fixed labels multiply interpretations instead of meeting the thing before the assembly. The exact poem is Fenyang's quoted verse; Zhanran's present staff demonstration argues against rigid line-by-line classification."
         }
       ]
     },
