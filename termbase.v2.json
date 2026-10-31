@@ -39062,7 +39062,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J25/J25nB156.xml). Recorded Sayings of Chan Master Wuhuan. Wuhuan poses the one-place question himself and points to privy and Buddha hall."
+              "AttributionNote": "Source record (J/J25/J25nB156.xml). Recorded Sayings of Chan Master Wuhuan. Wuhuan Xingchong tells his assembly that the teaching is everywhere, yet it cannot be found by searching everywhere: there is one place in which it comes without seeking. He asks what place that is, waits, strikes his staff and answers with the privy and the Buddha hall. The line is his present question and the apparently mismatched places are his own answer, pressing listeners beyond a privileged location."
             },
             {
               "RelPath": "J/J35/J35nB336.xml",
@@ -39086,7 +39086,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J35/J35nB336.xml). Recorded Sayings of Chan Master Huigongxiong of Baoxianglin, Nanhai. Huigong quotes Zhenxie and asks where the thief’s goods are if the thief is exposed."
+              "AttributionNote": "Source record (J/J35/J35nB336.xml). Recorded Sayings of Chan Master Huigongxiong of Baoxianglin, Nanhai. Huigong Kaixiong quotes Zhenxie Qingliao's hall saying: it cannot be found anywhere by seeking, but in one place it is found without seeking. Zhenxie waits and says the thief has exposed himself. Huigong then asks where the stolen goods are if the thief is exposed, naming eyes, ears and ordinary events, and adds a verse. The exact phrase is Zhenxie's quoted voice; Huigong's present response tests whether that answer itself can be grasped."
             },
             {
               "RelPath": "J/J36/J36nB345.xml",
@@ -39110,7 +39110,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J36/J36nB345.xml). Recorded Sayings of Chan Master Zhuyan Yan of Suzhou. Zhuan quotes Zhenxie, then warns that recognizing the one place still misses it."
+              "AttributionNote": "Source record (J/J36/J36nB345.xml). Recorded Sayings of Chan Master Zhuyan Yan of Suzhou. Zhuyan Yan quotes Zhenxie Qingliao's contrast between seeking everywhere and finding in one place without seeking, followed by the thief-exposed answer. Zhuyan answers that seeking everywhere misses because the matter is too near, but identifying the one place still misses it. After a pause he declares that the words have fallen into a trap and asks the monks whether his treatment rewards or punishes Zhenxie. The exact clause belongs to the cited older teacher; the criticism and challenge are Zhuyan's present words."
             },
             {
               "RelPath": "J/J38/J38nB418.xml",
@@ -39134,7 +39134,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J38/J38nB418.xml). Recorded Sayings of Chan Master Huiyue Xu. Huiyue quotes Zhenxie and stages a second older critique of the seeking contrast."
+              "AttributionNote": "Source record (J/J38/J38nB418.xml). Recorded Sayings of Chan Master Huiyue Xu. Huiyue Xu first cites Zhenxie Qingliao saying that one place yields what cannot be found by seeking everywhere, followed by the exposed-thief answer. He then cites a Jingshan Wuhuanzu appraisal that repeats the exact one-place clause before asking for the thief's stolen goods and offering a staff reply. Huiyue judges Zhenxie's wording only partly complete and reverses it in his own voice: everywhere one finds without seeking, but in one place seeking fails. The retained window contains two exact quoted uses; MasterName identifies Zhenxie as the first utterer, while Wuhuanzu's second quoted use and Huiyue's distinct present reversal are both shown here."
             },
             {
               "RelPath": "J/J39/J39nB454.xml",
@@ -39158,7 +39158,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J39/J39nB454.xml). Recorded Sayings of Chan Master Pinjixiang. Pinjixiang quotes Zhenxie and asks what exactly finds without seeking."
+              "AttributionNote": "Source record (J/J39/J39nB454.xml). Recorded Sayings of Chan Master Pinjixiang. Pinjixiang quotes a hall saying of Changlu Zhenxie Qingliao: one place yields what seeking everywhere cannot, and the thief has exposed himself. Pinjixiang does not repeat the answer as sufficient; he asks what it is that finds without seeking, warning that a strained reply will meet his rebuke. The exact one-place phrase remains Zhenxie's cited voice, and Pinjixiang's question is the present challenge."
             },
             {
               "RelPath": "J/J40/J40nB490.xml",
@@ -39182,10 +39182,155 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J40/J40nB490.xml). Recorded Sayings of Chan Master Suruhan of Boshan. Suru quotes Zhenxie and reverses everywhere/one-place seeking in his own comment."
+              "AttributionNote": "Source record (J/J40/J40nB490.xml). Recorded Sayings of Chan Master Suruhan of Boshan. Suru of Boshan quotes Zhenxie Qingliao asking where the one place is and answering that the thief has exposed himself. In his own comment Suru turns the relation around: everywhere it comes without seeking, while in one place seeking will not find it. He asks where that place is and says the exposed thief cannot simply be let go, then gives a verse about a silver mountain and iron wall. The exact inherited clause is Zhenxie's voice; Suru's different wording is an active appraisal, not another identical witness."
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J25/J25nB156.xml",
+              "FromLb": "0055b06",
+              "ToLb": "0055b26",
+              "Kwic": "「不登泰山，不知天之高；不涉滄海，不知水之深，此寰區中至論也。若是其中人則不然。」卓拄杖云：「手把虛空盛不得，威音那畔即今朝。」示眾：「急急用工夫，單提狗子無，脊梁堅豎起，恰似須彌盧；打失昏沉窟，掀開散亂魔，廓然雲霧盡，長夜月輪孤。這箇猶是漸入佳境；若論宗門中事，開口便墮。畢竟如何即是？」卓拄杖云：「彌勒未開袋，迦文已入山。」示眾：「腰包褁糝入山頭，腳未登高白汗流，不是閒遊觀勝境，皆緣未斷死生愁。諸上座！佛法遍一切處，一切處覓不得，秪有一處不覓自得，且道那一處聻？」良久，卓拄杖云：「東廝頭，佛殿裡。」示眾：達摩不來東土，人人壁立萬仞，二祖不往西乾，箇箇常光現前，自從面壁九年，致使神光露布。咄！家醜不可外揚。示眾：「心本是佛，造作即乖；道不屬修，染污不得。只此不染污，諸佛之所護念。山僧與麼說，早是不著便。不見道『毫釐繫念，三途業因；瞥爾情生，萬劫羈鎖。』」卓拄杖云：「紅爐點雪，黑夜穿針。」示眾，舉起拂子云：「未明這些子，俱是妄卜度，既明這些子，亦是妄卜度。」一僧出問：「未明時卜度，",
+              "MasterName": "Wuhuan Xingchong",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Wuhuan Xingchong",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J25/J25nB156.xml). Recorded Sayings of Chan Master Wuhuan. Wuhuan Xingchong tells his assembly that the teaching is everywhere, yet it cannot be found by searching everywhere: there is one place in which it comes without seeking. He asks what place that is, waits, strikes his staff and answers with the privy and the Buddha hall. The line is his present question and the apparently mismatched places are his own answer, pressing listeners beyond a privileged location.",
+              "ClaimText": "一處不覓自得"
+            },
+            {
+              "RelPath": "J/J35/J35nB336.xml",
+              "FromLb": "0676c27",
+              "ToLb": "0677a18",
+              "Kwic": "堂：「『乾坤之內，宇宙之間，中有一寶，秘在形山。』肇法師恁麼道，秪解指蹤話跡，且不能拈示于人。丹霞今日劈開宇宙，打破形山，為你諸人拈出，具眼者辨取。」以拄杖卓一下，曰：「還見麼？鷺鶿立雪非同色，明月蘆花不似他。」拈云：「一人道宇宙形山、一人道蘆花雪月，恁麼指注，何異群盲摸象？詗上座莫能全顆拈呈麼？夜半正明，天曉不露。」頌云：「打破形山出寶兒，丹霞卓杖切須知。分明月在蘆花上，看到蘆花月已非。」真州長蘆真歇清了禪師。上堂：「處處覓不得，秪有一處不覓自得。且道：是那一處？」良久，云：「賊身已露。」拈云：「老漢無端著賊，既言賊身已露，贓在那裏？眼裏？耳裏？掣電裏？報鐘裏？搔癢裏？屎急裏？莫便是良久裏？咦！秪為慈悲開線路，不知曾幾陷平人？」頌云：「檀郎喚小玉，無為空抑逼。深夜倒銀床，枕子順摸得。」明州天童宗玨禪師。上堂：「劫前運步，世外橫身，妙契不可以意到，真證不可以言傳，直得虛靜斂氛，白雲向寒巖而斷；靈光破暗，明月隨夜船而來。正恁麼時，作麼生履踐？偏正不曾離本位，縱橫那涉語因緣？」拈云：",
+              "MasterName": "Zhenxie Qingliao",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Zhenxie Qingliao",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Huigong Kaixiong",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J35/J35nB336.xml). Recorded Sayings of Chan Master Huigongxiong of Baoxianglin, Nanhai. Huigong Kaixiong quotes Zhenxie Qingliao's hall saying: it cannot be found anywhere by seeking, but in one place it is found without seeking. Zhenxie waits and says the thief has exposed himself. Huigong then asks where the stolen goods are if the thief is exposed, naming eyes, ears and ordinary events, and adds a verse. The exact phrase is Zhenxie's quoted voice; Huigong's present response tests whether that answer itself can be grasped.",
+              "ClaimText": "一處不覓自得"
+            },
+            {
+              "RelPath": "J/J36/J36nB345.xml",
+              "FromLb": "0084c01",
+              "ToLb": "0084c20",
+              "Kwic": "『請師離聲色道一句。』明云：『滿山都是雪。』」師云：「興善老漢慣將官物欺壓平人，此間有為者僧雪屈者麼？出來與藕菴拄杖子相見。」「普明同雪嶠上弦玩月次，雪指云：『者半箇那裏去了？』明良久，云：『會麼？』雪云：『只得半箇。』明云：『者半箇那裏去了？』雪亦良久，明云：『也只得半箇。』雪相與大笑。」師云：「主賓互換，電卷星馳，同死同生，方堪受敵。二大老檀特山前列陣，占波國裏藏鋒，分明有輸有贏，且道誰得誰失？」「真歇了禪師上堂云：『處處覓不得，有一處不覓自得。』良久，云：『賊身已露。』」師云：「處處覓不得，祇為太近；有一處不覓自得，認著依前還不是。」良久，云：「話墮了也，賊身已露，販私鹽漢。諸禪德！山僧恁麼，還是賞伊？罰伊？更若擬議，看箭中也。」南陽忠國師三喚侍者話，師云：「國師三喚，侍者三諾，國師云：『將謂我孤負汝，誰知汝孤負我？』藕菴不然，尋常擊案一下，行者齊立兩肩，且喜兩不孤負。」復擊案一下，云：「並不相瞞。」「白雲端禪師上堂云：『古人留下一言半句，未透時撞著鐵壁相似。忽然一日覷透，",
+              "MasterName": "Zhenxie Qingliao",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Zhenxie Qingliao",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Zhu'an Zhenyan",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J36/J36nB345.xml). Recorded Sayings of Chan Master Zhuyan Yan of Suzhou. Zhuyan Yan quotes Zhenxie Qingliao's contrast between seeking everywhere and finding in one place without seeking, followed by the thief-exposed answer. Zhuyan answers that seeking everywhere misses because the matter is too near, but identifying the one place still misses it. After a pause he declares that the words have fallen into a trap and asks the monks whether his treatment rewards or punishes Zhenxie. The exact clause belongs to the cited older teacher; the criticism and challenge are Zhuyan's present words.",
+              "ClaimText": "一處不覓自得"
+            },
+            {
+              "RelPath": "J/J38/J38nB418.xml",
+              "FromLb": "0508c01",
+              "ToLb": "0508c19",
+              "Kwic": "山至晚問首座：『適來新到在甚麼處？』貧兒思舊債。首座云：『當時背卻法堂著草鞋便去。』恁麼那？溈云：『還識此子麼？已後向孤峰頂上蟠結草菴，呵佛罵祖去在。』面赤不如語直。又曰：『作家相見，縱奪可觀，旌旗閃爍，鋒芒各露。』二老有個不知處，至今無人舉著。且道什麼處是二老不知處？若檢辨得出，便會得龍淵者八錯；若會得者八錯，便會得已後向孤峰頂上蟠結草菴，呵佛罵祖的道理有麼？」良久，曰：「你往西秦，我之東魯。」小參。舉：「真歇了，云：『處處覓不得，有一處不覓自得。』良久，云：『賊身已露。』徑山無幻祖云：『處處覓不得，且道何處不是？』有一處不覓自得。人無下賤，下賤自生。良久，云：『甚處去也？』賊身已露，還我贓來。『真歇和尚只解閉門作活，未知奪角衝關。且道如何是奪角衝關的句？』卓拄杖，云：『挑沙入水。』」師曰：「真歇和尚道則太煞道，只道得八成。山僧則不然，處處不覓自得，有一處覓不得。」良久，云：「無贓不問罪。無幻老人道：『真歇和尚祗解閉門作活，未知奪角衝關。』殊不知他一鏃破三關，不費腕頭力。只如挑",
+              "MasterName": "Zhenxie Qingliao",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Zhenxie Qingliao",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Huiyue Xu",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J38/J38nB418.xml). Recorded Sayings of Chan Master Huiyue Xu. Huiyue Xu first cites Zhenxie Qingliao saying that one place yields what cannot be found by seeking everywhere, followed by the exposed-thief answer. He then cites a Jingshan Wuhuanzu appraisal that repeats the exact one-place clause before asking for the thief's stolen goods and offering a staff reply. Huiyue judges Zhenxie's wording only partly complete and reverses it in his own voice: everywhere one finds without seeking, but in one place seeking fails. The retained window contains two exact quoted uses; MasterName identifies Zhenxie as the first utterer, while Wuhuanzu's second quoted use and Huiyue's distinct present reversal are both shown here.",
+              "ClaimText": "一處不覓自得"
+            },
+            {
+              "RelPath": "J/J39/J39nB454.xml",
+              "FromLb": "0665c28",
+              "ToLb": "0666a18",
+              "Kwic": "」師曰：「白巖恁般說話，也不免話作兩橛。雲巖則不然，『未見四祖時如何？』『莫眼花。』『見後如何？』『莫眼花。』」舉：「丹霞上堂：『寶月流輝，澄潭布影。』」師曰：「許多寶惜都擲過了，每日除穿衣喫飯外，在什麼處行履？咦！桃花渡口波千頃，不是漁人不易登。」舉：「枯木成上堂：『知有佛祖向上事，方有說話分。』」師曰：「我者裏佛祖尚無，說什麼向上事。閑來向百花林裏打起黃鶯兒，莫教枝上啼。啼時驚晝夢，不得了華胥。」舉：「長蘆了上堂：『處處覓不得，只有一處不覓自得。且道是那一處？』良久曰：『賊身已露。』」師曰：「處即不問，且道不覓自得的是箇什麼？若使牙根生澀，莫怪相觸忤。」舉：「長蘆上堂：『轉功就位，是向去的人。』」師曰：「無端將祖宗家事搬得狼狼藉藉，致令子孫全無巴鼻，將來家國如何穩貼？泥牛食盡欄邊艸，木馬加鞭不轉頭。」舉：「天童覺示眾：『諸禪德！吞盡三世佛的人。』」師曰：「山僧則不然，為甚開口不得，無口可開？為甚合眼不得，無眼可合？許多病痛一時拈卻，料掉沒交涉。若問十成通暢語，待我抽解來向你道",
+              "MasterName": "Zhenxie Qingliao",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Zhenxie Qingliao",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Pinjixiang Zhixiang",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J39/J39nB454.xml). Recorded Sayings of Chan Master Pinjixiang. Pinjixiang quotes a hall saying of Changlu Zhenxie Qingliao: one place yields what seeking everywhere cannot, and the thief has exposed himself. Pinjixiang does not repeat the answer as sufficient; he asks what it is that finds without seeking, warning that a strained reply will meet his rebuke. The exact one-place phrase remains Zhenxie's cited voice, and Pinjixiang's question is the present challenge.",
+              "ClaimText": "一處不覓自得"
+            },
+            {
+              "RelPath": "J/J40/J40nB490.xml",
+              "FromLb": "0466b14",
+              "ToLb": "0466c08",
+              "Kwic": "投子青因僧問：「師唱誰家曲，宗風嗣阿誰？」子曰：「威音前一箭，射透兩重山」因緣。拈曰：「射透兩重山，投子好隻箭。且道喚甚麼作箭？逢人不得錯舉。」頌曰：「欲知荊玉異，須透威音前。人事雖云別，歲寒心愈堅。」芙蓉楷在投子作典座，子曰：「廚務勾當不易。」蓉曰：「不敢。」因緣。拈曰：「博山敢問芙蓉：『為人自肯乃方親，因甚要和尚放他閒去？』若然，秪恐忙殺。」頌曰：「受祿無功漢，自應趁出山。謂憐惜勤苦，且放爾閒閒。」長蘆了禪師上堂：「處處覓不得，秪有一處不覓自得。且道是那一處？」良久，云：「賊身已露。」拈曰：「處處不覓自得，秪有一處覓即不得。且道是那一處？已露賊身，放過不可。」頌曰：「一處不須覓，銀山與鐵壁，直饒親透過，端的非端的。」普照辨因大明寶問：「離四句，絕百非，請師直指西來意。」照曰：「昨日有人恁麼問」因緣。拈曰：「青州用處，打著南邊動北邊。大明可惜不知痛癢，直饒汗流夾背，究竟已遲八刻。」頌曰：「明修暗已度，何必重吞吐。離卻百非外，應須自反顧。」王山體示眾：「既有尊貴之位，須明尊貴底人",
+              "MasterName": "Zhenxie Qingliao",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Zhenxie Qingliao",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Suru Honghan",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J40/J40nB490.xml). Recorded Sayings of Chan Master Suruhan of Boshan. Suru of Boshan quotes Zhenxie Qingliao asking where the one place is and answering that the thief has exposed himself. In his own comment Suru turns the relation around: everywhere it comes without seeking, while in one place seeking will not find it. He asks where that place is and says the exposed thief cannot simply be let go, then gives a verse about a silver mountain and iron wall. The exact inherited clause is Zhenxie's voice; Suru's different wording is an active appraisal, not another identical witness.",
+              "ClaimText": "一處不覓自得"
+            }
+          ],
           "SourceTexts": [
             "J/J25/J25nB156.xml",
             "J/J35/J35nB336.xml",
@@ -39204,7 +39349,7 @@
             "Suru Honghan"
           ],
           "RelatedTerms": [],
-          "Explanation": "The old contrast between searching everywhere and finding in one place becomes a test of what seeking itself misses. Wuhuan revoices the contrast in a present sermon; Huigong and Zhuan critique the older teacher’s reply. Huiyue, Pinjixiang, and Suru each give the inherited clause a different turn."
+          "Explanation": "Searching everywhere fails, yet one place yields it without seeking: a deliberately unstable contrast about where a listener expects to find the teaching. Wuhuan turns it into a live question, while five later records quote Zhenxie and test or reverse his answer. Wuhuan Xingchong tells his assembly that the teaching is everywhere, yet it cannot be found by searching everywhere: there is one place in which it comes without seeking. He asks what place that is, waits, strikes his staff and answers with the privy and the Buddha hall. The line is his present question and the apparently mismatched places are his own answer, pressing listeners beyond a privileged location. Huigong Kaixiong quotes Zhenxie Qingliao's hall saying: it cannot be found anywhere by seeking, but in one place it is found without seeking. Zhenxie waits and says the thief has exposed himself. Huigong then asks where the stolen goods are if the thief is exposed, naming eyes, ears and ordinary events, and adds a verse. The exact phrase is Zhenxie's quoted voice; Huigong's present response tests whether that answer itself can be grasped. Zhuyan Yan quotes Zhenxie Qingliao's contrast between seeking everywhere and finding in one place without seeking, followed by the thief-exposed answer. Zhuyan answers that seeking everywhere misses because the matter is too near, but identifying the one place still misses it. After a pause he declares that the words have fallen into a trap and asks the monks whether his treatment rewards or punishes Zhenxie. The exact clause belongs to the cited older teacher; the criticism and challenge are Zhuyan's present words. Huiyue Xu first cites Zhenxie Qingliao saying that one place yields what cannot be found by seeking everywhere, followed by the exposed-thief answer. He then cites a Jingshan Wuhuanzu appraisal that repeats the exact one-place clause before asking for the thief's stolen goods and offering a staff reply. Huiyue judges Zhenxie's wording only partly complete and reverses it in his own voice: everywhere one finds without seeking, but in one place seeking fails. The retained window contains two exact quoted uses; MasterName identifies Zhenxie as the first utterer, while Wuhuanzu's second quoted use and Huiyue's distinct present reversal are both shown here. Pinjixiang quotes a hall saying of Changlu Zhenxie Qingliao: one place yields what seeking everywhere cannot, and the thief has exposed himself. Pinjixiang does not repeat the answer as sufficient; he asks what it is that finds without seeking, warning that a strained reply will meet his rebuke. The exact one-place phrase remains Zhenxie's cited voice, and Pinjixiang's question is the present challenge. Suru of Boshan quotes Zhenxie Qingliao asking where the one place is and answering that the thief has exposed himself. In his own comment Suru turns the relation around: everywhere it comes without seeking, while in one place seeking will not find it. He asks where that place is and says the exposed thief cannot simply be let go, then gives a verse about a silver mountain and iron wall. The exact inherited clause is Zhenxie's voice; Suru's different wording is an active appraisal, not another identical witness."
         }
       ]
     },
