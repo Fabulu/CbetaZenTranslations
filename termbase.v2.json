@@ -48551,7 +48551,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "Zhigong sends word to Nanyue Huisi asking why he stays on the mountain rather than teaching living beings. Huisi says he has swallowed the Buddhas of all three times in one mouthful and asks what beings remain to teach. Tianyin reads the reply as breaking fixed divisions of sacred and ordinary. Tian’an proposes a different answer. Yunwai rejects the posture of swallowing, and Shixi asks whether the mountain claim survives a meeting in the street. The bold image is repeatedly tested against the call to meet others.",
+          "Note": "Huisi answers Zhigong's call to teach by saying he has swallowed the buddhas of the three times and so sees no beings to save. The case compilation and later teachers test that reply against further questioning, solitary practice, a shouted denial, and a hypothetical encounter in the street. Huisi is the named older speaker throughout; the surrounding critiques belong to later voices.",
           "Occurrences": [
             {
               "RelPath": "X/X66/X66n1296.xml",
@@ -48561,7 +48561,7 @@
               "MasterName": null,
               "Curated": true,
               "ContextMasters": [],
-              "AttributionNote": "Source record (X/X66/X66n1296.xml). Recorded Chan teaching. The case anthology records Huisi’s reply and several later named critiques.",
+              "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”. The case compilation says that Zhigong sent a messenger to ask Nanyue Huisi why he stayed on the mountain gazing at the clouds instead of descending to teach living beings. Huisi replies that he has swallowed the buddhas of the three times in one mouthful and asks what beings remain to teach. The collection then gathers contrary responses: Wuzu Jie demands a further account, Baoci Sui questions whether this is speech from the mountain or below it, and other masters challenge Huisi's confidence. The exact boast is Huisi's quoted answer; the later comments test whether it can stand outside the original exchange.",
               "ActorAttribution": {
                 "Status": "identified-unlinked-master",
                 "Kind": "named earlier master outside exact roster",
@@ -48588,7 +48588,7 @@
               "MasterName": null,
               "Curated": true,
               "ContextMasters": [],
-              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Chan teaching. Tianyin applies Huisi’s reply to a student’s solitary work without fixed sacred categories.",
+              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. In a teaching for his disciple Yinzhong, Tianyin Yuanxiu praises the student's years of steadfast practice on the mountain, but says resolve must reach beyond both buddhas and ancestors. He recalls Zhigong urging Nanyue Huisi to leave his mountain and teach; Huisi answers that he has swallowed the buddhas of all three times, leaving no beings to save. Tianyin says Huisi was not merely clinging to solitary withdrawal: the reply cuts through fixed distinctions of holy and ordinary, delusion and awakening. He tells his student to examine old cases closely until understanding and conduct both become real. Huisi speaks the exact line; Tianyin applies it to the disciple's practice.",
               "ActorAttribution": {
                 "Status": "identified-unlinked-master",
                 "Kind": "named earlier master outside exact roster",
@@ -48615,7 +48615,7 @@
               "MasterName": null,
               "Curated": true,
               "ContextMasters": [],
-              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Chan teaching. Tian’an quotes Huisi and proposes another answer to Zhigong’s challenge.",
+              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng says that someone at a solitary peak can still meet others at a busy crossroads, then raises Zhigong's challenge to Nanyue Huisi: why not descend from the mountain to teach living beings? Huisi answers that he has swallowed the buddhas of all three times and asks who remains to teach. Tian'an teases Huisi for boasting with a wide mouth and says pressure made him spill everything. Asked the same question himself, Tian'an would instead answer with the contrast between a great bird and sparrows or a frog and the sea, leaving the questioner to doubt for thirty years. The headword is Huisi's old reply; Tian'an's alternative is his present response.",
               "ActorAttribution": {
                 "Status": "identified-unlinked-master",
                 "Kind": "named earlier master outside exact roster",
@@ -48642,7 +48642,7 @@
               "MasterName": null,
               "Curated": true,
               "ContextMasters": [],
-              "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Chan teaching. Yunwai quotes Huisi, shouts, and rejects Buddhas as objects to swallow.",
+              "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending. After an exchange in which a monk asks about moving freely beyond two constraints and Yunwai Ze strikes him, Yunwai raises the old case of Zhigong asking Nanyue Huisi why he will not descend to teach. Huisi says he has swallowed the buddhas of all three times and asks what beings remain to save. Yunwai shouts, tells the assembly that without his shout they would all be goods inside Huisi's dark belly, and says he sees neither buddhas to swallow nor beings to save. The quoted boast is Huisi's; Yunwai uses the shout and denial to keep his hearers from settling into it.",
               "ActorAttribution": {
                 "Status": "identified-unlinked-master",
                 "Kind": "named earlier master outside exact roster",
@@ -48669,7 +48669,7 @@
               "MasterName": null,
               "Curated": true,
               "ContextMasters": [],
-              "AttributionNote": "Source record (X/X71/X71n1405.xml). Recorded Chan teaching. Shixi quotes Huisi and tests his mountain reply in the street.",
+              "AttributionNote": "Source record (X/X71/X71n1405.xml). Recorded Sayings of Chan Master Shixi Xinyue. Shixi Xinyue first contrasts lively activity in a busy street with quiet work in an old temple, then quotes Zhigong asking Nanyue Huisi why he will not leave the mountain to teach. Huisi answers that he has swallowed the buddhas of the three times in one mouthful, so what beings could he teach? Shixi says Huisi may think himself remarkable on a solitary peak, but imagines a thrown roof tile striking him at the crossroads and turning him bodily around. The street blow is a hypothetical test of the old mountain reply, not an event reported as having happened; the exact swallowed-buddhas line remains Huisi's quoted voice.",
               "ActorAttribution": {
                 "Status": "identified-unlinked-master",
                 "Kind": "named earlier master outside exact roster",
@@ -48689,7 +48689,148 @@
               }
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "X/X66/X66n1296.xml",
+              "FromLb": "0025c01",
+              "ToLb": "0025c24",
+              "Kwic": "羅龍打鳳，奈何鱗甲羽毛總在裏許，逃生無路？若是靈禽異獸，決定別有生涯。保寧勇云：玄沙道：大士只認得個昭昭靈靈。洞山道：你衲僧家白日還打睡麼？者兩轉語。誰言世上無仙客？須信壺中別有天。保寧亦有一偈：要眠時即眠，要起時即起。水洗面皮光，啜茶溼却嘴。大海紅塵飛，平地波濤起。阿呵阿呵呵，囉哩哩囉哩。崇先奇云：大小傅大士話作兩橛，在衲僧門下自救不了。何故？須知遠烟浪，別有好商量。南嶽慧思禪師因誌公令人傳語云：何不下山教化眾生？目視雲漢作麼？思曰：三世諸佛被我一口吞盡，何處更有眾生可教化？五祖戒代誌公又傳語云：更說道理看。報慈遂徵云：且道是山上語？山下語？雪竇顯云：有什麼屎臭氣？翠巖芝云：思大祇見錐頭利，不見鑿頭方。天聖泰云：思大祇知開口，寶公平地喫交。雲居舜云：思大和尚，誌公未傳語前，猶較些子。保寧勇別思大語云：傳語法師，合取狗口。雲居莊云：兩個漢總與一坑埋却，不為分外。雖然，也不得草草。良久，云：雲自帝鄉出，水從江漢流。獅林則云：一人拖泥帶水，一人斂手縮脚，徐六擔板遭人點檢。召眾云：寶公、思大二",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [],
+              "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”. The case compilation says that Zhigong sent a messenger to ask Nanyue Huisi why he stayed on the mountain gazing at the clouds instead of descending to teach living beings. Huisi replies that he has swallowed the buddhas of the three times in one mouthful and asks what beings remain to teach. The collection then gathers contrary responses: Wuzu Jie demands a further account, Baoci Sui questions whether this is speech from the mountain or below it, and other masters challenge Huisi's confidence. The exact boast is Huisi's quoted answer; the later comments test whether it can stand outside the original exchange.",
+              "ActorAttribution": {
+                "Status": "identified-unlinked-master",
+                "Kind": "named earlier master outside exact roster",
+                "ActorLabel": "Nanyue Huisi, called Sida in the case",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The full case explicitly says the line is Sida’s reply to Zhigong’s question, before the current author’s response.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "Codex source-first full-turn review",
+                "ReviewedUtc": "2026-10-29T12:00:00Z"
+              },
+              "ClaimText": "三世諸佛被我一口吞盡"
+            },
+            {
+              "RelPath": "J/J25/J25nB171.xml",
+              "FromLb": "0581b19",
+              "ToLb": "0581c10",
+              "Kwic": "見昔日佛法中有契合處。若論此事，不惟荊溪少，乃至浙地亦如是也。貧道觀公根器第一等，決不埋沒於功名富貴中混過一生。雖然功名正務不得不了，亦須把作一件事做，不然亦是被塵勞擔閣。病筆不盡。法語一法語示印中授徒示印中授徒吾子卓然獨立於陽山之巔，拔群峰而上，歲序已久，操守穩密，行致純白，於苦寒無極而確志不移，古今忘軀為道之士曷以加焉？然有其志，必期超佛越祖而後已。所見所證，決要到佛祖不到處。如思大住山時，志公勉彼出世云：「目視雲漢作麼？」思云：「三世諸佛被我一口吞盡，何處更有眾生可度？」他不是單守這一箇乾蘿蔔頭，無所施設、無所作為，實乃聖凡迷悟、三乘學解一齊超脫，活脫無依真道人也。今人未到這田地，緊緊須看古人無義味語，種種因緣密密體究，看他是箇什麼道理？一一俱要透過，不被他瞞。直至無疑無悟之地，七穿八穴，拶到古人不到處，則所悟既真，所行必到。所學既實，所證要明，最親切處更加親切，然後甦醒得來，掀翻窠臼，掃絕蹤由，把從前學解的、見聞的、悟證的，一拋拋向那邊更那邊，漫漫拈龜毛拂子，指東話西、繫風點雨，",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [],
+              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. In a teaching for his disciple Yinzhong, Tianyin Yuanxiu praises the student's years of steadfast practice on the mountain, but says resolve must reach beyond both buddhas and ancestors. He recalls Zhigong urging Nanyue Huisi to leave his mountain and teach; Huisi answers that he has swallowed the buddhas of all three times, leaving no beings to save. Tianyin says Huisi was not merely clinging to solitary withdrawal: the reply cuts through fixed distinctions of holy and ordinary, delusion and awakening. He tells his student to examine old cases closely until understanding and conduct both become real. Huisi speaks the exact line; Tianyin applies it to the disciple's practice.",
+              "ActorAttribution": {
+                "Status": "identified-unlinked-master",
+                "Kind": "named earlier master outside exact roster",
+                "ActorLabel": "Nanyue Huisi, called Sida in the case",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The full case explicitly says the line is Sida’s reply to Zhigong’s question, before the current author’s response.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "Codex source-first full-turn review",
+                "ReviewedUtc": "2026-10-29T12:00:00Z"
+              },
+              "ClaimText": "三世諸佛被我一口吞盡"
+            },
+            {
+              "RelPath": "J/J26/J26nB187.xml",
+              "FromLb": "0721b28",
+              "ToLb": "0721c17",
+              "Kwic": "聲盡是分身化佛。要知：把住有放行處，把住放行也，一室大千；放行有把住處，放行把住也，大千一室。審如是，則昇上座雖端居閟戶，本與微塵諸佛菩薩、現前大士同得、同失，同立、同坐，同食息、同起居。所謂：雖在孤峰頂上，十字街頭相逢；十字街頭相逢，仍在孤峰頂上。非是神通妙用，從前法爾如然。苟或遲疑見網、著相尋名，則君向瀟湘我向秦，從來共住不知名，消受洞中閒日月，那知人世幾冬春？」復舉：「誌公問思大禪師曰：『何不下山教化眾生？目視雲霄作麼？』思曰：『三世諸佛被我一口吞盡，何處更有眾生可度？』」師云：「大小思，大口闊，被人拶著便盡情吐出。設有問昇上座：『何不下山教化眾生？目視雲霄作麼？』但向它道：『燕雀豈知鴻鵠之志？井蛙那識滄海之淵？』且教疑去三十年。」輪沙彌剃髮，請小參。「禪無可參，道不須學，剃頭不為出家，撘衣未是持戒。釋迦老子腳跟自不點地，教人念佛、持戒、精進、禪定、布施、解脫，大似虛空穵窟籠、好肉剜瘡。何故？只為人人常光獨露，箇箇運用無私，然而愚昧者多、伶俐者少。譬如窮子舍父逃逝，出于千里之外，若",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [],
+              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng says that someone at a solitary peak can still meet others at a busy crossroads, then raises Zhigong's challenge to Nanyue Huisi: why not descend from the mountain to teach living beings? Huisi answers that he has swallowed the buddhas of all three times and asks who remains to teach. Tian'an teases Huisi for boasting with a wide mouth and says pressure made him spill everything. Asked the same question himself, Tian'an would instead answer with the contrast between a great bird and sparrows or a frog and the sea, leaving the questioner to doubt for thirty years. The headword is Huisi's old reply; Tian'an's alternative is his present response.",
+              "ActorAttribution": {
+                "Status": "identified-unlinked-master",
+                "Kind": "named earlier master outside exact roster",
+                "ActorLabel": "Nanyue Huisi, called Sida in the case",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The full case explicitly says the line is Sida’s reply to Zhigong’s question, before the current author’s response.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "Codex source-first full-turn review",
+                "ReviewedUtc": "2026-10-29T12:00:00Z"
+              },
+              "ClaimText": "三世諸佛被我一口吞盡"
+            },
+            {
+              "RelPath": "J/J33/J33nB280.xml",
+              "FromLb": "0264c26",
+              "ToLb": "0265a14",
+              "Kwic": "拂子，下座。重陽，上堂。僧問：「寒菊未開，重陽已至，四眾雲臻，舉揚何法？」師云：「青霄無異路。」進云：「有心落在今時，無心落在曠劫，如何得脫卻兩重關，逍遙無礙去？」師云：「山僧被你遮一問，直得禪床震動。」進云：「恁麼則異類中行得自由去也。」師打，云：「湯寒水熱。」僧禮拜。師乃云：「山僧久矣不陞堂，萬象森羅努力忙，今為諸人聊舉似，滿天風雨到重陽。」乃舉：「南嶽思大禪師久不說法，誌公使人傳語云：『何不下山教化眾生？目視雲霄作什麼？』思云：『三世諸佛被我一口吞盡，何處更有眾生可度？』」師喝一喝，召大眾，云：「不是山僧為你喝住，你們都是思大禪師黑漆肚裏貨了。老祖遮裏則不然，總不見有三世諸佛可吞，亦不見有眾生可度。打動法鼓，四五百眾一齊圍繞將來，直得開山千歲寶掌和尚𨁝跳上紫雲峰頂，橫搖直擺，五百阿羅漢看見，一齊鑽入藕絲竅裏藏身去了，撞著釋迦如來，便與他摩頂授記云：『善哉，善哉！寶掌比丘！汝乃能於東震旦國作如斯廣大佛事，希有，希有！』山僧拄杖子聽見恁麼道，冷地裏笑嘻嘻地說：『寶掌老官也是悔氣，今日被",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [],
+              "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending. After an exchange in which a monk asks about moving freely beyond two constraints and Yunwai Ze strikes him, Yunwai raises the old case of Zhigong asking Nanyue Huisi why he will not descend to teach. Huisi says he has swallowed the buddhas of all three times and asks what beings remain to save. Yunwai shouts, tells the assembly that without his shout they would all be goods inside Huisi's dark belly, and says he sees neither buddhas to swallow nor beings to save. The quoted boast is Huisi's; Yunwai uses the shout and denial to keep his hearers from settling into it.",
+              "ActorAttribution": {
+                "Status": "identified-unlinked-master",
+                "Kind": "named earlier master outside exact roster",
+                "ActorLabel": "Nanyue Huisi, called Sida in the case",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The full case explicitly says the line is Sida’s reply to Zhigong’s question, before the current author’s response.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "Codex source-first full-turn review",
+                "ReviewedUtc": "2026-10-29T12:00:00Z"
+              },
+              "ClaimText": "三世諸佛被我一口吞盡"
+            },
+            {
+              "RelPath": "X/X71/X71n1405.xml",
+              "FromLb": "0023c06",
+              "ToLb": "0024a02",
+              "Kwic": "。師云：有即是無，無即是有，捩轉鼻孔眼睛；纔擬與麼，便不與麼，換盡心肝五臟。咬斷去住，裂破古今，自然花衢柳巷，閙浩浩處古佛家風；古寺閑房，冷湫湫時道人活計。同聲相應，同氣相求，剔起眉毛，面目見在。只如僧問曹山：佛未出世時如何？山云：曹山不如。出世後如何？不如曹山。且道出世、未出世，如與不如，誵訛在什麼處？善能切磋底道一句子救取新長老，有麼？良久，云：長因送人處，憶得別家時。復舉：寶公令人傳語思大：何不下山教化眾生？目視雲漢作麼？思大云：三世諸佛被我一口吞盡，有甚眾生教化？師云：思大向孤峰頂上自謂多少奇特，被人於十字街頭飛片瓦一擊，便乃和身掇轉。要知麼？不圖打草，也要驚蛇。道舊至，上堂。遂舉拂子，云：高山流水，擊節者稀；石火電光，交肩者少。將拂子復安舊處，云：不得草堂諸故人洎合一場懡㦬。臘八，上堂。先覺六年苦行，於臘八明星現時成等正覺。良久，云：八十翁翁輥綉毬，不顧通身是泥水。元朝上堂，拈拄杖云：元正啟祚，萬物咸新，山形主丈子，只麼黑鱗皴，時來也解笑翻身。卓主丈云：倒腹傾腸為君說，唱歌須是",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [],
+              "AttributionNote": "Source record (X/X71/X71n1405.xml). Recorded Sayings of Chan Master Shixi Xinyue. Shixi Xinyue first contrasts lively activity in a busy street with quiet work in an old temple, then quotes Zhigong asking Nanyue Huisi why he will not leave the mountain to teach. Huisi answers that he has swallowed the buddhas of the three times in one mouthful, so what beings could he teach? Shixi says Huisi may think himself remarkable on a solitary peak, but imagines a thrown roof tile striking him at the crossroads and turning him bodily around. The street blow is a hypothetical test of the old mountain reply, not an event reported as having happened; the exact swallowed-buddhas line remains Huisi's quoted voice.",
+              "ActorAttribution": {
+                "Status": "identified-unlinked-master",
+                "Kind": "named earlier master outside exact roster",
+                "ActorLabel": "Nanyue Huisi, called Sida in the case",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The full case explicitly says the line is Sida’s reply to Zhigong’s question, before the current author’s response.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "Codex source-first full-turn review",
+                "ReviewedUtc": "2026-10-29T12:00:00Z"
+              },
+              "ClaimText": "三世諸佛被我一口吞盡"
+            }
+          ],
           "SourceTexts": [
             "X/X66/X66n1296.xml",
             "J/J25/J25nB171.xml",
@@ -48699,7 +48840,7 @@
           ],
           "RelatedMasters": [],
           "RelatedTerms": [],
-          "Explanation": "When urged to leave his mountain and teach, Nanyue Huisi says he has swallowed all Buddhas in a single mouthful. Tianyin sees a challenge to fixed divisions. Tian’an proposes a different answer to the call to descend. Yunwai refuses even the idea of Buddhas to swallow, and Shixi tests the mountain answer against a street encounter."
+          "Explanation": "When Zhigong urges Nanyue Huisi to descend from his mountain and teach living beings, Huisi replies that he has swallowed the buddhas of all three times in one mouthful and asks who remains to teach. Five later contexts quote and test this bold reply rather than treating it as a literal act. The case compilation says that Zhigong sent a messenger to ask Nanyue Huisi why he stayed on the mountain gazing at the clouds instead of descending to teach living beings. Huisi replies that he has swallowed the buddhas of the three times in one mouthful and asks what beings remain to teach. The collection then gathers contrary responses: Wuzu Jie demands a further account, Baoci Sui questions whether this is speech from the mountain or below it, and other masters challenge Huisi's confidence. The exact boast is Huisi's quoted answer; the later comments test whether it can stand outside the original exchange. In a teaching for his disciple Yinzhong, Tianyin Yuanxiu praises the student's years of steadfast practice on the mountain, but says resolve must reach beyond both buddhas and ancestors. He recalls Zhigong urging Nanyue Huisi to leave his mountain and teach; Huisi answers that he has swallowed the buddhas of all three times, leaving no beings to save. Tianyin says Huisi was not merely clinging to solitary withdrawal: the reply cuts through fixed distinctions of holy and ordinary, delusion and awakening. He tells his student to examine old cases closely until understanding and conduct both become real. Huisi speaks the exact line; Tianyin applies it to the disciple's practice. Tian'an Sheng says that someone at a solitary peak can still meet others at a busy crossroads, then raises Zhigong's challenge to Nanyue Huisi: why not descend from the mountain to teach living beings? Huisi answers that he has swallowed the buddhas of all three times and asks who remains to teach. Tian'an teases Huisi for boasting with a wide mouth and says pressure made him spill everything. Asked the same question himself, Tian'an would instead answer with the contrast between a great bird and sparrows or a frog and the sea, leaving the questioner to doubt for thirty years. The headword is Huisi's old reply; Tian'an's alternative is his present response. After an exchange in which a monk asks about moving freely beyond two constraints and Yunwai Ze strikes him, Yunwai raises the old case of Zhigong asking Nanyue Huisi why he will not descend to teach. Huisi says he has swallowed the buddhas of all three times and asks what beings remain to save. Yunwai shouts, tells the assembly that without his shout they would all be goods inside Huisi's dark belly, and says he sees neither buddhas to swallow nor beings to save. The quoted boast is Huisi's; Yunwai uses the shout and denial to keep his hearers from settling into it. Shixi Xinyue first contrasts lively activity in a busy street with quiet work in an old temple, then quotes Zhigong asking Nanyue Huisi why he will not leave the mountain to teach. Huisi answers that he has swallowed the buddhas of the three times in one mouthful, so what beings could he teach? Shixi says Huisi may think himself remarkable on a solitary peak, but imagines a thrown roof tile striking him at the crossroads and turning him bodily around. The street blow is a hypothetical test of the old mountain reply, not an event reported as having happened; the exact swallowed-buddhas line remains Huisi's quoted voice."
         }
       ]
     },
