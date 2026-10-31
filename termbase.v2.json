@@ -47946,7 +47946,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi explicitly says Nanquan spoke the line and asks what the cat and white ox know."
+              "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi Mingyu quotes Nanquan Puyuan saying that the Buddhas of the three times do not know it, while cats and white oxen do. Sanyi asks what the animals know and proposes a polished landscape answer only to warn that such talk would leave its speaker carrying a burden. The exact contrast is Nanquan's cited voice; Sanyi's present question tests whether a pleasing description actually meets it. The source does not name a fixed object for the word it."
             },
             {
               "RelPath": "J/J33/J33nB286.xml",
@@ -47970,7 +47970,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J33/J33nB286.xml). Recorded Sayings of Chan Master Yingningjing. Yingning names Nanquan and applies the line to moving among different kinds of beings."
+              "AttributionNote": "Source record (J/J33/J33nB286.xml). Recorded Sayings of Chan Master Yingningjing. Yingning Jing quotes Nanquan Puyuan's contrast between the Buddhas and cats and white oxen. He says that to carry forward the teaching one must know how to move among different kinds of beings, then asks whether anyone understands Nanquan's way of acting. A layman spins away; Yingning shouts, calls the move wild jumping and strikes his staff. The exact line is Nanquan's quoted voice, while the layman's action and Yingning's response show this sermon applying it rather than explaining away the animals."
             },
             {
               "RelPath": "J/J38/J38nB406.xml",
@@ -47994,7 +47994,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran quotes Nanquan and praises his seeing of great and small without fear."
+              "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran of Mount Lu raises several older sayings about recognizing the matter and then quotes Nanquan Puyuan on Buddhas not knowing while cats and white oxen know. Tianran says he admires Nanquan for not fearing what is great or belittling what is small, because Nanquan knows the cause of the illness. He asks his assembly what that cause is and returns to his own larger teaching. The exact contrast is Nanquan's cited saying; Tianran's present praise and question are a separate appraisal, and the saying leaves its object unstated."
             },
             {
               "RelPath": "J/J26/J26nB178.xml",
@@ -48012,7 +48012,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin voices the contrast in his memorial sermon and expands it with horns, ash, and holy versus ordinary."
+              "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. At a hall sermon requested to honor a lay supporter's deceased parents, Feiyin Tongrong says even a broad understanding of mind and ordinary beings is only an entry point. He then voices the line that the Buddhas of three times do not know it but cats and white oxen do, and develops it through images of horns, dust-covered faces and the ending of holy-versus-ordinary distinctions. Later he restates the two halves with separate gestures of descent and ascent and asks what the old masters meant. The phrase is Feiyin's present use of an inherited contrast; neither use supplies a single fixed referent for it."
             },
             {
               "RelPath": "J/J37/J37nB394.xml",
@@ -48030,7 +48030,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J37/J37nB394.xml). Recorded Sayings of Chan Master Yi’an. Yi'an voices the line in a short sermon, raises his staff, and sends the buddhas among the animals."
+              "AttributionNote": "Source record (J/J37/J37nB394.xml). Recorded Sayings of Chan Master Yi’an. Yi'an Shanzan opens a short instruction by voicing the contrast between Buddhas who do not know it and cats and white oxen who do. He picks up his staff and tells the assembly to look: the Buddhas have gone into the company of those animals. He asks why, then says the two portions differ and are brought back under the preceding heading. The exact line is his present teaching turn; the staff gesture and follow-up complicate a fixed division between Buddhas and animals."
             },
             {
               "RelPath": "J/J40/J40nB472.xml",
@@ -48048,10 +48048,143 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J40/J40nB472.xml). Recorded Sayings of Chan Master Daboqian. Dabo voices the contrast after dialogue and recasts it through fox and lion imagery."
+              "AttributionNote": "Source record (J/J40/J40nB472.xml). Recorded Sayings of Chan Master Daboqian. After a monk asks Dabo Qian about the mind of a practitioner, Dabo replies with a flowering tree, challenges the monk's elaborations and strikes when the monk hesitates. Dabo then addresses the assembly with the Buddhas-and-animals contrast and extends it: a golden-maned lion enters a pack of wild foxes, which all roar like lions. He says recognition here crosses the divide between ordinary and holy. The exact phrase is Dabo's present sermon after the exchange, not the monk's question; its object remains unnamed in the quoted formula."
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J27/J27nB189.xml",
+              "FromLb": "0042b01",
+              "ToLb": "0042b21",
+              "Kwic": "，不作賤，汝作麼生買？」僧無對。師云：「雪竇拈云：『雪竇擬酬箇價，直令南泉進且無路，退亦無地。「不作貴，不作賤，作麼生買？」「別處容和尚不得。」』山僧獨愛此語。然雖如是，雪竇只可作南泉奴。秪如進且無路，退亦無地，還容得雪竇麼？」寶應遇禪師，因僧問：「如何是西來的的大意？」遇曰：「風送泉聲來枕畔，月移花影到𰩍前。」師曰：「大小祖師引人向聲色裏作窠臼，好與三十棒。除卻聲色，也與三十棒。秪如老僧聻？點石化為金玉易，勸人除卻是非難。」南泉云：「三世諸佛不知有，狸奴白牯卻知有。」師云：「試問如何是狸奴白牯知有的事？或曰：『黃金國土琉璃地，師子巖前水艸香。』作恁麼語話，銜銕負鞍有日在。」香嚴文才禪師依縫州福嚴普公出家，嘗讀《證道歌》，至「幻化空身即法身」之句，豁然契悟，乃入還源之室。師云：「若向這裏悟去，披毛戴角有日在。」鹽官安國師，一日喚侍者曰：「將犀牛扇子來？」者曰：「破也。」安曰：「扇子既破，還我犀牛兒來。」者無對。師云：「犀牛兒隨扇子破了，就將得來，也是無用之物。」投子云：「不辭將出，恐頭角不全。」資",
+              "MasterName": "Nanquan Puyuan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Nanquan Puyuan",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Sanyi Mingyu",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi Mingyu quotes Nanquan Puyuan saying that the Buddhas of the three times do not know it, while cats and white oxen do. Sanyi asks what the animals know and proposes a polished landscape answer only to warn that such talk would leave its speaker carrying a burden. The exact contrast is Nanquan's cited voice; Sanyi's present question tests whether a pleasing description actually meets it. The source does not name a fixed object for the word it.",
+              "ClaimText": "三世諸佛不知有，狸奴白牯卻知有"
+            },
+            {
+              "RelPath": "J/J33/J33nB286.xml",
+              "FromLb": "0493a05",
+              "ToLb": "0493a24",
+              "Kwic": "：「大眾看看！龍門無宿客，香海縱金鰲。」師打，云：「猶遭點額痕。」進云：「明眼宗師，天然有在。」師云：「切忌詐明頭。」師乃云：「以斯道覺斯民，斷碑橫古路，白月現，黑月隱，崑崙草裡眠，南閻浮提打鼓，西瞿耶尼聞聲，東弗于逮扣機，北越單那擊節，非非想天逆擊一棒，金剛際下撲地翻身，其中百億須彌、百億日月、百億世界納向一毫孔中，十方諸佛演大法義，挑豁愚肓。諸仁者！秪如一毫孔又納向甚麼處？咄！切忌道著，直饒密步移來，腳跟下紅線未斷在。南泉大師云：『三世諸佛不知有，狸奴白牯卻知有。』此事直須解向異類中行，始可紹隆玄化，勿則盡是流俗閨閤中物，開口便成過患，非惟不能與人點病，自土也消他不得，彼此何益哉？于中有知南泉行履處麼？」振綱居士撲地一旋而去，師喝，云：「這畜生猶是亂跳。」卓拄杖，云：「盤空鐵磨旋頭角，芳草叢叢吼石欄。大眾！不煩久立，珍重。」師至石湖，金僊老和尚請上堂。師陞座，拈香，云：「此一瓣香，有倫有序，唯德唯尊，奉為金僊堂上法叔老和尚，惟冀法韻振三千，祖風垂萬億。」斂衣就座。師拈拂，云：「萬頃湖光，遠駕長",
+              "MasterName": "Nanquan Puyuan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Nanquan Puyuan",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Yingning Zhijing",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J33/J33nB286.xml). Recorded Sayings of Chan Master Yingningjing. Yingning Jing quotes Nanquan Puyuan's contrast between the Buddhas and cats and white oxen. He says that to carry forward the teaching one must know how to move among different kinds of beings, then asks whether anyone understands Nanquan's way of acting. A layman spins away; Yingning shouts, calls the move wild jumping and strikes his staff. The exact line is Nanquan's quoted voice, while the layman's action and Yingning's response show this sermon applying it rather than explaining away the animals.",
+              "ClaimText": "三世諸佛不知有，狸奴白牯卻知有"
+            },
+            {
+              "RelPath": "J/J38/J38nB406.xml",
+              "FromLb": "0134c16",
+              "ToLb": "0135a05",
+              "Kwic": "不特地管取你作得者一句子註腳？我石頭道：『恁麼也不得，不恁麼也不得，恁麼不恁麼總不得。子作麼生？』大眾！他道：『恁麼也不得，不恁麼也不得，恁麼不恁麼總不得。』儘好了為甚麼老婆舌頭？又道：『子作麼生？』石頭意在那裏？縱饒會得，也只是者一句子註腳。龐居士問馬大師：『不與萬法為侶，者是甚麼人？』馬大師云：『待汝一口吸盡西江水，即向汝道。』山僧道：馬大師好一箇大口，只是不知慚愧。大眾！還曉得馬大師不知慚愧底大口麼？也只是者一句子註腳。南泉云：『三世諸佛不知有，狸奴白牯卻知有。』山僧卻喜王老師見大不怕、見小不欺，只為他深悉病由。大眾！作麼生是王老師深悉底病由？汝若會得，不妨識得者一句子著落。乃至五宗分派，我洞上弘開五位，末後道箇虛玄大道、無著真宗，須知位位中全具者一箇消息，不是教汝杜譔長老逐句分疏、支離配合，卻回來自己大總持上總無理會處，道是正偏回互、理事交融，做箇座主使下即得，還與綱宗有交涉麼？諸如臨濟三玄、三要、四料揀，須知面目現在；雲門三句，不是強作；法眼六義，豈為區區；溈仰九十七種圓相，雖則大珠小珠",
+              "MasterName": "Nanquan Puyuan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Nanquan Puyuan",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Tianran Hanshi",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran of Mount Lu raises several older sayings about recognizing the matter and then quotes Nanquan Puyuan on Buddhas not knowing while cats and white oxen know. Tianran says he admires Nanquan for not fearing what is great or belittling what is small, because Nanquan knows the cause of the illness. He asks his assembly what that cause is and returns to his own larger teaching. The exact contrast is Nanquan's cited saying; Tianran's present praise and question are a separate appraisal, and the saying leaves its object unstated.",
+              "ClaimText": "三世諸佛不知有，狸奴白牯卻知有"
+            },
+            {
+              "RelPath": "J/J26/J26nB178.xml",
+              "FromLb": "0112b13",
+              "ToLb": "0112c03",
+              "Kwic": "繇人，道無方所，悟之在己，不論年月遠近，若是個漢聞恁麼道，便乃脫去，則大地山河翻觔斗，門邊苕帚化為龍，更說什麼春風襲襲，春日融融，春鳥唧唧，春草叢叢，從上葛藤俱透盡，赤拳隨處任張空。」便下座。居士屠民開薦親請上堂，「即心是佛，水外無波，即佛是心，波外無水。於斯見得，在聖不增、處凡不減。不增不減，則慧光渾圓彌滿法界，以大千土作一粒粟，將一粒粟作大千土，此於倡道門中，不妨好個入路；若在衲僧分上，正好朝打三千、暮打八百，更須曉他向上一竅，始得三世諸佛不知有，狸奴白牯卻知有，知有底擎頭戴角，不知有底灰頭土面，不特斷盡凡情，亦乃蕩卻聖解。到這裏若說向上向下，正是頭上安頭，更云最初末後，亦是泥裏洗土，直得是非杳忘，聖凡不立。山僧今日說此無上大法，最勝善利，追薦屠居士亡過兩尊人，不辭塵勞當體解脫，捨生受身隨處逍遙。雖然如是，更須返常合本纔見其妙。正當恁麼時，一句作麼生？自去自來梁上燕，相親相近水中鷗。」復云：「三世諸佛不知有，從空放下；狸奴白牯卻知有，平地昇高。雖然曲直不分，要且兩不相著。你道古人意旨如何？八角",
+              "MasterName": "Feiyin Tongrong",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Feiyin Tongrong",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. At a hall sermon requested to honor a lay supporter's deceased parents, Feiyin Tongrong says even a broad understanding of mind and ordinary beings is only an entry point. He then voices the line that the Buddhas of three times do not know it but cats and white oxen do, and develops it through images of horns, dust-covered faces and the ending of holy-versus-ordinary distinctions. Later he restates the two halves with separate gestures of descent and ascent and asks what the old masters meant. The phrase is Feiyin's present use of an inherited contrast; neither use supplies a single fixed referent for it.",
+              "ClaimText": "三世諸佛不知有，狸奴白牯卻知有"
+            },
+            {
+              "RelPath": "J/J37/J37nB394.xml",
+              "FromLb": "0688a30",
+              "ToLb": "0688b21",
+              "Kwic": "我舌也。」又曰：「禿卻我舌，啞卻你口。昨夜洞埋千尺雪，石門凍折數株松。」行化街坊，小參。拈起拄杖，曰：「法無橫徑，道絕孤危。遇著通人，一錐一答。」卓一卓，曰：「多虛如何少實？千語終歸一當。肉案頭邊，塊塊皆精；喪車幕裏，聲聲是血。暮暮朝朝，朝朝暮暮，總不可為汝諸人註腳。別欲語君安樂法，正忙卻未有閑時。」小參。「參須離心意識參，學須出凡聖路學。朝來問訊，客至燒香。上一畫短，下一畫長。」驀擲拄杖曰：「丹鳳自騰霄漢去，寒鴉猶是噪斜陽。」小參。「三世諸佛不知有，狸奴白牯卻知有。」拈起拄杖曰：「看看，三世諸佛走入狸奴白牯隊裏去也。何故？兩段不同，收歸上科。」小參。左右顧視曰：「好大哥，將謂如來惠汝三昧耶？昨日栽茄子，今日種冬瓜，一聲河漏子，和月落誰家？金色光明雲。參退喫茶去。」小參。「行不得底如何說？口在腳下。說不得底如何行？踏著舌頭。從中一句，試請定當。」小參。舉：「洞山解夏上堂曰：『秋初夏末，兄弟或東去西去，直須向萬里無寸草處去。』良久曰：『秪如萬里無寸草作麼生去？』石霜聞曰：『出門便是草。』太陽延曰：『",
+              "MasterName": "Yi'an Shanzan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yi'an Shanzan",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J37/J37nB394.xml). Recorded Sayings of Chan Master Yi’an. Yi'an Shanzan opens a short instruction by voicing the contrast between Buddhas who do not know it and cats and white oxen who do. He picks up his staff and tells the assembly to look: the Buddhas have gone into the company of those animals. He asks why, then says the two portions differ and are brought back under the preceding heading. The exact line is his present teaching turn; the staff gesture and follow-up complicate a fixed division between Buddhas and animals.",
+              "ClaimText": "三世諸佛不知有，狸奴白牯卻知有"
+            },
+            {
+              "RelPath": "J/J40/J40nB472.xml",
+              "FromLb": "0015c05",
+              "ToLb": "0015c24",
+              "Kwic": "即今作麼生慶讚？曾記得一偈不妨念誦：出林還又入林中，便是娑婆福妙東，獅子吼時芳草綠，象王回顧落花紅。」擲杖，下座。上堂。問：「日輝古佛面，鐘叩道人心。如何是道人心？」師云：「一樹花開，馨香滿院。」進云：「片片不隨流水去，溪聲終日為誰忙？」師云：「鉤頭有意無人取，直向權衡覓滯星。」進云：「恁麼則打麵還他州土麥，唱歌須是地鄉人。」師云：「饒伊唱得天花落，末後依稀調不齊。」僧喝，師云：「鉤前不解吞香餌，徒教漁翁下釣磯。」僧擬議，師打，乃云：「三世諸佛不知有，狸奴白牯卻知有，金毛跳入野狐群，野干盡作獅子吼。於此領略得去，不離菩提樹而達涅槃城，不起生滅心而超三界外，只得無彼無此、無法無人，凡聖融通，貫乎一致，直饒住叫不應山、踏無陰陽地、坐無影樹下、說無味禪，正是個杭州人撐船。還會麼？個裏不分節外徑，魔宮佛國󳺮家鄉。」解制，上堂。「百日寒冬盡，三春暖復初，茅芽隨凍醒，折樹傍巖枯。野鶴旋蒼柏，山禽躍竹蘆，林間瀟灑客，拄杖搏南湖。」復一喝，云：「看腳下。」住慈壽寺語錄住慈壽寺，上堂。拈香祝聖罷，次拈云：「此一瓣香",
+              "MasterName": "Dabo Qian",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Dabo Qian",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J40/J40nB472.xml). Recorded Sayings of Chan Master Daboqian. After a monk asks Dabo Qian about the mind of a practitioner, Dabo replies with a flowering tree, challenges the monk's elaborations and strikes when the monk hesitates. Dabo then addresses the assembly with the Buddhas-and-animals contrast and extends it: a golden-maned lion enters a pack of wild foxes, which all roar like lions. He says recognition here crosses the divide between ordinary and holy. The exact phrase is Dabo's present sermon after the exchange, not the monk's question; its object remains unnamed in the quoted formula.",
+              "ClaimText": "三世諸佛不知有，狸奴白牯卻知有"
+            }
+          ],
           "SourceTexts": [
             "J/J27/J27nB189.xml",
             "J/J33/J33nB286.xml",
@@ -48070,7 +48203,7 @@
             "Dabo Qian"
           ],
           "RelatedTerms": [],
-          "Explanation": "Nanquan gives cats and white oxen a knowing that even the buddhas lack, then later teachers test what that contrast does. Sanyi, Yingning, and Tianran quote Nanquan and each ask a different question of the animal contrast. Feiyin, Yi'an, and Dabo voice the line in current sermons and press it through imagery, staff gesture, and the division between holy and ordinary."
+          "Explanation": "The Buddhas of the three times do not know it, but cats and white oxen do: a deliberately unsettling contrast attributed to Nanquan. Three passages explicitly quote him; three later teachers voice the line anew in their sermons. The source wording leaves the object of knowing unstated. Sanyi Mingyu quotes Nanquan Puyuan saying that the Buddhas of the three times do not know it, while cats and white oxen do. Sanyi asks what the animals know and proposes a polished landscape answer only to warn that such talk would leave its speaker carrying a burden. The exact contrast is Nanquan's cited voice; Sanyi's present question tests whether a pleasing description actually meets it. The source does not name a fixed object for the word it. Yingning Jing quotes Nanquan Puyuan's contrast between the Buddhas and cats and white oxen. He says that to carry forward the teaching one must know how to move among different kinds of beings, then asks whether anyone understands Nanquan's way of acting. A layman spins away; Yingning shouts, calls the move wild jumping and strikes his staff. The exact line is Nanquan's quoted voice, while the layman's action and Yingning's response show this sermon applying it rather than explaining away the animals. Tianran of Mount Lu raises several older sayings about recognizing the matter and then quotes Nanquan Puyuan on Buddhas not knowing while cats and white oxen know. Tianran says he admires Nanquan for not fearing what is great or belittling what is small, because Nanquan knows the cause of the illness. He asks his assembly what that cause is and returns to his own larger teaching. The exact contrast is Nanquan's cited saying; Tianran's present praise and question are a separate appraisal, and the saying leaves its object unstated. At a hall sermon requested to honor a lay supporter's deceased parents, Feiyin Tongrong says even a broad understanding of mind and ordinary beings is only an entry point. He then voices the line that the Buddhas of three times do not know it but cats and white oxen do, and develops it through images of horns, dust-covered faces and the ending of holy-versus-ordinary distinctions. Later he restates the two halves with separate gestures of descent and ascent and asks what the old masters meant. The phrase is Feiyin's present use of an inherited contrast; neither use supplies a single fixed referent for it. Yi'an Shanzan opens a short instruction by voicing the contrast between Buddhas who do not know it and cats and white oxen who do. He picks up his staff and tells the assembly to look: the Buddhas have gone into the company of those animals. He asks why, then says the two portions differ and are brought back under the preceding heading. The exact line is his present teaching turn; the staff gesture and follow-up complicate a fixed division between Buddhas and animals. After a monk asks Dabo Qian about the mind of a practitioner, Dabo replies with a flowering tree, challenges the monk's elaborations and strikes when the monk hesitates. Dabo then addresses the assembly with the Buddhas-and-animals contrast and extends it: a golden-maned lion enters a pack of wild foxes, which all roar like lions. He says recognition here crosses the divide between ordinary and holy. The exact phrase is Dabo's present sermon after the exchange, not the monk's question; its object remains unnamed in the quoted formula."
         }
       ]
     },
