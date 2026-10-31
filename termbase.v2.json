@@ -32656,23 +32656,15 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tianan recites the full Lotus verse, then contrasts understanding it with a long journey still to come.",
+              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. At a hall address for a Buddhist gathering, Tian'an Sheng recites the inherited Lotus Sutra verse: even someone with a distracted mind who enters a shrine and calls homage to the Buddha once has joined the path to buddhahood. Tian'an then says that if the listeners understand this, Amitabha is not far away; if they do not, the western destination remains an immense journey. The verse is a quoted scriptural promise, while the near-versus-far contrast is Tian'an's present challenge to how the assembly hears it. The local record does not identify an individual speaker within the scripture quotation.",
               "ActorAttribution": {
-                "Status": "identified-non-master",
-                "Kind": "scriptural speaker in the Lotus Sutra",
-                "ActorLabel": "Shakyamuni Buddha (Lotus Sutra verse)",
+                "Status": "impersonal",
+                "Kind": "inherited Lotus Sutra verse",
+                "ActorLabel": "the quoted Lotus Sutra verse; no individual speaker established in this record",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "The exact couplet belongs to the Lotus Sutra verse, explicitly named in X72 and matched by its full wording in the other retained passages. The current record owner comments on or explains the inherited words.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "Codex source-first actor review",
-                "ReviewedUtc": "2026-10-29T12:00:00Z"
+                "GrammarEvidence": "The exact clause is a reproduced scriptural verse. X72 explicitly introduces it as Lotus Sutra says; the other source windows reproduce the same verse and then frame it with the present master question or comment. The bounded record does not establish an individual scriptural speaker.",
+                "ReviewedBy": "Codex source-first public reader repair",
+                "ReviewedUtc": "2026-10-31T12:00:00Z"
               }
             },
             {
@@ -32691,23 +32683,15 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J35/J35nB337.xml). Recorded Sayings of Chan Master Baochizong. Baochi quotes the promise and asks why Zhaozhou disliked even hearing the word Buddha.",
+              "AttributionNote": "Source record (J/J35/J35nB337.xml). Recorded Sayings of Chan Master Baochizong. Baochi Xuanzong presents a series of short questions for students rather than a narrative dialogue with answers. In one he cites the promise that a single call of homage to the Buddha already enters the path to buddhahood, then asks why Zhaozhou said he did not like even to hear the word Buddha. Baochi leaves the apparent tension for his hearers to examine; the next questions turn to other cases. The exact phrase is an inherited Lotus verse, not Baochi's own promise, and Zhaozhou supplies the contrasting old saying rather than an answer in this present scene.",
               "ActorAttribution": {
-                "Status": "identified-non-master",
-                "Kind": "scriptural speaker in the Lotus Sutra",
-                "ActorLabel": "Shakyamuni Buddha (Lotus Sutra verse)",
+                "Status": "impersonal",
+                "Kind": "inherited Lotus Sutra verse",
+                "ActorLabel": "the quoted Lotus Sutra verse; no individual speaker established in this record",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "The exact couplet belongs to the Lotus Sutra verse, explicitly named in X72 and matched by its full wording in the other retained passages. The current record owner comments on or explains the inherited words.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "Codex source-first actor review",
-                "ReviewedUtc": "2026-10-29T12:00:00Z"
+                "GrammarEvidence": "The exact clause is a reproduced scriptural verse. X72 explicitly introduces it as Lotus Sutra says; the other source windows reproduce the same verse and then frame it with the present master question or comment. The bounded record does not establish an individual scriptural speaker.",
+                "ReviewedBy": "Codex source-first public reader repair",
+                "ReviewedUtc": "2026-10-31T12:00:00Z"
               }
             },
             {
@@ -32726,23 +32710,15 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J37/J37nB392.xml). Recorded Sayings of Chan Master Hansong Cao. Hansong voices the Lotus verse, calls Shakyamuni overly discriminating, and redirects the assembly.",
+              "AttributionNote": "Source record (J/J37/J37nB392.xml). Recorded Sayings of Chan Master Hansong Cao. At a hall address during a Lotus Sutra gathering, Hansong Zhicao first cites the scripture's warning that proud hearers may refuse a difficult teaching. He then recites the verse about a distracted person entering a shrine and calling homage once, and calls the Buddha's way of separating cases overly discriminating. Hansong answers with a contrast between a showy gate and a quiet dwelling, then cuts off the discourse until another day. The headword is the inherited Lotus verse under his current critical reading. Hansong explicitly names Gautama as the teaching voice he criticizes, while his contrast and closing images are his own present commentary.",
               "ActorAttribution": {
                 "Status": "identified-non-master",
-                "Kind": "scriptural speaker in the Lotus Sutra",
-                "ActorLabel": "Shakyamuni Buddha (Lotus Sutra verse)",
+                "Kind": "named scriptural speaker in local Hansong comment",
+                "ActorLabel": "Gautama Buddha (Lotus Sutra verse)",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "The exact couplet belongs to the Lotus Sutra verse, explicitly named in X72 and matched by its full wording in the other retained passages. The current record owner comments on or explains the inherited words.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "Codex source-first actor review",
-                "ReviewedUtc": "2026-10-29T12:00:00Z"
+                "GrammarEvidence": "In J37nB392 Hansong recites the Lotus verse and immediately calls its teacher Gautama by name. The local clause assigns the quoted teaching to Gautama; Hansong is the present critic, not the verse speaker.",
+                "ReviewedBy": "Codex source-first public reader repair V2",
+                "ReviewedUtc": "2026-10-31T12:15:00Z"
               }
             },
             {
@@ -32761,27 +32737,132 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi explicitly names the Lotus Sutra and explains the unsettled mind in the verse through dependent arising.",
+              "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai explicitly introduces the quotation as a Lotus Sutra verse in a hall address, giving the promise that a distracted person who calls homage once has entered the path to buddhahood. He explains that a distracted mind arises through conditions and therefore has no fixed nature; in his reading its clarity and stillness are available at the very point where the verse addresses it. He then asks what present use this has, strikes his staff and answers with the ordinary sufficiency of three daily meals. The exact couplet is inherited scripture, while the analysis and staff action are Wuyi's present application.",
               "ActorAttribution": {
-                "Status": "identified-non-master",
-                "Kind": "scriptural speaker in the Lotus Sutra",
-                "ActorLabel": "Shakyamuni Buddha (Lotus Sutra verse)",
+                "Status": "impersonal",
+                "Kind": "inherited Lotus Sutra verse",
+                "ActorLabel": "the quoted Lotus Sutra verse; no individual speaker established in this record",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "The exact couplet belongs to the Lotus Sutra verse, explicitly named in X72 and matched by its full wording in the other retained passages. The current record owner comments on or explains the inherited words.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "Codex source-first actor review",
-                "ReviewedUtc": "2026-10-29T12:00:00Z"
+                "GrammarEvidence": "The exact clause is a reproduced scriptural verse. X72 explicitly introduces it as Lotus Sutra says; the other source windows reproduce the same verse and then frame it with the present master question or comment. The bounded record does not establish an individual scriptural speaker.",
+                "ReviewedBy": "Codex source-first public reader repair",
+                "ReviewedUtc": "2026-10-31T12:00:00Z"
               }
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J26/J26nB187.xml",
+              "FromLb": "0687b19",
+              "ToLb": "0687c09",
+              "Kwic": "服色。』共相傳說，以為實然。適遇智者憫其愚魯，向它道：『者是瞎說，無恁麼事。』一班瞎漢反共詈其欺己。大眾！生長京師，不識天子，況吳地盲人去京師三千里外，如何得見聖上來？無怪一盲引眾盲，相傳總不真。即今要識鬧市天子麼？蕩蕩仁風扇八方，歌謠滿路知何極？」晚參。「此事如兩家做交易一般，買者急切要買、賣者斷然不賣，交易不成，歸家納悶。悶之不已，忽然想著吽家中原有，何用將錢別處尋買？此時無著歡喜處也。」下座。佛會，上堂。「若人散亂心，入于塔廟中，一稱南無佛，皆已成佛道。于此明得，阿彌陀佛去此不遠；于此未明，此去西天路，迢迢十萬餘。」晚參。「子不見夫逐鹿者乎？今日欄中走出一鹿，直歲打梆，普請逐鹿，有者忙忙拄撐門戶、有者努眉把斷要津、有者謹守牆垣、有者隨鹿趁逐終不得鹿，遂有揭杆持棒、架箭張弓、怒喝高呼、擎拳拍掌，其鹿驚怖，愈不能得，乃復用斷貫索、布縵天網、掘平地坑、使鉤錐智，雖暫勉強擒獲，終是跳擿不寧。山僧乃令眾人退後，任它豐艸長林，饑則與之以食、渴則飲之以水。數日，人不逐鹿、鹿亦忘人，人鹿兩忘，趁亦不",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Tian'an Sheng",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. At a hall address for a Buddhist gathering, Tian'an Sheng recites the inherited Lotus Sutra verse: even someone with a distracted mind who enters a shrine and calls homage to the Buddha once has joined the path to buddhahood. Tian'an then says that if the listeners understand this, Amitabha is not far away; if they do not, the western destination remains an immense journey. The verse is a quoted scriptural promise, while the near-versus-far contrast is Tian'an's present challenge to how the assembly hears it. The local record does not identify an individual speaker within the scripture quotation.",
+              "ActorAttribution": {
+                "Status": "impersonal",
+                "Kind": "inherited Lotus Sutra verse",
+                "ActorLabel": "the quoted Lotus Sutra verse; no individual speaker established in this record",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The exact clause is a reproduced scriptural verse. X72 explicitly introduces it as Lotus Sutra says; the other source windows reproduce the same verse and then frame it with the present master question or comment. The bounded record does not establish an individual scriptural speaker.",
+                "ReviewedBy": "Codex source-first public reader repair",
+                "ReviewedUtc": "2026-10-31T12:00:00Z"
+              },
+              "ClaimText": "一稱南無佛，皆已成佛道"
+            },
+            {
+              "RelPath": "J/J35/J35nB337.xml",
+              "FromLb": "0710c01",
+              "ToLb": "0710c25",
+              "Kwic": "而今卻許後人貶剝？」師代云：「近日世界不好。」又云：「口是禍門。」垂問：「古人道：『但參活句，莫參死句。』洞山麻三觔、雲門乾矢橛，盡是死句。如何是活句？」又云：「若人造一切罪，得見己之法王，即得解脫。且道己之法王作麼生見？」又云：「不立一塵，本來無物。古人恁麼道，將從上家業盡情折倒了也。你道日用憑何作活？」又云：「無依無欲，便是能仁。因甚又要驅耕夫之牛、奪饑人之食？」又云：「缽裏飯、桶裏水，一任諸人橫吞豎咽。洗缽盂話作麼生會？」又云：「一稱南無佛，皆已成佛道。因甚趙州道：『佛之一字，我不喜聞？』」又云：「學道人隨處安閒，自然合他古轍。因甚驢事未去、馬事又來？」又云：「三世諸佛是奴婢，一大藏教是涕唾。且拈過一邊，秪如牡丹花下睡貓兒是箇甚麼？」頌古頌古香巖上樹。吹毛寶劍逼人寒，瞬目揚眉作麼看？未舉已前先薦得，崑崙騎象鷺鷥牽。魯祖不言言無口將甚麼喫飯。有言無言，海底撐船。有口無口，一場逗漏。倦鳥知還，閒雲出岫。擬議思量，劈脊便摟。世尊陞座。世尊陞座，文殊白椎，衲僧不會，莫亂鍼錐。崇壽指凳。直道玄",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Baochi Xuanzong",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J35/J35nB337.xml). Recorded Sayings of Chan Master Baochizong. Baochi Xuanzong presents a series of short questions for students rather than a narrative dialogue with answers. In one he cites the promise that a single call of homage to the Buddha already enters the path to buddhahood, then asks why Zhaozhou said he did not like even to hear the word Buddha. Baochi leaves the apparent tension for his hearers to examine; the next questions turn to other cases. The exact phrase is an inherited Lotus verse, not Baochi's own promise, and Zhaozhou supplies the contrasting old saying rather than an answer in this present scene.",
+              "ActorAttribution": {
+                "Status": "impersonal",
+                "Kind": "inherited Lotus Sutra verse",
+                "ActorLabel": "the quoted Lotus Sutra verse; no individual speaker established in this record",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The exact clause is a reproduced scriptural verse. X72 explicitly introduces it as Lotus Sutra says; the other source windows reproduce the same verse and then frame it with the present master question or comment. The bounded record does not establish an individual scriptural speaker.",
+                "ReviewedBy": "Codex source-first public reader repair",
+                "ReviewedUtc": "2026-10-31T12:00:00Z"
+              },
+              "ClaimText": "一稱南無佛，皆已成佛道"
+            },
+            {
+              "RelPath": "J/J37/J37nB392.xml",
+              "FromLb": "0587c11",
+              "ToLb": "0587c30",
+              "Kwic": "藏莊嚴；花笑鳥啼，一一阿僧祗品。安樂院中一舉阿字法門，其因普順十方國土、其身充滿一切世間，因該果海、果徹因源，涉入重重、融通隱隱。若佛、若祖，同見、同生，魚椎下敲出善財童子；若聖、若凡，同修、同住，句讀邊分剖無厭足王。各各信解行證、頭頭理事圓融，者段風光誰為證據？一語了然超億劫，青山萬里展修眉。」建法華會，上堂。「止止不須說，我法玅難思，諸憎上慢者，聞必不敬信。為是說法？為是不說？萬籟無心聞不得，孤崖有耳謾知音。若人散亂心，入於塔廟中，一稱南無佛，皆已成佛道。潦倒瞿曇，分別不少，時人只見朱門好，誰識幽居價倍高？咄！向下文長，付在來日。」永靜請上堂。「穿雲尋虎穴，芒鞋拖幽蕙之香；拾翠過龍門，人面帶煙霞之色。當陽薦得，未是全提；直下知歸，不名向上。」驀豎拂，云：「是伊不覺聳身虛空，高七多羅樹，東涌、西沒、南涌、北沒、中涌、邊沒，或時現大、為復現小？或時現諸佛、為復現列祖？所謂一毛現神變，一切佛同說，盡於未來劫，不得其邊際。及乎安樂，倒轉拂來，其大無外、其小無內，佛佛祖祖要且摸索頭腦不著。現前一",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Hansong Zhicao",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J37/J37nB392.xml). Recorded Sayings of Chan Master Hansong Cao. At a hall address during a Lotus Sutra gathering, Hansong Zhicao first cites the scripture's warning that proud hearers may refuse a difficult teaching. He then recites the verse about a distracted person entering a shrine and calling homage once, and calls the Buddha's way of separating cases overly discriminating. Hansong answers with a contrast between a showy gate and a quiet dwelling, then cuts off the discourse until another day. The headword is the inherited Lotus verse under his current critical reading. Hansong explicitly names Gautama as the teaching voice he criticizes, while his contrast and closing images are his own present commentary.",
+              "ActorAttribution": {
+                "Status": "identified-non-master",
+                "Kind": "named scriptural speaker in local Hansong comment",
+                "ActorLabel": "Gautama Buddha (Lotus Sutra verse)",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "In J37nB392 Hansong recites the Lotus verse and immediately calls its teacher Gautama by name. The local clause assigns the quoted teaching to Gautama; Hansong is the present critic, not the verse speaker.",
+                "ReviewedBy": "Codex source-first public reader repair V2",
+                "ReviewedUtc": "2026-10-31T12:15:00Z"
+              },
+              "ClaimText": "一稱南無佛，皆已成佛道"
+            },
+            {
+              "RelPath": "X/X72/X72n1435.xml",
+              "FromLb": "0254a16",
+              "ToLb": "0254b12",
+              "Kwic": "與諸人祇知二時逐隊，但恁麼過時，臨濟三玄三要，誑嚇小兒；曹洞兼帶叶通，顢頇無識；溈仰暗機圓合，鬼面神頭；雲門函葢乾坤，心麤膽大；法眼雖云平易，機險殺人。博山總不恁麼。今日與諸昆仲結制，將九十日為一時，以一時為九十日。若向者裏會去，萬年一念，一念萬年，生死情枯，真如體寂，二途俱泯，觸處皆通。茲有嘉興沈居士，不辭數千里來此供養大眾。且道：作麼生說箇通底道理？卓拄杖，云：根塵蘊界原無性，誰道虗空礙眼睛？上堂：法華經云：若人散亂心，入於墖廟中，一稱南無佛，皆已成佛道。諸昆仲當知，散亂心者，從緣有故。緣生無性，當體圓明，當體寂滅。縱有曠劫無明，猶輕風捲於薄霧，廓爾冰清。所以道，心月孤明，光吞萬象，非能所中道可安立也。博山今日苦口告報，也祇要諸人得現前真實受用。且道作麼生是真受用處？卓拄杖云：一日三餐隨分足，虗空無縫著閒身。珍重！上堂：心如工伎兒，意如和伎者。山河鏡中像，色質虗幻有。覺體本圓明，非存諸過咎。修與不修行，愚者妄分別。不恁麼會則易，恁麼會則難。蓮花未出水，師子出窟時。汝等諸人向甚麼處安身立",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Wuyi Yuanlai",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai explicitly introduces the quotation as a Lotus Sutra verse in a hall address, giving the promise that a distracted person who calls homage once has entered the path to buddhahood. He explains that a distracted mind arises through conditions and therefore has no fixed nature; in his reading its clarity and stillness are available at the very point where the verse addresses it. He then asks what present use this has, strikes his staff and answers with the ordinary sufficiency of three daily meals. The exact couplet is inherited scripture, while the analysis and staff action are Wuyi's present application.",
+              "ActorAttribution": {
+                "Status": "impersonal",
+                "Kind": "inherited Lotus Sutra verse",
+                "ActorLabel": "the quoted Lotus Sutra verse; no individual speaker established in this record",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The exact clause is a reproduced scriptural verse. X72 explicitly introduces it as Lotus Sutra says; the other source windows reproduce the same verse and then frame it with the present master question or comment. The bounded record does not establish an individual scriptural speaker.",
+                "ReviewedBy": "Codex source-first public reader repair",
+                "ReviewedUtc": "2026-10-31T12:00:00Z"
+              },
+              "ClaimText": "一稱南無佛，皆已成佛道"
+            }
+          ],
           "SourceTexts": [
             "J/J26/J26nB187.xml",
             "J/J35/J35nB337.xml",
@@ -32795,7 +32876,7 @@
             "Wuyi Yuanlai"
           ],
           "RelatedTerms": [],
-          "Explanation": "The Lotus verse says that even one call of homage to the Buddha enters the path to buddhahood. Tianan and Baochi ask what the old promise means when heard in a present assembly. Hansong challenges its distinction, while Wuyi explains how unsettled mind can still be heard in the verse."
+          "Explanation": "The inherited Lotus verse promises that even one call of homage to the Buddha belongs on the path to buddhahood. Tian'an asks whether the promise makes Amitabha near or leaves the way distant; Baochi sets it against Zhaozhou's refusal to hear the word Buddha without supplying an easy answer. Hansong explicitly names Gautama immediately after reciting the verse and challenges his apparent distinction. Wuyi explains the distracted mind through its conditioned arising and strikes his staff to ask what present use the verse has. The other three record windows do not establish an individual scriptural speaker."
         }
       ]
     },
