@@ -39390,7 +39390,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J35/J35nB342.xml). Recorded Sayings of Chan Master Shengke (Huayan). Shengke voices the exact line after a monk displays his mat and asks the master to supply an answer."
+              "AttributionNote": "Source record (J/J35/J35nB342.xml). Recorded Sayings of Chan Master Shengke (Huayan). Shengke Deyu questions the monk Sanyuan about his recent retreat. When the monk hesitates and then raises a fist, Shengke strikes him; later the monk returns, repeats the fist, bows and waves his sitting mat, but Shengke rejects those moves. Shengke then says that if one place does not open, both sides lose their work. Only after this does the monk ask Shengke to supply a turning reply, and Shengke says that nothing was ever hidden throughout the world. The line is Shengke's present diagnosis of the failed exchange, not the monk's request."
             },
             {
               "RelPath": "J/J38/J38nB430.xml",
@@ -39408,7 +39408,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J38/J38nB430.xml). Recorded Sayings of Chan Master Qibaifu of Yuquan. Qibai voices the line while stopping a monk's failed exchange of shout and slap."
+              "AttributionNote": "Source record (J/J38/J38nB430.xml). Recorded Sayings of Chan Master Qibaifu of Yuquan. A monk asks Qibai Defu why a dead fish floats in the water that sustains fish. Qibai answers, and the monk shouts; Qibai slaps him and says the fish is alive. That evening the monk returns for instruction, shouts again in response to Qibai's questions and receives more slaps. Qibai then says one blocked place makes both sides fail. The monk asks for a substitute answer only afterward, and Qibai asks whether he wants another ladle of foul water. The phrase assesses the repeated exchange rather than a literal two-place route."
             },
             {
               "RelPath": "X/X69/X69n1368.xml",
@@ -39426,7 +39426,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X69/X69n1368.xml). Recorded Sayings of Chan Master Yanxi Guangwen. Yanxi voices the line in his own hall address and extends the warning to obstruction on every path."
+              "AttributionNote": "Source record (X/X69/X69n1368.xml). Recorded Sayings of Chan Master Yanxi Guangwen. Yanxi Guangwen tells his assembly that pushing a step where there is nowhere to stand and forcing out a sentence where there is nowhere to speak still entangle the practitioner. He says one place blocked costs both sides, then extends it: with two places blocked every path becomes obstructed. He asks how they can get free and offers the terse answer, Xuefeng in the south and Zhaozhou in the north. The headword is his present warning that a locally unresolved point spreads into wider obstruction."
             },
             {
               "RelPath": "X/X70/X70n1386.xml",
@@ -39444,10 +39444,87 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X70/X70n1386.xml). Recorded Sayings of Chan Master Shitian Faxun. Shitian voices the line in his own hall address, then raises and strikes his staff to test the audience."
+              "AttributionNote": "Source record (X/X70/X70n1386.xml). Recorded Sayings of Chan Master Shitian Faxun. Shitian Faxun opens a hall address by saying that those who know cannot say it and those who cannot say it nevertheless know. He follows with the line that one place blocked makes both sides fail. He then picks up his staff, says he will try to treat a dead horse, strikes once and says he has saved only half. The saying frames the tension between knowing and speaking, while the staff action and half-rescue are Shitian's own immediate response."
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J35/J35nB342.xml",
+              "FromLb": "0796a10",
+              "ToLb": "0796a27",
+              "Kwic": "師問僧：「我緩緩問，你緩緩答。」僧云：「是。」師良久，便問僧：「你適纔道是。」僧云：「是。」師云：「鷂子過新羅。」僧問：「家家有路透長安，如何是華巖路？」師云：「看腳下。」僧遶一匝。師云：「鐵蛇橫古路又作麼生？」僧禮拜，師云：「中毒了也。」師問三淵：「打七來兩日也如何？」淵擬對，師便打。淵豎拳，師復打，云：「賊過張弓，堪作甚麼？」淵後入方丈請益，師問云：「無隱箇甚麼？」淵仍豎拳。師云：「休鼓風力。」淵作女人拜，師不肯。淵舞坐具，師云：「一處不通，兩處失功。」淵云：「請和尚代一轉語。」師云：「遍界不曾藏。」僧問：「如何是有相？」師豎起拂子。進云：「如何是無相？」師放下拂子。進云：「如何是不有不無相？」師云：「退後三步。」僧近前三步，師云：「依稀似曲纔堪聽，又被風吹別調中。」僧擬議，師云：「何不再進一語？」僧無語，師云：「為山九仞，功虧一簣。」一日，階下一土狗為蟻所困，一僧救之。師云：「不救傷生、救則奪食，二俱失慈。救即是？不救即是？」僧云：「某甲罪過。」師云：「與麼見解，參禪何益？」僧即",
+              "MasterName": "Shengke Deyu",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Shengke Deyu",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J35/J35nB342.xml). Recorded Sayings of Chan Master Shengke (Huayan). Shengke Deyu questions the monk Sanyuan about his recent retreat. When the monk hesitates and then raises a fist, Shengke strikes him; later the monk returns, repeats the fist, bows and waves his sitting mat, but Shengke rejects those moves. Shengke then says that if one place does not open, both sides lose their work. Only after this does the monk ask Shengke to supply a turning reply, and Shengke says that nothing was ever hidden throughout the world. The line is Shengke's present diagnosis of the failed exchange, not the monk's request.",
+              "ClaimText": "一處不通，兩處失功"
+            },
+            {
+              "RelPath": "J/J38/J38nB430.xml",
+              "FromLb": "0961c28",
+              "ToLb": "0962a17",
+              "Kwic": "保守，欻然爆地一聲，管取驚天動地。示慧超彭居士示慧超彭居士此段風光，人人具足，個個圓成，但略造作些毫，不無返相背戾。若是血氣男兒，向機前領解，句外承當，一拶百碎，驀然自肯，撫掌呵呵，更不褁糧涉足，向人門戶討。機緣機緣見死魚浮水面上，僧問：「魚以水為命，因甚死在水中？」師云：「元是伊安身處。」僧喝，師掌云：「活也。」至晚，僧入方丈請益，師問云：「命聻？」僧乃喝，師復掌，僧云：「和尚不得壓良為賤。」師云：「休鼓粥飯氣。」僧一喝，師復掌云：「一處不通，兩處失功。」僧云：「請和尚代某甲道。」師云：「還要第二杓惡水麼？」問僧：「甚處來？」僧云：「昭覺來。」師云：「老人與你道個甚麼？」僧云：「騎賊馬趁賊。」師云：「恁麼當面錯過。」僧云：「贓物現在。」師云：「即今到玉泉作麼？」僧詣前禮拜，師云：「草賊大敗。」師又問一僧：「老人與你道個甚麼？」僧云：「問答分明。」師云：「分明底事聻？」僧喝，師云：「儱侗漢。」便打。居士問：「惟此一事實，餘二則非真，因甚又誦經禮佛？」師云：「是誰教汝愛婆娑？」士云：「和",
+              "MasterName": "Qibai Defu",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Qibai Defu",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J38/J38nB430.xml). Recorded Sayings of Chan Master Qibaifu of Yuquan. A monk asks Qibai Defu why a dead fish floats in the water that sustains fish. Qibai answers, and the monk shouts; Qibai slaps him and says the fish is alive. That evening the monk returns for instruction, shouts again in response to Qibai's questions and receives more slaps. Qibai then says one blocked place makes both sides fail. The monk asks for a substitute answer only afterward, and Qibai asks whether he wants another ladle of foul water. The phrase assesses the repeated exchange rather than a literal two-place route.",
+              "ClaimText": "一處不通，兩處失功"
+            },
+            {
+              "RelPath": "X/X69/X69n1368.xml",
+              "FromLb": "0734b16",
+              "ToLb": "0734c12",
+              "Kwic": "麼？老老大大，有年無德。保福道：作賊人心虗，是精識精。長慶云：生也看錮鏴著生鐵。雲門云：關，虎頭虎尾一時收。直下有人著得隻眼，不妨出一叢林，入一叢林。復舉：青林䖍和尚到洞山，山問：近離甚處？林云：武陵。山云：武陵法道何似此間？林云：胡地冬抽笋。山云：別甑炊香飯，供養於此人。林便出去。山云：此子向後走殺天下人在。師云：青林雖然見機而作，盡力𨁝跳，未免只在洞山架子下。上堂：無下脚處，拶得一步，正是藤蛇纏足；無下口處，突得一句，正是露布纏身。一處不通，兩處失功；兩處不通，觸途成滯。如何得脫灑去？南有雪峰，北有趙州。重九，謝兩藏主，上堂：人間九月又九日，善財去後無消息。何止門前草自青，黃花滿地成狼藉。六祖不會，達磨不識。大藏小藏，以拂子擊禪牀，盡從者裡流出。臘八，上堂：入山還出山，鐵壁復鐵壁。衲僧門下擊拂子，云：不消一擊，黃面瞿曇散宅亡家，盡大地人眼橫鼻直。喝一喝。聖節，散，上堂。六殊勝地，無越此山極殊勝；八吉祥中，唯有今朝最吉祥。於殊勝中顯殊勝，於吉祥中顯吉祥，萬年千載壽，一瓣九天香。佛涅槃",
+              "MasterName": "Yanxi Guangwen",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yanxi Guangwen",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X69/X69n1368.xml). Recorded Sayings of Chan Master Yanxi Guangwen. Yanxi Guangwen tells his assembly that pushing a step where there is nowhere to stand and forcing out a sentence where there is nowhere to speak still entangle the practitioner. He says one place blocked costs both sides, then extends it: with two places blocked every path becomes obstructed. He asks how they can get free and offers the terse answer, Xuefeng in the south and Zhaozhou in the north. The headword is his present warning that a locally unresolved point spreads into wider obstruction.",
+              "ClaimText": "一處不通，兩處失功"
+            },
+            {
+              "RelPath": "X/X70/X70n1386.xml",
+              "FromLb": "0325a16",
+              "ToLb": "0325b16",
+              "Kwic": "子只作一句為諸人說破。遂卓一下，云：若更脚後脚前，山僧沒量罪過。上堂：長者長法身，短者短法身。袖頭打領，腋下剜襟，即不問你諸人。紫湖門下立箇牌，且道明什麼邊事？上堂：棒喝交馳如雷掣，顛言倒語三寸舌。南州打到北州頭，甕裏何曾失却鱉。破菴忌日燒香。養子不及父，家門一世衰，過山尋蟻跡，能有幾人知？遂燒香云：老和尚！你知我知，莫教漏泄天機。上堂：目前法，目前包褁壁，觀婆羅門九年覰不破。覰得破，海壇馬子似驢大。上堂。知有底道不得，道不得底却知有。一處不通，兩處失功。驀拈拄杖云：南山今日且作死馬醫。卓一下云：救得一半。上堂。萬古長空，一朝風月，阿逸多一向魚行酒肆中賣峭，無神通菩薩因什麼蹤跡難尋？良久，云：二人同心，其誼斷金。上堂。無為無事人，猶是金鎻難。汝等諸人每日十二時中行住坐臥，如何免得此過？良久，云：嵩山有箇破竈墮。上堂，舉雪峯道：盡大地是解脫門，把手拽伊不肯入。師拈云：雪峯老漢著甚死急？南山住箇院子，百事煎熬，有什麼工夫拽你入解脫門？然雖如是，知恩者少，負恩者多。上堂，舉：僧問巖頭：起滅不",
+              "MasterName": "Shitian Faxun",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Shitian Faxun",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X70/X70n1386.xml). Recorded Sayings of Chan Master Shitian Faxun. Shitian Faxun opens a hall address by saying that those who know cannot say it and those who cannot say it nevertheless know. He follows with the line that one place blocked makes both sides fail. He then picks up his staff, says he will try to treat a dead horse, strikes once and says he has saved only half. The saying frames the tension between knowing and speaking, while the staff action and half-rescue are Shitian's own immediate response.",
+              "ClaimText": "一處不通，兩處失功"
+            }
+          ],
           "SourceTexts": [
             "J/J35/J35nB342.xml",
             "J/J38/J38nB430.xml",
@@ -39461,7 +39538,7 @@
             "Shitian Faxun"
           ],
           "RelatedTerms": [],
-          "Explanation": "\"One point does not open, and both efforts fail\" warns that a single stuck place can spoil an entire response. Shengke and Qibai say it directly after monks make moves that fail to meet the exchange. Yanxi broadens it to obstruction on every path, while Shitian tests it with his staff and offers to save only half."
+          "Explanation": "If one point of an encounter does not open, both sides lose the work: a warning that a local impasse can undo the whole response. Four teachers use it after failed gestures or shouts, or while testing the relation between speech and understanding. Shengke Deyu questions the monk Sanyuan about his recent retreat. When the monk hesitates and then raises a fist, Shengke strikes him; later the monk returns, repeats the fist, bows and waves his sitting mat, but Shengke rejects those moves. Shengke then says that if one place does not open, both sides lose their work. Only after this does the monk ask Shengke to supply a turning reply, and Shengke says that nothing was ever hidden throughout the world. The line is Shengke's present diagnosis of the failed exchange, not the monk's request. A monk asks Qibai Defu why a dead fish floats in the water that sustains fish. Qibai answers, and the monk shouts; Qibai slaps him and says the fish is alive. That evening the monk returns for instruction, shouts again in response to Qibai's questions and receives more slaps. Qibai then says one blocked place makes both sides fail. The monk asks for a substitute answer only afterward, and Qibai asks whether he wants another ladle of foul water. The phrase assesses the repeated exchange rather than a literal two-place route. Yanxi Guangwen tells his assembly that pushing a step where there is nowhere to stand and forcing out a sentence where there is nowhere to speak still entangle the practitioner. He says one place blocked costs both sides, then extends it: with two places blocked every path becomes obstructed. He asks how they can get free and offers the terse answer, Xuefeng in the south and Zhaozhou in the north. The headword is his present warning that a locally unresolved point spreads into wider obstruction. Shitian Faxun opens a hall address by saying that those who know cannot say it and those who cannot say it nevertheless know. He follows with the line that one place blocked makes both sides fail. He then picks up his staff, says he will try to treat a dead horse, strikes once and says he has saved only half. The saying frames the tension between knowing and speaking, while the staff action and half-rescue are Shitian's own immediate response."
         }
       ]
     },
