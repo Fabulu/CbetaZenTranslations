@@ -26418,16 +26418,14 @@
     "SourceTerm": "大機",
     "PreferredTarget": "great capacity",
     "AlternateTargets": [
-      "great working",
-      "great initiative"
+      "great responsive power"
     ],
     "SearchAliases": [
       "great capacity",
-      "great working",
-      "complete responsiveness"
+      "great responsive power"
     ],
     "Status": "preferred",
-    "Note": "The contextual uses range from a person's exceptional receptivity to a teacher's comprehensive responsiveness and command of circumstances. They do not establish one fixed doctrinal faculty.",
+    "Note": "Three independent admitted Chinese contexts show responsive capacity in use and warn against reducing it to a mechanical gesture. Korean, sectarian-manual and doctrinal-container citations are excluded.",
     "CreatedBy": "Codex Sol lean Triple72",
     "WrittenUtc": "2026-08-01T17:35:45Z"
   },
@@ -43415,16 +43413,19 @@
     "WrittenUtc": "2026-07-17T11:03:07.786919+00:00"
   },
   {
-    "SourceTerm": "斷滅空",
+    "SourceTerm": "斷滅之空",
     "PreferredTarget": "annihilationist emptiness",
-    "AlternateTargets": [],
+    "AlternateTargets": [
+      "emptiness as sheer extinction"
+    ],
     "SearchAliases": [
+      "斷滅空",
       "annihilationist emptiness"
     ],
     "Status": "preferred",
-    "Note": "The gloss remains the condemned kind of emptiness actually named.",
-    "CreatedBy": "Codex post720 Lane C positions 033-058",
-    "WrittenUtc": "2026-07-17T16:30:22.041434+00:00"
+    "Note": "One admitted exact Chinese Zen-record use survives in a Chan poem/case commentary. The old full headword is a same-job genitive variant kept as a search alias; its six exact public-corpus hits were not admitted.",
+    "CreatedBy": "Codex reviewed public corpus-admission replacement",
+    "WrittenUtc": "2026-10-31T08:05:00Z"
   },
   {
     "SourceTerm": "斷臂",
