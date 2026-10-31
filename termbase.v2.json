@@ -559607,14 +559607,14 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "The line first says that right and wrong have been left behind, then says to recognize the matter within right and wrong. Chan masters make the tension active: some direct hearers back into ordinary distinctions, while Chushi rejects treating the formula as enough by itself.",
+          "Note": "The complete four-line pillar verse is raised under Master Xiu or Longji's name and also redeployed by current speakers. Chushi criticizes its earlier author; that criticism is not the original verse voice. Master Xiu's link to Longji Shaoxiu is supported by independent name-and-place evidence.",
           "Occurrences": [
             {
               "RelPath": "J/J28/J28nB203.xml",
               "FromLb": "0167a07",
               "ToLb": "0167a25",
               "Kwic": "，國師云：『去聖時遙，人多懈怠，三十年後，求箇漢也難得。』」師云：「諸方盡謂此二老有六韜三略之才、具武緯文經之作，仔細簡點將來，總沒交涉。殊不知，丹霞被國師舌頭謾，國師隨丹霞腳跟轉。若到普濟這裏，各與三十拄杖。何故？蚌鷸相持，俱落漁人之手。」上堂。「破糞箕，禿苕帚，臥月眠雲；乾屎橛，死貓頭，超今越古。恁麼舉唱，是汝諸人還簡點得出麼？如簡點得出，山僧生陷無間地獄；脫或未然，雪峰輥毬，玄沙汝虎。」復舉：「修山主云：『是柱不見柱，非柱不見柱，是非已去了，是非裏薦取。』」師云：「釣魚放生。」下座。師一日牽一頭驢上堂，示眾云：「即今有箇現成公案，拈來問汝諸人，若道得一轉語與山僧相契，拄杖、拂子兩手分付。」遂抬腳，云：「我腳何似驢腳？」復舉手，云：「我手何似佛手？」又云：「人人有箇生緣，上座生緣在甚麼處？」眾下語皆不契。師代「我腳何似驢腳」處云：「但禮拜。」師代「我手何似佛手」處：「但禮拜。」師代「上座生緣在甚麼」處：「便騎驢去喫艸。更與頌出，頌云：我手何似佛手，展縮拈提本有，庭前露柱呵呵，蟭螟吞卻北",
-              "MasterName": null,
+              "MasterName": "Longji Shaoxiu",
               "Curated": true,
               "ContextMasters": [
                 {
@@ -559623,26 +559623,16 @@
                     "commentator",
                     "record-owner"
                   ]
+                },
+                {
+                  "MasterName": "Longji Shaoxiu",
+                  "Roles": [
+                    "utterer"
+                  ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB203.xml). Recorded Sayings of Chan Master Yune Xi. Xiushan master (???) utters the quoted earlier line; the record owner comments on it. Yun'e quotes the old Xiushan phrase, then gives his own fishing-and-release comment on it.",
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "named earlier Chan master",
-                "ActorLabel": "Xiushan master (修山主)",
-                "ActorRole": "utterer",
-                "GrammarEvidence": "The source explicitly introduces the named earlier figure before the full pillar and right-wrong line; the current master comments afterward.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "Codex source-first full-case review",
-                "ReviewedUtc": "2026-10-29T12:00:00Z"
-              }
+              "AttributionNote": "Source record (J/J28/J28nB203.xml). Recorded Sayings of Chan Master Yune Xi. Yun'e raises Master Xiu's complete verse: neither affirming nor denying the pillar sees it, and, with right and wrong gone, one must recognize within right and wrong. His own short comment is 'Fishing and releasing life,' after which he descends. The paired actions make his response more than a paraphrase that all distinctions are abolished. The next incident, when he brings a donkey to the hall and asks about his foot, hand, and origin, is a separate unit. The headword is Master Xiu's quotation; Yun'e owns the fishing-and-release comment. Separate source passages identify this Master Xiu as Shaoxiu of Longji. The identity link uses separate named evidence: T51n2076 at 0400a19 has Master Xiu name himself Shaoxiu; at 0414a21 and 0435a17 he is called Master Xiu of Longji. This identifies Master Xiu as Longji Shaoxiu independently of the repeated verse.",
+              "ActorAttribution": null
             },
             {
               "RelPath": "J/J37/J37nB389.xml",
@@ -559666,7 +559656,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J37/J37nB389.xml). Recorded Sayings of Chan Master Yuzhaoyunfen of Hongshan. Longji Shaoxiu (??) utters the quoted earlier line; the record owner comments on it. Xiaotang quotes the old phrase, then compares its operation to capture followed by a renewed campaign."
+              "AttributionNote": "Source record (J/J37/J37nB389.xml). Recorded Sayings of Chan Master Yuzhaoyunfen of Hongshan. Xiaotang explicitly raises Longji's four-line pillar verse, including the headword. His following poem says that no sooner is the south secured than campaigning begins again in the north; fighting has not ceased on the road to Chang'an. It recalls the horse's past service but seeks a renewed name for unmatched achievement. These images are Xiaotang's poetic response to the relation of leaving right and wrong and recognizing within them, not another historical speech by Longji. The subsequent case about eating a stalk of greens belongs to a new instruction."
             },
             {
               "RelPath": "J/J39/J39nB452.xml",
@@ -559684,7 +559674,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J39/J39nB452.xml). Recorded Sayings of Chan Master Lüyan He. Luyan says the full column-and-right-wrong formulation himself while asking how deluded attachment ends."
+              "AttributionNote": "Source record (J/J39/J39nB452.xml). Recorded Sayings of Chan Master Lüyan He. Luyan expands delusive attachment beyond everyday disputes to include religious practices and the schools' own cherished categories. He says not to seek wisdom and virtue elsewhere: ending attachment is precisely that wisdom and virtue. Asked how attachment is ended, he takes up his staff and says the first two pillar lines, then strikes once and gives the headword. These words are his own present deployment, with the action separating the opening and closing halves. The following discussion of Yongming's combinations of Chan and Pure Land is another instruction; it is not an explanation attributed to the earlier pillar-verse author."
             },
             {
               "RelPath": "X/X71/X71n1410.xml",
@@ -559703,26 +559693,32 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X71/X71n1410.xml). Recorded Sayings of Chan Master Tanfang Shouzhong. Tanfang gives the old formula in his own hall address, then says awakening happens within right and wrong."
+              "AttributionNote": "Source record (X/X71/X71n1410.xml). Recorded Sayings of Chan Master Tanfang Shouzhong. Tanfang begins an address with all four pillar lines, then tells the assembly that Shakyamuni turns the teaching wheel within right and wrong without interruption, and that countless beings awaken within right and wrong without interruption. He strikes his whisk and descends. The headword functions in Tanfang's present address, followed by his explicit application to teaching and awakening. This is not a command to withdraw from the differentiated world or a claim that the Buddha is the historical speaker of the opening couplet. The next address begins with completeness like empty space and is separate."
             },
             {
               "RelPath": "X/X71/X71n1420.xml",
               "FromLb": "0567c12",
               "ToLb": "0568a09",
               "Kwic": "袖去也。便下座。上堂：三通鼓罷，一炷香焚。老僧坐定，諸人總立。古人道：目前無闍棃，座上無老僧。意作麼生？莫是一切皆空麼？莫是泡幻之質終歸敗壞麼？莫是有形有相便是無形無相麼？莫是正恁麼時全明向上事麼？莫是換人情識麼？總不是這箇道理。若與麼見解，實未得安樂在。行住坐臥，動靜去來，子細躊躇看。上堂：達磨不來東土，二祖不往西天，臨濟不參黃檗，趙州不見南泉。是處池中有月，誰家竈裏無煙？有問分明向伊道：新羅國在海東邊。上堂。是柱不見柱，非柱不見柱，是非已去了，是非裏薦取。師云：教裏少哩。修山主有多少奇特？也只是座主見解，未夢見我祖師意旨在。見露柱但喚作露柱，見燈籠但喚作燈籠，不得動著，動著三十棒。堂上祖禰不了，殃及兒孫。壽山無端走入水牯牛隊裏，牽犁拽耙，與你諸人抵債。還有人相救麼？若有，不妨出來道看。如無，釣竿斫盡重栽竹，不計功程得便休。上堂。言發非聲，色前不物，泥像手中拂子𨁝跳上三十三天，木魚口裏明珠吞却山河大地，諸人向什麼處安身立命？不得春風花不開。開爐，上堂：寒則普天普地寒，熱則普天普地熱。百億",
-              "MasterName": "Chushi Fanqi",
+              "MasterName": "Longji Shaoxiu",
               "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Chushi Fanqi",
                   "Roles": [
-                    "utterer",
                     "commentator",
                     "record-owner"
                   ]
+                },
+                {
+                  "MasterName": "Longji Shaoxiu",
+                  "Roles": [
+                    "utterer"
+                  ]
                 }
               ],
-              "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi repeats the whole formula, then rejects it as only scriptural understanding rather than the ancestor intent."
+              "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi raises the complete pillar verse and then comments that there is too little of the teaching in it. He names Master Xiu and asks what is so remarkable, calling it a scripture lecturer's view that has not yet dreamed of the ancestral intent. His alternative is to call a pillar a pillar and a lantern a lantern, with a warning that any movement earns thirty blows. He says the ancestors' unfinished business implicates their descendants, depicts his own work as dragging a plough in the ox herd, and asks for rescue. The headword is the raised earlier verse, identified by Chushi's own following reference to Master Xiu; Chushi is its critic, not its original quoted speaker. The identity link uses separate named evidence: T51n2076 at 0400a19 has Master Xiu name himself Shaoxiu; at 0414a21 and 0435a17 he is called Master Xiu of Longji. This identifies Master Xiu as Longji Shaoxiu independently of the repeated verse.",
+              "ActorAttribution": null
             }
           ],
           "ClaimAnchors": [],
@@ -559742,7 +559738,7 @@
             "Chushi Fanqi"
           ],
           "RelatedTerms": [],
-          "Explanation": "\"Right and wrong have been left behind; recognize it within right and wrong\" is a deliberate two-part turn. Chan masters use it to test whether freedom from judgment can meet ordinary distinctions without being trapped by them. Yun'e and Xiaotang quote an older formulation and answer it with fishing and campaign images. Luyan speaks the full line while asking about attachment; Tanfang says awakening proceeds amid right and wrong. Chushi repeats it only to challenge its sufficiency as a Chan answer."
+          "Explanation": "Right and wrong have been left behind, yet recognition is demanded within right and wrong. The preceding lines about a pillar make the tension concrete: affirming it as a pillar does not see the pillar, and denying it as a pillar does not see it either. The closing pair does not simply command permanent refusal to distinguish things. Yun'e responds to the raised verse with catching fish and releasing life; Xiaotang answers it with a poem of military success followed by renewed campaigning. Luyan makes the lines his own present answer to how delusive attachment is ended, joining them to a staff action. Tanfang says both the Buddha's teaching and beings' awakening continue within right and wrong. Chushi instead criticizes Master Xiu's verse as a lecturer's view and insists on calling a pillar a pillar and a lantern a lantern. The notes preserve this disagreement rather than assigning all five speakers a common explanatory doctrine. The quoted Master Xiu is identified as Longji Shaoxiu by separate named source evidence, while Chushi owns the criticism after the quotation."
         }
       ]
     },
@@ -570878,9 +570874,9 @@
         {
           "SenseKey": null,
           "MasterName": null,
-          "PreferredTarget": "Moonlight whitens with the clouds; the pines sound cold with dew.",
+          "PreferredTarget": "Moonlight is white with the clouds; the sound of pines carries the chill of dew.",
           "AlternateTargets": [
-            "The moon is white among clouds, and pine sounds carry the chill of dew."
+            "Moonlight and clouds are white; the pines sound cold with dew."
           ],
           "SearchAliases": [
             "moon white with clouds pine sound cold dew",
@@ -570888,32 +570884,15 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "Yunju You's four-line verse begins with moonlight and pine sound. Wuyi explicitly quotes it and explains each line. In Baichi's winter-solstice exchange, an unnamed monk offers the pair and Baichi rejects it as not yet matching the tune. Guxue uses the pair to answer a question about the formless true person. Huanglong repeats the verse and then turns to clouds, waves, and a staff gesture. The imagery functions as a test of recognition, not a scenic description alone.",
+          "Note": "The full verse is explicitly named as Yunju You's in Wuyi's record. Huanglong's local text does not repeat that name. A separate monk's use is rejected by Baichi, while Guxue actively applies the lines; these voices remain distinct.",
           "Occurrences": [
             {
               "RelPath": "J/J27/J27nB197.xml",
               "FromLb": "0408c20",
               "ToLb": "0409b09",
               "Kwic": "頭，因甚是末後句？」復笑云：「金背黃牛眠綠草，銀蹄黑犬吠青天。」上堂。「心本是佛，智本是道，認奴作郎，終成不肖。東寺要索鎮海珠，仰山傾出一栲栳，釋迦、彌勒為渠忙，帶累博山渾落草。不落草，萬里山河明杲杲，西湖水浸碧琉璃，南海波斯無處討。諸昆仲！當此時也，秋日微微，秋菊離離，秋雁南飛，秋猿夜啼。古所謂：欲知佛法，當觀時節因緣。今時節至矣，作麼生是本成佛的心？」以手約云：「看看，傍觀者哂，當局者迷。參。」上堂。「昨日是重陽，今朝不見九，惟有破落僧，面南看北斗。懶烹石女茶，酷愛曹山酒，棒打石頭人，不落瞿曇後。諸昆仲！通玄一脈，智者知疏，不動金鞭，白牛迥野。擬向溪東牧，不免食他國王水草，渾家不著孝，撲碎玉琉璃；擬向溪西牧，不免食他國王水草，罷拈金彈子，大地沒閑人。不如隨分納些些，秋風多帶殺，秋露逼人寒。諸昆仲！更須知：人牛不見，海湛空澄，涓滴非聲，千山不露。恁麼時節，轉位就機一句作麼生道？堪笑陶彭澤，無錢對菊花。」上堂。「雲居祐禪師云：『月色和雲白，松聲帶露寒，好個真消息，憑君仔細看。』諸昆仲！此四句偈，如啞子作通事，分明舉似於人，秪要披襟領荷。博山今年到寶林寺，恰恰應這個時節，不免註解一遍，與大眾結個出世大因緣也。『月色和雲白』，人居翠蓋東，更求親切句，欸乃月明中。『松聲帶露寒』，冷落絕躋攀，渾身赤骨歷，坐破蘚苔斑。『好個真消息』，全歸顧盻中，夜深人盡曉，清碧許誰同？『憑君仔細看』，當下骨毛寒，攜笻深嶂裏，趺坐聽綿蠻。諸昆仲！且道：博山註解還徹古人意否？一聲鐵笛歸來晚，笑展家風爛熳看。」上堂。「說一個禪字，好與三十棒，杖頭有眼明如日；說一箇法字，好與三十棒，優缽無根滿樹花；說一個佛字，好與三十棒，分付老盧高著眼；說一個僧字，好與三十棒，莫教流落在天涯。過得瀟湘渡口，便知清白人家，管甚煙雲埋沒？從教黑豆生芽。翻思昔日雲門老，卸卻鐵枷真個好，一棒打殺貴太平，免使兒孫落荒草。諸昆仲！開眼說夢，醒亦是迷，白酒青鹽，我乃是誰？寒冰烈火，痛下針錐，今古幾多伶俐漢，分明辜負一雙眉。」復笑云：「博山罪過。」上堂。「我有一句子，當下絕羅籠，遇險收雙足，登山跨遠峰。雲凝天欲曉，雷震鳥潛蹤，瑞草和根拔，曇花徹蒂紅。三玄稱絕唱，九帶應奇逢，淡淡澄江漢，啾啾較蠛蠓。不吐南山霧，何妨八面風？兔角情方瞥，龜",
-              "MasterName": null,
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "ActorLabel": "Yunju You",
-                "ActorRole": "utterer",
-                "Evidence": "J27nB197 explicitly introduces the complete verse as Yunju You's words before Wuyi's exposition.",
-                "GrammarEvidence": "J27nB197 explicitly introduces the complete verse as Yunju You's words before Wuyi's exposition.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "Sol source-first author",
-                "ReviewedUtc": "2026-10-29T12:00:00Z",
-                "AuthoredVoiceRiskReviewed": true
-              },
+              "MasterName": "Yunju Yuanyou",
+              "ActorAttribution": null,
               "Curated": true,
               "ContextMasters": [
                 {
@@ -570922,9 +570901,15 @@
                     "commentator",
                     "record-owner"
                   ]
+                },
+                {
+                  "MasterName": "Yunju Yuanyou",
+                  "Roles": [
+                    "utterer"
+                  ]
                 }
               ],
-              "AttributionNote": "Source record (J/J27/J27nB197.xml). Recorded sayings. Wuyi quotes Yunju You's complete four-line verse and supplies a line-by-line exposition of the moon and pine pair."
+              "AttributionNote": "Source record (J/J27/J27nB197.xml). Essentials of the Recorded Sayings of Master Wu Yi of Boshan. Wuyi explicitly raises Yunju You's four-line verse: the moonlight and pine-sound couplet, followed by 'What a true message; look carefully.' He compares its direct presentation to a mute serving as interpreter and says his visit to Baolin suits this season. He then responds separately to each line, with images of dwelling under green cover, the bright moon, cold that leaves no foothold, looking back, and sitting deep in the mountains listening. At the end he asks whether his commentary reaches the old master's meaning, and answers with a late-returning iron flute and an openly displayed household style. The first complete verse is Yunju's; the elaborations and final question are Wuyi's. Yunju You, the name printed in Wuyi's attribution, is another recorded name of Yunju Yuanyou. He is distinct from Huanglong."
             },
             {
               "RelPath": "J/J28/J28nB202.xml",
@@ -570936,8 +570921,8 @@
                 "Status": "reviewed-unnamed",
                 "ActorLabel": "unnamed monk",
                 "ActorRole": "utterer",
-                "Evidence": "J28nB202 labels the exact pair ?? in direct response to Baichi; his personal name is absent.",
-                "GrammarEvidence": "J28nB202 labels the exact pair ?? in direct response to Baichi; his personal name is absent.",
+                "Evidence": "The monk’s reply to Baichi’s question about joining the spring melody contains the exact couplet. Baichi’s next marked turn says he is not yet a knowing companion; the monk remains standing and is told to withdraw. The source supplies no personal name for this monk.",
+                "GrammarEvidence": "The monk’s reply to Baichi’s question about joining the spring melody contains the exact couplet. Baichi’s next marked turn says he is not yet a knowing companion; the monk remains standing and is told to withdraw. The source supplies no personal name for this monk.",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -570960,7 +570945,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded sayings. A source-unnamed monk answers Baichi's winter solstice challenge by voicing the pair; Baichi says it is not yet the right tune."
+              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. At a winter-solstice address, Baichi raises his whisk and asks an approaching monk whether he can join the rare melody of a single thread of spring. The monk gives the headword. Baichi says he is not yet a knowing companion; when the monk remains standing, he tells him to withdraw. A subsequent question about winter receives a plum-blossom answer, and Baichi's address later raises Zhaozhou's instruction to wash the bowl. The couplet is the unnamed monk's response, not Baichi's own approved explanation of the season. The rebuke is part of the retained exchange and prevents treating the lovely scene as sufficient recognition."
             },
             {
               "RelPath": "J/J28/J28nB208.xml",
@@ -570979,32 +570964,15 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded sayings. Guxue voices the pair as his own answer to a question about the formless true person."
+              "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue opens an address during confinement for retreat by saying the person without rank sweats despite having no form. He asks why, then gives the couplet. He next raises Linji's encounter in which the monk is seized when asking about that person, and adds Changsha's verse on the sameness of all things. Guxue says the two elders exert their full force but people still misread them; striking his staff, he contributes his own image of a tiger biting a tiger and a mud snake swallowing a venomous snake. The couplet is Guxue's present application before the old cases, not part of Linji's quoted speech or a statement that the formless person lacks bodily activity."
             },
             {
               "RelPath": "X/X68/X68n1318.xml",
               "FromLb": "0357b07",
               "ToLb": "0358a09",
               "Kwic": "泉歸宗麻谷禮拜國師南泉歸宗，麻谷禮拜國師三人同行，必有我師。擇其善者而從之，其不善者而改之。玄沙三種病人玄沙三種病人一二三，見聞覺。更是誰，頓消爍。花簇簇處鷓鴣啼，草薰薰時鴛鴦飛。玄沙老，玄沙老，賴過當年欠一著。諦當之言徒唯然，中間樹子半零落。靈雲桃花靈雲桃花子路當時問要津，滔滔天下丈夫人。相逢相見若如此，更有春風春又春。禾山打鼓禾山打鼓解打鼓，幾打鼓，四打鼓，打破鼓，天界地界莫莽鹵。分明記取好參詳，李陵曾入番人戶。寄書來報漢朝臣，黃沙漫漫無由住。黃龍南禪師語嗣慈明黃龍南禪師語嗣慈明語要上堂：僧堂覰破看積廚，鴟𩾲咬殺佛殿脊。明明向道尚乃不會，豈況盖覆將來？擊禪牀，下座。智海無性，因覺妄以成凡。覺妄元虗，即凡心而見佛。只麼休去，便道同安無折合。隨汝顛倒所欲，南斗七，北斗八。青蘿寅緣，直上寒松之頂；白雲淡泞，出沒太虗之中。萬法本閑，唯人自鬧。閙箇什麼？咄！順捋虎鬚應自顧，倒拈蝎尾任他猜，胡來漢現尋常事，勿將明鏡掛高臺。擊禪牀，下座。月色和雲白，松聲帶露寒。好箇真消息，憑君子細看。紫霄峯頂，黑雲靉靆。鄱陽湖裏，白浪滔天。一氣無作而作，萬法不然而然。更若思量擬議，迢迢十萬八千。拈拄杖，云：橫拈倒用，撥開彌勒眼睛；暗去明來，敲落祖師鼻孔。當是時也，目連鵞子飲氣吞聲，臨濟、德山呵呵大笑。且道笑箇什麼？喝一喝。千般說，萬般諭，只要教君早回去。去何處？良久，云：夜來風起滿庭香，吹落桃花三五樹。說妙談玄，乃太平之姦賊。行棒行喝，為亂世之英雄。英雄姦賊，棒喝玄妙，皆是長物，黃栢門下總用不著。且道黃栢門下尋常用箇什麼？喝一喝。人人盡握靈蛇之珠，箇箇自抱荊山之璞，不自回光返照，懷寶迷󳬛不見道。應耳時，若空谷，大小音聲無不足。應眼時，如千日，萬像不能逃影質。擬議若從聲色求，達磨西來也大屈。古人看此月，今人看此月。如何古人心，難向今人說。古人求道內求心，求得心空道自親。今人求道外求聲，尋聲逐色轉勞神。勞神復勞神，顛倒何紛紛。擊禪牀，下座。世間有五種不易：一、化者不易；二、施者不易；三、變生為熟者不易；四、端坐喫者不易。更有一種不易是什麼人？良久，云：聻。便下座。時真點胷作首座，藏主問云：適來和尚道：第五種不易是什麼人？首座云：腦後見腮，莫與往來。示眾。身口意清淨，是名佛出世。身口意不清淨，是名佛滅",
-              "MasterName": null,
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "ActorLabel": "Yunju You",
-                "ActorRole": "utterer",
-                "Evidence": "X68n1318 gives all four lines of the Yunju You verse before Huanglong adds his own counterimages; J27nB197 names Yunju as the original author.",
-                "GrammarEvidence": "The exact pair is within the complete older four-line verse, followed by Huanglong's new comment and staff gesture.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "Sol source-first author",
-                "ReviewedUtc": "2026-10-29T12:00:00Z",
-                "AuthoredVoiceRiskReviewed": true
-              },
+              "MasterName": "Yunju Yuanyou",
+              "ActorAttribution": null,
               "Curated": true,
               "ContextMasters": [
                 {
@@ -571013,9 +570981,15 @@
                     "commentator",
                     "record-owner"
                   ]
+                },
+                {
+                  "MasterName": "Yunju Yuanyou",
+                  "Roles": [
+                    "utterer"
+                  ]
                 }
               ],
-              "AttributionNote": "Source record (X/X68/X68n1318.xml). Recorded sayings. Huanglong opens a sermon with Yunju's four-line verse and then develops his own counterimage and staff demonstration."
+              "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. In the Huanglong selection, the complete four-line verse appears before images of dark clouds over Zixiao peak and white waves rising in Poyang Lake. Huanglong then speaks of uncontrived activity and warns that calculation puts one a vast distance away. Taking up his staff, he describes disruptive use against Maitreya's eyes and the patriarch's nose, and asks why Linji and Deshan laugh before shouting. This local window does not name Yunju as the earlier verse's author; that attribution rests on Wuyi's explicit named parallel. The opening inherited verse must remain separate from Huanglong's counterimages, staff gesture, and concluding question. Yunju You, the name printed in Wuyi's attribution, is another recorded name of Yunju Yuanyou. He is distinct from Huanglong."
             }
           ],
           "ClaimAnchors": [
@@ -571024,25 +570998,8 @@
               "FromLb": "0408c20",
               "ToLb": "0409b09",
               "Kwic": "頭，因甚是末後句？」復笑云：「金背黃牛眠綠草，銀蹄黑犬吠青天。」上堂。「心本是佛，智本是道，認奴作郎，終成不肖。東寺要索鎮海珠，仰山傾出一栲栳，釋迦、彌勒為渠忙，帶累博山渾落草。不落草，萬里山河明杲杲，西湖水浸碧琉璃，南海波斯無處討。諸昆仲！當此時也，秋日微微，秋菊離離，秋雁南飛，秋猿夜啼。古所謂：欲知佛法，當觀時節因緣。今時節至矣，作麼生是本成佛的心？」以手約云：「看看，傍觀者哂，當局者迷。參。」上堂。「昨日是重陽，今朝不見九，惟有破落僧，面南看北斗。懶烹石女茶，酷愛曹山酒，棒打石頭人，不落瞿曇後。諸昆仲！通玄一脈，智者知疏，不動金鞭，白牛迥野。擬向溪東牧，不免食他國王水草，渾家不著孝，撲碎玉琉璃；擬向溪西牧，不免食他國王水草，罷拈金彈子，大地沒閑人。不如隨分納些些，秋風多帶殺，秋露逼人寒。諸昆仲！更須知：人牛不見，海湛空澄，涓滴非聲，千山不露。恁麼時節，轉位就機一句作麼生道？堪笑陶彭澤，無錢對菊花。」上堂。「雲居祐禪師云：『月色和雲白，松聲帶露寒，好個真消息，憑君仔細看。』諸昆仲！此四句偈，如啞子作通事，分明舉似於人，秪要披襟領荷。博山今年到寶林寺，恰恰應這個時節，不免註解一遍，與大眾結個出世大因緣也。『月色和雲白』，人居翠蓋東，更求親切句，欸乃月明中。『松聲帶露寒』，冷落絕躋攀，渾身赤骨歷，坐破蘚苔斑。『好個真消息』，全歸顧盻中，夜深人盡曉，清碧許誰同？『憑君仔細看』，當下骨毛寒，攜笻深嶂裏，趺坐聽綿蠻。諸昆仲！且道：博山註解還徹古人意否？一聲鐵笛歸來晚，笑展家風爛熳看。」上堂。「說一個禪字，好與三十棒，杖頭有眼明如日；說一箇法字，好與三十棒，優缽無根滿樹花；說一個佛字，好與三十棒，分付老盧高著眼；說一個僧字，好與三十棒，莫教流落在天涯。過得瀟湘渡口，便知清白人家，管甚煙雲埋沒？從教黑豆生芽。翻思昔日雲門老，卸卻鐵枷真個好，一棒打殺貴太平，免使兒孫落荒草。諸昆仲！開眼說夢，醒亦是迷，白酒青鹽，我乃是誰？寒冰烈火，痛下針錐，今古幾多伶俐漢，分明辜負一雙眉。」復笑云：「博山罪過。」上堂。「我有一句子，當下絕羅籠，遇險收雙足，登山跨遠峰。雲凝天欲曉，雷震鳥潛蹤，瑞草和根拔，曇花徹蒂紅。三玄稱絕唱，九帶應奇逢，淡淡澄江漢，啾啾較蠛蠓。不吐南山霧，何妨八面風？兔角情方瞥，龜",
-              "MasterName": null,
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "ActorLabel": "Yunju You",
-                "ActorRole": "utterer",
-                "Evidence": "J27nB197 explicitly introduces the complete verse as Yunju You's words before Wuyi's exposition.",
-                "GrammarEvidence": "J27nB197 explicitly introduces the complete verse as Yunju You's words before Wuyi's exposition.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "Sol source-first author",
-                "ReviewedUtc": "2026-10-29T12:00:00Z",
-                "AuthoredVoiceRiskReviewed": true
-              },
+              "MasterName": "Yunju Yuanyou",
+              "ActorAttribution": null,
               "Curated": true,
               "ContextMasters": [
                 {
@@ -571051,9 +571008,15 @@
                     "commentator",
                     "record-owner"
                   ]
+                },
+                {
+                  "MasterName": "Yunju Yuanyou",
+                  "Roles": [
+                    "utterer"
+                  ]
                 }
               ],
-              "AttributionNote": "Source record (J/J27/J27nB197.xml). Recorded sayings. Wuyi quotes Yunju You's complete four-line verse and supplies a line-by-line exposition of the moon and pine pair.",
+              "AttributionNote": "Source record (J/J27/J27nB197.xml). Essentials of the Recorded Sayings of Master Wu Yi of Boshan. Wuyi explicitly raises Yunju You's four-line verse: the moonlight and pine-sound couplet, followed by 'What a true message; look carefully.' He compares its direct presentation to a mute serving as interpreter and says his visit to Baolin suits this season. He then responds separately to each line, with images of dwelling under green cover, the bright moon, cold that leaves no foothold, looking back, and sitting deep in the mountains listening. At the end he asks whether his commentary reaches the old master's meaning, and answers with a late-returning iron flute and an openly displayed household style. The first complete verse is Yunju's; the elaborations and final question are Wuyi's. Yunju You, the name printed in Wuyi's attribution, is another recorded name of Yunju Yuanyou. He is distinct from Huanglong.",
               "ClaimText": "月色和雲白，松聲帶露寒"
             },
             {
@@ -571066,8 +571029,8 @@
                 "Status": "reviewed-unnamed",
                 "ActorLabel": "unnamed monk",
                 "ActorRole": "utterer",
-                "Evidence": "J28nB202 labels the exact pair ?? in direct response to Baichi; his personal name is absent.",
-                "GrammarEvidence": "J28nB202 labels the exact pair ?? in direct response to Baichi; his personal name is absent.",
+                "Evidence": "The monk’s reply to Baichi’s question about joining the spring melody contains the exact couplet. Baichi’s next marked turn says he is not yet a knowing companion; the monk remains standing and is told to withdraw. The source supplies no personal name for this monk.",
+                "GrammarEvidence": "The monk’s reply to Baichi’s question about joining the spring melody contains the exact couplet. Baichi’s next marked turn says he is not yet a knowing companion; the monk remains standing and is told to withdraw. The source supplies no personal name for this monk.",
                 "RungsChecked": [
                   "line",
                   "expanded-context",
@@ -571090,7 +571053,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded sayings. A source-unnamed monk answers Baichi's winter solstice challenge by voicing the pair; Baichi says it is not yet the right tune.",
+              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. At a winter-solstice address, Baichi raises his whisk and asks an approaching monk whether he can join the rare melody of a single thread of spring. The monk gives the headword. Baichi says he is not yet a knowing companion; when the monk remains standing, he tells him to withdraw. A subsequent question about winter receives a plum-blossom answer, and Baichi's address later raises Zhaozhou's instruction to wash the bowl. The couplet is the unnamed monk's response, not Baichi's own approved explanation of the season. The rebuke is part of the retained exchange and prevents treating the lovely scene as sufficient recognition.",
               "ClaimText": "月色和雲白，松聲帶露寒"
             },
             {
@@ -571110,7 +571073,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded sayings. Guxue voices the pair as his own answer to a question about the formless true person.",
+              "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue opens an address during confinement for retreat by saying the person without rank sweats despite having no form. He asks why, then gives the couplet. He next raises Linji's encounter in which the monk is seized when asking about that person, and adds Changsha's verse on the sameness of all things. Guxue says the two elders exert their full force but people still misread them; striking his staff, he contributes his own image of a tiger biting a tiger and a mud snake swallowing a venomous snake. The couplet is Guxue's present application before the old cases, not part of Linji's quoted speech or a statement that the formless person lacks bodily activity.",
               "ClaimText": "月色和雲白，松聲帶露寒"
             },
             {
@@ -571118,25 +571081,8 @@
               "FromLb": "0357b07",
               "ToLb": "0358a09",
               "Kwic": "泉歸宗麻谷禮拜國師南泉歸宗，麻谷禮拜國師三人同行，必有我師。擇其善者而從之，其不善者而改之。玄沙三種病人玄沙三種病人一二三，見聞覺。更是誰，頓消爍。花簇簇處鷓鴣啼，草薰薰時鴛鴦飛。玄沙老，玄沙老，賴過當年欠一著。諦當之言徒唯然，中間樹子半零落。靈雲桃花靈雲桃花子路當時問要津，滔滔天下丈夫人。相逢相見若如此，更有春風春又春。禾山打鼓禾山打鼓解打鼓，幾打鼓，四打鼓，打破鼓，天界地界莫莽鹵。分明記取好參詳，李陵曾入番人戶。寄書來報漢朝臣，黃沙漫漫無由住。黃龍南禪師語嗣慈明黃龍南禪師語嗣慈明語要上堂：僧堂覰破看積廚，鴟𩾲咬殺佛殿脊。明明向道尚乃不會，豈況盖覆將來？擊禪牀，下座。智海無性，因覺妄以成凡。覺妄元虗，即凡心而見佛。只麼休去，便道同安無折合。隨汝顛倒所欲，南斗七，北斗八。青蘿寅緣，直上寒松之頂；白雲淡泞，出沒太虗之中。萬法本閑，唯人自鬧。閙箇什麼？咄！順捋虎鬚應自顧，倒拈蝎尾任他猜，胡來漢現尋常事，勿將明鏡掛高臺。擊禪牀，下座。月色和雲白，松聲帶露寒。好箇真消息，憑君子細看。紫霄峯頂，黑雲靉靆。鄱陽湖裏，白浪滔天。一氣無作而作，萬法不然而然。更若思量擬議，迢迢十萬八千。拈拄杖，云：橫拈倒用，撥開彌勒眼睛；暗去明來，敲落祖師鼻孔。當是時也，目連鵞子飲氣吞聲，臨濟、德山呵呵大笑。且道笑箇什麼？喝一喝。千般說，萬般諭，只要教君早回去。去何處？良久，云：夜來風起滿庭香，吹落桃花三五樹。說妙談玄，乃太平之姦賊。行棒行喝，為亂世之英雄。英雄姦賊，棒喝玄妙，皆是長物，黃栢門下總用不著。且道黃栢門下尋常用箇什麼？喝一喝。人人盡握靈蛇之珠，箇箇自抱荊山之璞，不自回光返照，懷寶迷󳬛不見道。應耳時，若空谷，大小音聲無不足。應眼時，如千日，萬像不能逃影質。擬議若從聲色求，達磨西來也大屈。古人看此月，今人看此月。如何古人心，難向今人說。古人求道內求心，求得心空道自親。今人求道外求聲，尋聲逐色轉勞神。勞神復勞神，顛倒何紛紛。擊禪牀，下座。世間有五種不易：一、化者不易；二、施者不易；三、變生為熟者不易；四、端坐喫者不易。更有一種不易是什麼人？良久，云：聻。便下座。時真點胷作首座，藏主問云：適來和尚道：第五種不易是什麼人？首座云：腦後見腮，莫與往來。示眾。身口意清淨，是名佛出世。身口意不清淨，是名佛滅",
-              "MasterName": null,
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "ActorLabel": "Yunju You",
-                "ActorRole": "utterer",
-                "Evidence": "X68n1318 gives all four lines of the Yunju You verse before Huanglong adds his own counterimages; J27nB197 names Yunju as the original author.",
-                "GrammarEvidence": "The exact pair is within the complete older four-line verse, followed by Huanglong's new comment and staff gesture.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "Sol source-first author",
-                "ReviewedUtc": "2026-10-29T12:00:00Z",
-                "AuthoredVoiceRiskReviewed": true
-              },
+              "MasterName": "Yunju Yuanyou",
+              "ActorAttribution": null,
               "Curated": true,
               "ContextMasters": [
                 {
@@ -571145,9 +571091,15 @@
                     "commentator",
                     "record-owner"
                   ]
+                },
+                {
+                  "MasterName": "Yunju Yuanyou",
+                  "Roles": [
+                    "utterer"
+                  ]
                 }
               ],
-              "AttributionNote": "Source record (X/X68/X68n1318.xml). Recorded sayings. Huanglong opens a sermon with Yunju's four-line verse and then develops his own counterimage and staff demonstration.",
+              "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. In the Huanglong selection, the complete four-line verse appears before images of dark clouds over Zixiao peak and white waves rising in Poyang Lake. Huanglong then speaks of uncontrived activity and warns that calculation puts one a vast distance away. Taking up his staff, he describes disruptive use against Maitreya's eyes and the patriarch's nose, and asks why Linji and Deshan laugh before shouting. This local window does not name Yunju as the earlier verse's author; that attribution rests on Wuyi's explicit named parallel. The opening inherited verse must remain separate from Huanglong's counterimages, staff gesture, and concluding question. Yunju You, the name printed in Wuyi's attribution, is another recorded name of Yunju Yuanyou. He is distinct from Huanglong.",
               "ClaimText": "月色和雲白，松聲帶露寒"
             }
           ],
@@ -571161,10 +571113,11 @@
             "Wuyi Yuanlai",
             "Baichi Xingyuan",
             "Guxue Zhenzhe",
-            "Huanglong Huinan"
+            "Huanglong Huinan",
+            "Yunju Yuanyou"
           ],
           "RelatedTerms": [],
-          "Explanation": "The paired images put white moonlight beside cloud and cold pine sound beside dew. Wuyi expounds the older verse; Baichi tests a monk who offers the pair as his answer. Guxue uses the line to answer a question, while Huanglong follows the verse with new images and a staff gesture."
+          "Explanation": "Moonlight shares the clouds' whiteness, while pine sounds carry the cold of dew. The sensory images are the opening of a four-line verse that calls them a true message and asks the hearer to look carefully. Wuyi explicitly attributes that verse to Yunju You, another recorded name of Yunju Yuanyou, then gives his own extended line-by-line response. In the Huanglong selection the same complete verse is not locally named; its earlier attribution therefore depends on Wuyi's named parallel, while the dark clouds, towering waves, and staff action that follow belong to Huanglong. Elsewhere a monk offers the couplet to Baichi and is told he is not yet a knowing companion; Guxue uses it in his own question about how the formless person without rank sweats. The notes preserve those different uses. A vivid description of cold or clarity is not automatically a successful answer, and the scene should not be turned into a fixed code for an unseen object."
         }
       ]
     },
@@ -598816,7 +598769,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "East and west extend to a hundred thousand; north and south to eight thousand. The numbers give a sweeping, deliberately uneven span rather than a map. Sanyi sets the line amid impossible images in a hall sermon. Yi'an, Qizong, Shipu, Yuan'an, and Dounan use it to answer sharply focused questions; Minshu voices it on entering a monastery gate. Each use shifts a narrow location or measure into an expansive field while leaving the listener with the immediate exchange.",
+          "Note": "The source gives no unit for these large numbers. They occur in distinct current replies, ceremonial arrivals, and addresses. Qizong repeats the formula in two different roles within one retained window; both uses are explained.",
           "Occurrences": [
             {
               "RelPath": "J/J27/J27nB189.xml",
@@ -598835,7 +598788,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded sayings. Sanyi raises the whisk in a current hall sermon and voices the pair himself."
+              "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi raises his whisk and says that, with no other choice, he is treating a dead horse. He gives the paired dimensions, then overturns the expected scale with Mount Sumeru planted upside down, the four seas displaced, cooking at the top of a monastery pole, and three monkeys tossing coins at night. The headword is part of Sanyi's own brief address, not an itinerary or a monk's question. Its wide span is immediately put into a sequence of impossible images; the source offers no conversion of the numbers into a measurable distance. The next address begins with wind and sudden rain."
             },
             {
               "RelPath": "J/J37/J37nB394.xml",
@@ -598854,7 +598807,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J37/J37nB394.xml). Recorded sayings. Yi'an answers a monk's question about the morning star with the pair."
+              "AttributionNote": "Source record (J/J37/J37nB394.xml). Recorded Sayings of Chan Master Yi’an. On the Buddha's awakening day, a monk asks Yi'an to account for the morning star piercing the eye. Yi'an answers with the headword. The monk concludes that saving beings is already finished, but Yi'an continues by speaking of grasping the true and of forms remaining clearly present; later he asks how such displays are understood in their substance. He raises his whisk and depicts Shakyamuni's radiance, then drops it and ends with an eye-film producing a shower of imaginary flowers. The paired numbers are Yi'an's first answer in this exchange, not a reported measurement of the star or automatic confirmation of the monk's conclusion."
             },
             {
               "RelPath": "J/J39/J39nB464.xml",
@@ -598873,7 +598826,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J39/J39nB464.xml). Recorded sayings. Qizong answers the direct question about Jinshan's age with the pair."
+              "AttributionNote": "Source record (J/J39/J39nB464.xml). Recorded Sayings of Chan Master Qizongzhen (Huayan). At Qizong's opening address, a monk asks Jinshan's age in the context of heaven and earth sharing a root. Qizong answers with the numbers. Asked his own age, he says it is no different from Jinshan's; the monk supplies a moon-and-sky couplet and is warned not to misunderstand, then receives a blow whose status as reward or punishment is itself questioned. In his ensuing address Qizong repeats the headword after saying that the assembly may understand; if they do not, he offers the same moon-and-sky couplet as a footnote. Thus the first use is an answer about age and the second belongs to his current instruction. Neither is a literal age calculation."
             },
             {
               "RelPath": "J/J36/J36nB365.xml",
@@ -598892,7 +598845,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J36/J36nB365.xml). Recorded sayings. Shipu gives the pair as his direct answer about the two teaching lineages."
+              "AttributionNote": "Source record (J/J36/J36nB365.xml). Recorded Sayings of Chan Master Shipuzhi. At the completion of precept conferral on the Buddha's awakening day, a monk asks Shipu: if the Buddha never spoke one word in forty-nine years, from where do Chan and precepts arise? Shipu answers with the headword. The monk responds with one flower opening five petals and fruit naturally ripening; Shipu says the monk has voiced it. Further questions examine the morning star and awakening from other angles before Shipu's address criticizes easy accounts of seeing the star. The numbers are his reply to the question about the two traditions' origin, not a chronology of forty-nine years or a claim about their geographical separation."
             },
             {
               "RelPath": "J/J37/J37nB386.xml",
@@ -598911,7 +598864,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded sayings. Yuan'an answers the monk's question on mind and consciousness with the pair."
+              "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. At the commemoration of Tiantong Miyun, a monk asks Yuan'an how one can act apart from mind, intention, and consciousness if the three worlds are mind's work. Yuan'an answers with the headword. Asked whether it is mind or not mind, he allows the questioner to go on with divination. His address then questions attempts to identify the ancestor through grand comparisons, gestures, or doctrinal alternatives, before returning to the descendants' present offering of incense and food. The paired dimensions are a current answer within that challenge, not an anatomical or geographical account of mind. The commemorated teacher is a different speaker layer from Yuan'an."
             },
             {
               "RelPath": "J/J39/J39nB450.xml",
@@ -598930,7 +598883,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J39/J39nB450.xml). Recorded sayings. Minshu voices the pair on arriving at the monastery gate."
+              "AttributionNote": "Source record (J/J39/J39nB450.xml). Recorded Sayings of Chan Master Minshu. At Minshu's arrival at Baizhang monastery, the record places the headword in his statement at the mountain gate. He follows it by saying that his coming here involves no petty complication. Pointing his staff at the gate, he says every gate has a road to the capital and every place is a teaching banner, then enters. The Buddha-hall statements, taking the abbot's room, ascent to the seat, and incense offerings come afterward as separately marked ceremonial acts. The headword is Minshu's arrival formula, with its broad directions brought immediately into the present gate; it does not give the route or mileage of his journey."
             },
             {
               "RelPath": "J/J40/J40nB488.xml",
@@ -598949,7 +598902,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J40/J40nB488.xml). Recorded sayings. Dounan answers his interlocutor's challenge about true news with the pair."
+              "AttributionNote": "Source record (J/J40/J40nB488.xml). Recorded Sayings of Chan Master Dounan Wei. In Dounan's remembered visit to Xuedou, Hongyuan asks where he has come from and tests him with questions about the stone bridge and a true message. Dounan lowers his head to drink tea. Hongyuan then asks about a cup falling and a saucer breaking into seven pieces; Dounan replies with the paired dimensions. The record next recounts a later incident while Dounan serves as tea steward, including a shout, a blow, and a question about reward and punishment. The headword is Dounan's answer to Hongyuan in the first tea encounter, not Hongyuan's own pronouncement or part of that later incident."
             }
           ],
           "ClaimAnchors": [
@@ -598970,7 +598923,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded sayings. Sanyi raises the whisk in a current hall sermon and voices the pair himself.",
+              "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi raises his whisk and says that, with no other choice, he is treating a dead horse. He gives the paired dimensions, then overturns the expected scale with Mount Sumeru planted upside down, the four seas displaced, cooking at the top of a monastery pole, and three monkeys tossing coins at night. The headword is part of Sanyi's own brief address, not an itinerary or a monk's question. Its wide span is immediately put into a sequence of impossible images; the source offers no conversion of the numbers into a measurable distance. The next address begins with wind and sudden rain.",
               "ClaimText": "東西十萬，南北八千"
             },
             {
@@ -598990,7 +598943,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J37/J37nB394.xml). Recorded sayings. Yi'an answers a monk's question about the morning star with the pair.",
+              "AttributionNote": "Source record (J/J37/J37nB394.xml). Recorded Sayings of Chan Master Yi’an. On the Buddha's awakening day, a monk asks Yi'an to account for the morning star piercing the eye. Yi'an answers with the headword. The monk concludes that saving beings is already finished, but Yi'an continues by speaking of grasping the true and of forms remaining clearly present; later he asks how such displays are understood in their substance. He raises his whisk and depicts Shakyamuni's radiance, then drops it and ends with an eye-film producing a shower of imaginary flowers. The paired numbers are Yi'an's first answer in this exchange, not a reported measurement of the star or automatic confirmation of the monk's conclusion.",
               "ClaimText": "東西十萬，南北八千"
             },
             {
@@ -599010,7 +598963,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J39/J39nB464.xml). Recorded sayings. Qizong answers the direct question about Jinshan's age with the pair.",
+              "AttributionNote": "Source record (J/J39/J39nB464.xml). Recorded Sayings of Chan Master Qizongzhen (Huayan). At Qizong's opening address, a monk asks Jinshan's age in the context of heaven and earth sharing a root. Qizong answers with the numbers. Asked his own age, he says it is no different from Jinshan's; the monk supplies a moon-and-sky couplet and is warned not to misunderstand, then receives a blow whose status as reward or punishment is itself questioned. In his ensuing address Qizong repeats the headword after saying that the assembly may understand; if they do not, he offers the same moon-and-sky couplet as a footnote. Thus the first use is an answer about age and the second belongs to his current instruction. Neither is a literal age calculation.",
               "ClaimText": "東西十萬，南北八千"
             },
             {
@@ -599030,7 +598983,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J36/J36nB365.xml). Recorded sayings. Shipu gives the pair as his direct answer about the two teaching lineages.",
+              "AttributionNote": "Source record (J/J36/J36nB365.xml). Recorded Sayings of Chan Master Shipuzhi. At the completion of precept conferral on the Buddha's awakening day, a monk asks Shipu: if the Buddha never spoke one word in forty-nine years, from where do Chan and precepts arise? Shipu answers with the headword. The monk responds with one flower opening five petals and fruit naturally ripening; Shipu says the monk has voiced it. Further questions examine the morning star and awakening from other angles before Shipu's address criticizes easy accounts of seeing the star. The numbers are his reply to the question about the two traditions' origin, not a chronology of forty-nine years or a claim about their geographical separation.",
               "ClaimText": "東西十萬，南北八千"
             },
             {
@@ -599050,7 +599003,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded sayings. Yuan'an answers the monk's question on mind and consciousness with the pair.",
+              "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. At the commemoration of Tiantong Miyun, a monk asks Yuan'an how one can act apart from mind, intention, and consciousness if the three worlds are mind's work. Yuan'an answers with the headword. Asked whether it is mind or not mind, he allows the questioner to go on with divination. His address then questions attempts to identify the ancestor through grand comparisons, gestures, or doctrinal alternatives, before returning to the descendants' present offering of incense and food. The paired dimensions are a current answer within that challenge, not an anatomical or geographical account of mind. The commemorated teacher is a different speaker layer from Yuan'an.",
               "ClaimText": "東西十萬，南北八千"
             },
             {
@@ -599070,7 +599023,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J39/J39nB450.xml). Recorded sayings. Minshu voices the pair on arriving at the monastery gate.",
+              "AttributionNote": "Source record (J/J39/J39nB450.xml). Recorded Sayings of Chan Master Minshu. At Minshu's arrival at Baizhang monastery, the record places the headword in his statement at the mountain gate. He follows it by saying that his coming here involves no petty complication. Pointing his staff at the gate, he says every gate has a road to the capital and every place is a teaching banner, then enters. The Buddha-hall statements, taking the abbot's room, ascent to the seat, and incense offerings come afterward as separately marked ceremonial acts. The headword is Minshu's arrival formula, with its broad directions brought immediately into the present gate; it does not give the route or mileage of his journey.",
               "ClaimText": "東西十萬，南北八千"
             },
             {
@@ -599090,7 +599043,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J40/J40nB488.xml). Recorded sayings. Dounan answers his interlocutor's challenge about true news with the pair.",
+              "AttributionNote": "Source record (J/J40/J40nB488.xml). Recorded Sayings of Chan Master Dounan Wei. In Dounan's remembered visit to Xuedou, Hongyuan asks where he has come from and tests him with questions about the stone bridge and a true message. Dounan lowers his head to drink tea. Hongyuan then asks about a cup falling and a saucer breaking into seven pieces; Dounan replies with the paired dimensions. The record next recounts a later incident while Dounan serves as tea steward, including a shout, a blow, and a question about reward and punishment. The headword is Dounan's answer to Hongyuan in the first tea encounter, not Hongyuan's own pronouncement or part of that later incident.",
               "ClaimText": "東西十萬，南北八千"
             }
           ],
@@ -599113,7 +599066,7 @@
             "Dounan Wei"
           ],
           "RelatedTerms": [],
-          "Explanation": "The first clause stretches east and west to a hundred thousand. The second extends north and south to eight thousand. Masters deploy the pair as an answer to a bounded question or at a threshold."
+          "Explanation": "A hundred thousand east and west, eight thousand north and south: the paired numbers spread across both axes without specifying a unit or a place to measure. Their local force varies. Sanyi sets them amid impossible inversions after raising his whisk; Yi'an answers a challenge about the Buddha's awakening; Qizong uses them both in a question about Jinshan's age and again in his own address. Shipu applies them to a question about the origins of Chan and precepts, Yuan'an to a question beyond ordinary mind and cognition, and Minshu to arriving at the monastery gate. In Dounan's record they are his reply during a remembered encounter over tea with Xuedou. The notes explain those actual turns rather than treating the numbers as a map or a fixed symbolic quantity. The expression can interrupt a question's expected scale or frame, but each speaker's next words or action determine what is being tested."
         }
       ]
     },
