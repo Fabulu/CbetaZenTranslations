@@ -49457,7 +49457,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "Xuedou says that two thirds of the time have already passed while the bright point of the mind remains unwiped. Qianyan asks whether wiping it is the right task at all. Songyuan credits the force of the verse but objects to where Xuedou rests. Wuzhun answers from his own journey through fire and ruin; Pingshi treats the warning as medicine for a grave illness. Gulin reads its refusal to turn back in relation to buddhas and ancestors, then challenges that reading too. The warning remains alive because none of these teachers lets its image serve as a final method.",
+          "Note": "Xuedou's verse says time is passing while the bright point remains unpolished and the person will not turn back. Qianyan asks whether polishing is even the right task; Songyuan praises Xuedou but objects to where he stops; Wuzhun answers from fire and ruin; Pingshi calls the situation a grave illness; Gulin tests his own reading against a tide. Wuzhun's passage names only an old speaker locally, although parallel records identify Xuedou.",
           "Occurrences": [
             {
               "RelPath": "J/J32/J32nB273.xml",
@@ -49481,7 +49481,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J32/J32nB273.xml). Recorded Sayings of Monk Qianyan. Qianyan cites Xuedou’s full verse and asks whether the spirit terrace should be wiped or left unwiped."
+              "AttributionNote": "Source record (J/J32/J32nB273.xml). Recorded Sayings of Monk Qianyan. Qianyan Yuanzhang recalls Xuedou Chongxian's four-line verse: much of the allotted time has passed, the bright point of the spirit terrace has not been polished, and one goes on day after day without turning back. Qianyan asks his assembly whether that point should be polished or left unpolished. No one answers, so he tells them to return to the hall for tea. Xuedou is the speaker of the quoted verse; Qianyan makes its image a live question rather than offering polishing as a settled method."
             },
             {
               "RelPath": "X/X70/X70n1377.xml",
@@ -49505,14 +49505,14 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X70/X70n1377.xml). Recorded Sayings of Chan Master Songyuan Chongyue. Songyuan cites Xuedou’s verse on dwindling time, praises its force, but faults its resting point and shouts."
+              "AttributionNote": "Source record (X/X70/X70n1377.xml). Recorded Sayings of Chan Master Songyuan Chongyue. In a hall talk, Songyuan Chongyue cites Xuedou Chongxian's verse about spent time, the unpolished bright point, and the person who will not turn back. Songyuan credits Xuedou with the power to turn heaven and earth and cut through iron, yet says the old master should not have sat down at just this point. He ends with a shout. The exact couplet is Xuedou's quoted line; Songyuan's praise, objection, and shout challenge any fixed resting place in the warning."
             },
             {
               "RelPath": "X/X70/X70n1382.xml",
               "FromLb": "0236b04",
               "ToLb": "0236c01",
               "Kwic": "，羣魔俱殄滅。是則是，且道無病之人如何發藥？鄭州梨，青州棗，綿州附，漢州薑，邠州鐵。卓拄杖，下座。入城歸，謝宣賜。上堂：去時萬木含愁色，歸日千峯展笑容。此意此心知有自，一爐香爇散天風。上堂。七月八月，或凉或熱。景色凄清，蟬聲嗚咽。觀音菩薩將錢買胡餅，放下手却是饅頭。拍膝一下，云：韶陽老人得一橛。大內陞座及見施主歸，上堂。逾月走紅塵，生涯隨處新，逢人陪笑面，接物強精神。僥倖遇明主，帡幪感重臣，歸來何以報？卓拄杖一下，云：只此謝堯仁。上堂。三分光陰二早過，靈臺一點不揩磨，貪生逐日區區去，喚不回頭爭奈何？古人併盡氣力，只抓著徑山癢處。山僧自罹劫火，奔走紅塵，歸來瓦礫堆中從事土水，非但業識忙忙，和鼻孔眼睛一時打失了也。如今要作全人，終不可得。然雖如是，家貧願隣富。重陽，上堂。九日重陽節，東籬賞菊花，歌懽公子事，淡薄野僧家。雖然淡薄，不妨別有滋味。且道是什麼滋味？膠膠粘粘黃栗粽，苦苦澁澁茱萸茶。上堂。舉：教中道：彌滿清淨，中不容佗。又道：云何是中更容佗物？驀拈拄杖，云：這箇且不是佗物。卓一下，云：豈不清淨？",
-              "MasterName": "Xuedou Chongxian",
+              "MasterName": null,
               "Curated": true,
               "ContextMasters": [
                 {
@@ -49529,7 +49529,24 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X70/X70n1382.xml). Recorded Sayings of Chan Master Wuzhun Shifan. Wuzhun voices the old verse, says the earlier speaker exhausted his force, then answers from his own losses after a journey through ruin."
+              "AttributionNote": "Source record (X/X70/X70n1382.xml). Recorded Sayings of Chan Master Wuzhun Shifan. Wuzhun Shifan opens a hall talk by reciting the four-line warning that time is passing while the bright point remains unpolished and the person refuses to turn back. He says the old speaker exhausted his strength but only scratched an itch at Jingshan. Wuzhun then turns to his own ordeal: fire and ruin drove him into the world, and on returning he worked among rubble with earth and water, feeling that even his nose and eyes were lost and that he could no longer make a whole person. The local source calls the verse maker only an old person; parallel records identify Xuedou. Wuzhun's present reply uses his loss to test the verse's urgency.",
+              "ActorAttribution": {
+                "Status": "reviewed-unnamed",
+                "Kind": "unnamed earlier quoted verse maker",
+                "ActorLabel": "old speaker named only as an earlier person in Wuzhun source",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "Wuzhun gives the complete verse and then says the old person exhausted his strength, without naming that verse speaker in this local passage. Four separate recorded sources explicitly attribute the same verse to Xuedou; Wuzhun is the present commentator.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "Codex source-first public R10 prose and actor repair",
+                "ReviewedUtc": "2026-10-31T09:03:07.274464Z"
+              }
             },
             {
               "RelPath": "X/X70/X70n1393.xml",
@@ -49553,7 +49570,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X70/X70n1393.xml). Recorded Sayings of Chan Master Pingshi Rudi. Pingshi explicitly cites Xuedou’s verse, likens the condition to a grave illness, and asks listeners to see his own use."
+              "AttributionNote": "Source record (X/X70/X70n1393.xml). Recorded Sayings of Chan Master Pingshi Rudi. Pingshi Rudi explicitly raises Xuedou Chongxian's verse in a hall talk: two parts of the time have passed, the bright point has not been polished, and a person hurrying after life will not turn back. Pingshi calls this a disease lodged deep enough that medicine may no longer help, but says his own way of using the case should still be known to the assembly; he then descends from the seat. Xuedou voices the cited warning, while Pingshi treats it as a severe diagnosis and invites scrutiny of his response rather than prescribing literal polishing."
             },
             {
               "RelPath": "X/X71/X71n1412.xml",
@@ -49577,10 +49594,153 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Gulin cites Xuedou and reads not turning back alongside buddhas and ancestors, then tests that reading against a wave image."
+              "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Gulin Qingmao quotes Xuedou Chongxian's verse about dwindling time, an unpolished bright point, and the person who will not turn back. Gulin says that even this refusal to turn back makes the buddhas of the three times and the six ancestral teachers fellow practitioners. He then faults his own high-sounding reading for still following an old track and answers with a warning: someone who does not know how to ride the tide should not enter the great waves. Xuedou speaks the exact verse; Gulin's present expansion and self-correction test what it means to heed it."
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J32/J32nB273.xml",
+              "FromLb": "0204b17",
+              "ToLb": "0204c08",
+              "Kwic": "「大眾！現成公案。昨日初一，今朝初二。」上堂：「大眾！又是九月半也，生死事大，無常迅速，討甚閑工夫說長腳話？看看，閻羅老子請老僧齋也，諸人各自照管缽盂匙箸好。」喝一喝，下座。上堂：「大眾！佛之一字吾不喜聞，況說出許多閑言長語，教壞人家男女，好與三十棒。何故？蚊虫遭扇打，只為口傷人。久立。」示眾，舉：「僧問趙州：『大地無塵，掃箇甚麼？』州云：『掃外來底。』若是無明，只向他道：『掃裏頭底。』大眾！趙州底是？無明底是？」示眾，舉：「雪竇云：『三分光陰二早過，靈臺一點不揩磨，貪生逐日區區去，喚不迴頭爭奈何？』」師云：「三分光陰即不問，且道靈臺一點是揩磨耶？不揩磨耶？」眾無語，師云：「歸堂喫茶。」示眾，舉：「罽賓國王斬師子尊者頭，王臂自落。雪竇云：『作家君王，天然有在。』黃龍新云：『黃龍要問雪竇：「既是作家君王，因甚臂落？」』大慧云：『孟八郎漢又恁麼去。』」師云：「一人無卻臂，一人無了頭，二俱誇好手，何處不風流？」示眾：「今朝正是三月三，釋迦老子露尊顏，樹上桃花開爛熳，階前紅雨點班斑。」下座。示眾，良久，云",
+              "MasterName": "Xuedou Chongxian",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Xuedou Chongxian",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Qianyan Yuanzhang",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J32/J32nB273.xml). Recorded Sayings of Monk Qianyan. Qianyan Yuanzhang recalls Xuedou Chongxian's four-line verse: much of the allotted time has passed, the bright point of the spirit terrace has not been polished, and one goes on day after day without turning back. Qianyan asks his assembly whether that point should be polished or left unpolished. No one answers, so he tells them to return to the hall for tea. Xuedou is the speaker of the quoted verse; Qianyan makes its image a live question rather than offering polishing as a settled method.",
+              "ClaimText": "三分光陰二早過，靈臺一點不揩磨"
+            },
+            {
+              "RelPath": "X/X70/X70n1377.xml",
+              "FromLb": "0081c16",
+              "ToLb": "0082a13",
+              "Kwic": "任擔板。上堂，拈拄杖橫按，云：一不成，二不是，突出眼睛失却鼻。少林剛自覓安心，瞎驢不受靈山記。上堂，舉：南泉和尚云：王老師自小養得一頭水牯牛，擬向溪東放，不免食他國王水艸；擬向溪西放，不免食他國王水艸。不如隨分納些些，總不見得。師云：王老師傾腸倒腹即不無，未見移風易俗在。山僧只養得一頭驢，一向東倒西𢺢，順時一日，何啻千里萬里？怮時直是一步不肯移。且道：與王老師、水牯牛相去多少？良久，云：漁人舞棹，野老謳歌。上堂，舉：雪竇為道日損，頌云：三分光陰二早過，靈臺一點不揩磨，貪生逐日區區去，喚不回頭爭奈何？回天輪，轉地軸，指南作北，截鐵斬釘，還他雪竇老漢只是不合坐在這裏。喝一喝。上堂：千年田，八百主，郎當屋舍沒人修，不風流處也風流。便恁麼去，達磨一宗掃土而盡。上堂。千說萬說，不若親見，打破漆桶，胡來漢現。有一般漢便恁麼會去，抵死不肯放，正謂靈龜負圖，鳳縈金網。纔被人拶著，緇素不分，瞞瞞頇頇，却道壓良為賤，空過一生。且道如何救得此人？兩手拍膝，云：龍得水時添意氣，虎逢山色長威獰。退院，上堂：生平活計一絲頭，",
+              "MasterName": "Xuedou Chongxian",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Xuedou Chongxian",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Songyuan Chongyue",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X70/X70n1377.xml). Recorded Sayings of Chan Master Songyuan Chongyue. In a hall talk, Songyuan Chongyue cites Xuedou Chongxian's verse about spent time, the unpolished bright point, and the person who will not turn back. Songyuan credits Xuedou with the power to turn heaven and earth and cut through iron, yet says the old master should not have sat down at just this point. He ends with a shout. The exact couplet is Xuedou's quoted line; Songyuan's praise, objection, and shout challenge any fixed resting place in the warning.",
+              "ClaimText": "三分光陰二早過，靈臺一點不揩磨"
+            },
+            {
+              "RelPath": "X/X70/X70n1382.xml",
+              "FromLb": "0236b04",
+              "ToLb": "0236c01",
+              "Kwic": "，羣魔俱殄滅。是則是，且道無病之人如何發藥？鄭州梨，青州棗，綿州附，漢州薑，邠州鐵。卓拄杖，下座。入城歸，謝宣賜。上堂：去時萬木含愁色，歸日千峯展笑容。此意此心知有自，一爐香爇散天風。上堂。七月八月，或凉或熱。景色凄清，蟬聲嗚咽。觀音菩薩將錢買胡餅，放下手却是饅頭。拍膝一下，云：韶陽老人得一橛。大內陞座及見施主歸，上堂。逾月走紅塵，生涯隨處新，逢人陪笑面，接物強精神。僥倖遇明主，帡幪感重臣，歸來何以報？卓拄杖一下，云：只此謝堯仁。上堂。三分光陰二早過，靈臺一點不揩磨，貪生逐日區區去，喚不回頭爭奈何？古人併盡氣力，只抓著徑山癢處。山僧自罹劫火，奔走紅塵，歸來瓦礫堆中從事土水，非但業識忙忙，和鼻孔眼睛一時打失了也。如今要作全人，終不可得。然雖如是，家貧願隣富。重陽，上堂。九日重陽節，東籬賞菊花，歌懽公子事，淡薄野僧家。雖然淡薄，不妨別有滋味。且道是什麼滋味？膠膠粘粘黃栗粽，苦苦澁澁茱萸茶。上堂。舉：教中道：彌滿清淨，中不容佗。又道：云何是中更容佗物？驀拈拄杖，云：這箇且不是佗物。卓一下，云：豈不清淨？",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Xuedou Chongxian",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Wuzhun Shifan",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X70/X70n1382.xml). Recorded Sayings of Chan Master Wuzhun Shifan. Wuzhun Shifan opens a hall talk by reciting the four-line warning that time is passing while the bright point remains unpolished and the person refuses to turn back. He says the old speaker exhausted his strength but only scratched an itch at Jingshan. Wuzhun then turns to his own ordeal: fire and ruin drove him into the world, and on returning he worked among rubble with earth and water, feeling that even his nose and eyes were lost and that he could no longer make a whole person. The local source calls the verse maker only an old person; parallel records identify Xuedou. Wuzhun's present reply uses his loss to test the verse's urgency.",
+              "ActorAttribution": {
+                "Status": "reviewed-unnamed",
+                "Kind": "unnamed earlier quoted verse maker",
+                "ActorLabel": "old speaker named only as an earlier person in Wuzhun source",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "Wuzhun gives the complete verse and then says the old person exhausted his strength, without naming that verse speaker in this local passage. Four separate recorded sources explicitly attribute the same verse to Xuedou; Wuzhun is the present commentator.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "Codex source-first public R10 prose and actor repair",
+                "ReviewedUtc": "2026-10-31T09:03:07.274464Z"
+              },
+              "ClaimText": "三分光陰二早過，靈臺一點不揩磨"
+            },
+            {
+              "RelPath": "X/X70/X70n1393.xml",
+              "FromLb": "0539b07",
+              "ToLb": "0539c05",
+              "Kwic": "須託境依人，人境既以一如，道業自然成辦。山僧九十日已前與汝諸人同一安居，九十日已後與汝諸人同一自恣，行住坐臥、語默動靜與諸人初無絲毫間隔，若是宗乘邊事，未甞蹉口道著。何故？雙峰不曾引人落草。復舉：翠岩參和尚示眾云：一夏與兄弟東語西話，看翠岩眉毛在麼？頌云：翠岩眉毛在不在？山未為高海未深。一曲無絃千古意，相逢誰是好知音？解夏，上堂。鵝護雪，臘人冰，此地無金二兩，俗人沽酒三升。拍禪牀，堪笑暮雲歸未合，遠山無數碧層層。上堂，舉：雪竇和尚偈云：三分光陰二早過，靈臺一點不揩磨，貪生逐日區區去，喚不回頭爭奈何？師云：膏肓之疾固不足以發藥，然雙峰用處也要諸人共知。便下座。中秋，上堂。吾心似秋月，碧潭清皎潔，無物堪比倫，教我如何說？師云：寒山子與麼道，大似抱贓呌屈。便下座。為雲山劉氏孺人對靈，小參。若論此事，譬如秋潭月影、靜夜鐘聲，隨扣擊以無虧、觸波瀾而不散，諸佛悟之而成佛、眾生迷之而受生。迷諸佛之所悟者，是名眾生；悟眾生之所迷者，故曰諸佛。心、佛及眾生，是三無差別。者箇道裡如人飲水，冷煖自知，說似人不得、呈似人",
+              "MasterName": "Xuedou Chongxian",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Xuedou Chongxian",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Pingshi Rudi",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X70/X70n1393.xml). Recorded Sayings of Chan Master Pingshi Rudi. Pingshi Rudi explicitly raises Xuedou Chongxian's verse in a hall talk: two parts of the time have passed, the bright point has not been polished, and a person hurrying after life will not turn back. Pingshi calls this a disease lodged deep enough that medicine may no longer help, but says his own way of using the case should still be known to the assembly; he then descends from the seat. Xuedou voices the cited warning, while Pingshi treats it as a severe diagnosis and invites scrutiny of his response rather than prescribing literal polishing.",
+              "ClaimText": "三分光陰二早過，靈臺一點不揩磨"
+            },
+            {
+              "RelPath": "X/X71/X71n1412.xml",
+              "FromLb": "0224c05",
+              "ToLb": "0225a01",
+              "Kwic": "元宵，上堂。上八不見參星，下八不見紅燈，唯有衲僧正眼，常時赫赫明明，風吹不入，雨洒不濕，雪珠床上跳，欲言言不及，只將此景做元宵，千聖從教下風立。上堂，謝黃龍首座拈主丈云：白額爪牙，黃龍頭角，拈起也霧卷長空，放下也風生萬壑。佛手驢脚生緣，突出神光閃爍，舉一不得舉二，放過一著落在第二。門外春光已半過，落花幾度隨流水。卓主丈，下座。佛涅槃，上堂：心不是佛，心與佛俱非。智不是道，智與道俱遣。今日即有，明日即無。蒼天蒼天，波旬失途。上堂：雪竇道：三分光陰二早過，靈臺一點不揩磨。貪生逐日區區去，喚不回頭爭奈何？山僧道：只者喚不迴頭，三世諸佛、六代祖師是他同參。與麼說話，雖則向上提持，未免循途守轍。畢竟如何？不是弄潮人，莫入洪波裏。結制，上堂。今朝四月十五，大好一塲莽鹵，人人禁足護生，未免殺佛殺祖。僧問雲門：殺父殺母，佛前懺悔；殺佛殺祖，甚處懺悔？雲門云：露大小雲門，也是看窟籠著榍。上堂。黃檗打臨濟，興化打克賓，古今商量，咸謂事有多途，理無二致。然則明大機、顯大用，乃上古之風規，亦今時之樞要。澹湖當言不避截舌，",
+              "MasterName": "Xuedou Chongxian",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Xuedou Chongxian",
+                  "Roles": [
+                    "utterer"
+                  ]
+                },
+                {
+                  "MasterName": "Gulin Qingmao",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Gulin Qingmao quotes Xuedou Chongxian's verse about dwindling time, an unpolished bright point, and the person who will not turn back. Gulin says that even this refusal to turn back makes the buddhas of the three times and the six ancestral teachers fellow practitioners. He then faults his own high-sounding reading for still following an old track and answers with a warning: someone who does not know how to ride the tide should not enter the great waves. Xuedou speaks the exact verse; Gulin's present expansion and self-correction test what it means to heed it.",
+              "ClaimText": "三分光陰二早過，靈臺一點不揩磨"
+            }
+          ],
           "SourceTexts": [
             "J/J32/J32nB273.xml",
             "X/X70/X70n1377.xml",
@@ -49597,7 +49757,7 @@
             "Gulin Qingmao"
           ],
           "RelatedTerms": [],
-          "Explanation": "Xuedou’s verse warns that time has passed while the mind’s bright point remains unwiped. Qianyan, Songyuan, and Wuzhun each interrupt the warning at a different point. Pingshi treats it as an urgent prescription; Gulin questions even the stance of not turning back."
+          "Explanation": "Xuedou warns that much of the allotted time has already passed while the bright point of the spirit terrace remains unpolished. Four sources name him; Wuzhun locally calls the verse maker only an old person. Later teachers question both the urgency and the idea that polishing offers a ready method. Qianyan Yuanzhang recalls Xuedou Chongxian's four-line verse: much of the allotted time has passed, the bright point of the spirit terrace has not been polished, and one goes on day after day without turning back. Qianyan asks his assembly whether that point should be polished or left unpolished. No one answers, so he tells them to return to the hall for tea. Xuedou is the speaker of the quoted verse; Qianyan makes its image a live question rather than offering polishing as a settled method. In a hall talk, Songyuan Chongyue cites Xuedou Chongxian's verse about spent time, the unpolished bright point, and the person who will not turn back. Songyuan credits Xuedou with the power to turn heaven and earth and cut through iron, yet says the old master should not have sat down at just this point. He ends with a shout. The exact couplet is Xuedou's quoted line; Songyuan's praise, objection, and shout challenge any fixed resting place in the warning. Wuzhun Shifan opens a hall talk by reciting the four-line warning that time is passing while the bright point remains unpolished and the person refuses to turn back. He says the old speaker exhausted his strength but only scratched an itch at Jingshan. Wuzhun then turns to his own ordeal: fire and ruin drove him into the world, and on returning he worked among rubble with earth and water, feeling that even his nose and eyes were lost and that he could no longer make a whole person. The local source calls the verse maker only an old person; parallel records identify Xuedou. Wuzhun's present reply uses his loss to test the verse's urgency. Pingshi Rudi explicitly raises Xuedou Chongxian's verse in a hall talk: two parts of the time have passed, the bright point has not been polished, and a person hurrying after life will not turn back. Pingshi calls this a disease lodged deep enough that medicine may no longer help, but says his own way of using the case should still be known to the assembly; he then descends from the seat. Xuedou voices the cited warning, while Pingshi treats it as a severe diagnosis and invites scrutiny of his response rather than prescribing literal polishing. Gulin Qingmao quotes Xuedou Chongxian's verse about dwindling time, an unpolished bright point, and the person who will not turn back. Gulin says that even this refusal to turn back makes the buddhas of the three times and the six ancestral teachers fellow practitioners. He then faults his own high-sounding reading for still following an old track and answers with a warning: someone who does not know how to ride the tide should not enter the great waves. Xuedou speaks the exact verse; Gulin's present expansion and self-correction test what it means to heed it."
         }
       ]
     },
