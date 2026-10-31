@@ -935,27 +935,15 @@
     ],
     "SearchAliases": [
       "cool quiet hall, clear ancient meaning",
-      "the ancient meaning is clear"
-    ],
-    "Status": "preferred",
-    "Note": "The cool, spare hall and clear age-old meaning form a terse answer. Miaoyun offers it when an elder demands a sincere line, while Gusu answers a monk directly with the same couplet.",
-    "CreatedBy": "r10 fresh construction A2",
-    "WrittenUtc": "2026-10-28T19:26:12Z"
-  },
-  {
-    "SourceTerm": "一堂風冷澹，千古意分明",
-    "PreferredTarget": "A cool, spare air fills the hall; the meaning of a thousand ages stands clear",
-    "AlternateTargets": [
-      "The hall is cool and quiet, yet the ancient intent is plainly present"
-    ],
-    "SearchAliases": [
+      "the ancient meaning is clear",
+      "一堂風冷澹，千古意分明",
       "cool quiet hall ancient meaning clear",
       "hall wind cool ancient intent"
     ],
     "Status": "preferred",
-    "Note": "The hall has a cool, spare air, while an intention carried through ages is clear there. Masters use the pair to say that an old teaching can be met in a present room or encounter. Tian'an draws it from a sermon on wind and speech; Xiaotang gives it to a visitor asking about his hall; Faxi speaks it in an ancestral hall; Shipu answers after a stupa has been swept. The line is an appraisal of presence, not a weather report alone.",
-    "CreatedBy": "r10 fresh10k source-first author A1",
-    "WrittenUtc": "2026-10-28T23:25:46Z"
+    "Note": "This is one complete couplet with two spellings for the word describing the cool, spare hall. Twelve distinct recorded contexts retain their own named speakers, immediate questions and replies. Both spellings pair a present hall image with clarity of an old meaning.",
+    "CreatedBy": "Codex source-first R10 graph-variant merge author",
+    "WrittenUtc": "2026-10-31T05:21:38.800471Z"
   },
   {
     "SourceTerm": "一場好笑",

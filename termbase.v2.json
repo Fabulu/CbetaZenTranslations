@@ -12236,8 +12236,8 @@
       "Id": "t_b71515286d94",
       "SourceTerm": "一堂風冷淡，千古意分明",
       "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "r10 fresh construction A2",
-      "WrittenUtc": "2026-10-28T19:26:12Z",
+      "CreatedBy": "Codex source-first R10 graph-variant merge author",
+      "WrittenUtc": "2026-10-31T05:21:38.800471Z",
       "Senses": [
         {
           "SenseKey": null,
@@ -12248,11 +12248,14 @@
           ],
           "SearchAliases": [
             "cool quiet hall, clear ancient meaning",
-            "the ancient meaning is clear"
+            "the ancient meaning is clear",
+            "一堂風冷澹，千古意分明",
+            "cool quiet hall ancient meaning clear",
+            "hall wind cool ancient intent"
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "The cool, spare hall and clear age-old meaning form a terse answer. Miaoyun offers it when an elder demands a sincere line, while Gusu answers a monk directly with the same couplet.",
+          "Note": "This is one complete couplet with two spellings for the word describing the cool, spare hall. Twelve distinct recorded contexts retain their own named speakers, immediate questions and replies. Both spellings pair a present hall image with clarity of an old meaning.",
           "Occurrences": [
             {
               "RelPath": "J/J38/J38nB415.xml",
@@ -12361,278 +12364,353 @@
                 }
               ],
               "AttributionNote": "Source record (J/J37/J37nB387.xml). Recorded Sayings of Chan Master Gusuzun. At a hall sermon requested by lay donor Wen Yunsheng, a monk asks Gusu Zun how humans and devas meet and see one another. Gusu answers directly with the quiet-hall couplet. The monk then asks separately about Buddha, Dharma, Sangha, and the donor's benefit; Gusu gives different replies and strikes when the monk tries to continue. The couplet belongs to the first question in this current exchange, not to all of the later questions or to the donor's blessing."
+            },
+            {
+              "RelPath": "J/J26/J26nB187.xml",
+              "FromLb": "0716b23",
+              "ToLb": "0717a04",
+              "Kwic": "金剛力士，屬令一百日內現前諸天每人與它兩箇，佛法一字不說。彌勒菩薩問云：『仁者！此是何義？』大士曰：『胡餅討甚麼汁？』昇上座在傍失笑而醒，今日小參舉似大眾，敢問諸仁：昇上座說的是法邪？說的是夢邪？若說是夢，現今說法；若說是法，昨晚做夢。於此明得，便可親證無生法忍；其或未然，觀世音菩薩將錢買燒餅，放下手卻是饅頭。參。」秉拂。「四大無我心如風，現今風聲浩浩，風作何狀？有者說風是圓底，若不是圓底，如何轉轆轆地？有者說風是方底，若不是方底，如何四維上下一吹遍滿？有者說風是匾底，若不是匾底，如何窗櫺縫罅橫吹直入？有者說風是長底，若不是長底，如何吹得千里萬里？恁般說話總是謗風，風不受謗，謗即是風。昇上座如是而說，是有說邪？無說邪？無說而說，說亦是風。諸仁立地而聽，是有聽邪？無聽邪？無聽而聽，聽亦是風。尋常離心意識參、絕凡聖路學，向無可參處而參、無可學處而學，參底、學底也是風。既然如是，謗底是風？說底是風？聽底是風？參底是風？學底是風？真可謂一堂風冷澹，千古意分明。」金粟首座寮，秉拂。「東土之山以泰山為首，移置須彌山下，一丘一壑而已。東震之水以滄溟為大，移置香水海邊，一杯一勺而已。然善用者，一杯一勺便成巨浪千尋，一壑一丘直下縣崖峭壁。拈頭作尾，在法不在人；拈尾作頭，在人不在法。若有頭尾相稱者，不妨出眾相見。」問：「轉身就父即不問，遊子歸家意若何？」師云：「九十九峰齊點首。」進云：「如何是入門一句？」師云：「倚天長劍逼人寒。」進云：「如何是門內句？」師云：「清風拂日月。」進云：「歸家消息蒙師指，滿堂大眾盡知音。」師云：「還有未出門一句，如何不問？」僧喝，師云：「胡喝亂喝。」僧禮拜，師便打。乃云：「本昇因大和尚壽誕前來慶祝，從青州未發足以前早已打迭，欲覓一語以為慶讚了不可得。及乎發足青州，越水度山三千餘里，欲覓一語了不可得。迨至來金粟寺，人事之餘已經半月，欲覓一語了不可得。何故如此？蓋為威音王以前無生尚不可得，何況有生？從此盡未來際無量壽尚不可名，何況歲月日時？然則不可以智知、不可以識識、不可以說說、不可以歲月而求、不可以算數而得，畢竟如何？虛空可量風可繫，無能盡說壽功德。此是昇上座慶祝之微忱也，再將途中所歷與諸昆季宣揚一上，但不可作佛法商量，亦不可作世諦流布。昇上座于四月初二日從青州發",
+              "MasterName": "Tian'an Sheng",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Tian'an Sheng",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Holding the fly-whisk, Tian'an Sheng asks what shape the wind has and rejects guesses that it is round, square, flat or long. He then says speaking, listening, and investigating are each like the wind, asking whether he himself is speaking and whether the assembly is hearing. He closes that present address with the cool-hall couplet. The line gathers his argument that the matter is clear through those activities without being captured by any one shape or verbal description."
+            },
+            {
+              "RelPath": "J/J27/J27nB191.xml",
+              "FromLb": "0159b10",
+              "ToLb": "0159c17",
+              "Kwic": "「一陽初動處，萬物未生時。」進云：「節令乍從今日起，歲華猶似去年晴。」師云：「玄酒味方淡，太音聲正稀。」僧問：「有物先天地，無形本寂寥，還許學人會麼？」師云：「萬里長空，片雲點破。」進云：「木女頻頻撾石鼓。」師云：「但形文彩，即屬染汙。」僧禮拜，起立云：「正恁麼時聻？」師云：「好個漆桶。」書記問：「鴛鴦繡出從君看，不把金針度與人，三藏十二部一千七百則都是鴛鴦，如何是金針？」師以手搔鼻，云：「山僧鼻孔有些癢。」進云：「某甲則不然。」師云：「你又作麼生？」書豎一指，云：「穿卻佛祖鼻孔去也。」師云：「也許你一半。」示眾結制，示眾。「得魚忘筌，得兔忘蹄，得意忘言，得了那個？」驀豎拂，云：「忘了這個。且道如何是那個？」乃放下拂子，良久，云：「還有相委悉者麼？須知達磨西來，直指人心，見性成佛，然乃心無形相，且作麼生？指性無方，所又作麼生？見莫是無見而見麼？莫是見物便見心麼？莫是心地法眼能見麼？直饒與麼見得，未是衲僧巴鼻。且道如何是衲僧巴鼻？一堂風冷澹，千古意分明。」舊住大本老宿設茶請示眾，師云：「大眾茶多喫鍾，大本老師為此象田二十餘年辛苦，方有今日。」悅眾云：「茶已喫了，請師還茶錢。」師云：「更要山僧畫蛇添足麼？」乃顧監院云：「常住有事，不妨商量商量。」院舉三登禪師作知客，登出眾，固辭。師云：「我有一問，如道得，許坐禪；道不得，即作知客。」登云：「某向無舌頭。」師云：「這般話當不得，也要山僧肯。」乃托手，云：「你更道看。」登默然，師遂說偈云：「托出虛空一片心，秪將此事售知音，筵中若有真相識，黃葉何妨指作金？」復云：「大眾謝茶。」覺初禪者設茶請示眾。「古人道：『人莫不飲食也，鮮能知味也。』是這般話言淡而旨遠，時人往往強作道理，解注怎解注得下？要且有口者，孰不解飲食？有舌者，孰不知滋味？然喫淡即知淡味、喫鹹即知鹹味，以至喫酒定不說是茶。且有善喫茶者，纔沾唇便知此是天池、此是龍井、此是松蘿，一毫也瞞他不得，那裏不是他知味處？大都不知正味耳。諸仁者！要知正味麼？須向未喫茶時識取。若識未喫茶時滋味了，更須知入口時滋味；若知入口時滋味了，又須知喫茶後滋味。直饒恁麼了，要知覺初禪者今夜設茶的意，秪要諸禪德閉口。然而丈夫有口，要開便開、要閉便閉，為甚麼要人設茶然後閉口？有等好事之者，或逞才辯、或逞",
+              "MasterName": "Jinian Jingxian",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Jinian Jingxian",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J27/J27nB191.xml). Recorded Sayings of Chan Master Xiangtian Jinian. At the opening of a retreat Jinian Jingxian raises his fly-whisk, puts it down, and asks what remains when the devices used to catch fish or rabbits and the words used to reach meaning are forgotten. He questions whether seeing mind or nature in familiar formulas is enough, then asks what counts as a monk's real hold on the matter. He answers with the cool-hall couplet. This is Jinian's current conclusion to a series of live gestures and questions, not a phrase spoken by Bodhidharma in the saying he discusses."
+            },
+            {
+              "RelPath": "J/J28/J28nB206.xml",
+              "FromLb": "0278a20",
+              "ToLb": "0278b27",
+              "Kwic": "長老知得山僧鼻孔短長，眉毛橫豎，聚得阿堵來，營，成禪悅供，黑白甚分明，諸仁隨意用。龜毛拂、兔角，杖，一時施妙用，驚起南山鱉鼻蛇，聲聲叫道：『住住，待我拈一頌。一天瑞氣繞龍丘，四野歡聲笑不休，主伴重重齊暢適，真機全在芥鍼投。二千年外無生曲，此際拈來大地收，驀地一場閒快活，更于何處祝添籌。』山門前金剛一時忍俊不禁，和身便倒，直得諸仁眼裏、鼻裏、耳裏、腹裏，各各圓滿了也。」驀拈拄杖云：「有意氣時添意氣，花鋪錦上更風流。」檀越馬其旋昆仲暨眾護法居士等，請住當湖三聚菴陞座：「祥雲生八極，瑞氣動三千，猶喜籬邊菊，三玄旨復宣。」揮拂云：「還有同聲相應者麼？」問：「向上宗乘即不問，臨濟家風事若何？」師云：「一聲塗毒逼人寒。」進云：「恁麼則四眾霑恩去也。」師云：「知恩一句如何道？」僧便喝，師云：「未信你在。」僧拜云：「蒼天蒼天。」師云：「也是布袋裏老鴉振。」白居士問：「今朝和尚到來，水月堂中又添一重光彩。水月家風即不問，即今陞座又如何？」師云：「一堂風冷澹，千古意分明。」進云：「月臨千澗水，風掃一天雲。」師云：「閒言及剩語，緘口最為高。」士禮退，師云：「太伶俐生。」乃云：「今日蓋因現前眾居士虔請山僧主持院事，舉揚佛法，迫不得已，秪且借水溉花，堇酬來意。若論佛法，未出方丈，早已說過了也，及乎陞座，雍雍肅肅，彼此分明，那堪土上加泥！便恁麼會去，未免平地喫交。設或更要者也之乎，轉見敗闕。」遂拈拂，召大眾云：「我不敢輕于汝等，汝等皆當作佛。」佛誕日說戒，其旋居士暨諸同社護法請陞座，問：「如何是學人本分事？」師云：「整衣護缽。」進云：「向上還有事也無？」師云：「有。」進云：「如何是向上事？」師云：「直下薦取。」僧禮退。師云：「驢年未夢見在。」黃在郊問：「和尚今日陞座，為什袈裟返搭？」師云：「切莫眼花。」進云：「一點也瞞和尚不得。」師云：「再犯不容。」進云：「且救得一半。」師云：「全自領去。」士便出，師云：「果然可憐。」秦伯潛問：「夫子云『天命之謂性』，如何是天命底性？」師云：「切莫話作兩橛。」進云：「道也者不可須臾離也。」聲未絕，師云：「除卻之乎者也道看。」潛便喝，師云：「喝後聻？」士擬議，師笑云：「禮拜了退。」士便禮，師云：「伶俐居士。」師豎拂子云：「看看，且道是佛法耶，世法耶？直下薦得，煙雲魚",
+              "MasterName": "Xiaotang",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Xiaotang",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB206.xml). Recorded Sayings of Monk Xiaotang. At a hall address accepting the abbacy of Sanju Hermitage, a lay visitor asks Xiaotang what is happening as the new master ascends the seat, setting aside the hall's usual style. Xiaotang gives the cool-hall couplet. The visitor replies with moon and wind images; Xiaotang dismisses them as surplus talk and says silence would be better. The couplet is Xiaotang's direct answer to this visitor, and his follow-up prevents the visitor's decorative verse from being treated as an agreed interpretation."
+            },
+            {
+              "RelPath": "J/J28/J28nB213.xml",
+              "FromLb": "0517b18",
+              "ToLb": "0517c23",
+              "Kwic": "尚開示，總不知得落處。竟往江南姑蘇。未久，決意參禮浙江古南牧雲和尚，求示話頭。古云：『父母未生前，那箇是你本來面目？』向這裏參去一載有餘，疑團不破。聞知具德和尚住揚州天寧，欲往見之，告假不允，又住一載。初番打七工夫，略有少許相應，胸中只欲相依具德和尚。到彼，尚問：『何處來？』荅曰：『古南來。』尚曰：『古南和尚有何言句？』荅曰：『無言句。』尚曰：『既在古南，因甚無言？』荅曰：『渠無面目。』尚曰：『既無面目，爭得到這裏？』師曰：『臭名難瞞。』尚便打云：『弄虛頭漢。』師便禮拜，命安水單。一日，隨眾打三，工夫猛加精進，秪是未得了然。自恨障深慧淺，福力微薄，因茲遍參雪竇、雲門、天童，俱不契入。後到報恩，參見玉林和尚，恩問：『撥草瞻風，秪圖見性。那箇是你的性？』師曰：『今日親見和尚。』恩云：『禮拜著。』師拂袖便行，恩招手云：『大德更不回頭。』晚間請茶次，恩云：『在天童少多時？』師云：『將住一載。』恩云：『天童和尚即今面目在甚麼處？』師云：『一堂風冷澹，千古意分明。』恩云：『太煞分明。』蒙命堂司。一日同眾打七，恩喚入室：『你們一向做了執事辛苦。請你們無別打七，風冷同來向這爐火。』師云：『恩大難酬。』恩云：『那箇是你本來面目？』師云：『描不成，畫不就。』恩云：『是甚麼？』師云：『遍界不曾藏。』一日，在山門外侍立，恩云：『這樹有多少根數？』師云：『不落諸數。』恩豎拄杖云：『者箇聻？』師云：『唯吾獨尊。』恩休去。又一日，恩在殿前坐，問云：『古人道：「本來無一物。」為甚麼前殿在前，後殿在後？』師云：『和尚猶有這箇在。』將解制，先一日，喚各寮頭首犒勞，尚拈餅問：『這些油餅作麼生收拾？』師云：『作者方知。』恩云：『知箇甚麼？』師云：『和尚再請些。』又一日，命同眾打七，於三更時聞梆聲觸發，即有偈云：『也大奇，也大奇，三更山靜木雞聲，觸碎金車無背面，倒騎鐵馬趁須彌。』七完，喚入室，師呈頌，恩看過，云：『雖然如是，大須仔細。』師云：『七日之中，皮穿骨露，今日且休去，歇去。』恩拈棒便打：『你還喫得者箇麼？』師云：『美食不中飽人餐。』恩大笑而去。次日，命後禪堂為首領。一日，恩來勘驗，豎拳云：『你識得者箇麼？』師云：『老老大大，拳頭也不識。』恩拈棒便打，師接住杖，云：『切莫錯打好。』恩云：『見甚麼來便恁麼道",
+              "MasterName": "Zhiyan Xiu",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Zhiyan Xiu",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB213.xml). Recorded Sayings of Chan Master Zhiyan Xiu. Zhiyan Xiu recalls a conversation with Yulin, who asks where Zhiyan's former teacher Tiantong can now be seen. Zhiyan answers with the cool-hall couplet, and Yulin replies that it is exceedingly clear. The phrase is Zhiyan's remembered answer to a precise question about the former teacher, not a new saying spoken by Tiantong or by Yulin; the later encounters in the same autobiographical passage are separate tests."
+            },
+            {
+              "RelPath": "J/J28/J28nB220.xml",
+              "FromLb": "0791b10",
+              "ToLb": "0792a08",
+              "Kwic": "普賢勞攘個什麼？波斯照古鏡。」陞座。「纔見結制，今日又解，雪光和燦爛，瑞氣湧三台，且喜青山洗出，玉樹消融，萬籟絕響，堂中悄靜。適纔侍者道：『恭喜大眾都得根本智。』山僧劈脊一棒，且道是賞你？罰你？」復卓，云：「不見道：庭前生瑞草，好事不如無。」一喝，下座。法璽印禪師語錄卷第三法璽印禪師語錄卷第四嗣法門人性圓旋璣旋哲旋賢等編次住北京南城清化禪寺語錄住北京南城清化禪寺語錄師於壬子年九月二十二日進院。山門。「門戶近都，深固幽遠。八字打開，誰是主者？」一喝便進。彌勒殿。久視，云：「坦腹者阿師，為何笑不歇？想是布袋口，不敢輕漏洩。」插香，云：「明眼人難瞞。」佛殿。「巍巍挺特，眾聖中尊。且道今日新長老到來作麼生相見？」遂展具，云：「相隨來也。」大士殿。「婆心三大士，威德莫能齊，為什麼終日在者裏成群作隊？正眼看來，也須各領三十棒。」伽藍堂。「十方常住，賴汝維持，者個破砂盆，急急須扶起。何故聻？靈山受囑來斯地，千古難忘者片心。」遂插香。祖師堂。「一堂風冷澹，千古意分明。且道分明底是個什麼？」良久，云：「惡。」據方丈。師以杖左卓云：「有賓有主，有照有用。」以杖右卓云：「有縱有奪，有殺有活。」以杖橫案云：「三世諸佛、歷代祖師、天下老和尚，都向者裏納敗缺。」一僧纔出，師劈頭便棒云：「正令當行。」即日上堂。師至座前，以杖指云：「者個所在，乃從上老古錐放捨身命處、廣運神通處，今朝無面目的漢到來，且道作何三昧？」一喝便陞。拈香祝聖畢，復拈香云：「此一瓣香，最初流落諸方深坑險隘，百煉不成；末後撞入雲居大冶紅爐，一鎚打就。今對人天第四回拈出，爇向爐中，端為供養前住雲居歸老竹林堂上傳臨濟正宗第三十世傘居先師顓愚大和尚，用酬法乳之恩。」遂斂衣就座。盤山語石和尚白槌云：「法筵龍象眾，當觀第一義。」師云：「第一義諦如熱火燧、似太阿鋒，觸則頭開腦裂、背則膽喪魂飛，眾中有不顧性命者出來相見。」問：「敲唱同時，萬里之鉤齊放；主賓互換，縵天之網全彰。打鳳羅龍即不問，如何是賓中主？」師豎起拂子。「如何是主中賓？」師垂下拂子。「如何是主中主？」師橫按拂子。「如何是賓中賓？」師擲下拂子。進云：「賓主已蒙師指示，聲氣相同一句又作麼生？」師拈棒云：「照顧頂𩕳。」進云：「道泰不傳天子令，時清休唱太平歌。」師打云：「要識青山雨後看。",
+              "MasterName": "Faxi Yin",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Faxi Yin",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB220.xml). Recorded Sayings of Chan Master Faxiyin. On entering Qinghua Monastery, Faxi Yin moves through its buildings with brief remarks and offerings. At the ancestral hall he voices the cool-hall couplet, asks what exactly is clear, pauses, and gives a terse exclamation. He then moves to the abbot's quarters and uses his staff in a separate set of host-and-guest gestures. The couplet belongs to Faxi's present ancestral-hall address and its open question, not to those later gestures."
+            },
+            {
+              "RelPath": "J/J36/J36nB365.xml",
+              "FromLb": "0815c29",
+              "ToLb": "0816b03",
+              "Kwic": "「箇箇眉毛橫八字。」進云：「將謂和尚不恁麼道。」師云：「不妨疑著。」進云：「天寒人寒，滴水滴凍，因甚又道石筍抽條，冰河發燄？」師云：「不是一番寒徹骨，爭得梅花撲鼻香？」進云：「即今因齋慶讚，畢竟如何話會？」師云：「端坐受供養，施主常安樂。」進云：「恁麼則性海波深龍睡穩，心王不動自昇平。」師云：「阿誰不願？」問：「言前廌得，猶是滯殼迷封；句下精通，未免觸途狂見。去此二途，請師直指。」師云：「中間薦取。」進云：「無人知此意，令我憶南泉。」師云：「是甚麼意？」僧喝，師云：「不勞再勘。」問：「十方同聚會，箇箇學無為，意旨如何？」師云：「頭頂天，腳踏地。」進云：「此是選佛場，心空及第歸又作麼生？」師云：「綠水青山全體現，森羅萬象笑顏開。」進云：「陰消陽長尋常事，荳爆寒灰始出群。」師云：「好箇消息。」問：「適來掃塔，今又上堂，只如盡十方世界是箇先老人塔，未審和尚從何處掃起？」師卓拄杖，云：「一任觀瞻。」進云：「驀地相逢，有何言句？」師云：「一堂風冷澹，千古意分明。」進云：「雲裏撥開金鳳子，杖頭敲出玉麒麟。」師打，云：「切莫眼花。」問：「憶昔高峰有六問，請師直指示當人。」師云：「祖師無此語。」進云：「大徹底人本脫生死，因甚命根不斷？」師云：「家無小使，不成君子。」進云：「佛祖公案只是一箇道理，因甚有明與不明？」師云：「無鬚鎖子兩頭搖。」進云：「大修行人當遵佛行，因甚不守毘尼？」師云：「大象不遊免徑。」進云：「杲日當空，無所不照，因甚被片雲遮卻？」師云：「一道神光萬境閒。」進云：「人人有箇影子，寸步不離，因甚踏不著？」師云：「用踏作麼？」進云：「盡大地是箇火坑，得何三昧不被燒卻？」師云：「金不博金。」進云：「六語已蒙明指示，天童的旨請師宣。」師云：「陣雲橫海上，拔劍攪龍門。」進云：「與麼則佛祖機關無處著，陰陽未判又如何？」師舉拂子，云：「能為萬象主，不逐四時凋。」問：「至節全彰即且置，如何是臨濟宗？」師云：「奔雷走電。」進云：「如何是雲門宗？」師云：「紅旗閃爍。」進云：「如何是曹洞宗？」師云：「君臣道合。」進云：「如何是溈仰宗？」師云：「父慈子孝。」進云：「如何是法眼宗？」師云：「滿目青山。」進云：「恁麼則燈傳太白孤風峻，萬象森羅盡點頭。」師云：「閒言語。」乃云：「洞山掇退果子桌，慈明",
+              "MasterName": "Shipu Chaozhi",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Shipu Chaozhi",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J36/J36nB365.xml). Recorded Sayings of Chan Master Shipuzhi. After a monk has asked about sweeping an old teacher's stupa, Shipu Chaozhi strikes his staff and allows the assembly to look. The monk asks what word is available at an unexpected meeting; Shipu answers with the cool-hall couplet. When the monk adds a decorative image of a phoenix and unicorn, Shipu strikes him and warns him not to see wrongly. The couplet is Shipu's direct reply in this stupa exchange, and the blow marks his refusal to let the monk's embellishment stand as its explanation."
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J38/J38nB415.xml",
+              "FromLb": "0465c16",
+              "ToLb": "0465c28",
+              "Kwic": "某甲若聞，則大地人盡不聞也。』林曰：『汝特來禮拜老僧，有事相借問，得麼？』余展兩手，曰：『和尚何不早道？』林便打。余曰：『今日小出大遇。』林又打，曰：『者一棒作麼生？』余曰：『也不得倚勢欺人。』林曰：『放汝三十棒。』余拂袖便出。次春，復至浙，參古南牧雲和尚，雲曰：『不得擎拳下喝，向者裏誠道一句看。』余曰：『一堂風冷淡，千古意分明。』雲曰：『有佛處不得住，無佛處急走過，汝又作麼生？』余曰：『正是學人放身命處。』雲便打。余曰：『苦瓠連根苦，甜瓜徹蒂甜。』雲曰：『見何道理？』余曰：『日可冷，月可熱。』雲曰：『衲僧分上如何即得？』余曰：『不勞再勘。』雲曰：『衲子難瞞。』余每聞金明門風孤峻，道重諸方，非真正學者不敢攖鋒。康熙庚戌春，余特造金",
+              "MasterName": "Miaoyun Zhenxiong",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Miaoyun Zhenxiong",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J38/J38nB415.xml). Recorded Sayings of Chan Master Miaoyun of Dabei. Miaoyun Zhenxiong recounts visiting his elder Muyun, who forbids him to answer by raising a fist or shouting and asks for one honest phrase. Miaoyun offers the quiet-hall couplet. Muyun immediately asks how he would respond to the old injunction not to stay where there is Buddha and to hurry past where there is none; Miaoyun answers that this is where he stakes his life, and Muyun strikes him. The couplet is Miaoyun's remembered reply in a live teacher-student test, not a final verdict accepted without further probing.",
+              "ClaimText": "一堂風冷淡，千古意分明"
+            },
+            {
+              "RelPath": "X/X67/X67n1303.xml",
+              "FromLb": "0296b01",
+              "ToLb": "0296b23",
+              "Kwic": "文物國。西域記云：昔如來於摩竭陀國初成正覺，梵王建七寶堂，帝釋修七寶座，佛坐其上，於七日中思惟是事。當時衲子於仰山示眾，擬提撕處微開正眼，何必以輕勞重，插筯爐邊？雪峰云：三世諸佛向火焰上轉大法輪。雲門云：火焰為三世諸佛說法，三世諸佛立地聽。此與扇子𨁝跳東海，鯉魚築著鼻孔，雨似盆傾的意脉不相上下。還委悉麼？一堂風冷淡，千古意分明。林泉老人評唱投子青和尚頌古空谷集卷三林泉老人評唱投子青和尚頌古空谷集卷四後學性一閱生生道人梓第五十二則首山菩提第五十二則首山菩提示眾云：長安大道，七縱八橫。咫尺鄉關，一了百當。不移寸步，孰能得到？舉：僧問首山：如何是菩提路？山云：此去襄縣五里。僧云：向上事如何？山云：來往不易。師云：處處菩",
+              "MasterName": "Linquan Conglun",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Linquan Conglun",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X67/X67n1303.xml). Elder Linquan’s Commentary and Chanted Remarks on Master Touzi Qing’s Verses on Ancient Cases: Empty Valley Collection. Linquan Conglun has been discussing sayings about the Buddha in a jeweled hall and the fire-flame teachings of Xuefeng and Yunmen. He says these startling images share a line of force, asks the assembly whether they understand, and closes with the quiet-hall couplet. The phrase is Linquan's present conclusion to a sequence of old statements; the earlier Buddha, Xuefeng, and Yunmen are figures he cites, not speakers of this final line.",
+              "ClaimText": "一堂風冷淡，千古意分明"
+            },
+            {
+              "RelPath": "J/J25/J25nB171.xml",
+              "FromLb": "0544a23",
+              "ToLb": "0544b05",
+              "Kwic": "椿搖櫓呵呵休。」舉：「肅宗帝一日問忠國師云：『師在曹溪得何法？』忠云：『陛下還見空中一片雲麼？』帝云：『見。』忠云：『釘釘著，懸空著。』」師拈云：「且喜忠國師說法，不涉離微，不落理路，以虛空為口，吞吐白雲，可謂一時光曜乾坤。然肅宗帝若得轉身吐氣，看他這一片雲，又如何收卷？且道轉身一句作麼生道？」良久，云：「一堂風冷淡，千古意分明。」舉：「曹山行腳時問烏石觀禪師：『如何是毘盧法身主？』觀云：『不道。』曹舉似洞山，山云：『好箇話頭，只欠進語，何不更去問為甚不道？』曹迺去進語，觀云：『若言我不道，即啞卻我口；若言我道，即禿卻我舌。』曹歸，舉似洞山，山深肯之。」師拈云：「這三大老雖挾同毘盧頂上行，其間不無優劣。只如洞山雖識機宜，恰是箇扶",
+              "MasterName": "Tianyin Yuanxiu",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Tianyin Yuanxiu",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu raises the old exchange in which Emperor Suzong asks National Teacher Zhong what teaching he received at Caoxi, and Zhong answers by asking whether the emperor sees a cloud in the sky. Tianyin praises Zhong's answer but asks what the emperor could have said to turn the exchange around. After a long pause Tianyin supplies the quiet-hall couplet. The line is Tianyin's own proposed turning word for this cited emperor-teacher encounter, not a reply uttered by Zhong or Suzong in the old case.",
+              "ClaimText": "一堂風冷淡，千古意分明"
+            },
+            {
+              "RelPath": "J/J27/J27nB193.xml",
+              "FromLb": "0249b26",
+              "ToLb": "0249c10",
+              "Kwic": "行，直證是妙果。開門便見山，開胸便見膽。是法住法位，世間相嘗住。何曾有個解結來？設若於中一毫委曲，不惟不成直指之道，則五十種陰魔各得其便，內則竟日作祟、外則引鬼入市，從死至生、從生至死，戕賊慧命無時休息。茲乃解制之晨，聊借眾聖之力，不妨打破門戶，趁出一隊閒神野鬼，直令於中空蕩蕩、靜悄悄，寂而知、虛而靈，一堂風冷淡，千古意分明。此山僧所舉，係堂奧邊事。只如諸禪人東去西去途中受用一句，又作麼生道？」侍者豎拳云：「和尚識麼？」師笑云：「偶爾途中輕錯腳，杖頭浪卷白蘋風。」下座。結制上堂。師云：「高懸缽袋，囊藏萬象森羅；放下藤條，收拾青山綠水。密移一步，遍界無蹤；掇轉雙睛，渾身是眼。全彰那畔風光，返炤本來面目。主賓一致，物我相忘，正好",
+              "MasterName": "Yinyuan Longqi",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yinyuan Longqi",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. At the closing of a retreat Yinyuan Longqi speaks of opening the gates, driving out idle ghosts, and leaving the hall empty, quiet, and awake. He voices the quiet-hall couplet for this inner-hall matter, then asks what word will serve monks traveling east or west. An attendant raises a fist; Yinyuan smiles and answers with an image of a slight misstep on the road. The couplet describes the cleared teaching space, while the subsequent exchange tests what can be carried beyond it.",
+              "ClaimText": "一堂風冷淡，千古意分明"
+            },
+            {
+              "RelPath": "J/J35/J35nB343.xml",
+              "FromLb": "0814c29",
+              "ToLb": "0815a11",
+              "Kwic": "切。」進云：「只如見聞分明，是何意旨？」師云：「墮地獄如箭射。」乃云：「秋江岸畔境如然，風卷濤聲落殿前，兩耳圜通驀悟得，分身百憶化無邊。清光溢目，洞明本有天真；白浪揚聲，顯發無遮玅用。法隨法行，片雲隻鶴；心絕心由，列嶽安山。若是越格超宗，不向靈山問佛、少林覓祖，口邊討道、句裏尋真。且了達不昧一句作麼生道？一堂風冷淡，千古意分明。」上堂。舉：「大愚辭歸宗，宗云：『向甚麼處去？』愚云：『諸方學五味禪去。』宗云：『我這裏只有一味禪。』愚云：『如何是一味禪？』宗便打，愚忽然大悟，云：『嗄！我會也。』宗云：『道！道！』愚擬開口，宗又打趁出。愚後到黃檗，舉前話，檗上堂曰：『馬大師下雖出八十四員善知識，問著個個屙漉漉地，只有歸宗較些子。』圜悟",
+              "MasterName": "Miyin Zhenchuan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Miyin Zhenchuan",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J35/J35nB343.xml). Recorded Sayings of Chan Master Miyin of Shengjue Monastery, Guangfu Mountain. Miyin Zhenchuan has just answered a monk's question about clear seeing and hearing with a sharp warning. In his ensuing address he speaks of hearing the river and seeing clear light, then warns against looking for the Way in famous teachers or in words. He asks how to say one clear, undimmed phrase and answers with the quiet-hall couplet. The line is Miyin's current answer to his own question about clarity, not a quotation from the next old case raised in the following sermon.",
+              "ClaimText": "一堂風冷淡，千古意分明"
+            },
+            {
+              "RelPath": "J/J37/J37nB387.xml",
+              "FromLb": "0416c17",
+              "ToLb": "0416c30",
+              "Kwic": "方便之門，遵上古之宏規，立九旬之死限，頓使人人于其中間屏息閑情，大發勇猛，暮究朝參，一旦洞徹根源，得共釋迦老子倒乘寶筏，利濟群生，豈不盡善盡美者哉？正恁麼時，今朝請法信士有何功德？」以如意擊香案一下，云：「壽等彌盧高有準，福如滄海闊無涯。」沔陽信士文雲生請上堂。僧問：「人天交接，兩得相見事如何？」師云：「一堂風冷淡，千古意分明。」僧問：「如何是佛？」師云：「水火害難侵，春秋老不著。」僧云：「如何是法？」師云：「非賢未可明，是聖方能達。」僧云：「如何是僧？」師云：「了無人我見，不有聖凡情。」僧云：「三寶已蒙師指示，且道今朝設齋施主有何利益？」師云：「家門恒迪吉，稚老悉安康。」僧擬進語，師便打，士問：「此心不在內、不在外、不在中間，",
+              "MasterName": "Gusu Zun",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Gusu Zun",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J37/J37nB387.xml). Recorded Sayings of Chan Master Gusuzun. At a hall sermon requested by lay donor Wen Yunsheng, a monk asks Gusu Zun how humans and devas meet and see one another. Gusu answers directly with the quiet-hall couplet. The monk then asks separately about Buddha, Dharma, Sangha, and the donor's benefit; Gusu gives different replies and strikes when the monk tries to continue. The couplet belongs to the first question in this current exchange, not to all of the later questions or to the donor's blessing.",
+              "ClaimText": "一堂風冷淡，千古意分明"
+            },
+            {
+              "RelPath": "J/J26/J26nB187.xml",
+              "FromLb": "0716b23",
+              "ToLb": "0717a04",
+              "Kwic": "金剛力士，屬令一百日內現前諸天每人與它兩箇，佛法一字不說。彌勒菩薩問云：『仁者！此是何義？』大士曰：『胡餅討甚麼汁？』昇上座在傍失笑而醒，今日小參舉似大眾，敢問諸仁：昇上座說的是法邪？說的是夢邪？若說是夢，現今說法；若說是法，昨晚做夢。於此明得，便可親證無生法忍；其或未然，觀世音菩薩將錢買燒餅，放下手卻是饅頭。參。」秉拂。「四大無我心如風，現今風聲浩浩，風作何狀？有者說風是圓底，若不是圓底，如何轉轆轆地？有者說風是方底，若不是方底，如何四維上下一吹遍滿？有者說風是匾底，若不是匾底，如何窗櫺縫罅橫吹直入？有者說風是長底，若不是長底，如何吹得千里萬里？恁般說話總是謗風，風不受謗，謗即是風。昇上座如是而說，是有說邪？無說邪？無說而說，說亦是風。諸仁立地而聽，是有聽邪？無聽邪？無聽而聽，聽亦是風。尋常離心意識參、絕凡聖路學，向無可參處而參、無可學處而學，參底、學底也是風。既然如是，謗底是風？說底是風？聽底是風？參底是風？學底是風？真可謂一堂風冷澹，千古意分明。」金粟首座寮，秉拂。「東土之山以泰山為首，移置須彌山下，一丘一壑而已。東震之水以滄溟為大，移置香水海邊，一杯一勺而已。然善用者，一杯一勺便成巨浪千尋，一壑一丘直下縣崖峭壁。拈頭作尾，在法不在人；拈尾作頭，在人不在法。若有頭尾相稱者，不妨出眾相見。」問：「轉身就父即不問，遊子歸家意若何？」師云：「九十九峰齊點首。」進云：「如何是入門一句？」師云：「倚天長劍逼人寒。」進云：「如何是門內句？」師云：「清風拂日月。」進云：「歸家消息蒙師指，滿堂大眾盡知音。」師云：「還有未出門一句，如何不問？」僧喝，師云：「胡喝亂喝。」僧禮拜，師便打。乃云：「本昇因大和尚壽誕前來慶祝，從青州未發足以前早已打迭，欲覓一語以為慶讚了不可得。及乎發足青州，越水度山三千餘里，欲覓一語了不可得。迨至來金粟寺，人事之餘已經半月，欲覓一語了不可得。何故如此？蓋為威音王以前無生尚不可得，何況有生？從此盡未來際無量壽尚不可名，何況歲月日時？然則不可以智知、不可以識識、不可以說說、不可以歲月而求、不可以算數而得，畢竟如何？虛空可量風可繫，無能盡說壽功德。此是昇上座慶祝之微忱也，再將途中所歷與諸昆季宣揚一上，但不可作佛法商量，亦不可作世諦流布。昇上座于四月初二日從青州發",
+              "MasterName": "Tian'an Sheng",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Tian'an Sheng",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Holding the fly-whisk, Tian'an Sheng asks what shape the wind has and rejects guesses that it is round, square, flat or long. He then says speaking, listening, and investigating are each like the wind, asking whether he himself is speaking and whether the assembly is hearing. He closes that present address with the cool-hall couplet. The line gathers his argument that the matter is clear through those activities without being captured by any one shape or verbal description.",
+              "ClaimText": "一堂風冷澹，千古意分明"
+            },
+            {
+              "RelPath": "J/J27/J27nB191.xml",
+              "FromLb": "0159b10",
+              "ToLb": "0159c17",
+              "Kwic": "「一陽初動處，萬物未生時。」進云：「節令乍從今日起，歲華猶似去年晴。」師云：「玄酒味方淡，太音聲正稀。」僧問：「有物先天地，無形本寂寥，還許學人會麼？」師云：「萬里長空，片雲點破。」進云：「木女頻頻撾石鼓。」師云：「但形文彩，即屬染汙。」僧禮拜，起立云：「正恁麼時聻？」師云：「好個漆桶。」書記問：「鴛鴦繡出從君看，不把金針度與人，三藏十二部一千七百則都是鴛鴦，如何是金針？」師以手搔鼻，云：「山僧鼻孔有些癢。」進云：「某甲則不然。」師云：「你又作麼生？」書豎一指，云：「穿卻佛祖鼻孔去也。」師云：「也許你一半。」示眾結制，示眾。「得魚忘筌，得兔忘蹄，得意忘言，得了那個？」驀豎拂，云：「忘了這個。且道如何是那個？」乃放下拂子，良久，云：「還有相委悉者麼？須知達磨西來，直指人心，見性成佛，然乃心無形相，且作麼生？指性無方，所又作麼生？見莫是無見而見麼？莫是見物便見心麼？莫是心地法眼能見麼？直饒與麼見得，未是衲僧巴鼻。且道如何是衲僧巴鼻？一堂風冷澹，千古意分明。」舊住大本老宿設茶請示眾，師云：「大眾茶多喫鍾，大本老師為此象田二十餘年辛苦，方有今日。」悅眾云：「茶已喫了，請師還茶錢。」師云：「更要山僧畫蛇添足麼？」乃顧監院云：「常住有事，不妨商量商量。」院舉三登禪師作知客，登出眾，固辭。師云：「我有一問，如道得，許坐禪；道不得，即作知客。」登云：「某向無舌頭。」師云：「這般話當不得，也要山僧肯。」乃托手，云：「你更道看。」登默然，師遂說偈云：「托出虛空一片心，秪將此事售知音，筵中若有真相識，黃葉何妨指作金？」復云：「大眾謝茶。」覺初禪者設茶請示眾。「古人道：『人莫不飲食也，鮮能知味也。』是這般話言淡而旨遠，時人往往強作道理，解注怎解注得下？要且有口者，孰不解飲食？有舌者，孰不知滋味？然喫淡即知淡味、喫鹹即知鹹味，以至喫酒定不說是茶。且有善喫茶者，纔沾唇便知此是天池、此是龍井、此是松蘿，一毫也瞞他不得，那裏不是他知味處？大都不知正味耳。諸仁者！要知正味麼？須向未喫茶時識取。若識未喫茶時滋味了，更須知入口時滋味；若知入口時滋味了，又須知喫茶後滋味。直饒恁麼了，要知覺初禪者今夜設茶的意，秪要諸禪德閉口。然而丈夫有口，要開便開、要閉便閉，為甚麼要人設茶然後閉口？有等好事之者，或逞才辯、或逞",
+              "MasterName": "Jinian Jingxian",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Jinian Jingxian",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J27/J27nB191.xml). Recorded Sayings of Chan Master Xiangtian Jinian. At the opening of a retreat Jinian Jingxian raises his fly-whisk, puts it down, and asks what remains when the devices used to catch fish or rabbits and the words used to reach meaning are forgotten. He questions whether seeing mind or nature in familiar formulas is enough, then asks what counts as a monk's real hold on the matter. He answers with the cool-hall couplet. This is Jinian's current conclusion to a series of live gestures and questions, not a phrase spoken by Bodhidharma in the saying he discusses.",
+              "ClaimText": "一堂風冷澹，千古意分明"
+            },
+            {
+              "RelPath": "J/J28/J28nB206.xml",
+              "FromLb": "0278a20",
+              "ToLb": "0278b27",
+              "Kwic": "長老知得山僧鼻孔短長，眉毛橫豎，聚得阿堵來，營，成禪悅供，黑白甚分明，諸仁隨意用。龜毛拂、兔角，杖，一時施妙用，驚起南山鱉鼻蛇，聲聲叫道：『住住，待我拈一頌。一天瑞氣繞龍丘，四野歡聲笑不休，主伴重重齊暢適，真機全在芥鍼投。二千年外無生曲，此際拈來大地收，驀地一場閒快活，更于何處祝添籌。』山門前金剛一時忍俊不禁，和身便倒，直得諸仁眼裏、鼻裏、耳裏、腹裏，各各圓滿了也。」驀拈拄杖云：「有意氣時添意氣，花鋪錦上更風流。」檀越馬其旋昆仲暨眾護法居士等，請住當湖三聚菴陞座：「祥雲生八極，瑞氣動三千，猶喜籬邊菊，三玄旨復宣。」揮拂云：「還有同聲相應者麼？」問：「向上宗乘即不問，臨濟家風事若何？」師云：「一聲塗毒逼人寒。」進云：「恁麼則四眾霑恩去也。」師云：「知恩一句如何道？」僧便喝，師云：「未信你在。」僧拜云：「蒼天蒼天。」師云：「也是布袋裏老鴉振。」白居士問：「今朝和尚到來，水月堂中又添一重光彩。水月家風即不問，即今陞座又如何？」師云：「一堂風冷澹，千古意分明。」進云：「月臨千澗水，風掃一天雲。」師云：「閒言及剩語，緘口最為高。」士禮退，師云：「太伶俐生。」乃云：「今日蓋因現前眾居士虔請山僧主持院事，舉揚佛法，迫不得已，秪且借水溉花，堇酬來意。若論佛法，未出方丈，早已說過了也，及乎陞座，雍雍肅肅，彼此分明，那堪土上加泥！便恁麼會去，未免平地喫交。設或更要者也之乎，轉見敗闕。」遂拈拂，召大眾云：「我不敢輕于汝等，汝等皆當作佛。」佛誕日說戒，其旋居士暨諸同社護法請陞座，問：「如何是學人本分事？」師云：「整衣護缽。」進云：「向上還有事也無？」師云：「有。」進云：「如何是向上事？」師云：「直下薦取。」僧禮退。師云：「驢年未夢見在。」黃在郊問：「和尚今日陞座，為什袈裟返搭？」師云：「切莫眼花。」進云：「一點也瞞和尚不得。」師云：「再犯不容。」進云：「且救得一半。」師云：「全自領去。」士便出，師云：「果然可憐。」秦伯潛問：「夫子云『天命之謂性』，如何是天命底性？」師云：「切莫話作兩橛。」進云：「道也者不可須臾離也。」聲未絕，師云：「除卻之乎者也道看。」潛便喝，師云：「喝後聻？」士擬議，師笑云：「禮拜了退。」士便禮，師云：「伶俐居士。」師豎拂子云：「看看，且道是佛法耶，世法耶？直下薦得，煙雲魚",
+              "MasterName": "Xiaotang",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Xiaotang",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB206.xml). Recorded Sayings of Monk Xiaotang. At a hall address accepting the abbacy of Sanju Hermitage, a lay visitor asks Xiaotang what is happening as the new master ascends the seat, setting aside the hall's usual style. Xiaotang gives the cool-hall couplet. The visitor replies with moon and wind images; Xiaotang dismisses them as surplus talk and says silence would be better. The couplet is Xiaotang's direct answer to this visitor, and his follow-up prevents the visitor's decorative verse from being treated as an agreed interpretation.",
+              "ClaimText": "一堂風冷澹，千古意分明"
+            },
+            {
+              "RelPath": "J/J28/J28nB213.xml",
+              "FromLb": "0517b18",
+              "ToLb": "0517c23",
+              "Kwic": "尚開示，總不知得落處。竟往江南姑蘇。未久，決意參禮浙江古南牧雲和尚，求示話頭。古云：『父母未生前，那箇是你本來面目？』向這裏參去一載有餘，疑團不破。聞知具德和尚住揚州天寧，欲往見之，告假不允，又住一載。初番打七工夫，略有少許相應，胸中只欲相依具德和尚。到彼，尚問：『何處來？』荅曰：『古南來。』尚曰：『古南和尚有何言句？』荅曰：『無言句。』尚曰：『既在古南，因甚無言？』荅曰：『渠無面目。』尚曰：『既無面目，爭得到這裏？』師曰：『臭名難瞞。』尚便打云：『弄虛頭漢。』師便禮拜，命安水單。一日，隨眾打三，工夫猛加精進，秪是未得了然。自恨障深慧淺，福力微薄，因茲遍參雪竇、雲門、天童，俱不契入。後到報恩，參見玉林和尚，恩問：『撥草瞻風，秪圖見性。那箇是你的性？』師曰：『今日親見和尚。』恩云：『禮拜著。』師拂袖便行，恩招手云：『大德更不回頭。』晚間請茶次，恩云：『在天童少多時？』師云：『將住一載。』恩云：『天童和尚即今面目在甚麼處？』師云：『一堂風冷澹，千古意分明。』恩云：『太煞分明。』蒙命堂司。一日同眾打七，恩喚入室：『你們一向做了執事辛苦。請你們無別打七，風冷同來向這爐火。』師云：『恩大難酬。』恩云：『那箇是你本來面目？』師云：『描不成，畫不就。』恩云：『是甚麼？』師云：『遍界不曾藏。』一日，在山門外侍立，恩云：『這樹有多少根數？』師云：『不落諸數。』恩豎拄杖云：『者箇聻？』師云：『唯吾獨尊。』恩休去。又一日，恩在殿前坐，問云：『古人道：「本來無一物。」為甚麼前殿在前，後殿在後？』師云：『和尚猶有這箇在。』將解制，先一日，喚各寮頭首犒勞，尚拈餅問：『這些油餅作麼生收拾？』師云：『作者方知。』恩云：『知箇甚麼？』師云：『和尚再請些。』又一日，命同眾打七，於三更時聞梆聲觸發，即有偈云：『也大奇，也大奇，三更山靜木雞聲，觸碎金車無背面，倒騎鐵馬趁須彌。』七完，喚入室，師呈頌，恩看過，云：『雖然如是，大須仔細。』師云：『七日之中，皮穿骨露，今日且休去，歇去。』恩拈棒便打：『你還喫得者箇麼？』師云：『美食不中飽人餐。』恩大笑而去。次日，命後禪堂為首領。一日，恩來勘驗，豎拳云：『你識得者箇麼？』師云：『老老大大，拳頭也不識。』恩拈棒便打，師接住杖，云：『切莫錯打好。』恩云：『見甚麼來便恁麼道",
+              "MasterName": "Zhiyan Xiu",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Zhiyan Xiu",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB213.xml). Recorded Sayings of Chan Master Zhiyan Xiu. Zhiyan Xiu recalls a conversation with Yulin, who asks where Zhiyan's former teacher Tiantong can now be seen. Zhiyan answers with the cool-hall couplet, and Yulin replies that it is exceedingly clear. The phrase is Zhiyan's remembered answer to a precise question about the former teacher, not a new saying spoken by Tiantong or by Yulin; the later encounters in the same autobiographical passage are separate tests.",
+              "ClaimText": "一堂風冷澹，千古意分明"
+            },
+            {
+              "RelPath": "J/J28/J28nB220.xml",
+              "FromLb": "0791b10",
+              "ToLb": "0792a08",
+              "Kwic": "普賢勞攘個什麼？波斯照古鏡。」陞座。「纔見結制，今日又解，雪光和燦爛，瑞氣湧三台，且喜青山洗出，玉樹消融，萬籟絕響，堂中悄靜。適纔侍者道：『恭喜大眾都得根本智。』山僧劈脊一棒，且道是賞你？罰你？」復卓，云：「不見道：庭前生瑞草，好事不如無。」一喝，下座。法璽印禪師語錄卷第三法璽印禪師語錄卷第四嗣法門人性圓旋璣旋哲旋賢等編次住北京南城清化禪寺語錄住北京南城清化禪寺語錄師於壬子年九月二十二日進院。山門。「門戶近都，深固幽遠。八字打開，誰是主者？」一喝便進。彌勒殿。久視，云：「坦腹者阿師，為何笑不歇？想是布袋口，不敢輕漏洩。」插香，云：「明眼人難瞞。」佛殿。「巍巍挺特，眾聖中尊。且道今日新長老到來作麼生相見？」遂展具，云：「相隨來也。」大士殿。「婆心三大士，威德莫能齊，為什麼終日在者裏成群作隊？正眼看來，也須各領三十棒。」伽藍堂。「十方常住，賴汝維持，者個破砂盆，急急須扶起。何故聻？靈山受囑來斯地，千古難忘者片心。」遂插香。祖師堂。「一堂風冷澹，千古意分明。且道分明底是個什麼？」良久，云：「惡。」據方丈。師以杖左卓云：「有賓有主，有照有用。」以杖右卓云：「有縱有奪，有殺有活。」以杖橫案云：「三世諸佛、歷代祖師、天下老和尚，都向者裏納敗缺。」一僧纔出，師劈頭便棒云：「正令當行。」即日上堂。師至座前，以杖指云：「者個所在，乃從上老古錐放捨身命處、廣運神通處，今朝無面目的漢到來，且道作何三昧？」一喝便陞。拈香祝聖畢，復拈香云：「此一瓣香，最初流落諸方深坑險隘，百煉不成；末後撞入雲居大冶紅爐，一鎚打就。今對人天第四回拈出，爇向爐中，端為供養前住雲居歸老竹林堂上傳臨濟正宗第三十世傘居先師顓愚大和尚，用酬法乳之恩。」遂斂衣就座。盤山語石和尚白槌云：「法筵龍象眾，當觀第一義。」師云：「第一義諦如熱火燧、似太阿鋒，觸則頭開腦裂、背則膽喪魂飛，眾中有不顧性命者出來相見。」問：「敲唱同時，萬里之鉤齊放；主賓互換，縵天之網全彰。打鳳羅龍即不問，如何是賓中主？」師豎起拂子。「如何是主中賓？」師垂下拂子。「如何是主中主？」師橫按拂子。「如何是賓中賓？」師擲下拂子。進云：「賓主已蒙師指示，聲氣相同一句又作麼生？」師拈棒云：「照顧頂𩕳。」進云：「道泰不傳天子令，時清休唱太平歌。」師打云：「要識青山雨後看。",
+              "MasterName": "Faxi Yin",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Faxi Yin",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB220.xml). Recorded Sayings of Chan Master Faxiyin. On entering Qinghua Monastery, Faxi Yin moves through its buildings with brief remarks and offerings. At the ancestral hall he voices the cool-hall couplet, asks what exactly is clear, pauses, and gives a terse exclamation. He then moves to the abbot's quarters and uses his staff in a separate set of host-and-guest gestures. The couplet belongs to Faxi's present ancestral-hall address and its open question, not to those later gestures.",
+              "ClaimText": "一堂風冷澹，千古意分明"
+            },
+            {
+              "RelPath": "J/J36/J36nB365.xml",
+              "FromLb": "0815c29",
+              "ToLb": "0816b03",
+              "Kwic": "「箇箇眉毛橫八字。」進云：「將謂和尚不恁麼道。」師云：「不妨疑著。」進云：「天寒人寒，滴水滴凍，因甚又道石筍抽條，冰河發燄？」師云：「不是一番寒徹骨，爭得梅花撲鼻香？」進云：「即今因齋慶讚，畢竟如何話會？」師云：「端坐受供養，施主常安樂。」進云：「恁麼則性海波深龍睡穩，心王不動自昇平。」師云：「阿誰不願？」問：「言前廌得，猶是滯殼迷封；句下精通，未免觸途狂見。去此二途，請師直指。」師云：「中間薦取。」進云：「無人知此意，令我憶南泉。」師云：「是甚麼意？」僧喝，師云：「不勞再勘。」問：「十方同聚會，箇箇學無為，意旨如何？」師云：「頭頂天，腳踏地。」進云：「此是選佛場，心空及第歸又作麼生？」師云：「綠水青山全體現，森羅萬象笑顏開。」進云：「陰消陽長尋常事，荳爆寒灰始出群。」師云：「好箇消息。」問：「適來掃塔，今又上堂，只如盡十方世界是箇先老人塔，未審和尚從何處掃起？」師卓拄杖，云：「一任觀瞻。」進云：「驀地相逢，有何言句？」師云：「一堂風冷澹，千古意分明。」進云：「雲裏撥開金鳳子，杖頭敲出玉麒麟。」師打，云：「切莫眼花。」問：「憶昔高峰有六問，請師直指示當人。」師云：「祖師無此語。」進云：「大徹底人本脫生死，因甚命根不斷？」師云：「家無小使，不成君子。」進云：「佛祖公案只是一箇道理，因甚有明與不明？」師云：「無鬚鎖子兩頭搖。」進云：「大修行人當遵佛行，因甚不守毘尼？」師云：「大象不遊免徑。」進云：「杲日當空，無所不照，因甚被片雲遮卻？」師云：「一道神光萬境閒。」進云：「人人有箇影子，寸步不離，因甚踏不著？」師云：「用踏作麼？」進云：「盡大地是箇火坑，得何三昧不被燒卻？」師云：「金不博金。」進云：「六語已蒙明指示，天童的旨請師宣。」師云：「陣雲橫海上，拔劍攪龍門。」進云：「與麼則佛祖機關無處著，陰陽未判又如何？」師舉拂子，云：「能為萬象主，不逐四時凋。」問：「至節全彰即且置，如何是臨濟宗？」師云：「奔雷走電。」進云：「如何是雲門宗？」師云：「紅旗閃爍。」進云：「如何是曹洞宗？」師云：「君臣道合。」進云：「如何是溈仰宗？」師云：「父慈子孝。」進云：「如何是法眼宗？」師云：「滿目青山。」進云：「恁麼則燈傳太白孤風峻，萬象森羅盡點頭。」師云：「閒言語。」乃云：「洞山掇退果子桌，慈明",
+              "MasterName": "Shipu Chaozhi",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Shipu Chaozhi",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J36/J36nB365.xml). Recorded Sayings of Chan Master Shipuzhi. After a monk has asked about sweeping an old teacher's stupa, Shipu Chaozhi strikes his staff and allows the assembly to look. The monk asks what word is available at an unexpected meeting; Shipu answers with the cool-hall couplet. When the monk adds a decorative image of a phoenix and unicorn, Shipu strikes him and warns him not to see wrongly. The couplet is Shipu's direct reply in this stupa exchange, and the blow marks his refusal to let the monk's embellishment stand as its explanation.",
+              "ClaimText": "一堂風冷澹，千古意分明"
+            }
+          ],
           "SourceTexts": [
             "J/J38/J38nB415.xml",
             "X/X67/X67n1303.xml",
             "J/J25/J25nB171.xml",
             "J/J27/J27nB193.xml",
             "J/J35/J35nB343.xml",
-            "J/J37/J37nB387.xml"
-          ],
-          "RelatedMasters": [
-            "Miaoyun Zhenxiong",
-            "Linquan Conglun",
-            "Tianyin Yuanxiu",
-            "Yinyuan Longqi",
-            "Miyin Zhenchuan",
-            "Gusu Zun"
-          ],
-          "RelatedTerms": [],
-          "Explanation": "A cool, spare hall and a clear old meaning form a short answer used in six different present questions, recollections, and comments. Miaoyun Zhenxiong recounts visiting his elder Muyun, who forbids him to answer by raising a fist or shouting and asks for one honest phrase. Miaoyun offers the quiet-hall couplet. Muyun immediately asks how he would respond to the old injunction not to stay where there is Buddha and to hurry past where there is none; Miaoyun answers that this is where he stakes his life, and Muyun strikes him. The couplet is Miaoyun's remembered reply in a live teacher-student test, not a final verdict accepted without further probing. Linquan Conglun has been discussing sayings about the Buddha in a jeweled hall and the fire-flame teachings of Xuefeng and Yunmen. He says these startling images share a line of force, asks the assembly whether they understand, and closes with the quiet-hall couplet. The phrase is Linquan's present conclusion to a sequence of old statements; the earlier Buddha, Xuefeng, and Yunmen are figures he cites, not speakers of this final line. Tianyin Yuanxiu raises the old exchange in which Emperor Suzong asks National Teacher Zhong what teaching he received at Caoxi, and Zhong answers by asking whether the emperor sees a cloud in the sky. Tianyin praises Zhong's answer but asks what the emperor could have said to turn the exchange around. After a long pause Tianyin supplies the quiet-hall couplet. The line is Tianyin's own proposed turning word for this cited emperor-teacher encounter, not a reply uttered by Zhong or Suzong in the old case. At the closing of a retreat Yinyuan Longqi speaks of opening the gates, driving out idle ghosts, and leaving the hall empty, quiet, and awake. He voices the quiet-hall couplet for this inner-hall matter, then asks what word will serve monks traveling east or west. An attendant raises a fist; Yinyuan smiles and answers with an image of a slight misstep on the road. The couplet describes the cleared teaching space, while the subsequent exchange tests what can be carried beyond it. Miyin Zhenchuan has just answered a monk's question about clear seeing and hearing with a sharp warning. In his ensuing address he speaks of hearing the river and seeing clear light, then warns against looking for the Way in famous teachers or in words. He asks how to say one clear, undimmed phrase and answers with the quiet-hall couplet. The line is Miyin's current answer to his own question about clarity, not a quotation from the next old case raised in the following sermon. At a hall sermon requested by lay donor Wen Yunsheng, a monk asks Gusu Zun how humans and devas meet and see one another. Gusu answers directly with the quiet-hall couplet. The monk then asks separately about Buddha, Dharma, Sangha, and the donor's benefit; Gusu gives different replies and strikes when the monk tries to continue. The couplet belongs to the first question in this current exchange, not to all of the later questions or to the donor's blessing."
-        }
-      ]
-    },
-    {
-      "Id": "t_55c99d11f229",
-      "SourceTerm": "一堂風冷澹，千古意分明",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "r10 fresh10k source-first author A1",
-      "WrittenUtc": "2026-10-28T23:25:46Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "A cool, spare air fills the hall; the meaning of a thousand ages stands clear",
-          "AlternateTargets": [
-            "The hall is cool and quiet, yet the ancient intent is plainly present"
-          ],
-          "SearchAliases": [
-            "cool quiet hall ancient meaning clear",
-            "hall wind cool ancient intent"
-          ],
-          "Status": "preferred",
-          "Validation": "multi-source",
-          "Note": "The hall has a cool, spare air, while an intention carried through ages is clear there. Masters use the pair to say that an old teaching can be met in a present room or encounter. Tian'an draws it from a sermon on wind and speech; Xiaotang gives it to a visitor asking about his hall; Faxi speaks it in an ancestral hall; Shipu answers after a stupa has been swept. The line is an appraisal of presence, not a weather report alone.",
-          "Occurrences": [
-            {
-              "RelPath": "J/J26/J26nB187.xml",
-              "FromLb": "0716b23",
-              "ToLb": "0717a04",
-              "Kwic": "金剛力士，屬令一百日內現前諸天每人與它兩箇，佛法一字不說。彌勒菩薩問云：『仁者！此是何義？』大士曰：『胡餅討甚麼汁？』昇上座在傍失笑而醒，今日小參舉似大眾，敢問諸仁：昇上座說的是法邪？說的是夢邪？若說是夢，現今說法；若說是法，昨晚做夢。於此明得，便可親證無生法忍；其或未然，觀世音菩薩將錢買燒餅，放下手卻是饅頭。參。」秉拂。「四大無我心如風，現今風聲浩浩，風作何狀？有者說風是圓底，若不是圓底，如何轉轆轆地？有者說風是方底，若不是方底，如何四維上下一吹遍滿？有者說風是匾底，若不是匾底，如何窗櫺縫罅橫吹直入？有者說風是長底，若不是長底，如何吹得千里萬里？恁般說話總是謗風，風不受謗，謗即是風。昇上座如是而說，是有說邪？無說邪？無說而說，說亦是風。諸仁立地而聽，是有聽邪？無聽邪？無聽而聽，聽亦是風。尋常離心意識參、絕凡聖路學，向無可參處而參、無可學處而學，參底、學底也是風。既然如是，謗底是風？說底是風？聽底是風？參底是風？學底是風？真可謂一堂風冷澹，千古意分明。」金粟首座寮，秉拂。「東土之山以泰山為首，移置須彌山下，一丘一壑而已。東震之水以滄溟為大，移置香水海邊，一杯一勺而已。然善用者，一杯一勺便成巨浪千尋，一壑一丘直下縣崖峭壁。拈頭作尾，在法不在人；拈尾作頭，在人不在法。若有頭尾相稱者，不妨出眾相見。」問：「轉身就父即不問，遊子歸家意若何？」師云：「九十九峰齊點首。」進云：「如何是入門一句？」師云：「倚天長劍逼人寒。」進云：「如何是門內句？」師云：「清風拂日月。」進云：「歸家消息蒙師指，滿堂大眾盡知音。」師云：「還有未出門一句，如何不問？」僧喝，師云：「胡喝亂喝。」僧禮拜，師便打。乃云：「本昇因大和尚壽誕前來慶祝，從青州未發足以前早已打迭，欲覓一語以為慶讚了不可得。及乎發足青州，越水度山三千餘里，欲覓一語了不可得。迨至來金粟寺，人事之餘已經半月，欲覓一語了不可得。何故如此？蓋為威音王以前無生尚不可得，何況有生？從此盡未來際無量壽尚不可名，何況歲月日時？然則不可以智知、不可以識識、不可以說說、不可以歲月而求、不可以算數而得，畢竟如何？虛空可量風可繫，無能盡說壽功德。此是昇上座慶祝之微忱也，再將途中所歷與諸昆季宣揚一上，但不可作佛法商量，亦不可作世諦流布。昇上座于四月初二日從青州發",
-              "MasterName": "Tian'an Sheng",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Tian'an Sheng",
-                  "Roles": [
-                    "utterer",
-                    "record-owner"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded sayings. Tian'an closes his own sermon on speaking, hearing, and the wind with the complete pair."
-            },
-            {
-              "RelPath": "J/J27/J27nB191.xml",
-              "FromLb": "0159b10",
-              "ToLb": "0159c17",
-              "Kwic": "「一陽初動處，萬物未生時。」進云：「節令乍從今日起，歲華猶似去年晴。」師云：「玄酒味方淡，太音聲正稀。」僧問：「有物先天地，無形本寂寥，還許學人會麼？」師云：「萬里長空，片雲點破。」進云：「木女頻頻撾石鼓。」師云：「但形文彩，即屬染汙。」僧禮拜，起立云：「正恁麼時聻？」師云：「好個漆桶。」書記問：「鴛鴦繡出從君看，不把金針度與人，三藏十二部一千七百則都是鴛鴦，如何是金針？」師以手搔鼻，云：「山僧鼻孔有些癢。」進云：「某甲則不然。」師云：「你又作麼生？」書豎一指，云：「穿卻佛祖鼻孔去也。」師云：「也許你一半。」示眾結制，示眾。「得魚忘筌，得兔忘蹄，得意忘言，得了那個？」驀豎拂，云：「忘了這個。且道如何是那個？」乃放下拂子，良久，云：「還有相委悉者麼？須知達磨西來，直指人心，見性成佛，然乃心無形相，且作麼生？指性無方，所又作麼生？見莫是無見而見麼？莫是見物便見心麼？莫是心地法眼能見麼？直饒與麼見得，未是衲僧巴鼻。且道如何是衲僧巴鼻？一堂風冷澹，千古意分明。」舊住大本老宿設茶請示眾，師云：「大眾茶多喫鍾，大本老師為此象田二十餘年辛苦，方有今日。」悅眾云：「茶已喫了，請師還茶錢。」師云：「更要山僧畫蛇添足麼？」乃顧監院云：「常住有事，不妨商量商量。」院舉三登禪師作知客，登出眾，固辭。師云：「我有一問，如道得，許坐禪；道不得，即作知客。」登云：「某向無舌頭。」師云：「這般話當不得，也要山僧肯。」乃托手，云：「你更道看。」登默然，師遂說偈云：「托出虛空一片心，秪將此事售知音，筵中若有真相識，黃葉何妨指作金？」復云：「大眾謝茶。」覺初禪者設茶請示眾。「古人道：『人莫不飲食也，鮮能知味也。』是這般話言淡而旨遠，時人往往強作道理，解注怎解注得下？要且有口者，孰不解飲食？有舌者，孰不知滋味？然喫淡即知淡味、喫鹹即知鹹味，以至喫酒定不說是茶。且有善喫茶者，纔沾唇便知此是天池、此是龍井、此是松蘿，一毫也瞞他不得，那裏不是他知味處？大都不知正味耳。諸仁者！要知正味麼？須向未喫茶時識取。若識未喫茶時滋味了，更須知入口時滋味；若知入口時滋味了，又須知喫茶後滋味。直饒恁麼了，要知覺初禪者今夜設茶的意，秪要諸禪德閉口。然而丈夫有口，要開便開、要閉便閉，為甚麼要人設茶然後閉口？有等好事之者，或逞才辯、或逞",
-              "MasterName": "Jinian Jingxian",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Jinian Jingxian",
-                  "Roles": [
-                    "utterer",
-                    "record-owner"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J27/J27nB191.xml). Recorded sayings. Jinian asks what marks a monk after ordinary answers have been set aside and gives the pair."
-            },
-            {
-              "RelPath": "J/J28/J28nB206.xml",
-              "FromLb": "0278a20",
-              "ToLb": "0278b27",
-              "Kwic": "長老知得山僧鼻孔短長，眉毛橫豎，聚得阿堵來，營，成禪悅供，黑白甚分明，諸仁隨意用。龜毛拂、兔角，杖，一時施妙用，驚起南山鱉鼻蛇，聲聲叫道：『住住，待我拈一頌。一天瑞氣繞龍丘，四野歡聲笑不休，主伴重重齊暢適，真機全在芥鍼投。二千年外無生曲，此際拈來大地收，驀地一場閒快活，更于何處祝添籌。』山門前金剛一時忍俊不禁，和身便倒，直得諸仁眼裏、鼻裏、耳裏、腹裏，各各圓滿了也。」驀拈拄杖云：「有意氣時添意氣，花鋪錦上更風流。」檀越馬其旋昆仲暨眾護法居士等，請住當湖三聚菴陞座：「祥雲生八極，瑞氣動三千，猶喜籬邊菊，三玄旨復宣。」揮拂云：「還有同聲相應者麼？」問：「向上宗乘即不問，臨濟家風事若何？」師云：「一聲塗毒逼人寒。」進云：「恁麼則四眾霑恩去也。」師云：「知恩一句如何道？」僧便喝，師云：「未信你在。」僧拜云：「蒼天蒼天。」師云：「也是布袋裏老鴉振。」白居士問：「今朝和尚到來，水月堂中又添一重光彩。水月家風即不問，即今陞座又如何？」師云：「一堂風冷澹，千古意分明。」進云：「月臨千澗水，風掃一天雲。」師云：「閒言及剩語，緘口最為高。」士禮退，師云：「太伶俐生。」乃云：「今日蓋因現前眾居士虔請山僧主持院事，舉揚佛法，迫不得已，秪且借水溉花，堇酬來意。若論佛法，未出方丈，早已說過了也，及乎陞座，雍雍肅肅，彼此分明，那堪土上加泥！便恁麼會去，未免平地喫交。設或更要者也之乎，轉見敗闕。」遂拈拂，召大眾云：「我不敢輕于汝等，汝等皆當作佛。」佛誕日說戒，其旋居士暨諸同社護法請陞座，問：「如何是學人本分事？」師云：「整衣護缽。」進云：「向上還有事也無？」師云：「有。」進云：「如何是向上事？」師云：「直下薦取。」僧禮退。師云：「驢年未夢見在。」黃在郊問：「和尚今日陞座，為什袈裟返搭？」師云：「切莫眼花。」進云：「一點也瞞和尚不得。」師云：「再犯不容。」進云：「且救得一半。」師云：「全自領去。」士便出，師云：「果然可憐。」秦伯潛問：「夫子云『天命之謂性』，如何是天命底性？」師云：「切莫話作兩橛。」進云：「道也者不可須臾離也。」聲未絕，師云：「除卻之乎者也道看。」潛便喝，師云：「喝後聻？」士擬議，師笑云：「禮拜了退。」士便禮，師云：「伶俐居士。」師豎拂子云：「看看，且道是佛法耶，世法耶？直下薦得，煙雲魚",
-              "MasterName": "Xiaotang",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Xiaotang",
-                  "Roles": [
-                    "utterer",
-                    "record-owner"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J28/J28nB206.xml). Recorded sayings. Xiaotang answers a lay visitor asking what his hall offers with the pair."
-            },
-            {
-              "RelPath": "J/J28/J28nB213.xml",
-              "FromLb": "0517b18",
-              "ToLb": "0517c23",
-              "Kwic": "尚開示，總不知得落處。竟往江南姑蘇。未久，決意參禮浙江古南牧雲和尚，求示話頭。古云：『父母未生前，那箇是你本來面目？』向這裏參去一載有餘，疑團不破。聞知具德和尚住揚州天寧，欲往見之，告假不允，又住一載。初番打七工夫，略有少許相應，胸中只欲相依具德和尚。到彼，尚問：『何處來？』荅曰：『古南來。』尚曰：『古南和尚有何言句？』荅曰：『無言句。』尚曰：『既在古南，因甚無言？』荅曰：『渠無面目。』尚曰：『既無面目，爭得到這裏？』師曰：『臭名難瞞。』尚便打云：『弄虛頭漢。』師便禮拜，命安水單。一日，隨眾打三，工夫猛加精進，秪是未得了然。自恨障深慧淺，福力微薄，因茲遍參雪竇、雲門、天童，俱不契入。後到報恩，參見玉林和尚，恩問：『撥草瞻風，秪圖見性。那箇是你的性？』師曰：『今日親見和尚。』恩云：『禮拜著。』師拂袖便行，恩招手云：『大德更不回頭。』晚間請茶次，恩云：『在天童少多時？』師云：『將住一載。』恩云：『天童和尚即今面目在甚麼處？』師云：『一堂風冷澹，千古意分明。』恩云：『太煞分明。』蒙命堂司。一日同眾打七，恩喚入室：『你們一向做了執事辛苦。請你們無別打七，風冷同來向這爐火。』師云：『恩大難酬。』恩云：『那箇是你本來面目？』師云：『描不成，畫不就。』恩云：『是甚麼？』師云：『遍界不曾藏。』一日，在山門外侍立，恩云：『這樹有多少根數？』師云：『不落諸數。』恩豎拄杖云：『者箇聻？』師云：『唯吾獨尊。』恩休去。又一日，恩在殿前坐，問云：『古人道：「本來無一物。」為甚麼前殿在前，後殿在後？』師云：『和尚猶有這箇在。』將解制，先一日，喚各寮頭首犒勞，尚拈餅問：『這些油餅作麼生收拾？』師云：『作者方知。』恩云：『知箇甚麼？』師云：『和尚再請些。』又一日，命同眾打七，於三更時聞梆聲觸發，即有偈云：『也大奇，也大奇，三更山靜木雞聲，觸碎金車無背面，倒騎鐵馬趁須彌。』七完，喚入室，師呈頌，恩看過，云：『雖然如是，大須仔細。』師云：『七日之中，皮穿骨露，今日且休去，歇去。』恩拈棒便打：『你還喫得者箇麼？』師云：『美食不中飽人餐。』恩大笑而去。次日，命後禪堂為首領。一日，恩來勘驗，豎拳云：『你識得者箇麼？』師云：『老老大大，拳頭也不識。』恩拈棒便打，師接住杖，云：『切莫錯打好。』恩云：『見甚麼來便恁麼道",
-              "MasterName": "Zhiyan Xiu",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Zhiyan Xiu",
-                  "Roles": [
-                    "utterer",
-                    "record-owner"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J28/J28nB213.xml). Recorded sayings. Zhiyan gives the pair in his own encounter when asked what his former teacher looks like now."
-            },
-            {
-              "RelPath": "J/J28/J28nB220.xml",
-              "FromLb": "0791b10",
-              "ToLb": "0792a08",
-              "Kwic": "普賢勞攘個什麼？波斯照古鏡。」陞座。「纔見結制，今日又解，雪光和燦爛，瑞氣湧三台，且喜青山洗出，玉樹消融，萬籟絕響，堂中悄靜。適纔侍者道：『恭喜大眾都得根本智。』山僧劈脊一棒，且道是賞你？罰你？」復卓，云：「不見道：庭前生瑞草，好事不如無。」一喝，下座。法璽印禪師語錄卷第三法璽印禪師語錄卷第四嗣法門人性圓旋璣旋哲旋賢等編次住北京南城清化禪寺語錄住北京南城清化禪寺語錄師於壬子年九月二十二日進院。山門。「門戶近都，深固幽遠。八字打開，誰是主者？」一喝便進。彌勒殿。久視，云：「坦腹者阿師，為何笑不歇？想是布袋口，不敢輕漏洩。」插香，云：「明眼人難瞞。」佛殿。「巍巍挺特，眾聖中尊。且道今日新長老到來作麼生相見？」遂展具，云：「相隨來也。」大士殿。「婆心三大士，威德莫能齊，為什麼終日在者裏成群作隊？正眼看來，也須各領三十棒。」伽藍堂。「十方常住，賴汝維持，者個破砂盆，急急須扶起。何故聻？靈山受囑來斯地，千古難忘者片心。」遂插香。祖師堂。「一堂風冷澹，千古意分明。且道分明底是個什麼？」良久，云：「惡。」據方丈。師以杖左卓云：「有賓有主，有照有用。」以杖右卓云：「有縱有奪，有殺有活。」以杖橫案云：「三世諸佛、歷代祖師、天下老和尚，都向者裏納敗缺。」一僧纔出，師劈頭便棒云：「正令當行。」即日上堂。師至座前，以杖指云：「者個所在，乃從上老古錐放捨身命處、廣運神通處，今朝無面目的漢到來，且道作何三昧？」一喝便陞。拈香祝聖畢，復拈香云：「此一瓣香，最初流落諸方深坑險隘，百煉不成；末後撞入雲居大冶紅爐，一鎚打就。今對人天第四回拈出，爇向爐中，端為供養前住雲居歸老竹林堂上傳臨濟正宗第三十世傘居先師顓愚大和尚，用酬法乳之恩。」遂斂衣就座。盤山語石和尚白槌云：「法筵龍象眾，當觀第一義。」師云：「第一義諦如熱火燧、似太阿鋒，觸則頭開腦裂、背則膽喪魂飛，眾中有不顧性命者出來相見。」問：「敲唱同時，萬里之鉤齊放；主賓互換，縵天之網全彰。打鳳羅龍即不問，如何是賓中主？」師豎起拂子。「如何是主中賓？」師垂下拂子。「如何是主中主？」師橫按拂子。「如何是賓中賓？」師擲下拂子。進云：「賓主已蒙師指示，聲氣相同一句又作麼生？」師拈棒云：「照顧頂𩕳。」進云：「道泰不傳天子令，時清休唱太平歌。」師打云：「要識青山雨後看。",
-              "MasterName": "Faxi Yin",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Faxi Yin",
-                  "Roles": [
-                    "utterer",
-                    "record-owner"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J28/J28nB220.xml). Recorded sayings. Faxi gives the pair at the ancestral hall and immediately asks what is clear there."
-            },
-            {
-              "RelPath": "J/J36/J36nB365.xml",
-              "FromLb": "0815c29",
-              "ToLb": "0816b03",
-              "Kwic": "「箇箇眉毛橫八字。」進云：「將謂和尚不恁麼道。」師云：「不妨疑著。」進云：「天寒人寒，滴水滴凍，因甚又道石筍抽條，冰河發燄？」師云：「不是一番寒徹骨，爭得梅花撲鼻香？」進云：「即今因齋慶讚，畢竟如何話會？」師云：「端坐受供養，施主常安樂。」進云：「恁麼則性海波深龍睡穩，心王不動自昇平。」師云：「阿誰不願？」問：「言前廌得，猶是滯殼迷封；句下精通，未免觸途狂見。去此二途，請師直指。」師云：「中間薦取。」進云：「無人知此意，令我憶南泉。」師云：「是甚麼意？」僧喝，師云：「不勞再勘。」問：「十方同聚會，箇箇學無為，意旨如何？」師云：「頭頂天，腳踏地。」進云：「此是選佛場，心空及第歸又作麼生？」師云：「綠水青山全體現，森羅萬象笑顏開。」進云：「陰消陽長尋常事，荳爆寒灰始出群。」師云：「好箇消息。」問：「適來掃塔，今又上堂，只如盡十方世界是箇先老人塔，未審和尚從何處掃起？」師卓拄杖，云：「一任觀瞻。」進云：「驀地相逢，有何言句？」師云：「一堂風冷澹，千古意分明。」進云：「雲裏撥開金鳳子，杖頭敲出玉麒麟。」師打，云：「切莫眼花。」問：「憶昔高峰有六問，請師直指示當人。」師云：「祖師無此語。」進云：「大徹底人本脫生死，因甚命根不斷？」師云：「家無小使，不成君子。」進云：「佛祖公案只是一箇道理，因甚有明與不明？」師云：「無鬚鎖子兩頭搖。」進云：「大修行人當遵佛行，因甚不守毘尼？」師云：「大象不遊免徑。」進云：「杲日當空，無所不照，因甚被片雲遮卻？」師云：「一道神光萬境閒。」進云：「人人有箇影子，寸步不離，因甚踏不著？」師云：「用踏作麼？」進云：「盡大地是箇火坑，得何三昧不被燒卻？」師云：「金不博金。」進云：「六語已蒙明指示，天童的旨請師宣。」師云：「陣雲橫海上，拔劍攪龍門。」進云：「與麼則佛祖機關無處著，陰陽未判又如何？」師舉拂子，云：「能為萬象主，不逐四時凋。」問：「至節全彰即且置，如何是臨濟宗？」師云：「奔雷走電。」進云：「如何是雲門宗？」師云：「紅旗閃爍。」進云：「如何是曹洞宗？」師云：「君臣道合。」進云：「如何是溈仰宗？」師云：「父慈子孝。」進云：「如何是法眼宗？」師云：「滿目青山。」進云：「恁麼則燈傳太白孤風峻，萬象森羅盡點頭。」師云：「閒言語。」乃云：「洞山掇退果子桌，慈明",
-              "MasterName": "Shipu Chaozhi",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Shipu Chaozhi",
-                  "Roles": [
-                    "utterer",
-                    "record-owner"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J36/J36nB365.xml). Recorded sayings. Shipu answers a monk who asks for a word after sweeping the old teacher's stupa."
-            }
-          ],
-          "ClaimAnchors": [
-            {
-              "RelPath": "J/J26/J26nB187.xml",
-              "FromLb": "0716b23",
-              "ToLb": "0717a04",
-              "Kwic": "金剛力士，屬令一百日內現前諸天每人與它兩箇，佛法一字不說。彌勒菩薩問云：『仁者！此是何義？』大士曰：『胡餅討甚麼汁？』昇上座在傍失笑而醒，今日小參舉似大眾，敢問諸仁：昇上座說的是法邪？說的是夢邪？若說是夢，現今說法；若說是法，昨晚做夢。於此明得，便可親證無生法忍；其或未然，觀世音菩薩將錢買燒餅，放下手卻是饅頭。參。」秉拂。「四大無我心如風，現今風聲浩浩，風作何狀？有者說風是圓底，若不是圓底，如何轉轆轆地？有者說風是方底，若不是方底，如何四維上下一吹遍滿？有者說風是匾底，若不是匾底，如何窗櫺縫罅橫吹直入？有者說風是長底，若不是長底，如何吹得千里萬里？恁般說話總是謗風，風不受謗，謗即是風。昇上座如是而說，是有說邪？無說邪？無說而說，說亦是風。諸仁立地而聽，是有聽邪？無聽邪？無聽而聽，聽亦是風。尋常離心意識參、絕凡聖路學，向無可參處而參、無可學處而學，參底、學底也是風。既然如是，謗底是風？說底是風？聽底是風？參底是風？學底是風？真可謂一堂風冷澹，千古意分明。」金粟首座寮，秉拂。「東土之山以泰山為首，移置須彌山下，一丘一壑而已。東震之水以滄溟為大，移置香水海邊，一杯一勺而已。然善用者，一杯一勺便成巨浪千尋，一壑一丘直下縣崖峭壁。拈頭作尾，在法不在人；拈尾作頭，在人不在法。若有頭尾相稱者，不妨出眾相見。」問：「轉身就父即不問，遊子歸家意若何？」師云：「九十九峰齊點首。」進云：「如何是入門一句？」師云：「倚天長劍逼人寒。」進云：「如何是門內句？」師云：「清風拂日月。」進云：「歸家消息蒙師指，滿堂大眾盡知音。」師云：「還有未出門一句，如何不問？」僧喝，師云：「胡喝亂喝。」僧禮拜，師便打。乃云：「本昇因大和尚壽誕前來慶祝，從青州未發足以前早已打迭，欲覓一語以為慶讚了不可得。及乎發足青州，越水度山三千餘里，欲覓一語了不可得。迨至來金粟寺，人事之餘已經半月，欲覓一語了不可得。何故如此？蓋為威音王以前無生尚不可得，何況有生？從此盡未來際無量壽尚不可名，何況歲月日時？然則不可以智知、不可以識識、不可以說說、不可以歲月而求、不可以算數而得，畢竟如何？虛空可量風可繫，無能盡說壽功德。此是昇上座慶祝之微忱也，再將途中所歷與諸昆季宣揚一上，但不可作佛法商量，亦不可作世諦流布。昇上座于四月初二日從青州發",
-              "MasterName": "Tian'an Sheng",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Tian'an Sheng",
-                  "Roles": [
-                    "utterer",
-                    "record-owner"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded sayings. Tian'an closes his own sermon on speaking, hearing, and the wind with the complete pair.",
-              "ClaimText": "一堂風冷澹，千古意分明"
-            },
-            {
-              "RelPath": "J/J27/J27nB191.xml",
-              "FromLb": "0159b10",
-              "ToLb": "0159c17",
-              "Kwic": "「一陽初動處，萬物未生時。」進云：「節令乍從今日起，歲華猶似去年晴。」師云：「玄酒味方淡，太音聲正稀。」僧問：「有物先天地，無形本寂寥，還許學人會麼？」師云：「萬里長空，片雲點破。」進云：「木女頻頻撾石鼓。」師云：「但形文彩，即屬染汙。」僧禮拜，起立云：「正恁麼時聻？」師云：「好個漆桶。」書記問：「鴛鴦繡出從君看，不把金針度與人，三藏十二部一千七百則都是鴛鴦，如何是金針？」師以手搔鼻，云：「山僧鼻孔有些癢。」進云：「某甲則不然。」師云：「你又作麼生？」書豎一指，云：「穿卻佛祖鼻孔去也。」師云：「也許你一半。」示眾結制，示眾。「得魚忘筌，得兔忘蹄，得意忘言，得了那個？」驀豎拂，云：「忘了這個。且道如何是那個？」乃放下拂子，良久，云：「還有相委悉者麼？須知達磨西來，直指人心，見性成佛，然乃心無形相，且作麼生？指性無方，所又作麼生？見莫是無見而見麼？莫是見物便見心麼？莫是心地法眼能見麼？直饒與麼見得，未是衲僧巴鼻。且道如何是衲僧巴鼻？一堂風冷澹，千古意分明。」舊住大本老宿設茶請示眾，師云：「大眾茶多喫鍾，大本老師為此象田二十餘年辛苦，方有今日。」悅眾云：「茶已喫了，請師還茶錢。」師云：「更要山僧畫蛇添足麼？」乃顧監院云：「常住有事，不妨商量商量。」院舉三登禪師作知客，登出眾，固辭。師云：「我有一問，如道得，許坐禪；道不得，即作知客。」登云：「某向無舌頭。」師云：「這般話當不得，也要山僧肯。」乃托手，云：「你更道看。」登默然，師遂說偈云：「托出虛空一片心，秪將此事售知音，筵中若有真相識，黃葉何妨指作金？」復云：「大眾謝茶。」覺初禪者設茶請示眾。「古人道：『人莫不飲食也，鮮能知味也。』是這般話言淡而旨遠，時人往往強作道理，解注怎解注得下？要且有口者，孰不解飲食？有舌者，孰不知滋味？然喫淡即知淡味、喫鹹即知鹹味，以至喫酒定不說是茶。且有善喫茶者，纔沾唇便知此是天池、此是龍井、此是松蘿，一毫也瞞他不得，那裏不是他知味處？大都不知正味耳。諸仁者！要知正味麼？須向未喫茶時識取。若識未喫茶時滋味了，更須知入口時滋味；若知入口時滋味了，又須知喫茶後滋味。直饒恁麼了，要知覺初禪者今夜設茶的意，秪要諸禪德閉口。然而丈夫有口，要開便開、要閉便閉，為甚麼要人設茶然後閉口？有等好事之者，或逞才辯、或逞",
-              "MasterName": "Jinian Jingxian",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Jinian Jingxian",
-                  "Roles": [
-                    "utterer",
-                    "record-owner"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J27/J27nB191.xml). Recorded sayings. Jinian asks what marks a monk after ordinary answers have been set aside and gives the pair.",
-              "ClaimText": "一堂風冷澹，千古意分明"
-            },
-            {
-              "RelPath": "J/J28/J28nB206.xml",
-              "FromLb": "0278a20",
-              "ToLb": "0278b27",
-              "Kwic": "長老知得山僧鼻孔短長，眉毛橫豎，聚得阿堵來，營，成禪悅供，黑白甚分明，諸仁隨意用。龜毛拂、兔角，杖，一時施妙用，驚起南山鱉鼻蛇，聲聲叫道：『住住，待我拈一頌。一天瑞氣繞龍丘，四野歡聲笑不休，主伴重重齊暢適，真機全在芥鍼投。二千年外無生曲，此際拈來大地收，驀地一場閒快活，更于何處祝添籌。』山門前金剛一時忍俊不禁，和身便倒，直得諸仁眼裏、鼻裏、耳裏、腹裏，各各圓滿了也。」驀拈拄杖云：「有意氣時添意氣，花鋪錦上更風流。」檀越馬其旋昆仲暨眾護法居士等，請住當湖三聚菴陞座：「祥雲生八極，瑞氣動三千，猶喜籬邊菊，三玄旨復宣。」揮拂云：「還有同聲相應者麼？」問：「向上宗乘即不問，臨濟家風事若何？」師云：「一聲塗毒逼人寒。」進云：「恁麼則四眾霑恩去也。」師云：「知恩一句如何道？」僧便喝，師云：「未信你在。」僧拜云：「蒼天蒼天。」師云：「也是布袋裏老鴉振。」白居士問：「今朝和尚到來，水月堂中又添一重光彩。水月家風即不問，即今陞座又如何？」師云：「一堂風冷澹，千古意分明。」進云：「月臨千澗水，風掃一天雲。」師云：「閒言及剩語，緘口最為高。」士禮退，師云：「太伶俐生。」乃云：「今日蓋因現前眾居士虔請山僧主持院事，舉揚佛法，迫不得已，秪且借水溉花，堇酬來意。若論佛法，未出方丈，早已說過了也，及乎陞座，雍雍肅肅，彼此分明，那堪土上加泥！便恁麼會去，未免平地喫交。設或更要者也之乎，轉見敗闕。」遂拈拂，召大眾云：「我不敢輕于汝等，汝等皆當作佛。」佛誕日說戒，其旋居士暨諸同社護法請陞座，問：「如何是學人本分事？」師云：「整衣護缽。」進云：「向上還有事也無？」師云：「有。」進云：「如何是向上事？」師云：「直下薦取。」僧禮退。師云：「驢年未夢見在。」黃在郊問：「和尚今日陞座，為什袈裟返搭？」師云：「切莫眼花。」進云：「一點也瞞和尚不得。」師云：「再犯不容。」進云：「且救得一半。」師云：「全自領去。」士便出，師云：「果然可憐。」秦伯潛問：「夫子云『天命之謂性』，如何是天命底性？」師云：「切莫話作兩橛。」進云：「道也者不可須臾離也。」聲未絕，師云：「除卻之乎者也道看。」潛便喝，師云：「喝後聻？」士擬議，師笑云：「禮拜了退。」士便禮，師云：「伶俐居士。」師豎拂子云：「看看，且道是佛法耶，世法耶？直下薦得，煙雲魚",
-              "MasterName": "Xiaotang",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Xiaotang",
-                  "Roles": [
-                    "utterer",
-                    "record-owner"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J28/J28nB206.xml). Recorded sayings. Xiaotang answers a lay visitor asking what his hall offers with the pair.",
-              "ClaimText": "一堂風冷澹，千古意分明"
-            },
-            {
-              "RelPath": "J/J28/J28nB213.xml",
-              "FromLb": "0517b18",
-              "ToLb": "0517c23",
-              "Kwic": "尚開示，總不知得落處。竟往江南姑蘇。未久，決意參禮浙江古南牧雲和尚，求示話頭。古云：『父母未生前，那箇是你本來面目？』向這裏參去一載有餘，疑團不破。聞知具德和尚住揚州天寧，欲往見之，告假不允，又住一載。初番打七工夫，略有少許相應，胸中只欲相依具德和尚。到彼，尚問：『何處來？』荅曰：『古南來。』尚曰：『古南和尚有何言句？』荅曰：『無言句。』尚曰：『既在古南，因甚無言？』荅曰：『渠無面目。』尚曰：『既無面目，爭得到這裏？』師曰：『臭名難瞞。』尚便打云：『弄虛頭漢。』師便禮拜，命安水單。一日，隨眾打三，工夫猛加精進，秪是未得了然。自恨障深慧淺，福力微薄，因茲遍參雪竇、雲門、天童，俱不契入。後到報恩，參見玉林和尚，恩問：『撥草瞻風，秪圖見性。那箇是你的性？』師曰：『今日親見和尚。』恩云：『禮拜著。』師拂袖便行，恩招手云：『大德更不回頭。』晚間請茶次，恩云：『在天童少多時？』師云：『將住一載。』恩云：『天童和尚即今面目在甚麼處？』師云：『一堂風冷澹，千古意分明。』恩云：『太煞分明。』蒙命堂司。一日同眾打七，恩喚入室：『你們一向做了執事辛苦。請你們無別打七，風冷同來向這爐火。』師云：『恩大難酬。』恩云：『那箇是你本來面目？』師云：『描不成，畫不就。』恩云：『是甚麼？』師云：『遍界不曾藏。』一日，在山門外侍立，恩云：『這樹有多少根數？』師云：『不落諸數。』恩豎拄杖云：『者箇聻？』師云：『唯吾獨尊。』恩休去。又一日，恩在殿前坐，問云：『古人道：「本來無一物。」為甚麼前殿在前，後殿在後？』師云：『和尚猶有這箇在。』將解制，先一日，喚各寮頭首犒勞，尚拈餅問：『這些油餅作麼生收拾？』師云：『作者方知。』恩云：『知箇甚麼？』師云：『和尚再請些。』又一日，命同眾打七，於三更時聞梆聲觸發，即有偈云：『也大奇，也大奇，三更山靜木雞聲，觸碎金車無背面，倒騎鐵馬趁須彌。』七完，喚入室，師呈頌，恩看過，云：『雖然如是，大須仔細。』師云：『七日之中，皮穿骨露，今日且休去，歇去。』恩拈棒便打：『你還喫得者箇麼？』師云：『美食不中飽人餐。』恩大笑而去。次日，命後禪堂為首領。一日，恩來勘驗，豎拳云：『你識得者箇麼？』師云：『老老大大，拳頭也不識。』恩拈棒便打，師接住杖，云：『切莫錯打好。』恩云：『見甚麼來便恁麼道",
-              "MasterName": "Zhiyan Xiu",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Zhiyan Xiu",
-                  "Roles": [
-                    "utterer",
-                    "record-owner"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J28/J28nB213.xml). Recorded sayings. Zhiyan gives the pair in his own encounter when asked what his former teacher looks like now.",
-              "ClaimText": "一堂風冷澹，千古意分明"
-            },
-            {
-              "RelPath": "J/J28/J28nB220.xml",
-              "FromLb": "0791b10",
-              "ToLb": "0792a08",
-              "Kwic": "普賢勞攘個什麼？波斯照古鏡。」陞座。「纔見結制，今日又解，雪光和燦爛，瑞氣湧三台，且喜青山洗出，玉樹消融，萬籟絕響，堂中悄靜。適纔侍者道：『恭喜大眾都得根本智。』山僧劈脊一棒，且道是賞你？罰你？」復卓，云：「不見道：庭前生瑞草，好事不如無。」一喝，下座。法璽印禪師語錄卷第三法璽印禪師語錄卷第四嗣法門人性圓旋璣旋哲旋賢等編次住北京南城清化禪寺語錄住北京南城清化禪寺語錄師於壬子年九月二十二日進院。山門。「門戶近都，深固幽遠。八字打開，誰是主者？」一喝便進。彌勒殿。久視，云：「坦腹者阿師，為何笑不歇？想是布袋口，不敢輕漏洩。」插香，云：「明眼人難瞞。」佛殿。「巍巍挺特，眾聖中尊。且道今日新長老到來作麼生相見？」遂展具，云：「相隨來也。」大士殿。「婆心三大士，威德莫能齊，為什麼終日在者裏成群作隊？正眼看來，也須各領三十棒。」伽藍堂。「十方常住，賴汝維持，者個破砂盆，急急須扶起。何故聻？靈山受囑來斯地，千古難忘者片心。」遂插香。祖師堂。「一堂風冷澹，千古意分明。且道分明底是個什麼？」良久，云：「惡。」據方丈。師以杖左卓云：「有賓有主，有照有用。」以杖右卓云：「有縱有奪，有殺有活。」以杖橫案云：「三世諸佛、歷代祖師、天下老和尚，都向者裏納敗缺。」一僧纔出，師劈頭便棒云：「正令當行。」即日上堂。師至座前，以杖指云：「者個所在，乃從上老古錐放捨身命處、廣運神通處，今朝無面目的漢到來，且道作何三昧？」一喝便陞。拈香祝聖畢，復拈香云：「此一瓣香，最初流落諸方深坑險隘，百煉不成；末後撞入雲居大冶紅爐，一鎚打就。今對人天第四回拈出，爇向爐中，端為供養前住雲居歸老竹林堂上傳臨濟正宗第三十世傘居先師顓愚大和尚，用酬法乳之恩。」遂斂衣就座。盤山語石和尚白槌云：「法筵龍象眾，當觀第一義。」師云：「第一義諦如熱火燧、似太阿鋒，觸則頭開腦裂、背則膽喪魂飛，眾中有不顧性命者出來相見。」問：「敲唱同時，萬里之鉤齊放；主賓互換，縵天之網全彰。打鳳羅龍即不問，如何是賓中主？」師豎起拂子。「如何是主中賓？」師垂下拂子。「如何是主中主？」師橫按拂子。「如何是賓中賓？」師擲下拂子。進云：「賓主已蒙師指示，聲氣相同一句又作麼生？」師拈棒云：「照顧頂𩕳。」進云：「道泰不傳天子令，時清休唱太平歌。」師打云：「要識青山雨後看。",
-              "MasterName": "Faxi Yin",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Faxi Yin",
-                  "Roles": [
-                    "utterer",
-                    "record-owner"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J28/J28nB220.xml). Recorded sayings. Faxi gives the pair at the ancestral hall and immediately asks what is clear there.",
-              "ClaimText": "一堂風冷澹，千古意分明"
-            },
-            {
-              "RelPath": "J/J36/J36nB365.xml",
-              "FromLb": "0815c29",
-              "ToLb": "0816b03",
-              "Kwic": "「箇箇眉毛橫八字。」進云：「將謂和尚不恁麼道。」師云：「不妨疑著。」進云：「天寒人寒，滴水滴凍，因甚又道石筍抽條，冰河發燄？」師云：「不是一番寒徹骨，爭得梅花撲鼻香？」進云：「即今因齋慶讚，畢竟如何話會？」師云：「端坐受供養，施主常安樂。」進云：「恁麼則性海波深龍睡穩，心王不動自昇平。」師云：「阿誰不願？」問：「言前廌得，猶是滯殼迷封；句下精通，未免觸途狂見。去此二途，請師直指。」師云：「中間薦取。」進云：「無人知此意，令我憶南泉。」師云：「是甚麼意？」僧喝，師云：「不勞再勘。」問：「十方同聚會，箇箇學無為，意旨如何？」師云：「頭頂天，腳踏地。」進云：「此是選佛場，心空及第歸又作麼生？」師云：「綠水青山全體現，森羅萬象笑顏開。」進云：「陰消陽長尋常事，荳爆寒灰始出群。」師云：「好箇消息。」問：「適來掃塔，今又上堂，只如盡十方世界是箇先老人塔，未審和尚從何處掃起？」師卓拄杖，云：「一任觀瞻。」進云：「驀地相逢，有何言句？」師云：「一堂風冷澹，千古意分明。」進云：「雲裏撥開金鳳子，杖頭敲出玉麒麟。」師打，云：「切莫眼花。」問：「憶昔高峰有六問，請師直指示當人。」師云：「祖師無此語。」進云：「大徹底人本脫生死，因甚命根不斷？」師云：「家無小使，不成君子。」進云：「佛祖公案只是一箇道理，因甚有明與不明？」師云：「無鬚鎖子兩頭搖。」進云：「大修行人當遵佛行，因甚不守毘尼？」師云：「大象不遊免徑。」進云：「杲日當空，無所不照，因甚被片雲遮卻？」師云：「一道神光萬境閒。」進云：「人人有箇影子，寸步不離，因甚踏不著？」師云：「用踏作麼？」進云：「盡大地是箇火坑，得何三昧不被燒卻？」師云：「金不博金。」進云：「六語已蒙明指示，天童的旨請師宣。」師云：「陣雲橫海上，拔劍攪龍門。」進云：「與麼則佛祖機關無處著，陰陽未判又如何？」師舉拂子，云：「能為萬象主，不逐四時凋。」問：「至節全彰即且置，如何是臨濟宗？」師云：「奔雷走電。」進云：「如何是雲門宗？」師云：「紅旗閃爍。」進云：「如何是曹洞宗？」師云：「君臣道合。」進云：「如何是溈仰宗？」師云：「父慈子孝。」進云：「如何是法眼宗？」師云：「滿目青山。」進云：「恁麼則燈傳太白孤風峻，萬象森羅盡點頭。」師云：「閒言語。」乃云：「洞山掇退果子桌，慈明",
-              "MasterName": "Shipu Chaozhi",
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Shipu Chaozhi",
-                  "Roles": [
-                    "utterer",
-                    "record-owner"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J36/J36nB365.xml). Recorded sayings. Shipu answers a monk who asks for a word after sweeping the old teacher's stupa.",
-              "ClaimText": "一堂風冷澹，千古意分明"
-            }
-          ],
-          "SourceTexts": [
+            "J/J37/J37nB387.xml",
             "J/J26/J26nB187.xml",
             "J/J27/J27nB191.xml",
             "J/J28/J28nB206.xml",
@@ -12641,6 +12719,12 @@
             "J/J36/J36nB365.xml"
           ],
           "RelatedMasters": [
+            "Miaoyun Zhenxiong",
+            "Linquan Conglun",
+            "Tianyin Yuanxiu",
+            "Yinyuan Longqi",
+            "Miyin Zhenchuan",
+            "Gusu Zun",
             "Tian'an Sheng",
             "Jinian Jingxian",
             "Xiaotang",
@@ -12649,7 +12733,7 @@
             "Shipu Chaozhi"
           ],
           "RelatedTerms": [],
-          "Explanation": "A spare hall lets an older meaning appear plainly in the present. Tian'an speaks the pair after tracing wind through speech and hearing; Jinian uses it after asking what marks the monk. Xiaotang answers a visitor about his hall; Zhiyan uses it when asked about the face of his former teacher. Faxi speaks it in an ancestral hall, and Shipu gives it after a question about sweeping an old teacher’s stupa."
+          "Explanation": "A cool, spare hall and a clear old meaning form one lexical couplet in two graphic spellings across twelve distinct present contexts. Miaoyun Zhenxiong recounts visiting his elder Muyun, who forbids him to answer by raising a fist or shouting and asks for one honest phrase. Miaoyun offers the quiet-hall couplet. Muyun immediately asks how he would respond to the old injunction not to stay where there is Buddha and to hurry past where there is none; Miaoyun answers that this is where he stakes his life, and Muyun strikes him. The couplet is Miaoyun's remembered reply in a live teacher-student test, not a final verdict accepted without further probing. Linquan Conglun has been discussing sayings about the Buddha in a jeweled hall and the fire-flame teachings of Xuefeng and Yunmen. He says these startling images share a line of force, asks the assembly whether they understand, and closes with the quiet-hall couplet. The phrase is Linquan's present conclusion to a sequence of old statements; the earlier Buddha, Xuefeng, and Yunmen are figures he cites, not speakers of this final line. Tianyin Yuanxiu raises the old exchange in which Emperor Suzong asks National Teacher Zhong what teaching he received at Caoxi, and Zhong answers by asking whether the emperor sees a cloud in the sky. Tianyin praises Zhong's answer but asks what the emperor could have said to turn the exchange around. After a long pause Tianyin supplies the quiet-hall couplet. The line is Tianyin's own proposed turning word for this cited emperor-teacher encounter, not a reply uttered by Zhong or Suzong in the old case. At the closing of a retreat Yinyuan Longqi speaks of opening the gates, driving out idle ghosts, and leaving the hall empty, quiet, and awake. He voices the quiet-hall couplet for this inner-hall matter, then asks what word will serve monks traveling east or west. An attendant raises a fist; Yinyuan smiles and answers with an image of a slight misstep on the road. The couplet describes the cleared teaching space, while the subsequent exchange tests what can be carried beyond it. Miyin Zhenchuan has just answered a monk's question about clear seeing and hearing with a sharp warning. In his ensuing address he speaks of hearing the river and seeing clear light, then warns against looking for the Way in famous teachers or in words. He asks how to say one clear, undimmed phrase and answers with the quiet-hall couplet. The line is Miyin's current answer to his own question about clarity, not a quotation from the next old case raised in the following sermon. At a hall sermon requested by lay donor Wen Yunsheng, a monk asks Gusu Zun how humans and devas meet and see one another. Gusu answers directly with the quiet-hall couplet. The monk then asks separately about Buddha, Dharma, Sangha, and the donor's benefit; Gusu gives different replies and strikes when the monk tries to continue. The couplet belongs to the first question in this current exchange, not to all of the later questions or to the donor's blessing. Holding the fly-whisk, Tian'an Sheng asks what shape the wind has and rejects guesses that it is round, square, flat or long. He then says speaking, listening, and investigating are each like the wind, asking whether he himself is speaking and whether the assembly is hearing. He closes that present address with the cool-hall couplet. The line gathers his argument that the matter is clear through those activities without being captured by any one shape or verbal description. At the opening of a retreat Jinian Jingxian raises his fly-whisk, puts it down, and asks what remains when the devices used to catch fish or rabbits and the words used to reach meaning are forgotten. He questions whether seeing mind or nature in familiar formulas is enough, then asks what counts as a monk's real hold on the matter. He answers with the cool-hall couplet. This is Jinian's current conclusion to a series of live gestures and questions, not a phrase spoken by Bodhidharma in the saying he discusses. At a hall address accepting the abbacy of Sanju Hermitage, a lay visitor asks Xiaotang what is happening as the new master ascends the seat, setting aside the hall's usual style. Xiaotang gives the cool-hall couplet. The visitor replies with moon and wind images; Xiaotang dismisses them as surplus talk and says silence would be better. The couplet is Xiaotang's direct answer to this visitor, and his follow-up prevents the visitor's decorative verse from being treated as an agreed interpretation. Zhiyan Xiu recalls a conversation with Yulin, who asks where Zhiyan's former teacher Tiantong can now be seen. Zhiyan answers with the cool-hall couplet, and Yulin replies that it is exceedingly clear. The phrase is Zhiyan's remembered answer to a precise question about the former teacher, not a new saying spoken by Tiantong or by Yulin; the later encounters in the same autobiographical passage are separate tests. On entering Qinghua Monastery, Faxi Yin moves through its buildings with brief remarks and offerings. At the ancestral hall he voices the cool-hall couplet, asks what exactly is clear, pauses, and gives a terse exclamation. He then moves to the abbot's quarters and uses his staff in a separate set of host-and-guest gestures. The couplet belongs to Faxi's present ancestral-hall address and its open question, not to those later gestures. After a monk has asked about sweeping an old teacher's stupa, Shipu Chaozhi strikes his staff and allows the assembly to look. The monk asks what word is available at an unexpected meeting; Shipu answers with the cool-hall couplet. When the monk adds a decorative image of a phoenix and unicorn, Shipu strikes him and warns him not to see wrongly. The couplet is Shipu's direct reply in this stupa exchange, and the blow marks his refusal to let the monk's embellishment stand as its explanation."
         }
       ]
     },
@@ -14929,7 +15013,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded sayings. Miyun explains a monk’s benefit to living and dead relatives and cites the saying in a verse for a lay supporter."
+              "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Monk Ligen asks Miyun Yuanwu for a verse to commend deceased relatives. Miyun says one must first know how to benefit oneself before benefiting others, because the living and departed share the same present matter. He then cites the old saying that one child leaving home brings heavenly benefit to nine kin groups. The line is Miyun's present quotation in a short memorial verse request; its earlier author is not named, and the surrounding claim concerns effective practice rather than a recorded ascent to heaven."
             },
             {
               "RelPath": "J/J26/J26nB185.xml",
@@ -14947,7 +15031,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded sayings. Fushi voices the inherited saying at the placement of three family members’ ashes and presents it as a claim to be enacted there."
+              "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. At the placement of the remains of temple officer Guyu's father, mother and elder sister in a stupa, Fushi Tongxian recites the maxim that one child leaving home raises nine kin groups to heaven. He immediately calls it an old saying that is not empty, lifts the remains, and asks the assembly whether they understand before adding a pathfinding image. The speaker here is Fushi conducting a family memorial act; the source does not identify the maxim's first author or report that the relatives visibly ascended."
             },
             {
               "RelPath": "J/J27/J27nB192.xml",
@@ -14965,7 +15049,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J27/J27nB192.xml). Recorded sayings. Daxiu uses the saying while urging a younger family member to enter the religious life and repay ancestral care."
+              "AttributionNote": "Source record (J/J27/J27nB192.xml). Recorded Sayings of Chan Master Daxiu Zhu. Writing to his nephew Wulun, Daxiu Zhu recalls the deaths of his mother and brother and says he has stayed away, lost sleep, completed his religious work and carried on the ancestral teaching to repay care from earlier generations. He applies the line about one child leaving home benefiting nine kin groups to his own course, then asks the nephew to encourage two younger relatives and take care of family matters. The phrase is Daxiu's present claim in a family letter, not a command that Wulun himself must take robes."
             },
             {
               "RelPath": "J/J28/J28nB202.xml",
@@ -14983,7 +15067,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded sayings. Baichi cites the old saying in a letter to a monk visiting his mother and connects religious work with repaying parental kindness."
+              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan addresses the monk Rixiu before he goes to see his living mother. Baichi rejects the idea that a monastic may simply abandon parents, remembers his own inability to care for his mother directly, and says his present work can still repay parental kindness. He cites the old maxim about one child leaving home and nine kin groups reaching heaven, then gives Rixiu a verse about visiting his mother. The saying is a received claim used to argue for filial responsibility; Baichi is its current citer, not a named original author."
             },
             {
               "RelPath": "J/J37/J37nB395.xml",
@@ -15001,7 +15085,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J37/J37nB395.xml). Recorded sayings. Qizhen invokes the saying in a memorial text for his parents and explicitly treats it as a teaching about filial gratitude."
+              "AttributionNote": "Source record (J/J37/J37nB395.xml). Recorded Sayings of Chan Master Qizhencheng of Neihuguo Monastery, Jingnan. In a personal account of his parents, Qizhen Cheng recalls losing his father, fleeing conflict with his mother and later losing her too. He says he took robes to repay them, then cites the community's teaching that one child leaving home benefits nine kin groups in heaven. He treats the saying as trustworthy and writes a birthday verse for his deceased mother about seeking benefit through worship. This is Qizhen's filial memoir and devotional application of a cited maxim, not a report of a witnessed heavenly event."
             }
           ],
           "ClaimAnchors": [
@@ -15021,7 +15105,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded sayings. Miyun explains a monk’s benefit to living and dead relatives and cites the saying in a verse for a lay supporter.",
+              "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Monk Ligen asks Miyun Yuanwu for a verse to commend deceased relatives. Miyun says one must first know how to benefit oneself before benefiting others, because the living and departed share the same present matter. He then cites the old saying that one child leaving home brings heavenly benefit to nine kin groups. The line is Miyun's present quotation in a short memorial verse request; its earlier author is not named, and the surrounding claim concerns effective practice rather than a recorded ascent to heaven.",
               "ClaimText": "一子出家，九族生天"
             },
             {
@@ -15040,7 +15124,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded sayings. Fushi voices the inherited saying at the placement of three family members’ ashes and presents it as a claim to be enacted there.",
+              "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. At the placement of the remains of temple officer Guyu's father, mother and elder sister in a stupa, Fushi Tongxian recites the maxim that one child leaving home raises nine kin groups to heaven. He immediately calls it an old saying that is not empty, lifts the remains, and asks the assembly whether they understand before adding a pathfinding image. The speaker here is Fushi conducting a family memorial act; the source does not identify the maxim's first author or report that the relatives visibly ascended.",
               "ClaimText": "一子出家，九族生天"
             },
             {
@@ -15059,7 +15143,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J27/J27nB192.xml). Recorded sayings. Daxiu uses the saying while urging a younger family member to enter the religious life and repay ancestral care.",
+              "AttributionNote": "Source record (J/J27/J27nB192.xml). Recorded Sayings of Chan Master Daxiu Zhu. Writing to his nephew Wulun, Daxiu Zhu recalls the deaths of his mother and brother and says he has stayed away, lost sleep, completed his religious work and carried on the ancestral teaching to repay care from earlier generations. He applies the line about one child leaving home benefiting nine kin groups to his own course, then asks the nephew to encourage two younger relatives and take care of family matters. The phrase is Daxiu's present claim in a family letter, not a command that Wulun himself must take robes.",
               "ClaimText": "一子出家，九族生天"
             },
             {
@@ -15078,7 +15162,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded sayings. Baichi cites the old saying in a letter to a monk visiting his mother and connects religious work with repaying parental kindness.",
+              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan addresses the monk Rixiu before he goes to see his living mother. Baichi rejects the idea that a monastic may simply abandon parents, remembers his own inability to care for his mother directly, and says his present work can still repay parental kindness. He cites the old maxim about one child leaving home and nine kin groups reaching heaven, then gives Rixiu a verse about visiting his mother. The saying is a received claim used to argue for filial responsibility; Baichi is its current citer, not a named original author.",
               "ClaimText": "一子出家，九族生天"
             },
             {
@@ -15097,7 +15181,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J37/J37nB395.xml). Recorded sayings. Qizhen invokes the saying in a memorial text for his parents and explicitly treats it as a teaching about filial gratitude.",
+              "AttributionNote": "Source record (J/J37/J37nB395.xml). Recorded Sayings of Chan Master Qizhencheng of Neihuguo Monastery, Jingnan. In a personal account of his parents, Qizhen Cheng recalls losing his father, fleeing conflict with his mother and later losing her too. He says he took robes to repay them, then cites the community's teaching that one child leaving home benefits nine kin groups in heaven. He treats the saying as trustworthy and writes a birthday verse for his deceased mother about seeking benefit through worship. This is Qizhen's filial memoir and devotional application of a cited maxim, not a report of a witnessed heavenly event.",
               "ClaimText": "一子出家，九族生天"
             }
           ],
@@ -15116,7 +15200,7 @@
             "Qizhen Cheng"
           ],
           "RelatedTerms": [],
-          "Explanation": "A received saying links one person’s ordination to heavenly benefit for an extended span of kin. Miyun cites it while explaining benefit for relatives; Fushi voices it when placing a family’s ashes in a memorial setting. Daxiu uses it to encourage a younger relative; Baichi connects it to repaying a mother’s care; Qizhen invokes it in a memorial text for his parents."
+          "Explanation": "A received saying links one child leaving home for monastic life with benefit to nine kin groups; five current speakers apply it to filial duties or memorial acts. Monk Ligen asks Miyun Yuanwu for a verse to commend deceased relatives. Miyun says one must first know how to benefit oneself before benefiting others, because the living and departed share the same present matter. He then cites the old saying that one child leaving home brings heavenly benefit to nine kin groups. The line is Miyun's present quotation in a short memorial verse request; its earlier author is not named, and the surrounding claim concerns effective practice rather than a recorded ascent to heaven. At the placement of the remains of temple officer Guyu's father, mother and elder sister in a stupa, Fushi Tongxian recites the maxim that one child leaving home raises nine kin groups to heaven. He immediately calls it an old saying that is not empty, lifts the remains, and asks the assembly whether they understand before adding a pathfinding image. The speaker here is Fushi conducting a family memorial act; the source does not identify the maxim's first author or report that the relatives visibly ascended. Writing to his nephew Wulun, Daxiu Zhu recalls the deaths of his mother and brother and says he has stayed away, lost sleep, completed his religious work and carried on the ancestral teaching to repay care from earlier generations. He applies the line about one child leaving home benefiting nine kin groups to his own course, then asks the nephew to encourage two younger relatives and take care of family matters. The phrase is Daxiu's present claim in a family letter, not a command that Wulun himself must take robes. Baichi Xingyuan addresses the monk Rixiu before he goes to see his living mother. Baichi rejects the idea that a monastic may simply abandon parents, remembers his own inability to care for his mother directly, and says his present work can still repay parental kindness. He cites the old maxim about one child leaving home and nine kin groups reaching heaven, then gives Rixiu a verse about visiting his mother. The saying is a received claim used to argue for filial responsibility; Baichi is its current citer, not a named original author. In a personal account of his parents, Qizhen Cheng recalls losing his father, fleeing conflict with his mother and later losing her too. He says he took robes to repay them, then cites the community's teaching that one child leaving home benefits nine kin groups in heaven. He treats the saying as trustworthy and writes a birthday verse for his deceased mother about seeking benefit through worship. This is Qizhen's filial memoir and devotional application of a cited maxim, not a report of a witnessed heavenly event."
         }
       ]
     },
