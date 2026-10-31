@@ -4391,26 +4391,15 @@
     "SearchAliases": [
       "three realms only mind",
       "all things only consciousness",
-      "mind-only three realms"
+      "mind-only three realms",
+      "三界惟心，萬法惟識",
+      "三界唯心、萬法唯識",
+      "三界唯心，萬法唯識"
     ],
     "Status": "preferred",
     "Note": "The fixed-ID headword uses the ideographic enumeration comma: 三界唯心、萬法唯識. The stored source quotations retain their attested fullwidth-comma form. Three independent retained Tier 2 witnesses support the sense; the single Huangbo lamp is retained for its explicit qualification.",
     "CreatedBy": "Terra correction-only semantic author, luna20260809b-09 r2",
     "WrittenUtc": "2026-08-09T22:00:00Z"
-  },
-  {
-    "SourceTerm": "三界惟心，萬法惟識",
-    "PreferredTarget": "The three realms are only mind; the myriad things are only consciousness",
-    "AlternateTargets": [
-      "The three worlds are mind alone, and all things are consciousness alone"
-    ],
-    "SearchAliases": [
-      "three realms only mind myriad things only consciousness"
-    ],
-    "Status": "preferred",
-    "Note": "The paired formula says the three realms are mind and the myriad things are consciousness. These masters speak it to provoke questions about death, perception, and what verbal assent can actually show.",
-    "CreatedBy": "r10 fresh construction A2",
-    "WrittenUtc": "2026-10-28T22:45:26Z"
   },
   {
     "SourceTerm": "三界無安，猶如火宅",

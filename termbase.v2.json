@@ -58396,7 +58396,10 @@
           "SearchAliases": [
             "three realms only mind",
             "all things only consciousness",
-            "mind-only three realms"
+            "mind-only three realms",
+            "三界惟心，萬法惟識",
+            "三界唯心、萬法唯識",
+            "三界唯心，萬法唯識"
           ],
           "Status": "preferred",
           "Validation": "multi-source",
@@ -58408,7 +58411,7 @@
               "ToLb": "0452c24",
               "Kwic": "所以三界唯心，萬法唯識，此猶是對外道邪見人說。",
               "Curated": true,
-              "AttributionNote": "Source record (X/X78/X78n1553.xml). Tiansheng Expanded Lamp Record: Huangbo Xiyun speaks the exact headword-bearing clause.",
+              "AttributionNote": "Source record (X/X78/X78n1553.xml). Tiansheng Expanded Lamp Record. Huangbo Xiyun distinguishes teaching tailored to a listener from a final claim about mind. He says views that everything permanently exists and that everything is sheer emptiness both become traps. He then voices the three-realms and myriad-things formula, but immediately says even this is spoken to people holding mistaken outside views. He goes on to reject clinging to awakening over affliction and to the contrast between an enlightened Buddha and a deluded person. Here the formula is Huangbo's own provisional teaching in a lamp record; the passage itself warns against treating it as the endpoint.",
               "ContextMasters": [
                 {
                   "MasterName": "Huangbo Xiyun",
@@ -58428,7 +58431,7 @@
               "ToLb": "0525a04",
               "Kwic": "三界唯心，萬法唯識。所以夢幻空花，何勞把捉。",
               "Curated": true,
-              "AttributionNote": "Source record (J/J23/J23nB134.xml). Selected Records of the Five Houses: Linji Yixuan speaks the exact headword-bearing clause.",
+              "AttributionNote": "Source record (J/J23/J23nB134.xml). Recorded Sayings of the Five Houses (Selections). Linji Yixuan tells his listeners that a person of the Way is not bound by sensory things or exceptional realms. He describes the forms of things as empty and voices the formula that the three realms are mind only and the myriad things consciousness only, then calls such appearances dreamlike flowers that need no grasping. His next claim points to the person hearing the teaching right now, who is not harmed by fire, water, or hell in his rhetorical account. The headword is Linji's own turn in a sermon, used to undo attachment to appearances rather than to propose another thing to seize.",
               "ContextMasters": [
                 {
                   "MasterName": "Linji Yixuan",
@@ -58448,7 +58451,7 @@
               "ToLb": "0375b27",
               "Kwic": "問：「如何是三界唯心，萬法唯識？」師云：「我今日不荅話。」",
               "Curated": true,
-              "AttributionNote": "Source record (J/J24/J24nB138.xml). Recorded Sayings of Yunmen: an unnamed monk asks the headword-bearing question; Yunmen Wenyan gives the following refusal.",
+              "AttributionNote": "Source record (J/J24/J24nB138.xml). Recorded Sayings of Chan Master Yunmen Kuangzhen. An unnamed monk asks Yunmen Wenyan what it means that the three realms are mind only and the myriad things consciousness only. Yunmen answers that he will not respond today. The monk presses him for a reason, and Yunmen asks whether he could understand it in the year of the donkey. The exact formula belongs to the monk's question; Yunmen's two replies refuse to turn it into an explanation on demand. The source names Yunmen as respondent but gives no name for the questioner.",
               "ContextMasters": [
                 {
                   "MasterName": "Yunmen Wenyan",
@@ -58484,7 +58487,7 @@
               "ToLb": "0269b11",
               "Kwic": "三界唯心，萬法唯識。塘口濱裏沈秀才，頭上頂箇木棺材。",
               "Curated": true,
-              "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chaozong: Chaozong Tongren speaks the exact headword-bearing clause.",
+              "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong. In a series of verses on old cases, Chaozong Tongren gives the mind-only and consciousness-only formula its own heading, immediately after a separate verse on Baizhang's wild fox. Under this heading he pictures a scholar from Tangkou carrying a wooden coffin on his head, holding a cart plank, and calling out about death. The headword labels Chaozong's own verse and its startling scene rather than supplying a doctrinal definition. The neighboring wild-fox poem is a different piece; the text does not explain the scholar's fixed identity or specify how each object in the image maps to mind and consciousness.",
               "ContextMasters": [
                 {
                   "MasterName": "Chaozong Tongren",
@@ -58497,123 +58500,7 @@
               "VariantForm": "三界唯心，萬法唯識",
               "VariantKind": "editorial-punctuation",
               "EvidenceRole": "variant"
-            }
-          ],
-          "ClaimAnchors": [
-            {
-              "RelPath": "X/X78/X78n1553.xml",
-              "FromLb": "0452c23",
-              "ToLb": "0452c24",
-              "Kwic": "所以三界唯心，萬法唯識，此猶是對外道邪見人說。",
-              "Curated": true,
-              "ClaimText": "此猶是對外道邪見人說",
-              "AttributionNote": "Source record (X/X78/X78n1553.xml). Tiansheng Expanded Lamp Record: Huangbo Xiyun speaks the exact headword-bearing clause.",
-              "ContextMasters": [
-                {
-                  "MasterName": "Huangbo Xiyun",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "MasterName": "Huangbo Xiyun"
             },
-            {
-              "RelPath": "J/J23/J23nB134.xml",
-              "FromLb": "0525a03",
-              "ToLb": "0525a04",
-              "Kwic": "三界唯心，萬法唯識。所以夢幻空花，何勞把捉。",
-              "Curated": true,
-              "ClaimText": "何勞把捉",
-              "AttributionNote": "Source record (J/J23/J23nB134.xml). Selected Records of the Five Houses: Linji Yixuan speaks the exact headword-bearing clause.",
-              "ContextMasters": [
-                {
-                  "MasterName": "Linji Yixuan",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "MasterName": "Linji Yixuan"
-            },
-            {
-              "RelPath": "J/J24/J24nB138.xml",
-              "FromLb": "0375b26",
-              "ToLb": "0375b27",
-              "Kwic": "問：「如何是三界唯心，萬法唯識？」師云：「我今日不荅話。」",
-              "Curated": true,
-              "ClaimText": "我今日不荅話",
-              "AttributionNote": "Source record (J/J24/J24nB138.xml). Recorded Sayings of Yunmen: an unnamed monk asks the headword-bearing question; Yunmen Wenyan gives the following refusal.",
-              "ContextMasters": [
-                {
-                  "MasterName": "Yunmen Wenyan",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "MasterName": "Yunmen Wenyan"
-            },
-            {
-              "RelPath": "J/J34/J34nB300.xml",
-              "FromLb": "0269b10",
-              "ToLb": "0269b11",
-              "Kwic": "三界唯心，萬法唯識。塘口濱裏沈秀才，頭上頂箇木棺材。",
-              "Curated": true,
-              "ClaimText": "頭上頂箇木棺材",
-              "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chaozong: Chaozong Tongren speaks the exact headword-bearing clause.",
-              "ContextMasters": [
-                {
-                  "MasterName": "Chaozong Tongren",
-                  "Roles": [
-                    "utterer"
-                  ]
-                }
-              ],
-              "MasterName": "Chaozong Tongren"
-            }
-          ],
-          "SourceTexts": [
-            "X/X78/X78n1553.xml",
-            "J/J23/J23nB134.xml",
-            "J/J24/J24nB138.xml",
-            "J/J34/J34nB300.xml"
-          ],
-          "RelatedMasters": [
-            "Huangbo Xiyun",
-            "Linji Yixuan",
-            "Yunmen Wenyan",
-            "Chaozong Tongren"
-          ],
-          "RelatedTerms": [
-            "三界唯心",
-            "萬法唯識"
-          ],
-          "Explanation": "The paired wording is repeatedly brought into Chan exchanges as a proposition to question, qualify, refuse, or recite. Huangbo Xiyun calls it language addressed to an opposing view; Linji Yixuan recites it in a longer address; an unnamed monk frames Yunmen Wenyan’s question; and Chaozong Tongren uses it in a verse. The entry reports these recorded uses without importing a separate system as its definition."
-        }
-      ]
-    },
-    {
-      "Id": "t_2649328b9b43",
-      "SourceTerm": "三界惟心，萬法惟識",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "r10 fresh construction A2",
-      "WrittenUtc": "2026-10-28T22:45:26Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "The three realms are only mind; the myriad things are only consciousness",
-          "AlternateTargets": [
-            "The three worlds are mind alone, and all things are consciousness alone"
-          ],
-          "SearchAliases": [
-            "three realms only mind myriad things only consciousness"
-          ],
-          "Status": "preferred",
-          "Validation": "multi-source",
-          "Note": "The paired formula says the three realms are mind and the myriad things are consciousness. These masters speak it to provoke questions about death, perception, and what verbal assent can actually show.",
-          "Occurrences": [
             {
               "RelPath": "J/J26/J26nB183.xml",
               "FromLb": "0537c02",
@@ -58630,7 +58517,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB183.xml). Recorded Sayings of Chan Master Shiqi of Xuedou. Shiqi Tongyun speaks the complete formula in his own words at a cremation rite, then points to the ashes and asks where mind is."
+              "AttributionNote": "Source record (J/J26/J26nB183.xml). Recorded Sayings of Chan Master Shiqi of Xuedou. At the placing of monk Huixin's remains in a stupa, Shiqi Tongyun voices the formula and says that when mind is understood, even empty space shows bones. He points with his staff to the relic bones and asks the assembly: the bones are here, but where is mind? He then sends the remains inside with a single word. The saying is Shiqi's present ritual challenge, directed at the visible bones in front of the listeners; the neighboring fire rite in the record concerns another monk and should not be confused with Huixin's interment."
             },
             {
               "RelPath": "J/J29/J29nB224.xml",
@@ -58648,7 +58535,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J29/J29nB224.xml). Recorded Sayings of Chan Master Yezhu of Mount Song. Yezhu Fuhui speaks the complete formula in his own instruction to a disciple, then criticizes a merely verbal treatment of mind and perception."
+              "AttributionNote": "Source record (J/J29/J29nB224.xml). Recorded Sayings of Chan Master Yezhu of Mount Song. In an instruction to the monk Weiyi, Yezhu Fuhui opens with the mind-only and consciousness-only formula, then turns the words around and juxtaposes eye, sound, ear, and color. He interrupts himself with a shout, alludes to old Qingliang, and tells the disciple to look at the plain yellow flowers, green bamboo, nose, and eyebrows before him. When an attendant interrupts, Yezhu shouts and asks what he has done wrong; the attendant has no answer. The selected clause is Yezhu's current instruction, using familiar formula words only to push the disciple back to immediate seeing rather than word play."
             },
             {
               "RelPath": "J/J33/J33nB286.xml",
@@ -58666,7 +58553,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J33/J33nB286.xml). Recorded Sayings of Chan Master Yingningjing. Yingning Zhijing speaks the complete formula in his own new-year hall address after raising the whisk."
+              "AttributionNote": "Source record (J/J33/J33nB286.xml). Recorded Sayings of Chan Master Yingningjing. At a new-year hall address supported by lay donors, Yingning Zhijing asks how the teaching should be discussed as bells and drums sound and the assembly gathers. He raises his whisk, asks if they understand, and voices the formula beside strange images of a windmill above a temple banner and monkeys handling coins at night. He then says the mountain, earth, clergy, laity, rich, and poor appear in the listeners' own mind, and urges them not to obscure their original clarity. The headword is Yingning's present spoken opening, not an attributed quotation in this scene."
             },
             {
               "RelPath": "J/J35/J35nB342.xml",
@@ -58684,7 +58571,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J35/J35nB342.xml). Recorded Sayings of Chan Master Shengke (Huayan). Shengke Deyu gives the complete formula as his own question to a monk, then asks what mind and consciousness are after death and burning."
+              "AttributionNote": "Source record (J/J35/J35nB342.xml). Recorded Sayings of Chan Master Shengke (Huayan). Shengke Deyu questions a monk with the mind-only and consciousness-only formula and asks what mind and consciousness become after one dies and is burned. The monk raises a fist. Shengke asks who raises that fist after death and burning; the monk repeats the gesture, and Shengke challenges the mouth that tries to explain it before striking him. The next day he repeats the question, rejects the same raised fist as yesterday's answer, and strikes again when the monk calls it new each time. Shengke uses the formula as a test of whether a stock gesture meets the question about death, rather than as a settled verbal answer."
             },
             {
               "RelPath": "J/J37/J37nB393.xml",
@@ -58702,11 +58589,211 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J37/J37nB393.xml). Recorded Sayings of Chan Master Huayan Huanchufo. Huanchu Guangfo gives the complete formula as his own question to a visiting monk, asking why one cannot know tomorrows matter today."
+              "AttributionNote": "Source record (J/J37/J37nB393.xml). Recorded Sayings of Chan Master Huayan Huanchufo. Huanchu Guangfo puts the formula to a visiting monk and asks why, if the three realms are mind only and the myriad things consciousness only, one cannot know tomorrow's affairs today. The monk says he will not tell Huanchu; urged to speak, he replies that doing so would only add a point to an arrow. Huanchu agrees. The exact clause is Huanchu's own question, and the monk's evasive answer becomes part of the exchange: the teacher presses a doctrinal phrase against ordinary uncertainty about tomorrow without pretending to predict it."
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "X/X78/X78n1553.xml",
+              "FromLb": "0452c23",
+              "ToLb": "0452c24",
+              "Kwic": "所以三界唯心，萬法唯識，此猶是對外道邪見人說。",
+              "Curated": true,
+              "AttributionNote": "Source record (X/X78/X78n1553.xml). Tiansheng Expanded Lamp Record. Huangbo Xiyun distinguishes teaching tailored to a listener from a final claim about mind. He says views that everything permanently exists and that everything is sheer emptiness both become traps. He then voices the three-realms and myriad-things formula, but immediately says even this is spoken to people holding mistaken outside views. He goes on to reject clinging to awakening over affliction and to the contrast between an enlightened Buddha and a deluded person. Here the formula is Huangbo's own provisional teaching in a lamp record; the passage itself warns against treating it as the endpoint.",
+              "ContextMasters": [
+                {
+                  "MasterName": "Huangbo Xiyun",
+                  "Roles": [
+                    "utterer"
+                  ]
+                }
+              ],
+              "MasterName": "Huangbo Xiyun",
+              "VariantForm": "三界唯心，萬法唯識",
+              "VariantKind": "editorial-punctuation",
+              "EvidenceRole": "variant",
+              "ClaimText": "三界唯心，萬法唯識"
+            },
+            {
+              "RelPath": "J/J23/J23nB134.xml",
+              "FromLb": "0525a03",
+              "ToLb": "0525a04",
+              "Kwic": "三界唯心，萬法唯識。所以夢幻空花，何勞把捉。",
+              "Curated": true,
+              "AttributionNote": "Source record (J/J23/J23nB134.xml). Recorded Sayings of the Five Houses (Selections). Linji Yixuan tells his listeners that a person of the Way is not bound by sensory things or exceptional realms. He describes the forms of things as empty and voices the formula that the three realms are mind only and the myriad things consciousness only, then calls such appearances dreamlike flowers that need no grasping. His next claim points to the person hearing the teaching right now, who is not harmed by fire, water, or hell in his rhetorical account. The headword is Linji's own turn in a sermon, used to undo attachment to appearances rather than to propose another thing to seize.",
+              "ContextMasters": [
+                {
+                  "MasterName": "Linji Yixuan",
+                  "Roles": [
+                    "utterer"
+                  ]
+                }
+              ],
+              "MasterName": "Linji Yixuan",
+              "VariantForm": "三界唯心，萬法唯識",
+              "VariantKind": "editorial-punctuation",
+              "EvidenceRole": "variant",
+              "ClaimText": "三界唯心，萬法唯識"
+            },
+            {
+              "RelPath": "J/J24/J24nB138.xml",
+              "FromLb": "0375b26",
+              "ToLb": "0375b27",
+              "Kwic": "問：「如何是三界唯心，萬法唯識？」師云：「我今日不荅話。」",
+              "Curated": true,
+              "AttributionNote": "Source record (J/J24/J24nB138.xml). Recorded Sayings of Chan Master Yunmen Kuangzhen. An unnamed monk asks Yunmen Wenyan what it means that the three realms are mind only and the myriad things consciousness only. Yunmen answers that he will not respond today. The monk presses him for a reason, and Yunmen asks whether he could understand it in the year of the donkey. The exact formula belongs to the monk's question; Yunmen's two replies refuse to turn it into an explanation on demand. The source names Yunmen as respondent but gives no name for the questioner.",
+              "ContextMasters": [
+                {
+                  "MasterName": "Yunmen Wenyan",
+                  "Roles": [
+                    "respondent"
+                  ]
+                }
+              ],
+              "ActorAttribution": {
+                "Status": "reviewed-unnamed",
+                "Kind": "unnamed monk",
+                "ActorLabel": "the unnamed questioning monk",
+                "ActorRole": "questioner",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "GrammarEvidence": "問 introduces the monk's question containing the headword; 師云 introduces Yunmen Wenyan's separate reply.",
+                "ReviewedBy": "Codex Lane C repair author",
+                "ReviewedUtc": "2026-07-18T06:30:00Z"
+              },
+              "VariantForm": "三界唯心，萬法唯識",
+              "VariantKind": "editorial-punctuation",
+              "EvidenceRole": "variant",
+              "ClaimText": "三界唯心，萬法唯識"
+            },
+            {
+              "RelPath": "J/J34/J34nB300.xml",
+              "FromLb": "0269b10",
+              "ToLb": "0269b11",
+              "Kwic": "三界唯心，萬法唯識。塘口濱裏沈秀才，頭上頂箇木棺材。",
+              "Curated": true,
+              "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong. In a series of verses on old cases, Chaozong Tongren gives the mind-only and consciousness-only formula its own heading, immediately after a separate verse on Baizhang's wild fox. Under this heading he pictures a scholar from Tangkou carrying a wooden coffin on his head, holding a cart plank, and calling out about death. The headword labels Chaozong's own verse and its startling scene rather than supplying a doctrinal definition. The neighboring wild-fox poem is a different piece; the text does not explain the scholar's fixed identity or specify how each object in the image maps to mind and consciousness.",
+              "ContextMasters": [
+                {
+                  "MasterName": "Chaozong Tongren",
+                  "Roles": [
+                    "utterer"
+                  ]
+                }
+              ],
+              "MasterName": "Chaozong Tongren",
+              "VariantForm": "三界唯心，萬法唯識",
+              "VariantKind": "editorial-punctuation",
+              "EvidenceRole": "variant",
+              "ClaimText": "三界唯心，萬法唯識"
+            },
+            {
+              "RelPath": "J/J26/J26nB183.xml",
+              "FromLb": "0537c02",
+              "ToLb": "0537c23",
+              "Kwic": "，父母、師長窮劫不離生死，去來了無所寄，雖然廓爾如如，者個少他不得。」遂點云：「還會麼？烈燄光中急轉身，赤腳波斯難趁及。」為寧遠、慈雲、寶慈入塔。「舉一明三，明三即一，三一明明，虛空出骨。」召大眾：「還見麼？」以拄杖敲塔門：「總向者裏退藏於密。」為寶梁禪德火。「天寒地凍，觸目凝然，兩手撒開，冰消瓦解。便與麼去，人間天上任意遊行，此界他方縱橫自在。不離當處嘗湛然，覓即明明不可見。」豎火炬，云：「還會麼？燎卻面門。」便擲。為會心上人入塔。「三界惟心，萬法惟識，會得心時，虛空出骨。」以拄杖指靈骨，召大眾云：「骨在者裏，且道心在甚麼處？」遂送入，云：「普。」為空林大師起龕。「門裏出身易，身裏出門難，不難不易，便與麼去。」復云：「請。」入塔，云：「水肅千谿，雲屯萬壑，真機獨露，是處生涯。恭惟吾空林大師，生緣吳門鹿城，遍參湖海知識，高踞雙徑峰頭，兩目自空雲漢。後投金粟，室內一心，頓徹物我，一如逢原自在，共侍我天童老人一十五載，聲光嘖嘖，叢林老成無出其右。雖則韜光慎重，獨善其身，誠為末世風規法門標朢",
+              "MasterName": "Shiqi Tongyun",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Shiqi Tongyun",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J26/J26nB183.xml). Recorded Sayings of Chan Master Shiqi of Xuedou. At the placing of monk Huixin's remains in a stupa, Shiqi Tongyun voices the formula and says that when mind is understood, even empty space shows bones. He points with his staff to the relic bones and asks the assembly: the bones are here, but where is mind? He then sends the remains inside with a single word. The saying is Shiqi's present ritual challenge, directed at the visible bones in front of the listeners; the neighboring fire rite in the record concerns another monk and should not be confused with Huixin's interment.",
+              "ClaimText": "三界惟心，萬法惟識"
+            },
+            {
+              "RelPath": "J/J29/J29nB224.xml",
+              "FromLb": "0129a11",
+              "ToLb": "0129b01",
+              "Kwic": "云：「不問者箇，南泉路向甚處去？」泉云：「我用得正快。」如知此意，正是行到水窮處，坐看雲起時，而住山始有益。示即徹禪人示即徹禪人大道在鬧浩中，不在寂靜裏；在寂靜中，不在鬧浩裏。此猶是分身兩處，何曾會仝？須理會寂靜非寂靜、鬧浩非鬧浩，以鬧浩為寂靜，以寂靜為鬧浩。寂兮鬧，晃晃燿燿；鬧兮寂，明明歷歷。打破虛空，當下心息。理會得如此，可謂會仝。要到徹頭徹尾，出羅籠，脫窠臼，見大人相，亦不難也。不然，終是隨群喫飯，何有於道哉？示惟一禪人示惟一禪人三界惟心，萬法惟識，惟識惟心，眼聲耳色。咄！此是老清涼沒處臧頭，卻來山僧筆尖上討巴鼻。住！住！住！聽分付：花與麼黃，竹與麼綠，鼻孔下頭大，眉毛眼上曲。衲僧點著便行，何須白日走魅叫苦叫屈？侍僧云：「和尚借取眉毛。」山僧高聲喝曰：「你道山僧過在甚處？」侍僧無對。山僧复云：「本自無瘡，勿剜窟可也。」示恒之李居士示恒之李居士余常觀古人有曰：鼓無絃琴，豈無知音於山間林下哉？然而者事貴在領會，領會底自是頭頭盡玅，即破沙盆、乾屎橛、麻三斤、庭前柏樹子、無位真人，未有不",
+              "MasterName": "Yezhu Fuhui",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yezhu Fuhui",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J29/J29nB224.xml). Recorded Sayings of Chan Master Yezhu of Mount Song. In an instruction to the monk Weiyi, Yezhu Fuhui opens with the mind-only and consciousness-only formula, then turns the words around and juxtaposes eye, sound, ear, and color. He interrupts himself with a shout, alludes to old Qingliang, and tells the disciple to look at the plain yellow flowers, green bamboo, nose, and eyebrows before him. When an attendant interrupts, Yezhu shouts and asks what he has done wrong; the attendant has no answer. The selected clause is Yezhu's current instruction, using familiar formula words only to push the disciple back to immediate seeing rather than word play.",
+              "ClaimText": "三界惟心，萬法惟識"
+            },
+            {
+              "RelPath": "J/J33/J33nB286.xml",
+              "FromLb": "0498a18",
+              "ToLb": "0498b06",
+              "Kwic": "問云：「請問和尚：如何是靈雲見桃花的意？」師云：「莫被他觸卻眼。」進云：「如何是溈山護持的意？」師云：「泥牛擎折角。」進云：「玄沙未徹意旨又作麼生？」師云：「平白更添冤。」進云：「若恁麼，溈山安邦定國，玄沙破宅亡家。去此二途，請師直指。」師云：「鳳啣丹詔傳來遠，莫向長安國裏居。」士云：「學人禮拜去也。」師云：「看取問頭。」下座。黃溪姚振綱、史雲山居士同眾信設供，請上堂。師云：「鐘鼓交參，人天畢集，新年頭佛法作麼商量？」豎拂，云：「會麼？三界惟心，萬法惟識，剎竿頭上風車子，三個猢猻夜簸錢。至道無難，惟嫌揀擇，夜半石人無影象，縱橫誰辨往來源？但莫憎愛，洞然明白，井底蝦蟆吞卻月，三更不惜夜明簾。今日山僧為諸仁者斬斷繩頭，汝等會得，則世、出世間如大鵬金翅鳥，劈海吞龍，毫無隔礙，乃至山河大地、僧俗男女、貧富貴賤，總在汝等自心發現。蓋因爾等循業昧己，障蔽本有光明，故爾先聖曲垂方便，普攝群機，流出一花五葉，分宗設教，建立綱旨，以至洞山五位、臨濟三玄、法眼六義、雲門顧鑒、溈仰圓相，拈來一槌擊得碎，非惟",
+              "MasterName": "Yingning Zhijing",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yingning Zhijing",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J33/J33nB286.xml). Recorded Sayings of Chan Master Yingningjing. At a new-year hall address supported by lay donors, Yingning Zhijing asks how the teaching should be discussed as bells and drums sound and the assembly gathers. He raises his whisk, asks if they understand, and voices the formula beside strange images of a windmill above a temple banner and monkeys handling coins at night. He then says the mountain, earth, clergy, laity, rich, and poor appear in the listeners' own mind, and urges them not to obscure their original clarity. The headword is Yingning's present spoken opening, not an attributed quotation in this scene.",
+              "ClaimText": "三界惟心，萬法惟識"
+            },
+            {
+              "RelPath": "J/J35/J35nB342.xml",
+              "FromLb": "0797a05",
+              "ToLb": "0797a22",
+              "Kwic": "：「若不空走則有也。」師笑云：「也只道得一半。」師問僧：「文殊為七佛之師，因甚出女子定不得？」僧云：「從來不借他人力。」師云：「罔明因甚卻出女子定得？」僧云：「觸著磕著。」師云：「文殊不及罔明耶？」僧便拜。師云：「弓折箭盡也。」師問僧：「無邊剎海，自、他不隔於毫端。因甚菴內人不知庵外事？」僧云：「官不容鍼，私通車馬。」師云：「十世古今，始終不離於當念。因甚今日不知明日事？」僧云：「有水皆含月，無山不帶雲。」師云：「雪峰道底。」師問僧：「三界惟心，萬法惟識。死了、燒了，何為心識？」僧豎起拳。師云：「死了、燒了，阿誰豎拳？」僧仍豎拳。師云：「生鐵鑄就即不無，兩片皮交閣在甚麼處？」僧便拜，師便打。次日，復以前語詰之，僧仍豎拳。師云：「昨日道過了。」僧云：「一回拈出一回新。」師打云：「放你不過。」師問僧：「誰？」僧云：「兩眼對兩眼。」師云：「你燒作一堆灰。老僧燒作一堆灰又如何？」僧云：「遍地是黃金。」師云：「試抓兩把呈似老僧看。」僧無語，師便打。僧入，師云：「如何是世尊不說說？」僧默然，師便打",
+              "MasterName": "Shengke Deyu",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Shengke Deyu",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J35/J35nB342.xml). Recorded Sayings of Chan Master Shengke (Huayan). Shengke Deyu questions a monk with the mind-only and consciousness-only formula and asks what mind and consciousness become after one dies and is burned. The monk raises a fist. Shengke asks who raises that fist after death and burning; the monk repeats the gesture, and Shengke challenges the mouth that tries to explain it before striking him. The next day he repeats the question, rejects the same raised fist as yesterday's answer, and strikes again when the monk calls it new each time. Shengke uses the formula as a test of whether a stock gesture meets the question about death, rather than as a settled verbal answer.",
+              "ClaimText": "三界惟心，萬法惟識"
+            },
+            {
+              "RelPath": "J/J37/J37nB393.xml",
+              "FromLb": "0659b03",
+              "ToLb": "0659b21",
+              "Kwic": "今早打汝三棒，你道是賞是罰？」僧云：「是賞。」師云：「賞在甚處？」僧云：「在和尚。」師又打，云：「再喫一頓。」僧入，師云：「萬法歸一，一歸何處？」僧云：「遊山翫水。」師云：「虛費草鞋錢。」僧入，師云：「你在老和尚處為侍者，和尚向你說甚麼？」僧云：「無法可說。」師云：「你即今說的聻？」僧擬議，師云：「莫道無法好。」僧入，師云：「你遊遍諸方，真實道一句看。」僧云：「無實處。」師云：「空過一生。」僧拂袖便行，師云：「果然空過。」僧入，師云：「三界惟心，萬法惟識，因甚今日不知明日事？」僧云：「不向和尚道。」師云：「不妨道看。」僧云：「若向和尚道，矢上加尖。」師云：「果然。」一沙彌入，師云：「如何是孝順之子？」沙彌無語。師代云：「吾常于此切。」僧入，師拈布毛吹一吹，云：「會麼？」僧無語。師云：「老僧吹布毛是微處，如何是你映微？」僧又無語。師云：「參去。」僧入，師云：「有句無句，如藤倚樹，樹倒藤枯，句歸何處？」僧云：「收放在此。」師云：「甚麼所在，說收說放？」僧禮退。僧入，師云：「念佛的是誰？」僧",
+              "MasterName": "Huanchu Guangfo",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Huanchu Guangfo",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J37/J37nB393.xml). Recorded Sayings of Chan Master Huayan Huanchufo. Huanchu Guangfo puts the formula to a visiting monk and asks why, if the three realms are mind only and the myriad things consciousness only, one cannot know tomorrow's affairs today. The monk says he will not tell Huanchu; urged to speak, he replies that doing so would only add a point to an arrow. Huanchu agrees. The exact clause is Huanchu's own question, and the monk's evasive answer becomes part of the exchange: the teacher presses a doctrinal phrase against ordinary uncertainty about tomorrow without pretending to predict it.",
+              "ClaimText": "三界惟心，萬法惟識"
+            }
+          ],
           "SourceTexts": [
+            "X/X78/X78n1553.xml",
+            "J/J23/J23nB134.xml",
+            "J/J24/J24nB138.xml",
+            "J/J34/J34nB300.xml",
             "J/J26/J26nB183.xml",
             "J/J29/J29nB224.xml",
             "J/J33/J33nB286.xml",
@@ -58714,14 +58801,21 @@
             "J/J37/J37nB393.xml"
           ],
           "RelatedMasters": [
+            "Huangbo Xiyun",
+            "Linji Yixuan",
+            "Yunmen Wenyan",
+            "Chaozong Tongren",
             "Shiqi Tongyun",
             "Yezhu Fuhui",
             "Yingning Zhijing",
             "Shengke Deyu",
             "Huanchu Guangfo"
           ],
-          "RelatedTerms": [],
-          "Explanation": "\"The three realms are only mind; the myriad things are only consciousness\" is a paired formula. Masters bring it into immediate exchanges, asking what its words show when faced with ashes, a gesture, or a new question. Shiqi speaks it at a cremation before pointing to ashes; Yezhu warns against treating the words as a sufficient answer. Yingning follows it with new-year images; Shengke asks about mind after death, and Huanchu asks why today does not reveal tomorrow."
+          "RelatedTerms": [
+            "三界唯心",
+            "萬法唯識"
+          ],
+          "Explanation": "The complete saying links the three realms with mind and the myriad things with consciousness. Nine distinct Zen-record uses make it a prompt, a provisional teaching, or a challenge to a merely verbal answer; the two full headword spellings use alternate graphs for the same job. Huangbo Xiyun distinguishes teaching tailored to a listener from a final claim about mind. He says views that everything permanently exists and that everything is sheer emptiness both become traps. He then voices the three-realms and myriad-things formula, but immediately says even this is spoken to people holding mistaken outside views. He goes on to reject clinging to awakening over affliction and to the contrast between an enlightened Buddha and a deluded person. Here the formula is Huangbo's own provisional teaching in a lamp record; the passage itself warns against treating it as the endpoint. Linji Yixuan tells his listeners that a person of the Way is not bound by sensory things or exceptional realms. He describes the forms of things as empty and voices the formula that the three realms are mind only and the myriad things consciousness only, then calls such appearances dreamlike flowers that need no grasping. His next claim points to the person hearing the teaching right now, who is not harmed by fire, water, or hell in his rhetorical account. The headword is Linji's own turn in a sermon, used to undo attachment to appearances rather than to propose another thing to seize. An unnamed monk asks Yunmen Wenyan what it means that the three realms are mind only and the myriad things consciousness only. Yunmen answers that he will not respond today. The monk presses him for a reason, and Yunmen asks whether he could understand it in the year of the donkey. The exact formula belongs to the monk's question; Yunmen's two replies refuse to turn it into an explanation on demand. The source names Yunmen as respondent but gives no name for the questioner. In a series of verses on old cases, Chaozong Tongren gives the mind-only and consciousness-only formula its own heading, immediately after a separate verse on Baizhang's wild fox. Under this heading he pictures a scholar from Tangkou carrying a wooden coffin on his head, holding a cart plank, and calling out about death. The headword labels Chaozong's own verse and its startling scene rather than supplying a doctrinal definition. The neighboring wild-fox poem is a different piece; the text does not explain the scholar's fixed identity or specify how each object in the image maps to mind and consciousness. At the placing of monk Huixin's remains in a stupa, Shiqi Tongyun voices the formula and says that when mind is understood, even empty space shows bones. He points with his staff to the relic bones and asks the assembly: the bones are here, but where is mind? He then sends the remains inside with a single word. The saying is Shiqi's present ritual challenge, directed at the visible bones in front of the listeners; the neighboring fire rite in the record concerns another monk and should not be confused with Huixin's interment. In an instruction to the monk Weiyi, Yezhu Fuhui opens with the mind-only and consciousness-only formula, then turns the words around and juxtaposes eye, sound, ear, and color. He interrupts himself with a shout, alludes to old Qingliang, and tells the disciple to look at the plain yellow flowers, green bamboo, nose, and eyebrows before him. When an attendant interrupts, Yezhu shouts and asks what he has done wrong; the attendant has no answer. The selected clause is Yezhu's current instruction, using familiar formula words only to push the disciple back to immediate seeing rather than word play. At a new-year hall address supported by lay donors, Yingning Zhijing asks how the teaching should be discussed as bells and drums sound and the assembly gathers. He raises his whisk, asks if they understand, and voices the formula beside strange images of a windmill above a temple banner and monkeys handling coins at night. He then says the mountain, earth, clergy, laity, rich, and poor appear in the listeners' own mind, and urges them not to obscure their original clarity. The headword is Yingning's present spoken opening, not an attributed quotation in this scene. Shengke Deyu questions a monk with the mind-only and consciousness-only formula and asks what mind and consciousness become after one dies and is burned. The monk raises a fist. Shengke asks who raises that fist after death and burning; the monk repeats the gesture, and Shengke challenges the mouth that tries to explain it before striking him. The next day he repeats the question, rejects the same raised fist as yesterday's answer, and strikes again when the monk calls it new each time. Shengke uses the formula as a test of whether a stock gesture meets the question about death, rather than as a settled verbal answer. Huanchu Guangfo puts the formula to a visiting monk and asks why, if the three realms are mind only and the myriad things consciousness only, one cannot know tomorrow's affairs today. The monk says he will not tell Huanchu; urged to speak, he replies that doing so would only add a point to an arrow. Huanchu agrees. The exact clause is Huanchu's own question, and the monk's evasive answer becomes part of the exchange: the teacher presses a doctrinal phrase against ordinary uncertainty about tomorrow without pretending to predict it."
         }
       ]
     },
