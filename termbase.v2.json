@@ -47918,11 +47918,12 @@
           "PreferredTarget": "The buddhas of the three times do not know it; cats and white oxen do",
           "AlternateTargets": [],
           "SearchAliases": [
-            "the buddhas of the three times do not know it; cats and white oxen do"
+            "the buddhas of the three times do not know it; cats and white oxen do",
+            "三世諸佛不知有，黧奴白牯卻知有"
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "Nanquan says that the buddhas of the three times do not know it, while cats and white oxen do. Sanyi asks what their knowing amounts to; Yingning takes it as a call to move among unlike beings. Tianran values Nanquan's refusal to fear the small. Feiyin answers with horns and a dusty face, Yi'an raises his staff into the animals' company, and Dabo uses the contrast to unsettle holy and ordinary. The animal image is a challenge to how knowing is lived.",
+          "Note": "Nanquan says that the buddhas of the three times do not know it, while cats and white oxen do. Sanyi asks what their knowing amounts to; Yingning takes it as a call to move among unlike beings. Tianran values Nanquan's refusal to fear the small. Feiyin answers with horns and a dusty face, Yi'an raises his staff into the animals' company, and Dabo uses the contrast to unsettle holy and ordinary. The animal image is a challenge to how knowing is lived. The alternate graph spelling uses the dark-cat form; both forms are the same Nanquan saying across distinct later uses.",
           "Occurrences": [
             {
               "RelPath": "J/J27/J27nB189.xml",
@@ -48049,6 +48050,117 @@
                 }
               ],
               "AttributionNote": "Source record (J/J40/J40nB472.xml). Recorded Sayings of Chan Master Daboqian. After a monk asks Dabo Qian about the mind of a practitioner, Dabo replies with a flowering tree, challenges the monk's elaborations and strikes when the monk hesitates. Dabo then addresses the assembly with the Buddhas-and-animals contrast and extends it: a golden-maned lion enters a pack of wild foxes, which all roar like lions. He says recognition here crosses the divide between ordinary and holy. The exact phrase is Dabo's present sermon after the exchange, not the monk's question; its object remains unnamed in the quoted formula."
+            },
+            {
+              "RelPath": "J/J27/J27nB190.xml",
+              "FromLb": "0099c23",
+              "ToLb": "0100b03",
+              "Kwic": "子還具六識也無？』州曰：『急水上打毬子。』又問投子：『「急水上打毬子」意旨如何？』子曰：『念念不停留。』可謂漏泄家風矣。諸仁者！各各既有如是威光，為甚麼被山僧拂子穿卻？左不能左、右不能右，還有脫得的麼？莫將送客風，翻為留客雨。珍重。」上堂。「南天台，北五臺，朝隨雲出岫，暮踏月明回。所以佛日山門八字打開，也不管你法爾如然、也不管你神通妙用，一任往往來來，只是一宿一供，雖是淡飯黃虀，也要和風相送。秪如昔日文喜問文殊：『此間如何住持？』文殊曰：『前三三與後三三。』且道：畢竟是多少？若道得，攜五臺山向佛日寺裏來；若道不得，攜佛日寺向五臺山裏去。還有麼？」良久，曰：「山僧代道去也，昔日文殊曾看母，倒跨金毛獅子來。」喝一喝。上堂。卓拄杖，曰：「天高地厚。」又卓曰：「日左月右，無不照臨、無不載覆，今之古之，法法何咎？為甚麼黃鶴峰與仙姑洞商量，將一切狐狼野干驅逐在法海邊外，使水鳥樹林同聲念無量壽？雖則因齋慶讚，爭奈三日口臭？何故？南泉祖師云：『三世諸佛不知有，黧奴白牯卻知有。』且道：知有個甚麼？明年五十一，去年四十九，為甚麼今年不道？」師忽展手，曰：「我手何似佛手？」復卓拄杖，曰：「還會麼？不見道：父母所生口。」上堂。召大眾，曰：「現成公案，放汝三十棒，汝還甘麼？若甘，則如蟲禦木，偶爾成文；若不甘，則明珠在淵，如何撈摝？黃帝遊于赤水，因罔象而得之，一人傳虛，萬人傳實。開山本空禪師為問二龍爭珠而失之，一人傳實，萬人傳虛。到者裏，虛之與實、隱之與現，如何分析？今日山僧以禪說戒，因戒說禪，且道：是虛耶？實耶？隱耶？現耶？若謂是虛，為甚麼道白月則現？若謂是實，為甚麼道黑月即隱？若謂是隱，為甚麼道胡來胡現、漢來漢現？若謂是現，為甚麼道胡漢不來，全無伎倆？于此分疏得下，不唯扶起本空，抑且捺倒老漢；如或未然，說個戒如明月珠，亦如淨滿月。屈。」上堂。「道，道，嶺外猿啼，簷前雀噪。不道，不道，到即不點、點即不到。」以拂一拂，曰：「釋迦老子來也，汝諸人為甚麼眉間白毫大光普照？汝還見菩薩處林放光，濟地獄苦，令入佛道麼？汝還見佛子未嘗睡眠，經行林中勤求佛道麼？汝還見受具足戒，威儀無缺，淨如寶珠以求佛道麼？若見，則白日青天，飛星閃電；若不見，則夜光投人，鮮不按劍。今日日新居士為父母求薦、為生母求福、又為自己求進道無魔，",
+              "MasterName": "Nanquan Puyuan",
+              "ActorAttribution": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Shiyu Mingfang",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J27/J27nB190.xml). Dharma Platform of Chan Master Shiyu. Shiyu Mingfang quotes Nanquan Puyuan saying that the buddhas of the three times do not know it while the dark cat and white ox do. Shiyu asks his assembly what the animals know, then asks why he does not name the present year while naming the years on either side. He suddenly extends his hand, asks how it compares with the Buddha's hand, and strikes the staff. The quoted contrast is Nanquan's; Shiyu uses the question and gestures to keep its unspecified object from becoming a ready definition."
+            },
+            {
+              "RelPath": "J/J27/J27nB197.xml",
+              "FromLb": "0417c06",
+              "ToLb": "0418a21",
+              "Kwic": "污佛事耶？當時待問：「獨露身與萬象撥不撥？」但云：「是何言歟？」管取法眼如啞子作通使，吐露不出。僧問九峰：「如何是頭？」峰云：「開眼不覺曉。」僧云：「如何是尾？」峰云：「不坐萬年床。」僧云：「有頭無尾時如何？」峰云：「終是不貴。」僧云：「有尾無頭時如何？」峰云：「雖飽無力。」僧云：「頭尾相稱時如何？」峰云：「兒孫得力，室內不知。」指活路于廛中，舌頭不粘著肉；披全提于向上，額顱不柱著天。九峰口齒若梭腸，自有巧婦針線也。所貴者，兒孫得力，室內不知。且道：不知者是何事？從昔去問取九峰。僧問夾山：「撥塵見佛時如何？」山云：「直須揮劍，若不揮劍，漁父棲巢。」僧問石霜：「撥塵見佛時如何？」霜云：「渠無國土，何處逢渠？」僧後舉似夾山，山乃上堂，舉了，云：「門庭施設不如老僧，入理深談猶較石霜百步。」門庭施設，入理深談，孤鴈群飛，缺一不可。一句則玄景未移而天機獨運，一句則神柯未伐而靈樹絕依，二大士氣宇如王，識得渠語者便好作罷參齋。南泉示眾，云：「三世諸佛不知有，黧奴白牯卻知有。」手托地，尾連天，王老師異類中行也。三世諸佛不知有，掬明月於無影樹頭；黧奴白牯卻知有，剪白雲於不應山谷。何人知此意？除是長嘯者。進山主問修山主云：「明知生是不生性，為什麼為生之所留？」修云：「筍畢竟成竹，如今作篾使，還得麼？」進云：「汝向後自悟去在。」修云：「某只如此，上座如何？」進云：「這箇是監院房，那箇是典座房。」修禮拜。拈轉鼻頭，披翻唇齒，裁長補短，自有機宜。此語非但為修公截舌，亦為後人點眼，可謂絆斷葛藤而遊象徑，芟除荊棘以露瓊枝，其活句如此。首山示眾，云：「第一句薦得，與佛祖為師；第二句薦得，與人天為師；第三句薦得，自救不了。」僧云：「和尚是第幾句薦得？」山云：「月落三更穿市過。」吞盡佛祖，佛祖為師；號令人天，人天作則。向沒蹤跡處立名，題分數目，喚作第一、第二，早是蛇足矣。然其舖舒展演，與奪臨時，首山舌上有鋒、咽喉若海也。還知月落三更句麼？無為無事人，別有閒家具。僧問仰山和尚：「還識字否？」山云：「隨分。」僧乃右旋一匝，云：「是什麼字？」山於地上書一十字。僧又左旋一匝，云：「是什麼字？」山改十字為卍字。僧畫一圓相，以兩手托如修羅掌日月勢，云：「是什麼字？」山畫一圓相圍卻卍字。僧作樓至勢，山云：「如是如是，善自護持。",
+              "MasterName": "Nanquan Puyuan",
+              "ActorAttribution": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Wuyi Yuanlai",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J27/J27nB197.xml). Essentials of the Recorded Sayings of Master Wu Yi of Boshan. Wuyi Yuanlai first recounts several older Chan exchanges and then explicitly introduces Nanquan Puyuan's saying about buddhas, dark cat and white ox. He describes old Wang, Nanquan, as moving among unlike beings and adds a verse for each half: one gathers moonlight at a shadowless tree, the other cuts white clouds in a valley that does not answer. Wuyi asks who understands this. The complete pair is Nanquan's quoted voice; Wuyi's animal image and verse are his present appraisal, not another independent original saying."
+            },
+            {
+              "RelPath": "J/J29/J29nB249.xml",
+              "FromLb": "0820c15",
+              "ToLb": "0821a21",
+              "Kwic": "不問，末後一句請師舉示。」師云：「薦取目前底。」進云：「世尊拈花，迦葉微笑，且道是結？是解？」師云：「一併拈卻。」進云：「正當今日解制時如何？」師云：「腳下草漫漫。」進云：「若有箇銅頭鐵額漢來，和尚與他作麼生相見？」師云：「放汝三十棒。」進云：「翠竹黃花新氣象，蒼松古柏舊風光。」師云：「不易念得好。」僧問：「古人道：『主隨客便，客聽主裁。』請問和尚：如何是主中賓？」師云：「當堂不正坐。」進云：「如何是賓中主？」師云：「側立位無偏。」進云：「如何是主中主？」師云：「此間無諸人。」進云：「如何是賓中賓？」師云：「彼間無老僧。」進云：「賓主未分時如何相見？」師云：「眼中童子面前人。」進云：「賓主五位蒙師指，九年面壁意如何？」師云：「毒風從此起，禍事至今生。」進云：「盡大地有不遭此害底麼？」師云：「且喜闍黎無分。」乃云：「撞鐘擂鼓，普請老僧上法堂；接踵摩肩，汝等諸人為何事？雖然，張口道不出，是法平等；舉手搆不著，無有高下。為甚古人道：『三世諸佛不知有，黧奴白牯卻知有？』知與不知，利害同源，天界這裏，二俱不取。作麼生是有底事？莫是春日結、夏日解，拈拄杖、豎拂子麼？莫是飢時食、渴時飲，早念咒、晚誦經麼？莫是天上晴、地下乾，迎賓來、送客去麼？如或不然，說到理窮言盡處，不如藏舌與安心。」誕日，道映禪人同甘湛之、錢仁甫眾居士設供，請上堂。維那白椎竟，師云：「即此一義，籠陷古今，若是其人，自有出身活路。大眾！莫有向未舉前相見底麼？」僧問：「時當盛暑，杲日光騰，和尚陞座，大眾瞻仰，全付金襴即不問，慶賀一句願親聞。」師云：「重逢雙巧雨花朝。」進云：「寶掌和尚壽千歲，無位真人年多少？」師云：「今朝七月七。」進云：「如何是無量壽？」師云：「始末不墮。」進云：「今日親見和尚。」師云：「你將甚麼見老僧？」進云：「一毫瞞不得。」師云：「秪如瞞不得底是甚麼？」僧擬議，師便打，乃云：「大凡舉揚此事，須俟時節因緣，時節一至，此事自彰。不然，但見雲從這裏起，不知雨向那方來。今日是眾居士設供慶賀山僧滿旬時節，請陞此座，舉揚箇事。」驀豎拂子，云：「會麼？巍巍堂堂，明明歷歷，無倚無依，赤孤露地，六十年來一念過，返觀久遠如今日。」上堂。僧問：「世尊陞座，良久默然，意旨如何？」師云：「放汝一頓棒。」進云：「文殊白椎，世尊下座，意",
+              "MasterName": null,
+              "ActorAttribution": {
+                "Status": "reviewed-unnamed",
+                "ActorLabel": "an old speaker named only as an ancient source in this local quotation",
+                "GrammarEvidence": "Fangrong introduces the complete line with an old person said, without naming that quoted speaker locally. Other records name Nanquan, but this occurrence distinguishes that cross-source origin from the immediate anonymous quotation.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "Kind": "unnamed earlier quoted speaker",
+                "ActorRole": "utterer",
+                "ReviewedBy": "Codex source-first public R10 graph-variant merge",
+                "ReviewedUtc": "2026-10-31T08:49:18.604669Z"
+              },
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Fangrong Ruxi",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J29/J29nB249.xml). Recorded Sayings of Chan Master Fangrongxi. After answering a monk's questions about host and guest, Fangrong Ruxi turns to his assembly and cites what he calls an old saying: the buddhas of the three times do not know it, while the dark cat and white ox do. He says knowing and not knowing share a source of benefit and danger, yet he accepts neither as a position. He asks whether the matter lies in retreat dates, staff and whisk, eating and drinking, or receiving and sending guests, then says that when speech is exhausted it is better to hold the tongue and settle the mind. The local quotation does not name its old speaker; parallel records attribute the pair to Nanquan, while Fangrong supplies this sermon's live challenge."
+            },
+            {
+              "RelPath": "J/J32/J32nB272.xml",
+              "FromLb": "0194c30",
+              "ToLb": "0195b15",
+              "Kwic": "月一鉤。僧問趙州：「如何是祖師西來意？」州云：「庭前柏樹子。」岸眉橫雪，河目含秋，海口鼓浪，航舌駕流。撥亂之手，太平之籌。老趙州，老趙州，攪攪叢林卒未休。徒費工夫也，造車合轍；本無伎倆也，塞壑填溝。維摩詰問文殊師利：「何等是菩薩入不二法門？」殊云：「如我意者，於一切法無言無說、無示無識、離諸問答，是為入不二法門。」於是文殊問維摩：「我等各自說己，仁者當說何等是菩薩入不二法門？」維摩默然。曼殊問疾老毘耶，不二門開看作家，玟表粹中誰賞鑑？忘前失後莫咨嗟。區區投璞兮楚庭臏士；燦燦報珠兮隋城斷蛇。休點破，絕疵瑕，俗氣渾無卻較些。洞山供養雲巖真，舉前邈真話。僧問：「雲巖只者是，意旨如何？」山云：「我當時幾錯會先師意。」僧云：「未審雲巖還知有也無？」山云：「若不知有，爭解恁麼道？若知有，爭肯恁麼道？」爭解恁麼道？五更雞唱家林曉；爭肯恁麼道？千年鶴宿雲松老。寶鑑澄明驗正偏，玉機轉側看兼到。門風大振兮規步綿綿；父子變通兮聲光浩浩。南泉示眾云：「三世諸佛不知有，黧奴白牯卻知有。」跛跛挈挈，㲯㲯毿毿，百不可取，一無所堪。默默自知心地穩，騰騰誰謂肚皮憨？普周沙界渾成飯，鼻孔纍垂信飽參。進山主問修山主云：「明知生是不生之法，為什麼被生死之所流轉？」修云：「筍畢竟成竹，如今作篾使，還得麼？」進云：「汝向後自悟去在。」修云：「某只如此，上座如何？」進云：「者個是監院房，那個是典座房。」修禮拜。豁落忘依，高閑不羈，家邦平貼到人稀，些些力量分階級，蕩蕩身心絕是非。是非絕，介立大方無軌轍。翠巖示眾云：「一夏已來為兄弟說話，看翠巖眉毛在麼？」保福云：「作賊人心虛。」長慶云：「生也。」雲門云：「關。」作賊心，過人膽，歷歷縱橫對機感。保福、雲門也垂鼻欺唇，翠巖、長慶也修眉過眼。杜禪和，有何限？剛道意句一齊鏟。埋沒自己也飲氣吞聲，帶累先宗也面墻擔板。仰山問中邑：「如何是佛性義？」邑云：「我與你說個譬喻。如室有六窗，中安一獼猴，外有人喚：『狌狌！』獼猴即應，如是六窗俱喚俱應。」仰云：「只如獼猴睡時又作麼生？」邑下禪床把手云：「狌狌！我與你相見了也。」凍眠雪屋歲摧頹，窈窕蘿門夜不開，寒稿園林看變態，春風吹起律筒灰。僧問曹山：「靈衣不挂時如何？」山云：「曹山今日孝滿。」僧云：「孝滿後如何？」山云：「曹山好顛酒。」清白門庭絕四",
+              "MasterName": "Nanquan Puyuan",
+              "ActorAttribution": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Hongzhi Zhengjue",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J32/J32nB272.xml). Recorded Sayings of Chan Master Hongzhi Jue of Tiantong Jingde Monastery, Mingzhou. Hongzhi Zhengjue sets Nanquan Puyuan's saying among a sequence of old cases to which he gives his own verse responses. He explicitly identifies Nanquan speaking the contrast between the buddhas and the dark cat and white ox, then answers it with ragged movement, quiet self-knowledge, and an image of the whole world made into a meal. This is Hongzhi's appraisal of the inherited saying, not a new claim that the animals know a specified doctrine. The source leaves the object of knowing unstated."
+            },
+            {
+              "RelPath": "J/J39/J39nB468.xml",
+              "FromLb": "0903a26",
+              "ToLb": "0903c09",
+              "Kwic": "萬萬歲！壽山福海，聳翠彌深，堯風並慈風浩蕩，舜日與佛日常明。所以，八方歌有道，四海樂無為。秪如林下衲子報恩一句又作麼生？」良久，曰：「恩深轉無語，懷抱自分明。」擊拂子，下座。上堂。「春日熙熙，和風習習。岸柳搖金，溪桃吐赤。突出威音那畔，揭示衲僧巴鼻。明歷歷，親的的，因甚惟道江南三月鷓鴣啼，天龍門下打折驢脊？」示眾，上堂。「第一義諦，諸方道：鍾未響，鼓未鳴，未出方丈已前分付了也。若恁麼，未免誤賺捕風捉影之流，向黑山鬼窟裏作活計去在。殊不知鐘鼓交加，人天普集，一句當天，十方通暢，塵塵剎剎無處不明，法法頭頭何所不現？如天普蓋，似地普擎，直教人人共見，個個同明，物我輝融，古今一致，不落見聞，全彰體用。所以道：『人人有個無位真人，常在面門出入，未證據者看看。』到者裏還回避得也無？若也回避得，三世諸佛、歷代祖師並天下老和尚，一齊入地獄如箭射。既回避不得，敢問諸人：第一義諦作麼生觀？觀即不無，爭奈落在第二頭？」上堂。「大盡三十日，小盡二十九，三世諸佛不知有，黧奴白牯卻知有。且道知個甚麼？雲中木馬嘶，海底泥牛吼，驚起夜叉神，𨁝跳上岸，瞠眉努目，一一面南看北斗。」上堂。「天高地厚，山尖水平，日出月落，夜暗晝明，龍吟霧起，虎嘯風生，鴉鳴鵲噪，鳶飛雲騰，盡是當人不動境界。於中是凡是聖、是男是女、是俗是僧，乃至四生六道、情與無情……」卓拄杖一下，云：「總在者裏。一切智智清清無二，無二分、無別無斷故。更說甚麼靈山拈花、少室安心？檢點將來，也是眼裏著釘。」上堂。「父母未生前，神頭鬼面；狗子無佛性，膏肓大病。萬法歸一，參天荊棘；一歸何處？轉入邪路。踏破牢關解轉身，大夢胡為尚未惺？三生六十劫，總是可憐生。何故聻？」卓拄杖一下，云：「野老不知堯舜力，鼕鼕打鼓祭江神。」上堂。「隔山見煙知是火，隔牆見角知是牛，那吒太子析骨還父、析肉還母，因甚麼演若達多認影迷頭？可謂無限風光無限意，幾多歡喜幾多愁。」喝一喝，云：「還會麼？喜底一任喜，愁底一任愁，五湖煙景有誰爭？夕陽西去水東流。」中秋，上堂。「寶月放光，丹桂飄香，兩彩一賽，鼻孔昂藏。正恁麼時，直饒道好修行、好供養，禪歸海、經歸藏，總好喫龍山痛棒。何以？分明有月落波心，自是無雲生嶺上。」喝一喝，下座。臘八日，上堂。「天是天，地是地，日月是日月，星辰是星辰，山川是山川，草",
+              "MasterName": "Shanyi Ruchun",
+              "ActorAttribution": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Shanyi Ruchun",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J39/J39nB468.xml). Recorded Sayings of Chan Master Shanyi Chun. In a hall sermon, Shanyi Ruchun first turns aside an abstract account of the highest truth and then opens another address by contrasting the long and short lunar months. He voices the full buddhas, dark cat and white ox pair, asks the assembly what is known, and answers with a wooden horse neighing in clouds and a clay ox roaring beneath the sea. His fantastic answer turns the old contrast into a fresh question for the assembly; the passage does not identify a fixed object of knowledge or expressly name Nanquan at this point."
             }
           ],
           "ClaimAnchors": [
@@ -48183,165 +48295,7 @@
               ],
               "AttributionNote": "Source record (J/J40/J40nB472.xml). Recorded Sayings of Chan Master Daboqian. After a monk asks Dabo Qian about the mind of a practitioner, Dabo replies with a flowering tree, challenges the monk's elaborations and strikes when the monk hesitates. Dabo then addresses the assembly with the Buddhas-and-animals contrast and extends it: a golden-maned lion enters a pack of wild foxes, which all roar like lions. He says recognition here crosses the divide between ordinary and holy. The exact phrase is Dabo's present sermon after the exchange, not the monk's question; its object remains unnamed in the quoted formula.",
               "ClaimText": "三世諸佛不知有，狸奴白牯卻知有"
-            }
-          ],
-          "SourceTexts": [
-            "J/J27/J27nB189.xml",
-            "J/J33/J33nB286.xml",
-            "J/J38/J38nB406.xml",
-            "J/J26/J26nB178.xml",
-            "J/J37/J37nB394.xml",
-            "J/J40/J40nB472.xml"
-          ],
-          "RelatedMasters": [
-            "Nanquan Puyuan",
-            "Sanyi Mingyu",
-            "Yingning Zhijing",
-            "Tianran Hanshi",
-            "Feiyin Tongrong",
-            "Yi'an Shanzan",
-            "Dabo Qian"
-          ],
-          "RelatedTerms": [],
-          "Explanation": "The Buddhas of the three times do not know it, but cats and white oxen do: a deliberately unsettling contrast attributed to Nanquan. Three passages explicitly quote him; three later teachers voice the line anew in their sermons. The source wording leaves the object of knowing unstated. Sanyi Mingyu quotes Nanquan Puyuan saying that the Buddhas of the three times do not know it, while cats and white oxen do. Sanyi asks what the animals know and proposes a polished landscape answer only to warn that such talk would leave its speaker carrying a burden. The exact contrast is Nanquan's cited voice; Sanyi's present question tests whether a pleasing description actually meets it. The source does not name a fixed object for the word it. Yingning Jing quotes Nanquan Puyuan's contrast between the Buddhas and cats and white oxen. He says that to carry forward the teaching one must know how to move among different kinds of beings, then asks whether anyone understands Nanquan's way of acting. A layman spins away; Yingning shouts, calls the move wild jumping and strikes his staff. The exact line is Nanquan's quoted voice, while the layman's action and Yingning's response show this sermon applying it rather than explaining away the animals. Tianran of Mount Lu raises several older sayings about recognizing the matter and then quotes Nanquan Puyuan on Buddhas not knowing while cats and white oxen know. Tianran says he admires Nanquan for not fearing what is great or belittling what is small, because Nanquan knows the cause of the illness. He asks his assembly what that cause is and returns to his own larger teaching. The exact contrast is Nanquan's cited saying; Tianran's present praise and question are a separate appraisal, and the saying leaves its object unstated. At a hall sermon requested to honor a lay supporter's deceased parents, Feiyin Tongrong says even a broad understanding of mind and ordinary beings is only an entry point. He then voices the line that the Buddhas of three times do not know it but cats and white oxen do, and develops it through images of horns, dust-covered faces and the ending of holy-versus-ordinary distinctions. Later he restates the two halves with separate gestures of descent and ascent and asks what the old masters meant. The phrase is Feiyin's present use of an inherited contrast; neither use supplies a single fixed referent for it. Yi'an Shanzan opens a short instruction by voicing the contrast between Buddhas who do not know it and cats and white oxen who do. He picks up his staff and tells the assembly to look: the Buddhas have gone into the company of those animals. He asks why, then says the two portions differ and are brought back under the preceding heading. The exact line is his present teaching turn; the staff gesture and follow-up complicate a fixed division between Buddhas and animals. After a monk asks Dabo Qian about the mind of a practitioner, Dabo replies with a flowering tree, challenges the monk's elaborations and strikes when the monk hesitates. Dabo then addresses the assembly with the Buddhas-and-animals contrast and extends it: a golden-maned lion enters a pack of wild foxes, which all roar like lions. He says recognition here crosses the divide between ordinary and holy. The exact phrase is Dabo's present sermon after the exchange, not the monk's question; its object remains unnamed in the quoted formula."
-        }
-      ]
-    },
-    {
-      "Id": "t_2014c7c1d25c",
-      "SourceTerm": "三世諸佛不知有，黧奴白牯卻知有",
-      "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
-      "CreatedBy": "r10 fresh10k source-first author A1",
-      "WrittenUtc": "2026-10-29T06:47:44Z",
-      "Senses": [
-        {
-          "SenseKey": null,
-          "MasterName": null,
-          "PreferredTarget": "The Buddhas of the three times do not know it; the dark cat and white ox do know it",
-          "AlternateTargets": [
-            "Buddhas past, present, and future do not know; the dark cat and the white ox know"
-          ],
-          "SearchAliases": [
-            "three times buddhas dark cat white ox know Chan",
-            "three times buddhas do not know black cat white ox Zen"
-          ],
-          "Status": "preferred",
-          "Validation": "multi-source",
-          "Note": "The saying contrasts the buddhas with a dark cat and white ox in the matter of knowing. Shiyu asks what is known; Wuyi and Hongzhi answer in verse; Fangrong refuses both knowing and not knowing as positions; Shanyi revoices the pair in a present hall speech. Fangrong locally attributes the quoted line only to an unnamed earlier speaker, though parallel sources identify Nanquan. The passage does not define a fixed object of knowledge.",
-          "Occurrences": [
-            {
-              "RelPath": "J/J27/J27nB190.xml",
-              "FromLb": "0099c23",
-              "ToLb": "0100b03",
-              "Kwic": "子還具六識也無？』州曰：『急水上打毬子。』又問投子：『「急水上打毬子」意旨如何？』子曰：『念念不停留。』可謂漏泄家風矣。諸仁者！各各既有如是威光，為甚麼被山僧拂子穿卻？左不能左、右不能右，還有脫得的麼？莫將送客風，翻為留客雨。珍重。」上堂。「南天台，北五臺，朝隨雲出岫，暮踏月明回。所以佛日山門八字打開，也不管你法爾如然、也不管你神通妙用，一任往往來來，只是一宿一供，雖是淡飯黃虀，也要和風相送。秪如昔日文喜問文殊：『此間如何住持？』文殊曰：『前三三與後三三。』且道：畢竟是多少？若道得，攜五臺山向佛日寺裏來；若道不得，攜佛日寺向五臺山裏去。還有麼？」良久，曰：「山僧代道去也，昔日文殊曾看母，倒跨金毛獅子來。」喝一喝。上堂。卓拄杖，曰：「天高地厚。」又卓曰：「日左月右，無不照臨、無不載覆，今之古之，法法何咎？為甚麼黃鶴峰與仙姑洞商量，將一切狐狼野干驅逐在法海邊外，使水鳥樹林同聲念無量壽？雖則因齋慶讚，爭奈三日口臭？何故？南泉祖師云：『三世諸佛不知有，黧奴白牯卻知有。』且道：知有個甚麼？明年五十一，去年四十九，為甚麼今年不道？」師忽展手，曰：「我手何似佛手？」復卓拄杖，曰：「還會麼？不見道：父母所生口。」上堂。召大眾，曰：「現成公案，放汝三十棒，汝還甘麼？若甘，則如蟲禦木，偶爾成文；若不甘，則明珠在淵，如何撈摝？黃帝遊于赤水，因罔象而得之，一人傳虛，萬人傳實。開山本空禪師為問二龍爭珠而失之，一人傳實，萬人傳虛。到者裏，虛之與實、隱之與現，如何分析？今日山僧以禪說戒，因戒說禪，且道：是虛耶？實耶？隱耶？現耶？若謂是虛，為甚麼道白月則現？若謂是實，為甚麼道黑月即隱？若謂是隱，為甚麼道胡來胡現、漢來漢現？若謂是現，為甚麼道胡漢不來，全無伎倆？于此分疏得下，不唯扶起本空，抑且捺倒老漢；如或未然，說個戒如明月珠，亦如淨滿月。屈。」上堂。「道，道，嶺外猿啼，簷前雀噪。不道，不道，到即不點、點即不到。」以拂一拂，曰：「釋迦老子來也，汝諸人為甚麼眉間白毫大光普照？汝還見菩薩處林放光，濟地獄苦，令入佛道麼？汝還見佛子未嘗睡眠，經行林中勤求佛道麼？汝還見受具足戒，威儀無缺，淨如寶珠以求佛道麼？若見，則白日青天，飛星閃電；若不見，則夜光投人，鮮不按劍。今日日新居士為父母求薦、為生母求福、又為自己求進道無魔，",
-              "MasterName": "Nanquan Puyuan",
-              "ActorAttribution": null,
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Shiyu Mingfang",
-                  "Roles": [
-                    "commentator",
-                    "record-owner"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J27/J27nB190.xml). Dharma Platform of Chan Master Shiyu. Shiyu Mingfang quotes Nanquan Puyuan saying that the buddhas of the three times do not know it while the dark cat and white ox do. Shiyu asks his assembly what the animals know, then asks why he does not name the present year while naming the years on either side. He suddenly extends his hand, asks how it compares with the Buddha's hand, and strikes the staff. The quoted contrast is Nanquan's; Shiyu uses the question and gestures to keep its unspecified object from becoming a ready definition."
             },
-            {
-              "RelPath": "J/J27/J27nB197.xml",
-              "FromLb": "0417c06",
-              "ToLb": "0418a21",
-              "Kwic": "污佛事耶？當時待問：「獨露身與萬象撥不撥？」但云：「是何言歟？」管取法眼如啞子作通使，吐露不出。僧問九峰：「如何是頭？」峰云：「開眼不覺曉。」僧云：「如何是尾？」峰云：「不坐萬年床。」僧云：「有頭無尾時如何？」峰云：「終是不貴。」僧云：「有尾無頭時如何？」峰云：「雖飽無力。」僧云：「頭尾相稱時如何？」峰云：「兒孫得力，室內不知。」指活路于廛中，舌頭不粘著肉；披全提于向上，額顱不柱著天。九峰口齒若梭腸，自有巧婦針線也。所貴者，兒孫得力，室內不知。且道：不知者是何事？從昔去問取九峰。僧問夾山：「撥塵見佛時如何？」山云：「直須揮劍，若不揮劍，漁父棲巢。」僧問石霜：「撥塵見佛時如何？」霜云：「渠無國土，何處逢渠？」僧後舉似夾山，山乃上堂，舉了，云：「門庭施設不如老僧，入理深談猶較石霜百步。」門庭施設，入理深談，孤鴈群飛，缺一不可。一句則玄景未移而天機獨運，一句則神柯未伐而靈樹絕依，二大士氣宇如王，識得渠語者便好作罷參齋。南泉示眾，云：「三世諸佛不知有，黧奴白牯卻知有。」手托地，尾連天，王老師異類中行也。三世諸佛不知有，掬明月於無影樹頭；黧奴白牯卻知有，剪白雲於不應山谷。何人知此意？除是長嘯者。進山主問修山主云：「明知生是不生性，為什麼為生之所留？」修云：「筍畢竟成竹，如今作篾使，還得麼？」進云：「汝向後自悟去在。」修云：「某只如此，上座如何？」進云：「這箇是監院房，那箇是典座房。」修禮拜。拈轉鼻頭，披翻唇齒，裁長補短，自有機宜。此語非但為修公截舌，亦為後人點眼，可謂絆斷葛藤而遊象徑，芟除荊棘以露瓊枝，其活句如此。首山示眾，云：「第一句薦得，與佛祖為師；第二句薦得，與人天為師；第三句薦得，自救不了。」僧云：「和尚是第幾句薦得？」山云：「月落三更穿市過。」吞盡佛祖，佛祖為師；號令人天，人天作則。向沒蹤跡處立名，題分數目，喚作第一、第二，早是蛇足矣。然其舖舒展演，與奪臨時，首山舌上有鋒、咽喉若海也。還知月落三更句麼？無為無事人，別有閒家具。僧問仰山和尚：「還識字否？」山云：「隨分。」僧乃右旋一匝，云：「是什麼字？」山於地上書一十字。僧又左旋一匝，云：「是什麼字？」山改十字為卍字。僧畫一圓相，以兩手托如修羅掌日月勢，云：「是什麼字？」山畫一圓相圍卻卍字。僧作樓至勢，山云：「如是如是，善自護持。",
-              "MasterName": "Nanquan Puyuan",
-              "ActorAttribution": null,
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Wuyi Yuanlai",
-                  "Roles": [
-                    "commentator",
-                    "record-owner"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J27/J27nB197.xml). Essentials of the Recorded Sayings of Master Wu Yi of Boshan. Wuyi Yuanlai first recounts several older Chan exchanges and then explicitly introduces Nanquan Puyuan's saying about buddhas, dark cat and white ox. He describes old Wang, Nanquan, as moving among unlike beings and adds a verse for each half: one gathers moonlight at a shadowless tree, the other cuts white clouds in a valley that does not answer. Wuyi asks who understands this. The complete pair is Nanquan's quoted voice; Wuyi's animal image and verse are his present appraisal, not another independent original saying."
-            },
-            {
-              "RelPath": "J/J29/J29nB249.xml",
-              "FromLb": "0820c15",
-              "ToLb": "0821a21",
-              "Kwic": "不問，末後一句請師舉示。」師云：「薦取目前底。」進云：「世尊拈花，迦葉微笑，且道是結？是解？」師云：「一併拈卻。」進云：「正當今日解制時如何？」師云：「腳下草漫漫。」進云：「若有箇銅頭鐵額漢來，和尚與他作麼生相見？」師云：「放汝三十棒。」進云：「翠竹黃花新氣象，蒼松古柏舊風光。」師云：「不易念得好。」僧問：「古人道：『主隨客便，客聽主裁。』請問和尚：如何是主中賓？」師云：「當堂不正坐。」進云：「如何是賓中主？」師云：「側立位無偏。」進云：「如何是主中主？」師云：「此間無諸人。」進云：「如何是賓中賓？」師云：「彼間無老僧。」進云：「賓主未分時如何相見？」師云：「眼中童子面前人。」進云：「賓主五位蒙師指，九年面壁意如何？」師云：「毒風從此起，禍事至今生。」進云：「盡大地有不遭此害底麼？」師云：「且喜闍黎無分。」乃云：「撞鐘擂鼓，普請老僧上法堂；接踵摩肩，汝等諸人為何事？雖然，張口道不出，是法平等；舉手搆不著，無有高下。為甚古人道：『三世諸佛不知有，黧奴白牯卻知有？』知與不知，利害同源，天界這裏，二俱不取。作麼生是有底事？莫是春日結、夏日解，拈拄杖、豎拂子麼？莫是飢時食、渴時飲，早念咒、晚誦經麼？莫是天上晴、地下乾，迎賓來、送客去麼？如或不然，說到理窮言盡處，不如藏舌與安心。」誕日，道映禪人同甘湛之、錢仁甫眾居士設供，請上堂。維那白椎竟，師云：「即此一義，籠陷古今，若是其人，自有出身活路。大眾！莫有向未舉前相見底麼？」僧問：「時當盛暑，杲日光騰，和尚陞座，大眾瞻仰，全付金襴即不問，慶賀一句願親聞。」師云：「重逢雙巧雨花朝。」進云：「寶掌和尚壽千歲，無位真人年多少？」師云：「今朝七月七。」進云：「如何是無量壽？」師云：「始末不墮。」進云：「今日親見和尚。」師云：「你將甚麼見老僧？」進云：「一毫瞞不得。」師云：「秪如瞞不得底是甚麼？」僧擬議，師便打，乃云：「大凡舉揚此事，須俟時節因緣，時節一至，此事自彰。不然，但見雲從這裏起，不知雨向那方來。今日是眾居士設供慶賀山僧滿旬時節，請陞此座，舉揚箇事。」驀豎拂子，云：「會麼？巍巍堂堂，明明歷歷，無倚無依，赤孤露地，六十年來一念過，返觀久遠如今日。」上堂。僧問：「世尊陞座，良久默然，意旨如何？」師云：「放汝一頓棒。」進云：「文殊白椎，世尊下座，意",
-              "MasterName": null,
-              "ActorAttribution": {
-                "Status": "reviewed-unnamed",
-                "ActorLabel": "an old speaker named only as an ancient source in this local quotation",
-                "GrammarEvidence": "Fangrong introduces the complete line with an old person said, without naming that quoted speaker locally. Other records name Nanquan, but this occurrence distinguishes that cross-source origin from the immediate anonymous quotation.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "Kind": "unnamed earlier quoted speaker",
-                "ActorRole": "utterer",
-                "ReviewedBy": "Codex source-first public R10 graph-variant merge",
-                "ReviewedUtc": "2026-10-31T08:49:18.604669Z"
-              },
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Fangrong Ruxi",
-                  "Roles": [
-                    "commentator",
-                    "record-owner"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J29/J29nB249.xml). Recorded Sayings of Chan Master Fangrongxi. After answering a monk's questions about host and guest, Fangrong Ruxi turns to his assembly and cites what he calls an old saying: the buddhas of the three times do not know it, while the dark cat and white ox do. He says knowing and not knowing share a source of benefit and danger, yet he accepts neither as a position. He asks whether the matter lies in retreat dates, staff and whisk, eating and drinking, or receiving and sending guests, then says that when speech is exhausted it is better to hold the tongue and settle the mind. The local quotation does not name its old speaker; parallel records attribute the pair to Nanquan, while Fangrong supplies this sermon's live challenge."
-            },
-            {
-              "RelPath": "J/J32/J32nB272.xml",
-              "FromLb": "0194c30",
-              "ToLb": "0195b15",
-              "Kwic": "月一鉤。僧問趙州：「如何是祖師西來意？」州云：「庭前柏樹子。」岸眉橫雪，河目含秋，海口鼓浪，航舌駕流。撥亂之手，太平之籌。老趙州，老趙州，攪攪叢林卒未休。徒費工夫也，造車合轍；本無伎倆也，塞壑填溝。維摩詰問文殊師利：「何等是菩薩入不二法門？」殊云：「如我意者，於一切法無言無說、無示無識、離諸問答，是為入不二法門。」於是文殊問維摩：「我等各自說己，仁者當說何等是菩薩入不二法門？」維摩默然。曼殊問疾老毘耶，不二門開看作家，玟表粹中誰賞鑑？忘前失後莫咨嗟。區區投璞兮楚庭臏士；燦燦報珠兮隋城斷蛇。休點破，絕疵瑕，俗氣渾無卻較些。洞山供養雲巖真，舉前邈真話。僧問：「雲巖只者是，意旨如何？」山云：「我當時幾錯會先師意。」僧云：「未審雲巖還知有也無？」山云：「若不知有，爭解恁麼道？若知有，爭肯恁麼道？」爭解恁麼道？五更雞唱家林曉；爭肯恁麼道？千年鶴宿雲松老。寶鑑澄明驗正偏，玉機轉側看兼到。門風大振兮規步綿綿；父子變通兮聲光浩浩。南泉示眾云：「三世諸佛不知有，黧奴白牯卻知有。」跛跛挈挈，㲯㲯毿毿，百不可取，一無所堪。默默自知心地穩，騰騰誰謂肚皮憨？普周沙界渾成飯，鼻孔纍垂信飽參。進山主問修山主云：「明知生是不生之法，為什麼被生死之所流轉？」修云：「筍畢竟成竹，如今作篾使，還得麼？」進云：「汝向後自悟去在。」修云：「某只如此，上座如何？」進云：「者個是監院房，那個是典座房。」修禮拜。豁落忘依，高閑不羈，家邦平貼到人稀，些些力量分階級，蕩蕩身心絕是非。是非絕，介立大方無軌轍。翠巖示眾云：「一夏已來為兄弟說話，看翠巖眉毛在麼？」保福云：「作賊人心虛。」長慶云：「生也。」雲門云：「關。」作賊心，過人膽，歷歷縱橫對機感。保福、雲門也垂鼻欺唇，翠巖、長慶也修眉過眼。杜禪和，有何限？剛道意句一齊鏟。埋沒自己也飲氣吞聲，帶累先宗也面墻擔板。仰山問中邑：「如何是佛性義？」邑云：「我與你說個譬喻。如室有六窗，中安一獼猴，外有人喚：『狌狌！』獼猴即應，如是六窗俱喚俱應。」仰云：「只如獼猴睡時又作麼生？」邑下禪床把手云：「狌狌！我與你相見了也。」凍眠雪屋歲摧頹，窈窕蘿門夜不開，寒稿園林看變態，春風吹起律筒灰。僧問曹山：「靈衣不挂時如何？」山云：「曹山今日孝滿。」僧云：「孝滿後如何？」山云：「曹山好顛酒。」清白門庭絕四",
-              "MasterName": "Nanquan Puyuan",
-              "ActorAttribution": null,
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Hongzhi Zhengjue",
-                  "Roles": [
-                    "commentator",
-                    "record-owner"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J32/J32nB272.xml). Recorded Sayings of Chan Master Hongzhi Jue of Tiantong Jingde Monastery, Mingzhou. Hongzhi Zhengjue sets Nanquan Puyuan's saying among a sequence of old cases to which he gives his own verse responses. He explicitly identifies Nanquan speaking the contrast between the buddhas and the dark cat and white ox, then answers it with ragged movement, quiet self-knowledge, and an image of the whole world made into a meal. This is Hongzhi's appraisal of the inherited saying, not a new claim that the animals know a specified doctrine. The source leaves the object of knowing unstated."
-            },
-            {
-              "RelPath": "J/J39/J39nB468.xml",
-              "FromLb": "0903a26",
-              "ToLb": "0903c09",
-              "Kwic": "萬萬歲！壽山福海，聳翠彌深，堯風並慈風浩蕩，舜日與佛日常明。所以，八方歌有道，四海樂無為。秪如林下衲子報恩一句又作麼生？」良久，曰：「恩深轉無語，懷抱自分明。」擊拂子，下座。上堂。「春日熙熙，和風習習。岸柳搖金，溪桃吐赤。突出威音那畔，揭示衲僧巴鼻。明歷歷，親的的，因甚惟道江南三月鷓鴣啼，天龍門下打折驢脊？」示眾，上堂。「第一義諦，諸方道：鍾未響，鼓未鳴，未出方丈已前分付了也。若恁麼，未免誤賺捕風捉影之流，向黑山鬼窟裏作活計去在。殊不知鐘鼓交加，人天普集，一句當天，十方通暢，塵塵剎剎無處不明，法法頭頭何所不現？如天普蓋，似地普擎，直教人人共見，個個同明，物我輝融，古今一致，不落見聞，全彰體用。所以道：『人人有個無位真人，常在面門出入，未證據者看看。』到者裏還回避得也無？若也回避得，三世諸佛、歷代祖師並天下老和尚，一齊入地獄如箭射。既回避不得，敢問諸人：第一義諦作麼生觀？觀即不無，爭奈落在第二頭？」上堂。「大盡三十日，小盡二十九，三世諸佛不知有，黧奴白牯卻知有。且道知個甚麼？雲中木馬嘶，海底泥牛吼，驚起夜叉神，𨁝跳上岸，瞠眉努目，一一面南看北斗。」上堂。「天高地厚，山尖水平，日出月落，夜暗晝明，龍吟霧起，虎嘯風生，鴉鳴鵲噪，鳶飛雲騰，盡是當人不動境界。於中是凡是聖、是男是女、是俗是僧，乃至四生六道、情與無情……」卓拄杖一下，云：「總在者裏。一切智智清清無二，無二分、無別無斷故。更說甚麼靈山拈花、少室安心？檢點將來，也是眼裏著釘。」上堂。「父母未生前，神頭鬼面；狗子無佛性，膏肓大病。萬法歸一，參天荊棘；一歸何處？轉入邪路。踏破牢關解轉身，大夢胡為尚未惺？三生六十劫，總是可憐生。何故聻？」卓拄杖一下，云：「野老不知堯舜力，鼕鼕打鼓祭江神。」上堂。「隔山見煙知是火，隔牆見角知是牛，那吒太子析骨還父、析肉還母，因甚麼演若達多認影迷頭？可謂無限風光無限意，幾多歡喜幾多愁。」喝一喝，云：「還會麼？喜底一任喜，愁底一任愁，五湖煙景有誰爭？夕陽西去水東流。」中秋，上堂。「寶月放光，丹桂飄香，兩彩一賽，鼻孔昂藏。正恁麼時，直饒道好修行、好供養，禪歸海、經歸藏，總好喫龍山痛棒。何以？分明有月落波心，自是無雲生嶺上。」喝一喝，下座。臘八日，上堂。「天是天，地是地，日月是日月，星辰是星辰，山川是山川，草",
-              "MasterName": "Shanyi Ruchun",
-              "ActorAttribution": null,
-              "Curated": true,
-              "ContextMasters": [
-                {
-                  "MasterName": "Shanyi Ruchun",
-                  "Roles": [
-                    "utterer",
-                    "record-owner"
-                  ]
-                }
-              ],
-              "AttributionNote": "Source record (J/J39/J39nB468.xml). Recorded Sayings of Chan Master Shanyi Chun. In a hall sermon, Shanyi Ruchun first turns aside an abstract account of the highest truth and then opens another address by contrasting the long and short lunar months. He voices the full buddhas, dark cat and white ox pair, asks the assembly what is known, and answers with a wooden horse neighing in clouds and a clay ox roaring beneath the sea. His fantastic answer turns the old contrast into a fresh question for the assembly; the passage does not identify a fixed object of knowledge or expressly name Nanquan at this point."
-            }
-          ],
-          "ClaimAnchors": [
             {
               "RelPath": "J/J27/J27nB190.xml",
               "FromLb": "0099c23",
@@ -48460,6 +48414,12 @@
             }
           ],
           "SourceTexts": [
+            "J/J27/J27nB189.xml",
+            "J/J33/J33nB286.xml",
+            "J/J38/J38nB406.xml",
+            "J/J26/J26nB178.xml",
+            "J/J37/J37nB394.xml",
+            "J/J40/J40nB472.xml",
             "J/J27/J27nB190.xml",
             "J/J27/J27nB197.xml",
             "J/J29/J29nB249.xml",
@@ -48468,6 +48428,12 @@
           ],
           "RelatedMasters": [
             "Nanquan Puyuan",
+            "Sanyi Mingyu",
+            "Yingning Zhijing",
+            "Tianran Hanshi",
+            "Feiyin Tongrong",
+            "Yi'an Shanzan",
+            "Dabo Qian",
             "Shiyu Mingfang",
             "Wuyi Yuanlai",
             "Fangrong Ruxi",
@@ -48475,7 +48441,7 @@
             "Shanyi Ruchun"
           ],
           "RelatedTerms": [],
-          "Explanation": "Nanquan contrasts the buddhas of the three times with a dark cat and white ox, but the saying leaves what is known unstated. Four later records quote or appraise the line; Shanyi voices it in his own hall speech. Source record (J/J27/J27nB190.xml). Dharma Platform of Chan Master Shiyu. Shiyu Mingfang quotes Nanquan Puyuan saying that the buddhas of the three times do not know it while the dark cat and white ox do. Shiyu asks his assembly what the animals know, then asks why he does not name the present year while naming the years on either side. He suddenly extends his hand, asks how it compares with the Buddha's hand, and strikes the staff. The quoted contrast is Nanquan's; Shiyu uses the question and gestures to keep its unspecified object from becoming a ready definition. Source record (J/J27/J27nB197.xml). Essentials of the Recorded Sayings of Master Wu Yi of Boshan. Wuyi Yuanlai first recounts several older Chan exchanges and then explicitly introduces Nanquan Puyuan's saying about buddhas, dark cat and white ox. He describes old Wang, Nanquan, as moving among unlike beings and adds a verse for each half: one gathers moonlight at a shadowless tree, the other cuts white clouds in a valley that does not answer. Wuyi asks who understands this. The complete pair is Nanquan's quoted voice; Wuyi's animal image and verse are his present appraisal, not another independent original saying. Source record (J/J29/J29nB249.xml). Recorded Sayings of Chan Master Fangrongxi. After answering a monk's questions about host and guest, Fangrong Ruxi turns to his assembly and cites what he calls an old saying: the buddhas of the three times do not know it, while the dark cat and white ox do. He says knowing and not knowing share a source of benefit and danger, yet he accepts neither as a position. He asks whether the matter lies in retreat dates, staff and whisk, eating and drinking, or receiving and sending guests, then says that when speech is exhausted it is better to hold the tongue and settle the mind. The local quotation does not name its old speaker; parallel records attribute the pair to Nanquan, while Fangrong supplies this sermon's live challenge. Source record (J/J32/J32nB272.xml). Recorded Sayings of Chan Master Hongzhi Jue of Tiantong Jingde Monastery, Mingzhou. Hongzhi Zhengjue sets Nanquan Puyuan's saying among a sequence of old cases to which he gives his own verse responses. He explicitly identifies Nanquan speaking the contrast between the buddhas and the dark cat and white ox, then answers it with ragged movement, quiet self-knowledge, and an image of the whole world made into a meal. This is Hongzhi's appraisal of the inherited saying, not a new claim that the animals know a specified doctrine. The source leaves the object of knowing unstated. Source record (J/J39/J39nB468.xml). Recorded Sayings of Chan Master Shanyi Chun. In a hall sermon, Shanyi Ruchun first turns aside an abstract account of the highest truth and then opens another address by contrasting the long and short lunar months. He voices the full buddhas, dark cat and white ox pair, asks the assembly what is known, and answers with a wooden horse neighing in clouds and a clay ox roaring beneath the sea. His fantastic answer turns the old contrast into a fresh question for the assembly; the passage does not identify a fixed object of knowledge or expressly name Nanquan at this point."
+          "Explanation": "The Buddhas of the three times do not know it, but cats and white oxen do: a deliberately unsettling contrast attributed to Nanquan. Three passages explicitly quote him; three later teachers voice the line anew in their sermons. The source wording leaves the object of knowing unstated. The alternate dark-cat spelling preserves the same contrast. Sanyi Mingyu quotes Nanquan Puyuan saying that the Buddhas of the three times do not know it, while cats and white oxen do. Sanyi asks what the animals know and proposes a polished landscape answer only to warn that such talk would leave its speaker carrying a burden. The exact contrast is Nanquan's cited voice; Sanyi's present question tests whether a pleasing description actually meets it. The source does not name a fixed object for the word it. Yingning Jing quotes Nanquan Puyuan's contrast between the Buddhas and cats and white oxen. He says that to carry forward the teaching one must know how to move among different kinds of beings, then asks whether anyone understands Nanquan's way of acting. A layman spins away; Yingning shouts, calls the move wild jumping and strikes his staff. The exact line is Nanquan's quoted voice, while the layman's action and Yingning's response show this sermon applying it rather than explaining away the animals. Tianran of Mount Lu raises several older sayings about recognizing the matter and then quotes Nanquan Puyuan on Buddhas not knowing while cats and white oxen know. Tianran says he admires Nanquan for not fearing what is great or belittling what is small, because Nanquan knows the cause of the illness. He asks his assembly what that cause is and returns to his own larger teaching. The exact contrast is Nanquan's cited saying; Tianran's present praise and question are a separate appraisal, and the saying leaves its object unstated. At a hall sermon requested to honor a lay supporter's deceased parents, Feiyin Tongrong says even a broad understanding of mind and ordinary beings is only an entry point. He then voices the line that the Buddhas of three times do not know it but cats and white oxen do, and develops it through images of horns, dust-covered faces and the ending of holy-versus-ordinary distinctions. Later he restates the two halves with separate gestures of descent and ascent and asks what the old masters meant. The phrase is Feiyin's present use of an inherited contrast; neither use supplies a single fixed referent for it. Yi'an Shanzan opens a short instruction by voicing the contrast between Buddhas who do not know it and cats and white oxen who do. He picks up his staff and tells the assembly to look: the Buddhas have gone into the company of those animals. He asks why, then says the two portions differ and are brought back under the preceding heading. The exact line is his present teaching turn; the staff gesture and follow-up complicate a fixed division between Buddhas and animals. After a monk asks Dabo Qian about the mind of a practitioner, Dabo replies with a flowering tree, challenges the monk's elaborations and strikes when the monk hesitates. Dabo then addresses the assembly with the Buddhas-and-animals contrast and extends it: a golden-maned lion enters a pack of wild foxes, which all roar like lions. He says recognition here crosses the divide between ordinary and holy. The exact phrase is Dabo's present sermon after the exchange, not the monk's question; its object remains unnamed in the quoted formula. Shiyu Mingfang quotes Nanquan Puyuan saying that the buddhas of the three times do not know it while the dark cat and white ox do. Shiyu asks his assembly what the animals know, then asks why he does not name the present year while naming the years on either side. He suddenly extends his hand, asks how it compares with the Buddha's hand, and strikes the staff. The quoted contrast is Nanquan's; Shiyu uses the question and gestures to keep its unspecified object from becoming a ready definition. Wuyi Yuanlai first recounts several older Chan exchanges and then explicitly introduces Nanquan Puyuan's saying about buddhas, dark cat and white ox. He describes old Wang, Nanquan, as moving among unlike beings and adds a verse for each half: one gathers moonlight at a shadowless tree, the other cuts white clouds in a valley that does not answer. Wuyi asks who understands this. The complete pair is Nanquan's quoted voice; Wuyi's animal image and verse are his present appraisal, not another independent original saying. After answering a monk's questions about host and guest, Fangrong Ruxi turns to his assembly and cites what he calls an old saying: the buddhas of the three times do not know it, while the dark cat and white ox do. He says knowing and not knowing share a source of benefit and danger, yet he accepts neither as a position. He asks whether the matter lies in retreat dates, staff and whisk, eating and drinking, or receiving and sending guests, then says that when speech is exhausted it is better to hold the tongue and settle the mind. The local quotation does not name its old speaker; parallel records attribute the pair to Nanquan, while Fangrong supplies this sermon's live challenge. Hongzhi Zhengjue sets Nanquan Puyuan's saying among a sequence of old cases to which he gives his own verse responses. He explicitly identifies Nanquan speaking the contrast between the buddhas and the dark cat and white ox, then answers it with ragged movement, quiet self-knowledge, and an image of the whole world made into a meal. This is Hongzhi's appraisal of the inherited saying, not a new claim that the animals know a specified doctrine. The source leaves the object of knowing unstated. In a hall sermon, Shanyi Ruchun first turns aside an abstract account of the highest truth and then opens another address by contrasting the long and short lunar months. He voices the full buddhas, dark cat and white ox pair, asks the assembly what is known, and answers with a wooden horse neighing in clouds and a clay ox roaring beneath the sea. His fantastic answer turns the old contrast into a fresh question for the assembly; the passage does not identify a fixed object of knowledge or expressly name Nanquan at this point."
         }
       ]
     },
