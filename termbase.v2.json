@@ -950417,7 +950417,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "The phrase pairs the end of language's reach with the ending of conceptual movement. Baiyu says this after a long list of things the matter is not, then asks how impossible figures still act. Miyun tells a layman to examine the point directly, while Linye criticizes masters who make the formula a burden and offers his own looser saying.",
+          "Note": "Speaker boundaries matter: Baiyu and Miyun speak the formula in their own instructions; Guting explicitly says “the scripture says”; Linye says “another said.” The local records do not name that scripture or the earlier teacher.",
           "Occurrences": [
             {
               "RelPath": "J/J36/J36nB359.xml",
@@ -950435,7 +950435,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu sets the limit against an active next question."
+              "AttributionNote": "In Recorded Sayings of Chan Master Baiyu, Baiyu Jingsi strikes his staff at a hall address and says the matter before the assembly cannot be seen, heard, smelled, touched, or grasped through various affirmative and negative descriptions. He calls this a place where the path of speech ends and the course of thought is extinguished. But he does not stop with a declaration of ineffability: he asks whose realm includes a mud ox holding the moon, a wooden horse neighing at wind, a pillar scolding a lantern, and the gate riding the Buddha hall. He strikes the staff again and answers in verse. The headword marks the limit of his rejected descriptions and sets up his concrete challenge to the listeners."
             },
             {
               "RelPath": "J/J10/J10nA158.xml",
@@ -950453,43 +950453,79 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun gives the phrase as a point for lay inquiry."
+              "AttributionNote": "In Recorded Sayings of Chan Master Miyun, Miyun Yuanwu replies in writing to the layman Ye Junxin, who has asked about “straightforward character” and Buddha nature. Miyun distinguishes an upright temperament from understanding Buddha nature, recalls Vimalakirti’s silence on nonduality, and tells the addressee to look precisely where the path of speech ends and the course of thought ceases. He says that through sustained looking one may suddenly wake to the point without needing to ask someone else. The phrase is Miyun’s current direction to this lay correspondent; it is not a quoted answer by Vimalakirti or a description of Ye’s personality."
             },
             {
               "RelPath": "J/J25/J25nB163.xml",
               "FromLb": "0242b26",
               "ToLb": "0242c21",
               "Kwic": "傳佛心印，接引後昆。不然虛喪光陰，沉淪生死。古人叮嚀，殊不為己，大抵欲學者究明此事。古人為你說得，你若不行，無奈你何。佛佛授受，祖祖傳持，不曾私屈學者絲毫，學者不信心努力向前，自家轉便，欲佛祖把箇現成受用與你。安得有此？古云「那得天生釋迦、自然彌勒？」此教于學者大有恩惠，釋迦、彌勒遠劫修來，棄極貴尊榮，未嘗一食一息不舉念為教化眾生同證同得。我等學些知解聰明，即謂超佛越祖，豈不自欺？學此事，當人自知下手腳處好向前。如何是下手腳處？經云：「言語道斷，心行處滅。」久久參箇無字，不知不覺向轉身處得箇受用，那時有說無說總現成。如今諸方未見有向心行處滅、言語道斷處真參實悟，看他日用所為便可知也。古人一機一境，具大智大用，從胸襟流出。今人也作一機一境，要且實無大智大用。何故？皆緣學力未至耳。具眼學者，一見則知；或若初心，盡被瞞了。古人云「參方須具參方眼目」，不具參方眼目，見他便禮拜，喚作懵懂禪和，奴郎不辯。祖師云：「不除妄想不求真，無名實性即佛性，幻化空身即法身，法身覺了無一物，本源自性天真佛。」只",
-              "MasterName": "Guting Shanjian",
+              "MasterName": null,
               "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Guting Shanjian",
                   "Roles": [
-                    "utterer",
+                    "later-quoter",
+                    "commentator",
                     "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J25/J25nB163.xml). Selected Record of Chan Master Guting’s Sayings. Guting takes the limit into sustained inquiry."
+              "AttributionNote": "In Selected Record of Chan Master Guting’s Sayings, Guting Shanjian tells students that the old teachers cannot hand them a ready-made result and asks where they should begin their own work. He then explicitly introduces the headword with “the scripture says”: the path of speech is cut off and the course of thought ends. The quotation’s scriptural source is not named in this passage, so Guting is the later quoter and practice instructor, not the original speaker of those words. He immediately tells them to investigate the word “no” for a long time; after a turn in understanding, speaking and silence are both available. He contrasts that work with merely imitating the old teachers’ gestures.",
+              "ActorAttribution": {
+                "Status": "impersonal",
+                "Kind": "unattributed scripture quotation",
+                "ActorLabel": "an unattributed scripture quotation",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "Guting introduces the exact words with 經云 (“the scripture says”); this passage supplies no scripture title or named human speaker.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "Sol9 source-first and bounded parallel review; root reader-prose audit",
+                "ReviewedUtc": "2026-10-31T01:03:44.362227+00:00"
+              }
             },
             {
               "RelPath": "J/J26/J26nB186.xml",
               "FromLb": "0640c12",
               "ToLb": "0641a01",
               "Kwic": "歸方丈。示眾。「汝等若要易明此事，須向省力處看。若或著意忖量，終無透脫之期。二六時中，但能於心無心，於物無物，心心不異，念念無私，便見透脫分曉。有何心而不契？有何法而不融？如肯直下承當，頓證自家境界。且安分一句，如何通信？飢餐渴飲，閒坐困眠。」示眾。「法身報身化身，山僧一串穿卻。雖然太煞省要，免得諸人摸索。大眾，好快樂！」驀拈拄杖，卓一卓，云：「祥麟只有一隻角。」示眾。「昔日古德道：『離心意識參，絕凡聖路學。』又有者道：『欲明此事，須是言語道斷，心行處滅。』又有者道：『不怕念起，惟恐覺遲。』這三尊宿雖則為人痛滴滴地，仔細撿點將來，不無鈍置人家男女。山僧不然，但道：『念起隨伊起，念滅隨伊滅。一切聽憑伊，莫管甚時節。』何謂如此？不見道：『到頭霜夜月，任運落前溪。』」示眾。「吾有一券，超情離欲。從古至今，光新萬物。」舉起拄杖，云：「眾兄弟見麼？萬派皆歸海，千山悉仰宗。」示眾。「昔日雲門道：『舉不顧，即差互。擬思量，何劫悟？』此老如此提持，可以稱善，但不經撿點。何故？等閒行便行、坐便坐，用舉用",
-              "MasterName": "Linye Tongqi",
+              "MasterName": null,
               "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Linye Tongqi",
                   "Roles": [
+                    "later-quoter",
                     "commentator",
                     "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB186.xml). Recorded Sayings of Chan Master Linyexi. Linye refuses to make the limit another hurdle."
+              "AttributionNote": "In Recorded Sayings of Chan Master Linyexi, Linye Tongqi raises three earlier instructions: one says to inquire apart from mind and consciousness; another, introduced only as “another said,” says that understanding requires the path of speech to end and the course of thought to cease; a third warns against noticing thoughts too late. The source does not name the speaker of the second quotation. Linye comments that, despite their care for students, all three may still burden them. His own alternative lets thoughts arise and cease without trying to manage them, followed by an image of the autumn moon descending into a stream. The headword belongs to the unnamed earlier teacher whom Linye critiques, not to Linye’s proposed alternative.",
+              "ActorAttribution": {
+                "Status": "reviewed-unnamed",
+                "Kind": "quoted earlier teacher",
+                "ActorLabel": "an unnamed earlier teacher quoted by Linye Tongqi",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "Linye introduces this exact earlier instruction with 又有者道 (“another said”) among three past teachers; the passage supplies no personal name for that quoted teacher.",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "ReviewedBy": "Sol9 source-first, six-rung bounded parallel review; root reader-prose audit",
+                "ReviewedUtc": "2026-10-31T01:03:44.362227+00:00"
+              }
             }
           ],
           "ClaimAnchors": [],
@@ -950506,7 +950542,7 @@
             "Linye Tongqi"
           ],
           "RelatedTerms": [],
-          "Explanation": "‘The path of speech is cut off; the reach of thought comes to an end’ names a limit of verbal and conceptual pursuit. Masters invoke it, then ask whether the listener can move beyond merely repeating that words and thoughts fail. Baiyu gives a long list of rejected descriptions, then asks what to make of impossible figures that still act. Miyun directs a layman to examine the point himself until recognition arises. Guting cites the line as the entry to sustained inquiry into the word no, with speech and silence later both available. Linye criticizes older masters' use of the formula as a burden, then gives a different instruction about thoughts rising and fading."
+          "Explanation": "“The path of speech is cut off; the course of thought ceases” marks a limit of verbal and conceptual pursuit, but these passages do different work with it. Baiyu speaks it in his own address before challenging the assembly with impossible figures. Miyun directs a lay correspondent to investigate the point. Guting quotes an unnamed scripture and then prescribes long inquiry into “no.” Linye quotes an unnamed earlier teacher only to question whether that instruction burdens students, offering his own alternative for handling thoughts. The last two citations belong to embedded earlier words, not the later masters who discuss them."
         }
       ]
     },
