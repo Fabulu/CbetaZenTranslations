@@ -23650,28 +23650,18 @@
               "FromLb": "0668b10",
               "ToLb": "0669a22",
               "Kwic": "過峰西。滿山筍蕨滿園茶，一樹紅花間白花。大抵四時春最好，就中猶好是山家。有人問我何年住，坐久纔方省得來。門外碧桃親手種，春光二十度花開。厭煩勞役愛安閒，箇樣如何居得山？百丈已前巖穴士，生涯全在钁頭邊。年老菴居養病身，日高猶自未開門。怕寒起坐燒松火，一曲樵歌隔塢聞。童子未曾歸動火，水雲早已到投齋。山菴喜免征徭慮，賸種青松只賣柴。玉堂銀燭笙歌夜，金谷羅幃富貴家。爭似道人茅屋下，一天晴月曬梅花。相逢盡說世途難，自向菴中討不安。除却淵明賦歸去，更無一箇肯休官。山厨寂寂斷炊煙，凍鎖泉聲欲雪天。面壁老僧無定力，又思乞食到人間。種了冬瓜便種茄，勞形苦骨做生涯。眾人若要厨堂好，須是園頭常在家。粥去飯來何日了，日生月落幾時休。都來與我無干涉，空起許多閒念頭。屋後青松八九樹，門前紫芋兩三疄。山居道者機關少，家火從頭說向人。此事誰人敢強為，除非知有莫能知。分明月在梅花上，看到梅花早已遲。過去事已過去了，未來不必預思量。只今便道即今句，梅子熟時梔子香。一日打眠三五度，也消不得許多閒。循環數遍琅玕竹，又出青松望遠山。攀緣起倒易消停，卒急難除是愛憎。我笑青山高突兀，青山嫌我廋陵層。真空湛寂惟常在，不覺良田妄所󳬿。真性何曾離妄有，花開花落自春風。天湖水湛琉璃碧，霞霧山圍錦幛紅。觸目本來成現事，何須叉手問禪翁。年老氣衰真箇懶，晨朝更不見和南。客來無語相抵對，辛苦空勞到草菴。老去一身都是懶，閑來百念盡成灰。與兄相見略彈指，無柰人情強接陪。田地無塵長不掃，柴門有客扣方開。雪晴斜月侵簷冷，梅影一枝窓上來。茅屋低低三兩間，團團環遶盡青山。竹牀不許閒雲宿，日未斜時便掩關。禪兄何事到煙蘿，老我生涯苦不多。巖下木樨香滿樹，園中菜甲綠成窠。一片無塵新雨地，半邊有蘚古時松。目前景物人皆見，取用誰知各不同。萬境萬機俱寢息，一知一見盡消融。閒閒兩耳全無用，坐到晨雞與暮鐘。巖房終日寂寥寥，世念何曾有一毫？雖著衣裳喫粥飯，恰如死了未曾燒。新縫紙被烘來煖，一覺安眠到五更。聞得上方鐘皷動，又添一日在浮生。門前枯木似人立，屋後好山如浪堆。老我為人無可說，高高雲路賺兄來。山形凹凸路高低，石占雲頭屋占蹊。地窄栽來蔬菜少，又營小圃在橋西。百千日月閒中度，八萬塵勞靜處消。綠水光中山影轉，紅爐焰上雪花飄。西方有路不肯去，地獄無門鬬要過。金閣銀臺仙子小",
-              "MasterName": null,
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "record-owner master not linked in lineage roster",
-                "ActorLabel": "Shiwu Qinghong",
-                "ActorRole": "utterer",
-                "GrammarEvidence": "X70n1399 is titled Shiwu Qinghong recorded sayings and the exact pair is the first half of his own mountain-dwelling verse.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "Sol source-first author",
-                "ReviewedUtc": "2026-10-29T21:30:00Z",
-                "AuthoredVoiceRiskReviewed": true
-              },
+              "MasterName": "Shiwu Qinggong",
               "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (X/X70/X70n1399.xml). Recorded sayings. Shiwu Qinghong voices the pair in his own mountain-dwelling verse."
+              "ContextMasters": [
+                {
+                  "MasterName": "Shiwu Qinggong",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X70/X70n1399.xml). Recorded Sayings of Chan Master Shiwu Qinggong. In Shiwu Qinggong's mountain-dwelling verses, he first describes the work and interruptions of an apparently quiet hermitage: cooking has stopped in winter, he thinks of begging for food, and a garden steward must keep tending the crops. Later, in a short first-person verse, he says that even napping three or five times in one day cannot use up all his spare time, then circles the bamboo and looks toward the pines and distant hills. The line is a deliberately ample image of unhurried mountain life within a sequence that also acknowledges ordinary work; it does not claim that the speaker literally sleeps through every day."
             },
             {
               "RelPath": "J/J28/J28nB220.xml",
@@ -23690,7 +23680,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB220.xml). Recorded sayings. Faxi gives the pair as a direct answer to where one acts after cutting off distinctions."
+              "AttributionNote": "Source record (J/J28/J28nB220.xml). Recorded Sayings of Chan Master Faxiyin. While Faxi Yin is closing the retreat of secretary Lingyue, Lingyue asks how a person acts after cutting through the many distinctions. Faxi answers with the line about napping three or five times in a day and still having leisure left. Lingyue shouts, and Faxi tells him to step back three paces and look. The pair is Faxi's immediate answer about unforced conduct; his follow-up prevents the hearer from treating a picturesque answer as a settled position."
             },
             {
               "RelPath": "J/J34/J34nB303.xml",
@@ -23709,7 +23699,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J34/J34nB303.xml). Recorded sayings. Xieyun voices the pair in his own extended sermon on ordinary activity and leisure."
+              "AttributionNote": "Source record (J/J34/J34nB303.xml). Recorded Sayings of Chan Master Xieyunji at the Fearless Hall, Guoqing. In a long present discourse, Xieyun Jiji moves through questions about travel, home, alms and everyday living. He imagines begging at a crossroads, eating, and then lying behind the closed door of an old temple; even several naps cannot exhaust the available leisure. He immediately turns that quiet image into vigorous talk of sounding a drum on the living body and making the whole earth small as a grain. The line marks freedom from a fixed place or task in his rhetoric, rather than a simple instruction to idle in a temple."
             },
             {
               "RelPath": "J/J36/J36nB363.xml",
@@ -23728,7 +23718,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J36/J36nB363.xml). Recorded sayings. Wenmu gives the pair as his answer to an old question, then warns that such an answer can trap a hearer."
+              "AttributionNote": "Source record (J/J36/J36nB363.xml). Recorded Sayings of Chan Master Wenmunian. In an evening address, Wenmu Nian first cites Tian Ning Xibian's old question: if seeing form and seeking by sound are delusive, which one is the Tathagata? Wenmu answers with the napping-and-leisure pair, then says that while it is acceptable, it is much like digging a pit on level ground for someone. The line functions as Wenmu's deliberately risky reply to that old question; the warning is part of his present teaching, not an endorsement of the phrase as a final answer."
             },
             {
               "RelPath": "J/J40/J40nB494.xml",
@@ -23747,7 +23737,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded sayings. Yushan voices the pair about his own quiet daily life in a present birthday sermon."
+              "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. At a small birthday address requested for attendant Zidai, Yushan Shangsi describes his own spare manner at the temple: he has not picked up the mallet or raised the whisk, and even three or five naps a day cannot spend the leisure. Because people still ask him for a word for long life, he turns to Confucius on the wise loving water and the humane loving mountains, asks what the humane person's lifespan means here, and raises his whisk. The pair opens Yushan's self-deprecating account of quiet daily life before the birthday question redirects the talk; it is his own present voice, not Confucius's quotation."
             }
           ],
           "ClaimAnchors": [
@@ -23756,28 +23746,18 @@
               "FromLb": "0668b10",
               "ToLb": "0669a22",
               "Kwic": "過峰西。滿山筍蕨滿園茶，一樹紅花間白花。大抵四時春最好，就中猶好是山家。有人問我何年住，坐久纔方省得來。門外碧桃親手種，春光二十度花開。厭煩勞役愛安閒，箇樣如何居得山？百丈已前巖穴士，生涯全在钁頭邊。年老菴居養病身，日高猶自未開門。怕寒起坐燒松火，一曲樵歌隔塢聞。童子未曾歸動火，水雲早已到投齋。山菴喜免征徭慮，賸種青松只賣柴。玉堂銀燭笙歌夜，金谷羅幃富貴家。爭似道人茅屋下，一天晴月曬梅花。相逢盡說世途難，自向菴中討不安。除却淵明賦歸去，更無一箇肯休官。山厨寂寂斷炊煙，凍鎖泉聲欲雪天。面壁老僧無定力，又思乞食到人間。種了冬瓜便種茄，勞形苦骨做生涯。眾人若要厨堂好，須是園頭常在家。粥去飯來何日了，日生月落幾時休。都來與我無干涉，空起許多閒念頭。屋後青松八九樹，門前紫芋兩三疄。山居道者機關少，家火從頭說向人。此事誰人敢強為，除非知有莫能知。分明月在梅花上，看到梅花早已遲。過去事已過去了，未來不必預思量。只今便道即今句，梅子熟時梔子香。一日打眠三五度，也消不得許多閒。循環數遍琅玕竹，又出青松望遠山。攀緣起倒易消停，卒急難除是愛憎。我笑青山高突兀，青山嫌我廋陵層。真空湛寂惟常在，不覺良田妄所󳬿。真性何曾離妄有，花開花落自春風。天湖水湛琉璃碧，霞霧山圍錦幛紅。觸目本來成現事，何須叉手問禪翁。年老氣衰真箇懶，晨朝更不見和南。客來無語相抵對，辛苦空勞到草菴。老去一身都是懶，閑來百念盡成灰。與兄相見略彈指，無柰人情強接陪。田地無塵長不掃，柴門有客扣方開。雪晴斜月侵簷冷，梅影一枝窓上來。茅屋低低三兩間，團團環遶盡青山。竹牀不許閒雲宿，日未斜時便掩關。禪兄何事到煙蘿，老我生涯苦不多。巖下木樨香滿樹，園中菜甲綠成窠。一片無塵新雨地，半邊有蘚古時松。目前景物人皆見，取用誰知各不同。萬境萬機俱寢息，一知一見盡消融。閒閒兩耳全無用，坐到晨雞與暮鐘。巖房終日寂寥寥，世念何曾有一毫？雖著衣裳喫粥飯，恰如死了未曾燒。新縫紙被烘來煖，一覺安眠到五更。聞得上方鐘皷動，又添一日在浮生。門前枯木似人立，屋後好山如浪堆。老我為人無可說，高高雲路賺兄來。山形凹凸路高低，石占雲頭屋占蹊。地窄栽來蔬菜少，又營小圃在橋西。百千日月閒中度，八萬塵勞靜處消。綠水光中山影轉，紅爐焰上雪花飄。西方有路不肯去，地獄無門鬬要過。金閣銀臺仙子小",
-              "MasterName": null,
-              "ActorAttribution": {
-                "Status": "identified-unlinked-master",
-                "Kind": "record-owner master not linked in lineage roster",
-                "ActorLabel": "Shiwu Qinghong",
-                "ActorRole": "utterer",
-                "GrammarEvidence": "X70n1399 is titled Shiwu Qinghong recorded sayings and the exact pair is the first half of his own mountain-dwelling verse.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "Sol source-first author",
-                "ReviewedUtc": "2026-10-29T21:30:00Z",
-                "AuthoredVoiceRiskReviewed": true
-              },
+              "MasterName": "Shiwu Qinggong",
               "Curated": true,
-              "ContextMasters": [],
-              "AttributionNote": "Source record (X/X70/X70n1399.xml). Recorded sayings. Shiwu Qinghong voices the pair in his own mountain-dwelling verse.",
+              "ContextMasters": [
+                {
+                  "MasterName": "Shiwu Qinggong",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X70/X70n1399.xml). Recorded Sayings of Chan Master Shiwu Qinggong. In Shiwu Qinggong's mountain-dwelling verses, he first describes the work and interruptions of an apparently quiet hermitage: cooking has stopped in winter, he thinks of begging for food, and a garden steward must keep tending the crops. Later, in a short first-person verse, he says that even napping three or five times in one day cannot use up all his spare time, then circles the bamboo and looks toward the pines and distant hills. The line is a deliberately ample image of unhurried mountain life within a sequence that also acknowledges ordinary work; it does not claim that the speaker literally sleeps through every day.",
               "ClaimText": "一日打眠三五度，也消不得許多閒"
             },
             {
@@ -23797,7 +23777,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB220.xml). Recorded sayings. Faxi gives the pair as a direct answer to where one acts after cutting off distinctions.",
+              "AttributionNote": "Source record (J/J28/J28nB220.xml). Recorded Sayings of Chan Master Faxiyin. While Faxi Yin is closing the retreat of secretary Lingyue, Lingyue asks how a person acts after cutting through the many distinctions. Faxi answers with the line about napping three or five times in a day and still having leisure left. Lingyue shouts, and Faxi tells him to step back three paces and look. The pair is Faxi's immediate answer about unforced conduct; his follow-up prevents the hearer from treating a picturesque answer as a settled position.",
               "ClaimText": "一日打眠三五度，也消不得許多閒"
             },
             {
@@ -23817,7 +23797,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J34/J34nB303.xml). Recorded sayings. Xieyun voices the pair in his own extended sermon on ordinary activity and leisure.",
+              "AttributionNote": "Source record (J/J34/J34nB303.xml). Recorded Sayings of Chan Master Xieyunji at the Fearless Hall, Guoqing. In a long present discourse, Xieyun Jiji moves through questions about travel, home, alms and everyday living. He imagines begging at a crossroads, eating, and then lying behind the closed door of an old temple; even several naps cannot exhaust the available leisure. He immediately turns that quiet image into vigorous talk of sounding a drum on the living body and making the whole earth small as a grain. The line marks freedom from a fixed place or task in his rhetoric, rather than a simple instruction to idle in a temple.",
               "ClaimText": "一日打眠三五度，也消不得許多閒"
             },
             {
@@ -23837,7 +23817,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J36/J36nB363.xml). Recorded sayings. Wenmu gives the pair as his answer to an old question, then warns that such an answer can trap a hearer.",
+              "AttributionNote": "Source record (J/J36/J36nB363.xml). Recorded Sayings of Chan Master Wenmunian. In an evening address, Wenmu Nian first cites Tian Ning Xibian's old question: if seeing form and seeking by sound are delusive, which one is the Tathagata? Wenmu answers with the napping-and-leisure pair, then says that while it is acceptable, it is much like digging a pit on level ground for someone. The line functions as Wenmu's deliberately risky reply to that old question; the warning is part of his present teaching, not an endorsement of the phrase as a final answer.",
               "ClaimText": "一日打眠三五度，也消不得許多閒"
             },
             {
@@ -23857,7 +23837,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded sayings. Yushan voices the pair about his own quiet daily life in a present birthday sermon.",
+              "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. At a small birthday address requested for attendant Zidai, Yushan Shangsi describes his own spare manner at the temple: he has not picked up the mallet or raised the whisk, and even three or five naps a day cannot spend the leisure. Because people still ask him for a word for long life, he turns to Confucius on the wise loving water and the humane loving mountains, asks what the humane person's lifespan means here, and raises his whisk. The pair opens Yushan's self-deprecating account of quiet daily life before the birthday question redirects the talk; it is his own present voice, not Confucius's quotation.",
               "ClaimText": "一日打眠三五度，也消不得許多閒"
             }
           ],
@@ -23869,13 +23849,14 @@
             "J/J40/J40nB494.xml"
           ],
           "RelatedMasters": [
+            "Shiwu Qinggong",
             "Faxi Yin",
             "Xieyun Jiji",
             "Wenmu Nian",
             "Yushan Shangsi"
           ],
           "RelatedTerms": [],
-          "Explanation": "Even several naps in a day do not spend the ample leisure of this saying. Shiwu gives the image in a mountain verse, and Faxi makes it a direct answer about conduct. Xieyun and Yushan voice it in their own talks; Wenmu offers it but immediately cautions against resting in it."
+          "Explanation": "Even several naps in a day do not spend the ample leisure of this saying. Shiwu's mountain verse places that leisure among cooking, alms and garden work; Faxi uses the pair to answer Lingyue's question about acting after distinctions fall away, then tells him to step back and look. Xieyun turns an imagined day of begging and resting in an old temple into a discourse about unconfined activity. Wenmu replies to Tian Ning Xibian's old question with the pair but warns that it can trap a hearer; Yushan uses it to describe his own quiet routine before answering a birthday request with Confucius and a raised whisk."
         }
       ]
     },
