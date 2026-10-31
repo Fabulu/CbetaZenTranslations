@@ -36882,7 +36882,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. Juelang puts the one-flower five-leaves image inside the circle he draws before the assembly."
+              "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. Juelang Daosheng ends a long lineage address by asking where its several lines come together. He then uses his ceremonial baton to draw a circle and says that one flower and five leaves open right there, their fragrance spreading across the world. The phrase makes the inherited lineage image present in the circle he has just drawn; it is Juelang speaking to his assembly, not a quoted ancestor."
             },
             {
               "RelPath": "J/J35/J35nB336.xml",
@@ -36900,7 +36900,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J35/J35nB336.xml). Recorded Sayings of Chan Master Huigongxiong of Baoxianglin, Nanhai. Huigong challenges the celebrated lineage image as a tale that can mislead."
+              "AttributionNote": "Source record (J/J35/J35nB336.xml). Recorded Sayings of Chan Master Huigongxiong of Baoxianglin, Nanhai. Huigong Kaixiong first quotes the First Patriarch saying that one flower opens into five leaves. He then comments that the patriarch labored nine years for that flower but warns his listeners not to settle for the transmitted story. In Huigong's own following verse, people celebrate the one flower and five leaves, yet he calls that handling unwarranted and says many have been misled. The exact short phrase belongs to Huigong's critical verse, while the earlier long line is the cited patriarchal saying."
             },
             {
               "RelPath": "J/J39/J39nB471.xml",
@@ -36918,7 +36918,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J39/J39nB471.xml). Recorded Sayings of Chan Master Daodeng of Konggu. Konggu places the flower's five leaves in the eastern land while honoring his teacher."
+              "AttributionNote": "Source record (J/J39/J39nB471.xml). Recorded Sayings of Chan Master Daodeng of Konggu. At a formal incense offering, Konggu Daocheng invokes his teacher and thanks him for the severe instruction he received. His offering verse says that a root grew in the western land and one flower with five leaves came forth in the eastern land. Here the image traces the lineage through which Konggu honors that teacher; after the offering he sits down and begins the hall exchange with the monks."
             },
             {
               "RelPath": "J/J40/J40nB479.xml",
@@ -36936,7 +36936,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J40/J40nB479.xml). Recorded Sayings of Chan Master Zhufengxu of Zhaojue. Zhufeng says the ancestral flower's leaves have spread through the human world."
+              "AttributionNote": "Source record (J/J40/J40nB479.xml). Recorded Sayings of Chan Master Zhufengxu of Zhaojue. Zhufeng Zhenxu addresses a named younger descendant in a series of short farewell or instructional verses. In the verse for Xingshou he urges firm practice, speaks of the family style passed between generations, and says that one flower and five leaves spread throughout the human world. The phrase promises that the descendant can carry the ancestral line outward; Xingshou is the addressee, and Zhufeng is the verse speaker."
             },
             {
               "RelPath": "X/X71/X71n1420.xml",
@@ -36954,7 +36954,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi raises the old lineage image and asks where its arising begins."
+              "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. On entering his new temple, Chushi Fanqi gives brief remarks at its gates and halls. At the ancestral hall he says that the one flower and five leaves must have an origin, then asks where that beginning arises and answers with two terse paired images of movement on shore and in water. The phrase introduces a live question to his audience about lineage origin; the two images are his answer, not a separate speaker's reply."
             },
             {
               "RelPath": "J/J28/J28nB203.xml",
@@ -36972,7 +36972,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB203.xml). Recorded Sayings of Chan Master Yune Xi. Yun'e imagines the five leaves opening without end in a lineage tribute."
+              "AttributionNote": "Source record (J/J28/J28nB203.xml). Recorded Sayings of Chan Master Yune Xi. Yun'e Xi speaks in a tribute to the ancestral transmission after a sharp retelling of Bodhidharma and his successors. He offers incense, looks toward the assembly, and says that the one flower and five leaves open without end and their fragrance moves through ages. The image turns the ancestor's line into a living, continuing bloom; the tribute and its closing verse are Yun'e's present words."
             },
             {
               "RelPath": "J/J36/J36nB362.xml",
@@ -36990,10 +36990,144 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded Sayings of Chan Master Guantaoqi. Guantao uses the flower and leaves in a New Year's verse before asking about old precedent and present occasion."
+              "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded Sayings of Chan Master Guantaoqi. In a New Year hall address, Guantao Daqi recites a long seasonal verse that wishes the east wind to exert its force so the one flower and five leaves may open. He then strikes his staff and asks whether this is an ancient family pattern or the present occasion, warning his listeners against repeating the New Year teaching carelessly. The image is part of his own seasonal address and his question tests how they will use that inherited lineage saying now."
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J25/J25nB174.xml",
+              "FromLb": "0690a28",
+              "ToLb": "0690b12",
+              "Kwic": "重城裏去；超然有路自通霄，所以稱尊於處處。直饒倔強太原孚，莫能把斷於中路；心折歸來捋虎鬚，雪峰牙爪猶可怖。興聖風高天下驚，共詫不跨石門句；從斯法語如湧泉，獅吼象迴迨武步。至我博山父與兄，先覺後覺相承續；杖人於此笑軒渠，東土西天齊露布；無非打鼓弄琵琶，莫若會歸於一處。且道會歸在那一處？」復以如意畫圓相云：「一花五葉此中開，奕奕傳芳照天地。」南禪碧池初度請上堂：蚌含明月兔懷胎，一點光生莫浪猜；殃崛漫勞傳佛語，聖賢不向殺中來。諸仁者！今日是甚麼時節？南禪碧池公初度，特於鼓山請杖人喧此石鼓舉揚第一義，以報母難之恩。且第一義作麼生舉？有條攀條，有例攀例。上堂。師拈起如意云：「文殊仗劍逼佛，為甚麼靈山五百比丘一時悟無生忍？",
+              "MasterName": "Juelang Daosheng",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Juelang Daosheng",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. Juelang Daosheng ends a long lineage address by asking where its several lines come together. He then uses his ceremonial baton to draw a circle and says that one flower and five leaves open right there, their fragrance spreading across the world. The phrase makes the inherited lineage image present in the circle he has just drawn; it is Juelang speaking to his assembly, not a quoted ancestor.",
+              "ClaimText": "一花五葉"
+            },
+            {
+              "RelPath": "J/J35/J35nB336.xml",
+              "FromLb": "0675a10",
+              "ToLb": "0675a25",
+              "Kwic": "「覓心無處安心竟，平地波層千尺疑。萬古碧潭空界月，再三撈摝始應知。」初祖曰：「吾本來茲土，傳法救迷情。一花開五葉，結果自然成。」拈云：「初祖為法，求人破費，路行過水，筋力竭盡。一坐九年工夫，始得者朵花開，香流千古。但折合將來，不無虛生捏目，自救不了在。雖然，且道：是傳什麼法？咦！切忌錯會。」頌云：「共歎一花五葉，撿來也大無端。笑渠無限男女，特地遭他熱瞞。」二祖神光慧可大師。將衣法付三祖已，遂即往鄴都，隨宜說法，韜光混跡，變易儀相，或入諸酒肆、或過於屠門，或習街談、或隨廝役。人問之曰：「師是道人，何故如是？」祖曰：「我自調心，何關汝事？」拈云：「入廛混跡，自是老大風流，秪箇調心，未必親口。何故？大師曾道：『覓心了",
+              "MasterName": "Huigong Kaixiong",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Huigong Kaixiong",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J35/J35nB336.xml). Recorded Sayings of Chan Master Huigongxiong of Baoxianglin, Nanhai. Huigong Kaixiong first quotes the First Patriarch saying that one flower opens into five leaves. He then comments that the patriarch labored nine years for that flower but warns his listeners not to settle for the transmitted story. In Huigong's own following verse, people celebrate the one flower and five leaves, yet he calls that handling unwarranted and says many have been misled. The exact short phrase belongs to Huigong's critical verse, while the earlier long line is the cited patriarchal saying.",
+              "ClaimText": "一花五葉"
+            },
+            {
+              "RelPath": "J/J39/J39nB471.xml",
+              "FromLb": "0936b16",
+              "ToLb": "0936b30",
+              "Kwic": "中，端為祝延今上皇帝聖躬萬歲萬萬歲，皇后齊年，東宮殿下睿算千秋。」再拈香云：「此瓣香，同生樂土，共長乾坤，衍萬代之龍孫，成千秋之美玉，爇向爐中，奉為諸藩王殿下、滿朝文武、闔國公卿、遠近檀那、護法宰官、居士，惟冀鼻端同孔眼，舌廣共撩天。」復拈香云：「此瓣香，苦志忘形奮琢成，披星帶露培根固，源頭次第長西乾，一花五葉發東土。爇向爐中，專伸供養臨濟正傳第三十一世上敏下樹本師和尚，用酬法乳之恩，蒙師毒手至今快，痛徹千生不敢忘。」斂衣敷坐。維那白椎云：「法筵龍象眾，當觀第一義。」師拈起拄杖云：「若道者是第一義，覿面相呈無向背，縱橫殺活見分明，知音決勝在今日。者裏有知音者麼？出班與山僧相見。」僧問：「父母非我親，誰是至親？」師",
+              "MasterName": "Konggu Daocheng",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Konggu Daocheng",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J39/J39nB471.xml). Recorded Sayings of Chan Master Daodeng of Konggu. At a formal incense offering, Konggu Daocheng invokes his teacher and thanks him for the severe instruction he received. His offering verse says that a root grew in the western land and one flower with five leaves came forth in the eastern land. Here the image traces the lineage through which Konggu honors that teacher; after the offering he sits down and begins the hall exchange with the monks.",
+              "ClaimText": "一花五葉"
+            },
+            {
+              "RelPath": "J/J40/J40nB479.xml",
+              "FromLb": "0137a10",
+              "ToLb": "0137b02",
+              "Kwic": "孫碧空法孫參禪學道要心堅，放下身心用力參，㘞地一聲紅線斷，翱翔直上九重天。晗輝侍者晗輝侍者親遭毒手侍吾前，百折千挫志一堅，今朝辭別老僧去，好將佛法去流傳。定水開士定水開士海清水定臥龍眠，頭角崢嶸躍碧川，直下點開霄漢路，雷揮電捲一時間。性壽徒孫性壽徒孫西來大意本天然，祖佛家風處處宣，父子略具蟭螟眼，一花五葉遍人間。性權徒孫性權徒孫此子生來志性堅，朝參夕課禮華嚴，萬年一念如今日，裕後旃檀許汝拈。清海沙彌清海沙彌河清海晏樂陶唐，王化雍熙百代昌，子亦生來逢盛世，休將錯過好時光。機慶玄孫機慶玄孫機慶三生誓力堅，時殊世異不同前，萬年一念如今日，許爾法門接半肩。常經孟居士常經孟居士梁燕紛紛三月天，花香春暖暢於",
+              "MasterName": "Zhufeng Zhenxu",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Zhufeng Zhenxu",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J40/J40nB479.xml). Recorded Sayings of Chan Master Zhufengxu of Zhaojue. Zhufeng Zhenxu addresses a named younger descendant in a series of short farewell or instructional verses. In the verse for Xingshou he urges firm practice, speaks of the family style passed between generations, and says that one flower and five leaves spread throughout the human world. The phrase promises that the descendant can carry the ancestral line outward; Xingshou is the addressee, and Zhufeng is the verse speaker.",
+              "ClaimText": "一花五葉"
+            },
+            {
+              "RelPath": "X/X71/X71n1420.xml",
+              "FromLb": "0573c20",
+              "ToLb": "0574a19",
+              "Kwic": "鳧揖飣轟蜎蠕𤢟毿蹏䭔翮󳸩皚瞤簸趯煤鶚佛日普照慧辯楚石禪師語錄卷第六住嘉興路恩光孝禪寺語錄住嘉興路恩光孝禪寺語錄參學比丘景瓛等編師於至正十七年八月初一日入寺。山門無門之門，不入而入。雲垂四野，水滿雙湖。若要天下橫行，親到一回始得。佛殿還識佛麼？面如滿月目如蓮，天上人間咸恭敬。祖堂一花五葉，起必有因。且道從什麼處起？岸上蹏踏蹏，水中嘴對嘴。據室濶一丈，高十尺，是你諸人為什麼入作不得？鐵壁，鐵壁。拈行宣政院疏。爕理陰陽，旁通造化，光輝佛日，普扇真風，還他大力量人，成此大力量事。召眾，云：高著眼。拈諸山疏。江南北，浙西東，同中有異，異中有同。野色更無山隔斷，天光直與水相通。會麼？若也不會，看取",
+              "MasterName": "Chushi Fanqi",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Chushi Fanqi",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. On entering his new temple, Chushi Fanqi gives brief remarks at its gates and halls. At the ancestral hall he says that the one flower and five leaves must have an origin, then asks where that beginning arises and answers with two terse paired images of movement on shore and in water. The phrase introduces a live question to his audience about lineage origin; the two images are his answer, not a separate speaker's reply.",
+              "ClaimText": "一花五葉"
+            },
+            {
+              "RelPath": "J/J28/J28nB203.xml",
+              "FromLb": "0199a28",
+              "ToLb": "0199b11",
+              "Kwic": "，捉敗六宗而玅協偏圓。無端提箇教外別傳，明謾赤子，直指人心見性成佛，誑諕閭閻，三週航海兮不聞腳底翻白浪，九年面壁兮那知頭上有青天？梁王殿上躲避無門，蔥嶺峰前抽身沒路，斷送神光一臂，喪盡自己全身，及至末稍無合殺，空棺隻履可憐生。然雖如是，且道：風穴不肖遠孫到此，如何為伊雪屈？」乃上香，顧眾，云：「還委悉麼？一花五葉開無盡，萬古春風動地香。」掃風穴沼祖塔。上供畢，師云：「黃面浙子，風穴老人，萬年一念，七載單丁。待讖仰山再來，遇風即止；傳持臨濟法道，亙古流芳。高提祖師心印，搭破盧陂老面門，倒跨銕牛之機，捩轉李州牧鼻孔，神情莫測，真箇白拈。誰知今日被不肖兒孫於狹路相逢，和贓捉敗。」遂左右顧眾，云：「當恁麼時，且道：放行好",
+              "MasterName": "Yun'e Xi",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Yun'e Xi",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB203.xml). Recorded Sayings of Chan Master Yune Xi. Yun'e Xi speaks in a tribute to the ancestral transmission after a sharp retelling of Bodhidharma and his successors. He offers incense, looks toward the assembly, and says that the one flower and five leaves open without end and their fragrance moves through ages. The image turns the ancestor's line into a living, continuing bloom; the tribute and its closing verse are Yun'e's present words.",
+              "ClaimText": "一花五葉"
+            },
+            {
+              "RelPath": "J/J36/J36nB362.xml",
+              "FromLb": "0750b08",
+              "ToLb": "0750b21",
+              "Kwic": "土也消不得。」驀拈拄杖，眾走散，復召曰：「江西、湖南不違時失候底師僧，且道者是第幾句？」眾無對，乃曰：「堪作何用？」歲朝，上堂。「今朝又是從頭起，兩堂大眾須善委，虎豹文章率壅容，麒麟頭角依位置，一片栴檀古佛心，石鼎煙斜無隱爾，天高地厚報有歸，五日一風十日雨，大德川流信所之，小德敦化豚魚喜，但願東風齊著力，一花五葉開碓嘴，黃閣簾垂尊貴生，四臣不昧承斯旨，端居寰海定龍蛇，文思欽明視聽裏，動容周旋皆中節，萬別千差秪者是。」驀拈拄杖卓一下，曰：「是上古風規？是今時樞要？新年頭佛法，切忌逢人錯舉。」晚參。「當明中有暗，勿以暗相遇；當暗中有明，勿以明相睹。明暗各相對，比如前後步。石頭大師在汝等髑髏內橫出豎入，見汝諸人不識，騎山",
+              "MasterName": "Guantao Daqi",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Guantao Daqi",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded Sayings of Chan Master Guantaoqi. In a New Year hall address, Guantao Daqi recites a long seasonal verse that wishes the east wind to exert its force so the one flower and five leaves may open. He then strikes his staff and asks whether this is an ancient family pattern or the present occasion, warning his listeners against repeating the New Year teaching carelessly. The image is part of his own seasonal address and his question tests how they will use that inherited lineage saying now.",
+              "ClaimText": "一花五葉"
+            }
+          ],
           "SourceTexts": [
             "J/J25/J25nB174.xml",
             "J/J35/J35nB336.xml",
@@ -37013,7 +37147,7 @@
             "Guantao Daqi"
           ],
           "RelatedTerms": [],
-          "Explanation": "One flower, five leaves: a compact image for a teaching lineage spreading from one root into several branches. Masters use it at ancestral halls, transmission ceremonies and seasonal talks, sometimes celebrating the spread and sometimes questioning the stock story behind it. Juelang Daosheng draws a circle with his staff and says the flower opens there, making transmission immediate in the room. Huigong Kaixiong gives the inherited flower verse a skeptical response: the celebrated five leaves can be a story that misleads people. Konggu Daocheng offers incense to his teacher and images one flower bearing five leaves in the eastern land. Zhufeng Zhenxu writes the phrase in a verse for a younger descendant, saying the family line spreads everywhere. At an ancestral hall, Chushi Fanqi states the phrase and asks where its beginning is to be found. Yun'e Xi burns incense for an ancestor and turns the flower into an unending bloom, its scent moving through the ages. Guantao Daqi brings the image into a New Year's hall verse, then tests whether the assembly knows if the turn belongs to old precedent or the present occasion."
+          "Explanation": "One flower, five leaves: a lineage image of one root spreading through several branches. The seven speakers use it in questions, ritual offerings, verses and ancestor tributes; Huigong also challenges the inherited story. Juelang Daosheng ends a long lineage address by asking where its several lines come together. He then uses his ceremonial baton to draw a circle and says that one flower and five leaves open right there, their fragrance spreading across the world. The phrase makes the inherited lineage image present in the circle he has just drawn; it is Juelang speaking to his assembly, not a quoted ancestor. Huigong Kaixiong first quotes the First Patriarch saying that one flower opens into five leaves. He then comments that the patriarch labored nine years for that flower but warns his listeners not to settle for the transmitted story. In Huigong's own following verse, people celebrate the one flower and five leaves, yet he calls that handling unwarranted and says many have been misled. The exact short phrase belongs to Huigong's critical verse, while the earlier long line is the cited patriarchal saying. At a formal incense offering, Konggu Daocheng invokes his teacher and thanks him for the severe instruction he received. His offering verse says that a root grew in the western land and one flower with five leaves came forth in the eastern land. Here the image traces the lineage through which Konggu honors that teacher; after the offering he sits down and begins the hall exchange with the monks. Zhufeng Zhenxu addresses a named younger descendant in a series of short farewell or instructional verses. In the verse for Xingshou he urges firm practice, speaks of the family style passed between generations, and says that one flower and five leaves spread throughout the human world. The phrase promises that the descendant can carry the ancestral line outward; Xingshou is the addressee, and Zhufeng is the verse speaker. On entering his new temple, Chushi Fanqi gives brief remarks at its gates and halls. At the ancestral hall he says that the one flower and five leaves must have an origin, then asks where that beginning arises and answers with two terse paired images of movement on shore and in water. The phrase introduces a live question to his audience about lineage origin; the two images are his answer, not a separate speaker's reply. Yun'e Xi speaks in a tribute to the ancestral transmission after a sharp retelling of Bodhidharma and his successors. He offers incense, looks toward the assembly, and says that the one flower and five leaves open without end and their fragrance moves through ages. The image turns the ancestor's line into a living, continuing bloom; the tribute and its closing verse are Yun'e's present words. In a New Year hall address, Guantao Daqi recites a long seasonal verse that wishes the east wind to exert its force so the one flower and five leaves may open. He then strikes his staff and asks whether this is an ancient family pattern or the present occasion, warning his listeners against repeating the New Year teaching carelessly. The image is part of his own seasonal address and his question tests how they will use that inherited lineage saying now."
         }
       ]
     },
