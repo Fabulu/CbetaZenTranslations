@@ -57279,27 +57279,13 @@
     ],
     "SearchAliases": [
       "steaming sand for rice",
-      "trying to cook sand into rice"
+      "trying to cook sand into rice",
+      "蒸沙成飯"
     ],
     "Status": "preferred",
-    "Note": "5 exact full-case witnesses from 5 distinct works support this corpus-bounded sense.",
+    "Note": "Five admitted Chinese Zen-record uses remain in one article. The full 蒸沙成飯 wording is a graph variant with the same impossible-sand-to-rice image; its only exact public citation came from excluded T48n2016.",
     "CreatedBy": "Codex f004 lane C1166-C1175 exact-actor recovery author",
     "WrittenUtc": "2026-07-15T15:28:02.993665+00:00"
-  },
-  {
-    "SourceTerm": "蒸沙成飯",
-    "PreferredTarget": "steam sand into rice",
-    "AlternateTargets": [
-      "make rice by steaming sand"
-    ],
-    "SearchAliases": [
-      "steaming sand into rice",
-      "sand cooked as rice"
-    ],
-    "Status": "preferred",
-    "Note": "The single exact occurrence belongs to a verse explicitly attributed to Shide.",
-    "CreatedBy": "author_from_packet",
-    "WrittenUtc": "2026-07-22T12:00:00Z"
   },
   {
     "SourceTerm": "蒸砂作飯",
