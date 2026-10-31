@@ -846556,7 +846556,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "Keep the whole seven-graph image; 紫羅帳 and 真珠 are constituents, not substitute entries. No lamp is retained.",
+          "Note": "The pearl-scattering image may name a difficult-to-discern provision, question a fixed viewpoint, or become the target of criticism. The closed-curtain variant shares this image. No single hidden code is supplied by all the retained turns.",
           "Occurrences": [
             {
               "RelPath": "J/J34/J34nB300.xml",
@@ -846574,7 +846574,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J34/J34nB300.xml). Chaozong uses the exact pearl-scattering image in his own doctrinal explanation; a later nearby Xinghua quotation is a separate turn."
+              "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong. Chaozong Tongren explains how different doctrinal distinctions need not divide the matter they describe. Discussing the four fields of the Flower Garland teaching, he says that each particular event enters all events and all events enter each one; whichever field is raised for the needs of an occasion, the others are complete within it. He compares this to a ring without an end and to scattering pearls inside a purple gauze enclosure, asking where one could set one's eye. He then criticizes people who repeat a few dead formulas and claim to have gone beyond doctrinal reasoning. Here the scattered pearls image belongs to mutually complete perspectives that resist a separately fixed viewing point, not merely to ornament concealing an answer. Chaozong is the present speaker; the subsequent question about earlier interpretations of Linji is another turn."
             },
             {
               "RelPath": "C/C078/C078n1720.xml",
@@ -846584,7 +846584,7 @@
               "MasterName": null,
               "Curated": true,
               "ContextMasters": [],
-              "AttributionNote": "Source record (C/C078/C078n1720.xml). The inline note after the full verse identifies Lingyan An as its author; no exact roster identity is established.",
+              "AttributionNote": "Source record (C/C078/C078n1720.xml). Chan School: Comprehensive Linked-Pearls Collection of Verse Commentaries on Old Cases. An inline source note attributes this four-line verse to Lingyan An, whose fuller identity is not established here. The poem places distinguishing the wild fox before Baizhang's hall beside scattering pearls in a purple gauze enclosure, then asks whose separate residence has a pond where a pair of mandarin ducks float. The surrounding collection gathers many different authors' responses to the fox case, including its contrast between not falling under cause and effect and not obscuring cause and effect; those neighboring verses are not all Lingyan An's speech. His own four lines move from the difficult discrimination to concealed pearls and the paired birds, without explaining a fixed correspondence for each image. The verse should therefore remain a pointed, compressed response to that case, rather than being made to settle its causal question in explanatory prose.",
               "ActorAttribution": {
                 "Status": "identified-unlinked-master",
                 "Kind": "named verse author in source note",
@@ -846608,17 +846608,36 @@
               "FromLb": "0554b28",
               "ToLb": "0554c12",
               "Kwic": "闍黎不聞。』云：『和尚還聞不？』山云：『不語話即聞。』」師徵云：「藏身處沒蹤跡，沒蹤跡處莫藏身，洞山老漢得之矣。咦！汝等還聞麼？若聞，須知有向上事。若知向上事，聞與不聞遠之矣。」舉：「僧問首山：『如何是佛？』山云：『新婦騎驢阿家牽。』云：『未審此語什麼句中收？』山云：『三玄收不得，四句豈能該？』云：『此意如何？』山云：『天長地久，日月齊明。』」師徵云：「還識得首山老漢紫羅帳裏撒真珠麼？」有僧問：「如何是紫羅帳裏撒真珠？」師云：「阿家牽驢新婦騎。會麼？」云：「不會。」師云：「切忌妄生穿鑿。」舉：「僧問新興：『如何得出三界去？』興云：『汝還信麼？』云：『信則深信，乞師慈悲。』興云：『秖此信心，亙古亙今，快須究取，何必沉吟？要出三界，三界唯心。』」師徵云：「既是唯心，有什麼出入？眾中有人道取一句看。更聽頌云：若得信心，無古無今。非舍非取，有韻有吟。空",
-              "MasterName": "Tianyin Yuanxiu",
+              "MasterName": null,
               "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Tianyin Yuanxiu",
                   "Roles": [
-                    "utterer"
+                    "questioner",
+                    "respondent",
+                    "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin directly asks his assembly to recognize this pearl-scattering in Shoushan teaching."
+              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu raises Shoushan's answer to a monk asking what Buddha is: a bride rides the donkey while her mother-in-law leads it. When the monk asks which category of sentence can contain it, Shoushan says neither the three mysteries nor the four sentences can encompass it, then answers with the enduring heaven and earth and the sun and moon shining together. Tianyin asks his assembly whether they recognize Shoushan scattering pearls within a purple gauze enclosure. A separate unnamed monk then asks what this pearl-scattering is. Tianyin replies by putting the same family scene in a different order, the mother-in-law leading and the bride riding, and warns the monk not to invent forced explanations. The retained passage thus has two actual voices speaking the headword: Tianyin's present question and the monk's follow-up. Tianyin remains the respondent; neither the family image nor the pearl image is assigned a hidden code by his reply.",
+              "ActorAttribution": {
+                "Status": "reviewed-unnamed",
+                "Kind": "multiple distinct human questioners in one preserved source window",
+                "ActorLabel": "Tianyin Yuanxiu asking the assembly, and a separate unnamed monk asking Tianyin",
+                "ActorRole": "questioner",
+                "RungsChecked": [
+                  "line",
+                  "expanded-context",
+                  "section-header",
+                  "book-title",
+                  "tei-header",
+                  "parallel-passage"
+                ],
+                "GrammarEvidence": "The first exact phrase is inside Tianyin own question; 有僧問 introduces a different monk exact follow-up. Tianyin answers. Three parallel response witnesses actually inspected and bound in specific-actor-proof.json; no personal name for the follow-up monk is established.",
+                "ReviewedBy": "Sol7 source-frame review with root authorized plural-voice correction",
+                "ReviewedUtc": "2026-10-31T00:00:00Z"
+              }
             },
             {
               "RelPath": "J/J27/J27nB197.xml",
@@ -846635,7 +846654,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J27/J27nB197.xml). Essentials of the Recorded Sayings of Master Wu Yi of Boshan. Wuyi makes the pearl-scattering image a direct critical test in his Linji commentary."
+              "AttributionNote": "Source record (J/J27/J27nB197.xml). Essentials of the Recorded Sayings of Master Wu Yi of Boshan. Wuyi Yuanlai recounts Linji asking Huangbo three times for the deepest meaning of the teaching and receiving blows each time. Linji then tells Dayu that he does not know whether he had a fault; Dayu calls Huangbo's treatment grandmotherly kindness, and Linji awakens. Wuyi describes the force of the blows and asks why Linji later shouted at people indiscriminately. Without scattering pearls within the purple gauze enclosure, he says, one remains a shrimp unable to leap out of its measure. The image thus marks something that noisy imitation alone cannot supply: his criticism asks how the realized encounter works, rather than treating shouting as its sufficient result. Wuyi is the present speaker applying the image, not an unnamed participant in Linji's earlier encounter."
             },
             {
               "RelPath": "J/J33/J33nB286.xml",
@@ -846652,7 +846671,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J33/J33nB286.xml). Recorded Sayings of Chan Master Yingningjing. Yingning addresses his assembly with the image and asks the sharp-eyed to respond."
+              "AttributionNote": "Source record (J/J33/J33nB286.xml). Recorded Sayings of Chan Master Yingningjing. Yingning Zhijing addresses the assembly with a bright round light and a break through a dim barrier, then says that pearls are being scattered inside the purple gauze enclosure and challenges those with eyes to speak. Two monks compete to emerge. He says one has gained and one lost; when both shout, he calls them people caught with stolen goods while protesting injustice. One protests that the teacher should not turn an innocent person into a criminal, and Yingning takes his staff and drives them out of the hall. Returning to his seat, he speaks of two colors in one contest and warns a true intimate not to remain outside the gate. The pearl image announces a present test whose value is not exhausted by the monks' competitive performance. The passage does not identify a winner for the reader to imitate."
             },
             {
               "RelPath": "J/J34/J34nB301.xml",
@@ -846669,7 +846688,43 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J34/J34nB301.xml). Recorded Sayings of Monk Jiqi of Nanyue. Jiqi applies the pearl-scattering image in his own appraisal of a raised case."
+              "AttributionNote": "Source record (J/J34/J34nB301.xml). Recorded Sayings of Monk Jiqi of Nanyue. Jiqi Hongchu first assigns different kinds of response different seats and honors, then raises a monk asking the National Teacher for the Buddha of illumination in person. The teacher tells him to bring the water pitcher and then return it to its former place. When the monk repeats his question, the teacher says that the ancient Buddha has long passed away. Jiqi tells those who have not understood to watch him scatter pearls inside the purple gauze enclosure, adding that even so, those who understand are rare. After a pause he says 'Gather it in' and ends the address. The image applies to the teaching being offered through the ordinary pitcher actions and the unanswered demand for another explanation; it does not reveal a separate object hidden behind those actions. Jiqi is the current speaker assessing the raised exchange."
+            },
+            {
+              "RelPath": "J/J32/J32nB272.xml",
+              "FromLb": "0181a01",
+              "ToLb": "0181c30",
+              "Kwic": "序天童宏智覺禪師語錄序洞上宗風，自同安兩世至芙蓉、長蘆，卓然今古。天童宏智禪師與大慧杲、真歇了同時。智住天童、慧住育王，其唱酬入滅事頗著神異。紹興迄今殆數百年，語句散亡罕睹全錄，晴雲法兄於他家雜見者，廣為搜緝，勒成一卷。昔靈山法藏傳彼貝多，韶陽語句得自衣裓，此皆目擊口宣借書在手。晴兄嘿契古人，探微集逸，能使太白山巔自開生面，固知金鍼玉線迥異尋常，陽燧取日、方諸印月也。洞山宗旨持以問之，此集功位宛然新豐尚在矣！逸亭居士徐繼恩拜題目次明州天童景德禪寺宏智覺禪師語錄目次卷一上堂晚參示眾卷二舉古卷三頌古卷四機緣塔銘銘偈記明州天童景德禪寺宏智覺禪師語錄卷一武林苕溪鳳山後學淨啟重編上堂上堂上堂：「黃閣簾垂，誰傳家信？紫羅帳合，暗撒真珠。正恁麼時，視聽有所不到，言詮有所不及，如何通得箇消息去？夢回夜色依俙曉，笑指家風爛熳春。」上堂，舉：「《參同契》云：『回互不回互。』僧問雲門：『如何是回互？』門指板頭云：『不可喚作板頭。』僧云：『如何是不回互？』門云：『者箇是板頭。』」師云：「石頭舌頭無骨，雲門眼裏有筋，千古之下聲光赫奕。如今要把手共行，直須恁麼始解不恁麼，然後沒交涉。還相委悉麼？少年曾決龍蛇陣，潦倒還聽稚子歌。」上堂：「心不能緣，口不能議，直饒退步荷擔，切忌當頭觸諱。風月寒清古渡頭，夜船撥轉琉璃地。」上堂，舉：「白水垂語云：『眼裏著沙不得，耳裏著水不得。』僧便問：『如何是眼裏著沙不得？』水云：『應真無比。』僧云：『如何是耳裏著水不得？』水云：『白淨無垢。』」師云：「白水老人可謂大而無外、小而無內，具足千變萬化，秖箇赤手空身；不受一滴塵，直是滿眼滿耳。還見麼？立足無閑地，知心有幾人？」上堂，舉：「金峰示眾云：『事存函蓋合，理應箭鋒拄。若人道得，金峰分半院與他住。』時有僧出禮拜，峰云：『休！休！相見易得好，共住難為人。』」師云：「重賞之下，必有勇夫。者僧擬乎強取，金峰又卻不甘。還知蚌鷸相持，盡落漁人之手？若也辯得函蓋箭鋒，金峰一院兩手分付。」上堂，舉：「僧問曹山：『子歸就父，為什麼父全不顧？』山云：『理合如斯。』僧云：『父子之恩何在？』山云：『始成父子之恩。』僧云：『如何是父子之恩？』山云：『刀斧斫不開。』」師云：「翡翠簾垂，絲綸未降，紫羅帳合，視聽難通。犯動毫頭，月昇夜戶，密移一步，鶴出銀籠。還知麼？脫身一色無",
+              "MasterName": "Hongzhi Zhengjue",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Hongzhi Zhengjue",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J32/J32nB272.xml). Recorded Sayings of Chan Master Hongzhi Jue of Tiantong Jingde Monastery, Mingzhou. Hongzhi Zhengjue opens an address with curtains hanging in the yellow pavilion and asks who carries the family message. The purple gauze enclosure is closed, he says, while true pearls are scattered unseen. He then makes the difficulty explicit: sight and hearing do not reach here, and words cannot convey it, so how can news get through? His closing lines turn from this obscured transmission to waking as night begins to lighten and smilingly pointing to the family's springtime flourishing. The pearl image is therefore part of a present question about how the teaching becomes apparent when its usual channels fail. Hongzhi does not end by declaring communication impossible; nor does he explain the pearls as literal objects hidden inside a room."
+            },
+            {
+              "RelPath": "X/X70/X70n1390.xml",
+              "FromLb": "0458b05",
+              "ToLb": "0459b02",
+              "Kwic": "粜却。󳳟賓雖乘快便，爭柰白折一隻臂。舉文殊問疾，論不二法門，維摩默然。拈，大士默然，直得山河大地、草木藂林，情與無情共轉根本法輪，非惟文殊贊嘆不及，任是古今佛祖競出頭來亦無啟口處。美則美矣，點檢將來也是持鉢不得。舉：障蔽魔王一千年，不見金剛齊菩薩。拈金剛齊瞞障蔽魔王即得，衲僧門下喫棒趂出有分。何故？兩手扶犁水過膝。舉七賢女遊尸陀林。拈聖女作麼？作麼？認驢鞍橋作阿爺下頷，引得諸姊束手墮懸崖。帝釋既知善說般若，因甚三件物會麼？自從掣得金鰲後，更不晴江理釣絲。舉：城東老母與佛同生，不愿見佛。拈。城東老母，太煞老婆。既不柰何，與渠同生。何用苦苦，作麼要好？日日香花夜夜燈，教渠自知慚愧去。何故？見怪不怪，其怪自壞。釋迦老子可謂貴買賤賣，他既不要便休，何苦亞渠作麼？遂顧左右，召大眾云：還見釋迦老子麼？自云：在這裏。乃云：無事提瓶挈水去。舉：鹽官問座主：華嚴有幾重法界？主云：略有四重，廣則重重無盡。官提起拂子云：這个是第幾重？主良久，官云：思而知，慮而解，鬼家活計。日下孤燈，果然失照。拈舉：諸方拈提了，乃云：諸方老宿只解扶強，不能扶弱，殊不知這僧良久，華嚴法界如帝網交羅，重重攝入，說甚麼第幾重？會麼？但見皇風成一片，不知何處是封疆？舉，達磨謂門人曰：時將至矣，汝自各言所得。拈云：三千弟子鴛行立，一一呼來教順朱。達磨大師如弄棚頭傀儡，雖則語言進退，雍容可觀，殊不知用盡自己心，笑破他人口。舉：僧問曹山：抱璞投師，乞師雕琢。曹云：不雕琢。僧云：因甚不雕琢？曹云：須信曹山好手。拈：黃閣簾垂，難傳信息；紫羅帳合，暗撒真珠。曹洞家風，可謂綿密，子細看來，猶欠大人相在。山僧即不然，忽有問：抱璞投師，乞師雕琢。即向道：侍者寮喫茶去。忽然瞥地，󳬧子已過新羅國。舉雲門問僧：甚處來？僧云：岳山來也。門云：老僧不曾與人葛藤。僧珍重便出，門喚云：近前來。僧近前，門云：去。徑山拈云：葛藤不少。拈得也，得也。舉：雪峰示眾云：雪峰門下不得咳嗽。時有僧咳嗽一聲，峰云：作恁麼？僧云：傷風。峰云：傷風即得。拈雷聲浩大，雨點全無。舉洞山示眾：秋初夏末，東去西去，直須向萬里無寸草處去。石霜道：出門便是草。拈一人平地上險崕，一人險崕中平地，點檢將來，總欠一著。萬里無寸草，出門便是草，支笻寂寞中，望斷無人到。舉，李殿撰問雪竇云：三教中那个㝡尊？竇起身側立。撰云：有口何不道？竇云：對夫子以難言。拈三教誰尊，側身而立。當門不用㘽荊棘，對夫子以難言。賊，賊！舉：忠國師問紫璘供奉：佛是什麼義？奉云：是覺義。師云：佛曾迷否？云：不曾迷。師云：用覺什麼？奉無對。拈。不因樵子徑，爭到葛洪家。又。家無小使。舉：忠國師云：語漸也，返常合道；語頓也，不留眹迹。大慧喝一喝，云：寐語作什麼？遂舉拂子，復彈指，云：徑山即今舉拂彈指，若向這裡覔眹迹，入地獄如箭射。拈寐語不少。舉：歸宗因僧問：如何是佛？宗云：我與汝道，恐汝不信。僧云：和尚誠言，焉敢不信？宗云：只汝是。僧云：如何保任？宗云：一翳在眼，空花徧界。僧於此有省。拈歸宗為人，雖無迃曲，點檢將來，大似嚼飯餧孩兒，當是个漢。待他道只你是，便掩耳而出，教這老漢開口了合不得。舉：清原令石頭與大慧通書，乃云：回來",
+              "MasterName": "Xisou Shaotan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Xisou Shaotan",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (X/X70/X70n1390.xml). Expanded Record of Chan Master Xisou Shaotan. Xisou Shaotan raises a monk asking Caoshan to carve the unpolished jade he presents. Caoshan refuses, then says the monk must trust that Caoshan is a good craftsman. In his own appraisal Xisou takes up the yellow pavilion with curtains down and news difficult to transmit, followed by the closed purple gauze enclosure and pearls scattered unseen. He calls this the fine density of the Cao-Dong house, then judges that it still lacks the bearing of a fully grown person. He proposes another reply to the request for carving: go drink tea in the attendants' quarters. If there is suddenly an awakening, he adds, the fellow has already gone beyond Silla. The pearl image now names a manner of teaching that Xisou appreciates yet criticizes and replaces with his own ordinary directive. He does not name Hongzhi as the speaker of his appraisal, and the headword belongs to Xisou's current revoicing."
             }
           ],
           "SourceTexts": [
@@ -846678,18 +846733,22 @@
             "J/J25/J25nB171.xml",
             "J/J27/J27nB197.xml",
             "J/J33/J33nB286.xml",
-            "J/J34/J34nB301.xml"
+            "J/J34/J34nB301.xml",
+            "J/J32/J32nB272.xml",
+            "X/X70/X70n1390.xml"
           ],
           "RelatedMasters": [
             "Chaozong Tongren",
             "Tianyin Yuanxiu",
             "Wuyi Yuanlai",
             "Yingning Zhijing",
-            "Jiqi Hongchu"
+            "Jiqi Hongchu",
+            "Hongzhi Zhengjue",
+            "Xisou Shaotan"
           ],
           "RelatedTerms": [],
           "ClaimAnchors": [],
-          "Explanation": "The pearl scattered inside a purple gauze tent images a decisive provision concealed by showy speech. Chaozong and four later teachers actively redeploy it; a separate Lingyan An verse applies it to the Baizhang fox case. Retained public meaning is supported by independent present uses in recorded discourse."
+          "Explanation": "Pearls scattered within a purple gauze enclosure picture something offered yet difficult to discern; the teachers put this image to different tests and sometimes criticize its manner of concealment. Chaozong Tongren explains how different doctrinal distinctions need not divide the matter they describe. Discussing the four fields of the Flower Garland teaching, he says that each particular event enters all events and all events enter each one; whichever field is raised for the needs of an occasion, the others are complete within it. He compares this to a ring without an end and to scattering pearls inside a purple gauze enclosure, asking where one could set one's eye. He then criticizes people who repeat a few dead formulas and claim to have gone beyond doctrinal reasoning. Here the scattered pearls image belongs to mutually complete perspectives that resist a separately fixed viewing point, not merely to ornament concealing an answer. Chaozong is the present speaker; the subsequent question about earlier interpretations of Linji is another turn. An inline source note attributes this four-line verse to Lingyan An, whose fuller identity is not established here. The poem places distinguishing the wild fox before Baizhang's hall beside scattering pearls in a purple gauze enclosure, then asks whose separate residence has a pond where a pair of mandarin ducks float. The surrounding collection gathers many different authors' responses to the fox case, including its contrast between not falling under cause and effect and not obscuring cause and effect; those neighboring verses are not all Lingyan An's speech. His own four lines move from the difficult discrimination to concealed pearls and the paired birds, without explaining a fixed correspondence for each image. The verse should therefore remain a pointed, compressed response to that case, rather than being made to settle its causal question in explanatory prose. Tianyin Yuanxiu raises Shoushan's answer to a monk asking what Buddha is: a bride rides the donkey while her mother-in-law leads it. When the monk asks which category of sentence can contain it, Shoushan says neither the three mysteries nor the four sentences can encompass it, then answers with the enduring heaven and earth and the sun and moon shining together. Tianyin asks his assembly whether they recognize Shoushan scattering pearls within a purple gauze enclosure. A separate unnamed monk then asks what this pearl-scattering is. Tianyin replies by putting the same family scene in a different order, the mother-in-law leading and the bride riding, and warns the monk not to invent forced explanations. The retained passage thus has two actual voices speaking the headword: Tianyin's present question and the monk's follow-up. Tianyin remains the respondent; neither the family image nor the pearl image is assigned a hidden code by his reply. Wuyi Yuanlai recounts Linji asking Huangbo three times for the deepest meaning of the teaching and receiving blows each time. Linji then tells Dayu that he does not know whether he had a fault; Dayu calls Huangbo's treatment grandmotherly kindness, and Linji awakens. Wuyi describes the force of the blows and asks why Linji later shouted at people indiscriminately. Without scattering pearls within the purple gauze enclosure, he says, one remains a shrimp unable to leap out of its measure. The image thus marks something that noisy imitation alone cannot supply: his criticism asks how the realized encounter works, rather than treating shouting as its sufficient result. Wuyi is the present speaker applying the image, not an unnamed participant in Linji's earlier encounter. Yingning Zhijing addresses the assembly with a bright round light and a break through a dim barrier, then says that pearls are being scattered inside the purple gauze enclosure and challenges those with eyes to speak. Two monks compete to emerge. He says one has gained and one lost; when both shout, he calls them people caught with stolen goods while protesting injustice. One protests that the teacher should not turn an innocent person into a criminal, and Yingning takes his staff and drives them out of the hall. Returning to his seat, he speaks of two colors in one contest and warns a true intimate not to remain outside the gate. The pearl image announces a present test whose value is not exhausted by the monks' competitive performance. The passage does not identify a winner for the reader to imitate. Jiqi Hongchu first assigns different kinds of response different seats and honors, then raises a monk asking the National Teacher for the Buddha of illumination in person. The teacher tells him to bring the water pitcher and then return it to its former place. When the monk repeats his question, the teacher says that the ancient Buddha has long passed away. Jiqi tells those who have not understood to watch him scatter pearls inside the purple gauze enclosure, adding that even so, those who understand are rare. After a pause he says 'Gather it in' and ends the address. The image applies to the teaching being offered through the ordinary pitcher actions and the unanswered demand for another explanation; it does not reveal a separate object hidden behind those actions. Jiqi is the current speaker assessing the raised exchange. Hongzhi Zhengjue opens an address with curtains hanging in the yellow pavilion and asks who carries the family message. The purple gauze enclosure is closed, he says, while true pearls are scattered unseen. He then makes the difficulty explicit: sight and hearing do not reach here, and words cannot convey it, so how can news get through? His closing lines turn from this obscured transmission to waking as night begins to lighten and smilingly pointing to the family's springtime flourishing. The pearl image is therefore part of a present question about how the teaching becomes apparent when its usual channels fail. Hongzhi does not end by declaring communication impossible; nor does he explain the pearls as literal objects hidden inside a room. Xisou Shaotan raises a monk asking Caoshan to carve the unpolished jade he presents. Caoshan refuses, then says the monk must trust that Caoshan is a good craftsman. In his own appraisal Xisou takes up the yellow pavilion with curtains down and news difficult to transmit, followed by the closed purple gauze enclosure and pearls scattered unseen. He calls this the fine density of the Cao-Dong house, then judges that it still lacks the bearing of a fully grown person. He proposes another reply to the request for carving: go drink tea in the attendants' quarters. If there is suddenly an awakening, he adds, the fellow has already gone beyond Silla. The pearl image now names a manner of teaching that Xisou appreciates yet criticizes and replaces with his own ordinary directive. He does not name Hongzhi as the speaker of his appraisal, and the headword belongs to Xisou's current revoicing."
         }
       ]
     },
