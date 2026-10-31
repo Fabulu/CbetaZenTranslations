@@ -22867,7 +22867,8 @@
                 {
                   "MasterName": "Xiangyan Zhixian",
                   "Roles": [
-                    "utterer"
+                    "utterer",
+                    "verse-author"
                   ]
                 },
                 {
@@ -22878,7 +22879,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J27/J27nB190.xml). Shiyu recorded sayings. Shiyu explicitly says Xiangyan uttered the verse and asks whether he understood."
+              "AttributionNote": "Source record (J/J27/J27nB190.xml). Dharma Platform of Chan Master Shiyu. At a hall address requested by layman Rixin to commend his parents and seek blessings for his mother, Shiyu Mingfang asks the assembly for a word before one's parents were born. He recalls Xiangyan's older difficulty with that question and cites the verse Xiangyan composed after hearing bamboo struck: at one strike knowledge fell away and no further cultivation was needed. Shiyu then asks whether Xiangyan really understood and warns the audience not to be fooled. Shiyu quotes and examines the poem, but the text explicitly assigns its original spoken lines to Xiangyan, who remains the headword actor."
             },
             {
               "RelPath": "J/J25/J25nB174.xml",
@@ -22891,7 +22892,8 @@
                 {
                   "MasterName": "Xiangyan Zhixian",
                   "Roles": [
-                    "utterer"
+                    "utterer",
+                    "verse-author"
                   ]
                 },
                 {
@@ -22902,7 +22904,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J25/J25nB174.xml). Juelang recorded sayings. Juelang cites Xiangyan’s bamboo awakening to test the relation of effort and encounter."
+              "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. Juelang Daosheng argues that students need both an entrance and a way out rather than merely repeating an inherited answer. He asks why Xiangyan's bamboo strike, Lingyun's peach blossom and Xuansha's injured foot each became a decisive occasion for an older practitioner. In that question Juelang quotes Xiangyan's line about one strike undoing what was known, then points to the meeting of teacher and student as the condition of such a turn. Juelang presently questions the old event, while the quoted lines are explicitly Xiangyan's original voice and remain attributed to him."
             },
             {
               "RelPath": "J/J28/J28nB202.xml",
@@ -22915,7 +22917,8 @@
                 {
                   "MasterName": "Xiangyan Zhixian",
                   "Roles": [
-                    "utterer"
+                    "utterer",
+                    "verse-author"
                   ]
                 },
                 {
@@ -22926,31 +22929,33 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J28/J28nB202.xml). Baichi recorded sayings. Baichi explicitly quotes Xiangyan’s verse in a preface for a student named One Strike."
+              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. In a preface for a monk formerly named Shoujing who asks to be renamed One Strike, Baichi Xingyuan recalls Xiangyan hearing bamboo struck and quotes Xiangyan's verse about knowledge falling away at one strike. Baichi tells the monk to take the name personally rather than treat it as a label: a word, finger, raised object, blow, shout, wind or bird call could become such a strike only when met directly. Baichi cites the poem for this student's new name; the quoted lines are explicitly Xiangyan's original voice and remain attributed to him."
             },
             {
               "RelPath": "J/J36/J36nB362.xml",
               "FromLb": "0762b28",
               "ToLb": "0762c17",
               "Kwic": "諸妄心，亦不息滅。住妄想境，不加了知；於無了知，不辨真實。』又云：『一切眾生妄認四大為自身相，六塵緣影為自心相。正恁麼時，四大離散，六塵消殞，東山西嶺青，畢竟喚甚麼作當人金剛不壞身相？』」良久，擊拂子一下，曰：「智者聞之猛提取，莫待須臾失卻機。」晚參。舉：「趙州和尚因僧問：『道人相見時如何？』州曰：『呈漆器。』」師曰：「要識趙州麼？天下有心人，盡解相思死。天下負心人，不識相思字。」寶輪弟子大御等莊嚴受業師知予耆宿，請上堂。師卓拄杖曰：「一擊忘所知，更不假修持。動容揚古路，不墮悄然機。正當恁麼時，大鐘橫撞，法鼓轟闐，緇素交參，人境雜遝。還作麼生說箇忘所知不假修持的句？」驀拈拄杖曰：「拄杖子與我知公老宿同過去現在未來三世諸佛，共入平等三昧，降神處胎。或現大身，或現小身；或現尊嚴殊特，或現卑劣愚癡；或出家修道，或梵行純一；或塵勞煩惱，或證果成道；或內密外現，或權乘凡夫；或六度萬行，或淨佛國土；或滿足菩提，或演壽量，或說本事；或一劫住無量劫，或無量劫住一劫；或一義說無量義，或無量義說一義；或般涅槃",
-              "MasterName": "Xiangyan Zhixian",
+              "MasterName": "Guantao Daqi",
               "Curated": true,
               "ContextMasters": [
                 {
-                  "MasterName": "Xiangyan Zhixian",
-                  "Roles": [
-                    "utterer"
-                  ]
-                },
-                {
                   "MasterName": "Guantao Daqi",
                   "Roles": [
+                    "utterer",
                     "commentator",
                     "record-owner"
                   ]
+                },
+                {
+                  "MasterName": "Xiangyan Zhixian",
+                  "Roles": [
+                    "verse-author",
+                    "case-figure"
+                  ]
                 }
               ],
-              "AttributionNote": "Source record (J/J36/J36nB362.xml). Guantao recorded sayings. Guantao voices Xiangyan’s well-known verse in a sermon and immediately asks what it means now."
+              "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded Sayings of Chan Master Guantaoqi. At a hall address requested by disciples honoring their old teacher Zhiyu, Guantao Daqi plants his staff and recites Xiangyan's well-known verse: at one strike knowledge falls away and no further cultivation is needed. Guantao then points to the busy hall and asks how to say that line now, lifting the staff again and bringing the current assembly and commemorated teacher into his answer. Guantao is the present reciter and questioner; Xiangyan is the inherited author of the verse he applies."
             },
             {
               "RelPath": "J/J37/J37nB386.xml",
@@ -22963,7 +22968,8 @@
                 {
                   "MasterName": "Xiangyan Zhixian",
                   "Roles": [
-                    "utterer"
+                    "utterer",
+                    "verse-author"
                   ]
                 },
                 {
@@ -22974,10 +22980,142 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J37/J37nB386.xml). Yuanan recorded sayings. Yuan’an recalls Xiangyan’s old verse while examining his earlier failed learning."
+              "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. Yuan'an Liao retells Xiangyan's earlier failure to answer Guishan's question and his burning of his old writings, then asks why the later sound of bamboo striking could bring an awakening. He quotes Xiangyan's claim that at one strike knowledge fell away, but argues that without Xiangyan and Guishan's earlier hard encounter even fine sounds would have left him following appearances. Yuan'an narrates and comments on the recalled story; Xiangyan is the original voice of the quoted headword within it."
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J27/J27nB190.xml",
+              "FromLb": "0100a27",
+              "ToLb": "0100b17",
+              "Kwic": "：「釋迦老子來也，汝諸人為甚麼眉間白毫大光普照？汝還見菩薩處林放光，濟地獄苦，令入佛道麼？汝還見佛子未嘗睡眠，經行林中勤求佛道麼？汝還見受具足戒，威儀無缺，淨如寶珠以求佛道麼？若見，則白日青天，飛星閃電；若不見，則夜光投人，鮮不按劍。今日日新居士為父母求薦、為生母求福、又為自己求進道無魔，要山僧作個證明。山僧念過一遍《法華經》了也，還當得證明麼？若當不得，再勞大眾為渠向父母未生前道一句看。秪如香嚴不會父母未生前一句，直至擊竹纔悟，說個『一擊忘所知，更不假修持』。且道：他還會也未？莫被他瞞好。還有不受瞞者麼？」良久，曰：「春夢未醒先入夏，普梆相送採茶歌。」硤石惠力寺，上堂。舉：「世尊一日敕阿難：『食時將至，汝當入城持缽。』阿難應諾，世尊曰：『汝既持缽，須依過去七佛儀式。』阿難便問：『如何是七佛儀式？』世尊召阿難，難應諾，世尊曰：『托缽去。』山僧則不然，有問：『如何是七佛儀式？』向他道：『待缽滿歸來向汝道。』不知與世尊是同？是別？」良久，曰：「兩山相硤千年寺，流水中分萬姓家。珍重。」上堂。師舉",
+              "MasterName": "Xiangyan Zhixian",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Xiangyan Zhixian",
+                  "Roles": [
+                    "utterer",
+                    "verse-author"
+                  ]
+                },
+                {
+                  "MasterName": "Shiyu Mingfang",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J27/J27nB190.xml). Dharma Platform of Chan Master Shiyu. At a hall address requested by layman Rixin to commend his parents and seek blessings for his mother, Shiyu Mingfang asks the assembly for a word before one's parents were born. He recalls Xiangyan's older difficulty with that question and cites the verse Xiangyan composed after hearing bamboo struck: at one strike knowledge fell away and no further cultivation was needed. Shiyu then asks whether Xiangyan really understood and warns the audience not to be fooled. Shiyu quotes and examines the poem, but the text explicitly assigns its original spoken lines to Xiangyan, who remains the headword actor.",
+              "ClaimText": "一擊忘所知，更不假修持"
+            },
+            {
+              "RelPath": "J/J25/J25nB174.xml",
+              "FromLb": "0719a04",
+              "ToLb": "0719a24",
+              "Kwic": "是，於過水睹影始悟得個「切忌從他覓，迢迢與我疏」。此豈不是古人於脫胎換骨，始得個解行相應自能作活之真消息？今日誰不在裏許？若是不肯𢬵捨身命求個入處；設得個入處，又不能踢脫窠臼求個出處，所以古人竭盡婆心下盡毒手，不過欲控人個入處與控人個出處，使渠自得轉身吐氣，始不被人欺亦不致於欺人也。惜乎時人不自痛心頭頭蹉過，如五更鐘叫，誰不在夢中打開眼光？還曾見有威音王佛與日月燈明佛底神力者麼？若論者個誰不能知？我問你：「香嚴是甚癡子，如何因擊伏始悟『一擊忘所知，更不假修持』？靈雲是甚瞎子，如何因『三十年尋劍客，一見桃花更不疑』？又玄沙是甚瘋子，如何於飛鳶嶺上踢破腳指，乃悟曰『達磨不來東土，二祖不去西天』？至於溈山之拈出火柴頭；百丈之扭卻鴨子鼻；雲居之因呼出本名，各各始得知歸而有出身路。此何故？正是佛祖言句與師資相遇，如生冤家相似兩不放過，始得啐啄同時，水乳相合；又如擊石乃得火迸鞭草，乃見血流也。若是聚頭打鬨互相賺誤，何異飯蘿裏餓殺、大海裏渴殺，更怨誰乎？又誰能自怨？大眾！如今還知非非想天爛泥裏有刺者麼？",
+              "MasterName": "Xiangyan Zhixian",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Xiangyan Zhixian",
+                  "Roles": [
+                    "utterer",
+                    "verse-author"
+                  ]
+                },
+                {
+                  "MasterName": "Juelang Daosheng",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. Juelang Daosheng argues that students need both an entrance and a way out rather than merely repeating an inherited answer. He asks why Xiangyan's bamboo strike, Lingyun's peach blossom and Xuansha's injured foot each became a decisive occasion for an older practitioner. In that question Juelang quotes Xiangyan's line about one strike undoing what was known, then points to the meeting of teacher and student as the condition of such a turn. Juelang presently questions the old event, while the quoted lines are explicitly Xiangyan's original voice and remain attributed to him.",
+              "ClaimText": "一擊忘所知，更不假修持"
+            },
+            {
+              "RelPath": "J/J28/J28nB202.xml",
+              "FromLb": "0155c17",
+              "ToLb": "0156a07",
+              "Kwic": "章、曰棠棣之華，鄂不韡韡，凡今之人莫如兄弟，況法門情義倍加一層乎？此去隨緣飲啄，安分而居，骨肉相扶，老病相恤，勝幢相助，毋聽傍言而少懈，毋縱己性而輕離，是則予所殷殷致囑者也。憶予志學年前父母喪亡，弟昆散處，至今鬢髮斑然，求一面而不可得，汝有幸對床共被之規、同氣連枝之理，諒已籌之甚熟，必不效山僧潦倒，自誤生平，空作世、出世間一薄情負義人也。一擊序一擊序悟上人舊號守靜，今乞易為一擊，而并索予序。予曰：「昔香嚴擊竹作聲，豁然大悟，因有頌云：『一擊忘所知，更不假修持，動容揚古路，不墮悄然機。』此一擊之義所由傳也。「汝能於一擊中親切承當，諦寔領荷，則與香嚴老子覿體混融，無分毫隔礙，而碧眼黃頭亦嘗在其間，弗敢相瞞昧矣。然後，知一言、一指、一拈、一境皆一擊也，一棒、一喝、一挨、一拶皆一擊也，風厲雷奔、鳥啼花落……、以至翻騰海嶽、鼓撼乾坤皆一擊也。苟或迷雲翳其光、世音雜其耳，雖琅玕萬本，東擊西敲，徒付之等閒，奚悟焉？葛藤未了，并說三偈以盡之。當陽一擊，千聖軌則，大小香嚴捉敗這賊。半天紅日啟晴檐，倏忽之時都",
+              "MasterName": "Xiangyan Zhixian",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Xiangyan Zhixian",
+                  "Roles": [
+                    "utterer",
+                    "verse-author"
+                  ]
+                },
+                {
+                  "MasterName": "Baichi Xingyuan",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. In a preface for a monk formerly named Shoujing who asks to be renamed One Strike, Baichi Xingyuan recalls Xiangyan hearing bamboo struck and quotes Xiangyan's verse about knowledge falling away at one strike. Baichi tells the monk to take the name personally rather than treat it as a label: a word, finger, raised object, blow, shout, wind or bird call could become such a strike only when met directly. Baichi cites the poem for this student's new name; the quoted lines are explicitly Xiangyan's original voice and remain attributed to him.",
+              "ClaimText": "一擊忘所知，更不假修持"
+            },
+            {
+              "RelPath": "J/J36/J36nB362.xml",
+              "FromLb": "0762b28",
+              "ToLb": "0762c17",
+              "Kwic": "諸妄心，亦不息滅。住妄想境，不加了知；於無了知，不辨真實。』又云：『一切眾生妄認四大為自身相，六塵緣影為自心相。正恁麼時，四大離散，六塵消殞，東山西嶺青，畢竟喚甚麼作當人金剛不壞身相？』」良久，擊拂子一下，曰：「智者聞之猛提取，莫待須臾失卻機。」晚參。舉：「趙州和尚因僧問：『道人相見時如何？』州曰：『呈漆器。』」師曰：「要識趙州麼？天下有心人，盡解相思死。天下負心人，不識相思字。」寶輪弟子大御等莊嚴受業師知予耆宿，請上堂。師卓拄杖曰：「一擊忘所知，更不假修持。動容揚古路，不墮悄然機。正當恁麼時，大鐘橫撞，法鼓轟闐，緇素交參，人境雜遝。還作麼生說箇忘所知不假修持的句？」驀拈拄杖曰：「拄杖子與我知公老宿同過去現在未來三世諸佛，共入平等三昧，降神處胎。或現大身，或現小身；或現尊嚴殊特，或現卑劣愚癡；或出家修道，或梵行純一；或塵勞煩惱，或證果成道；或內密外現，或權乘凡夫；或六度萬行，或淨佛國土；或滿足菩提，或演壽量，或說本事；或一劫住無量劫，或無量劫住一劫；或一義說無量義，或無量義說一義；或般涅槃",
+              "MasterName": "Guantao Daqi",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Guantao Daqi",
+                  "Roles": [
+                    "utterer",
+                    "commentator",
+                    "record-owner"
+                  ]
+                },
+                {
+                  "MasterName": "Xiangyan Zhixian",
+                  "Roles": [
+                    "verse-author",
+                    "case-figure"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded Sayings of Chan Master Guantaoqi. At a hall address requested by disciples honoring their old teacher Zhiyu, Guantao Daqi plants his staff and recites Xiangyan's well-known verse: at one strike knowledge falls away and no further cultivation is needed. Guantao then points to the busy hall and asks how to say that line now, lifting the staff again and bringing the current assembly and commemorated teacher into his answer. Guantao is the present reciter and questioner; Xiangyan is the inherited author of the verse he applies.",
+              "ClaimText": "一擊忘所知，更不假修持"
+            },
+            {
+              "RelPath": "J/J37/J37nB386.xml",
+              "FromLb": "0383c05",
+              "ToLb": "0383c24",
+              "Kwic": "不作者般不材不淨底事。黃金自有黃金價，何事和沙賣與人？香嚴知是從前錯路，遂將平昔所有底文字燒卻，道：『此生不學佛法了也，且作箇長行粥飯僧，免役心神。』豈不是以有所得心學無所得法，如何學得來？然則香嚴此時卻也平帖帖地了，乃泣辭溈山，溈山更不留，可謂白玉琢成西子骨，黃金鑄就伍員心，不妨千古師資、風雲際會盡在此處。當時者兩箇老古錐，若非等是純鋼打就底脊項，莫道香嚴後來聞擊竹聲悟道，便是聞無限微玅梵音聲、迦陵頻伽聲，也則是箇隨聲逐色底人，安有『一擊忘所知，更不假修持』之慶快平生也？此六祖所謂『若能一念自知非，自己靈光嘗顯現』，便是者箇道理。所以古人寧使一生不悟，不肯半青半黃，依俙相似，得少為足。然古來亦有一箇樣子，喚作南扁頭。者箇扁頭道人，胸羅三藏、學貫五車，其實有些子風彩，只是打頭不遇得箇咬豬狗底手腳，幾乎一生錯過。虧殺他結得箇好道友，喚作雲峰悅。一日，同遊西山，知其不實，悅歎云：『南有道之器也，惜其未遇本分鉗鎚耳。』也是為他閒事長無明。然如今人結道友，人情意況或有之，求其如此相為者，直是萬中無",
+              "MasterName": "Xiangyan Zhixian",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Xiangyan Zhixian",
+                  "Roles": [
+                    "utterer",
+                    "verse-author"
+                  ]
+                },
+                {
+                  "MasterName": "Yuan'an Liao",
+                  "Roles": [
+                    "commentator",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. Yuan'an Liao retells Xiangyan's earlier failure to answer Guishan's question and his burning of his old writings, then asks why the later sound of bamboo striking could bring an awakening. He quotes Xiangyan's claim that at one strike knowledge fell away, but argues that without Xiangyan and Guishan's earlier hard encounter even fine sounds would have left him following appearances. Yuan'an narrates and comments on the recalled story; Xiangyan is the original voice of the quoted headword within it.",
+              "ClaimText": "一擊忘所知，更不假修持"
+            }
+          ],
           "SourceTexts": [
             "J/J27/J27nB190.xml",
             "J/J25/J25nB174.xml",
@@ -22994,7 +23132,7 @@
             "Yuan'an Liao"
           ],
           "RelatedTerms": [],
-          "Explanation": "Xiangyan’s verse says that a single strike undid what study had not settled. Shiyu asks whether the famous awakening can be trusted; Juelang presses its relation to effort and teacherly encounter. Baichi applies it to a student’s new name. Guantao speaks the verse at a sermon and questions its meaning; Yuan’an returns to Xiangyan’s prior failure and departure."
+          "Explanation": "Xiangyan's old bamboo-strike verse is quoted in five distinct later teachings; each present master uses its claim to test a listener, explain an awakening or address a student. At a hall address requested by layman Rixin to commend his parents and seek blessings for his mother, Shiyu Mingfang asks the assembly for a word before one's parents were born. He recalls Xiangyan's older difficulty with that question and cites the verse Xiangyan composed after hearing bamboo struck: at one strike knowledge fell away and no further cultivation was needed. Shiyu then asks whether Xiangyan really understood and warns the audience not to be fooled. Shiyu quotes and examines the poem, but the text explicitly assigns its original spoken lines to Xiangyan, who remains the headword actor. Juelang Daosheng argues that students need both an entrance and a way out rather than merely repeating an inherited answer. He asks why Xiangyan's bamboo strike, Lingyun's peach blossom and Xuansha's injured foot each became a decisive occasion for an older practitioner. In that question Juelang quotes Xiangyan's line about one strike undoing what was known, then points to the meeting of teacher and student as the condition of such a turn. Juelang presently questions the old event, while the quoted lines are explicitly Xiangyan's original voice and remain attributed to him. In a preface for a monk formerly named Shoujing who asks to be renamed One Strike, Baichi Xingyuan recalls Xiangyan hearing bamboo struck and quotes Xiangyan's verse about knowledge falling away at one strike. Baichi tells the monk to take the name personally rather than treat it as a label: a word, finger, raised object, blow, shout, wind or bird call could become such a strike only when met directly. Baichi cites the poem for this student's new name; the quoted lines are explicitly Xiangyan's original voice and remain attributed to him. At a hall address requested by disciples honoring their old teacher Zhiyu, Guantao Daqi plants his staff and recites Xiangyan's well-known verse: at one strike knowledge falls away and no further cultivation is needed. Guantao then points to the busy hall and asks how to say that line now, lifting the staff again and bringing the current assembly and commemorated teacher into his answer. Guantao is the present reciter and questioner; Xiangyan is the inherited author of the verse he applies. Yuan'an Liao retells Xiangyan's earlier failure to answer Guishan's question and his burning of his old writings, then asks why the later sound of bamboo striking could bring an awakening. He quotes Xiangyan's claim that at one strike knowledge fell away, but argues that without Xiangyan and Guishan's earlier hard encounter even fine sounds would have left him following appearances. Yuan'an narrates and comments on the recalled story; Xiangyan is the original voice of the quoted headword within it."
         }
       ]
     },
