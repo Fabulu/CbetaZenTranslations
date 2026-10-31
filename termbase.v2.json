@@ -647177,7 +647177,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "The verse pictures questioners seeking Old Wang on both sides of a river, only to trade one doubt for another. Xuedou gives the pair in his verse on an old lotus exchange. Biefeng, Tianru, and Xuzhou voice it in distinct later sermons with their own questions and gestures. The repeated crossing changes no understanding by itself.",
+          "Note": "Four distinct retained uses preserved: Xuedou lotus-case verse, Biefeng direct tests of presented sound/form, Tianru demonstrated fan/shout/staff and further challenge, Xuzhou retreat-release check. Old Wang remains an allusive question, not a newly identified actor. Biefeng unlinked identity retained and missing utterer role supplied.",
           "Occurrences": [
             {
               "RelPath": "X/X67/X67n1299.xml",
@@ -647188,7 +647188,7 @@
               "ActorAttribution": null,
               "Curated": true,
               "ContextMasters": [],
-              "AttributionNote": "Source record (X/X67/X67n1299.xml). Recorded sayings. The anthology explicitly names Xuedou Chongxian as the original speaker of the full pair in his verse on the lotus answer."
+              "AttributionNote": "Source record (X/X67/X67n1299.xml). Classified Anthology of the Chan Grove. The anthology explicitly gives Xuedou Chongxian's verse on Zhimen's lotus exchange. A monk asks what the lotus is before emerging from the water; Zhimen says lotus. What about after emergence? He says lotus leaves. Xuedou first names flower and leaf and asks how emergence compares with not yet emerging, then gives the river-crossing questions and renewed doubt. The headword is Xuedou's verse, not Zhimen's answer or Tiantong's preceding comment about an empty turtle shell needing no divination. Several other teachers' verses follow as separate contributions. The pair makes the search for an explanation of before and after part of the difficulty; it does not narrate someone actually visiting an identifiable Old Wang on both banks or prescribe a botanical sequence as the case's solution."
             },
             {
               "RelPath": "X/X68/X68n1318.xml",
@@ -647211,11 +647211,12 @@
                 ],
                 "ReviewedBy": "Sol source-first author",
                 "ReviewedUtc": "2026-10-29T12:00:00Z",
-                "AuthoredVoiceRiskReviewed": true
+                "AuthoredVoiceRiskReviewed": true,
+                "ActorRole": "utterer"
               },
               "Curated": true,
               "ContextMasters": [],
-              "AttributionNote": "Source record (X/X68/X68n1318.xml). Recorded sayings. Biefeng Zhen voices the pair directly after showing his whisk in a sermon; his identity is not bound to the lineage roster."
+              "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. In Biefeng Zhen's teaching record, the way is said to be directly present but difficult to see, and not apart from sound, form and words. He strikes his staff to present sound, raises it to present form, and asks what is called the great way. Even seeing it here, he says, remains at the city gate. He next raises his whisk as an ox's trace and asks where the ox is; clear horns do not free its nose from his hand. Beyond verbal alternatives he adds the strange long-headed figure, then gives the Old Wang couplet. The pair caps successive challenges to taking an obvious presented object as the final answer. Biefeng is the current speaker; the neighboring departure, arrival and later Fashi addresses are not one continuous question-and-answer. His fuller roster identity remains unproved, and the text does not decode Old Wang as a named master."
             },
             {
               "RelPath": "X/X70/X70n1403.xml",
@@ -647234,7 +647235,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X70/X70n1403.xml). Recorded sayings. Tianru voices the pair in his own sermon after showing a fan, a shout, and a staff."
+              "AttributionNote": "Source record (X/X70/X70n1403.xml). Recorded Sayings of Chan Master Tianru Weize. Tianru Weize discusses Yunmen's impossible fan story and the difficulty of treating it either as literal teaching or as something to be dismissed. He insists that ancestral words and acts concern ordinary daily life, then tests the assembly directly: presenting his whisk, he says Yunmen's fan is this; a shout presents Linji's shout, and a staff strike presents Deshan's blow. Having seen, heard and understood all three, what sound is the true teaching eye and what face is the wondrous mind? He gives the Old Wang pair, says it is better to cut the verbal entanglement and open another route, and draws a mark with his staff. His ensuing instruction returns to unresolved birth and death. The pair is a present criticism of circling explanations, not proof that the preceding gestures have completed the listeners' work."
             },
             {
               "RelPath": "X/X71/X71n1407.xml",
@@ -647253,7 +647254,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X71/X71n1407.xml). Recorded sayings. Xuzhou voices the pair in his own sermon after asking who walks through a place without grass."
+              "AttributionNote": "Source record (X/X71/X71n1407.xml). Recorded Sayings of Chan Master Xuzhou Pudu. At release from retreat, Xuzhou Pudu describes opening the bag to the ten directions and casts the period's confinement as drawing a prison on the ground. A capable person might be a fish through a net or a hawk out of a cage. All very well, but whose course is it where there is no grass for ten thousand miles and yet stepping outside the door encounters grass? He gives the Old Wang couplet. The expansive release is thus checked by a further question about actual conduct, rather than leaving freedom as a triumphant image. No monk answers and no journey across the river is reported. The preceding year-end and winter-solstice pieces and following seasonal addresses are separate units; their staff actions should not be imported as an answer to this release question."
             }
           ],
           "ClaimAnchors": [
@@ -647266,7 +647267,7 @@
               "ActorAttribution": null,
               "Curated": true,
               "ContextMasters": [],
-              "AttributionNote": "Source record (X/X67/X67n1299.xml). Recorded sayings. The anthology explicitly names Xuedou Chongxian as the original speaker of the full pair in his verse on the lotus answer.",
+              "AttributionNote": "Source record (X/X67/X67n1299.xml). Classified Anthology of the Chan Grove. The anthology explicitly gives Xuedou Chongxian's verse on Zhimen's lotus exchange. A monk asks what the lotus is before emerging from the water; Zhimen says lotus. What about after emergence? He says lotus leaves. Xuedou first names flower and leaf and asks how emergence compares with not yet emerging, then gives the river-crossing questions and renewed doubt. The headword is Xuedou's verse, not Zhimen's answer or Tiantong's preceding comment about an empty turtle shell needing no divination. Several other teachers' verses follow as separate contributions. The pair makes the search for an explanation of before and after part of the difficulty; it does not narrate someone actually visiting an identifiable Old Wang on both banks or prescribe a botanical sequence as the case's solution.",
               "ClaimText": "江北江南問王老，一狐疑了一狐疑"
             },
             {
@@ -647290,11 +647291,12 @@
                 ],
                 "ReviewedBy": "Sol source-first author",
                 "ReviewedUtc": "2026-10-29T12:00:00Z",
-                "AuthoredVoiceRiskReviewed": true
+                "AuthoredVoiceRiskReviewed": true,
+                "ActorRole": "utterer"
               },
               "Curated": true,
               "ContextMasters": [],
-              "AttributionNote": "Source record (X/X68/X68n1318.xml). Recorded sayings. Biefeng Zhen voices the pair directly after showing his whisk in a sermon; his identity is not bound to the lineage roster.",
+              "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. In Biefeng Zhen's teaching record, the way is said to be directly present but difficult to see, and not apart from sound, form and words. He strikes his staff to present sound, raises it to present form, and asks what is called the great way. Even seeing it here, he says, remains at the city gate. He next raises his whisk as an ox's trace and asks where the ox is; clear horns do not free its nose from his hand. Beyond verbal alternatives he adds the strange long-headed figure, then gives the Old Wang couplet. The pair caps successive challenges to taking an obvious presented object as the final answer. Biefeng is the current speaker; the neighboring departure, arrival and later Fashi addresses are not one continuous question-and-answer. His fuller roster identity remains unproved, and the text does not decode Old Wang as a named master.",
               "ClaimText": "江北江南問王老，一狐疑了一狐疑"
             },
             {
@@ -647314,7 +647316,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X70/X70n1403.xml). Recorded sayings. Tianru voices the pair in his own sermon after showing a fan, a shout, and a staff.",
+              "AttributionNote": "Source record (X/X70/X70n1403.xml). Recorded Sayings of Chan Master Tianru Weize. Tianru Weize discusses Yunmen's impossible fan story and the difficulty of treating it either as literal teaching or as something to be dismissed. He insists that ancestral words and acts concern ordinary daily life, then tests the assembly directly: presenting his whisk, he says Yunmen's fan is this; a shout presents Linji's shout, and a staff strike presents Deshan's blow. Having seen, heard and understood all three, what sound is the true teaching eye and what face is the wondrous mind? He gives the Old Wang pair, says it is better to cut the verbal entanglement and open another route, and draws a mark with his staff. His ensuing instruction returns to unresolved birth and death. The pair is a present criticism of circling explanations, not proof that the preceding gestures have completed the listeners' work.",
               "ClaimText": "江北江南問王老，一狐疑了一狐疑"
             },
             {
@@ -647334,7 +647336,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X71/X71n1407.xml). Recorded sayings. Xuzhou voices the pair in his own sermon after asking who walks through a place without grass.",
+              "AttributionNote": "Source record (X/X71/X71n1407.xml). Recorded Sayings of Chan Master Xuzhou Pudu. At release from retreat, Xuzhou Pudu describes opening the bag to the ten directions and casts the period's confinement as drawing a prison on the ground. A capable person might be a fish through a net or a hawk out of a cage. All very well, but whose course is it where there is no grass for ten thousand miles and yet stepping outside the door encounters grass? He gives the Old Wang couplet. The expansive release is thus checked by a further question about actual conduct, rather than leaving freedom as a triumphant image. No monk answers and no journey across the river is reported. The preceding year-end and winter-solstice pieces and following seasonal addresses are separate units; their staff actions should not be imported as an answer to this release question.",
               "ClaimText": "江北江南問王老，一狐疑了一狐疑"
             }
           ],
@@ -647350,7 +647352,7 @@
             "Xuzhou Pudu"
           ],
           "RelatedTerms": [],
-          "Explanation": "Questions cross the river while doubt keeps returning. Xuedou's verse and Biefeng's new sermon supply two different settings for the pair. Tianru and Xuzhou use it after presenting other ways to seek an answer."
+          "Explanation": "Question Old Wang north and south of the river: one doubt is settled only for another doubt to appear. The pair treats repeated appeals for explanation as a potentially self-renewing uncertainty. Its four uses do not identify one historical traveler or guarantee that changing teachers will answer the question. The anthology explicitly gives Xuedou Chongxian's verse on Zhimen's lotus exchange. A monk asks what the lotus is before emerging from the water; Zhimen says lotus. What about after emergence? He says lotus leaves. Xuedou first names flower and leaf and asks how emergence compares with not yet emerging, then gives the river-crossing questions and renewed doubt. The headword is Xuedou's verse, not Zhimen's answer or Tiantong's preceding comment about an empty turtle shell needing no divination. Several other teachers' verses follow as separate contributions. The pair makes the search for an explanation of before and after part of the difficulty; it does not narrate someone actually visiting an identifiable Old Wang on both banks or prescribe a botanical sequence as the case's solution. In Biefeng Zhen's teaching record, the way is said to be directly present but difficult to see, and not apart from sound, form and words. He strikes his staff to present sound, raises it to present form, and asks what is called the great way. Even seeing it here, he says, remains at the city gate. He next raises his whisk as an ox's trace and asks where the ox is; clear horns do not free its nose from his hand. Beyond verbal alternatives he adds the strange long-headed figure, then gives the Old Wang couplet. The pair caps successive challenges to taking an obvious presented object as the final answer. Biefeng is the current speaker; the neighboring departure, arrival and later Fashi addresses are not one continuous question-and-answer. His fuller roster identity remains unproved, and the text does not decode Old Wang as a named master. Tianru Weize discusses Yunmen's impossible fan story and the difficulty of treating it either as literal teaching or as something to be dismissed. He insists that ancestral words and acts concern ordinary daily life, then tests the assembly directly: presenting his whisk, he says Yunmen's fan is this; a shout presents Linji's shout, and a staff strike presents Deshan's blow. Having seen, heard and understood all three, what sound is the true teaching eye and what face is the wondrous mind? He gives the Old Wang pair, says it is better to cut the verbal entanglement and open another route, and draws a mark with his staff. His ensuing instruction returns to unresolved birth and death. The pair is a present criticism of circling explanations, not proof that the preceding gestures have completed the listeners' work. At release from retreat, Xuzhou Pudu describes opening the bag to the ten directions and casts the period's confinement as drawing a prison on the ground. A capable person might be a fish through a net or a hawk out of a cage. All very well, but whose course is it where there is no grass for ten thousand miles and yet stepping outside the door encounters grass? He gives the Old Wang couplet. The expansive release is thus checked by a further question about actual conduct, rather than leaving freedom as a triumphant image. No monk answers and no journey across the river is reported. The preceding year-end and winter-solstice pieces and following seasonal addresses are separate units; their staff actions should not be imported as an answer to this release question."
         }
       ]
     },
