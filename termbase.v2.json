@@ -4316,47 +4316,86 @@
       "Senses": [
         {
           "SenseKey": null,
-          "MasterName": "Yongming Yanshou",
-          "PreferredTarget": "all dharmas are unborn",
+          "MasterName": null,
+          "PreferredTarget": "all phenomena are unborn",
           "AlternateTargets": [
-            "all dharmas do not arise"
+            "all phenomena do not arise"
           ],
           "SearchAliases": [
-            "all dharmas are unborn",
-            "all dharmas do not arise"
+            "all phenomena are unborn",
+            "all phenomena do not arise"
           ],
           "Status": "preferred",
           "Validation": "provisional",
-          "Note": "The formula often appears inside a paired scriptural quotation with “all dharmas do not perish”; those copies are one quotation family, not independent semantic depth.",
+          "Note": "One admitted Chinese Zen-record exchange preserves this standalone clause as a question. The full nonarising-and-nonceasing couplet belongs to a separate article.",
           "Occurrences": [
             {
-              "RelPath": "T/T48/T48n2016.xml",
-              "FromLb": "0468b23",
-              "ToLb": "0468b24",
-              "Kwic": "是生是滅。如此經云。一切法不生。",
-              "MasterName": "Yongming Yanshou",
+              "RelPath": "X/X69/X69n1344.xml",
+              "FromLb": "0232b21",
+              "ToLb": "0233a06",
+              "Kwic": "亘今休更詰。任他百恠出頭來，寂然一照明如日。識此靈源瞌睡歌，混入塵中體堅密。快活歌快活歌心無心而物物明，物有心而心不堪。不堪心中污心田，心田皎皎沒人參。沒人參，東作南，青青妙色出於藍。見即便見見取好，不見莫怨老瞿曇。寄靈源寄靈源逆耳忠言世莫瞋，順流清峻却迷津。年來慵懶長緘口，不似當時愛罵人。禪人寫真求贊(二首)禪人寫真求贊齒缺面黑，廣南正賊。空腹高心，不識文墨。面黑不是番僧，齒缺亦非達磨。性急只愛罵人，看你自招口過。與空室道人與空室道人空空室室空不空，不空空處徹真空。混同塵世非塵世，只在塵中塵不同。師任雲巖日通判段公以頌呈師師任雲巖日，通判段公以頌呈師。一切法不生，如何有心死？乞巧不拈針，猶似較些子。師以偈答師以偈答只為法不生，是故心長死。徹底絕絲毫，即是真夫子。因先上人南還因先上人南還旅舘雲遊經幾霜，此心歸日愛南陽。無端却度庾峯嶺，入到曹溪是故鄉。和衡典座無一庵和衡典座無一庵一庵茆草結，萬象入吾庵。劫壞終無壞，松風演妙談。師臨順寂以偈寄師川大夫師臨順寂以偈寄師川大夫心心心，道道道。明斯旨，端坐到。到不到，多計較。非計較，合本道。禪人以出定僧相請師贊禪人以出定僧相請師贊七百年定，誑惑眾生。一念超越，天下橫行。和方侍者頌曹山雪中因緣和方侍者頌曹山雪中因緣滿山風雪色凝然，鳥道立玄沒二邊；鳳翅斂時全叶正，龍珠",
+              "ClaimText": "一切法不生",
+              "MasterName": null,
               "Curated": true,
               "ContextMasters": [
                 {
-                  "MasterName": "Yongming Yanshou",
+                  "MasterName": "Sixin Wuxin",
                   "Roles": [
-                    "utterer",
+                    "respondent",
                     "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School. Yongming Yanshou is the authorial speaker of the surrounding Tier-1 exposition; the immediately preceding cited material must not replace that authored-voice decision."
+              "ActorAttribution": {
+                "Status": "identified-non-master",
+                "Kind": "named lay magistrate and verse author",
+                "ActorLabel": "lay magistrate Duan, given name not supplied",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The immediate heading says magistrate Duan presented a verse to the teacher. The headword is in that presented verse; the following heading marks Sixin separate reply. The section and book identify Sixin as respondent and record owner, not the first verse author. Other full-couplet parallels are a distinct family.",
+                "ReviewedBy": "Codex source-first public corpus-admission repair",
+                "ReviewedUtc": "2026-10-31T06:07:04.196386Z"
+              },
+              "AttributionNote": "Source record (X/X69/X69n1344.xml). Recorded Sayings of Chan Master Sixin Wuxin (Huanglong Four Houses Record, No. 3). In the Recorded Sayings of Chan Master Sixin Wuxin, a lay magistrate identified only as Duan sends Sixin a verse that asks: if all phenomena are unborn, how could a mind die? Sixin answers in a separate verse that just because phenomena are unborn, the mind has long been dead, and asks the addressee to cut off even the finest trace. The headword is Duan's first clause in this direct question, while Sixin is the present respondent and record owner. This exchange uses the standalone clause to frame a paradox about mind; it is not the familiar two-clause saying about all phenomena neither arising nor ceasing."
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "X/X69/X69n1344.xml",
+              "FromLb": "0232b21",
+              "ToLb": "0233a06",
+              "Kwic": "亘今休更詰。任他百恠出頭來，寂然一照明如日。識此靈源瞌睡歌，混入塵中體堅密。快活歌快活歌心無心而物物明，物有心而心不堪。不堪心中污心田，心田皎皎沒人參。沒人參，東作南，青青妙色出於藍。見即便見見取好，不見莫怨老瞿曇。寄靈源寄靈源逆耳忠言世莫瞋，順流清峻却迷津。年來慵懶長緘口，不似當時愛罵人。禪人寫真求贊(二首)禪人寫真求贊齒缺面黑，廣南正賊。空腹高心，不識文墨。面黑不是番僧，齒缺亦非達磨。性急只愛罵人，看你自招口過。與空室道人與空室道人空空室室空不空，不空空處徹真空。混同塵世非塵世，只在塵中塵不同。師任雲巖日通判段公以頌呈師師任雲巖日，通判段公以頌呈師。一切法不生，如何有心死？乞巧不拈針，猶似較些子。師以偈答師以偈答只為法不生，是故心長死。徹底絕絲毫，即是真夫子。因先上人南還因先上人南還旅舘雲遊經幾霜，此心歸日愛南陽。無端却度庾峯嶺，入到曹溪是故鄉。和衡典座無一庵和衡典座無一庵一庵茆草結，萬象入吾庵。劫壞終無壞，松風演妙談。師臨順寂以偈寄師川大夫師臨順寂以偈寄師川大夫心心心，道道道。明斯旨，端坐到。到不到，多計較。非計較，合本道。禪人以出定僧相請師贊禪人以出定僧相請師贊七百年定，誑惑眾生。一念超越，天下橫行。和方侍者頌曹山雪中因緣和方侍者頌曹山雪中因緣滿山風雪色凝然，鳥道立玄沒二邊；鳳翅斂時全叶正，龍珠",
+              "MasterName": null,
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Sixin Wuxin",
+                  "Roles": [
+                    "respondent",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "ActorAttribution": {
+                "Status": "identified-non-master",
+                "Kind": "named lay magistrate and verse author",
+                "ActorLabel": "lay magistrate Duan, given name not supplied",
+                "ActorRole": "utterer",
+                "GrammarEvidence": "The immediate heading says magistrate Duan presented a verse to the teacher. The headword is in that presented verse; the following heading marks Sixin separate reply. The section and book identify Sixin as respondent and record owner, not the first verse author. Other full-couplet parallels are a distinct family.",
+                "ReviewedBy": "Codex source-first public corpus-admission repair",
+                "ReviewedUtc": "2026-10-31T06:07:04.196386Z"
+              },
+              "AttributionNote": "Source record (X/X69/X69n1344.xml). Recorded Sayings of Chan Master Sixin Wuxin (Huanglong Four Houses Record, No. 3). In the Recorded Sayings of Chan Master Sixin Wuxin, a lay magistrate identified only as Duan sends Sixin a verse that asks: if all phenomena are unborn, how could a mind die? Sixin answers in a separate verse that just because phenomena are unborn, the mind has long been dead, and asks the addressee to cut off even the finest trace. The headword is Duan's first clause in this direct question, while Sixin is the present respondent and record owner. This exchange uses the standalone clause to frame a paradox about mind; it is not the familiar two-clause saying about all phenomena neither arising nor ceasing.",
+              "ClaimText": "一切法不生"
+            }
+          ],
           "SourceTexts": [
-            "T/T48/T48n2016.xml"
+            "X/X69/X69n1344.xml"
           ],
           "RelatedMasters": [
-            "Yongming Yanshou"
+            "Sixin Wuxin"
           ],
           "RelatedTerms": [],
-          "Explanation": "The formula says that all dharmas are unborn or do not arise. Yongming Yanshou directly sets the formula inside an argument about arising and non-arising: “if all dharmas do not arise, the perfection of wisdom arises.” He immediately warns that treating non-arising as a fixed interpretation becomes another bondage."
+          "Explanation": "In a single admitted exchange, a lay magistrate uses the standalone clause about unborn phenomena to ask Sixin how the mind could die. In the Recorded Sayings of Chan Master Sixin Wuxin, a lay magistrate identified only as Duan sends Sixin a verse that asks: if all phenomena are unborn, how could a mind die? Sixin answers in a separate verse that just because phenomena are unborn, the mind has long been dead, and asks the addressee to cut off even the finest trace. The headword is Duan's first clause in this direct question, while Sixin is the present respondent and record owner. This exchange uses the standalone clause to frame a paradox about mind; it is not the familiar two-clause saying about all phenomena neither arising nor ceasing."
         }
       ]
     },
