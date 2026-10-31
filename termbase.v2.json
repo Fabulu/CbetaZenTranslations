@@ -121066,7 +121066,7 @@
           ],
           "Status": "preferred",
           "Validation": "multi-source",
-          "Note": "The Perfect Awakening Sutra supplies the inherited words. Feiyin applies them to opening a retreat, Wuzhun to releasing it, Jiean to building a wall, Hansong to summer discipline, and Jingting to seeing the matter immediately. Each supplies a separate current setting for the same pair; the quoted speaker remains Shakyamuni Buddha.",
+          "Note": "The primary scripture at T17n0842 0921a19–27 has the Buddha prescribe a vow with a placeholder speaker (某甲). Feiyin, Wuzhun, Hansong, and Jingting cite or revoice that formula without an individual original vow speaker. In the wall-building address, Jie’an says 山僧以... and takes the borrowed first-person wording as his own current utterance.",
           "Occurrences": [
             {
               "RelPath": "J/J26/J26nB178.xml",
@@ -121075,22 +121075,13 @@
               "Kwic": "」師云：「旭日發生鋪地錦。」進云：「某甲未夢見在。」師便打云：「嬰兒垂髮白如絲。」乃云：「廓然天地清如洗，散盡陰雲見古臺，物物頭頭全體露，衲僧正眼自應開。」下座。解制上堂，「豁開戶牖，當軒者誰？獨超萬象，歷落諸物。恁麼會得，則無制可結，亦無制可解，九十日前全體如是來，九十日中全體如是住，九十日後全體如是去，直得淨裸裸、赤灑灑、沒可把，稱提十分光彩，隨用千差截斷。且正當恁麼時，超方獨步一句作麼生道？出群須是英靈漢，敵勝還他獅子兒。」下座。久雨上堂，「淫雨不晴，大地黯黑，衲僧無處搏量，且學維摩一默，直待天官正驗來，遍界明明是者賊。咄！」便下座。結冬開爐請上堂，僧問：「自從鏟斷葛藤窠，曾向三爐親煆過，今日純剛為一塊，請師重振舊規模。」師云：「弄泥團漢。」問：「如何是結制本分事？」師云：「點過冷地坐。」僧云：「恁麼答話未在。」師云：「汝又作麼生？」僧擬開口，師便打，乃云：「黃檗今日結制，不依修證舊例，顯發莫大威光，免得諸人鈍置。所以道：以大圓覺為我伽藍，身心安居平等性智，放去則八面玲瓏，收來則四稜蹋地，若也不收不放，直下如紅爐火聚，將欲如何若何，早已喪身失命。還會麼？圓覺伽藍渾我體，虛空爐鞴自鎔中。」下座。上堂，西堂亙信問：「寶座纔登，百匝千圍，未出方丈，還有為人也無？」師云：「截斷汝舌頭。」進云：「恁麼則兩重公案。」師云：「斬釘又截鐵。」進云：「風行草偃一句，作麼生道？」師云：「闍黎自領去。」信喝一喝歸位，師乃云：「問話且置，直饒問如雲興、答似瓶瀉，於當人己躬事殊覺轉遠，所以言無展事，語不投機，承言者喪，滯句者迷。若要不承言、不滯句，秪要當人略迴光相著眼自看。且正當恁麼時，契證一句作麼生道？從來千聖不相識，造次凡流豈可明。」卓拄杖，下座。冬至上堂，僧問：「一句不涉陰陽，請師道。」師云：「石頭生煖氣。」進云：「謝師指示。」師云：「大地冷湫湫。」乃云：「今年此日是冬至，衲子須當明祖意，柏樹庭前翠又青，歷盡陰陽無變異。」以拂子畫十此相，下座。上堂，師驀豎拂子云：「三世諸佛總在者裏，歷代祖師亦在者裏，天下老和尚也在者裏，乃至四生九有十二髏生都在者裏。既都在者裏，則者裏喚作三世諸佛不得，喚作歷代祖師不得，喚作天下老和尚不得。既都喚他不得，則者裏堂皇闊略不是邊隅，籠罩聲色、迥絕見知，眼見則瞎、耳聽則",
               "MasterName": null,
               "ActorAttribution": {
-                "Status": "identified-non-master",
-                "Kind": "scriptural teaching speaker",
-                "ActorLabel": "Shakyamuni Buddha",
+                "Status": "impersonal",
+                "Kind": "prescribed first-person retreat vow",
+                "ActorLabel": "prescribed retreat-vow formula voiced in the practitioner's first person",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "X71n1420 explicitly introduces the exact pair with the Perfect Awakening Sutra title; X69n1359 calls it the Buddha?s own instruction. The current record applies that inherited wording.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "r10_author_a1",
-                "ReviewedUtc": "2026-10-29T00:00:00Z",
-                "AuthoredVoiceRiskReviewed": true
+                "GrammarEvidence": "In the primary Perfect Awakening Sutra (T/T17/T17n0842.xml 0921a19–27), the Buddha directs a retreat participant to speak before the Buddha: 至安居日即於佛前作如是言, followed by 我比丘、比丘尼、優婆塞、優婆夷某甲 and the headword inside that quoted model vow. 某甲 is a placeholder; no individual utterance is narrated. The present record quotes or applies this formula.",
+                "ReviewedBy": "Codex root source-first reader and actor audit",
+                "ReviewedUtc": "2026-10-31T01:23:42.516377+00:00"
               },
               "Curated": true,
               "ContextMasters": [
@@ -121102,7 +121093,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded sayings. Feiyin Tongrong applies the inherited Perfect Awakening Sutra pair to a present retreat or teaching scene."
+              "AttributionNote": "Recorded Sayings of Chan Master Feiyin: At the opening of the winter retreat, a monk asks Feiyin Tongrong about the proper business of establishing the rules. Feiyin first tells him to sit, then strikes him when he tries to reply. Addressing the assembly, Feiyin says his monastery will not follow an old routine of achievement and introduces the inherited vow with 'therefore it is said.' He then plays with releasing, gathering, and neither releasing nor gathering, pressing the monks to respond directly. The quoted 'my monastery' is the model retreat practitioner's first-person vow taught in the Perfect Awakening Sutra; the blow and the present challenge are Feiyin's."
             },
             {
               "RelPath": "X/X70/X70n1382.xml",
@@ -121111,22 +121102,13 @@
               "Kwic": "裏，得到清平有幾人？除夜，小參。舊歲今宵去，去去實不去；新年明日來，來來實不來。萬古長空無變異，循環日月空相催。山僧與麼告報，眾中或有不甘底出來道：大小育王話作兩橛。又作麼生祇遣？雖然如是，也須真箇始得。今時師僧往往語言相似、州縣不同，所以差之毫釐、失之千里。卓拄杖一下，云：誰識閻羅王是鬼？結夏，小參。若據正令提綱，直須寶幢路上荒草連天、玉几峯前荊榛滿地，猶未為分外，而況三百、五百聚頭接耳，浩浩商量也大屈哉？育王今夜事不獲已，略借古人方便一路，與諸人赴箇程限。良久，以大圓覺為我伽藍，身心安居，平等性智，非不非、是不是，虎咬大虫、蛇吞鱉鼻。雖然，要且不得動著，動著則打折你驢𦝫。除夜，小參。無入作處，可煞見成；恰相當時，全沒巴鼻。鷲嶺妄傳迦葉，少林謾付神光，自餘列派分燈，未免󳯝相屈辱。只如今臘月三十日，一箇箇豈不知是歲除夜？更來這裏握節當𮌎，側聽箇什麼？山僧從而不識好惡，更向諸人面前分拏劈裂，也太無端。何故？彼此出家兒。解制，小參。以大圓覺為我伽藍，身心安居平等性智，所謂從四月十五日結也如是、至七月十五日解也如是、威音王已前亦如是、彌勒佛下生亦如是，萬年一念、一念萬年，無古、無今，不變、不異，便恁麼去，正坐在靈山窠臼中出頭不得。有般漢便道：衲僧家有甚固必？要行便行、要坐便坐，鉢盂裏屙屎、淨缾中吐唾，毀於佛、謗於法，不入眾數，熏修十不善因、成就五無間業。若恁麼去，又却墮在今時窠臼中，未有超脫一路。直饒恁麼、不恁麼，一時坐斷，別有生涯，點撿將來亦未可在。何故？又却墮在自己窠臼中轉身不得。如今要出靈山窠臼則易，要出今時窠臼則難；要出今時窠臼則易，要出自己窠臼則難。既然如是，且作麼生出得？拈拄杖，卓一下，云：靈山窠臼．今時窠臼．自己窠臼一擊粉碎了也。到這裏合作麼生？顧視左右，云：夜來何處火？燒出古人墳。結夏，小參。曹谿路上，無端浪起成堆；玉几峯前，誰信地平如掌？往復無間，動靜一源，伸出手觸著達磨大師眼睛，舉起步踏斷釋迦老子鼻孔，了無回避，逈絕安排，更說甚麼長期短期？只貴自家心肯意肯。既然如是，只如九十日中畢竟作麼生履踐？拄杖生根休用剪，鉢盂無柄不勞安。解夏，小參。機不離位，沉乎醉鄉；語不離窠，滯在金網。竪起拄杖，云：看，看！賓頭盧尊者現在山僧拄杖頭上，為諸人作自恣佛事，廣說一夏九十日內所得所證",
               "MasterName": null,
               "ActorAttribution": {
-                "Status": "identified-non-master",
-                "Kind": "scriptural teaching speaker",
-                "ActorLabel": "Shakyamuni Buddha",
+                "Status": "impersonal",
+                "Kind": "prescribed first-person retreat vow",
+                "ActorLabel": "prescribed retreat-vow formula voiced in the practitioner's first person",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "X71n1420 explicitly introduces the exact pair with the Perfect Awakening Sutra title; X69n1359 calls it the Buddha?s own instruction. The current record applies that inherited wording.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "r10_author_a1",
-                "ReviewedUtc": "2026-10-29T00:00:00Z",
-                "AuthoredVoiceRiskReviewed": true
+                "GrammarEvidence": "In the primary Perfect Awakening Sutra (T/T17/T17n0842.xml 0921a19–27), the Buddha directs a retreat participant to speak before the Buddha: 至安居日即於佛前作如是言, followed by 我比丘、比丘尼、優婆塞、優婆夷某甲 and the headword inside that quoted model vow. 某甲 is a placeholder; no individual utterance is narrated. The present record quotes or applies this formula.",
+                "ReviewedBy": "Codex root source-first reader and actor audit",
+                "ReviewedUtc": "2026-10-31T01:23:42.516377+00:00"
               },
               "Curated": true,
               "ContextMasters": [
@@ -121138,43 +121120,25 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X70/X70n1382.xml). Recorded sayings. Wuzhun Shifan applies the inherited Perfect Awakening Sutra pair to a present retreat or teaching scene."
+              "AttributionNote": "Recorded Sayings of Chan Master Wuzhun Shifan: In a short talk at the opening of the summer retreat, Wuzhun first invokes the inherited vow after saying he must borrow an old expedient for the gathered monks. The same selected passage also includes his short talk when the retreat ends. There he quotes the vow again and says that beginning, ending, and the time before either are alike. He then warns that even resting in the old sacred precedent, current freedom from rules, or one's own ability to cut through both becomes another rut. Wuzhun strikes the ground with his staff to break all three. The first-person words are the scripture's prescribed retreat vow; these tests and the staff action are Wuzhun's."
             },
             {
               "RelPath": "J/J29/J29nB233.xml",
               "FromLb": "0337a11",
               "ToLb": "0337b22",
               "Kwic": "苦，不妨拈出應個時節。」遂以如意打圓相，云：「大眾見麼？三世諸佛在此燈光裏轉大法輪，歷代祖師在此燈光裏聯輝續燄，天下老和尚在此燈光裏建立門戶。且道金明在此燈光裏又作麼生施設？試道看。」良久，遂起身，云：「大眾謝茶。」便歸方丈。示眾。舉：「楊岐會和尚示眾：『楊岐乍住屋壁疏，滿床盡撒雪珍珠，縮卻項，暗嗟吁，翻憶古人樹下居。』山僧亦有一偈舉似大眾：十載金明敗屋居，從教風雨懶嗟吁，高枕臥，勝山廬，等閒唱個樂餘餘。」祖師進堂，示眾。「九年面壁，水出高原；隻履西歸，苗從地起。且道祖師到金明作麼生？」師顧左右，云：「攜瓶拽杖著。」病中示眾。「病乃眾生之良藥，所以佛病眾生病，眾生病佛病。咄！喚什麼作病？若會得此病根源，不獨覓他起處不得，亦非攢簇不得底，說甚三百六十骨節、八萬四千毛竅，通身是？遍身是？直得絕後再甦，出一身白汗始得自在，方可津濟四生、梯航九有，所以入眾生身即為眾生之良藥，豈不快哉？且道還有不病者麼？嗄！德山道底。」築牆，開示。「山僧以大圓覺為我伽藍，身心安居平等性智，所以主賓互用、與奪臨時，不葺牆塹而自固、不立知事而普堅，縱有賊來窺伺無門，要且覓其賊影了不可得。設若迷雲障天、慧日不露，便見牆塹不牢、道根不固，未免引賊入宅以劫家寶。大眾！還知麼？即汝六根門頭放光動地底是汝等主宰，一點瞞他不得，為牆、為塹、扶佐法門，為甚不知？汝既不知，賊得其便，即此不知底則被意賊劫汝珍寶了也，乃至色、聲、香、味、觸又被眼、耳、鼻、舌、身等賊劫汝珍寶了也，豈特身外賊而已哉？即今汝等主宰在什麼處？苟得落處，無論身內、身外，纔見賊影便好一刀兩段。何故？當斷、不斷，反遭其亂。雖然，汝等還見賊麼？」拍膝一下，云：「或有人出來云：『和尚與麼道，也是賊過後張弓。』即向他道：『我亦識得你。』」端陽，示眾。「今朝五月五，划龍船打鼓，道人真個貧，懶向諸方賭。獨存窮相手，拈起越今古，收拾百草頭，那管甜及苦？燒取一鍋湯，弗論凡與祖，澡浴病根除，黃金賤如土。阿呵呵！數莫數，臨崖看滸眼，夫子不生魯。」示眾。舉：「南明和尚住徑山時，雪庭大師呈偈曰：『從來無物可同儕，自向山中自活埋，五十年來踐履事，娘生一隻臭皮鞋。』明答偈云：『既云無物可同儕，誰向山中誰受埋？五十年前娘未養，喚他甚麼作皮鞋？』」師云：「山僧亦有一偈舉似大眾。」遂拍膝云：",
-              "MasterName": null,
-              "ActorAttribution": {
-                "Status": "identified-non-master",
-                "Kind": "scriptural teaching speaker",
-                "ActorLabel": "Shakyamuni Buddha",
-                "ActorRole": "utterer",
-                "GrammarEvidence": "X71n1420 explicitly introduces the exact pair with the Perfect Awakening Sutra title; X69n1359 calls it the Buddha?s own instruction. The current record applies that inherited wording.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "r10_author_a1",
-                "ReviewedUtc": "2026-10-29T00:00:00Z",
-                "AuthoredVoiceRiskReviewed": true
-              },
+              "MasterName": "Jie'an Jin",
               "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Jie'an Jin",
                   "Roles": [
-                    "commentator",
+                    "utterer",
                     "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J29/J29nB233.xml). Recorded sayings. Jie'an Jin applies the inherited Perfect Awakening Sutra pair to a present retreat or teaching scene."
+              "AttributionNote": "Recorded Sayings of Chan Master Jie’an Jin: During an instruction given while building a wall, Jie’an Jin quotes the prescribed retreat vow and says that if this is understood, guest and host can function without relying on a defensive wall or an office holder. He immediately turns the wall into an image of vulnerability: when insight is obscured, the six sense gates let thieves carry away one's treasure. Jie’an asks the assembly where its real master is, slaps his knee, and answers a possible objection. The first-person words are the scriptural model vow, not Jie’an's invention; the wall, thieves, and knee-slap are his teaching for this occasion."
             },
             {
               "RelPath": "J/J37/J37nB392.xml",
@@ -121183,22 +121147,13 @@
               "Kwic": "宗，說甚高揖釋迦、不拜彌勒？便乃披師衣、就師座，懸寶鏡於夜明簾外，秉師拂、行師令，撒珍珠於紫羅帳中，當面拈出，纖毫不涉，覿體相呈，玅協兼帶。正恁麼時如何委悉？」良久云：「但能不觸當今諱，也勝前朝斷舌才。」問：「熊耳峰前事，千古無人見，幸師登法筵，禮請通一線。」師振威一喝。進云：「慈雲普覆三千界，情與無情俱沾恩。」師云：「月照樓頭人夢杳，雲橫谷口鳥迷巢。」進云：「群狐膽喪從今日，大闡宗風在此時。」師云：「逢人但恁麼舉。」進云：「謝師荅話。」師云：「須識鉤頭意，莫認定盤星。」結夏，秉拂。問：「朱明已屆，聖制當遵，天目四關，願垂指示。」師云：「一人傳虛，萬人傳實。」「如何是大海無魚？」師云：「春到禹門無宿客。」「如何是大地無草？」師云：「年來邊塞少鶯花。」「如何是大富無糧？」師云：「美食難中飽人餐。」「如何是大悟無道？」師云：「位居九五不知尊。」進云：「等閒拋出金剛圈，到底難吞栗棘蓬。」師云：「怪得阿誰？」乃云：「朱明已屆，聖制當遵，以大圓覺為我伽藍，身心安居平等性智，飽以金牛飯、飲以趙老茶，栗棘蓬朝朝與汝唼噉、金剛圈時時與汝提撕，直下薦得，任他雲門關、天目關、趙州關、黃龍關，重重關鎖一踏全開，始信大海無魚、大悟無道。若更猶豫，必須朝參、暮參、行參、坐參，絕後重甦，方識禹門無宿客、九五不知尊，然猶未是極則事。且如何是極則事？缽囊高挂禪床角，待到秋來再問津。」秉拂。豎拂子，云：「諸昆仲！會麼？只者箇耀古騰今，了無朕兆，毘嵐未撼之初而不增、劫火洞然之後而不燥，日月不能奪其光、聖賢無以窮其奧，展開則萬谷傳芳、收藏則纖毫俱掃，二聽莫聞其聲、五目安睹其貌？阿呵呵！離玄要，毘婆尸佛早留心，直至而今不得玅。」問：「現前消息即不問，洞山五位請敷揚。」師云：「洞山無此語，莫謗洞山好。」「如何是正中偏？」師云：「三更月色到窗前。」「如何是偏中正？」師云：「桃李芬芳笑古鏡。」「如何是正中來？」師云：「六月梅花帶雪開。」「如何是兼中至？」師云：「萍水相逢多意氣。」「如何是兼中到？」師云：「泥牛入海無消耗。」進云：「新豐一曲千年普，洞上宗風萬古輝。」師云：「轉功就位人皆見，句裏藏鋒幾箇知？」秉拂。「有句無句，荷葉團團團似鏡；如藤倚樹，菱角尖尖尖似錐。樹倒藤枯，風吹柳絮毛毬走；句歸何處？雨打梨花蛺蝶飛。到此果是楊修",
               "MasterName": null,
               "ActorAttribution": {
-                "Status": "identified-non-master",
-                "Kind": "scriptural teaching speaker",
-                "ActorLabel": "Shakyamuni Buddha",
+                "Status": "impersonal",
+                "Kind": "prescribed first-person retreat vow",
+                "ActorLabel": "prescribed retreat-vow formula voiced in the practitioner's first person",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "X71n1420 explicitly introduces the exact pair with the Perfect Awakening Sutra title; X69n1359 calls it the Buddha?s own instruction. The current record applies that inherited wording.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "r10_author_a1",
-                "ReviewedUtc": "2026-10-29T00:00:00Z",
-                "AuthoredVoiceRiskReviewed": true
+                "GrammarEvidence": "In the primary Perfect Awakening Sutra (T/T17/T17n0842.xml 0921a19–27), the Buddha directs a retreat participant to speak before the Buddha: 至安居日即於佛前作如是言, followed by 我比丘、比丘尼、優婆塞、優婆夷某甲 and the headword inside that quoted model vow. 某甲 is a placeholder; no individual utterance is narrated. The present record quotes or applies this formula.",
+                "ReviewedBy": "Codex root source-first reader and actor audit",
+                "ReviewedUtc": "2026-10-31T01:23:42.516377+00:00"
               },
               "Curated": true,
               "ContextMasters": [
@@ -121210,7 +121165,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J37/J37nB392.xml). Recorded sayings. Hansong Zhicao applies the inherited Perfect Awakening Sutra pair to a present retreat or teaching scene."
+              "AttributionNote": "Recorded Sayings of Chan Master Hansong Cao: At the opening of the summer retreat, a monk asks Hansong Zhicao to explain four difficult gates, and Hansong answers each in a clipped image. In the ensuing address, he quotes the inherited vow about making great awakening one's monastery and resting body and mind in equal wisdom. He then offers the assembly images of food from older Chan cases and says that direct recognition would open all the named gates; continued hesitation calls for practice while walking, sitting, morning, and evening. The vow is the scripture's prescribed speech for a retreat participant. Hansong supplies the replies, the challenge, and the closing question."
             },
             {
               "RelPath": "J/J40/J40nB475.xml",
@@ -121219,22 +121174,13 @@
               "Kwic": "雍熙之化。」次拈香曰：「此瓣香拋珍惜於義嶺，絕蹤跡於嶷山，第二回拈出，奉為現住嶷山傳曹洞正宗三十世握中符大和尚，用酬法乳之恩。」斂衣就座。西堂白椎竟，師曰：「瀟湘水合，逆流曹溪之源；楚粵山連，遠接鷲峰之勢。愚溪演新豐之調，澹巖懸寶鏡之光，無情上座亙古宣揚，可惜真機長年空過，必須時窮刻究，直下脫體承當。正恁麼時，作麼生是安禪結制一句？從前汗馬無人識，秪要重論蓋代功。」結椎下座。上堂。「雲門乾矢橛，洞山麻三觔，趙州狗子，佛性有無。父母未生前面目，眼光落地時向甚麼處去？」喝一喝，曰：「奼女已歸霄漢去，獃郎猶自火邊蹲。」住嶷山祝聖寺住嶷山祝聖寺康熙丁巳冬，握老人赴貴州請師，在南源受山主唐龍安、監院道融等請繼席，於十月十五日入院。上堂。問：「如何不是心？」師曰：「一莖眉毛重千觔。」曰：「如何不是佛？」師曰：「昨夜三更日頭出。」曰：「如何不是物？」師曰：「黑是紙兮白是墨。」曰：「三句已蒙師指示，向上全提事若何？」師曰：「截斷舌頭。」乃曰：「以大圓覺為我伽藍，身心安居平等性智。者裏會得，㓟虛空而砌八角金盤，鑽秤鎚而穿九曲明珠。俄爾心窮力盡，眨眼便見眉毛。」華嚴期滿散，上堂。豎拂子曰：「於斯會得，何必福城東際始見文殊，樓閣門開方參慈氏？禪即是教，如水成波；教即是禪，似波成水。非教無以明其禪，非禪無以宗其教。珠走盤而盤走珠，縱橫無礙；月映水而水映月，往復何殊？毛吞巨海，芥納須彌，後先一道，今古同揆。若未會，方山棗柏大士在諸人背後。」固山劉彥明陞遷，請上堂。「春回大地，山山花鳥爭奇；運轉中天，處處禎祥煥彩。竹尾掃禪心而飄揚聖智，柳線穿祖印而妙契真如，頭頭彰劫外徽猷，物物露個中消息，一任刀鎗林裏洞轉法輪，生死海中普揚三昧，自然君臣道合，理事渾融。」揮拂子，曰：「彫弓已挂狼煙息，萬里歌謳賀太平。」過拈花菴，請上堂。「世尊拈花，迦葉破顏，直至而今作正傳。」遂豎拂子，曰：「山僧拈起𨍏轢鑽，竹筋鞭死貓頭，鱉鼻蛇一大絡索，若有擔荷得去的，隨處作主，遇緣即宗，是非窩裏轉大法輪，十字街頭安禪打坐。雖然如是，且道廬陵米作麼價？」百愚和尚訃至，上堂。「洞上一株大樹，無端被一陣毘嵐風和根傾折。且道甚處是他安身立命處？」舉計音曰：「人間天上獨稱尊。」上堂。「簷前細雨，點點滴滴。祖師牢關，明明歷歷。設若不委，再通消息。」撫几一",
               "MasterName": null,
               "ActorAttribution": {
-                "Status": "identified-non-master",
-                "Kind": "scriptural teaching speaker",
-                "ActorLabel": "Shakyamuni Buddha",
+                "Status": "impersonal",
+                "Kind": "prescribed first-person retreat vow",
+                "ActorLabel": "prescribed retreat-vow formula voiced in the practitioner's first person",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "X71n1420 explicitly introduces the exact pair with the Perfect Awakening Sutra title; X69n1359 calls it the Buddha?s own instruction. The current record applies that inherited wording.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "r10_author_a1",
-                "ReviewedUtc": "2026-10-29T00:00:00Z",
-                "AuthoredVoiceRiskReviewed": true
+                "GrammarEvidence": "In the primary Perfect Awakening Sutra (T/T17/T17n0842.xml 0921a19–27), the Buddha directs a retreat participant to speak before the Buddha: 至安居日即於佛前作如是言, followed by 我比丘、比丘尼、優婆塞、優婆夷某甲 and the headword inside that quoted model vow. 某甲 is a placeholder; no individual utterance is narrated. The present record quotes or applies this formula.",
+                "ReviewedBy": "Codex root source-first reader and actor audit",
+                "ReviewedUtc": "2026-10-31T01:23:42.516377+00:00"
               },
               "Curated": true,
               "ContextMasters": [
@@ -121246,7 +121192,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J40/J40nB475.xml). Recorded sayings. Jingting Dezong applies the inherited Perfect Awakening Sutra pair to a present retreat or teaching scene."
+              "AttributionNote": "Recorded Sayings of Chan Master Jingtingsong: At the ceremony when Jingting Dezong takes a new abbot's seat, a monk asks how mind, Buddha, and things are to be denied, then presses for what lies beyond the three answers. Jingting replies with images and says he would cut off the questioner's tongue. In his following address he quotes the inherited retreat vow and says that understanding it here would make even impossible images such as piercing a weight intelligible; failing it leaves one exhausted only to see one's eyebrows before one's eyes. The first-person vow comes from the Perfect Awakening Sutra's model speech for an unspecified practitioner. The exchange and application are Jingting's."
             }
           ],
           "ClaimAnchors": [
@@ -121257,22 +121203,13 @@
               "Kwic": "」師云：「旭日發生鋪地錦。」進云：「某甲未夢見在。」師便打云：「嬰兒垂髮白如絲。」乃云：「廓然天地清如洗，散盡陰雲見古臺，物物頭頭全體露，衲僧正眼自應開。」下座。解制上堂，「豁開戶牖，當軒者誰？獨超萬象，歷落諸物。恁麼會得，則無制可結，亦無制可解，九十日前全體如是來，九十日中全體如是住，九十日後全體如是去，直得淨裸裸、赤灑灑、沒可把，稱提十分光彩，隨用千差截斷。且正當恁麼時，超方獨步一句作麼生道？出群須是英靈漢，敵勝還他獅子兒。」下座。久雨上堂，「淫雨不晴，大地黯黑，衲僧無處搏量，且學維摩一默，直待天官正驗來，遍界明明是者賊。咄！」便下座。結冬開爐請上堂，僧問：「自從鏟斷葛藤窠，曾向三爐親煆過，今日純剛為一塊，請師重振舊規模。」師云：「弄泥團漢。」問：「如何是結制本分事？」師云：「點過冷地坐。」僧云：「恁麼答話未在。」師云：「汝又作麼生？」僧擬開口，師便打，乃云：「黃檗今日結制，不依修證舊例，顯發莫大威光，免得諸人鈍置。所以道：以大圓覺為我伽藍，身心安居平等性智，放去則八面玲瓏，收來則四稜蹋地，若也不收不放，直下如紅爐火聚，將欲如何若何，早已喪身失命。還會麼？圓覺伽藍渾我體，虛空爐鞴自鎔中。」下座。上堂，西堂亙信問：「寶座纔登，百匝千圍，未出方丈，還有為人也無？」師云：「截斷汝舌頭。」進云：「恁麼則兩重公案。」師云：「斬釘又截鐵。」進云：「風行草偃一句，作麼生道？」師云：「闍黎自領去。」信喝一喝歸位，師乃云：「問話且置，直饒問如雲興、答似瓶瀉，於當人己躬事殊覺轉遠，所以言無展事，語不投機，承言者喪，滯句者迷。若要不承言、不滯句，秪要當人略迴光相著眼自看。且正當恁麼時，契證一句作麼生道？從來千聖不相識，造次凡流豈可明。」卓拄杖，下座。冬至上堂，僧問：「一句不涉陰陽，請師道。」師云：「石頭生煖氣。」進云：「謝師指示。」師云：「大地冷湫湫。」乃云：「今年此日是冬至，衲子須當明祖意，柏樹庭前翠又青，歷盡陰陽無變異。」以拂子畫十此相，下座。上堂，師驀豎拂子云：「三世諸佛總在者裏，歷代祖師亦在者裏，天下老和尚也在者裏，乃至四生九有十二髏生都在者裏。既都在者裏，則者裏喚作三世諸佛不得，喚作歷代祖師不得，喚作天下老和尚不得。既都喚他不得，則者裏堂皇闊略不是邊隅，籠罩聲色、迥絕見知，眼見則瞎、耳聽則",
               "MasterName": null,
               "ActorAttribution": {
-                "Status": "identified-non-master",
-                "Kind": "scriptural teaching speaker",
-                "ActorLabel": "Shakyamuni Buddha",
+                "Status": "impersonal",
+                "Kind": "prescribed first-person retreat vow",
+                "ActorLabel": "prescribed retreat-vow formula voiced in the practitioner's first person",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "X71n1420 explicitly introduces the exact pair with the Perfect Awakening Sutra title; X69n1359 calls it the Buddha?s own instruction. The current record applies that inherited wording.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "r10_author_a1",
-                "ReviewedUtc": "2026-10-29T00:00:00Z",
-                "AuthoredVoiceRiskReviewed": true
+                "GrammarEvidence": "In the primary Perfect Awakening Sutra (T/T17/T17n0842.xml 0921a19–27), the Buddha directs a retreat participant to speak before the Buddha: 至安居日即於佛前作如是言, followed by 我比丘、比丘尼、優婆塞、優婆夷某甲 and the headword inside that quoted model vow. 某甲 is a placeholder; no individual utterance is narrated. The present record quotes or applies this formula.",
+                "ReviewedBy": "Codex root source-first reader and actor audit",
+                "ReviewedUtc": "2026-10-31T01:23:42.516377+00:00"
               },
               "Curated": true,
               "ContextMasters": [
@@ -121284,7 +121221,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded sayings. Feiyin Tongrong applies the inherited Perfect Awakening Sutra pair to a present retreat or teaching scene.",
+              "AttributionNote": "Recorded Sayings of Chan Master Feiyin: At the opening of the winter retreat, a monk asks Feiyin Tongrong about the proper business of establishing the rules. Feiyin first tells him to sit, then strikes him when he tries to reply. Addressing the assembly, Feiyin says his monastery will not follow an old routine of achievement and introduces the inherited vow with 'therefore it is said.' He then plays with releasing, gathering, and neither releasing nor gathering, pressing the monks to respond directly. The quoted 'my monastery' is the model retreat practitioner's first-person vow taught in the Perfect Awakening Sutra; the blow and the present challenge are Feiyin's.",
               "ClaimText": "以大圓覺為我伽藍，身心安居平等性智"
             },
             {
@@ -121294,22 +121231,13 @@
               "Kwic": "裏，得到清平有幾人？除夜，小參。舊歲今宵去，去去實不去；新年明日來，來來實不來。萬古長空無變異，循環日月空相催。山僧與麼告報，眾中或有不甘底出來道：大小育王話作兩橛。又作麼生祇遣？雖然如是，也須真箇始得。今時師僧往往語言相似、州縣不同，所以差之毫釐、失之千里。卓拄杖一下，云：誰識閻羅王是鬼？結夏，小參。若據正令提綱，直須寶幢路上荒草連天、玉几峯前荊榛滿地，猶未為分外，而況三百、五百聚頭接耳，浩浩商量也大屈哉？育王今夜事不獲已，略借古人方便一路，與諸人赴箇程限。良久，以大圓覺為我伽藍，身心安居，平等性智，非不非、是不是，虎咬大虫、蛇吞鱉鼻。雖然，要且不得動著，動著則打折你驢𦝫。除夜，小參。無入作處，可煞見成；恰相當時，全沒巴鼻。鷲嶺妄傳迦葉，少林謾付神光，自餘列派分燈，未免󳯝相屈辱。只如今臘月三十日，一箇箇豈不知是歲除夜？更來這裏握節當𮌎，側聽箇什麼？山僧從而不識好惡，更向諸人面前分拏劈裂，也太無端。何故？彼此出家兒。解制，小參。以大圓覺為我伽藍，身心安居平等性智，所謂從四月十五日結也如是、至七月十五日解也如是、威音王已前亦如是、彌勒佛下生亦如是，萬年一念、一念萬年，無古、無今，不變、不異，便恁麼去，正坐在靈山窠臼中出頭不得。有般漢便道：衲僧家有甚固必？要行便行、要坐便坐，鉢盂裏屙屎、淨缾中吐唾，毀於佛、謗於法，不入眾數，熏修十不善因、成就五無間業。若恁麼去，又却墮在今時窠臼中，未有超脫一路。直饒恁麼、不恁麼，一時坐斷，別有生涯，點撿將來亦未可在。何故？又却墮在自己窠臼中轉身不得。如今要出靈山窠臼則易，要出今時窠臼則難；要出今時窠臼則易，要出自己窠臼則難。既然如是，且作麼生出得？拈拄杖，卓一下，云：靈山窠臼．今時窠臼．自己窠臼一擊粉碎了也。到這裏合作麼生？顧視左右，云：夜來何處火？燒出古人墳。結夏，小參。曹谿路上，無端浪起成堆；玉几峯前，誰信地平如掌？往復無間，動靜一源，伸出手觸著達磨大師眼睛，舉起步踏斷釋迦老子鼻孔，了無回避，逈絕安排，更說甚麼長期短期？只貴自家心肯意肯。既然如是，只如九十日中畢竟作麼生履踐？拄杖生根休用剪，鉢盂無柄不勞安。解夏，小參。機不離位，沉乎醉鄉；語不離窠，滯在金網。竪起拄杖，云：看，看！賓頭盧尊者現在山僧拄杖頭上，為諸人作自恣佛事，廣說一夏九十日內所得所證",
               "MasterName": null,
               "ActorAttribution": {
-                "Status": "identified-non-master",
-                "Kind": "scriptural teaching speaker",
-                "ActorLabel": "Shakyamuni Buddha",
+                "Status": "impersonal",
+                "Kind": "prescribed first-person retreat vow",
+                "ActorLabel": "prescribed retreat-vow formula voiced in the practitioner's first person",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "X71n1420 explicitly introduces the exact pair with the Perfect Awakening Sutra title; X69n1359 calls it the Buddha?s own instruction. The current record applies that inherited wording.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "r10_author_a1",
-                "ReviewedUtc": "2026-10-29T00:00:00Z",
-                "AuthoredVoiceRiskReviewed": true
+                "GrammarEvidence": "In the primary Perfect Awakening Sutra (T/T17/T17n0842.xml 0921a19–27), the Buddha directs a retreat participant to speak before the Buddha: 至安居日即於佛前作如是言, followed by 我比丘、比丘尼、優婆塞、優婆夷某甲 and the headword inside that quoted model vow. 某甲 is a placeholder; no individual utterance is narrated. The present record quotes or applies this formula.",
+                "ReviewedBy": "Codex root source-first reader and actor audit",
+                "ReviewedUtc": "2026-10-31T01:23:42.516377+00:00"
               },
               "Curated": true,
               "ContextMasters": [
@@ -121321,7 +121249,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (X/X70/X70n1382.xml). Recorded sayings. Wuzhun Shifan applies the inherited Perfect Awakening Sutra pair to a present retreat or teaching scene.",
+              "AttributionNote": "Recorded Sayings of Chan Master Wuzhun Shifan: In a short talk at the opening of the summer retreat, Wuzhun first invokes the inherited vow after saying he must borrow an old expedient for the gathered monks. The same selected passage also includes his short talk when the retreat ends. There he quotes the vow again and says that beginning, ending, and the time before either are alike. He then warns that even resting in the old sacred precedent, current freedom from rules, or one's own ability to cut through both becomes another rut. Wuzhun strikes the ground with his staff to break all three. The first-person words are the scripture's prescribed retreat vow; these tests and the staff action are Wuzhun's.",
               "ClaimText": "以大圓覺為我伽藍，身心安居平等性智"
             },
             {
@@ -121329,36 +121257,18 @@
               "FromLb": "0337a11",
               "ToLb": "0337b22",
               "Kwic": "苦，不妨拈出應個時節。」遂以如意打圓相，云：「大眾見麼？三世諸佛在此燈光裏轉大法輪，歷代祖師在此燈光裏聯輝續燄，天下老和尚在此燈光裏建立門戶。且道金明在此燈光裏又作麼生施設？試道看。」良久，遂起身，云：「大眾謝茶。」便歸方丈。示眾。舉：「楊岐會和尚示眾：『楊岐乍住屋壁疏，滿床盡撒雪珍珠，縮卻項，暗嗟吁，翻憶古人樹下居。』山僧亦有一偈舉似大眾：十載金明敗屋居，從教風雨懶嗟吁，高枕臥，勝山廬，等閒唱個樂餘餘。」祖師進堂，示眾。「九年面壁，水出高原；隻履西歸，苗從地起。且道祖師到金明作麼生？」師顧左右，云：「攜瓶拽杖著。」病中示眾。「病乃眾生之良藥，所以佛病眾生病，眾生病佛病。咄！喚什麼作病？若會得此病根源，不獨覓他起處不得，亦非攢簇不得底，說甚三百六十骨節、八萬四千毛竅，通身是？遍身是？直得絕後再甦，出一身白汗始得自在，方可津濟四生、梯航九有，所以入眾生身即為眾生之良藥，豈不快哉？且道還有不病者麼？嗄！德山道底。」築牆，開示。「山僧以大圓覺為我伽藍，身心安居平等性智，所以主賓互用、與奪臨時，不葺牆塹而自固、不立知事而普堅，縱有賊來窺伺無門，要且覓其賊影了不可得。設若迷雲障天、慧日不露，便見牆塹不牢、道根不固，未免引賊入宅以劫家寶。大眾！還知麼？即汝六根門頭放光動地底是汝等主宰，一點瞞他不得，為牆、為塹、扶佐法門，為甚不知？汝既不知，賊得其便，即此不知底則被意賊劫汝珍寶了也，乃至色、聲、香、味、觸又被眼、耳、鼻、舌、身等賊劫汝珍寶了也，豈特身外賊而已哉？即今汝等主宰在什麼處？苟得落處，無論身內、身外，纔見賊影便好一刀兩段。何故？當斷、不斷，反遭其亂。雖然，汝等還見賊麼？」拍膝一下，云：「或有人出來云：『和尚與麼道，也是賊過後張弓。』即向他道：『我亦識得你。』」端陽，示眾。「今朝五月五，划龍船打鼓，道人真個貧，懶向諸方賭。獨存窮相手，拈起越今古，收拾百草頭，那管甜及苦？燒取一鍋湯，弗論凡與祖，澡浴病根除，黃金賤如土。阿呵呵！數莫數，臨崖看滸眼，夫子不生魯。」示眾。舉：「南明和尚住徑山時，雪庭大師呈偈曰：『從來無物可同儕，自向山中自活埋，五十年來踐履事，娘生一隻臭皮鞋。』明答偈云：『既云無物可同儕，誰向山中誰受埋？五十年前娘未養，喚他甚麼作皮鞋？』」師云：「山僧亦有一偈舉似大眾。」遂拍膝云：",
-              "MasterName": null,
-              "ActorAttribution": {
-                "Status": "identified-non-master",
-                "Kind": "scriptural teaching speaker",
-                "ActorLabel": "Shakyamuni Buddha",
-                "ActorRole": "utterer",
-                "GrammarEvidence": "X71n1420 explicitly introduces the exact pair with the Perfect Awakening Sutra title; X69n1359 calls it the Buddha?s own instruction. The current record applies that inherited wording.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "r10_author_a1",
-                "ReviewedUtc": "2026-10-29T00:00:00Z",
-                "AuthoredVoiceRiskReviewed": true
-              },
+              "MasterName": "Jie'an Jin",
               "Curated": true,
               "ContextMasters": [
                 {
                   "MasterName": "Jie'an Jin",
                   "Roles": [
-                    "commentator",
+                    "utterer",
                     "record-owner"
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J29/J29nB233.xml). Recorded sayings. Jie'an Jin applies the inherited Perfect Awakening Sutra pair to a present retreat or teaching scene.",
+              "AttributionNote": "Recorded Sayings of Chan Master Jie’an Jin: During an instruction given while building a wall, Jie’an Jin quotes the prescribed retreat vow and says that if this is understood, guest and host can function without relying on a defensive wall or an office holder. He immediately turns the wall into an image of vulnerability: when insight is obscured, the six sense gates let thieves carry away one's treasure. Jie’an asks the assembly where its real master is, slaps his knee, and answers a possible objection. The first-person words are the scriptural model vow, not Jie’an's invention; the wall, thieves, and knee-slap are his teaching for this occasion.",
               "ClaimText": "以大圓覺為我伽藍，身心安居平等性智"
             },
             {
@@ -121368,22 +121278,13 @@
               "Kwic": "宗，說甚高揖釋迦、不拜彌勒？便乃披師衣、就師座，懸寶鏡於夜明簾外，秉師拂、行師令，撒珍珠於紫羅帳中，當面拈出，纖毫不涉，覿體相呈，玅協兼帶。正恁麼時如何委悉？」良久云：「但能不觸當今諱，也勝前朝斷舌才。」問：「熊耳峰前事，千古無人見，幸師登法筵，禮請通一線。」師振威一喝。進云：「慈雲普覆三千界，情與無情俱沾恩。」師云：「月照樓頭人夢杳，雲橫谷口鳥迷巢。」進云：「群狐膽喪從今日，大闡宗風在此時。」師云：「逢人但恁麼舉。」進云：「謝師荅話。」師云：「須識鉤頭意，莫認定盤星。」結夏，秉拂。問：「朱明已屆，聖制當遵，天目四關，願垂指示。」師云：「一人傳虛，萬人傳實。」「如何是大海無魚？」師云：「春到禹門無宿客。」「如何是大地無草？」師云：「年來邊塞少鶯花。」「如何是大富無糧？」師云：「美食難中飽人餐。」「如何是大悟無道？」師云：「位居九五不知尊。」進云：「等閒拋出金剛圈，到底難吞栗棘蓬。」師云：「怪得阿誰？」乃云：「朱明已屆，聖制當遵，以大圓覺為我伽藍，身心安居平等性智，飽以金牛飯、飲以趙老茶，栗棘蓬朝朝與汝唼噉、金剛圈時時與汝提撕，直下薦得，任他雲門關、天目關、趙州關、黃龍關，重重關鎖一踏全開，始信大海無魚、大悟無道。若更猶豫，必須朝參、暮參、行參、坐參，絕後重甦，方識禹門無宿客、九五不知尊，然猶未是極則事。且如何是極則事？缽囊高挂禪床角，待到秋來再問津。」秉拂。豎拂子，云：「諸昆仲！會麼？只者箇耀古騰今，了無朕兆，毘嵐未撼之初而不增、劫火洞然之後而不燥，日月不能奪其光、聖賢無以窮其奧，展開則萬谷傳芳、收藏則纖毫俱掃，二聽莫聞其聲、五目安睹其貌？阿呵呵！離玄要，毘婆尸佛早留心，直至而今不得玅。」問：「現前消息即不問，洞山五位請敷揚。」師云：「洞山無此語，莫謗洞山好。」「如何是正中偏？」師云：「三更月色到窗前。」「如何是偏中正？」師云：「桃李芬芳笑古鏡。」「如何是正中來？」師云：「六月梅花帶雪開。」「如何是兼中至？」師云：「萍水相逢多意氣。」「如何是兼中到？」師云：「泥牛入海無消耗。」進云：「新豐一曲千年普，洞上宗風萬古輝。」師云：「轉功就位人皆見，句裏藏鋒幾箇知？」秉拂。「有句無句，荷葉團團團似鏡；如藤倚樹，菱角尖尖尖似錐。樹倒藤枯，風吹柳絮毛毬走；句歸何處？雨打梨花蛺蝶飛。到此果是楊修",
               "MasterName": null,
               "ActorAttribution": {
-                "Status": "identified-non-master",
-                "Kind": "scriptural teaching speaker",
-                "ActorLabel": "Shakyamuni Buddha",
+                "Status": "impersonal",
+                "Kind": "prescribed first-person retreat vow",
+                "ActorLabel": "prescribed retreat-vow formula voiced in the practitioner's first person",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "X71n1420 explicitly introduces the exact pair with the Perfect Awakening Sutra title; X69n1359 calls it the Buddha?s own instruction. The current record applies that inherited wording.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "r10_author_a1",
-                "ReviewedUtc": "2026-10-29T00:00:00Z",
-                "AuthoredVoiceRiskReviewed": true
+                "GrammarEvidence": "In the primary Perfect Awakening Sutra (T/T17/T17n0842.xml 0921a19–27), the Buddha directs a retreat participant to speak before the Buddha: 至安居日即於佛前作如是言, followed by 我比丘、比丘尼、優婆塞、優婆夷某甲 and the headword inside that quoted model vow. 某甲 is a placeholder; no individual utterance is narrated. The present record quotes or applies this formula.",
+                "ReviewedBy": "Codex root source-first reader and actor audit",
+                "ReviewedUtc": "2026-10-31T01:23:42.516377+00:00"
               },
               "Curated": true,
               "ContextMasters": [
@@ -121395,7 +121296,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J37/J37nB392.xml). Recorded sayings. Hansong Zhicao applies the inherited Perfect Awakening Sutra pair to a present retreat or teaching scene.",
+              "AttributionNote": "Recorded Sayings of Chan Master Hansong Cao: At the opening of the summer retreat, a monk asks Hansong Zhicao to explain four difficult gates, and Hansong answers each in a clipped image. In the ensuing address, he quotes the inherited vow about making great awakening one's monastery and resting body and mind in equal wisdom. He then offers the assembly images of food from older Chan cases and says that direct recognition would open all the named gates; continued hesitation calls for practice while walking, sitting, morning, and evening. The vow is the scripture's prescribed speech for a retreat participant. Hansong supplies the replies, the challenge, and the closing question.",
               "ClaimText": "以大圓覺為我伽藍，身心安居平等性智"
             },
             {
@@ -121405,22 +121306,13 @@
               "Kwic": "雍熙之化。」次拈香曰：「此瓣香拋珍惜於義嶺，絕蹤跡於嶷山，第二回拈出，奉為現住嶷山傳曹洞正宗三十世握中符大和尚，用酬法乳之恩。」斂衣就座。西堂白椎竟，師曰：「瀟湘水合，逆流曹溪之源；楚粵山連，遠接鷲峰之勢。愚溪演新豐之調，澹巖懸寶鏡之光，無情上座亙古宣揚，可惜真機長年空過，必須時窮刻究，直下脫體承當。正恁麼時，作麼生是安禪結制一句？從前汗馬無人識，秪要重論蓋代功。」結椎下座。上堂。「雲門乾矢橛，洞山麻三觔，趙州狗子，佛性有無。父母未生前面目，眼光落地時向甚麼處去？」喝一喝，曰：「奼女已歸霄漢去，獃郎猶自火邊蹲。」住嶷山祝聖寺住嶷山祝聖寺康熙丁巳冬，握老人赴貴州請師，在南源受山主唐龍安、監院道融等請繼席，於十月十五日入院。上堂。問：「如何不是心？」師曰：「一莖眉毛重千觔。」曰：「如何不是佛？」師曰：「昨夜三更日頭出。」曰：「如何不是物？」師曰：「黑是紙兮白是墨。」曰：「三句已蒙師指示，向上全提事若何？」師曰：「截斷舌頭。」乃曰：「以大圓覺為我伽藍，身心安居平等性智。者裏會得，㓟虛空而砌八角金盤，鑽秤鎚而穿九曲明珠。俄爾心窮力盡，眨眼便見眉毛。」華嚴期滿散，上堂。豎拂子曰：「於斯會得，何必福城東際始見文殊，樓閣門開方參慈氏？禪即是教，如水成波；教即是禪，似波成水。非教無以明其禪，非禪無以宗其教。珠走盤而盤走珠，縱橫無礙；月映水而水映月，往復何殊？毛吞巨海，芥納須彌，後先一道，今古同揆。若未會，方山棗柏大士在諸人背後。」固山劉彥明陞遷，請上堂。「春回大地，山山花鳥爭奇；運轉中天，處處禎祥煥彩。竹尾掃禪心而飄揚聖智，柳線穿祖印而妙契真如，頭頭彰劫外徽猷，物物露個中消息，一任刀鎗林裏洞轉法輪，生死海中普揚三昧，自然君臣道合，理事渾融。」揮拂子，曰：「彫弓已挂狼煙息，萬里歌謳賀太平。」過拈花菴，請上堂。「世尊拈花，迦葉破顏，直至而今作正傳。」遂豎拂子，曰：「山僧拈起𨍏轢鑽，竹筋鞭死貓頭，鱉鼻蛇一大絡索，若有擔荷得去的，隨處作主，遇緣即宗，是非窩裏轉大法輪，十字街頭安禪打坐。雖然如是，且道廬陵米作麼價？」百愚和尚訃至，上堂。「洞上一株大樹，無端被一陣毘嵐風和根傾折。且道甚處是他安身立命處？」舉計音曰：「人間天上獨稱尊。」上堂。「簷前細雨，點點滴滴。祖師牢關，明明歷歷。設若不委，再通消息。」撫几一",
               "MasterName": null,
               "ActorAttribution": {
-                "Status": "identified-non-master",
-                "Kind": "scriptural teaching speaker",
-                "ActorLabel": "Shakyamuni Buddha",
+                "Status": "impersonal",
+                "Kind": "prescribed first-person retreat vow",
+                "ActorLabel": "prescribed retreat-vow formula voiced in the practitioner's first person",
                 "ActorRole": "utterer",
-                "GrammarEvidence": "X71n1420 explicitly introduces the exact pair with the Perfect Awakening Sutra title; X69n1359 calls it the Buddha?s own instruction. The current record applies that inherited wording.",
-                "RungsChecked": [
-                  "line",
-                  "expanded-context",
-                  "section-header",
-                  "book-title",
-                  "tei-header",
-                  "parallel-passage"
-                ],
-                "ReviewedBy": "r10_author_a1",
-                "ReviewedUtc": "2026-10-29T00:00:00Z",
-                "AuthoredVoiceRiskReviewed": true
+                "GrammarEvidence": "In the primary Perfect Awakening Sutra (T/T17/T17n0842.xml 0921a19–27), the Buddha directs a retreat participant to speak before the Buddha: 至安居日即於佛前作如是言, followed by 我比丘、比丘尼、優婆塞、優婆夷某甲 and the headword inside that quoted model vow. 某甲 is a placeholder; no individual utterance is narrated. The present record quotes or applies this formula.",
+                "ReviewedBy": "Codex root source-first reader and actor audit",
+                "ReviewedUtc": "2026-10-31T01:23:42.516377+00:00"
               },
               "Curated": true,
               "ContextMasters": [
@@ -121432,7 +121324,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J40/J40nB475.xml). Recorded sayings. Jingting Dezong applies the inherited Perfect Awakening Sutra pair to a present retreat or teaching scene.",
+              "AttributionNote": "Recorded Sayings of Chan Master Jingtingsong: At the ceremony when Jingting Dezong takes a new abbot's seat, a monk asks how mind, Buddha, and things are to be denied, then presses for what lies beyond the three answers. Jingting replies with images and says he would cut off the questioner's tongue. In his following address he quotes the inherited retreat vow and says that understanding it here would make even impossible images such as piercing a weight intelligible; failing it leaves one exhausted only to see one's eyebrows before one's eyes. The first-person vow comes from the Perfect Awakening Sutra's model speech for an unspecified practitioner. The exchange and application are Jingting's.",
               "ClaimText": "以大圓覺為我伽藍，身心安居平等性智"
             }
           ],
@@ -121451,7 +121343,7 @@
             "Jingting Dezong"
           ],
           "RelatedTerms": [],
-          "Explanation": "The monastery becomes great awakening, while body and mind settle in equal wisdom. Current masters use the pair when speaking about retreat, walls, discipline, and what can be recognized at once. The move does not abolish the physical monastery; it changes what counts as dwelling there."
+          "Explanation": "The Perfect Awakening Sutra gives these first-person words as a model vow for an unspecified person entering a retreat: the practitioner is to take great awakening as 'my monastery' and let body and mind dwell in equal wisdom. The Buddha instructs the practitioner to say the vow; the quoted 'I' is not the Buddha describing his own residence. Feiyin uses it to challenge a monk at a winter retreat, Wuzhun uses it at the start and end of a summer retreat, Jie’an adopts its first-person wording while teaching about a wall and the sense gates, Hansong uses it while testing four gates, and Jingting cites it after an installation exchange."
         }
       ]
     },
