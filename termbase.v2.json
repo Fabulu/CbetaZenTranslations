@@ -18961,7 +18961,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Chan teaching. Tianyin opens his own case verse with the exact line."
+              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu introduces Yunmen's old Mount Sumeru case and supplies his own verse on it. The verse begins that when no thought arises the whole is revealed, then asks the reader to judge fault or no fault and says that even five eyes struggle to see what Yunmen's Mount Sumeru reply presents. Tianyin voices the headword in his present verse; Yunmen is the earlier case's speaker, whose reply is being interpreted rather than repeated as this line."
             },
             {
               "RelPath": "J/J26/J26nB177.xml",
@@ -18979,7 +18979,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Chan teaching. Poshan voices the line in instruction addressed to a patron."
+              "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. In a short instruction to the lay patron Xiao Taiyu, Poshan Haiming compares study to climbing a very high mountain one step at a time. Once the summit is reached, he says, the view shows that the matter never left one's own heels. He then adds that if the patron understands this, no thought arises, the whole is revealed, and there is no place in the ten directions without Vairocana. The headword is Poshan's direct instruction to Xiao, not a quotation from another master."
             },
             {
               "RelPath": "J/J26/J26nB183.xml",
@@ -18997,7 +18997,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J26/J26nB183.xml). Recorded Chan teaching. Shiqi directly answers a monk with the old line and then strikes at a further distinction."
+              "AttributionNote": "Source record (J/J26/J26nB183.xml). Recorded Sayings of Chan Master Shiqi of Xuedou. An unnamed monk asks Shiqi Tongyun how to understand discriminating wisdom after saying that the nirvana mind is easier to grasp. Shiqi answers with the couplet that the whole appears when no thought arises but the six faculties obscure it as soon as they stir. The monk says he is concerned with neither side; Shiqi strikes him. The headword is Shiqi's answer to a live question, and the ensuing blow challenges the monk's attempt to dismiss both sides verbally."
             },
             {
               "RelPath": "J/J38/J38nB420.xml",
@@ -19015,7 +19015,7 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J38/J38nB420.xml). Recorded Chan teaching. Banshui reverses the old pair in his current memorial address and strikes his staff."
+              "AttributionNote": "Source record (J/J38/J38nB420.xml). Recorded Sayings of Chan Master Banshuiyuan of Sanfeng. At a hall address requested by layman Luo Yunhai to commend his deceased father, Banshui Fayuan says he will raise his staff for the rite and asks whether the assembly sees. He strikes the staff three times, then says that when the six faculties move clouds obscure the matter, whereas when no thought arises the whole appears. The headword is Banshui's own line after the staff action in a memorial setting; the memorial request explicitly concerns Luo's deceased father."
             },
             {
               "RelPath": "J/J40/J40nB472.xml",
@@ -19033,10 +19033,106 @@
                   ]
                 }
               ],
-              "AttributionNote": "Source record (J/J40/J40nB472.xml). Recorded Chan teaching. Dabo closes his own sermon with the line after warning against an artificial pose."
+              "AttributionNote": "Source record (J/J40/J40nB472.xml). Recorded Sayings of Chan Master Daboqian. In a hall address, Dabo Qian describes a clarity that is neither earlier than Shakyamuni nor later than Maitreya, and challenges a list of impressive Chan feats as inadequate if they are merely displayed. He compares genuine response to a bell that rings when struck and a mirror that reflects without interruption, then closes by saying the whole appears when no thought arises while the six faculties veil it when they move. Dabo voices this closing couplet; the earlier named masters and feats are examples in his address, not speakers of the line."
             }
           ],
-          "ClaimAnchors": [],
+          "ClaimAnchors": [
+            {
+              "RelPath": "J/J25/J25nB171.xml",
+              "FromLb": "0562a16",
+              "ToLb": "0562b08",
+              "Kwic": "。」云：「那邊事作麼生？」禪客提茶盞。泉云：「此猶是這邊事，那邊事作麼生？」二禪客無對。泉云：「莫道騎者不識好。」頌云：「榮榮春色草依依，老牧橫牛信意騎，堪笑迷途雲水客，異中有路不知歸。」舉巖頭於湖邊作渡子。一日，有婆抱一兒來云：「呈橈舞棹即不問，且道婆手中兒甚處得來？」頭便打。婆云：「婆生七子，六箇不遇知音，秖這一箇也不消得。」便拋向水中。頌云：「七子全拋向碧波，擬思量處更淆訛，時人逐眼清流上，秖見憐兒不見婆。」舉雲門須彌山。頌云：「一念不生全體現，有過無過君自看，直饒五眼也難窺，韶陽托出須彌掩。」舉僧問雲門：「如何是最初一句？」云：「七九六十三。」頌云：「雲門數以便，那用盤打筭？伶俐衲僧家，豈在機下薦？」舉雲門北斗裏藏身。頌云：「錐卓地全無，藏身北斗孤，天機從此轉，月出在冰壺。」舉僧問雲門：「如何是諸佛出身處？」門云：「東山水上行。」又僧問幻有和尚：「如何是諸佛出身處？」有云：「西河火裏坐。」頌云：「東山水上行，西河火裏坐，兩箇老古錐，當面休蹉過。不蹉過，水上東山行，火裏西河坐",
+              "MasterName": "Tianyin Yuanxiu",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Tianyin Yuanxiu",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu introduces Yunmen's old Mount Sumeru case and supplies his own verse on it. The verse begins that when no thought arises the whole is revealed, then asks the reader to judge fault or no fault and says that even five eyes struggle to see what Yunmen's Mount Sumeru reply presents. Tianyin voices the headword in his present verse; Yunmen is the earlier case's speaker, whose reply is being interpreted rather than repeated as this line.",
+              "ClaimText": "一念不生全體現"
+            },
+            {
+              "RelPath": "J/J26/J26nB177.xml",
+              "FromLb": "0044a05",
+              "ToLb": "0044b03",
+              "Kwic": "裏偷閑，以日繼夜、以月繼年，或學、或參，執此兩事，學不圓參，參不透不可以志退屈，畢竟此事為賢？為聖？非虛語也。教中所說句句實語，亦非狂誑虛謬之談，來哄世間眾生者，但二六時中四威儀裏看是阿誰主張，忽地裏覷破，一生參學事畢。示海玉李居士示海玉李居士為人在世，賢愚雖是一定之理，然賢者未必全賢，愚者未必全愚，在一念回光返省，頓然成佛無疑矣。示太宇蕭居士示太宇蕭居士學道如登萬仞山，一步是一步工夫，及至登極頂而小天下，始信不離腳跟下。若向此理會得，一念不生全體現，十方無處不毘盧。示亨我王居士示亨我王居士老僧不善書，忽得山人王居士苦索其書，只得書一絡索，曰：「猴愁摟搜頭，狗走抖擻口。」試參之。示東也侍者示東也侍者禪和子漫沉吟，行腳終須到碧岑，行到碧岑轉身處，左之右之無回互，遠望天涯星月孤，蒲團坐上嘴盧都，我此攜瓢化飯喫，人人道我不爭氣，喫飽齁鼾一覺眠，何愁佛祖開因緣？只此了然無一物，千聖出頭只咄咄，老僧不問若如何，與子一篇長露布。破山禪師語錄卷第十破山禪師語錄卷第十一當陽玉泉嗣法門人印正等編法語",
+              "MasterName": "Poshan Haiming",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Poshan Haiming",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. In a short instruction to the lay patron Xiao Taiyu, Poshan Haiming compares study to climbing a very high mountain one step at a time. Once the summit is reached, he says, the view shows that the matter never left one's own heels. He then adds that if the patron understands this, no thought arises, the whole is revealed, and there is no place in the ten directions without Vairocana. The headword is Poshan's direct instruction to Xiao, not a quotation from another master.",
+              "ClaimText": "一念不生全體現"
+            },
+            {
+              "RelPath": "J/J26/J26nB183.xml",
+              "FromLb": "0508c01",
+              "ToLb": "0508c24",
+              "Kwic": "第八嗣法門人行正等編錄機緣下僧石琴參，師云：「你是石琴，作麼彈？」僧云：「請和尚彈。」師便打。僧問：「九旬禁足，猶如劃地為牢，個中消息請師分付。」師云：「今日風頭太冷。」問：「某甲四大本空、五蘊非有，和尚向什麼處行棒？」師云：「還我鼻孔來。」僧擬議，師便打。僧問：「喚作棒，入地獄如箭，必定喚作什麼？」師打云：「喚作什麼？」問：「亡僧遷化，向甚處去了？」師云：「在你腳跟下。」僧問：「涅槃心易曉，差別智難明，請問和尚如何是差別智？」師云：「一念不生全體現，六根纔動被雲遮。」云：「二俱不涉。」師便打。僧問：「學人欲借一問，得麼？」師云：「山僧答汝了也。」僧無語，師便打。僧問：「一念未生時如何？」師云：「瞎。」云：「生後如何？」師云：「瞎瞎。」眾禮拜次，師云：「今日好大風。」維那云：「是。」師云：「看好殿裏佛，莫教吹去。」眾無語，師云：「總是泥塑木雕底，也不妨得。」維那轉身，眾隨散，師笑云：「只消一句。」僧禮拜，以坐具架肩，云：「適纔和尚問本分事，某甲坐具答和尚去也。」師云：「恁麼則不本分",
+              "MasterName": "Shiqi Tongyun",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Shiqi Tongyun",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J26/J26nB183.xml). Recorded Sayings of Chan Master Shiqi of Xuedou. An unnamed monk asks Shiqi Tongyun how to understand discriminating wisdom after saying that the nirvana mind is easier to grasp. Shiqi answers with the couplet that the whole appears when no thought arises but the six faculties obscure it as soon as they stir. The monk says he is concerned with neither side; Shiqi strikes him. The headword is Shiqi's answer to a live question, and the ensuing blow challenges the monk's attempt to dismiss both sides verbally.",
+              "ClaimText": "一念不生全體現"
+            },
+            {
+              "RelPath": "J/J38/J38nB420.xml",
+              "FromLb": "0553c26",
+              "ToLb": "0554a16",
+              "Kwic": "。」胤鵬楊公為父母開奠，請上堂。「爐煙久冷未堪嚴，剔起眉毛又復然，今日為拈香一瓣，全仁全孝裔綿綿。」陳居士請上堂。「昨夜瞿曇現瑞星，今朝座上偶傳心，眼親何似手親好？達者應知無二身。所謂釋迦見量不同，三峰用度各別。且道三峰越格手眼在甚麼處，敢爾自許？七十餘翁乍入場，休將者事抵門墻，就中若要深委悉，只貴閒忙自主張。」雲海羅公薦嚴，請上堂。「天得一以清，地得一以寧，惟有三峰無可得，直拈拄杖薦往生。大眾還見麼？」卓拄杖三下云：「六根纔動被雲遮，一念不生全體現。」佛誕，張居士請上堂。「一聲㘞地許誰知？七步周行自強馳，指天指地施巧玅，全收全放甸邪畿。」為羅孝廉封靈小參。「當年薦妣請陞堂，愧致于今兩鬢霜，覿面仰觀撾毒鼓，雲中鐵笛對誰揚？」住興雲禪院，光祐請上堂。「世尊睹星悟道，別峰撾鼓陞堂，明人不作暗事，都盧一棒誰當？有不顧危亡者，出來與興雲相見！」良久無出者，師云：「別峰自己承當去也。」作痛聲，下座。小參。「大眾入堂三日，個個吻嘴面壁，秪須頂門具眼，必要腳跟點地。三峰者裡無禪可參、無戒可持，即",
+              "MasterName": "Banshui Fayuan",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Banshui Fayuan",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J38/J38nB420.xml). Recorded Sayings of Chan Master Banshuiyuan of Sanfeng. At a hall address requested by layman Luo Yunhai to commend his deceased father, Banshui Fayuan says he will raise his staff for the rite and asks whether the assembly sees. He strikes the staff three times, then says that when the six faculties move clouds obscure the matter, whereas when no thought arises the whole appears. The headword is Banshui's own line after the staff action in a memorial setting; the memorial request explicitly concerns Luo's deceased father.",
+              "ClaimText": "一念不生全體現"
+            },
+            {
+              "RelPath": "J/J40/J40nB472.xml",
+              "FromLb": "0012a28",
+              "ToLb": "0012b16",
+              "Kwic": "天拄地，乞兒落節；橫遍十方，自作自當。於此領略得去，釋迦不前、彌勒不後，上無佛道可成、下無眾生可度，只得峭巍巍、明歷歷，水清今古、洞察釐微。到這時，說甚麼明頭來、暗頭來、四方八面來？不消一劄。直饒一喝分賓主、一鏃破三關、一箭落雙鵰的，向紅爐上飛甚麼雪？縱使拈一莖草作丈六金身、攝丈六金身為一莖草，促百千年為一日、攝一日為百千年，者夫子門前賣甚麼文章？若或諄諄淳淳、澄澄實實，如洪鐘在架，有扣即鳴；古鏡當臺，無時不照的，始有些子氣息。還會麼？一念不生全體現，六根纔動被雲遮。」上堂。問：「香煙繞座，瑞氣騰軒，擊鼓鳴鐘，合為何事？」師云：「大家齊喝無音曲。」進云：「昔日釋迦，今日和尚，是同？是別？」師云：「一齊坐斷。」進云：「馮居士領眾善設齋，得何利益？」師云：「崑崙頂上千年柏。」進云：「恁麼則人人獲益，個個沾恩。」師云：「沾個什麼恩？」進云：「耀古騰今去也。」師打，云：「清風相送。」乃云：「本源湛寂，個中無凡聖涅槃；至覺圓明，就裏絕菩提彼岸。清涼不立，何處更著文殊？碧落虛凝，道甚空王露影？",
+              "MasterName": "Dabo Qian",
+              "Curated": true,
+              "ContextMasters": [
+                {
+                  "MasterName": "Dabo Qian",
+                  "Roles": [
+                    "utterer",
+                    "record-owner"
+                  ]
+                }
+              ],
+              "AttributionNote": "Source record (J/J40/J40nB472.xml). Recorded Sayings of Chan Master Daboqian. In a hall address, Dabo Qian describes a clarity that is neither earlier than Shakyamuni nor later than Maitreya, and challenges a list of impressive Chan feats as inadequate if they are merely displayed. He compares genuine response to a bell that rings when struck and a mirror that reflects without interruption, then closes by saying the whole appears when no thought arises while the six faculties veil it when they move. Dabo voices this closing couplet; the earlier named masters and feats are examples in his address, not speakers of the line.",
+              "ClaimText": "一念不生全體現"
+            }
+          ],
           "SourceTexts": [
             "J/J25/J25nB171.xml",
             "J/J26/J26nB177.xml",
@@ -19052,7 +19148,7 @@
             "Dabo Qian"
           ],
           "RelatedTerms": [],
-          "Explanation": "A thought does not arise, and the whole is said to appear at once. Tianyin, Poshan, and Shiqi voice the line as a verse opening, a patron instruction, and a direct answer. Banshui and Dabo use it after gestures that test whether a listener sees what is present."
+          "Explanation": "When no thought arises the whole appears: five teachers use this line in verses, instructions and live replies that specify what the claim is meant to answer. Tianyin Yuanxiu introduces Yunmen's old Mount Sumeru case and supplies his own verse on it. The verse begins that when no thought arises the whole is revealed, then asks the reader to judge fault or no fault and says that even five eyes struggle to see what Yunmen's Mount Sumeru reply presents. Tianyin voices the headword in his present verse; Yunmen is the earlier case's speaker, whose reply is being interpreted rather than repeated as this line. In a short instruction to the lay patron Xiao Taiyu, Poshan Haiming compares study to climbing a very high mountain one step at a time. Once the summit is reached, he says, the view shows that the matter never left one's own heels. He then adds that if the patron understands this, no thought arises, the whole is revealed, and there is no place in the ten directions without Vairocana. The headword is Poshan's direct instruction to Xiao, not a quotation from another master. An unnamed monk asks Shiqi Tongyun how to understand discriminating wisdom after saying that the nirvana mind is easier to grasp. Shiqi answers with the couplet that the whole appears when no thought arises but the six faculties obscure it as soon as they stir. The monk says he is concerned with neither side; Shiqi strikes him. The headword is Shiqi's answer to a live question, and the ensuing blow challenges the monk's attempt to dismiss both sides verbally. At a hall address requested by layman Luo Yunhai to commend his deceased father, Banshui Fayuan says he will raise his staff for the rite and asks whether the assembly sees. He strikes the staff three times, then says that when the six faculties move clouds obscure the matter, whereas when no thought arises the whole appears. The headword is Banshui's own line after the staff action in a memorial setting; the memorial request explicitly concerns Luo's deceased father. In a hall address, Dabo Qian describes a clarity that is neither earlier than Shakyamuni nor later than Maitreya, and challenges a list of impressive Chan feats as inadequate if they are merely displayed. He compares genuine response to a bell that rings when struck and a mirror that reflects without interruption, then closes by saying the whole appears when no thought arises while the six faculties veil it when they move. Dabo voices this closing couplet; the earlier named masters and feats are examples in his address, not speakers of the line."
         }
       ]
     },
