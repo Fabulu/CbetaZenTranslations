@@ -48594,13 +48594,16 @@
   },
   {
     "SourceTerm": "掉棒打月",
-    "PreferredTarget": "drop the staff and strike at the moon",
-    "AlternateTargets": [],
+    "PreferredTarget": "swing a staff at the moon",
+    "AlternateTargets": [
+      "strike at the moon with a staff"
+    ],
     "SearchAliases": [
-      "drop the staff and strike at the moon"
+      "swing a staff at the moon",
+      "strike at the moon with a staff"
     ],
     "Status": "preferred",
-    "Note": "The staff and moon form one failed-action image; literal staffs and astronomical moon descriptions remain outside it.",
+    "Note": "A forceful yet misdirected attempt; 掉棒 is swinging or brandishing the staff in this image, not putting it down.",
     "CreatedBy": "Codex Iriya lane A131-150 full-case author",
     "WrittenUtc": "2026-07-18T17:35:02Z"
   },
