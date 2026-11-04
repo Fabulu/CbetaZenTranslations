@@ -100622,17 +100622,16 @@
   },
   {
     "SourceTerm": "非法",
-    "PreferredTarget": "invalid teaching or rule",
+    "PreferredTarget": "non-dharma",
     "AlternateTargets": [
-      "improper",
-      "illicit"
+      "not dharma"
     ],
     "SearchAliases": [
-      "invalid teaching or rule",
-      "improper"
+      "non-dharma",
+      "not dharma"
     ],
     "Status": "preferred",
-    "Note": "The expression marks something denied the standing of a valid teaching or permitted procedure. The retained cases negate validity, legality, or accepted teaching-status; they do not all denote moral wickedness.",
+    "Note": "A doctrinal negation of dharma or existent phenomena; its force depends on the surrounding paired formulas and teaching context.",
     "CreatedBy": "author_from_packet",
     "WrittenUtc": "2026-07-20T10:20:00Z"
   },
