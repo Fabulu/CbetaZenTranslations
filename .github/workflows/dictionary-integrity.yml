@@ -5,12 +5,16 @@ on:
     paths:
       - "termbase.v2.json"
       - "termbase.index.json"
+      - "termbase.search.json"
+      - ".github/workflows/dictionary-integrity.yml"
       - "termbase/**"
       - "scripts/audit-dictionary-integrity.py"
   pull_request:
     paths:
       - "termbase.v2.json"
       - "termbase.index.json"
+      - "termbase.search.json"
+      - ".github/workflows/dictionary-integrity.yml"
       - "termbase/**"
       - "scripts/audit-dictionary-integrity.py"
 
